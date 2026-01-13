@@ -1,0 +1,163 @@
+==============================================================================
+MANUAL TÉCNICO & ARQUITETURA - PLATAFORMA DIDÁTICA (v3.0.0 Modular)
+==============================================================================
+Data de Atualização: Janeiro/2026
+Status: Stable / Production
+Tecnologias: Vanilla JS (ES6+), Firebase, TailwindCSS, MathJax
+
+==============================================================================
+1. VISÃO GERAL DA ARQUITETURA
+==============================================================================
+O projeto segue uma arquitetura modular baseada em "Separação de Dados e Lógica".
+Não utilizamos bundlers (Webpack/Vite) intencionalmente para manter a edição 
+simples e direta via navegador ou editores leves.
+
+A aplicação funciona como uma SPA (Single Page Application) controlada pelo `app.js`.
+
+DIRETÓRIOS:
+/Plataforma_didatica
+│
+├───index.html           # O "Esqueleto". Carrega dependências na ordem estrita.
+├───_construtor.txt      # Este arquivo (Documentação).
+├───.gitignore           # Arquivos ignorados pelo Git.
+│
+├───css/                 # ESTILIZAÇÃO
+│   └── style.css        # Animações customizadas, overrides do Tailwind e Scrollbars.
+│
+├───js/                  # CORE (Lógica do Sistema)
+│   ├── config.js        # Definições estáticas (Cores, Ícones, Chaves API).
+│   ├── registry.js      # Gerenciador de Estado Global (window.PLATAFORMA_*).
+│   ├── auth.js          # Camada de Autenticação (Firebase Auth + Firestore).
+│   ├── audio.js         # Gerenciador de SFX e Música de Fundo.
+│   ├── views.js         # Motor de Renderização (Templates HTML Literais).
+│   └── app.js           # Controlador Principal (Router, Events, Game Loop).
+│
+├───curriculum/          # DADOS: MENU E HIERARQUIA
+│   ├── mat_curriculum.js
+│   ├── cn_curriculum.js
+│   └── superior_curriculum.js (Lógica aninhada para Faculdades)
+│
+├───content/             # DADOS: AULAS TEÓRICAS (HTML Puro)
+│   ├── mat_content.js
+│   └── ...
+│
+└───arena/               # DADOS: BANCO DE QUESTÕES (JSON Objects)
+    ├── mat_arena.js
+    └── ...
+
+==============================================================================
+2. ORDEM DE CARREGAMENTO (CRÍTICO)
+==============================================================================
+O `index.html` atua como um orquestrador. A ordem de importação dos scripts 
+não pode ser alterada, pois existem dependências diretas (ex: `app.js` precisa 
+de `views.js`, que precisa de `registry.js`).
+
+SEQUÊNCIA DE BOOT:
+1.  Libs Externas (Tailwind, FontAwesome, MathJax, Firebase SDK).
+2.  `css/style.css`.
+3.  `js/config.js`   -> Inicia configurações visuais e chaves.
+4.  `js/registry.js` -> Cria os objetos globais vazios para receber dados.
+5.  `js/audio.js`    -> Carrega assets de som.
+6.  `js/auth.js`     -> Prepara listeners do Firebase.
+7.  `js/views.js`    -> Carrega funções de construção de HTML.
+8.  `curriculum/*.js`-> Injeta dados nos objetos do registry.
+9.  `content/*.js`   -> Injeta HTML nos objetos do registry.
+10. `arena/*.js`     -> Injeta Questões nos objetos do registry.
+11. `js/app.js`      -> INICIA A APLICAÇÃO (app.init()).
+
+==============================================================================
+3. HIERARQUIA DE NAVEGAÇÃO E FLUXO
+==============================================================================
+O sistema suporta dois modos de navegação distintos que coexistem.
+
+
+
+TIPO A: ESCOLAR (Ensino Fundamental e Médio)
+Utilizado para matérias padrão como Matemática, História, etc.
+------------------------------------------------------------
+Nível 1 (Home): Seleção da Matéria (ex: Matemática)
+Nível 2 (Menu): Seleção do Ano/Série (ex: 6º Ano, 7º Ano)
+Nível 3 (Mapa): Seleção da Unidade/Tópico (ex: Frações)
+Nível 4 (Aula): Tela de Estudo (Teoria + Arena)
+
+
+
+TIPO B: UNIVERSITÁRIO (Categoria "Universidade")
+Utilizado para cursos superiores. Adiciona uma camada extra.
+------------------------------------------------------------
+Nível 1 (Home): Seleção da Área (ex: Ensino Superior)
+Nível 2 (Curso): Seleção do Curso (ex: Eng. Civil, Ciência da Computação)
+Nível 3 (Disc.): Seleção da Disciplina (ex: Cálculo I, Algoritmos)
+Nível 4 (Mapa): Seleção da Unidade
+Nível 5 (Aula): Tela de Estudo
+
+==============================================================================
+4. GUIA DE IMPLEMENTAÇÃO DE CONTEÚDO
+==============================================================================
+
+PASSO 1: REGISTRAR MATÉRIA (js/config.js)
+-----------------------------------------
+No objeto `SUBJECT_CONFIG`, adicione a entrada da matéria.
+Se for universitário, a `category` deve ser "Universidade".
+
+PASSO 2: CRIAR O MENU (curriculum/prefixo_curriculum.js)
+-------------------------------------------------------
+Use `window.registrarCurriculo(chave, objeto)`.
+
+Exemplo Escolar:
+window.registrarCurriculo("Matemática", {
+    "6º Ano": {
+        "Álgebra Básica": ["O que são variáveis", "Equações"],
+        "Geometria": ["Ângulos", "Triângulos"]
+    }
+});
+
+Exemplo Universitário (Note o aninhamento extra):
+window.registrarCurriculo("Ensino Superior", {
+    "Ciência da Computação": {              // Nome do Curso
+        "Algoritmos": {                     // Nome da Disciplina
+            "Lógica de Programação": ["Variáveis", "Condicionais"]
+        }
+    }
+});
+
+PASSO 3: CRIAR A TEORIA (content/prefixo_content.js)
+----------------------------------------------------
+Use `window.registrarTeoria(objeto)`. A chave deve ser EXATAMENTE o nome da lição.
+
+window.registrarTeoria({
+    "O que são variáveis": `
+        <h2>Introdução</h2>
+        <p>Variáveis são caixinhas na memória...</p>
+        <div class="math-block">$$ x + 2 = 10 $$</div>
+    `
+});
+
+PASSO 4: CRIAR QUESTÕES (arena/prefixo_arena.js)
+------------------------------------------------
+Use `window.registrarQuestoes(array)`.
+Importante: O campo `ano` serve para filtrar. No caso universitário,
+o `ano` deve ser o nome da Disciplina.
+
+window.registrarQuestoes([
+    {
+        ano: "Algoritmos",           // Ou "6º Ano"
+        tema: "Ciência da Computação", // Ou "Matemática"
+        pergunta: "Qual o valor de X?",
+        opcoes: ["10", "20", "30", "40"],
+        correta: 1 // Índice da array (B)
+    }
+]);
+
+==============================================================================
+5. PADRÕES DE CODIFICAÇÃO
+==============================================================================
+- Variáveis Globais: Sempre prefixadas (ex: PLATAFORMA_CURRICULO).
+- CSS: Use classes utilitárias do Tailwind. Apenas crie classes no style.css
+  para componentes complexos (ex: .glass-panel, .animate-pop).
+- LaTeX: Use `$$` para blocos e `$` para inline (MathJax configurado).
+- Ícones: Use FontAwesome 6 (ex: <i class="fas fa-book"></i>).
+
+==============================================================================
+FIM DO DOCUMENTO
+==============================================================================

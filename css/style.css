@@ -1,0 +1,222 @@
+/* ====================================================================
+STYLE.CSS - MATHLINGO CORE
+====================================================================
+Design System: Glassmorphism + Tailwind Integration
+*/
+
+/* 1. RESET E BASE (COM GRADIENTES)
+----------------------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Nunito', sans-serif;
+    /* Gradiente Base: Essencial para o efeito de vidro funcionar */
+    background: linear-gradient(135deg, #f0f4f8 0%, #d9e2ec 100%);
+    color: #4b4b4b;
+    -webkit-tap-highlight-color: transparent;
+    overflow-x: hidden;
+    min-height: 100vh;
+    transition: background 0.5s ease;
+}
+
+/* Gradiente Dark Mode: Estilo "Midnight" */
+.dark body {
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    color: #E5E7EB;
+}
+
+/* 2. SISTEMA DE VIDRO (GLASSMORPHISM 2.0)
+----------------------------------------------------------------- */
+
+/* Painel Mestre (Cards grandes, fundos de seção) */
+.glass-panel {
+    background: rgba(255, 255, 255, 0.65);
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.05);
+    transition: all 0.3s ease;
+}
+
+.dark .glass-panel {
+    background: rgba(30, 41, 59, 0.6); /* Slate azulado */
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.25);
+}
+
+/* Elementos Filhos (Botões, Inputs, Cards menores) */
+.glass-child {
+    background: rgba(255, 255, 255, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(4px); 
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.dark .glass-child {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Hover Effect nos filhos */
+.glass-child:hover {
+    background: rgba(255, 255, 255, 0.75);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dark .glass-child:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+/* 3. UTILITÁRIOS DE INTERFACE
+----------------------------------------------------------------- */
+
+/* Esconde scrollbar (Listas horizontais limpas) */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Máscara de gradiente para listas longas (fade lateral) */
+.mask-gradient {
+    mask-image: linear-gradient(to right, black 90%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, black 90%, transparent 100%);
+}
+
+/* Botão "Game Feel" (Afunda ao clicar) */
+.btn-game {
+    transition: transform 0.1s, box-shadow 0.1s;
+    border-bottom-width: 4px;
+}
+.btn-game:active {
+    transform: translateY(4px);
+    border-bottom-width: 0px;
+    box-shadow: none !important;
+    margin-bottom: 4px; /* Evita pulo de layout */
+}
+
+/* 4. TIPOGRAFIA DE CONTEÚDO (AULAS/TEORIA)
+----------------------------------------------------------------- */
+.lesson-content h3 {
+    color: #1f2937; 
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+}
+.dark .lesson-content h3 { color: #f3f4f6; }
+
+.lesson-content h4 {
+    color: #10b981; /* Brand Green */
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+.dark .lesson-content h4 { color: #34d399; }
+
+.lesson-content p {
+    margin-bottom: 1.2rem;
+    line-height: 1.8; /* Leitura confortável */
+    font-size: 1.125rem;
+}
+
+.lesson-content ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 1.5rem;
+}
+
+.lesson-content li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.lesson-content li::before {
+    content: "•";
+    color: #3b82f6; /* Brand Blue */
+    font-weight: bold;
+    font-size: 1.5rem;
+    position: absolute;
+    left: 0;
+    top: -0.25rem;
+}
+
+.lesson-content strong {
+    color: #2563eb;
+    font-weight: 800;
+}
+.dark .lesson-content strong { color: #60a5fa; }
+
+.lesson-content img {
+    border-radius: 1.5rem;
+    margin: 2rem auto;
+    box-shadow: 0 10px 30px -10px rgba(0,0,0,0.2);
+    max-width: 100%;
+    border: 4px solid rgba(255,255,255,0.5);
+}
+
+/* MathJax (Fórmulas Matemáticas) */
+mjx-container { font-size: 110% !important; }
+.dark mjx-container { color: #e5e7eb !important; fill: #e5e7eb !important; }
+
+/* 5. ANIMAÇÕES
+----------------------------------------------------------------- */
+
+/* Entrada Suave */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in { animation: fadeIn 0.5s cubic-bezier(0.2, 0.8, 0.2, 1) forwards; }
+
+/* Pop (Sucesso/Confete) */
+@keyframes popIn {
+    0% { transform: scale(0.8); opacity: 0; }
+    60% { transform: scale(1.1); }
+    100% { transform: scale(1); opacity: 1; }
+}
+.animate-pop-in { animation: popIn 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) forwards; }
+
+/* Shake (Erro) - Definido apenas UMA vez agora */
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    20% { transform: translateX(-6px) rotate(-2deg); }
+    40% { transform: translateX(6px) rotate(2deg); }
+    60% { transform: translateX(-3px); }
+    80% { transform: translateX(3px); }
+}
+.animate-shake {
+    animation: shake 0.4s ease-in-out;
+    background-color: rgba(239, 68, 68, 0.2) !important; /* Vermelho Translúcido */
+    border-color: rgba(239, 68, 68, 0.5) !important;
+}
+
+/* Success Pulse */
+@keyframes popSuccess {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+.animate-success {
+    animation: popSuccess 0.3s ease-out forwards;
+    background-color: rgba(34, 197, 94, 0.2) !important; /* Verde Translúcido */
+    border-color: rgba(34, 197, 94, 0.5) !important;
+}
+
+/* Bloqueio de cliques durante animação */
+.pointer-events-none { pointer-events: none; }
+
+/* 6. MODO DE IMPRESSÃO (LIMPO)
+----------------------------------------------------------------- */
+@media print {
+    body { background: white; color: black; }
+    .glass-panel, .glass-child { 
+        background: none !important; 
+        box-shadow: none !important; 
+        border: 1px solid #ccc !important;
+    }
+    header, button, .no-print { display: none !important; }
+    .lesson-content { font-size: 12pt; }
+}
