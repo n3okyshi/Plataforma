@@ -238,7 +238,7 @@ var app = {
     _handleNavigationSound: function (viewName) {
         if (!window.audioManager) return;
 
-        // Efeitos Sonoros de Transição (SFX)
+        // 1. Efeitos de Transição (SFX)
         const sounds = {
             'level_selector': 'open_subject',
             'mode_select': 'open_subject',
@@ -247,18 +247,17 @@ var app = {
         };
         if (sounds[viewName]) audioManager.play(sounds[viewName]);
 
-        // Lógica de Música de Fundo (BGM)
-        // Se entrou na Home, Mapa ou Aula -> Liga o Drone de Foco
-        // O audio.js é inteligente: se já estiver tocando, ele não reinicia.
+        // 2. Lógica de Música (BGM) - AQUI ESTAVA O ERRO
+        // Se já houver escolha manual do usuário, o playMusic irá ignorar esta chamada
+        // porque não estamos passando o 'true' de seleção manual.
         if (['home', 'map', 'lesson', 'mode_select', 'settings'].includes(viewName)) {
-            // Tenta iniciar a música padrão (focus_drone)
-            audioManager.playMusic('focus_drone');
+            
+            // IMPORTANTE: Deixe exatamente assim.
+            // Se playlistManual for true no audio.js, esta linha será ignorada.
+            audioManager.playMusic('focus_drone'); 
         }
-        // Se for para login ou loading, talvez queira silêncio?
         else if (viewName === 'login') {
-            // Opcional: audioManager.stopMusic();
             audioManager.stopMusic();
-            // Deixar tocando se o usuário apenas deslogou?
         }
     },
 
