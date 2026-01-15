@@ -27,7 +27,7 @@ const FILES_TO_CACHE = [
   './js/teacher.js',
 
   // --- JS VIEWS ---
-  './js/views/_core.js',
+  './js/views/core.js',
   './js/views/auth.js',
   './js/views/home.js',
   './js/views/map.js',

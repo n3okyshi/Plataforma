@@ -1,163 +1,195 @@
 ==============================================================================
-MANUAL TÉCNICO & ARQUITETURA - PLATAFORMA DIDÁTICA (v3.0.0 Modular)
+MANUAL TÉCNICO & GUIA DE ARQUITETURA - PLATAFORMA DIDÁTICA (v3.0 Modular)
 ==============================================================================
-Data de Atualização: Janeiro/2026
-Status: Stable / Production
-Tecnologias: Vanilla JS (ES6+), Firebase, TailwindCSS, MathJax
+Data de Revisão: Janeiro/2026
+Ambiente: Produção (GitHub Pages / PWA)
+Stack: Vanilla JavaScript (ES6+), TailwindCSS (Via CDN), Firebase (Auth/Firestore)
+Paradigma: SPA (Single Page Application) sem Bundlers
+
+Este arquivo descreve a estrutura física, lógica e os procedimentos de manutenção.
 
 ==============================================================================
-1. VISÃO GERAL DA ARQUITETURA
+1. MAPA COMPLETO DO SISTEMA DE ARQUIVOS (FILE SYSTEM)
 ==============================================================================
-O projeto segue uma arquitetura modular baseada em "Separação de Dados e Lógica".
-Não utilizamos bundlers (Webpack/Vite) intencionalmente para manter a edição 
-simples e direta via navegador ou editores leves.
 
-A aplicação funciona como uma SPA (Single Page Application) controlada pelo `app.js`.
-
-DIRETÓRIOS:
-/Plataforma_didatica
+RAIZ DO PROJETO (./)
 │
-├───index.html           # O "Esqueleto". Carrega dependências na ordem estrita.
-├───_construtor.txt      # Este arquivo (Documentação).
-├───.gitignore           # Arquivos ignorados pelo Git.
+├───index.html              # BOOT: Ponto de entrada. Carrega CSS, CDNs e o loader.js.
+├───sw.js                   # PWA: Service Worker. Gerencia cache offline e requisições.
+├───manifest.json           # PWA: Metadados (Nome do app, cores, display standalone).
+├───LICENSE.txt             # Jurídico: Termos de uso e licença de código aberto.
+├───README.md               # Apresentação: Resumo do projeto para visitantes do repo.
+├───_constructor.txt        # Documentação: Este arquivo técnico.
 │
-├───css/                 # ESTILIZAÇÃO
-│   └── style.css        # Animações customizadas, overrides do Tailwind e Scrollbars.
+├───assets/                 # RECURSOS ESTÁTICOS
+│   └───icon/               # Ícones para PWA e Favicon
+│       ├── icon-192.png    # Para Android/Homescreen
+│       └── icon-512.png    # Para Splash Screen
 │
-├───js/                  # CORE (Lógica do Sistema)
-│   ├── config.js        # Definições estáticas (Cores, Ícones, Chaves API).
-│   ├── registry.js      # Gerenciador de Estado Global (window.PLATAFORMA_*).
-│   ├── auth.js          # Camada de Autenticação (Firebase Auth + Firestore).
-│   ├── audio.js         # Gerenciador de SFX e Música de Fundo.
-│   ├── views.js         # Motor de Renderização (Templates HTML Literais).
-│   └── app.js           # Controlador Principal (Router, Events, Game Loop).
+├───css/
+│   └── style.css           # ESTILOS: Overrides do Tailwind, scrollbars e animações custom.
 │
-├───curriculum/          # DADOS: MENU E HIERARQUIA
-│   ├── mat_curriculum.js
-│   ├── cn_curriculum.js
-│   └── superior_curriculum.js (Lógica aninhada para Faculdades)
+├───js/                     # NÚCLEO LÓGICO (O "Cérebro" da Aplicação)
+│   │  * NOTA: Arquivos aqui controlam dados, eventos e regras de negócio.
+│   │
+│   ├── app.js              # CONTROLLER: Gerencia rotas, estado atual e inicialização.
+│   ├── arena.js            # LÓGICA QUIZ: Processa respostas, calcula notas e erros.
+│   ├── audio.js            # SFX: Controlador da Web Audio API (Música/Efeitos).
+│   ├── auth.js             # SEGURANÇA: Integração com Firebase Auth e Firestore (DB).
+│   ├── config.js           # CONSTANTES: Cores, chaves de API e configs globais.
+│   ├── game.js             # GAMIFICATION: XP, Streak (Ofensiva), Níveis e Progressão.
+│   ├── loader.js           # BOOTLOADER: Carrega scripts dinamicamente na ordem certa.
+│   ├── registry.js         # STATE: Banco de dados em memória (armazena aulas carregadas).
+│   ├── tailwind_cdn.js     # VISUAL: Script de configuração do Tailwind CSS em tempo real.
+│   ├── teacher.js          # DASHBOARD: Lógica de filtros e tabelas do professor.
+│   ├── ui.js               # DOM: Manipula o HTML, exibe Loadings, Modais e Header.
+│   │
+│   └───views/              # CAMADA DE APRESENTAÇÃO (Renderização)
+│       │  * NOTA: Arquivos aqui APENAS retornam Strings de HTML (Template Literals).
+│       │
+│       ├── core.js         # Componentes Base (Botões, Cards genéricos).
+│       ├── auth.js         # HTML das telas de Login e Cadastro.
+│       ├── home.js         # HTML da Tela Inicial (Grid de Matérias/Cursos).
+│       ├── map.js          # HTML do Mapa de Unidades (Fases).
+│       ├── lesson.js       # HTML da Tela de Aula (Teoria + Botão Praticar).
+│       ├── arena.js        # HTML da Interface do Quiz (Perguntas/Opções).
+│       ├── profile.js      # HTML do Perfil do Usuário.
+│       ├── teacher.js      # HTML do Painel do Professor.
+│       ├── login.js        # (Legado/Específico) Componente de login isolado.
 │
-├───content/             # DADOS: AULAS TEÓRICAS (HTML Puro)
-│   ├── mat_content.js
-│   └── ...
+├───curriculum/             # DADOS: MENU E HIERARQUIA (JSON)
+│   │  * Define: Matéria -> Ano/Curso -> Unidade -> Lições
+│   │
+│   ├── default_curriculum.js   # Fallback para erros.
+│   ├── superior_curriculum.js  # Árvore de Cursos Universitários.
+│   ├── [sigla]_curriculum.js   # Árvores do Ensino Básico (ex: mat_curriculum.js).
+│   └── ... (ver lista de siglas na seção 6)
 │
-└───arena/               # DADOS: BANCO DE QUESTÕES (JSON Objects)
-    ├── mat_arena.js
+├───content/                # DADOS: CONTEÚDO DA AULA (HTML Puro)
+│   │  * Contém o texto explicativo, imagens e fórmulas LaTeX ($$).
+│   │
+│   ├── default_content.js      # Fallback.
+│   │
+│   ├── [sigla]/                # PASTAS POR MATÉRIA (Ensino Básico)
+│   │   └── [sigla]_content.js  # Ex: content/mat/mat_content.js
+│   │
+│   └───superior/               # ESTRUTURA UNIVERSITÁRIA (Pasta Aninhada)
+│       ├── ciencia_da_computacao/
+│       │   ├── algoritmos.js
+│       │   └── ...
+│       ├── matematica/
+│       │   ├── calculo_I.js
+│       │   ├── algebra_linear.js
+│       │   └── teoria_dos_numeros.js
+│       └── engenharia_geral/
+│           └── ...
+│
+└───arena/                  # DADOS: BANCO DE QUESTÕES (JSON)
+    │  * Contém arrays de objetos com pergunta, opções e resposta correta.
+    │
+    ├── default_arena.js    # Fallback.
+    ├── superior_arena.js   # TODAS as questões universitárias (filtradas por disciplina).
+    ├── [sigla]_arena.js    # Questões por matéria básica (ex: mat_arena.js).
     └── ...
 
 ==============================================================================
-2. ORDEM DE CARREGAMENTO (CRÍTICO)
-==============================================================================
-O `index.html` atua como um orquestrador. A ordem de importação dos scripts 
-não pode ser alterada, pois existem dependências diretas (ex: `app.js` precisa 
-de `views.js`, que precisa de `registry.js`).
-
-SEQUÊNCIA DE BOOT:
-1.  Libs Externas (Tailwind, FontAwesome, MathJax, Firebase SDK).
-2.  `css/style.css`.
-3.  `js/config.js`   -> Inicia configurações visuais e chaves.
-4.  `js/registry.js` -> Cria os objetos globais vazios para receber dados.
-5.  `js/audio.js`    -> Carrega assets de som.
-6.  `js/auth.js`     -> Prepara listeners do Firebase.
-7.  `js/views.js`    -> Carrega funções de construção de HTML.
-8.  `curriculum/*.js`-> Injeta dados nos objetos do registry.
-9.  `content/*.js`   -> Injeta HTML nos objetos do registry.
-10. `arena/*.js`     -> Injeta Questões nos objetos do registry.
-11. `js/app.js`      -> INICIA A APLICAÇÃO (app.init()).
-
-==============================================================================
-3. HIERARQUIA DE NAVEGAÇÃO E FLUXO
-==============================================================================
-O sistema suporta dois modos de navegação distintos que coexistem.
-
-
-
-TIPO A: ESCOLAR (Ensino Fundamental e Médio)
-Utilizado para matérias padrão como Matemática, História, etc.
-------------------------------------------------------------
-Nível 1 (Home): Seleção da Matéria (ex: Matemática)
-Nível 2 (Menu): Seleção do Ano/Série (ex: 6º Ano, 7º Ano)
-Nível 3 (Mapa): Seleção da Unidade/Tópico (ex: Frações)
-Nível 4 (Aula): Tela de Estudo (Teoria + Arena)
-
-
-
-TIPO B: UNIVERSITÁRIO (Categoria "Universidade")
-Utilizado para cursos superiores. Adiciona uma camada extra.
-------------------------------------------------------------
-Nível 1 (Home): Seleção da Área (ex: Ensino Superior)
-Nível 2 (Curso): Seleção do Curso (ex: Eng. Civil, Ciência da Computação)
-Nível 3 (Disc.): Seleção da Disciplina (ex: Cálculo I, Algoritmos)
-Nível 4 (Mapa): Seleção da Unidade
-Nível 5 (Aula): Tela de Estudo
-
-==============================================================================
-4. GUIA DE IMPLEMENTAÇÃO DE CONTEÚDO
+2. FLUXO DE DADOS E ARQUITETURA
 ==============================================================================
 
-PASSO 1: REGISTRAR MATÉRIA (js/config.js)
+O sistema opera num ciclo de vida claro:
+
+1.  BOOT (loader.js):
+    - O `index.html` chama o `loader.js`.
+    - O Loader baixa o Core (`js/`), depois as Views (`js/views/`) e por fim os Dados (`curriculum/`, `content/`, etc).
+    - Os arquivos de Dados usam funções globais (`window.registrar...`) para salvar as informações dentro do `registry.js`.
+
+2.  ROTEAMENTO (app.js):
+    - O usuário clica em algo. O `app.js` decide qual tela mostrar (`home`, `map`, `lesson`).
+    - O `app.js` busca os dados necessários no `registry.js`.
+
+3.  RENDERIZAÇÃO (js/views/):
+    - O `app.js` passa os dados para uma View específica (ex: `views/lesson.js`).
+    - A View retorna uma String HTML gigante.
+
+4.  INJEÇÃO (ui.js):
+    - O `ui.js` pega essa String HTML e joga dentro da `<div id="app">` no index.html.
+    - O MathJax é acionado para renderizar as fórmulas matemáticas.
+
+==============================================================================
+3. HIERARQUIA DE CONTEÚDO (DIFERENÇAS CRUCIAIS)
+==============================================================================
+
+TIPO A: ENSINO BÁSICO (Siglas: mat, port, his...)
+-------------------------------------------------
+Estrutura: Matéria -> Ano Escolar -> Unidade -> Lição
+Exemplo:   Matemática -> 6º Ano -> Geometria -> Triângulos
+Arquivos:
+  - Menu:    `curriculum/mat_curriculum.js`
+  - Texto:   `content/mat/mat_content.js`
+  - Quiz:    `arena/mat_arena.js`
+
+TIPO B: ENSINO SUPERIOR (Pasta: superior)
 -----------------------------------------
-No objeto `SUBJECT_CONFIG`, adicione a entrada da matéria.
-Se for universitário, a `category` deve ser "Universidade".
-
-PASSO 2: CRIAR O MENU (curriculum/prefixo_curriculum.js)
--------------------------------------------------------
-Use `window.registrarCurriculo(chave, objeto)`.
-
-Exemplo Escolar:
-window.registrarCurriculo("Matemática", {
-    "6º Ano": {
-        "Álgebra Básica": ["O que são variáveis", "Equações"],
-        "Geometria": ["Ângulos", "Triângulos"]
-    }
-});
-
-Exemplo Universitário (Note o aninhamento extra):
-window.registrarCurriculo("Ensino Superior", {
-    "Ciência da Computação": {              // Nome do Curso
-        "Algoritmos": {                     // Nome da Disciplina
-            "Lógica de Programação": ["Variáveis", "Condicionais"]
-        }
-    }
-});
-
-PASSO 3: CRIAR A TEORIA (content/prefixo_content.js)
-----------------------------------------------------
-Use `window.registrarTeoria(objeto)`. A chave deve ser EXATAMENTE o nome da lição.
-
-window.registrarTeoria({
-    "O que são variáveis": `
-        <h2>Introdução</h2>
-        <p>Variáveis são caixinhas na memória...</p>
-        <div class="math-block">$$ x + 2 = 10 $$</div>
-    `
-});
-
-PASSO 4: CRIAR QUESTÕES (arena/prefixo_arena.js)
-------------------------------------------------
-Use `window.registrarQuestoes(array)`.
-Importante: O campo `ano` serve para filtrar. No caso universitário,
-o `ano` deve ser o nome da Disciplina.
-
-window.registrarQuestoes([
-    {
-        ano: "Algoritmos",           // Ou "6º Ano"
-        tema: "Ciência da Computação", // Ou "Matemática"
-        pergunta: "Qual o valor de X?",
-        opcoes: ["10", "20", "30", "40"],
-        correta: 1 // Índice da array (B)
-    }
-]);
+Estrutura: Área -> Curso -> Disciplina -> Unidade -> Lição
+Exemplo:   Superior -> Matemática -> Cálculo I -> Limites -> Definição Epsilon
+Arquivos:
+  - Menu:    `curriculum/superior_curriculum.js` (Define Cursos e Disciplinas)
+  - Texto:   `content/superior/[nome_curso]/[nome_disciplina].js` (Arquivo isolado por matéria)
+  - Quiz:    `arena/superior_arena.js` (Usa o nome da disciplina no campo 'ano')
 
 ==============================================================================
-5. PADRÕES DE CODIFICAÇÃO
+4. PROCEDIMENTO PARA CRIAÇÃO DE CONTEÚDO
 ==============================================================================
-- Variáveis Globais: Sempre prefixadas (ex: PLATAFORMA_CURRICULO).
-- CSS: Use classes utilitárias do Tailwind. Apenas crie classes no style.css
-  para componentes complexos (ex: .glass-panel, .animate-pop).
-- LaTeX: Use `$$` para blocos e `$` para inline (MathJax configurado).
-- Ícones: Use FontAwesome 6 (ex: <i class="fas fa-book"></i>).
+
+PASSO 1: ONDE ESCREVER?
+-----------------------
+- Se for matéria escolar (ex: Química):
+  1. Abra `curriculum/qui_curriculum.js` -> Adicione o tópico no JSON.
+  2. Abra `content/qui/qui_content.js` -> Adicione o HTML da aula.
+  3. Abra `arena/qui_arena.js` -> Adicione as questões.
+
+- Se for matéria universitária (ex: Novo Curso de Física):
+  1. Abra `curriculum/superior_curriculum.js` -> Adicione o Curso e a Disciplina.
+  2. Crie a pasta `content/superior/fisica/`.
+  3. Crie o arquivo `mecanica_classica.js` dentro dela.
+  4. Use `window.registrarTeoria(...)` neste arquivo novo.
+  5. Abra `arena/superior_arena.js` e adicione questões com `ano: "Mecânica Clássica"`.
+
+PASSO 2: SINTAXE OBRIGATÓRIA
+----------------------------
+- Fórmulas: Use `$$ formula $$` para bloco ou `$ formula $` para inline.
+- Imagens: Use caminhos absolutos ou URLs externas confiáveis.
+- IDs: As chaves dos objetos JSON (títulos das aulas) devem ser IDÊNTICAS no Curriculum e no Content.
 
 ==============================================================================
-FIM DO DOCUMENTO
+5. PADRÕES DE SEGURANÇA E HOSPEDAGEM
 ==============================================================================
+1. CASE SENSITIVITY (CRÍTICO):
+   - O GitHub Pages roda em Linux. `Arquivo.js` é diferente de `arquivo.js`.
+   - REGRA DE OURO: Todos os nomes de arquivos e pastas devem ser **minúsculos**.
+
+2. ARQUIVOS IGNORADOS PELO JEKYLL:
+   - O GitHub Pages ignora arquivos começando com `_` (underscore).
+   - A única exceção é este arquivo `_constructor.txt` pois ele é documentação interna.
+
+3. CACHE (SERVICE WORKER):
+   - Ao criar um arquivo novo (ex: uma nova disciplina superior), você OBRIGATORIAMENTE deve adicioná-lo à lista de cache no `sw.js` e na lista de carregamento do `loader.js`. Se não fizer isso, o app quebrará ou não carregará o conteúdo novo.
+
+==============================================================================
+6. GLOSSÁRIO DE SIGLAS (PASTAS)
+==============================================================================
+Use estritamente estas siglas para manter o padrão do sistema:
+
+[Ensino Básico]
+- art: Artes                - ast: Astronomia
+- bio: Biologia             - cna: Ciências da Natureza
+- edf: Educação Física      - edg: Educação Geral/Financeira
+- fil: Filosofia            - fis: Física
+- gea: Geografia Avançada   - geo: Geografia
+- his: História             - lie: Línguas Estrangeiras
+- lip: Língua Portuguesa    - mat: Matemática
+- qui: Química              - red: Redação
+- soc: Sociologia
+
+[Ensino Superior]
+- superior: Raiz para Cursos, Licenciaturas, Engenharias, Bacharelados e Tecnólogos.

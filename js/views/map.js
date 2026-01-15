@@ -28,11 +28,11 @@ views.extend({
         
         <div class="w-full px-4 mb-8 flex flex-col items-center relative z-20">
             <button onclick="app.back()" 
-                 class="absolute left-4 top-0 w-12 h-12 glass-child rounded-2xl flex items-center justify-center text-gray-500 hover:text-gray-700 dark:text-gray-300 dark:hover:text-white transition-all shadow-sm">
+                 class="absolute left-4 top-0 w-12 h-12 glass-child rounded-2xl flex items-center justify-center text-gray-500 hover:text-gray-700 dark:text-gray-300 dark:hover:text-white transition-all shadow-sm active:scale-90">
                 <i class="fas fa-arrow-left text-lg"></i>
             </button>
 
-            <div class="glass-panel rounded-3xl py-4 px-8 mt-14 md:mt-0 text-center shadow-lg border border-white/40 min-w-[200px]">
+            <div class="glass-panel rounded-3xl py-4 px-8 mt-14 md:mt-0 text-center shadow-lg border border-white/40 min-w-[200px] animate-pop-in">
                 <h2 class="text-2xl md:text-3xl font-extrabold text-gray-800 dark:text-white mb-1 leading-tight drop-shadow-sm">
                     ${disciplina}
                 </h2>
@@ -41,7 +41,7 @@ views.extend({
         </div>
 
         <div class="relative w-full flex flex-col items-center">
-            <div class="absolute top-0 bottom-10 left-1/2 w-4 bg-gray-200/80 dark:bg-gray-700/50 -translate-x-1/2 rounded-full -z-10"></div>
+            <div class="absolute top-0 bottom-10 left-1/2 w-4 bg-gray-200/80 dark:bg-gray-700/50 -translate-x-1/2 rounded-full -z-10 shadow-inner"></div>
 `;
 
         let globalIndex = 0;
@@ -50,10 +50,8 @@ views.extend({
         for (const unidadeNome in unidades) {
             const licoes = unidades[unidadeNome];
 
-            // === AQUI É O LUGAR CERTO PARA OS BOTÕES (DENTRO DO LOOP) ===
-
             // 1. Gera o Botão de Prova (Busca nota)
-            const notaProva = app.getNota ? app.getNota(unidadeNome, 'prova') : null; // Proteção caso app.getNota não exista
+            const notaProva = app.getNota ? app.getNota(unidadeNome, 'prova') : null;
             const textoProva = notaProva ? `Nota: ${notaProva.toFixed(1)}` : "Prova";
             const corProva = notaProva >= 7 ? "bg-green-100 text-green-700" : "bg-red-100 text-red-700";
 
@@ -61,23 +59,21 @@ views.extend({
             const botoesAcao = `
                 <div class="flex justify-center gap-2 mt-2">
                     <button onclick="arena.comecarDesafio('${disciplina}', '${nivel}', '${unidadeNome}', 'treino')" 
-                            class="px-3 py-1 rounded-lg bg-blue-100 text-blue-600 text-xs font-bold hover:bg-blue-200 transition-colors">
-                        <i class="fas fa-dumbbell"></i> Treino
+                            class="px-3 py-1.5 rounded-lg bg-blue-100 text-blue-600 text-xs font-black hover:bg-blue-200 active:scale-95 transition-all">
+                        <i class="fas fa-dumbbell mr-1"></i> TREINO
                     </button>
                     
                     <button onclick="arena.comecarDesafio('${disciplina}', '${nivel}', '${unidadeNome}', 'prova')" 
-                            class="px-3 py-1 rounded-lg ${notaProva ? corProva : 'bg-yellow-100 text-yellow-700'} text-xs font-bold hover:brightness-95 transition-colors">
-                        <i class="fas fa-trophy"></i> ${textoProva}
+                            class="px-3 py-1.5 rounded-lg ${notaProva ? corProva : 'bg-yellow-100 text-yellow-700'} text-xs font-black hover:brightness-95 active:scale-95 transition-all">
+                        <i class="fas fa-trophy mr-1"></i> ${textoProva.toUpperCase()}
                     </button>
                 </div>
             `;
-            // ============================================================
 
             html += `
-                <div class="relative z-10 my-8 w-full text-center group-unit">
-                    <div class="inline-block glass-panel rounded-3xl border-2 ${config.theme.border} px-6 py-3 shadow-md transform hover:scale-105 transition-transform backdrop-blur-xl">
-                        <h3 class="${config.theme.text} font-black text-xs uppercase tracking-[0.15em] drop-shadow-sm mb-1">${unidadeNome}</h3>
-                        
+                <div class="relative z-10 my-10 w-full text-center group-unit">
+                    <div class="inline-block glass-panel rounded-3xl border-2 ${config.theme.border} px-6 py-4 shadow-xl transform hover:scale-105 transition-transform backdrop-blur-xl">
+                        <h3 class="${config.theme.text} font-black text-xs uppercase tracking-[0.2em] drop-shadow-sm mb-2">${unidadeNome}</h3>
                         ${botoesAcao}
                     </div>
                 </div>
@@ -94,7 +90,7 @@ views.extend({
                 let icon = isLocked
                     ? '<i class="fas fa-lock text-2xl opacity-50"></i>'
                     : isCompleted
-                        ? '<i class="fas fa-check text-2xl drop-shadow-md"></i>'
+                        ? '<i class="fas fa-check text-2xl drop-shadow-md animate-pop-in"></i>'
                         : '<i class="fas fa-star text-2xl animate-pulse drop-shadow-md"></i>';
 
                 let scaleAnim = !isLocked && !isCompleted ? "scale-110" : "hover:scale-110";
@@ -105,8 +101,9 @@ views.extend({
 
                 let labelTextAlignment = isLeft ? "items-start" : "items-end";
 
+                // [MELHORIA] Ações com Toasts e Sons
                 let clickAction = isLocked
-                    ? `onclick="alert('Complete a lição anterior para desbloquear esta!')"`
+                    ? `onclick="audioManager.play('error'); ui.showToast('Complete a lição anterior para desbloquear!', 'warning')"`
                     : `onclick="app.navigate('lesson', '${licao}')"`;
 
                 html += `
@@ -114,10 +111,10 @@ views.extend({
                         <div class="relative group transition-transform duration-500 ${translateClass}">
 
                             <div ${clickAction} class="absolute top-1/2 -translate-y-1/2 ${labelPosition} w-40 md:w-48 p-4 rounded-2xl border-2 cursor-pointer transition-all hover:scale-105 active:scale-95 z-20 shadow-lg flex flex-col justify-center ${labelTextAlignment} glass-panel ${isLocked
-                        ? "border-gray-200 dark:border-gray-600 text-gray-400"
+                        ? "border-gray-200 dark:border-gray-600 text-gray-400 opacity-60"
                         : config.theme.border + " " + config.theme.text
                     }">
-                                <h4 class="font-bold text-sm leading-tight drop-shadow-sm">${licao}</h4>
+                                <h4 class="font-black text-sm leading-tight drop-shadow-sm">${licao}</h4>
                             </div>
 
                             <button ${clickAction} class="w-20 h-20 rounded-full border-b-[6px] flex items-center justify-center transition-all active:scale-90 active:border-b-0 relative z-30 shadow-xl ${scaleAnim} ${btnStyle.bg
@@ -125,7 +122,7 @@ views.extend({
                                 ${icon}
                             </button>
                             
-                            <div class="absolute -bottom-4 left-4 right-4 h-3 bg-black/20 rounded-full blur-md -z-10"></div>
+                            <div class="absolute -bottom-4 left-4 right-4 h-3 bg-black/20 rounded-full blur-md -z-10 group-hover:bg-black/30 transition-colors"></div>
                         </div>
                     </div>
                 `;
@@ -135,19 +132,21 @@ views.extend({
             });
         }
 
-        // Troféu Final
+        // Troféu Final - [MELHORIA] Com Modal de Conquista
         let trophyStyle = previousLessonCompleted
-            ? "grayscale-0 opacity-100 animate-bounce cursor-pointer hover:scale-110"
-            : "grayscale opacity-50 cursor-not-allowed";
+            ? "grayscale-0 opacity-100 animate-bounce cursor-pointer hover:scale-125"
+            : "grayscale opacity-30 cursor-not-allowed";
 
-        let trophyClick = previousLessonCompleted
-            ? `onclick="alert('Parabéns! Você completou o nível ${nivel}!')"`
-            : `onclick="alert('Complete todas as lições para pegar o troféu!')"`;
+        let msgTrophy = previousLessonCompleted 
+            ? `ui.showModal('Parabéns!', '<div class=\\'text-center\\'><i class=\\'fas fa-crown text-5xl text-yellow-500 mb-4 animate-pop-in\\'></i><p class=\\'text-lg font-bold\\'>Você dominou o nível <b>${nivel}</b> de <b>${disciplina}</b>!</p></div>', [{label: 'Incrível!', class: 'bg-brand-green text-white', onclick: 'ui.closeModal()'}])`
+            : `ui.showToast('Complete todas as unidades para ganhar este troféu!', 'info')`;
+
+        let trophyClick = `onclick="if(${previousLessonCompleted}){ audioManager.play('finish'); ${msgTrophy} } else { audioManager.play('error'); ${msgTrophy} }"`;
 
         html += `
-            <div class="w-24 h-24 mt-8 relative z-20 transition-all duration-500 ${trophyStyle}" ${trophyClick}>
-                <div class="w-full h-full rounded-[2rem] bg-gradient-to-b from-yellow-300 to-yellow-500 border-b-8 border-yellow-600 flex items-center justify-center shadow-xl ring-8 ring-yellow-400/30">
-                    <i class="fas fa-trophy text-4xl text-yellow-50 drop-shadow-md"></i>
+            <div class="w-28 h-28 mt-12 mb-10 relative z-20 transition-all duration-500 ${trophyStyle}" ${trophyClick}>
+                <div class="w-full h-full rounded-[2.5rem] bg-gradient-to-b from-yellow-300 to-yellow-500 border-b-8 border-yellow-600 flex items-center justify-center shadow-2xl ring-8 ring-yellow-400/30">
+                    <i class="fas fa-trophy text-5xl text-yellow-50 drop-shadow-md"></i>
                 </div>
             </div>
         </div> </div> `;
@@ -158,21 +157,19 @@ views.extend({
     //==============================
     //= renderLevelSelector
     //==============================
-    
+    // (Mantido conforme enviado, apenas garantindo consistência de Toasts se necessário no futuro)
     renderLevelSelector: function (tituloContexto, dadosItens) {
-
-        // --- 🛡️ BLINDAGEM CONTRA ERRO (CRASH FIX) ---
         if (!dadosItens || Object.keys(dadosItens).length === 0) {
             return `
                 <div class="flex flex-col items-center justify-center h-64 text-center animate-fade-in">
-                    <i class="fas fa-ghost text-4xl text-gray-300 mb-4"></i>
+                    <i class="fas fa-ghost text-4xl text-gray-300 mb-4 animate-bounce"></i>
                     <h3 class="text-xl font-bold text-gray-600 dark:text-gray-400">Nada por aqui...</h3>
                     <p class="text-sm text-gray-400">O currículo de ${tituloContexto} parece vazio.</p>
-                    <button onclick="app.back()" class="mt-4 text-blue-500 font-bold hover:underline">Voltar</button>
+                    <button onclick="app.back()" class="mt-4 px-6 py-2 bg-brand-blue text-white rounded-xl font-bold active:scale-95 transition-all shadow-md">Voltar</button>
                 </div>
             `;
         }
-        // Se o currículo não foi encontrado ou está vazio, mostramos aviso visual
+        
         if (!dadosItens || typeof dadosItens !== 'object') {
             console.warn(`[Views] Currículo não encontrado para: ${tituloContexto}`);
             return `
@@ -188,21 +185,17 @@ views.extend({
                 </div>
             `;
         }
-        // -------------------------------------------------------------
 
-        // Só agora é seguro tentar ler as chaves
         const chaves = Object.keys(dadosItens);
         const primeiraChave = chaves.length > 0 ? chaves[0] : null;
 
         const isListaDeCursos = tituloContexto === "Ensino Superior";
-        // Verifica se é uma disciplina de faculdade (baseado se temos temas definidos pra ela)
         const isDisciplinasSuperior = !isListaDeCursos && (typeof LEVEL_THEMES !== 'undefined' && LEVEL_THEMES[primeiraChave]);
 
         let tituloTela = tituloContexto;
         let subTitulo = "Selecione uma opção:";
         let grupos = {};
 
-        // LÓGICA DE AGRUPAMENTO
         if (isListaDeCursos) {
             tituloTela = "Cursos de Graduação";
             grupos = { "Cursos": chaves };
@@ -226,9 +219,7 @@ views.extend({
             };
 
             for (const nivel in dadosItens) {
-                // Filtros de String mais robustos (Ignora Case Sensitive)
                 const n = nivel.toLowerCase();
-
                 if (nivel.includes("EFI") || ["1º ano", "2º ano", "3º ano", "4º ano", "5º ano"].some(termo => n.startsWith(termo) && !n.includes("em"))) {
                     grupos["Anos Iniciais (Fund. I)"].push(nivel);
                 }
@@ -244,7 +235,6 @@ views.extend({
             }
         }
 
-        // RENDERIZAÇÃO DO HTML
         let html = `
             <div class="animate-fade-in flex flex-col gap-8 max-w-7xl mx-auto pb-24 pt-4 px-4 min-h-screen relative">
                 
@@ -259,12 +249,9 @@ views.extend({
         `;
 
         for (const [nomeGrupo, niveis] of Object.entries(grupos)) {
-
             if (niveis.length === 0) continue;
-
             html += `<div class="w-full">`;
 
-            // Cabeçalho do Grupo (exceto se for lista simples)
             if (!isListaDeCursos && !isDisciplinasSuperior && tituloContexto !== "Redação") {
                 html += `
                 <div class="flex items-center gap-4 mb-6 mt-4 opacity-70 max-w-5xl mx-auto">
@@ -283,13 +270,9 @@ views.extend({
                 let textoGrande = "";
                 let textoPequeno = nivel;
 
-                // --- LÓGICA DE CORES ---
                 if (isListaDeCursos || isDisciplinasSuperior) {
                     const theme = (typeof LEVEL_THEMES !== 'undefined' ? LEVEL_THEMES[nivel] : null) || (typeof LEVEL_THEMES !== 'undefined' ? LEVEL_THEMES["default"] : { main: "bg-gray-500" });
-
-                    // Fallback seguro se theme for null
                     const mainColor = theme ? theme.main : "bg-gray-500";
-
                     estilo = { bg: mainColor, border: mainColor.replace('bg-', 'border-'), color: "text-white" };
                     textoGrande = isListaDeCursos ? "<i class='fas fa-university'></i>" : nivel.substring(0, 3).toUpperCase();
                 } else if (tituloContexto === "Redação") {
@@ -297,7 +280,6 @@ views.extend({
                     estilo = { bg: conf.theme.main, border: conf.theme.border, color: "text-white" };
                     textoGrande = "<i class='fas fa-pen-nib'></i>";
                 } else {
-                    // Cores Escolares Padrão
                     if (nivel.includes("1º")) estilo = { bg: "bg-[#A3E635]", border: "border-[#83C615]", color: "text-white" };
                     else if (nivel.includes("2º")) estilo = { bg: "bg-[#4ADE80]", border: "border-[#2ABE60]", color: "text-white" };
                     else if (nivel.includes("3º")) estilo = { bg: "bg-[#2DD4BF]", border: "border-[#0DB49F]", color: "text-white" };
@@ -341,10 +323,8 @@ views.extend({
                     </button>
                 `;
             });
-
             html += `</div></div>`;
         }
-
         html += `</div>`;
         return html;
     }
