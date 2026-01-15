@@ -247,13 +247,8 @@ var app = {
         };
         if (sounds[viewName]) audioManager.play(sounds[viewName]);
 
-        // 2. Lógica de Música (BGM) - AQUI ESTAVA O ERRO
-        // Se já houver escolha manual do usuário, o playMusic irá ignorar esta chamada
-        // porque não estamos passando o 'true' de seleção manual.
         if (['home', 'map', 'lesson', 'mode_select', 'settings'].includes(viewName)) {
             
-            // IMPORTANTE: Deixe exatamente assim.
-            // Se playlistManual for true no audio.js, esta linha será ignorada.
             audioManager.playMusic('focus_drone'); 
         }
         else if (viewName === 'login') {
