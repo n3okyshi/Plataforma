@@ -84,6 +84,7 @@ const NOTES = {
 };
 
 var audioManager = {
+    playlistManual: false,
     ctx: null,
     muted: false,       // Mantido apenas para UI, mas ignorado no play()
     musicMuted: false,  // Controla APENAS a música
@@ -194,12 +195,28 @@ var audioManager = {
      * Se for outra, troca.
      */
 
-    playMusic: function (trackKey = 'focus_drone') {
+    get playlistManual() {
+        return localStorage.getItem('mathlingo_manual_bgm') === 'true';
+    },
+    set playlistManual(val) {
+        localStorage.setItem('mathlingo_manual_bgm', val);
+    },
+
+    playMusic: function (trackKey = 'focus_drone', isManualSelection = false) {
         if (this.musicMuted || !this.ctx) return;
 
-        // Verifica se o áudio está pronto. Se não, marca qual musica tocar quando desbloquear
+        // Se o usuário já escolheu manualmente E o sistema tenta mudar (isManualSelection = false)
+        if (this.playlistManual && !isManualSelection) {
+            console.log("🎵 [Jukebox] Bloqueio persistente: Mantendo escolha do usuário.");
+            return;
+        }
+
+        // Se o usuário clicou no botão "Next", travamos a playlist no LocalStorage
+        if (isManualSelection) {
+            this.playlistManual = true;
+        }
+
         if (this.ctx.state === 'suspended') {
-            console.warn("🔊 [Jukebox] Áudio suspenso. Aguardando interação...");
             this.currentTrack = trackKey;
             return;
         }
@@ -210,13 +227,8 @@ var audioManager = {
         this.currentTrack = trackKey;
         this.isMusicPlaying = true;
 
-        console.log(`🎵 [Jukebox] Iniciando: ${trackKey}`);
-
-        if (trackKey === 'focus_drone') {
-            this._startDrone();
-        } else if (trackKey === 'lofi_beat') {
-            this._startLofi();
-        }
+        if (trackKey === 'focus_drone') this._startDrone();
+        else if (trackKey === 'lofi_beat') this._startLofi();
     },
 
     stopMusic: function () {
@@ -252,27 +264,15 @@ var audioManager = {
     // ========================================================================
     nextTrack: function () {
         this._resumeContext();
-
-        // 1. Se a música estiver mutada, desmuta automaticamente para o usuário ouvir a troca
-        if (this.musicMuted) {
-            this.toggleMusic();
-        }
-
-        // 2. Pega as chaves (IDs) das músicas: ['focus_drone', 'lofi_beat']
+        
         const trackKeys = Object.keys(this.tracks);
-
-        // 3. Acha o índice atual
         let currentIndex = trackKeys.indexOf(this.currentTrack);
-        if (currentIndex === -1) currentIndex = 0; // Se não tiver nada, começa do 0
-
-        // 4. Calcula o próximo (Loop infinito usando módulo %)
         const nextIndex = (currentIndex + 1) % trackKeys.length;
         const nextKey = trackKeys[nextIndex];
 
-        // 5. Toca
-        this.playMusic(nextKey);
-
-        // Retorna o nome bonito para a UI mostrar no Toast
+        // Passamos 'true' para indicar SELEÇÃO MANUAL
+        this.playMusic(nextKey, true); 
+        
         return this.tracks[nextKey];
     },
     // ------------------------------------------------------------------------
