@@ -8,13 +8,13 @@ window.registrarCurriculo("Biologia", {
     "1º Ano do EM": {
         // Unidade 1: Biologia: a ciência da vida
         "Introdução à ciência da vida": ["O estudo da vida", "O que a Biologia estuda?", "Características gerais dos seres vivos", "Níveis de organização biológica"],
-        "Pensamento científico": ["O que é a ciência?"],
+        "Pensamento científico": ["O que é a ciência?", "História e filosofia da ciência", "O processo científico é flexível", "Como os cientistas trabalham", "Ética e ciência", "Anticientificismo, pseudociência e fake news", "Projeto"],
 
         // Unidade 2: O mundo em que vivemos
-        "Introdução à Ecologia": ["Características dos ambientes", "Hábitat e nicho ecológico: onde e como vivem os seres vivos"],
-        "Matéria e energia nos ecossistemas": ["Ciclos biogeoquímicos", "Relações tróficas"],
-        "Da população ao bioma": ["Dinâmica de populações", "Sucessão ecológica", "Ambientes do mundo"],
-        "Humanidade e ambiente": ["Recursos naturais", "Problemas ambientais", "Sustentabilidade"],
+        "Introdução à Ecologia": ["Características dos ambientes", "Clima", "Clima e outros fatores abióticos", "Água", "Hábitat e nicho ecológico: onde e como vivem os seres vivos", "Relações ecológicas interespecíficas", "Mutualismo", "Comensalismo", "Inquilinismo", "Predação", "Parasitismo", "Competição interespecífica", "Amensalismo", "Relações ecológicas intraespecíficas", "Colônia", "Sociedade", "Competição intraespecífica", "Canibalismo"],
+        "Matéria e energia nos ecossistemas": ["Ciclos biogeoquímicos", "Ciclo da água", "Ciclo do carbono", "Ciclo do nitrogênio", "Ciclo do fósforo", "Relações tróficas", "Fluxo de energia", "Pirâmides Tróficas"],
+        "Da população ao bioma": ["Dinâmica de populações", "Densidade populacional", "Princípio da exclusão competitiva", "Sucessão ecológica", "Ambientes do mundo", "Biomas terrestres mundiais", "Biomas terrestres brasileiros", "Biomas aquáticos",],
+        "Humanidade e ambiente": ["Recursos naturais", "Tipos de recursos naturais", "Problemas ambientais", "Mudanças climáticas", "Projeto", "Poluição da água", "Poluição do solo", "Destruição de hábitat", "Sustentabilidade", "Acordos internacionais para a sustentabilidade", "Objetivos de Desenvolvimento Sustentável (ODS)", ],
 
         // Unidade 3: Célula: a unidade fundamental da vida
         "Biomoléculas": ["Substâncias inorgânicas da célula", "Substâncias orgânicas da célula"],
