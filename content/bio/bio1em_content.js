@@ -491,7 +491,7 @@ window.registrarTeoria({
         </div>
     </div>
     `,
-    "Projeto": `<div class="space-y-6 animate-fade-in text-justify pb-10">
+    "Projeto_bio1": `<div class="space-y-6 animate-fade-in text-justify pb-10">
         <section>
             <h2 class="text-2xl font-black text-brand-red mb-4 uppercase flex items-center gap-2">
                 <i class="fas fa-project-diagram"></i> PROJETO
@@ -1904,7 +1904,7 @@ window.registrarTeoria({
     </div>
 `,
 
-    "Projeto": `
+    "Projeto_bio2": `
     <div class="space-y-6 animate-fade-in text-justify pb-10">
         <section class="bg-brand-blue/10 p-8 rounded-[2.5rem] border-2 border-brand-blue shadow-sm">
             <h2 class="text-2xl font-black text-brand-blue mb-4 uppercase flex items-center gap-2">
@@ -2190,7 +2190,7 @@ window.registrarTeoria({
     </div>
 `,
 
-"Substâncias inorgânicas da célula": `
+    "Substâncias inorgânicas da célula": `
     <div class="space-y-6 animate-fade-in text-justify pb-10">
         <section>
             <h2 class="text-2xl font-black text-brand-blue mb-4">Substâncias inorgânicas da célula</h2>
@@ -2211,7 +2211,7 @@ window.registrarTeoria({
     </div>
 `,
 
-"Água": `
+    "Água": `
     <div class="space-y-6 animate-fade-in text-justify pb-10">
         <section>
             <h2 class="text-2xl font-black text-blue-500 mb-4">Água</h2>
@@ -2254,7 +2254,7 @@ window.registrarTeoria({
     </div>
 `,
 
-"Sais minerais": `
+    "Sais minerais": `
     <div class="space-y-6 animate-fade-in text-justify pb-10">
         <section>
             <h2 class="text-2xl font-black text-brand-blue mb-4">Sais minerais</h2>
@@ -2294,7 +2294,7 @@ window.registrarTeoria({
     </div>
 `,
 
-"Substâncias orgânicas da célula": `
+    "Substâncias orgânicas da célula": `
     <div class="space-y-6 animate-fade-in text-justify pb-10">
         <section>
             <h2 class="text-2xl font-black text-brand-green mb-4">Substâncias orgânicas da célula</h2>
@@ -2314,7 +2314,7 @@ window.registrarTeoria({
     </div>
 `,
 
-"Carboidratos": `
+    "Carboidratos": `
     <div class="space-y-6 animate-fade-in text-justify pb-10">
         <section>
             <h2 class="text-2xl font-black text-orange-500 mb-4">Carboidratos</h2>
@@ -2362,7 +2362,7 @@ window.registrarTeoria({
     </div>
 `,
 
-"Lipídeos": `
+    "Lipídeos": `
     <div class="space-y-6 animate-fade-in text-justify pb-10">
         <section>
             <h2 class="text-2xl font-black text-yellow-600 mb-4">Lipídeos</h2>
@@ -2409,7 +2409,7 @@ window.registrarTeoria({
     </div>
 `,
 
-"Proteínas": `
+    "Proteínas": `
     <div class="space-y-6 animate-fade-in text-justify pb-10">
         <section>
             <h2 class="text-2xl font-black text-brand-red mb-4">Proteínas</h2>
@@ -2448,7 +2448,7 @@ window.registrarTeoria({
     </div>
 `,
 
-"Propriedades funcionais das proteínas": `
+    "Propriedades funcionais das proteínas": `
     <div class="space-y-6 animate-fade-in text-justify pb-10">
         <section>
             <h2 class="text-2xl font-black text-brand-red mb-4">Propriedades funcionais das proteínas</h2>
@@ -2477,7 +2477,7 @@ window.registrarTeoria({
     </div>
 `,
 
-"Ácidos nucleicos": `
+    "Ácidos nucleicos": `
     <div class="space-y-6 animate-fade-in text-justify pb-10">
         <section>
             <h2 class="text-2xl font-black text-purple-600 mb-4">Ácidos nucleicos</h2>
