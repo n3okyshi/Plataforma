@@ -69,6 +69,11 @@ body {
     border-color: rgba(255, 255, 255, 0.2);
 }
 
+#main-container {
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch; /* Melhora scroll no iOS */
+}
+
 /* 3. UTILITÁRIOS DE INTERFACE
 ----------------------------------------------------------------- */
 

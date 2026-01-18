@@ -72,7 +72,7 @@ views.extend({
 
             html += `
                 <div class="relative z-10 my-10 w-full text-center group-unit">
-                    <div class="inline-block glass-panel rounded-3xl border-2 ${config.theme.border} px-6 py-4 shadow-xl transform hover:scale-105 transition-transform backdrop-blur-xl">
+                    <div class="inline-block glass-panel rounded-3xl border-2 ${config.theme.border} px-6 py-4 shadow-xl transform-gpu hover:scale-105 transition-transform backdrop-blur-xl">
                         <h3 class="${config.theme.text} font-black text-xs uppercase tracking-[0.2em] drop-shadow-sm mb-2">${unidadeNome}</h3>
                         ${botoesAcao}
                     </div>
@@ -101,7 +101,6 @@ views.extend({
 
                 let labelTextAlignment = isLeft ? "items-start" : "items-end";
 
-                // [MELHORIA] Ações com Toasts e Sons
                 let clickAction = isLocked
                     ? `onclick="audioManager.play('error'); ui.showToast('Complete a lição anterior para desbloquear!', 'warning')"`
                     : `onclick="app.navigate('lesson', '${licao}')"`;

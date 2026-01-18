@@ -217,20 +217,41 @@ var app = {
         }
 
         // 4. Injeção no DOM
-        container.innerHTML = html;
-        if (window.ui) ui.updateHeader();
+        if (['map', 'home'].includes(viewName)) {
+            // Em vez de container.innerHTML = html, usamos o novo motor
+            this.renderProgressive(html);
+        } else {
+            container.innerHTML = html;
+        }
 
-        // 5. Renderização Matemática (MathJax)
+        if (window.ui) ui.updateHeader();
         this._renderMathJax(container);
     },
 
     // Helper: Renderiza Fórmulas Matemáticas com segurança
     _renderMathJax: function (container) {
-        if (window.MathJax && window.MathJax.typesetPromise) {
-            window.MathJax.typesetPromise([container])
-                .then(() => { /* Sucesso silencioso */ })
-                .catch((err) => console.warn('Aviso MathJax:', err));
-        }
+        if (!window.MathJax || !window.MathJax.typesetPromise) return;
+
+        // Em vez de processar o container todo, processamos apenas blocos de texto
+        // Isso evita que o MathJax bloqueie a Main Thread por muito tempo
+        const mathElements = container.querySelectorAll('h4, p, span, .glass-panel');
+
+        // Processa em pequenos grupos para manter a fluidez
+        const batchSize = 5;
+        let i = 0;
+
+        const processBatch = () => {
+            if (i >= mathElements.length) return;
+
+            const elementsToProcess = Array.from(mathElements).slice(i, i + batchSize);
+            window.MathJax.typesetPromise(elementsToProcess)
+                .catch(err => console.warn('MathJax Batch Error:', err));
+
+            i += batchSize;
+            setTimeout(processBatch, 50); // Dá um respiro de 50ms para o navegador
+        };
+
+        processBatch();
     },
 
     // --- Helpers de Navegação ---
@@ -248,8 +269,8 @@ var app = {
         if (sounds[viewName]) audioManager.play(sounds[viewName]);
 
         if (['home', 'map', 'lesson', 'mode_select', 'settings'].includes(viewName)) {
-            
-            audioManager.playMusic('focus_drone'); 
+
+            audioManager.playMusic('focus_drone');
         }
         else if (viewName === 'login') {
             audioManager.stopMusic();
@@ -504,6 +525,86 @@ var app = {
             'auth/weak-password': "A senha deve ter pelo menos 6 caracteres."
         };
         return errors[code] || "Erro de login (" + code + ")";
+    },
+
+    renderProgressive: function (html) {
+        const container = document.getElementById("main-container");
+        if (!container) return;
+
+        container.innerHTML = "";
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = html;
+
+        const elements = Array.from(tempDiv.children);
+        const fragment = document.createDocumentFragment();
+
+        // Renderiza os primeiros 5 elementos (Header do mapa e primeiras lições)
+        const initialBatch = elements.slice(0, 5);
+        initialBatch.forEach(el => fragment.appendChild(el));
+        container.appendChild(fragment);
+
+        let index = 5;
+        const renderNext = () => {
+            if (index >= elements.length) {
+                this._renderMathJax(container); // Renderiza fórmulas ao final
+                return;
+            }
+
+            const batch = document.createDocumentFragment();
+            const limit = Math.min(index + 3, elements.length);
+            for (let i = index; i < limit; i++) {
+                batch.appendChild(elements[i]);
+            }
+            container.appendChild(batch);
+            index = limit;
+            requestAnimationFrame(renderNext);
+        };
+        requestAnimationFrame(renderNext);
+    },
+
+    // Adicione isso ao seu app.js
+    renderView: function (html) {
+        const container = document.getElementById("main-container");
+        if (!container) return;
+
+        container.innerHTML = ""; // Limpa a tela anterior
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = html;
+
+        const elements = Array.from(tempDiv.children);
+        const fragment = document.createDocumentFragment();
+
+        // Renderiza o esqueleto ou os primeiros itens (ex: 8 itens)
+        const initialCount = 8;
+        elements.slice(0, initialCount).forEach(el => fragment.appendChild(el));
+        container.appendChild(fragment);
+
+        // Carrega o resto sob demanda
+        let currentPos = initialCount;
+        const chunk = 4; // Quantos itens carregar por vez
+
+        const renderNext = () => {
+            if (currentPos >= elements.length) {
+                // Após terminar tudo, renderiza o MathJax se necessário
+                if (this._renderMathJax) this._renderMathJax(container);
+                return;
+            }
+
+            const nextBatch = document.createDocumentFragment();
+            const end = Math.min(currentPos + chunk, elements.length);
+
+            for (let i = currentPos; i < end; i++) {
+                nextBatch.appendChild(elements[i]);
+            }
+
+            container.appendChild(nextBatch);
+            currentPos = end;
+
+            // Usa o tempo ocioso do navegador para não travar o scroll
+            requestAnimationFrame(renderNext);
+        };
+
+        requestAnimationFrame(renderNext);
     },
 
     // ========================================================================
