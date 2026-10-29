@@ -1,0 +1,96 @@
+{
+  "id": "lip.ef06.morfologia.derivacao_e_composicao",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 7,
+  "unidade": "Morfologia",
+  "titulo": "Derivação e composição",
+  "bncc": [
+    "EF67LP35"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Classifique infeliz, florista, passatempo e guarda-chuva e justifique pela estrutura. Compare guarda-chuva e chuva forte. Explique por que contar palavras ou procurar hífen não resolve a análise."
+    ],
+    "resumo": "Derivação e composição",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Derivação e composição</h2><p>Derivação forma palavras a partir de uma base por processos que incluem o acréscimo de afixos. Infeliz contém o prefixo in-; florista contém o sufixo -ista. Composição combina bases: guarda-chuva e passatempo são exemplos. O hífen não decide a classificação: passatempo é composta sem hífen. Tampouco toda palavra longa é composta. Para justificar, identifique afixos ou bases e explique como participam do sentido. Não é necessário classificar aqui todos os processos de formação da língua.</p><h3>Exemplo comentado</h3><p>Infeliz é derivada de feliz por prefixação. Beija-flor combina bases relacionadas a beijar e flor. Flor bonita é uma combinação livre de palavras; não se torna automaticamente uma palavra composta.</p><h3>Produza e revise</h3><p>Classifique infeliz, florista, passatempo e guarda-chuva e justifique pela estrutura. Compare guarda-chuva e chuva forte. Explique por que contar palavras ou procurar hífen não resolve a análise.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "derivacao_e_composicao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual par traz derivada e composta, nessa ordem?",
+      "alternativas": [
+        "Guarda-chuva e passatempo",
+        "Infeliz e beija-flor",
+        "Flores e livros",
+        "Passatempo e desleal"
+      ],
+      "correta": 1,
+      "explicacao": "Infeliz é derivada de feliz por prefixação. Beija-flor combina bases relacionadas a beijar e flor. Flor bonita é uma combinação livre de palavras; não se torna automaticamente uma palavra composta.",
+      "bncc": [
+        "EF67LP35"
+      ]
+    },
+    {
+      "id": "derivacao_e_composicao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Classifique infeliz, florista, passatempo e guarda-chuva e justifique pela estrutura. Compare guarda-chuva e chuva forte. Explique por que contar palavras ou procurar hífen não resolve a análise.",
+      "gabarito": "Infeliz: prefixação; florista: sufixação; passatempo e guarda-chuva: composição. Guarda-chuva nomeia um objeto como unidade lexical; chuva forte é combinação livre. Composição não exige hífen.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Infeliz: prefixação; florista: sufixação; passatempo e guarda-chuva: composição. Guarda-chuva nomeia um objeto como unidade lexical; chuva forte é combinação livre. Composição não exige hífen.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP35"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        173
+      ],
+      "paginasImpressas": "171",
+      "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+    },
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        66,
+        67,
+        69,
+        70
+      ],
+      "paginasImpressas": "69–70, 72–73",
+      "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes. Lote recuperado após limpeza automática do ambiente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

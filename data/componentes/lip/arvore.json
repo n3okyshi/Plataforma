@@ -7291,7 +7291,7 @@
           "aulas": [
             {
               "id": "lip.ef06.morfologia.estrutura_das_palavras",
-              "titulo": "Estrutura das Palavras",
+              "titulo": "Estrutura das palavras e famílias lexicais",
               "bncc": [
                 "EF67LP35"
               ],
@@ -7305,16 +7305,32 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    173
+                  ],
+                  "paginasImpressas": "171",
+                  "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+                },
+                {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "69"
+                  "paginasPdf": [
+                    66,
+                    67,
+                    69,
+                    70
+                  ],
+                  "paginasImpressas": "69–70, 72–73",
+                  "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer radical, prefixo, sufixo e desinências na estrutura das palavras."
+              "resumo": "Reconhecer radical, prefixo, sufixo e desinências na estrutura das palavras.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.morfologia.derivacao_e_composicao",
-              "titulo": "Derivação e Composição",
+              "titulo": "Derivação e composição",
               "bncc": [
                 "EF67LP35"
               ],
@@ -7328,16 +7344,32 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    173
+                  ],
+                  "paginasImpressas": "171",
+                  "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+                },
+                {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "72"
+                  "paginasPdf": [
+                    66,
+                    67,
+                    69,
+                    70
+                  ],
+                  "paginasImpressas": "69–70, 72–73",
+                  "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Distinguir palavras derivadas por afixos de palavras compostas."
+              "resumo": "Distinguir palavras derivadas por afixos de palavras compostas.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.morfologia.prefixos_de_negacao",
-              "titulo": "Prefixos de Negação",
+              "titulo": "Prefixos de negação e antônimos",
               "bncc": [
                 "EF67LP34"
               ],
@@ -7351,16 +7383,32 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    173
+                  ],
+                  "paginasImpressas": "171",
+                  "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+                },
+                {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "72"
+                  "paginasPdf": [
+                    66,
+                    67,
+                    69,
+                    70
+                  ],
+                  "paginasImpressas": "69–70, 72–73",
+                  "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Formar antônimos com prefixos que expressam negação."
+              "resumo": "Formar antônimos com prefixos que expressam negação.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.morfologia.series_sinonimicas",
-              "titulo": "Séries Sinonímicas e Diferenças de Sentido",
+              "titulo": "Sinônimos: diferenças de sentido",
               "bncc": [
                 "EF06LP03"
               ],
@@ -7374,18 +7422,34 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    173
+                  ],
+                  "paginasImpressas": "171",
+                  "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+                },
+                {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "35"
+                  "paginasPdf": [
+                    66,
+                    67,
+                    69,
+                    70
+                  ],
+                  "paginasImpressas": "69–70, 72–73",
+                  "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Analisar diferenças de sentido entre palavras de uma mesma série sinonímica."
+              "resumo": "Analisar diferenças de sentido entre palavras de uma mesma série sinonímica.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.morfologia.formacao_de_palavras_novas",
-              "titulo": "Formar Palavras Novas",
+              "titulo": "Criar palavras e explicar seus sentidos",
               "bncc": [
-                "EF06LP03"
+                "EF67LP35"
               ],
               "areas": [
                 "linguagens",
@@ -7397,12 +7461,28 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    173
+                  ],
+                  "paginasImpressas": "171",
+                  "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+                },
+                {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "72"
+                  "paginasPdf": [
+                    66,
+                    67,
+                    69,
+                    70
+                  ],
+                  "paginasImpressas": "69–70, 72–73",
+                  "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Criar palavras pelo acréscimo de afixos e explicar seu sentido."
+              "resumo": "Criar palavras pelo acréscimo de afixos e explicar seu sentido.",
+              "estado": "piloto"
             }
           ]
         },

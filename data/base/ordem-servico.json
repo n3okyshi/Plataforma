@@ -32,93 +32,52 @@
       "estado": "em_andamento"
     },
     {
-      "ordem": 7,
-      "trabalho": "Completar uma unidade de Matemática do 6º ano em todas as camadas e realizar testes",
-      "estado": "conteudo_integral_para_testes"
+      "trabalho": "Completar Matemática EF01–EF09 e EM01–EM03 em todas as camadas para testes",
+      "estado": "conteudo_integral_para_testes",
+      "pendencias": [
+        "Homologação docente e aplicação real.",
+        "Revisão visual e acessibilidade.",
+        "Autenticação, Firebase e cache real."
+      ],
+      "ordem": 7
     },
     {
       "ordem": 8,
-      "trabalho": "Completar todas as unidades de Matemática do 1º ao 9º ano em todas as camadas",
-      "estado": "conteudo_integral_para_testes",
+      "trabalho": "Completar todas as unidades de Língua Portuguesa do 1º ao 9º ano em todas as camadas",
+      "estado": "em_andamento",
       "subescopos": [
         {
-          "niveis": [
-            "EF01",
-            "EF02",
-            "EF03",
-            "EF04",
-            "EF05",
-            "EF06",
-            "EF07",
-            "EF08",
-            "EF09"
+          "nivel": "EF06",
+          "unidadesParaTestes": [
+            "Língua, Texto e Contexto",
+            "Morfologia"
           ],
-          "estado": "conteudo_integral_para_testes",
+          "demaisUnidades": "pendentes",
           "pendencias": [
-            "Aplicação das produções e homologação docente.",
+            "Homologação docente e aplicação real.",
             "Revisão visual e acessibilidade.",
-            "Firebase e cache em ambiente real."
+            "Autenticação, Firebase e cache real."
           ]
         }
       ]
     },
     {
       "ordem": 9,
-      "trabalho": "Completar Matemática do 1º ao 3º ano do Ensino Médio em todas as camadas e realizar testes",
-      "estado": "conteudo_integral_para_testes",
-      "subescopos": [
-        {
-          "niveis": [
-            "EM01",
-            "EM02",
-            "EM03"
-          ],
-          "estado": "conteudo_integral_para_testes",
-          "pendencias": [
-            "Aplicação das produções e homologação docente.",
-            "Revisão visual e acessibilidade.",
-            "Firebase e cache em ambiente real."
-          ]
-        }
-      ]
-    },
-    {
-      "ordem": 10,
-      "trabalho": "Completar uma unidade de Língua Portuguesa do 6º ano em todas as camadas e realizar testes",
-      "estado": "piloto_unidade_para_testes",
-      "pendencias": [
-        "Homologação docente e aplicação real.",
-        "Revisão visual e acessibilidade.",
-        "Autenticação, Firebase e cache real."
-      ]
-    },
-    {
-      "ordem": 11,
-      "trabalho": "Completar todas as unidades de Língua Portuguesa do 1º ao 9º ano em todas as camadas",
-      "estado": "pendente"
-    },
-    {
-      "ordem": 12,
       "trabalho": "Completar Língua Portuguesa do 1º ao 3º ano do Ensino Médio em todas as camadas e realizar testes",
       "estado": "pendente"
     },
     {
-      "ordem": 13,
-      "trabalho": "Completar uma unidade de Ciências da Natureza do 6º ano em todas as camadas e realizar testes",
-      "estado": "pendente"
-    },
-    {
-      "ordem": 14,
+      "ordem": 10,
       "trabalho": "Completar todas as unidades de Ciências da Natureza do 1º ao 9º ano em todas as camadas",
       "estado": "pendente"
     },
     {
-      "ordem": 15,
+      "ordem": 11,
       "trabalho": "Expandir por componente e etapa até finalizar todas as disciplinas das etapas correspondentes",
       "estado": "pendente"
     }
   ],
-  "marcoAtual": "Matemática EF01–EF09 e EM01–EM03 para testes. Piloto de Língua Portuguesa EF06: Língua, Texto e Contexto, quatro aulas curriculares e um apoio complementar. Próxima autoria: demais unidades de Língua Portuguesa EF06. Nenhum lote homologado.",
+  "marcoAtual": "Matemática nos 12 anos e duas unidades de Português EF06 para testes. Próxima autoria: Classes Gramaticais EF06. Nenhum lote homologado.",
   "regra": "Rascunhos recuperados e vínculos propostos não equivalem a conteúdos concluídos.",
   "criteriosDeConclusao": [
     "Todas as camadas têm fonte rastreável e conteúdo efetivo.",

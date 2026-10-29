@@ -1,4 +1,3 @@
-/* Bancos separados de treino e prova; apoio complementar excluído. */
 registrarQuestoes([
   {
     "id": "lip.ef06.lingua_texto_e_contexto.treino.01",
@@ -391,6 +390,476 @@ registrarQuestoes([
     "autoria": "produção autoral assistida",
     "estado": "piloto",
     "complementar": false
+  },
+  {
+    "id": "lip.ef06.morfologia.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Morfologia",
+    "aulaId": "lip.ef06.morfologia.estrutura_das_palavras",
+    "bncc": [
+      "EF67LP35"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual palavra apresenta derivação por sufixo?",
+    "opcoes": [
+      "Flores",
+      "Florista",
+      "Guarda-chuva",
+      "Sol"
+    ],
+    "correta": 1,
+    "explicacao": "Florista combina flor- e -ista. Desleal combina des- e leal. Guarda-chuva combina duas bases e é composta. Esses exemplos permitem distinguir acréscimo de afixos de combinação de bases.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          173
+        ],
+        "paginasImpressas": "171",
+        "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          66,
+          67,
+          69,
+          70
+        ],
+        "paginasImpressas": "69–70, 72–73",
+        "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.morfologia.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Morfologia",
+    "aulaId": "lip.ef06.morfologia.estrutura_das_palavras",
+    "bncc": [
+      "EF67LP35"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual comparação está correta?",
+    "opcoes": [
+      "Livros é plural de livro; livreiro é derivada.",
+      "Livros e livreiro são apenas plurais.",
+      "Livreiro é formada por duas bases independentes.",
+      "Livro é um prefixo."
+    ],
+    "correta": 0,
+    "explicacao": "O plural marca número; livreiro resulta de derivação, com ajuste na forma da base.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          173
+        ],
+        "paginasImpressas": "171",
+        "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          66,
+          67,
+          69,
+          70
+        ],
+        "paginasImpressas": "69–70, 72–73",
+        "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.morfologia.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Morfologia",
+    "aulaId": "lip.ef06.morfologia.derivacao_e_composicao",
+    "bncc": [
+      "EF67LP35"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual par traz derivada e composta, nessa ordem?",
+    "opcoes": [
+      "Guarda-chuva e passatempo",
+      "Infeliz e beija-flor",
+      "Flores e livros",
+      "Passatempo e desleal"
+    ],
+    "correta": 1,
+    "explicacao": "Infeliz é derivada de feliz por prefixação. Beija-flor combina bases relacionadas a beijar e flor. Flor bonita é uma combinação livre de palavras; não se torna automaticamente uma palavra composta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          173
+        ],
+        "paginasImpressas": "171",
+        "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          66,
+          67,
+          69,
+          70
+        ],
+        "paginasImpressas": "69–70, 72–73",
+        "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.morfologia.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Morfologia",
+    "aulaId": "lip.ef06.morfologia.derivacao_e_composicao",
+    "bncc": [
+      "EF67LP35"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Por que passatempo é composta?",
+    "opcoes": [
+      "É longa.",
+      "Tem prefixo negativo.",
+      "Combina duas bases, mesmo sem hífen.",
+      "É plural de tempo."
+    ],
+    "correta": 2,
+    "explicacao": "A composição depende das bases combinadas, não da presença obrigatória de hífen.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          173
+        ],
+        "paginasImpressas": "171",
+        "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          66,
+          67,
+          69,
+          70
+        ],
+        "paginasImpressas": "69–70, 72–73",
+        "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.morfologia.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Morfologia",
+    "aulaId": "lip.ef06.morfologia.prefixos_de_negacao",
+    "bncc": [
+      "EF67LP34"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual antônimo de possível se forma por prefixação?",
+    "opcoes": [
+      "Possibilidade",
+      "Possivelmente",
+      "Impossível",
+      "Possíveis"
+    ],
+    "correta": 2,
+    "explicacao": "Em “A solução é possível”, afirma-se a viabilidade. Em “A solução é impossível”, essa viabilidade é negada. O antônimo usual de leal por prefixação é desleal. Quente/frio é outro tipo de oposição, sem acréscimo de prefixo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          173
+        ],
+        "paginasImpressas": "171",
+        "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          66,
+          67,
+          69,
+          70
+        ],
+        "paginasImpressas": "69–70, 72–73",
+        "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.morfologia.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Morfologia",
+    "aulaId": "lip.ef06.morfologia.prefixos_de_negacao",
+    "bncc": [
+      "EF67LP34"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conjunto apresenta antônimos com prefixos de negação?",
+    "opcoes": [
+      "Quente/frio; alto/baixo",
+      "Feliz/infeliz; leal/desleal",
+      "Livro/livros; flor/flores",
+      "Flor/florista; pedra/pedreiro"
+    ],
+    "correta": 1,
+    "explicacao": "Infeliz e desleal são formações negativas; os outros pares apresentam oposição com bases diferentes, flexão ou outra derivação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          173
+        ],
+        "paginasImpressas": "171",
+        "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          66,
+          67,
+          69,
+          70
+        ],
+        "paginasImpressas": "69–70, 72–73",
+        "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.morfologia.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Morfologia",
+    "aulaId": "lip.ef06.morfologia.series_sinonimicas",
+    "bncc": [
+      "EF06LP03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual troca acrescenta explicitamente voz baixa?",
+    "opcoes": [
+      "Disse por sussurrou",
+      "Sussurrou por gritou",
+      "Falou por escreveu",
+      "Disse por leu"
+    ],
+    "correta": 0,
+    "explicacao": "“Lia disse o endereço” não informa o volume da voz. “Lia sussurrou o endereço” acrescenta voz baixa. “Lia gritou o endereço” modifica a cena. Ao comparar contente, alegre e eufórica após uma boa notícia, eufórica tende a sugerir entusiasmo mais intenso.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          173
+        ],
+        "paginasImpressas": "171",
+        "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          66,
+          67,
+          69,
+          70
+        ],
+        "paginasImpressas": "69–70, 72–73",
+        "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.morfologia.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Morfologia",
+    "aulaId": "lip.ef06.morfologia.series_sinonimicas",
+    "bncc": [
+      "EF06LP03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “A torcida ficou eufórica”, trocar eufórica por contente tende a:",
+    "opcoes": [
+      "Indicar tristeza.",
+      "Manter obrigatoriamente a intensidade.",
+      "Eliminar qualquer sentimento.",
+      "Atenuar a intensidade de entusiasmo."
+    ],
+    "correta": 3,
+    "explicacao": "Eufórica sugere entusiasmo mais intenso; a substituição pode atenuar esse efeito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          173
+        ],
+        "paginasImpressas": "171",
+        "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          66,
+          67,
+          69,
+          70
+        ],
+        "paginasImpressas": "69–70, 72–73",
+        "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.morfologia.treino.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Morfologia",
+    "aulaId": "lip.ef06.morfologia.formacao_de_palavras_novas",
+    "bncc": [
+      "EF67LP35"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Ao criar uma palavra, qual procedimento é adequado?",
+    "opcoes": [
+      "Afirmar sem consulta que está no dicionário.",
+      "Explicar sua formação e marcar que é criação.",
+      "Impedir perguntas sobre o sentido.",
+      "Classificar toda criação como plural."
+    ],
+    "correta": 1,
+    "explicacao": "Em um conto, inventamos “desatrasador”: aparelho que elimina atrasos. A criação se relaciona a desatrasar e ao sufixo -dor. Também inventamos “mapa-sonho”, mapa de lugares sonhados, combinando mapa e sonho. São propostas autorais com sentido definido pelo conto; não afirmamos que sejam termos dicionarizados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          173
+        ],
+        "paginasImpressas": "171",
+        "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          66,
+          67,
+          69,
+          70
+        ],
+        "paginasImpressas": "69–70, 72–73",
+        "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.morfologia.prova.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Morfologia",
+    "aulaId": "lip.ef06.morfologia.formacao_de_palavras_novas",
+    "bncc": [
+      "EF67LP35"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma estudante inventa “guarda-risos” para um objeto que guarda risadas. Como justificar a formação proposta?",
+    "opcoes": [
+      "Como plural de riso.",
+      "Como prefixação de guarda-.",
+      "Como composição de bases, com sentido definido no conto.",
+      "Como prova de registro no dicionário."
+    ],
+    "correta": 2,
+    "explicacao": "A proposta combina bases e define um sentido autoral; isso não comprova uso consagrado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          173
+        ],
+        "paginasImpressas": "171",
+        "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          66,
+          67,
+          69,
+          70
+        ],
+        "paginasImpressas": "69–70, 72–73",
+        "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
   }
 ]);
 registrarProvas({
@@ -565,6 +1034,184 @@ registrarProvas({
         ],
         "atividadesPraticas": [
           "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao#usar_a_norma_padrao.producao"
+        ]
+      }
+    ]
+  },
+  "lip.ef06.morfologia.prova": {
+    "id": "lip.ef06.morfologia.prova",
+    "titulo": "Avaliação: Morfologia",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Morfologia",
+    "bncc": [
+      "EF06LP03",
+      "EF67LP34",
+      "EF67LP35"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Cinco itens objetivos, dois pontos por item, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+    "questoes": [
+      "lip.ef06.morfologia.prova.01",
+      "lip.ef06.morfologia.prova.02",
+      "lip.ef06.morfologia.prova.03",
+      "lip.ef06.morfologia.prova.04",
+      "lip.ef06.morfologia.prova.05"
+    ],
+    "criterios": "Dois pontos por item objetivo; portfólio com devolutiva por tarefa.",
+    "avaliacaoPratica": {
+      "id": "lip.ef06.morfologia.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de análise e criação lexical",
+      "enunciado": "Reúna as cinco produções e revise após a devolutiva. Registre a interpretação do colega na criação lexical.",
+      "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+      "rubrica": [
+        "Atende: apresenta evidência e explica escolhas.",
+        "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+        "Retomar: precisa produzir ou corrigir a evidência."
+      ],
+      "bncc": [
+        "EF06LP03",
+        "EF67LP34",
+        "EF67LP35"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Estrutura das palavras e famílias lexicais",
+          "enunciado": "Organize flor, flores, florista, desleal e guarda-chuva em um quadro: indique as partes relevantes e se há flexão, derivação ou composição. Explique por que a semelhança de letras não basta.",
+          "gabarito": "Flor é a base; flores é flexão de plural; florista é derivada por sufixo; desleal, por prefixo; guarda-chuva é composta. A análise exige relação de sentido, não só coincidência gráfica.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Flor é a base; flores é flexão de plural; florista é derivada por sufixo; desleal, por prefixo; guarda-chuva é composta. A análise exige relação de sentido, não só coincidência gráfica.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP35"
+          ],
+          "atividadeOrigem": "lip.ef06.morfologia.estrutura_das_palavras#estrutura_das_palavras.producao"
+        },
+        {
+          "titulo": "Derivação e composição",
+          "enunciado": "Classifique infeliz, florista, passatempo e guarda-chuva e justifique pela estrutura. Compare guarda-chuva e chuva forte. Explique por que contar palavras ou procurar hífen não resolve a análise.",
+          "gabarito": "Infeliz: prefixação; florista: sufixação; passatempo e guarda-chuva: composição. Guarda-chuva nomeia um objeto como unidade lexical; chuva forte é combinação livre. Composição não exige hífen.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Infeliz: prefixação; florista: sufixação; passatempo e guarda-chuva: composição. Guarda-chuva nomeia um objeto como unidade lexical; chuva forte é combinação livre. Composição não exige hífen.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP35"
+          ],
+          "atividadeOrigem": "lip.ef06.morfologia.derivacao_e_composicao#derivacao_e_composicao.producao"
+        },
+        {
+          "titulo": "Prefixos de negação e antônimos",
+          "enunciado": "Forme antônimos por prefixação para feliz, possível, leal e regular. Use dois pares em frases que evidenciem a oposição. Compare com quente/frio e explique por que nem todo antônimo resulta de prefixação.",
+          "gabarito": "Infeliz, impossível, desleal e irregular. As frases devem evidenciar oposição coerente. Quente/frio tem bases distintas e não é formado pelo acréscimo de um prefixo a quente.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Infeliz, impossível, desleal e irregular. As frases devem evidenciar oposição coerente. Quente/frio tem bases distintas e não é formado pelo acréscimo de um prefixo a quente.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP34"
+          ],
+          "atividadeOrigem": "lip.ef06.morfologia.prefixos_de_negacao#prefixos_de_negacao.producao"
+        },
+        {
+          "titulo": "Sinônimos: diferenças de sentido",
+          "enunciado": "Compare “A criança estava contente”, “A criança estava alegre” e “A criança estava eufórica” após uma notícia. Explique o que a última escolha acrescenta. Escreva uma cena com disse e substitua por sussurrou ou gritou, justificando o efeito.",
+          "gabarito": "Contente e alegre têm sentidos próximos nesse contexto; eufórica sugere maior intensidade de entusiasmo ou excitação. Sussurrou indica voz baixa; gritou indica voz alta. Aceitar leituras justificadas pelo contexto.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Contente e alegre têm sentidos próximos nesse contexto; eufórica sugere maior intensidade de entusiasmo ou excitação. Sussurrou indica voz baixa; gritou indica voz alta. Aceitar leituras justificadas pelo contexto.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF06LP03"
+          ],
+          "atividadeOrigem": "lip.ef06.morfologia.series_sinonimicas#series_sinonimicas.producao"
+        },
+        {
+          "titulo": "Criar palavras e explicar seus sentidos",
+          "enunciado": "Crie duas palavras para objetos de um conto: uma por acréscimo de afixo e outra por combinação de bases. Escreva um verbete para cada uma, identifique-as como criações e explique sua estrutura. Registre a interpretação de um colega e revise após a devolutiva.",
+          "gabarito": "Resposta aberta: exigir base e afixo reconhecíveis no primeiro caso e bases combinadas no segundo. Os verbetes devem ser coerentes com o sentido pretendido e identificados como criações. Registrar a leitura do colega e revisão ou justificativa de manutenção.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Resposta aberta: exigir base e afixo reconhecíveis no primeiro caso e bases combinadas no segundo. Os verbetes devem ser coerentes com o sentido pretendido e identificados como criações. Registrar a leitura do colega e revisão ou justificativa de manutenção.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP35"
+          ],
+          "atividadeOrigem": "lip.ef06.morfologia.formacao_de_palavras_novas#formacao_de_palavras_novas.producao"
+        }
+      ],
+      "correcao": "Docente com devolutiva individual; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          173
+        ],
+        "paginasImpressas": "171",
+        "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          66,
+          67,
+          69,
+          70
+        ],
+        "paginasImpressas": "69–70, 72–73",
+        "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF06LP03",
+        "questoes": [
+          "lip.ef06.morfologia.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.morfologia.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.morfologia.series_sinonimicas#series_sinonimicas.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP34",
+        "questoes": [
+          "lip.ef06.morfologia.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.morfologia.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.morfologia.prefixos_de_negacao#prefixos_de_negacao.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP35",
+        "questoes": [
+          "lip.ef06.morfologia.prova.01",
+          "lip.ef06.morfologia.prova.02",
+          "lip.ef06.morfologia.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.morfologia.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.morfologia.estrutura_das_palavras#estrutura_das_palavras.producao",
+          "lip.ef06.morfologia.derivacao_e_composicao#derivacao_e_composicao.producao",
+          "lip.ef06.morfologia.formacao_de_palavras_novas#formacao_de_palavras_novas.producao"
         ]
       }
     ]

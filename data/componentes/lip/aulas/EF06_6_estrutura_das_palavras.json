@@ -1,0 +1,96 @@
+{
+  "id": "lip.ef06.morfologia.estrutura_das_palavras",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 6,
+  "unidade": "Morfologia",
+  "titulo": "Estrutura das palavras e famílias lexicais",
+  "bncc": [
+    "EF67LP35"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Organize flor, flores, florista, desleal e guarda-chuva em um quadro: indique as partes relevantes e se há flexão, derivação ou composição. Explique por que a semelhança de letras não basta."
+    ],
+    "resumo": "Estrutura das palavras e famílias lexicais",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Estrutura das palavras e famílias lexicais</h2><p>Palavras podem conter partes que contribuem para seu sentido. Em flor, florista e florido, reconhecemos uma família lexical e a base flor-. Um prefixo aparece antes de uma base, como des- em desleal; um sufixo aparece depois, como -ista em florista. Esses afixos participam da derivação. Já o -s de flores marca plural: flexionar não é criar outra palavra por derivação. Não basta encontrar letras iguais: sol e soldado não pertencem à mesma família apenas por começarem por sol. É preciso relacionar forma e significado.</p><h3>Exemplo comentado</h3><p>Florista combina flor- e -ista. Desleal combina des- e leal. Guarda-chuva combina duas bases e é composta. Esses exemplos permitem distinguir acréscimo de afixos de combinação de bases.</p><h3>Produza e revise</h3><p>Organize flor, flores, florista, desleal e guarda-chuva em um quadro: indique as partes relevantes e se há flexão, derivação ou composição. Explique por que a semelhança de letras não basta.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "estrutura_das_palavras.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual palavra apresenta derivação por sufixo?",
+      "alternativas": [
+        "Flores",
+        "Florista",
+        "Guarda-chuva",
+        "Sol"
+      ],
+      "correta": 1,
+      "explicacao": "Florista combina flor- e -ista. Desleal combina des- e leal. Guarda-chuva combina duas bases e é composta. Esses exemplos permitem distinguir acréscimo de afixos de combinação de bases.",
+      "bncc": [
+        "EF67LP35"
+      ]
+    },
+    {
+      "id": "estrutura_das_palavras.producao",
+      "tipo": "discursiva",
+      "enunciado": "Organize flor, flores, florista, desleal e guarda-chuva em um quadro: indique as partes relevantes e se há flexão, derivação ou composição. Explique por que a semelhança de letras não basta.",
+      "gabarito": "Flor é a base; flores é flexão de plural; florista é derivada por sufixo; desleal, por prefixo; guarda-chuva é composta. A análise exige relação de sentido, não só coincidência gráfica.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Flor é a base; flores é flexão de plural; florista é derivada por sufixo; desleal, por prefixo; guarda-chuva é composta. A análise exige relação de sentido, não só coincidência gráfica.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP35"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        173
+      ],
+      "paginasImpressas": "171",
+      "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+    },
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        66,
+        67,
+        69,
+        70
+      ],
+      "paginasImpressas": "69–70, 72–73",
+      "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes. Lote recuperado após limpeza automática do ambiente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": "lip.ef06.morfologia.formacao_de_palavras_novas",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 10,
+  "unidade": "Morfologia",
+  "titulo": "Criar palavras e explicar seus sentidos",
+  "bncc": [
+    "EF67LP35"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Crie duas palavras para objetos de um conto: uma por acréscimo de afixo e outra por combinação de bases. Escreva um verbete para cada uma, identifique-as como criações e explique sua estrutura. Registre a interpretação de um colega e revise após a devolutiva."
+    ],
+    "resumo": "Criar palavras e explicar seus sentidos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Criar palavras e explicar seus sentidos</h2><p>A língua permite criar palavras para novas situações. Algumas passam a circular; outras ficam restritas a um texto. Criar uma palavra não prova que ela esteja registrada em dicionários. Para explicar a criação, identifique a base e o afixo ou as bases combinadas. Escreva uma definição, teste se o leitor a compreende e revise. Não apresente uma invenção como termo consagrado sem verificar.</p><h3>Exemplo comentado</h3><p>Em um conto, inventamos “desatrasador”: aparelho que elimina atrasos. A criação se relaciona a desatrasar e ao sufixo -dor. Também inventamos “mapa-sonho”, mapa de lugares sonhados, combinando mapa e sonho. São propostas autorais com sentido definido pelo conto; não afirmamos que sejam termos dicionarizados.</p><h3>Produza e revise</h3><p>Crie duas palavras para objetos de um conto: uma por acréscimo de afixo e outra por combinação de bases. Escreva um verbete para cada uma, identifique-as como criações e explique sua estrutura. Registre a interpretação de um colega e revise após a devolutiva.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "formacao_de_palavras_novas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Ao criar uma palavra, qual procedimento é adequado?",
+      "alternativas": [
+        "Afirmar sem consulta que está no dicionário.",
+        "Explicar sua formação e marcar que é criação.",
+        "Impedir perguntas sobre o sentido.",
+        "Classificar toda criação como plural."
+      ],
+      "correta": 1,
+      "explicacao": "Em um conto, inventamos “desatrasador”: aparelho que elimina atrasos. A criação se relaciona a desatrasar e ao sufixo -dor. Também inventamos “mapa-sonho”, mapa de lugares sonhados, combinando mapa e sonho. São propostas autorais com sentido definido pelo conto; não afirmamos que sejam termos dicionarizados.",
+      "bncc": [
+        "EF67LP35"
+      ]
+    },
+    {
+      "id": "formacao_de_palavras_novas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie duas palavras para objetos de um conto: uma por acréscimo de afixo e outra por combinação de bases. Escreva um verbete para cada uma, identifique-as como criações e explique sua estrutura. Registre a interpretação de um colega e revise após a devolutiva.",
+      "gabarito": "Resposta aberta: exigir base e afixo reconhecíveis no primeiro caso e bases combinadas no segundo. Os verbetes devem ser coerentes com o sentido pretendido e identificados como criações. Registrar a leitura do colega e revisão ou justificativa de manutenção.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Resposta aberta: exigir base e afixo reconhecíveis no primeiro caso e bases combinadas no segundo. Os verbetes devem ser coerentes com o sentido pretendido e identificados como criações. Registrar a leitura do colega e revisão ou justificativa de manutenção.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP35"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        173
+      ],
+      "paginasImpressas": "171",
+      "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+    },
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        66,
+        67,
+        69,
+        70
+      ],
+      "paginasImpressas": "69–70, 72–73",
+      "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes. Lote recuperado após limpeza automática do ambiente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}
