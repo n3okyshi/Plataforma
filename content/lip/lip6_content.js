@@ -1,5 +1,12 @@
 registrarTeoria({
   "lip.ef06.morfologia.formacao_de_palavras_novas": "<h2>Criar palavras e explicar seus sentidos</h2><p>A língua permite criar palavras para novas situações. Algumas passam a circular; outras ficam restritas a um texto. Criar uma palavra não prova que ela esteja registrada em dicionários. Para explicar a criação, identifique a base e o afixo ou as bases combinadas. Escreva uma definição, teste se o leitor a compreende e revise. Não apresente uma invenção como termo consagrado sem verificar.</p><h3>Exemplo comentado</h3><p>Em um conto, inventamos “desatrasador”: aparelho que elimina atrasos. A criação se relaciona a desatrasar e ao sufixo -dor. Também inventamos “mapa-sonho”, mapa de lugares sonhados, combinando mapa e sonho. São propostas autorais com sentido definido pelo conto; não afirmamos que sejam termos dicionarizados.</p><h3>Produza e revise</h3><p>Crie duas palavras para objetos de um conto: uma por acréscimo de afixo e outra por combinação de bases. Escreva um verbete para cada uma, identifique-as como criações e explique sua estrutura. Registre a interpretação de um colega e revise após a devolutiva.</p>",
+  "lip.ef06.classes_gramaticais.substantivo": "<h2>Substantivos em uso: função e flexões</h2><h3>Ideias e relações</h3><p>Substantivos nomeiam seres, objetos, lugares, sentimentos e ideias. Sua função no texto vai além de decorar uma lista: permitem apresentar e retomar aquilo de que se fala. Escola é um nome comum; Escola Horizonte, no nosso exemplo fictício, é uma denominação própria. Alegria nomeia um sentimento, embora não seja um objeto que se possa tocar. Um substantivo pode receber diferentes classificações ao mesmo tempo. O contexto ajuda a decidir a função: em “O cantar dos pássaros”, cantar funciona como substantivo.</p><h3>Exemplo comentado</h3><p>Em “A estudante encontrou o livro”, estudante e livro nomeiam participantes da cena. Ao passar para “As estudantes encontraram os livros”, alteram-se número e concordância. O gênero de estudante pode ser indicado por a/o: a forma do substantivo não precisa mudar. Gênero gramatical não se confunde automaticamente com sexo ou identidade. Em “um livrinho querido”, o diminutivo pode expressar afeto; não informa obrigatoriamente tamanho. As formas de grau podem ser tratadas como derivação, por isso não vamos confundir esse processo com o plural.</p><h3>Produza e revise</h3><p>Reescreva “A estudante encontrou o livro novo” para indicar mais de uma estudante e mais de um livro. Identifique os substantivos e explique todas as alterações necessárias. Depois crie um trecho em que livrinho expresse carinho e justifique pelo contexto.</p>",
+  "lip.ef06.classes_gramaticais.adjetivo": "<h2>Adjetivos: caracterização e flexões</h2><h3>Ideias e relações</h3><p>Adjetivos caracterizam substantivos, expressando propriedades, estados ou avaliações. Em biblioteca silenciosa, silenciosa caracteriza biblioteca. A escolha orienta a imagem construída pelo leitor: dizer que um lugar é acolhedor ou assustador produz efeitos diferentes. Não confunda a característica com o nome daquilo que se descreve. Algumas expressões têm valor adjetivo: material escolar e material de escola, embora a substituição nem sempre preserve todas as nuances.</p><h3>Exemplo comentado</h3><p>Em “Os livros novos chegaram”, novos caracteriza livros e concorda no masculino plural. Em “As revistas novas chegaram”, novas concorda no feminino plural. Nem todo adjetivo varia em gênero: livro interessante e revista interessante usam a mesma forma; no plural, interessantes. Em “Esta sala é mais silenciosa que aquela”, o adjetivo participa de uma comparação explícita.</p><h3>Produza e revise</h3><p>Descreva uma biblioteca em três frases, usando dois adjetivos que ajudem o leitor a imaginá-la. Reescreva uma frase trocando livro por revistas e ajuste a concordância. Faça uma comparação entre dois espaços e explique o efeito de um dos adjetivos escolhidos.</p>",
+  "lip.ef06.classes_gramaticais.artigo_e_numeral": "<h2>Artigos e numerais: apoio complementar</h2><p><strong>Aprofundamento complementar opcional.</strong> Não bloqueia o percurso curricular.</p><h3>Ideias e relações</h3><p>Este apoio amplia o estudo das classes e não recebe um vínculo curricular artificial. Artigos acompanham substantivos e participam de sua determinação: o, a, os, as são definidos; um, uma, uns, umas são indefinidos. Em “uma estudante chegou; a estudante trouxe livros”, o segundo artigo ajuda a apresentar a pessoa como já identificada no contexto. Numerais podem indicar quantidade, ordem, fração ou multiplicação: três, terceiro, meio e dobro em usos apropriados. A classificação depende da frase.</p><h3>Exemplo comentado</h3><p>“Uma aluna entrou” pode apenas introduzir uma participante, com artigo indefinido. Em “Entrou uma aluna, não duas”, uma ganha destaque quantitativo como numeral. “A terceira turma trouxe dois cartazes”: terceira indica ordem; dois indica quantidade; a acompanha turma.</p><h3>Produza e revise</h3><p>Crie um pequeno relato que apresente alguém com artigo indefinido e depois retome essa pessoa com artigo definido. Inclua um numeral de quantidade e outro de ordem. Compare o uso de uma em “Uma aluna entrou” e “Uma, não duas alunas entraram”.</p>",
+  "lip.ef06.classes_gramaticais.pronome": "<h2>Pronomes e clareza na retomada de referentes</h2><h3>Ideias e relações</h3><p>Pronomes podem substituir ou acompanhar nomes e ajudar a construir coesão. Ele, ela e eles podem retomar participantes; meu e sua podem indicar relações de posse; este e aquele podem apontar ou retomar referentes. O sentido depende do contexto. O objetivo deste recorte não é decorar todos os tipos: é produzir um texto em que o leitor saiba quem está sendo retomado. Trocar toda repetição por pronome pode piorar a clareza.</p><h3>Exemplo comentado</h3><p>“Lia encontrou Bia. Ela levou o livro.” Sem contexto adicional, ela pode retomar Lia ou Bia. Se o sentido pretendido é que Bia levou o livro, “Lia encontrou Bia. Bia levou o livro” esclarece; depois podemos retomar Bia por ela quando não houver dúvida. Em “Lia guardou o caderno de Bia e seu livro”, seu também pode ser ambíguo. Repetir o nome pode ser uma boa revisão.</p><h3>Produza e revise</h3><p>Produza um relato de quatro a seis frases com duas personagens. Use nomes e pelo menos dois pronomes para retomá-las, sublinhando os pronomes e indicando seus referentes. Inclua uma frase de fala de uma personagem e deixe claro quem falou. Mostre a um colega, registre uma possível ambiguidade e revise.</p>",
+  "lip.ef06.classes_gramaticais.verbo_e_modos_verbais": "<h2>Verbos e efeitos dos modos verbais</h2><h3>Ideias e relações</h3><p>Verbos organizam o que se diz sobre ações, estados e fenômenos, situando acontecimentos e relações no tempo. Suas formas podem indicar pessoa, número, tempo e modo. Indicativo apresenta um conteúdo como declarado; isso não garante que ele seja verdadeiro. Subjuntivo pode construir hipótese, desejo ou possibilidade. Imperativo pode realizar pedido, orientação, conselho ou ordem: a intenção e o gênero ajudam a interpretar o efeito. Não reduza todo imperativo a uma ordem autoritária.</p><h3>Exemplo comentado</h3><p>Em “A turma visita a biblioteca”, visita é presente do indicativo, terceira pessoa do singular; em “As turmas visitam”, visitam está no plural. “Talvez a turma visite a biblioteca” usa presente do subjuntivo para possibilidade. Num cartaz dirigido a você: “Visite a biblioteca” e “Não risque os livros” são imperativos afirmativo e negativo. Em um convite, visite busca adesão; numa regra de cuidado, não risque orienta uma conduta. “Ontem visitamos a biblioteca” situa uma ação passada, enquanto “Amanhã visitaremos” situa a visita no futuro.</p><h3>Produza e revise</h3><p>Escreva um informe sobre uma visita já realizada, uma frase que apresente a possibilidade de nova visita e um convite ao leitor com imperativo afirmativo. Acrescente uma orientação com imperativo negativo. Identifique os verbos e explique seus efeitos conforme o gênero. Reescreva “A turma visita a biblioteca” com sujeito plural.</p>",
+  "lip.ef06.classes_gramaticais.adverbio_preposicao_conjuncao": "<h2>Advérbio, preposição e conjunção: apoio complementar</h2><p><strong>Aprofundamento complementar opcional.</strong> Não bloqueia o percurso curricular.</p><h3>Ideias e relações</h3><p>Neste apoio complementar, analisamos relações construídas no texto. Advérbios podem modificar verbo, adjetivo ou outro advérbio: cedo em chegou cedo indica tempo; muito em muito silenciosa intensifica o adjetivo. Preposições ligam termos: em livros de aventura, de relaciona livros a aventura; em para a turma, para introduz o destinatário. Conjunções ligam termos ou orações e estabelecem relações: e pode acrescentar informação; mas pode marcar contraste; porque pode introduzir uma razão. A interpretação depende da construção, não só de uma lista.</p><h3>Exemplo comentado</h3><p>“Ontem, fui à biblioteca com Lia, mas não encontrei o livro.” Ontem situa a ida no tempo; com introduz a companhia; mas contrasta a ida com a expectativa de encontrar o livro. Trocar mas por e muda a relação explicitada, embora os fatos possam continuar os mesmos. Não em não encontrei é advérbio de negação.</p><h3>Produza e revise</h3><p>Escreva um relato curto de visita a um lugar. Use um advérbio de tempo, uma preposição indicando companhia ou destino e uma conjunção de contraste. Identifique cada recurso e explique seu papel. Troque a conjunção de contraste por uma de adição e compare o efeito.</p>",
+  "lip.ef06.classes_gramaticais.interjeicao": "<h2>Interjeição e expressividade: apoio complementar</h2><p><strong>Aprofundamento complementar opcional.</strong> Não bloqueia o percurso curricular.</p><h3>Ideias e relações</h3><p>Interjeições e expressões interjetivas podem manifestar reações e atitudes em enunciados: ah!, ufa!, puxa! e meu Deus!, por exemplo. Seu efeito depende da cena, da pontuação e, na fala, da entonação. Ah! pode sugerir surpresa, compreensão ou decepção em diferentes contextos. Identificar uma interjeição não é analisar um modo verbal: este apoio não recebe EF06LP05 artificialmente. Nem toda frase com exclamação é interjeição.</p><h3>Exemplo comentado</h3><p>“Ufa! Conseguimos terminar o trabalho” sugere alívio após esforço. “Ah! Agora entendi” sugere compreensão. Em “Ah... você vai embora?”, a reação pode ser outra; precisamos do contexto. Em “Feche a porta!”, feche é verbo no imperativo, mesmo com ponto de exclamação.</p><h3>Produza e revise</h3><p>Crie dois diálogos curtos em que ah tenha efeitos diferentes. Apresente uma pista contextual para cada interpretação. Depois escreva um trecho com ufa e explique a reação. Leia uma versão em voz alta e registre como a entonação contribuiu para o efeito.</p>",
   "lip.ef06.lingua_texto_e_contexto.contexto_de_producao": "<h2>Quem conta também escolhe</h2><p>Todo texto é produzido em uma situação: alguém se dirige a um público, com uma finalidade, em um suporte. No jornalismo, selecionar o fato, o título, as fontes e a ordem das informações produz efeitos de sentido. Isso impede uma neutralidade absoluta, mas não autoriza inventar informações: apuração, transparência e confronto de fontes continuam necessários.</p><h3>Dois relatos do mesmo acontecimento</h3><p><strong>Simulação autoral: os textos e a escola abaixo são fictícios.</strong> Dados comuns: em 20 de outubro, a Escola Horizonte abriu a biblioteca por mais uma hora; 18 estudantes usaram o período adicional no primeiro dia. Ainda não há levantamento sobre os demais dias.</p><blockquote><strong>A — Biblioteca ganha uma hora e recebe 18 estudantes.</strong> A direção informou que a mudança amplia o acesso aos livros.</blockquote><blockquote><strong>B — Só 18 estudantes usam novo horário da biblioteca.</strong> Uma estudante disse que a divulgação ainda não chegou a todas as turmas.</blockquote><p>Ambos preservam os números, mas “ganha” destaca um benefício e “só” avalia a quantidade como pequena. A privilegia a direção; B, uma estudante. As falas não se anulam e os dados não permitem declarar sucesso ou fracasso definitivo.</p><h3>Exemplo comentado</h3><p>Retirar “só” torna o título B menos avaliativo, mas não elimina o recorte: o texto ainda escolhe o primeiro dia. Para avaliar a medida, investigaríamos a divulgação e o uso ao longo de mais dias, ouvindo diferentes envolvidos.</p><h3>No caderno</h3><p>Identificar autor, público, finalidade, suporte, fontes e escolhas de palavras ajuda a ler criticamente. Uma notícia pode ser rigorosa sem ser absolutamente neutra.</p>",
   "lip.ef06.lingua_texto_e_contexto.contexto_de_circulacao": "<h2>Um fato, diferentes gêneros</h2><p>A notícia apresenta um acontecimento relevante para um público e procura informar o que ocorreu, quem se envolveu, onde e quando, com fontes verificáveis. Uma reportagem pode partir desse fato e aprofundá-lo com contexto, entrevistas e dados. Um artigo de opinião defende uma posição por argumentos; um editorial expressa a posição editorial do veículo. Notícias também têm escolhas, mas não se confundem com textos que assumem como propósito principal defender uma tese.</p><h3>Dossiê fictício da biblioteca</h3><p><strong>Notícia:</strong> “Escola Horizonte amplia horário da biblioteca. No primeiro dia, 18 estudantes utilizaram a hora extra, segundo o registro de entrada.”</p><p><strong>Reportagem:</strong> “Quem consegue usar a biblioteca? A equipe ouviu estudantes dos dois turnos, comparou horários e consultou registros de quatro semanas para investigar barreiras de acesso.”</p><p><strong>Artigo de opinião:</strong> “Defendo ampliar também a divulgação: um novo horário só ajuda quando as turmas sabem que ele existe.”</p><p>A notícia é central nesse conjunto porque apresenta o acontecimento que dá origem ao aprofundamento e ao debate. A reportagem não é apenas uma notícia maior: sua investigação amplia o contexto. O artigo propõe uma posição sobre o fato.</p><h3>Suporte e recepção</h3><p>Os três podem circular em jornal impresso ou digital. O suporte não define sozinho o gênero. Ao receber uma captura de tela, procure autoria, data, veículo e publicação completa; cortes podem retirar contexto. Uma chamada de rede social não substitui a leitura da notícia.</p><h3>Exemplo comentado</h3><p>Para saber o que mudou na biblioteca, comece pela notícia; para investigar o acesso de diferentes grupos, procure a reportagem; para conhecer uma defesa de mudança, leia o artigo. Depois confronte as informações.</p>",
   "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao": "<h2>Uma língua, muitos usos</h2><p>O português varia entre regiões, gerações, grupos sociais e situações. “Mandioca”, “aipim” e “macaxeira” podem nomear o mesmo alimento em diferentes comunidades. A pronúncia também varia. Nenhum sotaque torna alguém mais inteligente ou mais digno de respeito.</p><p>A norma-padrão é um modelo de referência para certos usos formais; não é a reprodução exata da fala de todas as pessoas escolarizadas. As variedades efetivamente faladas possuem regularidades. Aprender convenções valorizadas socialmente amplia possibilidades de participação, sem exigir abandonar a identidade linguística.</p><h3>Uma situação para analisar</h3><p>Em um diálogo fictício, Lia diz: “Lá em casa chamamos de macaxeira”. Um colega responde: “Então sua família não sabe falar”. O problema não está na palavra de Lia: o colega desqualifica os falantes por sua variedade. Isso é preconceito linguístico.</p><p>Outra coisa é revisar um aviso que exige convenções formais, explicando a escolha sem humilhar ninguém. Adequação depende de interlocutores, finalidade e gênero; não basta classificar toda fala como informal e toda escrita como formal.</p><h3>Exemplo comentado</h3><p>Responder “Na minha região dizemos mandioca; macaxeira também é uma denominação usada em outras comunidades” reconhece a variação e não estabelece uma hierarquia de pessoas.</p>",
@@ -104,6 +111,782 @@ registrarAula({
       "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes. Lote recuperado após limpeza automática do ambiente."
     },
     "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.classes_gramaticais.substantivo": {
+    "id": "lip.ef06.classes_gramaticais.substantivo",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 11,
+    "unidade": "Classes Gramaticais",
+    "titulo": "Substantivos em uso: função e flexões",
+    "bncc": [
+      "EF06LP04"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Reescreva “A estudante encontrou o livro novo” para indicar mais de uma estudante e mais de um livro. Identifique os substantivos e explique todas as alterações necessárias. Depois crie um trecho em que livrinho expresse carinho e justifique pelo contexto."
+      ],
+      "resumo": "Substantivos em uso: função e flexões",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Substantivos em uso: função e flexões</h2><h3>Ideias e relações</h3><p>Substantivos nomeiam seres, objetos, lugares, sentimentos e ideias. Sua função no texto vai além de decorar uma lista: permitem apresentar e retomar aquilo de que se fala. Escola é um nome comum; Escola Horizonte, no nosso exemplo fictício, é uma denominação própria. Alegria nomeia um sentimento, embora não seja um objeto que se possa tocar. Um substantivo pode receber diferentes classificações ao mesmo tempo. O contexto ajuda a decidir a função: em “O cantar dos pássaros”, cantar funciona como substantivo.</p><h3>Exemplo comentado</h3><p>Em “A estudante encontrou o livro”, estudante e livro nomeiam participantes da cena. Ao passar para “As estudantes encontraram os livros”, alteram-se número e concordância. O gênero de estudante pode ser indicado por a/o: a forma do substantivo não precisa mudar. Gênero gramatical não se confunde automaticamente com sexo ou identidade. Em “um livrinho querido”, o diminutivo pode expressar afeto; não informa obrigatoriamente tamanho. As formas de grau podem ser tratadas como derivação, por isso não vamos confundir esse processo com o plural.</p><h3>Produza e revise</h3><p>Reescreva “A estudante encontrou o livro novo” para indicar mais de uma estudante e mais de um livro. Identifique os substantivos e explique todas as alterações necessárias. Depois crie um trecho em que livrinho expresse carinho e justifique pelo contexto.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "substantivo.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Em “As estudantes encontraram os livros”, quais palavras são substantivos?",
+        "alternativas": [
+          "As e os",
+          "Encontraram e as",
+          "Estudantes e livros",
+          "Os e encontraram"
+        ],
+        "correta": 2,
+        "explicacao": "Em “A estudante encontrou o livro”, estudante e livro nomeiam participantes da cena. Ao passar para “As estudantes encontraram os livros”, alteram-se número e concordância. O gênero de estudante pode ser indicado por a/o: a forma do substantivo não precisa mudar. Gênero gramatical não se confunde automaticamente com sexo ou identidade. Em “um livrinho querido”, o diminutivo pode expressar afeto; não informa obrigatoriamente tamanho. As formas de grau podem ser tratadas como derivação, por isso não vamos confundir esse processo com o plural.",
+        "bncc": [
+          "EF06LP04"
+        ]
+      },
+      {
+        "id": "substantivo.producao",
+        "tipo": "discursiva",
+        "enunciado": "Reescreva “A estudante encontrou o livro novo” para indicar mais de uma estudante e mais de um livro. Identifique os substantivos e explique todas as alterações necessárias. Depois crie um trecho em que livrinho expresse carinho e justifique pelo contexto.",
+        "gabarito": "As estudantes encontraram os livros novos. Estudante e livro são os substantivos; estudantes e livros marcam plural, com ajustes em artigos, verbo e adjetivo. O trecho com livrinho deve fornecer uma pista afetiva. Não exigir que o diminutivo indique só tamanho.",
+        "rubrica": [
+          "Relacionar as escolhas linguísticas à função que exercem no texto.",
+          "As estudantes encontraram os livros novos. Estudante e livro são os substantivos; estudantes e livros marcam plural, com ajustes em artigos, verbo e adjetivo. O trecho com livrinho deve fornecer uma pista afetiva. Não exigir que o diminutivo indique só tamanho.",
+          "Registrar a produção e as justificativas; revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF06LP04"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida de exemplos e vínculos. Homologação docente, aplicação, visual e acessibilidade pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.classes_gramaticais.adjetivo": {
+    "id": "lip.ef06.classes_gramaticais.adjetivo",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 12,
+    "unidade": "Classes Gramaticais",
+    "titulo": "Adjetivos: caracterização e flexões",
+    "bncc": [
+      "EF06LP04"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Descreva uma biblioteca em três frases, usando dois adjetivos que ajudem o leitor a imaginá-la. Reescreva uma frase trocando livro por revistas e ajuste a concordância. Faça uma comparação entre dois espaços e explique o efeito de um dos adjetivos escolhidos."
+      ],
+      "resumo": "Adjetivos: caracterização e flexões",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Adjetivos: caracterização e flexões</h2><h3>Ideias e relações</h3><p>Adjetivos caracterizam substantivos, expressando propriedades, estados ou avaliações. Em biblioteca silenciosa, silenciosa caracteriza biblioteca. A escolha orienta a imagem construída pelo leitor: dizer que um lugar é acolhedor ou assustador produz efeitos diferentes. Não confunda a característica com o nome daquilo que se descreve. Algumas expressões têm valor adjetivo: material escolar e material de escola, embora a substituição nem sempre preserve todas as nuances.</p><h3>Exemplo comentado</h3><p>Em “Os livros novos chegaram”, novos caracteriza livros e concorda no masculino plural. Em “As revistas novas chegaram”, novas concorda no feminino plural. Nem todo adjetivo varia em gênero: livro interessante e revista interessante usam a mesma forma; no plural, interessantes. Em “Esta sala é mais silenciosa que aquela”, o adjetivo participa de uma comparação explícita.</p><h3>Produza e revise</h3><p>Descreva uma biblioteca em três frases, usando dois adjetivos que ajudem o leitor a imaginá-la. Reescreva uma frase trocando livro por revistas e ajuste a concordância. Faça uma comparação entre dois espaços e explique o efeito de um dos adjetivos escolhidos.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "adjetivo.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual forma concorda com “revistas”?",
+        "alternativas": [
+          "Novos",
+          "Nova",
+          "Novas",
+          "Novo"
+        ],
+        "correta": 2,
+        "explicacao": "Em “Os livros novos chegaram”, novos caracteriza livros e concorda no masculino plural. Em “As revistas novas chegaram”, novas concorda no feminino plural. Nem todo adjetivo varia em gênero: livro interessante e revista interessante usam a mesma forma; no plural, interessantes. Em “Esta sala é mais silenciosa que aquela”, o adjetivo participa de uma comparação explícita.",
+        "bncc": [
+          "EF06LP04"
+        ]
+      },
+      {
+        "id": "adjetivo.producao",
+        "tipo": "discursiva",
+        "enunciado": "Descreva uma biblioteca em três frases, usando dois adjetivos que ajudem o leitor a imaginá-la. Reescreva uma frase trocando livro por revistas e ajuste a concordância. Faça uma comparação entre dois espaços e explique o efeito de um dos adjetivos escolhidos.",
+        "gabarito": "Resposta autoral. Exigir caracterização ligada a substantivos, concordância com revistas no feminino plural quando o adjetivo variar e comparação com referente explícito. Interessante passa a interessantes, sem trocar a forma de gênero. A justificativa deve relacionar a escolha à imagem do espaço.",
+        "rubrica": [
+          "Relacionar as escolhas linguísticas à função que exercem no texto.",
+          "Resposta autoral. Exigir caracterização ligada a substantivos, concordância com revistas no feminino plural quando o adjetivo variar e comparação com referente explícito. Interessante passa a interessantes, sem trocar a forma de gênero. A justificativa deve relacionar a escolha à imagem do espaço.",
+          "Registrar a produção e as justificativas; revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF06LP04"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida de exemplos e vínculos. Homologação docente, aplicação, visual e acessibilidade pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.classes_gramaticais.artigo_e_numeral": {
+    "id": "lip.ef06.classes_gramaticais.artigo_e_numeral",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 13,
+    "unidade": "Classes Gramaticais — complementos",
+    "titulo": "Artigos e numerais: apoio complementar",
+    "bncc": [],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Crie um pequeno relato que apresente alguém com artigo indefinido e depois retome essa pessoa com artigo definido. Inclua um numeral de quantidade e outro de ordem. Compare o uso de uma em “Uma aluna entrou” e “Uma, não duas alunas entraram”."
+      ],
+      "resumo": "Artigos e numerais: apoio complementar",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Artigos e numerais: apoio complementar</h2><p><strong>Aprofundamento complementar opcional.</strong> Não bloqueia o percurso curricular.</p><h3>Ideias e relações</h3><p>Este apoio amplia o estudo das classes e não recebe um vínculo curricular artificial. Artigos acompanham substantivos e participam de sua determinação: o, a, os, as são definidos; um, uma, uns, umas são indefinidos. Em “uma estudante chegou; a estudante trouxe livros”, o segundo artigo ajuda a apresentar a pessoa como já identificada no contexto. Numerais podem indicar quantidade, ordem, fração ou multiplicação: três, terceiro, meio e dobro em usos apropriados. A classificação depende da frase.</p><h3>Exemplo comentado</h3><p>“Uma aluna entrou” pode apenas introduzir uma participante, com artigo indefinido. Em “Entrou uma aluna, não duas”, uma ganha destaque quantitativo como numeral. “A terceira turma trouxe dois cartazes”: terceira indica ordem; dois indica quantidade; a acompanha turma.</p><h3>Produza e revise</h3><p>Crie um pequeno relato que apresente alguém com artigo indefinido e depois retome essa pessoa com artigo definido. Inclua um numeral de quantidade e outro de ordem. Compare o uso de uma em “Uma aluna entrou” e “Uma, não duas alunas entraram”.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "artigo_e_numeral.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Em “A terceira turma trouxe dois cartazes”, dois indica:",
+        "alternativas": [
+          "Ordem",
+          "Quantidade",
+          "Artigo definido",
+          "Pronome pessoal"
+        ],
+        "correta": 1,
+        "explicacao": "“Uma aluna entrou” pode apenas introduzir uma participante, com artigo indefinido. Em “Entrou uma aluna, não duas”, uma ganha destaque quantitativo como numeral. “A terceira turma trouxe dois cartazes”: terceira indica ordem; dois indica quantidade; a acompanha turma.",
+        "bncc": []
+      },
+      {
+        "id": "artigo_e_numeral.producao",
+        "tipo": "discursiva",
+        "enunciado": "Crie um pequeno relato que apresente alguém com artigo indefinido e depois retome essa pessoa com artigo definido. Inclua um numeral de quantidade e outro de ordem. Compare o uso de uma em “Uma aluna entrou” e “Uma, não duas alunas entraram”.",
+        "gabarito": "Conferir introdução e retomada do referente, um numeral cardinal e um ordinal coerentes. No contraste, a primeira frase admite apresentação indefinida; a segunda destaca quantidade. Aceitar outras análises contextualizadas, sem classificar apenas pela forma isolada.",
+        "rubrica": [
+          "Relacionar as escolhas linguísticas à função que exercem no texto.",
+          "Conferir introdução e retomada do referente, um numeral cardinal e um ordinal coerentes. No contraste, a primeira frase admite apresentação indefinida; a segunda destaca quantidade. Aceitar outras análises contextualizadas, sem classificar apenas pela forma isolada.",
+          "Registrar a produção e as justificativas; revisar após devolutiva."
+        ],
+        "bncc": []
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida de exemplos e vínculos. Homologação docente, aplicação, visual e acessibilidade pendentes."
+    },
+    "complementar": true,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.classes_gramaticais.pronome": {
+    "id": "lip.ef06.classes_gramaticais.pronome",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 14,
+    "unidade": "Classes Gramaticais",
+    "titulo": "Pronomes e clareza na retomada de referentes",
+    "bncc": [
+      "EF06LP12"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Produza um relato de quatro a seis frases com duas personagens. Use nomes e pelo menos dois pronomes para retomá-las, sublinhando os pronomes e indicando seus referentes. Inclua uma frase de fala de uma personagem e deixe claro quem falou. Mostre a um colega, registre uma possível ambiguidade e revise."
+      ],
+      "resumo": "Pronomes e clareza na retomada de referentes",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Pronomes e clareza na retomada de referentes</h2><h3>Ideias e relações</h3><p>Pronomes podem substituir ou acompanhar nomes e ajudar a construir coesão. Ele, ela e eles podem retomar participantes; meu e sua podem indicar relações de posse; este e aquele podem apontar ou retomar referentes. O sentido depende do contexto. O objetivo deste recorte não é decorar todos os tipos: é produzir um texto em que o leitor saiba quem está sendo retomado. Trocar toda repetição por pronome pode piorar a clareza.</p><h3>Exemplo comentado</h3><p>“Lia encontrou Bia. Ela levou o livro.” Sem contexto adicional, ela pode retomar Lia ou Bia. Se o sentido pretendido é que Bia levou o livro, “Lia encontrou Bia. Bia levou o livro” esclarece; depois podemos retomar Bia por ela quando não houver dúvida. Em “Lia guardou o caderno de Bia e seu livro”, seu também pode ser ambíguo. Repetir o nome pode ser uma boa revisão.</p><h3>Produza e revise</h3><p>Produza um relato de quatro a seis frases com duas personagens. Use nomes e pelo menos dois pronomes para retomá-las, sublinhando os pronomes e indicando seus referentes. Inclua uma frase de fala de uma personagem e deixe claro quem falou. Mostre a um colega, registre uma possível ambiguidade e revise.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "pronome.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual revisão deixa claro que Bia levou o livro em “Lia encontrou Bia. Ela levou o livro”?",
+        "alternativas": [
+          "Lia encontrou Bia. Alguém levou o livro.",
+          "Lia encontrou Bia. Bia levou o livro.",
+          "Lia encontrou Bia. Sua levou o livro.",
+          "Lia encontrou Bia. Elas levou o livro."
+        ],
+        "correta": 1,
+        "explicacao": "“Lia encontrou Bia. Ela levou o livro.” Sem contexto adicional, ela pode retomar Lia ou Bia. Se o sentido pretendido é que Bia levou o livro, “Lia encontrou Bia. Bia levou o livro” esclarece; depois podemos retomar Bia por ela quando não houver dúvida. Em “Lia guardou o caderno de Bia e seu livro”, seu também pode ser ambíguo. Repetir o nome pode ser uma boa revisão.",
+        "bncc": [
+          "EF06LP12"
+        ]
+      },
+      {
+        "id": "pronome.producao",
+        "tipo": "discursiva",
+        "enunciado": "Produza um relato de quatro a seis frases com duas personagens. Use nomes e pelo menos dois pronomes para retomá-las, sublinhando os pronomes e indicando seus referentes. Inclua uma frase de fala de uma personagem e deixe claro quem falou. Mostre a um colega, registre uma possível ambiguidade e revise.",
+        "gabarito": "Conferir texto real, alternância entre nomes e pronomes e identificação correta dos referentes. A fala deve ter locutor identificável, por exemplo “Lia disse: ...”. Avaliar apenas o recorte de coesão e clareza da voz; a habilidade EF06LP12 completa também exige outros recursos que serão trabalhados em Produção de Textos. Aceitar repetição intencional para evitar ambiguidade.",
+        "rubrica": [
+          "Relacionar as escolhas linguísticas à função que exercem no texto.",
+          "Conferir texto real, alternância entre nomes e pronomes e identificação correta dos referentes. A fala deve ter locutor identificável, por exemplo “Lia disse: ...”. Avaliar apenas o recorte de coesão e clareza da voz; a habilidade EF06LP12 completa também exige outros recursos que serão trabalhados em Produção de Textos. Aceitar repetição intencional para evitar ambiguidade.",
+          "Registrar a produção e as justificativas; revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF06LP12"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida de exemplos e vínculos. Homologação docente, aplicação, visual e acessibilidade pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.classes_gramaticais.verbo_e_modos_verbais": {
+    "id": "lip.ef06.classes_gramaticais.verbo_e_modos_verbais",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 15,
+    "unidade": "Classes Gramaticais",
+    "titulo": "Verbos e efeitos dos modos verbais",
+    "bncc": [
+      "EF06LP04",
+      "EF06LP05"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Escreva um informe sobre uma visita já realizada, uma frase que apresente a possibilidade de nova visita e um convite ao leitor com imperativo afirmativo. Acrescente uma orientação com imperativo negativo. Identifique os verbos e explique seus efeitos conforme o gênero. Reescreva “A turma visita a biblioteca” com sujeito plural."
+      ],
+      "resumo": "Verbos e efeitos dos modos verbais",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Verbos e efeitos dos modos verbais</h2><h3>Ideias e relações</h3><p>Verbos organizam o que se diz sobre ações, estados e fenômenos, situando acontecimentos e relações no tempo. Suas formas podem indicar pessoa, número, tempo e modo. Indicativo apresenta um conteúdo como declarado; isso não garante que ele seja verdadeiro. Subjuntivo pode construir hipótese, desejo ou possibilidade. Imperativo pode realizar pedido, orientação, conselho ou ordem: a intenção e o gênero ajudam a interpretar o efeito. Não reduza todo imperativo a uma ordem autoritária.</p><h3>Exemplo comentado</h3><p>Em “A turma visita a biblioteca”, visita é presente do indicativo, terceira pessoa do singular; em “As turmas visitam”, visitam está no plural. “Talvez a turma visite a biblioteca” usa presente do subjuntivo para possibilidade. Num cartaz dirigido a você: “Visite a biblioteca” e “Não risque os livros” são imperativos afirmativo e negativo. Em um convite, visite busca adesão; numa regra de cuidado, não risque orienta uma conduta. “Ontem visitamos a biblioteca” situa uma ação passada, enquanto “Amanhã visitaremos” situa a visita no futuro.</p><h3>Produza e revise</h3><p>Escreva um informe sobre uma visita já realizada, uma frase que apresente a possibilidade de nova visita e um convite ao leitor com imperativo afirmativo. Acrescente uma orientação com imperativo negativo. Identifique os verbos e explique seus efeitos conforme o gênero. Reescreva “A turma visita a biblioteca” com sujeito plural.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "verbo_e_modos_verbais.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Em um convite “Visite nossa exposição!”, o imperativo principalmente:",
+        "alternativas": [
+          "Comprova que a visita ocorreu.",
+          "Indica obrigatoriamente uma ameaça.",
+          "Convida o interlocutor a participar.",
+          "Expressa um plural de substantivo."
+        ],
+        "correta": 2,
+        "explicacao": "Em “A turma visita a biblioteca”, visita é presente do indicativo, terceira pessoa do singular; em “As turmas visitam”, visitam está no plural. “Talvez a turma visite a biblioteca” usa presente do subjuntivo para possibilidade. Num cartaz dirigido a você: “Visite a biblioteca” e “Não risque os livros” são imperativos afirmativo e negativo. Em um convite, visite busca adesão; numa regra de cuidado, não risque orienta uma conduta. “Ontem visitamos a biblioteca” situa uma ação passada, enquanto “Amanhã visitaremos” situa a visita no futuro.",
+        "bncc": [
+          "EF06LP04",
+          "EF06LP05"
+        ]
+      },
+      {
+        "id": "verbo_e_modos_verbais.producao",
+        "tipo": "discursiva",
+        "enunciado": "Escreva um informe sobre uma visita já realizada, uma frase que apresente a possibilidade de nova visita e um convite ao leitor com imperativo afirmativo. Acrescente uma orientação com imperativo negativo. Identifique os verbos e explique seus efeitos conforme o gênero. Reescreva “A turma visita a biblioteca” com sujeito plural.",
+        "gabarito": "Exemplos: “Ontem a turma visitou...” (indicativo/passado), “Talvez a turma visite...” (subjuntivo/possibilidade), “Visite...” (convite), “Não risque...” (orientação negativa). No plural: “As turmas visitam a biblioteca”. Exigir análise das formas e da intenção, não apenas rótulos. Aceitar outras formas gramaticais coerentes.",
+        "rubrica": [
+          "Relacionar as escolhas linguísticas à função que exercem no texto.",
+          "Exemplos: “Ontem a turma visitou...” (indicativo/passado), “Talvez a turma visite...” (subjuntivo/possibilidade), “Visite...” (convite), “Não risque...” (orientação negativa). No plural: “As turmas visitam a biblioteca”. Exigir análise das formas e da intenção, não apenas rótulos. Aceitar outras formas gramaticais coerentes.",
+          "Registrar a produção e as justificativas; revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF06LP04",
+          "EF06LP05"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida de exemplos e vínculos. Homologação docente, aplicação, visual e acessibilidade pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.classes_gramaticais.adverbio_preposicao_conjuncao": {
+    "id": "lip.ef06.classes_gramaticais.adverbio_preposicao_conjuncao",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 16,
+    "unidade": "Classes Gramaticais — complementos",
+    "titulo": "Advérbio, preposição e conjunção: apoio complementar",
+    "bncc": [],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Escreva um relato curto de visita a um lugar. Use um advérbio de tempo, uma preposição indicando companhia ou destino e uma conjunção de contraste. Identifique cada recurso e explique seu papel. Troque a conjunção de contraste por uma de adição e compare o efeito."
+      ],
+      "resumo": "Advérbio, preposição e conjunção: apoio complementar",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Advérbio, preposição e conjunção: apoio complementar</h2><p><strong>Aprofundamento complementar opcional.</strong> Não bloqueia o percurso curricular.</p><h3>Ideias e relações</h3><p>Neste apoio complementar, analisamos relações construídas no texto. Advérbios podem modificar verbo, adjetivo ou outro advérbio: cedo em chegou cedo indica tempo; muito em muito silenciosa intensifica o adjetivo. Preposições ligam termos: em livros de aventura, de relaciona livros a aventura; em para a turma, para introduz o destinatário. Conjunções ligam termos ou orações e estabelecem relações: e pode acrescentar informação; mas pode marcar contraste; porque pode introduzir uma razão. A interpretação depende da construção, não só de uma lista.</p><h3>Exemplo comentado</h3><p>“Ontem, fui à biblioteca com Lia, mas não encontrei o livro.” Ontem situa a ida no tempo; com introduz a companhia; mas contrasta a ida com a expectativa de encontrar o livro. Trocar mas por e muda a relação explicitada, embora os fatos possam continuar os mesmos. Não em não encontrei é advérbio de negação.</p><h3>Produza e revise</h3><p>Escreva um relato curto de visita a um lugar. Use um advérbio de tempo, uma preposição indicando companhia ou destino e uma conjunção de contraste. Identifique cada recurso e explique seu papel. Troque a conjunção de contraste por uma de adição e compare o efeito.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "adverbio_preposicao_conjuncao.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Em “Cheguei cedo”, cedo indica:",
+        "alternativas": [
+          "Companhia",
+          "Tempo",
+          "Objeto",
+          "Artigo"
+        ],
+        "correta": 1,
+        "explicacao": "“Ontem, fui à biblioteca com Lia, mas não encontrei o livro.” Ontem situa a ida no tempo; com introduz a companhia; mas contrasta a ida com a expectativa de encontrar o livro. Trocar mas por e muda a relação explicitada, embora os fatos possam continuar os mesmos. Não em não encontrei é advérbio de negação.",
+        "bncc": []
+      },
+      {
+        "id": "adverbio_preposicao_conjuncao.producao",
+        "tipo": "discursiva",
+        "enunciado": "Escreva um relato curto de visita a um lugar. Use um advérbio de tempo, uma preposição indicando companhia ou destino e uma conjunção de contraste. Identifique cada recurso e explique seu papel. Troque a conjunção de contraste por uma de adição e compare o efeito.",
+        "gabarito": "Exigir texto coerente e identificação contextualizada, como ontem, com e mas. A troca por e tende a enfraquecer a marca explícita de contraste. Não exigir que toda ocorrência da palavra tenha sempre a mesma classificação fora de contexto.",
+        "rubrica": [
+          "Relacionar as escolhas linguísticas à função que exercem no texto.",
+          "Exigir texto coerente e identificação contextualizada, como ontem, com e mas. A troca por e tende a enfraquecer a marca explícita de contraste. Não exigir que toda ocorrência da palavra tenha sempre a mesma classificação fora de contexto.",
+          "Registrar a produção e as justificativas; revisar após devolutiva."
+        ],
+        "bncc": []
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida de exemplos e vínculos. Homologação docente, aplicação, visual e acessibilidade pendentes."
+    },
+    "complementar": true,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.classes_gramaticais.interjeicao": {
+    "id": "lip.ef06.classes_gramaticais.interjeicao",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 17,
+    "unidade": "Classes Gramaticais — complementos",
+    "titulo": "Interjeição e expressividade: apoio complementar",
+    "bncc": [],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Crie dois diálogos curtos em que ah tenha efeitos diferentes. Apresente uma pista contextual para cada interpretação. Depois escreva um trecho com ufa e explique a reação. Leia uma versão em voz alta e registre como a entonação contribuiu para o efeito."
+      ],
+      "resumo": "Interjeição e expressividade: apoio complementar",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Interjeição e expressividade: apoio complementar</h2><p><strong>Aprofundamento complementar opcional.</strong> Não bloqueia o percurso curricular.</p><h3>Ideias e relações</h3><p>Interjeições e expressões interjetivas podem manifestar reações e atitudes em enunciados: ah!, ufa!, puxa! e meu Deus!, por exemplo. Seu efeito depende da cena, da pontuação e, na fala, da entonação. Ah! pode sugerir surpresa, compreensão ou decepção em diferentes contextos. Identificar uma interjeição não é analisar um modo verbal: este apoio não recebe EF06LP05 artificialmente. Nem toda frase com exclamação é interjeição.</p><h3>Exemplo comentado</h3><p>“Ufa! Conseguimos terminar o trabalho” sugere alívio após esforço. “Ah! Agora entendi” sugere compreensão. Em “Ah... você vai embora?”, a reação pode ser outra; precisamos do contexto. Em “Feche a porta!”, feche é verbo no imperativo, mesmo com ponto de exclamação.</p><h3>Produza e revise</h3><p>Crie dois diálogos curtos em que ah tenha efeitos diferentes. Apresente uma pista contextual para cada interpretação. Depois escreva um trecho com ufa e explique a reação. Leia uma versão em voz alta e registre como a entonação contribuiu para o efeito.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "interjeicao.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Em “Ufa! A prova terminou e posso descansar”, ufa sugere:",
+        "alternativas": [
+          "Alívio",
+          "Quantidade",
+          "Ordem de fechar uma porta",
+          "Plural"
+        ],
+        "correta": 0,
+        "explicacao": "“Ufa! Conseguimos terminar o trabalho” sugere alívio após esforço. “Ah! Agora entendi” sugere compreensão. Em “Ah... você vai embora?”, a reação pode ser outra; precisamos do contexto. Em “Feche a porta!”, feche é verbo no imperativo, mesmo com ponto de exclamação.",
+        "bncc": []
+      },
+      {
+        "id": "interjeicao.producao",
+        "tipo": "discursiva",
+        "enunciado": "Crie dois diálogos curtos em que ah tenha efeitos diferentes. Apresente uma pista contextual para cada interpretação. Depois escreva um trecho com ufa e explique a reação. Leia uma versão em voz alta e registre como a entonação contribuiu para o efeito.",
+        "gabarito": "Conferir duas cenas e interpretações apoiadas por pistas, não apenas palavras isoladas. Ufa pode indicar alívio quando há esforço ou tensão anterior. Registrar leitura real e observação da entonação; respeitar sotaques.",
+        "rubrica": [
+          "Relacionar as escolhas linguísticas à função que exercem no texto.",
+          "Conferir duas cenas e interpretações apoiadas por pistas, não apenas palavras isoladas. Ufa pode indicar alívio quando há esforço ou tensão anterior. Registrar leitura real e observação da entonação; respeitar sotaques.",
+          "Registrar a produção e as justificativas; revisar após devolutiva."
+        ],
+        "bncc": []
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida de exemplos e vínculos. Homologação docente, aplicação, visual e acessibilidade pendentes."
+    },
+    "complementar": true,
     "preRequisitos": [],
     "proximosPassos": []
   },

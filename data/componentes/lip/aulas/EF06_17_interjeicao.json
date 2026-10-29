@@ -1,0 +1,107 @@
+{
+  "id": "lip.ef06.classes_gramaticais.interjeicao",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 17,
+  "unidade": "Classes Gramaticais — complementos",
+  "titulo": "Interjeição e expressividade: apoio complementar",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Crie dois diálogos curtos em que ah tenha efeitos diferentes. Apresente uma pista contextual para cada interpretação. Depois escreva um trecho com ufa e explique a reação. Leia uma versão em voz alta e registre como a entonação contribuiu para o efeito."
+    ],
+    "resumo": "Interjeição e expressividade: apoio complementar",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Interjeição e expressividade: apoio complementar</h2><p><strong>Aprofundamento complementar opcional.</strong> Não bloqueia o percurso curricular.</p><h3>Ideias e relações</h3><p>Interjeições e expressões interjetivas podem manifestar reações e atitudes em enunciados: ah!, ufa!, puxa! e meu Deus!, por exemplo. Seu efeito depende da cena, da pontuação e, na fala, da entonação. Ah! pode sugerir surpresa, compreensão ou decepção em diferentes contextos. Identificar uma interjeição não é analisar um modo verbal: este apoio não recebe EF06LP05 artificialmente. Nem toda frase com exclamação é interjeição.</p><h3>Exemplo comentado</h3><p>“Ufa! Conseguimos terminar o trabalho” sugere alívio após esforço. “Ah! Agora entendi” sugere compreensão. Em “Ah... você vai embora?”, a reação pode ser outra; precisamos do contexto. Em “Feche a porta!”, feche é verbo no imperativo, mesmo com ponto de exclamação.</p><h3>Produza e revise</h3><p>Crie dois diálogos curtos em que ah tenha efeitos diferentes. Apresente uma pista contextual para cada interpretação. Depois escreva um trecho com ufa e explique a reação. Leia uma versão em voz alta e registre como a entonação contribuiu para o efeito.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "interjeicao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em “Ufa! A prova terminou e posso descansar”, ufa sugere:",
+      "alternativas": [
+        "Alívio",
+        "Quantidade",
+        "Ordem de fechar uma porta",
+        "Plural"
+      ],
+      "correta": 0,
+      "explicacao": "“Ufa! Conseguimos terminar o trabalho” sugere alívio após esforço. “Ah! Agora entendi” sugere compreensão. Em “Ah... você vai embora?”, a reação pode ser outra; precisamos do contexto. Em “Feche a porta!”, feche é verbo no imperativo, mesmo com ponto de exclamação.",
+      "bncc": []
+    },
+    {
+      "id": "interjeicao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie dois diálogos curtos em que ah tenha efeitos diferentes. Apresente uma pista contextual para cada interpretação. Depois escreva um trecho com ufa e explique a reação. Leia uma versão em voz alta e registre como a entonação contribuiu para o efeito.",
+      "gabarito": "Conferir duas cenas e interpretações apoiadas por pistas, não apenas palavras isoladas. Ufa pode indicar alívio quando há esforço ou tensão anterior. Registrar leitura real e observação da entonação; respeitar sotaques.",
+      "rubrica": [
+        "Relacionar as escolhas linguísticas à função que exercem no texto.",
+        "Conferir duas cenas e interpretações apoiadas por pistas, não apenas palavras isoladas. Ufa pode indicar alívio quando há esforço ou tensão anterior. Registrar leitura real e observação da entonação; respeitar sotaques.",
+        "Registrar a produção e as justificativas; revisar após devolutiva."
+      ],
+      "bncc": []
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        85,
+        86,
+        87,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        116,
+        117,
+        132,
+        133,
+        134,
+        135,
+        148,
+        149,
+        153,
+        154,
+        155,
+        157,
+        158,
+        159,
+        162,
+        163
+      ],
+      "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+      "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida de exemplos e vínculos. Homologação docente, aplicação, visual e acessibilidade pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

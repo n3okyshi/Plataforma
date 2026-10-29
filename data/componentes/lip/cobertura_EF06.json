@@ -1,11 +1,12 @@
 {
   "nivel": "EF06",
-  "estado": "piloto_duas_unidades",
+  "estado": "piloto_tres_unidades",
   "escopo": [
     "Língua, Texto e Contexto",
-    "Morfologia"
+    "Morfologia",
+    "Classes Gramaticais"
   ],
-  "limites": "Duas unidades para testes. Restante do ano em planejamento; evidências não comprovam domínio.",
+  "limites": "Três unidades curriculares e apoios opcionais para testes. Restante do ano pendente; vínculos representam recortes e não comprovam domínio.",
   "habilidades": [
     {
       "codigo": "EF06LP01",
@@ -126,11 +127,73 @@
         "lip.ef06.morfologia.prova.05"
       ],
       "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF06LP04",
+      "aulas": [
+        "lip.ef06.classes_gramaticais.substantivo",
+        "lip.ef06.classes_gramaticais.adjetivo",
+        "lip.ef06.classes_gramaticais.verbo_e_modos_verbais"
+      ],
+      "atividades": [
+        "lip.ef06.classes_gramaticais.substantivo#substantivo.producao",
+        "lip.ef06.classes_gramaticais.adjetivo#adjetivo.producao",
+        "lip.ef06.classes_gramaticais.verbo_e_modos_verbais#verbo_e_modos_verbais.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.classes_gramaticais.treino.01",
+        "lip.ef06.classes_gramaticais.treino.02",
+        "lip.ef06.classes_gramaticais.treino.05"
+      ],
+      "questoesProva": [
+        "lip.ef06.classes_gramaticais.prova.01",
+        "lip.ef06.classes_gramaticais.prova.02",
+        "lip.ef06.classes_gramaticais.prova.05"
+      ],
+      "revisaoDocente": "pendente",
+      "limites": "Análise funcional e flexões em contexto, sem comprovação de aprendizagem."
+    },
+    {
+      "codigo": "EF06LP05",
+      "aulas": [
+        "lip.ef06.classes_gramaticais.verbo_e_modos_verbais"
+      ],
+      "atividades": [
+        "lip.ef06.classes_gramaticais.verbo_e_modos_verbais#verbo_e_modos_verbais.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.classes_gramaticais.treino.05"
+      ],
+      "questoesProva": [
+        "lip.ef06.classes_gramaticais.prova.05"
+      ],
+      "revisaoDocente": "pendente",
+      "limites": "Análise funcional e flexões em contexto, sem comprovação de aprendizagem."
+    },
+    {
+      "codigo": "EF06LP12",
+      "aulas": [
+        "lip.ef06.classes_gramaticais.pronome"
+      ],
+      "atividades": [
+        "lip.ef06.classes_gramaticais.pronome#pronome.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.classes_gramaticais.treino.04"
+      ],
+      "questoesProva": [
+        "lip.ef06.classes_gramaticais.prova.04"
+      ],
+      "revisaoDocente": "pendente",
+      "limites": "Recorte de coesão referencial; outros recursos de EF06LP12 permanecem para Produção de Textos."
     }
   ],
   "pendencias": [
     "Homologação docente e aplicação real.",
     "Revisão visual e acessibilidade.",
     "Autenticação, Firebase e cache real."
+  ],
+  "apoiosComplementares": [
+    "Classes Gramaticais — complementos"
   ]
 }

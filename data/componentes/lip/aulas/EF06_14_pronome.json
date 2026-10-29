@@ -1,0 +1,113 @@
+{
+  "id": "lip.ef06.classes_gramaticais.pronome",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 14,
+  "unidade": "Classes Gramaticais",
+  "titulo": "Pronomes e clareza na retomada de referentes",
+  "bncc": [
+    "EF06LP12"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Produza um relato de quatro a seis frases com duas personagens. Use nomes e pelo menos dois pronomes para retomá-las, sublinhando os pronomes e indicando seus referentes. Inclua uma frase de fala de uma personagem e deixe claro quem falou. Mostre a um colega, registre uma possível ambiguidade e revise."
+    ],
+    "resumo": "Pronomes e clareza na retomada de referentes",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Pronomes e clareza na retomada de referentes</h2><h3>Ideias e relações</h3><p>Pronomes podem substituir ou acompanhar nomes e ajudar a construir coesão. Ele, ela e eles podem retomar participantes; meu e sua podem indicar relações de posse; este e aquele podem apontar ou retomar referentes. O sentido depende do contexto. O objetivo deste recorte não é decorar todos os tipos: é produzir um texto em que o leitor saiba quem está sendo retomado. Trocar toda repetição por pronome pode piorar a clareza.</p><h3>Exemplo comentado</h3><p>“Lia encontrou Bia. Ela levou o livro.” Sem contexto adicional, ela pode retomar Lia ou Bia. Se o sentido pretendido é que Bia levou o livro, “Lia encontrou Bia. Bia levou o livro” esclarece; depois podemos retomar Bia por ela quando não houver dúvida. Em “Lia guardou o caderno de Bia e seu livro”, seu também pode ser ambíguo. Repetir o nome pode ser uma boa revisão.</p><h3>Produza e revise</h3><p>Produza um relato de quatro a seis frases com duas personagens. Use nomes e pelo menos dois pronomes para retomá-las, sublinhando os pronomes e indicando seus referentes. Inclua uma frase de fala de uma personagem e deixe claro quem falou. Mostre a um colega, registre uma possível ambiguidade e revise.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pronome.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual revisão deixa claro que Bia levou o livro em “Lia encontrou Bia. Ela levou o livro”?",
+      "alternativas": [
+        "Lia encontrou Bia. Alguém levou o livro.",
+        "Lia encontrou Bia. Bia levou o livro.",
+        "Lia encontrou Bia. Sua levou o livro.",
+        "Lia encontrou Bia. Elas levou o livro."
+      ],
+      "correta": 1,
+      "explicacao": "“Lia encontrou Bia. Ela levou o livro.” Sem contexto adicional, ela pode retomar Lia ou Bia. Se o sentido pretendido é que Bia levou o livro, “Lia encontrou Bia. Bia levou o livro” esclarece; depois podemos retomar Bia por ela quando não houver dúvida. Em “Lia guardou o caderno de Bia e seu livro”, seu também pode ser ambíguo. Repetir o nome pode ser uma boa revisão.",
+      "bncc": [
+        "EF06LP12"
+      ]
+    },
+    {
+      "id": "pronome.producao",
+      "tipo": "discursiva",
+      "enunciado": "Produza um relato de quatro a seis frases com duas personagens. Use nomes e pelo menos dois pronomes para retomá-las, sublinhando os pronomes e indicando seus referentes. Inclua uma frase de fala de uma personagem e deixe claro quem falou. Mostre a um colega, registre uma possível ambiguidade e revise.",
+      "gabarito": "Conferir texto real, alternância entre nomes e pronomes e identificação correta dos referentes. A fala deve ter locutor identificável, por exemplo “Lia disse: ...”. Avaliar apenas o recorte de coesão e clareza da voz; a habilidade EF06LP12 completa também exige outros recursos que serão trabalhados em Produção de Textos. Aceitar repetição intencional para evitar ambiguidade.",
+      "rubrica": [
+        "Relacionar as escolhas linguísticas à função que exercem no texto.",
+        "Conferir texto real, alternância entre nomes e pronomes e identificação correta dos referentes. A fala deve ter locutor identificável, por exemplo “Lia disse: ...”. Avaliar apenas o recorte de coesão e clareza da voz; a habilidade EF06LP12 completa também exige outros recursos que serão trabalhados em Produção de Textos. Aceitar repetição intencional para evitar ambiguidade.",
+        "Registrar a produção e as justificativas; revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF06LP12"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        85,
+        86,
+        87,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        116,
+        117,
+        132,
+        133,
+        134,
+        135,
+        148,
+        149,
+        153,
+        154,
+        155,
+        157,
+        158,
+        159,
+        162,
+        163
+      ],
+      "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+      "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida de exemplos e vínculos. Homologação docente, aplicação, visual e acessibilidade pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

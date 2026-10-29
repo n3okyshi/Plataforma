@@ -58,6 +58,45 @@ registrarCurriculo("Língua Portuguesa", {
         "titulo": "Criar palavras e explicar seus sentidos",
         "complementar": false
       }
+    ],
+    "Classes Gramaticais": [
+      {
+        "id": "lip.ef06.classes_gramaticais.substantivo",
+        "titulo": "Substantivos em uso: função e flexões",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.classes_gramaticais.adjetivo",
+        "titulo": "Adjetivos: caracterização e flexões",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.classes_gramaticais.pronome",
+        "titulo": "Pronomes e clareza na retomada de referentes",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.classes_gramaticais.verbo_e_modos_verbais",
+        "titulo": "Verbos e efeitos dos modos verbais",
+        "complementar": false
+      }
+    ],
+    "Classes Gramaticais — complementos": [
+      {
+        "id": "lip.ef06.classes_gramaticais.artigo_e_numeral",
+        "titulo": "Artigos e numerais: apoio complementar",
+        "complementar": true
+      },
+      {
+        "id": "lip.ef06.classes_gramaticais.adverbio_preposicao_conjuncao",
+        "titulo": "Advérbio, preposição e conjunção: apoio complementar",
+        "complementar": true
+      },
+      {
+        "id": "lip.ef06.classes_gramaticais.interjeicao",
+        "titulo": "Interjeição e expressividade: apoio complementar",
+        "complementar": true
+      }
     ]
   },
   "EF07": {},
