@@ -1,6 +1,12 @@
 views.extend({
     renderMap: function (disciplina, nivel, unidades) {
-        const config = SUBJECT_CONFIG[disciplina] || {
+        const safeDisciplina = views.escapeHTML(disciplina);
+        // `nivel` é o código canônico (EF06); o rótulo humano vem de NIVEIS.
+        const safeNivel = views.escapeHTML(nivel);
+        const rotuloNivel = (typeof NIVEIS !== 'undefined' && NIVEIS[nivel]) ? NIVEIS[nivel].rotulo : nivel;
+        const safeNivelRotulo = views.escapeHTML(rotuloNivel);
+
+        const config = (typeof SUBJECT_CONFIG !== 'undefined' && SUBJECT_CONFIG[disciplina]) ? SUBJECT_CONFIG[disciplina] : {
             theme: { main: "bg-green-500", border: "border-green-600", light: "bg-green-50", text: "text-green-500" }
         };
 
@@ -23,6 +29,20 @@ views.extend({
             text: "text-gray-400",
         };
 
+        let totalLessons = 0;
+        let completedLessons = 0;
+        for (const unidadeNome in unidades) {
+            const licoes = unidades[unidadeNome];
+            if (Array.isArray(licoes)) {
+                for (const licao of licoes) {
+                    totalLessons++;
+                    if (app.isLessonCompleted && app.isLessonCompleted(licao.id)) {
+                        completedLessons++;
+                    }
+                }
+            }
+        }
+
         let html = `
     <div class="flex flex-col items-center pt-8 w-full animate-fade-in pb-20 max-w-xl mx-auto overflow-x-hidden min-h-screen bg-transparent relative">
         
@@ -34,10 +54,13 @@ views.extend({
 
             <div class="glass-panel rounded-3xl py-4 px-8 mt-14 md:mt-0 text-center shadow-lg border border-white/40 min-w-[200px] animate-pop-in">
                 <h2 class="text-2xl md:text-3xl font-extrabold text-gray-800 dark:text-white mb-1 leading-tight drop-shadow-sm">
-                    ${disciplina}
+                    ${safeDisciplina}
                 </h2>
-                <p class="text-gray-500 dark:text-gray-300 font-bold text-xs uppercase tracking-widest opacity-80">${nivel.toUpperCase()}</p>
+                <p class="text-gray-500 dark:text-gray-300 font-bold text-xs uppercase tracking-widest opacity-80">${safeNivelRotulo.toUpperCase()}</p>
             </div>
+
+            <!-- PROGRESS BAR -->
+            ${views.renderProgressBar(completedLessons, totalLessons)}
         </div>
 
         <div class="relative w-full flex flex-col items-center">
@@ -49,23 +72,22 @@ views.extend({
 
         for (const unidadeNome in unidades) {
             const licoes = unidades[unidadeNome];
+            const safeUnidade = views.escapeHTML(unidadeNome);
 
-            // 1. Gera o Botão de Prova (Busca nota)
             const notaProva = app.getNota ? app.getNota(unidadeNome, 'prova') : null;
-            const textoProva = notaProva ? `Nota: ${notaProva.toFixed(1)}` : "Prova";
+            const textoProva = notaProva !== null ? `Nota: ${notaProva.toFixed(1)}` : "Prova";
             const corProva = notaProva >= 7 ? "bg-green-100 text-green-700" : "bg-red-100 text-red-700";
 
-            // 2. Monta o HTML dos botões
             const botoesAcao = `
                 <div class="flex justify-center gap-2 mt-2">
-                    <button onclick="arena.comecarDesafio('${disciplina}', '${nivel}', '${unidadeNome}', 'treino')" 
+                    <button data-action="desafio" data-arg="${safeDisciplina}" data-arg2="${safeNivel}" data-arg3="${safeUnidade}" data-arg4="treino"
                             class="px-3 py-1.5 rounded-lg bg-blue-100 text-blue-600 text-xs font-black hover:bg-blue-200 active:scale-95 transition-all">
                         <i class="fas fa-dumbbell mr-1"></i> TREINO
                     </button>
                     
-                    <button onclick="arena.comecarDesafio('${disciplina}', '${nivel}', '${unidadeNome}', 'prova')" 
+                    <button data-action="desafio" data-arg="${safeDisciplina}" data-arg2="${safeNivel}" data-arg3="${safeUnidade}" data-arg4="prova"
                             class="px-3 py-1.5 rounded-lg ${notaProva ? corProva : 'bg-yellow-100 text-yellow-700'} text-xs font-black hover:brightness-95 active:scale-95 transition-all">
-                        <i class="fas fa-trophy mr-1"></i> ${textoProva.toUpperCase()}
+                        <i class="fas fa-trophy mr-1"></i> ${views.escapeHTML(textoProva.toUpperCase())}
                     </button>
                 </div>
             `;
@@ -73,14 +95,19 @@ views.extend({
             html += `
                 <div class="relative z-10 my-10 w-full text-center group-unit">
                     <div class="inline-block glass-panel rounded-3xl border-2 ${config.theme.border} px-6 py-4 shadow-xl transform-gpu hover:scale-105 transition-transform backdrop-blur-xl">
-                        <h3 class="${config.theme.text} font-black text-xs uppercase tracking-[0.2em] drop-shadow-sm mb-2">${unidadeNome}</h3>
+                        <h3 class="${config.theme.text} font-black text-xs uppercase tracking-[0.2em] drop-shadow-sm mb-2">${safeUnidade}</h3>
                         ${botoesAcao}
                     </div>
                 </div>
             `;
 
             licoes.forEach((licao) => {
-                const isCompleted = app.isLessonCompleted(licao);
+                // Lição canônica = {id, titulo}: progresso/navegação por id,
+                // texto do card pelo título humano.
+                const licaoId = licao.id;
+                const safeLicaoId = views.escapeHTML(licaoId);
+                const safeLicao = views.escapeHTML(licao.titulo);
+                const isCompleted = app.isLessonCompleted(licaoId);
                 const isLocked = !previousLessonCompleted && !isCompleted;
 
                 const isLeft = globalIndex % 2 === 0;
@@ -103,7 +130,7 @@ views.extend({
 
                 let clickAction = isLocked
                     ? `onclick="audioManager.play('error'); ui.showToast('Complete a lição anterior para desbloquear!', 'warning')"`
-                    : `onclick="app.navigate('lesson', '${licao}')"`;
+                    : `data-action="open-lesson" data-arg="${safeLicaoId}"`;
 
                 html += `
                     <div class="flex items-center justify-center w-full mb-14 relative z-10">
@@ -113,7 +140,7 @@ views.extend({
                         ? "border-gray-200 dark:border-gray-600 text-gray-400 opacity-60"
                         : config.theme.border + " " + config.theme.text
                     }">
-                                <h4 class="font-black text-sm leading-tight drop-shadow-sm">${licao}</h4>
+                                <h4 class="font-black text-sm leading-tight drop-shadow-sm">${safeLicao}</h4>
                             </div>
 
                             <button ${clickAction} class="w-20 h-20 rounded-full border-b-[6px] flex items-center justify-center transition-all active:scale-90 active:border-b-0 relative z-30 shadow-xl ${scaleAnim} ${btnStyle.bg
@@ -131,16 +158,13 @@ views.extend({
             });
         }
 
-        // Troféu Final - [MELHORIA] Com Modal de Conquista
         let trophyStyle = previousLessonCompleted
             ? "grayscale-0 opacity-100 animate-bounce cursor-pointer hover:scale-125"
             : "grayscale opacity-30 cursor-not-allowed";
 
-        let msgTrophy = previousLessonCompleted 
-            ? `ui.showModal('Parabéns!', '<div class=\\'text-center\\'><i class=\\'fas fa-crown text-5xl text-yellow-500 mb-4 animate-pop-in\\'></i><p class=\\'text-lg font-bold\\'>Você dominou o nível <b>${nivel}</b> de <b>${disciplina}</b>!</p></div>', [{label: 'Incrível!', class: 'bg-brand-green text-white', onclick: 'ui.closeModal()'}])`
-            : `ui.showToast('Complete todas as unidades para ganhar este troféu!', 'info')`;
-
-        let trophyClick = `onclick="if(${previousLessonCompleted}){ audioManager.play('finish'); ${msgTrophy} } else { audioManager.play('error'); ${msgTrophy} }"`;
+        let trophyClick = previousLessonCompleted
+            ? `data-action="trofeu" data-arg="1" data-arg2="${safeDisciplina}" data-arg3="${safeNivelRotulo}"`
+            : `data-action="trofeu" data-arg="0" data-arg2="${safeDisciplina}" data-arg3="${safeNivelRotulo}"`;
 
         html += `
             <div class="w-28 h-28 mt-12 mb-10 relative z-20 transition-all duration-500 ${trophyStyle}" ${trophyClick}>
@@ -153,34 +177,16 @@ views.extend({
         return html;
     },
 
-    //==============================
-    //= renderLevelSelector
-    //==============================
-    // (Mantido conforme enviado, apenas garantindo consistência de Toasts se necessário no futuro)
     renderLevelSelector: function (tituloContexto, dadosItens) {
+        const safeTitulo = views.escapeHTML(tituloContexto);
+
         if (!dadosItens || Object.keys(dadosItens).length === 0) {
             return `
                 <div class="flex flex-col items-center justify-center h-64 text-center animate-fade-in">
                     <i class="fas fa-ghost text-4xl text-gray-300 mb-4 animate-bounce"></i>
                     <h3 class="text-xl font-bold text-gray-600 dark:text-gray-400">Nada por aqui...</h3>
-                    <p class="text-sm text-gray-400">O currículo de ${tituloContexto} parece vazio.</p>
+                    <p class="text-sm text-gray-400">O currículo de ${safeTitulo} parece vazio.</p>
                     <button onclick="app.back()" class="mt-4 px-6 py-2 bg-brand-blue text-white rounded-xl font-bold active:scale-95 transition-all shadow-md">Voltar</button>
-                </div>
-            `;
-        }
-        
-        if (!dadosItens || typeof dadosItens !== 'object') {
-            console.warn(`[Views] Currículo não encontrado para: ${tituloContexto}`);
-            return `
-                <div class="flex flex-col items-center justify-center h-screen animate-fade-in text-center p-6">
-                    <div class="w-20 h-20 bg-gray-200 dark:bg-gray-700 rounded-full flex items-center justify-center mb-4">
-                        <i class="fas fa-exclamation-triangle text-3xl text-yellow-500"></i>
-                    </div>
-                    <h2 class="text-2xl font-bold text-gray-700 dark:text-white mb-2">Conteúdo não encontrado</h2>
-                    <p class="text-gray-500 max-w-md">Não encontramos o currículo de <strong>${tituloContexto}</strong>.</p>
-                    <button onclick="app.back()" class="mt-6 px-6 py-3 bg-brand-blue text-white rounded-xl font-bold hover:brightness-110 transition-all">
-                        Voltar
-                    </button>
                 </div>
             `;
         }
@@ -188,10 +194,15 @@ views.extend({
         const chaves = Object.keys(dadosItens);
         const primeiraChave = chaves.length > 0 ? chaves[0] : null;
 
+        // Níveis do básico são CÓDIGOS (EF06); cursos/disciplinas do Superior
+        // são nomes livres. Como LEVEL_THEMES passou a ser keyed por código
+        // (R20), ele não distingue mais "disciplina do Superior".
+        const temCodigosDeNivel = (typeof NIVEIS !== 'undefined') && chaves.some(chave => NIVEIS[chave]);
         const isListaDeCursos = tituloContexto === "Ensino Superior";
-        const isDisciplinasSuperior = !isListaDeCursos && (typeof LEVEL_THEMES !== 'undefined' && LEVEL_THEMES[primeiraChave]);
+        const isDisciplinasSuperior = !isListaDeCursos && !temCodigosDeNivel
+            && (typeof LEVEL_THEMES !== 'undefined' && Boolean(LEVEL_THEMES[primeiraChave]));
 
-        let tituloTela = tituloContexto;
+        let tituloTela = safeTitulo;
         let subTitulo = "Selecione uma opção:";
         let grupos = {};
 
@@ -200,38 +211,34 @@ views.extend({
             grupos = { "Cursos": chaves };
         }
         else if (isDisciplinasSuperior) {
-            tituloTela = tituloContexto;
+            tituloTela = safeTitulo;
             grupos = { "Disciplinas": chaves };
-        }
-        else if (tituloContexto === "Redação") {
-            grupos = { "Módulos": chaves };
         }
         else {
             tituloTela = "Escolha seu Nível";
             subTitulo = "Qual é a sua etapa?";
 
-            grupos = {
-                "Anos Iniciais (Fund. I)": [],
-                "Anos Finais (Fund. II)": [],
-                "Ensino Médio": [],
-                "Outros": []
+            // Agrupa pelo `etapa` canônico de NIVEIS (EI/EF/EM) — sem sniffing
+            // de texto. Redação entra aqui como qualquer outro componente.
+            const ROTULOS_ETAPA = {
+                EI: "Educação Infantil",
+                EF: "Ensino Fundamental",
+                EM: "Ensino Médio"
             };
-
-            for (const nivel in dadosItens) {
-                const n = nivel.toLowerCase();
-                if (nivel.includes("EFI") || ["1º ano", "2º ano", "3º ano", "4º ano", "5º ano"].some(termo => n.startsWith(termo) && !n.includes("em"))) {
-                    grupos["Anos Iniciais (Fund. I)"].push(nivel);
-                }
-                else if (["6º", "7º", "8º", "9º"].some(termo => n.includes(termo))) {
-                    grupos["Anos Finais (Fund. II)"].push(nivel);
-                }
-                else if (n.includes("em") || n.includes("médio") || n.includes("medio")) {
-                    grupos["Ensino Médio"].push(nivel);
-                }
-                else {
-                    grupos["Outros"].push(nivel);
-                }
-            }
+            grupos = {};
+            chaves
+                .slice()
+                .sort((a, b) => {
+                    const ordemA = (typeof NIVEIS !== 'undefined' && NIVEIS[a]) ? NIVEIS[a].ordem : 999;
+                    const ordemB = (typeof NIVEIS !== 'undefined' && NIVEIS[b]) ? NIVEIS[b].ordem : 999;
+                    return ordemA - ordemB;
+                })
+                .forEach(codigo => {
+                    const info = (typeof NIVEIS !== 'undefined') ? NIVEIS[codigo] : null;
+                    const nomeGrupo = (info && ROTULOS_ETAPA[info.etapa]) || "Outros";
+                    if (!grupos[nomeGrupo]) grupos[nomeGrupo] = [];
+                    grupos[nomeGrupo].push(codigo);
+                });
         }
 
         let html = `
@@ -242,8 +249,8 @@ views.extend({
                 </button>
 
                 <div class="glass-panel rounded-3xl p-6 mt-16 md:mt-8 mx-auto text-center w-full max-w-md shadow-lg border border-white/40">
-                    <h2 class="text-3xl font-black text-gray-800 dark:text-white drop-shadow-sm">${tituloTela}</h2>
-                    <p class="text-brand-blue dark:text-blue-300 font-bold uppercase tracking-wide text-xs mt-1">${subTitulo}</p>
+                    <h2 class="text-3xl font-black text-gray-800 dark:text-white drop-shadow-sm">${views.escapeHTML(tituloTela)}</h2>
+                    <p class="text-brand-blue dark:text-blue-300 font-bold uppercase tracking-wide text-xs mt-1">${views.escapeHTML(subTitulo)}</p>
                 </div>
         `;
 
@@ -251,12 +258,12 @@ views.extend({
             if (niveis.length === 0) continue;
             html += `<div class="w-full">`;
 
-            if (!isListaDeCursos && !isDisciplinasSuperior && tituloContexto !== "Redação") {
+            if (!isListaDeCursos && !isDisciplinasSuperior) {
                 html += `
                 <div class="flex items-center gap-4 mb-6 mt-4 opacity-70 max-w-5xl mx-auto">
                     <div class="h-px flex-1 bg-gradient-to-r from-transparent via-gray-400 dark:via-gray-500 to-transparent"></div>
                     <span class="text-gray-500 dark:text-gray-300 font-black text-[10px] uppercase tracking-[0.2em] glass-child px-3 py-1 rounded-lg">
-                        ${nomeGrupo}
+                        ${views.escapeHTML(nomeGrupo)}
                     </span>
                     <div class="h-px flex-1 bg-gradient-to-r from-transparent via-gray-400 dark:via-gray-500 to-transparent"></div>
                 </div>`;
@@ -265,42 +272,39 @@ views.extend({
             html += `<div class="flex flex-wrap justify-center gap-4 md:gap-6">`;
 
             niveis.forEach(nivel => {
+                const safeItemNivel = views.escapeHTML(nivel);
+                const infoNivel = (typeof NIVEIS !== 'undefined') ? NIVEIS[nivel] : null;
                 let estilo = { bg: "bg-gray-500", border: "border-gray-700", color: "text-white" };
                 let textoGrande = "";
-                let textoPequeno = nivel;
+                let textoPequeno = safeItemNivel;
 
                 if (isListaDeCursos || isDisciplinasSuperior) {
                     const theme = (typeof LEVEL_THEMES !== 'undefined' ? LEVEL_THEMES[nivel] : null) || (typeof LEVEL_THEMES !== 'undefined' ? LEVEL_THEMES["default"] : { main: "bg-gray-500" });
                     const mainColor = theme ? theme.main : "bg-gray-500";
                     estilo = { bg: mainColor, border: mainColor.replace('bg-', 'border-'), color: "text-white" };
-                    textoGrande = isListaDeCursos ? "<i class='fas fa-university'></i>" : nivel.substring(0, 3).toUpperCase();
-                } else if (tituloContexto === "Redação") {
-                    const conf = typeof SUBJECT_CONFIG !== 'undefined' ? SUBJECT_CONFIG["Redação"] : { theme: { main: "bg-red-500", border: "border-red-600" } };
-                    estilo = { bg: conf.theme.main, border: conf.theme.border, color: "text-white" };
-                    textoGrande = "<i class='fas fa-pen-nib'></i>";
-                } else {
-                    if (nivel.includes("1º")) estilo = { bg: "bg-[#A3E635]", border: "border-[#83C615]", color: "text-white" };
-                    else if (nivel.includes("2º")) estilo = { bg: "bg-[#4ADE80]", border: "border-[#2ABE60]", color: "text-white" };
-                    else if (nivel.includes("3º")) estilo = { bg: "bg-[#2DD4BF]", border: "border-[#0DB49F]", color: "text-white" };
-                    else if (nivel.includes("4º")) estilo = { bg: "bg-[#22D3EE]", border: "border-[#02B3CE]", color: "text-white" };
-                    else if (nivel.includes("5º")) estilo = { bg: "bg-[#38BDF8]", border: "border-[#289DD8]", color: "text-white" };
-                    else if (nivel.includes("6º")) estilo = { bg: "bg-[#58cc02]", border: "border-[#38AC00]", color: "text-white" };
-                    else if (nivel.includes("7º")) estilo = { bg: "bg-[#1cb0f6]", border: "border-[#0c90D6]", color: "text-white" };
-                    else if (nivel.includes("8º")) estilo = { bg: "bg-[#ce82ff]", border: "border-[#a568cc]", color: "text-white" };
-                    else if (nivel.includes("9º")) estilo = { bg: "bg-[#ff4b4b]", border: "border-[#Df2b2b]", color: "text-white" };
-                    else if (nivel.includes("1º Ano do EM")) estilo = { bg: "bg-[#FF9600]", border: "border-[#DF7600]", color: "text-white" };
-                    else if (nivel.includes("2º Ano do EM")) estilo = { bg: "bg-[#FFC800]", border: "border-[#DF7800]", color: "text-white" };
-                    else if (nivel.includes("3º Ano do EM")) estilo = { bg: "bg-[#FF2E93]", border: "border-[#DF0E73]", color: "text-white" };
+                    textoGrande = isListaDeCursos ? "<i class='fas fa-university'></i>" : views.escapeHTML(nivel.substring(0, 3).toUpperCase());
+                } else if (infoNivel) {
+                    // Card de nível canônico: cor vem de LEVEL_THEMES[código].
+                    const theme = (typeof LEVEL_THEMES !== 'undefined' ? LEVEL_THEMES[nivel] : null)
+                        || (typeof LEVEL_THEMES !== 'undefined' ? LEVEL_THEMES["default"] : null);
+                    const mainColor = theme ? theme.main : "bg-gray-500";
+                    estilo = { bg: mainColor, border: mainColor.replace('bg-', 'border-'), color: "text-white" };
 
-                    if (nivel.includes("Ano")) {
-                        const partes = nivel.split(" ");
-                        textoGrande = partes[0];
-                        textoPequeno = partes.slice(1).join(" ");
-                    } else { textoGrande = nivel.charAt(0); }
+                    const partesRotulo = /^(\d+º)\s*(.*)$/.exec(infoNivel.rotulo);
+                    if (partesRotulo) {
+                        textoGrande = views.escapeHTML(partesRotulo[1]);
+                        textoPequeno = views.escapeHTML(partesRotulo[2]);
+                    } else {
+                        // Educação Infantil: "Educação Infantil – Bebês"
+                        textoGrande = views.escapeHTML(infoNivel.etapa);
+                        textoPequeno = views.escapeHTML(infoNivel.rotulo.replace(/^Educação Infantil\s*[–-]\s*/, ""));
+                    }
+                } else {
+                    textoGrande = views.escapeHTML(nivel.charAt(0));
                 }
 
                 html += `
-                    <button onclick="app.selectLevel('${nivel}')" 
+                    <button data-action="select-level" data-arg="${safeItemNivel}"
                             class="group relative w-36 md:w-44 h-40 md:h-48 flex flex-col items-center justify-center gap-3 p-3
                                    rounded-[2rem] border-b-[6px] ${estilo.border} ${estilo.bg}
                                    shadow-lg hover:shadow-xl

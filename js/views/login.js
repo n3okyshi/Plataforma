@@ -1,8 +1,8 @@
 views.extend({
     renderLogin: function (mode = 'login') {
+        const safeMode = views.escapeHTML(mode);
         const isLogin = mode === 'login';
 
-        // Estilos das abas (Ajustados para contrastar melhor no vidro)
         const tabActive = "border-b-4 border-[#1cb0f6] text-[#1cb0f6]";
         const tabInactive = "border-b-4 border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200";
 

@@ -1,31 +1,75 @@
 views.extend({
+    // ========================================================================
+    // SKELETON LOADING VERSION
+    // ========================================================================
+    renderHomeSkeleton: function() {
+        let html = `
+            <div style="height: 15px"></div>
+            <div class="glass-panel rounded-3xl p-6 w-full mb-8 flex flex-col md:flex-row items-center md:items-start gap-6 animate-fade-in mx-4 md:mx-auto max-w-5xl shadow-xl border border-white/40">
+                <div class="skeleton skeleton-circle"></div>
+                <div class="flex-1">
+                    <div class="skeleton skeleton-text w-1/3 mb-3"></div>
+                    <div class="skeleton skeleton-line w-1/4 mb-4"></div>
+                    <div class="flex gap-4">
+                        <div class="skeleton w-32 h-8 rounded-lg"></div>
+                        <div class="skeleton w-32 h-8 rounded-lg"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="p-6 max-w-5xl mx-auto pb-20">
+                <div class="skeleton skeleton-text w-1/2 mb-6"></div>
+                <div class="flex gap-3 pb-4 mb-8">
+                    <div class="skeleton w-24 h-10 rounded-2xl"></div>
+                    <div class="skeleton w-32 h-10 rounded-2xl"></div>
+                    <div class="skeleton w-28 h-10 rounded-2xl"></div>
+                </div>
+                <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+                    ${views.generateSkeletonCards(8)}
+                </div>
+            </div>
+        `;
+        return html;
+    },
+
     renderHome: function (disciplinasDisponiveis, filtroAtivo = "Todos", user) {
-        const categorias = ["Todos", "Ciências Exatas", "Ciências Naturais", "Linguagens", "Ciências Humanas", "Universidade",];
+        const categorias = ["Todos", "Ciências Exatas", "Ciências Naturais", "Linguagens", "Ciências Humanas", "Universidade"];
 
         const u = user || { name: "Visitante", photoURL: null, serie: "Geral", xp: 0, completedLessons: [] };
+        const safeName = views.escapeHTML(u.name || "Visitante");
+        const safePhoto = u.photoURL ? views.escapeHTML(u.photoURL) : null;
+        const safeFiltro = views.escapeHTML(filtroAtivo);
+
+        // Série é código canônico (EF06) desde a fase0; aceita o formato antigo
+        // de exibição via codigoDoNivel() (R22) enquanto o perfil não migra.
+        const codigoSerie = (typeof codigoDoNivel === 'function') ? codigoDoNivel(u.serie) : null;
+        const infoSerie = (codigoSerie && typeof NIVEIS !== 'undefined') ? NIVEIS[codigoSerie] : null;
+        const etapaSerie = infoSerie ? infoSerie.etapa : null;
+        // Cabeçalho mostra o rótulo humano ("6º Ano EF"), não o código interno.
+        const safeSerie = views.escapeHTML((infoSerie && infoSerie.rotulo) ? infoSerie.rotulo : (u.serie || "Geral"));
+        const ROTULOS_ETAPA = { EI: "Educação Infantil", EF: "Ensino Fundamental", EM: "Ensino Médio" };
 
         let nivelLabel = "Nível Geral";
-        if (u.serie && (u.serie.includes("EF") || u.serie.includes("Fundamental"))) {
-            nivelLabel = "Ensino Fundamental";
-        } else if (u.serie && (u.serie.includes("EM") || u.serie.includes("Médio"))) {
-            nivelLabel = "Ensino Médio";
+        if (etapaSerie && ROTULOS_ETAPA[etapaSerie]) {
+            nivelLabel = ROTULOS_ETAPA[etapaSerie];
         } else if (u.serie && (u.serie.includes("Superior") || u.serie.includes("Faculdade"))) {
             nivelLabel = "Ensino Superior";
         }
 
         let html = `
-            <div style="height: 15px"></div> <div class="glass-panel rounded-3xl p-6 w-full mb-8 flex flex-col md:flex-row items-center md:items-start gap-6 animate-fade-in mx-4 md:mx-auto max-w-5xl shadow-xl border border-white/40">
+            <div style="height: 15px"></div>
+            <div class="glass-panel rounded-3xl p-6 w-full mb-8 flex flex-col md:flex-row items-center md:items-start gap-6 animate-fade-in mx-4 md:mx-auto max-w-5xl shadow-xl border border-white/40">
                 
                 <div class="w-24 h-24 rounded-full bg-gradient-to-br from-[#58cc02]/80 to-[#46a302]/80 dark:from-[#58cc02]/40 dark:to-[#46a302]/50 backdrop-blur-md border-4 border-white/50 dark:border-white/20 shadow-lg flex items-center justify-center overflow-hidden shrink-0 relative ring-4 ring-black/5">
-                    ${u.photoURL
-                ? `<img src="${u.photoURL}" class="w-full h-full object-cover" alt="Foto">`
+                    ${safePhoto
+                ? `<img src="${safePhoto}" class="w-full h-full object-cover" alt="Foto">`
                 : `<i class="fas fa-user text-4xl text-white drop-shadow-md"></i>`
             }
                 </div>
 
                 <div class="flex-1 text-center md:text-left">
-                    <h2 class="text-3xl font-extrabold text-gray-800 dark:text-white drop-shadow-sm mb-1">Olá, ${u.name}!</h2>
-                    <p class="text-brand-blue dark:text-blue-300 font-bold text-sm uppercase tracking-wide mb-3">${u.serie}</p>
+                    <h2 class="text-3xl font-extrabold text-gray-800 dark:text-white drop-shadow-sm mb-1">Olá, ${safeName}!</h2>
+                    <p class="text-brand-blue dark:text-blue-300 font-bold text-sm uppercase tracking-wide mb-3">${safeSerie}</p>
                     
                     <div class="flex items-center justify-center md:justify-start gap-4 text-xs font-bold text-gray-500 dark:text-gray-300">
                         <span class="flex items-center gap-2 bg-white/40 dark:bg-black/20 px-3 py-1 rounded-lg border border-white/20">
@@ -34,7 +78,7 @@ views.extend({
                         </span>
                         <span class="flex items-center gap-2 bg-white/40 dark:bg-black/20 px-3 py-1 rounded-lg border border-white/20">
                             <i class="fas fa-bolt text-brand-yellow text-sm"></i> 
-                            ${u.xp} XP
+                            ${parseInt(u.xp, 10) || 0} XP
                         </span>
                     </div>
                 </div>
@@ -42,7 +86,7 @@ views.extend({
                 <div class="glass-child px-5 py-3 rounded-2xl flex items-center shadow-sm">
                     <i class="fas fa-graduation-cap text-gray-400 dark:text-gray-300 mr-3 text-xl"></i>
                     <p class="text-gray-600 dark:text-gray-200 font-bold text-sm uppercase tracking-wide">
-                        ${nivelLabel}
+                        ${views.escapeHTML(nivelLabel)}
                     </p>
                 </div>
             </div>
@@ -57,15 +101,14 @@ views.extend({
 
         categorias.forEach((cat) => {
             const isActive = cat === filtroAtivo;
-            // Botão Ativo: Cor sólida vibrante
             const activeClass = "bg-brand-blue text-white shadow-lg scale-105 ring-2 ring-blue-300 dark:ring-blue-900";
-            // Botão Inativo: Vidro Fosco
             const inactiveClass = "glass-child text-gray-600 dark:text-gray-300 hover:bg-white/50 dark:hover:bg-white/10";
+            const safeCat = views.escapeHTML(cat);
 
             html += `
-                <button onclick="app.setFilter('${cat}')" 
+                <button data-action="set-filter" data-arg="${safeCat}"
                     class="whitespace-nowrap px-6 py-2.5 rounded-2xl font-bold text-sm transition-all duration-200 ${isActive ? activeClass : inactiveClass}">
-                    ${cat}
+                    ${safeCat}
                 </button>
             `;
         });
@@ -74,7 +117,7 @@ views.extend({
 
         let encontrou = false;
         for (const disc in disciplinasDisponiveis) {
-            const config = SUBJECT_CONFIG[disc] || {
+            const config = (typeof SUBJECT_CONFIG !== 'undefined' && SUBJECT_CONFIG[disc]) ? SUBJECT_CONFIG[disc] : {
                 category: "Outros",
                 icon: "fa-book",
                 theme: {
@@ -88,19 +131,33 @@ views.extend({
             if (filtroAtivo !== "Todos" && config.category !== filtroAtivo) continue;
 
             encontrou = true;
+
+            const status = (window.badges && badges.getDisciplineStatus)
+                ? badges.getDisciplineStatus(disc, u)
+                : { icon: '📚', color: 'text-gray-500', label: 'Iniciante' };
+
+            const safeDisc = views.escapeHTML(disc);
+            const safeCategory = views.escapeHTML(config.category);
+            const safeStatusLabel = views.escapeHTML(status.label);
+
             html += `
-                <div onclick="audioManager.play('success'); app.navigate('mode_select', '${disc}')" 
-                     class="group glass-child relative overflow-hidden rounded-3xl border-b-4 ${config.theme.border} hover:${config.theme.borderDark} active:border-b-0 active:translate-y-1 transition-all cursor-pointer shadow-lg hover:shadow-xl p-6 flex flex-col items-center gap-5 h-full justify-center">
+                <div data-action="nav" data-arg="mode_select" data-arg2="${safeDisc}"
+                     class="group glass-child relative overflow-hidden rounded-3xl border-b-4 ${config.theme.border} hover:${config.theme.borderDark} active:border-b-0 active:translate-y-1 transition-all cursor-pointer shadow-lg hover:shadow-xl p-6 flex flex-col items-center gap-5 h-full justify-between">
                     
                     <div class="absolute inset-0 bg-white/20 dark:bg-white/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+
+                    <div class="absolute top-3 right-3 ${status.color} font-bold text-sm flex items-center gap-1 z-20 bg-white/80 dark:bg-black/40 px-3 py-1 rounded-lg backdrop-blur-sm">
+                        <span class="text-lg">${status.icon}</span>
+                        <span class="text-xs">${safeStatusLabel}</span>
+                    </div>
 
                     <div class="relative w-20 h-20 rounded-2xl ${config.theme.main} flex items-center justify-center text-white text-3xl shadow-inner-lg group-hover:scale-110 group-hover:rotate-3 transition-transform duration-300 ring-4 ring-white/30 dark:ring-black/20">
                         <i class="fas ${config.icon} drop-shadow-md"></i>
                     </div>
                     
                     <div class="text-center relative z-10">
-                        <h3 class="font-extrabold text-xl text-gray-800 dark:text-white tracking-tight">${disc}</h3>
-                        <p class="text-[10px] text-gray-500 dark:text-gray-400 mt-1 uppercase tracking-widest font-bold opacity-80">${config.category}</p>
+                        <h3 class="font-extrabold text-xl text-gray-800 dark:text-white tracking-tight">${safeDisc}</h3>
+                        <p class="text-[10px] text-gray-500 dark:text-gray-400 mt-1 uppercase tracking-widest font-bold opacity-80">${safeCategory}</p>
                     </div>
                 </div>
             `;
@@ -119,11 +176,8 @@ views.extend({
         return html;
     },
 
-    // ========================================================================
-    // 3. SELETOR DE MODO (CORRIGIDO: NÃO SOBRESCREVE A MATÉRIA)
-    // ========================================================================
     renderModeSelector: function (disciplina) {
-        // Configuração visual (mantida)
+        const safeDisc = views.escapeHTML(disciplina);
         const config = (typeof SUBJECT_CONFIG !== 'undefined' && SUBJECT_CONFIG[disciplina])
             ? SUBJECT_CONFIG[disciplina]
             : {
@@ -143,7 +197,7 @@ views.extend({
                     <div class="w-24 h-24 mx-auto ${config.theme.main} rounded-2xl flex items-center justify-center text-white text-5xl shadow-lg mb-4 ring-4 ring-white/30 dark:ring-black/10">
                         <i class="fas ${config.icon} drop-shadow-md"></i>
                     </div>
-                    <h2 class="text-3xl font-black text-gray-800 dark:text-white drop-shadow-sm mb-1">${disciplina}</h2>
+                    <h2 class="text-3xl font-black text-gray-800 dark:text-white drop-shadow-sm mb-1">${safeDisc}</h2>
                     <p class="text-gray-500 dark:text-gray-300 font-bold uppercase tracking-wide text-xs">Selecione seu caminho</p>
                 </div>
 

@@ -15,10 +15,18 @@ var game = {
     // 1. SINCRONIZAÇÃO E OFENSIVA (STREAK)
     // ========================================================================
 
+    // Mapa legado (título -> id) carregado uma vez por sessão.
+    _mapaLegado: null,
+    // Promessa da migração em andamento (evita duas migrações concorrentes).
+    _migracaoEmCurso: null,
+
     // Chamado apenas no Login/Boot para checar se perdeu a ofensiva
     syncProgress: function (user) {
         if (!user) return; // Proteção básica
-        
+
+        // Antes de qualquer leitura de completedLessons: migra títulos -> ids.
+        this.migrarProgresso(user);
+
         if (!user.streak) user.streak = 0;
         if (!user.lastActivity) return; // Usuário novo, nunca estudou
 
@@ -46,6 +54,91 @@ var game = {
             if (window.app && app.saveProgress) app.saveProgress();
             if (window.ui && ui.updateHeader) ui.updateHeader();
         }
+    },
+
+    // ========================================================================
+    // 1.1 MIGRAÇÃO DE PROGRESSO LEGADO (TÍTULO -> ID CANÔNICO)
+    // ========================================================================
+
+    /**
+     * Migração UMA-VEZ de `completedLessons` (R5/R24): se `progressoV2` não
+     * estiver marcado E houver alguma entrada fora do padrão canônico, traduz
+     * os títulos pelo `data/base/mapa-legado-ids.json` (fetch único, cacheado)
+     * e persiste só se a lista mudou. Sem mapa (fetch falhou ou JSON vazio) ou
+     * 100% canônico: nada de fetch/flag/save.
+     * @param {Object} user app.state.userProgress (convidado ou autenticado)
+     * @returns {Promise<Object>} o próprio user
+     */
+    migrarProgresso: function (user) {
+        if (!user || user.progressoV2 === true) return Promise.resolve(user);
+        if (typeof traduzirProgresso !== 'function') return Promise.resolve(user);
+
+        // R24: lista vazia (convidado/usuário novo) ou 100% de ids canônicos
+        // não precisa do mapa — sem fetch, sem flag, sem save.
+        const jaCanonico = (typeof precisaMigrar === 'function')
+            ? !precisaMigrar(user.completedLessons, user.progressoV2)
+            : false;
+        if (jaCanonico) return Promise.resolve(user);
+
+        if (this._migracaoEmCurso) return this._migracaoEmCurso;
+
+        const aplicar = (mapa) => {
+            // Mapa vazio/ inválido = indisponível: não muta nem marca a flag,
+            // para tentar de novo no próximo boot (contrato de "sem data loss").
+            if (!mapa || typeof mapa !== 'object' || Object.keys(mapa).length === 0) return user;
+
+            const antes = Array.isArray(user.completedLessons) ? user.completedLessons : [];
+            const depois = traduzirProgresso(antes, mapa);
+            user.completedLessons = depois;
+            user.progressoV2 = true;
+
+            // Só persiste quando a lista realmente mudou (R24).
+            const mudou = (typeof progressoMudou === 'function') ? progressoMudou(antes, depois) : true;
+            if (!mudou) return user;
+
+            if (window.app && app.saveProgress) app.saveProgress();
+            if (window.ui && ui.updateHeader) ui.updateHeader();
+            return user;
+        };
+
+        this._migracaoEmCurso = this._carregarMapaLegado()
+            .then(aplicar)
+            .catch((erro) => {
+                console.warn("[Game] Falha na migração de progresso:", erro);
+                return user;
+            })
+            .then((resultado) => {
+                this._migracaoEmCurso = null;
+                return resultado;
+            });
+
+        return this._migracaoEmCurso;
+    },
+
+    /**
+     * Carrega (uma vez) o mapa título -> id, relativo à raiz do site.
+     * @returns {Promise<Object|null>} null se indisponível
+     */
+    _carregarMapaLegado: function () {
+        if (this._mapaLegado) return Promise.resolve(this._mapaLegado);
+        if (typeof fetch !== 'function') return Promise.resolve(null);
+
+        return fetch('data/base/mapa-legado-ids.json')
+            .then((resposta) => {
+                if (!resposta || !resposta.ok) {
+                    throw new Error("HTTP " + (resposta ? resposta.status : "?"));
+                }
+                return resposta.json();
+            })
+            .then((mapa) => {
+                const valido = mapa && typeof mapa === 'object' && Object.keys(mapa).length > 0;
+                this._mapaLegado = valido ? mapa : null;
+                return this._mapaLegado;
+            })
+            .catch((erro) => {
+                console.warn("[Game] Mapa legado indisponível (nova tentativa no próximo boot):", erro);
+                return null;
+            });
     },
 
     // Chamado ao ganhar XP (terminar aula/quiz)
@@ -112,6 +205,19 @@ var game = {
         if (window.ui && ui.fx) ui.fx.playSuccess();
         this.addXP(50);
 
+        // ===== VERIFICAR BADGES =====
+        if (window.badges) {
+            const disciplina = app.state.currentSubject;
+            const nivel = app.state.currentLevel;
+            
+            // Verifica badges de trilha
+            badges.checkTrilhaBadges(disciplina, nivel, app.state.userProgress);
+            // Verifica badges de milestone
+            badges.checkMilestoneBadges(app.state.userProgress);
+            // Verifica badges de streak
+            badges.checkStreakBadges(app.state.userProgress);
+        }
+
         // Feedback e Navegação
         if (window.ui && ui.showToast) {
             ui.showToast("Aula Concluída! +50 XP", "success");
@@ -149,9 +255,10 @@ var game = {
             const theme = app.state.currentCourse || app.state.currentSubject;
             const level = app.state.currentLevel;
             const filteredOld = allQ.filter(q => {
-                const matchAno = level ? q.ano === level : true;
-                const matchTema = (q.tema === theme) || (q.ano === theme);
-                return matchTema && matchAno;
+                // `nivel` é código canônico (q.nivel); `ano` não existe mais.
+                const matchNivel = level ? q.nivel === level : true;
+                const matchTema = q.tema === theme;
+                return matchTema && matchNivel;
             });
             
             if (!filteredOld.length) {
@@ -211,7 +318,7 @@ var game = {
         
         if (window.ui && ui.showModal) {
             ui.showModal("Resultado", `<div class='text-center text-4xl mb-4'>🏆</div><p>${msg}</p>`, [
-                { label: "Voltar ao Mapa", onclick: "app.navigate('home')", class: "bg-brand-blue text-white" }
+                { label: "Voltar ao Mapa", onclick: () => app.navigate('home'), class: "bg-brand-blue text-white" }
             ]);
         } else {
             alert(msg);

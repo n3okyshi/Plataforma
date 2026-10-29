@@ -1,128 +1,132 @@
 /**
- * JS/AUTH.JS
- * Gerencia a autenticação e dados.
- * Define a variável global 'auth'.
+ * ============================================================================
+ * AUTH.JS - CONTROLLER DE AUTENTICAÇÃO (MATHLINGO v3.5)
+ * ============================================================================
+ * Responsabilidade: Gerenciar eventos de autenticação, integrar FirebaseService
+ * com o estado reativo (model.state) e notificar o app.
  */
+
+/**
+ * Papel efetivo da sessão (falha 1 / §5.10). Preenchido SÓ a partir das claims
+ * do token (`getIdTokenResult()`): `role` e o recorte territorial
+ * `rede`/`municipio` (R27). Sem claim o papel é 'aluno' — nunca "Professor"
+ * por série e nunca o `role` do documento (que não é lido pelo perfil).
+ * `null` significa "sessão ainda não resolvida" (pré-login/logout).
+ */
+var Session = {
+    role: null
+};
+
+/**
+ * Monta o objeto de sessão a partir das claims do token.
+ * @param {Object} [firebaseUser] Usuário do Auth (se omitido, usa currentUser).
+ * @returns {Promise<{role: string, rede: (string|null), municipio: (string|null)}>}
+ */
+async function resolverSessao(firebaseUser) {
+    var conta = firebaseUser;
+    if (!conta && typeof firebase !== 'undefined' && firebase.auth) {
+        conta = firebase.auth().currentUser;
+    }
+
+    var claims = null;
+    if (conta && typeof conta.getIdTokenResult === 'function') {
+        try {
+            var token = await conta.getIdTokenResult();
+            claims = token && token.claims ? token.claims : null;
+        } catch (erro) {
+            console.warn("[Auth] Não foi possível ler as claims da sessão:", erro);
+        }
+    }
+
+    var papelDaClaim = claims && typeof claims.role === 'string' ? claims.role : '';
+
+    return {
+        role: papelDaClaim || 'aluno',
+        rede: (claims && claims.rede) || null,
+        municipio: (claims && claims.municipio) || null
+    };
+}
+
 var auth = {
-    user: null, // Armazena usuário atual
+    user: null,
 
     init: function () {
-        if (typeof firebase === 'undefined' || !firebase.apps.length) {
-            console.error("[Auth] SDK do Firebase ausente.");
+        if (typeof firebaseService === 'undefined') {
+            console.error("[Auth] FirebaseService ausente.");
             return;
         }
 
-        firebase.auth().onAuthStateChanged(async (firebaseUser) => {
-            let isLoggedIn = false;
-            let userData = null;
+        firebaseService.onAuthStateChanged(async (userData, loggedIn, firebaseUser) => {
+            if (loggedIn && userData) {
+                console.log("[Auth] Sessão ativa para:", userData.email || userData.name);
+                this.user = userData;
+                // Resolvido ANTES do dispatch de auth-change (que só acontece
+                // depois deste await): o teacher.js reavalia a permissão já com
+                // role/rede/municipio das claims, nunca com a sessão "vazia".
+                Session.role = await resolverSessao(firebaseUser);
 
-            if (firebaseUser) {
-                console.log("[Auth] Usuário detectado:", firebaseUser.email);
-                try {
-                    userData = await this.loadUserData(firebaseUser);
-                    this.user = userData;
-                    
-                    // Sincroniza com o App
-                    if (window.app) {
-                        app.state.userProgress = userData;
-                    }
-                    if (window.game) {
-                        game.syncProgress(userData); // Checa ofensiva
-                    }
-
-                    isLoggedIn = true;
-                } catch (error) {
-                    console.error("[Auth] Erro ao carregar perfil:", error);
-                    this.logout();
-                    return;
+                if (window.model) {
+                    model.setState({ userProgress: userData });
+                }
+                if (window.app) {
+                    app.state.userProgress = userData;
+                }
+                if (window.game && typeof game.syncProgress === 'function') {
+                    game.syncProgress(userData);
                 }
             } else {
-                console.log("[Auth] Nenhum usuário conectado.");
+                console.log("[Auth] Nenhum usuário conectado via Firebase.");
                 this.user = null;
+                Session.role = null;
             }
 
-            // Dispara evento para o App saber que mudou
             const event = new CustomEvent('auth-change', {
-                detail: { user: userData, loggedIn: isLoggedIn }
+                detail: { user: this.user, loggedIn: Boolean(this.user), role: Session.role }
             });
             window.dispatchEvent(event);
         });
     },
 
-    login: function () {
-        const provider = new firebase.auth.GoogleAuthProvider();
-        firebase.auth().signInWithPopup(provider)
-            .then((result) => {
-                console.log("Google Login Sucesso:", result.user.email);
-                // O onAuthStateChanged vai lidar com o resto
-            })
-            .catch(err => {
-                console.error("[Auth] Erro Google:", err);
-                alert("Erro ao conectar com Google: " + err.message);
-            });
+    login: async function () {
+        try {
+            await firebaseService.loginWithGoogle();
+        } catch (err) {
+            console.error("[Auth] Erro ao logar com Google:", err);
+            if (window.ui && ui.showToast) {
+                ui.showToast("Erro ao conectar com Google: " + err.message, "error");
+            }
+        }
     },
 
     loginEmail: function (email, password) {
-        return firebase.auth().signInWithEmailAndPassword(email, password);
+        return firebaseService.loginWithEmail(email, password);
     },
 
-    registerEmail: async function (email, password) {
-        return firebase.auth().createUserWithEmailAndPassword(email, password);
+    registerEmail: function (email, password) {
+        return firebaseService.registerWithEmail(email, password);
     },
 
-    logout: function () {
-        firebase.auth().signOut();
-        localStorage.removeItem('mathlingo_guest');
+    logout: async function () {
+        await firebaseService.logout();
         this.user = null;
-        console.log("[Auth] Logout realizado.");
-    },
-
-    loadUserData: async function (firebaseUser) {
-        const db = firebase.firestore();
-        const userRef = db.collection('users').doc(firebaseUser.uid);
-        const doc = await userRef.get();
-
-        if (doc.exists) {
-            const dadosBrutos = doc.data();
-            // Normalização de dados antigos
-            const serieNormalizada = dadosBrutos.serie || dadosBrutos.série || dadosBrutos.turma || "6º Ano EF";
-            
-            return {
-                ...dadosBrutos,
-                serie: serieNormalizada,
-                uid: firebaseUser.uid
-            };
-        } else {
-            // Cria novo usuário
-            const newUser = {
-                uid: firebaseUser.uid,
-                email: firebaseUser.email,
-                name: firebaseUser.displayName || "Estudante", // Padronizado para 'name'
-                photoURL: firebaseUser.photoURL, // Padronizado para 'photoURL'
-                xp: 0,
-                serie: "6º Ano EF",
-                completedLessons: [],
-                createdAt: firebase.firestore.FieldValue.serverTimestamp()
-            };
-            await userRef.set(newUser);
-            return newUser;
+        Session.role = null;
+        if (window.model) {
+            model.setState({ userProgress: null });
+        }
+        if (window.app) {
+            app.state.userProgress = null;
+            app.navigate("login");
         }
     },
 
     saveUserData: async function (data) {
-        const currentUser = firebase.auth().currentUser;
-        if (!currentUser) return;
-
-        const realUid = currentUser.uid;
-        try {
-            const cleanData = JSON.parse(JSON.stringify(data));
-            delete cleanData.isGuest; // Não salva flag de visitante
-            cleanData.uid = realUid;
-            
-            await firebase.firestore().collection('users').doc(realUid).set(cleanData, { merge: true });
-            this.user = cleanData;
-        } catch (e) {
-            console.error("[Auth] Erro ao salvar:", e);
+        if (!this.user || !this.user.uid) return;
+        const success = await firebaseService.saveUserData(this.user.uid, data);
+        if (success) {
+            this.user = { ...this.user, ...data };
+            if (window.model) {
+                model.setState({ userProgress: this.user });
+            }
         }
     }
 };

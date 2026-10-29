@@ -11,6 +11,9 @@
   window.PLATAFORMA_CURRICULO = window.PLATAFORMA_CURRICULO || {};
   window.PLATAFORMA_TEORIA = window.PLATAFORMA_TEORIA || {};
   window.PLATAFORMA_QUESTOES = window.PLATAFORMA_QUESTOES || [];
+  // §5.2: aulas canônicas completas (JSON íntegro), por id. A teoria acima
+  // continua sendo só o HTML pré-renderizado para o renderer da lição.
+  window.PLATAFORMA_AULAS = window.PLATAFORMA_AULAS || {};
 
   // ========================================================================
   // 1. FUNÇÕES DE REGISTRO (ESCRITA) - AGORA COM VALIDAÇÃO
@@ -56,6 +59,28 @@
     }
   };
 
+  /**
+   * Registra aulas canônicas completas (§5.2). Os chunks gerados por
+   * tools/gerar.js chamam `registrarAula({ "<id>": { ...aula } })`; a guarda
+   * `typeof window.registrarAula === 'function'` da R17 existe para este
+   * momento — a partir daqui elas passam a ser lidas por Registry.getAula.
+   */
+  window.registrarAula = (novasAulas) => {
+    if (!novasAulas || typeof novasAulas !== 'object' || Array.isArray(novasAulas)) {
+        console.error("⚠️ [Registry] Erro ao registrar aulas: esperava um objeto { id: aula }.");
+        return;
+    }
+    let total = 0;
+    Object.keys(novasAulas).forEach((id) => {
+        const aula = novasAulas[id];
+        if (!aula || typeof aula !== 'object') return;
+        // O id do mapa é a chave canônica; o campo interno serve de conferência.
+        window.PLATAFORMA_AULAS[id] = aula;
+        total += 1;
+    });
+    console.log(`🎓 [Registry] +${total} aula(s) canônica(s) registrada(s).`);
+  };
+
   // ========================================================================
   // 2. [NOVO] API DE ACESSO SEGURO (LEITURA)
   // Use window.Registry.get... ao invés de acessar as variáveis brutas
@@ -72,14 +97,21 @@
           return window.PLATAFORMA_TEORIA[topicoId] || null;
       },
 
-      // Retorna questões filtradas por Ano/Disciplina e Tema
-      getQuestoes: function(ano, tema) {
+      // Aula canônica completa (§5.2): atividades, vocabulário, metadados...
+      // Retorna null quando o chunk não foi carregado (legado seguro).
+      getAula: function(aulaId) {
+          if (typeof aulaId !== 'string' || !aulaId) return null;
+          return window.PLATAFORMA_AULAS[aulaId] || null;
+      },
+
+      // Retorna questões filtradas por NÍVEL (código, ex.: "EF06") e Tema
+      getQuestoes: function(nivel, tema) {
           return window.PLATAFORMA_QUESTOES.filter(q => {
-              // Normalização para evitar erros de Case Sensitive
-              const matchAno = q.ano && q.ano.toLowerCase() === ano.toLowerCase();
-              // Se tema for passado, filtra também, senão traz todas do ano
-              const matchTema = tema ? (q.tema && q.tema.toLowerCase() === tema.toLowerCase()) : true;
-              return matchAno && matchTema;
+              // Código de nível é exato (EF06 != ef06, e não há mais nomes display)
+              const matchNivel = q.nivel === nivel;
+              // Se tema for passado, filtra também, senão traz todas do nível
+              const matchTema = tema ? q.tema === tema : true;
+              return matchNivel && matchTema;
           });
       },
 

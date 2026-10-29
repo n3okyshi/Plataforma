@@ -1,15 +1,39 @@
 views.extend({
     renderProfile: function (user) {
         const anoAtualSistema = new Date().getFullYear();
-        const series = [
-            "Treineiro", "1º Ano EFI", "2º Ano EFI", "3º Ano EFI", "4º Ano EFI", "5º Ano EFI",
-            "6º Ano EFII", "7º Ano EFII", "8º Ano EFII", "9º Ano EFII",
-            "1º Ano EM", "2º Ano EM", "3º Ano EM",
-            "Universitário", "Professor"
-        ];
 
-        // Garante valores padrão
         const dados = user || { name: "", fullName: "", matricula: "", turma: "", serie: "", email: "", photoURL: null };
+        const safeName = views.escapeHTML(dados.name || "Visitante");
+        const safeFullName = views.escapeHTML(dados.fullName || dados.name || '');
+        const safeEmail = views.escapeHTML(dados.email || "Sem email vinculado");
+        const safeMatricula = views.escapeHTML(dados.matricula || '');
+        const safeTurma = views.escapeHTML(dados.turma || '');
+        const safePhoto = dados.photoURL ? views.escapeHTML(dados.photoURL) : null;
+
+        // O <select> é gerado da base canônica (R25): 16 códigos EI01..EM03
+        // agrupados por etapa. "Professor" não é série escolhível (falha 10).
+        const niveis = window.NIVEIS || (typeof NIVEIS !== 'undefined' ? NIVEIS : {});
+        const codigoDaSerie = typeof codigoDoNivel === 'function' ? codigoDoNivel(dados.serie) : null;
+        const nivelAtual = codigoDaSerie || 'EF06'; // visitante/novo usuário
+        const etapas = [
+            { sigla: 'EI', rotulo: 'Educação Infantil' },
+            { sigla: 'EF', rotulo: 'Ensino Fundamental' },
+            { sigla: 'EM', rotulo: 'Ensino Médio' },
+        ];
+        const opcoesSerie = etapas.map((etapa) => {
+            const codigos = Object.keys(niveis).filter((codigo) => niveis[codigo].etapa === etapa.sigla);
+            if (codigos.length === 0) return '';
+            return `
+                                <optgroup label="${etapa.rotulo}">
+                                    ${codigos.map((codigo) => `
+                                    <option value="${codigo}" ${codigo === nivelAtual ? 'selected' : ''}
+                                            class="text-gray-800 bg-white dark:bg-gray-900 dark:text-white py-2">
+                                        ${views.escapeHTML(niveis[codigo].rotulo)}
+                                    </option>
+                                `).join('')}
+                                </optgroup>
+                            `;
+        }).join('');
 
         return `
             <div class="min-h-screen p-6 pb-24 animate-fade-in max-w-2xl mx-auto">
@@ -23,20 +47,55 @@ views.extend({
 
                 <div class="glass-panel rounded-3xl p-8 shadow-xl border border-white/40 mb-8 flex flex-col items-center text-center">
                     <div class="w-28 h-28 bg-gradient-to-br from-brand-blue to-blue-600 rounded-full flex items-center justify-center text-5xl text-white shadow-lg mb-4 border-4 border-white/50 dark:border-white/20 ring-4 ring-black/5 relative overflow-hidden">
-                        ${dados.photoURL ? `<img src="${dados.photoURL}" class="w-full h-full object-cover">` : '<i class="fas fa-user"></i>'}
+                        ${safePhoto ? `<img src="${safePhoto}" class="w-full h-full object-cover">` : '<i class="fas fa-user"></i>'}
                     </div>
                     
-                    <h3 class="text-2xl font-extrabold text-gray-800 dark:text-white mb-1">${dados.name || "Visitante"}</h3>
-                    <p class="text-gray-500 dark:text-gray-400 text-sm font-bold mb-6">${dados.email || "Sem email vinculado"}</p>
+                    <h3 class="text-2xl font-extrabold text-gray-800 dark:text-white mb-1">${safeName}</h3>
+                    <p class="text-gray-500 dark:text-gray-400 text-sm font-bold mb-6">${safeEmail}</p>
                     
                     <div class="flex flex-wrap justify-center gap-3">
                         <span class="px-4 py-2 glass-child rounded-xl text-yellow-600 dark:text-yellow-400 text-xs font-black uppercase tracking-wide flex items-center gap-2">
-                            <i class="fas fa-bolt text-lg"></i> ${dados.xp || 0} XP
+                            <i class="fas fa-bolt text-lg"></i> ${parseInt(dados.xp, 10) || 0} XP
                         </span>
                         <span class="px-4 py-2 glass-child rounded-xl text-green-600 dark:text-green-400 text-xs font-black uppercase tracking-wide flex items-center gap-2">
                             <i class="fas fa-check-circle text-lg"></i> ${dados.completedLessons ? dados.completedLessons.length : 0} Lições
                         </span>
                     </div>
+                </div>
+
+                <!-- SEÇÃO DE BADGES -->
+                <div class="glass-panel rounded-3xl p-8 shadow-xl border border-white/40 mb-8">
+                    <h3 class="text-xl font-black text-gray-800 dark:text-white mb-6 flex items-center gap-2">
+                        <i class="fas fa-award text-2xl text-yellow-500"></i>
+                        Suas Conquistas
+                    </h3>
+                    
+                    ${(() => {
+                        const badges_list = window.badges?.getUnlockedBadges(dados) || [];
+                        
+                        if (badges_list.length === 0) {
+                            return `
+                                <div class="text-center py-8">
+                                    <p class="text-gray-500 dark:text-gray-400 font-bold mb-2">Nenhum badge desbloqueado ainda</p>
+                                    <p class="text-xs text-gray-400 dark:text-gray-500">Complete lições e desafios para ganhar badges!</p>
+                                </div>
+                            `;
+                        }
+                        
+                        return `
+                            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+                                ${badges_list.map(badge => `
+                                    <div class="glass-child rounded-2xl p-4 flex flex-col items-center text-center group hover:scale-105 transition-transform cursor-pointer" title="${views.escapeHTML(badge.description)}">
+                                        <div class="w-12 h-12 ${badge.color} rounded-full flex items-center justify-center text-white text-2xl mb-2 shadow-lg">
+                                            <i class="fas ${badge.icon}"></i>
+                                        </div>
+                                        <h4 class="text-xs font-bold text-gray-800 dark:text-white leading-tight">${views.escapeHTML(badge.name)}</h4>
+                                        <p class="text-[9px] text-gray-500 dark:text-gray-400 mt-1 opacity-70">${views.escapeHTML(badge.type)}</p>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        `;
+                    })()}
                 </div>
 
                 <form onsubmit="event.preventDefault(); app.saveProfile(this)" class="glass-panel rounded-3xl p-8 shadow-lg border border-white/40 space-y-6">
@@ -47,48 +106,44 @@ views.extend({
 
                     <div>
                         <label class="block text-sm font-bold text-gray-600 dark:text-gray-300 mb-2 ml-1">Nome Completo</label>
-                        <input type="text" name="fullName" value="${dados.fullName || dados.name || ''}" 
+                        <input type="text" name="fullName" value="${safeFullName}" 
                                class="glass-child w-full rounded-2xl p-4 font-bold text-gray-800 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 outline-none focus:ring-2 focus:ring-brand-blue border-transparent transition-all h-14">
                     </div>
 
                     <div class="grid grid-cols-2 gap-4">
                         <div>
                             <label class="block text-sm font-bold text-gray-600 dark:text-gray-300 mb-2 ml-1">Matrícula</label>
-                            <input type="text" name="matricula" value="${dados.matricula || ''}" placeholder="00000"
+                            <input type="text" name="matricula" value="${safeMatricula}" placeholder="00000"
                                    class="glass-child w-full rounded-2xl p-4 font-bold text-gray-800 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 outline-none focus:ring-2 focus:ring-brand-blue border-transparent transition-all h-14">
+                            <p class="text-[11px] text-gray-400 dark:text-gray-500 mt-2 ml-1 leading-snug">
+                                Guardamos só o hash (SHA-256): não é possível exibi-la de volta.
+                            </p>
                         </div>
                         <div>
                             <label class="block text-sm font-bold text-gray-600 dark:text-gray-300 mb-2 ml-1">Turma</label>
-                            <input type="text" name="turma" value="${dados.turma || ''}" placeholder="Ex: 3B"
+                            <input type="text" name="turma" value="${safeTurma}" placeholder="Ex: 3B"
                                    class="glass-child w-full rounded-2xl p-4 font-bold text-gray-800 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 outline-none focus:ring-2 focus:ring-brand-blue border-transparent transition-all h-14">
                         </div>
                     </div>
 
                     <div>
-    <label class="block text-sm font-bold text-gray-600 dark:text-gray-300 mb-2 ml-1">Série Atual</label>
-    <div class="relative">
-        
-        <select id="input-serie" 
-                name="serie" 
-                onchange="app.atualizarPerfil({ serie: this.value })"
-                class="glass-child w-full rounded-2xl p-4 pr-12 font-bold text-gray-700 dark:text-white 
-                       outline-none focus:ring-2 focus:ring-brand-blue border border-transparent 
-                       transition-all appearance-none h-16 cursor-pointer text-lg shadow-sm">
-            
-            ${series.map(s => `
-                <option value="${s}" ${dados.serie === s ? 'selected' : ''} 
-                        class="text-gray-800 bg-white dark:bg-gray-900 dark:text-white py-2">
-                    ${s}
-                </option>
-            `).join('')}
-
-        </select>
-        
-        <div class="absolute right-4 top-1/2 transform -translate-y-1/2 text-gray-400 pointer-events-none">
-            <i class="fas fa-chevron-down"></i>
-        </div>
-    </div>
-</div>
+                        <label class="block text-sm font-bold text-gray-600 dark:text-gray-300 mb-2 ml-1">Série Atual</label>
+                        <div class="relative">
+                            <select id="input-serie" 
+                                    name="serie" 
+                                    onchange="app.atualizarPerfil({ serie: this.value })"
+                                    class="glass-child w-full rounded-2xl p-4 pr-12 font-bold text-gray-700 dark:text-white 
+                                           outline-none focus:ring-2 focus:ring-brand-blue border border-transparent 
+                                           transition-all appearance-none h-16 cursor-pointer text-lg shadow-sm">
+                                
+                                ${opcoesSerie}
+                            </select>
+                            
+                            <div class="absolute right-4 top-1/2 transform -translate-y-1/2 text-gray-400 pointer-events-none">
+                                <i class="fas fa-chevron-down"></i>
+                            </div>
+                        </div>
+                    </div>
 
                     <div>
                         <label class="block text-sm font-bold text-gray-400 dark:text-gray-500 mb-2 ml-1">Ano Letivo (Automático)</label>

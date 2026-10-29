@@ -1,359 +1,56 @@
-/**
- * mat8_content.js
- * Conteúdo teórico das aulas de Matemática para o 8º ano do ensino fundamental.
- */
+/** GERADO por tools/gerar.js — NÃO EDITAR. hash: a9514bcb83f81dcd394d46fe49fc7da78809bb0fa1271afea67f81d35a316245 */
+'use strict';
 
-window.registrarTeoria({
-    // ============================================
-    // 8º ANO DO ENSINO FUNDAMENTAL
-    // ============================================
+// Teoria de Matemática — EF08 — pré-renderizada no build (R17a/D1).
+registrarTeoria({
+  "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.conjuntos_numericos": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Revisão: Conjuntos Numéricos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aprofundamos a relação entre Naturais (N), Inteiros (Z) e Racionais (Q). O foco é transformar <strong>dízimas periódicas</strong> em frações geratrizes e localizar esses números na reta.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💡 Lembre-se:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Todo número que pode ser escrito como fração (mesmo que infinito e periódico) é Racional.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Potenciação e Notação Científica</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Exploramos expoentes inteiros (incluindo negativos, que invertem a base) e a <strong>Notação Científica</strong> para lidar com números astronômicos ou microscópicos.\n        </p>\n        \n\n[Image of scientific notation examples]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🚀 Aplicação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Usamos potências de 10 para escrever a distância entre planetas ou o tamanho de uma célula.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.radiciacao": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Radiciação</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de raízes exatas e técnicas de aproximação para raízes não exatas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧊 Geometria:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Identificamos <strong>Quadrados Perfeitos</strong> (áreas de quadrados) e <strong>Cubos Perfeitos</strong> (volumes de cubos).</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sequências Numéricas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Identificação de padrões matemáticos e generalização através do <strong>Termo Geral</strong> ($a_n$).\n        </p>\n        \n\n[Image of fibonacci sequence pattern]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔢 Padrões:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Diferenciar o valor do termo ($a_n$) da sua posição ($n$) na fila.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Linguagem da Estatística</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definições fundamentais: População (todos) vs Amostra (parte).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📊 Tipos de Variáveis:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Qualitativas:</strong> Qualidades (Nominais/Ordinais).</li>\n                <li><strong>Quantitativas:</strong> Números (Discretas/Contínuas).</li>\n            </ul>\n        </div>\n    </div>\n    ",
+  "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Leitura de Gráficos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Interpretação e construção de gráficos: barras, linhas, setores (pizza) e histogramas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎯 Escolha Certa:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Aprender qual gráfico é o \"mais honesto\" e adequado para cada tipo de variável apresentada.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Estatística: O Centro</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resumindo um monte de dados em um único número representativo.\n        </p>\n        \n\n[Image of mean median mode comparison]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📊 O Trio:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Média:</strong> Soma tudo e divide pela quantidade.</li>\n                <li><strong>Mediana:</strong> O valor central (após ordenar).</li>\n                <li><strong>Moda:</strong> O que mais aparece (está na moda).</li>\n            </ul>\n        </div>\n    </div>\n    ",
+  "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Princípio Multiplicativo (PFC)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Técnica para resolver problemas de contagem multiplicando as opções de escolha em cada etapa.\n        </p>\n        \n\n[Image of probability tree diagram]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧠 Lógica pura:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Não precisamos de fórmulas complexas ainda, apenas organizar o pensamento (árvore de possibilidades) e multiplicar.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.estatistica_e_probabilidade.probabilidade": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Probabilidade Condicional</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de chances em cenários complexos. Probabilidade da união, intersecção e a Distribuição Binomial.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎲 Dado que...</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Na probabilidade condicional, o nosso \"universo\" (espaço amostral) diminui baseada em uma informação prévia.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Áreas Planas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de área de polígonos (triângulos, quadriláteros) e aprofundamento no círculo.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">pizza🍕 Círculo:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Além da área total (πr²), aprendemos a calcular \"fatias\" (setor circular) e \"bordas\" (coroa circular).</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume e Capacidade</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo do volume de prismas retos e cilindros.\n        </p>\n        \n\n[Image of volume of cylinder and prism]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🚰 Conversão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Foco na resolução de problemas práticos que exigem converter volume (m³, dm³) em capacidade (Litros).</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Linguagem da Álgebra</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução ao uso de letras (variáveis) para representar números desconhecidos ou generalizar padrões.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔡 Valor Numérico:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">É o resultado quando trocamos a letra por um número específico e fazemos a conta.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Equações Avançadas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolução de equações do 1º grau mais complexas, com coeficientes racionais e fracionários.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔧 Ferramentas:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uso intensivo da <strong>propriedade distributiva</strong> (o \"chuveirinho\") para organizar a equação antes de isolar o X.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Proporcionalidade</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo aprofundado de grandezas diretas e inversas.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚙️ Aplicações:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Resolução de problemas envolvendo <strong>regra de três composta</strong> e divisão de lucros/custos em partes proporcionais.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Desenho Geométrico</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Técnicas manuais para desenhar retas paralelas, perpendiculares e transportar ângulos com precisão.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Instrumentos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uso coordenado de régua, esquadro, transferidor e compasso.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Lugares Geométricos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conjuntos de pontos que satisfazem uma \"lei\" ou propriedade comum.\n        </p>\n        \n\n[Image of perpendicular bisector and angle bisector]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 Exemplos:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Circunferência:</strong> Equidistantes do centro.</li>\n                <li><strong>Mediatriz:</strong> Equidistantes de dois pontos.</li>\n                <li><strong>Bissetriz:</strong> Equidistantes dos lados de um ângulo.</li>\n            </ul>\n        </div>\n    </div>\n    ",
+  "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Construções sem Medidas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Construção \"pura\" de ângulos notáveis (30º, 45º, 60º, 90º) e polígonos regulares inscritos apenas com régua lisa e compasso.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎨 Arte Matemática:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Desenvolvemos o raciocínio espacial sem depender dos números do transferidor.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Triângulos: Congruência e Pontos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo rigoroso dos casos de congruência (LAL, LLL, ALA).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 Pontos Notáveis:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Baricentro (gravidade), Incentro, Circuncentro e Ortocentro. O \"BICO\" do triângulo.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Família dos Quadriláteros</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Propriedades específicas dos paralelogramos e trapézios.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🟦 Herança:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Entendemos a hierarquia: Todo quadrado é um retângulo e também um losango, mas o inverso não é verdadeiro.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sistemas Lineares</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução ao sistema linear. A solução não é um número, mas um <strong>par ordenado (x, y)</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📈 Visão Gráfica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Cada equação é uma reta. A solução do sistema é exatamente o ponto onde as duas retas se cruzam.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Resolvendo Sistemas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Métodos algébricos para encontrar a solução sem desenhar gráficos.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛠️ Métodos:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Substituição:</strong> Isola uma letra e troca na outra.</li>\n                <li><strong>Adição:</strong> Soma as equações para \"zerar\" uma letra.</li>\n            </ul>\n        </div>\n    </div>\n    ",
+  "mat.ef08.transformacoes_geometricas.transformacoes_geometricas": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Matrizes e Transformações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Como mover figuras no plano cartesiano usando matemática. Análise de isometrias (reflexão, translação, rotação).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎮 Computação Gráfica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Multiplicar coordenadas por <strong>Matrizes</strong> é a base para rotacionar e redimensionar personagens em jogos 3D.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Composição de Movimentos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aplicação sequencial de transformações no plano cartesiano (ex: refletir e depois girar).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎮 Programação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Essa lógica de passos sequenciais é a base da computação gráfica e da animação de jogos.</p>\n        </div>\n    </div>\n    ",
+});
 
-    // Unidade: Números, dos Naturais aos Racionais, e Sequências
-    "Conjuntos Numéricos": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Revisão: Conjuntos Numéricos</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Aprofundamos a relação entre Naturais (N), Inteiros (Z) e Racionais (Q). O foco é transformar <strong>dízimas periódicas</strong> em frações geratrizes e localizar esses números na reta.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">💡 Lembre-se:</p>
-            <p class="text-gray-700 dark:text-gray-300">Todo número que pode ser escrito como fração (mesmo que infinito e periódico) é Racional.</p>
-        </div>
-    </div>
-    `,
-
-    "Potenciação": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Potenciação e Notação Científica</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Exploramos expoentes inteiros (incluindo negativos, que invertem a base) e a <strong>Notação Científica</strong> para lidar com números astronômicos ou microscópicos.
-        </p>
-        
-
-[Image of scientific notation examples]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🚀 Aplicação:</p>
-            <p class="text-gray-700 dark:text-gray-300">Usamos potências de 10 para escrever a distância entre planetas ou o tamanho de uma célula.</p>
-        </div>
-    </div>
-    `,
-
-    "Radiciação": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Radiciação</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Cálculo de raízes exatas e técnicas de aproximação para raízes não exatas.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🧊 Geometria:</p>
-            <p class="text-gray-700 dark:text-gray-300">Identificamos <strong>Quadrados Perfeitos</strong> (áreas de quadrados) e <strong>Cubos Perfeitos</strong> (volumes de cubos).</p>
-        </div>
-    </div>
-    `,
-
-    "Sequências": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Sequências e Padrões</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Identificação de padrões numéricos e figurais. Diferenciamos sequências recursivas (dependem do anterior) das não recursivas.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🔍 Generalização:</p>
-            <p class="text-gray-700 dark:text-gray-300">O objetivo final é encontrar a <strong>Lei de Formação</strong> (fórmula) que permite calcular qualquer termo da sequência.</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Estatística e Probabilidade
-    "Termos de uma Pesquisa Estatística": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">A Linguagem da Estatística</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Definições fundamentais: População (todos) vs Amostra (parte).
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">📊 Tipos de Variáveis:</p>
-            <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li><strong>Qualitativas:</strong> Qualidades (Nominais/Ordinais).</li>
-                <li><strong>Quantitativas:</strong> Números (Discretas/Contínuas).</li>
-            </ul>
-        </div>
-    </div>
-    `,
-
-    "Representação Gráfica dos Dados de uma Pesquisa": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Leitura de Gráficos</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Interpretação e construção de gráficos: barras, linhas, setores (pizza) e histogramas.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🎯 Escolha Certa:</p>
-            <p class="text-gray-700 dark:text-gray-300">Aprender qual gráfico é o "mais honesto" e adequado para cada tipo de variável apresentada.</p>
-        </div>
-    </div>
-    `,
-
-    "Medidas de Tendência Central": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Média, Moda e Mediana</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Cálculo das medidas que resumem um conjunto de dados.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">⚖️ Diferenças:</p>
-            <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li><strong>Média:</strong> Equilíbrio (simples ou ponderada).</li>
-                <li><strong>Mediana:</strong> O termo do meio.</li>
-                <li><strong>Moda:</strong> O mais popular.</li>
-            </ul>
-        </div>
-    </div>
-    `,
-
-    "Princípio Multiplicativo ou Princípio Fundamental da Contagem (PFC)": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Princípio Multiplicativo (PFC)</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Técnica para resolver problemas de contagem multiplicando as opções de escolha em cada etapa.
-        </p>
-        
-
-[Image of probability tree diagram]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🧠 Lógica pura:</p>
-            <p class="text-gray-700 dark:text-gray-300">Não precisamos de fórmulas complexas ainda, apenas organizar o pensamento (árvore de possibilidades) e multiplicar.</p>
-        </div>
-    </div>
-    `,
-
-    "Probabilidade": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Cálculo de Probabilidade</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Estudo de eventos simples e compostos. Introdução à noção frequentista através de experimentos.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🎲 A Fórmula:</p>
-            <p class="text-gray-700 dark:text-gray-300">Probabilidade = (Resultados Favoráveis) / (Total de Possibilidades).</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Área e Volume
-    "Retomando e Aprofundando o Cálculo de Medida de Área": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Áreas Planas</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Cálculo de área de polígonos (triângulos, quadriláteros) e aprofundamento no círculo.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">pizza🍕 Círculo:</p>
-            <p class="text-gray-700 dark:text-gray-300">Além da área total (πr²), aprendemos a calcular "fatias" (setor circular) e "bordas" (coroa circular).</p>
-        </div>
-    </div>
-    `,
-
-    "Retomando e Aprofundando o Cálculo de Medidas de Volume e Medidas de Capacidade": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Volume e Capacidade</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Cálculo do volume de prismas retos e cilindros.
-        </p>
-        
-
-[Image of volume of cylinder and prism]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🚰 Conversão:</p>
-            <p class="text-gray-700 dark:text-gray-300">Foco na resolução de problemas práticos que exigem converter volume (m³, dm³) em capacidade (Litros).</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Expressões Algébricas, Equações e Proporcionalidade
-    "Expressões Algébricas": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Cálculo Literal</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Introdução aos monômios e polinômios. Aprendemos a identificar graus e realizar operações básicas.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🍎 Termos Semelhantes:</p>
-            <p class="text-gray-700 dark:text-gray-300">Só podemos somar ou subtrair termos que tenham a mesma parte literal (ex: $2x + 3x = 5x$, mas $2x + 3y$ não mistura).</p>
-        </div>
-    </div>
-    `,
-
-    "Equações": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Equações Avançadas</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Resolução de equações do 1º grau mais complexas, com coeficientes racionais e fracionários.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🔧 Ferramentas:</p>
-            <p class="text-gray-700 dark:text-gray-300">Uso intensivo da <strong>propriedade distributiva</strong> (o "chuveirinho") para organizar a equação antes de isolar o X.</p>
-        </div>
-    </div>
-    `,
-
-    "Proporcionalidade": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Proporcionalidade</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Estudo aprofundado de grandezas diretas e inversas.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">⚙️ Aplicações:</p>
-            <p class="text-gray-700 dark:text-gray-300">Resolução de problemas envolvendo <strong>regra de três composta</strong> e divisão de lucros/custos em partes proporcionais.</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Lugares Geométricos e Construções Geométricas
-    "Construções Geométricas com Régua, Esquadro, Transferidor e Compasso": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Desenho Geométrico</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Técnicas manuais para desenhar retas paralelas, perpendiculares e transportar ângulos com precisão.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">📏 Instrumentos:</p>
-            <p class="text-gray-700 dark:text-gray-300">Uso coordenado de régua, esquadro, transferidor e compasso.</p>
-        </div>
-    </div>
-    `,
-
-    "Lugares Geométricos": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Lugares Geométricos</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Conjuntos de pontos que satisfazem uma "lei" ou propriedade comum.
-        </p>
-        
-
-[Image of perpendicular bisector and angle bisector]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">📍 Exemplos:</p>
-            <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li><strong>Circunferência:</strong> Equidistantes do centro.</li>
-                <li><strong>Mediatriz:</strong> Equidistantes de dois pontos.</li>
-                <li><strong>Bissetriz:</strong> Equidistantes dos lados de um ângulo.</li>
-            </ul>
-        </div>
-    </div>
-    `,
-
-    "Mais Construções Geométricas com Régua Não Graduada e Compasso": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Construções sem Medidas</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Construção "pura" de ângulos notáveis (30º, 45º, 60º, 90º) e polígonos regulares inscritos apenas com régua lisa e compasso.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🎨 Arte Matemática:</p>
-            <p class="text-gray-700 dark:text-gray-300">Desenvolvemos o raciocínio espacial sem depender dos números do transferidor.</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Triângulos e Quadriláteros
-    "Ampliando o Estudo dos Triângulos": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Triângulos: Congruência e Pontos</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Estudo rigoroso dos casos de congruência (LAL, LLL, ALA).
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">📍 Pontos Notáveis:</p>
-            <p class="text-gray-700 dark:text-gray-300">Baricentro (gravidade), Incentro, Circuncentro e Ortocentro. O "BICO" do triângulo.</p>
-        </div>
-    </div>
-    `,
-
-    "Ampliando o Estudo dos Quadriláteros": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Família dos Quadriláteros</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Propriedades específicas dos paralelogramos e trapézios.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🟦 Herança:</p>
-            <p class="text-gray-700 dark:text-gray-300">Entendemos a hierarquia: Todo quadrado é um retângulo e também um losango, mas o inverso não é verdadeiro.</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Sistema de Equações do 1° Grau com 2 Incógnitas
-    "Sistema de Equações do 1° Grau com 2 Incógnitas": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Sistemas Lineares</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Introdução ao sistema linear. A solução não é um número, mas um <strong>par ordenado (x, y)</strong>.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">📈 Visão Gráfica:</p>
-            <p class="text-gray-700 dark:text-gray-300">Cada equação é uma reta. A solução do sistema é exatamente o ponto onde as duas retas se cruzam.</p>
-        </div>
-    </div>
-    `,
-
-    "Sistema de 2 Equações do 1º Grau com 2 Incógnitas": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Resolvendo Sistemas</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Métodos algébricos para encontrar a solução sem desenhar gráficos.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🛠️ Métodos:</p>
-            <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li><strong>Substituição:</strong> Isola uma letra e troca na outra.</li>
-                <li><strong>Adição:</strong> Soma as equações para "zerar" uma letra.</li>
-            </ul>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Transformações Geométricas
-    "Transformações Geométricas": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Transformações e Homotetia</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Revisão de isometrias (reflexão, translação, rotação) e introdução à <strong>Homotetia</strong>.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🔍 Zoom:</p>
-            <p class="text-gray-700 dark:text-gray-300">A homotetia trata de ampliação e redução, analisando a conservação dos ângulos mesmo quando o tamanho muda.</p>
-        </div>
-    </div>
-    `,
-
-    "Composição de Transformações Geométricas": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Composição de Movimentos</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Aplicação sequencial de transformações no plano cartesiano (ex: refletir e depois girar).
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🎮 Programação:</p>
-            <p class="text-gray-700 dark:text-gray-300">Essa lógica de passos sequenciais é a base da computação gráfica e da animação de jogos.</p>
-        </div>
-    </div>
-    `,
-
+// Aula canônica completa (§5.2); registrarAula chega na Task 9 (R17).
+typeof window.registrarAula === 'function' && window.registrarAula({
+  "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.conjuntos_numericos": {"id":"mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.conjuntos_numericos","componente":"mat","nivel":"EF08","ordem":1,"unidade":"Números, dos Naturais aos Racionais, e Sequências","titulo":"Conjuntos Numéricos","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Revisão: Conjuntos Numéricos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aprofundamos a relação entre Naturais (N), Inteiros (Z) e Racionais (Q). O foco é transformar <strong>dízimas periódicas</strong> em frações geratrizes e localizar esses números na reta.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💡 Lembre-se:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Todo número que pode ser escrito como fração (mesmo que infinito e periódico) é Racional.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao": {"id":"mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao","componente":"mat","nivel":"EF08","ordem":2,"unidade":"Números, dos Naturais aos Racionais, e Sequências","titulo":"Potenciação","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Potenciação e Notação Científica</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Exploramos expoentes inteiros (incluindo negativos, que invertem a base) e a <strong>Notação Científica</strong> para lidar com números astronômicos ou microscópicos.\n        </p>\n        \n\n[Image of scientific notation examples]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🚀 Aplicação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Usamos potências de 10 para escrever a distância entre planetas ou o tamanho de uma célula.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.radiciacao": {"id":"mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.radiciacao","componente":"mat","nivel":"EF08","ordem":3,"unidade":"Números, dos Naturais aos Racionais, e Sequências","titulo":"Radiciação","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Radiciação</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de raízes exatas e técnicas de aproximação para raízes não exatas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧊 Geometria:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Identificamos <strong>Quadrados Perfeitos</strong> (áreas de quadrados) e <strong>Cubos Perfeitos</strong> (volumes de cubos).</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias": {"id":"mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias","componente":"mat","nivel":"EF08","ordem":4,"unidade":"Números, dos Naturais aos Racionais, e Sequências","titulo":"Sequências","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sequências Numéricas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Identificação de padrões matemáticos e generalização através do <strong>Termo Geral</strong> ($a_n$).\n        </p>\n        \n\n[Image of fibonacci sequence pattern]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔢 Padrões:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Diferenciar o valor do termo ($a_n$) da sua posição ($n$) na fila.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica": {"id":"mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica","componente":"mat","nivel":"EF08","ordem":5,"unidade":"Estatística e Probabilidade","titulo":"Termos de uma Pesquisa Estatística","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Linguagem da Estatística</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definições fundamentais: População (todos) vs Amostra (parte).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📊 Tipos de Variáveis:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Qualitativas:</strong> Qualidades (Nominais/Ordinais).</li>\n                <li><strong>Quantitativas:</strong> Números (Discretas/Contínuas).</li>\n            </ul>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa": {"id":"mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa","componente":"mat","nivel":"EF08","ordem":6,"unidade":"Estatística e Probabilidade","titulo":"Representação Gráfica dos Dados de uma Pesquisa","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Leitura de Gráficos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Interpretação e construção de gráficos: barras, linhas, setores (pizza) e histogramas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎯 Escolha Certa:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Aprender qual gráfico é o \"mais honesto\" e adequado para cada tipo de variável apresentada.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central": {"id":"mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central","componente":"mat","nivel":"EF08","ordem":7,"unidade":"Estatística e Probabilidade","titulo":"Medidas de Tendência Central","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Estatística: O Centro</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resumindo um monte de dados em um único número representativo.\n        </p>\n        \n\n[Image of mean median mode comparison]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📊 O Trio:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Média:</strong> Soma tudo e divide pela quantidade.</li>\n                <li><strong>Mediana:</strong> O valor central (após ordenar).</li>\n                <li><strong>Moda:</strong> O que mais aparece (está na moda).</li>\n            </ul>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc": {"id":"mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc","componente":"mat","nivel":"EF08","ordem":8,"unidade":"Estatística e Probabilidade","titulo":"Princípio Multiplicativo ou Princípio Fundamental da Contagem (PFC)","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Princípio Multiplicativo (PFC)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Técnica para resolver problemas de contagem multiplicando as opções de escolha em cada etapa.\n        </p>\n        \n\n[Image of probability tree diagram]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧠 Lógica pura:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Não precisamos de fórmulas complexas ainda, apenas organizar o pensamento (árvore de possibilidades) e multiplicar.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.estatistica_e_probabilidade.probabilidade": {"id":"mat.ef08.estatistica_e_probabilidade.probabilidade","componente":"mat","nivel":"EF08","ordem":9,"unidade":"Estatística e Probabilidade","titulo":"Probabilidade","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Probabilidade Condicional</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de chances em cenários complexos. Probabilidade da união, intersecção e a Distribuição Binomial.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎲 Dado que...</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Na probabilidade condicional, o nosso \"universo\" (espaço amostral) diminui baseada em uma informação prévia.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area": {"id":"mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area","componente":"mat","nivel":"EF08","ordem":10,"unidade":"Área e Volume","titulo":"Retomando e Aprofundando o Cálculo de Medida de Área","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Áreas Planas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de área de polígonos (triângulos, quadriláteros) e aprofundamento no círculo.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">pizza🍕 Círculo:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Além da área total (πr²), aprendemos a calcular \"fatias\" (setor circular) e \"bordas\" (coroa circular).</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade": {"id":"mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade","componente":"mat","nivel":"EF08","ordem":11,"unidade":"Área e Volume","titulo":"Retomando e Aprofundando o Cálculo de Medidas de Volume e Medidas de Capacidade","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume e Capacidade</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo do volume de prismas retos e cilindros.\n        </p>\n        \n\n[Image of volume of cylinder and prism]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🚰 Conversão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Foco na resolução de problemas práticos que exigem converter volume (m³, dm³) em capacidade (Litros).</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas": {"id":"mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas","componente":"mat","nivel":"EF08","ordem":12,"unidade":"Expressões Algébricas, Equações e Proporcionalidade","titulo":"Expressões Algébricas","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Linguagem da Álgebra</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução ao uso de letras (variáveis) para representar números desconhecidos ou generalizar padrões.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔡 Valor Numérico:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">É o resultado quando trocamos a letra por um número específico e fazemos a conta.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes": {"id":"mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes","componente":"mat","nivel":"EF08","ordem":13,"unidade":"Expressões Algébricas, Equações e Proporcionalidade","titulo":"Equações","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Equações Avançadas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolução de equações do 1º grau mais complexas, com coeficientes racionais e fracionários.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔧 Ferramentas:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uso intensivo da <strong>propriedade distributiva</strong> (o \"chuveirinho\") para organizar a equação antes de isolar o X.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade": {"id":"mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade","componente":"mat","nivel":"EF08","ordem":14,"unidade":"Expressões Algébricas, Equações e Proporcionalidade","titulo":"Proporcionalidade","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Proporcionalidade</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo aprofundado de grandezas diretas e inversas.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚙️ Aplicações:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Resolução de problemas envolvendo <strong>regra de três composta</strong> e divisão de lucros/custos em partes proporcionais.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso": {"id":"mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso","componente":"mat","nivel":"EF08","ordem":15,"unidade":"Lugares Geométricos e Construções Geométricas","titulo":"Construções Geométricas com Régua, Esquadro, Transferidor e Compasso","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Desenho Geométrico</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Técnicas manuais para desenhar retas paralelas, perpendiculares e transportar ângulos com precisão.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Instrumentos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uso coordenado de régua, esquadro, transferidor e compasso.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos": {"id":"mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos","componente":"mat","nivel":"EF08","ordem":16,"unidade":"Lugares Geométricos e Construções Geométricas","titulo":"Lugares Geométricos","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Lugares Geométricos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conjuntos de pontos que satisfazem uma \"lei\" ou propriedade comum.\n        </p>\n        \n\n[Image of perpendicular bisector and angle bisector]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 Exemplos:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Circunferência:</strong> Equidistantes do centro.</li>\n                <li><strong>Mediatriz:</strong> Equidistantes de dois pontos.</li>\n                <li><strong>Bissetriz:</strong> Equidistantes dos lados de um ângulo.</li>\n            </ul>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso": {"id":"mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso","componente":"mat","nivel":"EF08","ordem":17,"unidade":"Lugares Geométricos e Construções Geométricas","titulo":"Mais Construções Geométricas com Régua Não Graduada e Compasso","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Construções sem Medidas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Construção \"pura\" de ângulos notáveis (30º, 45º, 60º, 90º) e polígonos regulares inscritos apenas com régua lisa e compasso.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎨 Arte Matemática:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Desenvolvemos o raciocínio espacial sem depender dos números do transferidor.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos": {"id":"mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos","componente":"mat","nivel":"EF08","ordem":18,"unidade":"Triângulos e Quadriláteros","titulo":"Ampliando o Estudo dos Triângulos","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Triângulos: Congruência e Pontos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo rigoroso dos casos de congruência (LAL, LLL, ALA).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 Pontos Notáveis:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Baricentro (gravidade), Incentro, Circuncentro e Ortocentro. O \"BICO\" do triângulo.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros": {"id":"mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros","componente":"mat","nivel":"EF08","ordem":19,"unidade":"Triângulos e Quadriláteros","titulo":"Ampliando o Estudo dos Quadriláteros","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Família dos Quadriláteros</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Propriedades específicas dos paralelogramos e trapézios.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🟦 Herança:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Entendemos a hierarquia: Todo quadrado é um retângulo e também um losango, mas o inverso não é verdadeiro.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas": {"id":"mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas","componente":"mat","nivel":"EF08","ordem":20,"unidade":"Sistema de Equações do 1° Grau com 2 Incógnitas","titulo":"Sistema de Equações do 1° Grau com 2 Incógnitas","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sistemas Lineares</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução ao sistema linear. A solução não é um número, mas um <strong>par ordenado (x, y)</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📈 Visão Gráfica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Cada equação é uma reta. A solução do sistema é exatamente o ponto onde as duas retas se cruzam.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas": {"id":"mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas","componente":"mat","nivel":"EF08","ordem":21,"unidade":"Sistema de Equações do 1° Grau com 2 Incógnitas","titulo":"Sistema de 2 Equações do 1º Grau com 2 Incógnitas","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Resolvendo Sistemas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Métodos algébricos para encontrar a solução sem desenhar gráficos.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛠️ Métodos:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Substituição:</strong> Isola uma letra e troca na outra.</li>\n                <li><strong>Adição:</strong> Soma as equações para \"zerar\" uma letra.</li>\n            </ul>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.transformacoes_geometricas.transformacoes_geometricas": {"id":"mat.ef08.transformacoes_geometricas.transformacoes_geometricas","componente":"mat","nivel":"EF08","ordem":22,"unidade":"Transformações Geométricas","titulo":"Transformações Geométricas","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Matrizes e Transformações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Como mover figuras no plano cartesiano usando matemática. Análise de isometrias (reflexão, translação, rotação).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎮 Computação Gráfica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Multiplicar coordenadas por <strong>Matrizes</strong> é a base para rotacionar e redimensionar personagens em jogos 3D.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas": {"id":"mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas","componente":"mat","nivel":"EF08","ordem":23,"unidade":"Transformações Geométricas","titulo":"Composição de Transformações Geométricas","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Composição de Movimentos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aplicação sequencial de transformações no plano cartesiano (ex: refletir e depois girar).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎮 Programação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Essa lógica de passos sequenciais é a base da computação gráfica e da animação de jogos.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
 });

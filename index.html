@@ -32,8 +32,10 @@
         rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
+    <link rel="stylesheet" href="css/variables.css" />
+    <link rel="stylesheet" href="css/base.css" />
+    <link rel="stylesheet" href="css/layout.css" />
+    <link rel="stylesheet" href="css/components.css" />
     <link rel="stylesheet" href="css/style.css" />
 
     <script>
@@ -162,6 +164,18 @@
     <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore-compat.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script" async></script>
+
+    <!-- Configurações derivadas do canônico (NIVEIS, SUBJECT_CONFIG, LEVEL_THEMES).
+         Deve vir antes do loader/config.js, que as consome. Gerado por tools/gerar.js. -->
+    <script src="js/gerado.js"></script>
+
+    <!-- Migração de progresso legado (títulos -> ids canônicos). Precisa vir
+         antes de js/game.js (carregado pelo loader) e de js/app.js. -->
+    <script src="js/traduzir-progresso.js"></script>
+
+    <!-- Hash da matrícula (Web Crypto). Precisa vir antes do loader, que
+         carrega js/app.js e js/views/profile.js (consumidores). -->
+    <script src="js/hash-matricula.js"></script>
 
     <script src="js/loader.js"></script>
 

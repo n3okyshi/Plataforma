@@ -1,16 +1,34 @@
 views.extend({
-    renderLesson: function (titulo, conteudoHTML) {
+    renderLesson: function (titulo, conteudoHTML, licaoId) {
+        const safeTitulo = views.escapeHTML(titulo);
+        // A conclusão grava o ID canônico; `titulo` é só apresentação.
+        const safeLicaoId = views.escapeHTML(licaoId || titulo);
 
-        // Placeholder estilizado com Glassmorphism
         const htmlConteudo = conteudoHTML || `
             <div class="flex flex-col items-center justify-center py-10 text-center opacity-80">
                 <div class="w-24 h-24 bg-yellow-100 dark:bg-yellow-500/20 rounded-full flex items-center justify-center mb-6 ring-4 ring-yellow-50 dark:ring-yellow-900/20">
                     <i class="fas fa-hard-hat text-5xl text-yellow-500"></i>
                 </div>
                 <h3 class="text-2xl font-black text-gray-700 dark:text-white mb-2">Em Construção</h3>
-                <p class="text-gray-500 dark:text-gray-400 font-medium">O conteúdo "${titulo}" será adicionado em breve.</p>
+                <p class="text-gray-500 dark:text-gray-400 font-medium">O conteúdo "${safeTitulo}" será adicionado em breve.</p>
             </div>
         `;
+
+        // Prática (§5.11, Task 9): as atividades da aula canônica aparecem
+        // ABAIXO do conteúdo. Sem aula no Registry (chunk legado/ausente) ou
+        // sem `atividades[]`, nada é injetado — a lição segue como antes.
+        let htmlPratica = '';
+        try {
+            const idBusca = licaoId || titulo;
+            const aula = (window.Registry && typeof window.Registry.getAula === 'function')
+                ? window.Registry.getAula(idBusca)
+                : null;
+            if (aula && window.pratica && typeof window.pratica.render === 'function') {
+                htmlPratica = window.pratica.render(aula) || '';
+            }
+        } catch (erro) {
+            console.warn('[Lesson] Prática indisponível:', erro);
+        }
 
         return `
             <div class="animate-fade-in min-h-screen pb-24 pt-4 px-4 max-w-5xl mx-auto">
@@ -24,11 +42,11 @@ views.extend({
                     
                     <div class="flex-1 glass-child px-5 py-3 rounded-2xl flex items-center shadow-sm backdrop-blur-md">
                         <h2 class="text-lg md:text-xl font-black text-gray-800 dark:text-white leading-tight truncate">
-                            ${titulo}
+                            ${safeTitulo}
                         </h2>
                     </div>
 
-                    <button onclick="audioManager.play('success'); app.finishLesson('${titulo}')" 
+                    <button data-action="finish-lesson" data-arg="${safeLicaoId}"
                         class="bg-brand-green hover:bg-green-600 text-white px-4 md:px-6 py-3 rounded-2xl font-extrabold shadow-lg border-b-[4px] border-green-700 active:border-b-0 active:translate-y-[4px] active:shadow-none transition-all text-sm uppercase tracking-wider flex items-center gap-2 shrink-0">
                         <span class="hidden md:inline">Concluir</span> <i class="fas fa-check"></i>
                     </button>
@@ -41,6 +59,8 @@ views.extend({
                     ${htmlConteudo}
 
                 </div>
+
+                ${htmlPratica}
 
                 <div class="text-center mt-8 mb-4">
                     <p class="text-gray-400 dark:text-gray-500 text-xs font-black uppercase tracking-[0.2em] opacity-70">

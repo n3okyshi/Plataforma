@@ -80,7 +80,7 @@ const arena = {
         // Se mesmo assim falhar
         if (pool.length === 0) {
             const msg = `Não há questões cadastradas para ${unidade}.`;
-            if (window.ui && ui.showModal) ui.showModal("Ops!", msg, [{label: "Voltar", onclick: "app.navigate('map')" }]);
+            if (window.ui && ui.showModal) ui.showModal("Ops!", msg, [{label: "Voltar", onclick: () => app.navigate('map') }]);
             else alert(msg);
             return;
         }

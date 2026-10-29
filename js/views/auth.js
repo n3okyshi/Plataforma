@@ -1,9 +1,10 @@
 /**
- * JS/VIEWS/AUTH.JS
- * Apenas renderiza o HTML. Não contém lógica de Firebase.
+ * JS/VIEWS/AUTH.JS (MATHLINGO v3.5)
+ * Renderização segura da interface de Login e Cadastro.
  */
 views.extend({
     renderLogin: function (mode = 'login') {
+        const safeMode = views.escapeHTML(mode);
         const isLogin = mode === 'login';
         const activeTab = "border-b-4 border-brand-blue text-brand-blue";
         const inactiveTab = "border-b-4 border-transparent text-gray-400 hover:text-gray-600 dark:hover:text-gray-200";

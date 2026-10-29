@@ -1,9 +1,9 @@
 views.extend({
     renderArena: function (questao, indiceAtual, totalQuestoes) {
         const porcentagem = ((indiceAtual) / totalQuestoes) * 100;
+        const safePergunta = views.escapeHTML(questao.pergunta);
 
-        // Mistura as opções
-        let opcoesMisturadas = questao.opcoes.map((texto, index) => ({ texto: texto, idOriginal: index }));
+        let opcoesMisturadas = questao.opcoes.map((texto, index) => ({ texto: views.escapeHTML(texto), idOriginal: index }));
         opcoesMisturadas.sort(() => Math.random() - 0.5);
 
         return `
@@ -36,13 +36,13 @@ views.extend({
                          <div class="absolute -top-1 left-1/2 -translate-x-1/2 w-24 h-1.5 bg-white/40 dark:bg-white/10 rounded-b-xl"></div>
                         
                         <h2 class="text-2xl md:text-3xl font-black text-gray-800 dark:text-white leading-tight drop-shadow-sm">
-                            ${questao.pergunta}
+                            ${safePergunta}
                         </h2>
                     </div>
 
                     <div id="options-grid" class="grid grid-cols-1 md:grid-cols-2 gap-5">
                         ${opcoesMisturadas.map((opcao, i) => `
-                            <button onclick="app.handleArenaAnswer(this, ${opcao.idOriginal})" 
+                            <button data-action="arena-answer" data-arg="${opcao.idOriginal}"
                                 class="option-btn group relative glass-child bg-white/40 dark:bg-black/20 
                                        border-b-[6px] border-black/5 dark:border-white/5 
                                        hover:bg-white/60 dark:hover:bg-white/10 hover:border-blue-400/50 dark:hover:border-blue-500/50 hover:-translate-y-1

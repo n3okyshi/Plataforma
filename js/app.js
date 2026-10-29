@@ -45,6 +45,16 @@ var app = {
     init: function () {
         console.log("[App] Inicializando núcleo do sistema...");
 
+        // Sincroniza model.state reativo se disponível
+        if (window.model && window.model.state) {
+            this.state = window.model.state;
+            window.model.subscribe((state, prop, value) => {
+                if (prop === 'userProgress' && window.ui) {
+                    ui.updateHeader();
+                }
+            });
+        }
+
         // 1. Inicia UI imediatamente para feedback visual
         if (typeof ui !== 'undefined') {
             ui.renderLoading();
@@ -136,7 +146,20 @@ var app = {
     // ========================================================================
     // 3. ROTEADOR (NAVIGATION ENGINE)
     // ========================================================================
+
+    // Sequência de navegação: descarta o render que concluir depois de outra
+    // navegação (o await do chunk pode resolver fora de ordem).
+    _navSeq: 0,
+
     navigate: function (viewName, data = null) {
+        // Fecha a promise aqui: onclick/back/game não observam rejeições.
+        return this._navegar(viewName, data).catch((erro) => {
+            console.error("[App] Falha na navegação:", erro);
+        });
+    },
+
+    _navegar: async function (viewName, data = null) {
+        const seq = ++this._navSeq;
         console.log(`🧭 [Router] Navegando para: ${viewName}`);
 
         const container = document.getElementById("main-container");
@@ -150,7 +173,17 @@ var app = {
         this.state.currentView = viewName;
         window.scrollTo(0, 0);
 
-        // 3. Renderização Condicional
+        // 3. Conteúdo sob demanda (Task 6): garante o chunk da matéria + série
+        // antes de renderizar. Sem chunk, as views seguem com o "Em Construção"
+        // já existente — nunca uma tela em branco.
+        if (viewName === 'map' || viewName === 'lesson') {
+            if (data && viewName === 'map') this.state.currentSubject = data;
+            await this._garantirConteudo();
+            // Outra navegação começou durante o await: este render está stale.
+            if (seq !== this._navSeq) return;
+        }
+
+        // 4. Renderização Condicional
         let html = "";
 
         // Garante que views existe antes de chamar
@@ -186,12 +219,15 @@ var app = {
                     break;
 
                 case "lesson":
-                    // Busca segura via Registry ou Global
+                    // `data` é o ID canônico da lição (não mais o título).
+                    const lessonId = data;
                     const content = (window.Registry && Registry.getTeoria)
-                        ? Registry.getTeoria(data)
-                        : (window.PLATAFORMA_TEORIA ? window.PLATAFORMA_TEORIA[data] : null);
+                        ? Registry.getTeoria(lessonId)
+                        : (window.PLATAFORMA_TEORIA ? window.PLATAFORMA_TEORIA[lessonId] : null);
 
-                    html = views.renderLesson ? views.renderLesson(data, content) : "Erro na view Lesson";
+                    html = views.renderLesson
+                        ? views.renderLesson(this._getLessonTitle(lessonId), content, lessonId)
+                        : "Erro na view Lesson";
                     break;
 
                 case "arena_play":
@@ -216,7 +252,7 @@ var app = {
             html = this._getErrorHTML(error.message);
         }
 
-        // 4. Injeção no DOM
+        // 5. Injeção no DOM
         if (['map', 'home'].includes(viewName)) {
             // Em vez de container.innerHTML = html, usamos o novo motor
             this.renderProgressive(html);
@@ -224,8 +260,44 @@ var app = {
             container.innerHTML = html;
         }
 
+        // Delegação de cliques: as views emitem data-action (falha 5). Ligamos
+        // no container reutilizado — idempotente por nó via bindActions.
+        if (window.ui && ui.bindActions) ui.bindActions(container);
+
         if (window.ui) ui.updateHeader();
         this._renderMathJax(container);
+
+        // Telemetria (§5.11): drena a fila de resultados em idle, sem bloquear
+        // a navegação e sem deixar erro de rede virar erro de tela.
+        this._agendarDrenagemResultados();
+    },
+
+    /**
+     * Agenda `filaResultados.drenar()` para quando o navegador estiver ocioso.
+     * Uma drenagem por vez: a flag cobre reentrância e a fila também tem a sua.
+     * Qualquer falha (inclusive `requestIdleCallback` ausente) é silenciosa.
+     */
+    _agendarDrenagemResultados: function () {
+        if (!window.filaResultados || typeof window.filaResultados.drenar !== 'function') return;
+
+        const executar = () => {
+            if (this._drenagemEmVoo) return;
+            this._drenagemEmVoo = true;
+            Promise.resolve()
+                .then(() => window.filaResultados.drenar())
+                .catch(() => {})
+                .then(() => { this._drenagemEmVoo = false; });
+        };
+
+        try {
+            if (typeof window.requestIdleCallback === 'function') {
+                window.requestIdleCallback(executar, { timeout: 2000 });
+            } else {
+                setTimeout(executar, 0);
+            }
+        } catch (erro) {
+            // Nunca interrompe a navegação.
+        }
     },
 
     // Helper: Renderiza Fórmulas Matemáticas com segurança
@@ -364,6 +436,52 @@ var app = {
         return views.renderHome ? views.renderHome(filtrados, this.state.currentFilter, this.state.userProgress) : "Erro Home";
     },
 
+    // Varre o currículo uma única vez para exibir o título humano de uma lição
+    // a partir do id canônico (as views navegam por id; o Registry só guarda a
+    // teoria por id, sem título).
+    _getLessonTitle: function (lessonId) {
+        if (!this._lessonTitlesCache) {
+            const mapa = {};
+            const curriculo = window.PLATAFORMA_CURRICULO || {};
+            for (const disciplina in curriculo) {
+                const niveis = curriculo[disciplina] || {};
+                for (const nivel in niveis) {
+                    const unidades = niveis[nivel] || {};
+                    for (const unidade in unidades) {
+                        const licoes = unidades[unidade];
+                        if (!Array.isArray(licoes)) continue;
+                        for (const licao of licoes) {
+                            if (licao && licao.id) mapa[licao.id] = licao.titulo || licao.id;
+                        }
+                    }
+                }
+            }
+            this._lessonTitlesCache = mapa;
+        }
+        return this._lessonTitlesCache[lessonId] || lessonId;
+    },
+
+    // Garante o chunk content/<sigla>/<sigla><sufixo>_content.js da matéria e
+    // série atuais. Falha silenciosa (false): a view mostra "Em Construção".
+    _garantirConteudo: async function () {
+        if (typeof window.carregarConteudo !== 'function') return false;
+
+        const sigla = window.siglaDoComponente
+            ? window.siglaDoComponente(this.state.currentSubject)
+            : null;
+        const sufixo = window.sufixoDe
+            ? window.sufixoDe(this.state.currentLevel)
+            : null;
+        if (!sigla || !sufixo) return false; // ex.: Ensino Superior (curso, não etapa)
+
+        try {
+            return await window.carregarConteudo(sigla, sufixo);
+        } catch (erro) {
+            console.warn("[App] Falha ao carregar conteúdo sob demanda:", erro);
+            return false;
+        }
+    },
+
     _getMapHTML: function (data) {
         if (data) this.state.currentSubject = data;
 
@@ -408,9 +526,12 @@ var app = {
     },
 
     _getErrorHTML: function (msg) {
+        // Mensagem de erro pode vir de exceção/rede: escapa antes de interpolar
+        // (falha 6 — XSS na tela de erro).
+        const seguro = views.escapeHTML(msg);
         return `<div class="p-10 text-center glass-panel rounded-3xl m-4 border-red-500 border-2">
             <h2 class="text-xl font-bold text-red-600">Erro</h2>
-            <p class="text-gray-600 mb-4">${msg}</p>
+            <p class="text-gray-600 mb-4">${seguro}</p>
             <button onclick="app.navigate('home')" class="bg-red-500 text-white px-4 py-2 rounded-lg font-bold">Voltar</button>
         </div>`;
     },
@@ -458,6 +579,8 @@ var app = {
         if (window.audioManager) audioManager.play('success');
         this.state.userProgress = { name: "Visitante", xp: 0, completedLessons: [], isGuest: true };
         localStorage.setItem('mathlingo_guest', 'true');
+        // Convidado também passa pela migração de progresso (mesmo formato).
+        if (window.game && game.syncProgress) game.syncProgress(this.state.userProgress);
         this.navigate('home');
     },
 
@@ -465,8 +588,8 @@ var app = {
         // [MELHORIA] Modal de Confirmação Bonito
         if (window.ui && ui.showModal) {
             ui.showModal("Sair da conta?", "Você precisará logar novamente para ver seu progresso.", [
-                { label: "Cancelar", onclick: "ui.closeModal()", class: "bg-gray-200 text-gray-700" },
-                { label: "Sair", onclick: "app._confirmLogout()", class: "bg-red-500 text-white" }
+                { label: "Cancelar", class: "bg-gray-200 text-gray-700" },
+                { label: "Sair", onclick: () => app._confirmLogout(), class: "bg-red-500 text-white" }
             ]);
         } else {
             if (!confirm("Tem certeza que deseja sair?")) return;
@@ -481,17 +604,43 @@ var app = {
         this.navigate('login');
     },
 
-    saveProfile: function (form) {
+    /**
+     * Salva o perfil. A matrícula NUNCA sai do formulário em claro: vira
+     * `matriculaHash` (SHA-256 da matrícula normalizada, Web Crypto — R29) e só
+     * o hash entra no estado/payload. Campo vazio → a chave é OMITIDA de
+     * propósito: o formulário não mostra o hash de volta, então re-salvar sem
+     * digitar a matrícula não pode apagar o hash já gravado (idempotência).
+     */
+    saveProfile: async function (form) {
         if (!this.state.userProgress) return;
         const data = new FormData(form);
+        const fullName = String(data.get('fullName') || '').trim();
+        const matricula = data.get('matricula');
 
-        this.atualizarPerfil({
-            fullName: data.get('fullName'),
-            name: data.get('fullName').trim().split(' ')[0] || "Aluno",
-            matricula: data.get('matricula'),
+        const dados = {
+            fullName: fullName,
+            name: fullName.split(' ')[0] || "Aluno",
             turma: data.get('turma'),
             serie: data.get('serie')
-        });
+        };
+
+        if (matricula && String(matricula).trim()) {
+            if (typeof hashMatricula !== 'function') {
+                console.error("[App] js/hash-matricula.js não carregou: matrícula não pode ser salva.");
+                if (window.ui && ui.showToast) ui.showToast("Não foi possível proteger a matrícula.", "error");
+                return;
+            }
+            try {
+                const hash = await hashMatricula(matricula);
+                if (hash) dados.matriculaHash = hash;
+            } catch (erro) {
+                console.error("[App] Falha ao calcular o hash da matrícula:", erro);
+                if (window.ui && ui.showToast) ui.showToast("Matrícula exige conexão segura (HTTPS).", "error");
+                return;
+            }
+        }
+
+        this.atualizarPerfil(dados);
 
         if (window.audioManager) audioManager.play('success');
 

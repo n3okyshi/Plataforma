@@ -175,15 +175,20 @@ var teacher = {
     // 1. CARGA REAL DO FIREBASE
     carregarDadosReais: async function (turma = "Todas") {
     try {
-        let query = firebase.firestore().collection('users');
+        // Falha 2: o professor só enxerga a própria rede. Nunca um get()
+        // global (que vazaria todos os alunos para qualquer conta).
+        const perfil = (window.app && app.state ? app.state.userProgress : null) ||
+            (window.auth ? auth.user : null);
+        const rede = perfil && perfil.rede;
+        if (!rede) {
+            console.warn("👨‍🏫 [Teacher] Perfil sem rede: consulta de alunos bloqueada.");
+            return;
+        }
+
+        let query = firebase.firestore().collection('users').where('rede', '==', rede);
         if (turma !== "Todas") query = query.where('turma', '==', turma);
 
         const snapshot = await query.get();
-        
-        // DEBUG: Veja o que está vindo do banco no console do navegador (F12)
-        if (!snapshot.empty) {
-            console.log("🔍 [DEBUG] Estrutura do primeiro aluno:", snapshot.docs[0].data());
-        }
 
         this.mockStudents = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
         this.applyFilters();
@@ -254,8 +259,17 @@ var teacher = {
 
     /**
      * Renderização protegida para não apagar o Header
+     * §5.10: o painel inteiro (não só o botão) exige a claim — sem esta guarda,
+     * `app.navigate('teacher_dashboard')` pelo console abriria a tela para
+     * qualquer visitante.
      */
     openDashboard: function () {
+        if (!this.verificarPermissao()) {
+            if (window.ui && ui.showToast) ui.showToast("Acesso restrito ao painel do professor.", "warning");
+            if (window.app && app.navigate) app.navigate('home');
+            return;
+        }
+
         app.state.currentView = 'teacher_dashboard';
         const container = document.getElementById('main-container');
 
@@ -275,36 +289,43 @@ var teacher = {
     },
 
     /**
-     * Verifica se o usuário atual é um Professor
+     * Verifica se o usuário atual é um Professor.
+     * Falha 1 / §5.10: o papel vem SÓ da claim do token. Desde o Task 8
+     * `Session.role` é `{role, rede, municipio}` (ou null antes do login);
+     * a forma antiga (string) continua aceita por tolerância.
+     *
+     * §5.10 enumera `aluno|professor|gestor|secretario|ministro`. `admin` NÃO
+     * existe nesse enum, `firestore.rules` o exclui e `tools/papeis.js` nunca
+     * o emite — por isso foi removido (não há emissor no repo).
      */
+    papeisComPainel: ["professor", "gestor", "secretario", "ministro"],
+
+    /** Fonte única de verdade para o painel (botão, rota e dashboard). */
+    papelAtual: function () {
+        const sessao = (typeof Session !== 'undefined' && Session) ? Session.role : null;
+        const papel = sessao && typeof sessao === 'object' ? sessao.role : sessao;
+        return String(papel || "").toLowerCase().trim();
+    },
+
+    temPermissao: function () {
+        return this.papeisComPainel.indexOf(this.papelAtual()) !== -1;
+    },
+
     verificarPermissao: function () {
-        // Tenta pegar do App State primeiro, se falhar tenta do Auth direto
-        const user = app.state.userProgress || (window.auth ? window.auth.user : null);
-
-        // Se não tem usuário ou não tem campo serie, esconde
-        if (!user || (!user.serie && !user.role)) {
-            this.removeButton();
-            return;
-        }
-
-        // Normaliza para minúsculas e remove espaços
-        const serieNormalizada = (user.serie || "").toLowerCase().trim();
-        const roleNormalizada = (user.role || "").toLowerCase().trim();
-
-        // Regra de Ouro: Quem é professor?
-        const isProfessor = serieNormalizada === "professor" || roleNormalizada === "admin" || roleNormalizada === "professor";
+        const isProfessor = this.temPermissao();
 
         if (isProfessor) {
             this.renderButton();
             // Evita logs repetidos desnecessários
             if (!this._logShown) {
-                console.log("👨‍🏫 [Teacher] Modo Professor Ativado para:", user.nome || user.email);
+                console.log("👨‍🏫 [Teacher] Modo Professor ativado (claim:", this.papelAtual() + ").");
                 this._logShown = true;
             }
         } else {
             this.removeButton();
             this._logShown = false;
         }
+        return isProfessor;
     },
 
     renderButton: function () {

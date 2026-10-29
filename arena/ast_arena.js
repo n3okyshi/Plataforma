@@ -1,20 +1,5 @@
-/**
- * ***_ARENA.JS
- * Banco de questões de ***.
- */
+/** GERADO por tools/gerar.js — NÃO EDITAR. hash: cd66c51c8b60a1df1219619cface5cbc0faab929a718a0cb70a0268980439d5e */
+'use strict';
 
-window.registrarQuestoes([
-    // ============================================
-    // 1º ANO - QUESTÕES VISUAIS E LÚDICAS
-    // ============================================
-    
-    // TEMA: CONTAGEM
-    {
-        ano: "1º Ano EFI",
-        tema: "Números e Contagem",
-        pergunta: "Quantas maçãs aparecem aqui? 🍎🍎🍎",
-        opcoes: ["2", "3", "4", "5"],
-        correta: 1 
-    },
-    
-]);
+// Banco de questões de Astronomia — derivado das aulas (Fase 4 do spec).
+registrarQuestoes([]);

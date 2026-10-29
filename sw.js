@@ -1,28 +1,40 @@
 /**
- * SERVICE WORKER (PWA) - VERSÃO FINAL CORRIGIDA
+ * SERVICE WORKER (PWA) - MATHLINGO v3.5
  * Estratégia: Stale-While-Revalidate para Assets + Network-First para APIs
  */
 
-const CACHE_NAME = 'mathlingo-v1-static';
-const DATA_CACHE_NAME = 'mathlingo-v1-data';
+const CACHE_NAME = 'mathlingo-v3.5-static';
+const DATA_CACHE_NAME = 'mathlingo-v3.5-data';
 
 const FILES_TO_CACHE = [
   './',
   './index.html',
-  './css/styles.css',
+  './manifest.json',
   
-  // --- JS INFRAESTRUTURA ---
+  // --- CSS TOKENS & DESIGN SYSTEM ---
+  './css/variables.css',
+  './css/base.css',
+  './css/layout.css',
+  './css/components.css',
+  './css/style.css',
+  
+  // --- JS INFRAESTRUTURA & ESTADO REATIVO ---
   './js/loader.js',
   './js/config.js',
+  './js/reactive.js',
+  './js/firebase-service.js',
   './js/registry.js',
+  './js/gerado.js',
+  './js/hash-matricula.js',
+  './js/pratica.js',
+  './js/fila-resultados.js',
   
-  // --- JS MÓDULOS PRINCIPAIS (NOVOS) ---
+  // --- JS MÓDULOS PRINCIPAIS ---
   './js/app.js',
   './js/ui.js',    
   './js/game.js',  
   './js/audio.js',
   './js/auth.js',
-  //'./js/chat.js',
   './js/arena.js',   
   './js/teacher.js',
 
@@ -71,42 +83,64 @@ self.addEventListener('activate', (evt) => {
 });
 
 // INTERCEPTAÇÃO DE REDE (FETCH)
+// Falha 7: só mesma origem (ou CDN explicitamente permitido), só GET e nunca
+// cachear resposta opaca. Backend/Auth passam direto.
+const ORIGENS_PERMITIDAS = [
+  'https://cdnjs.cloudflare.com',
+  'https://cdn.jsdelivr.net'
+];
+
 self.addEventListener('fetch', (evt) => {
-  // Ignora chamadas do Firebase/Google APIs (Deixa a rede cuidar)
-  if (evt.request.url.includes('firestore') ||
-      evt.request.url.includes('googleapis') ||
-      evt.request.url.includes('auth')) {
+  const request = evt.request;
+
+  // Métodos que mudam estado nunca são servidos pelo cache.
+  if (request.method !== 'GET') return;
+
+  let url;
+  try {
+    url = new URL(request.url);
+  } catch (erro) {
+    return; // URL inválida: deixa o navegador resolver
+  }
+
+  // Backend/Firebase: sempre direto (dados e tokens nunca entram no cache).
+  if (/firestore|googleapis|identitytoolkit|securetoken|firebaseio/.test(url.hostname)) {
     return;
   }
 
-  // Se for navegação de página (HTML), tenta rede, se falhar, vai pro cache
-  if (evt.request.mode === 'navigate') {
+  // Handlers de autenticação do próprio app carregam token/redirect.
+  if (/\/(?:__\/)?auth\//.test(url.pathname)) return;
+
+  const mesmaOrigem = url.origin === self.location.origin;
+  if (!mesmaOrigem && ORIGENS_PERMITIDAS.indexOf(url.origin) === -1) {
+    return; // cross-origin fora da allowlist: o SW nem participa
+  }
+
+  if (request.mode === 'navigate') {
     evt.respondWith(
-      fetch(evt.request).catch(() => {
+      fetch(request).catch(() => {
         return caches.match('./index.html');
       })
     );
     return;
   }
 
-  // Para outros arquivos (CSS, JS, Imagens): Stale-While-Revalidate
-  // Retorna o cache rápido, mas busca na rede em segundo plano para atualizar o cache
   evt.respondWith(
     caches.open(CACHE_NAME).then((cache) => {
-      return cache.match(evt.request).then((response) => {
-        const fetchPromise = fetch(evt.request)
+      return cache.match(request).then((response) => {
+        const fetchPromise = fetch(request)
           .then((networkResponse) => {
-            // Se a resposta da rede for válida, atualiza o cache
-            if (networkResponse && networkResponse.status === 200 && networkResponse.type === 'basic') {
-              cache.put(evt.request, networkResponse.clone());
+            const cacheavel = networkResponse &&
+              networkResponse.status === 200 &&
+              networkResponse.type === 'basic' &&
+              new URL(networkResponse.url).origin === self.location.origin;
+            if (cacheavel) {
+              cache.put(request, networkResponse.clone());
             }
             return networkResponse;
           })
-          .catch(() => {
-             // Se falhar rede e não tiver cache, falha silenciosamente (assets opcionais)
-          });
-        
-        // Retorna o que tiver no cache primeiro, ou espera a rede se não tiver cache
+          .catch(() => undefined);
+
         return response || fetchPromise;
       });
     })

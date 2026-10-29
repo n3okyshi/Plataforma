@@ -1,0 +1,157 @@
+/* ====================================================================
+   COMPONENTS.CSS - REUSABLE UI COMPONENTS & ANIMATIONS
+   ==================================================================== */
+
+/* 1. GLASSMORPHISM COMPONENTS
+----------------------------------------------------------------- */
+.glass-panel {
+    background: var(--glass-panel-bg);
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    border: 1px solid var(--glass-panel-border);
+    box-shadow: var(--glass-panel-shadow);
+    transition: all var(--transition-normal);
+}
+
+.glass-child {
+    background: var(--glass-child-bg);
+    border: 1px solid var(--glass-child-border);
+    backdrop-filter: blur(4px);
+    transition: all var(--transition-fast);
+}
+
+.glass-child:hover {
+    background: rgba(255, 255, 255, 0.75);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.dark .glass-child:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+/* 2. BOTÕES GAMIFICADOS (DUOLINGO 3D STYLE)
+----------------------------------------------------------------- */
+.btn-game {
+    transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+    border-bottom-width: 4px;
+    user-select: none;
+}
+
+.btn-game:active {
+    transform: translateY(4px);
+    border-bottom-width: 0px;
+    box-shadow: none !important;
+    margin-bottom: 4px;
+}
+
+/* 3. SKELETON LOADING
+----------------------------------------------------------------- */
+@keyframes shimmer {
+    0% { background-position: -1000px 0; }
+    100% { background-position: 1000px 0; }
+}
+
+.skeleton {
+    background: linear-gradient(90deg, rgba(255,255,255,0.3) 25%, rgba(255,255,255,0.5) 50%, rgba(255,255,255,0.3) 75%);
+    background-size: 1000px 100%;
+    animation: shimmer 2s infinite;
+    border-radius: var(--radius-md);
+}
+
+.dark .skeleton {
+    background: linear-gradient(90deg, rgba(255,255,255,0.05) 25%, rgba(255,255,255,0.15) 50%, rgba(255,255,255,0.05) 75%);
+    background-size: 1000px 100%;
+    animation: shimmer 2s infinite;
+}
+
+.skeleton-card { width: 100%; height: 200px; }
+.skeleton-circle { width: 96px; height: 96px; border-radius: 50%; }
+.skeleton-text { height: 1.25rem; margin-bottom: 0.5rem; }
+.skeleton-line { height: 0.75rem; margin-bottom: 0.5rem; }
+
+/* 4. PROGRESS BAR
+----------------------------------------------------------------- */
+.progress-bar {
+    width: 100%;
+    height: 8px;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: var(--radius-full);
+    overflow: hidden;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.dark .progress-bar {
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--color-brand-green), var(--color-brand-green-dark));
+    border-radius: var(--radius-full);
+    transition: width var(--transition-normal);
+    box-shadow: 0 0 10px rgba(88, 204, 2, 0.4);
+    position: relative;
+    overflow: hidden;
+}
+
+.progress-fill::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+    animation: progressShine 2s infinite;
+}
+
+@keyframes progressShine {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+}
+
+/* 5. KEYFRAME ANIMATION UTILITIES
+----------------------------------------------------------------- */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in { 
+    animation: fadeIn var(--transition-bounce) forwards; 
+}
+
+@keyframes popIn {
+    0% { transform: scale(0.8); opacity: 0; }
+    60% { transform: scale(1.1); }
+    100% { transform: scale(1); opacity: 1; }
+}
+.animate-pop-in { 
+    animation: popIn var(--transition-bounce) forwards; 
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    20% { transform: translateX(-6px) rotate(-2deg); }
+    40% { transform: translateX(6px) rotate(2deg); }
+    60% { transform: translateX(-3px); }
+    80% { transform: translateX(3px); }
+}
+.animate-shake {
+    animation: shake 0.4s ease-in-out;
+    background-color: rgba(239, 68, 68, 0.2) !important;
+    border-color: rgba(239, 68, 68, 0.5) !important;
+}
+
+@keyframes popSuccess {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+.animate-success {
+    animation: popSuccess 0.3s ease-out forwards;
+    background-color: rgba(34, 197, 94, 0.2) !important;
+    border-color: rgba(34, 197, 94, 0.5) !important;
+}

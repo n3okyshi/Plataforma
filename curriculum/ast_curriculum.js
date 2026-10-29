@@ -1,68 +1,14 @@
-/**
- * AST_CURRICULUM.JS
- * Estrutura curricular de Astronomia.
- * Chave: "Astronomia" (Deve bater com o config.js)
- */
+/** GERADO por tools/gerar.js — NÃO EDITAR. hash: e2b84734cd63916206a76ec08c5683341a959de250b135fceb1882be43676b97 */
+'use strict';
 
-window.registrarCurriculo("Astronomia", {
-    // ============================================
-    // ENSINO FUNDAMENTAL - ANOS INICIAIS (1º ao 5º)
-    // ============================================
-    "1º Ano EF": {
-        "Primeiros Passos": ["Resumo: 1º Bimestre", "Lista de Exercícios 1"
-        ],
-    },
-    "2º Ano EF": {
-        "Primeiros Passos": [
-        ],
-    },
-    "3º Ano EF": {
-        "Primeiros Passos": [
-        ],
-    },
-    "4º Ano EF": {
-        "Primeiros Passos": [
-        ],
-    },
-    "5º Ano EF": {
-        "Primeiros Passos": [
-        ],
-    },
-
-    // ============================================
-    // ENSINO FUNDAMENTAL - ANOS FINAIS (6º ao 9º)
-    // ============================================
-    "6º Ano EF": {
-        "Primeiros Passos": [
-            "place holder",
-        ],
-    },
-    "7º Ano EF": {
-        "Primeiros Passos": [
-        ],
-    },
-    "8º Ano EF": {
-        "Primeiros Passos": [
-        ],
-    },
-    "9º Ano EF": {
-        "Primeiros Passos": [
-        ],
-    },
-
-    // ============================================
-    // ENSINO MÉDIO (1º ao 3º)
-    // ============================================
-    "1º Ano do EM": {
-        "Primeiros Passos": [
-        ],
-    },
-    "2º Ano do EM": {
-        "Primeiros Passos": [
-        ],
-    },
-    "3º Ano do EM": {
-        "Primeiros Passos": [
-        ],
-    },
+// Currículo de Astronomia — gerado a partir de data/componentes (R14/R17).
+registrarCurriculo("Astronomia", {
+  "EF01": {
+    "Primeiros Passos": [
+      {
+        "id": "ast.ef01.primeiros_passos.lista_de_exercicios_1",
+        "titulo": "Lista de Exercícios 1"
+      }
+    ]
+  }
 });

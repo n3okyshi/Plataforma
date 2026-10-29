@@ -80,11 +80,15 @@ var ui = {
             // Botão de Perfil/Login
             if (els.btnLog) {
                 const isGuest = user.isGuest === true;
+                // O nome nunca entra no HTML: só o esqueleto é montado e o texto
+                // chega via textContent (falha 4 — XSS no header).
                 els.btnLog.innerHTML = `
                     <div class="glass-child flex items-center gap-2 px-3 py-1 rounded-full cursor-pointer hover:bg-white/20 transition-colors">
-                        <span class="text-xs font-bold uppercase truncate max-w-[100px]">${isGuest ? "Login" : user.name}</span>
+                        <span class="text-xs font-bold uppercase truncate max-w-[100px]"></span>
                         ${isGuest ? '<i class="fas fa-sign-in-alt"></i>' : '<i class="fas fa-user-circle"></i>'}
                     </div>`;
+                const spanNome = els.btnLog.querySelector('span');
+                if (spanNome) spanNome.textContent = isGuest ? "Login" : (user.name || "");
                 els.btnLog.onclick = () => isGuest ? app.logout() : app.navigate('settings');
             }
 
@@ -264,9 +268,91 @@ var ui = {
     },
 
     // ========================================================================
+    // DELEGAÇÃO DE AÇÕES (falha 5)
+    // ========================================================================
+    // Registro único de handlers: as views emitem data-action/data-arg* e o
+    // listener fica no container (sobrevive ao re-render da navegação).
+    actions: {
+        back: function () {
+            if (window.app) app.back();
+        },
+        nav: function (view, subject) {
+            if (window.app) app.navigate(view, subject || null);
+        },
+        'set-filter': function (categoria) {
+            if (window.app) app.setFilter(categoria);
+        },
+        'set-mode': function (modo) {
+            if (window.app) app.setStudyMode(modo);
+        },
+        'open-lesson': function (id) {
+            if (window.app) app.navigate('lesson', id);
+        },
+        'finish-lesson': function (id) {
+            if (window.audioManager) audioManager.play('success');
+            if (window.app) app.finishLesson(id);
+        },
+        'arena-answer': function (indice, _arg2, el) {
+            if (window.app) app.handleArenaAnswer(el, Number(indice));
+        },
+        desafio: function (disciplina, nivel, _el, extras) {
+            if (window.arena) arena.comecarDesafio(disciplina, nivel, extras[0], extras[1]);
+        },
+        trofeu: function (completo, disciplina, _el, extras) {
+            const serie = extras[0];
+            const dominou = completo === '1' || completo === 'true';
+            if (window.audioManager) audioManager.play(dominou ? 'finish' : 'error');
+            if (!dominou) {
+                this.showToast('Complete todas as unidades para ganhar este troféu!', 'info');
+                return;
+            }
+            // Conteúdo do modal é HTML: os valores dinâmicos entram escapados.
+            const disciplinaSegura = views.escapeHTML(disciplina);
+            const serieSegura = views.escapeHTML(serie);
+            this.showModal('Parabéns!',
+                `<div class="text-center"><i class="fas fa-crown text-5xl text-yellow-500 mb-4 animate-pop-in"></i>` +
+                `<p class="text-lg font-bold">Você dominou o nível <b>${serieSegura}</b> de <b>${disciplinaSegura}</b>!</p></div>`,
+                [{ label: 'Incrível!', class: 'bg-brand-green text-white' }]);
+        },
+        'select-level': function (nivel) {
+            if (window.app) app.selectLevel(nivel);
+        },
+    },
+
+    /**
+     * Liga a delegação de clique em `root` uma única vez por nó.
+     * Contrato: ui.actions[nome](data-arg, data-arg2, elemento, [data-arg3, data-arg4]).
+     */
+    bindActions: function (root) {
+        if (!root || typeof root.addEventListener !== 'function') return;
+
+        this._rootsComAcoes = this._rootsComAcoes || new WeakSet();
+        if (this._rootsComAcoes.has(root)) return; // re-render não duplica o listener
+        this._rootsComAcoes.add(root);
+
+        root.addEventListener('click', (evento) => {
+            const alvo = evento.target && typeof evento.target.closest === 'function'
+                ? evento.target.closest('[data-action]')
+                : null;
+            if (!alvo) return;
+            if (typeof root.contains === 'function' && !root.contains(alvo)) return;
+
+            const acao = this.actions[alvo.getAttribute('data-action')];
+            if (typeof acao !== 'function') return;
+
+            const extras = [
+                alvo.getAttribute('data-arg3'),
+                alvo.getAttribute('data-arg4'),
+            ];
+            acao.call(this, alvo.getAttribute('data-arg'), alvo.getAttribute('data-arg2'), alvo, extras);
+        });
+    },
+
+    // ========================================================================
     // SISTEMA DE MODAL GENÉRICO
     // ========================================================================
     // Uso: ui.showModal("Título", "Conteúdo HTML", [botoes])
+    // Cada botão recebe `onclick` como função — nada de código no HTML.
     showModal: function (title, contentHTML, buttons = []) {
         // Remove modal anterior se existir
         this.closeModal();
@@ -275,9 +361,9 @@ var ui = {
         modalOverlay.id = "ui-modal-overlay";
         modalOverlay.className = "fixed inset-0 z-[90] bg-black/60 backdrop-blur-sm flex items-center justify-center p-4 animate-fade-in";
 
-        // Gera HTML dos botões
-        const buttonsHTML = buttons.map(btn => `
-            <button onclick="${btn.onclick}; ui.closeModal()" 
+        // Gera HTML dos botões (sem onclick inline: handlers ligados após o append)
+        const buttonsHTML = buttons.map((btn, indice) => `
+            <button data-modal-btn="${indice}"
                 class="${btn.class || 'bg-gray-200 text-gray-700'} font-bold py-3 px-6 rounded-xl flex-1 transition-transform active:scale-95">
                 ${btn.label}
             </button>
@@ -286,17 +372,28 @@ var ui = {
         modalOverlay.innerHTML = `
             <div class="bg-white dark:bg-gray-800 w-full max-w-md rounded-3xl p-6 shadow-2xl transform transition-all animate-bounce-in border-b-4 border-gray-200 dark:border-gray-900">
                 <div class="text-center mb-6">
-                    <h3 class="text-2xl font-black text-gray-700 dark:text-white mb-2">${title}</h3>
+                    <h3 class="text-2xl font-black text-gray-700 dark:text-white mb-2">${views.escapeHTML(title)}</h3>
                     <div class="text-gray-500 dark:text-gray-300 text-sm leading-relaxed">${contentHTML}</div>
                 </div>
                 <div class="flex gap-3">
                     ${buttonsHTML}
-                    ${buttons.length === 0 ? '<button onclick="ui.closeModal()" class="bg-brand-blue text-white w-full py-3 rounded-xl font-bold">OK</button>' : ''}
+                    ${buttons.length === 0 ? '<button data-modal-ok class="bg-brand-blue text-white w-full py-3 rounded-xl font-bold">OK</button>' : ''}
                 </div>
             </div>
         `;
 
         document.body.appendChild(modalOverlay);
+
+        modalOverlay.querySelectorAll('[data-modal-btn]').forEach((el) => {
+            const botao = buttons[Number(el.getAttribute('data-modal-btn'))];
+            el.addEventListener('click', () => {
+                if (botao && typeof botao.onclick === 'function') botao.onclick();
+                this.closeModal();
+            });
+        });
+
+        const ok = modalOverlay.querySelector('[data-modal-ok]');
+        if (ok) ok.addEventListener('click', () => this.closeModal());
     },
 
     closeModal: function () {

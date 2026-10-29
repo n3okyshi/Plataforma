@@ -7,10 +7,27 @@
 (function () {
     const VERSION = "0.0.2"; 
     const MAX_RETRIES = 3;   
-    
+
+    /**
+     * Escapa texto antes de interpolar em innerHTML. A tela de falha fatal é
+     * montada antes das views carregarem, então precisa do helper local
+     * (falha 6 — XSS na tela de erro).
+     */
+    function escaparHTML(valor) {
+        return String(valor === null || valor === undefined ? '' : valor)
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#039;');
+    }
+
     console.time("⏱️ Tempo de Carregamento");
 
     // 1. Definições de Disciplinas e suas Abrangências
+    // A lista cobre as 17 siglas de data/base/componentes.json (R10). O flag
+    // `fundamental` descreve o componente; ele NÃO decide o carregamento da
+    // teoria (content/* é sempre sob demanda, Task 6).
     const configDisciplinas = {
         "art": { nome: "Arte", fundamental: true },
         "ast": { nome: "Astronomia", fundamental: false },
@@ -27,12 +44,9 @@
         "mat": { nome: "Matemática", fundamental: true },
         "qui": { nome: "Química", fundamental: false },
         "soc": { nome: "Sociologia", fundamental: false },
-        "red": { nome: "Redação", fundamental: false } // Caso queira tratar como EM apenas
+        "red": { nome: "Redação", fundamental: false }, // Caso queira tratar como EM apenas
+        "superior": { nome: "Ensino Superior", fundamental: false }
     };
-
-    // Séries possíveis
-    const seriesFund = ["1", "2", "3", "4", "5", "6", "7", "8", "9"];
-    const seriesMedio = ["1em", "2em", "3em"];
 
     function updateStatus(msg) {
         const el = document.querySelector('.loading-text');
@@ -62,34 +76,96 @@
         });
     }
 
-    // 2. Monta Lista Dinâmica de Conteúdos
+    // =================================================================
+    // 2. Conteúdo Sob Demanda (Task 6)
+    //    Só a teoria (content/*) é lazy: currículo e arena continuam no boot.
+    // =================================================================
+
+    // R3: código de etapa -> sufixo do arquivo (EF06 -> "6", EM01 -> "1em").
+    const LIMITES_POR_ETAPA = { EI: 4, EF: 9, EM: 3 };
+    const SUFIXO_R3 = /^(?:[1-9]|[1-3]em|[1-4]ei)$/;
+
+    function sufixoDe(codigo) {
+        const achado = /^(EI|EF|EM)(\d{2})$/.exec(typeof codigo === 'string' ? codigo : '');
+        if (!achado) return null;
+        const etapa = achado[1];
+        const numero = Number(achado[2]);
+        if (numero < 1 || numero > LIMITES_POR_ETAPA[etapa]) return null;
+        return etapa === 'EF' ? String(numero) : `${numero}${etapa.toLowerCase()}`;
+    }
+
+    // Mapa reverso nome do componente ("Matemática") -> sigla ("mat").
+    const siglaPorComponente = {};
+    Object.keys(configDisciplinas).forEach(sigla => {
+        siglaPorComponente[configDisciplinas[sigla].nome] = sigla;
+    });
+
+    function siglaDoComponente(nome) {
+        return Object.prototype.hasOwnProperty.call(siglaPorComponente, nome)
+            ? siglaPorComponente[nome]
+            : null;
+    }
+
+    // Idempotência: biblioteca de chunks já pedidos e o resultado de cada um.
+    const conteudosTentados = new Set();
+    const carregamentosDeConteudo = new Map();
+
+    /**
+     * Garante content/<sigla>/<sigla><sufixo>_content.js carregado.
+     * Resolve true se o arquivo entrou, false se está ausente (ou entrada
+     * inválida). Nunca rejeita; a 2ª chamada reusa o resultado sem reinjetar.
+     */
+    function carregarConteudo(sigla, sufixo) {
+        const siglaValida = typeof sigla === 'string'
+            && Object.prototype.hasOwnProperty.call(configDisciplinas, sigla);
+        if (!siglaValida || !SUFIXO_R3.test(typeof sufixo === 'string' ? sufixo : '')) {
+            return Promise.resolve(false);
+        }
+
+        const caminho = `content/${sigla}/${sigla}${sufixo}_content.js`;
+        if (conteudosTentados.has(caminho)) {
+            return carregamentosDeConteudo.get(caminho) || Promise.resolve(false);
+        }
+        conteudosTentados.add(caminho);
+
+        // `opcional = true`: arquivo ausente não retenta nem derruba o boot.
+        const carregamento = carregarScript(caminho, true)
+            .then(urlCarregada => urlCarregada !== null) // carregarScript resolve null quando falta
+            .catch(() => false);                          // nunca rejeita para quem chamou
+
+        carregamentosDeConteudo.set(caminho, carregamento);
+        return carregamento;
+    }
+
+    window.sufixoDe = sufixoDe;
+    window.siglaDoComponente = siglaDoComponente;
+    window.carregarConteudo = carregarConteudo;
+
+    // =================================================================
+    // 3. Monta Lista Dinâmica do que carrega no boot
+    // =================================================================
     const scriptsDeConteudo = [];
 
     Object.keys(configDisciplinas).forEach(sigla => {
-        const info = configDisciplinas[sigla];
-        
-        // 2.1 Curriculum e Arena (Sempre carregam)
-        // Adaptado se você tiver arquivos de currículo separados por série, 
+        // 3.1 Curriculum e Arena (sempre eager)
+        // Adaptado se você tiver arquivos de currículo separados por série,
         // caso contrário, mantém a carga única da disciplina
         scriptsDeConteudo.push(`curriculum/${sigla}_curriculum.js`);
         scriptsDeConteudo.push(`arena/${sigla}_arena.js`);
-
-        // 2.2 Content (Pasta por disciplina + arquivos por série)
-        const seriesAlvo = info.fundamental ? [...seriesFund, ...seriesMedio] : seriesMedio;
-
-        seriesAlvo.forEach(serie => {
-            // Caminho: content/mat/mat6_content.js
-            scriptsDeConteudo.push(`content/${sigla}/${sigla}${serie}_content.js`);
-        });
     });
 
+    // 3.2 A teoria (chunks por componente + série) NÃO entra no boot:
+    //     é carregada por carregarConteudo() na navegação (Task 6).
+
     // =================================================================
-    // 3. PIPELINE DE EXECUÇÃO
+    // 4. PIPELINE DE EXECUÇÃO
     // =================================================================
 
     updateStatus("Inicializando sistema...");
 
     carregarScript("js/config.js")
+        .then(() => carregarScript("js/reactive.js"))
+        .then(() => carregarScript("js/firebase-service.js"))
         .then(() => carregarScript("js/registry.js"))
         
         .then(() => {
@@ -113,6 +189,9 @@
         .then(() => {
             updateStatus("Preparando motores...");
             return carregarScript("js/ui.js")
+                .then(() => carregarScript("js/fila-resultados.js"))
+                .then(() => carregarScript("js/pratica.js"))
+                .then(() => carregarScript("js/badges.js"))
                 .then(() => carregarScript("js/game.js"))
                 .then(() => carregarScript("js/audio.js"))
                 .then(() => carregarScript("js/auth.js"))
@@ -137,7 +216,7 @@
                     <div class="bg-white dark:bg-gray-800 p-8 rounded-3xl shadow-xl max-w-md w-full border-b-8 border-red-500">
                         <div class="text-6xl mb-4">😿</div>
                         <h1 class="text-2xl font-black text-red-500 mb-2 uppercase">Erro de Carga</h1>
-                        <p class="text-gray-600 dark:text-gray-300 mb-4">Falha ao carregar componente: <br><code class="text-xs">${erro}</code></p>
+                        <p class="text-gray-600 dark:text-gray-300 mb-4">Falha ao carregar componente: <br><code class="text-xs">${escaparHTML(erro)}</code></p>
                         <button onclick="location.reload(true)" class="w-full bg-brand-blue text-white font-bold py-3 rounded-xl shadow-lg">Tentar Novamente</button>
                     </div>
                 </div>`;

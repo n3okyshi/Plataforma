@@ -1,15 +1,13 @@
 /**
  * JS/VIEWS/TEACHER.JS - v4.0 (Refatorado)
- * Renderizador do Painel Administrativo com Filtros Expandidos
+ * Renderizador do Painel Administrativo com Filtros Expandidos e Sanitização Anti-XSS
  */
 views.extend({
     renderTeacherDashboard: function (alunos) {
-        // Cálculo da média real da lista atual para o card
         const mediaGeral = alunos && alunos.length > 0
-            ? (alunos.reduce((acc, a) => acc + (Object.values(a.notas)[0] || 0), 0) / alunos.length).toFixed(1)
+            ? (alunos.reduce((acc, a) => acc + (Object.values(a.notas || {})[0] || 0), 0) / alunos.length).toFixed(1)
             : "0.0";
 
-        // Gerador de Opções de Turmas (6º ao 9º, A ao D)
         const anos = [6, 7, 8, 9];
         const letras = ['A', 'B', 'C', 'D'];
         let optionsTurmas = `<option value="Todas">Todas as Turmas</option>`;
@@ -17,7 +15,8 @@ views.extend({
         anos.forEach(ano => {
             letras.forEach(letra => {
                 const turma = `${ano}º ${letra}`;
-                optionsTurmas += `<option value="${turma}">${turma} Ano ${letra}</option>`;
+                const safeTurma = views.escapeHTML(turma);
+                optionsTurmas += `<option value="${safeTurma}">${safeTurma} Ano ${views.escapeHTML(letra)}</option>`;
             });
         });
 
@@ -38,11 +37,11 @@ views.extend({
                 </div>
 
                 <div class="flex gap-3 bg-white/60 dark:bg-black/40 p-2.5 rounded-2xl backdrop-blur-md border border-white/20 shadow-lg">
-                    <select id="filter-turma" onchange="audioManager.play('click'); teacher.applyFilters() teacher.carregarDadosReais(this.value)" class="bg-transparent font-bold text-gray-700 dark:text-gray-200 outline-none cursor-pointer text-sm">
+                    <select id="filter-turma" onchange="audioManager.play('click'); if (window.teacher) { teacher.applyFilters(); teacher.carregarDadosReais(this.value); }" class="bg-transparent font-bold text-gray-700 dark:text-gray-200 outline-none cursor-pointer text-sm">
                         ${optionsTurmas}
                     </select>
                     <div class="w-px bg-gray-300 dark:bg-gray-600"></div>
-                    <select id="filter-disciplina" onchange="audioManager.play('click'); teacher.applyFilters()" class="bg-transparent font-bold text-brand-blue outline-none cursor-pointer text-sm">
+                    <select id="filter-disciplina" onchange="audioManager.play('click'); if (window.teacher) teacher.applyFilters();" class="bg-transparent font-bold text-brand-blue outline-none cursor-pointer text-sm">
                         <option value="Artes">Artes</option>
                         <option value="Astronomia">Astronomia</option>
                         <option value="Biologia">Biologia</option>
@@ -80,7 +79,7 @@ views.extend({
                     </div>
                     <div>
                         <p class="text-xs font-black text-gray-400 uppercase tracking-widest">Média do Filtro</p>
-                        <p id="stat-media" class="text-3xl font-black text-gray-700 dark:text-white">${mediaGeral}</p>
+                        <p id="stat-media" class="text-3xl font-black text-gray-700 dark:text-white">${views.escapeHTML(mediaGeral)}</p>
                     </div>
                 </div>
 
@@ -126,20 +125,15 @@ views.extend({
         }
 
         return lista.map(aluno => {
-            // HIERARQUIA DE NOMES: Prioriza fullname, depois nome, depois fallback
             const nomeBruto = aluno.fullname || aluno.nome || "Estudante";
+            const nomeValido = views.escapeHTML(String(nomeBruto));
+            const iniciais = views.escapeHTML(String(nomeBruto).substring(0, 2).toUpperCase());
+            const safeTurma = views.escapeHTML(aluno.turma || "S/T");
 
-            // Força conversão para string para garantir que o .substring() funcione
-            const nomeValido = String(nomeBruto);
-
-            // Pega as duas primeiras letras para o Avatar
-            const iniciais = nomeValido.substring(0, 2).toUpperCase();
-
-            // Lógica de Notas e XP (mantida)
             const notasAlvo = aluno.notas || {};
             const nota = notasAlvo[disciplina] || 0;
             const corNota = nota >= 7 ? 'text-green-500' : (nota >= 5 ? 'text-yellow-500' : 'text-red-500');
-            const progressPercent = Math.min(((aluno.xp || 0) % 1000) / 10, 100);
+            const progressPercent = Math.min(((parseInt(aluno.xp, 10) || 0) % 1000) / 10, 100);
 
             return `
             <tr class="border-b border-gray-100 dark:border-gray-700 hover:bg-white/40 transition-all group">
@@ -150,20 +144,20 @@ views.extend({
                         </div>
                         <div>
                             <span class="font-black text-lg text-gray-800 dark:text-white block leading-tight">${nomeValido}</span>
-                            <span class="text-[10px] uppercase font-bold text-gray-400 tracking-tighter">LVL ${aluno.nivel || 1}</span>
+                            <span class="text-[10px] uppercase font-bold text-gray-400 tracking-tighter">LVL ${parseInt(aluno.nivel, 10) || 1}</span>
                         </div>
                     </div>
                 </td>
                 <td class="p-4 px-6 text-center font-black text-gray-500 dark:text-gray-400 text-sm">
                     <span class="glass-child px-3 py-1 rounded-lg border border-black/5">
-                        ${aluno.turma || "S/T"}
+                        ${safeTurma}
                     </span>
                 </td>
                 <td class="p-4 px-6">
                     <div class="flex flex-col gap-1.5 min-w-[120px]">
                         <div class="flex justify-between items-end text-[10px] font-black uppercase">
                             <span class="text-brand-purple">Progresso</span>
-                            <span class="text-gray-400">${aluno.xp || 0} XP</span>
+                            <span class="text-gray-400">${parseInt(aluno.xp, 10) || 0} XP</span>
                         </div>
                         <div class="h-2 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden p-0.5">
                             <div class="h-full bg-brand-purple rounded-full" style="width: ${progressPercent}%"></div>

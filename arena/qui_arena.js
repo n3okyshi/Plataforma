@@ -1,20 +1,5 @@
-/**
- * ***_ARENA.JS
- * Banco de questões de ***.
- */
+/** GERADO por tools/gerar.js — NÃO EDITAR. hash: 4806e5f9ea4b2fe000d952be5669a86e64350c48bce56ab553e066e76c3fb58a */
+'use strict';
 
-window.registrarQuestoes([
-    // ============================================
-    // 1º ANO - QUESTÕES VISUAIS E LÚDICAS
-    // ============================================
-    
-    // TEMA: CONTAGEM
-    {
-        ano: "1º Ano EFI",
-        tema: "Números e Contagem",
-        pergunta: "Quantas maçãs aparecem aqui? 🍎🍎🍎",
-        opcoes: ["2", "3", "4", "5"],
-        correta: 1 
-    },
-    
-]);
+// Banco de questões de Química — derivado das aulas (Fase 4 do spec).
+registrarQuestoes([]);

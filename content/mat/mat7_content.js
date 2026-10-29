@@ -1,383 +1,56 @@
-/**
- * mat7_content.js
- * Conteúdo teórico das aulas de Matemática para o 7º ano do ensino fundamental.
- */
+/** GERADO por tools/gerar.js — NÃO EDITAR. hash: 89da14bea5d29d224d5ff9b8e2dbbb52e1c671f3298e697344e9bbd1fc44e1b0 */
+'use strict';
 
-window.registrarTeoria({
-    // ============================================
-    // 7º ANO DO ENSINO FUNDAMENTAL
-    // ============================================
+// Teoria de Matemática — EF07 — pré-renderizada no build (R17a/D1).
+registrarTeoria({
+  "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números Inteiros (Z)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Ampliação do conjunto dos números naturais. Agora incluímos os negativos para representar situações como temperaturas abaixo de zero e saldos devedores.\n        </p>\n        \n\n[Image of integer number line with negative and positive numbers]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Conceitos Chave:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Opostos (Simétricos):</strong> Estão à mesma distância do zero (ex: -3 e +3).</li>\n                <li><strong>Módulo:</strong> É a distância até o zero, sempre positivo (ex: |-5| = 5).</li>\n            </ul>\n        </div>\n    </div>\n    ",
+  "mat.ef07.numeros_inteiros.comparacao_de_numeros_inteiros": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Quem é maior?</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estabelecimento de ordem em Z. A regra de ouro na reta numérica é: qualquer número <strong>à direita</strong> é maior que qualquer número à esquerda.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💡 Pense em Dinheiro:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Dever R$ 2,00 (-2) é uma situação \"maior\" (melhor) do que dever R$ 5,00 (-5). Logo, -2 > -5.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Soma e Subtração em Z</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolução de problemas envolvendo ganhos (+), perdas (-) e variações. Focamos na eliminação de parênteses.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚡ Regras Práticas:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Sinais Iguais:</strong> Soma e mantém o sinal.</li>\n                <li><strong>Sinais Diferentes:</strong> Subtrai e mantém o sinal do maior valor absoluto (quem \"pesa\" mais).</li>\n            </ul>\n        </div>\n    </div>\n    ",
+  "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Regra de Sinais (× e ÷)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Diferente da soma, aqui olhamos apenas para a combinação dos sinais.\n        </p>\n        \n\n[Image of multiplication sign rules chart]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧠 Memorize:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Amigo do meu amigo é meu amigo (+ com + = +).<br>Inimigo do meu inimigo é meu amigo (- com - = +).</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Potências e Raízes</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de potências com base negativa e raízes exatas de quadrados perfeitos.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚠️ Atenção ao Expoente:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li>Base negativa com expoente <strong>PAR</strong>: Resultado Positivo.</li>\n                <li>Base negativa com expoente <strong>ÍMPAR</strong>: Resultado Negativo.</li>\n            </ul>\n        </div>\n    </div>\n    ",
+  "mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números Racionais (Q)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definição: todo número que pode ser escrito como fração. Isso inclui inteiros, decimais exatos e dízimas periódicas, agora também negativos.\n        </p>\n        \n\n[Image of venn diagram real numbers sets]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🗺️ Na Reta:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Entre dois inteiros (ex: 1 e 2) existem infinitos números racionais.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Cálculos com Racionais</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Extensão das quatro operações, potência e raiz para Q.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔗 Conexão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">As regras de sinais aprendidas nos Inteiros (Z) continuam valendo aqui, mas agora aplicadas a frações e decimais.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Linguagem da Álgebra</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução ao uso de letras (variáveis) para representar números desconhecidos ou generalizar padrões.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔡 Valor Numérico:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">É o resultado quando trocamos a letra por um número específico e fazemos a conta.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Equações do 1º Grau</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            O conceito de igualdade como uma balança equilibrada. O objetivo é isolar a incógnita.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚖️ Princípio de Equivalência:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Tudo que você faz de um lado da igualdade (somar, dividir, multiplicar), deve fazer do outro para manter o equilíbrio.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Modelagem Matemática</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A arte de traduzir o português para o \"matematiquês\".\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🗣️ Dicionário:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li>\"Um número\" → <strong>x</strong></li>\n                <li>\"O dobro\" → <strong>2x</strong></li>\n                <li>\"A terça parte\" → <strong>x/3</strong></li>\n                <li>\"Aumentado de\" → <strong>+</strong></li>\n            </ul>\n        </div>\n    </div>\n    ",
+  "mat.ef07.inequacoes_do_1_grau.desigualdades_e_inequacoes": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Inequações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo de sentenças expressas por desigualdades (>, <, ≥, ≤). A resposta não é só um número, mas um conjunto de soluções.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚠️ Perigo:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Ao multiplicar ou dividir a inequação por um número <strong>negativo</strong>, o sinal da desigualdade inverte (o \">\" vira \"<\").</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.grandezas_proporcionais.razao_e_proporcao": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Razão e Proporção</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Razão é uma divisão. Proporção é a igualdade entre duas razões.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">✖️ Propriedade Fundamental:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">\"O produto dos extremos é igual ao produto dos meios\" (Multiplicação cruzada).</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Tipos de Proporção</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Análise da dependência entre grandezas.\n        </p>\n        \n\n[Image of direct vs inverse proportion graphs]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔍 O Teste:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Direta:</strong> Se uma dobra, a outra dobra. (Ex: Tempo e Distância).</li>\n                <li><strong>Inversa:</strong> Se uma dobra, a outra cai pela metade. (Ex: Velocidade e Tempo).</li>\n            </ul>\n        </div>\n    </div>\n    ",
+  "mat.ef07.grandezas_proporcionais.regra_de_tres_simples": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Regra de Três</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A técnica suprema para resolver problemas. Temos três valores conhecidos e queremos descobrir o quarto.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛠️ Passo a Passo:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">1. Monte a tabela. 2. Identifique se é direta ou inversa. 3. Calcule.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Educação Financeira</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aplicação de porcentagem em aumentos e descontos, e introdução aos Juros Simples.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💰 Fórmula:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\"><strong>J = C · i · t</strong> (Juros = Capital × taxa × tempo).</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.geometria_angulos_e_triangulos.angulos": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Ângulos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definição de ângulo como região do plano limitada por duas semirretas de mesma origem e como <strong>medida de giro</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 Classificação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uso do transferidor para classificar em: <strong>Agudo, Reto, Obtuso e Raso</strong>.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.geometria_angulos_e_triangulos.triangulos": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Triângulos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A figura mais rígida da geometria. Classificação quanto aos lados (equilátero, isósceles, escaleno) e ângulos.\n        </p>\n        \n\n[Image of triangle classification types]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 Lei Universal:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A soma dos ângulos internos de qualquer triângulo é sempre <strong>180º</strong>.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Polígonos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo dos polígonos regulares (lados e ângulos iguais).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⬡ Soma dos Ângulos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Podemos calcular a soma dos ângulos internos dividindo o polígono em triângulos: <strong>S = (n-2) × 180º</strong>.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.poligonos_e_transformacoes_geometricas.transformacoes_geometricas": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Matrizes e Transformações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Como mover figuras no plano cartesiano usando matemática. Análise de isometrias (reflexão, translação, rotação).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎮 Computação Gráfica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Multiplicar coordenadas por <strong>Matrizes</strong> é a base para rotacionar e redimensionar personagens em jogos 3D.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conceito de volume como medida do espaço ocupado. Unidades de medida cúbicas (m³, cm³).\n        </p>\n        \n\n[Image of calculating volume of rectangular prism]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📦 Fórmula Básica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Para blocos retangulares: <strong>V = Comprimento × Largura × Altura</strong>.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume vs Capacidade</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conexão entre o sólido (m³) e o líquido que cabe nele (Litros).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💧 Conversão de Ouro:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">1 decímetro cúbico (dm³) = <strong>1 Litro</strong>.<br>1 metro cúbico (m³) = <strong>1000 Litros</strong>.</p>\n        </div>\n    </div>\n    ",
+  "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Estatística: O Centro</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resumindo um monte de dados em um único número representativo.\n        </p>\n        \n\n[Image of mean median mode comparison]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📊 O Trio:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Média:</strong> Soma tudo e divide pela quantidade.</li>\n                <li><strong>Mediana:</strong> O valor central (após ordenar).</li>\n                <li><strong>Moda:</strong> O que mais aparece (está na moda).</li>\n            </ul>\n        </div>\n    </div>\n    ",
+  "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Gráficos e Chances</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Interpretação visual de dados (setores/pizza) e cálculo de riscos.\n        </p>\n        \n\n[Image of pie chart with percentages]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎲 Probabilidade:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">É uma fração: O que eu quero (casos favoráveis) dividido por Tudo que pode acontecer (casos totais).</p>\n        </div>\n    </div>\n    ",
+});
 
-    // Unidade: Números Inteiros
-    "Números inteiros e reta numérica": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Números Inteiros (Z)</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Ampliação do conjunto dos números naturais. Agora incluímos os negativos para representar situações como temperaturas abaixo de zero e saldos devedores.
-        </p>
-        
-
-[Image of integer number line with negative and positive numbers]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">📏 Conceitos Chave:</p>
-            <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li><strong>Opostos (Simétricos):</strong> Estão à mesma distância do zero (ex: -3 e +3).</li>
-                <li><strong>Módulo:</strong> É a distância até o zero, sempre positivo (ex: |-5| = 5).</li>
-            </ul>
-        </div>
-    </div>
-    `,
-
-    "Comparação de números inteiros": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Quem é maior?</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Estabelecimento de ordem em Z. A regra de ouro na reta numérica é: qualquer número <strong>à direita</strong> é maior que qualquer número à esquerda.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">💡 Pense em Dinheiro:</p>
-            <p class="text-gray-700 dark:text-gray-300">Dever R$ 2,00 (-2) é uma situação "maior" (melhor) do que dever R$ 5,00 (-5). Logo, -2 > -5.</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Operações com números inteiros
-    "Adição e Subtração de Inteiros": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Soma e Subtração em Z</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Resolução de problemas envolvendo ganhos (+), perdas (-) e variações. Focamos na eliminação de parênteses.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">⚡ Regras Práticas:</p>
-            <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li><strong>Sinais Iguais:</strong> Soma e mantém o sinal.</li>
-                <li><strong>Sinais Diferentes:</strong> Subtrai e mantém o sinal do maior valor absoluto (quem "pesa" mais).</li>
-            </ul>
-        </div>
-    </div>
-    `,
-
-    "Multiplicação e Divisão de Inteiros": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Regra de Sinais (× e ÷)</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Diferente da soma, aqui olhamos apenas para a combinação dos sinais.
-        </p>
-        
-
-[Image of multiplication sign rules chart]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🧠 Memorize:</p>
-            <p class="text-gray-700 dark:text-gray-300">Amigo do meu amigo é meu amigo (+ com + = +).<br>Inimigo do meu inimigo é meu amigo (- com - = +).</p>
-        </div>
-    </div>
-    `,
-
-    "Potenciação e Raiz Quadrada de Inteiros": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Potências e Raízes</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Cálculo de potências com base negativa e raízes exatas de quadrados perfeitos.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">⚠️ Atenção ao Expoente:</p>
-            <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li>Base negativa com expoente <strong>PAR</strong>: Resultado Positivo.</li>
-                <li>Base negativa com expoente <strong>ÍMPAR</strong>: Resultado Negativo.</li>
-            </ul>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Números Racionais
-    "O Conjunto dos Números Racionais": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Números Racionais (Q)</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Definição: todo número que pode ser escrito como fração. Isso inclui inteiros, decimais exatos e dízimas periódicas, agora também negativos.
-        </p>
-        
-
-[Image of venn diagram real numbers sets]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🗺️ Na Reta:</p>
-            <p class="text-gray-700 dark:text-gray-300">Entre dois inteiros (ex: 1 e 2) existem infinitos números racionais.</p>
-        </div>
-    </div>
-    `,
-
-    "Operações com Números Racionais": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Cálculos com Racionais</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Extensão das quatro operações, potência e raiz para Q.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🔗 Conexão:</p>
-            <p class="text-gray-700 dark:text-gray-300">As regras de sinais aprendidas nos Inteiros (Z) continuam valendo aqui, mas agora aplicadas a frações e decimais.</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Expressões Algébricas e Equações
-    "Expressões Algébricas": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">A Linguagem da Álgebra</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Introdução ao uso de letras (variáveis) para representar números desconhecidos ou generalizar padrões.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🔡 Valor Numérico:</p>
-            <p class="text-gray-700 dark:text-gray-300">É o resultado quando trocamos a letra por um número específico e fazemos a conta.</p>
-        </div>
-    </div>
-    `,
-
-    "Equações do 1º Grau": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Equações do 1º Grau</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            O conceito de igualdade como uma balança equilibrada. O objetivo é isolar a incógnita.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">⚖️ Princípio de Equivalência:</p>
-            <p class="text-gray-700 dark:text-gray-300">Tudo que você faz de um lado da igualdade (somar, dividir, multiplicar), deve fazer do outro para manter o equilíbrio.</p>
-        </div>
-    </div>
-    `,
-
-    "Resolução de Problemas com Equações": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Modelagem Matemática</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            A arte de traduzir o português para o "matematiquês".
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🗣️ Dicionário:</p>
-            <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li>"Um número" → <strong>x</strong></li>
-                <li>"O dobro" → <strong>2x</strong></li>
-                <li>"A terça parte" → <strong>x/3</strong></li>
-                <li>"Aumentado de" → <strong>+</strong></li>
-            </ul>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Inequações do 1º Grau
-    "Desigualdades e Inequações": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Inequações</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Estudo de sentenças expressas por desigualdades (>, <, ≥, ≤). A resposta não é só um número, mas um conjunto de soluções.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">⚠️ Perigo:</p>
-            <p class="text-gray-700 dark:text-gray-300">Ao multiplicar ou dividir a inequação por um número <strong>negativo</strong>, o sinal da desigualdade inverte (o ">" vira "<").</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Grandezas Proporcionais
-    "Razão e Proporção": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Razão e Proporção</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Razão é uma divisão. Proporção é a igualdade entre duas razões.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">✖️ Propriedade Fundamental:</p>
-            <p class="text-gray-700 dark:text-gray-300">"O produto dos extremos é igual ao produto dos meios" (Multiplicação cruzada).</p>
-        </div>
-    </div>
-    `,
-
-    "Grandezas Direta e Inversamente Proporcionais": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Tipos de Proporção</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Análise da dependência entre grandezas.
-        </p>
-        
-
-[Image of direct vs inverse proportion graphs]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🔍 O Teste:</p>
-            <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li><strong>Direta:</strong> Se uma dobra, a outra dobra. (Ex: Tempo e Distância).</li>
-                <li><strong>Inversa:</strong> Se uma dobra, a outra cai pela metade. (Ex: Velocidade e Tempo).</li>
-            </ul>
-        </div>
-    </div>
-    `,
-
-    "Regra de Três Simples": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Regra de Três</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            A técnica suprema para resolver problemas. Temos três valores conhecidos e queremos descobrir o quarto.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🛠️ Passo a Passo:</p>
-            <p class="text-gray-700 dark:text-gray-300">1. Monte a tabela. 2. Identifique se é direta ou inversa. 3. Calcule.</p>
-        </div>
-    </div>
-    `,
-
-    "Porcentagem e Juros Simples": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Educação Financeira</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Aplicação de porcentagem em aumentos e descontos, e introdução aos Juros Simples.
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">💰 Fórmula:</p>
-            <p class="text-gray-700 dark:text-gray-300"><strong>J = C · i · t</strong> (Juros = Capital × taxa × tempo).</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Geometria: Ângulos e Triângulos
-    "Ângulos": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Ângulos e Retas</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Estudo de complementares, suplementares e Opostos pelo Vértice (OPV). Foco especial em retas paralelas cortadas por uma transversal.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">👀 Regra do Z:</p>
-            <p class="text-gray-700 dark:text-gray-300">Em paralelas, os ângulos alternos (que formam um "Z") são congruentes (iguais).</p>
-        </div>
-    </div>
-    `,
-
-    "Triângulos": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Triângulos</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            A figura mais rígida da geometria. Classificação quanto aos lados (equilátero, isósceles, escaleno) e ângulos.
-        </p>
-        
-
-[Image of triangle classification types]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">📐 Lei Universal:</p>
-            <p class="text-gray-700 dark:text-gray-300">A soma dos ângulos internos de qualquer triângulo é sempre <strong>180º</strong>.</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Polígonos e Transformações Geométricas
-    "Polígonos Regulares": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Polígonos</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Estudo dos polígonos regulares (lados e ângulos iguais).
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">⬡ Soma dos Ângulos:</p>
-            <p class="text-gray-700 dark:text-gray-300">Podemos calcular a soma dos ângulos internos dividindo o polígono em triângulos: <strong>S = (n-2) × 180º</strong>.</p>
-        </div>
-    </div>
-    `,
-
-    "Transformações Geométricas": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Isometrias</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Movendo figuras sem deformá-las.
-        </p>
-        
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🔄 Os 3 Movimentos:</p>
-            <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li><strong>Reflexão:</strong> Efeito de espelho (simetria axial).</li>
-                <li><strong>Translação:</strong> Deslizamento (arrastar).</li>
-                <li><strong>Rotação:</strong> Giro em torno de um ponto.</li>
-            </ul>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Medidas de Volume
-    "Volume de Blocos Retangulares": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Volume</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Conceito de volume como medida do espaço ocupado. Unidades de medida cúbicas (m³, cm³).
-        </p>
-        
-
-[Image of calculating volume of rectangular prism]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">📦 Fórmula Básica:</p>
-            <p class="text-gray-700 dark:text-gray-300">Para blocos retangulares: <strong>V = Comprimento × Largura × Altura</strong>.</p>
-        </div>
-    </div>
-    `,
-
-    "Relação entre Volume e Capacidade": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Volume vs Capacidade</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Conexão entre o sólido (m³) e o líquido que cabe nele (Litros).
-        </p>
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">💧 Conversão de Ouro:</p>
-            <p class="text-gray-700 dark:text-gray-300">1 decímetro cúbico (dm³) = <strong>1 Litro</strong>.<br>1 metro cúbico (m³) = <strong>1000 Litros</strong>.</p>
-        </div>
-    </div>
-    `,
-
-    // Unidade: Estatística e Probabilidade
-    "Medidas de Tendência Central": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Estatística: O Centro</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Resumindo um monte de dados em um único número representativo.
-        </p>
-        
-
-[Image of mean median mode comparison]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">📊 O Trio:</p>
-            <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li><strong>Média:</strong> Soma tudo e divide pela quantidade.</li>
-                <li><strong>Mediana:</strong> O valor central (após ordenar).</li>
-                <li><strong>Moda:</strong> O que mais aparece (está na moda).</li>
-            </ul>
-        </div>
-    </div>
-    `,
-
-    "Gráficos e Probabilidade": `
-    <h3 class="text-2xl font-bold text-brand-blue mb-4">Gráficos e Chances</h3>
-    <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4">
-        <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
-            Interpretação visual de dados (setores/pizza) e cálculo de riscos.
-        </p>
-        
-
-[Image of pie chart with percentages]
-
-        <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
-            <p class="font-bold text-brand-blue dark:text-blue-300">🎲 Probabilidade:</p>
-            <p class="text-gray-700 dark:text-gray-300">É uma fração: O que eu quero (casos favoráveis) dividido por Tudo que pode acontecer (casos totais).</p>
-        </div>
-    </div>
-    `,
-
+// Aula canônica completa (§5.2); registrarAula chega na Task 9 (R17).
+typeof window.registrarAula === 'function' && window.registrarAula({
+  "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica": {"id":"mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica","componente":"mat","nivel":"EF07","ordem":1,"unidade":"Números Inteiros","titulo":"Números inteiros e reta numérica","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números Inteiros (Z)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Ampliação do conjunto dos números naturais. Agora incluímos os negativos para representar situações como temperaturas abaixo de zero e saldos devedores.\n        </p>\n        \n\n[Image of integer number line with negative and positive numbers]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Conceitos Chave:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Opostos (Simétricos):</strong> Estão à mesma distância do zero (ex: -3 e +3).</li>\n                <li><strong>Módulo:</strong> É a distância até o zero, sempre positivo (ex: |-5| = 5).</li>\n            </ul>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.numeros_inteiros.comparacao_de_numeros_inteiros": {"id":"mat.ef07.numeros_inteiros.comparacao_de_numeros_inteiros","componente":"mat","nivel":"EF07","ordem":2,"unidade":"Números Inteiros","titulo":"Comparação de números inteiros","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Quem é maior?</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estabelecimento de ordem em Z. A regra de ouro na reta numérica é: qualquer número <strong>à direita</strong> é maior que qualquer número à esquerda.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💡 Pense em Dinheiro:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Dever R$ 2,00 (-2) é uma situação \"maior\" (melhor) do que dever R$ 5,00 (-5). Logo, -2 > -5.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros": {"id":"mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros","componente":"mat","nivel":"EF07","ordem":3,"unidade":"Operações com números inteiros","titulo":"Adição e Subtração de Inteiros","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Soma e Subtração em Z</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolução de problemas envolvendo ganhos (+), perdas (-) e variações. Focamos na eliminação de parênteses.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚡ Regras Práticas:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Sinais Iguais:</strong> Soma e mantém o sinal.</li>\n                <li><strong>Sinais Diferentes:</strong> Subtrai e mantém o sinal do maior valor absoluto (quem \"pesa\" mais).</li>\n            </ul>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros": {"id":"mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros","componente":"mat","nivel":"EF07","ordem":4,"unidade":"Operações com números inteiros","titulo":"Multiplicação e Divisão de Inteiros","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Regra de Sinais (× e ÷)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Diferente da soma, aqui olhamos apenas para a combinação dos sinais.\n        </p>\n        \n\n[Image of multiplication sign rules chart]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧠 Memorize:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Amigo do meu amigo é meu amigo (+ com + = +).<br>Inimigo do meu inimigo é meu amigo (- com - = +).</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros": {"id":"mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros","componente":"mat","nivel":"EF07","ordem":5,"unidade":"Operações com números inteiros","titulo":"Potenciação e Raiz Quadrada de Inteiros","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Potências e Raízes</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de potências com base negativa e raízes exatas de quadrados perfeitos.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚠️ Atenção ao Expoente:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li>Base negativa com expoente <strong>PAR</strong>: Resultado Positivo.</li>\n                <li>Base negativa com expoente <strong>ÍMPAR</strong>: Resultado Negativo.</li>\n            </ul>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais": {"id":"mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais","componente":"mat","nivel":"EF07","ordem":6,"unidade":"Números Racionais","titulo":"O Conjunto dos Números Racionais","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números Racionais (Q)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definição: todo número que pode ser escrito como fração. Isso inclui inteiros, decimais exatos e dízimas periódicas, agora também negativos.\n        </p>\n        \n\n[Image of venn diagram real numbers sets]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🗺️ Na Reta:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Entre dois inteiros (ex: 1 e 2) existem infinitos números racionais.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais": {"id":"mat.ef07.numeros_racionais.operacoes_com_numeros_racionais","componente":"mat","nivel":"EF07","ordem":7,"unidade":"Números Racionais","titulo":"Operações com Números Racionais","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Cálculos com Racionais</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Extensão das quatro operações, potência e raiz para Q.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔗 Conexão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">As regras de sinais aprendidas nos Inteiros (Z) continuam valendo aqui, mas agora aplicadas a frações e decimais.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas": {"id":"mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas","componente":"mat","nivel":"EF07","ordem":8,"unidade":"Expressões Algébricas e Equações","titulo":"Expressões Algébricas","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Linguagem da Álgebra</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução ao uso de letras (variáveis) para representar números desconhecidos ou generalizar padrões.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔡 Valor Numérico:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">É o resultado quando trocamos a letra por um número específico e fazemos a conta.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau": {"id":"mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau","componente":"mat","nivel":"EF07","ordem":9,"unidade":"Expressões Algébricas e Equações","titulo":"Equações do 1º Grau","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Equações do 1º Grau</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            O conceito de igualdade como uma balança equilibrada. O objetivo é isolar a incógnita.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚖️ Princípio de Equivalência:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Tudo que você faz de um lado da igualdade (somar, dividir, multiplicar), deve fazer do outro para manter o equilíbrio.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes": {"id":"mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes","componente":"mat","nivel":"EF07","ordem":10,"unidade":"Expressões Algébricas e Equações","titulo":"Resolução de Problemas com Equações","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Modelagem Matemática</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A arte de traduzir o português para o \"matematiquês\".\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🗣️ Dicionário:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li>\"Um número\" → <strong>x</strong></li>\n                <li>\"O dobro\" → <strong>2x</strong></li>\n                <li>\"A terça parte\" → <strong>x/3</strong></li>\n                <li>\"Aumentado de\" → <strong>+</strong></li>\n            </ul>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.inequacoes_do_1_grau.desigualdades_e_inequacoes": {"id":"mat.ef07.inequacoes_do_1_grau.desigualdades_e_inequacoes","componente":"mat","nivel":"EF07","ordem":11,"unidade":"Inequações do 1º Grau","titulo":"Desigualdades e Inequações","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Inequações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo de sentenças expressas por desigualdades (>, <, ≥, ≤). A resposta não é só um número, mas um conjunto de soluções.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚠️ Perigo:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Ao multiplicar ou dividir a inequação por um número <strong>negativo</strong>, o sinal da desigualdade inverte (o \">\" vira \"<\").</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.grandezas_proporcionais.razao_e_proporcao": {"id":"mat.ef07.grandezas_proporcionais.razao_e_proporcao","componente":"mat","nivel":"EF07","ordem":12,"unidade":"Grandezas Proporcionais","titulo":"Razão e Proporção","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Razão e Proporção</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Razão é uma divisão. Proporção é a igualdade entre duas razões.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">✖️ Propriedade Fundamental:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">\"O produto dos extremos é igual ao produto dos meios\" (Multiplicação cruzada).</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais": {"id":"mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais","componente":"mat","nivel":"EF07","ordem":13,"unidade":"Grandezas Proporcionais","titulo":"Grandezas Direta e Inversamente Proporcionais","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Tipos de Proporção</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Análise da dependência entre grandezas.\n        </p>\n        \n\n[Image of direct vs inverse proportion graphs]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔍 O Teste:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Direta:</strong> Se uma dobra, a outra dobra. (Ex: Tempo e Distância).</li>\n                <li><strong>Inversa:</strong> Se uma dobra, a outra cai pela metade. (Ex: Velocidade e Tempo).</li>\n            </ul>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.grandezas_proporcionais.regra_de_tres_simples": {"id":"mat.ef07.grandezas_proporcionais.regra_de_tres_simples","componente":"mat","nivel":"EF07","ordem":14,"unidade":"Grandezas Proporcionais","titulo":"Regra de Três Simples","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Regra de Três</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A técnica suprema para resolver problemas. Temos três valores conhecidos e queremos descobrir o quarto.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛠️ Passo a Passo:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">1. Monte a tabela. 2. Identifique se é direta ou inversa. 3. Calcule.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples": {"id":"mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples","componente":"mat","nivel":"EF07","ordem":15,"unidade":"Grandezas Proporcionais","titulo":"Porcentagem e Juros Simples","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Educação Financeira</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aplicação de porcentagem em aumentos e descontos, e introdução aos Juros Simples.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💰 Fórmula:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\"><strong>J = C · i · t</strong> (Juros = Capital × taxa × tempo).</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.geometria_angulos_e_triangulos.angulos": {"id":"mat.ef07.geometria_angulos_e_triangulos.angulos","componente":"mat","nivel":"EF07","ordem":16,"unidade":"Geometria: Ângulos e Triângulos","titulo":"Ângulos","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Ângulos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definição de ângulo como região do plano limitada por duas semirretas de mesma origem e como <strong>medida de giro</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 Classificação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uso do transferidor para classificar em: <strong>Agudo, Reto, Obtuso e Raso</strong>.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.geometria_angulos_e_triangulos.triangulos": {"id":"mat.ef07.geometria_angulos_e_triangulos.triangulos","componente":"mat","nivel":"EF07","ordem":17,"unidade":"Geometria: Ângulos e Triângulos","titulo":"Triângulos","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Triângulos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A figura mais rígida da geometria. Classificação quanto aos lados (equilátero, isósceles, escaleno) e ângulos.\n        </p>\n        \n\n[Image of triangle classification types]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 Lei Universal:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A soma dos ângulos internos de qualquer triângulo é sempre <strong>180º</strong>.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares": {"id":"mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares","componente":"mat","nivel":"EF07","ordem":18,"unidade":"Polígonos e Transformações Geométricas","titulo":"Polígonos Regulares","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Polígonos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo dos polígonos regulares (lados e ângulos iguais).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⬡ Soma dos Ângulos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Podemos calcular a soma dos ângulos internos dividindo o polígono em triângulos: <strong>S = (n-2) × 180º</strong>.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.poligonos_e_transformacoes_geometricas.transformacoes_geometricas": {"id":"mat.ef07.poligonos_e_transformacoes_geometricas.transformacoes_geometricas","componente":"mat","nivel":"EF07","ordem":19,"unidade":"Polígonos e Transformações Geométricas","titulo":"Transformações Geométricas","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Matrizes e Transformações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Como mover figuras no plano cartesiano usando matemática. Análise de isometrias (reflexão, translação, rotação).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎮 Computação Gráfica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Multiplicar coordenadas por <strong>Matrizes</strong> é a base para rotacionar e redimensionar personagens em jogos 3D.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares": {"id":"mat.ef07.medidas_de_volume.volume_de_blocos_retangulares","componente":"mat","nivel":"EF07","ordem":20,"unidade":"Medidas de Volume","titulo":"Volume de Blocos Retangulares","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conceito de volume como medida do espaço ocupado. Unidades de medida cúbicas (m³, cm³).\n        </p>\n        \n\n[Image of calculating volume of rectangular prism]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📦 Fórmula Básica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Para blocos retangulares: <strong>V = Comprimento × Largura × Altura</strong>.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade": {"id":"mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade","componente":"mat","nivel":"EF07","ordem":21,"unidade":"Medidas de Volume","titulo":"Relação entre Volume e Capacidade","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume vs Capacidade</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conexão entre o sólido (m³) e o líquido que cabe nele (Litros).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💧 Conversão de Ouro:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">1 decímetro cúbico (dm³) = <strong>1 Litro</strong>.<br>1 metro cúbico (m³) = <strong>1000 Litros</strong>.</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central": {"id":"mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central","componente":"mat","nivel":"EF07","ordem":22,"unidade":"Estatística e Probabilidade","titulo":"Medidas de Tendência Central","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Estatística: O Centro</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resumindo um monte de dados em um único número representativo.\n        </p>\n        \n\n[Image of mean median mode comparison]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📊 O Trio:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Média:</strong> Soma tudo e divide pela quantidade.</li>\n                <li><strong>Mediana:</strong> O valor central (após ordenar).</li>\n                <li><strong>Moda:</strong> O que mais aparece (está na moda).</li>\n            </ul>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
+  "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade": {"id":"mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade","componente":"mat","nivel":"EF07","ordem":23,"unidade":"Estatística e Probabilidade","titulo":"Gráficos e Probabilidade","bncc":[],"duracaoMin":50,"dificuldade":1,"conteudo":{"objetivos":[],"resumo":"","blocos":[{"tipo":"html","html":"\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Gráficos e Chances</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Interpretação visual de dados (setores/pizza) e cálculo de riscos.\n        </p>\n        \n\n[Image of pie chart with percentages]\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎲 Probabilidade:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">É uma fração: O que eu quero (casos favoráveis) dividido por Tudo que pode acontecer (casos totais).</p>\n        </div>\n    </div>\n    "}],"vocabulario":[],"errosComuns":[]},"atividades":[],"areas":[],"tags":[],"preRequisitos":[],"proximosPassos":[],"fontes":[],"metadados":{"versao":1,"revisado":false,"autor":"migracao:legado","legado":true}},
 });
