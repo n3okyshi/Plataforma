@@ -1,0 +1,622 @@
+{
+  "nivel": "EF03",
+  "estado": "piloto_integral",
+  "aulas": 24,
+  "unidades": 10,
+  "habilidades": [
+    {
+      "codigo": "EF03MA01",
+      "aulas": [
+        "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000",
+        "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar"
+      ],
+      "atividades": [
+        "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000#leitura_e_escrita_de_numeros_ate_1000.aplicacao",
+        "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000#leitura_e_escrita_de_numeros_ate_1000.producao",
+        "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar#a_quarta_ordem_unidade_de_milhar.aplicacao",
+        "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar#a_quarta_ordem_unidade_de_milhar.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.numeros_de_1_a_1000.treino.01",
+        "mat.ef03.numeros_maiores_do_que_1000.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.numeros_de_1_a_1000.prova.01",
+        "mat.ef03.numeros_maiores_do_que_1000.prova.01",
+        "mat.ef03.numeros_maiores_do_que_1000.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.numeros_de_1_a_1000.pratica",
+        "mat.ef03.numeros_maiores_do_que_1000.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA02",
+      "aulas": [
+        "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar"
+      ],
+      "atividades": [
+        "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar#a_quarta_ordem_unidade_de_milhar.aplicacao",
+        "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar#a_quarta_ordem_unidade_de_milhar.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.numeros_maiores_do_que_1000.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.numeros_maiores_do_que_1000.prova.01",
+        "mat.ef03.numeros_maiores_do_que_1000.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.numeros_maiores_do_que_1000.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA03",
+      "aulas": [
+        "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao"
+      ],
+      "atividades": [
+        "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao#fatos_basicos_da_adicao_e_multiplicacao.aplicacao",
+        "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao#fatos_basicos_da_adicao_e_multiplicacao.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.numeros_de_1_a_1000.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef03.numeros_de_1_a_1000.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.numeros_de_1_a_1000.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA04",
+      "aulas": [
+        "mat.ef03.numeros_de_1_a_1000.reta_numerica"
+      ],
+      "atividades": [
+        "mat.ef03.numeros_de_1_a_1000.reta_numerica#reta_numerica.aplicacao",
+        "mat.ef03.numeros_de_1_a_1000.reta_numerica#reta_numerica.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.numeros_de_1_a_1000.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef03.numeros_de_1_a_1000.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.numeros_de_1_a_1000.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA05",
+      "aulas": [
+        "mat.ef03.adicao_e_subtracao.estrategias_de_calculo_mental_e_escrito"
+      ],
+      "atividades": [
+        "mat.ef03.adicao_e_subtracao.estrategias_de_calculo_mental_e_escrito#estrategias_de_calculo_mental_e_escrito.aplicacao",
+        "mat.ef03.adicao_e_subtracao.estrategias_de_calculo_mental_e_escrito#estrategias_de_calculo_mental_e_escrito.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.adicao_e_subtracao.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.adicao_e_subtracao.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.adicao_e_subtracao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA06",
+      "aulas": [
+        "mat.ef03.adicao_e_subtracao.problemas_de_adicao_e_subtracao"
+      ],
+      "atividades": [
+        "mat.ef03.adicao_e_subtracao.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.aplicacao",
+        "mat.ef03.adicao_e_subtracao.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.adicao_e_subtracao.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef03.adicao_e_subtracao.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.adicao_e_subtracao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA07",
+      "aulas": [
+        "mat.ef03.multiplicacao.algoritmo_da_multiplicacao"
+      ],
+      "atividades": [
+        "mat.ef03.multiplicacao.algoritmo_da_multiplicacao#algoritmo_da_multiplicacao.aplicacao",
+        "mat.ef03.multiplicacao.algoritmo_da_multiplicacao#algoritmo_da_multiplicacao.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.multiplicacao.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.multiplicacao.prova.01",
+        "mat.ef03.multiplicacao.prova.02",
+        "mat.ef03.multiplicacao.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.multiplicacao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA08",
+      "aulas": [
+        "mat.ef03.divisao.introducao_a_divisao"
+      ],
+      "atividades": [
+        "mat.ef03.divisao.introducao_a_divisao#introducao_a_divisao.aplicacao",
+        "mat.ef03.divisao.introducao_a_divisao#introducao_a_divisao.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.divisao.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.divisao.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.divisao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA09",
+      "aulas": [
+        "mat.ef03.divisao.metade_terca_quarta_quinta_e_decima_parte"
+      ],
+      "atividades": [
+        "mat.ef03.divisao.metade_terca_quarta_quinta_e_decima_parte#metade_terca_quarta_quinta_e_decima_parte.aplicacao",
+        "mat.ef03.divisao.metade_terca_quarta_quinta_e_decima_parte#metade_terca_quarta_quinta_e_decima_parte.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.divisao.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef03.divisao.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.divisao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA10",
+      "aulas": [
+        "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias"
+      ],
+      "atividades": [
+        "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias#regularidades_em_sequencias.aplicacao",
+        "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias#regularidades_em_sequencias.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.padroes_e_igualdade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.padroes_e_igualdade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.padroes_e_igualdade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA11",
+      "aulas": [
+        "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas"
+      ],
+      "atividades": [
+        "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas#igualdade_e_sentencas_matematicas.aplicacao",
+        "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas#igualdade_e_sentencas_matematicas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.padroes_e_igualdade.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef03.padroes_e_igualdade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.padroes_e_igualdade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA12",
+      "aulas": [
+        "mat.ef03.geometria.trajetos_e_croquis"
+      ],
+      "atividades": [
+        "mat.ef03.geometria.trajetos_e_croquis#trajetos_e_croquis.aplicacao",
+        "mat.ef03.geometria.trajetos_e_croquis#trajetos_e_croquis.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.geometria.treino.05"
+      ],
+      "questoesProva": [
+        "mat.ef03.geometria.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA13",
+      "aulas": [
+        "mat.ef03.geometria.poliedros_e_corpos_redondos"
+      ],
+      "atividades": [
+        "mat.ef03.geometria.poliedros_e_corpos_redondos#poliedros_e_corpos_redondos.aplicacao",
+        "mat.ef03.geometria.poliedros_e_corpos_redondos#poliedros_e_corpos_redondos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.geometria.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.geometria.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA14",
+      "aulas": [
+        "mat.ef03.geometria.planificacoes_de_solidos"
+      ],
+      "atividades": [
+        "mat.ef03.geometria.planificacoes_de_solidos#planificacoes_de_solidos.aplicacao",
+        "mat.ef03.geometria.planificacoes_de_solidos#planificacoes_de_solidos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.geometria.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef03.geometria.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA15",
+      "aulas": [
+        "mat.ef03.geometria.figuras_planas_e_seus_lados"
+      ],
+      "atividades": [
+        "mat.ef03.geometria.figuras_planas_e_seus_lados#figuras_planas_e_seus_lados.aplicacao",
+        "mat.ef03.geometria.figuras_planas_e_seus_lados#figuras_planas_e_seus_lados.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.geometria.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef03.geometria.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA16",
+      "aulas": [
+        "mat.ef03.geometria.congruencia_e_malhas"
+      ],
+      "atividades": [
+        "mat.ef03.geometria.congruencia_e_malhas#congruencia_e_malhas.aplicacao",
+        "mat.ef03.geometria.congruencia_e_malhas#congruencia_e_malhas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.geometria.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef03.geometria.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA17",
+      "aulas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas"
+      ],
+      "atividades": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.aplicacao",
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA18",
+      "aulas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas"
+      ],
+      "atividades": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.aplicacao",
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA19",
+      "aulas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas"
+      ],
+      "atividades": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.aplicacao",
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA20",
+      "aulas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas"
+      ],
+      "atividades": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.aplicacao",
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA21",
+      "aulas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas"
+      ],
+      "atividades": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas#comparacao_de_areas.aplicacao",
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas#comparacao_de_areas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA22",
+      "aulas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos"
+      ],
+      "atividades": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.aplicacao",
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA23",
+      "aulas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos"
+      ],
+      "atividades": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.aplicacao",
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA24",
+      "aulas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario"
+      ],
+      "atividades": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario#sistema_monetario.aplicacao",
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario#sistema_monetario.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA25",
+      "aulas": [
+        "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis"
+      ],
+      "atividades": [
+        "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis#eventos_e_resultados_possiveis.aplicacao",
+        "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis#eventos_e_resultados_possiveis.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.probabilidade_e_estatistica.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef03.probabilidade_e_estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA26",
+      "aulas": [
+        "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+        "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas"
+      ],
+      "atividades": [
+        "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.aplicacao",
+        "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.producao",
+        "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.aplicacao",
+        "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.probabilidade_e_estatistica.treino.02",
+        "mat.ef03.probabilidade_e_estatistica.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef03.probabilidade_e_estatistica.prova.02",
+        "mat.ef03.probabilidade_e_estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA27",
+      "aulas": [
+        "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+        "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas"
+      ],
+      "atividades": [
+        "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.aplicacao",
+        "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.producao",
+        "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.aplicacao",
+        "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.probabilidade_e_estatistica.treino.02",
+        "mat.ef03.probabilidade_e_estatistica.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef03.probabilidade_e_estatistica.prova.02",
+        "mat.ef03.probabilidade_e_estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF03MA28",
+      "aulas": [
+        "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas"
+      ],
+      "atividades": [
+        "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas#pesquisa_com_variaveis_categoricas.aplicacao",
+        "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas#pesquisa_com_variaveis_categoricas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef03.probabilidade_e_estatistica.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef03.probabilidade_e_estatistica.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    }
+  ],
+  "observacao": "No Ensino Médio, distribuição por série é proposta do projeto para habilidades da etapa EM13.",
+  "pendencias": [
+    "Aplicação real das produções e homologação docente.",
+    "Revisão visual e acessibilidade.",
+    "Firebase e cache em ambiente real."
+  ]
+}

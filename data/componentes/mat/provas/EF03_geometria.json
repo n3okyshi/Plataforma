@@ -1,0 +1,209 @@
+{
+  "id": "mat.ef03.geometria.prova",
+  "titulo": "Avaliação: Geometria",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF03",
+  "unidade": "Geometria",
+  "bncc": [
+    "EF03MA12",
+    "EF03MA13",
+    "EF03MA14",
+    "EF03MA15",
+    "EF03MA16"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 5 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef03.geometria.prova.01",
+    "mat.ef03.geometria.prova.02",
+    "mat.ef03.geometria.prova.03",
+    "mat.ef03.geometria.prova.04",
+    "mat.ef03.geometria.prova.05"
+  ],
+  "criterios": "Cada item objetivo vale 10/5 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF03MA12",
+      "questoes": [
+        "mat.ef03.geometria.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.geometria.trajetos_e_croquis#trajetos_e_croquis.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA13",
+      "questoes": [
+        "mat.ef03.geometria.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.geometria.poliedros_e_corpos_redondos#poliedros_e_corpos_redondos.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA14",
+      "questoes": [
+        "mat.ef03.geometria.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.geometria.planificacoes_de_solidos#planificacoes_de_solidos.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA15",
+      "questoes": [
+        "mat.ef03.geometria.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.geometria.figuras_planas_e_seus_lados#figuras_planas_e_seus_lados.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA16",
+      "questoes": [
+        "mat.ef03.geometria.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.geometria.congruencia_e_malhas#congruencia_e_malhas.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef03.geometria.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Geometria",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF03MA12",
+      "EF03MA13",
+      "EF03MA14",
+      "EF03MA15",
+      "EF03MA16"
+    ],
+    "atividadesOrigem": [
+      "mat.ef03.geometria.poliedros_e_corpos_redondos#poliedros_e_corpos_redondos.producao",
+      "mat.ef03.geometria.congruencia_e_malhas#congruencia_e_malhas.producao",
+      "mat.ef03.geometria.planificacoes_de_solidos#planificacoes_de_solidos.producao",
+      "mat.ef03.geometria.figuras_planas_e_seus_lados#figuras_planas_e_seus_lados.producao",
+      "mat.ef03.geometria.trajetos_e_croquis#trajetos_e_croquis.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Poliedros e Corpos Redondos",
+        "enunciado": "Procure ou modele cubo, bloco retangular, pirâmide, cone, cilindro e esfera. Registre um objeto para cada e compare dois modelos.",
+        "gabarito": "Conferir seis correspondências baseadas na forma, não na cor ou função; aceitar desenhos e modelos construídos.",
+        "bncc": [
+          "EF03MA13"
+        ],
+        "atividadeOrigem": "mat.ef03.geometria.poliedros_e_corpos_redondos#poliedros_e_corpos_redondos.producao"
+      },
+      {
+        "titulo": "Congruência e Malhas",
+        "enunciado": "Na malha, desenhe um retângulo 2×3 e duas cópias em posições diferentes. Recorte ou use papel transparente para sobrepor e compare com um retângulo 1×6.",
+        "gabarito": "As cópias coincidem por movimento; o 1×6 tem igual área, mas lados diferentes e não é congruente.",
+        "bncc": [
+          "EF03MA16"
+        ],
+        "atividadeOrigem": "mat.ef03.geometria.congruencia_e_malhas#congruencia_e_malhas.producao"
+      },
+      {
+        "titulo": "Planificações de Sólidos",
+        "enunciado": "Monte uma rede de cubo; abra uma embalagem em forma de prisma. Desenhe redes para uma pirâmide, cilindro e cone, relacionando cada parte ao sólido, e teste modelos de papel com ajuda.",
+        "gabarito": "Observar bases, faces laterais e partes curvas. Pirâmide quadrangular: quadrado e quatro triângulos; cilindro: dois círculos e retângulo; cone: círculo e setor ajustados para fechar. Registrar correções após o teste.",
+        "bncc": [
+          "EF03MA14"
+        ],
+        "atividadeOrigem": "mat.ef03.geometria.planificacoes_de_solidos#planificacoes_de_solidos.producao"
+      },
+      {
+        "titulo": "Figuras Planas e seus Lados",
+        "enunciado": "Desenhe triângulo, quadrado, retângulo, trapézio e paralelogramo em orientações variadas. Marque lados paralelos, compare comprimentos e conte vértices.",
+        "gabarito": "Conferir três ou quatro vértices, pares de paralelas e igualdade dos lados quando aplicável. Respeitar a convenção de trapézio declarada.",
+        "bncc": [
+          "EF03MA15"
+        ],
+        "atividadeOrigem": "mat.ef03.geometria.figuras_planas_e_seus_lados#figuras_planas_e_seus_lados.producao"
+      },
+      {
+        "titulo": "Trajetos e Croquis",
+        "enunciado": "Esboce um trajeto real entre dois pontos próximos, com três referências e mudanças de direção e sentido. Peça que alguém interprete; registre e corrija ambiguidades.",
+        "gabarito": "Avaliar concordância com o ambiente, referência explícita, início, fim e orientação; não exigir escala técnica.",
+        "bncc": [
+          "EF03MA12"
+        ],
+        "atividadeOrigem": "mat.ef03.geometria.trajetos_e_croquis#trajetos_e_croquis.producao"
+      }
+    ],
+    "duracaoMinSugerida": 150,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        352
+      ],
+      "paginasImpressas": "355",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344,
+        364
+      ],
+      "paginasImpressas": "347, 367",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

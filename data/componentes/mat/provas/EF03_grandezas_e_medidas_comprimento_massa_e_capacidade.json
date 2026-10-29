@@ -1,0 +1,166 @@
+{
+  "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova",
+  "titulo": "Avaliação: Grandezas e medidas: comprimento, massa e capacidade",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF03",
+  "unidade": "Grandezas e medidas: comprimento, massa e capacidade",
+  "bncc": [
+    "EF03MA17",
+    "EF03MA18",
+    "EF03MA19",
+    "EF03MA20",
+    "EF03MA21"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01",
+    "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF03MA17",
+      "questoes": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA18",
+      "questoes": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA19",
+      "questoes": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA20",
+      "questoes": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA21",
+      "questoes": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas#comparacao_de_areas.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Grandezas e medidas: comprimento, massa e capacidade",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF03MA17",
+      "EF03MA18",
+      "EF03MA19",
+      "EF03MA20",
+      "EF03MA21"
+    ],
+    "atividadesOrigem": [
+      "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao",
+      "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas#comparacao_de_areas.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Medidas e Estimativas",
+        "enunciado": "Estime e meça três comprimentos com régua ou fita e um deles com clipes iguais. Compare unidades. Observe rótulos em L,mL,kg,g,mg e meça massa e capacidade com instrumentos disponíveis, registrando o que não pôde medir.",
+        "gabarito": "Conferir valores reais, zero alinhado, unidade constante, instrumento adequado e distinção entre grandezas. 1 m=100 cm; 1 cm=10 mm; 1 L=1000 mL; 1 kg=1000 g; 1 g=1000 mg. Não inventar medições.",
+        "bncc": [
+          "EF03MA17",
+          "EF03MA18",
+          "EF03MA19",
+          "EF03MA20"
+        ],
+        "atividadeOrigem": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+      },
+      {
+        "titulo": "Comparação de Áreas",
+        "enunciado": "Compare faces de duas caixas por sobreposição com papel. Desenhe duas figuras diferentes com oito quadradinhos e explique a igualdade de áreas.",
+        "gabarito": "Observar coberturas reais e conservação dos oito quadrados, sem afirmar igualdade apenas pela aparência do contorno.",
+        "bncc": [
+          "EF03MA21"
+        ],
+        "atividadeOrigem": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas#comparacao_de_areas.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        110,
+        121,
+        123,
+        124
+      ],
+      "paginasImpressas": "112, 113, 124, 126, 127",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        112
+      ],
+      "paginasImpressas": "115",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

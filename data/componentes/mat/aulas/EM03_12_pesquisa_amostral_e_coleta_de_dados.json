@@ -1,0 +1,108 @@
+{
+  "id": "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 12,
+  "unidade": "Estatística",
+  "titulo": "Pesquisa Amostral e Coleta de Dados",
+  "bncc": [
+    "EM13MAT202"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Execute pesquisa de tema social relevante com amostra planejada",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Defina desenho amostral compatível com a população-alvo e registre a execução, incluindo não respostas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Pesquisa Amostral e Coleta de Dados</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Defina desenho amostral compatível com a população-alvo e registre a execução, incluindo não respostas. Relatório deve comunicar gráficos, medidas centrais, amplitude e desvio padrão e discutir limites de inferência. Uma coleta por conveniência não vira probabilística por ser organizada em planilha.</p><h3>Exemplo resolvido</h3><p>Sortear participantes em estratos de turmas pode melhorar cobertura se as quantidades e a seleção forem planejadas. A análise precisa relatar como foi feito, não apenas nomear uma técnica.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Execute pesquisa de tema social relevante com amostra planejada. Registre dados anônimos, método e ausências; faça tabelas, gráficos e medidas de centro e dispersão e apresente relatório crítico.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "amostragem",
+      "coleta_de_dados"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pesquisa_amostral_e_coleta_de_dados.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O relatório deve incluir:",
+      "alternativas": [
+        "Método, dados, análises e limites",
+        "Só a conclusão desejada",
+        "Valores inventados para ausência"
+      ],
+      "correta": 0,
+      "explicacao": "Transparência permite avaliar a evidência."
+    },
+    {
+      "id": "pesquisa_amostral_e_coleta_de_dados.producao",
+      "tipo": "discursiva",
+      "enunciado": "Execute pesquisa de tema social relevante com amostra planejada. Registre dados anônimos, método e ausências; faça tabelas, gráficos e medidas de centro e dispersão e apresente relatório crítico.",
+      "gabarito": "Verificar realização, compatibilidade das variáveis, fórmulas e limites. Resultados dependem da coleta real.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Verificar realização, compatibilidade das variáveis, fórmulas e limites. Resultados dependem da coleta real.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "amostragem",
+    "coleta_de_dados"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao"
+  ],
+  "proximosPassos": [
+    "mat.em03.estatistica.histogramas_e_diagramas_de_caixa"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

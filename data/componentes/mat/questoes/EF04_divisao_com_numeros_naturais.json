@@ -1,0 +1,178 @@
+[
+  {
+    "id": "mat.ef04.divisao_com_numeros_naturais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Divisão com Números Naturais",
+    "aulaId": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao",
+    "bncc": [
+      "EF04MA07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual divisão está conferida corretamente?",
+    "opcoes": [
+      "367=15×23+22 com resto válido",
+      "367=15×24+15",
+      "367=15×24+7"
+    ],
+    "correta": 2,
+    "explicacao": "Só a primeira tem igualdade verdadeira e resto menor que quinze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.divisao_com_numeros_naturais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Divisão com Números Naturais",
+    "aulaId": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao",
+    "bncc": [
+      "EF04MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "593÷20 tem quociente e resto:",
+    "opcoes": [
+      "28 e 33",
+      "30 e 7",
+      "29 e 13"
+    ],
+    "correta": 2,
+    "explicacao": "20×29=580; sobram treze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.divisao_com_numeros_naturais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Divisão com Números Naturais",
+    "aulaId": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao",
+    "bncc": [
+      "EF04MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma coleção de 864 peças em grupos de 24 forma:",
+    "opcoes": [
+      "38 grupos",
+      "36 grupos",
+      "34 grupos"
+    ],
+    "correta": 1,
+    "explicacao": "24×36=864.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.divisao_com_numeros_naturais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Divisão com Números Naturais",
+    "aulaId": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao",
+    "bncc": [
+      "EF04MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em 449÷18, quociente e resto são:",
+    "opcoes": [
+      "24 e 17",
+      "25 e 1",
+      "23 e 35"
+    ],
+    "correta": 0,
+    "explicacao": "18×24=432; resto dezessete, menor que dezoito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "id": "mat.ef05.sistema_de_numeracao_decimal.prova",
+  "titulo": "Avaliação: Sistema de Numeração Decimal",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF05",
+  "unidade": "Sistema de Numeração Decimal",
+  "bncc": [
+    "EF05MA01"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef05.sistema_de_numeracao_decimal.prova.01",
+    "mat.ef05.sistema_de_numeracao_decimal.prova.02",
+    "mat.ef05.sistema_de_numeracao_decimal.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF05MA01",
+      "questoes": [
+        "mat.ef05.sistema_de_numeracao_decimal.prova.01",
+        "mat.ef05.sistema_de_numeracao_decimal.prova.02",
+        "mat.ef05.sistema_de_numeracao_decimal.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.sistema_de_numeracao_decimal.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes#numeros_ate_a_classe_dos_milhoes.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef05.sistema_de_numeracao_decimal.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Sistema de Numeração Decimal",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF05MA01"
+    ],
+    "atividadesOrigem": [
+      "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes#numeros_ate_a_classe_dos_milhoes.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Sistema Decimal até Centenas de Milhar",
+        "enunciado": "Leia, decomponha e ordene 603408,630408 e 630480. Marque posições aproximadas numa reta e explique os zeros.",
+        "gabarito": "Seiscentos e três mil quatrocentos e oito; seiscentos e trinta mil quatrocentos e oito; seiscentos e trinta mil quatrocentos e oitenta. Ordem conforme apresentada; conferir posições.",
+        "bncc": [
+          "EF05MA01"
+        ],
+        "atividadeOrigem": "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes#numeros_ate_a_classe_dos_milhoes.producao"
+      }
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13,
+        14
+      ],
+      "paginasImpressas": "16, 17",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

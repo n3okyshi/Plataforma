@@ -1,0 +1,148 @@
+[
+  {
+    "id": "mat.em03.geometria_analitica_complementar.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria Analítica — Complementar",
+    "aulaId": "mat.em03.geometria_analitica_complementar.reta_distancias_e_posicoes_relativas",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Distância de (0,0) a x=5 é:",
+    "opcoes": [
+      "0",
+      "−5",
+      "5"
+    ],
+    "correta": 2,
+    "explicacao": "A perpendicular horizontal tem comprimento cinco.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          370,
+          371,
+          374,
+          383,
+          387,
+          389,
+          366
+        ],
+        "paginasImpressas": "373, 374, 377, 386, 390, 392, 369",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.geometria_analitica_complementar.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria Analítica — Complementar",
+    "aulaId": "mat.em03.geometria_analitica_complementar.elipse_e_circunferencia",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para x²/16+y²/9=1, o semieixo maior é:",
+    "opcoes": [
+      "8",
+      "4",
+      "16"
+    ],
+    "correta": 1,
+    "explicacao": "A²=16, portanto a=4.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          391,
+          395
+        ],
+        "paginasImpressas": "394, 398",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.geometria_analitica_complementar.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria Analítica — Complementar",
+    "aulaId": "mat.em03.geometria_analitica_complementar.reta_distancias_e_posicoes_relativas",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Retas y=2x+1 e y=2x−3 são:",
+    "opcoes": [
+      "Perpendiculares",
+      "Coincidentes",
+      "Paralelas distintas"
+    ],
+    "correta": 2,
+    "explicacao": "Mesma inclinação e interceptos diferentes.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          370,
+          371,
+          374,
+          383,
+          387,
+          389,
+          366
+        ],
+        "paginasImpressas": "373, 374, 377, 386, 390, 392, 369",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.geometria_analitica_complementar.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria Analítica — Complementar",
+    "aulaId": "mat.em03.geometria_analitica_complementar.elipse_e_circunferencia",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Uma circunferência de raio três tem soma constante de distâncias aos focos coincidentes igual a:",
+    "opcoes": [
+      "9",
+      "6",
+      "3"
+    ],
+    "correta": 1,
+    "explicacao": "Dois raios somam seis.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          391,
+          395
+        ],
+        "paginasImpressas": "394, 398",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  }
+]

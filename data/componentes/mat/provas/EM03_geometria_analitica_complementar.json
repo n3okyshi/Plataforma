@@ -1,0 +1,81 @@
+{
+  "id": "mat.em03.geometria_analitica_complementar.prova",
+  "titulo": "Avaliação: Geometria Analítica — Complementar",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM03",
+  "unidade": "Geometria Analítica — Complementar",
+  "bncc": [],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": true,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em03.geometria_analitica_complementar.prova.01",
+    "mat.em03.geometria_analitica_complementar.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [],
+  "avaliacaoPratica": {
+    "id": "mat.em03.geometria_analitica_complementar.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Geometria Analítica — Complementar",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [],
+    "atividadesOrigem": [
+      "mat.em03.geometria_analitica_complementar.reta_distancias_e_posicoes_relativas#reta_distancias_e_posicoes_relativas.producao",
+      "mat.em03.geometria_analitica_complementar.elipse_e_circunferencia#elipse_e_circunferencia.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Reta distancias e posicoes relativas",
+        "enunciado": "Determine intersecção, paralelismo e distância em pares de retas, incluindo uma vertical. Compare cálculo algébrico com construção por perpendicular e interprete em um contexto geométrico. Determine o baricentro de um triângulo escolhido e confira construindo duas medianas.",
+        "gabarito": "Conferir denominador positivo, valor absoluto, condições de direção e equações originais; distâncias não podem ser negativas. Conferir a média das coordenadas e a intersecção das medianas.",
+        "bncc": [],
+        "atividadeOrigem": "mat.em03.geometria_analitica_complementar.reta_distancias_e_posicoes_relativas#reta_distancias_e_posicoes_relativas.producao"
+      },
+      {
+        "titulo": "Elipse e circunferencia",
+        "enunciado": "Construa uma elipse por fio ou software e relacione centro, eixos e focos com a equação. Compare com circunferência e teste três pontos nas expressões.",
+        "gabarito": "Conferir orientação do eixo maior, c²=16 e constante 2a, sem usar a como comprimento do eixo inteiro.",
+        "bncc": [],
+        "atividadeOrigem": "mat.em03.geometria_analitica_complementar.elipse_e_circunferencia#elipse_e_circunferencia.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        370,
+        371,
+        374,
+        383,
+        387,
+        389,
+        366
+      ],
+      "paginasImpressas": "373, 374, 377, 386, 390, 392, 369",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        391,
+        395
+      ],
+      "paginasImpressas": "394, 398",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 18,
+  "unidade": "Estatística e Probabilidade",
+  "titulo": "Pesquisa Amostral e Relatório",
+  "bncc": [
+    "EM13MAT202"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Planeje e execute pesquisa relevante para o grupo",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Pesquisa amostral liga pergunta, população, seleção e análise",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Pesquisa Amostral e Relatório</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Pesquisa amostral liga pergunta, população, seleção e análise. Explique vieses, recusas e dados ausentes. Relatório deve conter gráficos, média, mediana ou moda conforme a variável, amplitude e desvio padrão com convenção declarada. Amostra não é automaticamente representativa por ser grande.</p><h3>Exemplo resolvido</h3><p>Ouvir só estudantes que chegam cedo pode enviesar uma pesquisa de tempo de trajeto. Uma seleção planejada por turmas pode ampliar cobertura, mas exige execução e registro do método.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Planeje e execute pesquisa relevante para o grupo. Colete dados reais, registre seleção e limites, calcule medidas adequadas e produza relatório com tabela, gráficos, amplitude e desvio padrão.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "pesquisa_amostral",
+      "relatorio"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pesquisa_amostral_e_relatorio.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Aumentar uma amostra enviesada garante corrigir o viés?",
+      "alternativas": [
+        "Não",
+        "Sim",
+        "Só se dobrar"
+      ],
+      "correta": 0,
+      "explicacao": "Quantidade não remove automaticamente seleção inadequada."
+    },
+    {
+      "id": "pesquisa_amostral_e_relatorio.producao",
+      "tipo": "discursiva",
+      "enunciado": "Planeje e execute pesquisa relevante para o grupo. Colete dados reais, registre seleção e limites, calcule medidas adequadas e produza relatório com tabela, gráficos, amplitude e desvio padrão.",
+      "gabarito": "Avaliar coleta efetiva, anonimização, correspondência dos cálculos e interpretação da dispersão. Não aceitar resultados previstos como observados.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar coleta efetiva, anonimização, correspondência dos cálculos e interpretação da dispersão. Não aceitar resultados previstos como observados.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "pesquisa_amostral",
+    "relatorio"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

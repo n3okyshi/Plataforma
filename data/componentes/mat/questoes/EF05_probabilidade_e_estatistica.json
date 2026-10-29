@@ -1,0 +1,368 @@
+[
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo",
+    "bncc": [
+      "EF05MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Três camisetas e quatro bermudas permitem:",
+    "opcoes": [
+      "7 pares",
+      "24 pares",
+      "12 pares"
+    ],
+    "correta": 2,
+    "explicacao": "Cada camiseta tem quatro escolhas de bermuda.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.espaco_amostral",
+    "bncc": [
+      "EF05MA22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas cores numa sacola sempre têm chances iguais?",
+    "opcoes": [
+      "Só se o sorteio for sem olhar",
+      "Não",
+      "Sim"
+    ],
+    "correta": 1,
+    "explicacao": "Depende das quantidades e condições.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis",
+    "bncc": [
+      "EF05MA23"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No dado equilibrado, sair maior que quatro tem chance:",
+    "opcoes": [
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correta": 0,
+    "explicacao": "São duas faces favoráveis entre seis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos",
+    "bncc": [
+      "EF05MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No exemplo, o aumento do primeiro ao quarto mês é:",
+    "opcoes": [
+      "19",
+      "56",
+      "9"
+    ],
+    "correta": 2,
+    "explicacao": "19−10=9.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados",
+    "bncc": [
+      "EF05MA25"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma variável categórica é:",
+    "opcoes": [
+      "Quantidade de livros",
+      "Meio de transporte escolhido",
+      "Minutos de trajeto"
+    ],
+    "correta": 1,
+    "explicacao": "O valor é uma categoria.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo",
+    "bncc": [
+      "EF05MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Dois tamanhos e cinco cores geram:",
+    "opcoes": [
+      "7 combinações",
+      "5 combinações",
+      "10 combinações"
+    ],
+    "correta": 2,
+    "explicacao": "2×5=10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.espaco_amostral",
+    "bncc": [
+      "EF05MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um dado comum equilibrado tem quantos resultados de face possíveis?",
+    "opcoes": [
+      "12",
+      "6",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "Faces de um a seis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis",
+    "bncc": [
+      "EF05MA23"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Numa caixa com dez cartões igualmente sorteáveis, quatro marcados, a chance de marcado é:",
+    "opcoes": [
+      "4/10",
+      "4/6",
+      "6/4"
+    ],
+    "correta": 0,
+    "explicacao": "Quatro favoráveis sobre dez resultados equiprováveis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos",
+    "bncc": [
+      "EF05MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um gráfico de linhas com meses fora de ordem pode:",
+    "opcoes": [
+      "Provar uma causa",
+      "Dispensar a fonte",
+      "Distorcer a leitura temporal"
+    ],
+    "correta": 2,
+    "explicacao": "A sequência temporal deve ser respeitada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados",
+    "bncc": [
+      "EF05MA25"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O texto final deve explicar:",
+    "opcoes": [
+      "Apenas uma opinião anterior à coleta",
+      "Finalidade e síntese dos resultados",
+      "Só a cor do gráfico"
+    ],
+    "correta": 1,
+    "explicacao": "O relatório liga pergunta e dados observados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

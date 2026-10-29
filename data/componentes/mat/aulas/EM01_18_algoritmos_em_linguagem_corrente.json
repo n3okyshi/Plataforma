@@ -1,0 +1,106 @@
+{
+  "id": "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 18,
+  "unidade": "Tecnologia e Algoritmos",
+  "titulo": "Algoritmos em Linguagem Corrente",
+  "bncc": [
+    "EM13MAT315"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Descreva e desenhe o fluxograma da soma até n",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Um algoritmo define entradas, passos finitos e saídas para uma classe de problemas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Algoritmos em Linguagem Corrente</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Um algoritmo define entradas, passos finitos e saídas para uma classe de problemas. Investigue casos pequenos, escolha condições de parada e registre um fluxograma com decisões e repetições. Testar alguns casos não demonstra todos os aspectos, mas revela falhas concretas.</p><h3>Exemplo resolvido</h3><p>Para somar 1 até n: ler n natural, iniciar soma zero e contador um, repetir enquanto contador≤n, acumular e incrementar; informar soma. Para n=4, saída dez.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Descreva e desenhe o fluxograma da soma até n. Execute manualmente para n=0,1,5, registre estados e explique parada e domínio.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "algoritmos",
+      "logica"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "algoritmos_em_linguagem_corrente.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Ao somar 1 até 4, a saída é:",
+      "alternativas": [
+        "10",
+        "4",
+        "16"
+      ],
+      "correta": 0,
+      "explicacao": "1+2+3+4=10."
+    },
+    {
+      "id": "algoritmos_em_linguagem_corrente.producao",
+      "tipo": "discursiva",
+      "enunciado": "Descreva e desenhe o fluxograma da soma até n. Execute manualmente para n=0,1,5, registre estados e explique parada e domínio.",
+      "gabarito": "Saídas 0,1,15; contador cresce até sair da condição. O caso zero não entra no laço.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Saídas 0,1,15; contador cresce até sair da condição. O caso zero não entra no laço.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "algoritmos",
+    "logica"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

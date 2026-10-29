@@ -1,0 +1,143 @@
+{
+  "id": "mat.em03.educacao_financeira.prova",
+  "titulo": "Avaliação: Educação Financeira",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM03",
+  "unidade": "Educação Financeira",
+  "bncc": [
+    "EM13MAT104",
+    "EM13MAT203",
+    "EM13MAT303"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em03.educacao_financeira.prova.01",
+    "mat.em03.educacao_financeira.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT104",
+      "questoes": [
+        "mat.em03.educacao_financeira.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.educacao_financeira.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT203",
+      "questoes": [
+        "mat.em03.educacao_financeira.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.educacao_financeira.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT303",
+      "questoes": [
+        "mat.em03.educacao_financeira.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.educacao_financeira.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira#fundamentos_da_matematica_financeira.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em03.educacao_financeira.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Educação Financeira",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT104",
+      "EM13MAT203",
+      "EM13MAT303"
+    ],
+    "atividadesOrigem": [
+      "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira#fundamentos_da_matematica_financeira.producao",
+      "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Fundamentos da Matemática Financeira",
+        "enunciado": "Construa gráficos e planilha para comparar dois modelos hipotéticos de mesma taxa. Determine taxa equivalente de dois períodos e analise diferenças nominal e real com inflação fornecida.",
+        "gabarito": "Conferir períodos, bases e arredondamento. Retorno real por fatores: (1+retorno nominal)/(1+inflação)−1, dentro das hipóteses dadas.",
+        "bncc": [
+          "EM13MAT303"
+        ],
+        "atividadeOrigem": "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira#fundamentos_da_matematica_financeira.producao"
+      },
+      {
+        "titulo": "Planejamento e Gestão de Orçamento Pessoal",
+        "enunciado": "Crie planilha de orçamento fictício, compare previsto e realizado e simule mudanças de preços por categoria. Explique os pesos e uma proposta de ajuste com limites.",
+        "gabarito": "Avaliar fórmula, totais, categorias, cenários e argumentos; não recomendar investimento ou supor renda futura garantida.",
+        "bncc": [
+          "EM13MAT203",
+          "EM13MAT104"
+        ],
+        "atividadeOrigem": "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        296,
+        300,
+        302
+      ],
+      "paginasImpressas": "299, 303, 305",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        285,
+        302
+      ],
+      "paginasImpressas": "288, 305",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

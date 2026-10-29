@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mat.em03.binomio_de_newton_complementar.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Binômio de Newton — Complementar",
+    "aulaId": "mat.em03.binomio_de_newton_complementar.triangulo_de_pascal_e_binomio_de_newton",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O coeficiente de x² em (x+1)^4 é:",
+    "opcoes": [
+      "4",
+      "8",
+      "6"
+    ],
+    "correta": 2,
+    "explicacao": "C(4,2)=6.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          251,
+          254,
+          256,
+          257
+        ],
+        "paginasImpressas": "254, 257, 259, 260",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.binomio_de_newton_complementar.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Binômio de Newton — Complementar",
+    "aulaId": "mat.em03.binomio_de_newton_complementar.termo_geral_do_binomio",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Coeficiente de x em (x+2)^3 é:",
+    "opcoes": [
+      "8",
+      "12",
+      "6"
+    ],
+    "correta": 1,
+    "explicacao": "k=2: C(3,2)×2²=12.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          257,
+          259
+        ],
+        "paginasImpressas": "260, 262",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.binomio_de_newton_complementar.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Binômio de Newton — Complementar",
+    "aulaId": "mat.em03.binomio_de_newton_complementar.triangulo_de_pascal_e_binomio_de_newton",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A soma dos coeficientes de (a+b)^5 é:",
+    "opcoes": [
+      "10",
+      "25",
+      "32"
+    ],
+    "correta": 2,
+    "explicacao": "Substituir a=b=1 dá 2^5.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          251,
+          254,
+          256,
+          257
+        ],
+        "paginasImpressas": "254, 257, 259, 260",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.binomio_de_newton_complementar.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Binômio de Newton — Complementar",
+    "aulaId": "mat.em03.binomio_de_newton_complementar.termo_geral_do_binomio",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O termo inicial do binômio corresponde a:",
+    "opcoes": [
+      "k=n+1",
+      "k=0",
+      "k=1"
+    ],
+    "correta": 1,
+    "explicacao": "A primeira escolha usa zero fatores b.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          257,
+          259
+        ],
+        "paginasImpressas": "260, 262",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  }
+]

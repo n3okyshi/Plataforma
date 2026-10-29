@@ -1,0 +1,105 @@
+{
+  "id": "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 25,
+  "unidade": "Complexos e Polinômios — Complementar",
+  "titulo": "Raizes multiplicidade e relacoes de girard",
+  "bncc": [],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Expanda esse produto e confira soma e produto das raízes com multiplicidade",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "P(a)=0 equivale a x−a ser fator de P",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Raizes multiplicidade e relacoes de girard</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>P(a)=0 equivale a x−a ser fator de P. A multiplicidade conta quantas vezes o fator aparece. Todo polinômio complexo não constante de grau n tem n raízes contadas com multiplicidade. Coeficientes reais fazem raízes não reais surgirem em pares conjugados. Relações de Girard ligam coeficientes a somas e produtos de raízes.</p><h3>Exemplo resolvido</h3><p>(x−2)²(x+1) tem raízes dois de multiplicidade dois e menos um simples; o grau é três, mas há apenas duas raízes distintas.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Expanda esse produto e confira soma e produto das raízes com multiplicidade. Investigue x²+1 nos reais e complexos e explique a condição de conjugação.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 348, 349, 351, 352, 355</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "raizes_multiplicidade_e_relacoes_de_girard.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um polinômio de grau três pode ter só uma raiz distinta?",
+      "alternativas": [
+        "Não",
+        "Só se for constante",
+        "Sim, com multiplicidade três"
+      ],
+      "correta": 2,
+      "explicacao": "(x−a)³ é um exemplo."
+    },
+    {
+      "id": "raizes_multiplicidade_e_relacoes_de_girard.producao",
+      "tipo": "discursiva",
+      "enunciado": "Expanda esse produto e confira soma e produto das raízes com multiplicidade. Investigue x²+1 nos reais e complexos e explique a condição de conjugação.",
+      "gabarito": "Expansão x³−3x²+4; soma 2+2−1=3 e produto −4. x²+1 tem raízes ±i e nenhuma real.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Expansão x³−3x²+4; soma 2+2−1=3 e produto −4. x²+1 tem raízes ±i e nenhuma real.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        345,
+        346,
+        348,
+        349,
+        352
+      ],
+      "paginasImpressas": "348, 349, 351, 352, 355",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [
+    "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao"
+  ],
+  "proximosPassos": [
+    "mat.em03.complexos_e_polinomios_complementar.equacoes_polinomiais_e_fatoracao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
+}

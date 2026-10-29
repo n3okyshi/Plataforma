@@ -1,0 +1,184 @@
+[
+  {
+    "id": "mat.em01.funcao_exponencial.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Exponencial",
+    "aulaId": "mat.em01.funcao_exponencial.potenciacao_e_radiciacao",
+    "bncc": [
+      "EM13MAT304"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Quanto é 27^(2/3)?",
+    "opcoes": [
+      "18",
+      "6",
+      "9"
+    ],
+    "correta": 2,
+    "explicacao": "Raiz cúbica três elevada ao quadrado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          65,
+          66
+        ],
+        "paginasImpressas": "68, 69",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_exponencial.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Exponencial",
+    "aulaId": "mat.em01.funcao_exponencial.a_funcao_exponencial",
+    "bncc": [
+      "EM13MAT304",
+      "EM13MAT403"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "No modelo 200×1,1^t, após dois períodos há:",
+    "opcoes": [
+      "220",
+      "242",
+      "240"
+    ],
+    "correta": 1,
+    "explicacao": "200×1,21=242.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          65,
+          66,
+          69,
+          73
+        ],
+        "paginasImpressas": "68, 69, 72, 76",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_exponencial.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Exponencial",
+    "aulaId": "mat.em01.funcao_exponencial.potenciacao_e_radiciacao",
+    "bncc": [
+      "EM13MAT304"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "2^(−4) vale:",
+    "opcoes": [
+      "−16",
+      "−8",
+      "1/16"
+    ],
+    "correta": 2,
+    "explicacao": "Expoente negativo produz recíproco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          65,
+          66
+        ],
+        "paginasImpressas": "68, 69",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_exponencial.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Exponencial",
+    "aulaId": "mat.em01.funcao_exponencial.a_funcao_exponencial",
+    "bncc": [
+      "EM13MAT304",
+      "EM13MAT403"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para 0,5^x, o gráfico é:",
+    "opcoes": [
+      "Uma reta",
+      "Decrescente e positivo",
+      "Crescente e negativo"
+    ],
+    "correta": 1,
+    "explicacao": "A base entre zero e um produz decrescimento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          65,
+          66,
+          69,
+          73
+        ],
+        "paginasImpressas": "68, 69, 72, 76",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

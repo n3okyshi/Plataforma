@@ -1,0 +1,215 @@
+{
+  "id": "mat.em03.estatistica.prova",
+  "titulo": "Avaliação: Estatística",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM03",
+  "unidade": "Estatística",
+  "bncc": [
+    "EM13MAT102",
+    "EM13MAT202",
+    "EM13MAT316",
+    "EM13MAT406",
+    "EM13MAT407",
+    "EM13MAT510"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 5 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em03.estatistica.prova.01",
+    "mat.em03.estatistica.prova.02",
+    "mat.em03.estatistica.prova.03",
+    "mat.em03.estatistica.prova.04",
+    "mat.em03.estatistica.prova.05"
+  ],
+  "criterios": "Cada item objetivo vale 10/5 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT102",
+      "questoes": [
+        "mat.em03.estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT202",
+      "questoes": [
+        "mat.em03.estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados#pesquisa_amostral_e_coleta_de_dados.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT316",
+      "questoes": [
+        "mat.em03.estatistica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao#medidas_de_tendencia_central_e_medidas_de_dispersao.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT406",
+      "questoes": [
+        "mat.em03.estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT407",
+      "questoes": [
+        "mat.em03.estatistica.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.estatistica.histogramas_e_diagramas_de_caixa#histogramas_e_diagramas_de_caixa.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT510",
+      "questoes": [
+        "mat.em03.estatistica.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.estatistica.correlacao_e_reta_de_ajuste#correlacao_e_reta_de_ajuste.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em03.estatistica.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Estatística",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT102",
+      "EM13MAT202",
+      "EM13MAT316",
+      "EM13MAT406",
+      "EM13MAT407",
+      "EM13MAT510"
+    ],
+    "atividadesOrigem": [
+      "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao",
+      "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao#medidas_de_tendencia_central_e_medidas_de_dispersao.producao",
+      "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados#pesquisa_amostral_e_coleta_de_dados.producao",
+      "mat.em03.estatistica.histogramas_e_diagramas_de_caixa#histogramas_e_diagramas_de_caixa.producao",
+      "mat.em03.estatistica.correlacao_e_reta_de_ajuste#correlacao_e_reta_de_ajuste.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Introdução à Estatística",
+        "enunciado": "Analise um relatório de fonte identificada, reconstitua tabela de frequências e um gráfico e escreva crítica da amostra, escala e denominadores, distinguindo descrição e causalidade.",
+        "gabarito": "Conferir fonte, período, população e valores. A crítica deve apontar efeito verificável sem presumir intenção.",
+        "bncc": [
+          "EM13MAT102",
+          "EM13MAT406"
+        ],
+        "atividadeOrigem": "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao"
+      },
+      {
+        "titulo": "Medidas de Tendência Central e Medidas de Dispersão",
+        "enunciado": "Compare dados reais de dois grupos por média, mediana, moda, amplitude, variância e desvio padrão. Use planilha para conferir e explique qual resumo responde à pergunta.",
+        "gabarito": "Avaliar cálculo, divisor declarado, unidades e extremos; não concluir igualdade de distribuições só pela média.",
+        "bncc": [
+          "EM13MAT316"
+        ],
+        "atividadeOrigem": "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao#medidas_de_tendencia_central_e_medidas_de_dispersao.producao"
+      },
+      {
+        "titulo": "Pesquisa Amostral e Coleta de Dados",
+        "enunciado": "Execute pesquisa de tema social relevante com amostra planejada. Registre dados anônimos, método e ausências; faça tabelas, gráficos e medidas de centro e dispersão e apresente relatório crítico.",
+        "gabarito": "Verificar realização, compatibilidade das variáveis, fórmulas e limites. Resultados dependem da coleta real.",
+        "bncc": [
+          "EM13MAT202"
+        ],
+        "atividadeOrigem": "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados#pesquisa_amostral_e_coleta_de_dados.producao"
+      },
+      {
+        "titulo": "Histogramas e Diagramas de Caixa",
+        "enunciado": "Represente duas séries por três tipos de gráfico e escolha o mais adequado para comparar concentração, centro e extremos. Justifique classes e quartis e discuta perdas.",
+        "gabarito": "Conferir dados completos, soma das frequências, unidades e regras de outliers quando usadas; não tratar marca de outlier como prova de erro de registro.",
+        "bncc": [
+          "EM13MAT407"
+        ],
+        "atividadeOrigem": "mat.em03.estatistica.histogramas_e_diagramas_de_caixa#histogramas_e_diagramas_de_caixa.producao"
+      },
+      {
+        "titulo": "Correlação e Reta de Ajuste",
+        "enunciado": "Investigue duas variáveis numéricas de fonte identificada ou coleta real. Faça dispersão, ajuste reta quando adequado, registre resíduos e uma previsão acompanhada de limites.",
+        "gabarito": "Avaliar origem, cálculo, relação não necessariamente causal e adequação da reta; aceitar rejeitar modelo linear.",
+        "bncc": [
+          "EM13MAT510"
+        ],
+        "atividadeOrigem": "mat.em03.estatistica.correlacao_e_reta_de_ajuste#correlacao_e_reta_de_ajuste.producao"
+      }
+    ],
+    "duracaoMinSugerida": 150,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        277
+      ],
+      "paginasImpressas": "280",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        279
+      ],
+      "paginasImpressas": "282",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "nivel": "EF05",
+  "motivo": "Consolidação didática do planejamento, com preservação dos IDs do percurso anterior. Destinos de estudo podem abranger mais de uma aula.",
+  "integracoes": [
+    {
+      "idAnterior": "mat.ef05.sistema_de_numeracao_decimal.leitura_e_escrita_ate_milhoes",
+      "tituloAnterior": "Leitura e Escrita até os Milhões",
+      "destinos": [
+        "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.sistema_de_numeracao_decimal.ordem_e_comparacao",
+      "tituloAnterior": "Ordem e Comparação de Números Grandes",
+      "destinos": [
+        "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.decimais.porcentagens_simples",
+      "tituloAnterior": "Porcentagens Simples",
+      "destinos": [
+        "mat.ef05.decimais.numeros_decimais_e_porcentagem",
+        "mat.ef05.decimais.decimais_na_reta_numerica"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.decimais.comparacao_de_decimais",
+      "tituloAnterior": "Comparação de Decimais",
+      "destinos": [
+        "mat.ef05.decimais.numeros_decimais_e_porcentagem",
+        "mat.ef05.decimais.decimais_na_reta_numerica"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.fracoes.fracoes_equivalentes",
+      "tituloAnterior": "Frações Equivalentes",
+      "destinos": [
+        "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia",
+        "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.fracoes.fracoes_maiores_que_a_unidade",
+      "tituloAnterior": "Frações Maiores que a Unidade",
+      "destinos": [
+        "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia",
+        "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.expressoes_numericas",
+      "tituloAnterior": "Expressões Numéricas",
+      "destinos": [
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas",
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.problemas_de_multiplicacao_e_divisao",
+      "tituloAnterior": "Problemas de Multiplicação e Divisão",
+      "destinos": [
+        "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.multiplicacao_de_decimais",
+      "tituloAnterior": "Multiplicação de Decimais",
+      "destinos": [
+        "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.geometria.coordenadas_no_primeiro_quadrante",
+      "tituloAnterior": "Coordenadas no Primeiro Quadrante",
+      "destinos": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos",
+        "mat.ef05.geometria.poligonos_e_seus_elementos"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.geometria.planificacoes_de_solidos",
+      "tituloAnterior": "Planificações de Sólidos",
+      "destinos": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos",
+        "mat.ef05.geometria.poligonos_e_seus_elementos"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.mais_geometria.ampliacao_e_reducao",
+      "tituloAnterior": "Ampliação e Redução em Malhas",
+      "destinos": [
+        "mat.ef05.mais_geometria.poligonos_e_ampliacao"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.mais_geometria.congruencia_de_angulos",
+      "tituloAnterior": "Congruência de Ângulos",
+      "destinos": [
+        "mat.ef05.mais_geometria.poligonos_e_ampliacao"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.grandezas_e_medidas.medidas_de_volume",
+      "tituloAnterior": "Medidas de Volume",
+      "destinos": [
+        "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas",
+        "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.grandezas_e_medidas.conversoes_de_unidades",
+      "tituloAnterior": "Conversões de Unidades",
+      "destinos": [
+        "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas",
+        "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.propriedades_da_igualdade.equivalencia_e_balancas",
+      "tituloAnterior": "Equivalência e Balanças",
+      "destinos": [
+        "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade",
+        "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.ef05.proporcionalidade.problemas_de_proporcionalidade",
+      "tituloAnterior": "Problemas de Proporcionalidade",
+      "destinos": [
+        "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais",
+        "mat.ef05.proporcionalidade.partilha_em_partes_desiguais"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    }
+  ]
+}

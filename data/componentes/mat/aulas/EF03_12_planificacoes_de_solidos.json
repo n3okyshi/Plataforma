@@ -1,0 +1,116 @@
+{
+  "id": "mat.ef03.geometria.planificacoes_de_solidos",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 12,
+  "unidade": "Geometria",
+  "titulo": "Planificações de Sólidos",
+  "bncc": [
+    "EF03MA14"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Monte uma rede de cubo; abra uma embalagem em forma de prisma",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Planificar representa no plano as partes da superfície que podem formar um sólido por dobradura",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Planificações de Sólidos</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Planificar representa no plano as partes da superfície que podem formar um sólido por dobradura. Prismas têm duas bases correspondentes e faces laterais; pirâmides têm uma base e laterais triangulares. Cilindros podem ser representados por dois círculos e um retângulo; cones por círculo e setor circular.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Rede de cubo com quatro quadrados em fila e um acima e um abaixo do segundo.\"><title>Rede de cubo com quatro quadrados em fila e um acima e um abaixo do segundo.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><rect x=\"100\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"145\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"190\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"235\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"145\" y=\"50\" width=\"45\" height=\"45\"/><rect x=\"145\" y=\"140\" width=\"45\" height=\"45\"/></g></svg><h3>Exemplo resolvido</h3><p>Na rede ilustrada, seis quadrados iguais podem fechar um cubo, que é um prisma. A disposição importa: seis quadrados ligados de qualquer modo nem sempre fecham.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Monte uma rede de cubo; abra uma embalagem em forma de prisma. Desenhe redes para uma pirâmide, cilindro e cone, relacionando cada parte ao sólido, e teste modelos de papel com ajuda.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 287</li><li>MC_MATEM_EF.pdf — páginas impressas 328</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "figuras_espaciais",
+      "planificacao"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "planificacoes_de_solidos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A representação da superfície de um cilindro inclui:",
+      "alternativas": [
+        "Dois círculos e um retângulo",
+        "Seis quadrados",
+        "Um único triângulo"
+      ],
+      "correta": 0,
+      "explicacao": "Os círculos são as bases e o retângulo representa a lateral aberta."
+    },
+    {
+      "id": "planificacoes_de_solidos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Monte uma rede de cubo; abra uma embalagem em forma de prisma. Desenhe redes para uma pirâmide, cilindro e cone, relacionando cada parte ao sólido, e teste modelos de papel com ajuda.",
+      "gabarito": "Observar bases, faces laterais e partes curvas. Pirâmide quadrangular: quadrado e quatro triângulos; cilindro: dois círculos e retângulo; cone: círculo e setor ajustados para fechar. Registrar correções após o teste.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Observar bases, faces laterais e partes curvas. Pirâmide quadrangular: quadrado e quatro triângulos; cilindro: dois círculos e retângulo; cone: círculo e setor ajustados para fechar. Registrar correções após o teste.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_espaciais",
+    "planificacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.geometria.congruencia_e_malhas"
+  ],
+  "proximosPassos": [
+    "mat.ef03.geometria.figuras_planas_e_seus_lados"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

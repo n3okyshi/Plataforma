@@ -2,36 +2,114 @@
   "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares",
   "componente": "mat",
   "nivel": "EM02",
-  "ordem": 12,
+  "ordem": 14,
   "unidade": "Matrizes, Determinantes e Sistemas Lineares",
   "titulo": "Sistemas Lineares",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT301"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Elabore problema de mistura ou preços com duas equações",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Equações lineares simultâneas exigem valores que satisfaçam todas as condições",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sistemas Lineares</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolução e discussão de sistemas (SPD, SPI, SI).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛠️ Escalonamento:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A técnica mais poderosa (muito usada em computação) para resolver sistemas, eliminando variáveis passo a passo.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Sistemas Lineares</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Equações lineares simultâneas exigem valores que satisfaçam todas as condições. Substituição, eliminação e métodos gráficos são complementares. Retas coincidentes, paralelas distintas ou concorrentes correspondem a infinitas, nenhuma ou uma solução. Não divida por parâmetro sem analisar quando ele é zero. Em sistema quadrado de determinante não nulo, a regra de Cramer usa quocientes dos determinantes com a coluna correspondente substituída. Determinante zero exige analisar consistência; não implica automaticamente impossibilidade.</p><h3>Exemplo resolvido</h3><p>x+y=9 e 2x−y=3 somam 3x=12; x=4,y=5. O par é a intersecção das duas retas.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Elabore problema de mistura ou preços com duas equações. Resolva por eliminação, substituição e gráfico, depois escreva AX=B e discuta um sistema impossível. Compare também a resolução de um sistema 2×2 de solução única pela regra de Cramer.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li><li>MC_MATEM_EM.pdf — páginas impressas 218, 223, 227, 225</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "sistemas_lineares",
+      "equacoes_lineares"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
+  "atividades": [
+    {
+      "id": "sistemas_lineares.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "x+y=8 e x−y=2 têm solução:",
+      "alternativas": [
+        "(4,4)",
+        "(5,3)",
+        "(3,5)"
+      ],
+      "correta": 1,
+      "explicacao": "Somando, 2x=10."
+    },
+    {
+      "id": "sistemas_lineares.producao",
+      "tipo": "discursiva",
+      "enunciado": "Elabore problema de mistura ou preços com duas equações. Resolva por eliminação, substituição e gráfico, depois escreva AX=B e discuta um sistema impossível. Compare também a resolução de um sistema 2×2 de solução única pela regra de Cramer.",
+      "gabarito": "Avaliar modelagem, par nas duas equações e interpretação do domínio; determinante é ferramenta possível, não substitui o significado.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar modelagem, par nas duas equações e interpretação do domínio; determinante é ferramenta possível, não substitui o significado.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sistemas_lineares",
+    "equacoes_lineares"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        215,
+        220,
+        224,
+        222
+      ],
+      "paginasImpressas": "218, 223, 227, 225",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
   "preRequisitos": [],
   "proximosPassos": [],
-  "fontes": [],
-  "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

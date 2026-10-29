@@ -1,0 +1,106 @@
+{
+  "id": "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 24,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Pesquisa com Variáveis Categóricas",
+  "bncc": [
+    "EF03MA28"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Planeje e execute pesquisa de cinco a cinquenta participantes com uma ou duas variáveis categóricas",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Pesquise uma questão de interesse com variáveis categóricas num universo de até cinquenta elementos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Pesquisa com Variáveis Categóricas</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Pesquise uma questão de interesse com variáveis categóricas num universo de até cinquenta elementos. Registre respostas sem nomes, organize listas e tabelas simples ou de dupla entrada e represente em colunas. Diferencie dados reais de exemplos e deixe claros participantes e pergunta.</p><h3>Exemplo resolvido</h3><p>Uma pesquisa pode relacionar brincadeira escolhida e período de estudo. Cada participante fornece uma categoria por pergunta; contar duas respostas da mesma pessoa não cria dois participantes.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Planeje e execute pesquisa de cinco a cinquenta participantes com uma ou duas variáveis categóricas. Produza lista anônima, tabela, gráfico e uma conclusão com limites do grupo consultado.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 289</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "pesquisa",
+      "coleta_de_dados"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pesquisa_com_variaveis_categoricas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O que deve preencher uma pesquisa realizada?",
+      "alternativas": [
+        "Respostas efetivamente coletadas",
+        "Números inventados",
+        "Somente o resultado preferido"
+      ],
+      "correta": 0,
+      "explicacao": "O registro precisa corresponder à coleta."
+    },
+    {
+      "id": "pesquisa_com_variaveis_categoricas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Planeje e execute pesquisa de cinco a cinquenta participantes com uma ou duas variáveis categóricas. Produza lista anônima, tabela, gráfico e uma conclusão com limites do grupo consultado.",
+      "gabarito": "Verificar coleta real, categorias, universo até cinquenta e correspondência entre lista, tabela e gráfico. O resultado não é previamente fixado.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Verificar coleta real, categorias, universo até cinquenta e correspondência entre lista, tabela e gráfico. O resultado não é previamente fixado.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "pesquisa",
+    "coleta_de_dados"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

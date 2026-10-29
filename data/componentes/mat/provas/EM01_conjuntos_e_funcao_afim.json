@@ -1,0 +1,195 @@
+{
+  "id": "mat.em01.conjuntos_e_funcao_afim.prova",
+  "titulo": "Avaliação: Conjuntos e Função Afim",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM01",
+  "unidade": "Conjuntos e Função Afim",
+  "bncc": [
+    "EM13MAT101",
+    "EM13MAT302",
+    "EM13MAT401",
+    "EM13MAT404",
+    "EM13MAT501"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em01.conjuntos_e_funcao_afim.prova.01",
+    "mat.em01.conjuntos_e_funcao_afim.prova.02",
+    "mat.em01.conjuntos_e_funcao_afim.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT101",
+      "questoes": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT302",
+      "questoes": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT401",
+      "questoes": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.01",
+        "mat.em01.conjuntos_e_funcao_afim.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT404",
+      "questoes": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca#funcoes_definidas_por_mais_de_uma_sentenca.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT501",
+      "questoes": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em01.conjuntos_e_funcao_afim.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Conjuntos e Função Afim",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT101",
+      "EM13MAT302",
+      "EM13MAT401",
+      "EM13MAT404",
+      "EM13MAT501"
+    ],
+    "atividadesOrigem": [
+      "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao",
+      "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao",
+      "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca#funcoes_definidas_por_mais_de_uma_sentenca.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "A Ideia de Função",
+        "enunciado": "Modele um custo fictício com taxa fixa e preço por item. Faça tabela, gráfico, domínio e interpretação de duas saídas. Compare com custo sem taxa fixa.",
+        "gabarito": "Conferir unicidade, unidades, pontos discretos quando contagem, intercepto e razão constante apenas no caso sem taxa.",
+        "bncc": [
+          "EM13MAT302",
+          "EM13MAT401"
+        ],
+        "atividadeOrigem": "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao"
+      },
+      {
+        "titulo": "A Função Afim",
+        "enunciado": "Investigue uma tabela de variação linear, construa a regra e o gráfico. Compare uma taxa positiva, negativa e um modelo proporcional. Interprete criticamente um gráfico econômico ou científico com fonte identificada. Resolva ainda 3x+5≤20 e represente o conjunto solução na reta.",
+        "gabarito": "Avaliar hipóteses, eixos, unidades, interceptos, taxas e limites da extrapolação; poucos pontos não provam linearidade universal. A desigualdade dá x≤5 no domínio real.",
+        "bncc": [
+          "EM13MAT101",
+          "EM13MAT401",
+          "EM13MAT501"
+        ],
+        "atividadeOrigem": "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+      },
+      {
+        "titulo": "Funções Definidas por Mais de uma Sentença",
+        "enunciado": "Crie tarifa hipotética por dois trechos, construa tabela e gráfico, determine domínio e imagem e descreva crescimento e comportamento na fronteira.",
+        "gabarito": "Conferir valores nas condições, unicidade e extremos; imagem depende dos intervalos e do domínio declarado.",
+        "bncc": [
+          "EM13MAT404"
+        ],
+        "atividadeOrigem": "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca#funcoes_definidas_por_mais_de_uma_sentenca.producao"
+      }
+    ],
+    "duracaoMinSugerida": 90,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        8,
+        9,
+        11
+      ],
+      "paginasImpressas": "11, 12, 14",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        11,
+        14,
+        17
+      ],
+      "paginasImpressas": "14, 17, 20",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        8
+      ],
+      "paginasImpressas": "11",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

@@ -2,36 +2,111 @@
   "id": "mat.ef05.mais_geometria.poligonos_e_ampliacao",
   "componente": "mat",
   "nivel": "EF05",
-  "ordem": 5,
+  "ordem": 11,
   "unidade": "Mais Geometria",
   "titulo": "Polígonos e Ampliação",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF05MA18"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Desenhe um polígono em malha, amplie por dois e reduza uma cópia pelo fator metade",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Ampliar ou reduzir mantendo a forma exige multiplicar todos os comprimentos correspondentes pelo mesmo fator",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Ampliação e Redução</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Usando malhas quadriculadas para mudar o tamanho das figuras sem deformá-las.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔍 Proporção:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Se dobrarmos o tamanho do lado, a figura fica maior, mas o formato continua igualzinho.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Polígonos e Ampliação</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Ampliar ou reduzir mantendo a forma exige multiplicar todos os comprimentos correspondentes pelo mesmo fator. Os ângulos permanecem congruentes. Numa malha, conte deslocamentos e confira a correspondência; alterar só a largura deforma a figura.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.\"><title>Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.</title><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 35V215\"/><path d=\"M105 35V215\"/><path d=\"M150 35V215\"/><path d=\"M195 35V215\"/><path d=\"M240 35V215\"/><path d=\"M285 35V215\"/><path d=\"M330 35V215\"/><path d=\"M60 35H330\"/><path d=\"M60 80H330\"/><path d=\"M60 125H330\"/><path d=\"M60 170H330\"/><path d=\"M60 215H330\"/></g></svg><h3>Exemplo resolvido</h3><p>Um retângulo 3×2 ampliado pelo fator três vira 9×6. Os ângulos continuam retos e as razões 9/3 e 6/2 coincidem.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Desenhe um polígono em malha, amplie por dois e reduza uma cópia pelo fator metade. Compare ângulos e razões entre lados, com sobreposição ou software.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 297</li><li>MC_MATEM_EF.pdf — páginas impressas 347</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "poligonos",
+      "ampliacao"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
+  "atividades": [
+    {
+      "id": "poligonos_e_ampliacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um lado de 5 cm ampliado por três mede:",
+      "alternativas": [
+        "25 cm",
+        "15 cm",
+        "8 cm"
+      ],
+      "correta": 1,
+      "explicacao": "5×3=15."
+    },
+    {
+      "id": "poligonos_e_ampliacao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe um polígono em malha, amplie por dois e reduza uma cópia pelo fator metade. Compare ângulos e razões entre lados, com sobreposição ou software.",
+      "gabarito": "Todos os comprimentos precisam seguir o fator e os ângulos conservar a abertura. Avaliar também a explicação da proporcionalidade.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Todos os comprimentos precisam seguir o fator e os ângulos conservar a abertura. Avaliar também a explicação da proporcionalidade.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "poligonos",
+    "ampliacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        299
+      ],
+      "paginasImpressas": "297",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344
+      ],
+      "paginasImpressas": "347",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
   "preRequisitos": [],
   "proximosPassos": [],
-  "fontes": [],
-  "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

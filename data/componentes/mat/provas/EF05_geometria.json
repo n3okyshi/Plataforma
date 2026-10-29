@@ -1,0 +1,148 @@
+{
+  "id": "mat.ef05.geometria.prova",
+  "titulo": "Avaliação: Geometria",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF05",
+  "unidade": "Geometria",
+  "bncc": [
+    "EF05MA14",
+    "EF05MA15",
+    "EF05MA16",
+    "EF05MA17"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef05.geometria.prova.01",
+    "mat.ef05.geometria.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF05MA14",
+      "questoes": [
+        "mat.ef05.geometria.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao"
+      ]
+    },
+    {
+      "bncc": "EF05MA15",
+      "questoes": [
+        "mat.ef05.geometria.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao"
+      ]
+    },
+    {
+      "bncc": "EF05MA16",
+      "questoes": [
+        "mat.ef05.geometria.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao"
+      ]
+    },
+    {
+      "bncc": "EF05MA17",
+      "questoes": [
+        "mat.ef05.geometria.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.geometria.poligonos_e_seus_elementos#poligonos_e_seus_elementos.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef05.geometria.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Geometria",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF05MA14",
+      "EF05MA15",
+      "EF05MA16",
+      "EF05MA17"
+    ],
+    "atividadesOrigem": [
+      "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao",
+      "mat.ef05.geometria.poligonos_e_seus_elementos#poligonos_e_seus_elementos.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Plano Cartesiano e Sólidos",
+        "enunciado": "Faça um mapa por células e represente um percurso no primeiro quadrante, com coordenadas, giro e retorno. Depois relacione redes de prisma, pirâmide, cilindro e cone aos modelos, comparando partes.",
+        "gabarito": "Conferir ordem dos pares, orientação e sentido. Nas redes: duas bases no prisma e cilindro; uma base e laterais triangulares na pirâmide; círculo e setor no cone. Registrar testes de fechamento.",
+        "bncc": [
+          "EF05MA14",
+          "EF05MA15",
+          "EF05MA16"
+        ],
+        "atividadeOrigem": "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao"
+      },
+      {
+        "titulo": "Polígonos e seus Elementos",
+        "enunciado": "Desenhe triângulos, quadriláteros, pentágonos e hexágonos em posições variadas. Compare características e construa dois polígonos com o mesmo número de lados e formas diferentes.",
+        "gabarito": "Conferir fechamento, ausência de lados curvos, contagem de lados/vértices e distinção entre regular e qualquer polígono.",
+        "bncc": [
+          "EF05MA17"
+        ],
+        "atividadeOrigem": "mat.ef05.geometria.poligonos_e_seus_elementos#poligonos_e_seus_elementos.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        299
+      ],
+      "paginasImpressas": "297",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        325
+      ],
+      "paginasImpressas": "300, 328",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344
+      ],
+      "paginasImpressas": "347",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

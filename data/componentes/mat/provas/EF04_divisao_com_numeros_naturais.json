@@ -1,0 +1,89 @@
+{
+  "id": "mat.ef04.divisao_com_numeros_naturais.prova",
+  "titulo": "Avaliação: Divisão com Números Naturais",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF04",
+  "unidade": "Divisão com Números Naturais",
+  "bncc": [
+    "EF04MA07"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef04.divisao_com_numeros_naturais.prova.01",
+    "mat.ef04.divisao_com_numeros_naturais.prova.02",
+    "mat.ef04.divisao_com_numeros_naturais.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF04MA07",
+      "questoes": [
+        "mat.ef04.divisao_com_numeros_naturais.prova.01",
+        "mat.ef04.divisao_com_numeros_naturais.prova.02",
+        "mat.ef04.divisao_com_numeros_naturais.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.divisao_com_numeros_naturais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao#algoritmo_da_divisao.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef04.divisao_com_numeros_naturais.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Divisão com Números Naturais",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF04MA07"
+    ],
+    "atividadesOrigem": [
+      "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao#algoritmo_da_divisao.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Algoritmo da Divisão",
+        "enunciado": "Resolva 756÷18 por estimativa, retiradas de múltiplos e conta escrita. Crie histórias nos significados de repartir e formar grupos, interpretando o resultado.",
+        "gabarito": "Quarenta e dois, resto zero: 18×42=756. Distinguir quantidade por destinatário e número de grupos.",
+        "bncc": [
+          "EF04MA07"
+        ],
+        "atividadeOrigem": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao#algoritmo_da_divisao.producao"
+      }
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        293
+      ],
+      "paginasImpressas": "291",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        36,
+        37
+      ],
+      "paginasImpressas": "39, 40",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

@@ -2,36 +2,121 @@
   "id": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
   "componente": "mat",
   "nivel": "EM03",
-  "ordem": 6,
+  "ordem": 2,
   "unidade": "Análise Combinatória e Probabilidade",
   "titulo": "Probabilidade",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT311",
+    "EM13MAT312",
+    "EM13MAT511"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Liste espaços discretos equiprováveis e não equiprováveis",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Probabilidade depende do espaço amostral e de seus pesos",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Probabilidade Condicional</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de chances em cenários complexos. Probabilidade da união, intersecção e a Distribuição Binomial.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎲 Dado que...</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Na probabilidade condicional, o nosso \"universo\" (espaço amostral) diminui baseada em uma informação prévia.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Probabilidade</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Probabilidade depende do espaço amostral e de seus pesos. Casos favoráveis sobre total vale para resultados equiprováveis. Em etapas sucessivas, use probabilidades condicionais; independência não pode ser presumida. Espaços contínuos não são tratados contando pontos individuais como se tivessem peso uniforme positivo.</p><h3>Exemplo resolvido</h3><p>Com três vermelhas e duas azuis, duas vermelhas sem reposição têm chance (3/5)(2/4)=3/10. Com reposição, 9/25. O segundo sorteio muda de condição.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Liste espaços discretos equiprováveis e não equiprováveis. Compare com ponto uniforme no intervalo [0,1], calcule chance de cair em [0,1/4] e resolva um experimento de duas retiradas com e sem reposição.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li><li>MC_MATEM_EM.pdf — páginas impressas 267, 269, 270, 275, 277</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "probabilidade",
+      "eventos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "probabilidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Duas caras em moedas equilibradas independentes têm chance:",
+      "alternativas": [
+        "1",
+        "1/4",
+        "1/2"
+      ],
+      "correta": 1,
+      "explicacao": "Produto de meios."
+    },
+    {
+      "id": "probabilidade.producao",
+      "tipo": "discursiva",
+      "enunciado": "Liste espaços discretos equiprováveis e não equiprováveis. Compare com ponto uniforme no intervalo [0,1], calcule chance de cair em [0,1/4] e resolva um experimento de duas retiradas com e sem reposição.",
+      "gabarito": "No contínuo uniforme a chance é comprimento relativo, um quarto; ponto exato tem chance zero sem ser impossibilidade lógica. Conferir condicionais e composição.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "No contínuo uniforme a chance é comprimento relativo, um quarto; ponto exato tem chance zero sem ser impossibilidade lógica. Conferir condicionais e composição.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "probabilidade",
+    "eventos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        264,
+        266,
+        267,
+        272,
+        274
+      ],
+      "paginasImpressas": "267, 269, 270, 275, 277",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem"
+  ],
+  "proximosPassos": [
+    "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

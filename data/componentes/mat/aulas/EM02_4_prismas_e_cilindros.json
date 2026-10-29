@@ -2,36 +2,109 @@
   "id": "mat.em02.geometria_espacial.prismas_e_cilindros",
   "componente": "mat",
   "nivel": "EM02",
-  "ordem": 4,
+  "ordem": 2,
   "unidade": "Geometria Espacial",
   "titulo": "Prismas e Cilindros",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT309"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Compare uma caixa retangular e um cilindro de capacidades próximas, calculando material para modelos abertos e fechados",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Prismas retos e cilindros retos têm volume área da base vezes altura",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Prismas e Cilindros</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Sólidos com duas bases paralelas e iguais (\"teto e chão\").\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🥞 Princípio de Cavalieri:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Se duas pilhas de moedas têm a mesma altura e a mesma área de base, elas têm o mesmo volume, mesmo se uma pilha estiver torta.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Prismas e Cilindros</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Prismas retos e cilindros retos têm volume área da base vezes altura. A área lateral de prisma é perímetro da base vezes altura; no cilindro circular, é 2πrh. A total inclui as bases efetivamente revestidas. Verifique se o recipiente é aberto ou fechado.</p><h3>Exemplo resolvido</h3><p>Cilindro de r=3 e h=5 tem V=45π e área total 2×9π+30π=48π. Sem tampa, a área seria 39π.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Compare uma caixa retangular e um cilindro de capacidades próximas, calculando material para modelos abertos e fechados. Elabore problema de pintura de uma composição e justifique áreas expostas.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "prismas",
+      "cilindros",
+      "volume"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "prismas_e_cilindros.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Cilindro r=2,h=7 tem volume:",
+      "alternativas": [
+        "56π",
+        "28π",
+        "14π"
+      ],
+      "correta": 1,
+      "explicacao": "πr²h=π×4×7."
+    },
+    {
+      "id": "prismas_e_cilindros.producao",
+      "tipo": "discursiva",
+      "enunciado": "Compare uma caixa retangular e um cilindro de capacidades próximas, calculando material para modelos abertos e fechados. Elabore problema de pintura de uma composição e justifique áreas expostas.",
+      "gabarito": "Conferir medidas, conversões e exclusão das regiões de contato; não contar superfície interna como externa sem o enunciado pedir.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir medidas, conversões e exclusão das regiões de contato; não contar superfície interna como externa sem o enunciado pedir.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "prismas",
+    "cilindros",
+    "volume"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.geometria_espacial.introducao_a_geometria_espacial"
+  ],
+  "proximosPassos": [
+    "mat.em02.geometria_espacial.piramide_e_cone"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

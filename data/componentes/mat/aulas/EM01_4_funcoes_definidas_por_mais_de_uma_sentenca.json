@@ -5,33 +5,110 @@
   "ordem": 4,
   "unidade": "Conjuntos e Função Afim",
   "titulo": "Funções Definidas por Mais de uma Sentença",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT404"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Crie tarifa hipotética por dois trechos, construa tabela e gráfico, determine domínio e imagem e descreva crescimento e comportamento na fronteira.",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Uma função por partes exige expressões e domínios de validade",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Funções por Partes e Modular</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Funções que mudam de comportamento dependendo do intervalo. Introdução à <strong>Função Modular</strong> ($|x|$).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 Formato em V:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A função modular básica $f(x) = |x|$ reflete a parte negativa para cima, criando um gráfico em forma de \"V\".</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Funções Definidas por Mais de uma Sentença</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Uma função por partes exige expressões e domínios de validade. Verifique os extremos para evitar duas saídas incompatíveis ou lacunas. Converter tabela, regra e gráfico inclui mostrar pontos abertos e fechados. Use tarifas hipotéticas para não confundir modelo com regra comercial ou tributária vigente.</p><h3>Exemplo resolvido</h3><p>Tarifa fictícia T(x)=10 para 0≤x≤5; T(x)=10+2(x−5) para x&gt;5. T(5)=10 e T(8)=16; o segundo trecho é contínuo com o primeiro.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Crie tarifa hipotética por dois trechos, construa tabela e gráfico, determine domínio e imagem e descreva crescimento e comportamento na fronteira.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li><li>MC_MATEM_EM.pdf — páginas impressas 11</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "funcao_por_partes",
+      "modelagem"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "funcoes_definidas_por_mais_de_uma_sentenca.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na tarifa do exemplo, T(7) vale:",
+      "alternativas": [
+        "24",
+        "10",
+        "14"
+      ],
+      "correta": 2,
+      "explicacao": "Acrescentar duas unidades de consumo além de cinco: 10+2×2."
+    },
+    {
+      "id": "funcoes_definidas_por_mais_de_uma_sentenca.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie tarifa hipotética por dois trechos, construa tabela e gráfico, determine domínio e imagem e descreva crescimento e comportamento na fronteira.",
+      "gabarito": "Conferir valores nas condições, unicidade e extremos; imagem depende dos intervalos e do domínio declarado.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir valores nas condições, unicidade e extremos; imagem depende dos intervalos e do domínio declarado.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "funcao_por_partes",
+    "modelagem"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        8
+      ],
+      "paginasImpressas": "11",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

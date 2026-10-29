@@ -1,0 +1,117 @@
+{
+  "id": "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 22,
+  "unidade": "Estatística e Gráficos",
+  "titulo": "Medidas de Tendência Central e Dispersão",
+  "bncc": [
+    "EM13MAT316"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Compare duas séries de mesma média e dispersões diferentes",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Média, mediana e moda resumem aspectos diferentes",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Medidas de Tendência Central e Dispersão</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Média, mediana e moda resumem aspectos diferentes. Amplitude é máximo menos mínimo. Variância populacional é a média dos quadrados dos desvios; desvio padrão é sua raiz, na unidade original. Se houver estimador amostral com divisor n−1, declare essa outra convenção.</p><h3>Exemplo resolvido</h3><p>Para 2,4,6, média quatro, mediana quatro, amplitude quatro; variância populacional (4+0+4)/3=8/3 e desvio √(8/3).</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Compare duas séries de mesma média e dispersões diferentes. Calcule medidas à mão e por planilha, declarando a convenção e interpretando extremos.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li><li>MC_MATEM_EM.pdf — páginas impressas 280, 282</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "media",
+      "mediana",
+      "desvio_padrao"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "medidas_de_tendencia_central_e_dispersao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 1,3,5, a média é:",
+      "alternativas": [
+        "4",
+        "9",
+        "3"
+      ],
+      "correta": 2,
+      "explicacao": "Soma nove dividida por três."
+    },
+    {
+      "id": "medidas_de_tendencia_central_e_dispersao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Compare duas séries de mesma média e dispersões diferentes. Calcule medidas à mão e por planilha, declarando a convenção e interpretando extremos.",
+      "gabarito": "Avaliar ordenação, desvios quadráticos, unidades e comparação substantiva; não confundir amplitude com desvio padrão.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar ordenação, desvios quadráticos, unidades e comparação substantiva; não confundir amplitude com desvio padrão.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "media",
+    "mediana",
+    "desvio_padrao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        277,
+        279
+      ],
+      "paginasImpressas": "280, 282",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "mat.ef03.numeros_de_1_a_1000.reta_numerica",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 2,
+  "unidade": "Números de 1 a 1000",
+  "titulo": "Números na Reta Numérica",
+  "bncc": [
+    "EF03MA04"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe um trecho de reta de 20 a 50",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Na reta, passos de mesmo comprimento representam diferenças iguais",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Números na Reta Numérica</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Na reta, passos de mesmo comprimento representam diferenças iguais. Somar desloca para a direita e subtrair para a esquerda. A escala pode avançar de um em um, dez em dez ou outro passo indicado.</p><h3>Exemplo resolvido</h3><p>Partindo de 35, avançar oito unidades chega a 43; voltar seis chega a 29. Os deslocamentos representam adição e subtração.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Desenhe um trecho de reta de 20 a 50. Represente 28+7 e 42−9; use-o para comparar 28,35 e 42.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 287</li><li>MC_MATEM_EF.pdf — páginas impressas 17</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "reta_numerica",
+      "ordenacao"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "reta_numerica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Partir de 46 e voltar 8 unidades leva a:",
+      "alternativas": [
+        "40",
+        "38",
+        "54"
+      ],
+      "correta": 1,
+      "explicacao": "46−8=38."
+    },
+    {
+      "id": "reta_numerica.producao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe um trecho de reta de 20 a 50. Represente 28+7 e 42−9; use-o para comparar 28,35 e 42.",
+      "gabarito": "Resultados 35 e 33. Marcas igualmente espaçadas, sentidos corretos e ordem 28<35<42.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Resultados 35 e 33. Marcas igualmente espaçadas, sentidos corretos e ordem 28<35<42.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "reta_numerica",
+    "ordenacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14
+      ],
+      "paginasImpressas": "17",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000"
+  ],
+  "proximosPassos": [
+    "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

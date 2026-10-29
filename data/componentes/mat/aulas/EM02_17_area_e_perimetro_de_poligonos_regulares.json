@@ -1,0 +1,108 @@
+{
+  "id": "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 17,
+  "unidade": "Regiões Planas e Área",
+  "titulo": "Área e Perímetro de Polígonos Regulares",
+  "bncc": [
+    "EM13MAT506"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Construa tabela e gráficos de área e perímetro para quadrado e outro polígono regular",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Ao variar lado l de um polígono regular com n fixo, perímetro P=nl é linear e área A=kl² é quadrática, com k dependente da forma",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Área e Perímetro de Polígonos Regulares</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Ao variar lado l de um polígono regular com n fixo, perímetro P=nl é linear e área A=kl² é quadrática, com k dependente da forma. Tabelas e gráficos distinguem variações: dobrar lado dobra contorno e quadruplica superfície.</p><h3>Exemplo resolvido</h3><p>No quadrado, P=4l e A=l². Para l=1,2,3, P=4,8,12 e A=1,4,9.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa tabela e gráficos de área e perímetro para quadrado e outro polígono regular. Justifique as expressões e classifique as funções e o domínio físico.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "poligonos_regulares",
+      "area",
+      "perimetro"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "area_e_perimetro_de_poligonos_regulares.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Triplicar o lado de um quadrado multiplica a área por:",
+      "alternativas": [
+        "6",
+        "9",
+        "3"
+      ],
+      "correta": 1,
+      "explicacao": "A área é proporcional ao quadrado."
+    },
+    {
+      "id": "area_e_perimetro_de_poligonos_regulares.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa tabela e gráficos de área e perímetro para quadrado e outro polígono regular. Justifique as expressões e classifique as funções e o domínio físico.",
+      "gabarito": "Comprimentos positivos, unidade linear/quadrada e coeficientes compatíveis; não comparar áreas como se crescessem pelo mesmo fator do lado.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Comprimentos positivos, unidade linear/quadrada e coeficientes compatíveis; não comparar áreas como se crescessem pelo mesmo fator do lado.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "poligonos_regulares",
+    "area",
+    "perimetro"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.regioes_planas_e_area.ladrilhamento"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

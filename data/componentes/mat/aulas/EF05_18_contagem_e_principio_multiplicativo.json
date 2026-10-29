@@ -1,0 +1,114 @@
+{
+  "id": "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo",
+  "componente": "mat",
+  "nivel": "EF05",
+  "ordem": 18,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Contagem e Princípio Multiplicativo",
+  "bncc": [
+    "EF05MA09"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Faça árvore e tabela para cinco sabores e três tamanhos",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Combinar cada opção de uma coleção com todas da outra pode ser registrado por árvore ou tabela",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Contagem e Princípio Multiplicativo</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Combinar cada opção de uma coleção com todas da outra pode ser registrado por árvore ou tabela. Multiplique as quantidades quando todas as combinações forem permitidas. Restrições exigem excluir ou recontar os casos, não apenas aplicar uma fórmula.</p><h3>Exemplo resolvido</h3><p>Quatro caminhos de ida e três de volta formam doze escolhas ordenadas de ida e volta se todas forem permitidas.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Faça árvore e tabela para cinco sabores e três tamanhos. Elabore outro problema, imponha uma restrição explícita e recalcule os casos.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 295</li><li>MC_MATEM_EF.pdf — páginas impressas 37</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "contagem",
+      "principio_multiplicativo"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "contagem_e_principio_multiplicativo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Três camisetas e quatro bermudas permitem:",
+      "alternativas": [
+        "12 pares",
+        "7 pares",
+        "24 pares"
+      ],
+      "correta": 0,
+      "explicacao": "Cada camiseta tem quatro escolhas de bermuda."
+    },
+    {
+      "id": "contagem_e_principio_multiplicativo.producao",
+      "tipo": "discursiva",
+      "enunciado": "Faça árvore e tabela para cinco sabores e três tamanhos. Elabore outro problema, imponha uma restrição explícita e recalcule os casos.",
+      "gabarito": "Quinze combinações no primeiro. A contagem com restrição depende do enunciado e deve mostrar casos sem duplicação.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Quinze combinações no primeiro. A contagem com restrição depende do enunciado e deve mostrar casos sem duplicação.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "contagem",
+    "principio_multiplicativo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34
+      ],
+      "paginasImpressas": "37",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef05.probabilidade_e_estatistica.espaco_amostral"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

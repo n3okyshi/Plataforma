@@ -2,36 +2,106 @@
   "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos",
   "componente": "mat",
   "nivel": "EF03",
-  "ordem": 6,
+  "ordem": 17,
   "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
   "titulo": "Horas e Minutos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF03MA22",
+    "EF03MA23"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Leia o relógio ilustrado e compare com 03:30 digital",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Relógios digitais e analógicos representam horas e minutos",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Que horas são?</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Leitura de relógios de ponteiro e digitais. Cálculo de quanto tempo as coisas demoram (duração).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⌚ Tabuada do 5:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">No relógio de ponteiro, os minutos pulam de 5 em 5. O número 1 vale 5 min, o 6 vale 30 min (meia hora).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Horas e Minutos</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Relógios digitais e analógicos representam horas e minutos. Uma hora tem sessenta minutos e um minuto sessenta segundos. No analógico, o ponteiro das horas avança gradualmente, e o dos minutos percorre sessenta marcações em uma volta. Registre início e fim para calcular duração.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Relógio analógico marcando três horas e trinta minutos. Ponteiro dos minutos no seis, ponteiro das horas entre três e quatro.\"><title>Relógio analógico marcando três horas e trinta minutos. Ponteiro dos minutos no seis, ponteiro das horas entre três e quatro.</title><circle cx=\"220\" cy=\"125\" r=\"90\" fill=\"none\" stroke=\"currentColor\"/><text x=\"256.5\" y=\"67.8\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">1</text><text x=\"283.2\" y=\"94.5\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">2</text><text x=\"293.0\" y=\"131.0\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">3</text><text x=\"283.2\" y=\"167.5\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">4</text><text x=\"256.5\" y=\"194.2\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">5</text><text x=\"220.0\" y=\"204.0\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">6</text><text x=\"183.5\" y=\"194.2\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">7</text><text x=\"156.8\" y=\"167.5\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">8</text><text x=\"147.0\" y=\"131.0\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">9</text><text x=\"156.8\" y=\"94.5\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">10</text><text x=\"183.5\" y=\"67.8\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">11</text><text x=\"220.0\" y=\"58.0\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">12</text><path d=\"M220 125V191M220 125 269 138\" stroke=\"currentColor\" stroke-width=\"4\"/></svg><h3>Exemplo resolvido</h3><p>Na figura, são 3h30: minutos no seis e horas entre três e quatro. De 14h45 a 15h20 decorrem 15+20=35 minutos.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Leia o relógio ilustrado e compare com 03:30 digital. Observe horários reais de início e fim de uma tarefa, calcule a duração e represente um deles num relógio de papel. Converta dois minutos em segundos.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 289</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "tempo",
+      "relogio"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "horas_e_minutos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "De 10h50 a 11h15 decorrem:",
+      "alternativas": [
+        "65 minutos",
+        "25 minutos",
+        "35 minutos"
+      ],
+      "correta": 1,
+      "explicacao": "Dez até onze horas e mais quinze."
+    },
+    {
+      "id": "horas_e_minutos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Leia o relógio ilustrado e compare com 03:30 digital. Observe horários reais de início e fim de uma tarefa, calcule a duração e represente um deles num relógio de papel. Converta dois minutos em segundos.",
+      "gabarito": "03:30; duração depende da observação; dois minutos=120 s. Conferir os dois ponteiros, sessenta minutos por hora e registros reais.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "03:30; duração depende da observação; dois minutos=120 s. Conferir os dois ponteiros, sessenta minutos por hora e registros reais.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "tempo",
+    "relogio"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

@@ -1,4 +1,4 @@
-/** Currículo de Matemática por códigos de nível e IDs estáveis. */
+/** Currículo de Matemática por códigos e IDs estáveis. */
 registrarCurriculo("Matemática", {
   "EF01": {
     "Vocabulário Fundamental": [
@@ -333,57 +333,141 @@ registrarCurriculo("Matemática", {
     "Números de 1 a 1000": [
       {
         "id": "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000",
-        "titulo": "Leitura e Escrita de Números até 1000"
-      }
-    ],
-    "Geometria": [
-      {
-        "id": "mat.ef03.geometria.poliedros_e_corpos_redondos",
-        "titulo": "Poliedros e Corpos Redondos"
+        "titulo": "Leitura e Escrita de Números até 1000",
+        "complementar": false
       },
       {
-        "id": "mat.ef03.geometria.congruencia_e_malhas",
-        "titulo": "Congruência e Malhas"
+        "id": "mat.ef03.numeros_de_1_a_1000.reta_numerica",
+        "titulo": "Números na Reta Numérica",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao",
+        "titulo": "Fatos Básicos da Adição e Multiplicação",
+        "complementar": false
       }
     ],
     "Números maiores do que 1000": [
       {
         "id": "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar",
-        "titulo": "A Quarta Ordem (Unidade de Milhar)"
+        "titulo": "A Quarta Ordem (Unidade de Milhar)",
+        "complementar": false
       }
     ],
     "Adição e Subtração": [
       {
         "id": "mat.ef03.adicao_e_subtracao.estrategias_de_calculo_mental_e_escrito",
-        "titulo": "Estratégias de Cálculo (Mental e Escrito)"
-      }
-    ],
-    "Grandezas e Medidas: Tempo e Dinheiro": [
-      {
-        "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos",
-        "titulo": "Horas e Minutos"
+        "titulo": "Estratégias de Cálculo (Mental e Escrito)",
+        "complementar": false
       },
       {
-        "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario",
-        "titulo": "Sistema Monetário"
+        "id": "mat.ef03.adicao_e_subtracao.problemas_de_adicao_e_subtracao",
+        "titulo": "Problemas de Adição e Subtração",
+        "complementar": false
       }
     ],
     "Multiplicação": [
       {
         "id": "mat.ef03.multiplicacao.algoritmo_da_multiplicacao",
-        "titulo": "Algoritmo da Multiplicação"
+        "titulo": "Algoritmo da Multiplicação",
+        "complementar": false
       }
     ],
     "Divisão": [
       {
         "id": "mat.ef03.divisao.introducao_a_divisao",
-        "titulo": "Introdução à Divisão"
+        "titulo": "Introdução à Divisão",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.divisao.metade_terca_quarta_quinta_e_decima_parte",
+        "titulo": "Metade, Terça, Quarta, Quinta e Décima Parte",
+        "complementar": false
+      }
+    ],
+    "Geometria": [
+      {
+        "id": "mat.ef03.geometria.poliedros_e_corpos_redondos",
+        "titulo": "Poliedros e Corpos Redondos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.geometria.congruencia_e_malhas",
+        "titulo": "Congruência e Malhas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.geometria.planificacoes_de_solidos",
+        "titulo": "Planificações de Sólidos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.geometria.figuras_planas_e_seus_lados",
+        "titulo": "Figuras Planas e seus Lados",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.geometria.trajetos_e_croquis",
+        "titulo": "Trajetos e Croquis",
+        "complementar": false
       }
     ],
     "Grandezas e medidas: comprimento, massa e capacidade": [
       {
         "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas",
-        "titulo": "Medidas e Estimativas"
+        "titulo": "Medidas e Estimativas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas",
+        "titulo": "Comparação de Áreas",
+        "complementar": false
+      }
+    ],
+    "Grandezas e Medidas: Tempo e Dinheiro": [
+      {
+        "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos",
+        "titulo": "Horas e Minutos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario",
+        "titulo": "Sistema Monetário",
+        "complementar": false
+      }
+    ],
+    "Padrões e Igualdade": [
+      {
+        "id": "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias",
+        "titulo": "Regularidades em Sequências",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas",
+        "titulo": "Igualdade e Sentenças Matemáticas",
+        "complementar": false
+      }
+    ],
+    "Probabilidade e Estatística": [
+      {
+        "id": "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis",
+        "titulo": "Eventos e Resultados Possíveis",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+        "titulo": "Tabelas de Dupla Entrada",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas",
+        "titulo": "Gráficos de Barras e Colunas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas",
+        "titulo": "Pesquisa com Variáveis Categóricas",
+        "complementar": false
       }
     ]
   },
@@ -391,57 +475,123 @@ registrarCurriculo("Matemática", {
     "Sistemas de Numeração": [
       {
         "id": "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar",
-        "titulo": "Números Naturais até a Dezena de Milhar"
-      }
-    ],
-    "Geometria": [
-      {
-        "id": "mat.ef04.geometria.localizacao_deslocamento_e_simetria",
-        "titulo": "Localização, Deslocamento e Simetria"
-      },
-      {
-        "id": "mat.ef04.geometria.angulos_e_poligonos",
-        "titulo": "Ângulos e Polígonos"
-      }
-    ],
-    "Massa, capacidade, intervalo de tempo e temperatura": [
-      {
-        "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida",
-        "titulo": "Grandezas e Unidades de Medida"
+        "titulo": "Números Naturais até a Dezena de Milhar",
+        "complementar": false
       }
     ],
     "Adição e Subtração com Números Naturais": [
       {
         "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
-        "titulo": "Propriedades e Problemas"
+        "titulo": "Propriedades e Problemas",
+        "complementar": false
       }
     ],
     "Multiplicação com Números Naturais": [
       {
         "id": "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades",
-        "titulo": "Algoritmo e Propriedades"
+        "titulo": "Algoritmo e Propriedades",
+        "complementar": false
       }
     ],
     "Divisão com Números Naturais": [
       {
         "id": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao",
-        "titulo": "Algoritmo da Divisão"
-      }
-    ],
-    "Comprimento e Área": [
-      {
-        "id": "mat.ef04.comprimento_e_area.perimetro_e_area",
-        "titulo": "Perímetro e Área"
+        "titulo": "Algoritmo da Divisão",
+        "complementar": false
       }
     ],
     "Frações e Decimais": [
       {
         "id": "mat.ef04.fracoes_e_decimais.introducao_as_fracoes",
-        "titulo": "Introdução às Frações"
+        "titulo": "Introdução às Frações",
+        "complementar": false
       },
       {
         "id": "mat.ef04.fracoes_e_decimais.numeros_decimais",
-        "titulo": "Números Decimais"
+        "titulo": "Números Decimais",
+        "complementar": false
+      }
+    ],
+    "Geometria": [
+      {
+        "id": "mat.ef04.geometria.angulos_e_poligonos",
+        "titulo": "Ângulos e Polígonos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef04.geometria.localizacao_deslocamento_e_simetria",
+        "titulo": "Localização, Deslocamento e Simetria",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef04.geometria.planificacoes_de_prismas_e_piramides",
+        "titulo": "Planificações de Prismas e Pirâmides",
+        "complementar": false
+      }
+    ],
+    "Comprimento e Área": [
+      {
+        "id": "mat.ef04.comprimento_e_area.perimetro_e_area",
+        "titulo": "Perímetro e Área",
+        "complementar": false
+      }
+    ],
+    "Massa, capacidade, intervalo de tempo e temperatura": [
+      {
+        "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida",
+        "titulo": "Grandezas e Unidades de Medida",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos",
+        "titulo": "Temperatura e Gráficos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.problemas_com_dinheiro",
+        "titulo": "Problemas de Compra e Venda",
+        "complementar": false
+      }
+    ],
+    "Problemas de Contagem": [
+      {
+        "id": "mat.ef04.problemas_de_contagem.combinacoes_simples",
+        "titulo": "Combinações Simples",
+        "complementar": false
+      }
+    ],
+    "Probabilidade e Estatística": [
+      {
+        "id": "mat.ef04.probabilidade_e_estatistica.chances_de_eventos",
+        "titulo": "Chances de Eventos Aleatórios",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos",
+        "titulo": "Tabelas e Gráficos de Pesquisa",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis",
+        "titulo": "Pesquisa com Variáveis Categóricas e Numéricas",
+        "complementar": false
+      }
+    ],
+    "Padrões e Igualdade": [
+      {
+        "id": "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias",
+        "titulo": "Múltiplos em Sequências",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes",
+        "titulo": "Relações Inversas entre Operações",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade",
+        "titulo": "Propriedades da Igualdade",
+        "complementar": false
       }
     ]
   },
@@ -449,49 +599,133 @@ registrarCurriculo("Matemática", {
     "Sistema de Numeração Decimal": [
       {
         "id": "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes",
-        "titulo": "Números até a Classe dos Milhões"
-      }
-    ],
-    "Geometria": [
-      {
-        "id": "mat.ef05.geometria.plano_cartesiano_e_solidos",
-        "titulo": "Plano Cartesiano e Sólidos"
-      }
-    ],
-    "Adição e Subtração com Números Naturais": [
-      {
-        "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas",
-        "titulo": "Operações e Expressões Numéricas"
-      }
-    ],
-    "Multiplicação e Divisão com Números Naturais": [
-      {
-        "id": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo",
-        "titulo": "Estratégias de Cálculo"
-      }
-    ],
-    "Mais Geometria": [
-      {
-        "id": "mat.ef05.mais_geometria.poligonos_e_ampliacao",
-        "titulo": "Polígonos e Ampliação"
-      }
-    ],
-    "Frações": [
-      {
-        "id": "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia",
-        "titulo": "Operações com Frações e Equivalência"
+        "titulo": "Sistema Decimal até Centenas de Milhar",
+        "complementar": false
       }
     ],
     "Decimais": [
       {
         "id": "mat.ef05.decimais.numeros_decimais_e_porcentagem",
-        "titulo": "Números Decimais e Porcentagem"
+        "titulo": "Números Decimais e Porcentagem",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef05.decimais.decimais_na_reta_numerica",
+        "titulo": "Decimais na Reta Numérica",
+        "complementar": false
+      }
+    ],
+    "Frações": [
+      {
+        "id": "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia",
+        "titulo": "Frações, Divisão e Equivalência",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes",
+        "titulo": "Comparação e Ordenação de Frações",
+        "complementar": false
+      }
+    ],
+    "Adição e Subtração com Números Naturais": [
+      {
+        "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas",
+        "titulo": "Operações e Expressões Numéricas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao",
+        "titulo": "Problemas de Adição e Subtração",
+        "complementar": false
+      }
+    ],
+    "Multiplicação e Divisão com Números Naturais": [
+      {
+        "id": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo",
+        "titulo": "Estratégias de Cálculo",
+        "complementar": false
+      }
+    ],
+    "Geometria": [
+      {
+        "id": "mat.ef05.geometria.plano_cartesiano_e_solidos",
+        "titulo": "Plano Cartesiano e Sólidos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef05.geometria.poligonos_e_seus_elementos",
+        "titulo": "Polígonos e seus Elementos",
+        "complementar": false
+      }
+    ],
+    "Mais Geometria": [
+      {
+        "id": "mat.ef05.mais_geometria.poligonos_e_ampliacao",
+        "titulo": "Polígonos e Ampliação",
+        "complementar": false
       }
     ],
     "Grandezas e Medidas": [
       {
         "id": "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas",
-        "titulo": "Volume e Outras Grandezas"
+        "titulo": "Volume e Outras Grandezas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area",
+        "titulo": "Relações entre Perímetro e Área",
+        "complementar": false
+      }
+    ],
+    "Propriedades da Igualdade": [
+      {
+        "id": "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade",
+        "titulo": "Propriedades da Igualdade",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido",
+        "titulo": "Problemas com Termo Desconhecido",
+        "complementar": false
+      }
+    ],
+    "Proporcionalidade": [
+      {
+        "id": "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais",
+        "titulo": "Grandezas Diretamente Proporcionais",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef05.proporcionalidade.partilha_em_partes_desiguais",
+        "titulo": "Partilha em Partes Desiguais",
+        "complementar": false
+      }
+    ],
+    "Probabilidade e Estatística": [
+      {
+        "id": "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo",
+        "titulo": "Contagem e Princípio Multiplicativo",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef05.probabilidade_e_estatistica.espaco_amostral",
+        "titulo": "Espaço Amostral",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis",
+        "titulo": "Probabilidade de Eventos Equiprováveis",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos",
+        "titulo": "Leitura de Gráficos de Colunas e Linhas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados",
+        "titulo": "Pesquisa e Organização de Dados",
+        "complementar": false
       }
     ]
   },
@@ -1425,177 +1659,466 @@ registrarCurriculo("Matemática", {
     "Conjuntos e Função Afim": [
       {
         "id": "mat.em01.conjuntos_e_funcao_afim.conjuntos",
-        "titulo": "Conjuntos"
+        "titulo": "Conjuntos",
+        "complementar": true
       },
       {
         "id": "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao",
-        "titulo": "A Ideia de Função"
+        "titulo": "A Ideia de Função",
+        "complementar": false
       },
       {
         "id": "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim",
-        "titulo": "A Função Afim"
+        "titulo": "A Função Afim",
+        "complementar": false
       },
       {
         "id": "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca",
-        "titulo": "Funções Definidas por Mais de uma Sentença"
+        "titulo": "Funções Definidas por Mais de uma Sentença",
+        "complementar": false
       }
     ],
     "Função Quadrática": [
       {
         "id": "mat.em01.funcao_quadratica.a_funcao_quadratica",
-        "titulo": "A Função Quadrática"
+        "titulo": "A Função Quadrática",
+        "complementar": false
       },
       {
         "id": "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica",
-        "titulo": "Análises Algébrica e Gráfica da Função Quadrática"
+        "titulo": "Análises Algébrica e Gráfica da Função Quadrática",
+        "complementar": false
       }
     ],
     "Função Exponencial": [
       {
         "id": "mat.em01.funcao_exponencial.potenciacao_e_radiciacao",
-        "titulo": "Potenciação e Radiciação"
+        "titulo": "Potenciação e Radiciação",
+        "complementar": false
       },
       {
         "id": "mat.em01.funcao_exponencial.a_funcao_exponencial",
-        "titulo": "A Função Exponencial"
+        "titulo": "A Função Exponencial",
+        "complementar": false
       }
     ],
     "Função Logarítmica": [
       {
         "id": "mat.em01.funcao_logaritmica.logaritmo",
-        "titulo": "Logaritmo"
+        "titulo": "Logaritmo",
+        "complementar": false
       },
       {
         "id": "mat.em01.funcao_logaritmica.a_funcao_logaritmica",
-        "titulo": "A Função Logarítmica"
+        "titulo": "A Função Logarítmica",
+        "complementar": false
       }
     ],
     "Sequências e Progressões": [
       {
         "id": "mat.em01.sequencias_e_progressoes.sequencias",
-        "titulo": "Sequências"
+        "titulo": "Sequências",
+        "complementar": false
       },
       {
         "id": "mat.em01.sequencias_e_progressoes.progressao_aritmetica",
-        "titulo": "Progressão Aritmética"
+        "titulo": "Progressão Aritmética",
+        "complementar": false
       },
       {
         "id": "mat.em01.sequencias_e_progressoes.progressao_geometrica",
-        "titulo": "Progressão Geométrica"
+        "titulo": "Progressão Geométrica",
+        "complementar": false
+      }
+    ],
+    "Matemática Financeira": [
+      {
+        "id": "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto",
+        "titulo": "Porcentagem, Lucro e Desconto",
+        "complementar": false
+      },
+      {
+        "id": "mat.em01.matematica_financeira.juros_simples_e_juros_compostos",
+        "titulo": "Juros Simples e Juros Compostos",
+        "complementar": false
+      },
+      {
+        "id": "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra",
+        "titulo": "Inflação, Índices e Poder de Compra",
+        "complementar": false
+      },
+      {
+        "id": "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros",
+        "titulo": "Planilhas e Simuladores Financeiros",
+        "complementar": false
+      }
+    ],
+    "Tecnologia e Algoritmos": [
+      {
+        "id": "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente",
+        "titulo": "Algoritmos em Linguagem Corrente",
+        "complementar": false
+      },
+      {
+        "id": "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis",
+        "titulo": "Primeiros Programas e Variáveis",
+        "complementar": false
+      }
+    ],
+    "Estatística e Gráficos": [
+      {
+        "id": "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos",
+        "titulo": "Leitura Crítica de Tabelas e Gráficos",
+        "complementar": false
+      },
+      {
+        "id": "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia",
+        "titulo": "Tabelas e Gráficos de Frequência",
+        "complementar": false
+      },
+      {
+        "id": "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao",
+        "titulo": "Medidas de Tendência Central e Dispersão",
+        "complementar": false
+      }
+    ],
+    "Grandezas e Medidas": [
+      {
+        "id": "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes",
+        "titulo": "Unidades do SI e Conversões",
+        "complementar": false
+      },
+      {
+        "id": "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas",
+        "titulo": "Razão e Produto de Grandezas",
+        "complementar": false
+      }
+    ],
+    "Geometria e Transformações": [
+      {
+        "id": "mat.em01.geometria_e_transformacoes.transformacoes_isometricas",
+        "titulo": "Transformações Isométricas",
+        "complementar": false
+      }
+    ],
+    "Função Modular — Complementar": [
+      {
+        "id": "mat.em01.funcao_modular_complementar.funcao_modular",
+        "titulo": "Funcao modular",
+        "complementar": true
+      },
+      {
+        "id": "mat.em01.funcao_modular_complementar.equacoes_e_inequacoes_modulares",
+        "titulo": "Equacoes e inequacoes modulares",
+        "complementar": true
       }
     ]
   },
   "EM02": {
-    "Regiões Planas e Área": [
-      {
-        "id": "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas",
-        "titulo": "Medida de Área de Regiões Planas"
-      },
-      {
-        "id": "mat.em02.regioes_planas_e_area.ladrilhamento",
-        "titulo": "Ladrilhamento"
-      }
-    ],
     "Geometria Espacial": [
       {
         "id": "mat.em02.geometria_espacial.introducao_a_geometria_espacial",
-        "titulo": "Introdução à Geometria Espacial"
+        "titulo": "Introdução à Geometria Espacial",
+        "complementar": false
       },
       {
         "id": "mat.em02.geometria_espacial.prismas_e_cilindros",
-        "titulo": "Prismas e Cilindros"
+        "titulo": "Prismas e Cilindros",
+        "complementar": false
       },
       {
         "id": "mat.em02.geometria_espacial.piramide_e_cone",
-        "titulo": "Pirâmide e Cone"
+        "titulo": "Pirâmide e Cone",
+        "complementar": false
       },
       {
         "id": "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas",
-        "titulo": "Esfera e Projeções Cartográficas"
+        "titulo": "Esfera e Projeções Cartográficas",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri",
+        "titulo": "Volumes e Princípio de Cavalieri",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.geometria_espacial.area_e_volume_da_esfera",
+        "titulo": "Área e Volume da Esfera",
+        "complementar": false
       }
     ],
     "Trigonometria": [
       {
-        "id": "mat.em02.trigonometria.semelhanca_de_poligonos",
-        "titulo": "Semelhança de Polígonos"
-      },
-      {
-        "id": "mat.em02.trigonometria.relacoes_trigonometricas",
-        "titulo": "Relações Trigonométricas"
-      },
-      {
         "id": "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia",
-        "titulo": "Conceitos Trigonométricos Básicos na Circunferência"
+        "titulo": "Conceitos Trigonométricos Básicos na Circunferência",
+        "complementar": false
       },
       {
         "id": "mat.em02.trigonometria.funcoes_trigonometricas",
-        "titulo": "Funções Trigonométricas"
+        "titulo": "Funções Trigonométricas",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.trigonometria.relacoes_trigonometricas",
+        "titulo": "Relações Trigonométricas",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.trigonometria.semelhanca_de_poligonos",
+        "titulo": "Semelhança de Polígonos",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.trigonometria.leis_do_seno_e_do_cosseno",
+        "titulo": "Leis do Seno e do Cosseno",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.trigonometria.equacoes_e_identidades_trigonometricas",
+        "titulo": "Equações e Identidades Trigonométricas — Complemento",
+        "complementar": true
       }
     ],
     "Matrizes, Determinantes e Sistemas Lineares": [
       {
         "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.matrizes_e_determinantes",
-        "titulo": "Matrizes e Determinantes"
+        "titulo": "Matrizes e Determinantes",
+        "complementar": true
       },
       {
         "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares",
-        "titulo": "Sistemas Lineares"
+        "titulo": "Sistemas Lineares",
+        "complementar": false
+      }
+    ],
+    "Regiões Planas e Área": [
+      {
+        "id": "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas",
+        "titulo": "Medida de Área de Regiões Planas",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.regioes_planas_e_area.ladrilhamento",
+        "titulo": "Ladrilhamento",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares",
+        "titulo": "Área e Perímetro de Polígonos Regulares",
+        "complementar": false
+      }
+    ],
+    "Estatística e Probabilidade": [
+      {
+        "id": "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio",
+        "titulo": "Pesquisa Amostral e Relatório",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas",
+        "titulo": "Diagramas de Caixa e Histogramas",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste",
+        "titulo": "Duas Variáveis e Reta de Ajuste",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos",
+        "titulo": "Espaços Amostrais e Eventos",
+        "complementar": false
+      }
+    ],
+    "Proporcionalidade e Variação": [
+      {
+        "id": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa",
+        "titulo": "Proporcionalidade Direta e Inversa",
+        "complementar": false
+      }
+    ],
+    "Computação e Modelagem": [
+      {
+        "id": "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas",
+        "titulo": "Modelagem Matemática de Problemas",
+        "complementar": false
+      },
+      {
+        "id": "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao",
+        "titulo": "Algoritmos de Busca e Ordenação",
+        "complementar": false
       }
     ]
   },
   "EM03": {
-    "Geometria no Plano Cartesiano": [
-      {
-        "id": "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia",
-        "titulo": "Geometria Analítica: Ponto, Reta e Circunferência"
-      },
-      {
-        "id": "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas",
-        "titulo": "Transformações Geométricas"
-      }
-    ],
-    "Educação Financeira": [
-      {
-        "id": "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira",
-        "titulo": "Fundamentos da Matemática Financeira"
-      },
-      {
-        "id": "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal",
-        "titulo": "Planejamento e Gestão de Orçamento Pessoal"
-      }
-    ],
     "Análise Combinatória e Probabilidade": [
       {
         "id": "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem",
-        "titulo": "Análise Combinatória - Diferentes Estratégias de Contagem"
+        "titulo": "Análise Combinatória: Diferentes Estratégias de Contagem",
+        "complementar": false
       },
       {
         "id": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
-        "titulo": "Probabilidade"
-      }
-    ],
-    "Estatística": [
-      {
-        "id": "mat.em03.estatistica.introducao_a_estatistica",
-        "titulo": "Introdução à Estatística"
+        "titulo": "Probabilidade",
+        "complementar": false
       },
       {
-        "id": "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao",
-        "titulo": "Medidas de Tendência Central e Medidas de Dispersão"
+        "id": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos",
+        "titulo": "Probabilidade de Eventos Sucessivos",
+        "complementar": false
       }
     ],
     "Computação": [
       {
         "id": "mat.em03.computacao.um_pouco_de_historia",
-        "titulo": "Um Pouco de História"
-      },
-      {
-        "id": "mat.em03.computacao.algoritmos_e_fluxogramas",
-        "titulo": "Algoritmos e Fluxogramas"
+        "titulo": "Um Pouco de História",
+        "complementar": false
       },
       {
         "id": "mat.em03.computacao.conceitos_iniciais",
-        "titulo": "Conceitos Iniciais"
+        "titulo": "Conceitos Iniciais",
+        "complementar": false
+      },
+      {
+        "id": "mat.em03.computacao.algoritmos_e_fluxogramas",
+        "titulo": "Algoritmos e Fluxogramas",
+        "complementar": false
+      },
+      {
+        "id": "mat.em03.computacao.projeto_de_programacao",
+        "titulo": "Projeto de Programação",
+        "complementar": false
+      }
+    ],
+    "Educação Financeira": [
+      {
+        "id": "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira",
+        "titulo": "Fundamentos da Matemática Financeira",
+        "complementar": false
+      },
+      {
+        "id": "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal",
+        "titulo": "Planejamento e Gestão de Orçamento Pessoal",
+        "complementar": false
+      }
+    ],
+    "Estatística": [
+      {
+        "id": "mat.em03.estatistica.introducao_a_estatistica",
+        "titulo": "Introdução à Estatística",
+        "complementar": false
+      },
+      {
+        "id": "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao",
+        "titulo": "Medidas de Tendência Central e Medidas de Dispersão",
+        "complementar": false
+      },
+      {
+        "id": "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados",
+        "titulo": "Pesquisa Amostral e Coleta de Dados",
+        "complementar": false
+      },
+      {
+        "id": "mat.em03.estatistica.histogramas_e_diagramas_de_caixa",
+        "titulo": "Histogramas e Diagramas de Caixa",
+        "complementar": false
+      },
+      {
+        "id": "mat.em03.estatistica.correlacao_e_reta_de_ajuste",
+        "titulo": "Correlação e Reta de Ajuste",
+        "complementar": false
+      }
+    ],
+    "Geometria no Plano Cartesiano": [
+      {
+        "id": "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia",
+        "titulo": "Geometria Analítica: Ponto, Reta e Circunferência",
+        "complementar": false
+      },
+      {
+        "id": "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas",
+        "titulo": "Transformações Geométricas",
+        "complementar": false
+      }
+    ],
+    "Modelagem e Risco": [
+      {
+        "id": "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico",
+        "titulo": "Escolhas e Risco Probabilístico",
+        "complementar": false
+      },
+      {
+        "id": "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude",
+        "titulo": "Probabilidade em Decisões de Saúde",
+        "complementar": false
+      },
+      {
+        "id": "mat.em03.modelagem_e_risco.simulacoes_e_previsoes",
+        "titulo": "Simulações e Previsões",
+        "complementar": false
+      }
+    ],
+    "Grandezas e Medidas": [
+      {
+        "id": "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano",
+        "titulo": "Unidades e Conversões no Cotidiano",
+        "complementar": false
+      },
+      {
+        "id": "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade",
+        "titulo": "Medições de Área, Volume e Capacidade",
+        "complementar": false
+      }
+    ],
+    "Complexos e Polinômios — Complementar": [
+      {
+        "id": "mat.em03.complexos_e_polinomios_complementar.numeros_complexos_e_operacoes",
+        "titulo": "Numeros complexos e operacoes",
+        "complementar": true
+      },
+      {
+        "id": "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas",
+        "titulo": "Forma trigonometrica e raizes complexas",
+        "complementar": true
+      },
+      {
+        "id": "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao",
+        "titulo": "Polinomios operacoes e divisao",
+        "complementar": true
+      },
+      {
+        "id": "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard",
+        "titulo": "Raizes multiplicidade e relacoes de girard",
+        "complementar": true
+      },
+      {
+        "id": "mat.em03.complexos_e_polinomios_complementar.equacoes_polinomiais_e_fatoracao",
+        "titulo": "Equacoes polinomiais e fatoracao",
+        "complementar": true
+      }
+    ],
+    "Binômio de Newton — Complementar": [
+      {
+        "id": "mat.em03.binomio_de_newton_complementar.triangulo_de_pascal_e_binomio_de_newton",
+        "titulo": "Triangulo de pascal e binomio de newton",
+        "complementar": true
+      },
+      {
+        "id": "mat.em03.binomio_de_newton_complementar.termo_geral_do_binomio",
+        "titulo": "Termo geral do binomio",
+        "complementar": true
+      }
+    ],
+    "Geometria Analítica — Complementar": [
+      {
+        "id": "mat.em03.geometria_analitica_complementar.reta_distancias_e_posicoes_relativas",
+        "titulo": "Reta distancias e posicoes relativas",
+        "complementar": true
+      },
+      {
+        "id": "mat.em03.geometria_analitica_complementar.elipse_e_circunferencia",
+        "titulo": "Elipse e circunferencia",
+        "complementar": true
       }
     ]
   }

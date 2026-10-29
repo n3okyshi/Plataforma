@@ -1,0 +1,101 @@
+{
+  "id": "mat.ef05.propriedades_da_igualdade.prova",
+  "titulo": "Avaliação: Propriedades da Igualdade",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF05",
+  "unidade": "Propriedades da Igualdade",
+  "bncc": [
+    "EF05MA10",
+    "EF05MA11"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef05.propriedades_da_igualdade.prova.01",
+    "mat.ef05.propriedades_da_igualdade.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF05MA10",
+      "questoes": [
+        "mat.ef05.propriedades_da_igualdade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.propriedades_da_igualdade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+      ]
+    },
+    {
+      "bncc": "EF05MA11",
+      "questoes": [
+        "mat.ef05.propriedades_da_igualdade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.propriedades_da_igualdade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido#problemas_com_termo_desconhecido.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef05.propriedades_da_igualdade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Propriedades da Igualdade",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF05MA10",
+      "EF05MA11"
+    ],
+    "atividadesOrigem": [
+      "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao",
+      "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido#problemas_com_termo_desconhecido.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Propriedades da Igualdade",
+        "enunciado": "Crie três igualdades e aplique, a ambos os membros, adição, subtração, multiplicação e divisão não nula. Explique por peças ou desenho e registre as condições.",
+        "gabarito": "Verificar cada transformação e o alcance da operação em todos os termos. Resultados que saiam dos naturais podem ser evitados escolhendo exemplos apropriados.",
+        "bncc": [
+          "EF05MA10"
+        ],
+        "atividadeOrigem": "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+      },
+      {
+        "titulo": "Problemas com Termo Desconhecido",
+        "enunciado": "Elabore problemas para □+27=80, 90−□=34 e 6×□=72. Resolva e explique as operações inversas e a unidade de cada resposta.",
+        "gabarito": "53,56,12. Conferir por substituição, coerência da história e não apenas transformação simbólica.",
+        "bncc": [
+          "EF05MA11"
+        ],
+        "atividadeOrigem": "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido#problemas_com_termo_desconhecido.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

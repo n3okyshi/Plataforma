@@ -1,0 +1,258 @@
+[
+  {
+    "id": "mat.em03.modelagem_e_risco.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico",
+    "bncc": [
+      "EM13MAT106",
+      "EM13MAT312"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Ganho 8 com chance 1/4 e perda 4 com chance 3/4 tem valor esperado:",
+    "opcoes": [
+      "1",
+      "4",
+      "−1"
+    ],
+    "correta": 2,
+    "explicacao": "2−3=−1.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          272,
+          274
+        ],
+        "paginasImpressas": "275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.modelagem_e_risco.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude",
+    "bncc": [
+      "EM13MAT106",
+      "EM13MAT312"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Entre noventa positivos verdadeiros e trinta falsos positivos, a fração verdadeira é:",
+    "opcoes": [
+      "1/3",
+      "3/4",
+      "9/10"
+    ],
+    "correta": 1,
+    "explicacao": "90/(90+30)=3/4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          272,
+          274
+        ],
+        "paginasImpressas": "275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.modelagem_e_risco.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.simulacoes_e_previsoes",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT405",
+      "EM13MAT511"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Semente fixa ajuda a:",
+    "opcoes": [
+      "Reproduzir a sequência simulada",
+      "Provar o fenômeno real",
+      "Eliminar toda variabilidade teórica"
+    ],
+    "correta": 0,
+    "explicacao": "A execução pode ser refeita.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546,
+          548
+        ],
+        "paginasImpressas": "544, 546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.modelagem_e_risco.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico",
+    "bncc": [
+      "EM13MAT106",
+      "EM13MAT312"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Valor esperado positivo garante ganho em uma tentativa?",
+    "opcoes": [
+      "Sim",
+      "Só se for inteiro",
+      "Não"
+    ],
+    "correta": 2,
+    "explicacao": "A média do modelo não elimina variabilidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          272,
+          274
+        ],
+        "paginasImpressas": "275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.modelagem_e_risco.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude",
+    "bncc": [
+      "EM13MAT106",
+      "EM13MAT312"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Conhecer apenas a taxa de acerto entre quem tem a condição basta para saber chance após positivo?",
+    "opcoes": [
+      "Só se for alta",
+      "Não",
+      "Sim"
+    ],
+    "correta": 1,
+    "explicacao": "A frequência inicial e falsos positivos também importam.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          272,
+          274
+        ],
+        "paginasImpressas": "275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.modelagem_e_risco.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.simulacoes_e_previsoes",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT405",
+      "EM13MAT511"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Frequência em simulação finita precisa ser igual à probabilidade?",
+    "opcoes": [
+      "Não",
+      "Sim, sempre",
+      "Só com cem repetições"
+    ],
+    "correta": 0,
+    "explicacao": "Amostras têm variação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546,
+          548
+        ],
+        "paginasImpressas": "544, 546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

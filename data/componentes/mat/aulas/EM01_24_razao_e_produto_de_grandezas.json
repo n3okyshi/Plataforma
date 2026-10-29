@@ -1,0 +1,108 @@
+{
+  "id": "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 24,
+  "unidade": "Grandezas e Medidas",
+  "titulo": "Razão e Produto de Grandezas",
+  "bncc": [
+    "EM13MAT314"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Crie e resolva problemas de velocidade média, densidade e energia com dados declarados",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Grandezas derivadas podem ser razões ou produtos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Razão e Produto de Grandezas</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Grandezas derivadas podem ser razões ou produtos. Velocidade média é distância por tempo; densidade demográfica é população por área; energia elétrica pode ser potência vezes tempo. Unidades e hipóteses determinam o sentido do cálculo.</p><h3>Exemplo resolvido</h3><p>Equipamento hipotético de 0,8 kW ligado por três horas usa 2,4 kWh, se a potência permanecer constante. Isso não informa sozinho o custo sem a tarifa e outras condições.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Crie e resolva problemas de velocidade média, densidade e energia com dados declarados. Compatibilize unidades e explique limites das médias e hipóteses de constância.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "razao",
+      "densidade",
+      "velocidade"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "razao_e_produto_de_grandezas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "180 km em 2,5 h têm velocidade média:",
+      "alternativas": [
+        "72 km/h",
+        "450 km/h",
+        "177,5 km/h"
+      ],
+      "correta": 0,
+      "explicacao": "180/2,5=72."
+    },
+    {
+      "id": "razao_e_produto_de_grandezas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie e resolva problemas de velocidade média, densidade e energia com dados declarados. Compatibilize unidades e explique limites das médias e hipóteses de constância.",
+      "gabarito": "Conferir razão/produto, unidades e interpretação global, sem tratar velocidade média como velocidade instantânea.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir razão/produto, unidades e interpretação global, sem tratar velocidade média como velocidade instantânea.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "razao",
+    "densidade",
+    "velocidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

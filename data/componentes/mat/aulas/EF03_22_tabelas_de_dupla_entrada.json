@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 22,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Tabelas de Dupla Entrada",
+  "bncc": [
+    "EF03MA26",
+    "EF03MA27"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Construa a tabela do exemplo, calcule totais por grupo e por categoria e escreva duas conclusões com maior e menor frequência, indicando que os dados são fictícios.",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Tabelas de dupla entrada combinam linhas e colunas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Tabelas de Dupla Entrada</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Tabelas de dupla entrada combinam linhas e colunas. Leia título, categorias, unidade e fonte. Para comparar frequências, localize células correspondentes e mantenha a mesma pergunta. Diferença de frequência descreve os dados, mas não demonstra sozinha uma causa.</p><table><caption>Escolhas — exemplo autoral fictício</caption><thead><tr><th>Grupo</th><th>Bola</th><th>Desenho</th></tr></thead><tbody><tr><td>A</td><td>8</td><td>4</td></tr><tr><td>B</td><td>5</td><td>7</td></tr></tbody></table><h3>Exemplo resolvido</h3><p>Dados fictícios: grupo A escolheu bola 8 e desenho 4; grupo B escolheu bola 5 e desenho 7. Bola tem três votos a mais em A; desenho é mais frequente em B.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa a tabela do exemplo, calcule totais por grupo e por categoria e escreva duas conclusões com maior e menor frequência, indicando que os dados são fictícios.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 289</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "tabelas",
+      "leitura_de_dados"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "tabelas_de_dupla_entrada.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Nos dados do exemplo, quantos votos de desenho há nos dois grupos?",
+      "alternativas": [
+        "12",
+        "13",
+        "11"
+      ],
+      "correta": 2,
+      "explicacao": "4+7=11."
+    },
+    {
+      "id": "tabelas_de_dupla_entrada.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa a tabela do exemplo, calcule totais por grupo e por categoria e escreva duas conclusões com maior e menor frequência, indicando que os dados são fictícios.",
+      "gabarito": "Cada grupo tem doze votos; bola treze, desenho onze. A interpretação deve conservar categorias e não tratar o exemplo como pesquisa real.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Cada grupo tem doze votos; bola treze, desenho onze. A interpretação deve conservar categorias e não tratar o exemplo como pesquisa real.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "tabelas",
+    "leitura_de_dados"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis"
+  ],
+  "proximosPassos": [
+    "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

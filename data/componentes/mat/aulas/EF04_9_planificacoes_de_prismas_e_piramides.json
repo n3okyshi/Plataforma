@@ -1,0 +1,114 @@
+{
+  "id": "mat.ef04.geometria.planificacoes_de_prismas_e_piramides",
+  "componente": "mat",
+  "nivel": "EF04",
+  "ordem": 9,
+  "unidade": "Geometria",
+  "titulo": "Planificações de Prismas e Pirâmides",
+  "bncc": [
+    "EF04MA17"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe e teste redes de um prisma triangular e de uma pirâmide quadrangular",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Prismas têm duas bases congruentes em planos paralelos e faces laterais; pirâmides têm uma base e laterais triangulares reunidas num vértice",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Planificações de Prismas e Pirâmides</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Prismas têm duas bases congruentes em planos paralelos e faces laterais; pirâmides têm uma base e laterais triangulares reunidas num vértice. Ao abrir um modelo, relacione cada região plana a uma face. A quantidade e a disposição precisam permitir fechar sem sobreposição.</p><h3>Exemplo resolvido</h3><p>Um prisma triangular tem duas bases triangulares e três faces laterais retangulares. Uma pirâmide quadrangular tem base quadrada e quatro triângulos laterais.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Desenhe e teste redes de um prisma triangular e de uma pirâmide quadrangular. Compare bases, faces laterais e o modelo fechado, registrando correções.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 293</li><li>MC_MATEM_EF.pdf — páginas impressas 328</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "figuras_espaciais",
+      "planificacao"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "planificacoes_de_prismas_e_piramides.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma rede de prisma triangular inclui:",
+      "alternativas": [
+        "Dois triângulos e três retângulos",
+        "Um triângulo e quatro círculos",
+        "Seis triângulos iguais sempre"
+      ],
+      "correta": 0,
+      "explicacao": "As bases são triangulares e as três laterais retangulares."
+    },
+    {
+      "id": "planificacoes_de_prismas_e_piramides.producao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe e teste redes de um prisma triangular e de uma pirâmide quadrangular. Compare bases, faces laterais e o modelo fechado, registrando correções.",
+      "gabarito": "Prisma: cinco faces; pirâmide: cinco faces, mas tipos e organização diferentes. Verificar dimensões compatíveis e fechamento real.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Prisma: cinco faces; pirâmide: cinco faces, mas tipos e organização diferentes. Verificar dimensões compatíveis e fechamento real.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_espaciais",
+    "planificacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        295
+      ],
+      "paginasImpressas": "293",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef04.geometria.localizacao_deslocamento_e_simetria"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

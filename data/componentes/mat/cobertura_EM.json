@@ -1,0 +1,1320 @@
+{
+  "etapa": "medio",
+  "distribuicao": "Proposta do projeto; a BNCC não fixa as habilidades EM13 em uma série específica.",
+  "estado": "piloto_integral",
+  "habilidades": [
+    {
+      "codigo": "EM13MAT101",
+      "niveisPropostos": [
+        "EM01",
+        "EM02"
+      ],
+      "aulas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim",
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa"
+      ],
+      "atividades": [
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao",
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.aplicacao",
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.conjuntos_e_funcao_afim.treino.03",
+        "mat.em02.proporcionalidade_e_variacao.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.02",
+        "mat.em02.proporcionalidade_e_variacao.prova.01",
+        "mat.em02.proporcionalidade_e_variacao.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica",
+        "mat.em02.proporcionalidade_e_variacao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT102",
+      "niveisPropostos": [
+        "EM01",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos",
+        "mat.em03.estatistica.introducao_a_estatistica"
+      ],
+      "atividades": [
+        "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos#leitura_critica_de_tabelas_e_graficos.aplicacao",
+        "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos#leitura_critica_de_tabelas_e_graficos.producao",
+        "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.aplicacao",
+        "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.estatistica_e_graficos.treino.01",
+        "mat.em03.estatistica.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.estatistica_e_graficos.prova.01",
+        "mat.em03.estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.estatistica_e_graficos.pratica",
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT103",
+      "niveisPropostos": [
+        "EM01",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano"
+      ],
+      "atividades": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.aplicacao",
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.aplicacao",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.grandezas_e_medidas.treino.01",
+        "mat.em03.grandezas_e_medidas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.grandezas_e_medidas.prova.01",
+        "mat.em03.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.grandezas_e_medidas.pratica",
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT104",
+      "niveisPropostos": [
+        "EM01",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra",
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal"
+      ],
+      "atividades": [
+        "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra#inflacao_indices_e_poder_de_compra.aplicacao",
+        "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra#inflacao_indices_e_poder_de_compra.producao",
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.aplicacao",
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.matematica_financeira.treino.03",
+        "mat.em03.educacao_financeira.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.matematica_financeira.prova.03",
+        "mat.em03.educacao_financeira.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.matematica_financeira.pratica",
+        "mat.em03.educacao_financeira.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT105",
+      "niveisPropostos": [
+        "EM01",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.geometria_e_transformacoes.transformacoes_isometricas",
+        "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas"
+      ],
+      "atividades": [
+        "mat.em01.geometria_e_transformacoes.transformacoes_isometricas#transformacoes_isometricas.aplicacao",
+        "mat.em01.geometria_e_transformacoes.transformacoes_isometricas#transformacoes_isometricas.producao",
+        "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas#transformacoes_geometricas.aplicacao",
+        "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas#transformacoes_geometricas.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.geometria_e_transformacoes.treino.01",
+        "mat.em03.geometria_no_plano_cartesiano.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.geometria_e_transformacoes.prova.01",
+        "mat.em01.geometria_e_transformacoes.prova.02",
+        "mat.em01.geometria_e_transformacoes.prova.03",
+        "mat.em03.geometria_no_plano_cartesiano.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.geometria_e_transformacoes.pratica",
+        "mat.em03.geometria_no_plano_cartesiano.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT106",
+      "niveisPropostos": [
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude"
+      ],
+      "atividades": [
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.aplicacao",
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.producao",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.aplicacao",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.modelagem_e_risco.treino.01",
+        "mat.em03.modelagem_e_risco.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em03.modelagem_e_risco.prova.01",
+        "mat.em03.modelagem_e_risco.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.modelagem_e_risco.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT201",
+      "niveisPropostos": [
+        "EM02",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas",
+        "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade"
+      ],
+      "atividades": [
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.aplicacao",
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao",
+        "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade#medicoes_de_area_volume_e_capacidade.aplicacao",
+        "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade#medicoes_de_area_volume_e_capacidade.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.computacao_e_modelagem.treino.01",
+        "mat.em03.grandezas_e_medidas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em02.computacao_e_modelagem.prova.01",
+        "mat.em03.grandezas_e_medidas.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.computacao_e_modelagem.pratica",
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT202",
+      "niveisPropostos": [
+        "EM02",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio",
+        "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados"
+      ],
+      "atividades": [
+        "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio#pesquisa_amostral_e_relatorio.aplicacao",
+        "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio#pesquisa_amostral_e_relatorio.producao",
+        "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados#pesquisa_amostral_e_coleta_de_dados.aplicacao",
+        "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados#pesquisa_amostral_e_coleta_de_dados.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.estatistica_e_probabilidade.treino.01",
+        "mat.em03.estatistica.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em02.estatistica_e_probabilidade.prova.01",
+        "mat.em03.estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.pratica",
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT203",
+      "niveisPropostos": [
+        "EM01",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto",
+        "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros",
+        "mat.em03.computacao.projeto_de_programacao",
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal"
+      ],
+      "atividades": [
+        "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto#porcentagem_lucro_e_desconto.aplicacao",
+        "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto#porcentagem_lucro_e_desconto.producao",
+        "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros#planilhas_e_simuladores_financeiros.aplicacao",
+        "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros#planilhas_e_simuladores_financeiros.producao",
+        "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.aplicacao",
+        "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao",
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.aplicacao",
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.matematica_financeira.treino.01",
+        "mat.em01.matematica_financeira.treino.04",
+        "mat.em03.computacao.treino.04",
+        "mat.em03.educacao_financeira.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.matematica_financeira.prova.01",
+        "mat.em01.matematica_financeira.prova.04",
+        "mat.em03.computacao.prova.04",
+        "mat.em03.educacao_financeira.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.matematica_financeira.pratica",
+        "mat.em03.computacao.pratica",
+        "mat.em03.educacao_financeira.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT301",
+      "niveisPropostos": [
+        "EM02",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares",
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia"
+      ],
+      "atividades": [
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares#sistemas_lineares.aplicacao",
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares#sistemas_lineares.producao",
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.aplicacao",
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.treino.02",
+        "mat.em03.geometria_no_plano_cartesiano.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.prova.01",
+        "mat.em03.geometria_no_plano_cartesiano.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.pratica",
+        "mat.em03.geometria_no_plano_cartesiano.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT302",
+      "niveisPropostos": [
+        "EM01",
+        "EM02"
+      ],
+      "aulas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao",
+        "mat.em01.funcao_quadratica.a_funcao_quadratica",
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa"
+      ],
+      "atividades": [
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao",
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.aplicacao",
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao",
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.aplicacao",
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.conjuntos_e_funcao_afim.treino.02",
+        "mat.em01.funcao_quadratica.treino.01",
+        "mat.em02.proporcionalidade_e_variacao.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.01",
+        "mat.em01.funcao_quadratica.prova.01",
+        "mat.em02.proporcionalidade_e_variacao.prova.01",
+        "mat.em02.proporcionalidade_e_variacao.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica",
+        "mat.em01.funcao_quadratica.pratica",
+        "mat.em02.proporcionalidade_e_variacao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT303",
+      "niveisPropostos": [
+        "EM01",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.matematica_financeira.juros_simples_e_juros_compostos",
+        "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira"
+      ],
+      "atividades": [
+        "mat.em01.matematica_financeira.juros_simples_e_juros_compostos#juros_simples_e_juros_compostos.aplicacao",
+        "mat.em01.matematica_financeira.juros_simples_e_juros_compostos#juros_simples_e_juros_compostos.producao",
+        "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira#fundamentos_da_matematica_financeira.aplicacao",
+        "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira#fundamentos_da_matematica_financeira.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.matematica_financeira.treino.02",
+        "mat.em03.educacao_financeira.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.matematica_financeira.prova.02",
+        "mat.em03.educacao_financeira.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.matematica_financeira.pratica",
+        "mat.em03.educacao_financeira.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT304",
+      "niveisPropostos": [
+        "EM01"
+      ],
+      "aulas": [
+        "mat.em01.funcao_exponencial.potenciacao_e_radiciacao",
+        "mat.em01.funcao_exponencial.a_funcao_exponencial"
+      ],
+      "atividades": [
+        "mat.em01.funcao_exponencial.potenciacao_e_radiciacao#potenciacao_e_radiciacao.aplicacao",
+        "mat.em01.funcao_exponencial.potenciacao_e_radiciacao#potenciacao_e_radiciacao.producao",
+        "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.aplicacao",
+        "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_exponencial.treino.01",
+        "mat.em01.funcao_exponencial.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_exponencial.prova.01",
+        "mat.em01.funcao_exponencial.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_exponencial.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT305",
+      "niveisPropostos": [
+        "EM01"
+      ],
+      "aulas": [
+        "mat.em01.funcao_logaritmica.logaritmo",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica"
+      ],
+      "atividades": [
+        "mat.em01.funcao_logaritmica.logaritmo#logaritmo.aplicacao",
+        "mat.em01.funcao_logaritmica.logaritmo#logaritmo.producao",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.aplicacao",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_logaritmica.treino.01",
+        "mat.em01.funcao_logaritmica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_logaritmica.prova.01",
+        "mat.em01.funcao_logaritmica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_logaritmica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT306",
+      "niveisPropostos": [
+        "EM02"
+      ],
+      "aulas": [
+        "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia",
+        "mat.em02.trigonometria.funcoes_trigonometricas"
+      ],
+      "atividades": [
+        "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia#conceitos_trigonometricos_basicos_na_circunferencia.aplicacao",
+        "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia#conceitos_trigonometricos_basicos_na_circunferencia.producao",
+        "mat.em02.trigonometria.funcoes_trigonometricas#funcoes_trigonometricas.aplicacao",
+        "mat.em02.trigonometria.funcoes_trigonometricas#funcoes_trigonometricas.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.trigonometria.treino.01",
+        "mat.em02.trigonometria.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em02.trigonometria.prova.01",
+        "mat.em02.trigonometria.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.trigonometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT307",
+      "niveisPropostos": [
+        "EM02"
+      ],
+      "aulas": [
+        "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas"
+      ],
+      "atividades": [
+        "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas#medida_de_area_de_regioes_planas.aplicacao",
+        "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas#medida_de_area_de_regioes_planas.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.regioes_planas_e_area.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em02.regioes_planas_e_area.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.regioes_planas_e_area.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT308",
+      "niveisPropostos": [
+        "EM02"
+      ],
+      "aulas": [
+        "mat.em02.trigonometria.relacoes_trigonometricas",
+        "mat.em02.trigonometria.semelhanca_de_poligonos",
+        "mat.em02.trigonometria.leis_do_seno_e_do_cosseno"
+      ],
+      "atividades": [
+        "mat.em02.trigonometria.relacoes_trigonometricas#relacoes_trigonometricas.aplicacao",
+        "mat.em02.trigonometria.relacoes_trigonometricas#relacoes_trigonometricas.producao",
+        "mat.em02.trigonometria.semelhanca_de_poligonos#semelhanca_de_poligonos.aplicacao",
+        "mat.em02.trigonometria.semelhanca_de_poligonos#semelhanca_de_poligonos.producao",
+        "mat.em02.trigonometria.leis_do_seno_e_do_cosseno#leis_do_seno_e_do_cosseno.aplicacao",
+        "mat.em02.trigonometria.leis_do_seno_e_do_cosseno#leis_do_seno_e_do_cosseno.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.trigonometria.treino.03",
+        "mat.em02.trigonometria.treino.04",
+        "mat.em02.trigonometria.treino.05"
+      ],
+      "questoesProva": [
+        "mat.em02.trigonometria.prova.03",
+        "mat.em02.trigonometria.prova.04",
+        "mat.em02.trigonometria.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.trigonometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT309",
+      "niveisPropostos": [
+        "EM02"
+      ],
+      "aulas": [
+        "mat.em02.geometria_espacial.introducao_a_geometria_espacial",
+        "mat.em02.geometria_espacial.prismas_e_cilindros",
+        "mat.em02.geometria_espacial.piramide_e_cone",
+        "mat.em02.geometria_espacial.area_e_volume_da_esfera"
+      ],
+      "atividades": [
+        "mat.em02.geometria_espacial.introducao_a_geometria_espacial#introducao_a_geometria_espacial.aplicacao",
+        "mat.em02.geometria_espacial.introducao_a_geometria_espacial#introducao_a_geometria_espacial.producao",
+        "mat.em02.geometria_espacial.prismas_e_cilindros#prismas_e_cilindros.aplicacao",
+        "mat.em02.geometria_espacial.prismas_e_cilindros#prismas_e_cilindros.producao",
+        "mat.em02.geometria_espacial.piramide_e_cone#piramide_e_cone.aplicacao",
+        "mat.em02.geometria_espacial.piramide_e_cone#piramide_e_cone.producao",
+        "mat.em02.geometria_espacial.area_e_volume_da_esfera#area_e_volume_da_esfera.aplicacao",
+        "mat.em02.geometria_espacial.area_e_volume_da_esfera#area_e_volume_da_esfera.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.geometria_espacial.treino.01",
+        "mat.em02.geometria_espacial.treino.02",
+        "mat.em02.geometria_espacial.treino.03",
+        "mat.em02.geometria_espacial.treino.06"
+      ],
+      "questoesProva": [
+        "mat.em02.geometria_espacial.prova.01",
+        "mat.em02.geometria_espacial.prova.02",
+        "mat.em02.geometria_espacial.prova.03",
+        "mat.em02.geometria_espacial.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.geometria_espacial.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT310",
+      "niveisPropostos": [
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem"
+      ],
+      "atividades": [
+        "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem#analise_combinatoria_diferentes_estrategias_de_contagem.aplicacao",
+        "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem#analise_combinatoria_diferentes_estrategias_de_contagem.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.analise_combinatoria_e_probabilidade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT311",
+      "niveisPropostos": [
+        "EM02",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes"
+      ],
+      "atividades": [
+        "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.aplicacao",
+        "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.producao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.aplicacao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.aplicacao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.estatistica_e_probabilidade.treino.04",
+        "mat.em03.analise_combinatoria_e_probabilidade.treino.02",
+        "mat.em03.modelagem_e_risco.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em02.estatistica_e_probabilidade.prova.04",
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+        "mat.em03.modelagem_e_risco.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.pratica",
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica",
+        "mat.em03.modelagem_e_risco.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT312",
+      "niveisPropostos": [
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos",
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude"
+      ],
+      "atividades": [
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.aplicacao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos#probabilidade_de_eventos_sucessivos.aplicacao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos#probabilidade_de_eventos_sucessivos.producao",
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.aplicacao",
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.producao",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.aplicacao",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.analise_combinatoria_e_probabilidade.treino.02",
+        "mat.em03.analise_combinatoria_e_probabilidade.treino.03",
+        "mat.em03.modelagem_e_risco.treino.01",
+        "mat.em03.modelagem_e_risco.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.03",
+        "mat.em03.modelagem_e_risco.prova.01",
+        "mat.em03.modelagem_e_risco.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica",
+        "mat.em03.modelagem_e_risco.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT313",
+      "niveisPropostos": [
+        "EM01",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano"
+      ],
+      "atividades": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.aplicacao",
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.aplicacao",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.grandezas_e_medidas.treino.01",
+        "mat.em03.grandezas_e_medidas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.grandezas_e_medidas.prova.01",
+        "mat.em03.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.grandezas_e_medidas.pratica",
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT314",
+      "niveisPropostos": [
+        "EM01",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano"
+      ],
+      "atividades": [
+        "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas#razao_e_produto_de_grandezas.aplicacao",
+        "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas#razao_e_produto_de_grandezas.producao",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.aplicacao",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.grandezas_e_medidas.treino.02",
+        "mat.em03.grandezas_e_medidas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.grandezas_e_medidas.prova.02",
+        "mat.em03.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.grandezas_e_medidas.pratica",
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT315",
+      "niveisPropostos": [
+        "EM01",
+        "EM02",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente",
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas",
+        "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao",
+        "mat.em03.computacao.um_pouco_de_historia",
+        "mat.em03.computacao.algoritmos_e_fluxogramas"
+      ],
+      "atividades": [
+        "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente#algoritmos_em_linguagem_corrente.aplicacao",
+        "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente#algoritmos_em_linguagem_corrente.producao",
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.aplicacao",
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao",
+        "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.aplicacao",
+        "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.producao",
+        "mat.em03.computacao.um_pouco_de_historia#um_pouco_de_historia.aplicacao",
+        "mat.em03.computacao.um_pouco_de_historia#um_pouco_de_historia.producao",
+        "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.aplicacao",
+        "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.tecnologia_e_algoritmos.treino.01",
+        "mat.em02.computacao_e_modelagem.treino.01",
+        "mat.em02.computacao_e_modelagem.treino.02",
+        "mat.em03.computacao.treino.01",
+        "mat.em03.computacao.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em01.tecnologia_e_algoritmos.prova.01",
+        "mat.em02.computacao_e_modelagem.prova.01",
+        "mat.em02.computacao_e_modelagem.prova.02",
+        "mat.em03.computacao.prova.01",
+        "mat.em03.computacao.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.tecnologia_e_algoritmos.pratica",
+        "mat.em02.computacao_e_modelagem.pratica",
+        "mat.em03.computacao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT316",
+      "niveisPropostos": [
+        "EM01",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao",
+        "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao"
+      ],
+      "atividades": [
+        "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao#medidas_de_tendencia_central_e_dispersao.aplicacao",
+        "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao#medidas_de_tendencia_central_e_dispersao.producao",
+        "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao#medidas_de_tendencia_central_e_medidas_de_dispersao.aplicacao",
+        "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao#medidas_de_tendencia_central_e_medidas_de_dispersao.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.estatistica_e_graficos.treino.03",
+        "mat.em03.estatistica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.estatistica_e_graficos.prova.03",
+        "mat.em03.estatistica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.estatistica_e_graficos.pratica",
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT401",
+      "niveisPropostos": [
+        "EM01",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim",
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia"
+      ],
+      "atividades": [
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao",
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.aplicacao",
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.conjuntos_e_funcao_afim.treino.02",
+        "mat.em01.conjuntos_e_funcao_afim.treino.03",
+        "mat.em03.geometria_no_plano_cartesiano.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.01",
+        "mat.em01.conjuntos_e_funcao_afim.prova.02",
+        "mat.em03.geometria_no_plano_cartesiano.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica",
+        "mat.em03.geometria_no_plano_cartesiano.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT402",
+      "niveisPropostos": [
+        "EM01"
+      ],
+      "aulas": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica"
+      ],
+      "atividades": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.aplicacao",
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.aplicacao",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_quadratica.treino.01",
+        "mat.em01.funcao_quadratica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_quadratica.prova.01",
+        "mat.em01.funcao_quadratica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_quadratica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT403",
+      "niveisPropostos": [
+        "EM01"
+      ],
+      "aulas": [
+        "mat.em01.funcao_exponencial.a_funcao_exponencial",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica"
+      ],
+      "atividades": [
+        "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.aplicacao",
+        "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.producao",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.aplicacao",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_exponencial.treino.02",
+        "mat.em01.funcao_logaritmica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_exponencial.prova.02",
+        "mat.em01.funcao_logaritmica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_exponencial.pratica",
+        "mat.em01.funcao_logaritmica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT404",
+      "niveisPropostos": [
+        "EM01"
+      ],
+      "aulas": [
+        "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca"
+      ],
+      "atividades": [
+        "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca#funcoes_definidas_por_mais_de_uma_sentenca.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca#funcoes_definidas_por_mais_de_uma_sentenca.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.conjuntos_e_funcao_afim.treino.04"
+      ],
+      "questoesProva": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT405",
+      "niveisPropostos": [
+        "EM01",
+        "EM02",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis",
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas",
+        "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao",
+        "mat.em03.computacao.conceitos_iniciais",
+        "mat.em03.computacao.algoritmos_e_fluxogramas",
+        "mat.em03.computacao.projeto_de_programacao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes"
+      ],
+      "atividades": [
+        "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis#primeiros_programas_e_variaveis.aplicacao",
+        "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis#primeiros_programas_e_variaveis.producao",
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.aplicacao",
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao",
+        "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.aplicacao",
+        "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.producao",
+        "mat.em03.computacao.conceitos_iniciais#conceitos_iniciais.aplicacao",
+        "mat.em03.computacao.conceitos_iniciais#conceitos_iniciais.producao",
+        "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.aplicacao",
+        "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao",
+        "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.aplicacao",
+        "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.aplicacao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.tecnologia_e_algoritmos.treino.02",
+        "mat.em02.computacao_e_modelagem.treino.01",
+        "mat.em02.computacao_e_modelagem.treino.02",
+        "mat.em03.computacao.treino.02",
+        "mat.em03.computacao.treino.03",
+        "mat.em03.computacao.treino.04",
+        "mat.em03.modelagem_e_risco.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em01.tecnologia_e_algoritmos.prova.02",
+        "mat.em02.computacao_e_modelagem.prova.01",
+        "mat.em02.computacao_e_modelagem.prova.02",
+        "mat.em03.computacao.prova.02",
+        "mat.em03.computacao.prova.03",
+        "mat.em03.computacao.prova.04",
+        "mat.em03.modelagem_e_risco.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.tecnologia_e_algoritmos.pratica",
+        "mat.em02.computacao_e_modelagem.pratica",
+        "mat.em03.computacao.pratica",
+        "mat.em03.modelagem_e_risco.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT406",
+      "niveisPropostos": [
+        "EM01",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia",
+        "mat.em03.estatistica.introducao_a_estatistica"
+      ],
+      "atividades": [
+        "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia#tabelas_e_graficos_de_frequencia.aplicacao",
+        "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia#tabelas_e_graficos_de_frequencia.producao",
+        "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.aplicacao",
+        "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.estatistica_e_graficos.treino.02",
+        "mat.em03.estatistica.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.estatistica_e_graficos.prova.02",
+        "mat.em03.estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.estatistica_e_graficos.pratica",
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT407",
+      "niveisPropostos": [
+        "EM02",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas",
+        "mat.em03.estatistica.histogramas_e_diagramas_de_caixa"
+      ],
+      "atividades": [
+        "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas#diagramas_de_caixa_e_histogramas.aplicacao",
+        "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas#diagramas_de_caixa_e_histogramas.producao",
+        "mat.em03.estatistica.histogramas_e_diagramas_de_caixa#histogramas_e_diagramas_de_caixa.aplicacao",
+        "mat.em03.estatistica.histogramas_e_diagramas_de_caixa#histogramas_e_diagramas_de_caixa.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.estatistica_e_probabilidade.treino.02",
+        "mat.em03.estatistica.treino.04"
+      ],
+      "questoesProva": [
+        "mat.em02.estatistica_e_probabilidade.prova.02",
+        "mat.em03.estatistica.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.pratica",
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT501",
+      "niveisPropostos": [
+        "EM01"
+      ],
+      "aulas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim"
+      ],
+      "atividades": [
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.conjuntos_e_funcao_afim.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT502",
+      "niveisPropostos": [
+        "EM01"
+      ],
+      "aulas": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica"
+      ],
+      "atividades": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.aplicacao",
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_quadratica.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_quadratica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_quadratica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT503",
+      "niveisPropostos": [
+        "EM01"
+      ],
+      "aulas": [
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica"
+      ],
+      "atividades": [
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.aplicacao",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_quadratica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_quadratica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_quadratica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT504",
+      "niveisPropostos": [
+        "EM02"
+      ],
+      "aulas": [
+        "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri"
+      ],
+      "atividades": [
+        "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri#volumes_e_principio_de_cavalieri.aplicacao",
+        "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri#volumes_e_principio_de_cavalieri.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.geometria_espacial.treino.05"
+      ],
+      "questoesProva": [
+        "mat.em02.geometria_espacial.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.geometria_espacial.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT505",
+      "niveisPropostos": [
+        "EM02"
+      ],
+      "aulas": [
+        "mat.em02.regioes_planas_e_area.ladrilhamento"
+      ],
+      "atividades": [
+        "mat.em02.regioes_planas_e_area.ladrilhamento#ladrilhamento.aplicacao",
+        "mat.em02.regioes_planas_e_area.ladrilhamento#ladrilhamento.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.regioes_planas_e_area.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em02.regioes_planas_e_area.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.regioes_planas_e_area.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT506",
+      "niveisPropostos": [
+        "EM02"
+      ],
+      "aulas": [
+        "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares"
+      ],
+      "atividades": [
+        "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares#area_e_perimetro_de_poligonos_regulares.aplicacao",
+        "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares#area_e_perimetro_de_poligonos_regulares.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.regioes_planas_e_area.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em02.regioes_planas_e_area.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.regioes_planas_e_area.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT507",
+      "niveisPropostos": [
+        "EM01"
+      ],
+      "aulas": [
+        "mat.em01.sequencias_e_progressoes.sequencias",
+        "mat.em01.sequencias_e_progressoes.progressao_aritmetica"
+      ],
+      "atividades": [
+        "mat.em01.sequencias_e_progressoes.sequencias#sequencias.aplicacao",
+        "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao",
+        "mat.em01.sequencias_e_progressoes.progressao_aritmetica#progressao_aritmetica.aplicacao",
+        "mat.em01.sequencias_e_progressoes.progressao_aritmetica#progressao_aritmetica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.sequencias_e_progressoes.treino.01",
+        "mat.em01.sequencias_e_progressoes.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.sequencias_e_progressoes.prova.01",
+        "mat.em01.sequencias_e_progressoes.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.sequencias_e_progressoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT508",
+      "niveisPropostos": [
+        "EM01"
+      ],
+      "aulas": [
+        "mat.em01.sequencias_e_progressoes.sequencias",
+        "mat.em01.sequencias_e_progressoes.progressao_geometrica"
+      ],
+      "atividades": [
+        "mat.em01.sequencias_e_progressoes.sequencias#sequencias.aplicacao",
+        "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao",
+        "mat.em01.sequencias_e_progressoes.progressao_geometrica#progressao_geometrica.aplicacao",
+        "mat.em01.sequencias_e_progressoes.progressao_geometrica#progressao_geometrica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.sequencias_e_progressoes.treino.01",
+        "mat.em01.sequencias_e_progressoes.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em01.sequencias_e_progressoes.prova.01",
+        "mat.em01.sequencias_e_progressoes.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.sequencias_e_progressoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT509",
+      "niveisPropostos": [
+        "EM02"
+      ],
+      "aulas": [
+        "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas"
+      ],
+      "atividades": [
+        "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas#esfera_e_projecoes_cartograficas.aplicacao",
+        "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas#esfera_e_projecoes_cartograficas.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.geometria_espacial.treino.04"
+      ],
+      "questoesProva": [
+        "mat.em02.geometria_espacial.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.geometria_espacial.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT510",
+      "niveisPropostos": [
+        "EM02",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste",
+        "mat.em03.estatistica.correlacao_e_reta_de_ajuste"
+      ],
+      "atividades": [
+        "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste#duas_variaveis_e_reta_de_ajuste.aplicacao",
+        "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste#duas_variaveis_e_reta_de_ajuste.producao",
+        "mat.em03.estatistica.correlacao_e_reta_de_ajuste#correlacao_e_reta_de_ajuste.aplicacao",
+        "mat.em03.estatistica.correlacao_e_reta_de_ajuste#correlacao_e_reta_de_ajuste.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.estatistica_e_probabilidade.treino.03",
+        "mat.em03.estatistica.treino.05"
+      ],
+      "questoesProva": [
+        "mat.em02.estatistica_e_probabilidade.prova.03",
+        "mat.em03.estatistica.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.pratica",
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    },
+    {
+      "codigo": "EM13MAT511",
+      "niveisPropostos": [
+        "EM02",
+        "EM03"
+      ],
+      "aulas": [
+        "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes"
+      ],
+      "atividades": [
+        "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.aplicacao",
+        "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.producao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.aplicacao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.aplicacao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.em02.estatistica_e_probabilidade.treino.04",
+        "mat.em03.analise_combinatoria_e_probabilidade.treino.02",
+        "mat.em03.modelagem_e_risco.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em02.estatistica_e_probabilidade.prova.04",
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+        "mat.em03.modelagem_e_risco.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.pratica",
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica",
+        "mat.em03.modelagem_e_risco.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes"
+    }
+  ],
+  "pendencias": [
+    "Homologação docente e aplicação das produções.",
+    "Revisão visual e acessibilidade.",
+    "Firebase e cache reais."
+  ]
+}

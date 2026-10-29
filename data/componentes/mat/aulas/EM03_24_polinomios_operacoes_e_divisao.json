@@ -1,0 +1,105 @@
+{
+  "id": "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 24,
+  "unidade": "Complexos e Polinômios — Complementar",
+  "titulo": "Polinomios operacoes e divisao",
+  "bncc": [],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Faça soma e produto de polinômios, divida x³−1 por x−1 e verifique DQ+R",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Um polinômio organiza coeficientes por potências inteiras não negativas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Polinomios operacoes e divisao</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Um polinômio organiza coeficientes por potências inteiras não negativas. Grau é o maior expoente de coeficiente não nulo; o polinômio nulo requer convenção separada. Divisão euclidiana satisfaz P=DQ+R com grau R menor que grau D. Valores numéricos podem ser obtidos por substituição ou Horner.</p><h3>Exemplo resolvido</h3><p>x²+3x+2=(x+1)(x+2). Ao dividir por x+1, quociente x+2 e resto zero. Já P(0)=2 é o resto da divisão por x.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Faça soma e produto de polinômios, divida x³−1 por x−1 e verifique DQ+R. Execute Horner para avaliar um polinômio escolhido e compare com substituição direta.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 333, 335, 337, 340, 344</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "polinomios_operacoes_e_divisao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O resto de x²+2x+3 dividido por x−1 é:",
+      "alternativas": [
+        "6",
+        "3",
+        "0"
+      ],
+      "correta": 0,
+      "explicacao": "P(1)=1+2+3=6."
+    },
+    {
+      "id": "polinomios_operacoes_e_divisao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Faça soma e produto de polinômios, divida x³−1 por x−1 e verifique DQ+R. Execute Horner para avaliar um polinômio escolhido e compare com substituição direta.",
+      "gabarito": "Quociente x²+x+1, resto zero. Conferir todos os coeficientes, inclusive ordens ausentes, e grau do resto.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Quociente x²+x+1, resto zero. Conferir todos os coeficientes, inclusive ordens ausentes, e grau do resto.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        330,
+        332,
+        334,
+        337,
+        341
+      ],
+      "paginasImpressas": "333, 335, 337, 340, 344",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [
+    "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas"
+  ],
+  "proximosPassos": [
+    "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
+}

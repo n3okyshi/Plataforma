@@ -1,0 +1,286 @@
+[
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem",
+    "bncc": [
+      "EM13MAT310"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Escolher dois entre seis, sem ordem, permite:",
+    "opcoes": [
+      "30",
+      "12",
+      "15"
+    ],
+    "correta": 2,
+    "explicacao": "6×5/2=15.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          232,
+          237,
+          241,
+          242,
+          244,
+          247
+        ],
+        "paginasImpressas": "235, 240, 244, 245, 247, 250",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT312",
+      "EM13MAT511"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Duas caras em moedas equilibradas independentes têm chance:",
+    "opcoes": [
+      "1",
+      "1/4",
+      "1/2"
+    ],
+    "correta": 1,
+    "explicacao": "Produto de meios.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          264,
+          266,
+          267,
+          272,
+          274
+        ],
+        "paginasImpressas": "267, 269, 270, 275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos",
+    "bncc": [
+      "EM13MAT312"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Com duas vermelhas e três azuis, duas vermelhas sem reposição têm chance:",
+    "opcoes": [
+      "1/10",
+      "4/25",
+      "2/5"
+    ],
+    "correta": 0,
+    "explicacao": "2/5×1/4=1/10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          270,
+          272,
+          274
+        ],
+        "paginasImpressas": "273, 275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem",
+    "bncc": [
+      "EM13MAT310"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Cargos diferentes de presidente e vice entre cinco pessoas permitem:",
+    "opcoes": [
+      "10",
+      "25",
+      "20"
+    ],
+    "correta": 2,
+    "explicacao": "Cinco escolhas e depois quatro, sem repetição.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          232,
+          237,
+          241,
+          242,
+          244,
+          247
+        ],
+        "paginasImpressas": "235, 240, 244, 245, 247, 250",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT312",
+      "EM13MAT511"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Num sorteio uniforme em [0,1], P(X≤0,2) é:",
+    "opcoes": [
+      "1",
+      "0,2",
+      "0"
+    ],
+    "correta": 1,
+    "explicacao": "O intervalo favorável tem um quinto do comprimento total.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          264,
+          266,
+          267,
+          272,
+          274
+        ],
+        "paginasImpressas": "267, 269, 270, 275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos",
+    "bncc": [
+      "EM13MAT312"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Eventos disjuntos de probabilidade positiva são independentes?",
+    "opcoes": [
+      "Não",
+      "Sempre",
+      "Só se somarem um"
+    ],
+    "correta": 0,
+    "explicacao": "A conjunta é zero, diferente do produto positivo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          270,
+          272,
+          274
+        ],
+        "paginasImpressas": "273, 275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -1,0 +1,202 @@
+{
+  "nivel": "EM01",
+  "motivo": "Consolidação didática do planejamento, com preservação dos IDs do percurso anterior. Destinos de estudo podem abranger mais de uma aula.",
+  "integracoes": [
+    {
+      "idAnterior": "mat.em01.conjuntos_e_funcao_afim.dominio_imagem_e_grafico",
+      "tituloAnterior": "Domínio, Imagem e Gráfico",
+      "destinos": [
+        "mat.em01.conjuntos_e_funcao_afim.conjuntos",
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim",
+        "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.conjuntos_e_funcao_afim.estudo_do_sinal_e_inequacoes",
+      "tituloAnterior": "Estudo do Sinal e Inequações",
+      "destinos": [
+        "mat.em01.conjuntos_e_funcao_afim.conjuntos",
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim",
+        "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.conjuntos_e_funcao_afim.funcao_afim_em_contextos_reais",
+      "tituloAnterior": "Função Afim em Contextos Reais",
+      "destinos": [
+        "mat.em01.conjuntos_e_funcao_afim.conjuntos",
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim",
+        "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.funcao_quadratica.raizes_e_formula_de_bhaskara",
+      "tituloAnterior": "Raízes e Fórmula de Bhaskara",
+      "destinos": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.funcao_quadratica.vertice_maximos_e_minimos",
+      "tituloAnterior": "Vértice, Máximos e Mínimos",
+      "destinos": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.funcao_quadratica.proporcionalidade_quadratica_e_inequacoes",
+      "tituloAnterior": "Proporcionalidade Quadrática e Inequações",
+      "destinos": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.funcao_exponencial.equacoes_e_inequacoes_exponenciais",
+      "tituloAnterior": "Equações e Inequações Exponenciais",
+      "destinos": [
+        "mat.em01.funcao_exponencial.potenciacao_e_radiciacao",
+        "mat.em01.funcao_exponencial.a_funcao_exponencial"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.funcao_exponencial.crescimento_exponencial_e_juros_compostos",
+      "tituloAnterior": "Crescimento Exponencial e Juros Compostos",
+      "destinos": [
+        "mat.em01.funcao_exponencial.potenciacao_e_radiciacao",
+        "mat.em01.funcao_exponencial.a_funcao_exponencial"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.funcao_logaritmica.propriedades_operatorias_e_mudanca_de_base",
+      "tituloAnterior": "Propriedades Operatórias e Mudança de Base",
+      "destinos": [
+        "mat.em01.funcao_logaritmica.logaritmo",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.funcao_logaritmica.equacoes_e_inequacoes_logaritmicas",
+      "tituloAnterior": "Equações e Inequações Logarítmicas",
+      "destinos": [
+        "mat.em01.funcao_logaritmica.logaritmo",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.sequencias_e_progressoes.termo_geral_e_soma_da_pa",
+      "tituloAnterior": "Termo Geral e Soma da PA",
+      "destinos": [
+        "mat.em01.sequencias_e_progressoes.sequencias",
+        "mat.em01.sequencias_e_progressoes.progressao_aritmetica",
+        "mat.em01.sequencias_e_progressoes.progressao_geometrica"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.sequencias_e_progressoes.termo_geral_e_soma_da_pg",
+      "tituloAnterior": "Termo Geral e Soma da PG",
+      "destinos": [
+        "mat.em01.sequencias_e_progressoes.sequencias",
+        "mat.em01.sequencias_e_progressoes.progressao_aritmetica",
+        "mat.em01.sequencias_e_progressoes.progressao_geometrica"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.sequencias_e_progressoes.progressoes_em_problemas_e_funcoes",
+      "tituloAnterior": "Progressões em Problemas e Funções",
+      "destinos": [
+        "mat.em01.sequencias_e_progressoes.sequencias",
+        "mat.em01.sequencias_e_progressoes.progressao_aritmetica",
+        "mat.em01.sequencias_e_progressoes.progressao_geometrica"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.tecnologia_e_algoritmos.fluxogramas_e_estruturas_de_repeticao",
+      "tituloAnterior": "Fluxogramas e Estruturas de Repetição",
+      "destinos": [
+        "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente",
+        "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.tecnologia_e_algoritmos.condicionais_e_lacos_em_programacao",
+      "tituloAnterior": "Condicionais e Laços em Programação",
+      "destinos": [
+        "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente",
+        "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.estatistica_e_graficos.amostras_e_vies_de_interpretacao",
+      "tituloAnterior": "Amostras e Vieses de Interpretação",
+      "destinos": [
+        "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos",
+        "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia",
+        "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.grandezas_e_medidas.notacao_cientifica_e_algarismos_significativos",
+      "tituloAnterior": "Notação Científica e Algarismos Significativos",
+      "destinos": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes",
+        "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.grandezas_e_medidas.medicoes_e_acoes_na_comunidade",
+      "tituloAnterior": "Medições e Ações na Comunidade",
+      "destinos": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes",
+        "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.geometria_e_transformacoes.homotetia_e_semelhanca",
+      "tituloAnterior": "Homotetia e Semelhança",
+      "destinos": [
+        "mat.em01.geometria_e_transformacoes.transformacoes_isometricas"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.geometria_e_transformacoes.figuras_no_plano_cartesiano",
+      "tituloAnterior": "Figuras no Plano Cartesiano",
+      "destinos": [
+        "mat.em01.geometria_e_transformacoes.transformacoes_isometricas"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em01.geometria_e_transformacoes.funcoes_e_suas_representacoes_geometricas",
+      "tituloAnterior": "Funções e suas Representações Geométricas",
+      "destinos": [
+        "mat.em01.geometria_e_transformacoes.transformacoes_isometricas"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    }
+  ]
+}

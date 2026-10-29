@@ -1,0 +1,106 @@
+{
+  "id": "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 20,
+  "unidade": "Estatística e Gráficos",
+  "titulo": "Leitura Crítica de Tabelas e Gráficos",
+  "bncc": [
+    "EM13MAT102"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Selecione relatório divulgado com tabela, gráfico e amostra",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Gráficos podem induzir leituras erradas por escalas cortadas, ausência de denominador, categorias omitidas ou amostra inadequada",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Leitura Crítica de Tabelas e Gráficos</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Gráficos podem induzir leituras erradas por escalas cortadas, ausência de denominador, categorias omitidas ou amostra inadequada. Compare a mensagem com números, fonte, período e população. Descrever o efeito não prova intenção de enganar.</p><h3>Exemplo resolvido</h3><p>Valores fictícios 96 e 100 têm diferença quatro. Barras iniciadas em 95 exibem alturas um e cinco, exagerando a diferença visual relativa.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Selecione relatório divulgado com tabela, gráfico e amostra. Registre fonte e período, critique escala e seleção, refaça uma representação e redija conclusão proporcional à evidência.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "graficos",
+      "leitura_critica"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "leitura_critica_de_tabelas_e_graficos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "De 96 para 100, a diferença absoluta é:",
+      "alternativas": [
+        "100",
+        "4",
+        "5"
+      ],
+      "correta": 1,
+      "explicacao": "100−96=4."
+    },
+    {
+      "id": "leitura_critica_de_tabelas_e_graficos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Selecione relatório divulgado com tabela, gráfico e amostra. Registre fonte e período, critique escala e seleção, refaça uma representação e redija conclusão proporcional à evidência.",
+      "gabarito": "Verificar dados efetivos e distinguir valor original, altura cortada, população-alvo e respondentes; não inventar relatório.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Verificar dados efetivos e distinguir valor original, altura cortada, população-alvo e respondentes; não inventar relatório.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "graficos",
+    "leitura_critica"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

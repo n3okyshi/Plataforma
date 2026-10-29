@@ -2,36 +2,114 @@
   "id": "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas",
   "componente": "mat",
   "nivel": "EM02",
-  "ordem": 6,
+  "ordem": 4,
   "unidade": "Geometria Espacial",
   "titulo": "Esfera e Projeções Cartográficas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT509"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construa grades em esfera ou globo e compare transferências para cilindro e cone de papel, ou mapas de fontes cartográficas identificadas",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Representar uma superfície esférica no plano envolve deformações",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Esfera e Mapas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de área e volume da esfera e o desafio de representar a Terra curva em um mapa plano (projeções).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🍊 Descascando a Laranja:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">É impossível planificar uma esfera sem distorções. As projeções (Cilíndrica, Cônica) são tentativas matemáticas de minimizar isso.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Esfera e Projeções Cartográficas</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Representar uma superfície esférica no plano envolve deformações. Projeções cilíndricas e cônicas usam regras diferentes; não se deve medir áreas e ângulos como se qualquer mapa preservasse ambos. Investigue a grade e a latitude antes de interpretar tamanhos aparentes.</p><h3>Exemplo resolvido</h3><p>Na grade latitude/longitude desenhada com espaçamentos iguais no papel, células perto de 60° têm área esférica aproximadamente metade da de células equivalentes no equador, embora os retângulos do mapa pareçam iguais.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa grades em esfera ou globo e compare transferências para cilindro e cone de papel, ou mapas de fontes cartográficas identificadas. Compare ângulos e áreas em duas regiões e explique quais propriedades mudam, registrando o método.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li><li>USGS — Map projections: A working manual — <a href=\"https://www.usgs.gov/educational-resources/map-projections-working-manual\" target=\"_blank\" rel=\"noopener noreferrer\">consultar fonte</a></li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "esfera",
+      "projecoes",
+      "cartografia"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "esfera_e_projecoes_cartograficas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um mapa plano deve ser interpretado considerando:",
+      "alternativas": [
+        "Preservação universal de áreas e ângulos",
+        "Apenas a cor",
+        "A projeção e suas deformações"
+      ],
+      "correta": 2,
+      "explicacao": "A regra de projeção altera medidas e aparência."
+    },
+    {
+      "id": "esfera_e_projecoes_cartograficas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa grades em esfera ou globo e compare transferências para cilindro e cone de papel, ou mapas de fontes cartográficas identificadas. Compare ângulos e áreas em duas regiões e explique quais propriedades mudam, registrando o método.",
+      "gabarito": "Conferir comparação efetiva, regra de projeção e regiões. Nem todo desenho cônico preserva área ou ângulo; não generalizar propriedades de uma projeção específica para a família inteira.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir comparação efetiva, regra de projeção e regiões. Nem todo desenho cônico preserva área ou ângulo; não generalizar propriedades de uma projeção específica para a família inteira.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "esfera",
+    "projecoes",
+    "cartografia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "USGS — Map projections: A working manual",
+      "url": "https://www.usgs.gov/educational-resources/map-projections-working-manual",
+      "uso": "Fonte cartográfica complementar: famílias de projeção e deformações; explicações e investigação autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.geometria_espacial.piramide_e_cone"
+  ],
+  "proximosPassos": [
+    "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

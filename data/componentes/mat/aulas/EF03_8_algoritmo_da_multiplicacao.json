@@ -2,36 +2,112 @@
   "id": "mat.ef03.multiplicacao.algoritmo_da_multiplicacao",
   "componente": "mat",
   "nivel": "EF03",
-  "ordem": 8,
+  "ordem": 7,
   "unidade": "Multiplicação",
   "titulo": "Algoritmo da Multiplicação",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF03MA07"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Desenhe ou monte 18×5 e 24×3 como grupos e retângulos",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Multiplicar por 2,3,4,5 ou 10 pode ser explicado por grupos iguais e disposição retangular",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Conta de Multiplicar</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Avançando das somas repetidas para a conta armada. Resolução de problemas de combinatória simples (roupas, sabores).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">👕 Combinando:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Se tenho 2 bermudas e 3 camisetas, posso fazer 2 x 3 = 6 trajes diferentes.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Algoritmo da Multiplicação</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Multiplicar por 2,3,4,5 ou 10 pode ser explicado por grupos iguais e disposição retangular. A distributiva sustenta o algoritmo: multiplicar dezenas e unidades separadamente e reunir os produtos.</p><h3>Exemplo resolvido</h3><p>23×4=(20×4)+(3×4)=80+12=92. Um arranjo de quatro linhas de vinte e três peças mostra as mesmas partes.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Desenhe ou monte 18×5 e 24×3 como grupos e retângulos. Elabore uma história para um deles e confira por adição de parcelas iguais.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 287</li><li>MC_MATEM_EF.pdf — páginas impressas 37, 38</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "multiplicacao",
+      "algoritmo"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
+  "atividades": [
+    {
+      "id": "algoritmo_da_multiplicacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto é 32×3?",
+      "alternativas": [
+        "35",
+        "86",
+        "96"
+      ],
+      "correta": 2,
+      "explicacao": "30×3+2×3=90+6."
+    },
+    {
+      "id": "algoritmo_da_multiplicacao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe ou monte 18×5 e 24×3 como grupos e retângulos. Elabore uma história para um deles e confira por adição de parcelas iguais.",
+      "gabarito": "90 e 72. As linhas ou grupos devem conservar quantidade por grupo e número de grupos; a história precisa pedir o total.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "90 e 72. As linhas ou grupos devem conservar quantidade por grupo e número de grupos; a história precisa pedir o total.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "multiplicacao",
+    "algoritmo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34,
+        35
+      ],
+      "paginasImpressas": "37, 38",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
   "preRequisitos": [],
   "proximosPassos": [],
-  "fontes": [],
-  "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

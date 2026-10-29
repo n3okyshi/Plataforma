@@ -1,0 +1,167 @@
+{
+  "id": "mat.ef04.geometria.prova",
+  "titulo": "Avaliação: Geometria",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF04",
+  "unidade": "Geometria",
+  "bncc": [
+    "EF04MA16",
+    "EF04MA17",
+    "EF04MA18",
+    "EF04MA19"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef04.geometria.prova.01",
+    "mat.ef04.geometria.prova.02",
+    "mat.ef04.geometria.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF04MA16",
+      "questoes": [
+        "mat.ef04.geometria.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA17",
+      "questoes": [
+        "mat.ef04.geometria.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.geometria.planificacoes_de_prismas_e_piramides#planificacoes_de_prismas_e_piramides.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA18",
+      "questoes": [
+        "mat.ef04.geometria.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.geometria.angulos_e_poligonos#angulos_e_poligonos.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA19",
+      "questoes": [
+        "mat.ef04.geometria.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef04.geometria.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Geometria",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF04MA16",
+      "EF04MA17",
+      "EF04MA18",
+      "EF04MA19"
+    ],
+    "atividadesOrigem": [
+      "mat.ef04.geometria.angulos_e_poligonos#angulos_e_poligonos.producao",
+      "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.producao",
+      "mat.ef04.geometria.planificacoes_de_prismas_e_piramides#planificacoes_de_prismas_e_piramides.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Ângulos e Polígonos",
+        "enunciado": "Produza um canto reto por dobradura e use-o para investigar quadriláteros e triângulos em posições variadas. Marque os ângulos retos e compare os demais sem depender só da aparência.",
+        "gabarito": "Conferir superposição de vértice e direções; aceitar esquadro ou software. O tamanho dos segmentos não muda o ângulo.",
+        "bncc": [
+          "EF04MA18"
+        ],
+        "atividadeOrigem": "mat.ef04.geometria.angulos_e_poligonos#angulos_e_poligonos.producao"
+      },
+      {
+        "titulo": "Localização, Deslocamento e Simetria",
+        "enunciado": "Desenhe ruas paralelas e uma transversal perpendicular numa malha, indique um trajeto com mudanças de direção e sentido. Reflita uma figura em eixo vertical e confira por dobradura.",
+        "gabarito": "Avaliar referências, intersecções, trajetos e distâncias iguais ao eixo. Não confundir reflexão com simples deslocamento.",
+        "bncc": [
+          "EF04MA16",
+          "EF04MA19"
+        ],
+        "atividadeOrigem": "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.producao"
+      },
+      {
+        "titulo": "Planificações de Prismas e Pirâmides",
+        "enunciado": "Desenhe e teste redes de um prisma triangular e de uma pirâmide quadrangular. Compare bases, faces laterais e o modelo fechado, registrando correções.",
+        "gabarito": "Prisma: cinco faces; pirâmide: cinco faces, mas tipos e organização diferentes. Verificar dimensões compatíveis e fechamento real.",
+        "bncc": [
+          "EF04MA17"
+        ],
+        "atividadeOrigem": "mat.ef04.geometria.planificacoes_de_prismas_e_piramides#planificacoes_de_prismas_e_piramides.producao"
+      }
+    ],
+    "duracaoMinSugerida": 90,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        295
+      ],
+      "paginasImpressas": "293",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        329,
+        330
+      ],
+      "paginasImpressas": "332, 333",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        322,
+        355
+      ],
+      "paginasImpressas": "325, 358",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

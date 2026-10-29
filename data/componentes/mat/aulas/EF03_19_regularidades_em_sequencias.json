@@ -1,0 +1,106 @@
+{
+  "id": "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 19,
+  "unidade": "Padrões e Igualdade",
+  "titulo": "Regularidades em Sequências",
+  "bncc": [
+    "EF03MA10"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Construa seis termos começando em 12 e somando sete",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Adições ou subtrações sucessivas do mesmo número criam regularidades",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Regularidades em Sequências</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Adições ou subtrações sucessivas do mesmo número criam regularidades. Registre o início e o passo e confira cada intervalo. Uma sequência finita pode admitir outras regras; a atividade precisa informar ou justificar a regra escolhida.</p><h3>Exemplo resolvido</h3><p>Começando em 14 e somando seis: 14,20,26,32. Retirando quatro a partir de 31: 31,27,23,19.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa seis termos começando em 12 e somando sete. Depois seis termos de 45 retirando cinco. Oculte um termo e explique como recuperá-lo.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 287</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "padroes",
+      "sequencias"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "regularidades_em_sequencias.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na regra somar seis, após 32 vem:",
+      "alternativas": [
+        "36",
+        "37",
+        "38"
+      ],
+      "correta": 2,
+      "explicacao": "32+6=38."
+    },
+    {
+      "id": "regularidades_em_sequencias.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa seis termos começando em 12 e somando sete. Depois seis termos de 45 retirando cinco. Oculte um termo e explique como recuperá-lo.",
+      "gabarito": "12,19,26,33,40,47; 45,40,35,30,25,20. Justificar o passo constante antes e depois da lacuna.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "12,19,26,33,40,47; 45,40,35,30,25,20. Justificar o passo constante antes e depois da lacuna.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "padroes",
+    "sequencias"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

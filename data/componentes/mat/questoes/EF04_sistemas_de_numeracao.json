@@ -1,0 +1,180 @@
+[
+  {
+    "id": "mat.ef04.sistemas_de_numeracao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Sistemas de Numeração",
+    "aulaId": "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar",
+    "bncc": [
+      "EF04MA01",
+      "EF04MA02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em 72504, o 7 representa:",
+    "opcoes": [
+      "7000",
+      "700",
+      "70000"
+    ],
+    "correta": 2,
+    "explicacao": "Sete dezenas de milhar.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.sistemas_de_numeracao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Sistemas de Numeração",
+    "aulaId": "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar",
+    "bncc": [
+      "EF04MA01",
+      "EF04MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual decomposição conserva 40318?",
+    "opcoes": [
+      "4×1000+318",
+      "40000+3000+18",
+      "4×10000+3×100+1×10+8"
+    ],
+    "correta": 2,
+    "explicacao": "A primeira totaliza quarenta mil trezentos e dezoito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.sistemas_de_numeracao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Sistemas de Numeração",
+    "aulaId": "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar",
+    "bncc": [
+      "EF04MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é a ordem crescente?",
+    "opcoes": [
+      "47008,40708,47800",
+      "40708,47008,47800",
+      "47800,47008,40708"
+    ],
+    "correta": 1,
+    "explicacao": "Compare ordens da esquerda para a direita.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.sistemas_de_numeracao.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Sistemas de Numeração",
+    "aulaId": "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar",
+    "bncc": [
+      "EF04MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "5×10000+7×100+9 representa:",
+    "opcoes": [
+      "50709",
+      "57009",
+      "50790"
+    ],
+    "correta": 0,
+    "explicacao": "São cinquenta mil, setecentos e nove.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

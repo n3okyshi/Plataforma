@@ -1,0 +1,276 @@
+[
+  {
+    "id": "mat.em01.sequencias_e_progressoes.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.sequencias",
+    "bncc": [
+      "EM13MAT507",
+      "EM13MAT508"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para a_n=4n−1, o décimo termo é:",
+    "opcoes": [
+      "40",
+      "41",
+      "39"
+    ],
+    "correta": 2,
+    "explicacao": "4×10−1=39.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          162,
+          164,
+          173
+        ],
+        "paginasImpressas": "165, 167, 176",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.sequencias_e_progressoes.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.progressao_aritmetica",
+    "bncc": [
+      "EM13MAT507"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Na PA a_1=3,r=4, a_8 é:",
+    "opcoes": [
+      "32",
+      "31",
+      "35"
+    ],
+    "correta": 1,
+    "explicacao": "3+7×4=31.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          164,
+          168,
+          170
+        ],
+        "paginasImpressas": "167, 171, 173",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.sequencias_e_progressoes.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.progressao_geometrica",
+    "bncc": [
+      "EM13MAT508"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Na PG 2,6,18, o quarto termo é:",
+    "opcoes": [
+      "54",
+      "36",
+      "24"
+    ],
+    "correta": 0,
+    "explicacao": "A razão é três.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          173,
+          176,
+          178,
+          179
+        ],
+        "paginasImpressas": "176, 179, 181, 182",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.sequencias_e_progressoes.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.sequencias",
+    "bncc": [
+      "EM13MAT507",
+      "EM13MAT508"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Na sequência 3,6,12 por duplicação, o próximo é:",
+    "opcoes": [
+      "18",
+      "15",
+      "24"
+    ],
+    "correta": 2,
+    "explicacao": "A regra multiplica por dois.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          162,
+          164,
+          173
+        ],
+        "paginasImpressas": "165, 167, 176",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.sequencias_e_progressoes.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.progressao_aritmetica",
+    "bncc": [
+      "EM13MAT507"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A soma de 2,4,6,8,10 é:",
+    "opcoes": [
+      "25",
+      "30",
+      "20"
+    ],
+    "correta": 1,
+    "explicacao": "Cinco termos de média seis totalizam trinta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          164,
+          168,
+          170
+        ],
+        "paginasImpressas": "167, 171, 173",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.sequencias_e_progressoes.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.progressao_geometrica",
+    "bncc": [
+      "EM13MAT508"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A soma infinita 3+1,5+0,75+… é:",
+    "opcoes": [
+      "6",
+      "4,5",
+      "Infinita necessariamente"
+    ],
+    "correta": 0,
+    "explicacao": "q=1/2 e S=3/(1−1/2)=6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          173,
+          176,
+          178,
+          179
+        ],
+        "paginasImpressas": "176, 179, 181, 182",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

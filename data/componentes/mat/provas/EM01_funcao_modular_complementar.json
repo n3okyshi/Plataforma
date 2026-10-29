@@ -1,0 +1,76 @@
+{
+  "id": "mat.em01.funcao_modular_complementar.prova",
+  "titulo": "Avaliação: Função Modular — Complementar",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM01",
+  "unidade": "Função Modular — Complementar",
+  "bncc": [],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": true,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em01.funcao_modular_complementar.prova.01",
+    "mat.em01.funcao_modular_complementar.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [],
+  "avaliacaoPratica": {
+    "id": "mat.em01.funcao_modular_complementar.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Função Modular — Complementar",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [],
+    "atividadesOrigem": [
+      "mat.em01.funcao_modular_complementar.funcao_modular#funcao_modular.producao",
+      "mat.em01.funcao_modular_complementar.equacoes_e_inequacoes_modulares#equacoes_e_inequacoes_modulares.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Funcao modular",
+        "enunciado": "Construa tabela e gráfico de |x−2| e 2|x+1|−3, escreva por trechos e compare vértice, imagem e inclinações.",
+        "gabarito": "Segundo vértice (−1,−3), imagem [−3,+∞). Conferir sinais, condições dos trechos e representação gráfica.",
+        "bncc": [],
+        "atividadeOrigem": "mat.em01.funcao_modular_complementar.funcao_modular#funcao_modular.producao"
+      },
+      {
+        "titulo": "Equacoes e inequacoes modulares",
+        "enunciado": "Resolva |2x−1|=5 e |x+2|>3 por casos e por reta, conferindo as soluções originais. Crie um problema de tolerância usando distância.",
+        "gabarito": "x=3 ou −2; desigualdade x<−5 ou x>1. Conferir extremos e domínio.",
+        "bncc": [],
+        "atividadeOrigem": "mat.em01.funcao_modular_complementar.equacoes_e_inequacoes_modulares#equacoes_e_inequacoes_modulares.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        51,
+        54
+      ],
+      "paginasImpressas": "54, 57",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        56,
+        58
+      ],
+      "paginasImpressas": "59, 61",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

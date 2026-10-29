@@ -1,0 +1,119 @@
+{
+  "id": "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 14,
+  "unidade": "Matemática Financeira",
+  "titulo": "Porcentagem, Lucro e Desconto",
+  "bncc": [
+    "EM13MAT203"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Implemente planilha que diferencie custo, venda, lucro, margem e acréscimo",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Percentuais exigem base explícita",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Porcentagem, Lucro e Desconto</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Percentuais exigem base explícita. Margem sobre preço de venda e acréscimo sobre custo são razões diferentes. Percentuais sucessivos multiplicam fatores; aumento e desconto da mesma taxa não se anulam em geral. Uma planilha pode comparar cenários sem pressupor custos reais atuais.</p><h3>Exemplo resolvido</h3><p>Custo fictício 80 e venda 100 dão lucro 20: acréscimo sobre custo 25%, margem sobre venda 20%. Aumento de 10% e desconto de 10% multiplicam por 0,99.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Implemente planilha que diferencie custo, venda, lucro, margem e acréscimo. Compare descontos sucessivos e registre testes de base e decisão fictícia.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543</li><li>MC_MATEM_EM.pdf — páginas impressas 288, 290, 292, 294</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "porcentagem",
+      "lucro",
+      "desconto"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "porcentagem_lucro_e_desconto.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Preço 200 com desconto de 15% fica:",
+      "alternativas": [
+        "30",
+        "170",
+        "185"
+      ],
+      "correta": 1,
+      "explicacao": "Redução trinta, preço final cento e setenta."
+    },
+    {
+      "id": "porcentagem_lucro_e_desconto.producao",
+      "tipo": "discursiva",
+      "enunciado": "Implemente planilha que diferencie custo, venda, lucro, margem e acréscimo. Compare descontos sucessivos e registre testes de base e decisão fictícia.",
+      "gabarito": "Conferir denominadores, lucro versus receita, fatores sucessivos e execução das fórmulas.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir denominadores, lucro versus receita, fatores sucessivos e execução das fórmulas.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "porcentagem",
+    "lucro",
+    "desconto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        285,
+        287,
+        289,
+        291
+      ],
+      "paginasImpressas": "288, 290, 292, 294",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em01.matematica_financeira.juros_simples_e_juros_compostos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

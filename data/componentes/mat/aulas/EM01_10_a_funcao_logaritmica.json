@@ -5,33 +5,113 @@
   "ordem": 10,
   "unidade": "Função Logarítmica",
   "titulo": "A Função Logarítmica",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT305",
+    "EM13MAT403"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construa tabelas e gráficos de 2^x e log_2(x), trocando coordenadas",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "A função logarítmica é inversa da exponencial correspondente: domínio positivo e imagem real",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Função Logarítmica</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo da função $f(x) = log_a(x)$. Análise gráfica e aplicações.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🪞 Simetria:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O gráfico do logaritmo é simétrico ao da exponencial em relação à reta $y = x$. Usado na Escala Richter e pH.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>A Função Logarítmica</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>A função logarítmica é inversa da exponencial correspondente: domínio positivo e imagem real. Cresce para base maior que um e decresce para base entre zero e um. Escalas logarítmicas comparam fatores multiplicativos, não diferenças absolutas constantes.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Função y=log na base dois de x; domínio positivo, zero em x=1.\"><title>Função y=log na base dois de x; domínio positivo, zero em x=1.</title><defs><clipPath id=\"limites\"><rect x=\"58\" y=\"38\" width=\"334\" height=\"169\"/></clipPath></defs><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 122.5H390\"/></g><text x=\"60.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">0.25</text><text x=\"14\" y=\"209.0\" fill=\"currentColor\" font-size=\"12\">-2</text><text x=\"142.5\" y=\"229\" fill=\"currentColor\" font-size=\"12\">1.1875</text><text x=\"14\" y=\"167.75\" fill=\"currentColor\" font-size=\"12\">-1</text><text x=\"225.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">2.125</text><text x=\"14\" y=\"126.5\" fill=\"currentColor\" font-size=\"12\">0</text><text x=\"307.5\" y=\"229\" fill=\"currentColor\" font-size=\"12\">3.0625</text><text x=\"14\" y=\"85.25\" fill=\"currentColor\" font-size=\"12\">1</text><text x=\"390.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">4</text><text x=\"14\" y=\"44.0\" fill=\"currentColor\" font-size=\"12\">2</text><polyline points=\"60.00,205.00 61.65,200.70 63.30,196.68 64.95,192.92 66.60,189.39 68.25,186.05 69.90,182.89 71.55,179.89 73.20,177.03 74.85,174.30 76.50,171.70 78.15,169.20 79.80,166.80 81.45,164.50 83.10,162.28 84.75,160.14 86.40,158.08 88.05,156.08 89.70,154.15 91.35,152.28 93.00,150.47 94.65,148.71 96.30,147.00 97.95,145.34 99.60,143.73 101.25,142.15 102.90,140.62 104.55,139.13 106.20,137.67 107.85,136.25 109.50,134.86 111.15,133.50 112.80,132.17 114.45,130.87 116.10,129.60 117.75,128.36 119.40,127.14 121.05,125.95 122.70,124.77 124.35,123.63 126.00,122.50 127.65,121.39 129.30,120.31 130.95,119.24 132.60,118.20 134.25,117.17 135.90,116.16 137.55,115.16 139.20,114.18 140.85,113.22 142.50,112.27 144.15,111.34 145.80,110.42 147.45,109.52 149.10,108.63 150.75,107.75 152.40,106.89 154.05,106.03 155.70,105.19 157.35,104.37 159.00,103.55 160.65,102.74 162.30,101.95 163.95,101.16 165.60,100.39 167.25,99.62 168.90,98.87 170.55,98.12 172.20,97.39 173.85,96.66 175.50,95.94 177.15,95.23 178.80,94.53 180.45,93.84 182.10,93.15 183.75,92.47 185.40,91.80 187.05,91.14 188.70,90.49 190.35,89.84 192.00,89.20 193.65,88.56 195.30,87.93 196.95,87.31 198.60,86.70 200.25,86.09 201.90,85.49 203.55,84.89 205.20,84.30 206.85,83.72 208.50,83.14 210.15,82.57 211.80,82.00 213.45,81.44 215.10,80.88 216.75,80.33 218.40,79.78 220.05,79.24 221.70,78.70 223.35,78.17 225.00,77.64 226.65,77.12 228.30,76.60 229.95,76.09 231.60,75.58 233.25,75.07 234.90,74.57 236.55,74.08 238.20,73.58 239.85,73.09 241.50,72.61 243.15,72.13 244.80,71.65 246.45,71.18 248.10,70.71 249.75,70.25 251.40,69.78 253.05,69.32 254.70,68.87 256.35,68.42 258.00,67.97 259.65,67.53 261.30,67.08 262.95,66.65 264.60,66.21 266.25,65.78 267.90,65.35 269.55,64.93 271.20,64.50 272.85,64.08 274.50,63.67 276.15,63.25 277.80,62.84 279.45,62.43 281.10,62.03 282.75,61.63 284.40,61.23 286.05,60.83 287.70,60.43 289.35,60.04 291.00,59.65 292.65,59.27 294.30,58.88 295.95,58.50 297.60,58.12 299.25,57.74 300.90,57.37 302.55,57.00 304.20,56.63 305.85,56.26 307.50,55.89 309.15,55.53 310.80,55.17 312.45,54.81 314.10,54.45 315.75,54.10 317.40,53.75 319.05,53.40 320.70,53.05 322.35,52.70 324.00,52.36 325.65,52.01 327.30,51.67 328.95,51.34 330.60,51.00 332.25,50.66 333.90,50.33 335.55,50.00 337.20,49.67 338.85,49.34 340.50,49.02 342.15,48.70 343.80,48.37 345.45,48.05 347.10,47.73 348.75,47.42 350.40,47.10 352.05,46.79 353.70,46.48 355.35,46.17 357.00,45.86 358.65,45.55 360.30,45.25 361.95,44.94 363.60,44.64 365.25,44.34 366.90,44.04 368.55,43.74 370.20,43.45 371.85,43.15 373.50,42.86 375.15,42.57 376.80,42.27 378.45,41.99 380.10,41.70 381.75,41.41 383.40,41.13 385.05,40.84 386.70,40.56 388.35,40.28 390.00,40.00\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\" clip-path=\"url(#limites)\"/><text x=\"397\" y=\"229\" fill=\"currentColor\">x</text><text x=\"15\" y=\"25\" fill=\"currentColor\">y</text></svg><h3>Exemplo resolvido</h3><p>Num modelo fictício de nível L=10log_10(I/I0), multiplicar I por dez acrescenta dez a L. A razão I/I0 precisa ser positiva e sem unidade.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa tabelas e gráficos de 2^x e log_2(x), trocando coordenadas. Resolva log_2(x−1)=3 e uma desigualdade de base 1/2, justificando domínio e sentido.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li><li>MC_MATEM_EM.pdf — páginas impressas 97, 100, 103</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "funcao_logaritmica",
+      "grafico"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "a_funcao_logaritmica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "log_2(x−1)=3 tem solução:",
+      "alternativas": [
+        "7",
+        "8",
+        "9"
+      ],
+      "correta": 2,
+      "explicacao": "x−1=8 e x=9 satisfaz o domínio."
+    },
+    {
+      "id": "a_funcao_logaritmica.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa tabelas e gráficos de 2^x e log_2(x), trocando coordenadas. Resolva log_2(x−1)=3 e uma desigualdade de base 1/2, justificando domínio e sentido.",
+      "gabarito": "Pontos se refletem na reta y=x; x=9, com x>1. Para base menor que um, o sentido da comparação de argumentos se inverte.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Pontos se refletem na reta y=x; x=9, com x>1. Para base menor que um, o sentido da comparação de argumentos se inverte.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "funcao_logaritmica",
+    "grafico"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        94,
+        97,
+        100
+      ],
+      "paginasImpressas": "97, 100, 103",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.funcao_logaritmica.logaritmo"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

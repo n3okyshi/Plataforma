@@ -1,0 +1,638 @@
+{
+  "nivel": "EF04",
+  "estado": "piloto_integral",
+  "aulas": 20,
+  "unidades": 11,
+  "habilidades": [
+    {
+      "codigo": "EF04MA01",
+      "aulas": [
+        "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar"
+      ],
+      "atividades": [
+        "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar#numeros_naturais_ate_a_dezena_de_milhar.aplicacao",
+        "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar#numeros_naturais_ate_a_dezena_de_milhar.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.sistemas_de_numeracao.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.sistemas_de_numeracao.prova.01",
+        "mat.ef04.sistemas_de_numeracao.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.sistemas_de_numeracao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA02",
+      "aulas": [
+        "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar"
+      ],
+      "atividades": [
+        "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar#numeros_naturais_ate_a_dezena_de_milhar.aplicacao",
+        "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar#numeros_naturais_ate_a_dezena_de_milhar.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.sistemas_de_numeracao.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.sistemas_de_numeracao.prova.01",
+        "mat.ef04.sistemas_de_numeracao.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.sistemas_de_numeracao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA03",
+      "aulas": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas"
+      ],
+      "atividades": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas#propriedades_e_problemas.aplicacao",
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas#propriedades_e_problemas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.01",
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA04",
+      "aulas": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
+        "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades",
+        "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes"
+      ],
+      "atividades": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas#propriedades_e_problemas.aplicacao",
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas#propriedades_e_problemas.producao",
+        "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades#algoritmo_e_propriedades.aplicacao",
+        "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades#algoritmo_e_propriedades.producao",
+        "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.aplicacao",
+        "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.treino.01",
+        "mat.ef04.multiplicacao_com_numeros_naturais.treino.01",
+        "mat.ef04.padroes_e_igualdade.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.01",
+        "mat.ef04.multiplicacao_com_numeros_naturais.prova.01",
+        "mat.ef04.padroes_e_igualdade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.pratica",
+        "mat.ef04.multiplicacao_com_numeros_naturais.pratica",
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA05",
+      "aulas": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
+        "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades"
+      ],
+      "atividades": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas#propriedades_e_problemas.aplicacao",
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas#propriedades_e_problemas.producao",
+        "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades#algoritmo_e_propriedades.aplicacao",
+        "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades#algoritmo_e_propriedades.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.treino.01",
+        "mat.ef04.multiplicacao_com_numeros_naturais.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.01",
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.03",
+        "mat.ef04.multiplicacao_com_numeros_naturais.prova.01",
+        "mat.ef04.multiplicacao_com_numeros_naturais.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.pratica",
+        "mat.ef04.multiplicacao_com_numeros_naturais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA06",
+      "aulas": [
+        "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades"
+      ],
+      "atividades": [
+        "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades#algoritmo_e_propriedades.aplicacao",
+        "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades#algoritmo_e_propriedades.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.multiplicacao_com_numeros_naturais.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.multiplicacao_com_numeros_naturais.prova.01",
+        "mat.ef04.multiplicacao_com_numeros_naturais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.multiplicacao_com_numeros_naturais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA07",
+      "aulas": [
+        "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao"
+      ],
+      "atividades": [
+        "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao#algoritmo_da_divisao.aplicacao",
+        "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao#algoritmo_da_divisao.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.divisao_com_numeros_naturais.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.divisao_com_numeros_naturais.prova.01",
+        "mat.ef04.divisao_com_numeros_naturais.prova.02",
+        "mat.ef04.divisao_com_numeros_naturais.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.divisao_com_numeros_naturais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA08",
+      "aulas": [
+        "mat.ef04.problemas_de_contagem.combinacoes_simples"
+      ],
+      "atividades": [
+        "mat.ef04.problemas_de_contagem.combinacoes_simples#combinacoes_simples.aplicacao",
+        "mat.ef04.problemas_de_contagem.combinacoes_simples#combinacoes_simples.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.problemas_de_contagem.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.problemas_de_contagem.prova.01",
+        "mat.ef04.problemas_de_contagem.prova.02",
+        "mat.ef04.problemas_de_contagem.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.problemas_de_contagem.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA09",
+      "aulas": [
+        "mat.ef04.fracoes_e_decimais.introducao_as_fracoes"
+      ],
+      "atividades": [
+        "mat.ef04.fracoes_e_decimais.introducao_as_fracoes#introducao_as_fracoes.aplicacao",
+        "mat.ef04.fracoes_e_decimais.introducao_as_fracoes#introducao_as_fracoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.fracoes_e_decimais.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.fracoes_e_decimais.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.fracoes_e_decimais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA10",
+      "aulas": [
+        "mat.ef04.fracoes_e_decimais.numeros_decimais"
+      ],
+      "atividades": [
+        "mat.ef04.fracoes_e_decimais.numeros_decimais#numeros_decimais.aplicacao",
+        "mat.ef04.fracoes_e_decimais.numeros_decimais#numeros_decimais.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.fracoes_e_decimais.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef04.fracoes_e_decimais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.fracoes_e_decimais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA11",
+      "aulas": [
+        "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias"
+      ],
+      "atividades": [
+        "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.aplicacao",
+        "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.padroes_e_igualdade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.padroes_e_igualdade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA12",
+      "aulas": [
+        "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias"
+      ],
+      "atividades": [
+        "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.aplicacao",
+        "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.padroes_e_igualdade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.padroes_e_igualdade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA13",
+      "aulas": [
+        "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes"
+      ],
+      "atividades": [
+        "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.aplicacao",
+        "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.padroes_e_igualdade.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef04.padroes_e_igualdade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA14",
+      "aulas": [
+        "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade"
+      ],
+      "atividades": [
+        "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.aplicacao",
+        "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.padroes_e_igualdade.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef04.padroes_e_igualdade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA15",
+      "aulas": [
+        "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade"
+      ],
+      "atividades": [
+        "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.aplicacao",
+        "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.padroes_e_igualdade.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef04.padroes_e_igualdade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA16",
+      "aulas": [
+        "mat.ef04.geometria.localizacao_deslocamento_e_simetria"
+      ],
+      "atividades": [
+        "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.aplicacao",
+        "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.geometria.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef04.geometria.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA17",
+      "aulas": [
+        "mat.ef04.geometria.planificacoes_de_prismas_e_piramides"
+      ],
+      "atividades": [
+        "mat.ef04.geometria.planificacoes_de_prismas_e_piramides#planificacoes_de_prismas_e_piramides.aplicacao",
+        "mat.ef04.geometria.planificacoes_de_prismas_e_piramides#planificacoes_de_prismas_e_piramides.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.geometria.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef04.geometria.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA18",
+      "aulas": [
+        "mat.ef04.geometria.angulos_e_poligonos"
+      ],
+      "atividades": [
+        "mat.ef04.geometria.angulos_e_poligonos#angulos_e_poligonos.aplicacao",
+        "mat.ef04.geometria.angulos_e_poligonos#angulos_e_poligonos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.geometria.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.geometria.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA19",
+      "aulas": [
+        "mat.ef04.geometria.localizacao_deslocamento_e_simetria"
+      ],
+      "atividades": [
+        "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.aplicacao",
+        "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.geometria.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef04.geometria.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA20",
+      "aulas": [
+        "mat.ef04.comprimento_e_area.perimetro_e_area",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida"
+      ],
+      "atividades": [
+        "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.aplicacao",
+        "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.producao",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida#grandezas_e_unidades_de_medida.aplicacao",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida#grandezas_e_unidades_de_medida.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.comprimento_e_area.treino.01",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.comprimento_e_area.prova.01",
+        "mat.ef04.comprimento_e_area.prova.02",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.comprimento_e_area.pratica",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA21",
+      "aulas": [
+        "mat.ef04.comprimento_e_area.perimetro_e_area"
+      ],
+      "atividades": [
+        "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.aplicacao",
+        "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.comprimento_e_area.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.comprimento_e_area.prova.01",
+        "mat.ef04.comprimento_e_area.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.comprimento_e_area.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA22",
+      "aulas": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida"
+      ],
+      "atividades": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida#grandezas_e_unidades_de_medida.aplicacao",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida#grandezas_e_unidades_de_medida.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA23",
+      "aulas": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos"
+      ],
+      "atividades": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos#temperatura_e_graficos.aplicacao",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos#temperatura_e_graficos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA24",
+      "aulas": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos"
+      ],
+      "atividades": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos#temperatura_e_graficos.aplicacao",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos#temperatura_e_graficos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA25",
+      "aulas": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.problemas_com_dinheiro"
+      ],
+      "atividades": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.problemas_com_dinheiro#problemas_com_dinheiro.aplicacao",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.problemas_com_dinheiro#problemas_com_dinheiro.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA26",
+      "aulas": [
+        "mat.ef04.probabilidade_e_estatistica.chances_de_eventos"
+      ],
+      "atividades": [
+        "mat.ef04.probabilidade_e_estatistica.chances_de_eventos#chances_de_eventos.aplicacao",
+        "mat.ef04.probabilidade_e_estatistica.chances_de_eventos#chances_de_eventos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.probabilidade_e_estatistica.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef04.probabilidade_e_estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA27",
+      "aulas": [
+        "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos"
+      ],
+      "atividades": [
+        "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos#tabelas_e_graficos.aplicacao",
+        "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos#tabelas_e_graficos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.probabilidade_e_estatistica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef04.probabilidade_e_estatistica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF04MA28",
+      "aulas": [
+        "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis"
+      ],
+      "atividades": [
+        "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis#pesquisa_com_variaveis.aplicacao",
+        "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis#pesquisa_com_variaveis.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef04.probabilidade_e_estatistica.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef04.probabilidade_e_estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    }
+  ],
+  "observacao": "No Ensino Médio, distribuição por série é proposta do projeto para habilidades da etapa EM13.",
+  "pendencias": [
+    "Aplicação real das produções e homologação docente.",
+    "Revisão visual e acessibilidade.",
+    "Firebase e cache em ambiente real."
+  ]
+}

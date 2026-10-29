@@ -1,0 +1,116 @@
+{
+  "id": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 3,
+  "unidade": "Análise Combinatória e Probabilidade",
+  "titulo": "Probabilidade de Eventos Sucessivos",
+  "bncc": [
+    "EM13MAT312"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe árvore do exemplo e elabore outro com etapas dependentes",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Probabilidade conjunta pode ser calculada por árvore: P(A e B)=P(A)P(B|A)",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Probabilidade de Eventos Sucessivos</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Probabilidade conjunta pode ser calculada por árvore: P(A e B)=P(A)P(B|A). Eventos disjuntos não são a mesma coisa que independentes. A lei da probabilidade total reúne ramos disjuntos e permite atualizar a interpretação de uma observação.</p><h3>Exemplo resolvido</h3><p>Urna escolhida ao acaso: A tem 3 claras e 1 escura; B tem 1 clara e 3 escuras. P(clara)=1/2×3/4+1/2×1/4=1/2. Dada clara, P(A)=3/4.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Desenhe árvore do exemplo e elabore outro com etapas dependentes. Calcule probabilidades conjuntas, total e uma condicional, conferindo soma dos ramos.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li><li>MC_MATEM_EM.pdf — páginas impressas 273, 275, 277</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "probabilidade",
+      "experimentos_sucessivos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "probabilidade_de_eventos_sucessivos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com duas vermelhas e três azuis, duas vermelhas sem reposição têm chance:",
+      "alternativas": [
+        "1/10",
+        "4/25",
+        "2/5"
+      ],
+      "correta": 0,
+      "explicacao": "2/5×1/4=1/10."
+    },
+    {
+      "id": "probabilidade_de_eventos_sucessivos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe árvore do exemplo e elabore outro com etapas dependentes. Calcule probabilidades conjuntas, total e uma condicional, conferindo soma dos ramos.",
+      "gabarito": "Conferir condicionamento e denominador; uma informação pode alterar a chance sobre o ramo anterior.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir condicionamento e denominador; uma informação pode alterar a chance sobre o ramo anterior.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "probabilidade",
+    "experimentos_sucessivos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        270,
+        272,
+        274
+      ],
+      "paginasImpressas": "273, 275, 277",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em03.analise_combinatoria_e_probabilidade.probabilidade"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

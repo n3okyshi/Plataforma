@@ -1,0 +1,135 @@
+{
+  "escopo": "Matemática EF01–EF09 e EM01–EM03",
+  "estado": "conteudo_integral_para_testes",
+  "niveis": [
+    {
+      "nivel": "EF01",
+      "aulas": 26,
+      "unidades": 9,
+      "treino": 26,
+      "itensProva": 45,
+      "provas": 9,
+      "provasComplementares": 0
+    },
+    {
+      "nivel": "EF02",
+      "aulas": 31,
+      "unidades": 11,
+      "treino": 31,
+      "itensProva": 55,
+      "provas": 11,
+      "provasComplementares": 0
+    },
+    {
+      "nivel": "EF03",
+      "aulas": 24,
+      "unidades": 10,
+      "treino": 24,
+      "itensProva": 28,
+      "provas": 10,
+      "provasComplementares": 0
+    },
+    {
+      "nivel": "EF04",
+      "aulas": 20,
+      "unidades": 11,
+      "treino": 20,
+      "itensProva": 32,
+      "provas": 11,
+      "provasComplementares": 0
+    },
+    {
+      "nivel": "EF05",
+      "aulas": 22,
+      "unidades": 11,
+      "treino": 22,
+      "itensProva": 28,
+      "provas": 11,
+      "provasComplementares": 0
+    },
+    {
+      "nivel": "EF06",
+      "aulas": 67,
+      "unidades": 14,
+      "treino": 94,
+      "itensProva": 75,
+      "provas": 14,
+      "provasComplementares": 0
+    },
+    {
+      "nivel": "EF07",
+      "aulas": 36,
+      "unidades": 13,
+      "treino": 40,
+      "itensProva": 65,
+      "provas": 13,
+      "provasComplementares": 0
+    },
+    {
+      "nivel": "EF08",
+      "aulas": 29,
+      "unidades": 8,
+      "treino": 29,
+      "itensProva": 40,
+      "provas": 8,
+      "provasComplementares": 0
+    },
+    {
+      "nivel": "EF09",
+      "aulas": 34,
+      "unidades": 9,
+      "treino": 34,
+      "itensProva": 45,
+      "provas": 9,
+      "provasComplementares": 0
+    },
+    {
+      "nivel": "EM01",
+      "aulas": 27,
+      "unidades": 11,
+      "treino": 27,
+      "itensProva": 28,
+      "provas": 11,
+      "provasComplementares": 1
+    },
+    {
+      "nivel": "EM02",
+      "aulas": 24,
+      "unidades": 7,
+      "treino": 24,
+      "itensProva": 24,
+      "provas": 7,
+      "provasComplementares": 0
+    },
+    {
+      "nivel": "EM03",
+      "aulas": 30,
+      "unidades": 10,
+      "treino": 30,
+      "itensProva": 30,
+      "provas": 10,
+      "provasComplementares": 3
+    }
+  ],
+  "totais": {
+    "aulas": 370,
+    "unidades": 124,
+    "treino": 401,
+    "itensProva": 495,
+    "provas": 124,
+    "provasComplementares": 4
+  },
+  "habilidades": {
+    "fundamental": 247,
+    "medio": 43,
+    "observacao": "EM13 distribuídas por proposta do projeto; não são 43 habilidades obrigatórias distintas em cada série."
+  },
+  "atividades": 743,
+  "conferencia": "JSONs, IDs, pré-requisitos, seleção curricular, interações em DOM simulado e execução dos códigos Python de apoio.",
+  "pendencias": [
+    "Aplicação real das produções e homologação docente.",
+    "Revisão visual e acessibilidade em navegador.",
+    "Autenticação, persistência Firebase e cache em ambiente real."
+  ],
+  "regra": "Conteúdo implementado para testes não equivale a aprendizagem comprovada ou lote homologado."
+}

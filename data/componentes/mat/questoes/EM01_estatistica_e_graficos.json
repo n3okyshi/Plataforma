@@ -1,0 +1,230 @@
+[
+  {
+    "id": "mat.em01.estatistica_e_graficos.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos",
+    "bncc": [
+      "EM13MAT102"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "De 96 para 100, a diferença absoluta é:",
+    "opcoes": [
+      "5",
+      "100",
+      "4"
+    ],
+    "correta": 2,
+    "explicacao": "100−96=4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.estatistica_e_graficos.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia",
+    "bncc": [
+      "EM13MAT406"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Duas ocorrências em cinco equivalem a:",
+    "opcoes": [
+      "2%",
+      "40%",
+      "20%"
+    ],
+    "correta": 1,
+    "explicacao": "2/5=0,4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.estatistica_e_graficos.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao",
+    "bncc": [
+      "EM13MAT316"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Em 1,3,5, a média é:",
+    "opcoes": [
+      "3",
+      "4",
+      "9"
+    ],
+    "correta": 0,
+    "explicacao": "Soma nove dividida por três.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          277,
+          279
+        ],
+        "paginasImpressas": "280, 282",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.estatistica_e_graficos.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos",
+    "bncc": [
+      "EM13MAT102"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Ouvir só voluntários de uma rede social pode:",
+    "opcoes": [
+      "Garantir representação de todos",
+      "Eliminar incerteza",
+      "Introduzir viés de seleção"
+    ],
+    "correta": 2,
+    "explicacao": "A participação pode se relacionar ao tema.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.estatistica_e_graficos.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia",
+    "bncc": [
+      "EM13MAT406"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Nas classes [0,5) e [5,10), o valor 5 pertence:",
+    "opcoes": [
+      "A nenhuma",
+      "Só à segunda",
+      "Às duas"
+    ],
+    "correta": 1,
+    "explicacao": "A primeira exclui cinco e a segunda inclui.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.estatistica_e_graficos.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao",
+    "bncc": [
+      "EM13MAT316"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Se todos os valores são iguais, o desvio padrão é:",
+    "opcoes": [
+      "0",
+      "1",
+      "Igual à média sempre"
+    ],
+    "correta": 0,
+    "explicacao": "Todos os desvios são zero.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          277,
+          279
+        ],
+        "paginasImpressas": "280, 282",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

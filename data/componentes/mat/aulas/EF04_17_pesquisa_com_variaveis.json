@@ -1,0 +1,106 @@
+{
+  "id": "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis",
+  "componente": "mat",
+  "nivel": "EF04",
+  "ordem": 17,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Pesquisa com Variáveis Categóricas e Numéricas",
+  "bncc": [
+    "EF04MA28"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Realize uma pesquisa com uma variável categórica e uma numérica",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Pesquisas podem incluir categorias e números",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Pesquisa com Variáveis Categóricas e Numéricas</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Pesquisas podem incluir categorias e números. Defina perguntas, população e coleta, distinguindo variável categórica, como meio de transporte, e numérica, como minutos de trajeto. Organize dados reais em tabelas e gráficos simples ou agrupados.</p><h3>Exemplo resolvido</h3><p>Dois grupos podem ser comparados por colunas lado a lado na mesma escala. O gráfico deve deixar claro qual coluna corresponde a cada grupo e variável.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Realize uma pesquisa com uma variável categórica e uma numérica. Registre sem nomes, faça tabelas, gráfico de colunas e uma comparação por grupos, explicando limites da coleta.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 293</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "pesquisa",
+      "variaveis"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pesquisa_com_variaveis.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Minutos de trajeto são uma variável:",
+      "alternativas": [
+        "Sem medida possível",
+        "Numérica",
+        "Apenas uma cor"
+      ],
+      "correta": 1,
+      "explicacao": "São valores de tempo medidos ou informados."
+    },
+    {
+      "id": "pesquisa_com_variaveis.producao",
+      "tipo": "discursiva",
+      "enunciado": "Realize uma pesquisa com uma variável categórica e uma numérica. Registre sem nomes, faça tabelas, gráfico de colunas e uma comparação por grupos, explicando limites da coleta.",
+      "gabarito": "Avaliar pergunta, registros efetivos, tipos de variáveis, totais, escala e correspondência entre dados e gráficos. Não há valores esperados fixos.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar pergunta, registros efetivos, tipos de variáveis, totais, escala e correspondência entre dados e gráficos. Não há valores esperados fixos.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "pesquisa",
+    "variaveis"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        295
+      ],
+      "paginasImpressas": "293",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

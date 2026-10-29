@@ -1,0 +1,182 @@
+[
+  {
+    "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
+    "bncc": [
+      "EF04MA03",
+      "EF04MA04",
+      "EF04MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 2999+126?",
+    "opcoes": [
+      "3025",
+      "3126",
+      "3125"
+    ],
+    "correta": 2,
+    "explicacao": "3000+126−1=3125.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
+    "bncc": [
+      "EF04MA03",
+      "EF04MA04",
+      "EF04MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual verificação confere 804−257=547?",
+    "opcoes": [
+      "547−257=804",
+      "804+257=547",
+      "547+257=804"
+    ],
+    "correta": 2,
+    "explicacao": "A soma das partes recompõe o total.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
+    "bncc": [
+      "EF04MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma reserva de 5030 peças teve 1875 retiradas. Restam:",
+    "opcoes": [
+      "6905",
+      "3155",
+      "3255"
+    ],
+    "correta": 1,
+    "explicacao": "5030−1875=3155; a adição confere.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
+    "bncc": [
+      "EF04MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para 38+47+62, é útil agrupar:",
+    "opcoes": [
+      "38+62 antes de somar 47",
+      "38−62 antes de somar 47",
+      "38×62 antes de somar 47"
+    ],
+    "correta": 0,
+    "explicacao": "Comutativa e associativa permitem formar cem e somar quarenta e sete.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

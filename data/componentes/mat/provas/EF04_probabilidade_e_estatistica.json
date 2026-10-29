@@ -1,0 +1,126 @@
+{
+  "id": "mat.ef04.probabilidade_e_estatistica.prova",
+  "titulo": "Avaliação: Probabilidade e Estatística",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF04",
+  "unidade": "Probabilidade e Estatística",
+  "bncc": [
+    "EF04MA26",
+    "EF04MA27",
+    "EF04MA28"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef04.probabilidade_e_estatistica.prova.01",
+    "mat.ef04.probabilidade_e_estatistica.prova.02",
+    "mat.ef04.probabilidade_e_estatistica.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF04MA26",
+      "questoes": [
+        "mat.ef04.probabilidade_e_estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.probabilidade_e_estatistica.chances_de_eventos#chances_de_eventos.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA27",
+      "questoes": [
+        "mat.ef04.probabilidade_e_estatistica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos#tabelas_e_graficos.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA28",
+      "questoes": [
+        "mat.ef04.probabilidade_e_estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis#pesquisa_com_variaveis.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef04.probabilidade_e_estatistica.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Probabilidade e Estatística",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF04MA26",
+      "EF04MA27",
+      "EF04MA28"
+    ],
+    "atividadesOrigem": [
+      "mat.ef04.probabilidade_e_estatistica.chances_de_eventos#chances_de_eventos.producao",
+      "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos#tabelas_e_graficos.producao",
+      "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis#pesquisa_com_variaveis.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Chances de Eventos Aleatórios",
+        "enunciado": "Proponha dois experimentos cotidianos de sorteio, liste possibilidades e compare chances por palavras. Execute com reposição e registre resultados inesperados.",
+        "gabarito": "Conferir condições iguais, composição real e distinção entre provável, certo e impossível; não exigir frequência exata.",
+        "bncc": [
+          "EF04MA26"
+        ],
+        "atividadeOrigem": "mat.ef04.probabilidade_e_estatistica.chances_de_eventos#chances_de_eventos.producao"
+      },
+      {
+        "titulo": "Tabelas e Gráficos de Pesquisa",
+        "enunciado": "Construa tabela e pictograma dos dados fictícios. Compare maior e menor, calcule o total e escreva síntese. Analise também um gráfico de outra área com fonte identificada.",
+        "gabarito": "Total 45; terça é maior e segunda menor, diferença seis. A síntese do gráfico externo deve corresponder à fonte realmente consultada.",
+        "bncc": [
+          "EF04MA27"
+        ],
+        "atividadeOrigem": "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos#tabelas_e_graficos.producao"
+      },
+      {
+        "titulo": "Pesquisa com Variáveis Categóricas e Numéricas",
+        "enunciado": "Realize uma pesquisa com uma variável categórica e uma numérica. Registre sem nomes, faça tabelas, gráfico de colunas e uma comparação por grupos, explicando limites da coleta.",
+        "gabarito": "Avaliar pergunta, registros efetivos, tipos de variáveis, totais, escala e correspondência entre dados e gráficos. Não há valores esperados fixos.",
+        "bncc": [
+          "EF04MA28"
+        ],
+        "atividadeOrigem": "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis#pesquisa_com_variaveis.producao"
+      }
+    ],
+    "duracaoMinSugerida": 90,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        295
+      ],
+      "paginasImpressas": "293",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+[
+  {
+    "id": "mat.ef05.grandezas_e_medidas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas",
+    "bncc": [
+      "EF05MA19",
+      "EF05MA21"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quatro camadas de 3×2 cubinhos contêm:",
+    "opcoes": [
+      "9 cubos",
+      "12 cubos",
+      "24 cubos"
+    ],
+    "correta": 2,
+    "explicacao": "Cada camada tem seis e há quatro camadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          121,
+          123
+        ],
+        "paginasImpressas": "112, 124, 126",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.grandezas_e_medidas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area",
+    "bncc": [
+      "EF05MA20"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Retângulos 2×3 e 1×6 têm:",
+    "opcoes": [
+      "Áreas diferentes",
+      "Mesma área e perímetros diferentes",
+      "Sempre o mesmo perímetro"
+    ],
+    "correta": 1,
+    "explicacao": "Ambos têm área seis; perímetros dez e quatorze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112
+        ],
+        "paginasImpressas": "115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.grandezas_e_medidas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas",
+    "bncc": [
+      "EF05MA19",
+      "EF05MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "2,5 kg correspondem a:",
+    "opcoes": [
+      "250 g",
+      "25 g",
+      "2500 g"
+    ],
+    "correta": 2,
+    "explicacao": "Multiplicar por mil converte kg em g.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          121,
+          123
+        ],
+        "paginasImpressas": "112, 124, 126",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.grandezas_e_medidas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area",
+    "bncc": [
+      "EF05MA20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Mesmo perímetro garante mesma área?",
+    "opcoes": [
+      "Só se as cores coincidirem",
+      "Não",
+      "Sim, sempre"
+    ],
+    "correta": 1,
+    "explicacao": "1×5 e 2×4 refutam essa afirmação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112
+        ],
+        "paginasImpressas": "115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

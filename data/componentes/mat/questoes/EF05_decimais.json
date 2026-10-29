@@ -1,0 +1,182 @@
+[
+  {
+    "id": "mat.ef05.decimais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef05.decimais.numeros_decimais_e_porcentagem",
+    "bncc": [
+      "EF05MA02",
+      "EF05MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "75% de 80 são:",
+    "opcoes": [
+      "75",
+      "20",
+      "60"
+    ],
+    "correta": 2,
+    "explicacao": "Três quartos de oitenta: cada quarto vale vinte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          196
+        ],
+        "paginasImpressas": "98, 199",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.decimais.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef05.decimais.decimais_na_reta_numerica",
+    "bncc": [
+      "EF05MA02",
+      "EF05MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é maior?",
+    "opcoes": [
+      "0,09",
+      "0,8",
+      "0,75"
+    ],
+    "correta": 1,
+    "explicacao": "Oito décimos são oitenta centésimos, maiores que setenta e cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96
+        ],
+        "paginasImpressas": "98, 99",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.decimais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef05.decimais.numeros_decimais_e_porcentagem",
+    "bncc": [
+      "EF05MA02",
+      "EF05MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "10% de 350 são:",
+    "opcoes": [
+      "3,5",
+      "315",
+      "35"
+    ],
+    "correta": 2,
+    "explicacao": "Um décimo é dividir por dez.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          196
+        ],
+        "paginasImpressas": "98, 199",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.decimais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef05.decimais.decimais_na_reta_numerica",
+    "bncc": [
+      "EF05MA02",
+      "EF05MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "2,30 e 2,3 são:",
+    "opcoes": [
+      "O segundo sempre maior",
+      "Iguais",
+      "O primeiro sempre maior"
+    ],
+    "correta": 1,
+    "explicacao": "Zero à direita conserva o valor.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96
+        ],
+        "paginasImpressas": "98, 99",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

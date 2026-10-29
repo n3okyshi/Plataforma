@@ -1,0 +1,101 @@
+{
+  "id": "mat.em01.tecnologia_e_algoritmos.prova",
+  "titulo": "Avaliação: Tecnologia e Algoritmos",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM01",
+  "unidade": "Tecnologia e Algoritmos",
+  "bncc": [
+    "EM13MAT315",
+    "EM13MAT405"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em01.tecnologia_e_algoritmos.prova.01",
+    "mat.em01.tecnologia_e_algoritmos.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT315",
+      "questoes": [
+        "mat.em01.tecnologia_e_algoritmos.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.tecnologia_e_algoritmos.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente#algoritmos_em_linguagem_corrente.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT405",
+      "questoes": [
+        "mat.em01.tecnologia_e_algoritmos.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.tecnologia_e_algoritmos.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis#primeiros_programas_e_variaveis.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em01.tecnologia_e_algoritmos.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Tecnologia e Algoritmos",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "atividadesOrigem": [
+      "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente#algoritmos_em_linguagem_corrente.producao",
+      "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis#primeiros_programas_e_variaveis.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Algoritmos em Linguagem Corrente",
+        "enunciado": "Descreva e desenhe o fluxograma da soma até n. Execute manualmente para n=0,1,5, registre estados e explique parada e domínio.",
+        "gabarito": "Saídas 0,1,15; contador cresce até sair da condição. O caso zero não entra no laço.",
+        "bncc": [
+          "EM13MAT315"
+        ],
+        "atividadeOrigem": "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente#algoritmos_em_linguagem_corrente.producao"
+      },
+      {
+        "titulo": "Primeiros Programas e Variáveis",
+        "enunciado": "Implemente o algoritmo da soma em Python ou linguagem disponível. Execute os testes 0,1,5 e uma entrada inválida, registrando código, saídas e tratamento do domínio.",
+        "gabarito": "Avaliar programa realmente executado, saídas 0,1,15 e rejeição ou tratamento explícito de entrada não natural; aceitar outra linguagem equivalente.",
+        "bncc": [
+          "EM13MAT405"
+        ],
+        "atividadeOrigem": "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis#primeiros_programas_e_variaveis.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

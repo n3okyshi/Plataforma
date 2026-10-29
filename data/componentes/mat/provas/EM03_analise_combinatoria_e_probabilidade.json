@@ -1,0 +1,179 @@
+{
+  "id": "mat.em03.analise_combinatoria_e_probabilidade.prova",
+  "titulo": "Avaliação: Análise Combinatória e Probabilidade",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM03",
+  "unidade": "Análise Combinatória e Probabilidade",
+  "bncc": [
+    "EM13MAT310",
+    "EM13MAT311",
+    "EM13MAT312",
+    "EM13MAT511"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em03.analise_combinatoria_e_probabilidade.prova.01",
+    "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+    "mat.em03.analise_combinatoria_e_probabilidade.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT310",
+      "questoes": [
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem#analise_combinatoria_diferentes_estrategias_de_contagem.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT311",
+      "questoes": [
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT312",
+      "questoes": [
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos#probabilidade_de_eventos_sucessivos.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT511",
+      "questoes": [
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Análise Combinatória e Probabilidade",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT310",
+      "EM13MAT311",
+      "EM13MAT312",
+      "EM13MAT511"
+    ],
+    "atividadesOrigem": [
+      "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem#analise_combinatoria_diferentes_estrategias_de_contagem.producao",
+      "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao",
+      "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos#probabilidade_de_eventos_sucessivos.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Análise Combinatória: Diferentes Estratégias de Contagem",
+        "enunciado": "Elabore um problema ordenável e outro não ordenável com restrição. Resolva por árvore ou tabela e por contagem algébrica, explicando duplicações e casos disjuntos.",
+        "gabarito": "Avaliar espaço e condições; comissão difere de cargos distintos. Fatorial de zero é um e fórmulas precisam de parâmetros válidos.",
+        "bncc": [
+          "EM13MAT310"
+        ],
+        "atividadeOrigem": "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem#analise_combinatoria_diferentes_estrategias_de_contagem.producao"
+      },
+      {
+        "titulo": "Probabilidade",
+        "enunciado": "Liste espaços discretos equiprováveis e não equiprováveis. Compare com ponto uniforme no intervalo [0,1], calcule chance de cair em [0,1/4] e resolva um experimento de duas retiradas com e sem reposição.",
+        "gabarito": "No contínuo uniforme a chance é comprimento relativo, um quarto; ponto exato tem chance zero sem ser impossibilidade lógica. Conferir condicionais e composição.",
+        "bncc": [
+          "EM13MAT311",
+          "EM13MAT312",
+          "EM13MAT511"
+        ],
+        "atividadeOrigem": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao"
+      },
+      {
+        "titulo": "Probabilidade de Eventos Sucessivos",
+        "enunciado": "Desenhe árvore do exemplo e elabore outro com etapas dependentes. Calcule probabilidades conjuntas, total e uma condicional, conferindo soma dos ramos.",
+        "gabarito": "Conferir condicionamento e denominador; uma informação pode alterar a chance sobre o ramo anterior.",
+        "bncc": [
+          "EM13MAT312"
+        ],
+        "atividadeOrigem": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos#probabilidade_de_eventos_sucessivos.producao"
+      }
+    ],
+    "duracaoMinSugerida": 90,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        232,
+        237,
+        241,
+        242,
+        244,
+        247
+      ],
+      "paginasImpressas": "235, 240, 244, 245, 247, 250",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        264,
+        266,
+        267,
+        272,
+        274
+      ],
+      "paginasImpressas": "267, 269, 270, 275, 277",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        270,
+        272,
+        274
+      ],
+      "paginasImpressas": "273, 275, 277",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

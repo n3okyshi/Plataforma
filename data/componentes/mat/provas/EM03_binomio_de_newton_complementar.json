@@ -1,0 +1,78 @@
+{
+  "id": "mat.em03.binomio_de_newton_complementar.prova",
+  "titulo": "Avaliação: Binômio de Newton — Complementar",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM03",
+  "unidade": "Binômio de Newton — Complementar",
+  "bncc": [],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": true,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em03.binomio_de_newton_complementar.prova.01",
+    "mat.em03.binomio_de_newton_complementar.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [],
+  "avaliacaoPratica": {
+    "id": "mat.em03.binomio_de_newton_complementar.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Binômio de Newton — Complementar",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [],
+    "atividadesOrigem": [
+      "mat.em03.binomio_de_newton_complementar.triangulo_de_pascal_e_binomio_de_newton#triangulo_de_pascal_e_binomio_de_newton.producao",
+      "mat.em03.binomio_de_newton_complementar.termo_geral_do_binomio#termo_geral_do_binomio.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Triangulo de pascal e binomio de newton",
+        "enunciado": "Construa as seis primeiras linhas do triângulo por contagem e recorrência. Expanda (x+2)^4 e confira por multiplicação e substituição de valores.",
+        "gabarito": "x⁴+8x³+24x²+32x+16. Avaliar coeficientes, expoentes e termo inicial da linha com n=0.",
+        "bncc": [],
+        "atividadeOrigem": "mat.em03.binomio_de_newton_complementar.triangulo_de_pascal_e_binomio_de_newton#triangulo_de_pascal_e_binomio_de_newton.producao"
+      },
+      {
+        "titulo": "Termo geral do binomio",
+        "enunciado": "Encontre termo independente de x em (x²+1/x)^6, para x≠0, e compare com expansão parcial. Determine também o termo de x² em (x+3)^4.",
+        "gabarito": "Expoente 12−3k zera em k=4; coeficiente C(6,4)=15. Na segunda, k=2, coeficiente 6×9=54.",
+        "bncc": [],
+        "atividadeOrigem": "mat.em03.binomio_de_newton_complementar.termo_geral_do_binomio#termo_geral_do_binomio.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        251,
+        254,
+        256,
+        257
+      ],
+      "paginasImpressas": "254, 257, 259, 260",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        257,
+        259
+      ],
+      "paginasImpressas": "260, 262",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "mat.ef04.multiplicacao_com_numeros_naturais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Multiplicação com Números Naturais",
+    "aulaId": "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades",
+    "bncc": [
+      "EF04MA04",
+      "EF04MA05",
+      "EF04MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "18×25 pode ser calculado por:",
+    "opcoes": [
+      "20×25−2",
+      "18+25",
+      "20×25−2×25"
+    ],
+    "correta": 2,
+    "explicacao": "Compensar dois grupos de vinte e cinco conserva o produto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.multiplicacao_com_numeros_naturais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Multiplicação com Números Naturais",
+    "aulaId": "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades",
+    "bncc": [
+      "EF04MA04",
+      "EF04MA05",
+      "EF04MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 34×12?",
+    "opcoes": [
+      "348",
+      "46",
+      "408"
+    ],
+    "correta": 2,
+    "explicacao": "34×10+34×2=340+68=408.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.multiplicacao_com_numeros_naturais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Multiplicação com Números Naturais",
+    "aulaId": "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades",
+    "bncc": [
+      "EF04MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Cada ingresso fictício custa 18 reais. Sete ingressos sem taxa custam:",
+    "opcoes": [
+      "116 reais",
+      "126 reais",
+      "25 reais"
+    ],
+    "correta": 1,
+    "explicacao": "Preço unitário constante: 7×18=126.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.multiplicacao_com_numeros_naturais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Multiplicação com Números Naturais",
+    "aulaId": "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades",
+    "bncc": [
+      "EF04MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual expressão conserva 26×14?",
+    "opcoes": [
+      "26×10+26×4",
+      "26×10+4",
+      "26+14"
+    ],
+    "correta": 0,
+    "explicacao": "A distributiva decompõe o segundo fator.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

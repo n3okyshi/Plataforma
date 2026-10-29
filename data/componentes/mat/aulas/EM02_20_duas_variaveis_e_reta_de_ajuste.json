@@ -1,0 +1,110 @@
+{
+  "id": "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 20,
+  "unidade": "Estatística e Probabilidade",
+  "titulo": "Duas Variáveis e Reta de Ajuste",
+  "bncc": [
+    "EM13MAT510"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Colete ou consulte pares reais com fonte, desenhe dispersão, proponha reta, calcule resíduos e discuta se a reta é adequada",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Diagrama de dispersão mostra pares de duas variáveis numéricas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Duas Variáveis e Reta de Ajuste</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Diagrama de dispersão mostra pares de duas variáveis numéricas. Uma reta pode descrever tendência aproximada quando apropriado, mas resíduos e domínio importam. Correlação não prova causalidade; extrapolar além dos dados exige hipóteses adicionais.</p><h3>Exemplo resolvido</h3><p>Pares (1,2),(2,3),(3,5) sugerem tendência crescente, mas não relação exata. A reta y=1,5x+1/3 tem resíduos e não precisa passar em todos os pontos.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Colete ou consulte pares reais com fonte, desenhe dispersão, proponha reta, calcule resíduos e discuta se a reta é adequada. Compare conclusão descritiva e afirmação causal.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "duas_variaveis",
+      "correlacao",
+      "reta"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "duas_variaveis_e_reta_de_ajuste.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma reta ajustada que não passa por todos os pontos é necessariamente inválida?",
+      "alternativas": [
+        "Só se tiver inclinação negativa",
+        "Não",
+        "Sim"
+      ],
+      "correta": 1,
+      "explicacao": "Ajuste descreve tendência com resíduos."
+    },
+    {
+      "id": "duas_variaveis_e_reta_de_ajuste.producao",
+      "tipo": "discursiva",
+      "enunciado": "Colete ou consulte pares reais com fonte, desenhe dispersão, proponha reta, calcule resíduos e discuta se a reta é adequada. Compare conclusão descritiva e afirmação causal.",
+      "gabarito": "Avaliar origem dos pares, relação plausível, variação residual e limites; aceitar rejeitar modelo linear se os dados indicarem outra forma.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar origem dos pares, relação plausível, variação residual e limites; aceitar rejeitar modelo linear se os dados indicarem outra forma.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "duas_variaveis",
+    "correlacao",
+    "reta"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas"
+  ],
+  "proximosPassos": [
+    "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

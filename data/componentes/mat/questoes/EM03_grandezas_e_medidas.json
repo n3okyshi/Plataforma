@@ -1,0 +1,146 @@
+[
+  {
+    "id": "mat.em03.grandezas_e_medidas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT313",
+      "EM13MAT314"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "8 MB na convenção decimal contêm:",
+    "opcoes": [
+      "1 megabit",
+      "8 megabits",
+      "64 megabits"
+    ],
+    "correta": 2,
+    "explicacao": "Um byte tem oito bits.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.grandezas_e_medidas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade",
+    "bncc": [
+      "EM13MAT201"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Volume geométrico de camada 5×2×0,1 m é:",
+    "opcoes": [
+      "0,1 m³",
+      "1 m³",
+      "10 m³"
+    ],
+    "correta": 1,
+    "explicacao": "Produto das dimensões.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.grandezas_e_medidas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT313",
+      "EM13MAT314"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "1,20×10³ tem quantos algarismos significativos?",
+    "opcoes": [
+      "2",
+      "4",
+      "3"
+    ],
+    "correta": 2,
+    "explicacao": "1,2 e zero final indicam três algarismos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.grandezas_e_medidas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade",
+    "bncc": [
+      "EM13MAT201"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para converter volume em massa de material é necessário conhecer:",
+    "opcoes": [
+      "A cor",
+      "Densidade ou relação específica",
+      "Somente perímetro"
+    ],
+    "correta": 1,
+    "explicacao": "Massa=volume×densidade nas condições do modelo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

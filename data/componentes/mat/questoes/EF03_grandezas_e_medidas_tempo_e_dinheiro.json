@@ -1,0 +1,144 @@
+[
+  {
+    "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
+    "aulaId": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos",
+    "bncc": [
+      "EF03MA22",
+      "EF03MA23"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "De 10h50 a 11h15 decorrem:",
+    "opcoes": [
+      "35 minutos",
+      "65 minutos",
+      "25 minutos"
+    ],
+    "correta": 2,
+    "explicacao": "Dez até onze horas e mais quinze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
+    "aulaId": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario",
+    "bncc": [
+      "EF03MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma compra fictícia de R$ 46 paga com R$ 60 deixa:",
+    "opcoes": [
+      "R$ 106",
+      "R$ 14",
+      "R$ 16"
+    ],
+    "correta": 1,
+    "explicacao": "60−46=14.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
+    "aulaId": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos",
+    "bncc": [
+      "EF03MA22",
+      "EF03MA23"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Três minutos correspondem a:",
+    "opcoes": [
+      "30 segundos",
+      "300 segundos",
+      "180 segundos"
+    ],
+    "correta": 2,
+    "explicacao": "3×60=180.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
+    "aulaId": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario",
+    "bncc": [
+      "EF03MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual conjunto equivale a R$ 20?",
+    "opcoes": [
+      "5+5 reais",
+      "10+5+5 reais",
+      "10+5 reais"
+    ],
+    "correta": 1,
+    "explicacao": "A soma dos valores é vinte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

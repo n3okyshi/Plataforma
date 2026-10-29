@@ -1,0 +1,148 @@
+{
+  "id": "mat.em01.sequencias_e_progressoes.prova",
+  "titulo": "Avaliação: Sequências e Progressões",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM01",
+  "unidade": "Sequências e Progressões",
+  "bncc": [
+    "EM13MAT507",
+    "EM13MAT508"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em01.sequencias_e_progressoes.prova.01",
+    "mat.em01.sequencias_e_progressoes.prova.02",
+    "mat.em01.sequencias_e_progressoes.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT507",
+      "questoes": [
+        "mat.em01.sequencias_e_progressoes.prova.01",
+        "mat.em01.sequencias_e_progressoes.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.sequencias_e_progressoes.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao",
+        "mat.em01.sequencias_e_progressoes.progressao_aritmetica#progressao_aritmetica.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT508",
+      "questoes": [
+        "mat.em01.sequencias_e_progressoes.prova.01",
+        "mat.em01.sequencias_e_progressoes.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.sequencias_e_progressoes.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao",
+        "mat.em01.sequencias_e_progressoes.progressao_geometrica#progressao_geometrica.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em01.sequencias_e_progressoes.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Sequências e Progressões",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT507",
+      "EM13MAT508"
+    ],
+    "atividadesOrigem": [
+      "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao",
+      "mat.em01.sequencias_e_progressoes.progressao_aritmetica#progressao_aritmetica.producao",
+      "mat.em01.sequencias_e_progressoes.progressao_geometrica#progressao_geometrica.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Sequências",
+        "enunciado": "Construa regras direta e recursiva para uma sequência aditiva e outra multiplicativa. Represente-as por pontos e explique por que unir continuamente os pontos depende de extensão do modelo.",
+        "gabarito": "Conferir início, posição, recorrência e domínio discreto, sem inferir lei única apenas de poucos termos.",
+        "bncc": [
+          "EM13MAT507",
+          "EM13MAT508"
+        ],
+        "atividadeOrigem": "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao"
+      },
+      {
+        "titulo": "Progressão Aritmética",
+        "enunciado": "Deduza termo e soma por desenhos ou pares de extremos. Modele depósitos hipotéticos que aumentam por valor fixo e compare com valor acumulado, que não é o mesmo que o depósito de um mês.",
+        "gabarito": "Distinguir termo e soma; conferir quantidade de intervalos n−1 e domínio discreto.",
+        "bncc": [
+          "EM13MAT507"
+        ],
+        "atividadeOrigem": "mat.em01.sequencias_e_progressoes.progressao_aritmetica#progressao_aritmetica.producao"
+      },
+      {
+        "titulo": "Progressão Geométrica",
+        "enunciado": "Deduza a soma finita subtraindo qS−S; modele um processo de redução pela metade e compare termos e totais, discutindo o significado de infinitas etapas no contexto.",
+        "gabarito": "Verificar q≠1 na fórmula e |q|<1 na convergência. Não aplicar soma infinita a crescimento com q>1.",
+        "bncc": [
+          "EM13MAT508"
+        ],
+        "atividadeOrigem": "mat.em01.sequencias_e_progressoes.progressao_geometrica#progressao_geometrica.producao"
+      }
+    ],
+    "duracaoMinSugerida": 90,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        162,
+        164,
+        173
+      ],
+      "paginasImpressas": "165, 167, 176",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        164,
+        168,
+        170
+      ],
+      "paginasImpressas": "167, 171, 173",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        173,
+        176,
+        178,
+        179
+      ],
+      "paginasImpressas": "176, 179, 181, 182",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

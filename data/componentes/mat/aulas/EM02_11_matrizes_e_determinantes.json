@@ -2,36 +2,104 @@
   "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.matrizes_e_determinantes",
   "componente": "mat",
   "nivel": "EM02",
-  "ordem": 11,
+  "ordem": 13,
   "unidade": "Matrizes, Determinantes e Sistemas Lineares",
   "titulo": "Matrizes e Determinantes",
   "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construa matrizes de dados fictícios, faça soma, produto compatível e determinante",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Matrizes organizam entradas por linha e coluna",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Matrizes</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Organização de dados em tabelas. Operações de soma e produto. O Determinante como um número associado à matriz quadrada.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">✖️ Produto:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Multiplicação de matrizes segue a regra: <strong>Linha por Coluna</strong>. Não é apenas multiplicar termo a termo!</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Matrizes e Determinantes</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Matrizes organizam entradas por linha e coluna. Somam-se matrizes de mesma ordem; no produto, linhas da primeira combinam-se com colunas da segunda. A multiplicação não é comutativa em geral. Determinante 2×2 é ad−bc e ajuda a analisar sistemas; este tratamento algébrico é complementar ao recorte BNCC de sistemas.</p><h3>Exemplo resolvido</h3><p>Para A=[[1,2],[3,4]], det A=4−6=−2. Multiplicar A por vetor (x,y) produz (x+2y,3x+4y).</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa matrizes de dados fictícios, faça soma, produto compatível e determinante. Compare AB e BA por contraexemplo e escreva um sistema na forma AX=B.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 190, 194, 203</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "matrizes",
+      "determinantes"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
+  "atividades": [
+    {
+      "id": "matrizes_e_determinantes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Determinante de [[2,1],[3,4]] é:",
+      "alternativas": [
+        "11",
+        "8",
+        "5"
+      ],
+      "correta": 2,
+      "explicacao": "2×4−1×3=5."
+    },
+    {
+      "id": "matrizes_e_determinantes.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa matrizes de dados fictícios, faça soma, produto compatível e determinante. Compare AB e BA por contraexemplo e escreva um sistema na forma AX=B.",
+      "gabarito": "Conferir dimensões, produtos linha-coluna e sinais. Determinante não nulo permite solução única no sistema quadrado correspondente.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir dimensões, produtos linha-coluna e sinais. Determinante não nulo permite solução única no sistema quadrado correspondente.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "matrizes",
+    "determinantes"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        187,
+        191,
+        200
+      ],
+      "paginasImpressas": "190, 194, 203",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
   "preRequisitos": [],
   "proximosPassos": [],
-  "fontes": [],
-  "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
 }

@@ -1,0 +1,114 @@
+{
+  "id": "mat.ef05.geometria.poligonos_e_seus_elementos",
+  "componente": "mat",
+  "nivel": "EF05",
+  "ordem": 10,
+  "unidade": "Geometria",
+  "titulo": "Polígonos e seus Elementos",
+  "bncc": [
+    "EF05MA17"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe triângulos, quadriláteros, pentágonos e hexágonos em posições variadas",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Polígonos têm contorno formado por segmentos que fecham uma região sem cruzamentos no recorte usual",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Polígonos e seus Elementos</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Polígonos têm contorno formado por segmentos que fecham uma região sem cruzamentos no recorte usual. Compare lados, vértices e ângulos. A posição ou o tamanho do desenho não determina sozinho o nome. Use régua, esquadro ou tecnologia para construir e conferir.</p><h3>Exemplo resolvido</h3><p>Um pentágono tem cinco lados e cinco vértices. Se for regular, também tem todos os lados e ângulos iguais; nem todo pentágono é regular.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Desenhe triângulos, quadriláteros, pentágonos e hexágonos em posições variadas. Compare características e construa dois polígonos com o mesmo número de lados e formas diferentes.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 297</li><li>MC_MATEM_EF.pdf — páginas impressas 347</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "poligonos",
+      "lados"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "poligonos_e_seus_elementos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um hexágono tem:",
+      "alternativas": [
+        "5 lados",
+        "8 lados",
+        "6 lados"
+      ],
+      "correta": 2,
+      "explicacao": "O prefixo indica seis lados."
+    },
+    {
+      "id": "poligonos_e_seus_elementos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe triângulos, quadriláteros, pentágonos e hexágonos em posições variadas. Compare características e construa dois polígonos com o mesmo número de lados e formas diferentes.",
+      "gabarito": "Conferir fechamento, ausência de lados curvos, contagem de lados/vértices e distinção entre regular e qualquer polígono.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir fechamento, ausência de lados curvos, contagem de lados/vértices e distinção entre regular e qualquer polígono.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "poligonos",
+    "lados"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        299
+      ],
+      "paginasImpressas": "297",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344
+      ],
+      "paginasImpressas": "347",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef05.geometria.plano_cartesiano_e_solidos"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova",
+  "titulo": "Avaliação: Adição e Subtração com Números Naturais",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF05",
+  "unidade": "Adição e Subtração com Números Naturais",
+  "bncc": [
+    "EF05MA07"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.01",
+    "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF05MA07",
+      "questoes": [
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.01",
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas#operacoes_e_expressoes_numericas.producao",
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Adição e Subtração com Números Naturais",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF05MA07"
+    ],
+    "atividadesOrigem": [
+      "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas#operacoes_e_expressoes_numericas.producao",
+      "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Operações e Expressões Numéricas",
+        "enunciado": "Crie um problema para (25,40+8,75)−12,60 e outro com naturais. Resolva por duas estratégias, estime e explique as ordens e agrupamentos.",
+        "gabarito": "Primeiro resultado 21,55. O problema criado precisa corresponder às ações e fornecer unidades; conferir por inversas.",
+        "bncc": [
+          "EF05MA07"
+        ],
+        "atividadeOrigem": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas#operacoes_e_expressoes_numericas.producao"
+      },
+      {
+        "titulo": "Problemas de Adição e Subtração",
+        "enunciado": "Elabore uma situação com duas medidas decimais, uma soma e uma diferença. Represente-a por desenho ou tabela, estime e resolva com cálculo mental e escrito.",
+        "gabarito": "Avaliar coerência dos dados, unidade comum, operações e conferência. As respostas dependem da situação criada.",
+        "bncc": [
+          "EF05MA07"
+        ],
+        "atividadeOrigem": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        97
+      ],
+      "paginasImpressas": "98, 100",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

@@ -2,36 +2,109 @@
   "id": "mat.em02.regioes_planas_e_area.ladrilhamento",
   "componente": "mat",
   "nivel": "EM02",
-  "ordem": 2,
+  "ordem": 16,
   "unidade": "Regiões Planas e Área",
   "titulo": "Ladrilhamento",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT505"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construa padrões com triângulos, quadrados e hexágonos, teste pentágonos regulares e proponha composição mista",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Ladrilhar é cobrir o plano sem lacunas nem sobreposição",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Ladrilhamento do Plano</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo da pavimentação (cobrir o plano sem falhas ou sobreposições).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎨 Arte e Matemática:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Para ladrilhar com um único tipo de polígono regular, a soma dos ângulos no vértice deve ser <strong>360º</strong> (ex: hexágonos das abelhas).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Ladrilhamento</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Ladrilhar é cobrir o plano sem lacunas nem sobreposição. Em torno de um vértice, a soma dos ângulos deve completar 360°, condição necessária que precisa ser acompanhada por uma construção coerente. Investigue polígonos regulares e composições, em vez de inferir possibilidade só pelo número de lados.</p><h3>Exemplo resolvido</h3><p>Seis triângulos equiláteros de 60° ou quatro quadrados de 90° completam uma volta. Três hexágonos regulares de 120° também. Pentágonos regulares iguais não completam 360° por um número inteiro de ângulos de 108°.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa padrões com triângulos, quadrados e hexágonos, teste pentágonos regulares e proponha composição mista. Registre o padrão e uma generalização justificada.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "ladrilhamento",
+      "poligonos",
+      "padroes"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "ladrilhamento.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Três hexágonos regulares em um vértice somam:",
+      "alternativas": [
+        "180°",
+        "540°",
+        "360°"
+      ],
+      "correta": 2,
+      "explicacao": "3×120°=360°."
+    },
+    {
+      "id": "ladrilhamento.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa padrões com triângulos, quadrados e hexágonos, teste pentágonos regulares e proponha composição mista. Registre o padrão e uma generalização justificada.",
+      "gabarito": "Avaliar cobertura real, ângulos e repetição; não estender a impossibilidade dos regulares a todos os pentágonos.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar cobertura real, ângulos e repetição; não estender a impossibilidade dos regulares a todos os pentágonos.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "ladrilhamento",
+    "poligonos",
+    "padroes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas"
+  ],
+  "proximosPassos": [
+    "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

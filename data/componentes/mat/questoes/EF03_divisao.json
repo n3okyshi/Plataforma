@@ -1,0 +1,176 @@
+[
+  {
+    "id": "mat.ef03.divisao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Divisão",
+    "aulaId": "mat.ef03.divisao.introducao_a_divisao",
+    "bncc": [
+      "EF03MA08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "27÷5 tem quociente e resto:",
+    "opcoes": [
+      "4 e 7",
+      "5 e 5",
+      "5 e 2"
+    ],
+    "correta": 2,
+    "explicacao": "27=5×5+2, com resto menor que cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.divisao.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Divisão",
+    "aulaId": "mat.ef03.divisao.metade_terca_quarta_quinta_e_decima_parte",
+    "bncc": [
+      "EF03MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A quinta parte de 45 é:",
+    "opcoes": [
+      "40",
+      "9",
+      "5"
+    ],
+    "correta": 1,
+    "explicacao": "Cinco grupos de nove recompõem quarenta e cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36
+        ],
+        "paginasImpressas": "39",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.divisao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Divisão",
+    "aulaId": "mat.ef03.divisao.introducao_a_divisao",
+    "bncc": [
+      "EF03MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "31 peças em grupos de seis formam:",
+    "opcoes": [
+      "6 grupos e sobra 1",
+      "5 grupos e sobram 6",
+      "5 grupos e sobra 1"
+    ],
+    "correta": 2,
+    "explicacao": "31=6×5+1.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.divisao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Divisão",
+    "aulaId": "mat.ef03.divisao.metade_terca_quarta_quinta_e_decima_parte",
+    "bncc": [
+      "EF03MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A décima parte de 70 é:",
+    "opcoes": [
+      "60",
+      "7",
+      "10"
+    ],
+    "correta": 1,
+    "explicacao": "70÷10=7.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36
+        ],
+        "paginasImpressas": "39",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

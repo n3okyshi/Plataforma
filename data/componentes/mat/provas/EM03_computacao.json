@@ -1,0 +1,154 @@
+{
+  "id": "mat.em03.computacao.prova",
+  "titulo": "Avaliação: Computação",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM03",
+  "unidade": "Computação",
+  "bncc": [
+    "EM13MAT203",
+    "EM13MAT315",
+    "EM13MAT405"
+  ],
+  "duracaoMin": 20,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 4 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em03.computacao.prova.01",
+    "mat.em03.computacao.prova.02",
+    "mat.em03.computacao.prova.03",
+    "mat.em03.computacao.prova.04"
+  ],
+  "criterios": "Cada item objetivo vale 10/4 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT203",
+      "questoes": [
+        "mat.em03.computacao.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.computacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT315",
+      "questoes": [
+        "mat.em03.computacao.prova.01",
+        "mat.em03.computacao.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.computacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.computacao.um_pouco_de_historia#um_pouco_de_historia.producao",
+        "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT405",
+      "questoes": [
+        "mat.em03.computacao.prova.02",
+        "mat.em03.computacao.prova.03",
+        "mat.em03.computacao.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.computacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.computacao.conceitos_iniciais#conceitos_iniciais.producao",
+        "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao",
+        "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em03.computacao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Computação",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT203",
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "atividadesOrigem": [
+      "mat.em03.computacao.um_pouco_de_historia#um_pouco_de_historia.producao",
+      "mat.em03.computacao.conceitos_iniciais#conceitos_iniciais.producao",
+      "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao",
+      "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Um Pouco de História",
+        "enunciado": "Compare subtrações repetidas e divisões com resto para MDC. Registre uma descrição em linguagem corrente e fluxograma, execute para 48,18 e explique a conservação dos divisores e a parada.",
+        "gabarito": "Ambos dão seis. No método por restos, o segundo valor diminui entre naturais até zero; não inventar datas históricas como parte da prova matemática.",
+        "bncc": [
+          "EM13MAT315"
+        ],
+        "atividadeOrigem": "mat.em03.computacao.um_pouco_de_historia#um_pouco_de_historia.producao"
+      },
+      {
+        "titulo": "Conceitos Iniciais",
+        "enunciado": "Implemente função de média e amplitude para uma lista de números, com tratamento de lista vazia. Execute casos conhecidos, documente entradas e compare com cálculo manual.",
+        "gabarito": "Avaliar código executado, soma e quantidade, máximo e mínimo, retorno e tratamento explícito de ausência; não dividir por zero.",
+        "bncc": [
+          "EM13MAT405"
+        ],
+        "atividadeOrigem": "mat.em03.computacao.conceitos_iniciais#conceitos_iniciais.producao"
+      },
+      {
+        "titulo": "Algoritmos e Fluxogramas",
+        "enunciado": "Desenhe e implemente MDC por Euclides. Rastreie 54,24; teste números iguais, divisor exato, um argumento zero e ambos zero, declarando a convenção para esse último caso.",
+        "gabarito": "MDC 54,24=6. Para ambos zero, rejeitar ou declarar convenção usada; para a>0,b=0 retorna a. Registrar código e saídas reais.",
+        "bncc": [
+          "EM13MAT315",
+          "EM13MAT405"
+        ],
+        "atividadeOrigem": "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao"
+      },
+      {
+        "titulo": "Projeto de Programação",
+        "enunciado": "Implemente um pequeno aplicativo ou programa de orçamento ou medições. Inclua validação, cenários, testes com casos conhecidos e relatório de uma decisão fictícia; compare com planilha.",
+        "gabarito": "Avaliar execução efetiva, documentação, fórmulas, entradas inválidas e decisão ligada aos dados. Não basta apresentar pseudocódigo como programa executado.",
+        "bncc": [
+          "EM13MAT203",
+          "EM13MAT405"
+        ],
+        "atividadeOrigem": "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao"
+      }
+    ],
+    "duracaoMinSugerida": 120,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545,
+        546
+      ],
+      "paginasImpressas": "543, 544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

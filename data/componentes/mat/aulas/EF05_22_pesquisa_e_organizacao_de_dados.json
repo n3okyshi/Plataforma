@@ -1,0 +1,106 @@
+{
+  "id": "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados",
+  "componente": "mat",
+  "nivel": "EF05",
+  "ordem": 22,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Pesquisa e Organização de Dados",
+  "bncc": [
+    "EF05MA25"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Realize pesquisa com as duas classes de variável",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Uma pesquisa deve informar finalidade, participantes, perguntas, método e resultados",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Pesquisa e Organização de Dados</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Uma pesquisa deve informar finalidade, participantes, perguntas, método e resultados. Use variáveis categóricas e numéricas, organize tabelas e escolha entre colunas, pictogramas e linhas conforme a pergunta. Gráfico de linhas é útil para uma sequência ordenada, não para ligar categorias arbitrárias.</p><h3>Exemplo resolvido</h3><p>Perguntar atividade preferida e minutos dedicados permite categorias e números. A mesma coleta pode gerar tabela e gráficos diferentes, sem alterar os valores.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Realize pesquisa com as duas classes de variável. Construa tabela, gráfico de colunas, pictograma e um gráfico de linhas de uma medida acompanhada em sequência temporal; escreva finalidade e síntese dos resultados.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 297</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "pesquisa",
+      "graficos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pesquisa_e_organizacao_de_dados.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma variável categórica é:",
+      "alternativas": [
+        "Minutos de trajeto",
+        "Quantidade de livros",
+        "Meio de transporte escolhido"
+      ],
+      "correta": 2,
+      "explicacao": "O valor é uma categoria."
+    },
+    {
+      "id": "pesquisa_e_organizacao_de_dados.producao",
+      "tipo": "discursiva",
+      "enunciado": "Realize pesquisa com as duas classes de variável. Construa tabela, gráfico de colunas, pictograma e um gráfico de linhas de uma medida acompanhada em sequência temporal; escreva finalidade e síntese dos resultados.",
+      "gabarito": "Avaliar coleta real, registros anônimos, categorias, unidades, escalas e correspondência entre todas as representações. A série temporal deve ser efetivamente observada ou claramente identificada como exemplo fictício separado.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar coleta real, registros anônimos, categorias, unidades, escalas e correspondência entre todas as representações. A série temporal deve ser efetivamente observada ou claramente identificada como exemplo fictício separado.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "pesquisa",
+    "graficos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        299
+      ],
+      "paginasImpressas": "297",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

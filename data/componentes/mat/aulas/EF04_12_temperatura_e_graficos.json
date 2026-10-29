@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos",
+  "componente": "mat",
+  "nivel": "EF04",
+  "ordem": 12,
+  "unidade": "Massa, capacidade, intervalo de tempo e temperatura",
+  "titulo": "Temperatura e Gráficos",
+  "bncc": [
+    "EF04MA23",
+    "EF04MA24"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Registre máximas e mínimas locais de vários dias com instrumento ou fonte identificada",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Temperatura é uma grandeza e pode ser expressa em graus Celsius",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Temperatura e Gráficos</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Temperatura é uma grandeza e pode ser expressa em graus Celsius. Compare leituras considerando lugar, data e método. Máxima e mínima de um dia são extremos do conjunto observado; subtrair uma da outra dá a amplitude daquele dia. Não infira mudança climática a partir de poucos dias de uma única coleta.</p><h3>Exemplo resolvido</h3><p>Exemplo fictício: máxima 28 °C e mínima 19 °C dão amplitude de 9 °C. Isso é diferença de temperaturas, não a temperatura média do dia.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Registre máximas e mínimas locais de vários dias com instrumento ou fonte identificada. Monte tabela e gráfico de colunas e compare locais ou regiões com dados fornecidos e datas compatíveis.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 293</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "temperatura",
+      "graficos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "temperatura_e_graficos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Máxima 31 °C e mínima 22 °C têm diferença:",
+      "alternativas": [
+        "9 °C",
+        "53 °C",
+        "22 °C"
+      ],
+      "correta": 0,
+      "explicacao": "31−22=9."
+    },
+    {
+      "id": "temperatura_e_graficos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Registre máximas e mínimas locais de vários dias com instrumento ou fonte identificada. Monte tabela e gráfico de colunas e compare locais ou regiões com dados fornecidos e datas compatíveis.",
+      "gabarito": "Conferir dados reais, unidades, dias e fonte; gráficos devem reproduzir máximas e mínimas. Distinguir conclusão local e generalização climática.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir dados reais, unidades, dias e fonte; gráficos devem reproduzir máximas e mínimas. Distinguir conclusão local e generalização climática.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "temperatura",
+    "graficos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        295
+      ],
+      "paginasImpressas": "293",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida"
+  ],
+  "proximosPassos": [
+    "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.problemas_com_dinheiro"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

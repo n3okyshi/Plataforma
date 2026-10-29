@@ -1,0 +1,88 @@
+{
+  "id": "mat.ef05.mais_geometria.prova",
+  "titulo": "Avaliação: Mais Geometria",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF05",
+  "unidade": "Mais Geometria",
+  "bncc": [
+    "EF05MA18"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef05.mais_geometria.prova.01",
+    "mat.ef05.mais_geometria.prova.02",
+    "mat.ef05.mais_geometria.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF05MA18",
+      "questoes": [
+        "mat.ef05.mais_geometria.prova.01",
+        "mat.ef05.mais_geometria.prova.02",
+        "mat.ef05.mais_geometria.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.mais_geometria.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.mais_geometria.poligonos_e_ampliacao#poligonos_e_ampliacao.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef05.mais_geometria.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Mais Geometria",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF05MA18"
+    ],
+    "atividadesOrigem": [
+      "mat.ef05.mais_geometria.poligonos_e_ampliacao#poligonos_e_ampliacao.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Polígonos e Ampliação",
+        "enunciado": "Desenhe um polígono em malha, amplie por dois e reduza uma cópia pelo fator metade. Compare ângulos e razões entre lados, com sobreposição ou software.",
+        "gabarito": "Todos os comprimentos precisam seguir o fator e os ângulos conservar a abertura. Avaliar também a explicação da proporcionalidade.",
+        "bncc": [
+          "EF05MA18"
+        ],
+        "atividadeOrigem": "mat.ef05.mais_geometria.poligonos_e_ampliacao#poligonos_e_ampliacao.producao"
+      }
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        299
+      ],
+      "paginasImpressas": "297",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344
+      ],
+      "paginasImpressas": "347",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

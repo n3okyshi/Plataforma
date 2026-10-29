@@ -1,0 +1,116 @@
+{
+  "id": "mat.em01.grandezas_e_medidas.prova",
+  "titulo": "Avaliação: Grandezas e Medidas",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM01",
+  "unidade": "Grandezas e Medidas",
+  "bncc": [
+    "EM13MAT103",
+    "EM13MAT313",
+    "EM13MAT314"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em01.grandezas_e_medidas.prova.01",
+    "mat.em01.grandezas_e_medidas.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT103",
+      "questoes": [
+        "mat.em01.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.grandezas_e_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT313",
+      "questoes": [
+        "mat.em01.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.grandezas_e_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT314",
+      "questoes": [
+        "mat.em01.grandezas_e_medidas.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.grandezas_e_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas#razao_e_produto_de_grandezas.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em01.grandezas_e_medidas.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Grandezas e Medidas",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT313",
+      "EM13MAT314"
+    ],
+    "atividadesOrigem": [
+      "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao",
+      "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas#razao_e_produto_de_grandezas.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Unidades do SI e Conversões",
+        "enunciado": "Analise um texto científico ou tecnológico com unidades, fonte e período. Converta medidas, registre resolução de uma medição real e explique algarismos significativos e margem de incerteza.",
+        "gabarito": "Conferir análise dimensional, convenções, arredondamentos e distinção entre erro e dígitos escritos; não declarar medida exata a partir de instrumento limitado.",
+        "bncc": [
+          "EM13MAT103",
+          "EM13MAT313"
+        ],
+        "atividadeOrigem": "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao"
+      },
+      {
+        "titulo": "Razão e Produto de Grandezas",
+        "enunciado": "Crie e resolva problemas de velocidade média, densidade e energia com dados declarados. Compatibilize unidades e explique limites das médias e hipóteses de constância.",
+        "gabarito": "Conferir razão/produto, unidades e interpretação global, sem tratar velocidade média como velocidade instantânea.",
+        "bncc": [
+          "EM13MAT314"
+        ],
+        "atividadeOrigem": "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas#razao_e_produto_de_grandezas.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

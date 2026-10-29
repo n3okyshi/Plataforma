@@ -2,36 +2,118 @@
   "id": "mat.em02.trigonometria.relacoes_trigonometricas",
   "componente": "mat",
   "nivel": "EM02",
-  "ordem": 8,
+  "ordem": 9,
   "unidade": "Trigonometria",
   "titulo": "Relações Trigonométricas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT308"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Elabore problema de altura por ângulo de elevação e distância horizontal",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "No triângulo retângulo, seno e cosseno relacionam cateto oposto ou adjacente com hipotenusa, e tangente relaciona os catetos",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Trigonometria no Triângulo Retângulo</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definição de Seno, Cosseno e Tangente. Resolução de problemas de alturas inacessíveis.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 SOH CAH TOA:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>S</strong>eno = <strong>O</strong>posto / <strong>H</strong>ipotenusa</li>\n                <li><strong>C</strong>osseno = <strong>A</strong>djacente / <strong>H</strong>ipotenusa</li>\n                <li><strong>T</strong>angente = <strong>O</strong>posto / <strong>A</strong>djacente</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Relações Trigonométricas</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>No triângulo retângulo, seno e cosseno relacionam cateto oposto ou adjacente com hipotenusa, e tangente relaciona os catetos. O ângulo de referência importa. A identidade sen²θ+cos²θ=1 decorre de Pitágoras. Valores não determinam sinais sem considerar o quadrante no ciclo.</p><h3>Exemplo resolvido</h3><p>Com catetos 3 e 4 e hipotenusa 5, para o ângulo oposto a 3: seno 3/5,cosseno 4/5,tangente 3/4.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Elabore problema de altura por ângulo de elevação e distância horizontal. Desenhe, escolha a razão adequada e explique precisão angular e hipóteses do modelo.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li><li>MC_MATEM_EM.pdf — páginas impressas 111, 112, 119, 139</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "trigonometria",
+      "triangulo_retangulo"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "relacoes_trigonometricas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Se sen θ=3/5 e θ é agudo, cos θ é:",
+      "alternativas": [
+        "4/5",
+        "2/5",
+        "−4/5"
+      ],
+      "correta": 0,
+      "explicacao": "Raiz positiva de 1−9/25."
+    },
+    {
+      "id": "relacoes_trigonometricas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Elabore problema de altura por ângulo de elevação e distância horizontal. Desenhe, escolha a razão adequada e explique precisão angular e hipóteses do modelo.",
+      "gabarito": "Conferir ângulo, catetos e unidade; incluir altura do instrumento quando o contexto exigir.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir ângulo, catetos e unidade; incluir altura do instrumento quando o contexto exigir.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "trigonometria",
+    "triangulo_retangulo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        108,
+        109,
+        116,
+        136
+      ],
+      "paginasImpressas": "111, 112, 119, 139",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.trigonometria.funcoes_trigonometricas"
+  ],
+  "proximosPassos": [
+    "mat.em02.trigonometria.semelhanca_de_poligonos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

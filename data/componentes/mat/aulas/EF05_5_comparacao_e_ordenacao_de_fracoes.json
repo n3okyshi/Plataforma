@@ -1,0 +1,115 @@
+{
+  "id": "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes",
+  "componente": "mat",
+  "nivel": "EF05",
+  "ordem": 5,
+  "unidade": "Frações",
+  "titulo": "Comparação e Ordenação de Frações",
+  "bncc": [
+    "EF05MA05"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Ordene 1/2,0,8,3/4 e 5/4, mostrando equivalências e posições na reta",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Para comparar frações positivas, mantenha o mesmo inteiro e use equivalências ou representações decimais",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Comparação e Ordenação de Frações</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Para comparar frações positivas, mantenha o mesmo inteiro e use equivalências ou representações decimais. Comparar numeradores isolados não basta se os denominadores diferem. Na reta, valores equivalentes ocupam o mesmo ponto.</p><h3>Exemplo resolvido</h3><p>2/3=8/12 e 3/4=9/12, portanto 2/3&lt;3/4. Já 1/2=0,5.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Ordene 1/2,0,8,3/4 e 5/4, mostrando equivalências e posições na reta. Explique por que 5/4 passa de um.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 295</li><li>MC_MATEM_EF.pdf — páginas impressas 74, 80</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "fracoes",
+      "comparacao"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "comparacao_e_ordenacao_de_fracoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é maior, 3/5 ou 1/2?",
+      "alternativas": [
+        "São iguais",
+        "3/5",
+        "1/2"
+      ],
+      "correta": 1,
+      "explicacao": "3/5=6/10 e 1/2=5/10."
+    },
+    {
+      "id": "comparacao_e_ordenacao_de_fracoes.producao",
+      "tipo": "discursiva",
+      "enunciado": "Ordene 1/2,0,8,3/4 e 5/4, mostrando equivalências e posições na reta. Explique por que 5/4 passa de um.",
+      "gabarito": "0,5<0,75<0,8<1,25. Cinco quartos são quatro quartos mais um quarto.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "0,5<0,75<0,8<1,25. Cinco quartos são quatro quartos mais um quarto.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fracoes",
+    "comparacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        71,
+        77
+      ],
+      "paginasImpressas": "74, 80",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "mat.ef04.problemas_de_contagem.prova",
+  "titulo": "Avaliação: Problemas de Contagem",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF04",
+  "unidade": "Problemas de Contagem",
+  "bncc": [
+    "EF04MA08"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef04.problemas_de_contagem.prova.01",
+    "mat.ef04.problemas_de_contagem.prova.02",
+    "mat.ef04.problemas_de_contagem.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF04MA08",
+      "questoes": [
+        "mat.ef04.problemas_de_contagem.prova.01",
+        "mat.ef04.problemas_de_contagem.prova.02",
+        "mat.ef04.problemas_de_contagem.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.problemas_de_contagem.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.problemas_de_contagem.combinacoes_simples#combinacoes_simples.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef04.problemas_de_contagem.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Problemas de Contagem",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF04MA08"
+    ],
+    "atividadesOrigem": [
+      "mat.ef04.problemas_de_contagem.combinacoes_simples#combinacoes_simples.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Combinações Simples",
+        "enunciado": "Com cartões, combine quatro sabores e três tamanhos de um produto fictício. Liste todas as escolhas por tabela e árvore e invente outro problema de combinação.",
+        "gabarito": "Doze combinações sem repetição de pares; representação precisa mostrar todos os cruzamentos permitidos.",
+        "bncc": [
+          "EF04MA08"
+        ],
+        "atividadeOrigem": "mat.ef04.problemas_de_contagem.combinacoes_simples#combinacoes_simples.producao"
+      }
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        293
+      ],
+      "paginasImpressas": "291",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34
+      ],
+      "paginasImpressas": "37",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

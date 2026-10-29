@@ -5,33 +5,114 @@
   "ordem": 9,
   "unidade": "Função Logarítmica",
   "titulo": "Logaritmo",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT305"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolva equações logarítmicas simples verificando domínio e compare propriedades por exemplos e contraexemplos",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Para base b>0,b≠1 e argumento a>0, log_b(a) é o expoente que transforma b em a",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Logaritmos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A operação inversa da exponenciação. \"A base elevada a quanto dá o logaritmando?\"\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔄 Ciclo:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">$log_a b = x iff a^x = b$.<br>Condição: $a > 0, a \neq 1$ e $b > 0$.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Logaritmo</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Para base b&gt;0,b≠1 e argumento a&gt;0, log_b(a) é o expoente que transforma b em a. Produtos viram somas de logaritmos e quocientes diferenças, com argumentos positivos. Mudança de base usa log_b(a)=ln(a)/ln(b). Não existe regra log(a+b)=log(a)+log(b). Em logaritmos decimais, separar parte inteira e fracionária auxilia a estimar ordens de grandeza; por exemplo log10(200)=2+log10(2)≈2,3010.</p><h3>Exemplo resolvido</h3><p>log_2(32)=5 porque 2^5=32. log_2(8×4)=3+2=5.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Resolva equações logarítmicas simples verificando domínio e compare propriedades por exemplos e contraexemplos. Crie problema de tempo para multiplicação de uma quantidade por fator fixo.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li><li>MC_MATEM_EM.pdf — páginas impressas 87, 89, 93, 95, 92</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "logaritmo",
+      "definicao"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "logaritmo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "log_3(81) vale:",
+      "alternativas": [
+        "4",
+        "27",
+        "3"
+      ],
+      "correta": 0,
+      "explicacao": "3^4=81."
+    },
+    {
+      "id": "logaritmo.producao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva equações logarítmicas simples verificando domínio e compare propriedades por exemplos e contraexemplos. Crie problema de tempo para multiplicação de uma quantidade por fator fixo.",
+      "gabarito": "Conferir argumento positivo, base válida e substituição na equação inicial; o tempo depende do modelo escolhido.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir argumento positivo, base válida e substituição na equação inicial; o tempo depende do modelo escolhido.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "logaritmo",
+    "definicao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        84,
+        86,
+        90,
+        92,
+        89
+      ],
+      "paginasImpressas": "87, 89, 93, 95, 92",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em01.funcao_logaritmica.a_funcao_logaritmica"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

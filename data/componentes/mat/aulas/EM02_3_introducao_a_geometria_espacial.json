@@ -2,36 +2,105 @@
   "id": "mat.em02.geometria_espacial.introducao_a_geometria_espacial",
   "componente": "mat",
   "nivel": "EM02",
-  "ordem": 3,
+  "ordem": 1,
   "unidade": "Geometria Espacial",
   "titulo": "Introdução à Geometria Espacial",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT309"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Modele uma embalagem real por um sólido, registre aproximações e meça o necessário para calcular espaço interno e material de cobertura",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Modelos espaciais distinguem faces planas, partes curvas, bases, altura perpendicular e arestas",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Geometria Espacial: O Início</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Saímos do papel (2D) para o espaço (3D). Conceitos de Ponto, Reta e Plano.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚠️ Novidade: Retas Reversas:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">No espaço, duas retas podem não se cruzar e NÃO serem paralelas. Elas estão em planos diferentes (como um viaduto passando sobre uma rua).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Introdução à Geometria Espacial</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Modelos espaciais distinguem faces planas, partes curvas, bases, altura perpendicular e arestas. Desenhos em perspectiva podem esconder elementos e deformar comprimentos aparentes. Antes de calcular, identifique o sólido idealizado, medidas internas ou externas e unidades.</p><h3>Exemplo resolvido</h3><p>Uma caixa retangular 3×4×5 tem volume sessenta e área total 2(12+15+20)=94. Volume e revestimento exigem grandezas diferentes.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Modele uma embalagem real por um sólido, registre aproximações e meça o necessário para calcular espaço interno e material de cobertura. Explique o que o modelo não representa.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "geometria_espacial",
+      "solidos_geometricos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "introducao_a_geometria_espacial.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Volume de bloco 2×3×4 é:",
+      "alternativas": [
+        "18",
+        "52",
+        "24"
+      ],
+      "correta": 2,
+      "explicacao": "Produto das três dimensões."
+    },
+    {
+      "id": "introducao_a_geometria_espacial.producao",
+      "tipo": "discursiva",
+      "enunciado": "Modele uma embalagem real por um sólido, registre aproximações e meça o necessário para calcular espaço interno e material de cobertura. Explique o que o modelo não representa.",
+      "gabarito": "Conferir sólido, dimensões, unidades quadradas/cúbicas e limites da aproximação; não usar medidas ocultas inventadas.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir sólido, dimensões, unidades quadradas/cúbicas e limites da aproximação; não usar medidas ocultas inventadas.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "geometria_espacial",
+    "solidos_geometricos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em02.geometria_espacial.prismas_e_cilindros"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

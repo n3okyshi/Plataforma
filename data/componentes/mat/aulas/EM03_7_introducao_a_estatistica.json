@@ -2,36 +2,114 @@
   "id": "mat.em03.estatistica.introducao_a_estatistica",
   "componente": "mat",
   "nivel": "EM03",
-  "ordem": 7,
+  "ordem": 10,
   "unidade": "Estatística",
   "titulo": "Introdução à Estatística",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT102",
+    "EM13MAT406"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Analise um relatório de fonte identificada, reconstitua tabela de frequências e um gráfico e escreva crítica da amostra, escala e denominadores, distinguindo descrição e causalidade.",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "A análise começa pela pergunta, população, seleção e tipo de variável",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Estatística Avançada</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Interpretação crítica de dados. Construção de histogramas e do poderoso <strong>Boxplot</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📦 Boxplot:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Um gráfico que mostra onde está a maioria dos dados e identifica os <em>outliers</em> (pontos fora da curva).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Introdução à Estatística</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>A análise começa pela pergunta, população, seleção e tipo de variável. Frequências e gráficos dependem dos dados efetivamente observados. Identifique vieses, denominadores e escalas antes de aceitar uma conclusão. Transparência metodológica importa tanto quanto a conta.</p><h3>Exemplo resolvido</h3><p>Uma taxa de vinte ocorrências em cem é 20%; vinte em mil é 2%. Mostrar apenas contagens pode ocultar a diferença de base entre grupos.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Analise um relatório de fonte identificada, reconstitua tabela de frequências e um gráfico e escreva crítica da amostra, escala e denominadores, distinguindo descrição e causalidade.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li><li>MC_MATEM_EM.pdf — páginas impressas 280</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "estatistica",
+      "dados"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "introducao_a_estatistica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "20 em 1000 correspondem a:",
+      "alternativas": [
+        "20%",
+        "0,2%",
+        "2%"
+      ],
+      "correta": 2,
+      "explicacao": "20/1000=0,02."
+    },
+    {
+      "id": "introducao_a_estatistica.producao",
+      "tipo": "discursiva",
+      "enunciado": "Analise um relatório de fonte identificada, reconstitua tabela de frequências e um gráfico e escreva crítica da amostra, escala e denominadores, distinguindo descrição e causalidade.",
+      "gabarito": "Conferir fonte, período, população e valores. A crítica deve apontar efeito verificável sem presumir intenção.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir fonte, período, população e valores. A crítica deve apontar efeito verificável sem presumir intenção.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "estatistica",
+    "dados"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        277
+      ],
+      "paginasImpressas": "280",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

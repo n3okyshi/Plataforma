@@ -1,0 +1,117 @@
+{
+  "id": "mat.ef03.geometria.figuras_planas_e_seus_lados",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 13,
+  "unidade": "Geometria",
+  "titulo": "Figuras Planas e seus Lados",
+  "bncc": [
+    "EF03MA15"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe triângulo, quadrado, retângulo, trapézio e paralelogramo em orientações variadas",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Classifique figuras por lados, vértices e posições relativas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Figuras Planas e seus Lados</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Classifique figuras por lados, vértices e posições relativas. Triângulo tem três lados; quadrado e retângulo têm quatro cantos retos. Paralelogramos têm dois pares de lados paralelos. Nesta aula adotamos trapézio com pelo menos um par de lados paralelos; explicitar a convenção evita classificações ambíguas.</p><h3>Exemplo resolvido</h3><p>Todo quadrado é retângulo e paralelogramo, pois satisfaz suas características, além de ter quatro lados iguais. Girar a figura não muda a classificação.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Desenhe triângulo, quadrado, retângulo, trapézio e paralelogramo em orientações variadas. Marque lados paralelos, compare comprimentos e conte vértices.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 289</li><li>MC_MATEM_EF.pdf — páginas impressas 347, 367</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "figuras_planas",
+      "lados"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "figuras_planas_e_seus_lados.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quantos vértices tem um triângulo?",
+      "alternativas": [
+        "4",
+        "5",
+        "3"
+      ],
+      "correta": 2,
+      "explicacao": "Um vértice em cada encontro de dois dos três lados."
+    },
+    {
+      "id": "figuras_planas_e_seus_lados.producao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe triângulo, quadrado, retângulo, trapézio e paralelogramo em orientações variadas. Marque lados paralelos, compare comprimentos e conte vértices.",
+      "gabarito": "Conferir três ou quatro vértices, pares de paralelas e igualdade dos lados quando aplicável. Respeitar a convenção de trapézio declarada.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir três ou quatro vértices, pares de paralelas e igualdade dos lados quando aplicável. Respeitar a convenção de trapézio declarada.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_planas",
+    "lados"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344,
+        364
+      ],
+      "paginasImpressas": "347, 367",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.geometria.planificacoes_de_solidos"
+  ],
+  "proximosPassos": [
+    "mat.ef03.geometria.trajetos_e_croquis"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

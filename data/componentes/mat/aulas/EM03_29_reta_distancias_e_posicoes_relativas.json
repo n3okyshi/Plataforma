@@ -1,0 +1,105 @@
+{
+  "id": "mat.em03.geometria_analitica_complementar.reta_distancias_e_posicoes_relativas",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 29,
+  "unidade": "Geometria Analítica — Complementar",
+  "titulo": "Reta distancias e posicoes relativas",
+  "bncc": [],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Determine intersecção, paralelismo e distância em pares de retas, incluindo uma vertical",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Retas ax+by+c=0 têm (a,b)≠(0,0)",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Reta distancias e posicoes relativas</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Retas ax+by+c=0 têm (a,b)≠(0,0). A distância de ponto (x0,y0) à reta é |ax0+by0+c|/√(a²+b²). Paralelismo e perpendicularidade dependem das direções; a condição m1m2=−1 só vale quando ambas as inclinações são definidas. O baricentro de um triângulo tem coordenadas iguais às médias das coordenadas dos três vértices; pode ser investigado pela intersecção das medianas.</p><h3>Exemplo resolvido</h3><p>A distância da origem à reta 3x+4y−10=0 é dez sobre cinco, dois. Retas verticais e horizontais são perpendiculares sem usar produto de inclinações finitas.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Determine intersecção, paralelismo e distância em pares de retas, incluindo uma vertical. Compare cálculo algébrico com construção por perpendicular e interprete em um contexto geométrico. Determine o baricentro de um triângulo escolhido e confira construindo duas medianas.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 373, 374, 377, 386, 390, 392, 369</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "reta_distancias_e_posicoes_relativas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Distância de (0,0) a x=5 é:",
+      "alternativas": [
+        "−5",
+        "5",
+        "0"
+      ],
+      "correta": 1,
+      "explicacao": "A perpendicular horizontal tem comprimento cinco."
+    },
+    {
+      "id": "reta_distancias_e_posicoes_relativas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Determine intersecção, paralelismo e distância em pares de retas, incluindo uma vertical. Compare cálculo algébrico com construção por perpendicular e interprete em um contexto geométrico. Determine o baricentro de um triângulo escolhido e confira construindo duas medianas.",
+      "gabarito": "Conferir denominador positivo, valor absoluto, condições de direção e equações originais; distâncias não podem ser negativas. Conferir a média das coordenadas e a intersecção das medianas.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir denominador positivo, valor absoluto, condições de direção e equações originais; distâncias não podem ser negativas. Conferir a média das coordenadas e a intersecção das medianas.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        370,
+        371,
+        374,
+        383,
+        387,
+        389,
+        366
+      ],
+      "paginasImpressas": "373, 374, 377, 386, 390, 392, 369",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em03.geometria_analitica_complementar.elipse_e_circunferencia"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
+}

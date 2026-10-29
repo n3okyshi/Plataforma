@@ -1,0 +1,171 @@
+{
+  "id": "mat.ef04.padroes_e_igualdade.prova",
+  "titulo": "Avaliação: Padrões e Igualdade",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF04",
+  "unidade": "Padrões e Igualdade",
+  "bncc": [
+    "EF04MA04",
+    "EF04MA11",
+    "EF04MA12",
+    "EF04MA13",
+    "EF04MA14",
+    "EF04MA15"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef04.padroes_e_igualdade.prova.01",
+    "mat.ef04.padroes_e_igualdade.prova.02",
+    "mat.ef04.padroes_e_igualdade.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF04MA04",
+      "questoes": [
+        "mat.ef04.padroes_e_igualdade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA11",
+      "questoes": [
+        "mat.ef04.padroes_e_igualdade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA12",
+      "questoes": [
+        "mat.ef04.padroes_e_igualdade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA13",
+      "questoes": [
+        "mat.ef04.padroes_e_igualdade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA14",
+      "questoes": [
+        "mat.ef04.padroes_e_igualdade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA15",
+      "questoes": [
+        "mat.ef04.padroes_e_igualdade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.padroes_e_igualdade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef04.padroes_e_igualdade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Padrões e Igualdade",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF04MA04",
+      "EF04MA11",
+      "EF04MA12",
+      "EF04MA13",
+      "EF04MA14",
+      "EF04MA15"
+    ],
+    "atividadesOrigem": [
+      "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.producao",
+      "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.producao",
+      "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Múltiplos em Sequências",
+        "enunciado": "Liste múltiplos de quatro e números de resto três ao dividir por quatro. Faça oito termos de cada sequência e confira divisões, usando calculadora depois de explicar.",
+        "gabarito": "Múltiplos podem começar em zero: 0,4,8,12,16,20,24,28; resto três: 3,7,11,15,19,23,27,31.",
+        "bncc": [
+          "EF04MA11",
+          "EF04MA12"
+        ],
+        "atividadeOrigem": "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.producao"
+      },
+      {
+        "titulo": "Relações Inversas entre Operações",
+        "enunciado": "Investigue três pares de operações inversas, com e sem calculadora. Use-os para resolver uma partilha e completar uma quantidade, explicando por que a conferência reconstrói os dados.",
+        "gabarito": "As igualdades precisam ser verdadeiras e ligadas aos significados das situações; aceitar diversas estratégias, evitando divisão por zero.",
+        "bncc": [
+          "EF04MA04",
+          "EF04MA13"
+        ],
+        "atividadeOrigem": "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.producao"
+      },
+      {
+        "titulo": "Propriedades da Igualdade",
+        "enunciado": "Use uma balança desenhada para mostrar 18+12=20+10 e a adição de sete a ambos os lados. Resolva □+48=125 e 6×□=54, conferindo as sentenças originais.",
+        "gabarito": "Ambos os lados passam de trinta para trinta e sete; incógnitas 77 e 9. Justificar conservação da igualdade e conferir.",
+        "bncc": [
+          "EF04MA14",
+          "EF04MA15"
+        ],
+        "atividadeOrigem": "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+      }
+    ],
+    "duracaoMinSugerida": 90,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        293
+      ],
+      "paginasImpressas": "291",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

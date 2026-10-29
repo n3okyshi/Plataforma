@@ -2,36 +2,108 @@
   "id": "mat.em03.computacao.algoritmos_e_fluxogramas",
   "componente": "mat",
   "nivel": "EM03",
-  "ordem": 10,
+  "ordem": 6,
   "unidade": "Computação",
   "titulo": "Algoritmos e Fluxogramas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT315",
+    "EM13MAT405"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Desenhe e implemente MDC por Euclides",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Fluxogramas tornam decisões e repetição explícitas; a implementação deve corresponder ao fluxo",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Algoritmos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            O passo a passo para resolver problemas. Representação gráfica através de <strong>Fluxogramas</strong>.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🍔 A Receita:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Um algoritmo é como uma receita de bolo: uma sequência finita de instruções claras para atingir um objetivo.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Algoritmos e Fluxogramas</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Fluxogramas tornam decisões e repetição explícitas; a implementação deve corresponder ao fluxo. Uma tabela de rastreamento registra estado a cada passo e ajuda a encontrar erros de fronteira. Use entradas variadas e uma propriedade que se mantenha para justificar o algoritmo.</p><h3>Exemplo resolvido</h3><p>No MDC por restos, enquanto b≠0, atualize simultaneamente (a,b) para (b,a mod b). Atualizações separadas na ordem errada podem destruir o valor necessário ao resto.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Código de apoio — Python</h3><pre><code>def mdc(a, b):\n    if any(not isinstance(x, int) or isinstance(x, bool) or x &lt; 0 for x in (a,b)):\n        raise ValueError(&quot;Use inteiros não negativos&quot;)\n    if a == 0 and b == 0:\n        raise ValueError(&quot;Ambos zero: caso não admitido nesta atividade&quot;)\n    while b != 0:\n        a, b = b, a % b\n    return a\n\nprint(mdc(54,24), mdc(7,0))</code></pre><h3>Investigue, construa ou produza</h3><p>Desenhe e implemente MDC por Euclides. Rastreie 54,24; teste números iguais, divisor exato, um argumento zero e ambos zero, declarando a convenção para esse último caso.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "algoritmos",
+      "fluxograma"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "algoritmos_e_fluxogramas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No passo (a,b)=(b,a mod b), para (35,15) obtemos:",
+      "alternativas": [
+        "(15,5)",
+        "(5,15)",
+        "(15,0)"
+      ],
+      "correta": 0,
+      "explicacao": "Resto de 35 por 15 é cinco."
+    },
+    {
+      "id": "algoritmos_e_fluxogramas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe e implemente MDC por Euclides. Rastreie 54,24; teste números iguais, divisor exato, um argumento zero e ambos zero, declarando a convenção para esse último caso.",
+      "gabarito": "MDC 54,24=6. Para ambos zero, rejeitar ou declarar convenção usada; para a>0,b=0 retorna a. Registrar código e saídas reais.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "MDC 54,24=6. Para ambos zero, rejeitar ou declarar convenção usada; para a>0,b=0 retorna a. Registrar código e saídas reais.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "algoritmos",
+    "fluxograma"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em03.computacao.conceitos_iniciais"
+  ],
+  "proximosPassos": [
+    "mat.em03.computacao.projeto_de_programacao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

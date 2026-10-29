@@ -1,0 +1,418 @@
+[
+  {
+    "id": "mat.ef03.geometria.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.poliedros_e_corpos_redondos",
+    "bncc": [
+      "EF03MA13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual objeto costuma lembrar um cilindro?",
+    "opcoes": [
+      "Bola",
+      "Caixa cúbica",
+      "Lata de base circular"
+    ],
+    "correta": 2,
+    "explicacao": "A lata tem duas bases circulares e lateral curva.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.congruencia_e_malhas",
+    "bncc": [
+      "EF03MA16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Retângulos 2×5 e 5×2 são:",
+    "opcoes": [
+      "Triângulos",
+      "Congruentes",
+      "De tamanhos diferentes"
+    ],
+    "correta": 1,
+    "explicacao": "Uma rotação permite sobrepor os contornos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352
+        ],
+        "paginasImpressas": "355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.planificacoes_de_solidos",
+    "bncc": [
+      "EF03MA14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A representação da superfície de um cilindro inclui:",
+    "opcoes": [
+      "Dois círculos e um retângulo",
+      "Seis quadrados",
+      "Um único triângulo"
+    ],
+    "correta": 0,
+    "explicacao": "Os círculos são as bases e o retângulo representa a lateral aberta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.figuras_planas_e_seus_lados",
+    "bncc": [
+      "EF03MA15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quantos vértices tem um triângulo?",
+    "opcoes": [
+      "4",
+      "5",
+      "3"
+    ],
+    "correta": 2,
+    "explicacao": "Um vértice em cada encontro de dois dos três lados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344,
+          364
+        ],
+        "paginasImpressas": "347, 367",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.trajetos_e_croquis",
+    "bncc": [
+      "EF03MA12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No retorno pelo mesmo trecho, muda principalmente:",
+    "opcoes": [
+      "A quantidade de portas",
+      "O sentido",
+      "O nome do lugar"
+    ],
+    "correta": 1,
+    "explicacao": "Percorre-se o trecho em orientação contrária de avanço.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.poliedros_e_corpos_redondos",
+    "bncc": [
+      "EF03MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um modelo com base e faces laterais triangulares encontrando-se numa ponta é uma:",
+    "opcoes": [
+      "Esfera",
+      "Cilindro",
+      "Pirâmide"
+    ],
+    "correta": 2,
+    "explicacao": "Essas são características da pirâmide.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.congruencia_e_malhas",
+    "bncc": [
+      "EF03MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ter igual área garante congruência?",
+    "opcoes": [
+      "Somente se a cor for igual",
+      "Não",
+      "Sim, sempre"
+    ],
+    "correta": 1,
+    "explicacao": "Formatos diferentes podem ocupar a mesma área.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352
+        ],
+        "paginasImpressas": "355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.planificacoes_de_solidos",
+    "bncc": [
+      "EF03MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma pirâmide de base quadrada tem laterais representadas por:",
+    "opcoes": [
+      "Quatro triângulos",
+      "Quatro círculos",
+      "Dois retângulos"
+    ],
+    "correta": 0,
+    "explicacao": "Cada lado da base corresponde a uma face triangular.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.figuras_planas_e_seus_lados",
+    "bncc": [
+      "EF03MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual característica sempre vale num paralelogramo?",
+    "opcoes": [
+      "Três lados",
+      "Todos os lados curvos",
+      "Dois pares de lados paralelos"
+    ],
+    "correta": 2,
+    "explicacao": "As paralelas opostas definem o paralelogramo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344,
+          364
+        ],
+        "paginasImpressas": "347, 367",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.trajetos_e_croquis",
+    "bncc": [
+      "EF03MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma instrução de caminho deve informar:",
+    "opcoes": [
+      "Só o destino sem início",
+      "Referências e ponto de vista",
+      "Só a cor do lápis"
+    ],
+    "correta": 1,
+    "explicacao": "Sem referência, direita e esquerda podem ser interpretadas de outro modo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

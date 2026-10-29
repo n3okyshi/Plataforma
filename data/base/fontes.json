@@ -423,10 +423,16 @@
       "lotesComPaginasConferidas": [
         "mat.EF01",
         "mat.EF02",
+        "mat.EF03",
+        "mat.EF04",
+        "mat.EF05",
         "mat.EF06",
         "mat.EF07",
         "mat.EF08",
-        "mat.EF09"
+        "mat.EF09",
+        "mat.EM01",
+        "mat.EM02",
+        "mat.EM03"
       ],
       "observacaoDosLotes": "Localização de páginas registrada por aula; referências conceituais e recorte curricular. Não implica homologação docente nem reprodução dos materiais."
     },
@@ -1169,10 +1175,14 @@
       "lotesComPaginasConferidas": [
         "mat.EF01",
         "mat.EF02",
+        "mat.EF03",
+        "mat.EF04",
+        "mat.EF05",
         "mat.EF06",
         "mat.EF07",
         "mat.EF08",
-        "mat.EF09"
+        "mat.EF09",
+        "mat.EM01"
       ],
       "observacaoDosLotes": "Localização de páginas registrada por aula; referências conceituais e recorte curricular. Não implica homologação docente nem reprodução dos materiais.",
       "adequacaoAnosIniciais": "Referência conceitual para autoria; linguagem e sequência não transferidas diretamente para a alfabetização. Lotes EF01–EF02 autorais, com material manipulável, leitura mediada e observação guiadas pela BNCC."
@@ -1200,7 +1210,12 @@
         "EM03"
       ],
       "distribuicaoPorSerie": "Conferir no confronto curricular; faixa sugerida não comprova que o material cubra cada série.",
-      "areaSugerida": "Matemática"
+      "areaSugerida": "Matemática",
+      "lotesComPaginasConferidas": [
+        "mat.EM01",
+        "mat.EM02",
+        "mat.EM03"
+      ]
     },
     {
       "id": "MC_QUIMICA_EM",
@@ -1481,6 +1496,20 @@
       ],
       "distribuicaoPorSerie": "Conferir no confronto curricular; faixa sugerida não comprova que o material cubra cada série.",
       "areaSugerida": "Matemática"
+    },
+    {
+      "id": "usgs-projecoes",
+      "arquivo": "USGS — Map projections: A working manual",
+      "url": "https://www.usgs.gov/educational-resources/map-projections-working-manual",
+      "papel": "referencia_conceitual_cartografica",
+      "etapaSugerida": "medio",
+      "componentesSugeridos": [
+        "mat"
+      ],
+      "niveisSugeridos": [
+        "EM02"
+      ],
+      "situacao": "Fonte pública complementar consultada; projeções e deformações."
     }
   ]
 }

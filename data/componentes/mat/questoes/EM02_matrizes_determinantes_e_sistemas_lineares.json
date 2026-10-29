@@ -1,0 +1,129 @@
+[
+  {
+    "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Matrizes, Determinantes e Sistemas Lineares",
+    "aulaId": "mat.em02.matrizes_determinantes_e_sistemas_lineares.matrizes_e_determinantes",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Determinante de [[2,1],[3,4]] é:",
+    "opcoes": [
+      "11",
+      "8",
+      "5"
+    ],
+    "correta": 2,
+    "explicacao": "2×4−1×3=5.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          187,
+          191,
+          200
+        ],
+        "paginasImpressas": "190, 194, 203",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Matrizes, Determinantes e Sistemas Lineares",
+    "aulaId": "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares",
+    "bncc": [
+      "EM13MAT301"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "x+y=8 e x−y=2 têm solução:",
+    "opcoes": [
+      "(4,4)",
+      "(5,3)",
+      "(3,5)"
+    ],
+    "correta": 1,
+    "explicacao": "Somando, 2x=10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          215,
+          220,
+          224,
+          222
+        ],
+        "paginasImpressas": "218, 223, 227, 225",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Matrizes, Determinantes e Sistemas Lineares",
+    "aulaId": "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares",
+    "bncc": [
+      "EM13MAT301"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Retas paralelas distintas representam sistema:",
+    "opcoes": [
+      "Com uma solução",
+      "Sempre com infinitas",
+      "Sem solução"
+    ],
+    "correta": 2,
+    "explicacao": "Não existe ponto comum.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          215,
+          220,
+          224,
+          222
+        ],
+        "paginasImpressas": "218, 223, 227, 225",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

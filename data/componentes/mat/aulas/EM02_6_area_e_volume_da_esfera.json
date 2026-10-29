@@ -1,0 +1,100 @@
+{
+  "id": "mat.em02.geometria_espacial.area_e_volume_da_esfera",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 6,
+  "unidade": "Geometria Espacial",
+  "titulo": "Área e Volume da Esfera",
+  "bncc": [
+    "EM13MAT309"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Elabore e resolva problema de revestimento e capacidade de objeto esférico e de um composto com hemisfério",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "A esfera de raio r tem área 4πr² e volume 4πr³/3",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Área e Volume da Esfera</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>A esfera de raio r tem área 4πr² e volume 4πr³/3. As fórmulas referem-se ao modelo ideal; espessura de casca exige diferença entre volumes e medidas internas e externas. Em composições, exclua áreas de contato e evite somar superfícies ocultas.</p><h3>Exemplo resolvido</h3><p>Esfera de raio três tem área 36π e volume 36π, números iguais com unidades diferentes. Isso não permite confundir as grandezas.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Elabore e resolva problema de revestimento e capacidade de objeto esférico e de um composto com hemisfério. Desenhe superfícies expostas e explique aproximações.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "area_e_volume_da_esfera.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Esfera de raio dois tem volume:",
+      "alternativas": [
+        "32π/3",
+        "16π",
+        "8π"
+      ],
+      "correta": 0,
+      "explicacao": "4π×8/3."
+    },
+    {
+      "id": "area_e_volume_da_esfera.producao",
+      "tipo": "discursiva",
+      "enunciado": "Elabore e resolva problema de revestimento e capacidade de objeto esférico e de um composto com hemisfério. Desenhe superfícies expostas e explique aproximações.",
+      "gabarito": "Conferir raio, unidades, metade da esfera quando cabível e inclusão da base plana apenas se exposta.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir raio, unidades, metade da esfera quando cabível e inclusão da base plana apenas se exposta.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

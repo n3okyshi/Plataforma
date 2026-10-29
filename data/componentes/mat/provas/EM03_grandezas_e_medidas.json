@@ -1,0 +1,131 @@
+{
+  "id": "mat.em03.grandezas_e_medidas.prova",
+  "titulo": "Avaliação: Grandezas e Medidas",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM03",
+  "unidade": "Grandezas e Medidas",
+  "bncc": [
+    "EM13MAT103",
+    "EM13MAT201",
+    "EM13MAT313",
+    "EM13MAT314"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em03.grandezas_e_medidas.prova.01",
+    "mat.em03.grandezas_e_medidas.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT103",
+      "questoes": [
+        "mat.em03.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT201",
+      "questoes": [
+        "mat.em03.grandezas_e_medidas.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade#medicoes_de_area_volume_e_capacidade.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT313",
+      "questoes": [
+        "mat.em03.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT314",
+      "questoes": [
+        "mat.em03.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em03.grandezas_e_medidas.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Grandezas e Medidas",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT201",
+      "EM13MAT313",
+      "EM13MAT314"
+    ],
+    "atividadesOrigem": [
+      "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao",
+      "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade#medicoes_de_area_volume_e_capacidade.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Unidades e Conversões no Cotidiano",
+        "enunciado": "Analise texto científico ou tecnológico com fonte e data, converta unidades, estime ordem de grandeza e interprete taxa ou produto. Faça medição real e informe resolução e algarismo duvidoso. Resolva ainda um exemplo hipotético de densidade com massa e volume fornecidos e de energia com potência e tempo.",
+        "gabarito": "Conferir bits/bytes, fatores, unidade final e hipóteses. Diferenciar precisão de exatidão e valor ideal de tempo observado. Conferir densidade=massa/volume e energia=potência×tempo, sem supor massa universal por litro.",
+        "bncc": [
+          "EM13MAT103",
+          "EM13MAT313",
+          "EM13MAT314"
+        ],
+        "atividadeOrigem": "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+      },
+      {
+        "titulo": "Medições de Área, Volume e Capacidade",
+        "enunciado": "Proponha ou participe de ação local com medições reais de perímetro, área, volume, capacidade ou massa. Registre método, cálculo, incerteza, discussão com o grupo e limites da proposta, sem assumir execução não realizada.",
+        "gabarito": "Avaliar demanda, medições, unidades, hipóteses e participação ou proposta efetiva. Não apresentar exemplo hipotético como levantamento real.",
+        "bncc": [
+          "EM13MAT201"
+        ],
+        "atividadeOrigem": "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade#medicoes_de_area_volume_e_capacidade.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

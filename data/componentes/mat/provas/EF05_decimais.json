@@ -1,0 +1,137 @@
+{
+  "id": "mat.ef05.decimais.prova",
+  "titulo": "Avaliação: Decimais",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF05",
+  "unidade": "Decimais",
+  "bncc": [
+    "EF05MA02",
+    "EF05MA05",
+    "EF05MA06"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef05.decimais.prova.01",
+    "mat.ef05.decimais.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF05MA02",
+      "questoes": [
+        "mat.ef05.decimais.prova.01",
+        "mat.ef05.decimais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.decimais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.producao",
+        "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.producao"
+      ]
+    },
+    {
+      "bncc": "EF05MA05",
+      "questoes": [
+        "mat.ef05.decimais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.decimais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.producao"
+      ]
+    },
+    {
+      "bncc": "EF05MA06",
+      "questoes": [
+        "mat.ef05.decimais.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.decimais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef05.decimais.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Decimais",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF05MA02",
+      "EF05MA05",
+      "EF05MA06"
+    ],
+    "atividadesOrigem": [
+      "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.producao",
+      "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Números Decimais e Porcentagem",
+        "enunciado": "Represente décimos e centésimos em malha, calcule 10%,25%,50%,75% e 100% de 160 e explique duas estratégias, conferindo com calculadora.",
+        "gabarito": "16,40,80,120,160. Os registros decimais devem preservar unidades e casas; justificar frações do todo.",
+        "bncc": [
+          "EF05MA02",
+          "EF05MA06"
+        ],
+        "atividadeOrigem": "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.producao"
+      },
+      {
+        "titulo": "Decimais na Reta Numérica",
+        "enunciado": "Decomponha e ordene 2,05;2,5;2,15;2,50. Localize-os numa reta com escala e explique a igualdade existente.",
+        "gabarito": "2,05<2,15<2,5=2,50. Conferir cinco centésimos em 2,05, não cinco décimos.",
+        "bncc": [
+          "EF05MA02",
+          "EF05MA05"
+        ],
+        "atividadeOrigem": "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        196
+      ],
+      "paginasImpressas": "98, 199",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        96
+      ],
+      "paginasImpressas": "98, 99",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

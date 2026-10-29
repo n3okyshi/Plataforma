@@ -5,33 +5,110 @@
   "ordem": 1,
   "unidade": "Sistemas de Numeração",
   "titulo": "Números Naturais até a Dezena de Milhar",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF04MA01",
+    "EF04MA02"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Leia, escreva por extenso e decomponha 50207 e 52070 de dois modos; ordene-os e marque aproximadamente numa reta de 50000 a 60000.",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Até a dezena de milhar, cada ordem vale dez vezes a anterior",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Dez Mil e além!</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Chegamos à <strong>5ª ordem</strong>! Lemos, escrevemos e comparamos números grandões, como 15.000 ou 99.999.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 O Ponto Mágico:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Usamos um ponto para separar a classe dos milhares. Ele ajuda a ler: o número antes do ponto é \"mil\". Ex: 23.400 (Vinte e três <strong>mil</strong> e quatrocentos).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Números Naturais até a Dezena de Milhar</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Até a dezena de milhar, cada ordem vale dez vezes a anterior. Ler e comparar requer observar valores posicionais e zeros. A decomposição pode ser registrada por adições e multiplicações por 10,100,1000 e 10000, sem confundir o algarismo com o valor da posição.</p><h3>Exemplo resolvido</h3><p>34026=3×10000+4×1000+0×100+2×10+6. Lê-se trinta e quatro mil e vinte e seis.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Leia, escreva por extenso e decomponha 50207 e 52070 de dois modos; ordene-os e marque aproximadamente numa reta de 50000 a 60000.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 291</li><li>MC_MATEM_EF.pdf — páginas impressas 16, 17</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "sistema_decimal",
+      "valor_posicional"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
+  "atividades": [
+    {
+      "id": "numeros_naturais_ate_a_dezena_de_milhar.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 72504, o 7 representa:",
+      "alternativas": [
+        "7000",
+        "700",
+        "70000"
+      ],
+      "correta": 2,
+      "explicacao": "Sete dezenas de milhar."
+    },
+    {
+      "id": "numeros_naturais_ate_a_dezena_de_milhar.producao",
+      "tipo": "discursiva",
+      "enunciado": "Leia, escreva por extenso e decomponha 50207 e 52070 de dois modos; ordene-os e marque aproximadamente numa reta de 50000 a 60000.",
+      "gabarito": "Cinquenta mil duzentos e sete; cinquenta e dois mil e setenta. 50207<52070. Conferir ordens, zeros e escala da reta.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Cinquenta mil duzentos e sete; cinquenta e dois mil e setenta. 50207<52070. Conferir ordens, zeros e escala da reta.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sistema_decimal",
+    "valor_posicional"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        293
+      ],
+      "paginasImpressas": "291",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13,
+        14
+      ],
+      "paginasImpressas": "16, 17",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
   "preRequisitos": [],
   "proximosPassos": [],
-  "fontes": [],
-  "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

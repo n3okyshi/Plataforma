@@ -1,0 +1,104 @@
+{
+  "id": "mat.em02.trigonometria.equacoes_e_identidades_trigonometricas",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 12,
+  "unidade": "Trigonometria",
+  "titulo": "Equações e Identidades Trigonométricas — Complemento",
+  "bncc": [],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Deduza relações de ângulo duplo a partir da soma de ângulos, resolva sen x=1/2 em [0,2π) e compare soluções com o gráfico",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Como aprofundamento, sen²x+cos²x=1, sen(2x)=2sen x cos x e cos(2x)=cos²x−sen²x permitem transformar expressões",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Equações e Identidades Trigonométricas — Complemento</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Como aprofundamento, sen²x+cos²x=1, sen(2x)=2sen x cos x e cos(2x)=cos²x−sen²x permitem transformar expressões. Tangente só existe quando cos x≠0; secante, cossecante e cotangente exigem denominadores não nulos. Equações periódicas devem indicar intervalo ou família de soluções.</p><h3>Exemplo resolvido</h3><p>sen x=0 tem soluções x=kπ, k inteiro. Em [0,2π), são zero e π. Já cos(2x)=1 em mesmo intervalo também dá zero e π.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Deduza relações de ângulo duplo a partir da soma de ângulos, resolva sen x=1/2 em [0,2π) e compare soluções com o gráfico. Declare domínios de tan,sec,csc,cot.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 139, 141, 143, 144, 146, 153</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "equacoes_e_identidades_trigonometricas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "sen(2x) equivale a:",
+      "alternativas": [
+        "2sen x cos x",
+        "sen²x",
+        "2sen x"
+      ],
+      "correta": 0,
+      "explicacao": "Identidade de ângulo duplo."
+    },
+    {
+      "id": "equacoes_e_identidades_trigonometricas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Deduza relações de ângulo duplo a partir da soma de ângulos, resolva sen x=1/2 em [0,2π) e compare soluções com o gráfico. Declare domínios de tan,sec,csc,cot.",
+      "gabarito": "Soluções π/6 e 5π/6. Conferir quadrantes, periodicidade e exclusões de denominadores.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Soluções π/6 e 5π/6. Conferir quadrantes, periodicidade e exclusões de denominadores.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        136,
+        138,
+        140,
+        141,
+        143,
+        150
+      ],
+      "paginasImpressas": "139, 141, 143, 144, 146, 153",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [
+    "mat.em02.trigonometria.leis_do_seno_e_do_cosseno"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
+}

@@ -1,0 +1,304 @@
+[
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio",
+    "bncc": [
+      "EM13MAT202"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Aumentar uma amostra enviesada garante corrigir o viés?",
+    "opcoes": [
+      "Sim",
+      "Só se dobrar",
+      "Não"
+    ],
+    "correta": 2,
+    "explicacao": "Quantidade não remove automaticamente seleção inadequada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas",
+    "bncc": [
+      "EM13MAT407"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um boxplot destaca diretamente:",
+    "opcoes": [
+      "Causas de diferenças",
+      "Mediana e quartis",
+      "Cada valor individual sempre"
+    ],
+    "correta": 1,
+    "explicacao": "É um resumo posicional.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste",
+    "bncc": [
+      "EM13MAT510"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Uma reta ajustada que não passa por todos os pontos é necessariamente inválida?",
+    "opcoes": [
+      "Não",
+      "Sim",
+      "Só se tiver inclinação negativa"
+    ],
+    "correta": 0,
+    "explicacao": "Ajuste descreve tendência com resíduos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT511"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A soma sete em dois dados equilibrados tem chance:",
+    "opcoes": [
+      "1/11",
+      "1/36",
+      "1/6"
+    ],
+    "correta": 2,
+    "explicacao": "Seis pares favoráveis entre trinta e seis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          264,
+          266,
+          267
+        ],
+        "paginasImpressas": "267, 269, 270",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio",
+    "bncc": [
+      "EM13MAT202"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para variável nominal, é inadequado calcular:",
+    "opcoes": [
+      "Frequência por categoria",
+      "Moda",
+      "Média de códigos como se fossem medidas"
+    ],
+    "correta": 2,
+    "explicacao": "Os códigos não têm significado métrico.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas",
+    "bncc": [
+      "EM13MAT407"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Em histograma de classes desiguais, frequências devem ser proporcionais a:",
+    "opcoes": [
+      "Alturas sempre sem ajuste",
+      "Áreas das barras",
+      "Larguras só"
+    ],
+    "correta": 1,
+    "explicacao": "Usar densidade corrige a largura diferente.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste",
+    "bncc": [
+      "EM13MAT510"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Correlação forte demonstra causa?",
+    "opcoes": [
+      "Não",
+      "Sim",
+      "Sempre que houver muitos pontos"
+    ],
+    "correta": 0,
+    "explicacao": "Outros fatores e seleção podem explicar associação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT511"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Somas de dois dados são equiprováveis?",
+    "opcoes": [
+      "Sim",
+      "Só as pares",
+      "Não"
+    ],
+    "correta": 2,
+    "explicacao": "Há quantidades diferentes de pares por soma.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          264,
+          266,
+          267
+        ],
+        "paginasImpressas": "267, 269, 270",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

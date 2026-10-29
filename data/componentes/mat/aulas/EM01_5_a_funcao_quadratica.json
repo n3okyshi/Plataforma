@@ -5,33 +5,113 @@
   "ordem": 5,
   "unidade": "Função Quadrática",
   "titulo": "A Função Quadrática",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT302",
+    "EM13MAT402",
+    "EM13MAT502"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Investigue áreas de quadrados de lados 1,2,3,4 e formule uma regra",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Uma função quadrática tem f(x)=ax²+bx+c, a≠0",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Função Quadrática (2º Grau)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A função $f(x) = ax^2 + bx + c$. O gráfico é uma curva chamada <strong>Parábola</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🙂 Concavidade:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Quem manda é o \"a\":<br>Se $a > 0$, concavidade para cima.<br>Se $a < 0$, concavidade para baixo.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>A Função Quadrática</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Uma função quadrática tem f(x)=ax²+bx+c, a≠0. Investigue tabelas: no caso y=ax², y/x² é constante para x≠0; a variação não é linear. A parábola tem concavidade definida pelo sinal de a e eixo de simetria.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Parábola y=2x²: vértice (0,0), pontos (−2,8) e (2,8).\"><title>Parábola y=2x²: vértice (0,0), pontos (−2,8) e (2,8).</title><defs><clipPath id=\"limites\"><rect x=\"58\" y=\"38\" width=\"334\" height=\"169\"/></clipPath></defs><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 205.0H390\"/><path d=\"M225.0 40V205\"/></g><text x=\"60.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">-2</text><text x=\"14\" y=\"209.0\" fill=\"currentColor\" font-size=\"12\">0</text><text x=\"142.5\" y=\"229\" fill=\"currentColor\" font-size=\"12\">-1</text><text x=\"14\" y=\"167.75\" fill=\"currentColor\" font-size=\"12\">2</text><text x=\"225.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">0</text><text x=\"14\" y=\"126.5\" fill=\"currentColor\" font-size=\"12\">4</text><text x=\"307.5\" y=\"229\" fill=\"currentColor\" font-size=\"12\">1</text><text x=\"14\" y=\"85.25\" fill=\"currentColor\" font-size=\"12\">6</text><text x=\"390.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">2</text><text x=\"14\" y=\"44.0\" fill=\"currentColor\" font-size=\"12\">8</text><polyline points=\"60.00,40.00 61.65,43.28 63.30,46.53 64.95,49.75 66.60,52.94 68.25,56.09 69.90,59.21 71.55,62.29 73.20,65.34 74.85,68.36 76.50,71.35 78.15,74.30 79.80,77.22 81.45,80.11 83.10,82.97 84.75,85.79 86.40,88.58 88.05,91.33 89.70,94.05 91.35,96.74 93.00,99.40 94.65,102.02 96.30,104.61 97.95,107.17 99.60,109.70 101.25,112.19 102.90,114.65 104.55,117.07 106.20,119.46 107.85,121.82 109.50,124.15 111.15,126.44 112.80,128.70 114.45,130.93 116.10,133.13 117.75,135.29 119.40,137.42 121.05,139.51 122.70,141.57 124.35,143.60 126.00,145.60 127.65,147.56 129.30,149.49 130.95,151.39 132.60,153.26 134.25,155.09 135.90,156.89 137.55,158.65 139.20,160.38 140.85,162.08 142.50,163.75 144.15,165.38 145.80,166.98 147.45,168.55 149.10,170.09 150.75,171.59 152.40,173.06 154.05,174.49 155.70,175.89 157.35,177.26 159.00,178.60 160.65,179.90 162.30,181.17 163.95,182.41 165.60,183.62 167.25,184.79 168.90,185.93 170.55,187.03 172.20,188.10 173.85,189.14 175.50,190.15 177.15,191.12 178.80,192.06 180.45,192.97 182.10,193.85 183.75,194.69 185.40,195.50 187.05,196.27 188.70,197.01 190.35,197.72 192.00,198.40 193.65,199.04 195.30,199.65 196.95,200.23 198.60,200.78 200.25,201.29 201.90,201.77 203.55,202.21 205.20,202.62 206.85,203.00 208.50,203.35 210.15,203.66 211.80,203.94 213.45,204.19 215.10,204.41 216.75,204.59 218.40,204.74 220.05,204.85 221.70,204.93 223.35,204.98 225.00,205.00 226.65,204.98 228.30,204.93 229.95,204.85 231.60,204.74 233.25,204.59 234.90,204.41 236.55,204.19 238.20,203.94 239.85,203.66 241.50,203.35 243.15,203.00 244.80,202.62 246.45,202.21 248.10,201.77 249.75,201.29 251.40,200.78 253.05,200.23 254.70,199.65 256.35,199.04 258.00,198.40 259.65,197.72 261.30,197.01 262.95,196.27 264.60,195.50 266.25,194.69 267.90,193.85 269.55,192.97 271.20,192.06 272.85,191.12 274.50,190.15 276.15,189.14 277.80,188.10 279.45,187.03 281.10,185.93 282.75,184.79 284.40,183.62 286.05,182.41 287.70,181.17 289.35,179.90 291.00,178.60 292.65,177.26 294.30,175.89 295.95,174.49 297.60,173.06 299.25,171.59 300.90,170.09 302.55,168.55 304.20,166.98 305.85,165.38 307.50,163.75 309.15,162.08 310.80,160.38 312.45,158.65 314.10,156.89 315.75,155.09 317.40,153.26 319.05,151.39 320.70,149.49 322.35,147.56 324.00,145.60 325.65,143.60 327.30,141.57 328.95,139.51 330.60,137.42 332.25,135.29 333.90,133.13 335.55,130.93 337.20,128.70 338.85,126.44 340.50,124.15 342.15,121.82 343.80,119.46 345.45,117.07 347.10,114.65 348.75,112.19 350.40,109.70 352.05,107.17 353.70,104.61 355.35,102.02 357.00,99.40 358.65,96.74 360.30,94.05 361.95,91.33 363.60,88.58 365.25,85.79 366.90,82.97 368.55,80.11 370.20,77.22 371.85,74.30 373.50,71.35 375.15,68.36 376.80,65.34 378.45,62.29 380.10,59.21 381.75,56.09 383.40,52.94 385.05,49.75 386.70,46.53 388.35,43.28 390.00,40.00\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\" clip-path=\"url(#limites)\"/><text x=\"397\" y=\"229\" fill=\"currentColor\">x</text><text x=\"15\" y=\"25\" fill=\"currentColor\">y</text></svg><h3>Exemplo resolvido</h3><p>Para y=2x², entradas −2,−1,0,1,2 geram 8,2,0,2,8. A simetria não viola a definição de função; entradas diferentes podem ter mesma saída.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Investigue áreas de quadrados de lados 1,2,3,4 e formule uma regra. Construa tabelas e gráficos de y=x² e y=2x²+3 e compare proporcionalidade ao quadrado, concavidade e interceptos.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543</li><li>MC_MATEM_EM.pdf — páginas impressas 29, 33</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "funcao_quadratica",
+      "parabola"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "a_funcao_quadratica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para y=3x², x=−2 produz:",
+      "alternativas": [
+        "6",
+        "12",
+        "−12"
+      ],
+      "correta": 1,
+      "explicacao": "O quadrado de −2 é quatro."
+    },
+    {
+      "id": "a_funcao_quadratica.producao",
+      "tipo": "discursiva",
+      "enunciado": "Investigue áreas de quadrados de lados 1,2,3,4 e formule uma regra. Construa tabelas e gráficos de y=x² e y=2x²+3 e compare proporcionalidade ao quadrado, concavidade e interceptos.",
+      "gabarito": "Áreas 1,4,9,16, regra A=l². A segunda função não é diretamente proporcional a x² por causa da parcela três.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Áreas 1,4,9,16, regra A=l². A segunda função não é diretamente proporcional a x² por causa da parcela três.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "funcao_quadratica",
+    "parabola"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        26,
+        30
+      ],
+      "paginasImpressas": "29, 33",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }
