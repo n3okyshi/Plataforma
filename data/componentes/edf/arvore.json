@@ -1,6 +1,14 @@
 {
   "componente": "edf",
-  "meta": { "fase": 1, "fonte": "bncc+mc", "data": "2026-10-28", "autor": "agente:edf-fase1" },
+  "meta": {
+  "fase": 1,
+  "fonte": "bncc+mc",
+  "data": "2026-10-28",
+  "autor": "agente:edf-fase1",
+  "estado": "planejamento",
+  "revisaoPedagogica": "pendente",
+  "origem": "componentes.zip"
+},
   "niveis": {
     "EF01": {
       "unidades": [

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.da_populacao_ao_bioma.sucessao_ecologica",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 41,
+  "unidade": "Da população ao bioma",
+  "titulo": "Sucessão ecológica",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">Sucessão ecológica</h2>\n            <p class=\"mb-4\">\n                Nos ecossistemas, as comunidades estão em constante mudança. Elas sofrem alterações na composição e na abundância de espécies durante períodos longos de tempo, principalmente quando há grandes perturbações ou distúrbios, como um fragmento de floresta que tenha passado por incêndio. Depois de um distúrbio, as comunidades se reconstroem lentamente e, com o passar do tempo, elas podem se assemelhar às comunidades originais. A mudança na composição de espécies das comunidades ao longo do tempo caracteriza uma sucessão ecológica e ocorre em resposta a agentes de mudança abióticos (físicos e químicos) e bióticos.\n            </p>\n            <p class=\"mb-4\">\n                No exemplo da fotografia, quando uma área de mata é queimada, pouco tempo depois ela será ocupada por novas espécies, como gramíneas e pequenos arbustos. Essas primeiras espécies a ocuparem o local são conhecidas por <b>espécies pioneiras</b> e, além de se desenvolverem a pleno sol, serão responsáveis por estabilizar as condições do solo, como aeração e umidade.\n            </p>\n            <p class=\"mb-4\">\n                Com o passar do tempo, as espécies iniciais possibilitarão a chegada da <b>comunidade intermediária</b>, com a ocupação de arbustos maiores e pequenas árvores, além de fauna predominante de invertebrados. Posteriormente, grandes árvores se estabelecem, com fauna e flora composta de grupos de organismos que ocupam o bioma local, compondo uma <b>comunidade clímax</b>, caracterizada por grande diversidade de espécies e teias alimentares complexas.\n            </p>\n        </section>\n\n        <section class=\"space-y-6\">\n            <h3 class=\"text-xl font-bold text-brand-blue\">Tipos de sucessão</h3>\n            <div class=\"p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-sm border border-gray-200\">\n                <p class=\"font-black text-brand-blue mb-2\">Sucessão primária</p>\n                <p class=\"text-sm mb-4\">Envolve a colonização de hábitats desprovidos de vida, como resultado de distúrbio catastrófico ou por serem hábitats criados recentemente, como rochas vulcânicas. Entre as espécies pioneiras estão liquens e musgos.</p>\n                \n            </div>\n\n            <div class=\"p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-sm border border-gray-200\">\n                <p class=\"font-black text-brand-blue mb-2\">Sucessão secundária</p>\n                <p class=\"text-sm mb-4\">Envolve o restabelecimento de uma comunidade cuja grande parte dos organismos foi dizimada (tempestades, incêndios, desmatamentos). Seus estágios avançam mais rapidamente pois o ambiente já tem condições favoráveis.</p>\n                \n            </div>\n        </section>\n\n        <section class=\"bg-brand-green/10 p-6 rounded-3xl border-2 border-dashed border-brand-green my-8\">\n            <h4 class=\"font-black text-brand-green mb-2 uppercase text-sm flex items-center gap-2\">\n                <i class=\"fas fa-comments\"></i> É sobre isso...\n            </h4>\n            <p class=\"text-sm italic text-gray-700 dark:text-gray-300\">\n                As atividades antrópicas podem produzir grandes impactos nos ambientes, prejudicando os fatores abióticos do meio... Converse com os colegas sobre os impactos ambientais que atingem com mais intensidade o local onde vocês vivem... Discutam estratégias para garantir a prosperidade da população humana sem degradar o ambiente.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

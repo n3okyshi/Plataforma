@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 12,
+  "unidade": "Operações com números naturais",
+  "titulo": "Arredondamento e Resultado Aproximado",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Arredondamento e Resultado Aproximado</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: aprender regras de arredondamento e usar estimativas para verificar razoabilidade de respostas.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Arredondar para a dezena, centena ou unidade mais próxima ajuda a estimar resultados e identificar erros.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Arredonde</label>\n  <p>Arredonde 6.879 para a centena mais próxima.</p>\n  <input id=\"atividade-arred-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se 3.478 é arredondado para a dezena mais próxima, o resultado é:</p>\n  <div>\n    <button class=\"btn\">3.470</button>\n    <button class=\"btn\">3.480</button>\n    <button class=\"btn\">3.400</button>\n  </div>\n</div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

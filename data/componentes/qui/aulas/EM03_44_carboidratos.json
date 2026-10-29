@@ -1,0 +1,37 @@
+{
+  "id": "qui.em03.bioquimica.carboidratos",
+  "componente": "qui",
+  "nivel": "EM03",
+  "ordem": 44,
+  "unidade": "Bioquímica",
+  "titulo": "Carboidratos",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-orange-500 mb-4\">Carboidratos</h2>\n            <p class=\"mb-4\">\n                Chamados genericamente de açúcares, são relacionados à reserva e fornecimento de energia, além de terem papel estrutural.\n            </p>\n\n            <div class=\"space-y-6\">\n                <div class=\"p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-sm border border-gray-200\">\n                    <p class=\"font-black text-orange-600 mb-2\">Monossacarídeos</p>\n                    <p class=\"text-xs\">Estrutura simples (3 a 7 carbonos). Ex: Glicose e Frutose.</p>\n                </div>\n\n                <div class=\"p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-sm border border-gray-200\">\n                    <p class=\"font-black text-orange-600 mb-2\">Dissacarídeos</p>\n                    <p class=\"text-xs mb-4\">União de dois monossacarídeos por <b>ligações glicosídicas</b> (com liberação de água).</p>\n                    <table class=\"w-full text-[10px] border-collapse\">\n                        <thead>\n                            <tr class=\"bg-orange-50\">\n                                <th class=\"border p-1\">Dissacarídeo</th>\n                                <th class=\"border p-1\">Unidades</th>\n                                <th class=\"border p-1\">Fonte</th>\n                            </tr>\n                        </thead>\n                        <tbody>\n                            <tr><td class=\"border p-1\">Lactose</td><td class=\"border p-1\">Glicose + Galactose</td><td class=\"border p-1\">Leite</td></tr>\n                            <tr><td class=\"border p-1\">Maltose</td><td class=\"border p-1\">Glicose + Glicose</td><td class=\"border p-1\">Cevada</td></tr>\n                            <tr><td class=\"border p-1\">Sacarose</td><td class=\"border p-1\">Glicose + Frutose</td><td class=\"border p-1\">Cana</td></tr>\n                        </tbody>\n                    </table>\n                </div>\n\n                <div class=\"p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-sm border border-gray-200\">\n                    <p class=\"font-black text-orange-600 mb-2\">Polissacarídeos</p>\n                    <p class=\"text-xs\">Complexos (centenas de unidades). Ex: Amido (plantas), Glicogênio (animais), Celulose (parede vegetal) e Quitina (fungos/insetos).</p>\n                </div>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-orange-500 text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

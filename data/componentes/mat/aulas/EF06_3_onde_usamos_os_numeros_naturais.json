@@ -1,0 +1,114 @@
+{
+  "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 3,
+  "unidade": "Números naturais e sistemas de numeração",
+  "titulo": "Onde usamos os números naturais",
+  "bncc": [
+    "EF06MA01"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Reconhecer usos de números como quantidade, ordem e código.",
+      "Ler, comparar e ordenar naturais e localizar valores na reta numérica."
+    ],
+    "resumo": "Reconhecer usos de números como quantidade, ordem e código.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n<h2>NÚMEROS EM DIFERENTES SITUAÇÕES</h2>\n<p>Em uma biblioteca há 36 livros novos; uma estudante ficou em 2º lugar em uma competição; um ônibus tem a identificação 305. Nos três casos aparecem números, mas os usos são diferentes: <strong>quantificar</strong>, <strong>ordenar</strong> e <strong>identificar</strong>. A linha 305 não indica que o ônibus transporta 305 pessoas. Interpretar o contexto vem antes de fazer uma conta.</p>\n<h3>Os números naturais</h3>\n<p>Nesta trilha adotamos N = {0, 1, 2, 3, 4, …}. O zero pode representar ausência de elementos de uma coleção. Cada natural tem um sucessor, obtido acrescentando uma unidade; por isso não existe maior número natural. O antecessor de um natural positivo é obtido retirando uma unidade. O zero não tem antecessor no conjunto dos naturais.</p>\n<p><strong>Exemplo resolvido:</strong> o sucessor de 999 é 1.000. Isso não cria um último número: o sucessor de 1.000 é 1.001. O antecessor de 1.000 é 999.</p>\n<h3>Comparação e ordenação</h3>\n<p>Utilizamos &lt; para “menor que”, &gt; para “maior que” e = para “igual a”. Sem zeros à esquerda, um natural com mais algarismos é maior que outro com menos algarismos. Com a mesma quantidade de algarismos, comparamos da esquerda para a direita até encontrar uma diferença. Em 4.207 e 4.270, as unidades de milhar e centenas são iguais; nas dezenas, 0 &lt; 7. Portanto, 4.207 &lt; 4.270.</p>\n<p><strong>Exemplo resolvido:</strong> em ordem crescente, 902, 920, 1.002 e 2.009 ficam nessa ordem. Ordem decrescente inverte essa sequência.</p>\n<h3>Reta numérica</h3>\n<p>Na reta orientada para a direita, os números aumentam. Intervalos iguais representam variações iguais. Na reta abaixo, cada intervalo corresponde a dez unidades; o ponto destacado representa 30.</p>\n<svg viewBox=\"0 0 520 100\" role=\"img\" aria-label=\"Reta numérica: zero, dez, vinte, trinta e quarenta, com intervalos iguais e ponto destacado em trinta\" style=\"max-width:100%;color:inherit\"><path d=\"M35 40H485m-10-6 10 6-10 6\" stroke=\"currentColor\" fill=\"none\"/><g stroke=\"currentColor\"><path d=\"M60 32v16M160 32v16M260 32v16M360 32v16M460 32v16\"/></g><g fill=\"currentColor\" font-size=\"18\" text-anchor=\"middle\"><text x=\"60\" y=\"75\">0</text><text x=\"160\" y=\"75\">10</text><text x=\"260\" y=\"75\">20</text><text x=\"360\" y=\"75\">30</text><text x=\"460\" y=\"75\">40</text><circle cx=\"360\" cy=\"40\" r=\"6\"/></g></svg>\n<p><strong>Atenção:</strong> começar uma reta por um valor diferente de zero é possível, mas a escala deve ficar explícita. Desenhe uma reta de 100 a 140 com intervalos de dez e marque 120.</p>\n<h3>Para registrar no caderno</h3><p>Os naturais podem indicar quantidade, ordem ou identificação. Na reta crescente para a direita, os maiores ficam à direita. Sempre observe o valor de cada intervalo.</p>\n"
+      }
+    ],
+    "vocabulario": [
+      "numeral",
+      "algarismo",
+      "valor posicional",
+      "natural"
+    ],
+    "errosComuns": [
+      "Confundir identificação com quantidade.",
+      "Apagar zeros internos e alterar o valor.",
+      "Ignorar a escala da reta numérica."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "usos.mc1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em qual situação o número está sendo usado como código?",
+      "alternativas": [
+        "Há 18 estudantes.",
+        "Ana foi a terceira colocada.",
+        "O ônibus é da linha 412.",
+        "Foram lidas 25 páginas."
+      ],
+      "correta": 2,
+      "explicacao": "A linha 412 identifica um serviço; não indica sua quantidade de passageiros nem uma classificação."
+    },
+    {
+      "id": "usos.num1",
+      "tipo": "numerica",
+      "enunciado": "Uma reta tem marcas igualmente espaçadas: 100, 120, __, 160. Qual é o valor que falta?",
+      "resposta": 140,
+      "tolerancia": 0,
+      "explicacao": "A diferença entre marcas consecutivas é 20; depois de 120 vem 140."
+    },
+    {
+      "id": "usos.disc1",
+      "tipo": "discursiva",
+      "enunciado": "Compare 5.208 e 5.280 e justifique pela primeira ordem em que diferem.",
+      "gabarito": "5.208 < 5.280. Milhares e centenas são iguais. Nas dezenas, 0 é menor que 8.",
+      "rubrica": [
+        "Indicar a comparação correta e localizar a diferença nas dezenas; não basta dizer que um é maior."
+      ]
+    }
+  ],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [
+    "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia"
+  ],
+  "proximosPassos": [
+    "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "paginasImpressas": "11-17",
+      "uso": "Referência conceitual; explicações e questões do piloto são autorais."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        302,
+        303
+      ],
+      "paginasImpressas": "300-301",
+      "uso": "Objetos de conhecimento e habilidades EF06MA01/EF06MA02; recorte de números naturais."
+    }
+  ],
+  "metadados": {
+    "versao": 2,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "legado": false,
+    "estado": "piloto",
+    "origem": "componentes.zip",
+    "revisao": "Conceitos, exemplos, respostas e páginas conferidos nesta sessão; homologação docente pendente."
+  },
+  "coberturaBncc": {
+    "EF06MA01": "recorte de números naturais; racionais decimais finitos serão aprofundados na unidade Decimais"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.materia_e_energia_nos_ecossistemas.fluxo_de_energia",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 36,
+  "unidade": "Matéria e energia nos ecossistemas",
+  "titulo": "Fluxo de energia",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Fluxo de energia</h2>\n            <p class=\"mb-4\">\n                Além da matéria, a energia circula nas cadeias e teias alimentares. O fluxo de energia nas relações tróficas começa pelos produtores, que absorvem a energia do Sol. Em seguida, essa energia é transferida para os consumidores primários, e assim por diante. \n            </p>\n            \n            \n\n            <p class=\"mb-4\">\n                Quando morrem, parte dessa energia vai para os decompositores e a outra parte é transferida para o ambiente. Cada vez que um organismo é consumido, parte da energia é perdida na forma de calor durante a respiração celular. Como resultado, a quantidade de energia disponível <b>diminui</b> à medida que se move ao longo dos níveis tróficos.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

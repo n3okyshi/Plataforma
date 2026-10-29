@@ -1,0 +1,37 @@
+{
+  "id": "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 1,
+  "unidade": "Regiões Planas e Área",
+  "titulo": "Medida de Área de Regiões Planas",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Áreas de Figuras Planas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Revisão e aprofundamento do cálculo de áreas. O foco é a estratégia de <strong>decomposição</strong>: dividir figuras complexas em formas simples (triângulos, retângulos) para somar as áreas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧩 Dividir para Conquistar:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Qualquer polígono pode ser \"fatiado\" em triângulos. É a base para entender a fórmula da área de polígonos regulares.</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

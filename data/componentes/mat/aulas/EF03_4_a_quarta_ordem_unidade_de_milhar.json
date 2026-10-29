@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 4,
+  "unidade": "Números maiores do que 1000",
+  "titulo": "A Quarta Ordem (Unidade de Milhar)",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Casa do Milhar</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Depois do 999 vem o <strong>1.000</strong>! Entramos na 4ª ordem. Trabalhamos com números de quatro algarismos na reta numérica.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧊 O Cubão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">No Material Dourado, 10 placas de cem formam o Cubão de Mil.</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

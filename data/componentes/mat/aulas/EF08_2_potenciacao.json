@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao",
+  "componente": "mat",
+  "nivel": "EF08",
+  "ordem": 2,
+  "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+  "titulo": "Potenciação",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Potenciação e Notação Científica</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Exploramos expoentes inteiros (incluindo negativos, que invertem a base) e a <strong>Notação Científica</strong> para lidar com números astronômicos ou microscópicos.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🚀 Aplicação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Usamos potências de 10 para escrever a distância entre planetas ou o tamanho de uma célula.</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.humanidade_e_ambiente.recursos_naturais",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 46,
+  "unidade": "Humanidade e ambiente",
+  "titulo": "Recursos naturais",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">CAPÍTULO 6 – Humanidade e ambiente</h2>\n            <p class=\"mb-4\">\n                Você já se questionou como eram os lugares antes da formação das cidades e de onde vem tudo de que precisamos para viver nelas atualmente? Os seres humanos dependem dos recursos provenientes do ambiente natural. Por exemplo, a maioria das cidades se formou onde antes existiam florestas e matas nativas, às custas de recursos como água e madeira. Sem esses recursos, a existência das cidades e da própria humanidade estaria comprometida.\n            </p>\n            <p class=\"mb-4\">\n                Porém, a ação humana interfere nos ciclos naturais e na disponibilidade de recursos. Assim, preservar esses recursos é uma responsabilidade nossa. Por isso, neste capítulo, vamos refletir sobre os impactos que geramos e atentar para as ações que podem ser colocadas em prática a fim de minimizá-los.\n            </p>\n        </section>\n\n        <section class=\"border-t-2 border-gray-100 dark:border-gray-800 pt-8\">\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Recursos naturais</h2>\n            <p class=\"mb-4\">\n                Os recursos naturais são elementos presentes na natureza que são fundamentais para a sobrevivência dos seres vivos, incluindo o ser humano. São exemplos a água, o oxigênio, o solo, a energia solar, a biodiversidade, entre outros.\n            </p>\n            <p class=\"mb-4 text-sm italic\">\n                Na natureza, existem condições ambientais que fazem com que os seres vivos, de modo geral, consumam os recursos naturais de maneira equilibrada. Nesses casos, a renovação dos recursos é possível sem comprometer sua disponibilidade em longo prazo.\n            </p>\n            <p class=\"mb-4\">\n                A conservação dos recursos naturais é importante para a manutenção da vida, além de ser um pilar para o desenvolvimento sustentável, pois garante que esses recursos se mantenham disponíveis não somente para os seres humanos, mas para todos os seres vivos do planeta. Para compreender e estudar melhor os recursos naturais, eles são classificados em recursos naturais renováveis e recursos naturais não renováveis.\n            </p>\n        </section>\n\n        <section class=\"grid grid-cols-1 md:grid-cols-2 gap-6 my-8\">\n            <div class=\"p-6 bg-green-50 dark:bg-green-900/20 rounded-3xl border-2 border-green-200\">\n                <h4 class=\"font-black text-brand-green uppercase mb-2\">Recursos naturais renováveis</h4>\n                <p class=\"text-xs\">São abundantes e apresentam a capacidade de se renovar de forma natural ou a partir de ações humanas, em um tempo relativamente curto. Ex: energia solar, água e oxigênio.</p>\n            </div>\n            <div class=\"p-6 bg-red-50 dark:bg-red-900/20 rounded-3xl border-2 border-red-200\">\n                <h4 class=\"font-black text-brand-red uppercase mb-2\">Recursos naturais não renováveis</h4>\n                <p class=\"text-xs\">Não apresentam a capacidade de se renovar de forma natural ou precisam de longos períodos (milhares de anos). Ex: petróleo, solo e minerais.</p>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Introdução <i class=\"fas fa-arrow-right ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

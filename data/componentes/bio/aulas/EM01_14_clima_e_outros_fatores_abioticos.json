@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ecologia.clima_e_outros_fatores_abioticos",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 14,
+  "unidade": "Introdução à Ecologia",
+  "titulo": "Clima e outros fatores abióticos",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Clima e outros fatores abióticos</h2>\n            <p class=\"mb-4\">\n                Além de afetar diretamente as populações por causa da distribuição de chuvas, do frio intenso ou do calor extremo, o clima influencia outros fatores e processos abióticos que afetam os organismos, como a disponibilidade de nutrientes no solo decorrente da taxa com que as rochas e o solo se desagregam. \n            </p>\n            \n            \n\n            <p class=\"mb-4\">\n                O clima também pode influenciar a frequência de queimadas, as inundações, os deslizamentos de terra e os eventos intensificados pela ação humana e que causam danos materiais e à vida, impactando diversas comunidades.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

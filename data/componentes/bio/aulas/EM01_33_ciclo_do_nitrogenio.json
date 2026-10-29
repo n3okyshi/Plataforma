@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.materia_e_energia_nos_ecossistemas.ciclo_do_nitrogenio",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 33,
+  "unidade": "Matéria e energia nos ecossistemas",
+  "titulo": "Ciclo do nitrogênio",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">Ciclo do nitrogênio</h2>\n            <p class=\"mb-4\">\n                Assim como o carbono, o nitrogênio é um dos elementos químicos que formam os componentes presentes nos seres vivos. O nitrogênio compõe os aminoácidos, as proteínas, os ácidos nucleicos (DNA e RNA) e o ATP. \n            </p>\n            <p class=\"mb-4 italic\">\n                A maior parte do nitrogênio está disponível na forma de <b>gás nitrogênio ($N_2$)</b> na atmosfera (cerca de 79%). No entanto, apenas alguns microrganismos conseguem absorver o $N_2$ e usá-lo na produção de substâncias aproveitáveis por outros seres vivos.\n            </p>\n        </section>\n\n        <section class=\"my-6\">\n            <div class=\"glass-panel p-4 rounded-3xl border-2 border-brand-green/30 bg-white\">\n                [Image: Representação esquemática do ciclo do nitrogênio e da fixação natural e artificial]\n            </div>\n        </section>\n\n        <div class=\"space-y-8 mt-6\">\n            <div class=\"p-6 bg-green-50 dark:bg-green-900/10 rounded-3xl border-l-4 border-brand-green\">\n                <h4 class=\"font-black text-brand-green uppercase mb-2\">1. Fixação</h4>\n                <p class=\"text-sm\">Processo em que o $N_2$ é transformado em <b>amônia ($NH_3$)</b>. Pode ser biológica (bactérias <i>Azotobacter</i>, <i>Rhizobium</i> e cianobactérias), atmosférica (relâmpagos) ou industrial (fertilizantes).</p>\n            </div>\n\n            <div class=\"p-6 bg-green-50 dark:bg-green-900/10 rounded-3xl border-l-4 border-brand-green\">\n                <h4 class=\"font-black text-brand-green uppercase mb-2\">2. Nitrificação</h4>\n                <p class=\"text-sm\">A amônia é oxidada em duas etapas: <b>Nitrosação</b> (transformação em nitrito $NO_2^-$ por bactérias <i>Nitrosomonas</i>) e <b>Nitração</b> (transformação de nitrito em nitrato $NO_3^-$ por <i>Nitrobacter</i>).</p>\n                <p class=\"text-xs mt-2 font-bold\">Amônia → Nitrito → Nitrato</p>\n            </div>\n\n            <div class=\"p-6 bg-green-50 dark:bg-green-900/10 rounded-3xl border-l-4 border-brand-green\">\n                <h4 class=\"font-black text-brand-green uppercase mb-2\">3. Amonificação</h4>\n                <p class=\"text-sm\">Decompositores transformam moléculas orgânicas (proteínas) em moléculas menores, como a amônia. No solo, reage com a água formando o <b>íon amônio ($NH_4^+$)</b>.</p>\n            </div>\n\n            <div class=\"p-6 bg-green-50 dark:bg-green-900/10 rounded-3xl border-l-4 border-brand-green\">\n                <h4 class=\"font-black text-brand-green uppercase mb-2\">4. Desnitrificação</h4>\n                <p class=\"text-sm\">Bactérias desnitrificantes (<i>Pseudomonas</i>) convertem o nitrato novamente em <b>$N_2$ gasoso</b>, que retorna à atmosfera.</p>\n            </div>\n        </div>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

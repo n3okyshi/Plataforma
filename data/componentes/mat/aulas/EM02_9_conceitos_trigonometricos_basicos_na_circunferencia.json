@@ -1,0 +1,37 @@
+{
+  "id": "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 9,
+  "unidade": "Trigonometria",
+  "titulo": "Conceitos Trigonométricos Básicos na Circunferência",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">O Ciclo Trigonométrico</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Expandindo a trigonometria para além de 90º. Introdução aos <strong>Radianos</strong> e arcos côngruos.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">π Radianos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A conversão chave: <strong>180º = π rad</strong>. O ciclo tem raio 1, facilitando os cálculos.</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

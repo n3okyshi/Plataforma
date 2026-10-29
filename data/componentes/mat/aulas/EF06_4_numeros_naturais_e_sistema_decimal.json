@@ -1,0 +1,114 @@
+{
+  "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 4,
+  "unidade": "Números naturais e sistemas de numeração",
+  "titulo": "Números naturais e sistema decimal",
+  "bncc": [
+    "EF06MA01",
+    "EF06MA02"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Explicar base dez, valor posicional e a função do zero.",
+      "Ler, escrever, compor e decompor naturais por ordens e classes."
+    ],
+    "resumo": "Explicar base dez, valor posicional e a função do zero.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n<h2>BASE DEZ E VALOR POSICIONAL</h2>\n<p>No sistema de numeração decimal agrupamos de dez em dez: 10 unidades formam 1 dezena; 10 dezenas formam 1 centena; 10 centenas formam 1 unidade de milhar. A cada posição à esquerda, o valor de uma unidade daquela ordem fica dez vezes maior.</p>\n<h3>Um algarismo, valores diferentes</h3>\n<p>Em 7.472, o primeiro 7 ocupa as unidades de milhar e vale 7.000; o segundo ocupa as dezenas e vale 70. O algarismo é o mesmo, mas seu valor depende da posição. Não confunda o símbolo 7 com o valor que ele representa em uma escrita.</p>\n<table><caption>Ordens do numeral 30.406</caption><thead><tr><th>Dezena de milhar</th><th>Unidade de milhar</th><th>Centena</th><th>Dezena</th><th>Unidade</th></tr></thead><tbody><tr><td>3</td><td>0</td><td>4</td><td>0</td><td>6</td></tr><tr><td>30.000</td><td>0</td><td>400</td><td>0</td><td>6</td></tr></tbody></table>\n<p><strong>Exemplo resolvido:</strong> 30.406 = 30.000 + 400 + 6. Também podemos escrever 3 × 10.000 + 0 × 1.000 + 4 × 100 + 0 × 10 + 6 × 1. A leitura é “trinta mil quatrocentos e seis”.</p>\n<h3>A função do zero</h3>\n<p>Em 406 o zero indica que não há dezenas completas além das centenas e unidades registradas. Retirá-lo muda o número: 406 é diferente de 46. No natural 046, o zero à esquerda não altera o valor, mas em códigos ele pode ser uma informação indispensável. Em 0, o zero também representa um número.</p>\n<h3>Ordens e classes</h3>\n<p>Organizamos os algarismos em grupos de três, da direita para a esquerda: classe das unidades simples, dos milhares, dos milhões e assim por diante. Em 2.035.008 lemos “dois milhões, trinta e cinco mil e oito”. Na escrita de naturais desta unidade, o ponto separa classes; não é separador decimal.</p>\n<p><strong>Exemplo resolvido:</strong> para compor um número com 6 dezenas de milhar, 2 unidades de milhar, 5 centenas e 9 unidades, escrevemos 60.000 + 2.000 + 500 + 9 = 62.509. O zero mantém a ordem das dezenas, que não recebeu unidades.</p>\n<h3>Para registrar no caderno</h3><ul><li>Base dez: dez unidades de uma ordem equivalem a uma da ordem seguinte.</li><li>Valor posicional: a posição determina o valor de cada algarismo.</li><li>Zero: pode registrar uma ordem sem unidades e também representa o número zero.</li></ul>\n<p><strong>Desafio de criação:</strong> escreva um natural com seis algarismos que tenha dois zeros internos. Troque os numerais com um colega para que ele faça a leitura e a decomposição. Confiram se todas as ordens foram preservadas.</p>\n"
+      }
+    ],
+    "vocabulario": [
+      "numeral",
+      "algarismo",
+      "valor posicional",
+      "natural"
+    ],
+    "errosComuns": [
+      "Confundir identificação com quantidade.",
+      "Apagar zeros internos e alterar o valor.",
+      "Ignorar a escala da reta numérica."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "decimal.mc1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual decomposição corresponde a 40.305?",
+      "alternativas": [
+        "40.000 + 300 + 5",
+        "4.000 + 300 + 5",
+        "40.000 + 30 + 5",
+        "40.000 + 3.000 + 5"
+      ],
+      "correta": 0,
+      "explicacao": "O 4 vale 40.000, o 3 vale 300 e o 5 vale 5; as ordens intermediárias sem unidades são registradas por zero."
+    },
+    {
+      "id": "decimal.num1",
+      "tipo": "numerica",
+      "enunciado": "Qual é o valor do algarismo 8 no numeral 18.402? Digite sem separador de milhar.",
+      "resposta": 8000,
+      "tolerancia": 0,
+      "explicacao": "O 8 ocupa as unidades de milhar: vale 8.000."
+    },
+    {
+      "id": "decimal.disc1",
+      "tipo": "discursiva",
+      "enunciado": "Um colega disse que 5.006 e 56 são iguais porque zero não vale nada. Explique o erro.",
+      "gabarito": "Em 5.006 o 5 ocupa a ordem dos milhares, enquanto em 56 ocupa a das dezenas. Os zeros preservam posições; retirar zeros internos muda o valor do numeral.",
+      "rubrica": [
+        "Relacionar a função posicional dos zeros ao valor do 5 nos dois numerais; aceitar decomposições corretas como justificativa."
+      ]
+    }
+  ],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [
+    "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais"
+  ],
+  "proximosPassos": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "paginasImpressas": "11-17",
+      "uso": "Referência conceitual; explicações e questões do piloto são autorais."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        302,
+        303
+      ],
+      "paginasImpressas": "300-301",
+      "uso": "Objetos de conhecimento e habilidades EF06MA01/EF06MA02; recorte de números naturais."
+    }
+  ],
+  "metadados": {
+    "versao": 2,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "legado": false,
+    "estado": "piloto",
+    "origem": "componentes.zip",
+    "revisao": "Conceitos, exemplos, respostas e páginas conferidos nesta sessão; homologação docente pendente."
+  },
+  "coberturaBncc": {
+    "EF06MA01": "recorte de números naturais; racionais decimais finitos serão aprofundados na unidade Decimais",
+    "EF06MA02": "recorte de números naturais; racionais decimais finitos serão aprofundados na unidade Decimais"
+  }
+}

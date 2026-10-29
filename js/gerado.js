@@ -1,9 +1,7 @@
-/** GERADO por tools/gerar.js — NÃO EDITAR. hash: 332be39c55ff18b02aec5988cbcd817ae702ff6edc6f4350a40219b0d8c2b3bc */
+/** Conteúdo curricular versionado; origem em data/componentes. */
 'use strict';
 
-// Configurações derivadas da base canônica — NÃO EDITAR À MÃO.
-// Gerado por tools/gerar.js a partir de data/base/niveis.json e
-// data/base/componentes.json (R20). Os temas vivem em tools/lib/temas.js.
+// Níveis e componentes correspondem a data/base; temas são definidos neste arquivo.
 
 window.NIVEIS = {
   "EI01": {
@@ -12,19 +10,14 @@ window.NIVEIS = {
     "ordem": 1
   },
   "EI02": {
-    "rotulo": "Educação Infantil – Crianças pequenas",
+    "rotulo": "Educação Infantil – Crianças bem pequenas",
     "etapa": "EI",
     "ordem": 2
   },
   "EI03": {
-    "rotulo": "Educação Infantil – Pré-escola",
+    "rotulo": "Educação Infantil – Crianças pequenas",
     "etapa": "EI",
     "ordem": 3
-  },
-  "EI04": {
-    "rotulo": "Educação Infantil – Infância",
-    "etapa": "EI",
-    "ordem": 4
   },
   "EF01": {
     "rotulo": "1º Ano EF",

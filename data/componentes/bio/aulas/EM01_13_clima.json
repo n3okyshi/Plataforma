@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ecologia.clima",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 13,
+  "unidade": "Introdução à Ecologia",
+  "titulo": "Clima",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Clima</h2>\n            <p class=\"mb-4\">\n                O clima pode ser considerado um dos componentes abióticos mais importantes do ambiente. Diariamente, ele influencia e determina o comportamento de diferentes organismos, com alteração de temperatura, umidade, precipitação (como chuvas e neve), vento e nebulosidade. Considera-se clima a descrição de longo prazo das condições atmosféricas médias e suas variações em determinado local. A variação climática de uma região inclui os ciclos diários e sazonais associados às mudanças na radiação solar à medida que o planeta Terra gira em torno do próprio eixo e orbita o Sol.\n            </p>\n            \n            \n\n            <p class=\"mb-4\">\n                É importante lembrar que as variações climáticas ocorrem como resultado de variações na intensidade e na distribuição da radiação solar que atinge a superfície terrestre. Atualmente, o clima do planeta Terra está se modificando em razão das alterações nas concentrações de gases (como o $CO_2$), que são emitidos para a atmosfera como consequência das atividades antrópicas. Esses gases em excesso absorvem mais energia e radiação. Essa radiação, em vez de retornar ao espaço, acaba “aprisionada” na superfície terrestre, intensificando o efeito estufa.\n            </p>\n        </section>\n\n        <section class=\"bg-blue-50 dark:bg-blue-900/20 p-6 rounded-3xl border-l-8 border-brand-blue my-6 text-sm italic\">\n            <p><b>antrópicas:</b> relativas à ação do ser humano.</p>\n        </section>\n\n        <section class=\"bg-orange-50 dark:bg-orange-900/20 p-8 rounded-[2.5rem] border-2 border-orange-200 shadow-sm\">\n            <h4 class=\"font-black text-orange-700 dark:text-orange-400 mb-4 uppercase flex items-center gap-2\">\n                <i class=\"fas fa-thermometer-half\"></i> Doses de saber\n            </h4>\n            <p class=\"font-bold text-lg mb-2 text-orange-800 dark:text-orange-300\">Ano de 2023 é o mais quente da série histórica no Brasil</p>\n            <p class=\"text-sm mb-4\">\n                A média das temperaturas do ano no país ficou 0,69 °C acima da média histórica. O ano de 2023 é o mais quente da história do planeta, segundo dados da Organização Meteorológica Mundial (OMM). No Brasil, a média das temperaturas do ano ficou em 24,92 °C, sendo 0,69 °C acima da média histórica de 1991/2020, que é de 24,23 °C. Em 2022, a média anual foi de 24,07 °C, 0,16 °C abaixo da média histórica. [...] Ao longo do ano, o Brasil enfrentou nove episódios de onda de calor, reflexo dos impactos do fenômeno El Niño (aquecimento acima da média das águas do Oceano Pacífico Equatorial), que tende a favorecer o aumento da temperatura em várias regiões do planeta. Além disso, outros fatores têm contribuído para a ocorrência de eventos cada vez mais extremos, como o aumento da temperatura global da superfície terrestre e dos oceanos.\n            </p>\n\n            <div class=\"space-y-4 mt-6 border-t border-orange-200 pt-4\">\n                <ul class=\"list-disc list-inside space-y-3 text-sm font-semibold text-orange-900 dark:text-orange-200\">\n                    <li>Tente se recordar do ano de 2023 e responda: O município onde você reside presenciou dias intensos de calor naquele ano? E nos anos seguintes? Avalie os impactos dos dias muito quentes nas suas atividades diárias e nas de seus conhecidos.</li>\n                    <li>Avalie de que maneira as informações disponibilizadas em aplicativos de dispositivos eletrônicos sobre a previsão do “tempo” podem ser úteis para prever riscos nos períodos de intenso calor.</li>\n                    <li>Que medidas podem ser tomadas para evitar novas ondas de calor?</li>\n                    <li>O ano de 2024 foi marcado por fortes enchentes no Rio Grande do Sul. De que maneira as atividades antrópicas podem estar relacionadas com essas enchentes? Há maneiras de evitá-las? Converse com os colegas sobre o assunto e anote as conclusões.</li>\n                </ul>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

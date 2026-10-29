@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 10,
+  "unidade": "Grandezas, medidas e mais números",
+  "titulo": "Grandezas e Medidas (Comprimento, Massa e Capacidade)",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Medindo as Coisas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Medir usando o corpo (palmos, passos) e comparar: O que é mais pesado? O que cabe mais água?\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🐘 Pesado ou Leve?</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uma pena é leve. Um elefante é pesado. Uma garrafa cheia é mais pesada que uma vazia.</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

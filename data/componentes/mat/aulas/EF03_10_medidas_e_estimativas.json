@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 10,
+  "unidade": "Grandezas e medidas: comprimento, massa e capacidade",
+  "titulo": "Medidas e Estimativas",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Medindo com Precisão</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aprofundamento nas unidades: milímetros (mm), centímetros (cm), metros (m), gramas (g) e mililitros (mL).\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Escolha Certa:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Usamos régua para o caderno, fita métrica para a cintura e balança para a comida.</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

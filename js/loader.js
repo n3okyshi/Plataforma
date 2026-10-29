@@ -5,8 +5,8 @@
  */
 
 (function () {
-    const VERSION = "0.0.2"; 
-    const MAX_RETRIES = 3;   
+    const VERSION = "0.0.3";
+    const MAX_RETRIES = 3;
 
     /**
      * Escapa texto antes de interpolar em innerHTML. A tela de falha fatal é
@@ -82,8 +82,8 @@
     // =================================================================
 
     // R3: código de etapa -> sufixo do arquivo (EF06 -> "6", EM01 -> "1em").
-    const LIMITES_POR_ETAPA = { EI: 4, EF: 9, EM: 3 };
-    const SUFIXO_R3 = /^(?:[1-9]|[1-3]em|[1-4]ei)$/;
+    const LIMITES_POR_ETAPA = { EI: 3, EF: 9, EM: 3 };
+    const SUFIXO_R3 = /^(?:[1-9]|[1-3]em|[1-3]ei)$/;
 
     function sufixoDe(codigo) {
         const achado = /^(EI|EF|EM)(\d{2})$/.exec(typeof codigo === 'string' ? codigo : '');
@@ -167,10 +167,10 @@
         .then(() => carregarScript("js/reactive.js"))
         .then(() => carregarScript("js/firebase-service.js"))
         .then(() => carregarScript("js/registry.js"))
-        
+
         .then(() => {
             updateStatus("Carregando interface...");
-            return carregarScript("js/views/core.js"); 
+            return carregarScript("js/views/core.js");
         })
         .then(() => {
             const viewModules = [

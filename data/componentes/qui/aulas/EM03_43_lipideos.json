@@ -1,0 +1,37 @@
+{
+  "id": "qui.em03.bioquimica.lipideos",
+  "componente": "qui",
+  "nivel": "EM03",
+  "ordem": 43,
+  "unidade": "Bioquímica",
+  "titulo": "Lipídeos",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-yellow-600 mb-4\">Lipídeos</h2>\n            <p class=\"mb-4 text-sm\">\n                Óleos, gorduras e ceras. Relacionados a funções energéticas, estruturais e de isolamento térmico.\n            </p>\n\n            <div class=\"grid gap-4\">\n                <div class=\"p-5 bg-white dark:bg-gray-800 rounded-3xl border border-yellow-200 shadow-sm\">\n                    <p class=\"font-black text-yellow-700 text-sm mb-2\">Gorduras (Triglicerídeos)</p>\n                    <p class=\"text-xs\">Saturadas (animais, sólidas) e Insaturadas (vegetais, líquidas). Formam o estrato mielínico e isolante térmico.</p>\n                </div>\n\n                <div class=\"p-5 bg-white dark:bg-gray-800 rounded-3xl border border-yellow-200 shadow-sm\">\n                    <p class=\"font-black text-yellow-700 text-sm mb-2\">Fosfolipídeos</p>\n                    <p class=\"text-xs\">Compõem as membranas biológicas (bicamada fosfolipídica).</p>\n                    \n\n\n\n                </div>\n\n                <div class=\"p-5 bg-white dark:bg-gray-800 rounded-3xl border border-yellow-200 shadow-sm\">\n                    <p class=\"font-black text-yellow-700 text-sm mb-2\">Esteroides (Colesterol)</p>\n                    <p class=\"text-xs\">Precursor de hormônios sexuais e sais biliares. Modula a fluidez das membranas.</p>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"bg-yellow-50 dark:bg-yellow-900/20 p-8 rounded-[2.5rem] border-2 border-yellow-300 shadow-sm\">\n            <h4 class=\"font-black text-yellow-800 uppercase text-xs mb-4\">Leio, logo penso</h4>\n            <p class=\"text-xs italic mb-4\">\"Dietas restritivas podem causar problemas de saúde e ganho de peso...\"</p>\n            <div class=\"space-y-3 font-bold text-xs\">\n                <p>1. Segundo o texto, como deve ser feita uma dieta para emagrecer?</p>\n                <p>2. Qual o impacto da restrição de nutrientes como carboidratos e lipídeos?</p>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-yellow-600 text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

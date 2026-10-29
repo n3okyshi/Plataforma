@@ -1,0 +1,77 @@
+{
+  "id": "mat.ef06.numeracao.prova",
+  "titulo": "Números naturais e sistemas de numeração",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF06",
+  "unidade": "Números naturais e sistemas de numeração",
+  "bncc": [
+    "EF06MA01",
+    "EF06MA02"
+  ],
+  "duracaoMin": 30,
+  "instrucoes": "Responda aos dez itens. Cada item vale 1 ponto. O gabarito e as resoluções aparecem somente ao final. Esta prova cobre o recorte de números naturais.",
+  "questoes": [
+    "mat.ef06.numeracao.prova.01",
+    "mat.ef06.numeracao.prova.02",
+    "mat.ef06.numeracao.prova.03",
+    "mat.ef06.numeracao.prova.04",
+    "mat.ef06.numeracao.prova.05",
+    "mat.ef06.numeracao.prova.06",
+    "mat.ef06.numeracao.prova.07",
+    "mat.ef06.numeracao.prova.08",
+    "mat.ef06.numeracao.prova.09",
+    "mat.ef06.numeracao.prova.10"
+  ],
+  "pontuacaoTotal": 10,
+  "criterios": "1 ponto por alternativa correta, 0 por incorreta. Nota = acertos/10 × 10. A explicação de cada item compõe a devolutiva.",
+  "matriz": [
+    {
+      "bncc": "EF06MA01",
+      "questoes": [
+        "mat.ef06.numeracao.prova.02",
+        "mat.ef06.numeracao.prova.03",
+        "mat.ef06.numeracao.prova.04",
+        "mat.ef06.numeracao.prova.05",
+        "mat.ef06.numeracao.prova.08"
+      ]
+    },
+    {
+      "bncc": "EF06MA02",
+      "questoes": [
+        "mat.ef06.numeracao.prova.01",
+        "mat.ef06.numeracao.prova.06",
+        "mat.ef06.numeracao.prova.07",
+        "mat.ef06.numeracao.prova.09",
+        "mat.ef06.numeracao.prova.10"
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "paginasImpressas": "11-17",
+      "uso": "Referência conceitual; explicações e questões do piloto são autorais."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        302,
+        303
+      ],
+      "paginasImpressas": "300-301",
+      "uso": "Objetos de conhecimento e habilidades EF06MA01/EF06MA02; recorte de números naturais."
+    }
+  ],
+  "estado": "piloto",
+  "cobertura": "Parcial nas habilidades: apenas naturais; não certifica domínio de racionais decimais finitos."
+}

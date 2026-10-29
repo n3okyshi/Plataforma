@@ -19,7 +19,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Aprendemos a nos localizar usando o próprio corpo. O que está perto? O que está longe? O que está na sua esquerda?
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🤸 Brincadeira:</p>
             <p class="text-gray-700 dark:text-gray-300">"O Mestre Mandou": levantar a mão direita, colocar a mão na cabeça, ficar embaixo da mesa.</p>
@@ -33,7 +33,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Diferença entre o desenho no papel (achatado) e o objeto real (sólido) que a gente consegue segurar.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⚽ Exemplo:</p>
             <p class="text-gray-700 dark:text-gray-300">O círculo parece uma pizza ou um relógio. A esfera parece uma bola de futebol.</p>
@@ -48,7 +48,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Relacionar o número com a quantidade de dedinhos ou objetos. Aprendemos também que o <strong>Zero</strong> significa "nenhum".
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🖐️ Prática:</p>
             <p class="text-gray-700 dark:text-gray-300">Contar um a um: lápis no estojo, cadeiras na sala e colegas na fila.</p>
@@ -62,7 +62,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Organizar brinquedos por cor ou tamanho e descobrir qual é a próxima figura da fila.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔴🔵🔴 O que vem depois?</p>
             <p class="text-gray-700 dark:text-gray-300">Se a fila é: Vermelho, Azul, Vermelho... a próxima cor deve ser Azul!</p>
@@ -89,7 +89,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Organizar os números do menor para o maior (crescente) e do maior para o menor (decrescente).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🏠 Vizinhos:</p>
             <p class="text-gray-700 dark:text-gray-300">Quem mora antes do 5? O 4 (Antecessor). Quem mora depois? O 6 (Sucessor).</p>
@@ -103,7 +103,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Números que indicam ordem e posição: Primeiro (1º), Segundo (2º), Terceiro (3º)...
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🏆 Competição:</p>
             <p class="text-gray-700 dark:text-gray-300">Usamos muito em corridas para saber quem ganhou medalha de ouro, prata e bronze.</p>
@@ -117,7 +117,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Continhas iniciais. Adição é ganhar/juntar. Subtração é perder/dar/tirar.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🍎 Historinha:</p>
             <p class="text-gray-700 dark:text-gray-300">"Eu tinha 3 maçãs e ganhei mais 2. Com quantas fiquei?" (Adição). "Comi uma maçã. Quantas sobraram?" (Subtração).</p>
@@ -131,7 +131,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Começamos a contar além dos dedos das mãos, fazendo montinhos de 10 em 10.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔟 Dezenas:</p>
             <p class="text-gray-700 dark:text-gray-300">10, 20, 30, 40... É muito mais rápido contar assim do que contar de 1 em 1!</p>
@@ -159,7 +159,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Entender o Ontem (já passou), Hoje (agora) e Amanhã (vai acontecer). Leitura dos dias da semana no calendário.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📅 Rotina:</p>
             <p class="text-gray-700 dark:text-gray-300">Identificar os dias que tem escola e os dias de descanso (Sábado e Domingo).</p>
@@ -173,7 +173,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Conhecer as moedas e as notas do Real.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🛒 Mercadinho:</p>
             <p class="text-gray-700 dark:text-gray-300">Brincar de compra e venda ajuda a entender que precisamos trocar dinheiro por coisas.</p>
@@ -192,7 +192,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Conhecendo números maiores! Usamos o <strong>Material Dourado</strong> para entender que 10 barrinhas formam uma placa (100).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🧱 O Jogo da Troca:</p>
             <p class="text-gray-700 dark:text-gray-300">Juntou 10 cubinhos? Troca por uma barrinha. Juntou 10 barrinhas? Troca por uma placa (Centena)!</p>
@@ -219,7 +219,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Montando a continha em pé. Aprendemos o "vai um" (reserva) quando a soma passa de 9.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">☝️ Subir o 1:</p>
             <p class="text-gray-700 dark:text-gray-300">Quando a casa das unidades fica cheia (dá 10 ou mais), a dezena tem que subir para o andar de cima.</p>
@@ -246,9 +246,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Caminhando na reta numérica até chegar no 1000. Quem vem antes (antecessor) e quem vem depois (sucessor)?
         </p>
-        
 
-[Image of number line up to 1000]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📍 Valor Posicional:</p>
@@ -263,7 +263,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Somar a mesma coisa várias vezes. Construção das primeiras tabuadas (2, 3, 4 e 5).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">✖️ Grupos:</p>
             <p class="text-gray-700 dark:text-gray-300">3 x 4 significa "3 grupos com 4 coisas dentro". Dobro é 2x, Triplo é 3x.</p>
@@ -278,7 +278,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Cubo, pirâmide, cone, cilindro e esfera. Aprendemos a contar as partes: pontas (vértices) e lados (faces).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🧊 Rola ou não rola?</p>
             <p class="text-gray-700 dark:text-gray-300">Objetos redondos (esfera, cone) rolam. Objetos quadrados (cubo) ficam parados.</p>
@@ -306,9 +306,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Começamos a usar unidades de verdade: Centímetros (cm) e Metros (m) para tamanho; Quilo (kg) para peso; Litro (L) para líquidos.
         </p>
-        
 
-[Image of ruler and measuring tape]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📏 Do Zero:</p>
@@ -328,7 +328,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Consolidando o sistema decimal. Aprendemos a compor (juntar) e decompor (separar) os números: Centena, Dezena e Unidade.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📝 Por Extenso:</p>
             <p class="text-gray-700 dark:text-gray-300">Escrever o nome do número ajuda a entender o valor. Ex: 234 = Duzentos e trinta e quatro.</p>
@@ -342,9 +342,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Depois do 999 vem o <strong>1.000</strong>! Entramos na 4ª ordem. Trabalhamos com números de quatro algarismos na reta numérica.
         </p>
-        
 
-[Image of place value chart with thousands]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🧊 O Cubão:</p>
@@ -372,7 +372,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Avançando das somas repetidas para a conta armada. Resolução de problemas de combinatória simples (roupas, sabores).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">👕 Combinando:</p>
             <p class="text-gray-700 dark:text-gray-300">Se tenho 2 bermudas e 3 camisetas, posso fazer 2 x 3 = 6 trajes diferentes.</p>
@@ -386,7 +386,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Duas ideias principais: "Repartir igualmente" (dar um pra cada) e "Medida" (quantos cabem?).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🍰 As Partes:</p>
             <p class="text-gray-700 dark:text-gray-300">Metade (dividir por 2), Terça parte (dividir por 3) e Décima parte (dividir por 10).</p>
@@ -401,7 +401,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Classificação avançada. Aprendemos a "abrir" as caixas (planificação) e contamos os elementos: Vértices (pontas), Faces (lados) e Arestas (linhas).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📦 Abrindo a Caixa:</p>
             <p class="text-gray-700 dark:text-gray-300">Planificar é desenhar no papel como o sólido ficaria se fosse desmontado.</p>
@@ -415,7 +415,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Usando o papel quadriculado para desenhar e identificar figuras que são gêmeas idênticas.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔍 A Regra:</p>
             <p class="text-gray-700 dark:text-gray-300">Para ser congruente, tem que ter a mesma forma e o mesmo tamanho. Se mudar o tamanho, não vale!</p>
@@ -430,7 +430,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Leitura de relógios de ponteiro e digitais. Cálculo de quanto tempo as coisas demoram (duração).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⌚ Tabuada do 5:</p>
             <p class="text-gray-700 dark:text-gray-300">No relógio de ponteiro, os minutos pulam de 5 em 5. O número 1 vale 5 min, o 6 vale 30 min (meia hora).</p>
@@ -457,9 +457,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Aprofundamento nas unidades: milímetros (mm), centímetros (cm), metros (m), gramas (g) e mililitros (mL).
         </p>
-        
 
-[Image of measuring cup and scale]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📏 Escolha Certa:</p>
@@ -479,7 +479,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Chegamos à <strong>5ª ordem</strong>! Lemos, escrevemos e comparamos números grandões, como 15.000 ou 99.999.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📍 O Ponto Mágico:</p>
             <p class="text-gray-700 dark:text-gray-300">Usamos um ponto para separar a classe dos milhares. Ele ajuda a ler: o número antes do ponto é "mil". Ex: 23.400 (Vinte e três <strong>mil</strong> e quatrocentos).</p>
@@ -494,7 +494,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Usando coordenadas (Batalha Naval) para achar coisas e descobrindo a <strong>Simetria</strong> (o efeito de espelho).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🦋 Eixo de Simetria:</p>
             <p class="text-gray-700 dark:text-gray-300">É a linha imaginária que divide o desenho em duas partes iguais. Se dobrarmos o papel nessa linha, as partes se encaixam perfeitamente.</p>
@@ -508,7 +508,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             O ângulo é uma abertura ou um giro. Aprendemos a identificar o famoso <strong>Ângulo Reto</strong> (o canto quadrado).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📐 O Canto da Lousa:</p>
             <p class="text-gray-700 dark:text-gray-300">O ângulo reto (90º) está em todo lugar: no canto do caderno, na quina da mesa e nas paredes.</p>
@@ -523,9 +523,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Resolver problemas transformando metros em centímetros e lendo termômetros em <strong>graus Celsius (°C)</strong>.
         </p>
-        
 
-[Image of thermometer celsius scale]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🌡️ Quente ou Frio?</p>
@@ -540,7 +540,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Não confunda! <strong>Perímetro</strong> é a volta (cerca). <strong>Área</strong> é o preenchimento (piso).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🧱 Contando Quadradinhos:</p>
             <p class="text-gray-700 dark:text-gray-300">Para medir a área no papel quadriculado, contamos quantos quadradinhos cabem dentro da figura.</p>
@@ -568,7 +568,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             O desafio aumenta! Multiplicar por números como 12, 25 ou 30.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⚠️ Pulo do Gato:</p>
             <p class="text-gray-700 dark:text-gray-300">Quando for multiplicar a dezena (o segundo número), não esqueça de colocar o <strong>Zero</strong> ou deixar um espaço vazio na linha de baixo!</p>
@@ -596,9 +596,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Quando o inteiro é partido em pedaços iguais. Conhecendo 1/2 (meio), 1/3 (um terço) e 1/4 (um quarto).
         </p>
-        
 
-[Image of pizza slices fractions]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🍰 Quem é quem?</p>
@@ -613,7 +613,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Introdução aos Décimos (0,1) e Centésimos (0,01). A melhor forma de entender é usando dinheiro!
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">💰 Moedinhas:</p>
             <p class="text-gray-700 dark:text-gray-300">1 Real é o inteiro. 10 centavos é um décimo (0,10). 1 centavo é um centésimo (0,01).</p>
@@ -632,7 +632,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Expandindo nossos horizontes para números gigantes! Leitura, escrita e o valor de cada algarismo até a casa dos milhões.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🌍 População:</p>
             <p class="text-gray-700 dark:text-gray-300">Usamos esses números para contar habitantes de países. Ex: O Brasil tem mais de 200 milhões de pessoas!</p>
@@ -647,7 +647,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Localização de pontos no mapa (Par Ordenado) e estudo profundo dos sólidos (Prismas e Pirâmides).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🗺️ Batalha Naval:</p>
             <p class="text-gray-700 dark:text-gray-300">Para achar um ponto, primeiro andamos para o lado (eixo X) e depois subimos (eixo Y).</p>
@@ -661,7 +661,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Usando malhas quadriculadas para mudar o tamanho das figuras sem deformá-las.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔍 Proporção:</p>
             <p class="text-gray-700 dark:text-gray-300">Se dobrarmos o tamanho do lado, a figura fica maior, mas o formato continua igualzinho.</p>
@@ -689,7 +689,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Multiplicação e Divisão aplicadas a problemas de combinação.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🌳 Árvore de Possibilidades:</p>
             <p class="text-gray-700 dark:text-gray-300">Para saber quantas combinações existem, basta multiplicar as opções. (Ex: 3 sorvetes x 2 coberturas = 6 tipos).</p>
@@ -704,7 +704,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Descobrindo que 1/2 é a mesma coisa que 2/4 ou 4/8. Cálculo da fração de uma quantidade.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🍫 Regra Prática:</p>
             <p class="text-gray-700 dark:text-gray-300">Para achar a fração de um número (ex: 1/3 de 12), dividimos pelo de baixo e multiplicamos pelo de cima.</p>
@@ -718,7 +718,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Tudo está conectado! 50% é a mesma coisa que metade (1/2) ou 0,5.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">💯 Por cento:</p>
             <p class="text-gray-700 dark:text-gray-300">O símbolo % significa "dividido por 100". 25% é o mesmo que 25 pedacinhos de 100.</p>
@@ -733,7 +733,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Conceito inicial de volume através do empilhamento de cubinhos.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📦 Enchendo a caixa:</p>
             <p class="text-gray-700 dark:text-gray-300">Volume é o espaço que um objeto ocupa. Contamos quantos cubinhos unitários cabem dentro dele.</p>
@@ -756,7 +756,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Seção destinada a levantar os conhecimentos prévios dos estudantes construídos ao longo dos Anos Iniciais (até o 5º ano).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">💡 Foco da revisão:</p>
             <p class="text-gray-700 dark:text-gray-300">Identificar quais tópicos exigem maior investimento: operações básicas, frações, geometria plana/espacial e leitura de gráficos.</p>
@@ -774,8 +774,8 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             <strong>Povos Primitivos:</strong> Quando e como o ser humano começou a contar? Há milhares de anos, já se contavam pequenas quantidades: animais caçados, objetos feitos, mudanças das fases da Lua (para medir o tempo) e rebanhos.
         </p>
-        
-        
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🦴 O Registro Antes da Escrita:</p>
@@ -840,7 +840,7 @@ window.registrarTeoria({
                 <li><strong>Não Posicional:</strong> A ordem não importa. <code>|∩</code> vale 11, assim como <code>∩|</code> vale 11.</li>
             </ul>
         </div>
-        
+
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             <strong>Exemplos Históricos:</strong>
             <br>• <strong>7:</strong> ||||||| (7 bastões)
@@ -916,7 +916,7 @@ window.registrarTeoria({
 
     <h3 class="text-2xl font-bold text-brand-blue mb-4">Atividade 3: Contexto Geográfico</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm">
-        
+
         <div class="flex items-center gap-3 mb-4">
             <span class="bg-brand-blue text-white font-bold px-3 py-1 rounded-lg text-sm">Q1</span>
             <h4 class="font-bold text-gray-700 dark:text-gray-200 text-lg">Em qual continente fica o Egito?</h4>
@@ -978,7 +978,7 @@ window.registrarTeoria({
         </div>
 
         <div id="fb-nilo" class="hidden mt-4 text-sm font-bold text-gray-600 dark:text-gray-400 bg-gray-100 dark:bg-gray-900 p-4 rounded-xl">
-            Correto! 
+            Correto!
             <br>6 x 1.000 (Flor) = 6.000
             <br>7 x 100 (Corda) = 700
             <br>4 x 10 (Calcanhar) = 40
@@ -986,7 +986,7 @@ window.registrarTeoria({
             <br>Total = 6.741
         </div>
     </div>
-  
+
 
 
 
@@ -1016,10 +1016,10 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             O sistema romano espalhou-se pelo mundo com a expansão do Império. Hoje, ainda o usamos para ler relógios, indicar séculos, capítulos de livros e nomes de reis ou papas.
         </p>
-        
-        
 
-[Image of roman numerals clock face]
+
+
+
 
 
         <div class="flex flex-wrap justify-center gap-2 md:gap-4 text-center">
@@ -1076,18 +1076,18 @@ window.registrarTeoria({
             <div>
                 <label class="block font-bold text-gray-700 dark:text-gray-200 mb-2">a) Qual o nome do país atual onde fica Roma?</label>
                 <div class="flex gap-2">
-                    <input 
-                        type="text" 
-                        id="input-atv5a" 
-                        oninput="this.value = this.value.toUpperCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')" 
-                        class="flex-1 bg-gray-50 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-600 rounded-xl p-3 text-gray-900 dark:text-white outline-none" 
+                    <input
+                        type="text"
+                        id="input-atv5a"
+                        oninput="this.value = this.value.toUpperCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')"
+                        class="flex-1 bg-gray-50 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-600 rounded-xl p-3 text-gray-900 dark:text-white outline-none"
                         placeholder="Digite o país..."
                     >
                     <button onclick="app.verificarAtividade('input-atv5a', 'ITALIA')" class="bg-brand-green hover:bg-brand-greenDark text-white font-bold px-4 rounded-xl">Verificar</button>
                 </div>
                 <p class="text-xs text-gray-400 mt-1">*Digite sem acento se preferir.</p>
             </div>
-            
+
             <div>
                 <label class="block font-bold text-gray-700 dark:text-gray-200 mb-2">b) Em que continente esse país fica?</label>
                 <div class="flex gap-2">
@@ -1101,7 +1101,7 @@ window.registrarTeoria({
 
     <h3 class="text-2xl font-bold text-brand-blue mb-4">Traduzindo Números</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-6">
-        
+
         <div class="border-b-2 border-gray-100 dark:border-gray-700 pb-6">
             <h4 class="font-bold text-gray-700 dark:text-gray-200 mb-4">6. Romano para Decimal (Arábico)</h4>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -1174,10 +1174,10 @@ window.registrarTeoria({
 
     <h3 class="text-2xl font-bold text-brand-blue mb-4">Números no Dia a Dia</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-6">
-        
+
         <div>
             <p class="font-bold text-gray-700 dark:text-gray-200 mb-2">8. Reescreva usando romanos:</p>
-            
+
             <div class="flex items-center justify-between bg-gray-50 dark:bg-gray-800 p-3 rounded-xl mb-2">
                 <span class="text-gray-600 dark:text-gray-300">Século Quinze</span>
                 <div class="flex gap-2 w-1/3">
@@ -1197,7 +1197,7 @@ window.registrarTeoria({
 
         <div class="border-t-2 border-gray-100 dark:border-gray-700 pt-4">
             <p class="font-bold text-gray-700 dark:text-gray-200 mb-2">9. Decifre a Construção:</p>
-            
+
             <label class="block text-sm text-gray-500 mb-2">Que ano está escrito na fachada (MDCCCLXIX)?</label>
             <div class="flex gap-2">
                 <input type="text" id="input-atv9" class="flex-1 bg-gray-50 dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-600 rounded-xl p-3 text-gray-900 dark:text-white outline-none" placeholder="Ano em decimal...">
@@ -1209,7 +1209,7 @@ window.registrarTeoria({
 
     <h3 class="text-2xl font-bold text-brand-blue mb-4">Desafios de Lógica</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm">
-        
+
         <div class="mb-8">
             <div class="flex items-center gap-3 mb-4">
                 <span class="bg-brand-purple text-white font-bold px-3 py-1 rounded-lg text-sm">Desafio 11</span>
@@ -1389,7 +1389,7 @@ window.registrarTeoria({
 
     <h3 class="text-2xl font-bold text-brand-blue mb-4">Quiz: O Cientista</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm">
-        
+
         <div class="flex items-center gap-3 mb-4">
             <span class="bg-brand-blue text-white font-bold px-3 py-1 rounded-lg text-sm">Passo a Passo</span>
             <h4 class="font-bold text-gray-700 dark:text-gray-200 text-lg">O que são "Hipóteses"?</h4>
@@ -1399,11 +1399,11 @@ window.registrarTeoria({
             <button onclick="app.verificarQuiz(this, false, 'fb-met1')" class="w-full text-left font-bold text-gray-600 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 p-4 rounded-xl transition-all">
                 São as conclusões finais do trabalho.
             </button>
-            
+
             <button onclick="app.verificarQuiz(this, true, 'fb-met1')" class="w-full text-left font-bold text-gray-600 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 p-4 rounded-xl transition-all">
                 São o que pensamos ser a resposta antes de pesquisar.
             </button>
-            
+
             <button onclick="app.verificarQuiz(this, false, 'fb-met1')" class="w-full text-left font-bold text-gray-600 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 p-4 rounded-xl transition-all">
                 São os livros que lemos para o trabalho.
             </button>
@@ -1480,11 +1480,11 @@ window.registrarTeoria({
             <button onclick="app.verificarQuiz(this, false, 'fb-conc')" class="w-full text-left font-bold text-gray-600 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 p-4 rounded-xl transition-all">
                 É um sistema idêntico ao nosso, base 10.
             </button>
-            
+
             <button onclick="app.verificarQuiz(this, true, 'fb-conc')" class="w-full text-left font-bold text-gray-600 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 p-4 rounded-xl transition-all">
                 É vigesimal (base 20) e possui o Zero.
             </button>
-            
+
             <button onclick="app.verificarQuiz(this, false, 'fb-conc')" class="w-full text-left font-bold text-gray-600 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 p-4 rounded-xl transition-all">
                 Não utiliza símbolos para representar quantidades.
             </button>
@@ -1550,7 +1550,7 @@ window.registrarTeoria({
 
 <h3 class="text-2xl font-bold text-brand-blue mb-4">Valor Posicional</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-8">
-        
+
         <div>
             <h4 class="font-bold text-gray-700 dark:text-gray-200 mb-2">16. Qual é o valor do algarismo 6?</h4>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
@@ -1618,7 +1618,7 @@ window.registrarTeoria({
 
 <h3 class="text-2xl font-bold text-brand-blue mb-4">Desafios de Lógica</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-6">
-        
+
         <div>
             <h4 class="font-bold text-gray-700 dark:text-gray-200 mb-2">20. Responda Rápido:</h4>
             <div class="space-y-3">
@@ -1673,7 +1673,7 @@ window.registrarTeoria({
 
 <h3 class="text-2xl font-bold text-brand-blue mb-4">Lendo o Ábaco</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-6">
-        
+
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div class="border dark:border-gray-600 p-3 rounded-lg text-center">
                 <p class="text-xs text-gray-500 uppercase mb-2">Ábaco A</p>
@@ -1731,7 +1731,7 @@ window.registrarTeoria({
         <p class="text-gray-600 dark:text-gray-300">
             Descubra o <strong>7º termo</strong> seguindo as regras misteriosas:
         </p>
-        
+
         <div class="text-xs bg-yellow-50 dark:bg-yellow-900/20 text-yellow-800 dark:text-yellow-200 p-3 rounded-lg border border-yellow-200 dark:border-yellow-800 mb-4">
             <strong>Regras:</strong><br>
             1. Se 3º termo > 5º termo: 7º = 1º + 4º<br>
@@ -1804,26 +1804,26 @@ window.registrarTeoria({
         </p>
 
         <div class="bg-gray-50 dark:bg-gray-900 border-2 border-gray-200 dark:border-gray-700 rounded-xl p-6 flex flex-col items-center w-full shadow-inner select-none">
-            
+
             <h3 class="text-gray-400 dark:text-gray-500 font-bold uppercase text-xs tracking-widest mb-6">Raio-X Interativo</h3>
 
             <div class="w-full max-w-2xl mb-8">
-                <input type="text" id="raio-x-input" value="12345678" maxlength="15" 
-                    class="w-full text-3xl md:text-5xl font-mono font-bold text-center border-b-4 border-gray-300 dark:border-gray-600 outline-none text-gray-800 dark:text-white bg-transparent pb-2 tracking-widest focus:border-brand-blue transition-all placeholder-gray-400" 
+                <input type="text" id="raio-x-input" value="12345678" maxlength="15"
+                    class="w-full text-3xl md:text-5xl font-mono font-bold text-center border-b-4 border-gray-300 dark:border-gray-600 outline-none text-gray-800 dark:text-white bg-transparent pb-2 tracking-widest focus:border-brand-blue transition-all placeholder-gray-400"
                     placeholder="0"
                     oninput="
                         // 1. Limpeza do Valor
                         let val = this.value.replace(/[^0-9]/g, '');
                         if(val.length > 15) val = val.slice(0,15);
                         this.value = val;
-                        
+
                         // 2. Elementos de Destino
                         const grid = document.getElementById('raio-x-grid');
                         const textRead = document.getElementById('raio-x-text');
-                        
+
                         // 3. Configurações Visuais
                         const configs = [
-                            {n:'Unidades', c:'green'}, {n:'Milhares', c:'blue'}, 
+                            {n:'Unidades', c:'green'}, {n:'Milhares', c:'blue'},
                             {n:'Milhões', c:'orange'}, {n:'Bilhões', c:'purple'}, {n:'Trilhões', c:'red'}
                         ];
 
@@ -1836,7 +1836,7 @@ window.registrarTeoria({
                             const cen = ['','cento','duzentos','trezentos','quatrocentos','quinhentos','seiscentos','setecentos','oitocentos','novecentos'];
                             const sing = ['','mil','milhão','bilhão','trilhão'];
                             const plur = ['','mil','milhões','bilhões','trilhões'];
-                            
+
                             let s = n.toString();
                             s = s.padStart(Math.ceil(s.length/3)*3, '0');
                             let grps = s.match(/.{1,3}/g).map(Number);
@@ -1873,11 +1873,11 @@ window.registrarTeoria({
 
                         // --- LÓGICA DO GRID VISUAL ---
                         const html = val.split('').reverse().join('').match(/.{1,3}/g) || [];
-                        
+
                         grid.innerHTML = html.map((g, i) => {
                             if(i >= configs.length) return '';
                             const conf = configs[i];
-                            
+
                             // Gera os dígitos (U-D-C)
                             const digits = g.split('').map((d, j) => {
                                 const label = ['U','D','C'][j];
@@ -1889,7 +1889,7 @@ window.registrarTeoria({
                                         <div class='absolute bottom-full mb-1 opacity-0 group-hover:opacity-100 bg-gray-800 text-white text-[9px] px-2 py-1 rounded whitespace-nowrap z-20 pointer-events-none'>\${order}ª Ordem</div>
                                     </div>
                                 \`;
-                            }).join(''); 
+                            }).join('');
 
                             // Card da Classe
                             return \`
@@ -1898,7 +1898,7 @@ window.registrarTeoria({
                                     <div class='flex flex-row-reverse gap-1'>\${digits}</div>
                                 </div>
                             \`;
-                        }).reverse().join(''); 
+                        }).reverse().join('');
                     ">
                 <div class="text-center text-xs text-gray-400 mt-2 font-bold uppercase">Digite um número</div>
             </div>
@@ -1969,7 +1969,7 @@ window.registrarTeoria({
 
 <h3 class="text-2xl font-bold text-brand-blue mb-4">Escrevendo Números</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-8">
-        
+
         <div>
             <h4 class="font-bold text-gray-700 dark:text-gray-200 mb-3">28. Transforme em Algarismos:</h4>
             <div class="space-y-3">
@@ -2013,7 +2013,7 @@ window.registrarTeoria({
 
 <h3 class="text-2xl font-bold text-brand-blue mb-4">Números no Mundo Real</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-6">
-        
+
         <div>
             <h4 class="font-bold text-gray-700 dark:text-gray-200 mb-2">29. O Monte Everest (8.848 m)</h4>
             <p class="text-sm text-gray-600 dark:text-gray-400 mb-2">Decomponha este número:</p>
@@ -2066,7 +2066,7 @@ window.registrarTeoria({
 
         <div class="border-2 border-dashed border-gray-300 dark:border-gray-600 p-4 rounded-xl bg-yellow-50 dark:bg-yellow-900/10">
             <h4 class="text-center font-serif font-bold text-xl mb-4 text-gray-800 dark:text-gray-200">RECIBO</h4>
-            
+
             <div class="flex justify-between items-center mb-4">
                 <span class="font-bold text-gray-700 dark:text-gray-300">VALOR: R$</span>
                 <input type="text" id="input-recibo-num" class="w-32 bg-white dark:bg-gray-900 border border-gray-300 p-2 text-right font-mono" placeholder="0,00" onblur="app.verificarAtividade('input-recibo-num', '85,00')">
@@ -2084,7 +2084,7 @@ window.registrarTeoria({
 
 <h3 class="text-2xl font-bold text-brand-blue mb-4">Desafios Finais</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-6">
-        
+
         <div>
             <div class="flex items-center gap-3 mb-4">
                 <span class="bg-brand-purple text-white font-bold px-3 py-1 rounded-lg text-sm">Desafio 36</span>
@@ -2125,7 +2125,7 @@ window.registrarTeoria({
             <span class="bg-red-500 text-white font-bold px-3 py-1 rounded-lg text-sm">Lógica Avançada</span>
             <h4 class="font-bold text-gray-700 dark:text-gray-200 text-lg">O Mistério do Aniversário</h4>
         </div>
-        
+
         <p class="text-gray-600 dark:text-gray-300 mb-6">
             Em uma turma há <strong>25 estudantes</strong>. É certeza absoluta que pelo menos <strong>3 estudantes</strong> fazem aniversário no mesmo mês. Por quê?
         </p>
@@ -2134,11 +2134,11 @@ window.registrarTeoria({
             <button onclick="app.verificarQuiz(this, false, 'fb-pombos')" class="w-full text-left font-bold text-gray-600 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 p-4 rounded-xl border-2 border-transparent transition-all">
                 Porque a maioria das pessoas nasce em março.
             </button>
-            
+
             <button onclick="app.verificarQuiz(this, true, 'fb-pombos')" class="w-full text-left font-bold text-gray-600 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 p-4 rounded-xl border-2 border-transparent transition-all">
                 Porque existem apenas 12 meses. Se colocarmos 2 alunos em cada mês (2 x 12 = 24), o 25º aluno terá que entrar em um mês que já tem 2.
             </button>
-            
+
             <button onclick="app.verificarQuiz(this, false, 'fb-pombos')" class="w-full text-left font-bold text-gray-600 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 p-4 rounded-xl border-2 border-transparent transition-all">
                 Não é certeza, é apenas sorte.
             </button>
@@ -2209,7 +2209,7 @@ window.registrarTeoria({
 
     <h3 class="text-2xl font-bold text-brand-blue mb-4 mt-8">Praticando as Funções</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-6">
-        
+
         <div>
             <div class="flex items-center gap-3 mb-4">
                 <span class="bg-brand-blue text-white font-bold px-3 py-1 rounded-lg text-sm">Atividade 40</span>
@@ -2233,7 +2233,7 @@ window.registrarTeoria({
 
         <div class="border-t border-gray-100 dark:border-gray-700 pt-6">
             <h4 class="font-bold text-gray-700 dark:text-gray-200 mb-4">Atividade 41: Classifique os Números</h4>
-            
+
             <div class="space-y-4">
                 <div>
                     <p class="text-sm text-gray-600 dark:text-gray-400 mb-2">a) "Classificou-se em <strong>1º lugar</strong>"</p>
@@ -2285,7 +2285,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Nem sempre precisamos do número exato. Às vezes, um valor aproximado facilita a compreensão.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">Regra de Ouro:</p>
             <p class="text-gray-700 dark:text-gray-300 mt-2">
@@ -2373,10 +2373,10 @@ window.registrarTeoria({
         <p class="text-gray-600 dark:text-gray-300">
             Sobre a Amazônia (4.212.742 km²) e o Pantanal (150.988 km²):
         </p>
-        
-        
 
-[Image of map of brazilian biomes]
+
+
+
 
 
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -2405,7 +2405,7 @@ window.registrarTeoria({
     "Números naturais e Sistema Decimal": `
     <h3 class="text-2xl font-bold text-brand-blue mb-4">Números Naturais</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-6">
-        
+
         <div class="bg-yellow-50 dark:bg-yellow-900/20 p-4 rounded-xl border-l-4 border-yellow-400">
             <h4 class="font-bold text-yellow-800 dark:text-yellow-300 mb-2">Explore para Descobrir</h4>
             <p class="text-sm text-gray-700 dark:text-gray-300 mb-4">
@@ -2459,9 +2459,9 @@ window.registrarTeoria({
 
     <h3 class="text-2xl font-bold text-brand-blue mb-4 mt-8">Reta Numérica e Ordem</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-6">
-        
-        
-        
+
+
+
         <div class="relative w-full h-12 mt-4">
             <div class="absolute top-1/2 left-0 w-full h-1 bg-gray-300 dark:bg-gray-600"></div>
             <div class="flex justify-between w-full absolute top-0 px-2">
@@ -2495,7 +2495,7 @@ window.registrarTeoria({
 
     <h3 class="text-2xl font-bold text-brand-blue mb-4 mt-8">Pares e Ímpares</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-6 overflow-x-auto">
-        
+
         <h4 class="font-bold text-brand-blue dark:text-blue-300">a) Sequência dos Pares (2n)</h4>
         <table class="w-full text-center text-sm border-collapse mb-6">
             <tr class="bg-blue-100 dark:bg-blue-900/50 text-blue-800 dark:text-blue-200">
@@ -2523,7 +2523,7 @@ window.registrarTeoria({
 
     <h3 class="text-2xl font-bold text-brand-blue mb-4 mt-8">Atividades Práticas</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-3xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-6">
-        
+
         <div>
             <h4 class="font-bold text-gray-700 dark:text-gray-200 mb-2">45. Responda Rápido:</h4>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
@@ -2564,18 +2564,18 @@ window.registrarTeoria({
     <h3 class="text-2xl font-bold text-brand-blue mb-4 mt-8">Atividade 48: O Algoritmo de Jorge</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm">
         <p class="text-gray-600 dark:text-gray-300 mb-4">Complete o raciocínio de Jorge para descobrir se um número é Par.</p>
-        
+
         <div class="flex flex-col items-center space-y-2 text-sm font-bold text-gray-700 dark:text-gray-200">
             <div class="px-4 py-2 bg-green-100 dark:bg-green-900 border-2 border-green-500 rounded-full">INÍCIO</div>
             <div class="h-4 w-0.5 bg-gray-400"></div>
-            
+
             <div class="px-4 py-2 bg-white dark:bg-gray-800 border-2 border-gray-400 rounded">Escolha um número Natural</div>
             <div class="h-4 w-0.5 bg-gray-400"></div>
-            
+
             <div class="relative px-6 py-4 bg-yellow-50 dark:bg-yellow-900/30 border-2 border-yellow-500 rounded-lg transform rotate-0" style="clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); width: 200px; height: 100px; display:flex; align-items:center; justify-content:center; text-align:center;">
                 <span class="text-xs">É o dobro de outro natural?</span>
             </div>
-            
+
             <div class="flex w-full justify-center gap-16 relative">
                 <div class="flex flex-col items-center">
                     <div class="h-4 w-0.5 bg-gray-400"></div>
@@ -2635,10 +2635,10 @@ window.registrarTeoria({
     <h3 class="text-2xl font-bold text-brand-blue mb-4 mt-8">Atividade 50: Ordene na Reta</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm overflow-x-auto">
         <p class="mb-4 text-gray-600 dark:text-gray-300">Posicione os números: <strong>170, 167, 158, 161, 179</strong> nos locais corretos.</p>
-        
+
         <div class="relative min-w-[600px] h-24 pt-8">
             <div class="absolute top-1/2 left-0 w-full h-1 bg-gray-800 dark:bg-gray-400"></div>
-            
+
             ${[156, 160, 164, 168, 172, 176, 180].map((n, i) => `
                 <div class="absolute" style="left: ${i * 16.6}%; top: 50%;">
                     <div class="w-0.5 h-4 bg-gray-800 dark:bg-gray-400"></div>
@@ -2650,7 +2650,7 @@ window.registrarTeoria({
                 <input type="text" class="w-8 text-xs text-center border-2 border-blue-300 rounded mb-1 bg-white dark:bg-gray-900 dark:text-white" placeholder="?" id="reta-158" onblur="app.verificarAtividade(this.id, '158')">
                 <div class="w-0.5 h-3 bg-blue-500 mx-auto"></div>
             </div>
-            
+
             <div class="absolute" style="left: 20%; bottom: 50%;">
                 <input type="text" class="w-8 text-xs text-center border-2 border-blue-300 rounded mb-1 bg-white dark:bg-gray-900 dark:text-white" placeholder="?" id="reta-161" onblur="app.verificarAtividade(this.id, '161')">
                 <div class="w-0.5 h-3 bg-blue-500 mx-auto"></div>
@@ -2675,7 +2675,7 @@ window.registrarTeoria({
 
     <h3 class="text-2xl font-bold text-brand-blue mb-4 mt-8">Desafios e Curiosidades</h3>
     <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-8">
-        
+
         <div>
             <h4 class="font-bold text-gray-700 dark:text-gray-200 mb-2">51. Complete a ordem:</h4>
             <div class="flex flex-wrap gap-2 items-center bg-gray-50 dark:bg-gray-800 p-3 rounded text-sm md:text-base">
@@ -2733,9 +2733,9 @@ window.registrarTeoria({
     </div>
 
     <h3 class="text-2xl font-bold text-brand-blue mb-4 mt-8">Para ler, pensar e divertir-se</h3>
-    
+
     <div class="grid grid-cols-1 gap-6">
-        
+
         <div class="bg-gray-800 text-white p-6 rounded-2xl shadow-lg">
             <h4 class="text-green-400 font-mono font-bold text-lg mb-2">> LER: 0 e 1 (Sistema Binário)</h4>
             <p class="text-sm leading-relaxed text-gray-300">
@@ -2764,7 +2764,7 @@ window.registrarTeoria({
         <div class="bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-blue-200 dark:border-blue-800 shadow-sm relative">
             <div class="absolute top-0 right-0 bg-blue-100 text-blue-800 text-xs font-bold px-3 py-1 rounded-bl-xl">JOGO</div>
             <h4 class="text-brand-blue font-bold text-lg mb-4">🎮 Caça-Números</h4>
-            
+
             <p class="text-sm text-gray-600 dark:text-gray-300 mb-4">
                 Encontre os números romanos convertidos para o nosso sistema (decimal) no quadro abaixo.
             </p>
@@ -2802,16 +2802,16 @@ window.registrarTeoria({
                     // Números a encontrar (Coordenadas manuais baseadas na matriz fornecida)
                     // Exemplo: 3252 está na linha 4 (indice 4), col 20..23 (aprox)
                     // Para simplificar, vamos permitir que o aluno clique nas células e elas fiquem verdes.
-                    
+
                     let html = '<div class=\\'grid gap-px bg-gray-300 dark:bg-gray-600\\' style=\\'grid-template-columns: repeat(41, minmax(15px, 1fr));\\'>';
-                    
+
                     gridData.forEach((row, r) => {
                         row.split('').forEach((num, c) => {
-                            html += \`<div class='bg-white dark:bg-gray-800 text-center text-[10px] md:text-xs py-1 cursor-pointer hover:bg-yellow-200 dark:hover:bg-yellow-900 select-none' 
+                            html += \`<div class='bg-white dark:bg-gray-800 text-center text-[10px] md:text-xs py-1 cursor-pointer hover:bg-yellow-200 dark:hover:bg-yellow-900 select-none'
                                 onclick='this.classList.toggle(\\"bg-green-300\\"); this.classList.toggle(\\"dark:bg-green-700\\"); this.classList.toggle(\\"text-white\\");'>\${num}</div>\`;
                         });
                     });
-                    
+
                     html += '</div>';
                     container.innerHTML = html;
                 })();
@@ -2944,7 +2944,7 @@ window.registrarTeoria({
         <p class="mb-6 text-gray-600 dark:text-gray-300">
             Onde os alunos preferem passar as férias? Analise o gráfico e responda: <strong>Qual local foi o menos escolhido?</strong>
         </p>
-        
+
         <div class="flex items-end justify-around h-40 border-b-2 border-l-2 border-gray-300 dark:border-gray-600 p-2 mb-6 bg-gray-50 dark:bg-gray-900/30">
             <div class="w-1/5 flex flex-col items-center group">
                 <div class="w-full bg-blue-300 dark:bg-blue-600 rounded-t h-16 relative group-hover:bg-blue-400 transition-all"></div>
@@ -3097,7 +3097,7 @@ window.registrarTeoria({
         <p class="mb-4 text-gray-600 dark:text-gray-300">
             Passe do sistema decimal para o egípcio ou vice-versa.
         </p>
-        
+
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div class="bg-gray-50 dark:bg-gray-800 p-3 rounded-xl border border-gray-200 dark:border-gray-600">
                 <p class="font-bold text-brand-blue mb-2">a) 32</p>
@@ -3140,7 +3140,7 @@ window.registrarTeoria({
             <span class="bg-purple-100 text-purple-800 text-xs font-bold px-2 py-1 rounded">2. Séculos</span>
             <h4 class="font-bold text-gray-700 dark:text-gray-200">Linha do Tempo</h4>
         </div>
-        
+
         <div class="overflow-x-auto">
             <table class="w-full text-sm text-center border-collapse">
                 <tr class="bg-purple-100 dark:bg-purple-900 text-purple-800 dark:text-purple-200 font-bold">
@@ -3317,7 +3317,7 @@ window.registrarTeoria({
             <span class="bg-blue-100 text-blue-800 text-xs font-bold px-2 py-1 rounded">5. Combinação</span>
             <h4 class="font-bold text-gray-700 dark:text-gray-200">Algarismos 4, 5, 8</h4>
         </div>
-        
+
         <div class="space-y-4">
             <div>
                 <p class="text-sm text-gray-600 dark:text-gray-400 mb-2">a) Forme todos os números possíveis (sem repetição):</p>
@@ -3325,7 +3325,7 @@ window.registrarTeoria({
                     <span>458</span><span>485</span><span>548</span><span>584</span><span>845</span><span>854</span>
                 </div>
             </div>
-            
+
             <div>
                 <p class="text-sm text-gray-600 dark:text-gray-400 mb-2">b) Em quais números o algarismo 4 vale <strong>40</strong>?</p>
                 <div class="flex gap-2">
@@ -3454,7 +3454,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Desenvolvimento do pensamento multiplicativo e prática do algoritmo.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">✖️ Ideias da Multiplicação:</p>
             <p class="text-gray-700 dark:text-gray-300">Adição de parcelas iguais, disposição retangular, proporcionalidade e combinatória.</p>
@@ -3520,7 +3520,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Introdução ao pensamento algébrico através da noção de equivalência.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⚖️ A Balança:</p>
             <p class="text-gray-700 dark:text-gray-300">Usamos a analogia com a balança de dois pratos: o que é feito em um membro da igualdade deve ser feito no outro para mantê-la verdadeira.</p>
@@ -3552,7 +3552,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Introdução à potenciação como uma multiplicação de fatores iguais.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📦 Visualização Geométrica:</p>
             <p class="text-gray-700 dark:text-gray-300">Associação visual com <strong>quadrados perfeitos (x²)</strong> e <strong>cubos perfeitos (x³)</strong> para facilitar a compreensão.</p>
@@ -3597,7 +3597,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Classificação geral e diferenciação dos sólidos em dois grandes grupos.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📐 Diferenciação:</p>
             <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
@@ -3614,7 +3614,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Estudo detalhado dos poliedros, incluindo a contagem de faces, vértices e arestas.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔍 Como identificar:</p>
             <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
@@ -3631,7 +3631,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Identificação e caracterização do <strong>cilindro</strong>, do <strong>cone</strong> e da <strong>esfera</strong>.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🌍 No Cotidiano:</p>
             <p class="text-gray-700 dark:text-gray-300">Análise de suas superfícies (planas e curvas) e observação de objetos do dia a dia que possuem essas formas.</p>
@@ -3685,7 +3685,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Definição de números primos (possuem apenas dois divisores: 1 e ele mesmo) e números compostos.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🕵️ Caça aos Primos:</p>
             <p class="text-gray-700 dark:text-gray-300">Introdução ao <strong>Crivo de Eratóstenes</strong>, um método antigo para encontrar números primos.</p>
@@ -3700,7 +3700,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Apresentação intuitiva dos conceitos primitivos da geometria.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📍 Definições Básicas:</p>
             <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
@@ -3718,7 +3718,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Definição de ângulo como região do plano limitada por duas semirretas de mesma origem e como <strong>medida de giro</strong>.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📐 Classificação:</p>
             <p class="text-gray-700 dark:text-gray-300">Uso do transferidor para classificar em: <strong>Agudo, Reto, Obtuso e Raso</strong>.</p>
@@ -3732,9 +3732,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Estudo da posição relativa entre retas no plano.
         </p>
-        
 
-[Image of parallel and perpendicular lines]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🛣️ Tipos:</p>
@@ -3766,9 +3766,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Figuras planas fechadas formadas apenas por segmentos de reta que não se cruzam.
         </p>
-        
 
-[Image of various polygons]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔷 Classificação:</p>
@@ -3783,9 +3783,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Introdução ao sistema de coordenadas. Aprendemos a localizar pontos e identificar eixos e quadrantes.
         </p>
-        
 
-[Image of cartesian plane with points]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🗺️ GPS Matemático:</p>
@@ -3800,7 +3800,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Uso de malhas quadriculadas para desenhar figuras em tamanhos diferentes.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔍 O que muda?</p>
             <p class="text-gray-700 dark:text-gray-300">Observamos a <strong>conservação da forma e dos ângulos</strong>, enquanto as medidas dos lados sofrem alteração proporcional.</p>
@@ -3815,9 +3815,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Leitura, representação gráfica e identificação de <strong>numerador</strong> e <strong>denominador</strong>.
         </p>
-        
 
-[Image of pizza fraction examples]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🍕 Significados:</p>
@@ -3954,7 +3954,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Resolução de problemas contextualizados que exigem múltiplas etapas e interpretação de dados.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🌍 Aplicações:</p>
             <p class="text-gray-700 dark:text-gray-300">Leitura de contas de luz, extratos bancários, receitas culinárias e medidas de precisão.</p>
@@ -4008,7 +4008,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Conceito de área como a medida de uma <strong>superfície</strong>.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📐 O Metro Quadrado:</p>
             <p class="text-gray-700 dark:text-gray-300">Introdução ao m² e cálculo de área de retângulos/quadrados multiplicando suas dimensões (Base × Altura).</p>
@@ -4022,9 +4022,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Aplicação prática dos conceitos de área e perímetro na interpretação de plantas de casas e mapas.
         </p>
-        
 
-[Image of house floor plan]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🏠 Não confunda:</p>
@@ -4053,7 +4053,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Noção de volume como o <strong>espaço ocupado</strong> por um corpo tridimensional.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🧊 Cubinhos:</p>
             <p class="text-gray-700 dark:text-gray-300">Introdução intuitiva através da contagem de cubinhos empilhados (unidades cúbicas).</p>
@@ -4094,7 +4094,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Introdução ao estudo da chance e do risco.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🎲 Aleatório vs Determinado:</p>
             <p class="text-gray-700 dark:text-gray-300">Cálculo simples de probabilidade em situações equiprováveis (ex: cara ou coroa, lançamento de dados).</p>
@@ -4108,9 +4108,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             As etapas de uma pesquisa: coleta, organização e interpretação de dados.
         </p>
-        
 
-[Image of bar chart and pie chart]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📊 Gráficos:</p>
@@ -4130,9 +4130,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Ampliação do conjunto dos números naturais. Agora incluímos os negativos para representar situações como temperaturas abaixo de zero e saldos devedores.
         </p>
-        
 
-[Image of integer number line with negative and positive numbers]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📏 Conceitos Chave:</p>
@@ -4180,9 +4180,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Diferente da soma, aqui olhamos apenas para a combinação dos sinais.
         </p>
-        
 
-[Image of multiplication sign rules chart]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🧠 Memorize:</p>
@@ -4214,9 +4214,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Definição: todo número que pode ser escrito como fração. Isso inclui inteiros, decimais exatos e dízimas periódicas, agora também negativos.
         </p>
-        
 
-[Image of venn diagram real numbers sets]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🗺️ Na Reta:</p>
@@ -4245,7 +4245,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Introdução ao uso de letras (variáveis) para representar números desconhecidos ou generalizar padrões.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔡 Valor Numérico:</p>
             <p class="text-gray-700 dark:text-gray-300">É o resultado quando trocamos a letra por um número específico e fazemos a conta.</p>
@@ -4259,7 +4259,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             O conceito de igualdade como uma balança equilibrada. O objetivo é isolar a incógnita.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⚖️ Princípio de Equivalência:</p>
             <p class="text-gray-700 dark:text-gray-300">Tudo que você faz de um lado da igualdade (somar, dividir, multiplicar), deve fazer do outro para manter o equilíbrio.</p>
@@ -4292,7 +4292,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Estudo de sentenças expressas por desigualdades (>, <, ≥, ≤). A resposta não é só um número, mas um conjunto de soluções.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⚠️ Perigo:</p>
             <p class="text-gray-700 dark:text-gray-300">Ao multiplicar ou dividir a inequação por um número <strong>negativo</strong>, o sinal da desigualdade inverte (o ">" vira "<").</p>
@@ -4320,9 +4320,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Análise da dependência entre grandezas.
         </p>
-        
 
-[Image of direct vs inverse proportion graphs]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔍 O Teste:</p>
@@ -4367,7 +4367,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Estudo de complementares, suplementares e Opostos pelo Vértice (OPV). Foco especial em retas paralelas cortadas por uma transversal.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">👀 Regra do Z:</p>
             <p class="text-gray-700 dark:text-gray-300">Em paralelas, os ângulos alternos (que formam um "Z") são congruentes (iguais).</p>
@@ -4381,9 +4381,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             A figura mais rígida da geometria. Classificação quanto aos lados (equilátero, isósceles, escaleno) e ângulos.
         </p>
-        
 
-[Image of triangle classification types]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📐 Lei Universal:</p>
@@ -4399,7 +4399,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Estudo dos polígonos regulares (lados e ângulos iguais).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⬡ Soma dos Ângulos:</p>
             <p class="text-gray-700 dark:text-gray-300">Podemos calcular a soma dos ângulos internos dividindo o polígono em triângulos: <strong>S = (n-2) × 180º</strong>.</p>
@@ -4413,7 +4413,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Movendo figuras sem deformá-las.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔄 Os 3 Movimentos:</p>
             <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
@@ -4432,9 +4432,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Conceito de volume como medida do espaço ocupado. Unidades de medida cúbicas (m³, cm³).
         </p>
-        
 
-[Image of calculating volume of rectangular prism]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📦 Fórmula Básica:</p>
@@ -4463,9 +4463,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Resumindo um monte de dados em um único número representativo.
         </p>
-        
 
-[Image of mean median mode comparison]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📊 O Trio:</p>
@@ -4484,9 +4484,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Interpretação visual de dados (setores/pizza) e cálculo de riscos.
         </p>
-        
 
-[Image of pie chart with percentages]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🎲 Probabilidade:</p>
@@ -4506,7 +4506,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Aprofundamos a relação entre Naturais (N), Inteiros (Z) e Racionais (Q). O foco é transformar <strong>dízimas periódicas</strong> em frações geratrizes e localizar esses números na reta.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">💡 Lembre-se:</p>
             <p class="text-gray-700 dark:text-gray-300">Todo número que pode ser escrito como fração (mesmo que infinito e periódico) é Racional.</p>
@@ -4520,9 +4520,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Exploramos expoentes inteiros (incluindo negativos, que invertem a base) e a <strong>Notação Científica</strong> para lidar com números astronômicos ou microscópicos.
         </p>
-        
 
-[Image of scientific notation examples]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🚀 Aplicação:</p>
@@ -4537,7 +4537,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Cálculo de raízes exatas e técnicas de aproximação para raízes não exatas.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🧊 Geometria:</p>
             <p class="text-gray-700 dark:text-gray-300">Identificamos <strong>Quadrados Perfeitos</strong> (áreas de quadrados) e <strong>Cubos Perfeitos</strong> (volumes de cubos).</p>
@@ -4565,7 +4565,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Definições fundamentais: População (todos) vs Amostra (parte).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📊 Tipos de Variáveis:</p>
             <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
@@ -4582,7 +4582,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Interpretação e construção de gráficos: barras, linhas, setores (pizza) e histogramas.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🎯 Escolha Certa:</p>
             <p class="text-gray-700 dark:text-gray-300">Aprender qual gráfico é o "mais honesto" e adequado para cada tipo de variável apresentada.</p>
@@ -4613,9 +4613,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Técnica para resolver problemas de contagem multiplicando as opções de escolha em cada etapa.
         </p>
-        
 
-[Image of probability tree diagram]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🧠 Lógica pura:</p>
@@ -4630,7 +4630,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Estudo de eventos simples e compostos. Introdução à noção frequentista através de experimentos.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🎲 A Fórmula:</p>
             <p class="text-gray-700 dark:text-gray-300">Probabilidade = (Resultados Favoráveis) / (Total de Possibilidades).</p>
@@ -4645,7 +4645,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Cálculo de área de polígonos (triângulos, quadriláteros) e aprofundamento no círculo.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">pizza🍕 Círculo:</p>
             <p class="text-gray-700 dark:text-gray-300">Além da área total (πr²), aprendemos a calcular "fatias" (setor circular) e "bordas" (coroa circular).</p>
@@ -4659,9 +4659,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Cálculo do volume de prismas retos e cilindros.
         </p>
-        
 
-[Image of volume of cylinder and prism]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🚰 Conversão:</p>
@@ -4717,7 +4717,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Técnicas manuais para desenhar retas paralelas, perpendiculares e transportar ângulos com precisão.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📏 Instrumentos:</p>
             <p class="text-gray-700 dark:text-gray-300">Uso coordenado de régua, esquadro, transferidor e compasso.</p>
@@ -4731,9 +4731,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Conjuntos de pontos que satisfazem uma "lei" ou propriedade comum.
         </p>
-        
 
-[Image of perpendicular bisector and angle bisector]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📍 Exemplos:</p>
@@ -4766,7 +4766,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Estudo rigoroso dos casos de congruência (LAL, LLL, ALA).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📍 Pontos Notáveis:</p>
             <p class="text-gray-700 dark:text-gray-300">Baricentro (gravidade), Incentro, Circuncentro e Ortocentro. O "BICO" do triângulo.</p>
@@ -4780,7 +4780,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Propriedades específicas dos paralelogramos e trapézios.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🟦 Herança:</p>
             <p class="text-gray-700 dark:text-gray-300">Entendemos a hierarquia: Todo quadrado é um retângulo e também um losango, mas o inverso não é verdadeiro.</p>
@@ -4795,7 +4795,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Introdução ao sistema linear. A solução não é um número, mas um <strong>par ordenado (x, y)</strong>.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📈 Visão Gráfica:</p>
             <p class="text-gray-700 dark:text-gray-300">Cada equação é uma reta. A solução do sistema é exatamente o ponto onde as duas retas se cruzam.</p>
@@ -4826,7 +4826,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Revisão de isometrias (reflexão, translação, rotação) e introdução à <strong>Homotetia</strong>.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔍 Zoom:</p>
             <p class="text-gray-700 dark:text-gray-300">A homotetia trata de ampliação e redução, analisando a conservação dos ângulos mesmo quando o tamanho muda.</p>
@@ -4858,7 +4858,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Revisão dos números que podem ser escritos como fração. Focamos na técnica para transformar <strong>dízimas periódicas</strong> em frações geratrizes.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔍 Densidade:</p>
             <p class="text-gray-700 dark:text-gray-300">Entre dois números racionais, sempre existe outro racional. A reta é densa, mas ainda tem "buracos".</p>
@@ -4872,7 +4872,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Os números com representação decimal <strong>infinita e não periódica</strong>. Eles não podem virar fração.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">π As Celebridades:</p>
             <p class="text-gray-700 dark:text-gray-300">O Pi (π) e as raízes não exatas (como √2 e √3) são os exemplos fundamentais.</p>
@@ -4886,9 +4886,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             A união completa: Racionais + Irracionais. Agora, cada ponto da reta numérica corresponde a um único número real.
         </p>
-        
 
-[Image of real number system venn diagram]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🤝 Completude:</p>
@@ -4930,9 +4930,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Atalhos para multiplicação algébrica: Quadrado da soma, da diferença e produto da soma pela diferença.
         </p>
-        
 
-[Image of geometric proof of (a+b)^2]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🟥 Geometria:</p>
@@ -4965,7 +4965,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Definição da forma $ax^2 + bx + c = 0$. Resolução pela lendária <strong>Fórmula de Bhaskara</strong>.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⚠️ O Delta (Δ):</p>
             <p class="text-gray-700 dark:text-gray-300">O discriminante nos diz quantas soluções reais existem:
@@ -4994,7 +4994,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             A proporcionalidade entre segmentos determinados por um feixe de retas paralelas cortadas por transversais.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📏 A Regra:</p>
             <p class="text-gray-700 dark:text-gray-300">"O está para O, assim como O está para O". A montagem correta das frações é o segredo.</p>
@@ -5008,9 +5008,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Aplicação do Teorema da Bissetriz Interna e análise de segmentos proporcionais em triângulos.
         </p>
-        
 
-[Image of angle bisector theorem triangle]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">✂️ Divisão:</p>
@@ -5025,9 +5025,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Diferenciação crítica entre Juros Simples (crescimento linear) e Compostos (crescimento exponencial).
         </p>
-        
 
-[Image of simple vs compound interest graph]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📈 Bola de Neve:</p>
@@ -5056,7 +5056,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Como representar o 3D no papel 2D. Interpretação de vistas frontal, lateral e superior.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🏗️ Engenharia:</p>
             <p class="text-gray-700 dark:text-gray-300">Essencial para leitura de projetos arquitetônicos e peças mecânicas.</p>
@@ -5071,9 +5071,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Análise de histogramas e polígonos de frequência. Introdução a medidas de dispersão (o quão "espalhados" estão os dados).
         </p>
-        
 
-[Image of histogram vs bar chart]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📊 Amplitude:</p>
@@ -5124,7 +5124,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             A relação mais famosa da matemática: $a^2 = b^2 + c^2$.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🟥 Visualização:</p>
             <p class="text-gray-700 dark:text-gray-300">A área do quadrado construído sobre a hipotenusa é igual à soma das áreas dos quadrados sobre os catetos.</p>
@@ -5138,7 +5138,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Além de Pitágoras, existem outras relações envolvendo a altura e as projeções dos catetos.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📏 Fórmulas:</p>
             <p class="text-gray-700 dark:text-gray-300">$h^2 = m \\cdot n$ (altura ao quadrado = produto das projeções).<br>$b^2 = a \\cdot m$ (cateto ao quadrado = hipotenusa vezes sua projeção).</p>
@@ -5166,7 +5166,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Formalização da relação de dependência entre duas variáveis. Notação $f(x)$.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🏭 A Máquina:</p>
             <p class="text-gray-700 dark:text-gray-300">Imagine uma máquina onde entra um número (Domínio), ocorre um processamento (Lei) e sai outro número (Imagem).</p>
@@ -5193,7 +5193,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             A função $y = ax^2 + bx + c$. Seu gráfico é uma curva chamada <strong>Parábola</strong>.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🙂 ou ☹️:</p>
             <p class="text-gray-700 dark:text-gray-300">Se $a > 0$, concavidade para cima (sorriso). Se $a < 0$, concavidade para baixo (tristeza).</p>
@@ -5217,7 +5217,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Além de prismas e cilindros, avançamos para pirâmides, cones e esferas.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⅓ Regra do 1/3:</p>
             <p class="text-gray-700 dark:text-gray-300">O volume do cone e da pirâmide é sempre <strong>um terço</strong> do volume do prisma/cilindro correspondente.</p>
@@ -5241,7 +5241,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Distinção essencial: Circunferência é a linha (borda), Círculo é a região (recheio).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⭕ Elementos:</p>
             <p class="text-gray-700 dark:text-gray-300">Raio, diâmetro (2x raio), corda (liga dois pontos), arco e flecha.</p>
@@ -5268,7 +5268,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Estudo do ângulo central e do ângulo inscrito.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">👁️ Relação 2x:</p>
             <p class="text-gray-700 dark:text-gray-300">O ângulo central é sempre o <strong>dobro</strong> do ângulo inscrito que "enxerga" o mesmo arco.</p>
@@ -5291,7 +5291,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Revisão da linguagem de conjuntos e operações (união $\\cup$, interseção $\\cap$, diferença $-$). O foco crucial está nos <strong>intervalos reais</strong>.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🛑 Intervalos:</p>
             <p class="text-gray-700 dark:text-gray-300">Bolinha fechada $[a, b]$ inclui o número. Bolinha aberta $(a, b)$ exclui o número. Isso define o domínio das funções.</p>
@@ -5305,9 +5305,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Formalização da relação entre grandezas. Definição rigorosa de Domínio (entrada), Contradomínio (possíveis saídas) e Imagem (saídas reais).
         </p>
-        
 
-[Image of function mapping diagram domain range]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔍 Teste da Reta Vertical:</p>
@@ -5322,7 +5322,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             A função polinomial $f(x) = ax + b$. Seu gráfico é sempre uma <strong>reta</strong>.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📈 Coeficientes:</p>
             <ul class="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
@@ -5339,7 +5339,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Funções que mudam de comportamento dependendo do intervalo. Introdução à <strong>Função Modular</strong> ($|x|$).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📐 Formato em V:</p>
             <p class="text-gray-700 dark:text-gray-300">A função modular básica $f(x) = |x|$ reflete a parte negativa para cima, criando um gráfico em forma de "V".</p>
@@ -5354,7 +5354,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             A função $f(x) = ax^2 + bx + c$. O gráfico é uma curva chamada <strong>Parábola</strong>.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🙂 Concavidade:</p>
             <p class="text-gray-700 dark:text-gray-300">Quem manda é o "a":<br>Se $a > 0$, concavidade para cima.<br>Se $a < 0$, concavidade para baixo.</p>
@@ -5368,7 +5368,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Cálculo dos pontos críticos: Raízes (onde corta X) e Vértice (ponto de máximo ou mínimo).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⛰️ O Vértice:</p>
             <p class="text-gray-700 dark:text-gray-300">As coordenadas do vértice são fundamentais para problemas de otimização (ex: lucro máximo). $X_v = -b/2a$.</p>
@@ -5396,9 +5396,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             A função $f(x) = a^x$. Crescimento ou decaimento muito rápido.
         </p>
-        
 
-[Image of exponential growth and decay graph]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🦠 Aplicações:</p>
@@ -5414,7 +5414,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             A operação inversa da exponenciação. "A base elevada a quanto dá o logaritmando?"
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔄 Ciclo:</p>
             <p class="text-gray-700 dark:text-gray-300">$\log_a b = x \iff a^x = b$.<br>Condição: $a > 0, a \neq 1$ e $b > 0$.</p>
@@ -5428,9 +5428,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Estudo da função $f(x) = \log_a(x)$. Análise gráfica e aplicações.
         </p>
-        
 
-[Image of logarithmic function graph vs exponential]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🪞 Simetria:</p>
@@ -5446,9 +5446,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Identificação de padrões matemáticos e generalização através do <strong>Termo Geral</strong> ($a_n$).
         </p>
-        
 
-[Image of fibonacci sequence pattern]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🔢 Padrões:</p>
@@ -5476,7 +5476,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Sequência onde cada termo é o anterior <strong>multiplicado</strong> por uma constante (razão $q$).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">♾️ Soma Infinita:</p>
             <p class="text-gray-700 dark:text-gray-300">Se $-1 < q < 1$, a soma infinita converge para um valor fixo. Essencial para entender fractais.</p>
@@ -5495,7 +5495,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Revisão e aprofundamento do cálculo de áreas. O foco é a estratégia de <strong>decomposição</strong>: dividir figuras complexas em formas simples (triângulos, retângulos) para somar as áreas.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🧩 Dividir para Conquistar:</p>
             <p class="text-gray-700 dark:text-gray-300">Qualquer polígono pode ser "fatiado" em triângulos. É a base para entender a fórmula da área de polígonos regulares.</p>
@@ -5509,7 +5509,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Estudo da pavimentação (cobrir o plano sem falhas ou sobreposições).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🎨 Arte e Matemática:</p>
             <p class="text-gray-700 dark:text-gray-300">Para ladrilhar com um único tipo de polígono regular, a soma dos ângulos no vértice deve ser <strong>360º</strong> (ex: hexágonos das abelhas).</p>
@@ -5524,7 +5524,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Saímos do papel (2D) para o espaço (3D). Conceitos de Ponto, Reta e Plano.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⚠️ Novidade: Retas Reversas:</p>
             <p class="text-gray-700 dark:text-gray-300">No espaço, duas retas podem não se cruzar e NÃO serem paralelas. Elas estão em planos diferentes (como um viaduto passando sobre uma rua).</p>
@@ -5538,7 +5538,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Sólidos com duas bases paralelas e iguais ("teto e chão").
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🥞 Princípio de Cavalieri:</p>
             <p class="text-gray-700 dark:text-gray-300">Se duas pilhas de moedas têm a mesma altura e a mesma área de base, elas têm o mesmo volume, mesmo se uma pilha estiver torta.</p>
@@ -5552,7 +5552,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Sólidos que convergem para um único vértice (Pirâmides e Cones).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">⅓ A Regra do 1/3:</p>
             <p class="text-gray-700 dark:text-gray-300">O volume de uma pirâmide (ou cone) é exatamente <strong>um terço</strong> do volume de um prisma (ou cilindro) com mesma base e altura.</p>
@@ -5566,7 +5566,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Cálculo de área e volume da esfera e o desafio de representar a Terra curva em um mapa plano (projeções).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🍊 Descascando a Laranja:</p>
             <p class="text-gray-700 dark:text-gray-300">É impossível planificar uma esfera sem distorções. As projeções (Cilíndrica, Cônica) são tentativas matemáticas de minimizar isso.</p>
@@ -5594,9 +5594,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Definição de Seno, Cosseno e Tangente. Resolução de problemas de alturas inacessíveis.
         </p>
-        
 
-[Image of sohcahtoa right triangle]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📐 SOH CAH TOA:</p>
@@ -5615,7 +5615,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Expandindo a trigonometria para além de 90º. Introdução aos <strong>Radianos</strong> e arcos côngruos.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">π Radianos:</p>
             <p class="text-gray-700 dark:text-gray-300">A conversão chave: <strong>180º = π rad</strong>. O ciclo tem raio 1, facilitando os cálculos.</p>
@@ -5629,9 +5629,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Análise dos gráficos (senoides) que modelam fenômenos periódicos (ondas, som, marés).
         </p>
-        
 
-[Image of sine and cosine wave graphs]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🌊 Ondas:</p>
@@ -5647,7 +5647,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Organização de dados em tabelas. Operações de soma e produto. O Determinante como um número associado à matriz quadrada.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">✖️ Produto:</p>
             <p class="text-gray-700 dark:text-gray-300">Multiplicação de matrizes segue a regra: <strong>Linha por Coluna</strong>. Não é apenas multiplicar termo a termo!</p>
@@ -5679,7 +5679,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             A fusão da Álgebra com a Geometria. Estudamos as formas geométricas através de equações e coordenadas.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📍 Distância:</p>
             <p class="text-gray-700 dark:text-gray-300">A fórmula da distância entre dois pontos nada mais é do que o <strong>Teorema de Pitágoras</strong> aplicado no gráfico: $d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.</p>
@@ -5693,7 +5693,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Como mover figuras no plano cartesiano usando matemática. Análise de isometrias (reflexão, translação, rotação).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🎮 Computação Gráfica:</p>
             <p class="text-gray-700 dark:text-gray-300">Multiplicar coordenadas por <strong>Matrizes</strong> é a base para rotacionar e redimensionar personagens em jogos 3D.</p>
@@ -5708,7 +5708,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Conceitos vitais: Inflação (perda de poder de compra) e Amortização (como pagar dívidas longas).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🏠 SAC vs Price:</p>
             <p class="text-gray-700 dark:text-gray-300">No financiamento da casa (SAC), as parcelas diminuem. No carro (Price), as parcelas costumam ser fixas.</p>
@@ -5736,9 +5736,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Técnicas avançadas de contagem: Permutação, Arranjo e Combinação.
         </p>
-        
 
-[Image of combination vs permutation formula]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🤔 O Grande Dilema:</p>
@@ -5753,7 +5753,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Cálculo de chances em cenários complexos. Probabilidade da união, intersecção e a Distribuição Binomial.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🎲 Dado que...</p>
             <p class="text-gray-700 dark:text-gray-300">Na probabilidade condicional, o nosso "universo" (espaço amostral) diminui baseada em uma informação prévia.</p>
@@ -5768,7 +5768,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Interpretação crítica de dados. Construção de histogramas e do poderoso <strong>Boxplot</strong>.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">📦 Boxplot:</p>
             <p class="text-gray-700 dark:text-gray-300">Um gráfico que mostra onde está a maioria dos dados e identifica os <em>outliers</em> (pontos fora da curva).</p>
@@ -5782,9 +5782,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Além da média, analisamos a variabilidade através da <strong>Variância</strong> e do <strong>Desvio Padrão</strong>.
         </p>
-        
 
-[Image of standard deviation bell curve]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🎯 Confiabilidade:</p>
@@ -5800,7 +5800,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             Do Ábaco aos Supercomputadores. Personagens como Ada Lovelace (a primeira programadora) e Alan Turing.
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🕰️ Evolução:</p>
             <p class="text-gray-700 dark:text-gray-300">Entender que o computador é uma máquina de processar lógica, não apenas eletrônica.</p>
@@ -5814,9 +5814,9 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             O passo a passo para resolver problemas. Representação gráfica através de <strong>Fluxogramas</strong>.
         </p>
-        
 
-[Image of flowchart symbols logic]
+
+
 
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">🍔 A Receita:</p>
@@ -5831,7 +5831,7 @@ window.registrarTeoria({
         <p class="text-lg leading-relaxed text-gray-600 dark:text-gray-300">
             A base do código: Variáveis, Condicionais (SE/ENTÃO) e Loops (Repetição).
         </p>
-        
+
         <div class="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue">
             <p class="font-bold text-brand-blue dark:text-blue-300">0101 Binário:</p>
             <p class="text-gray-700 dark:text-gray-300">Introdução à lógica binária, a linguagem fundamental de zeros e uns que as máquinas entendem.</p>

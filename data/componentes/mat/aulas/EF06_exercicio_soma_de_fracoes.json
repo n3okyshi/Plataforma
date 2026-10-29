@@ -1,0 +1,41 @@
+{
+  "id": "mat.ef06.fracoes_e_porcentagem.exercicio_soma_de_fracoes",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 2,
+  "unidade": "Frações e Porcentagem",
+  "titulo": "Exercício de Adição de Frações",
+  "bncc": [
+    "EF06MA10"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n        <h2>Hora de Praticar</h2>\n        <p>Resolva os exercícios abaixo. As respostas estão no final da página.</p>\n        <div class=\"my-6 p-4 bg-white border rounded-xl shadow-sm\">\n            <p class=\"font-bold\">Questão 1:</p>\n            <p>Calcule o valor de: $$ \\frac{2}{3} + \\frac{1}{5} $$</p>\n            \n            <details class=\"mt-4 cursor-pointer\">\n                <summary class=\"text-blue-500 font-bold\">Ver Resposta</summary>\n                <p class=\"mt-2 text-green-600 font-bold\">Resposta: 13/15</p>\n            </details>\n        </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip",
+    "idOrigem": "ast.ef01.primeiros_passos.lista_de_exercicios_1",
+    "realocacao": "Exercício de frações, antes atribuído a Astronomia/EF01."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.humanidade_e_ambiente.destruicao_de_habitat",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 53,
+  "unidade": "Humanidade e ambiente",
+  "titulo": "Destruição de hábitat",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-red mb-4\">Destruição de hábitat</h2>\n            <p class=\"mb-4\">\n                Como você estudou nesta unidade, o hábitat é o ambiente físico onde determinada espécie vive. A destruição dos hábitats impossibilita a sobrevivência das espécies.\n            </p>\n            \n            \n\n            <p class=\"mb-4\">\n                Essa destruição decorre principalmente de atividades humanas, como a poluição ou a contaminação dos ambientes, o desmatamento, as queimadas, a expansão de áreas urbanas, a pecuária e a agropecuária. A principal consequência é a <b>extinção de espécies</b> e a perda de biodiversidade.\n            </p>\n        </section>\n\n        <section class=\"bg-gray-100 dark:bg-gray-800 p-6 rounded-3xl border-l-8 border-gray-400 my-6 text-xs italic\">\n            <p><b>mitigadas:</b> abrandadas, suavizadas, menos intensas.</p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-red text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

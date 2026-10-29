@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.materia_e_energia_nos_ecossistemas.ciclos_biogeoquimicos",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 30,
+  "unidade": "Matéria e energia nos ecossistemas",
+  "titulo": "Ciclos biogeoquímicos",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">CAPÍTULO 4 - Matéria e energia nos ecossistemas</h2>\n            <p class=\"mb-4 text-lg italic\">\n                Considere a fotografia. Essa atividade faz parte de um conjunto de processos que contribuem para a circulação da matéria e da energia no meio ambiente. \n            </p>\n            <p class=\"mb-4\">\n                Matéria é tudo aquilo que ocupa espaço, tem massa e é constituído de átomos. Os átomos formam os elementos químicos, que se combinam para formar moléculas, que podem formar substâncias. Muitas dessas substâncias estão em constante circulação na natureza, assim como a energia. \n            </p>\n            <p class=\"mb-4 font-bold\">\n                Você sabe como ocorre a circulação da matéria e da energia e qual é a importância desses fenômenos?\n            </p>\n            <p class=\"mb-4\">\n                Neste capítulo, entenderemos como os processos de circulação acontecem e de que maneira a ação humana pode interferir nesse equilíbrio essencial.\n            </p>\n        </section>\n\n        <section class=\"border-t-2 border-gray-100 dark:border-gray-800 pt-8\">\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Ciclos biogeoquímicos</h2>\n            <p class=\"mb-4\">\n                Se tudo que tocamos é feito de matéria, isso quer dizer que nosso corpo também faz parte da matéria encontrada no ambiente. E, por isso, por meio de processos como a respiração, também fazemos parte dos processos de transferência de matéria que ocorrem nos denominados <b>ciclos biogeoquímicos</b>.\n            </p>\n            <p class=\"mb-4 text-sm\">\n                Esses ciclos são assim chamados por envolverem os componentes <b>bióticos</b> — relacionados com os seres vivos (bio) — e os <b>abióticos</b> (geo e químico), representados por fatores como o solo, a água e a atmosfera.\n            </p>\n        </section>\n\n        <section class=\"bg-brand-green/10 p-6 rounded-3xl border-2 border-brand-green/20 my-6\">\n            <p class=\"mb-2\">\n                A <b>matéria orgânica</b> tem origem biológica, já que é formada por substâncias que contêm carbono e são produzidas por seres vivos, como proteínas e carboidratos. \n            </p>\n            <p>\n                Já a <b>matéria inorgânica</b> é composta de substâncias sem cadeias de carbono, como minerais, que são tipicamente encontrados no ambiente abiótico.\n            </p>\n        </section>\n\n        <section class=\"my-8\">\n            <div class=\"glass-panel p-4 rounded-3xl border-2 border-brand-blue/30 shadow-inner bg-white\">\n                \n                <p class=\"text-[10px] text-center mt-2 text-gray-500 uppercase font-black tracking-widest\">Representação esquemática do modelo geral do ciclo de nutrientes</p>\n            </div>\n        </section>\n\n        <section>\n            <p class=\"mb-4 font-semibold text-brand-blue\">\n                A seguir, você vai conhecer os ciclos biogeoquímicos essenciais para os seres vivos: o ciclo da água, o do carbono, o do nitrogênio e o do fósforo.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Introdução <i class=\"fas fa-arrow-right ml-2\"></i>\n            </button>\n        </div>\n    </div>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

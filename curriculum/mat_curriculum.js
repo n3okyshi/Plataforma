@@ -1,7 +1,4 @@
-/** GERADO por tools/gerar.js — NÃO EDITAR. hash: 390e31b7d6b83673cc124d1bf318124207933037b3185557a37ca6767b65d4a8 */
-'use strict';
-
-// Currículo de Matemática — gerado a partir de data/componentes (R14/R17).
+/** Currículo por códigos de nível; aulas em planejamento ficam em data/componentes. */
 registrarCurriculo("Matemática", {
   "EF01": {
     "Vocabulário Fundamental": [

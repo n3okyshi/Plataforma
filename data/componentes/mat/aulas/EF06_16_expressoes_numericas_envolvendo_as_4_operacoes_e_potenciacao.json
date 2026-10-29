@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 16,
+  "unidade": "Operações com números naturais",
+  "titulo": "Expressões Numéricas envolvendo as 4 operações e Potenciação",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Expressões Numéricas</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: aplicar prioridade das operações (parênteses, expoentes, multiplicação/divisão, adição/subtração) para calcular expressões corretamente.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Lembre: primeiro resolvemos parênteses, depois expoentes, depois multiplicação/divisão (esquerda→direita), finalmente adição/subtração.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Resolva</label>\n  <p>Calcule: 2 + 3 × (4 + 1) − 2²</p>\n  <input id=\"atividade-expr-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

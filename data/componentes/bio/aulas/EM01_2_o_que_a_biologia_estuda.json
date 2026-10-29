@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ciencia_da_vida.o_que_a_biologia_estuda",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 2,
+  "unidade": "Introdução à ciência da vida",
+  "titulo": "O que a Biologia estuda?",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">O que a Biologia estuda?</h2>\n            <p class=\"mb-4\">\n                Se, no início, limitava-se a descrever e classificar os seres vivos, atualmente a Biologia vai muito além. Essa ciência investiga fenômenos relacionados aos seres vivos e busca soluções para diferentes problemas.\n            </p>\n            <p class=\"mb-4\">\n                Além disso, à medida que a tecnologia avança, são desenvolvidos instrumentos de observação mais eficientes. Com isso, tem sido possível observar estruturas cada vez menores ou que estão mais distantes, aumentando as possibilidades de estudo e os conhecimentos relacionados à vida. \n            </p>\n            <p class=\"mb-4\">\n                Por exemplo: o desenvolvimento de microscópios permitiu a observação e identificação dos microrganismos, das células e de suas estruturas, e isso possibilitou novos campos de estudo dentro da Biologia. \n            </p>\n            <p class=\"mb-4\">\n                Atualmente, os conhecimentos em Biologia são essenciais, por exemplo, para o desenvolvimento de medicamentos e vacinas, a recuperação de áreas degradadas, o entendimento dos efeitos das mudanças climáticas, a produção de alimentos e a preservação da biodiversidade. \n            </p>\n            <p class=\"mb-4\">\n                Com a expansão dessa ciência, várias subáreas foram criadas, cada uma especializada em um tipo de estudo específico. Observe nas imagens desta página alguns exemplos de subáreas da Biologia e o que cada uma delas estuda. \n            </p>\n            <p class=\"mb-4\">\n                Em todas elas, é preciso compreender que, como em todas as ciências, o conhecimento é construído coletivamente a partir de pesquisas de cientistas em todo o mundo, que desenvolvem estudos e compartilham seus resultados.\n            </p>\n        </section>\n\n        <section class=\"bg-brand-green/10 p-6 rounded-3xl border-2 border-dashed border-brand-green my-8\">\n            <h4 class=\"font-black text-brand-green mb-2 uppercase text-sm flex items-center gap-2\">\n                <i class=\"fas fa-lightbulb\"></i> É sobre isso...\n            </h4>\n            <p class=\"text-sm italic text-gray-700 dark:text-gray-300\">\n                Os conhecimentos de Biologia fazem parte de nossa vida. Converse com os colegas e o professor sobre essa afirmação. Identifiquem onde os conhecimentos de Biologia estão inseridos em nosso cotidiano e debatam sobre como o trabalho do biólogo pode impactar na vida de cada indivíduo.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

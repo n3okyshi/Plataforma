@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.pensamento_cientifico.anticientificismo_pseudociencia_e_fake_news",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 10,
+  "unidade": "Pensamento científico",
+  "titulo": "Anticientificismo, pseudociência e fake news",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Anticientificismo, pseudociência e fake news</h2>\n            <p class=\"mb-4\">\n                Atualmente, as diferentes mídias nos possibilitam o acesso a várias informações relacionadas a ciência e seus impactos em nossa vida. No entanto, é preciso ter cuidado com a fonte dessas informações. Estudar a ciência se mostra importante também para conseguirmos separar o que é verdadeiro do que não é. \n            </p>\n            <p class=\"mb-4\">\n                <b>Fake news</b> é um termo em inglês que se popularizou em todo o mundo e que significa “notícia falsa” ou “notícias falsas”. As fake news são transmitidas ou publicadas como notícias comuns e verdadeiras por diferentes meios de comunicação, mas principalmente pela internet. Frequentemente são motivadas por interesses políticos ou econômicos. O conjunto das notícias falsas forma um fenômeno chamado de <b>infodemia</b>, caracterizado pela multiplicação rápida e desordenada de fake news, dificultando o acesso a informações verdadeiras. Esse fenômeno contribui para a desinformação da população e, consequentemente, pode agravar alguns problemas.\n            </p>\n        </section>\n\n        <section class=\"bg-red-50 dark:bg-red-900/20 p-6 rounded-3xl border-l-8 border-red-500 my-6\">\n            <p class=\"text-sm italic\">\n                Um exemplo de grande destaque, ocorrido durante a pandemia de covid-19, foi a vasta circulação de fake news que levou algumas pessoas a não se vacinarem e a usarem medicamentos ineficientes para o combate da doença, pondo a vida delas em risco.\n            </p>\n        </section>\n\n        <section>\n            <p class=\"mb-4\">\n                As fake news alimentam o <b>anticientificismo</b> e são alimentadas por ele. O anticientificismo é definido como a atitude tendenciosa de pessoas que se recusam a aceitar a existência ou a validade de eventos históricos ou fatos científicos mesmo que existam evidências e argumentos que os comprovem. \n            </p>\n            \n            \n\n            <p class=\"mb-4\">\n                Outro fenômeno que também vai contra fatos cientificamente comprovados é a propagação das <b>pseudociências</b>. Uma ciência é considerada falsa quando uma informação é divulgada com a alegação mentirosa de se fundamentar em processos científicos. Uma pseudociência não segue os procedimentos científicos porque em geral não pode ser testada ou avaliada por outros cientistas e, por isso, é classificada como falsa ciência. \n            </p>\n            <p class=\"mb-4\">\n                Isso ocorre, por exemplo, com a astrologia, que nada tem a ver com a Astronomia, uma área de estudo cujos conceitos podem ser testados. A ciência é construída por meio de fatos, e não de opiniões, tem metodologias específicas e segue determinado rigor. As afirmações que são feitas com base na ciência e as tecnologias que são obtidas por meio dela são comprovadas por evidências. É por isso que, sempre que recebemos uma informação, é necessário buscar a fonte dela e refletir sobre os possíveis interesses que possam estar por trás dela.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700 text-center\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

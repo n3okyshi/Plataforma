@@ -1,0 +1,49 @@
+{
+  "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 52,
+  "unidade": "Probabilidade e pesquisa estatística",
+  "titulo": "Probabilidade",
+  "bncc": [
+    "EF06MA30"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Probabilidade e experimentos</h2><p>Em um experimento com resultados igualmente possíveis, a probabilidade de um evento é a razão entre o número de resultados favoráveis e o total de resultados possíveis.</p><p>Ao lançar um dado equilibrado de seis faces, o evento “sair número par” tem três resultados favoráveis (2, 4, 6). Sua probabilidade é 3/6 = 1/2 = 0,5 = 50%.</p><p>Em experimentos repetidos, a frequência relativa observada pode ser diferente da probabilidade calculada. Registre os resultados de 30 lançamentos e compare a proporção de números pares com 50%. Um resultado observado não garante o próximo lançamento.</p>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        307
+      ],
+      "paginasImpressas": "305",
+      "uso": "Delimitação da habilidade EF06MA30."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip",
+    "correcao": "Removida a abordagem inadequada de probabilidade condicional e distribuição binomial."
+  }
+}

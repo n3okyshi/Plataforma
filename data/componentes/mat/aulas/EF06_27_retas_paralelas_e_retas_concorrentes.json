@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 27,
+  "unidade": "Ângulos e polígonos",
+  "titulo": "Retas Paralelas e Retas Concorrentes",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Posições Relativas de Retas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo da posição relativa entre retas no plano.\n        </p>\n        \n\n\t\t\t\t\t\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛣️ Tipos:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Paralelas:</strong> Mantêm a mesma distância e não se cruzam.</li>\n                <li><strong>Concorrentes:</strong> Possuem um ponto em comum.</li>\n                <li><strong>Perpendiculares:</strong> Concorrentes que formam 90º.</li>\n            </ul>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

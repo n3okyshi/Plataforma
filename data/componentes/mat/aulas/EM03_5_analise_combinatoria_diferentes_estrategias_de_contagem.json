@@ -1,0 +1,37 @@
+{
+  "id": "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 5,
+  "unidade": "Análise Combinatória e Probabilidade",
+  "titulo": "Análise Combinatória - Diferentes Estratégias de Contagem",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Análise Combinatória</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Técnicas avançadas de contagem: Permutação, Arranjo e Combinação.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🤔 O Grande Dilema:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A ordem importa? <br><strong>Sim:</strong> Arranjo (Pódio, Senha). <br><strong>Não:</strong> Combinação (Grupo de estudo, Carta de baralho).</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

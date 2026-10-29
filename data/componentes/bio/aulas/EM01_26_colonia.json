@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ecologia.colonia",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 26,
+  "unidade": "Introdução à Ecologia",
+  "titulo": "Colônia",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">Colônia</h2>\n            <p class=\"mb-4\">\n                Em uma colônia, os indivíduos vivem unidos fisicamente e atuam em conjunto, como ocorre em colônias de fungos e bactérias. Nas colônias, os indivíduos são tão dependentes e especializados que se assemelham a um único organismo. \n            </p>\n            \n            <p class=\"mb-4\">\n                As <b>colônias homeomórficas</b> são formadas por organismos idênticos, já as <b>colônias heteromórficas</b> são formadas por indivíduos distintos entre si.\n            </p>\n\n            \n\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.humanidade_e_ambiente.projeto_bio2",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 50,
+  "unidade": "Humanidade e ambiente",
+  "titulo": "Projeto_bio2",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section class=\"bg-brand-blue/10 p-8 rounded-[2.5rem] border-2 border-brand-blue shadow-sm\">\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4 uppercase flex items-center gap-2\">\n                <i class=\"fas fa-users\"></i> #Hora de praticar\n            </h2>\n            <h3 class=\"text-lg font-bold mb-4\">Mudanças climáticas e as gerações futuras</h3>\n            <p class=\"text-sm mb-6\">\n                Vários jovens do Brasil e de diferentes países em todo o mundo estão engajados em buscar e cobrar soluções dos governantes. Este é o objetivo desta atividade! Fazer uma pesquisa sobre jovens que estão lutando pelo direito de viver em um planeta climaticamente equilibrado.\n            </p>\n\n            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6 text-sm\">\n                <div class=\"space-y-2\">\n                    <p class=\"font-black text-brand-blue uppercase text-xs\">Material</p>\n                    <ul class=\"list-disc list-inside text-xs\">\n                        <li>livros, computadores e smartphones</li>\n                        <li>acesso à internet</li>\n                        <li>caderno e caneta para anotações</li>\n                    </ul>\n                </div>\n                <div class=\"space-y-2\">\n                    <p class=\"font-black text-brand-blue uppercase text-xs\">Procedimentos</p>\n                    <ol class=\"list-decimal list-inside text-xs space-y-2\">\n                        <li>Formem quartetos para pesquisar jovens ativistas ambientais.</li>\n                        <li>Reúnam reportagens sobre sua história, origem e reivindicações.</li>\n                        <li>Debatam a importância do engajamento jovem e impactos locais.</li>\n                        <li>Produzam material de divulgação (postagens, vídeo curto ou podcast).</li>\n                    </ol>\n                </div>\n            </div>\n\n            <div class=\"mt-8 border-t border-brand-blue/20 pt-4\">\n                <p class=\"font-black text-brand-blue uppercase text-xs mb-2\">Conclusão</p>\n                <ul class=\"space-y-2 text-xs italic\">\n                    <li>Quais são as principais preocupações dos jovens engajados?</li>\n                    <li>Como as atitudes da humanidade colocam em risco as futuras gerações?</li>\n                    <li>Como você pode contribuir no ativismo ambiental na sua região?</li>\n                </ul>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Atividade <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

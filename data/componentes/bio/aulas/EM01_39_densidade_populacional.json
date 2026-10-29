@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.da_populacao_ao_bioma.densidade_populacional",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 39,
+  "unidade": "Da população ao bioma",
+  "titulo": "Densidade populacional",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Densidade populacional</h2>\n            <p class=\"mb-4\">\n                A densidade de uma população diz respeito ao número de indivíduos por unidade de área (terrestre) ou volume (aquática).\n            </p>\n            \n            <div class=\"bg-gray-100 dark:bg-gray-800 p-6 rounded-3xl border-2 border-brand-blue my-6 text-center\">\n                <p class=\"text-lg font-black\">\n                    $densidade populacional = \frac{número de indivíduos}{área ou volume}$\n                </p>\n            </div>\n\n            <h3 class=\"text-xl font-bold text-brand-blue mt-8 mb-4\">Crescimento Populacional</h3>\n            <p class=\"mb-4 text-sm\">\n                Podemos definir a mudança no tamanho da população com a seguinte relação:\n            </p>\n            <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-2xl mb-6 text-xs font-mono text-center\">\n                $Mudança = (Nascimentos + Imigrantes) - (Mortes + Emigrantes)$\n            </div>\n\n            <ul class=\"space-y-2 text-sm font-bold mb-8\">\n                <li class=\"flex items-center gap-2\"><i class=\"fas fa-chart-line text-green-500\"></i> N + I > M + E → População crescendo</li>\n                <li class=\"flex items-center gap-2\"><i class=\"fas fa-chart-line text-red-500 rotate-180\"></i> N + I < M + E → População diminuindo</li>\n                <li class=\"flex items-center gap-2\"><i class=\"fas fa-equals text-blue-500\"></i> N + I = M + E → População estável</li>\n            </ul>\n\n            <h3 class=\"text-xl font-bold text-brand-blue mt-8 mb-4\">Modelos de Crescimento</h3>\n            <div class=\"space-y-6\">\n                <div class=\"p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-sm border border-gray-200\">\n                    <p class=\"font-black text-brand-red mb-2\">Crescimento Exponencial (Potencial Biótico)</p>\n                    <p class=\"text-xs mb-4\">Ocorre sob condições ideais, sem limitações de recursos. A curva tem <b>forma de J</b>.</p>\n                    \n                </div>\n\n                <div class=\"p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-sm border border-gray-200\">\n                    <p class=\"font-black text-brand-green mb-2\">Crescimento Logístico (Real)</p>\n                    <p class=\"text-xs mb-4\">A população cresce até atingir a <b>Capacidade de Suporte (K)</b> do ambiente. A curva tem <b>forma de S (sigmoide)</b>.</p>\n                    \n                </div>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

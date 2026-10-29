@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_e_divisao_operacao_inversa",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 10,
+  "unidade": "Operações com números naturais",
+  "titulo": "Multiplicação e Divisão - Operação Inversa",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Multiplicação e Divisão — Operação Inversa</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: usar a relação entre multiplicação e divisão para verificar cálculos e resolver problemas com incógnitas.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Se a × b = c então c ÷ b = a e c ÷ a = b. Isso é útil para checar contas ou encontrar fatores desconhecidos.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Resolva</label>\n  <p>Complete: ? × 24 = 2.400</p>\n  <input id=\"atividade-inversa-multdiv-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se x × 8 = 3.216, então x = ?</p>\n  <div>\n    <button class=\"btn\">402</button>\n    <button class=\"btn\">402</button>\n    <button class=\"btn\">403</button>\n  </div>\n</div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

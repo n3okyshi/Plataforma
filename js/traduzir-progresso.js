@@ -8,7 +8,7 @@
  * - `traduzirProgresso(titulos, mapa)`: converte `completedLessons` antigo
  *   (títulos) em ids usando `data/base/mapa-legado-ids.json`. Título sem
  *   correspondência é DESCARTADO (não é mantido como veio).
- * - `codigoDoNivel(serie)`: espelho cliente de `tools/lib/niveisLegado.js`
+ * - `codigoDoNivel(serie)`: espelho cliente de `a tabela de níveis abaixo`
  *   (display -> código EF01..EF09/EM01..EM03) usado enquanto o perfil ainda
  *   guarda a série em formato de exibição (R22; Task 7 migra o <select>).
  */
@@ -17,7 +17,7 @@
 var ORDINAIS_NIVEL = ['1º', '2º', '3º', '4º', '5º', '6º', '7º', '8º', '9º'];
 
 // Tabela display -> código, montada a partir dos dialetos legados documentados
-// em tools/lib/niveisLegado.js:
+// em a tabela de níveis abaixo:
 //   "1º Ano EF" / "1º Ano EFI" / "1º Ano EFII" / "1º Ano" / "1º Ano do EM"
 var TABELA_NIVEIS = Object.create(null);
 (function () {
@@ -38,7 +38,7 @@ var TABELA_NIVEIS = Object.create(null);
 // "1º Ano EF", "1o Ano EF", "1 Ano EF", "1º ano do EM"...
 var ANALISADOR_NIVEL = /^([1-9])\s*(?:º|ª|o|a)?\.?\s*ano(?:\s+(?:do|de|da)\s+)?(?:(efi{1,2}|ef|em))?$/i;
 
-var REGEX_CODIGO_NIVEL = /^(EI0[1-4]|EF0[1-9]|EM0[1-3])$/;
+var REGEX_CODIGO_NIVEL = /^(EI0[1-3]|EF0[1-9]|EM0[1-3])$/;
 
 // Ids canônicos têm o formato "<componente>.<nivel>.<unidade>.<aula>" (ex.:
 // mat.ef06.operacoes.adicao_de_numeros_naturais). Serve para reconhecer

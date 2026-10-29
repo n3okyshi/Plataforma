@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia",
+  "componente": "mat",
+  "nivel": "EF05",
+  "ordem": 6,
+  "unidade": "Frações",
+  "titulo": "Operações com Frações e Equivalência",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Frações Equivalentes</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Descobrindo que 1/2 é a mesma coisa que 2/4 ou 4/8. Cálculo da fração de uma quantidade.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🍫 Regra Prática:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Para achar a fração de um número (ex: 1/3 de 12), dividimos pelo de baixo e multiplicamos pelo de cima.</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

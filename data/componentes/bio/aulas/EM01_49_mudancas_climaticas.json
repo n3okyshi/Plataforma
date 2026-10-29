@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.humanidade_e_ambiente.mudancas_climaticas",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 49,
+  "unidade": "Humanidade e ambiente",
+  "titulo": "Mudanças climáticas",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-red mb-4\">Mudanças climáticas</h2>\n            <p class=\"mb-4\">\n                Diversas alterações climáticas têm sido observadas nas últimas décadas em todo o mundo, como temperaturas extremas e a intensificação de secas e de inundações. Nesse contexto, o aquecimento global corresponde ao aumento anormal da temperatura média da Terra.\n            </p>\n            \n            \n\n            <p class=\"mb-4\">\n                É causado por atividades humanas que lançam na atmosfera gases de efeito estufa (GEE), principalmente dióxido de carbono ($CO_2$), monóxido de carbono ($CO$), metano ($CH_4$), óxido nitroso ($N_2O$), clorofluorcarbonetos (CFCs) e vapor de água ($H_2O$).\n            </p>\n        </section>\n\n        <section class=\"bg-gray-100 dark:bg-gray-800 p-6 rounded-3xl text-xs\">\n            <p class=\"font-black uppercase mb-2\">CFCs e a Camada de Ozônio</p>\n            <p>Os clorofluorcarbonetos (CFCs), além de contribuírem para o aquecimento global, destroem a camada de ozônio ($O_3$), que protege o planeta dos raios ultravioleta do Sol. A utilização dos CFCs foi proibida na maioria dos países e, recentemente, observou-se uma recuperação da camada de ozônio.</p>\n        </section>\n\n        <section class=\"bg-orange-50 dark:bg-orange-900/20 p-6 rounded-3xl border-l-8 border-orange-500 my-6\">\n            <p class=\"text-sm font-bold mb-2\">Níveis pré-industriais</p>\n            <p class=\"text-xs\">A expressão “níveis pré-industriais” se refere ao período antes da Revolução Industrial, que teve seu início na Inglaterra, por volta de 1760. A partir da Revolução Industrial, a queima de carvão mineral em motores a vapor se intensificou, liberando compostos de carbono para a atmosfera.</p>\n        </section>\n\n        <p class=\"text-sm italic\">\n            Entre essas consequências estão a elevação do nível do mar pelo derretimento de geleiras e o aquecimento dos oceanos. As mudanças climáticas acarretam perdas para as populações humanas, tanto de vidas quanto materiais, e a extinção de espécies.\n        </p>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-red text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef03.multiplicacao.algoritmo_da_multiplicacao",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 8,
+  "unidade": "Multiplicação",
+  "titulo": "Algoritmo da Multiplicação",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Conta de Multiplicar</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Avançando das somas repetidas para a conta armada. Resolução de problemas de combinatória simples (roupas, sabores).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">👕 Combinando:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Se tenho 2 bermudas e 3 camisetas, posso fazer 2 x 3 = 6 trajes diferentes.</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.materia_e_energia_nos_ecossistemas.ciclo_da_agua",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 31,
+  "unidade": "Matéria e energia nos ecossistemas",
+  "titulo": "Ciclo da água",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Ciclo da água</h2>\n            <p class=\"mb-4\">\n                Você já parou para pensar na importância da água para a vida? Cerca de 70% do corpo humano é composto de água, e, do mesmo modo, essa também é a porcentagem aproximada que cobre a superfície terrestre. No entanto, apenas uma pequena parte (aproximadamente 0,75%) desse total está disponível para o consumo pelos seres vivos na forma de água doce em estado líquido. \n            </p>\n            <p class=\"mb-4\">\n                Essa porção é encontrada em rios, em lagos, em aquíferos e na atmosfera, nesta, sob a forma de vapor de água. O restante da água doce (aproximadamente 1,75%) é encontrado em estado sólido nas geleiras, enquanto a maior parte da água do planeta (cerca de 97,5%) está nos oceanos e mares na forma de água salgada. Acompanhe a seguir a ilustração do ciclo da água.\n            </p>\n        </section>\n\n        <section class=\"my-8\">\n            <div class=\"glass-panel p-4 rounded-3xl border-2 border-brand-blue/30 shadow-inner bg-white\">\n                [Image: Representação esquemática do ciclo da água evidenciando evaporação, transpiração, condensação e precipitação]\n                <p class=\"text-[10px] text-center mt-2 text-gray-500 uppercase font-black tracking-widest\">Representação esquemática do ciclo da água</p>\n            </div>\n        </section>\n\n        <section>\n            <p class=\"mb-4\">\n                No <b>ciclo da água (ou ciclo hidrológico)</b>, ocorrem diversas mudanças de estado físico. A transpiração dos seres vivos e a evaporação de corpos de água, como rios e oceanos, formam água em estado de vapor e gás. Esse vapor de água, ao encontrar condições específicas de temperatura e pressão, passa pelo processo de <b>condensação</b>, transformando-se em gotículas de água, que formam as nuvens. \n            </p>\n            <p class=\"mb-4\">\n                Por meio da <b>precipitação</b>, as gotículas das nuvens se agrupam e caem em forma de chuva, retornando para a superfície do planeta Terra. Parte dessa água, ao atingir o solo, pode se infiltrar ou seguir para os corpos de água através do escoamento superficial.\n            </p>\n            <p class=\"mb-4\">\n                Em determinadas condições de temperatura e pressão, as gotículas de água passam pelo processo de <b>solidificação</b>, criando uma precipitação na forma de neve ou granizo. Essas mudanças constantes de estado físico da matéria podem garantir a circulação contínua da água pela biosfera, mantendo os ecossistemas e o equilíbrio climático do planeta.\n            </p>\n        </section>\n\n        <section class=\"bg-red-50 dark:bg-red-900/20 p-6 rounded-3xl border-l-8 border-brand-red my-6\">\n            <p class=\"text-sm\">\n                No entanto, podem ocorrer interferências nesse ciclo por meio de ações humanas, como as <b>queimadas e o desmatamento</b>. Quando isso ocorre, a quantidade de água doce disponível no ambiente é diminuída, podendo resultar na escassez hídrica. Essa escassez traz impactos negativos para o ambiente, como a redução da umidade, o aumento da erosão do solo e a diminuição dos corpos de água, afetando diretamente os ecossistemas aquáticos e a vida que depende deles.\n            </p>\n        </section>\n\n        <section class=\"bg-brand-green/10 p-6 rounded-3xl border-2 border-dashed border-brand-green my-8\">\n            <h4 class=\"font-black text-brand-green mb-2 uppercase text-sm flex items-center gap-2\">\n                <i class=\"fas fa-comments\"></i> É sobre isso...\n            </h4>\n            <p class=\"text-sm italic text-gray-700 dark:text-gray-300\">\n                A maior parte da água superficial está na região Norte, porém essa é a região do Brasil com o menor acesso à coleta de esgoto. Debata com os colegas e crie uma hipótese para explicar qual é a relação entre a coleta de esgoto e a transmissão de doenças.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700 text-center\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

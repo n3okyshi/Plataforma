@@ -1,7 +1,4 @@
-/** GERADO por tools/gerar.js — NÃO EDITAR. hash: 38c6cf9fc4a66d0637150e34b85b03ae3ab3c48b64984650af1496931ada5126 */
-'use strict';
-
-// Currículo de Química — gerado a partir de data/componentes (R14/R17).
+/** Currículo por códigos de nível; aulas em planejamento ficam em data/componentes. */
 registrarCurriculo("Química", {
   "EM01": {
     "Introdução ao estudo da Química": [

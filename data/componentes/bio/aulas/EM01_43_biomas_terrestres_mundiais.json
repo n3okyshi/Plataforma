@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.da_populacao_ao_bioma.biomas_terrestres_mundiais",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 43,
+  "unidade": "Da população ao bioma",
+  "titulo": "Biomas terrestres mundiais",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <h2 class=\"text-2xl font-black text-brand-green mb-4\">Biomas terrestres mundiais</h2>\n        \n        <div class=\"grid gap-4\">\n            <div class=\"p-4 bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-brand-green mb-1\">Floresta Sazonal Temperada</p>\n                <p class=\"text-xs\">Temperaturas entre 5 °C e 20 °C, árvores decíduas que perdem as folhas no inverno.</p>\n            </div>\n            <div class=\"p-4 bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-brand-green mb-1\">Floresta Pluvial Temperada</p>\n                <p class=\"text-xs\">Precipitação abundante, dominada por florestas perenes (Ex: Sequoias).</p>\n            </div>\n            <div class=\"p-4 bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-brand-green mb-1\">Floresta Pluvial Tropical</p>\n                <p class=\"text-xs\">Média > 20 °C, ambiente quente e chuvoso, exuberante biodiversidade e biomassa viva.</p>\n            </div>\n            <div class=\"p-4 bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-brand-green mb-1\">Bosque ou arbusto</p>\n                <p class=\"text-xs\">Verões quentes/secos, invernos amenos/úmidos. Nomes: Chaparral, Matorral, Fynbos, Maquis.</p>\n            </div>\n            <div class=\"p-4 bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-brand-green mb-1\">Tundra</p>\n                <p class=\"text-xs\">Média < 5 °C, bioma mais frio, solo permanentemente congelado (permafrost).</p>\n            </div>\n            <div class=\"p-4 bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-brand-green mb-1\">Floresta Boreal (Taiga)</p>\n                <p class=\"text-xs\">Inverno rigoroso, árvores altas tolerantes ao congelamento, grande reservatório de carbono.</p>\n            </div>\n            <div class=\"p-4 bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-brand-green mb-1\">Campo Temperado ou Deserto Frio</p>\n                <p class=\"text-xs\">Dominado por gramíneas. Nomes: Pradarias, Pampas, Estepes.</p>\n            </div>\n            <div class=\"p-4 bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-brand-green mb-1\">Deserto Subtropical</p>\n                <p class=\"text-xs\">Média > 20 °C, precipitação escassa (Ex: Saara, Mojave, Vitória).</p>\n            </div>\n            <div class=\"p-4 bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-brand-green mb-1\">Floresta Sazonal Tropical ou Savana</p>\n                <p class=\"text-xs\">Preponderância de árvores decíduas, paisagens abertas com acácias e baobás.</p>\n            </div>\n        </div>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

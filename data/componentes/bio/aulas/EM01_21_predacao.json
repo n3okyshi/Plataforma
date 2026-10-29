@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ecologia.predacao",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 21,
+  "unidade": "Introdução à Ecologia",
+  "titulo": "Predação",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-red mb-4\">Predação</h2>\n            <p class=\"mb-4\">\n                A predação ou predatismo é um tipo de relação ecológica interespecífica desarmônica, em que um indivíduo, chamado de <b>predador</b>, mata e se alimenta de outro, chamado de <b>presa</b>. O predatismo ocorre em todas as teias alimentares dos ecossistemas, entre variados tipos de organismos, causando benefícios para apenas um dos indivíduos, enquanto o outro é prejudicado.\n            </p>\n\n            \n\n            <div class=\"bg-red-50 dark:bg-red-900/20 p-6 rounded-3xl border-l-8 border-brand-red my-6\">\n                <p class=\"text-sm italic mb-4\">\n                    Onça-pintada (<i>Panthera onca</i>, mede cerca de 1,85 m de comprimento) caçando um jacaré-do-pantanal (<i>Caiman yacare</i>, mede cerca de 3 m de comprimento) no Pantanal (MS), em 2022.\n                </p>\n                <p class=\"text-sm\">\n                    Embora compartilhem algumas semelhanças, predadores e herbívoros (que se alimentam de tecidos ou seiva das plantas) apresentam interações semelhantes, mas com algumas diferenças: os predadores invariavelmente matam as presas, enquanto herbívoros costumam não matar as plantas das quais se alimentam, ao menos não imediatamente. \n                </p>\n                <p class=\"text-sm mt-2\">\n                    Há exceções no caso dos herbívoros que se alimentam de sementes, que podem ser considerados predadores, pois cada semente contém um embrião que é morto quando a semente é utilizada como alimento.\n                </p>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700 text-center\">\n            <button class=\"w-full bg-brand-red text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

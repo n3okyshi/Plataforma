@@ -1,0 +1,37 @@
+{
+  "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.matrizes_e_determinantes",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 11,
+  "unidade": "Matrizes, Determinantes e Sistemas Lineares",
+  "titulo": "Matrizes e Determinantes",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Matrizes</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Organização de dados em tabelas. Operações de soma e produto. O Determinante como um número associado à matriz quadrada.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">✖️ Produto:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Multiplicação de matrizes segue a regra: <strong>Linha por Coluna</strong>. Não é apenas multiplicar termo a termo!</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

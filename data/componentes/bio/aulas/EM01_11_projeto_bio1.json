@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.pensamento_cientifico.projeto_bio1",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 11,
+  "unidade": "Pensamento científico",
+  "titulo": "Projeto_bio1",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-red mb-4 uppercase flex items-center gap-2\">\n                <i class=\"fas fa-project-diagram\"></i> PROJETO\n            </h2>\n            <h3 class=\"text-xl font-bold text-gray-800 dark:text-white mb-4\">Combatendo fake news sobre ciência</h3>\n            <p class=\"mb-4\">\n                A ciência e a Biologia estão relacionadas a muitos temas do nosso cotidiano, como a nossa alimentação, o tratamento e a prevenção de doenças, a preservação do ambiente e o combate a desastres climáticos, entre outros. No entanto, para todos esses temas, existem notícias falsas que circulam e confundem a população em geral.\n            </p>\n            <p class=\"mb-4 italic\">\n                Será que você já leu alguma fake news sobre ciência? De que maneira podemos ajudar as pessoas a identificarem o que é verdadeiro e o que é falso? É o que você vai fazer agora!\n            </p>\n        </section>\n\n        <section class=\"bg-gray-50 dark:bg-gray-800/50 p-6 rounded-3xl border-2 border-gray-200 dark:border-gray-700\">\n            <h4 class=\"font-black text-brand-blue mb-3 uppercase text-sm\">Material</h4>\n            <ul class=\"list-disc list-inside space-y-2 text-sm\">\n                <li>Bloco de anotações</li>\n                <li>Computador, tablet ou smartphone com acesso à internet</li>\n            </ul>\n        </section>\n\n        <section>\n            <h4 class=\"font-black text-brand-blue mb-4 uppercase text-sm\">Procedimentos</h4>\n            <div class=\"space-y-4\">\n                <div class=\"flex gap-4\">\n                    <div class=\"w-8 h-8 rounded-full bg-brand-blue text-white flex items-center justify-center shrink-0 font-bold\">1</div>\n                    <p class=\"text-sm\">Com a orientação do professor, organize-se com a turma em grupos. Cada grupo deve pesquisar as principais fake news relacionadas a um tema da ciência.</p>\n                </div>\n                <div class=\"flex gap-4\">\n                    <div class=\"w-8 h-8 rounded-full bg-brand-blue text-white flex items-center justify-center shrink-0 font-bold\">2</div>\n                    <p class=\"text-sm\">Organizem essas fake news num quadro e pesquisem argumentos científicos que desmintam cada uma delas.</p>\n                </div>\n                <div class=\"flex gap-4\">\n                    <div class=\"w-8 h-8 rounded-full bg-brand-blue text-white flex items-center justify-center shrink-0 font-bold\">3</div>\n                    <p class=\"text-sm\">A partir da pesquisa e dos dados inseridos no quadro, elaborem uma postagem para as redes sociais explicando de forma simples o motivo de cada notícia apresentada ser falsa. Lembrem-se de fazer uma postagem chamativa e inserir as referências e fontes das afirmações.</p>\n                </div>\n                <div class=\"flex gap-4\">\n                    <div class=\"w-8 h-8 rounded-full bg-brand-blue text-white flex items-center justify-center shrink-0 font-bold\">4</div>\n                    <p class=\"text-sm\">Postem essas informações nas redes sociais e nos grupos de conversa da escola e alertem os colegas e a comunidade escolar dos riscos das fake news para nossa saúde e mesmo para as decisões cotidianas que tomamos.</p>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"bg-brand-green/5 p-6 rounded-3xl border-2 border-brand-green/20\">\n            <h4 class=\"font-black text-brand-green mb-4 uppercase text-sm\">Conclusão</h4>\n            <ul class=\"space-y-4 text-sm font-medium italic\">\n                <li class=\"flex gap-2\"><i class=\"fas fa-question-circle mt-1\"></i> Você já havia lido alguma(s) das fake news pesquisadas? Se leu, em qual(is) contexto(s)?</li>\n                <li class=\"flex gap-2\"><i class=\"fas fa-question-circle mt-1\"></i> Avaliando o que foi pesquisado, de que maneira informações falsas podem impactar negativamente a vida das pessoas?</li>\n                <li class=\"flex gap-2\"><i class=\"fas fa-question-circle mt-1\"></i> Como essa atividade te ajuda a não repassar e a não ser influenciado por notícias falsas no futuro?</li>\n            </ul>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700 text-center\">\n            <button class=\"w-full bg-brand-red text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Finalizar Projeto <i class=\"fas fa-flag-checkered ml-2\"></i>\n            </button>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

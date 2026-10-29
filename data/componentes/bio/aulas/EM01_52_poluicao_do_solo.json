@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.humanidade_e_ambiente.poluicao_do_solo",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 52,
+  "unidade": "Humanidade e ambiente",
+  "titulo": "Poluição do solo",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-orange-700 mb-4\">Poluição do solo</h2>\n            <p class=\"mb-4\">\n                O solo é a camada superficial da crosta terrestre, formada por partículas de rochas, minerais, matéria orgânica em decomposição e inúmeros microrganismos. Um solo está poluído quando suas características são alteradas.\n            </p>\n            \n            \n\n            <p class=\"mb-4\">\n                O descarte inadequado de resíduos industriais, agrícolas e urbanos, substâncias tóxicas, metais pesados e óleos, além do uso indiscriminado de pesticidas e fertilizantes, compromete a saúde do solo. \n            </p>\n        </section>\n\n        <section class=\"bg-orange-50 dark:bg-orange-900/20 p-6 rounded-3xl border-2 border-orange-200 my-6\">\n            <p class=\"text-xs italic\">\n                A decomposição de grande quantidade de resíduos também pode poluir e contaminar o solo em razão da produção de <b>chorume</b>, líquido resultante dessa decomposição. A principal maneira de evitar a poluição do solo é destinar adequadamente os resíduos sólidos para reciclagem e aterros sanitários.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-orange-700 text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

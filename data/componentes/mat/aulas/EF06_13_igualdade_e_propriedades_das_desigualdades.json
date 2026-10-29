@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 13,
+  "unidade": "Operações com números naturais",
+  "titulo": "Igualdade e Propriedades das Desigualdades",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Igualdade e Propriedades das Desigualdades</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: reconhecer relações de igualdade e desigualdade, utilizar propriedades (transitiva, aditiva, multiplicativa) e aplicá-las em resolução de problemas.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Exemplo: se a = b e b = c então a = c (transitividade). Se a &lt; b então a + c &lt; b + c (adição de mesma quantidade conserva desigualdade).</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Verdadeiro ou Falso</label>\n  <p>Marque verdadeiro ou falso: Se 3 &lt; 5 então 3 × 2 &lt; 5 × 2.</p>\n  <div>\n    <button class=\"btn\">Verdadeiro</button>\n    <button class=\"btn\">Falso</button>\n  </div>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se x + 4 = 10, então x &lt; 7 será:</p>\n  <div>\n    <button class=\"btn\">Verdadeiro</button>\n    <button class=\"btn\">Verdadeiro</button>\n    <button class=\"btn\">Falso</button>\n  </div>\n</div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

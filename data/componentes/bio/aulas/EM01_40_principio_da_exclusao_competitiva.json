@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.da_populacao_ao_bioma.principio_da_exclusao_competitiva",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 40,
+  "unidade": "Da população ao bioma",
+  "titulo": "Princípio da exclusão competitiva",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-red mb-4\">Princípio da exclusão competitiva</h2>\n            <p class=\"mb-4\">\n                O biólogo Georgy Gause demonstrou que duas espécies não podem coexistir indefinidamente quando ambas são limitadas pelo mesmo recurso, ou seja, há sobreposição total de <b>nichos ecológicos</b>.\n            </p>\n\n            <div class=\"space-y-4 my-8\">\n                <div class=\"glass-panel p-4 rounded-3xl border-2 border-gray-200 bg-white\">\n                    <p class=\"text-[10px] font-black uppercase mb-2\">Isoladas:</p>\n                    \n                </div>\n                <div class=\"glass-panel p-4 rounded-3xl border-2 border-brand-red/30 bg-white\">\n                    <p class=\"text-[10px] font-black uppercase mb-2\">Juntas (Competição):</p>\n                    \n                </div>\n            </div>\n\n            <p class=\"mb-4\">\n                Esse padrão é conhecido como <b>Princípio de Gause</b>. Quando duas espécies dependem do mesmo recurso, uma se sobressai em sua obtenção ou sobrevive melhor quando ele é escasso, levando a outra à extinção local ou à migração.\n            </p>\n        </section>\n\n        <section class=\"bg-orange-50 dark:bg-orange-900/20 p-8 rounded-[2.5rem] border-2 border-orange-200 shadow-sm mt-8\">\n            <h4 class=\"font-black text-orange-700 dark:text-orange-400 mb-4 uppercase flex items-center gap-2\">\n                <i class=\"fas fa-lightbulb\"></i> Leio, logo penso\n            </h4>\n            <p class=\"text-xs mb-4\">\n                A população humana era de 1 bilhão em 1825 e atualmente é de 8 bilhões. As projeções indicam 11 bilhões para o ano 2100. Essas projeções demandam a pergunta: os recursos mundiais serão capazes de sustentar essas populações grandes no futuro? \n            </p>\n            \n            <div class=\"space-y-4 mt-6 border-t border-orange-200 pt-4 font-bold text-sm\">\n                <p>1. Responda à pergunta final do texto sobre a sustentabilidade dos recursos mundiais e justifique sua resposta.</p>\n                <p>2. Elabore sugestões para que uma possível população de 11 bilhões possa viver de maneira sustentável no planeta.</p>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-red text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Capítulo <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.pensamento_cientifico.como_os_cientistas_trabalham",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 8,
+  "unidade": "Pensamento científico",
+  "titulo": "Como os cientistas trabalham",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Como os cientistas trabalham</h2>\n            <p class=\"mb-4\">\n                Um exemplo que ilustra a relação entre a teoria e a observação na ciência é o que ocorreu na identificação do primeiro antibiótico, a penicilina. O médico e bacteriologista inglês Alexander Fleming (1881-1955) identificou que bactérias não se desenvolviam ao redor de um bolor (fungo) numa placa em seu laboratório. \n            </p>\n            <p class=\"mb-4\">\n                O conhecimento prévio que Fleming tinha sobre o crescimento de microrganismos possibilitou que fizesse essa identificação e elaborasse a hipótese de que esse bolor deveria produzir uma substância que impedisse a multiplicação das bactérias. A partir de várias pesquisas e experimentos, foi possível concluir que sua hipótese estava correta: o bolor produzia uma substância que inibia a reprodução das bactérias, a penicilina.\n            </p>\n            \n            \n\n            <p class=\"mb-4\">\n                Fleming, em 1928, fez essa observação e elaborou a hipótese devido ao conhecimento teórico que tinha sobre microrganismos. Não teve uma descoberta genial ao acaso, pois a observação e a teoria se relacionam em todo o processo. Essa pesquisa foi publicada; outros cientistas analisaram-na e opinaram sobre ela; experimentos foram refeitos; e, somente 10 anos depois, em 1938, foi possível isolar a penicilina e produzi-la em grande quantidade para ser usada como medicamento contra infecções bacterianas. \n            </p>\n            <p class=\"mb-4\">\n                O primeiro uso da penicilina se deu em 1940, sendo o primeiro antibiótico produzido em larga escala no mundo. Isso mostra como a ciência e, mais especificamente, a Biologia trabalha com a exploração, a análise, o estudo, a observação e a avaliação. \n            </p>\n            <p class=\"mb-4\">\n                Além desses critérios, a ciência trabalha com dados, que são registros de observações que podem ser expressos em números, gráficos e tabelas com uso de estatística, e também relatos, descrições e desenhos. \n            </p>\n        </section>\n\n        <section class=\"bg-blue-50 dark:bg-blue-900/20 p-6 rounded-3xl border-l-8 border-brand-blue my-6\">\n            <p class=\"text-xs italic text-gray-700 dark:text-gray-300\">\n                <b>Estatística:</b> coleta de dados quantitativos. Também pode indicar o campo da Matemática que consiste num conjunto de métodos que possibilita a coleta e a análise de dados gerando interpretações deles.\n            </p>\n        </section>\n\n        <section>\n            <p class=\"mb-4\">\n                Diferentes tipos de pesquisa podem se utilizar de diferentes formas de coleta de dados, como documentações, registros, experimentos e observações. Por exemplo, os ornitólogos, que são cientistas que estudam os pássaros, podem passar meses ou anos observando espécies e fazendo anotações, vídeos, fotos e gravações para identificar os hábitos das aves e as relações delas com outros seres vivos, como a contribuição para a disseminação de sementes.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700 text-center\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

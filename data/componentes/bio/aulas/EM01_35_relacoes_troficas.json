@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.materia_e_energia_nos_ecossistemas.relacoes_troficas",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 35,
+  "unidade": "Matéria e energia nos ecossistemas",
+  "titulo": "Relações tróficas",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">Relações tróficas</h2>\n            <p class=\"mb-4\">\n                As relações alimentares, também chamadas de tróficas, são relações que envolvem a nutrição dos seres vivos nos ecossistemas e são fundamentais para a ciclagem de nutrientes e para o fluxo de energia. Ao longo dessas relações, a matéria é transferida e transformada, possibilitando o retorno dos nutrientes ao ambiente por meio da decomposição. A energia, no entanto, não retorna: o que não foi transformado é perdido na forma de calor. Por isso, dizemos que o fluxo de energia é sempre <b>unidirecional</b> no ambiente.\n            </p>\n            \n            <p class=\"mb-4\">\n                Essas relações são representadas por meio de diagramas chamados <b>cadeias alimentares ou cadeias tróficas</b>, em que as setas indicam como os seres vivos se relacionam. A ponta da seta indica o ser que se alimenta do anterior e serve de alimento para o seguinte.\n            </p>\n\n            \n\n            <p class=\"mb-4 text-sm bg-gray-50 dark:bg-gray-800 p-4 rounded-2xl border-l-4 border-brand-green\">\n                Repare no esquema acima. O gavião-de-rabo-branco (<i>Geranoaetus albicaudatus</i>) se alimenta da jiboia (<i>Boa constrictor</i>), que, por sua vez, se alimenta da paca (<i>Cuniculus paca</i>); a paca se alimenta dos frutos da castanheira (<i>Bertholletia excelsa</i>). Note o sentido do fluxo, que inicia na castanheira e termina no gavião-de-rabo-branco.\n            </p>\n        </section>\n\n        <section>\n            <h3 class=\"text-xl font-bold text-brand-blue mb-3\">Níveis Tróficos</h3>\n            <ul class=\"space-y-3 text-sm\">\n                <li><b>Produtores (1º nível):</b> Seres autótrofos (plantas, algas) que sintetizam seu próprio alimento por fotossíntese ou quimiossíntese. Ex: Castanheira.</li>\n                <li><b>Consumidores Primários:</b> Alimentam-se diretamente dos produtores. Ex: Paca.</li>\n                <li><b>Consumidores Secundários:</b> Alimentam-se dos consumidores primários. Ex: Jiboia.</li>\n                <li><b>Consumidores Terciários:</b> Predadores de topo de cadeia. Ex: Gavião-de-rabo-branco.</li>\n                <li><b>Decompositores:</b> Bactérias e fungos que degradam a matéria orgânica de todos os níveis em substâncias inorgânicas, reciclando nutrientes.</li>\n            </ul>\n        </section>\n\n        \n\n        <section class=\"bg-blue-50 dark:bg-blue-900/20 p-6 rounded-3xl border-2 border-blue-500/30 my-6\">\n            <h4 class=\"font-black text-brand-blue dark:text-blue-400 mb-2 uppercase text-sm flex items-center gap-2\">\n                <i class=\"fas fa-seedling\"></i> Se liga só\n            </h4>\n            <p class=\"text-xs mb-3\"><b>Passeio virtual: circuito de compostagem.</b> Acesse o link para conhecer a compostagem e sua importância para a decomposição da matéria orgânica.</p>\n            <a href=\"https://tedit.net/hss9ey\" target=\"_blank\" class=\"inline-flex items-center gap-2 bg-brand-blue text-white px-4 py-2 rounded-xl text-xs font-black uppercase hover:bg-blue-700 transition-colors\">\n                Acessar Circuito <i class=\"fas fa-external-link-alt\"></i>\n            </a>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

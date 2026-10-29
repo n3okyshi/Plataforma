@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.materia_e_energia_nos_ecossistemas.piramides_troficas",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 37,
+  "unidade": "Matéria e energia nos ecossistemas",
+  "titulo": "Pirâmides Tróficas",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">Pirâmides tróficas</h2>\n            <p class=\"mb-4\">\n                As pirâmides tróficas, também conhecidas como pirâmides ecológicas, são representações gráficas que ilustram as relações tróficas de um ecossistema. Elas demonstram os diferentes níveis de organismos que compõem uma cadeia alimentar, com os produtores ocupando a base da pirâmide.\n            </p>\n        </section>\n\n        <section class=\"space-y-8\">\n            <div class=\"bg-gray-50 dark:bg-gray-800/50 p-6 rounded-[2.5rem] border border-gray-200\">\n                <h3 class=\"text-lg font-black text-brand-blue mb-3\">Pirâmides de números</h3>\n                <p class=\"text-sm mb-4\">Indica o número de indivíduos em cada nível. Pode ser <b>invertida</b> (Ex: uma árvore sustentando muitos pulgões).</p>\n                \n            </div>\n\n            <div class=\"bg-gray-50 dark:bg-gray-800/50 p-6 rounded-[2.5rem] border border-gray-200\">\n                <h3 class=\"text-lg font-black text-brand-blue mb-3\">Pirâmides de biomassa</h3>\n                <p class=\"text-sm mb-4\">Representa a massa de matéria orgânica. Pode ser <b>invertida</b> em ecossistemas aquáticos (fitoplâncton vs zooplâncton) devido ao rápido ciclo de reprodução dos produtores.</p>\n                \n            </div>\n\n            <div class=\"bg-gray-50 dark:bg-gray-800/50 p-6 rounded-[2.5rem] border border-gray-200\">\n                <h3 class=\"text-lg font-black text-brand-blue mb-3\">Pirâmides de energia</h3>\n                <p class=\"text-sm mb-4\">Indica a energia disponível. <b>Nunca estará invertida</b>, pois a energia é dissipada (cerca de 90%) em cada transferência.</p>\n                \n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Estudo <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

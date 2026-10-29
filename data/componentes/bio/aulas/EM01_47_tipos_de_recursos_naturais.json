@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.humanidade_e_ambiente.tipos_de_recursos_naturais",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 47,
+  "unidade": "Humanidade e ambiente",
+  "titulo": "Tipos de recursos naturais",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <h2 class=\"text-2xl font-black text-brand-green mb-4\">Tipos de recursos naturais</h2>\n        <p class=\"mb-6\">Os recursos naturais podem ser classificados de acordo com sua origem ou com seu uso pelos seres humanos. Alguns desses tipos são descritos a seguir.</p>\n\n        <div class=\"space-y-4\">\n            <div class=\"p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-brand-green mb-1 italic\">Recursos biológicos:</p>\n                <p class=\"text-sm\">São originados dos seres vivos, como animais, plantas e microrganismos. São recursos envolvidos na produção de alimentos e medicamentos, na construção, entre diversas outras atividades humanas. De modo geral, são recursos naturais renováveis, mas sua exploração excessiva coloca a biodiversidade em risco, o que pode levar espécies à extinção.</p>\n            </div>\n\n            <div class=\"p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-brand-blue mb-1 italic\">Recursos minerais:</p>\n                <p class=\"text-sm\">São provenientes de rochas e do solo. Alumínio, petróleo, carvão mineral, ferro e areia são alguns exemplos. Esses recursos são essenciais para as atividades humanas relacionadas com construção e para a produção de diversos itens, como embalagens e combustíveis. Os minerais são recursos naturais não renováveis e, por isso, sua extração excessiva compromete a disponibilidade para as gerações futuras.</p>\n            </div>\n\n            <div class=\"p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-blue-400 mb-1 italic\">Recursos hídricos:</p>\n                <p class=\"text-sm\">Os recursos hídricos se originam dos corpos de água, como rios, lagos, oceanos, lençóis freáticos e mananciais. Embora sejam recursos naturais renováveis, a ação humana pode alterar a ciclagem natural. Um exemplo ocorre quando o desmatamento da cobertura vegetal, sobretudo nas áreas de nascentes, compromete a qualidade da água e impacta o ciclo hidrológico.</p>\n            </div>\n\n            <div class=\"p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-sm border border-gray-100\">\n                <p class=\"font-black text-orange-500 mb-1 italic\">Recursos energéticos:</p>\n                <p class=\"text-sm\">Estão envolvidos com a geração de energia. Podem ser renováveis, como a energia solar, a energia eólica (gerada do vento) e a energia hídrica (gerada da água). Também existem os não renováveis, como o petróleo, o carvão mineral e o gás natural. O uso ilimitado das reservas de recursos energéticos não renováveis gera grandes impactos para o planeta.</p>\n            </div>\n        </div>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

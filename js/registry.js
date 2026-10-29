@@ -14,6 +14,10 @@
   // §5.2: aulas canônicas completas (JSON íntegro), por id. A teoria acima
   // continua sendo só o HTML pré-renderizado para o renderer da lição.
   window.PLATAFORMA_AULAS = window.PLATAFORMA_AULAS || {};
+  window.PLATAFORMA_PROVAS = window.PLATAFORMA_PROVAS || {};
+  window.registrarProvas = (provas) => {
+    if (provas && typeof provas === 'object' && !Array.isArray(provas)) Object.assign(window.PLATAFORMA_PROVAS, provas);
+  };
 
   // ========================================================================
   // 1. FUNÇÕES DE REGISTRO (ESCRITA) - AGORA COM VALIDAÇÃO
@@ -30,7 +34,7 @@
         } else {
             console.warn(`⚠️ [Registry] Tentativa de registrar currículo inválido para: ${disciplina}`);
         }
-    } 
+    }
     // Cenário 2: Inicialização (Reserva de espaço)
     else {
         if (!window.PLATAFORMA_CURRICULO[disciplina]) {
@@ -61,7 +65,7 @@
 
   /**
    * Registra aulas canônicas completas (§5.2). Os chunks gerados por
-   * tools/gerar.js chamam `registrarAula({ "<id>": { ...aula } })`; a guarda
+   * Os arquivos de conteúdo chamam `registrarAula({ "<id>": { ...aula } })`; a guarda
    * `typeof window.registrarAula === 'function'` da R17 existe para este
    * momento — a partir daqui elas passam a ser lidas por Registry.getAula.
    */
@@ -85,7 +89,7 @@
   // 2. [NOVO] API DE ACESSO SEGURO (LEITURA)
   // Use window.Registry.get... ao invés de acessar as variáveis brutas
   // ========================================================================
-  
+
   window.Registry = {
       // Retorna o currículo de uma matéria ou um objeto vazio (evita crash)
       getCurriculo: function(disciplina) {
@@ -105,13 +109,19 @@
       },
 
       // Retorna questões filtradas por NÍVEL (código, ex.: "EF06") e Tema
-      getQuestoes: function(nivel, tema) {
+      getProva: function(nivel, tema, unidade) {
+          return Object.values(window.PLATAFORMA_PROVAS).find(p =>
+              p.nivel === nivel && p.tema === tema && p.unidade === unidade
+              && ['piloto', 'publicado'].includes(p.estado)) || null;
+      },
+      getQuestoes: function(nivel, tema, unidade, tipo = 'treino') {
           return window.PLATAFORMA_QUESTOES.filter(q => {
-              // Código de nível é exato (EF06 != ef06, e não há mais nomes display)
-              const matchNivel = q.nivel === nivel;
-              // Se tema for passado, filtra também, senão traz todas do nível
-              const matchTema = tema ? q.tema === tema : true;
-              return matchNivel && matchTema;
+              if (!q || !Array.isArray(q.opcoes) || q.opcoes.length < 2
+                  || !Number.isInteger(q.correta) || q.correta < 0 || q.correta >= q.opcoes.length) return false;
+              return q.nivel === nivel && q.tema === tema && q.tipo === tipo
+                  && ['piloto', 'publicado'].includes(q.estado)
+                  && (!unidade || q.unidade === unidade)
+                  && typeof q.explicacao === 'string' && q.explicacao.trim().length > 0;
           });
       },
 
@@ -122,8 +132,8 @@
           console.log("Total de Aulas (HTML):", Object.keys(window.PLATAFORMA_TEORIA).length);
           console.log("Total de Questões:", window.PLATAFORMA_QUESTOES.length);
           console.table(Object.keys(window.PLATAFORMA_CURRICULO).map(k => ({
-              Materia: k, 
-              Niveis: Object.keys(window.PLATAFORMA_CURRICULO[k]).length 
+              Materia: k,
+              Niveis: Object.keys(window.PLATAFORMA_CURRICULO[k]).length
           })));
           console.groupEnd();
       }
@@ -135,7 +145,7 @@
 
   const materiasPadrao = [
       // LINGUAGENS
-      "Língua Portuguesa", "Inglês", "Artes", "Educação Física", "Redação",
+      "Língua Portuguesa", "Língua Inglesa", "Arte", "Educação Física", "Redação",
       // EXATAS
       "Matemática", "Física", "Química", "Astronomia",
       // NATUREZA

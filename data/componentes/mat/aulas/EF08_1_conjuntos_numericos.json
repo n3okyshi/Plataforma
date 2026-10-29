@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.conjuntos_numericos",
+  "componente": "mat",
+  "nivel": "EF08",
+  "ordem": 1,
+  "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+  "titulo": "Conjuntos Numéricos",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Revisão: Conjuntos Numéricos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aprofundamos a relação entre Naturais (N), Inteiros (Z) e Racionais (Q). O foco é transformar <strong>dízimas periódicas</strong> em frações geratrizes e localizar esses números na reta.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💡 Lembre-se:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Todo número que pode ser escrito como fração (mesmo que infinito e periódico) é Racional.</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}
