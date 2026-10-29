@@ -5,7 +5,7 @@
  */
 
 (function () {
-    const VERSION = "0.0.8";
+    const VERSION = "0.0.9";
     const MAX_RETRIES = 3;
 
     /**

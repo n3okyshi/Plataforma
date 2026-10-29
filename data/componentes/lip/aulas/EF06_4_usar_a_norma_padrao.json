@@ -1,0 +1,98 @@
+{
+  "id": "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 4,
+  "unidade": "Língua, Texto e Contexto",
+  "titulo": "Revisão consciente em situações formais",
+  "bncc": [
+    "EF69LP56"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Reescreva para a direção: “Os aluno precisa de mais livros. A gente pede uma reunião amanhã.” Preserve o pedido e o prazo, explique duas escolhas e apresente oralmente a versão, usando norma-padrão quando necessária. Um colega registra se a solicitação ficou clara; revise após a devolutiva."
+    ],
+    "resumo": "Revisão consciente em situações formais",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Revisar com finalidade</h2><p>Para escrever um pedido à direção, precisamos tornar claros o destinatário, a solicitação e seus motivos. Quando o gênero e a situação pedem norma-padrão, podemos revisar concordância, pontuação e grafia, sem desqualificar quem produziu a primeira versão.</p><h3>Da conversa ao pedido</h3><p><strong>Mensagem fictícia entre colegas:</strong> “A gente quer mais livros. As turma vai mandar os pedido amanhã.”</p><p><strong>Versão para a direção:</strong> “À direção: solicitamos a ampliação do acervo da biblioteca. As turmas enviarão os pedidos amanhã. Agradecemos a atenção.”</p><p>“A gente quer” tem concordância compatível com a norma-padrão; sua troca por “solicitamos” foi uma escolha de registro, não uma correção obrigatória. Em “as turma vai”, a revisão formal estabelece “as turmas vão”; “os pedido” passa a “os pedidos”. A forma “enviarão” também explicita uma ação futura. Não altere a data, a solicitação ou o responsável ao revisar.</p><h3>Procedimento</h3><ol><li>Identifique destinatário e finalidade.</li><li>Confira se as informações estão completas.</li><li>Revise concordância, grafia e pontuação.</li><li>Explique duas escolhas e compare o sentido com o original.</li></ol><p>A fala também pode ser planejada e formal, como em uma apresentação ao conselho escolar. Uma mensagem escrita a um amigo pode admitir outro registro.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "usar_a_norma_padrao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual revisão mantém o sentido e segue a concordância padrão?",
+      "alternativas": [
+        "Os alunos precisa de livros.",
+        "Os aluno precisam de livros.",
+        "Os alunos precisam de livros.",
+        "O alunos precisa de livros."
+      ],
+      "correta": 2,
+      "explicacao": "O artigo, o substantivo e o verbo concordam em número.",
+      "bncc": [
+        "EF69LP56"
+      ]
+    },
+    {
+      "id": "usar_a_norma_padrao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Reescreva para a direção: “Os aluno precisa de mais livros. A gente pede uma reunião amanhã.” Preserve o pedido e o prazo, explique duas escolhas e apresente oralmente a versão, usando norma-padrão quando necessária. Um colega registra se a solicitação ficou clara; revise após a devolutiva.",
+      "gabarito": "Possibilidade: “À direção: os alunos precisam de mais livros. Solicitamos uma reunião amanhã.” Explicar plural de alunos e concordância de precisam. A gente pede já tem concordância padrão; solicitamos é opção de registro. Conferir apresentação real e revisão, sem avaliar sotaque.",
+      "rubrica": [
+        "Preservar informação e explicitar destinatário.",
+        "Aplicar e explicar concordância e pontuação.",
+        "Apresentar oralmente e revisar após devolutiva, respeitando o sotaque."
+      ],
+      "bncc": [
+        "EF69LP56"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        163,
+        165
+      ],
+      "paginasImpressas": "161, 163",
+      "uso": "Delimitação curricular das quatro habilidades do piloto."
+    },
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "paginasImpressas": "11–15",
+      "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; homologação docente e aplicação pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}
