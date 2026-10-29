@@ -2,36 +2,117 @@
   "id": "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
   "componente": "mat",
   "nivel": "EF01",
-  "ordem": 7,
+  "ordem": 16,
   "unidade": "Figuras Geométricas",
   "titulo": "Figuras Planas e Espaciais",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF01MA13",
+    "EF01MA14"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Distinguir objetos espaciais e representações de figuras planas."
+    ],
+    "resumo": "Distinguir objetos espaciais e representações de figuras planas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Formas do Mundo</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Diferença entre o desenho no papel (achatado) e o objeto real (sólido) que a gente consegue segurar.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚽ Exemplo:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O círculo parece uma pizza ou um relógio. A esfera parece uma bola de futebol.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Figuras Planas e Espaciais</h2><h3>O que vamos aprender</h3><p>Distinguir objetos espaciais e representações de figuras planas.</p><h3>Ideias e relações</h3><p>Uma caixa ocupa espaço e pode ser observada de diferentes lados. Um desenho do contorno de uma de suas faces pode representar um retângulo. A bola lembra uma esfera; seu desenho na folha pode ter um contorno circular, mas círculo e esfera são ideias diferentes. Nas figuras planas, vamos reconhecer círculo, quadrado, retângulo e triângulo. Podemos girar a folha sem mudar o nome de uma figura. Observe as características, e não apenas a posição em que ela aparece.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Quatro figuras planas: círculo, quadrado, retângulo e triângulo, identificadas por escrito.\" style=\"max-width:100%;color:inherit\"><title>Quatro figuras planas: círculo, quadrado, retângulo e triângulo, identificadas por escrito.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\"><circle cx=\"55\" cy=\"100\" r=\"30\"/><rect x=\"125\" y=\"70\" width=\"60\" height=\"60\"/><rect x=\"220\" y=\"80\" width=\"90\" height=\"45\"/><path d=\"M345 130 380 65 415 130Z\"/></g><g fill=\"currentColor\" font-size=\"13\"><text x=\"30\" y=\"170\">Círculo</text><text x=\"125\" y=\"170\">Quadrado</text><text x=\"225\" y=\"170\">Retângulo</text><text x=\"345\" y=\"170\">Triângulo</text></g></svg><h3>Exemplo resolvido</h3><p>A face de uma caixa retangular pode deixar um contorno retangular quando é traçada sobre papel. A caixa inteira é espacial; o contorno desenhado é plano.</p><h3>Atenção ao raciocínio</h3><p>Uma bola não é um círculo: usamos a esfera como modelo para sua forma espacial.</p><h3>Investigue e produza</h3><p>Observe uma caixa e uma bola. Descreva suas formas e desenhe o contorno de uma face da caixa. Identifique também as quatro figuras da ilustração, depois de girar a folha.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "figuras_planas",
+      "figuras_espaciais"
+    ],
+    "errosComuns": [
+      "Uma bola não é um círculo: usamos a esfera como modelo para sua forma espacial."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "figuras_planas_e_espaciais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma bola costuma lembrar qual figura espacial?",
+      "alternativas": [
+        "Triângulo",
+        "Retângulo",
+        "Esfera"
+      ],
+      "correta": 2,
+      "explicacao": "A esfera é um modelo espacial para a forma da bola."
+    },
+    {
+      "id": "figuras_planas_e_espaciais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Observe uma caixa e uma bola. Descreva suas formas e desenhe o contorno de uma face da caixa. Identifique também as quatro figuras da ilustração, depois de girar a folha.",
+      "gabarito": "Conferir a distinção entre objeto e desenho plano. Relacionar bola a esfera e caixa a bloco; reconhecer círculo, quadrado, retângulo e triângulo em diferentes orientações.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir a distinção entre objeto e desenho plano. Relacionar bola a esfera e caixa a bloco; reconhecer círculo, quadrado, retângulo e triângulo em diferentes orientações.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_planas",
+    "figuras_espaciais"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -1,0 +1,111 @@
+{
+  "id": "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 3,
+  "unidade": "Vocabulário Fundamental",
+  "titulo": "Pontos de Referência e Posição",
+  "bncc": [
+    "EF01MA12"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Informar o ponto de referência ao descrever uma localização."
+    ],
+    "resumo": "Informar o ponto de referência ao descrever uma localização.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Pontos de Referência e Posição</h2><h3>O que vamos aprender</h3><p>Informar o ponto de referência ao descrever uma localização.</p><h3>Ideias e relações</h3><p>Uma localização precisa de uma referência. “A bola está à direita da cadeira” é mais claro que dizer apenas “está à direita”. Também precisamos combinar de onde olhamos. Duas pessoas de frente uma para a outra têm direitas em lados diferentes do espaço. Em um desenho, podemos combinar a direita de quem olha para a folha. Acima e abaixo também devem ser relacionados a um objeto ou ao desenho observado.</p><h3>Exemplo resolvido</h3><p>No desenho visto de frente, a cadeira está no centro, a bola à direita da cadeira e o livro à esquerda. A descrição usa a cadeira e a posição de quem olha para a folha.</p><h3>Atenção ao raciocínio</h3><p>Não troque a referência no meio de uma explicação sem avisar.</p><h3>Investigue e produza</h3><p>Desenhe uma cadeira no centro, uma bola à direita e um livro à esquerda para quem olha a folha. Dite as posições para outra pessoa desenhar e compare os dois desenhos.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "localizacao",
+      "pontos_de_referencia"
+    ],
+    "errosComuns": [
+      "Não troque a referência no meio de uma explicação sem avisar."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pontos_de_referencia_e_posicao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual frase informa melhor a localização?",
+      "alternativas": [
+        "O livro está à esquerda da cadeira, para quem olha o desenho",
+        "O livro está ali",
+        "O livro está em algum lugar"
+      ],
+      "correta": 0,
+      "explicacao": "A frase identifica a referência e o ponto de vista."
+    },
+    {
+      "id": "pontos_de_referencia_e_posicao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe uma cadeira no centro, uma bola à direita e um livro à esquerda para quem olha a folha. Dite as posições para outra pessoa desenhar e compare os dois desenhos.",
+      "gabarito": "Os desenhos devem concordar com a cadeira como referência e com o ponto de vista combinado. Avaliar a descrição e a possibilidade de outra pessoa reconstruir as posições.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Os desenhos devem concordar com a cadeira como referência e com o ponto de vista combinado. Avaliar a descrição e a possibilidade de outra pessoa reconstruir as posições.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "localizacao",
+    "pontos_de_referencia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao"
+  ],
+  "proximosPassos": [
+    "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

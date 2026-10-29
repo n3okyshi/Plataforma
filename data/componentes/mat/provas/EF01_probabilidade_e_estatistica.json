@@ -1,0 +1,129 @@
+{
+  "id": "mat.ef01.probabilidade_e_estatistica.prova",
+  "titulo": "Avaliação: Probabilidade e Estatística",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF01",
+  "unidade": "Probabilidade e Estatística",
+  "bncc": [
+    "EF01MA20",
+    "EF01MA21",
+    "EF01MA22"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef01.probabilidade_e_estatistica.prova.01",
+    "mat.ef01.probabilidade_e_estatistica.prova.02",
+    "mat.ef01.probabilidade_e_estatistica.prova.03",
+    "mat.ef01.probabilidade_e_estatistica.prova.04",
+    "mat.ef01.probabilidade_e_estatistica.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF01MA20",
+      "questoes": [
+        "mat.ef01.probabilidade_e_estatistica.prova.01",
+        "mat.ef01.probabilidade_e_estatistica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano#eventos_do_cotidiano.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01MA21",
+      "questoes": [
+        "mat.ef01.probabilidade_e_estatistica.prova.03",
+        "mat.ef01.probabilidade_e_estatistica.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas#tabelas_e_graficos_de_colunas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01MA22",
+      "questoes": [
+        "mat.ef01.probabilidade_e_estatistica.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula#pesquisa_na_sala_de_aula.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef01.probabilidade_e_estatistica.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Probabilidade e Estatística",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Monte uma sacola de brincadeira com duas cores. Diga um acontecimento certo, um que talvez aconteça e um impossível. Faça sorteios com devolução da peça e explique por que o resultado pode variar. 2. Leia a tabela e o gráfico: indique a categoria com mais votos, a com menos e o total de votos. Explique onde encontrou cada resposta e desenhe outra forma de representar os mesmos dados. 3. Escolha uma pergunta sobre brincadeiras, histórias ou outro interesse do grupo. Consulte de cinco a trinta participantes, sem nomes, com uma resposta de cada. Organize as respostas por marcas ou desenhos, conte e apresente o que descobriu.",
+    "gabarito": "Conferência por tarefa: 1. As classificações devem corresponder à composição real da sacola. Repor a peça mantém a composição, mas não obriga repetir a cor. Registrar falas e justificativas, sem exigir cálculo de probabilidades. 2. Bola tem mais, com quatro; quebra-cabeça tem menos, com um; o total é oito. A nova representação deve preservar as três quantidades e identificar as categorias. 3. Conferir pergunta, grupo consultado, categorias, uma resposta por participante e total de registros. Os valores não são predefinidos. Avaliar coleta e organização, aceitando apresentação oral e registros pessoais.",
+    "bncc": [
+      "EF01MA20",
+      "EF01MA21",
+      "EF01MA22"
+    ],
+    "atividadesOrigem": [
+      "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano#eventos_do_cotidiano.investigacao",
+      "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas#tabelas_e_graficos_de_colunas.investigacao",
+      "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula#pesquisa_na_sala_de_aula.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Acontecerá com Certeza, Talvez ou É Impossível",
+        "enunciado": "Monte uma sacola de brincadeira com duas cores. Diga um acontecimento certo, um que talvez aconteça e um impossível. Faça sorteios com devolução da peça e explique por que o resultado pode variar.",
+        "gabarito": "As classificações devem corresponder à composição real da sacola. Repor a peça mantém a composição, mas não obriga repetir a cor. Registrar falas e justificativas, sem exigir cálculo de probabilidades.",
+        "bncc": [
+          "EF01MA20"
+        ],
+        "atividadeOrigem": "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano#eventos_do_cotidiano.investigacao"
+      },
+      {
+        "titulo": "Tabelas e Gráficos de Colunas",
+        "enunciado": "Leia a tabela e o gráfico: indique a categoria com mais votos, a com menos e o total de votos. Explique onde encontrou cada resposta e desenhe outra forma de representar os mesmos dados.",
+        "gabarito": "Bola tem mais, com quatro; quebra-cabeça tem menos, com um; o total é oito. A nova representação deve preservar as três quantidades e identificar as categorias.",
+        "bncc": [
+          "EF01MA21"
+        ],
+        "atividadeOrigem": "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas#tabelas_e_graficos_de_colunas.investigacao"
+      },
+      {
+        "titulo": "Pesquisa na Sala de Aula",
+        "enunciado": "Escolha uma pergunta sobre brincadeiras, histórias ou outro interesse do grupo. Consulte de cinco a trinta participantes, sem nomes, com uma resposta de cada. Organize as respostas por marcas ou desenhos, conte e apresente o que descobriu.",
+        "gabarito": "Conferir pergunta, grupo consultado, categorias, uma resposta por participante e total de registros. Os valores não são predefinidos. Avaliar coleta e organização, aceitando apresentação oral e registros pessoais.",
+        "bncc": [
+          "EF01MA22"
+        ],
+        "atividadeOrigem": "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula#pesquisa_na_sala_de_aula.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        283
+      ],
+      "paginasImpressas": "281",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ]
+}

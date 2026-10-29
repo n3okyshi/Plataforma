@@ -1,0 +1,119 @@
+{
+  "id": "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 17,
+  "unidade": "Figuras Geométricas",
+  "titulo": "Figuras Espaciais do Cotidiano",
+  "bncc": [
+    "EF01MA13"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Relacionar esfera, cone, cilindro e bloco retangular a objetos conhecidos."
+    ],
+    "resumo": "Relacionar esfera, cone, cilindro e bloco retangular a objetos conhecidos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Figuras Espaciais do Cotidiano</h2><h3>O que vamos aprender</h3><p>Relacionar esfera, cone, cilindro e bloco retangular a objetos conhecidos.</p><h3>Ideias e relações</h3><p>As formas geométricas ajudam a descrever objetos. Uma bola pode lembrar uma esfera, uma embalagem de lata pode lembrar um cilindro, uma caixa pode lembrar um bloco retangular e um chapéu de festa pode lembrar um cone. Os objetos reais nem sempre são formas perfeitas: tampas, bordas e partes decoradas podem alterar sua aparência. Observe o objeto inteiro, toque quando possível e explique quais partes lembram o modelo.</p><h3>Exemplo resolvido</h3><p>Uma lata fechada, sem considerar pequenos detalhes, lembra um cilindro: tem duas bases circulares e uma parte lateral curva. Uma caixa de sapatos lembra um bloco retangular.</p><h3>Atenção ao raciocínio</h3><p>O objeto não precisa ter a mesma cor ou o mesmo tamanho de outro para lembrar a mesma forma.</p><h3>Investigue e produza</h3><p>Encontre ou desenhe exemplos que lembrem esfera, cone, cilindro e bloco retangular. Explique o que observou em cada exemplo e em que o objeto pode diferir do modelo.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "figuras_espaciais",
+      "cotidiano"
+    ],
+    "errosComuns": [
+      "O objeto não precisa ter a mesma cor ou o mesmo tamanho de outro para lembrar a mesma forma."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "figuras_espaciais_do_cotidiano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Sem considerar pequenos detalhes, uma lata fechada costuma lembrar um:",
+      "alternativas": [
+        "Triângulo",
+        "Cilindro",
+        "Cone"
+      ],
+      "correta": 1,
+      "explicacao": "Seu formato tem duas bases circulares e uma parte lateral curva."
+    },
+    {
+      "id": "figuras_espaciais_do_cotidiano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Encontre ou desenhe exemplos que lembrem esfera, cone, cilindro e bloco retangular. Explique o que observou em cada exemplo e em que o objeto pode diferir do modelo.",
+      "gabarito": "Conferir os quatro pares entre modelos e objetos. Aceitar descrição oral e manipulação. A justificativa deve se apoiar na forma, não somente na cor, na função ou no tamanho.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir os quatro pares entre modelos e objetos. Aceitar descrição oral e manipulação. A justificativa deve se apoiar na forma, não somente na cor, na função ou no tamanho.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_espaciais",
+    "cotidiano"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais"
+  ],
+  "proximosPassos": [
+    "mat.ef01.figuras_geometricas.contornos_e_faces"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

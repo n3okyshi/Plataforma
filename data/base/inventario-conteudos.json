@@ -114,6 +114,56 @@
       "aplicacaoEmTurma": "pendente",
       "revisaoVisual": "pendente",
       "persistenciaFirebase": "pendente"
+    },
+    "mat.EF01": {
+      "estado": "piloto_integral",
+      "aulas": 26,
+      "unidades": 9,
+      "atividades": 52,
+      "questoesTreino": 26,
+      "questoesProva": 45,
+      "provas": 9,
+      "etapasPraticas": 9,
+      "habilidadesReferenciadas": 22,
+      "aplicacaoEmTurma": "pendente",
+      "homologacaoDocente": "pendente",
+      "revisaoVisualEAcessibilidade": "pendente",
+      "persistenciaFirebase": "pendente"
     }
+  },
+  "ampliacaoAnosIniciais": {
+    "escopo": "Matemática, Língua Portuguesa e Ciências: EF01–EF09, conforme nova ordem de serviço.",
+    "matematica": [
+      {
+        "nivel": "EF01",
+        "estado": "lote_integral_para_testes",
+        "observacao": "Não tratar planejamento ou vínculo de código como conteúdo concluído."
+      },
+      {
+        "nivel": "EF02",
+        "estado": "planejamento_a_completar",
+        "observacao": "Não tratar planejamento ou vínculo de código como conteúdo concluído."
+      },
+      {
+        "nivel": "EF03",
+        "estado": "planejamento_a_completar",
+        "observacao": "Não tratar planejamento ou vínculo de código como conteúdo concluído."
+      },
+      {
+        "nivel": "EF04",
+        "estado": "planejamento_a_completar",
+        "observacao": "Não tratar planejamento ou vínculo de código como conteúdo concluído."
+      },
+      {
+        "nivel": "EF05",
+        "estado": "planejamento_a_completar",
+        "observacao": "Não tratar planejamento ou vínculo de código como conteúdo concluído."
+      }
+    ],
+    "lacunas": [
+      "Matemática EF02–EF05 ainda requer autoria em todas as camadas.",
+      "Língua Portuguesa EF01–EF05 e Ciências EF01–EF05 incluídas no escopo, sem novos lotes concluídos.",
+      "Manual Compacto usado como referência conceitual; não representa sequência pronta para alfabetização matemática."
+    ]
   }
 }

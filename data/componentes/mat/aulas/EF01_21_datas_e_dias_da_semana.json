@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 21,
+  "unidade": "Grandezas, medidas e mais números",
+  "titulo": "Datas e Dias da Semana",
+  "bncc": [
+    "EF01MA18"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escrever dia, mês e ano e consultar o dia da semana em um calendário."
+    ],
+    "resumo": "Escrever dia, mês e ano e consultar o dia da semana em um calendário.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Datas e Dias da Semana</h2><h3>O que vamos aprender</h3><p>Escrever dia, mês e ano e consultar o dia da semana em um calendário.</p><h3>Ideias e relações</h3><p>Uma data informa dia, mês e ano. Podemos escrever “4 de maio de 2026” ou “04/05/2026”, combinando a ordem dia, mês e ano. Para descobrir o dia da semana, procure o mês e o ano corretos no calendário e observe a coluna do dia escolhido. O mesmo número de dia pode cair em dias da semana diferentes em outros meses ou anos. Use o calendário apresentado para conferir, sem precisar decorar.</p><table><caption>Maio de 2026</caption><thead><tr><th scope=\"col\">Dom</th><th scope=\"col\">Seg</th><th scope=\"col\">Ter</th><th scope=\"col\">Qua</th><th scope=\"col\">Qui</th><th scope=\"col\">Sex</th><th scope=\"col\">Sáb</th></tr></thead><tbody><tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>2</td></tr><tr><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td></tr><tr><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td></tr><tr><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td></tr><tr><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td></tr><tr><td>31</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr></tbody></table><h3>Exemplo resolvido</h3><p>No calendário de maio de 2026, o dia 4 fica na coluna da segunda-feira. A data pode ser registrada como 04/05/2026.</p><h3>Atenção ao raciocínio</h3><p>Consultar maio de outro ano pode produzir um dia da semana diferente.</p><h3>Investigue e produza</h3><p>Use o calendário para escrever a data completa do dia 15 de maio de 2026 e indicar o dia da semana. Depois escolha uma data no calendário do seu grupo e registre dia, mês e ano.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "calendario",
+      "tempo"
+    ],
+    "errosComuns": [
+      "Consultar maio de outro ano pode produzir um dia da semana diferente."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "datas_e_dias_da_semana.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No calendário apresentado, 4 de maio de 2026 é:",
+      "alternativas": [
+        "Segunda-feira",
+        "Domingo",
+        "Sexta-feira"
+      ],
+      "correta": 0,
+      "explicacao": "O número 4 está na coluna Seg do mês de maio de 2026."
+    },
+    {
+      "id": "datas_e_dias_da_semana.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Use o calendário para escrever a data completa do dia 15 de maio de 2026 e indicar o dia da semana. Depois escolha uma data no calendário do seu grupo e registre dia, mês e ano.",
+      "gabarito": "15/05/2026, sexta-feira. Na escolha livre, conferir o mês e o ano do calendário utilizado e a coluna do dia. Aceitar ditado ao adulto durante a aprendizagem da escrita.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "15/05/2026, sexta-feira. Na escolha livre, conferir o mês e o ano do calendário utilizado e a coluna do dia. Aceitar ditado ao adulto durante a aprendizagem da escrita.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "calendario",
+    "tempo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        283
+      ],
+      "paginasImpressas": "281",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

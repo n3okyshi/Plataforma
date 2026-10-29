@@ -27,7 +27,17 @@ As 30 provas têm cinco itens próprios e portfólios com tarefas, respostas esp
 
 As 87 habilidades têm evidências planejadas nos arquivos de cobertura de cada ano. Inequações do 7º ano e a retomada de conjuntos do 8º estão sinalizadas como complementos opcionais. Conteúdo disponível não comprova aprendizagem.
 
-O estado do material é **piloto**, com aplicação em turma, conferência visual no navegador, persistência Firebase e homologação docente pendentes. As demais séries e disciplinas permanecem em desenvolvimento, seguindo a ordem de serviço. O próximo lote de autoria é Matemática do Ensino Médio.
+O estado do material é **piloto**, com aplicação em turma, conferência visual no navegador, persistência Firebase e homologação docente pendentes. As demais séries e disciplinas permanecem em desenvolvimento, seguindo a ordem de serviço. A ordem ampliada inclui EF01–EF05 antes do Ensino Médio; após o lote EF01, a autoria segue por EF02–EF05.
+
+## Ampliação para os anos iniciais
+
+O lote **Matemática · 1º ano (EF01)** contém 26 aulas em nove unidades, 52 atividades, 26 questões de treino e nove provas com 45 itens próprios. As 22 habilidades têm evidências planejadas em `data/componentes/mat/cobertura_EF01.json`. Cada prova inclui um portfólio de produções com critérios específicos, observação docente e possibilidade de revisão.
+
+A proposta prevê leitura mediada e respostas por fala, gestos, objetos ou desenhos, com ajuda de um adulto para o registro digital. Não exige velocidade nem escrita autônoma para demonstrar conhecimentos matemáticos. As atividades incluem contagem até cem, agrupamentos e padrões, localização com referências, formas, comparação de grandezas, calendário, valores monetários, situações de acaso e pesquisa real de até trinta participantes. Ilustrações, calendário, tabela e gráfico estão incorporados às aulas. O Manual Compacto é referência conceitual, sem transferência de sua linguagem para a alfabetização matemática.
+
+Os doze IDs anteriores do percurso EF01 foram preservados. Os seis subtópicos integrados em aulas completas têm destinos registrados em `integracoes_EF01.json`. O inventário registra EF02–EF05 como planejamento a completar; a ampliação de Língua Portuguesa e Ciências também está na ordem de serviço. Os lotes EF06–EF09 permanecem preservados.
+
+O EF01 está em **piloto para testes**, com aplicação em turma, revisão visual e de acessibilidade, Firebase e homologação docente pendentes. A nota objetiva é apenas uma devolutiva parcial; a observação das produções é indispensável.
 
 ## Organização
 
@@ -42,7 +52,7 @@ O estado do material é **piloto**, com aplicação em turma, conferência visua
 | `arena` | Questões e provas disponíveis para os motores de interação |
 | `js` | Navegação, registro, atividades, gamificação e interface |
 
-Os PDFs são referenciados por nome e página em [fontes](data/base/fontes.json), sem redistribuição dos arquivos no repositório. Há 69 referências catalogadas. O PDF BNCC de 600 páginas contém Educação Infantil, Ensino Fundamental e Ensino Médio. As aulas EF06–EF09 têm referências com páginas impressas e páginas do PDF identificadas; os vínculos recuperados das demais séries continuam pendentes de conferência.
+Os PDFs são referenciados por nome e página em [fontes](data/base/fontes.json), sem redistribuição dos arquivos no repositório. Há 69 referências catalogadas. O PDF BNCC de 600 páginas contém Educação Infantil, Ensino Fundamental e Ensino Médio. As aulas EF01 e EF06–EF09 têm referências com páginas impressas e páginas do PDF identificadas; os vínculos recuperados das demais séries continuam pendentes de conferência.
 
 ## Contratos e estados
 

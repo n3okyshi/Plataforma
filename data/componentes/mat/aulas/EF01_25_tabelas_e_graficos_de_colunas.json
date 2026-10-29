@@ -1,0 +1,111 @@
+{
+  "id": "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 25,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Tabelas e Gráficos de Colunas",
+  "bncc": [
+    "EF01MA21"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Ler quantidades e comparações em tabela e gráfico simples."
+    ],
+    "resumo": "Ler quantidades e comparações em tabela e gráfico simples.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Tabelas e Gráficos de Colunas</h2><h3>O que vamos aprender</h3><p>Ler quantidades e comparações em tabela e gráfico simples.</p><h3>Ideias e relações</h3><p>Uma tabela organiza nomes e quantidades. Um gráfico de colunas mostra essas quantidades por alturas. Leia o título para saber o assunto, os nomes para saber o que está sendo comparado e os números para interpretar a altura. No exemplo, cada passo no eixo vale um voto e a contagem começa em zero. A mesma informação pode aparecer em tabela e gráfico. Os dados desta aula foram inventados para aprender a leitura, não coletados numa turma real.</p><table><caption>Brincadeira escolhida por oito participantes — dados fictícios</caption><thead><tr><th scope=\"col\">Brincadeira</th><th scope=\"col\">Votos</th></tr></thead><tbody><tr><td>Bola</td><td>4</td></tr><tr><td>Desenho</td><td>3</td></tr><tr><td>Quebra-cabeça</td><td>1</td></tr></tbody></table><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Gráfico de colunas com dados fictícios: bola quatro votos, desenho três votos, quebra-cabeça um voto. O eixo inicia em zero e avança de um em um.\" style=\"max-width:100%;color:inherit\"><title>Gráfico de colunas com dados fictícios: bola quatro votos, desenho três votos, quebra-cabeça um voto. O eixo inicia em zero e avança de um em um.</title><path d=\"M65 35V190H410\" fill=\"none\" stroke=\"currentColor\"/><text x=\"43\" y=\"194\" fill=\"currentColor\" font-size=\"15\">0</text><text x=\"43\" y=\"159\" fill=\"currentColor\" font-size=\"15\">1</text><text x=\"43\" y=\"124\" fill=\"currentColor\" font-size=\"15\">2</text><text x=\"43\" y=\"89\" fill=\"currentColor\" font-size=\"15\">3</text><text x=\"43\" y=\"54\" fill=\"currentColor\" font-size=\"15\">4</text><g fill=\"#2563eb\"><rect x=\"105\" y=\"50\" width=\"60\" height=\"140\"/><rect x=\"215\" y=\"85\" width=\"60\" height=\"105\"/><rect x=\"325\" y=\"155\" width=\"60\" height=\"35\"/></g><g fill=\"currentColor\" font-size=\"13\"><text x=\"115\" y=\"215\">Bola</text><text x=\"215\" y=\"215\">Desenho</text><text x=\"307\" y=\"215\">Quebra-cabeça</text><text x=\"15\" y=\"25\">Votos</text><text x=\"15\" y=\"245\">Fonte: exemplo autoral fictício, 29/10/2026.</text></g></svg><h3>Exemplo resolvido</h3><p>Na tabela e no gráfico, bola recebeu quatro votos, desenho três e quebra-cabeça um. Bola recebeu mais votos que desenho; isso não quer dizer que todas as pessoas escolheram bola.</p><h3>Atenção ao raciocínio</h3><p>A altura de uma coluna precisa ser lida junto com a escala, não apenas pela aparência.</p><h3>Investigue e produza</h3><p>Leia a tabela e o gráfico: indique a categoria com mais votos, a com menos e o total de votos. Explique onde encontrou cada resposta e desenhe outra forma de representar os mesmos dados.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "tabelas",
+      "graficos"
+    ],
+    "errosComuns": [
+      "A altura de uma coluna precisa ser lida junto com a escala, não apenas pela aparência."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "tabelas_e_graficos_de_colunas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Nos dados apresentados, quantos votos recebeu desenho?",
+      "alternativas": [
+        "4",
+        "1",
+        "3"
+      ],
+      "correta": 2,
+      "explicacao": "A tabela informa três, e a coluna de desenho chega à marca 3."
+    },
+    {
+      "id": "tabelas_e_graficos_de_colunas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Leia a tabela e o gráfico: indique a categoria com mais votos, a com menos e o total de votos. Explique onde encontrou cada resposta e desenhe outra forma de representar os mesmos dados.",
+      "gabarito": "Bola tem mais, com quatro; quebra-cabeça tem menos, com um; o total é oito. A nova representação deve preservar as três quantidades e identificar as categorias.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Bola tem mais, com quatro; quebra-cabeça tem menos, com um; o total é oito. A nova representação deve preservar as três quantidades e identificar as categorias.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "tabelas",
+    "graficos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        283
+      ],
+      "paginasImpressas": "281",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano"
+  ],
+  "proximosPassos": [
+    "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

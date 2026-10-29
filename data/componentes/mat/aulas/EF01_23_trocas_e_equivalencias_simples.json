@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 23,
+  "unidade": "Nosso dinheiro e mais sobre números",
+  "titulo": "Trocas e Equivalências Simples",
+  "bncc": [
+    "EF01MA19"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Construir pagamentos equivalentes e reconhecer a relação entre real e centavos."
+    ],
+    "resumo": "Construir pagamentos equivalentes e reconhecer a relação entre real e centavos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Trocas e Equivalências Simples</h2><h3>O que vamos aprender</h3><p>Construir pagamentos equivalentes e reconhecer a relação entre real e centavos.</p><h3>Ideias e relações</h3><p>Valores iguais podem ser formados com quantidades diferentes de moedas. Um real equivale a cem centavos. Assim, duas moedas de cinquenta centavos têm o mesmo valor que uma moeda de um real. Também podemos trocar um cartão que representa cinco reais por cinco cartões de um real. No mercadinho de brincadeira, confira o total antes e depois da troca: o valor deve permanecer igual.</p><h3>Exemplo resolvido</h3><p>Quatro moedas de cinquenta centavos totalizam duzentos centavos, que correspondem a dois reais. Duas moedas de um real têm o mesmo valor total.</p><h3>Atenção ao raciocínio</h3><p>Ter mais moedas não garante ter mais dinheiro: depende do valor de cada moeda.</p><h3>Investigue e produza</h3><p>Monte duas maneiras de representar R$ 2, usando moedas de R$ 1 e de cinquenta centavos ou cartões com esses valores. Depois simule comprar algo de R$ 3 pagando R$ 5 e confira o valor que deve voltar.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "sistema_monetario",
+      "equivalencia"
+    ],
+    "errosComuns": [
+      "Ter mais moedas não garante ter mais dinheiro: depende do valor de cada moeda."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "trocas_e_equivalencias_simples.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Duas moedas de cinquenta centavos têm o mesmo valor que:",
+      "alternativas": [
+        "Cinquenta reais",
+        "Um real",
+        "Dois reais"
+      ],
+      "correta": 1,
+      "explicacao": "Cinquenta mais cinquenta são cem centavos, equivalentes a um real."
+    },
+    {
+      "id": "trocas_e_equivalencias_simples.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Monte duas maneiras de representar R$ 2, usando moedas de R$ 1 e de cinquenta centavos ou cartões com esses valores. Depois simule comprar algo de R$ 3 pagando R$ 5 e confira o valor que deve voltar.",
+      "gabarito": "R$ 2 pode ser 1+1 ou quatro parcelas de cinquenta centavos, entre outras combinações. Na compra fictícia, devem voltar R$ 2, pois 3+2=5. Avaliar a relação de valores, não a quantidade de peças.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "R$ 2 pode ser 1+1 ou quatro parcelas de cinquenta centavos, entre outras combinações. Na compra fictícia, devem voltar R$ 2, pois 3+2=5. Avaliar a relação de valores, não a quantidade de peças.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sistema_monetario",
+    "equivalencia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        283
+      ],
+      "paginasImpressas": "281",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

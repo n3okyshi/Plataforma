@@ -1,0 +1,117 @@
+{
+  "id": "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 13,
+  "unidade": "Adição e Subtração",
+  "titulo": "Cálculo Mental com Fatos Básicos",
+  "bncc": [
+    "EF01MA06"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Construir fatos da adição e usá-los para calcular por decomposição."
+    ],
+    "resumo": "Construir fatos da adição e usá-los para calcular por decomposição.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Cálculo Mental com Fatos Básicos</h2><h3>O que vamos aprender</h3><p>Construir fatos da adição e usá-los para calcular por decomposição.</p><h3>Ideias e relações</h3><p>Algumas adições podem nos ajudar em outras. Se sabemos que 5 + 5 = 10, podemos descobrir 5 + 6 pensando em dez e mais um. Completar dez também ajuda: em 8 + 5, separamos 5 em 2 e 3, juntamos 8 e 2 e depois acrescentamos 3. Use dedos, peças ou desenhos para construir e conferir essas ideias. Explicar uma estratégia é mais útil que responder com pressa.</p><h3>Exemplo resolvido</h3><p>Para 9 + 4, tiramos 1 do grupo de quatro para completar dez com nove. Sobram três. Dez e três são treze.</p><h3>Atenção ao raciocínio</h3><p>Ao separar uma parcela, precisamos conservar seu total: 4 foi separado em 1 e 3.</p><h3>Investigue e produza</h3><p>Monte com peças os fatos 6+4, 6+5 e 8+4. Explique como uma soma conhecida ou completar dez ajuda a encontrar os resultados.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "calculo_mental",
+      "adicao"
+    ],
+    "errosComuns": [
+      "Ao separar uma parcela, precisamos conservar seu total: 4 foi separado em 1 e 3."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "calculo_mental_com_fatos_basicos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para calcular 9 + 4 completando dez, podemos pensar em:",
+      "alternativas": [
+        "10 + 4",
+        "9 + 1",
+        "10 + 3"
+      ],
+      "correta": 2,
+      "explicacao": "Um dos quatro completa dez com nove; os três restantes dão treze."
+    },
+    {
+      "id": "calculo_mental_com_fatos_basicos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Monte com peças os fatos 6+4, 6+5 e 8+4. Explique como uma soma conhecida ou completar dez ajuda a encontrar os resultados.",
+      "gabarito": "Resultados 10, 11 e 12. Observar a construção da estratégia: 6+5 pode usar 6+4+1; 8+4 pode usar 8+2+2. Aceitar outras justificativas corretas.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Resultados 10, 11 e 12. Observar a construção da estratégia: 6+5 pode usar 6+4+1; 8+4 pode usar 8+2+2. Aceitar outras justificativas corretas.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "calculo_mental",
+    "adicao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29
+      ],
+      "paginasImpressas": "32",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

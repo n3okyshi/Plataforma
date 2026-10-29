@@ -1,0 +1,540 @@
+{
+  "nivel": "EF01",
+  "estado": "piloto_integral",
+  "aulas": 26,
+  "unidades": 9,
+  "habilidades": [
+    {
+      "codigo": "EF01MA01",
+      "aulas": [
+        "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+        "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais"
+      ],
+      "atividades": [
+        "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.aplicacao",
+        "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.investigacao",
+        "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais#numeros_ordinais.aplicacao",
+        "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais#numeros_ordinais.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.numeros_ate_10.treino.01",
+        "mat.ef01.ordenacao_e_mais_numeros.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef01.numeros_ate_10.prova.01",
+        "mat.ef01.numeros_ate_10.prova.02",
+        "mat.ef01.ordenacao_e_mais_numeros.prova.01",
+        "mat.ef01.ordenacao_e_mais_numeros.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.numeros_ate_10.pratica",
+        "mat.ef01.ordenacao_e_mais_numeros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA02",
+      "aulas": [
+        "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+        "mat.ef01.numeros_ate_10.pareamento_e_estimativa"
+      ],
+      "atividades": [
+        "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.aplicacao",
+        "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.investigacao",
+        "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.aplicacao",
+        "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.numeros_ate_10.treino.01",
+        "mat.ef01.numeros_ate_10.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef01.numeros_ate_10.prova.01",
+        "mat.ef01.numeros_ate_10.prova.04",
+        "mat.ef01.numeros_ate_10.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.numeros_ate_10.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA03",
+      "aulas": [
+        "mat.ef01.numeros_ate_10.comparacao_de_quantidades",
+        "mat.ef01.numeros_ate_10.pareamento_e_estimativa",
+        "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao"
+      ],
+      "atividades": [
+        "mat.ef01.numeros_ate_10.comparacao_de_quantidades#comparacao_de_quantidades.aplicacao",
+        "mat.ef01.numeros_ate_10.comparacao_de_quantidades#comparacao_de_quantidades.investigacao",
+        "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.aplicacao",
+        "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.investigacao",
+        "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.aplicacao",
+        "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.numeros_ate_10.treino.02",
+        "mat.ef01.numeros_ate_10.treino.03",
+        "mat.ef01.adicao_e_subtracao.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef01.numeros_ate_10.prova.03",
+        "mat.ef01.numeros_ate_10.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.numeros_ate_10.pratica",
+        "mat.ef01.adicao_e_subtracao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA04",
+      "aulas": [
+        "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas"
+      ],
+      "atividades": [
+        "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas#numeros_ate_100_e_dezenas_exatas.aplicacao",
+        "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas#numeros_ate_100_e_dezenas_exatas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.numeros_ate_100.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef01.numeros_ate_100.prova.01",
+        "mat.ef01.numeros_ate_100.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.numeros_ate_100.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA05",
+      "aulas": [
+        "mat.ef01.numeros_ate_100.reta_numerica_ate_100",
+        "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente"
+      ],
+      "atividades": [
+        "mat.ef01.numeros_ate_100.reta_numerica_ate_100#reta_numerica_ate_100.aplicacao",
+        "mat.ef01.numeros_ate_100.reta_numerica_ate_100#reta_numerica_ate_100.investigacao",
+        "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente#ordem_crescente_e_decrescente.aplicacao",
+        "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente#ordem_crescente_e_decrescente.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.numeros_ate_100.treino.02",
+        "mat.ef01.ordenacao_e_mais_numeros.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef01.numeros_ate_100.prova.02",
+        "mat.ef01.ordenacao_e_mais_numeros.prova.02",
+        "mat.ef01.ordenacao_e_mais_numeros.prova.03",
+        "mat.ef01.ordenacao_e_mais_numeros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.numeros_ate_100.pratica",
+        "mat.ef01.ordenacao_e_mais_numeros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA06",
+      "aulas": [
+        "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos"
+      ],
+      "atividades": [
+        "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos#calculo_mental_com_fatos_basicos.aplicacao",
+        "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos#calculo_mental_com_fatos_basicos.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.adicao_e_subtracao.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef01.adicao_e_subtracao.prova.03",
+        "mat.ef01.adicao_e_subtracao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.adicao_e_subtracao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA07",
+      "aulas": [
+        "mat.ef01.numeros_ate_100.composicao_e_decomposicao"
+      ],
+      "atividades": [
+        "mat.ef01.numeros_ate_100.composicao_e_decomposicao#composicao_e_decomposicao.aplicacao",
+        "mat.ef01.numeros_ate_100.composicao_e_decomposicao#composicao_e_decomposicao.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.numeros_ate_100.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef01.numeros_ate_100.prova.03",
+        "mat.ef01.numeros_ate_100.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.numeros_ate_100.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA08",
+      "aulas": [
+        "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao",
+        "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar"
+      ],
+      "atividades": [
+        "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.aplicacao",
+        "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao",
+        "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar#problemas_de_juntar_e_acrescentar.aplicacao",
+        "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar#problemas_de_juntar_e_acrescentar.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.adicao_e_subtracao.treino.01",
+        "mat.ef01.adicao_e_subtracao.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef01.adicao_e_subtracao.prova.01",
+        "mat.ef01.adicao_e_subtracao.prova.02",
+        "mat.ef01.adicao_e_subtracao.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.adicao_e_subtracao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA09",
+      "aulas": [
+        "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes"
+      ],
+      "atividades": [
+        "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes#classificacao_e_sequencias_padroes.aplicacao",
+        "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes#classificacao_e_sequencias_padroes.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.vocabulario_fundamental.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef01.vocabulario_fundamental.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.vocabulario_fundamental.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA10",
+      "aulas": [
+        "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes"
+      ],
+      "atividades": [
+        "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes#sequencias_recursivas_e_elementos_ausentes.aplicacao",
+        "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes#sequencias_recursivas_e_elementos_ausentes.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.vocabulario_fundamental.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef01.vocabulario_fundamental.prova.02",
+        "mat.ef01.vocabulario_fundamental.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.vocabulario_fundamental.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA11",
+      "aulas": [
+        "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao"
+      ],
+      "atividades": [
+        "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao#nocoes_de_localizacao_e_posicao.aplicacao",
+        "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao#nocoes_de_localizacao_e_posicao.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.vocabulario_fundamental.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef01.vocabulario_fundamental.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.vocabulario_fundamental.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA12",
+      "aulas": [
+        "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao"
+      ],
+      "atividades": [
+        "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao#pontos_de_referencia_e_posicao.aplicacao",
+        "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao#pontos_de_referencia_e_posicao.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.vocabulario_fundamental.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef01.vocabulario_fundamental.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.vocabulario_fundamental.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA13",
+      "aulas": [
+        "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+        "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano"
+      ],
+      "atividades": [
+        "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.aplicacao",
+        "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao",
+        "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano#figuras_espaciais_do_cotidiano.aplicacao",
+        "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano#figuras_espaciais_do_cotidiano.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.figuras_geometricas.treino.01",
+        "mat.ef01.figuras_geometricas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef01.figuras_geometricas.prova.01",
+        "mat.ef01.figuras_geometricas.prova.02",
+        "mat.ef01.figuras_geometricas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.figuras_geometricas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA14",
+      "aulas": [
+        "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+        "mat.ef01.figuras_geometricas.contornos_e_faces"
+      ],
+      "atividades": [
+        "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.aplicacao",
+        "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao",
+        "mat.ef01.figuras_geometricas.contornos_e_faces#contornos_e_faces.aplicacao",
+        "mat.ef01.figuras_geometricas.contornos_e_faces#contornos_e_faces.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.figuras_geometricas.treino.01",
+        "mat.ef01.figuras_geometricas.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef01.figuras_geometricas.prova.03",
+        "mat.ef01.figuras_geometricas.prova.04",
+        "mat.ef01.figuras_geometricas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.figuras_geometricas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA15",
+      "aulas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade"
+      ],
+      "atividades": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade#grandezas_e_medidas_comprimento_massa_e_capacidade.aplicacao",
+        "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade#grandezas_e_medidas_comprimento_massa_e_capacidade.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.prova.01",
+        "mat.ef01.grandezas_medidas_e_mais_numeros.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA16",
+      "aulas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
+      ],
+      "atividades": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.aplicacao",
+        "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA17",
+      "aulas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
+      ],
+      "atividades": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.aplicacao",
+        "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA18",
+      "aulas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana"
+      ],
+      "atividades": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana#datas_e_dias_da_semana.aplicacao",
+        "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana#datas_e_dias_da_semana.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA19",
+      "aulas": [
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples"
+      ],
+      "atividades": [
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao#sistema_monetario_brasileiro_introducao.aplicacao",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao#sistema_monetario_brasileiro_introducao.investigacao",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples#trocas_e_equivalencias_simples.aplicacao",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples#trocas_e_equivalencias_simples.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.treino.01",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.01",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.02",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.03",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.04",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA20",
+      "aulas": [
+        "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano"
+      ],
+      "atividades": [
+        "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano#eventos_do_cotidiano.aplicacao",
+        "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano#eventos_do_cotidiano.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.probabilidade_e_estatistica.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef01.probabilidade_e_estatistica.prova.01",
+        "mat.ef01.probabilidade_e_estatistica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA21",
+      "aulas": [
+        "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas"
+      ],
+      "atividades": [
+        "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas#tabelas_e_graficos_de_colunas.aplicacao",
+        "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas#tabelas_e_graficos_de_colunas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.probabilidade_e_estatistica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef01.probabilidade_e_estatistica.prova.03",
+        "mat.ef01.probabilidade_e_estatistica.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF01MA22",
+      "aulas": [
+        "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula"
+      ],
+      "atividades": [
+        "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula#pesquisa_na_sala_de_aula.aplicacao",
+        "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula#pesquisa_na_sala_de_aula.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef01.probabilidade_e_estatistica.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef01.probabilidade_e_estatistica.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    }
+  ],
+  "pendencias": [
+    "Revisão visual em navegador.",
+    "Aplicação das tarefas e homologação docente.",
+    "Persistência no ambiente Firebase."
+  ]
+}

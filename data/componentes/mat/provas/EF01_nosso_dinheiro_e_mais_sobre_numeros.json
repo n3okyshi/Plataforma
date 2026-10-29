@@ -1,0 +1,94 @@
+{
+  "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova",
+  "titulo": "Avaliação: Nosso dinheiro e mais sobre números",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF01",
+  "unidade": "Nosso dinheiro e mais sobre números",
+  "bncc": [
+    "EF01MA19"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.01",
+    "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.02",
+    "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.03",
+    "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.04",
+    "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF01MA19",
+      "questoes": [
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.01",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.02",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.03",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.04",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao#sistema_monetario_brasileiro_introducao.investigacao",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples#trocas_e_equivalencias_simples.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Nosso dinheiro e mais sobre números",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Com ajuda de um adulto, observe valores indicados em moedas e cédulas do real, sem precisar fotografá-las. Faça cartões escritos com esses valores e monte pagamentos exatos para preços fictícios de R$ 6, R$ 8 e R$ 10. 2. Monte duas maneiras de representar R$ 2, usando moedas de R$ 1 e de cinquenta centavos ou cartões com esses valores. Depois simule comprar algo de R$ 3 pagando R$ 5 e confira o valor que deve voltar.",
+    "gabarito": "Conferência por tarefa: 1. Conferir reconhecimento dos valores observados e as somas construídas. Exemplos de pagamentos: 5+1=6; 5+2+1=8; 5+5=10. Aceitar outras combinações exatas e registro oral. 2. R$ 2 pode ser 1+1 ou quatro parcelas de cinquenta centavos, entre outras combinações. Na compra fictícia, devem voltar R$ 2, pois 3+2=5. Avaliar a relação de valores, não a quantidade de peças.",
+    "bncc": [
+      "EF01MA19"
+    ],
+    "atividadesOrigem": [
+      "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao#sistema_monetario_brasileiro_introducao.investigacao",
+      "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples#trocas_e_equivalencias_simples.investigacao"
+    ],
+    "duracaoMinSugerida": 20,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Sistema Monetário Brasileiro (Introdução)",
+        "enunciado": "Com ajuda de um adulto, observe valores indicados em moedas e cédulas do real, sem precisar fotografá-las. Faça cartões escritos com esses valores e monte pagamentos exatos para preços fictícios de R$ 6, R$ 8 e R$ 10.",
+        "gabarito": "Conferir reconhecimento dos valores observados e as somas construídas. Exemplos de pagamentos: 5+1=6; 5+2+1=8; 5+5=10. Aceitar outras combinações exatas e registro oral.",
+        "bncc": [
+          "EF01MA19"
+        ],
+        "atividadeOrigem": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao#sistema_monetario_brasileiro_introducao.investigacao"
+      },
+      {
+        "titulo": "Trocas e Equivalências Simples",
+        "enunciado": "Monte duas maneiras de representar R$ 2, usando moedas de R$ 1 e de cinquenta centavos ou cartões com esses valores. Depois simule comprar algo de R$ 3 pagando R$ 5 e confira o valor que deve voltar.",
+        "gabarito": "R$ 2 pode ser 1+1 ou quatro parcelas de cinquenta centavos, entre outras combinações. Na compra fictícia, devem voltar R$ 2, pois 3+2=5. Avaliar a relação de valores, não a quantidade de peças.",
+        "bncc": [
+          "EF01MA19"
+        ],
+        "atividadeOrigem": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples#trocas_e_equivalencias_simples.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        283
+      ],
+      "paginasImpressas": "281",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ]
+}

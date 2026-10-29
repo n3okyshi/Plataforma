@@ -2,36 +2,116 @@
   "id": "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas",
   "componente": "mat",
   "nivel": "EF01",
-  "ordem": 12,
+  "ordem": 8,
   "unidade": "Números até 100",
   "titulo": "Números até 100 e Dezenas Exatas",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF01MA04"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Contar coleções até cem com registros orais e escritos."
+    ],
+    "resumo": "Contar coleções até cem com registros orais e escritos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números Grandes</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Começamos a contar além dos dedos das mãos, fazendo montinhos de 10 em 10.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔟 Dezenas:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">10, 20, 30, 40... É muito mais rápido contar assim do que contar de 1 em 1!</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Números até 100 e Dezenas Exatas</h2><h3>O que vamos aprender</h3><p>Contar coleções até cem com registros orais e escritos.</p><h3>Ideias e relações</h3><p>Quando uma coleção é grande, podemos organizar grupos de dez para não perder a contagem. Um grupo de dez é uma dezena. Três grupos de dez e quatro peças soltas têm trinta e quatro peças. Conte os grupos e depois as peças que sobraram. Use desenhos, marcas, palavras e números para registrar. Cem é o total de dez grupos de dez. A organização ajuda a conferir; ela não altera quantos objetos há.</p><h3>Exemplo resolvido</h3><p>Com seis grupos de dez e três peças soltas, contamos 10, 20, 30, 40, 50, 60, 61, 62, 63. O registro é 63, sessenta e três.</p><h3>Atenção ao raciocínio</h3><p>Se um grupo foi chamado de dezena, confira se realmente contém dez objetos.</p><h3>Investigue e produza</h3><p>Conte uma coleção de até cem objetos, começando com um tamanho que você consiga acompanhar. Organize grupos de dez, registre por desenho e número e conte para outra pessoa. Quando estiver seguro, forme dez grupos de dez.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "numeros_naturais",
+      "dezenas"
+    ],
+    "errosComuns": [
+      "Se um grupo foi chamado de dezena, confira se realmente contém dez objetos."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "numeros_ate_100_e_dezenas_exatas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Seis grupos de dez e três peças soltas formam:",
+      "alternativas": [
+        "9",
+        "63",
+        "36"
+      ],
+      "correta": 1,
+      "explicacao": "Sessenta peças dos grupos mais três soltas totalizam 63."
+    },
+    {
+      "id": "numeros_ate_100_e_dezenas_exatas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Conte uma coleção de até cem objetos, começando com um tamanho que você consiga acompanhar. Organize grupos de dez, registre por desenho e número e conte para outra pessoa. Quando estiver seguro, forme dez grupos de dez.",
+      "gabarito": "Conferir a coleção real, a composição dos grupos e a concordância entre fala, desenho e numeral. Dez grupos completos têm cem objetos. Retomar com coleções menores se necessário.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir a coleção real, a composição dos grupos e a concordância entre fala, desenho e numeral. Dez grupos completos têm cem objetos. Retomar com coleções menores se necessário.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "numeros_naturais",
+    "dezenas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13
+      ],
+      "paginasImpressas": "16",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef01.numeros_ate_100.reta_numerica_ate_100"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

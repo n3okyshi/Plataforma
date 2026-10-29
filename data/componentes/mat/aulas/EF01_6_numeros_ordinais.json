@@ -2,36 +2,117 @@
   "id": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais",
   "componente": "mat",
   "nivel": "EF01",
-  "ordem": 6,
+  "ordem": 14,
   "unidade": "Ordenação e mais números",
   "titulo": "Números Ordinais",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF01MA01"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Distinguir números que indicam posição, quantidade e identificação."
+    ],
+    "resumo": "Distinguir números que indicam posição, quantidade e identificação.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Fila</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Números que indicam ordem e posição: Primeiro (1º), Segundo (2º), Terceiro (3º)...\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🏆 Competição:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Usamos muito em corridas para saber quem ganhou medalha de ouro, prata e bronze.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Números Ordinais</h2><h3>O que vamos aprender</h3><p>Distinguir números que indicam posição, quantidade e identificação.</p><h3>Ideias e relações</h3><p>Na fila, usamos primeiro, segundo, terceiro para indicar posição. Precisamos dizer de onde a fila começa. O número de crianças na fila indica quantidade; o número escrito na camiseta pode ser apenas uma identificação. Uma mesma escrita pode ter funções diferentes em situações diferentes. Observe o que o número está contando, ordenando ou identificando antes de explicar seu significado.</p><h3>Exemplo resolvido</h3><p>Numa fila que começa perto da porta, Ana, Beto e Caio estão nessa ordem. Ana é a primeira, Beto o segundo e Caio o terceiro. Há três pessoas na fila.</p><h3>Atenção ao raciocínio</h3><p>O número da camiseta não informa necessariamente a posição de quem a veste.</p><h3>Investigue e produza</h3><p>Organize uma fila de cinco objetos, marque o início e descreva posições. Depois dê exemplos de número como quantidade, ordem e código, sem usar dados pessoais reais.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "numeros_ordinais",
+      "contagem"
+    ],
+    "errosComuns": [
+      "O número da camiseta não informa necessariamente a posição de quem a veste."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "numeros_ordinais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A fila começa na porta e segue Ana, Beto e Caio. Quem é o segundo?",
+      "alternativas": [
+        "Caio",
+        "Beto",
+        "Ana"
+      ],
+      "correta": 1,
+      "explicacao": "Beto vem depois de Ana e antes de Caio, contando a partir do início informado."
+    },
+    {
+      "id": "numeros_ordinais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Organize uma fila de cinco objetos, marque o início e descreva posições. Depois dê exemplos de número como quantidade, ordem e código, sem usar dados pessoais reais.",
+      "gabarito": "Conferir a contagem a partir do início combinado. Exemplos: cinco peças; segunda peça; código inventado de identificação. Não confundir código com quantidade nem exigir nomes de ordinais além dos trabalhados.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir a contagem a partir do início combinado. Exemplos: cinco peças; segunda peça; código inventado de identificação. Não confundir código com quantidade nem exigir nomes de ordinais além dos trabalhados.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "numeros_ordinais",
+    "contagem"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        16,
+        17
+      ],
+      "paginasImpressas": "19, 20",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

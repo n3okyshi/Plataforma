@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 26,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Pesquisa na Sala de Aula",
+  "bncc": [
+    "EF01MA22"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Realizar pesquisa de até trinta elementos e organizar respostas por categorias."
+    ],
+    "resumo": "Realizar pesquisa de até trinta elementos e organizar respostas por categorias.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Pesquisa na Sala de Aula</h2><h3>O que vamos aprender</h3><p>Realizar pesquisa de até trinta elementos e organizar respostas por categorias.</p><h3>Ideias e relações</h3><p>Uma pesquisa começa com uma pergunta que o grupo deseja responder. Combine quem participará e quais respostas serão registradas. Nesta atividade, use até trinta participantes e uma pergunta por vez, com uma resposta de cada pessoa. Podemos fazer marcas ou desenhos para cada resposta e depois agrupar por categoria. Não precisamos registrar os nomes. O resultado depende do grupo consultado; não devemos preencher respostas que ninguém deu.</p><h3>Exemplo resolvido</h3><p>Podemos perguntar qual de três brincadeiras cada participante escolhe. A cada resposta, fazemos uma marca na categoria correspondente. Ao final, o total de marcas deve ser o total de participantes que responderam.</p><h3>Atenção ao raciocínio</h3><p>Não use os números do exemplo da aula anterior como se fossem respostas de uma pesquisa realizada agora.</p><h3>Investigue e produza</h3><p>Escolha uma pergunta sobre brincadeiras, histórias ou outro interesse do grupo. Consulte de cinco a trinta participantes, sem nomes, com uma resposta de cada. Organize as respostas por marcas ou desenhos, conte e apresente o que descobriu.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "pesquisa",
+      "coleta_de_dados"
+    ],
+    "errosComuns": [
+      "Não use os números do exemplo da aula anterior como se fossem respostas de uma pesquisa realizada agora."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pesquisa_na_sala_de_aula.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para registrar uma pesquisa feita de verdade, devemos:",
+      "alternativas": [
+        "Copiar os números de outro exemplo",
+        "Anotar as respostas recebidas",
+        "Inventar respostas para completar a folha"
+      ],
+      "correta": 1,
+      "explicacao": "Os registros precisam corresponder às respostas efetivamente coletadas."
+    },
+    {
+      "id": "pesquisa_na_sala_de_aula.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Escolha uma pergunta sobre brincadeiras, histórias ou outro interesse do grupo. Consulte de cinco a trinta participantes, sem nomes, com uma resposta de cada. Organize as respostas por marcas ou desenhos, conte e apresente o que descobriu.",
+      "gabarito": "Conferir pergunta, grupo consultado, categorias, uma resposta por participante e total de registros. Os valores não são predefinidos. Avaliar coleta e organização, aceitando apresentação oral e registros pessoais.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir pergunta, grupo consultado, categorias, uma resposta por participante e total de registros. Os valores não são predefinidos. Avaliar coleta e organização, aceitando apresentação oral e registros pessoais.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "pesquisa",
+    "coleta_de_dados"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        283
+      ],
+      "paginasImpressas": "281",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

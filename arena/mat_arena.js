@@ -1,5 +1,2847 @@
-/** Questões e avaliações autorais de Matemática EF06–EF09. */
+/** Questões e avaliações autorais de Matemática EF01 e EF06–EF09. */
 registrarQuestoes([
+  {
+    "id": "mat.ef01.adicao_e_subtracao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao",
+    "bncc": [
+      "EF01MA03",
+      "EF01MA08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Nina tem 8 peças e retira 3. Quantas ficam?",
+    "opcoes": [
+      "11",
+      "3",
+      "5"
+    ],
+    "correta": 2,
+    "explicacao": "Retirar três das oito deixa cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.adicao_e_subtracao.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar",
+    "bncc": [
+      "EF01MA08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma caixa com 14 lápis recebe mais 6. O total é:",
+    "opcoes": [
+      "6",
+      "20",
+      "8"
+    ],
+    "correta": 1,
+    "explicacao": "14 + 6 = 20; a contagem a partir de 14 confirma.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29
+        ],
+        "paginasImpressas": "32",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.adicao_e_subtracao.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos",
+    "bncc": [
+      "EF01MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para calcular 9 + 4 completando dez, podemos pensar em:",
+    "opcoes": [
+      "10 + 3",
+      "10 + 4",
+      "9 + 1"
+    ],
+    "correta": 0,
+    "explicacao": "Um dos quatro completa dez com nove; os três restantes dão treze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29
+        ],
+        "paginasImpressas": "32",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.adicao_e_subtracao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao",
+    "bncc": [
+      "EF01MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Lia tinha 15 fichas e retirou 4. Ficou com:",
+    "opcoes": [
+      "19",
+      "4",
+      "11"
+    ],
+    "correta": 2,
+    "explicacao": "Retirando quatro de quinze, restam onze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.adicao_e_subtracao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar",
+    "bncc": [
+      "EF01MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma caixa tem 13 peças e recebe 8. O novo total é:",
+    "opcoes": [
+      "8",
+      "21",
+      "5"
+    ],
+    "correta": 1,
+    "explicacao": "Juntar treze e oito produz vinte e uma peças.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29
+        ],
+        "paginasImpressas": "32",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.adicao_e_subtracao.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos",
+    "bncc": [
+      "EF01MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Usando 7+3=10, podemos calcular 7+4 pensando em:",
+    "opcoes": [
+      "10+1",
+      "10+4",
+      "7+1"
+    ],
+    "correta": 0,
+    "explicacao": "Quatro é três e mais um; completar dez deixa uma unidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29
+        ],
+        "paginasImpressas": "32",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.adicao_e_subtracao.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao",
+    "bncc": [
+      "EF01MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Duas coleções de 12 e 6 objetos são reunidas. O total é:",
+    "opcoes": [
+      "6",
+      "12",
+      "18"
+    ],
+    "correta": 2,
+    "explicacao": "Juntar os dois grupos dá 12+6=18.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.adicao_e_subtracao.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos",
+    "bncc": [
+      "EF01MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Se 4+4=8, então 4+5 é:",
+    "opcoes": [
+      "10",
+      "9",
+      "8"
+    ],
+    "correta": 1,
+    "explicacao": "Uma unidade foi acrescentada a uma das parcelas, aumentando o total de oito para nove.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29
+        ],
+        "paginasImpressas": "32",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+    "bncc": [
+      "EF01MA13",
+      "EF01MA14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma bola costuma lembrar qual figura espacial?",
+    "opcoes": [
+      "Triângulo",
+      "Retângulo",
+      "Esfera"
+    ],
+    "correta": 2,
+    "explicacao": "A esfera é um modelo espacial para a forma da bola.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano",
+    "bncc": [
+      "EF01MA13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Sem considerar pequenos detalhes, uma lata fechada costuma lembrar um:",
+    "opcoes": [
+      "Triângulo",
+      "Cilindro",
+      "Cone"
+    ],
+    "correta": 1,
+    "explicacao": "Seu formato tem duas bases circulares e uma parte lateral curva.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.contornos_e_faces",
+    "bncc": [
+      "EF01MA14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma figura com três lados retos é um:",
+    "opcoes": [
+      "Triângulo",
+      "Círculo",
+      "Quadrado"
+    ],
+    "correta": 0,
+    "explicacao": "Três lados retos fechando a figura formam um triângulo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano",
+    "bncc": [
+      "EF01MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma caixa de sapatos costuma lembrar um:",
+    "opcoes": [
+      "Círculo plano",
+      "Triângulo plano",
+      "Bloco retangular"
+    ],
+    "correta": 2,
+    "explicacao": "A caixa ocupa espaço e pode ser modelada por um bloco retangular.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano",
+    "bncc": [
+      "EF01MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um chapéu de festa com ponta e base circular costuma lembrar um:",
+    "opcoes": [
+      "Quadrado",
+      "Cone",
+      "Cilindro"
+    ],
+    "correta": 1,
+    "explicacao": "A base circular e a ponta lembram o cone.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.contornos_e_faces",
+    "bncc": [
+      "EF01MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Ao girar na folha um quadrado já desenhado, sem deformá-lo, ele continua sendo:",
+    "opcoes": [
+      "Quadrado",
+      "Círculo",
+      "Triângulo"
+    ],
+    "correta": 0,
+    "explicacao": "Mudar a posição não muda as características do quadrado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.contornos_e_faces",
+    "bncc": [
+      "EF01MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um contorno fechado com três lados retos é um:",
+    "opcoes": [
+      "Retângulo",
+      "Círculo",
+      "Triângulo"
+    ],
+    "correta": 2,
+    "explicacao": "O triângulo tem três lados retos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+    "bncc": [
+      "EF01MA13",
+      "EF01MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual par distingue um modelo espacial de uma figura plana?",
+    "opcoes": [
+      "Quadrado e retângulo",
+      "Esfera e círculo",
+      "Círculo e triângulo"
+    ],
+    "correta": 1,
+    "explicacao": "Esfera é espacial; círculo é plano. Os demais pares só têm figuras planas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
+    "bncc": [
+      "EF01MA15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para comparar o comprimento de dois lápis, uma boa estratégia é:",
+    "opcoes": [
+      "Comparar apenas a cor",
+      "Afirmar que o mais grosso é sempre mais comprido",
+      "Alinhar uma ponta e observar a outra"
+    ],
+    "correta": 2,
+    "explicacao": "Alinhar o início permite comparar até onde cada lápis chega.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109
+        ],
+        "paginasImpressas": "112",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario",
+    "bncc": [
+      "EF01MA16",
+      "EF01MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual dia vem logo depois da terça-feira?",
+    "opcoes": [
+      "Domingo",
+      "Quarta-feira",
+      "Segunda-feira"
+    ],
+    "correta": 1,
+    "explicacao": "Na sequência semanal, terça-feira é seguida de quarta-feira.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana",
+    "bncc": [
+      "EF01MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No calendário apresentado, 4 de maio de 2026 é:",
+    "opcoes": [
+      "Segunda-feira",
+      "Domingo",
+      "Sexta-feira"
+    ],
+    "correta": 0,
+    "explicacao": "O número 4 está na coluna Seg do mês de maio de 2026.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
+    "bncc": [
+      "EF01MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Dois lápis têm uma ponta alinhada. O primeiro termina mais longe. Ele é:",
+    "opcoes": [
+      "Necessariamente mais pesado",
+      "Necessariamente mais fino",
+      "Mais comprido"
+    ],
+    "correta": 2,
+    "explicacao": "O alinhamento permite comparar comprimentos, não decidir massa ou espessura.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109
+        ],
+        "paginasImpressas": "112",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
+    "bncc": [
+      "EF01MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um copo é mais alto que outro, mas também é mais estreito. Só isso permite saber em qual cabe mais?",
+    "opcoes": [
+      "Sim; sempre cabe mais no baixo",
+      "Não; é preciso comparar a capacidade",
+      "Sim; sempre cabe mais no alto"
+    ],
+    "correta": 1,
+    "explicacao": "A capacidade depende do espaço interno, não somente da altura.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109
+        ],
+        "paginasImpressas": "112",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario",
+    "bncc": [
+      "EF01MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma criança primeiro guardou os brinquedos e depois contou uma história. O que aconteceu antes?",
+    "opcoes": [
+      "Guardar os brinquedos",
+      "Contar a história",
+      "As duas ações foram descritas como simultâneas"
+    ],
+    "correta": 0,
+    "explicacao": "A palavra primeiro informa a ordem dos acontecimentos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario",
+    "bncc": [
+      "EF01MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O dia que vem logo após quinta-feira é:",
+    "opcoes": [
+      "Quarta-feira",
+      "Domingo",
+      "Sexta-feira"
+    ],
+    "correta": 2,
+    "explicacao": "A sequência semanal passa de quinta-feira para sexta-feira.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana",
+    "bncc": [
+      "EF01MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na escrita dia/mês/ano, 15 de maio de 2026 pode ser registrado como:",
+    "opcoes": [
+      "2026/15/05",
+      "15/05/2026",
+      "05/15/2026"
+    ],
+    "correta": 1,
+    "explicacao": "O dia é 15, o mês de maio é 05 e o ano é 2026.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Nosso dinheiro e mais sobre números",
+    "aulaId": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
+    "bncc": [
+      "EF01MA19"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um item custa R$ 7. Qual conjunto de valores paga exatamente?",
+    "opcoes": [
+      "R$ 2 e R$ 2",
+      "R$ 5 e R$ 5",
+      "R$ 5 e R$ 2"
+    ],
+    "correta": 2,
+    "explicacao": "Cinco reais e dois reais totalizam sete reais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Nosso dinheiro e mais sobre números",
+    "aulaId": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples",
+    "bncc": [
+      "EF01MA19"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Duas moedas de cinquenta centavos têm o mesmo valor que:",
+    "opcoes": [
+      "Cinquenta reais",
+      "Um real",
+      "Dois reais"
+    ],
+    "correta": 1,
+    "explicacao": "Cinquenta mais cinquenta são cem centavos, equivalentes a um real.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Nosso dinheiro e mais sobre números",
+    "aulaId": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
+    "bncc": [
+      "EF01MA19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um item fictício custa R$ 9. Qual pagamento é exato?",
+    "opcoes": [
+      "R$ 5 + R$ 2",
+      "R$ 5 + R$ 5",
+      "R$ 5 + R$ 2 + R$ 2"
+    ],
+    "correta": 2,
+    "explicacao": "5+2+2=9.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Nosso dinheiro e mais sobre números",
+    "aulaId": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples",
+    "bncc": [
+      "EF01MA19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Quatro moedas de cinquenta centavos totalizam:",
+    "opcoes": [
+      "R$ 20",
+      "R$ 2",
+      "R$ 4"
+    ],
+    "correta": 1,
+    "explicacao": "Duzentos centavos equivalem a dois reais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Nosso dinheiro e mais sobre números",
+    "aulaId": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
+    "bncc": [
+      "EF01MA19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Dois cartões representam R$ 5 cada um. Juntos representam:",
+    "opcoes": [
+      "R$ 10",
+      "R$ 2",
+      "R$ 5"
+    ],
+    "correta": 0,
+    "explicacao": "O valor vem do que cada cartão representa: cinco mais cinco são dez.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Nosso dinheiro e mais sobre números",
+    "aulaId": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples",
+    "bncc": [
+      "EF01MA19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma compra de brincadeira custa R$ 4 e é paga com R$ 5. Deve voltar:",
+    "opcoes": [
+      "R$ 4",
+      "R$ 9",
+      "R$ 1"
+    ],
+    "correta": 2,
+    "explicacao": "Quatro mais um completam o pagamento de cinco reais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Nosso dinheiro e mais sobre números",
+    "aulaId": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples",
+    "bncc": [
+      "EF01MA19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Comparando uma moeda de R$ 1 com duas moedas de cinquenta centavos, os dois grupos têm:",
+    "opcoes": [
+      "O valor de três reais",
+      "O mesmo valor total",
+      "Valores sempre diferentes"
+    ],
+    "correta": 1,
+    "explicacao": "Duas parcelas de cinquenta centavos equivalem a cem centavos, ou um real.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_10.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 10",
+    "aulaId": "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+    "bncc": [
+      "EF01MA01",
+      "EF01MA02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na coleção da figura, há cinco pontos numa fila e dois na outra. Quantos são ao todo?",
+    "opcoes": [
+      "5",
+      "2",
+      "7"
+    ],
+    "correta": 2,
+    "explicacao": "Ao contar cada ponto uma vez, chegamos a sete.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          16
+        ],
+        "paginasImpressas": "16, 19",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_10.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 10",
+    "aulaId": "mat.ef01.numeros_ate_10.comparacao_de_quantidades",
+    "bncc": [
+      "EF01MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Com 18 peças em um grupo e 16 no outro, ao parear uma a uma sobram peças:",
+    "opcoes": [
+      "Em nenhum grupo",
+      "No grupo de 18",
+      "No grupo de 16"
+    ],
+    "correta": 1,
+    "explicacao": "Dezesseis pares usam as peças dos dois grupos e sobram duas do grupo de 18.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_10.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 10",
+    "aulaId": "mat.ef01.numeros_ate_10.pareamento_e_estimativa",
+    "bncc": [
+      "EF01MA02",
+      "EF01MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Quatro pares de peças e uma peça solta totalizam:",
+    "opcoes": [
+      "9 peças",
+      "5 peças",
+      "8 peças"
+    ],
+    "correta": 0,
+    "explicacao": "Quatro pares são oito peças; com a solta, são nove.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_10.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 10",
+    "aulaId": "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+    "bncc": [
+      "EF01MA01",
+      "EF01MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma coleção tem 4 peças juntas e 2 separadas. Sem repetir nenhuma na contagem, o total é:",
+    "opcoes": [
+      "4",
+      "2",
+      "6"
+    ],
+    "correta": 2,
+    "explicacao": "As quatro peças e mais duas formam seis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          16
+        ],
+        "paginasImpressas": "16, 19",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_10.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 10",
+    "aulaId": "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+    "bncc": [
+      "EF01MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O número usado apenas para identificar uma linha de ônibus indica:",
+    "opcoes": [
+      "Sempre a posição do motorista numa fila",
+      "Um código",
+      "Sempre a quantidade de passageiros"
+    ],
+    "correta": 1,
+    "explicacao": "Nesse uso, o número identifica a linha, sem contar seus passageiros.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          16
+        ],
+        "paginasImpressas": "16, 19",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_10.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 10",
+    "aulaId": "mat.ef01.numeros_ate_10.comparacao_de_quantidades",
+    "bncc": [
+      "EF01MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Ao parear um grupo de 20 peças com outro de 18, sobram duas no primeiro. Qual tem mais?",
+    "opcoes": [
+      "O grupo de 20",
+      "O grupo de 18",
+      "Os dois têm a mesma quantidade"
+    ],
+    "correta": 0,
+    "explicacao": "As duas sobras mostram que o primeiro grupo tem mais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_10.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 10",
+    "aulaId": "mat.ef01.numeros_ate_10.pareamento_e_estimativa",
+    "bncc": [
+      "EF01MA02",
+      "EF01MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Três pares e uma peça solta formam:",
+    "opcoes": [
+      "4 peças",
+      "6 peças",
+      "7 peças"
+    ],
+    "correta": 2,
+    "explicacao": "Três pares são seis; com uma peça solta, são sete.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_10.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 10",
+    "aulaId": "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+    "bncc": [
+      "EF01MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Espalhar as mesmas oito peças, sem acrescentar nem retirar, deixa a coleção com:",
+    "opcoes": [
+      "Menos que 8 peças",
+      "8 peças",
+      "Mais que 8 peças"
+    ],
+    "correta": 1,
+    "explicacao": "A posição mudou, mas a quantidade de objetos foi conservada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          16
+        ],
+        "paginasImpressas": "16, 19",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_100.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 100",
+    "aulaId": "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas",
+    "bncc": [
+      "EF01MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Seis grupos de dez e três peças soltas formam:",
+    "opcoes": [
+      "36",
+      "9",
+      "63"
+    ],
+    "correta": 2,
+    "explicacao": "Sessenta peças dos grupos mais três soltas totalizam 63.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_100.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 100",
+    "aulaId": "mat.ef01.numeros_ate_100.reta_numerica_ate_100",
+    "bncc": [
+      "EF01MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Num trecho da reta com passos de um, entre 35 e 37 fica:",
+    "opcoes": [
+      "38",
+      "36",
+      "34"
+    ],
+    "correta": 1,
+    "explicacao": "A ordem é 35, 36, 37.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_100.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 100",
+    "aulaId": "mat.ef01.numeros_ate_100.composicao_e_decomposicao",
+    "bncc": [
+      "EF01MA07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual adição forma 32?",
+    "opcoes": [
+      "30 + 2",
+      "3 + 2",
+      "20 + 2"
+    ],
+    "correta": 0,
+    "explicacao": "Três grupos de dez e duas unidades são 30 + 2 = 32.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          29
+        ],
+        "paginasImpressas": "16, 32",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_100.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 100",
+    "aulaId": "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas",
+    "bncc": [
+      "EF01MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Quatro grupos de dez e sete peças soltas têm:",
+    "opcoes": [
+      "74 peças",
+      "11 peças",
+      "47 peças"
+    ],
+    "correta": 2,
+    "explicacao": "Quarenta mais sete são quarenta e sete.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_100.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 100",
+    "aulaId": "mat.ef01.numeros_ate_100.reta_numerica_ate_100",
+    "bncc": [
+      "EF01MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na reta com passos de um, entre 62 e 64 fica:",
+    "opcoes": [
+      "65",
+      "63",
+      "61"
+    ],
+    "correta": 1,
+    "explicacao": "A sequência é 62,63,64.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_100.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 100",
+    "aulaId": "mat.ef01.numeros_ate_100.composicao_e_decomposicao",
+    "bncc": [
+      "EF01MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual separação conserva o total 45?",
+    "opcoes": [
+      "40 e 5",
+      "4 e 5",
+      "30 e 5"
+    ],
+    "correta": 0,
+    "explicacao": "Quarenta mais cinco são quarenta e cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          29
+        ],
+        "paginasImpressas": "16, 32",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_100.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 100",
+    "aulaId": "mat.ef01.numeros_ate_100.composicao_e_decomposicao",
+    "bncc": [
+      "EF01MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Duas dezenas e oito unidades formam:",
+    "opcoes": [
+      "82",
+      "10",
+      "28"
+    ],
+    "correta": 2,
+    "explicacao": "Duas dezenas são vinte unidades; vinte e oito são 28.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          29
+        ],
+        "paginasImpressas": "16, 32",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.numeros_ate_100.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 100",
+    "aulaId": "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas",
+    "bncc": [
+      "EF01MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Dez grupos completos de dez objetos totalizam:",
+    "opcoes": [
+      "10",
+      "100",
+      "20"
+    ],
+    "correta": 1,
+    "explicacao": "Contando dez vezes dez, chegamos a cem.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais",
+    "bncc": [
+      "EF01MA01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A fila começa na porta e segue Ana, Beto e Caio. Quem é o segundo?",
+    "opcoes": [
+      "Ana",
+      "Caio",
+      "Beto"
+    ],
+    "correta": 2,
+    "explicacao": "Beto vem depois de Ana e antes de Caio, contando a partir do início informado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          16,
+          17
+        ],
+        "paginasImpressas": "19, 20",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
+    "bncc": [
+      "EF01MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual é a ordem crescente?",
+    "opcoes": [
+      "26, 24, 42",
+      "24, 26, 42",
+      "42, 26, 24"
+    ],
+    "correta": 1,
+    "explicacao": "24 é menor que 26, e ambos são menores que 42.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais",
+    "bncc": [
+      "EF01MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A fila começa em Davi, depois vem Eva e depois Fábio. Eva está em qual posição?",
+    "opcoes": [
+      "Primeira",
+      "Terceira",
+      "Segunda"
+    ],
+    "correta": 2,
+    "explicacao": "A partir do início informado, Eva é a segunda.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          16,
+          17
+        ],
+        "paginasImpressas": "19, 20",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
+    "bncc": [
+      "EF01MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual número é maior?",
+    "opcoes": [
+      "35",
+      "56",
+      "49"
+    ],
+    "correta": 1,
+    "explicacao": "Cinco dezenas superam quatro e três dezenas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
+    "bncc": [
+      "EF01MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual sequência está do menor para o maior?",
+    "opcoes": [
+      "18, 23, 32",
+      "32, 23, 18",
+      "23, 18, 32"
+    ],
+    "correta": 0,
+    "explicacao": "Dezoito vem antes de vinte e três, que vem antes de trinta e dois.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais",
+    "bncc": [
+      "EF01MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “há seis livros”, o número seis indica:",
+    "opcoes": [
+      "Código de identificação",
+      "Nome de uma pessoa",
+      "Quantidade"
+    ],
+    "correta": 2,
+    "explicacao": "O número informa quantos livros há.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          16,
+          17
+        ],
+        "paginasImpressas": "19, 20",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
+    "bncc": [
+      "EF01MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual ordem é decrescente?",
+    "opcoes": [
+      "41, 44, 14",
+      "44, 41, 14",
+      "14, 41, 44"
+    ],
+    "correta": 1,
+    "explicacao": "A ordem decrescente começa no maior e segue para o menor.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano",
+    "bncc": [
+      "EF01MA20"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma sacola tem somente peças azuis. Ao retirar uma delas, sem alterar a sacola, tirar uma verde é:",
+    "opcoes": [
+      "Certo",
+      "Obrigatório",
+      "Impossível"
+    ],
+    "correta": 2,
+    "explicacao": "Não há peça verde disponível para ser retirada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas",
+    "bncc": [
+      "EF01MA21"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Nos dados apresentados, quantos votos recebeu desenho?",
+    "opcoes": [
+      "1",
+      "3",
+      "4"
+    ],
+    "correta": 1,
+    "explicacao": "A tabela informa três, e a coluna de desenho chega à marca 3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula",
+    "bncc": [
+      "EF01MA22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para registrar uma pesquisa feita de verdade, devemos:",
+    "opcoes": [
+      "Anotar as respostas recebidas",
+      "Inventar respostas para completar a folha",
+      "Copiar os números de outro exemplo"
+    ],
+    "correta": 0,
+    "explicacao": "Os registros precisam corresponder às respostas efetivamente coletadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano",
+    "bncc": [
+      "EF01MA20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma sacola tem apenas peças amarelas. Retirar uma amarela, sem alterar a sacola, acontecerá:",
+    "opcoes": [
+      "Talvez, pois há peças verdes",
+      "De modo impossível",
+      "Com certeza"
+    ],
+    "correta": 2,
+    "explicacao": "Todas as peças disponíveis são amarelas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano",
+    "bncc": [
+      "EF01MA20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma sacola tem peças azuis e vermelhas. Retirar uma azul:",
+    "opcoes": [
+      "Acontecerá com certeza",
+      "Talvez aconteça",
+      "É impossível"
+    ],
+    "correta": 1,
+    "explicacao": "Há peças azuis, mas também há outra cor que pode sair.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas",
+    "bncc": [
+      "EF01MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma tabela informa: gato 5 votos, cachorro 3 votos, peixe 2 votos. Qual recebeu mais votos?",
+    "opcoes": [
+      "Gato",
+      "Cachorro",
+      "Peixe"
+    ],
+    "correta": 0,
+    "explicacao": "Cinco é maior que três e dois.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas",
+    "bncc": [
+      "EF01MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Num gráfico que começa em zero, cada passo vale um voto. Uma coluna chega à marca 6. Ela representa:",
+    "opcoes": [
+      "1 voto",
+      "0 votos",
+      "6 votos"
+    ],
+    "correta": 2,
+    "explicacao": "A escala indica um voto por passo até a marca seis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula",
+    "bncc": [
+      "EF01MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Doze participantes deram uma resposta cada. O registro correto deve ter:",
+    "opcoes": [
+      "Apenas a resposta preferida de quem perguntou",
+      "12 respostas",
+      "30 respostas inventadas"
+    ],
+    "correta": 1,
+    "explicacao": "Cada resposta real precisa aparecer uma vez; o total é doze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.vocabulario_fundamental.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Vocabulário Fundamental",
+    "aulaId": "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes",
+    "bncc": [
+      "EF01MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A regra é agrupar pela forma. Um círculo pequeno fica com:",
+    "opcoes": [
+      "Um quadrado pequeno",
+      "Um triângulo pequeno",
+      "Um círculo grande"
+    ],
+    "correta": 2,
+    "explicacao": "Os dois círculos têm a mesma forma, mesmo com tamanhos diferentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.vocabulario_fundamental.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Vocabulário Fundamental",
+    "aulaId": "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao",
+    "bncc": [
+      "EF01MA11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma criança está olhando para uma mesa. Sem mover a mesa, ela dá meia-volta. A mesa passa a ficar:",
+    "opcoes": [
+      "No mesmo lugar em relação ao olhar",
+      "Atrás da criança",
+      "Na mão da criança"
+    ],
+    "correta": 1,
+    "explicacao": "A referência é o corpo: depois da meia-volta, a mesa fica atrás.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.vocabulario_fundamental.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Vocabulário Fundamental",
+    "aulaId": "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao",
+    "bncc": [
+      "EF01MA12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual frase informa melhor a localização?",
+    "opcoes": [
+      "O livro está à esquerda da cadeira, para quem olha o desenho",
+      "O livro está ali",
+      "O livro está em algum lugar"
+    ],
+    "correta": 0,
+    "explicacao": "A frase identifica a referência e o ponto de vista.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.vocabulario_fundamental.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Vocabulário Fundamental",
+    "aulaId": "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes",
+    "bncc": [
+      "EF01MA10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A regra é acrescentar 2. Em 2, 4, __, 8, falta:",
+    "opcoes": [
+      "5",
+      "7",
+      "6"
+    ],
+    "correta": 2,
+    "explicacao": "4 mais 2 é 6, e 6 mais 2 é 8.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.vocabulario_fundamental.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Vocabulário Fundamental",
+    "aulaId": "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes",
+    "bncc": [
+      "EF01MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A regra é separar objetos pela cor. Dois objetos vermelhos de formas diferentes devem ficar:",
+    "opcoes": [
+      "Sempre em grupos diferentes",
+      "Fora da coleção",
+      "No mesmo grupo"
+    ],
+    "correta": 2,
+    "explicacao": "O critério escolhido é a cor; as formas diferentes não impedem o agrupamento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.vocabulario_fundamental.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Vocabulário Fundamental",
+    "aulaId": "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes",
+    "bncc": [
+      "EF01MA10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A regra é acrescentar 1. Em 4, 5, __, 7, falta:",
+    "opcoes": [
+      "3",
+      "6",
+      "8"
+    ],
+    "correta": 1,
+    "explicacao": "Depois de cinco vem seis, e depois de seis vem sete.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.vocabulario_fundamental.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Vocabulário Fundamental",
+    "aulaId": "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao",
+    "bncc": [
+      "EF01MA11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma criança está de frente para a porta. Ela dá meia-volta sem mudar de lugar. A porta fica:",
+    "opcoes": [
+      "Atrás dela",
+      "Dentro da mão dela",
+      "À frente do seu olhar"
+    ],
+    "correta": 0,
+    "explicacao": "Ao girar, a criança muda a orientação do próprio corpo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.vocabulario_fundamental.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Vocabulário Fundamental",
+    "aulaId": "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao",
+    "bncc": [
+      "EF01MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual descrição deixa clara a referência?",
+    "opcoes": [
+      "A bola está lá",
+      "A bola está perto de alguma coisa",
+      "A bola está embaixo da cadeira"
+    ],
+    "correta": 2,
+    "explicacao": "A cadeira é a referência usada para informar a posição.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.vocabulario_fundamental.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Vocabulário Fundamental",
+    "aulaId": "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes",
+    "bncc": [
+      "EF01MA10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A regra é repetir círculo, quadrado. Em círculo, quadrado, círculo, __, falta:",
+    "opcoes": [
+      "Dois círculos",
+      "Quadrado",
+      "Triângulo"
+    ],
+    "correta": 1,
+    "explicacao": "A mesma dupla deve continuar se repetindo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
   {
     "id": "mat.ef06.angulos_e_poligonos.treino.01",
     "componente": "mat",
@@ -18883,6 +21725,1236 @@ registrarQuestoes([
   }
 ]);
 registrarProvas({
+  "mat.ef01.adicao_e_subtracao.prova": {
+    "id": "mat.ef01.adicao_e_subtracao.prova",
+    "titulo": "Avaliação: Adição e Subtração",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Adição e Subtração",
+    "bncc": [
+      "EF01MA03",
+      "EF01MA06",
+      "EF01MA08"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+    "questoes": [
+      "mat.ef01.adicao_e_subtracao.prova.01",
+      "mat.ef01.adicao_e_subtracao.prova.02",
+      "mat.ef01.adicao_e_subtracao.prova.03",
+      "mat.ef01.adicao_e_subtracao.prova.04",
+      "mat.ef01.adicao_e_subtracao.prova.05"
+    ],
+    "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+    "matriz": [
+      {
+        "bncc": "EF01MA03",
+        "questoes": [],
+        "avaliacoesPraticas": [
+          "mat.ef01.adicao_e_subtracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA06",
+        "questoes": [
+          "mat.ef01.adicao_e_subtracao.prova.03",
+          "mat.ef01.adicao_e_subtracao.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.adicao_e_subtracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos#calculo_mental_com_fatos_basicos.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA08",
+        "questoes": [
+          "mat.ef01.adicao_e_subtracao.prova.01",
+          "mat.ef01.adicao_e_subtracao.prova.02",
+          "mat.ef01.adicao_e_subtracao.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.adicao_e_subtracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao",
+          "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar#problemas_de_juntar_e_acrescentar.investigacao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef01.adicao_e_subtracao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Adição e Subtração",
+      "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Resolva com peças: havia 12 fichas e chegaram mais 5; depois foram retiradas 4 do total. Faça desenhos ou marcas para mostrar cada momento e invente outra história de retirar. Compare ainda 12 fichas azuis com 8 amarelas por pareamento e diga quantas azuis ficam sem par. 2. Use peças para resolver 16 figurinhas reunidas com mais 7. Depois invente uma história de juntar com duas quantidades de até dois algarismos e resolva com um desenho. 3. Monte com peças os fatos 6+4, 6+5 e 8+4. Explique como uma soma conhecida ou completar dez ajuda a encontrar os resultados.",
+      "gabarito": "Conferência por tarefa: 1. Após o acréscimo há 17; após retirar 4 ficam 13. Na comparação, sobram quatro azuis. A história criada deve ter dados suficientes e uma pergunta coerente, com quantidades de até dois algarismos. 2. 16+7=23. Observar correspondência entre dados, ações, pergunta, desenho e resposta. Aceitar estratégias pessoais e ditado da história a um adulto. 3. Resultados 10, 11 e 12. Observar a construção da estratégia: 6+5 pode usar 6+4+1; 8+4 pode usar 8+2+2. Aceitar outras justificativas corretas.",
+      "bncc": [
+        "EF01MA03",
+        "EF01MA06",
+        "EF01MA08"
+      ],
+      "atividadesOrigem": [
+        "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao",
+        "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar#problemas_de_juntar_e_acrescentar.investigacao",
+        "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos#calculo_mental_com_fatos_basicos.investigacao"
+      ],
+      "duracaoMinSugerida": 30,
+      "rubrica": [
+        "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+        "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+        "Analisar procedimentos e explicações, além da resposta final.",
+        "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+      ],
+      "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+      "tarefas": [
+        {
+          "titulo": "Ideias da Adição e Subtração",
+          "enunciado": "Resolva com peças: havia 12 fichas e chegaram mais 5; depois foram retiradas 4 do total. Faça desenhos ou marcas para mostrar cada momento e invente outra história de retirar. Compare ainda 12 fichas azuis com 8 amarelas por pareamento e diga quantas azuis ficam sem par.",
+          "gabarito": "Após o acréscimo há 17; após retirar 4 ficam 13. Na comparação, sobram quatro azuis. A história criada deve ter dados suficientes e uma pergunta coerente, com quantidades de até dois algarismos.",
+          "bncc": [
+            "EF01MA03",
+            "EF01MA08"
+          ],
+          "atividadeOrigem": "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao"
+        },
+        {
+          "titulo": "Problemas de Juntar e Acrescentar",
+          "enunciado": "Use peças para resolver 16 figurinhas reunidas com mais 7. Depois invente uma história de juntar com duas quantidades de até dois algarismos e resolva com um desenho.",
+          "gabarito": "16+7=23. Observar correspondência entre dados, ações, pergunta, desenho e resposta. Aceitar estratégias pessoais e ditado da história a um adulto.",
+          "bncc": [
+            "EF01MA08"
+          ],
+          "atividadeOrigem": "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar#problemas_de_juntar_e_acrescentar.investigacao"
+        },
+        {
+          "titulo": "Cálculo Mental com Fatos Básicos",
+          "enunciado": "Monte com peças os fatos 6+4, 6+5 e 8+4. Explique como uma soma conhecida ou completar dez ajuda a encontrar os resultados.",
+          "gabarito": "Resultados 10, 11 e 12. Observar a construção da estratégia: 6+5 pode usar 6+4+1; 8+4 pode usar 8+2+2. Aceitar outras justificativas corretas.",
+          "bncc": [
+            "EF01MA06"
+          ],
+          "atividadeOrigem": "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos#calculo_mental_com_fatos_basicos.investigacao"
+        }
+      ]
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29
+        ],
+        "paginasImpressas": "32",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ]
+  },
+  "mat.ef01.figuras_geometricas.prova": {
+    "id": "mat.ef01.figuras_geometricas.prova",
+    "titulo": "Avaliação: Figuras Geométricas",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "bncc": [
+      "EF01MA13",
+      "EF01MA14"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+    "questoes": [
+      "mat.ef01.figuras_geometricas.prova.01",
+      "mat.ef01.figuras_geometricas.prova.02",
+      "mat.ef01.figuras_geometricas.prova.03",
+      "mat.ef01.figuras_geometricas.prova.04",
+      "mat.ef01.figuras_geometricas.prova.05"
+    ],
+    "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+    "matriz": [
+      {
+        "bncc": "EF01MA13",
+        "questoes": [
+          "mat.ef01.figuras_geometricas.prova.01",
+          "mat.ef01.figuras_geometricas.prova.02",
+          "mat.ef01.figuras_geometricas.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.figuras_geometricas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao",
+          "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano#figuras_espaciais_do_cotidiano.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA14",
+        "questoes": [
+          "mat.ef01.figuras_geometricas.prova.03",
+          "mat.ef01.figuras_geometricas.prova.04",
+          "mat.ef01.figuras_geometricas.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.figuras_geometricas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao",
+          "mat.ef01.figuras_geometricas.contornos_e_faces#contornos_e_faces.investigacao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef01.figuras_geometricas.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Figuras Geométricas",
+      "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Observe uma caixa e uma bola. Descreva suas formas e desenhe o contorno de uma face da caixa. Identifique também as quatro figuras da ilustração, depois de girar a folha. 2. Encontre ou desenhe exemplos que lembrem esfera, cone, cilindro e bloco retangular. Explique o que observou em cada exemplo e em que o objeto pode diferir do modelo. 3. Contorne faces planas de objetos disponíveis. Procure círculo, quadrado e retângulo; desenhe também triângulos em duas posições. Diga os nomes e explique como reconheceu.",
+      "gabarito": "Conferência por tarefa: 1. Conferir a distinção entre objeto e desenho plano. Relacionar bola a esfera e caixa a bloco; reconhecer círculo, quadrado, retângulo e triângulo em diferentes orientações. 2. Conferir os quatro pares entre modelos e objetos. Aceitar descrição oral e manipulação. A justificativa deve se apoiar na forma, não somente na cor, na função ou no tamanho. 3. Conferir contornos e nomeação em diferentes orientações. Não exigir que toda coleção tenha todos os modelos; completar por desenho quando faltar um objeto adequado.",
+      "bncc": [
+        "EF01MA13",
+        "EF01MA14"
+      ],
+      "atividadesOrigem": [
+        "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao",
+        "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano#figuras_espaciais_do_cotidiano.investigacao",
+        "mat.ef01.figuras_geometricas.contornos_e_faces#contornos_e_faces.investigacao"
+      ],
+      "duracaoMinSugerida": 30,
+      "rubrica": [
+        "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+        "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+        "Analisar procedimentos e explicações, além da resposta final.",
+        "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+      ],
+      "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+      "tarefas": [
+        {
+          "titulo": "Figuras Planas e Espaciais",
+          "enunciado": "Observe uma caixa e uma bola. Descreva suas formas e desenhe o contorno de uma face da caixa. Identifique também as quatro figuras da ilustração, depois de girar a folha.",
+          "gabarito": "Conferir a distinção entre objeto e desenho plano. Relacionar bola a esfera e caixa a bloco; reconhecer círculo, quadrado, retângulo e triângulo em diferentes orientações.",
+          "bncc": [
+            "EF01MA13",
+            "EF01MA14"
+          ],
+          "atividadeOrigem": "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao"
+        },
+        {
+          "titulo": "Figuras Espaciais do Cotidiano",
+          "enunciado": "Encontre ou desenhe exemplos que lembrem esfera, cone, cilindro e bloco retangular. Explique o que observou em cada exemplo e em que o objeto pode diferir do modelo.",
+          "gabarito": "Conferir os quatro pares entre modelos e objetos. Aceitar descrição oral e manipulação. A justificativa deve se apoiar na forma, não somente na cor, na função ou no tamanho.",
+          "bncc": [
+            "EF01MA13"
+          ],
+          "atividadeOrigem": "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano#figuras_espaciais_do_cotidiano.investigacao"
+        },
+        {
+          "titulo": "Contornos e Faces",
+          "enunciado": "Contorne faces planas de objetos disponíveis. Procure círculo, quadrado e retângulo; desenhe também triângulos em duas posições. Diga os nomes e explique como reconheceu.",
+          "gabarito": "Conferir contornos e nomeação em diferentes orientações. Não exigir que toda coleção tenha todos os modelos; completar por desenho quando faltar um objeto adequado.",
+          "bncc": [
+            "EF01MA14"
+          ],
+          "atividadeOrigem": "mat.ef01.figuras_geometricas.contornos_e_faces#contornos_e_faces.investigacao"
+        }
+      ]
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ]
+  },
+  "mat.ef01.grandezas_medidas_e_mais_numeros.prova": {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova",
+    "titulo": "Avaliação: Grandezas, medidas e mais números",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "bncc": [
+      "EF01MA15",
+      "EF01MA16",
+      "EF01MA17",
+      "EF01MA18"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+    "questoes": [
+      "mat.ef01.grandezas_medidas_e_mais_numeros.prova.01",
+      "mat.ef01.grandezas_medidas_e_mais_numeros.prova.02",
+      "mat.ef01.grandezas_medidas_e_mais_numeros.prova.03",
+      "mat.ef01.grandezas_medidas_e_mais_numeros.prova.04",
+      "mat.ef01.grandezas_medidas_e_mais_numeros.prova.05"
+    ],
+    "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+    "matriz": [
+      {
+        "bncc": "EF01MA15",
+        "questoes": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.prova.01",
+          "mat.ef01.grandezas_medidas_e_mais_numeros.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade#grandezas_e_medidas_comprimento_massa_e_capacidade.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA16",
+        "questoes": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA17",
+        "questoes": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA18",
+        "questoes": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana#datas_e_dias_da_semana.investigacao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef01.grandezas_medidas_e_mais_numeros.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Grandezas, medidas e mais números",
+      "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Ordene três objetos por comprimento. Se houver clipes iguais, use-os para comparar dois desses comprimentos, sem deixar espaços entre os clipes. Compare dois objetos numa balança disponível ou descreva como faria. Compare a capacidade de dois recipientes transferindo a mesma unidade de enchimento, com ajuda de um adulto. 2. Conte um dia seu por três ou mais desenhos, organizados em sequência. Diga os períodos e os horários que conhecer. Num calendário, localize o mês, os dias da semana e um acontecimento combinado. 3. Use o calendário para escrever a data completa do dia 15 de maio de 2026 e indicar o dia da semana. Depois escolha uma data no calendário do seu grupo e registre dia, mês e ano.",
+      "gabarito": "Conferência por tarefa: 1. Registrar objetos e resultados efetivos. Observar alinhamento, distinção de massa e aparência, capacidade até o mesmo critério de enchimento e uso de “mais”, “menos” ou “igual”. Não exigir resultados previamente inventados. 2. Conferir coerência da sequência narrada e do calendário efetivamente consultado. Observar períodos do dia, nomes dos dias e identificação do mês. Aceitar fala, gestos e desenhos. 3. 15/05/2026, sexta-feira. Na escolha livre, conferir o mês e o ano do calendário utilizado e a coluna do dia. Aceitar ditado ao adulto durante a aprendizagem da escrita.",
+      "bncc": [
+        "EF01MA15",
+        "EF01MA16",
+        "EF01MA17",
+        "EF01MA18"
+      ],
+      "atividadesOrigem": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade#grandezas_e_medidas_comprimento_massa_e_capacidade.investigacao",
+        "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao",
+        "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana#datas_e_dias_da_semana.investigacao"
+      ],
+      "duracaoMinSugerida": 30,
+      "rubrica": [
+        "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+        "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+        "Analisar procedimentos e explicações, além da resposta final.",
+        "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+      ],
+      "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+      "tarefas": [
+        {
+          "titulo": "Grandezas e Medidas (Comprimento, Massa e Capacidade)",
+          "enunciado": "Ordene três objetos por comprimento. Se houver clipes iguais, use-os para comparar dois desses comprimentos, sem deixar espaços entre os clipes. Compare dois objetos numa balança disponível ou descreva como faria. Compare a capacidade de dois recipientes transferindo a mesma unidade de enchimento, com ajuda de um adulto.",
+          "gabarito": "Registrar objetos e resultados efetivos. Observar alinhamento, distinção de massa e aparência, capacidade até o mesmo critério de enchimento e uso de “mais”, “menos” ou “igual”. Não exigir resultados previamente inventados.",
+          "bncc": [
+            "EF01MA15"
+          ],
+          "atividadeOrigem": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade#grandezas_e_medidas_comprimento_massa_e_capacidade.investigacao"
+        },
+        {
+          "titulo": "Tempo e Calendário",
+          "enunciado": "Conte um dia seu por três ou mais desenhos, organizados em sequência. Diga os períodos e os horários que conhecer. Num calendário, localize o mês, os dias da semana e um acontecimento combinado.",
+          "gabarito": "Conferir coerência da sequência narrada e do calendário efetivamente consultado. Observar períodos do dia, nomes dos dias e identificação do mês. Aceitar fala, gestos e desenhos.",
+          "bncc": [
+            "EF01MA16",
+            "EF01MA17"
+          ],
+          "atividadeOrigem": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao"
+        },
+        {
+          "titulo": "Datas e Dias da Semana",
+          "enunciado": "Use o calendário para escrever a data completa do dia 15 de maio de 2026 e indicar o dia da semana. Depois escolha uma data no calendário do seu grupo e registre dia, mês e ano.",
+          "gabarito": "15/05/2026, sexta-feira. Na escolha livre, conferir o mês e o ano do calendário utilizado e a coluna do dia. Aceitar ditado ao adulto durante a aprendizagem da escrita.",
+          "bncc": [
+            "EF01MA18"
+          ],
+          "atividadeOrigem": "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana#datas_e_dias_da_semana.investigacao"
+        }
+      ]
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109
+        ],
+        "paginasImpressas": "112",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ]
+  },
+  "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova": {
+    "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova",
+    "titulo": "Avaliação: Nosso dinheiro e mais sobre números",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Nosso dinheiro e mais sobre números",
+    "bncc": [
+      "EF01MA19"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+    "questoes": [
+      "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.01",
+      "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.02",
+      "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.03",
+      "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.04",
+      "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.05"
+    ],
+    "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+    "matriz": [
+      {
+        "bncc": "EF01MA19",
+        "questoes": [
+          "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.01",
+          "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.02",
+          "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.03",
+          "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.04",
+          "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao#sistema_monetario_brasileiro_introducao.investigacao",
+          "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples#trocas_e_equivalencias_simples.investigacao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Nosso dinheiro e mais sobre números",
+      "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Com ajuda de um adulto, observe valores indicados em moedas e cédulas do real, sem precisar fotografá-las. Faça cartões escritos com esses valores e monte pagamentos exatos para preços fictícios de R$ 6, R$ 8 e R$ 10. 2. Monte duas maneiras de representar R$ 2, usando moedas de R$ 1 e de cinquenta centavos ou cartões com esses valores. Depois simule comprar algo de R$ 3 pagando R$ 5 e confira o valor que deve voltar.",
+      "gabarito": "Conferência por tarefa: 1. Conferir reconhecimento dos valores observados e as somas construídas. Exemplos de pagamentos: 5+1=6; 5+2+1=8; 5+5=10. Aceitar outras combinações exatas e registro oral. 2. R$ 2 pode ser 1+1 ou quatro parcelas de cinquenta centavos, entre outras combinações. Na compra fictícia, devem voltar R$ 2, pois 3+2=5. Avaliar a relação de valores, não a quantidade de peças.",
+      "bncc": [
+        "EF01MA19"
+      ],
+      "atividadesOrigem": [
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao#sistema_monetario_brasileiro_introducao.investigacao",
+        "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples#trocas_e_equivalencias_simples.investigacao"
+      ],
+      "duracaoMinSugerida": 20,
+      "rubrica": [
+        "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+        "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+        "Analisar procedimentos e explicações, além da resposta final.",
+        "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+      ],
+      "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+      "tarefas": [
+        {
+          "titulo": "Sistema Monetário Brasileiro (Introdução)",
+          "enunciado": "Com ajuda de um adulto, observe valores indicados em moedas e cédulas do real, sem precisar fotografá-las. Faça cartões escritos com esses valores e monte pagamentos exatos para preços fictícios de R$ 6, R$ 8 e R$ 10.",
+          "gabarito": "Conferir reconhecimento dos valores observados e as somas construídas. Exemplos de pagamentos: 5+1=6; 5+2+1=8; 5+5=10. Aceitar outras combinações exatas e registro oral.",
+          "bncc": [
+            "EF01MA19"
+          ],
+          "atividadeOrigem": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao#sistema_monetario_brasileiro_introducao.investigacao"
+        },
+        {
+          "titulo": "Trocas e Equivalências Simples",
+          "enunciado": "Monte duas maneiras de representar R$ 2, usando moedas de R$ 1 e de cinquenta centavos ou cartões com esses valores. Depois simule comprar algo de R$ 3 pagando R$ 5 e confira o valor que deve voltar.",
+          "gabarito": "R$ 2 pode ser 1+1 ou quatro parcelas de cinquenta centavos, entre outras combinações. Na compra fictícia, devem voltar R$ 2, pois 3+2=5. Avaliar a relação de valores, não a quantidade de peças.",
+          "bncc": [
+            "EF01MA19"
+          ],
+          "atividadeOrigem": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples#trocas_e_equivalencias_simples.investigacao"
+        }
+      ]
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ]
+  },
+  "mat.ef01.numeros_ate_10.prova": {
+    "id": "mat.ef01.numeros_ate_10.prova",
+    "titulo": "Avaliação: Números até 10",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 10",
+    "bncc": [
+      "EF01MA01",
+      "EF01MA02",
+      "EF01MA03"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+    "questoes": [
+      "mat.ef01.numeros_ate_10.prova.01",
+      "mat.ef01.numeros_ate_10.prova.02",
+      "mat.ef01.numeros_ate_10.prova.03",
+      "mat.ef01.numeros_ate_10.prova.04",
+      "mat.ef01.numeros_ate_10.prova.05"
+    ],
+    "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+    "matriz": [
+      {
+        "bncc": "EF01MA01",
+        "questoes": [
+          "mat.ef01.numeros_ate_10.prova.01",
+          "mat.ef01.numeros_ate_10.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.numeros_ate_10.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA02",
+        "questoes": [
+          "mat.ef01.numeros_ate_10.prova.01",
+          "mat.ef01.numeros_ate_10.prova.04",
+          "mat.ef01.numeros_ate_10.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.numeros_ate_10.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.investigacao",
+          "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA03",
+        "questoes": [
+          "mat.ef01.numeros_ate_10.prova.03",
+          "mat.ef01.numeros_ate_10.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.numeros_ate_10.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.numeros_ate_10.comparacao_de_quantidades#comparacao_de_quantidades.investigacao",
+          "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.investigacao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef01.numeros_ate_10.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Números até 10",
+      "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Separe de zero a dez objetos e conte apontando um de cada vez. Mude a posição dos objetos e conte novamente. Explique a diferença entre “sete objetos” e “ônibus identificado pelo número 7”. 2. Faça duas coleções próximas de vinte objetos. Primeiro estime qual tem mais. Depois forme pares e conte para conferir. Registre se havia mais, menos ou a mesma quantidade. 3. Estime e conte uma coleção entre quinze e vinte peças. Use pares e depois conte de um em um. Compare os resultados e sua estimativa inicial.",
+      "gabarito": "Conferência por tarefa: 1. A quantidade deve permanecer a mesma após reorganizar sem acrescentar ou retirar objetos. Sete objetos indica quantidade; o 7 do ônibus pode ser um código de identificação. Observar correspondência um a um. 2. Conferir os resultados com as coleções efetivas. O palpite pode ser revisto sem ser tratado como erro de contagem. Observar pareamento, sobras e explicação da comparação. 3. As duas contagens devem concordar. Se houver sobra, incluí-la no total. Observar se a criança diferencia estimativa, quantidade de grupos e quantidade de peças.",
+      "bncc": [
+        "EF01MA01",
+        "EF01MA02",
+        "EF01MA03"
+      ],
+      "atividadesOrigem": [
+        "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.investigacao",
+        "mat.ef01.numeros_ate_10.comparacao_de_quantidades#comparacao_de_quantidades.investigacao",
+        "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.investigacao"
+      ],
+      "duracaoMinSugerida": 30,
+      "rubrica": [
+        "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+        "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+        "Analisar procedimentos e explicações, além da resposta final.",
+        "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+      ],
+      "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+      "tarefas": [
+        {
+          "titulo": "Contagem e Quantidade (0 a 10)",
+          "enunciado": "Separe de zero a dez objetos e conte apontando um de cada vez. Mude a posição dos objetos e conte novamente. Explique a diferença entre “sete objetos” e “ônibus identificado pelo número 7”.",
+          "gabarito": "A quantidade deve permanecer a mesma após reorganizar sem acrescentar ou retirar objetos. Sete objetos indica quantidade; o 7 do ônibus pode ser um código de identificação. Observar correspondência um a um.",
+          "bncc": [
+            "EF01MA01",
+            "EF01MA02"
+          ],
+          "atividadeOrigem": "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.investigacao"
+        },
+        {
+          "titulo": "Comparação de Quantidades",
+          "enunciado": "Faça duas coleções próximas de vinte objetos. Primeiro estime qual tem mais. Depois forme pares e conte para conferir. Registre se havia mais, menos ou a mesma quantidade.",
+          "gabarito": "Conferir os resultados com as coleções efetivas. O palpite pode ser revisto sem ser tratado como erro de contagem. Observar pareamento, sobras e explicação da comparação.",
+          "bncc": [
+            "EF01MA03"
+          ],
+          "atividadeOrigem": "mat.ef01.numeros_ate_10.comparacao_de_quantidades#comparacao_de_quantidades.investigacao"
+        },
+        {
+          "titulo": "Pareamento e Estimativa",
+          "enunciado": "Estime e conte uma coleção entre quinze e vinte peças. Use pares e depois conte de um em um. Compare os resultados e sua estimativa inicial.",
+          "gabarito": "As duas contagens devem concordar. Se houver sobra, incluí-la no total. Observar se a criança diferencia estimativa, quantidade de grupos e quantidade de peças.",
+          "bncc": [
+            "EF01MA02",
+            "EF01MA03"
+          ],
+          "atividadeOrigem": "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.investigacao"
+        }
+      ]
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          16
+        ],
+        "paginasImpressas": "16, 19",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ]
+  },
+  "mat.ef01.numeros_ate_100.prova": {
+    "id": "mat.ef01.numeros_ate_100.prova",
+    "titulo": "Avaliação: Números até 100",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Números até 100",
+    "bncc": [
+      "EF01MA04",
+      "EF01MA05",
+      "EF01MA07"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+    "questoes": [
+      "mat.ef01.numeros_ate_100.prova.01",
+      "mat.ef01.numeros_ate_100.prova.02",
+      "mat.ef01.numeros_ate_100.prova.03",
+      "mat.ef01.numeros_ate_100.prova.04",
+      "mat.ef01.numeros_ate_100.prova.05"
+    ],
+    "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+    "matriz": [
+      {
+        "bncc": "EF01MA04",
+        "questoes": [
+          "mat.ef01.numeros_ate_100.prova.01",
+          "mat.ef01.numeros_ate_100.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.numeros_ate_100.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas#numeros_ate_100_e_dezenas_exatas.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA05",
+        "questoes": [
+          "mat.ef01.numeros_ate_100.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.numeros_ate_100.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.numeros_ate_100.reta_numerica_ate_100#reta_numerica_ate_100.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA07",
+        "questoes": [
+          "mat.ef01.numeros_ate_100.prova.03",
+          "mat.ef01.numeros_ate_100.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.numeros_ate_100.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.numeros_ate_100.composicao_e_decomposicao#composicao_e_decomposicao.investigacao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef01.numeros_ate_100.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Números até 100",
+      "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Conte uma coleção de até cem objetos, começando com um tamanho que você consiga acompanhar. Organize grupos de dez, registre por desenho e número e conte para outra pessoa. Quando estiver seguro, forme dez grupos de dez. 2. Desenhe uma reta de 40 a 50, com passos de um. Marque 42, 45 e 49, compare dois deles e explique usando a posição das marcas. 3. Monte 27 com peças ou desenhos. Mostre duas separações por adição, explique os grupos de dez e junte tudo para conferir.",
+      "gabarito": "Conferência por tarefa: 1. Conferir a coleção real, a composição dos grupos e a concordância entre fala, desenho e numeral. Dez grupos completos têm cem objetos. Retomar com coleções menores se necessário. 2. As marcas devem ter intervalos iguais e valores corretos. 42 < 45 < 49. Aceitar comparação oral com apoio da reta. 3. Possibilidades: 20+7, 10+17 ou outras adições que totalizem 27. Com dezenas, são dois grupos de dez e sete unidades. O registro deve corresponder ao material.",
+      "bncc": [
+        "EF01MA04",
+        "EF01MA05",
+        "EF01MA07"
+      ],
+      "atividadesOrigem": [
+        "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas#numeros_ate_100_e_dezenas_exatas.investigacao",
+        "mat.ef01.numeros_ate_100.reta_numerica_ate_100#reta_numerica_ate_100.investigacao",
+        "mat.ef01.numeros_ate_100.composicao_e_decomposicao#composicao_e_decomposicao.investigacao"
+      ],
+      "duracaoMinSugerida": 30,
+      "rubrica": [
+        "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+        "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+        "Analisar procedimentos e explicações, além da resposta final.",
+        "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+      ],
+      "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+      "tarefas": [
+        {
+          "titulo": "Números até 100 e Dezenas Exatas",
+          "enunciado": "Conte uma coleção de até cem objetos, começando com um tamanho que você consiga acompanhar. Organize grupos de dez, registre por desenho e número e conte para outra pessoa. Quando estiver seguro, forme dez grupos de dez.",
+          "gabarito": "Conferir a coleção real, a composição dos grupos e a concordância entre fala, desenho e numeral. Dez grupos completos têm cem objetos. Retomar com coleções menores se necessário.",
+          "bncc": [
+            "EF01MA04"
+          ],
+          "atividadeOrigem": "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas#numeros_ate_100_e_dezenas_exatas.investigacao"
+        },
+        {
+          "titulo": "Reta Numérica até 100",
+          "enunciado": "Desenhe uma reta de 40 a 50, com passos de um. Marque 42, 45 e 49, compare dois deles e explique usando a posição das marcas.",
+          "gabarito": "As marcas devem ter intervalos iguais e valores corretos. 42 < 45 < 49. Aceitar comparação oral com apoio da reta.",
+          "bncc": [
+            "EF01MA05"
+          ],
+          "atividadeOrigem": "mat.ef01.numeros_ate_100.reta_numerica_ate_100#reta_numerica_ate_100.investigacao"
+        },
+        {
+          "titulo": "Composição e Decomposição de Números",
+          "enunciado": "Monte 27 com peças ou desenhos. Mostre duas separações por adição, explique os grupos de dez e junte tudo para conferir.",
+          "gabarito": "Possibilidades: 20+7, 10+17 ou outras adições que totalizem 27. Com dezenas, são dois grupos de dez e sete unidades. O registro deve corresponder ao material.",
+          "bncc": [
+            "EF01MA07"
+          ],
+          "atividadeOrigem": "mat.ef01.numeros_ate_100.composicao_e_decomposicao#composicao_e_decomposicao.investigacao"
+        }
+      ]
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          29
+        ],
+        "paginasImpressas": "16, 32",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ]
+  },
+  "mat.ef01.ordenacao_e_mais_numeros.prova": {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.prova",
+    "titulo": "Avaliação: Ordenação e mais números",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "bncc": [
+      "EF01MA01",
+      "EF01MA05"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+    "questoes": [
+      "mat.ef01.ordenacao_e_mais_numeros.prova.01",
+      "mat.ef01.ordenacao_e_mais_numeros.prova.02",
+      "mat.ef01.ordenacao_e_mais_numeros.prova.03",
+      "mat.ef01.ordenacao_e_mais_numeros.prova.04",
+      "mat.ef01.ordenacao_e_mais_numeros.prova.05"
+    ],
+    "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+    "matriz": [
+      {
+        "bncc": "EF01MA01",
+        "questoes": [
+          "mat.ef01.ordenacao_e_mais_numeros.prova.01",
+          "mat.ef01.ordenacao_e_mais_numeros.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.ordenacao_e_mais_numeros.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais#numeros_ordinais.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA05",
+        "questoes": [
+          "mat.ef01.ordenacao_e_mais_numeros.prova.02",
+          "mat.ef01.ordenacao_e_mais_numeros.prova.03",
+          "mat.ef01.ordenacao_e_mais_numeros.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.ordenacao_e_mais_numeros.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente#ordem_crescente_e_decrescente.investigacao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef01.ordenacao_e_mais_numeros.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Ordenação e mais números",
+      "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Organize uma fila de cinco objetos, marque o início e descreva posições. Depois dê exemplos de número como quantidade, ordem e código, sem usar dados pessoais reais. 2. Ordene 31, 13, 35 e 30 com peças ou numa reta. Depois explique sem o desenho por que 35 é maior que 31 e escreva a ordem inversa.",
+      "gabarito": "Conferência por tarefa: 1. Conferir a contagem a partir do início combinado. Exemplos: cinco peças; segunda peça; código inventado de identificação. Não confundir código com quantidade nem exigir nomes de ordinais além dos trabalhados. 2. Crescente: 13,30,31,35. Decrescente: 35,31,30,13. Em 35 e 31, as três dezenas são iguais; cinco unidades superam uma.",
+      "bncc": [
+        "EF01MA01",
+        "EF01MA05"
+      ],
+      "atividadesOrigem": [
+        "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais#numeros_ordinais.investigacao",
+        "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente#ordem_crescente_e_decrescente.investigacao"
+      ],
+      "duracaoMinSugerida": 20,
+      "rubrica": [
+        "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+        "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+        "Analisar procedimentos e explicações, além da resposta final.",
+        "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+      ],
+      "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+      "tarefas": [
+        {
+          "titulo": "Números Ordinais",
+          "enunciado": "Organize uma fila de cinco objetos, marque o início e descreva posições. Depois dê exemplos de número como quantidade, ordem e código, sem usar dados pessoais reais.",
+          "gabarito": "Conferir a contagem a partir do início combinado. Exemplos: cinco peças; segunda peça; código inventado de identificação. Não confundir código com quantidade nem exigir nomes de ordinais além dos trabalhados.",
+          "bncc": [
+            "EF01MA01"
+          ],
+          "atividadeOrigem": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais#numeros_ordinais.investigacao"
+        },
+        {
+          "titulo": "Ordem Crescente e Decrescente",
+          "enunciado": "Ordene 31, 13, 35 e 30 com peças ou numa reta. Depois explique sem o desenho por que 35 é maior que 31 e escreva a ordem inversa.",
+          "gabarito": "Crescente: 13,30,31,35. Decrescente: 35,31,30,13. Em 35 e 31, as três dezenas são iguais; cinco unidades superam uma.",
+          "bncc": [
+            "EF01MA05"
+          ],
+          "atividadeOrigem": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente#ordem_crescente_e_decrescente.investigacao"
+        }
+      ]
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          16,
+          17
+        ],
+        "paginasImpressas": "19, 20",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ]
+  },
+  "mat.ef01.probabilidade_e_estatistica.prova": {
+    "id": "mat.ef01.probabilidade_e_estatistica.prova",
+    "titulo": "Avaliação: Probabilidade e Estatística",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "bncc": [
+      "EF01MA20",
+      "EF01MA21",
+      "EF01MA22"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+    "questoes": [
+      "mat.ef01.probabilidade_e_estatistica.prova.01",
+      "mat.ef01.probabilidade_e_estatistica.prova.02",
+      "mat.ef01.probabilidade_e_estatistica.prova.03",
+      "mat.ef01.probabilidade_e_estatistica.prova.04",
+      "mat.ef01.probabilidade_e_estatistica.prova.05"
+    ],
+    "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+    "matriz": [
+      {
+        "bncc": "EF01MA20",
+        "questoes": [
+          "mat.ef01.probabilidade_e_estatistica.prova.01",
+          "mat.ef01.probabilidade_e_estatistica.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano#eventos_do_cotidiano.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA21",
+        "questoes": [
+          "mat.ef01.probabilidade_e_estatistica.prova.03",
+          "mat.ef01.probabilidade_e_estatistica.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas#tabelas_e_graficos_de_colunas.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA22",
+        "questoes": [
+          "mat.ef01.probabilidade_e_estatistica.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula#pesquisa_na_sala_de_aula.investigacao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef01.probabilidade_e_estatistica.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Probabilidade e Estatística",
+      "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Monte uma sacola de brincadeira com duas cores. Diga um acontecimento certo, um que talvez aconteça e um impossível. Faça sorteios com devolução da peça e explique por que o resultado pode variar. 2. Leia a tabela e o gráfico: indique a categoria com mais votos, a com menos e o total de votos. Explique onde encontrou cada resposta e desenhe outra forma de representar os mesmos dados. 3. Escolha uma pergunta sobre brincadeiras, histórias ou outro interesse do grupo. Consulte de cinco a trinta participantes, sem nomes, com uma resposta de cada. Organize as respostas por marcas ou desenhos, conte e apresente o que descobriu.",
+      "gabarito": "Conferência por tarefa: 1. As classificações devem corresponder à composição real da sacola. Repor a peça mantém a composição, mas não obriga repetir a cor. Registrar falas e justificativas, sem exigir cálculo de probabilidades. 2. Bola tem mais, com quatro; quebra-cabeça tem menos, com um; o total é oito. A nova representação deve preservar as três quantidades e identificar as categorias. 3. Conferir pergunta, grupo consultado, categorias, uma resposta por participante e total de registros. Os valores não são predefinidos. Avaliar coleta e organização, aceitando apresentação oral e registros pessoais.",
+      "bncc": [
+        "EF01MA20",
+        "EF01MA21",
+        "EF01MA22"
+      ],
+      "atividadesOrigem": [
+        "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano#eventos_do_cotidiano.investigacao",
+        "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas#tabelas_e_graficos_de_colunas.investigacao",
+        "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula#pesquisa_na_sala_de_aula.investigacao"
+      ],
+      "duracaoMinSugerida": 30,
+      "rubrica": [
+        "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+        "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+        "Analisar procedimentos e explicações, além da resposta final.",
+        "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+      ],
+      "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+      "tarefas": [
+        {
+          "titulo": "Acontecerá com Certeza, Talvez ou É Impossível",
+          "enunciado": "Monte uma sacola de brincadeira com duas cores. Diga um acontecimento certo, um que talvez aconteça e um impossível. Faça sorteios com devolução da peça e explique por que o resultado pode variar.",
+          "gabarito": "As classificações devem corresponder à composição real da sacola. Repor a peça mantém a composição, mas não obriga repetir a cor. Registrar falas e justificativas, sem exigir cálculo de probabilidades.",
+          "bncc": [
+            "EF01MA20"
+          ],
+          "atividadeOrigem": "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano#eventos_do_cotidiano.investigacao"
+        },
+        {
+          "titulo": "Tabelas e Gráficos de Colunas",
+          "enunciado": "Leia a tabela e o gráfico: indique a categoria com mais votos, a com menos e o total de votos. Explique onde encontrou cada resposta e desenhe outra forma de representar os mesmos dados.",
+          "gabarito": "Bola tem mais, com quatro; quebra-cabeça tem menos, com um; o total é oito. A nova representação deve preservar as três quantidades e identificar as categorias.",
+          "bncc": [
+            "EF01MA21"
+          ],
+          "atividadeOrigem": "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas#tabelas_e_graficos_de_colunas.investigacao"
+        },
+        {
+          "titulo": "Pesquisa na Sala de Aula",
+          "enunciado": "Escolha uma pergunta sobre brincadeiras, histórias ou outro interesse do grupo. Consulte de cinco a trinta participantes, sem nomes, com uma resposta de cada. Organize as respostas por marcas ou desenhos, conte e apresente o que descobriu.",
+          "gabarito": "Conferir pergunta, grupo consultado, categorias, uma resposta por participante e total de registros. Os valores não são predefinidos. Avaliar coleta e organização, aceitando apresentação oral e registros pessoais.",
+          "bncc": [
+            "EF01MA22"
+          ],
+          "atividadeOrigem": "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula#pesquisa_na_sala_de_aula.investigacao"
+        }
+      ]
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ]
+  },
+  "mat.ef01.vocabulario_fundamental.prova": {
+    "id": "mat.ef01.vocabulario_fundamental.prova",
+    "titulo": "Avaliação: Vocabulário Fundamental",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Vocabulário Fundamental",
+    "bncc": [
+      "EF01MA09",
+      "EF01MA10",
+      "EF01MA11",
+      "EF01MA12"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+    "questoes": [
+      "mat.ef01.vocabulario_fundamental.prova.01",
+      "mat.ef01.vocabulario_fundamental.prova.02",
+      "mat.ef01.vocabulario_fundamental.prova.03",
+      "mat.ef01.vocabulario_fundamental.prova.04",
+      "mat.ef01.vocabulario_fundamental.prova.05"
+    ],
+    "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+    "matriz": [
+      {
+        "bncc": "EF01MA09",
+        "questoes": [
+          "mat.ef01.vocabulario_fundamental.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.vocabulario_fundamental.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes#classificacao_e_sequencias_padroes.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA10",
+        "questoes": [
+          "mat.ef01.vocabulario_fundamental.prova.02",
+          "mat.ef01.vocabulario_fundamental.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.vocabulario_fundamental.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes#sequencias_recursivas_e_elementos_ausentes.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA11",
+        "questoes": [
+          "mat.ef01.vocabulario_fundamental.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.vocabulario_fundamental.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao#nocoes_de_localizacao_e_posicao.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF01MA12",
+        "questoes": [
+          "mat.ef01.vocabulario_fundamental.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef01.vocabulario_fundamental.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao#pontos_de_referencia_e_posicao.investigacao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef01.vocabulario_fundamental.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Vocabulário Fundamental",
+      "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Desenhe círculos e quadrados de dois tamanhos e duas cores. Faça uma organização por forma e outra por cor. Depois ordene três lápis do mais curto ao mais comprido. 2. Com um colega ou adulto, fique voltado para um ponto combinado. Indique um objeto à sua direita, outro à sua esquerda e um à frente. Gire e descreva o que mudou. 3. Desenhe uma cadeira no centro, uma bola à direita e um livro à esquerda para quem olha a folha. Dite as posições para outra pessoa desenhar e compare os dois desenhos. 4. Complete 1, 3, __, 7 pela regra “acrescentar 2”. Depois crie uma sequência de formas, esconda uma peça e explique a regra para alguém completar.",
+      "gabarito": "Conferência por tarefa: 1. Observar se a criança mantém um critério em cada organização, explica a mudança de grupos e alinha os lápis para ordenar comprimentos. Aceitar explicação oral e apontamentos. 2. O observador confere as posições em relação ao corpo da criança, sem usar sua própria direita como se fosse a dela. Registrar a orientação inicial e aceitar apontar ou falar. 3. Os desenhos devem concordar com a cadeira como referência e com o ponto de vista combinado. Avaliar a descrição e a possibilidade de outra pessoa reconstruir as posições. 4. Falta 5. Na sequência de formas, verificar se o elemento recolocado mantém a regra explicitada. Aceitar peças, desenho e descrição oral.",
+      "bncc": [
+        "EF01MA09",
+        "EF01MA10",
+        "EF01MA11",
+        "EF01MA12"
+      ],
+      "atividadesOrigem": [
+        "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes#classificacao_e_sequencias_padroes.investigacao",
+        "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao#nocoes_de_localizacao_e_posicao.investigacao",
+        "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao#pontos_de_referencia_e_posicao.investigacao",
+        "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes#sequencias_recursivas_e_elementos_ausentes.investigacao"
+      ],
+      "duracaoMinSugerida": 40,
+      "rubrica": [
+        "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+        "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+        "Analisar procedimentos e explicações, além da resposta final.",
+        "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+      ],
+      "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+      "tarefas": [
+        {
+          "titulo": "Classificação e Sequências (Padrões)",
+          "enunciado": "Desenhe círculos e quadrados de dois tamanhos e duas cores. Faça uma organização por forma e outra por cor. Depois ordene três lápis do mais curto ao mais comprido.",
+          "gabarito": "Observar se a criança mantém um critério em cada organização, explica a mudança de grupos e alinha os lápis para ordenar comprimentos. Aceitar explicação oral e apontamentos.",
+          "bncc": [
+            "EF01MA09"
+          ],
+          "atividadeOrigem": "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes#classificacao_e_sequencias_padroes.investigacao"
+        },
+        {
+          "titulo": "Noções de Localização e Posição",
+          "enunciado": "Com um colega ou adulto, fique voltado para um ponto combinado. Indique um objeto à sua direita, outro à sua esquerda e um à frente. Gire e descreva o que mudou.",
+          "gabarito": "O observador confere as posições em relação ao corpo da criança, sem usar sua própria direita como se fosse a dela. Registrar a orientação inicial e aceitar apontar ou falar.",
+          "bncc": [
+            "EF01MA11"
+          ],
+          "atividadeOrigem": "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao#nocoes_de_localizacao_e_posicao.investigacao"
+        },
+        {
+          "titulo": "Pontos de Referência e Posição",
+          "enunciado": "Desenhe uma cadeira no centro, uma bola à direita e um livro à esquerda para quem olha a folha. Dite as posições para outra pessoa desenhar e compare os dois desenhos.",
+          "gabarito": "Os desenhos devem concordar com a cadeira como referência e com o ponto de vista combinado. Avaliar a descrição e a possibilidade de outra pessoa reconstruir as posições.",
+          "bncc": [
+            "EF01MA12"
+          ],
+          "atividadeOrigem": "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao#pontos_de_referencia_e_posicao.investigacao"
+        },
+        {
+          "titulo": "Sequências Recursivas e Elementos Ausentes",
+          "enunciado": "Complete 1, 3, __, 7 pela regra “acrescentar 2”. Depois crie uma sequência de formas, esconda uma peça e explique a regra para alguém completar.",
+          "gabarito": "Falta 5. Na sequência de formas, verificar se o elemento recolocado mantém a regra explicitada. Aceitar peças, desenho e descrição oral.",
+          "bncc": [
+            "EF01MA10"
+          ],
+          "atividadeOrigem": "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes#sequencias_recursivas_e_elementos_ausentes.investigacao"
+        }
+      ]
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ]
+  },
   "mat.ef06.angulos_e_poligonos.prova": {
     "id": "mat.ef06.angulos_e_poligonos.prova",
     "titulo": "Avaliação: Ângulos e polígonos",

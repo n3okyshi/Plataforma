@@ -43,8 +43,34 @@
     },
     {
       "ordem": 9,
-      "trabalho": "Completar Matemática do 6º ao 9º ano",
-      "estado": "conteudo_integral_para_testes"
+      "trabalho": "Completar Matemática do 1º ao 9º ano",
+      "estado": "em_andamento",
+      "subescopos": [
+        {
+          "niveis": [
+            "EF01",
+            "EF06",
+            "EF07",
+            "EF08",
+            "EF09"
+          ],
+          "estado": "conteudo_integral_para_testes",
+          "pendencias": [
+            "Aplicação em turma e homologação docente.",
+            "Revisão visual e acessibilidade.",
+            "Persistência Firebase."
+          ]
+        },
+        {
+          "niveis": [
+            "EF02",
+            "EF03",
+            "EF04",
+            "EF05"
+          ],
+          "estado": "planejamento_a_completar"
+        }
+      ]
     },
     {
       "ordem": 10,
@@ -63,7 +89,7 @@
     },
     {
       "ordem": 13,
-      "trabalho": "Completar Língua Portuguesa do 6º ao 9º ano",
+      "trabalho": "Completar Língua Portuguesa do 1º ao 9º ano",
       "estado": "pendente"
     },
     {
@@ -83,7 +109,7 @@
     },
     {
       "ordem": 17,
-      "trabalho": "Completar Ciências da Natureza do 6º ao 9º ano",
+      "trabalho": "Completar Ciências da Natureza do 1º ao 9º ano",
       "estado": "pendente"
     },
     {
@@ -92,6 +118,6 @@
       "estado": "pendente"
     }
   ],
-  "marcoAtual": "Matemática EF06–EF09: conteúdos integrais disponíveis para testes. Pendentes aplicação prática, revisão visual, Firebase e homologação docente. Próximo lote de autoria: Matemática do Ensino Médio.",
+  "marcoAtual": "Matemática EF01 e EF06–EF09 disponíveis para testes, com pendências registradas. A ampliação da ordem abrange EF01–EF05; próximo lote de autoria: EF02, seguido de EF03–EF05 antes do Ensino Médio.",
   "regra": "Rascunhos recuperados e vínculos propostos não equivalem a conteúdos concluídos."
 }

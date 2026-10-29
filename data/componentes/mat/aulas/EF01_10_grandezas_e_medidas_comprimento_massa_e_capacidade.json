@@ -2,36 +2,116 @@
   "id": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
   "componente": "mat",
   "nivel": "EF01",
-  "ordem": 10,
+  "ordem": 19,
   "unidade": "Grandezas, medidas e mais números",
   "titulo": "Grandezas e Medidas (Comprimento, Massa e Capacidade)",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF01MA15"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Comparar comprimentos, massas e capacidades com referências coerentes."
+    ],
+    "resumo": "Comparar comprimentos, massas e capacidades com referências coerentes.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Medindo as Coisas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Medir usando o corpo (palmos, passos) e comparar: O que é mais pesado? O que cabe mais água?\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🐘 Pesado ou Leve?</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uma pena é leve. Um elefante é pesado. Uma garrafa cheia é mais pesada que uma vazia.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Grandezas e Medidas (Comprimento, Massa e Capacidade)</h2><h3>O que vamos aprender</h3><p>Comparar comprimentos, massas e capacidades com referências coerentes.</p><h3>Ideias e relações</h3><p>Podemos comparar sem começar com números. Para ver qual lápis é mais comprido, alinhe uma ponta. Para comparar massas, uma balança de dois pratos pode ajudar: o lado que desce tem maior massa quando os pratos e as condições são equivalentes. Para comparar capacidades, observe quanto cabe em cada recipiente, não só sua altura. Um recipiente alto e estreito pode comportar menos que outro mais baixo e largo. Explique qual grandeza está comparando. Como exploração complementar, você pode comparar comprimentos com clipes iguais, colocados ponta a ponta, sem espaços. Trocar o tamanho da unidade pode mudar o número de clipes contado.</p><h3>Exemplo resolvido</h3><p>Dois lápis apoiados com as pontas alinhadas terminam em lugares diferentes. O que chega mais longe é mais comprido. Essa comparação não informa qual deles tem maior massa.</p><h3>Atenção ao raciocínio</h3><p>Tamanho aparente e massa não são a mesma coisa. Altura do recipiente não determina sozinha quanto cabe.</p><h3>Investigue e produza</h3><p>Ordene três objetos por comprimento. Se houver clipes iguais, use-os para comparar dois desses comprimentos, sem deixar espaços entre os clipes. Compare dois objetos numa balança disponível ou descreva como faria. Compare a capacidade de dois recipientes transferindo a mesma unidade de enchimento, com ajuda de um adulto.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "grandezas",
+      "medidas"
+    ],
+    "errosComuns": [
+      "Tamanho aparente e massa não são a mesma coisa. Altura do recipiente não determina sozinha quanto cabe."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "grandezas_e_medidas_comprimento_massa_e_capacidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para comparar o comprimento de dois lápis, uma boa estratégia é:",
+      "alternativas": [
+        "Comparar apenas a cor",
+        "Afirmar que o mais grosso é sempre mais comprido",
+        "Alinhar uma ponta e observar a outra"
+      ],
+      "correta": 2,
+      "explicacao": "Alinhar o início permite comparar até onde cada lápis chega."
+    },
+    {
+      "id": "grandezas_e_medidas_comprimento_massa_e_capacidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Ordene três objetos por comprimento. Se houver clipes iguais, use-os para comparar dois desses comprimentos, sem deixar espaços entre os clipes. Compare dois objetos numa balança disponível ou descreva como faria. Compare a capacidade de dois recipientes transferindo a mesma unidade de enchimento, com ajuda de um adulto.",
+      "gabarito": "Registrar objetos e resultados efetivos. Observar alinhamento, distinção de massa e aparência, capacidade até o mesmo critério de enchimento e uso de “mais”, “menos” ou “igual”. Não exigir resultados previamente inventados.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Registrar objetos e resultados efetivos. Observar alinhamento, distinção de massa e aparência, capacidade até o mesmo critério de enchimento e uso de “mais”, “menos” ou “igual”. Não exigir resultados previamente inventados.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "grandezas",
+    "medidas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        283
+      ],
+      "paginasImpressas": "281",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109
+      ],
+      "paginasImpressas": "112",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

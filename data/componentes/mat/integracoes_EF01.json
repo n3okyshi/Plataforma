@@ -1,0 +1,36 @@
+{
+  "nivel": "EF01",
+  "motivo": "Consolidação de subtópicos em aulas completas, preservando os IDs já presentes no percurso e registrando os destinos do planejamento anterior.",
+  "integracoes": [
+    {
+      "idAnterior": "mat.ef01.numeros_ate_10.registro_de_quantidades",
+      "tituloAnterior": "Registro de Quantidades",
+      "integradoEm": "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas"
+    },
+    {
+      "idAnterior": "mat.ef01.numeros_ate_100.fatos_basicos_da_adicao",
+      "tituloAnterior": "Fatos Básicos da Adição",
+      "integradoEm": "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos"
+    },
+    {
+      "idAnterior": "mat.ef01.adicao_e_subtracao.problemas_de_separar_e_comparar",
+      "tituloAnterior": "Problemas de Separar e Comparar",
+      "integradoEm": "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao"
+    },
+    {
+      "idAnterior": "mat.ef01.ordenacao_e_mais_numeros.reta_numerica_e_ordenacao",
+      "tituloAnterior": "Reta Numérica e Ordenação",
+      "integradoEm": "mat.ef01.numeros_ate_100.reta_numerica_ate_100"
+    },
+    {
+      "idAnterior": "mat.ef01.grandezas_medidas_e_mais_numeros.medidas_nao_convencionais",
+      "tituloAnterior": "Medidas Não Convencionais",
+      "integradoEm": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade"
+    },
+    {
+      "idAnterior": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.moedas_e_cedulas",
+      "tituloAnterior": "Moedas e Cédulas do Real",
+      "integradoEm": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao"
+    }
+  ]
+}

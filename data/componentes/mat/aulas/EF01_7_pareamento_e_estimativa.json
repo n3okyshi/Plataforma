@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef01.numeros_ate_10.pareamento_e_estimativa",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 7,
+  "unidade": "Números até 10",
+  "titulo": "Pareamento e Estimativa",
+  "bncc": [
+    "EF01MA02",
+    "EF01MA03"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Usar pares e agrupamentos para contar e revisar uma estimativa."
+    ],
+    "resumo": "Usar pares e agrupamentos para contar e revisar uma estimativa.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Pareamento e Estimativa</h2><h3>O que vamos aprender</h3><p>Usar pares e agrupamentos para contar e revisar uma estimativa.</p><h3>Ideias e relações</h3><p>Podemos contar de um em um ou organizar objetos em pares para acompanhar melhor a contagem. Dois pares têm quatro objetos; três pares têm seis. Um objeto pode ficar sem par quando a quantidade não completa um novo par. Agrupar não muda a coleção. Antes de organizar, estime quantos objetos vê; depois confira com uma estratégia que permita saber o que já foi contado.</p><h3>Exemplo resolvido</h3><p>Dezessete peças podem ser organizadas em oito pares e uma peça solta. Contando 2, 4, 6, 8, 10, 12, 14, 16 e mais 1, chegamos a 17.</p><h3>Atenção ao raciocínio</h3><p>Um par tem dois objetos. Contar apenas o número de pares não informa sozinho o total de objetos.</p><h3>Investigue e produza</h3><p>Estime e conte uma coleção entre quinze e vinte peças. Use pares e depois conte de um em um. Compare os resultados e sua estimativa inicial.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "estimativa",
+      "contagem",
+      "pareamento"
+    ],
+    "errosComuns": [
+      "Um par tem dois objetos. Contar apenas o número de pares não informa sozinho o total de objetos."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pareamento_e_estimativa.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quatro pares de peças e uma peça solta totalizam:",
+      "alternativas": [
+        "5 peças",
+        "8 peças",
+        "9 peças"
+      ],
+      "correta": 2,
+      "explicacao": "Quatro pares são oito peças; com a solta, são nove."
+    },
+    {
+      "id": "pareamento_e_estimativa.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Estime e conte uma coleção entre quinze e vinte peças. Use pares e depois conte de um em um. Compare os resultados e sua estimativa inicial.",
+      "gabarito": "As duas contagens devem concordar. Se houver sobra, incluí-la no total. Observar se a criança diferencia estimativa, quantidade de grupos e quantidade de peças.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "As duas contagens devem concordar. Se houver sobra, incluí-la no total. Observar se a criança diferencia estimativa, quantidade de grupos e quantidade de peças.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "estimativa",
+    "contagem",
+    "pareamento"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14
+      ],
+      "paginasImpressas": "17",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.numeros_ate_10.comparacao_de_quantidades"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}
