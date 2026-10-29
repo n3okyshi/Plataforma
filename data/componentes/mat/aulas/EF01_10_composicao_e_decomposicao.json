@@ -1,0 +1,118 @@
+{
+  "id": "mat.ef01.numeros_ate_100.composicao_e_decomposicao",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 10,
+  "unidade": "Números até 100",
+  "titulo": "Composição e Decomposição de Números",
+  "bncc": [
+    "EF01MA07"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compor e decompor números de duas ordens usando peças."
+    ],
+    "resumo": "Compor e decompor números de duas ordens usando peças.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Composição e Decomposição de Números</h2><h3>O que vamos aprender</h3><p>Compor e decompor números de duas ordens usando peças.</p><h3>Ideias e relações</h3><p>Um número pode ser formado por adições diferentes. Com 24 peças, podemos separar 20 e 4, ou 10 e 14. Se fizermos grupos de dez, serão duas dezenas e quatro unidades soltas. As peças podem ser reagrupadas sem mudar o total. Desenhe ou monte cada separação e depois junte para conferir. Comparar decomposições ajuda a calcular sem depender apenas de uma conta escrita.</p><h3>Exemplo resolvido</h3><p>Para 32, montamos três grupos de dez e duas peças soltas. Também podemos separar 32 em 20 e 12, pois juntando essas partes voltamos ao mesmo total.</p><h3>Atenção ao raciocínio</h3><p>Não basta dizer “três e dois”: três dezenas são trinta unidades, não três unidades.</p><h3>Investigue e produza</h3><p>Monte 27 com peças ou desenhos. Mostre duas separações por adição, explique os grupos de dez e junte tudo para conferir.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "composicao",
+      "valor_posicional"
+    ],
+    "errosComuns": [
+      "Não basta dizer “três e dois”: três dezenas são trinta unidades, não três unidades."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "composicao_e_decomposicao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual adição forma 32?",
+      "alternativas": [
+        "3 + 2",
+        "20 + 2",
+        "30 + 2"
+      ],
+      "correta": 2,
+      "explicacao": "Três grupos de dez e duas unidades são 30 + 2 = 32."
+    },
+    {
+      "id": "composicao_e_decomposicao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Monte 27 com peças ou desenhos. Mostre duas separações por adição, explique os grupos de dez e junte tudo para conferir.",
+      "gabarito": "Possibilidades: 20+7, 10+17 ou outras adições que totalizem 27. Com dezenas, são dois grupos de dez e sete unidades. O registro deve corresponder ao material.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Possibilidades: 20+7, 10+17 ou outras adições que totalizem 27. Com dezenas, são dois grupos de dez e sete unidades. O registro deve corresponder ao material.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "composicao",
+    "valor_posicional"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13,
+        29
+      ],
+      "paginasImpressas": "16, 32",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.numeros_ate_100.reta_numerica_ate_100"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

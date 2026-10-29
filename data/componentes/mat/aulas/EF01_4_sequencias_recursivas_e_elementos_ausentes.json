@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 4,
+  "unidade": "Vocabulário Fundamental",
+  "titulo": "Sequências Recursivas e Elementos Ausentes",
+  "bncc": [
+    "EF01MA10"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Explicar uma regra e completar elementos que faltam em uma sequência."
+    ],
+    "resumo": "Explicar uma regra e completar elementos que faltam em uma sequência.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Sequências Recursivas e Elementos Ausentes</h2><h3>O que vamos aprender</h3><p>Explicar uma regra e completar elementos que faltam em uma sequência.</p><h3>Ideias e relações</h3><p>Uma sequência pode repetir formas ou seguir passos entre números. Para descobrir o que falta, observe o que veio antes e o que vem depois. Nesta sequência combinamos repetir círculo e quadrado. Em outra, combinamos começar em 2 e acrescentar 2 a cada passo: 2, 4, 6, 8. Dizer a regra é tão importante quanto escolher o próximo elemento. Poucos elementos podem permitir regras diferentes; por isso, conte qual regra está usando.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Sequência: círculo, quadrado, círculo, quadrado, círculo, espaço vazio.\" style=\"max-width:100%;color:inherit\"><title>Sequência: círculo, quadrado, círculo, quadrado, círculo, espaço vazio.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\"><circle cx=\"45\" cy=\"100\" r=\"22\"/><rect x=\"95\" y=\"78\" width=\"44\" height=\"44\"/><circle cx=\"190\" cy=\"100\" r=\"22\"/><rect x=\"240\" y=\"78\" width=\"44\" height=\"44\"/><circle cx=\"335\" cy=\"100\" r=\"22\"/><rect x=\"385\" y=\"78\" width=\"44\" height=\"44\" stroke-dasharray=\"4 3\"/></g><text x=\"20\" y=\"185\" fill=\"currentColor\" font-size=\"17\">A regra alterna círculo e quadrado.</text></svg><h3>Exemplo resolvido</h3><p>Com a regra “acrescentar 2”, em 2, 4, espaço vazio, 8, falta 6. Podemos conferir contando dois passos de 4 até 6 e mais dois até 8.</p><h3>Atenção ao raciocínio</h3><p>Não basta adivinhar o elemento: confira se a mesma regra vale em todos os passos.</p><h3>Investigue e produza</h3><p>Complete 1, 3, __, 7 pela regra “acrescentar 2”. Depois crie uma sequência de formas, esconda uma peça e explique a regra para alguém completar.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "sequencias",
+      "padroes"
+    ],
+    "errosComuns": [
+      "Não basta adivinhar o elemento: confira se a mesma regra vale em todos os passos."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sequencias_recursivas_e_elementos_ausentes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A regra é acrescentar 2. Em 2, 4, __, 8, falta:",
+      "alternativas": [
+        "5",
+        "7",
+        "6"
+      ],
+      "correta": 2,
+      "explicacao": "4 mais 2 é 6, e 6 mais 2 é 8."
+    },
+    {
+      "id": "sequencias_recursivas_e_elementos_ausentes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Complete 1, 3, __, 7 pela regra “acrescentar 2”. Depois crie uma sequência de formas, esconda uma peça e explique a regra para alguém completar.",
+      "gabarito": "Falta 5. Na sequência de formas, verificar se o elemento recolocado mantém a regra explicitada. Aceitar peças, desenho e descrição oral.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Falta 5. Na sequência de formas, verificar se o elemento recolocado mantém a regra explicitada. Aceitar peças, desenho e descrição oral.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sequencias",
+    "padroes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

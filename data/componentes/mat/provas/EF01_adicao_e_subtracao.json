@@ -1,0 +1,147 @@
+{
+  "id": "mat.ef01.adicao_e_subtracao.prova",
+  "titulo": "Avaliação: Adição e Subtração",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF01",
+  "unidade": "Adição e Subtração",
+  "bncc": [
+    "EF01MA03",
+    "EF01MA06",
+    "EF01MA08"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef01.adicao_e_subtracao.prova.01",
+    "mat.ef01.adicao_e_subtracao.prova.02",
+    "mat.ef01.adicao_e_subtracao.prova.03",
+    "mat.ef01.adicao_e_subtracao.prova.04",
+    "mat.ef01.adicao_e_subtracao.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF01MA03",
+      "questoes": [],
+      "avaliacoesPraticas": [
+        "mat.ef01.adicao_e_subtracao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01MA06",
+      "questoes": [
+        "mat.ef01.adicao_e_subtracao.prova.03",
+        "mat.ef01.adicao_e_subtracao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.adicao_e_subtracao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos#calculo_mental_com_fatos_basicos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01MA08",
+      "questoes": [
+        "mat.ef01.adicao_e_subtracao.prova.01",
+        "mat.ef01.adicao_e_subtracao.prova.02",
+        "mat.ef01.adicao_e_subtracao.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.adicao_e_subtracao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao",
+        "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar#problemas_de_juntar_e_acrescentar.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef01.adicao_e_subtracao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Adição e Subtração",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Resolva com peças: havia 12 fichas e chegaram mais 5; depois foram retiradas 4 do total. Faça desenhos ou marcas para mostrar cada momento e invente outra história de retirar. Compare ainda 12 fichas azuis com 8 amarelas por pareamento e diga quantas azuis ficam sem par. 2. Use peças para resolver 16 figurinhas reunidas com mais 7. Depois invente uma história de juntar com duas quantidades de até dois algarismos e resolva com um desenho. 3. Monte com peças os fatos 6+4, 6+5 e 8+4. Explique como uma soma conhecida ou completar dez ajuda a encontrar os resultados.",
+    "gabarito": "Conferência por tarefa: 1. Após o acréscimo há 17; após retirar 4 ficam 13. Na comparação, sobram quatro azuis. A história criada deve ter dados suficientes e uma pergunta coerente, com quantidades de até dois algarismos. 2. 16+7=23. Observar correspondência entre dados, ações, pergunta, desenho e resposta. Aceitar estratégias pessoais e ditado da história a um adulto. 3. Resultados 10, 11 e 12. Observar a construção da estratégia: 6+5 pode usar 6+4+1; 8+4 pode usar 8+2+2. Aceitar outras justificativas corretas.",
+    "bncc": [
+      "EF01MA03",
+      "EF01MA06",
+      "EF01MA08"
+    ],
+    "atividadesOrigem": [
+      "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao",
+      "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar#problemas_de_juntar_e_acrescentar.investigacao",
+      "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos#calculo_mental_com_fatos_basicos.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Ideias da Adição e Subtração",
+        "enunciado": "Resolva com peças: havia 12 fichas e chegaram mais 5; depois foram retiradas 4 do total. Faça desenhos ou marcas para mostrar cada momento e invente outra história de retirar. Compare ainda 12 fichas azuis com 8 amarelas por pareamento e diga quantas azuis ficam sem par.",
+        "gabarito": "Após o acréscimo há 17; após retirar 4 ficam 13. Na comparação, sobram quatro azuis. A história criada deve ter dados suficientes e uma pergunta coerente, com quantidades de até dois algarismos.",
+        "bncc": [
+          "EF01MA03",
+          "EF01MA08"
+        ],
+        "atividadeOrigem": "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao"
+      },
+      {
+        "titulo": "Problemas de Juntar e Acrescentar",
+        "enunciado": "Use peças para resolver 16 figurinhas reunidas com mais 7. Depois invente uma história de juntar com duas quantidades de até dois algarismos e resolva com um desenho.",
+        "gabarito": "16+7=23. Observar correspondência entre dados, ações, pergunta, desenho e resposta. Aceitar estratégias pessoais e ditado da história a um adulto.",
+        "bncc": [
+          "EF01MA08"
+        ],
+        "atividadeOrigem": "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar#problemas_de_juntar_e_acrescentar.investigacao"
+      },
+      {
+        "titulo": "Cálculo Mental com Fatos Básicos",
+        "enunciado": "Monte com peças os fatos 6+4, 6+5 e 8+4. Explique como uma soma conhecida ou completar dez ajuda a encontrar os resultados.",
+        "gabarito": "Resultados 10, 11 e 12. Observar a construção da estratégia: 6+5 pode usar 6+4+1; 8+4 pode usar 8+2+2. Aceitar outras justificativas corretas.",
+        "bncc": [
+          "EF01MA06"
+        ],
+        "atividadeOrigem": "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos#calculo_mental_com_fatos_basicos.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        32
+      ],
+      "paginasImpressas": "32, 35",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29
+      ],
+      "paginasImpressas": "32",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ]
+}

@@ -2,36 +2,118 @@
   "id": "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
   "componente": "mat",
   "nivel": "EF01",
-  "ordem": 3,
+  "ordem": 5,
   "unidade": "Números até 10",
   "titulo": "Contagem e Quantidade (0 a 10)",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF01MA01",
+    "EF01MA02"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Contar coleções até dez e distinguir quantidade de código."
+    ],
+    "resumo": "Contar coleções até dez e distinguir quantidade de código.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Vamos Contar!</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Relacionar o número com a quantidade de dedinhos ou objetos. Aprendemos também que o <strong>Zero</strong> significa \"nenhum\".\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🖐️ Prática:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Contar um a um: lápis no estojo, cadeiras na sala e colegas na fila.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Contagem e Quantidade (0 a 10)</h2><h3>O que vamos aprender</h3><p>Contar coleções até dez e distinguir quantidade de código.</p><h3>Ideias e relações</h3><p>Para contar, combine uma palavra de número com cada objeto: um, dois, três. Separe ou aponte cada objeto uma única vez. A última palavra dita informa quantos objetos há. Se a coleção está vazia, podemos registrar zero. Os números também aparecem para outras finalidades: o número de identificação de um ônibus não informa quantos passageiros ele leva. A pergunta ajuda a descobrir se o número está contando ou identificando.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Coleção de sete pontos, organizados em uma fila de cinco e uma fila de dois.\" style=\"max-width:100%;color:inherit\"><title>Coleção de sete pontos, organizados em uma fila de cinco e uma fila de dois.</title><g fill=\"currentColor\"><circle cx=\"65\" cy=\"85\" r=\"18\"/><circle cx=\"130\" cy=\"85\" r=\"18\"/><circle cx=\"195\" cy=\"85\" r=\"18\"/><circle cx=\"260\" cy=\"85\" r=\"18\"/><circle cx=\"325\" cy=\"85\" r=\"18\"/><circle cx=\"65\" cy=\"150\" r=\"18\"/><circle cx=\"130\" cy=\"150\" r=\"18\"/></g><text x=\"35\" y=\"220\" fill=\"currentColor\" font-size=\"18\">Conte cada ponto uma única vez.</text></svg><h3>Exemplo resolvido</h3><p>Na figura, cinco pontos na primeira fila e dois na segunda formam uma coleção de sete. Podemos contar todos ou continuar a partir de cinco: seis, sete.</p><h3>Atenção ao raciocínio</h3><p>Contar duas vezes o mesmo objeto ou pular um deles muda o resultado.</p><h3>Investigue e produza</h3><p>Separe de zero a dez objetos e conte apontando um de cada vez. Mude a posição dos objetos e conte novamente. Explique a diferença entre “sete objetos” e “ônibus identificado pelo número 7”.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "contagem",
+      "numeros_naturais"
+    ],
+    "errosComuns": [
+      "Contar duas vezes o mesmo objeto ou pular um deles muda o resultado."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "contagem_e_quantidade_0_a_10.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na coleção da figura, há cinco pontos numa fila e dois na outra. Quantos são ao todo?",
+      "alternativas": [
+        "2",
+        "7",
+        "5"
+      ],
+      "correta": 1,
+      "explicacao": "Ao contar cada ponto uma vez, chegamos a sete."
+    },
+    {
+      "id": "contagem_e_quantidade_0_a_10.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Separe de zero a dez objetos e conte apontando um de cada vez. Mude a posição dos objetos e conte novamente. Explique a diferença entre “sete objetos” e “ônibus identificado pelo número 7”.",
+      "gabarito": "A quantidade deve permanecer a mesma após reorganizar sem acrescentar ou retirar objetos. Sete objetos indica quantidade; o 7 do ônibus pode ser um código de identificação. Observar correspondência um a um.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "A quantidade deve permanecer a mesma após reorganizar sem acrescentar ou retirar objetos. Sete objetos indica quantidade; o 7 do ônibus pode ser um código de identificação. Observar correspondência um a um.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "contagem",
+    "numeros_naturais"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13,
+        16
+      ],
+      "paginasImpressas": "16, 19",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef01.numeros_ate_10.comparacao_de_quantidades"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

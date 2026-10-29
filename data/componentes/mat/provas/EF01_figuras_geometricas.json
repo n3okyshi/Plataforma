@@ -1,0 +1,128 @@
+{
+  "id": "mat.ef01.figuras_geometricas.prova",
+  "titulo": "Avaliação: Figuras Geométricas",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF01",
+  "unidade": "Figuras Geométricas",
+  "bncc": [
+    "EF01MA13",
+    "EF01MA14"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef01.figuras_geometricas.prova.01",
+    "mat.ef01.figuras_geometricas.prova.02",
+    "mat.ef01.figuras_geometricas.prova.03",
+    "mat.ef01.figuras_geometricas.prova.04",
+    "mat.ef01.figuras_geometricas.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF01MA13",
+      "questoes": [
+        "mat.ef01.figuras_geometricas.prova.01",
+        "mat.ef01.figuras_geometricas.prova.02",
+        "mat.ef01.figuras_geometricas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.figuras_geometricas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao",
+        "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano#figuras_espaciais_do_cotidiano.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01MA14",
+      "questoes": [
+        "mat.ef01.figuras_geometricas.prova.03",
+        "mat.ef01.figuras_geometricas.prova.04",
+        "mat.ef01.figuras_geometricas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.figuras_geometricas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao",
+        "mat.ef01.figuras_geometricas.contornos_e_faces#contornos_e_faces.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef01.figuras_geometricas.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Figuras Geométricas",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Observe uma caixa e uma bola. Descreva suas formas e desenhe o contorno de uma face da caixa. Identifique também as quatro figuras da ilustração, depois de girar a folha. 2. Encontre ou desenhe exemplos que lembrem esfera, cone, cilindro e bloco retangular. Explique o que observou em cada exemplo e em que o objeto pode diferir do modelo. 3. Contorne faces planas de objetos disponíveis. Procure círculo, quadrado e retângulo; desenhe também triângulos em duas posições. Diga os nomes e explique como reconheceu.",
+    "gabarito": "Conferência por tarefa: 1. Conferir a distinção entre objeto e desenho plano. Relacionar bola a esfera e caixa a bloco; reconhecer círculo, quadrado, retângulo e triângulo em diferentes orientações. 2. Conferir os quatro pares entre modelos e objetos. Aceitar descrição oral e manipulação. A justificativa deve se apoiar na forma, não somente na cor, na função ou no tamanho. 3. Conferir contornos e nomeação em diferentes orientações. Não exigir que toda coleção tenha todos os modelos; completar por desenho quando faltar um objeto adequado.",
+    "bncc": [
+      "EF01MA13",
+      "EF01MA14"
+    ],
+    "atividadesOrigem": [
+      "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao",
+      "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano#figuras_espaciais_do_cotidiano.investigacao",
+      "mat.ef01.figuras_geometricas.contornos_e_faces#contornos_e_faces.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Figuras Planas e Espaciais",
+        "enunciado": "Observe uma caixa e uma bola. Descreva suas formas e desenhe o contorno de uma face da caixa. Identifique também as quatro figuras da ilustração, depois de girar a folha.",
+        "gabarito": "Conferir a distinção entre objeto e desenho plano. Relacionar bola a esfera e caixa a bloco; reconhecer círculo, quadrado, retângulo e triângulo em diferentes orientações.",
+        "bncc": [
+          "EF01MA13",
+          "EF01MA14"
+        ],
+        "atividadeOrigem": "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao"
+      },
+      {
+        "titulo": "Figuras Espaciais do Cotidiano",
+        "enunciado": "Encontre ou desenhe exemplos que lembrem esfera, cone, cilindro e bloco retangular. Explique o que observou em cada exemplo e em que o objeto pode diferir do modelo.",
+        "gabarito": "Conferir os quatro pares entre modelos e objetos. Aceitar descrição oral e manipulação. A justificativa deve se apoiar na forma, não somente na cor, na função ou no tamanho.",
+        "bncc": [
+          "EF01MA13"
+        ],
+        "atividadeOrigem": "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano#figuras_espaciais_do_cotidiano.investigacao"
+      },
+      {
+        "titulo": "Contornos e Faces",
+        "enunciado": "Contorne faces planas de objetos disponíveis. Procure círculo, quadrado e retângulo; desenhe também triângulos em duas posições. Diga os nomes e explique como reconheceu.",
+        "gabarito": "Conferir contornos e nomeação em diferentes orientações. Não exigir que toda coleção tenha todos os modelos; completar por desenho quando faltar um objeto adequado.",
+        "bncc": [
+          "EF01MA14"
+        ],
+        "atividadeOrigem": "mat.ef01.figuras_geometricas.contornos_e_faces#contornos_e_faces.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ]
+}

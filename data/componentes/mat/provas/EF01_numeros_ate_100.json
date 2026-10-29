@@ -1,0 +1,154 @@
+{
+  "id": "mat.ef01.numeros_ate_100.prova",
+  "titulo": "Avaliação: Números até 100",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF01",
+  "unidade": "Números até 100",
+  "bncc": [
+    "EF01MA04",
+    "EF01MA05",
+    "EF01MA07"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef01.numeros_ate_100.prova.01",
+    "mat.ef01.numeros_ate_100.prova.02",
+    "mat.ef01.numeros_ate_100.prova.03",
+    "mat.ef01.numeros_ate_100.prova.04",
+    "mat.ef01.numeros_ate_100.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF01MA04",
+      "questoes": [
+        "mat.ef01.numeros_ate_100.prova.01",
+        "mat.ef01.numeros_ate_100.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.numeros_ate_100.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas#numeros_ate_100_e_dezenas_exatas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01MA05",
+      "questoes": [
+        "mat.ef01.numeros_ate_100.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.numeros_ate_100.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.numeros_ate_100.reta_numerica_ate_100#reta_numerica_ate_100.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01MA07",
+      "questoes": [
+        "mat.ef01.numeros_ate_100.prova.03",
+        "mat.ef01.numeros_ate_100.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.numeros_ate_100.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.numeros_ate_100.composicao_e_decomposicao#composicao_e_decomposicao.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef01.numeros_ate_100.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Números até 100",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Conte uma coleção de até cem objetos, começando com um tamanho que você consiga acompanhar. Organize grupos de dez, registre por desenho e número e conte para outra pessoa. Quando estiver seguro, forme dez grupos de dez. 2. Desenhe uma reta de 40 a 50, com passos de um. Marque 42, 45 e 49, compare dois deles e explique usando a posição das marcas. 3. Monte 27 com peças ou desenhos. Mostre duas separações por adição, explique os grupos de dez e junte tudo para conferir.",
+    "gabarito": "Conferência por tarefa: 1. Conferir a coleção real, a composição dos grupos e a concordância entre fala, desenho e numeral. Dez grupos completos têm cem objetos. Retomar com coleções menores se necessário. 2. As marcas devem ter intervalos iguais e valores corretos. 42 < 45 < 49. Aceitar comparação oral com apoio da reta. 3. Possibilidades: 20+7, 10+17 ou outras adições que totalizem 27. Com dezenas, são dois grupos de dez e sete unidades. O registro deve corresponder ao material.",
+    "bncc": [
+      "EF01MA04",
+      "EF01MA05",
+      "EF01MA07"
+    ],
+    "atividadesOrigem": [
+      "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas#numeros_ate_100_e_dezenas_exatas.investigacao",
+      "mat.ef01.numeros_ate_100.reta_numerica_ate_100#reta_numerica_ate_100.investigacao",
+      "mat.ef01.numeros_ate_100.composicao_e_decomposicao#composicao_e_decomposicao.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Números até 100 e Dezenas Exatas",
+        "enunciado": "Conte uma coleção de até cem objetos, começando com um tamanho que você consiga acompanhar. Organize grupos de dez, registre por desenho e número e conte para outra pessoa. Quando estiver seguro, forme dez grupos de dez.",
+        "gabarito": "Conferir a coleção real, a composição dos grupos e a concordância entre fala, desenho e numeral. Dez grupos completos têm cem objetos. Retomar com coleções menores se necessário.",
+        "bncc": [
+          "EF01MA04"
+        ],
+        "atividadeOrigem": "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas#numeros_ate_100_e_dezenas_exatas.investigacao"
+      },
+      {
+        "titulo": "Reta Numérica até 100",
+        "enunciado": "Desenhe uma reta de 40 a 50, com passos de um. Marque 42, 45 e 49, compare dois deles e explique usando a posição das marcas.",
+        "gabarito": "As marcas devem ter intervalos iguais e valores corretos. 42 < 45 < 49. Aceitar comparação oral com apoio da reta.",
+        "bncc": [
+          "EF01MA05"
+        ],
+        "atividadeOrigem": "mat.ef01.numeros_ate_100.reta_numerica_ate_100#reta_numerica_ate_100.investigacao"
+      },
+      {
+        "titulo": "Composição e Decomposição de Números",
+        "enunciado": "Monte 27 com peças ou desenhos. Mostre duas separações por adição, explique os grupos de dez e junte tudo para conferir.",
+        "gabarito": "Possibilidades: 20+7, 10+17 ou outras adições que totalizem 27. Com dezenas, são dois grupos de dez e sete unidades. O registro deve corresponder ao material.",
+        "bncc": [
+          "EF01MA07"
+        ],
+        "atividadeOrigem": "mat.ef01.numeros_ate_100.composicao_e_decomposicao#composicao_e_decomposicao.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13
+      ],
+      "paginasImpressas": "16",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14
+      ],
+      "paginasImpressas": "17",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13,
+        29
+      ],
+      "paginasImpressas": "16, 32",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ]
+}

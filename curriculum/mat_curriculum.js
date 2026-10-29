@@ -3,66 +3,150 @@ registrarCurriculo("Matemática", {
   "EF01": {
     "Vocabulário Fundamental": [
       {
-        "id": "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao",
-        "titulo": "Noções de Localização e Posição"
+        "id": "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes",
+        "titulo": "Classificação e Sequências (Padrões)",
+        "complementar": false
       },
       {
-        "id": "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes",
-        "titulo": "Classificação e Sequências (Padrões)"
+        "id": "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao",
+        "titulo": "Noções de Localização e Posição",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao",
+        "titulo": "Pontos de Referência e Posição",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes",
+        "titulo": "Sequências Recursivas e Elementos Ausentes",
+        "complementar": false
       }
     ],
     "Números até 10": [
       {
         "id": "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
-        "titulo": "Contagem e Quantidade (0 a 10)"
+        "titulo": "Contagem e Quantidade (0 a 10)",
+        "complementar": false
       },
       {
         "id": "mat.ef01.numeros_ate_10.comparacao_de_quantidades",
-        "titulo": "Comparação de Quantidades"
-      }
-    ],
-    "Ordenação e mais números": [
-      {
-        "id": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
-        "titulo": "Ordem Crescente e Decrescente"
+        "titulo": "Comparação de Quantidades",
+        "complementar": false
       },
       {
-        "id": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais",
-        "titulo": "Números Ordinais"
-      }
-    ],
-    "Figuras Geométricas": [
-      {
-        "id": "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
-        "titulo": "Figuras Planas e Espaciais"
-      }
-    ],
-    "Nosso dinheiro e mais sobre números": [
-      {
-        "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
-        "titulo": "Sistema Monetário Brasileiro (Introdução)"
-      }
-    ],
-    "Adição e Subtração": [
-      {
-        "id": "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao",
-        "titulo": "Ideias da Adição e Subtração"
-      }
-    ],
-    "Grandezas, medidas e mais números": [
-      {
-        "id": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
-        "titulo": "Grandezas e Medidas (Comprimento, Massa e Capacidade)"
-      },
-      {
-        "id": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario",
-        "titulo": "Tempo e Calendário"
+        "id": "mat.ef01.numeros_ate_10.pareamento_e_estimativa",
+        "titulo": "Pareamento e Estimativa",
+        "complementar": false
       }
     ],
     "Números até 100": [
       {
         "id": "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas",
-        "titulo": "Números até 100 e Dezenas Exatas"
+        "titulo": "Números até 100 e Dezenas Exatas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.numeros_ate_100.reta_numerica_ate_100",
+        "titulo": "Reta Numérica até 100",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.numeros_ate_100.composicao_e_decomposicao",
+        "titulo": "Composição e Decomposição de Números",
+        "complementar": false
+      }
+    ],
+    "Adição e Subtração": [
+      {
+        "id": "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao",
+        "titulo": "Ideias da Adição e Subtração",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar",
+        "titulo": "Problemas de Juntar e Acrescentar",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos",
+        "titulo": "Cálculo Mental com Fatos Básicos",
+        "complementar": false
+      }
+    ],
+    "Ordenação e mais números": [
+      {
+        "id": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais",
+        "titulo": "Números Ordinais",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
+        "titulo": "Ordem Crescente e Decrescente",
+        "complementar": false
+      }
+    ],
+    "Figuras Geométricas": [
+      {
+        "id": "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+        "titulo": "Figuras Planas e Espaciais",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano",
+        "titulo": "Figuras Espaciais do Cotidiano",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.figuras_geometricas.contornos_e_faces",
+        "titulo": "Contornos e Faces",
+        "complementar": false
+      }
+    ],
+    "Grandezas, medidas e mais números": [
+      {
+        "id": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
+        "titulo": "Grandezas e Medidas (Comprimento, Massa e Capacidade)",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario",
+        "titulo": "Tempo e Calendário",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana",
+        "titulo": "Datas e Dias da Semana",
+        "complementar": false
+      }
+    ],
+    "Nosso dinheiro e mais sobre números": [
+      {
+        "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
+        "titulo": "Sistema Monetário Brasileiro (Introdução)",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples",
+        "titulo": "Trocas e Equivalências Simples",
+        "complementar": false
+      }
+    ],
+    "Probabilidade e Estatística": [
+      {
+        "id": "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano",
+        "titulo": "Acontecerá com Certeza, Talvez ou É Impossível",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas",
+        "titulo": "Tabelas e Gráficos de Colunas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula",
+        "titulo": "Pesquisa na Sala de Aula",
+        "complementar": false
       }
     ]
   },

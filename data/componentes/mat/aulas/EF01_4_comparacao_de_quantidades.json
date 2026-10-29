@@ -2,36 +2,118 @@
   "id": "mat.ef01.numeros_ate_10.comparacao_de_quantidades",
   "componente": "mat",
   "nivel": "EF01",
-  "ordem": 4,
+  "ordem": 6,
   "unidade": "Números até 10",
   "titulo": "Comparação de Quantidades",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF01MA03"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Estimar e comparar duas coleções por correspondência."
+    ],
+    "resumo": "Estimar e comparar duas coleções por correspondência.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Quem tem mais?</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Comparar coleções para saber onde \"tem muito\", onde \"tem pouco\" ou se tem a \"mesma quantidade\".\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🍬 Dica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Podemos ligar um objeto de um grupo a um objeto do outro grupo. O que sobrar é o que tem mais.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Comparação de Quantidades</h2><h3>O que vamos aprender</h3><p>Estimar e comparar duas coleções por correspondência.</p><h3>Ideias e relações</h3><p>Antes de contar, podemos dar um palpite sobre onde há mais objetos. Esse palpite é uma estimativa, não uma contagem exata. Para conferir, forme pares com um objeto de cada coleção. Se sobra objeto apenas em um grupo, esse grupo tem mais. Se não sobra em nenhum, as quantidades são iguais. Espalhar mais os objetos não aumenta a quantidade: compare os pares e não apenas o espaço ocupado.</p><h3>Exemplo resolvido</h3><p>Uma coleção tem 18 tampinhas e outra 16. Ao formar pares, sobram duas na primeira. Ela tem mais; a segunda tem menos.</p><h3>Atenção ao raciocínio</h3><p>Uma fila mais comprida pode ter menos objetos se houver espaços maiores entre eles.</p><h3>Investigue e produza</h3><p>Faça duas coleções próximas de vinte objetos. Primeiro estime qual tem mais. Depois forme pares e conte para conferir. Registre se havia mais, menos ou a mesma quantidade.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "comparacao",
+      "contagem"
+    ],
+    "errosComuns": [
+      "Uma fila mais comprida pode ter menos objetos se houver espaços maiores entre eles."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "comparacao_de_quantidades.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com 18 peças em um grupo e 16 no outro, ao parear uma a uma sobram peças:",
+      "alternativas": [
+        "No grupo de 18",
+        "No grupo de 16",
+        "Em nenhum grupo"
+      ],
+      "correta": 0,
+      "explicacao": "Dezesseis pares usam as peças dos dois grupos e sobram duas do grupo de 18."
+    },
+    {
+      "id": "comparacao_de_quantidades.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Faça duas coleções próximas de vinte objetos. Primeiro estime qual tem mais. Depois forme pares e conte para conferir. Registre se havia mais, menos ou a mesma quantidade.",
+      "gabarito": "Conferir os resultados com as coleções efetivas. O palpite pode ser revisto sem ser tratado como erro de contagem. Observar pareamento, sobras e explicação da comparação.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir os resultados com as coleções efetivas. O palpite pode ser revisto sem ser tratado como erro de contagem. Observar pareamento, sobras e explicação da comparação.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "comparacao",
+    "contagem"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14
+      ],
+      "paginasImpressas": "17",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10"
+  ],
+  "proximosPassos": [
+    "mat.ef01.numeros_ate_10.pareamento_e_estimativa"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

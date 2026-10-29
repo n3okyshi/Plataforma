@@ -6,7 +6,7 @@
     {
       "componente": "mat",
       "nivel": "EF01",
-      "estado": "em_analise",
+      "estado": "lote_integral_para_testes",
       "observacao": "Planejamento recuperado; códigos presentes não comprovam alinhamento semântico.",
       "habilidades": [
         {
@@ -15,10 +15,35 @@
           "aulasPlanejadas": [
             "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA09",
+            "aulas": [
+              "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes"
+            ],
+            "atividades": [
+              "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes#classificacao_e_sequencias_padroes.aplicacao",
+              "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes#classificacao_e_sequencias_padroes.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.vocabulario_fundamental.treino.01"
+            ],
+            "questoesProva": [
+              "mat.ef01.vocabulario_fundamental.prova.01"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.vocabulario_fundamental.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA10",
@@ -26,10 +51,36 @@
           "aulasPlanejadas": [
             "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA10",
+            "aulas": [
+              "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes"
+            ],
+            "atividades": [
+              "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes#sequencias_recursivas_e_elementos_ausentes.aplicacao",
+              "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes#sequencias_recursivas_e_elementos_ausentes.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.vocabulario_fundamental.treino.04"
+            ],
+            "questoesProva": [
+              "mat.ef01.vocabulario_fundamental.prova.02",
+              "mat.ef01.vocabulario_fundamental.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.vocabulario_fundamental.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA11",
@@ -37,10 +88,35 @@
           "aulasPlanejadas": [
             "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA11",
+            "aulas": [
+              "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao"
+            ],
+            "atividades": [
+              "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao#nocoes_de_localizacao_e_posicao.aplicacao",
+              "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao#nocoes_de_localizacao_e_posicao.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.vocabulario_fundamental.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef01.vocabulario_fundamental.prova.03"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.vocabulario_fundamental.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA12",
@@ -48,10 +124,35 @@
           "aulasPlanejadas": [
             "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA12",
+            "aulas": [
+              "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao"
+            ],
+            "atividades": [
+              "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao#pontos_de_referencia_e_posicao.aplicacao",
+              "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao#pontos_de_referencia_e_posicao.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.vocabulario_fundamental.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef01.vocabulario_fundamental.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.vocabulario_fundamental.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA13",
@@ -60,10 +161,43 @@
             "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
             "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+            "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+            "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA13",
+            "aulas": [
+              "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+              "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano"
+            ],
+            "atividades": [
+              "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.aplicacao",
+              "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao",
+              "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano#figuras_espaciais_do_cotidiano.aplicacao",
+              "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano#figuras_espaciais_do_cotidiano.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.figuras_geometricas.treino.01",
+              "mat.ef01.figuras_geometricas.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef01.figuras_geometricas.prova.01",
+              "mat.ef01.figuras_geometricas.prova.02",
+              "mat.ef01.figuras_geometricas.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.figuras_geometricas.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA14",
@@ -72,22 +206,80 @@
             "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
             "mat.ef01.figuras_geometricas.contornos_e_faces"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+            "mat.ef01.figuras_geometricas.contornos_e_faces"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+            "mat.ef01.figuras_geometricas.contornos_e_faces"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA14",
+            "aulas": [
+              "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+              "mat.ef01.figuras_geometricas.contornos_e_faces"
+            ],
+            "atividades": [
+              "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.aplicacao",
+              "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais#figuras_planas_e_espaciais.investigacao",
+              "mat.ef01.figuras_geometricas.contornos_e_faces#contornos_e_faces.aplicacao",
+              "mat.ef01.figuras_geometricas.contornos_e_faces#contornos_e_faces.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.figuras_geometricas.treino.01",
+              "mat.ef01.figuras_geometricas.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef01.figuras_geometricas.prova.03",
+              "mat.ef01.figuras_geometricas.prova.04",
+              "mat.ef01.figuras_geometricas.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.figuras_geometricas.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA15",
           "descricao": "Comparar comprimentos, capacidades ou massas, utilizando termos como mais alto, mais baixo, mais comprido, mais curto, mais grosso, mais fino, mais largo, mais pesado, mais leve, cabe mais, cabe menos, entre outros, para ordenar objetos de uso cotidiano.",
           "aulasPlanejadas": [
-            "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
-            "mat.ef01.grandezas_medidas_e_mais_numeros.medidas_nao_convencionais"
+            "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA15",
+            "aulas": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade"
+            ],
+            "atividades": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade#grandezas_e_medidas_comprimento_massa_e_capacidade.aplicacao",
+              "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade#grandezas_e_medidas_comprimento_massa_e_capacidade.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.treino.01"
+            ],
+            "questoesProva": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.prova.01",
+              "mat.ef01.grandezas_medidas_e_mais_numeros.prova.02"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA16",
@@ -95,10 +287,35 @@
           "aulasPlanejadas": [
             "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA16",
+            "aulas": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
+            ],
+            "atividades": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.aplicacao",
+              "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.prova.03"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA17",
@@ -106,10 +323,35 @@
           "aulasPlanejadas": [
             "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA17",
+            "aulas": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario"
+            ],
+            "atividades": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.aplicacao",
+              "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA18",
@@ -117,36 +359,129 @@
           "aulasPlanejadas": [
             "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA18",
+            "aulas": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana"
+            ],
+            "atividades": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana#datas_e_dias_da_semana.aplicacao",
+              "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana#datas_e_dias_da_semana.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA19",
           "descricao": "Reconhecer e relacionar valores de moedas e cédulas do sistema monetário brasileiro para resolver situações simples do cotidiano do estudante.",
           "aulasPlanejadas": [
             "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
-            "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.moedas_e_cedulas",
             "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
+            "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
+            "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA19",
+            "aulas": [
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples"
+            ],
+            "atividades": [
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao#sistema_monetario_brasileiro_introducao.aplicacao",
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao#sistema_monetario_brasileiro_introducao.investigacao",
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples#trocas_e_equivalencias_simples.aplicacao",
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples#trocas_e_equivalencias_simples.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.treino.01",
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.01",
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.02",
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.03",
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.04",
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA01",
           "descricao": "Utilizar números naturais como indicador de quantidade ou de ordem em diferentes situações cotidianas e reconhecer situações em que os números não indicam contagem nem ordem, mas sim código de identificação.",
           "aulasPlanejadas": [
             "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
-            "mat.ef01.numeros_ate_10.registro_de_quantidades",
             "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+            "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+            "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA01",
+            "aulas": [
+              "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+              "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais"
+            ],
+            "atividades": [
+              "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.aplicacao",
+              "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.investigacao",
+              "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais#numeros_ordinais.aplicacao",
+              "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais#numeros_ordinais.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.numeros_ate_10.treino.01",
+              "mat.ef01.ordenacao_e_mais_numeros.treino.01"
+            ],
+            "questoesProva": [
+              "mat.ef01.numeros_ate_10.prova.01",
+              "mat.ef01.numeros_ate_10.prova.02",
+              "mat.ef01.ordenacao_e_mais_numeros.prova.01",
+              "mat.ef01.ordenacao_e_mais_numeros.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.numeros_ate_10.pratica",
+              "mat.ef01.ordenacao_e_mais_numeros.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA02",
@@ -155,22 +490,95 @@
             "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
             "mat.ef01.numeros_ate_10.pareamento_e_estimativa"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+            "mat.ef01.numeros_ate_10.pareamento_e_estimativa"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+            "mat.ef01.numeros_ate_10.pareamento_e_estimativa"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA02",
+            "aulas": [
+              "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10",
+              "mat.ef01.numeros_ate_10.pareamento_e_estimativa"
+            ],
+            "atividades": [
+              "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.aplicacao",
+              "mat.ef01.numeros_ate_10.contagem_e_quantidade_0_a_10#contagem_e_quantidade_0_a_10.investigacao",
+              "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.aplicacao",
+              "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.numeros_ate_10.treino.01",
+              "mat.ef01.numeros_ate_10.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef01.numeros_ate_10.prova.01",
+              "mat.ef01.numeros_ate_10.prova.04",
+              "mat.ef01.numeros_ate_10.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.numeros_ate_10.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA03",
           "descricao": "Estimar e comparar quantidades de objetos de dois conjuntos (em torno de 20 elementos), por estimativa e/ou por correspondência (um a um, dois a dois) para indicar “tem mais”, “tem menos” ou “tem a mesma quantidade”.",
           "aulasPlanejadas": [
             "mat.ef01.numeros_ate_10.comparacao_de_quantidades",
-            "mat.ef01.numeros_ate_10.pareamento_e_estimativa"
+            "mat.ef01.numeros_ate_10.pareamento_e_estimativa",
+            "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.numeros_ate_10.comparacao_de_quantidades",
+            "mat.ef01.numeros_ate_10.pareamento_e_estimativa",
+            "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.numeros_ate_10.comparacao_de_quantidades",
+            "mat.ef01.numeros_ate_10.pareamento_e_estimativa",
+            "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA03",
+            "aulas": [
+              "mat.ef01.numeros_ate_10.comparacao_de_quantidades",
+              "mat.ef01.numeros_ate_10.pareamento_e_estimativa",
+              "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao"
+            ],
+            "atividades": [
+              "mat.ef01.numeros_ate_10.comparacao_de_quantidades#comparacao_de_quantidades.aplicacao",
+              "mat.ef01.numeros_ate_10.comparacao_de_quantidades#comparacao_de_quantidades.investigacao",
+              "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.aplicacao",
+              "mat.ef01.numeros_ate_10.pareamento_e_estimativa#pareamento_e_estimativa.investigacao",
+              "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.aplicacao",
+              "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.numeros_ate_10.treino.02",
+              "mat.ef01.numeros_ate_10.treino.03",
+              "mat.ef01.adicao_e_subtracao.treino.01"
+            ],
+            "questoesProva": [
+              "mat.ef01.numeros_ate_10.prova.03",
+              "mat.ef01.numeros_ate_10.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.numeros_ate_10.pratica",
+              "mat.ef01.adicao_e_subtracao.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA04",
@@ -178,36 +586,120 @@
           "aulasPlanejadas": [
             "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA04",
+            "aulas": [
+              "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas"
+            ],
+            "atividades": [
+              "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas#numeros_ate_100_e_dezenas_exatas.aplicacao",
+              "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas#numeros_ate_100_e_dezenas_exatas.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.numeros_ate_100.treino.01"
+            ],
+            "questoesProva": [
+              "mat.ef01.numeros_ate_100.prova.01",
+              "mat.ef01.numeros_ate_100.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.numeros_ate_100.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA05",
           "descricao": "Comparar números naturais de até duas ordens em situações cotidianas, com e sem suporte da reta numérica.",
           "aulasPlanejadas": [
-            "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas",
             "mat.ef01.numeros_ate_100.reta_numerica_ate_100",
-            "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
-            "mat.ef01.ordenacao_e_mais_numeros.reta_numerica_e_ordenacao"
+            "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.numeros_ate_100.reta_numerica_ate_100",
+            "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.numeros_ate_100.reta_numerica_ate_100",
+            "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA05",
+            "aulas": [
+              "mat.ef01.numeros_ate_100.reta_numerica_ate_100",
+              "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente"
+            ],
+            "atividades": [
+              "mat.ef01.numeros_ate_100.reta_numerica_ate_100#reta_numerica_ate_100.aplicacao",
+              "mat.ef01.numeros_ate_100.reta_numerica_ate_100#reta_numerica_ate_100.investigacao",
+              "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente#ordem_crescente_e_decrescente.aplicacao",
+              "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente#ordem_crescente_e_decrescente.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.numeros_ate_100.treino.02",
+              "mat.ef01.ordenacao_e_mais_numeros.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef01.numeros_ate_100.prova.02",
+              "mat.ef01.ordenacao_e_mais_numeros.prova.02",
+              "mat.ef01.ordenacao_e_mais_numeros.prova.03",
+              "mat.ef01.ordenacao_e_mais_numeros.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.numeros_ate_100.pratica",
+              "mat.ef01.ordenacao_e_mais_numeros.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA06",
           "descricao": "Construir fatos básicos da adição e utilizá-los em procedimentos de cálculo para resolver problemas.",
           "aulasPlanejadas": [
-            "mat.ef01.numeros_ate_100.fatos_basicos_da_adicao",
             "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA06",
+            "aulas": [
+              "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos"
+            ],
+            "atividades": [
+              "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos#calculo_mental_com_fatos_basicos.aplicacao",
+              "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos#calculo_mental_com_fatos_basicos.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.adicao_e_subtracao.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef01.adicao_e_subtracao.prova.03",
+              "mat.ef01.adicao_e_subtracao.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.adicao_e_subtracao.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA07",
@@ -215,23 +707,81 @@
           "aulasPlanejadas": [
             "mat.ef01.numeros_ate_100.composicao_e_decomposicao"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.numeros_ate_100.composicao_e_decomposicao"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.numeros_ate_100.composicao_e_decomposicao"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA07",
+            "aulas": [
+              "mat.ef01.numeros_ate_100.composicao_e_decomposicao"
+            ],
+            "atividades": [
+              "mat.ef01.numeros_ate_100.composicao_e_decomposicao#composicao_e_decomposicao.aplicacao",
+              "mat.ef01.numeros_ate_100.composicao_e_decomposicao#composicao_e_decomposicao.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.numeros_ate_100.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef01.numeros_ate_100.prova.03",
+              "mat.ef01.numeros_ate_100.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.numeros_ate_100.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA08",
           "descricao": "Resolver e elaborar problemas de adição e de subtração, envolvendo números de até dois algarismos, com os significados de juntar, acrescentar, separar e retirar, com o suporte de imagens e/ou material manipulável, utilizando estratégias e formas de registro pessoais.",
           "aulasPlanejadas": [
             "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao",
-            "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar",
-            "mat.ef01.adicao_e_subtracao.problemas_de_separar_e_comparar"
+            "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao",
+            "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao",
+            "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA08",
+            "aulas": [
+              "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao",
+              "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar"
+            ],
+            "atividades": [
+              "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.aplicacao",
+              "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao#ideias_da_adicao_e_subtracao.investigacao",
+              "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar#problemas_de_juntar_e_acrescentar.aplicacao",
+              "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar#problemas_de_juntar_e_acrescentar.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.adicao_e_subtracao.treino.01",
+              "mat.ef01.adicao_e_subtracao.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef01.adicao_e_subtracao.prova.01",
+              "mat.ef01.adicao_e_subtracao.prova.02",
+              "mat.ef01.adicao_e_subtracao.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.adicao_e_subtracao.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA20",
@@ -239,10 +789,36 @@
           "aulasPlanejadas": [
             "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA20",
+            "aulas": [
+              "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano"
+            ],
+            "atividades": [
+              "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano#eventos_do_cotidiano.aplicacao",
+              "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano#eventos_do_cotidiano.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.probabilidade_e_estatistica.treino.01"
+            ],
+            "questoesProva": [
+              "mat.ef01.probabilidade_e_estatistica.prova.01",
+              "mat.ef01.probabilidade_e_estatistica.prova.02"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.probabilidade_e_estatistica.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA21",
@@ -250,10 +826,36 @@
           "aulasPlanejadas": [
             "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA21",
+            "aulas": [
+              "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas"
+            ],
+            "atividades": [
+              "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas#tabelas_e_graficos_de_colunas.aplicacao",
+              "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas#tabelas_e_graficos_de_colunas.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.probabilidade_e_estatistica.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef01.probabilidade_e_estatistica.prova.03",
+              "mat.ef01.probabilidade_e_estatistica.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.probabilidade_e_estatistica.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         },
         {
           "codigo": "EF01MA22",
@@ -261,10 +863,35 @@
           "aulasPlanejadas": [
             "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula"
+          ],
+          "aulasPiloto": [
+            "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF01MA22",
+            "aulas": [
+              "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula"
+            ],
+            "atividades": [
+              "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula#pesquisa_na_sala_de_aula.aplicacao",
+              "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula#pesquisa_na_sala_de_aula.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef01.probabilidade_e_estatistica.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef01.probabilidade_e_estatistica.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef01.probabilidade_e_estatistica.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+          }
         }
       ],
       "vinculosForaDaLista": []

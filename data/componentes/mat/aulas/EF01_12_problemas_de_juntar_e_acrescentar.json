@@ -1,0 +1,119 @@
+{
+  "id": "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 12,
+  "unidade": "Adição e Subtração",
+  "titulo": "Problemas de Juntar e Acrescentar",
+  "bncc": [
+    "EF01MA08"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Resolver e elaborar problemas de adição com apoio de objetos."
+    ],
+    "resumo": "Resolver e elaborar problemas de adição com apoio de objetos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Problemas de Juntar e Acrescentar</h2><h3>O que vamos aprender</h3><p>Resolver e elaborar problemas de adição com apoio de objetos.</p><h3>Ideias e relações</h3><p>Juntar dois grupos e acrescentar objetos a um grupo são situações que podemos representar por adição. Para resolver, mostre cada quantidade e observe qual total está sendo pedido. Você pode desenhar, usar peças ou contar a partir de uma das quantidades. Ao elaborar uma história, diga quantos objetos havia, quantos chegaram ou foram reunidos e o que deseja descobrir. Outra pessoa precisa conseguir entender a pergunta.</p><h3>Exemplo resolvido</h3><p>Uma caixa tem 14 lápis e recebe mais 6. Podemos continuar: 15, 16, 17, 18, 19, 20. A caixa passa a ter vinte lápis.</p><h3>Atenção ao raciocínio</h3><p>Seis lápis acrescentados não são o total final; são apenas a parte que chegou.</p><h3>Investigue e produza</h3><p>Use peças para resolver 16 figurinhas reunidas com mais 7. Depois invente uma história de juntar com duas quantidades de até dois algarismos e resolva com um desenho.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "adicao",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Seis lápis acrescentados não são o total final; são apenas a parte que chegou."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "problemas_de_juntar_e_acrescentar.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma caixa com 14 lápis recebe mais 6. O total é:",
+      "alternativas": [
+        "20",
+        "8",
+        "6"
+      ],
+      "correta": 0,
+      "explicacao": "14 + 6 = 20; a contagem a partir de 14 confirma."
+    },
+    {
+      "id": "problemas_de_juntar_e_acrescentar.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Use peças para resolver 16 figurinhas reunidas com mais 7. Depois invente uma história de juntar com duas quantidades de até dois algarismos e resolva com um desenho.",
+      "gabarito": "16+7=23. Observar correspondência entre dados, ações, pergunta, desenho e resposta. Aceitar estratégias pessoais e ditado da história a um adulto.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "16+7=23. Observar correspondência entre dados, ações, pergunta, desenho e resposta. Aceitar estratégias pessoais e ditado da história a um adulto.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "adicao",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29
+      ],
+      "paginasImpressas": "32",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao"
+  ],
+  "proximosPassos": [
+    "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

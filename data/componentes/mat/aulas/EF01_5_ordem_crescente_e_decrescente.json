@@ -2,36 +2,116 @@
   "id": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
   "componente": "mat",
   "nivel": "EF01",
-  "ordem": 5,
+  "ordem": 15,
   "unidade": "Ordenação e mais números",
   "titulo": "Ordem Crescente e Decrescente",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF01MA05"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Ordenar números de até dois algarismos com e sem apoio da reta."
+    ],
+    "resumo": "Ordenar números de até dois algarismos com e sem apoio da reta.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Subindo e Descendo</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Organizar os números do menor para o maior (crescente) e do maior para o menor (decrescente).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🏠 Vizinhos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Quem mora antes do 5? O 4 (Antecessor). Quem mora depois? O 6 (Sucessor).</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Ordem Crescente e Decrescente</h2><h3>O que vamos aprender</h3><p>Ordenar números de até dois algarismos com e sem apoio da reta.</p><h3>Ideias e relações</h3><p>Ordem crescente vai do menor para o maior. Ordem decrescente faz o caminho inverso. Para comparar números de dois algarismos, os grupos de dez podem ajudar: quatro dezenas são mais que três dezenas. Se as dezenas são iguais, compare as unidades. Podemos conferir numa reta ou com peças, e depois explicar a comparação sem esses apoios.</p><h3>Exemplo resolvido</h3><p>Entre 26, 42 e 24, os dois que começam com duas dezenas vêm antes de 42. Comparando as unidades, 24 vem antes de 26. Crescente: 24, 26, 42.</p><h3>Atenção ao raciocínio</h3><p>Olhar apenas o último algarismo pode levar a uma comparação errada.</p><h3>Investigue e produza</h3><p>Ordene 31, 13, 35 e 30 com peças ou numa reta. Depois explique sem o desenho por que 35 é maior que 31 e escreva a ordem inversa.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "ordenacao",
+      "comparacao"
+    ],
+    "errosComuns": [
+      "Olhar apenas o último algarismo pode levar a uma comparação errada."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "ordem_crescente_e_decrescente.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é a ordem crescente?",
+      "alternativas": [
+        "24, 26, 42",
+        "42, 26, 24",
+        "26, 24, 42"
+      ],
+      "correta": 0,
+      "explicacao": "24 é menor que 26, e ambos são menores que 42."
+    },
+    {
+      "id": "ordem_crescente_e_decrescente.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Ordene 31, 13, 35 e 30 com peças ou numa reta. Depois explique sem o desenho por que 35 é maior que 31 e escreva a ordem inversa.",
+      "gabarito": "Crescente: 13,30,31,35. Decrescente: 35,31,30,13. Em 35 e 31, as três dezenas são iguais; cinco unidades superam uma.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Crescente: 13,30,31,35. Decrescente: 35,31,30,13. Em 35 e 31, as três dezenas são iguais; cinco unidades superam uma.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "ordenacao",
+    "comparacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14
+      ],
+      "paginasImpressas": "17",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

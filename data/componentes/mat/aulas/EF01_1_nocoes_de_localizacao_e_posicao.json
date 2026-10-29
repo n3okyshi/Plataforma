@@ -2,36 +2,110 @@
   "id": "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao",
   "componente": "mat",
   "nivel": "EF01",
-  "ordem": 1,
+  "ordem": 2,
   "unidade": "Vocabulário Fundamental",
   "titulo": "Noções de Localização e Posição",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF01MA11"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Descrever posições usando o próprio corpo como referência."
+    ],
+    "resumo": "Descrever posições usando o próprio corpo como referência.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Onde estão as coisas?</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aprendemos a nos localizar usando o próprio corpo. O que está perto? O que está longe? O que está na sua esquerda?\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🤸 Brincadeira:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">\"O Mestre Mandou\": levantar a mão direita, colocar a mão na cabeça, ficar embaixo da mesa.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Noções de Localização e Posição</h2><h3>O que vamos aprender</h3><p>Descrever posições usando o próprio corpo como referência.</p><h3>Ideias e relações</h3><p>Para dizer onde algo está, podemos usar nosso corpo como referência: à frente, atrás, à direita ou à esquerda. Olhe na direção em que você está voltado antes de descrever. A mão direita e a mão esquerda acompanham seu corpo quando você gira. Algo que estava à sua frente pode ficar atrás depois de uma meia-volta. Você também pode apontar ou desenhar para explicar uma posição.</p><h3>Exemplo resolvido</h3><p>Bia está olhando para a porta. A mesa fica à frente dela. Depois de uma meia-volta, Bia fica de costas para a porta e a mesa passa a ficar atrás dela.</p><h3>Atenção ao raciocínio</h3><p>Dizer apenas “à direita” sem saber de quem estamos falando pode causar confusão.</p><h3>Investigue e produza</h3><p>Com um colega ou adulto, fique voltado para um ponto combinado. Indique um objeto à sua direita, outro à sua esquerda e um à frente. Gire e descreva o que mudou.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "localizacao",
+      "posicao"
+    ],
+    "errosComuns": [
+      "Dizer apenas “à direita” sem saber de quem estamos falando pode causar confusão."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "nocoes_de_localizacao_e_posicao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma criança está olhando para uma mesa. Sem mover a mesa, ela dá meia-volta. A mesa passa a ficar:",
+      "alternativas": [
+        "No mesmo lugar em relação ao olhar",
+        "Atrás da criança",
+        "Na mão da criança"
+      ],
+      "correta": 1,
+      "explicacao": "A referência é o corpo: depois da meia-volta, a mesa fica atrás."
+    },
+    {
+      "id": "nocoes_de_localizacao_e_posicao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com um colega ou adulto, fique voltado para um ponto combinado. Indique um objeto à sua direita, outro à sua esquerda e um à frente. Gire e descreva o que mudou.",
+      "gabarito": "O observador confere as posições em relação ao corpo da criança, sem usar sua própria direita como se fosse a dela. Registrar a orientação inicial e aceitar apontar ou falar.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O observador confere as posições em relação ao corpo da criança, sem usar sua própria direita como se fosse a dela. Registrar a orientação inicial e aceitar apontar ou falar.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "localizacao",
+    "posicao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes"
+  ],
+  "proximosPassos": [
+    "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

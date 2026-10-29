@@ -14,7 +14,7 @@
       "unidades": [
         {
           "id": "mat.ef01.vocabulario_fundamental",
-          "titulo": "Vocabulário Fundamental da Matemática",
+          "titulo": "Vocabulário Fundamental",
           "aulas": [
             {
               "id": "mat.ef01.vocabulario_fundamental.classificacao_e_sequencias_padroes",
@@ -33,12 +33,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "21-30"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": true,
-              "resumo": "Agrupar objetos por cor, forma e tamanho e reconhecer a regra que repete uma sequência."
+              "resumo": "Agrupar objetos por cor, forma e tamanho e reconhecer a regra que repete uma sequência.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.vocabulario_fundamental.nocoes_de_localizacao_e_posicao",
@@ -56,12 +62,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": true,
-              "resumo": "Descrever onde estão pessoas e objetos usando à direita, à esquerda, em frente e atrás."
+              "resumo": "Descrever onde estão pessoas e objetos usando à direita, à esquerda, em frente e atrás.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.vocabulario_fundamental.pontos_de_referencia_e_posicao",
@@ -79,12 +91,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Localizar objetos a partir de um ponto de referência diferente do próprio corpo."
+              "resumo": "Localizar objetos a partir de um ponto de referência diferente do próprio corpo.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.vocabulario_fundamental.sequencias_recursivas_e_elementos_ausentes",
@@ -102,14 +120,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "15-17"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Descobrir a regra de uma sequência e completar os elementos que faltam."
+              "resumo": "Descobrir a regra de uma sequência e completar os elementos que faltam.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef01.numeros_ate_10",
@@ -132,12 +158,27 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "11-15"
+                  "paginasPdf": [
+                    13,
+                    16
+                  ],
+                  "paginasImpressas": "16, 19",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Contar objetos um a um e usar o número para indicar quantidade e ordem."
+              "resumo": "Contar objetos um a um e usar o número para indicar quantidade e ordem.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.numeros_ate_10.comparacao_de_quantidades",
@@ -155,12 +196,26 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "15-17"
+                  "paginasPdf": [
+                    14
+                  ],
+                  "paginasImpressas": "17",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Comparar dois conjuntos de até 20 objetos dizendo qual tem mais, menos ou a mesma quantidade."
+              "resumo": "Comparar dois conjuntos de até 20 objetos dizendo qual tem mais, menos ou a mesma quantidade.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.numeros_ate_10.pareamento_e_estimativa",
@@ -180,37 +235,30 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "11-15"
-                }
-              ],
-              "legado": false,
-              "resumo": "Estimar quantidades e conferir o resultado pareando objetos dois a dois."
-            },
-            {
-              "id": "mat.ef01.numeros_ate_10.registro_de_quantidades",
-              "titulo": "Registro de Quantidades",
-              "bncc": [
-                "EF01MA01"
-              ],
-              "areas": [
-                "matematica",
-                "numeros_e_operacoes"
-              ],
-              "tags": [
-                "registro",
-                "numeros_naturais"
-              ],
-              "fontes": [
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
                 {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "11-15"
+                  "paginasPdf": [
+                    14
+                  ],
+                  "paginasImpressas": "17",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Registrar quantidades por desenho, marcação e escrita do numeral correspondente."
+              "resumo": "Estimar quantidades e conferir o resultado pareando objetos dois a dois.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef01.numeros_ate_100",
@@ -220,8 +268,7 @@
               "id": "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas",
               "titulo": "Números até 100 e Dezenas Exatas",
               "bncc": [
-                "EF01MA04",
-                "EF01MA05"
+                "EF01MA04"
               ],
               "areas": [
                 "matematica",
@@ -233,12 +280,26 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "15-19"
+                  "paginasPdf": [
+                    13
+                  ],
+                  "paginasImpressas": "16",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Contar, ler e escrever números até 100, reconhecendo as dezenas exatas."
+              "resumo": "Contar, ler e escrever números até 100, reconhecendo as dezenas exatas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.numeros_ate_100.reta_numerica_ate_100",
@@ -256,35 +317,26 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "17-19"
-                }
-              ],
-              "legado": false,
-              "resumo": "Localizar números na reta numérica e comparar posições para decidir qual é maior."
-            },
-            {
-              "id": "mat.ef01.numeros_ate_100.fatos_basicos_da_adicao",
-              "titulo": "Fatos Básicos da Adição",
-              "bncc": [
-                "EF01MA06"
-              ],
-              "areas": [
-                "matematica",
-                "numeros_e_operacoes"
-              ],
-              "tags": [
-                "adicao",
-                "calculo_mental"
-              ],
-              "fontes": [
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
                 {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-35"
+                  "paginasPdf": [
+                    14
+                  ],
+                  "paginasImpressas": "17",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Memorizar somas simples e usá-las para calcular mais rápido."
+              "resumo": "Localizar números na reta numérica e comparar posições para decidir qual é maior.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.numeros_ate_100.composicao_e_decomposicao",
@@ -302,14 +354,31 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "14-15"
+                  "paginasPdf": [
+                    13,
+                    29
+                  ],
+                  "paginasImpressas": "16, 32",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Formar e separar números de duas ordens usando diferentes adições."
+              "resumo": "Formar e separar números de duas ordens usando diferentes adições.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef01.adicao_e_subtracao",
@@ -319,6 +388,7 @@
               "id": "mat.ef01.adicao_e_subtracao.ideias_da_adicao_e_subtracao",
               "titulo": "Ideias da Adição e Subtração",
               "bncc": [
+                "EF01MA03",
                 "EF01MA08"
               ],
               "areas": [
@@ -331,12 +401,27 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-37"
+                  "paginasPdf": [
+                    29,
+                    32
+                  ],
+                  "paginasImpressas": "32, 35",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Reconhecer juntar, acrescentar, separar e retirar como ideias das duas operações."
+              "resumo": "Reconhecer juntar, acrescentar, separar e retirar como ideias das duas operações.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.adicao_e_subtracao.problemas_de_juntar_e_acrescentar",
@@ -354,35 +439,26 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-35"
-                }
-              ],
-              "legado": false,
-              "resumo": "Resolver problemas de adição com números de até dois algarismos em situações do dia a dia."
-            },
-            {
-              "id": "mat.ef01.adicao_e_subtracao.problemas_de_separar_e_comparar",
-              "titulo": "Problemas de Separar e Comparar",
-              "bncc": [
-                "EF01MA08"
-              ],
-              "areas": [
-                "matematica",
-                "numeros_e_operacoes"
-              ],
-              "tags": [
-                "subtracao",
-                "problemas"
-              ],
-              "fontes": [
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
                 {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "35-37"
+                  "paginasPdf": [
+                    29
+                  ],
+                  "paginasImpressas": "32",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Resolver problemas de subtração com as ideias de separar, retirar e comparar quantidades."
+              "resumo": "Resolver problemas de adição com números de até dois algarismos em situações do dia a dia.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.adicao_e_subtracao.calculo_mental_com_fatos_basicos",
@@ -400,18 +476,34 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-35"
+                  "paginasPdf": [
+                    29
+                  ],
+                  "paginasImpressas": "32",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Usar fatos básicos conhecidos para resolver adições sem contar um a um."
+              "resumo": "Usar fatos básicos conhecidos para resolver adições sem contar um a um.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef01.ordenacao_e_mais_numeros",
-          "titulo": "Ordenação e Mais Números",
+          "titulo": "Ordenação e mais números",
           "aulas": [
             {
               "id": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais",
@@ -429,12 +521,27 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "11-15"
+                  "paginasPdf": [
+                    16,
+                    17
+                  ],
+                  "paginasImpressas": "19, 20",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Usar primeiro, segundo, terceiro para indicar posição em filas e listas."
+              "resumo": "Usar primeiro, segundo, terceiro para indicar posição em filas e listas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
@@ -452,37 +559,30 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "17-19"
+                  "paginasPdf": [
+                    14
+                  ],
+                  "paginasImpressas": "17",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Organizar números do menor para o maior e do maior para o menor."
-            },
-            {
-              "id": "mat.ef01.ordenacao_e_mais_numeros.reta_numerica_e_ordenacao",
-              "titulo": "Reta Numérica e Ordenação",
-              "bncc": [
-                "EF01MA05"
-              ],
-              "areas": [
-                "matematica",
-                "numeros_e_operacoes"
-              ],
-              "tags": [
-                "reta_numerica",
-                "ordenacao"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "17-19"
-                }
-              ],
-              "legado": false,
-              "resumo": "Usar a reta numérica como apoio para ordenar e comparar números naturais."
+              "resumo": "Organizar números do menor para o maior e do maior para o menor.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef01.figuras_geometricas",
@@ -505,12 +605,26 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
+                  "paginasPdf": [
+                    325
+                  ],
+                  "paginasImpressas": "328",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Distinguir figuras planas de figuras espaciais e nomear as mais conhecidas."
+              "resumo": "Distinguir figuras planas de figuras espaciais e nomear as mais conhecidas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano",
@@ -528,12 +642,26 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
+                  "paginasPdf": [
+                    325
+                  ],
+                  "paginasImpressas": "328",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Relacionar cone, cilindro, esfera e bloco retangular a objetos do mundo físico."
+              "resumo": "Relacionar cone, cilindro, esfera e bloco retangular a objetos do mundo físico.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.figuras_geometricas.contornos_e_faces",
@@ -551,18 +679,34 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    281
+                  ],
+                  "paginasImpressas": "279",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "342-347"
+                  "paginasPdf": [
+                    325
+                  ],
+                  "paginasImpressas": "328",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer círculo, quadrado, retângulo e triângulo em contornos e faces de objetos."
+              "resumo": "Reconhecer círculo, quadrado, retângulo e triângulo em contornos e faces de objetos.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef01.grandezas_medidas_e_mais_numeros",
-          "titulo": "Grandezas, Medidas e Mais Números",
+          "titulo": "Grandezas, medidas e mais números",
           "aulas": [
             {
               "id": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
@@ -580,12 +724,26 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    283
+                  ],
+                  "paginasImpressas": "281",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "112-129"
+                  "paginasPdf": [
+                    109
+                  ],
+                  "paginasImpressas": "112",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Comparar comprimentos, massas e capacidades usando termos como mais alto e mais curto."
+              "resumo": "Comparar comprimentos, massas e capacidades usando termos como mais alto e mais curto.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario",
@@ -604,12 +762,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "112-114"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    283
+                  ],
+                  "paginasImpressas": "281",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": true,
-              "resumo": "Relatar acontecimentos do dia e reconhecer dias da semana e meses do ano."
+              "resumo": "Relatar acontecimentos do dia e reconhecer dias da semana e meses do ano.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana",
@@ -627,41 +791,26 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "112-114"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    283
+                  ],
+                  "paginasImpressas": "281",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Escrever datas com dia, mês e ano e descobrir o dia da semana correspondente."
-            },
-            {
-              "id": "mat.ef01.grandezas_medidas_e_mais_numeros.medidas_nao_convencionais",
-              "titulo": "Medidas Não Convencionais",
-              "bncc": [
-                "EF01MA15"
-              ],
-              "areas": [
-                "matematica",
-                "grandezas_medidas"
-              ],
-              "tags": [
-                "medidas",
-                "estimativa"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "112-115"
-                }
-              ],
-              "legado": false,
-              "resumo": "Medir com palmos, passos e outros recursos do corpo antes de usar unidades padronizadas."
+              "resumo": "Escrever datas com dia, mês e ano e descobrir o dia da semana correspondente.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros",
-          "titulo": "Nosso Dinheiro e Mais Sobre Números",
+          "titulo": "Nosso dinheiro e mais sobre números",
           "aulas": [
             {
               "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
@@ -679,35 +828,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "173-186"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    283
+                  ],
+                  "paginasImpressas": "281",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": true,
-              "resumo": "Conhecer moedas e cédulas do real e usá-las em situações simples de compra."
-            },
-            {
-              "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.moedas_e_cedulas",
-              "titulo": "Moedas e Cédulas do Real",
-              "bncc": [
-                "EF01MA19"
-              ],
-              "areas": [
-                "matematica",
-                "grandezas_medidas"
-              ],
-              "tags": [
-                "sistema_monetario",
-                "moedas"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "173-186"
-                }
-              ],
-              "legado": false,
-              "resumo": "Reconhecer valores de moedas e cédulas e compor pequenos valores com elas."
+              "resumo": "Conhecer moedas e cédulas do real e usá-las em situações simples de compra.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples",
@@ -725,14 +857,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "173-186"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    283
+                  ],
+                  "paginasImpressas": "281",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Trocar uma moeda por outras de menor valor mantendo a mesma quantia."
+              "resumo": "Trocar uma moeda por outras de menor valor mantendo a mesma quantia.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef01.probabilidade_e_estatistica",
@@ -754,12 +894,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "173-186"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    283
+                  ],
+                  "paginasImpressas": "281",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Classificar eventos do dia a dia como certos, possíveis ou impossíveis."
+              "resumo": "Classificar eventos do dia a dia como certos, possíveis ou impossíveis.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas",
@@ -777,12 +923,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "173-186"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    283
+                  ],
+                  "paginasImpressas": "281",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Ler dados em tabelas simples e em gráficos de colunas para responder perguntas."
+              "resumo": "Ler dados em tabelas simples e em gráficos de colunas para responder perguntas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula",
@@ -800,14 +952,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "173-186"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    283
+                  ],
+                  "paginasImpressas": "281",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Fazer uma pesquisa com até duas variáveis e organizar os dados coletados."
+              "resumo": "Fazer uma pesquisa com até duas variáveis e organizar os dados coletados.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         }
       ]
     },

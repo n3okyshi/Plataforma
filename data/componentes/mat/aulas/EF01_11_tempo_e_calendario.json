@@ -2,36 +2,111 @@
   "id": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario",
   "componente": "mat",
   "nivel": "EF01",
-  "ordem": 11,
+  "ordem": 20,
   "unidade": "Grandezas, medidas e mais números",
   "titulo": "Tempo e Calendário",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF01MA16",
+    "EF01MA17"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Relatar acontecimentos de um dia e usar referências de tempo e calendário."
+    ],
+    "resumo": "Relatar acontecimentos de um dia e usar referências de tempo e calendário.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">O Tempo Passa</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Entender o Ontem (já passou), Hoje (agora) e Amanhã (vai acontecer). Leitura dos dias da semana no calendário.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📅 Rotina:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Identificar os dias que tem escola e os dias de descanso (Sábado e Domingo).</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Tempo e Calendário</h2><h3>O que vamos aprender</h3><p>Relatar acontecimentos de um dia e usar referências de tempo e calendário.</p><h3>Ideias e relações</h3><p>Contamos acontecimentos usando antes, depois e durante. Podemos organizar uma rotina por desenhos: despertar, tomar uma refeição, brincar e descansar, conforme o dia de cada pessoa. Manhã, tarde e noite são períodos do dia. A semana tem sete dias, e o calendário mostra como eles se sucedem. Os meses também têm nomes e uma ordem no ano. Se soubermos horários de alguns acontecimentos, podemos incluí-los; não é preciso inventar horários que não conhecemos.</p><h3>Exemplo resolvido</h3><p>Uma criança desenhou primeiro uma atividade da manhã e depois uma da tarde. Num calendário, observou que depois da terça-feira vem a quarta-feira. A sequência ajuda a localizar acontecimentos.</p><h3>Atenção ao raciocínio</h3><p>As rotinas das famílias podem ser diferentes. Não trate uma rotina como obrigatória para todas as pessoas.</p><h3>Investigue e produza</h3><p>Conte um dia seu por três ou mais desenhos, organizados em sequência. Diga os períodos e os horários que conhecer. Num calendário, localize o mês, os dias da semana e um acontecimento combinado.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "tempo",
+      "calendario"
+    ],
+    "errosComuns": [
+      "As rotinas das famílias podem ser diferentes. Não trate uma rotina como obrigatória para todas as pessoas."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "tempo_e_calendario.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual dia vem logo depois da terça-feira?",
+      "alternativas": [
+        "Domingo",
+        "Quarta-feira",
+        "Segunda-feira"
+      ],
+      "correta": 1,
+      "explicacao": "Na sequência semanal, terça-feira é seguida de quarta-feira."
+    },
+    {
+      "id": "tempo_e_calendario.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Conte um dia seu por três ou mais desenhos, organizados em sequência. Diga os períodos e os horários que conhecer. Num calendário, localize o mês, os dias da semana e um acontecimento combinado.",
+      "gabarito": "Conferir coerência da sequência narrada e do calendário efetivamente consultado. Observar períodos do dia, nomes dos dias e identificação do mês. Aceitar fala, gestos e desenhos.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir coerência da sequência narrada e do calendário efetivamente consultado. Observar períodos do dia, nomes dos dias e identificação do mês. Aceitar fala, gestos e desenhos.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "tempo",
+    "calendario"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        283
+      ],
+      "paginasImpressas": "281",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade"
+  ],
+  "proximosPassos": [
+    "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

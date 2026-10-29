@@ -1,0 +1,348 @@
+[
+  {
+    "id": "mat.ef01.figuras_geometricas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+    "bncc": [
+      "EF01MA13",
+      "EF01MA14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma bola costuma lembrar qual figura espacial?",
+    "opcoes": [
+      "Triângulo",
+      "Retângulo",
+      "Esfera"
+    ],
+    "correta": 2,
+    "explicacao": "A esfera é um modelo espacial para a forma da bola.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano",
+    "bncc": [
+      "EF01MA13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Sem considerar pequenos detalhes, uma lata fechada costuma lembrar um:",
+    "opcoes": [
+      "Triângulo",
+      "Cilindro",
+      "Cone"
+    ],
+    "correta": 1,
+    "explicacao": "Seu formato tem duas bases circulares e uma parte lateral curva.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.contornos_e_faces",
+    "bncc": [
+      "EF01MA14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma figura com três lados retos é um:",
+    "opcoes": [
+      "Triângulo",
+      "Círculo",
+      "Quadrado"
+    ],
+    "correta": 0,
+    "explicacao": "Três lados retos fechando a figura formam um triângulo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano",
+    "bncc": [
+      "EF01MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma caixa de sapatos costuma lembrar um:",
+    "opcoes": [
+      "Círculo plano",
+      "Triângulo plano",
+      "Bloco retangular"
+    ],
+    "correta": 2,
+    "explicacao": "A caixa ocupa espaço e pode ser modelada por um bloco retangular.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano",
+    "bncc": [
+      "EF01MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um chapéu de festa com ponta e base circular costuma lembrar um:",
+    "opcoes": [
+      "Quadrado",
+      "Cone",
+      "Cilindro"
+    ],
+    "correta": 1,
+    "explicacao": "A base circular e a ponta lembram o cone.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.contornos_e_faces",
+    "bncc": [
+      "EF01MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Ao girar na folha um quadrado já desenhado, sem deformá-lo, ele continua sendo:",
+    "opcoes": [
+      "Quadrado",
+      "Círculo",
+      "Triângulo"
+    ],
+    "correta": 0,
+    "explicacao": "Mudar a posição não muda as características do quadrado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.contornos_e_faces",
+    "bncc": [
+      "EF01MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um contorno fechado com três lados retos é um:",
+    "opcoes": [
+      "Retângulo",
+      "Círculo",
+      "Triângulo"
+    ],
+    "correta": 2,
+    "explicacao": "O triângulo tem três lados retos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.figuras_geometricas.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Figuras Geométricas",
+    "aulaId": "mat.ef01.figuras_geometricas.figuras_planas_e_espaciais",
+    "bncc": [
+      "EF01MA13",
+      "EF01MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual par distingue um modelo espacial de uma figura plana?",
+    "opcoes": [
+      "Quadrado e retângulo",
+      "Esfera e círculo",
+      "Círculo e triângulo"
+    ],
+    "correta": 1,
+    "explicacao": "Esfera é espacial; círculo é plano. Os demais pares só têm figuras planas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

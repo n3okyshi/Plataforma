@@ -2,36 +2,108 @@
   "id": "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.sistema_monetario_brasileiro_introducao",
   "componente": "mat",
   "nivel": "EF01",
-  "ordem": 8,
+  "ordem": 22,
   "unidade": "Nosso dinheiro e mais sobre números",
   "titulo": "Sistema Monetário Brasileiro (Introdução)",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF01MA19"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Reconhecer valores do real em compras de brincadeira."
+    ],
+    "resumo": "Reconhecer valores do real em compras de brincadeira.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Nosso Dinheirinho</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conhecer as moedas e as notas do Real.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛒 Mercadinho:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Brincar de compra e venda ajuda a entender que precisamos trocar dinheiro por coisas.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Sistema Monetário Brasileiro (Introdução)</h2><h3>O que vamos aprender</h3><p>Reconhecer valores do real em compras de brincadeira.</p><h3>Ideias e relações</h3><p>Em situações de compra, usamos valores em reais e centavos. O símbolo R$ acompanha o valor em reais. Podemos representar valores com moedas, cédulas ou cartões de brincadeira que indiquem claramente quanto valem. O valor é o que está indicado, não o tamanho do papel nem a quantidade de peças. Para escolher um pagamento, junte os valores e compare com o preço. Aqui os preços são inventados para a atividade.</p><h3>Exemplo resolvido</h3><p>Um objeto de brincadeira custa R$ 7. Cartões que representam R$ 5 e R$ 2 juntos pagam esse valor. Dois cartões não significam necessariamente dois reais.</p><h3>Atenção ao raciocínio</h3><p>Não confunda quantidade de moedas ou cartões com o valor total.</p><h3>Investigue e produza</h3><p>Com ajuda de um adulto, observe valores indicados em moedas e cédulas do real, sem precisar fotografá-las. Faça cartões escritos com esses valores e monte pagamentos exatos para preços fictícios de R$ 6, R$ 8 e R$ 10.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "sistema_monetario",
+      "moedas"
+    ],
+    "errosComuns": [
+      "Não confunda quantidade de moedas ou cartões com o valor total."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "sistema_monetario_brasileiro_introducao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um item custa R$ 7. Qual conjunto de valores paga exatamente?",
+      "alternativas": [
+        "R$ 2 e R$ 2",
+        "R$ 5 e R$ 5",
+        "R$ 5 e R$ 2"
+      ],
+      "correta": 2,
+      "explicacao": "Cinco reais e dois reais totalizam sete reais."
+    },
+    {
+      "id": "sistema_monetario_brasileiro_introducao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com ajuda de um adulto, observe valores indicados em moedas e cédulas do real, sem precisar fotografá-las. Faça cartões escritos com esses valores e monte pagamentos exatos para preços fictícios de R$ 6, R$ 8 e R$ 10.",
+      "gabarito": "Conferir reconhecimento dos valores observados e as somas construídas. Exemplos de pagamentos: 5+1=6; 5+2+1=8; 5+5=10. Aceitar outras combinações exatas e registro oral.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir reconhecimento dos valores observados e as somas construídas. Exemplos de pagamentos: 5+1=6; 5+2+1=8; 5+5=10. Aceitar outras combinações exatas e registro oral.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sistema_monetario",
+    "moedas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        283
+      ],
+      "paginasImpressas": "281",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef01.nosso_dinheiro_e_mais_sobre_numeros.trocas_e_equivalencias_simples"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

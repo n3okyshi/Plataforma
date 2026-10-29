@@ -1,0 +1,123 @@
+{
+  "id": "mat.ef01.ordenacao_e_mais_numeros.prova",
+  "titulo": "Avaliação: Ordenação e mais números",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF01",
+  "unidade": "Ordenação e mais números",
+  "bncc": [
+    "EF01MA01",
+    "EF01MA05"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef01.ordenacao_e_mais_numeros.prova.01",
+    "mat.ef01.ordenacao_e_mais_numeros.prova.02",
+    "mat.ef01.ordenacao_e_mais_numeros.prova.03",
+    "mat.ef01.ordenacao_e_mais_numeros.prova.04",
+    "mat.ef01.ordenacao_e_mais_numeros.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF01MA01",
+      "questoes": [
+        "mat.ef01.ordenacao_e_mais_numeros.prova.01",
+        "mat.ef01.ordenacao_e_mais_numeros.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.ordenacao_e_mais_numeros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais#numeros_ordinais.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01MA05",
+      "questoes": [
+        "mat.ef01.ordenacao_e_mais_numeros.prova.02",
+        "mat.ef01.ordenacao_e_mais_numeros.prova.03",
+        "mat.ef01.ordenacao_e_mais_numeros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.ordenacao_e_mais_numeros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente#ordem_crescente_e_decrescente.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Ordenação e mais números",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Organize uma fila de cinco objetos, marque o início e descreva posições. Depois dê exemplos de número como quantidade, ordem e código, sem usar dados pessoais reais. 2. Ordene 31, 13, 35 e 30 com peças ou numa reta. Depois explique sem o desenho por que 35 é maior que 31 e escreva a ordem inversa.",
+    "gabarito": "Conferência por tarefa: 1. Conferir a contagem a partir do início combinado. Exemplos: cinco peças; segunda peça; código inventado de identificação. Não confundir código com quantidade nem exigir nomes de ordinais além dos trabalhados. 2. Crescente: 13,30,31,35. Decrescente: 35,31,30,13. Em 35 e 31, as três dezenas são iguais; cinco unidades superam uma.",
+    "bncc": [
+      "EF01MA01",
+      "EF01MA05"
+    ],
+    "atividadesOrigem": [
+      "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais#numeros_ordinais.investigacao",
+      "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente#ordem_crescente_e_decrescente.investigacao"
+    ],
+    "duracaoMinSugerida": 20,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Números Ordinais",
+        "enunciado": "Organize uma fila de cinco objetos, marque o início e descreva posições. Depois dê exemplos de número como quantidade, ordem e código, sem usar dados pessoais reais.",
+        "gabarito": "Conferir a contagem a partir do início combinado. Exemplos: cinco peças; segunda peça; código inventado de identificação. Não confundir código com quantidade nem exigir nomes de ordinais além dos trabalhados.",
+        "bncc": [
+          "EF01MA01"
+        ],
+        "atividadeOrigem": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais#numeros_ordinais.investigacao"
+      },
+      {
+        "titulo": "Ordem Crescente e Decrescente",
+        "enunciado": "Ordene 31, 13, 35 e 30 com peças ou numa reta. Depois explique sem o desenho por que 35 é maior que 31 e escreva a ordem inversa.",
+        "gabarito": "Crescente: 13,30,31,35. Decrescente: 35,31,30,13. Em 35 e 31, as três dezenas são iguais; cinco unidades superam uma.",
+        "bncc": [
+          "EF01MA05"
+        ],
+        "atividadeOrigem": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente#ordem_crescente_e_decrescente.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        16,
+        17
+      ],
+      "paginasImpressas": "19, 20",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14
+      ],
+      "paginasImpressas": "17",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ]
+}

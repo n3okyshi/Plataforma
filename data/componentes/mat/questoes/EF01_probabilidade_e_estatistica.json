@@ -1,0 +1,282 @@
+[
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano",
+    "bncc": [
+      "EF01MA20"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma sacola tem somente peças azuis. Ao retirar uma delas, sem alterar a sacola, tirar uma verde é:",
+    "opcoes": [
+      "Certo",
+      "Obrigatório",
+      "Impossível"
+    ],
+    "correta": 2,
+    "explicacao": "Não há peça verde disponível para ser retirada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas",
+    "bncc": [
+      "EF01MA21"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Nos dados apresentados, quantos votos recebeu desenho?",
+    "opcoes": [
+      "1",
+      "3",
+      "4"
+    ],
+    "correta": 1,
+    "explicacao": "A tabela informa três, e a coluna de desenho chega à marca 3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula",
+    "bncc": [
+      "EF01MA22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para registrar uma pesquisa feita de verdade, devemos:",
+    "opcoes": [
+      "Anotar as respostas recebidas",
+      "Inventar respostas para completar a folha",
+      "Copiar os números de outro exemplo"
+    ],
+    "correta": 0,
+    "explicacao": "Os registros precisam corresponder às respostas efetivamente coletadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano",
+    "bncc": [
+      "EF01MA20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma sacola tem apenas peças amarelas. Retirar uma amarela, sem alterar a sacola, acontecerá:",
+    "opcoes": [
+      "Talvez, pois há peças verdes",
+      "De modo impossível",
+      "Com certeza"
+    ],
+    "correta": 2,
+    "explicacao": "Todas as peças disponíveis são amarelas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano",
+    "bncc": [
+      "EF01MA20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma sacola tem peças azuis e vermelhas. Retirar uma azul:",
+    "opcoes": [
+      "Acontecerá com certeza",
+      "Talvez aconteça",
+      "É impossível"
+    ],
+    "correta": 1,
+    "explicacao": "Há peças azuis, mas também há outra cor que pode sair.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas",
+    "bncc": [
+      "EF01MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma tabela informa: gato 5 votos, cachorro 3 votos, peixe 2 votos. Qual recebeu mais votos?",
+    "opcoes": [
+      "Gato",
+      "Cachorro",
+      "Peixe"
+    ],
+    "correta": 0,
+    "explicacao": "Cinco é maior que três e dois.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas",
+    "bncc": [
+      "EF01MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Num gráfico que começa em zero, cada passo vale um voto. Uma coluna chega à marca 6. Ela representa:",
+    "opcoes": [
+      "1 voto",
+      "0 votos",
+      "6 votos"
+    ],
+    "correta": 2,
+    "explicacao": "A escala indica um voto por passo até a marca seis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.probabilidade_e_estatistica.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef01.probabilidade_e_estatistica.pesquisa_na_sala_de_aula",
+    "bncc": [
+      "EF01MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Doze participantes deram uma resposta cada. O registro correto deve ter:",
+    "opcoes": [
+      "Apenas a resposta preferida de quem perguntou",
+      "12 respostas",
+      "30 respostas inventadas"
+    ],
+    "correta": 1,
+    "explicacao": "Cada resposta real precisa aparecer uma vez; o total é doze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -1,0 +1,151 @@
+{
+  "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova",
+  "titulo": "Avaliação: Grandezas, medidas e mais números",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF01",
+  "unidade": "Grandezas, medidas e mais números",
+  "bncc": [
+    "EF01MA15",
+    "EF01MA16",
+    "EF01MA17",
+    "EF01MA18"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef01.grandezas_medidas_e_mais_numeros.prova.01",
+    "mat.ef01.grandezas_medidas_e_mais_numeros.prova.02",
+    "mat.ef01.grandezas_medidas_e_mais_numeros.prova.03",
+    "mat.ef01.grandezas_medidas_e_mais_numeros.prova.04",
+    "mat.ef01.grandezas_medidas_e_mais_numeros.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF01MA15",
+      "questoes": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.prova.01",
+        "mat.ef01.grandezas_medidas_e_mais_numeros.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade#grandezas_e_medidas_comprimento_massa_e_capacidade.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01MA16",
+      "questoes": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01MA17",
+      "questoes": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01MA18",
+      "questoes": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana#datas_e_dias_da_semana.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Grandezas, medidas e mais números",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Ordene três objetos por comprimento. Se houver clipes iguais, use-os para comparar dois desses comprimentos, sem deixar espaços entre os clipes. Compare dois objetos numa balança disponível ou descreva como faria. Compare a capacidade de dois recipientes transferindo a mesma unidade de enchimento, com ajuda de um adulto. 2. Conte um dia seu por três ou mais desenhos, organizados em sequência. Diga os períodos e os horários que conhecer. Num calendário, localize o mês, os dias da semana e um acontecimento combinado. 3. Use o calendário para escrever a data completa do dia 15 de maio de 2026 e indicar o dia da semana. Depois escolha uma data no calendário do seu grupo e registre dia, mês e ano.",
+    "gabarito": "Conferência por tarefa: 1. Registrar objetos e resultados efetivos. Observar alinhamento, distinção de massa e aparência, capacidade até o mesmo critério de enchimento e uso de “mais”, “menos” ou “igual”. Não exigir resultados previamente inventados. 2. Conferir coerência da sequência narrada e do calendário efetivamente consultado. Observar períodos do dia, nomes dos dias e identificação do mês. Aceitar fala, gestos e desenhos. 3. 15/05/2026, sexta-feira. Na escolha livre, conferir o mês e o ano do calendário utilizado e a coluna do dia. Aceitar ditado ao adulto durante a aprendizagem da escrita.",
+    "bncc": [
+      "EF01MA15",
+      "EF01MA16",
+      "EF01MA17",
+      "EF01MA18"
+    ],
+    "atividadesOrigem": [
+      "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade#grandezas_e_medidas_comprimento_massa_e_capacidade.investigacao",
+      "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao",
+      "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana#datas_e_dias_da_semana.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Grandezas e Medidas (Comprimento, Massa e Capacidade)",
+        "enunciado": "Ordene três objetos por comprimento. Se houver clipes iguais, use-os para comparar dois desses comprimentos, sem deixar espaços entre os clipes. Compare dois objetos numa balança disponível ou descreva como faria. Compare a capacidade de dois recipientes transferindo a mesma unidade de enchimento, com ajuda de um adulto.",
+        "gabarito": "Registrar objetos e resultados efetivos. Observar alinhamento, distinção de massa e aparência, capacidade até o mesmo critério de enchimento e uso de “mais”, “menos” ou “igual”. Não exigir resultados previamente inventados.",
+        "bncc": [
+          "EF01MA15"
+        ],
+        "atividadeOrigem": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade#grandezas_e_medidas_comprimento_massa_e_capacidade.investigacao"
+      },
+      {
+        "titulo": "Tempo e Calendário",
+        "enunciado": "Conte um dia seu por três ou mais desenhos, organizados em sequência. Diga os períodos e os horários que conhecer. Num calendário, localize o mês, os dias da semana e um acontecimento combinado.",
+        "gabarito": "Conferir coerência da sequência narrada e do calendário efetivamente consultado. Observar períodos do dia, nomes dos dias e identificação do mês. Aceitar fala, gestos e desenhos.",
+        "bncc": [
+          "EF01MA16",
+          "EF01MA17"
+        ],
+        "atividadeOrigem": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario#tempo_e_calendario.investigacao"
+      },
+      {
+        "titulo": "Datas e Dias da Semana",
+        "enunciado": "Use o calendário para escrever a data completa do dia 15 de maio de 2026 e indicar o dia da semana. Depois escolha uma data no calendário do seu grupo e registre dia, mês e ano.",
+        "gabarito": "15/05/2026, sexta-feira. Na escolha livre, conferir o mês e o ano do calendário utilizado e a coluna do dia. Aceitar ditado ao adulto durante a aprendizagem da escrita.",
+        "bncc": [
+          "EF01MA18"
+        ],
+        "atividadeOrigem": "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana#datas_e_dias_da_semana.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        283
+      ],
+      "paginasImpressas": "281",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109
+      ],
+      "paginasImpressas": "112",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ]
+}

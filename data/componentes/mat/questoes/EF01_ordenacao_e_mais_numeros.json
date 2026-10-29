@@ -1,0 +1,306 @@
+[
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais",
+    "bncc": [
+      "EF01MA01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A fila começa na porta e segue Ana, Beto e Caio. Quem é o segundo?",
+    "opcoes": [
+      "Ana",
+      "Caio",
+      "Beto"
+    ],
+    "correta": 2,
+    "explicacao": "Beto vem depois de Ana e antes de Caio, contando a partir do início informado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          16,
+          17
+        ],
+        "paginasImpressas": "19, 20",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
+    "bncc": [
+      "EF01MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual é a ordem crescente?",
+    "opcoes": [
+      "26, 24, 42",
+      "24, 26, 42",
+      "42, 26, 24"
+    ],
+    "correta": 1,
+    "explicacao": "24 é menor que 26, e ambos são menores que 42.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais",
+    "bncc": [
+      "EF01MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A fila começa em Davi, depois vem Eva e depois Fábio. Eva está em qual posição?",
+    "opcoes": [
+      "Primeira",
+      "Terceira",
+      "Segunda"
+    ],
+    "correta": 2,
+    "explicacao": "A partir do início informado, Eva é a segunda.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          16,
+          17
+        ],
+        "paginasImpressas": "19, 20",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
+    "bncc": [
+      "EF01MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual número é maior?",
+    "opcoes": [
+      "35",
+      "56",
+      "49"
+    ],
+    "correta": 1,
+    "explicacao": "Cinco dezenas superam quatro e três dezenas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
+    "bncc": [
+      "EF01MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual sequência está do menor para o maior?",
+    "opcoes": [
+      "18, 23, 32",
+      "32, 23, 18",
+      "23, 18, 32"
+    ],
+    "correta": 0,
+    "explicacao": "Dezoito vem antes de vinte e três, que vem antes de trinta e dois.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.numeros_ordinais",
+    "bncc": [
+      "EF01MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “há seis livros”, o número seis indica:",
+    "opcoes": [
+      "Código de identificação",
+      "Nome de uma pessoa",
+      "Quantidade"
+    ],
+    "correta": 2,
+    "explicacao": "O número informa quantos livros há.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          16,
+          17
+        ],
+        "paginasImpressas": "19, 20",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.ordenacao_e_mais_numeros.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Ordenação e mais números",
+    "aulaId": "mat.ef01.ordenacao_e_mais_numeros.ordem_crescente_e_decrescente",
+    "bncc": [
+      "EF01MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual ordem é decrescente?",
+    "opcoes": [
+      "41, 44, 14",
+      "44, 41, 14",
+      "14, 41, 44"
+    ],
+    "correta": 1,
+    "explicacao": "A ordem decrescente começa no maior e segue para o menor.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          281
+        ],
+        "paginasImpressas": "279",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

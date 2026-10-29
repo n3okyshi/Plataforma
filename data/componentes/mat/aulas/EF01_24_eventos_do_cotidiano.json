@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef01.probabilidade_e_estatistica.eventos_do_cotidiano",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 24,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Acontecerá com Certeza, Talvez ou É Impossível",
+  "bncc": [
+    "EF01MA20"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Classificar acontecimentos possíveis, certos e impossíveis em uma situação definida."
+    ],
+    "resumo": "Classificar acontecimentos possíveis, certos e impossíveis em uma situação definida.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Acontecerá com Certeza, Talvez ou É Impossível</h2><h3>O que vamos aprender</h3><p>Classificar acontecimentos possíveis, certos e impossíveis em uma situação definida.</p><h3>Ideias e relações</h3><p>Alguns acontecimentos dependem do acaso. Para explicar o que pode ocorrer, precisamos conhecer a situação. Se uma sacola tem apenas peças azuis, tirar uma peça azul, sem olhar e mantendo essa composição, acontecerá com certeza. Tirar uma vermelha é impossível nessa sacola. Se há azuis e vermelhas, tirar uma azul talvez aconteça. Mudar as peças muda as conclusões. Nesta aula não precisamos calcular uma porcentagem de chance.</p><h3>Exemplo resolvido</h3><p>Uma sacola tem três peças azuis e duas amarelas. Tirar amarela talvez aconteça; tirar verde é impossível. Tirar uma peça azul ou amarela acontecerá com certeza, pois não há outras cores.</p><h3>Atenção ao raciocínio</h3><p>“Talvez” não quer dizer “vai acontecer”. Um único sorteio não prova o resultado do próximo.</p><h3>Investigue e produza</h3><p>Monte uma sacola de brincadeira com duas cores. Diga um acontecimento certo, um que talvez aconteça e um impossível. Faça sorteios com devolução da peça e explique por que o resultado pode variar.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "probabilidade",
+      "acaso"
+    ],
+    "errosComuns": [
+      "“Talvez” não quer dizer “vai acontecer”. Um único sorteio não prova o resultado do próximo."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "eventos_do_cotidiano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma sacola tem somente peças azuis. Ao retirar uma delas, sem alterar a sacola, tirar uma verde é:",
+      "alternativas": [
+        "Impossível",
+        "Certo",
+        "Obrigatório"
+      ],
+      "correta": 0,
+      "explicacao": "Não há peça verde disponível para ser retirada."
+    },
+    {
+      "id": "eventos_do_cotidiano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Monte uma sacola de brincadeira com duas cores. Diga um acontecimento certo, um que talvez aconteça e um impossível. Faça sorteios com devolução da peça e explique por que o resultado pode variar.",
+      "gabarito": "As classificações devem corresponder à composição real da sacola. Repor a peça mantém a composição, mas não obriga repetir a cor. Registrar falas e justificativas, sem exigir cálculo de probabilidades.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "As classificações devem corresponder à composição real da sacola. Repor a peça mantém a composição, mas não obriga repetir a cor. Registrar falas e justificativas, sem exigir cálculo de probabilidades.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "probabilidade",
+    "acaso"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        283
+      ],
+      "paginasImpressas": "281",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef01.probabilidade_e_estatistica.tabelas_e_graficos_de_colunas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

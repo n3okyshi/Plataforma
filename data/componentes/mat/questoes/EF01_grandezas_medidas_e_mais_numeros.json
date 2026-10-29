@@ -1,0 +1,307 @@
+[
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
+    "bncc": [
+      "EF01MA15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para comparar o comprimento de dois lápis, uma boa estratégia é:",
+    "opcoes": [
+      "Comparar apenas a cor",
+      "Afirmar que o mais grosso é sempre mais comprido",
+      "Alinhar uma ponta e observar a outra"
+    ],
+    "correta": 2,
+    "explicacao": "Alinhar o início permite comparar até onde cada lápis chega.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109
+        ],
+        "paginasImpressas": "112",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario",
+    "bncc": [
+      "EF01MA16",
+      "EF01MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual dia vem logo depois da terça-feira?",
+    "opcoes": [
+      "Domingo",
+      "Quarta-feira",
+      "Segunda-feira"
+    ],
+    "correta": 1,
+    "explicacao": "Na sequência semanal, terça-feira é seguida de quarta-feira.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana",
+    "bncc": [
+      "EF01MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No calendário apresentado, 4 de maio de 2026 é:",
+    "opcoes": [
+      "Segunda-feira",
+      "Domingo",
+      "Sexta-feira"
+    ],
+    "correta": 0,
+    "explicacao": "O número 4 está na coluna Seg do mês de maio de 2026.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
+    "bncc": [
+      "EF01MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Dois lápis têm uma ponta alinhada. O primeiro termina mais longe. Ele é:",
+    "opcoes": [
+      "Necessariamente mais pesado",
+      "Necessariamente mais fino",
+      "Mais comprido"
+    ],
+    "correta": 2,
+    "explicacao": "O alinhamento permite comparar comprimentos, não decidir massa ou espessura.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109
+        ],
+        "paginasImpressas": "112",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.grandezas_e_medidas_comprimento_massa_e_capacidade",
+    "bncc": [
+      "EF01MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um copo é mais alto que outro, mas também é mais estreito. Só isso permite saber em qual cabe mais?",
+    "opcoes": [
+      "Sim; sempre cabe mais no baixo",
+      "Não; é preciso comparar a capacidade",
+      "Sim; sempre cabe mais no alto"
+    ],
+    "correta": 1,
+    "explicacao": "A capacidade depende do espaço interno, não somente da altura.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109
+        ],
+        "paginasImpressas": "112",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario",
+    "bncc": [
+      "EF01MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma criança primeiro guardou os brinquedos e depois contou uma história. O que aconteceu antes?",
+    "opcoes": [
+      "Guardar os brinquedos",
+      "Contar a história",
+      "As duas ações foram descritas como simultâneas"
+    ],
+    "correta": 0,
+    "explicacao": "A palavra primeiro informa a ordem dos acontecimentos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.tempo_e_calendario",
+    "bncc": [
+      "EF01MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O dia que vem logo após quinta-feira é:",
+    "opcoes": [
+      "Quarta-feira",
+      "Domingo",
+      "Sexta-feira"
+    ],
+    "correta": 2,
+    "explicacao": "A sequência semanal passa de quinta-feira para sexta-feira.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef01.grandezas_medidas_e_mais_numeros.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF01",
+    "unidade": "Grandezas, medidas e mais números",
+    "aulaId": "mat.ef01.grandezas_medidas_e_mais_numeros.datas_e_dias_da_semana",
+    "bncc": [
+      "EF01MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na escrita dia/mês/ano, 15 de maio de 2026 pode ser registrado como:",
+    "opcoes": [
+      "2026/15/05",
+      "15/05/2026",
+      "05/15/2026"
+    ],
+    "correta": 1,
+    "explicacao": "O dia é 15, o mês de maio é 05 e o ano é 2026.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          283
+        ],
+        "paginasImpressas": "281",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

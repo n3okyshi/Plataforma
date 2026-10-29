@@ -1,0 +1,119 @@
+{
+  "id": "mat.ef01.numeros_ate_100.reta_numerica_ate_100",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 9,
+  "unidade": "Números até 100",
+  "titulo": "Reta Numérica até 100",
+  "bncc": [
+    "EF01MA05"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Localizar e comparar números de até dois algarismos na reta."
+    ],
+    "resumo": "Localizar e comparar números de até dois algarismos na reta.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Reta Numérica até 100</h2><h3>O que vamos aprender</h3><p>Localizar e comparar números de até dois algarismos na reta.</p><h3>Ideias e relações</h3><p>Na reta numérica, as marcas precisam representar passos de mesmo tamanho. Os números ficam em ordem: para a direita, aumentam. Uma reta pode mostrar de um em um ou de dez em dez; é preciso observar a escala. Podemos fazer só um trecho, como de 30 a 40, desde que os números e os passos estejam indicados. A reta ajuda a comparar, mas também podemos usar coleções e grupos de dez.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Reta de zero a dez com marcas igualmente espaçadas.\" style=\"max-width:100%;color:inherit\"><title>Reta de zero a dez com marcas igualmente espaçadas.</title><path d=\"M35 95H410\" stroke=\"currentColor\"/><path d=\"M45 88V102\" stroke=\"currentColor\"/><text x=\"45\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">0</text><path d=\"M80 88V102\" stroke=\"currentColor\"/><text x=\"80\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">1</text><path d=\"M115 88V102\" stroke=\"currentColor\"/><text x=\"115\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">2</text><path d=\"M150 88V102\" stroke=\"currentColor\"/><text x=\"150\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">3</text><path d=\"M185 88V102\" stroke=\"currentColor\"/><text x=\"185\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">4</text><path d=\"M220 88V102\" stroke=\"currentColor\"/><text x=\"220\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">5</text><path d=\"M255 88V102\" stroke=\"currentColor\"/><text x=\"255\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">6</text><path d=\"M290 88V102\" stroke=\"currentColor\"/><text x=\"290\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">7</text><path d=\"M325 88V102\" stroke=\"currentColor\"/><text x=\"325\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">8</text><path d=\"M360 88V102\" stroke=\"currentColor\"/><text x=\"360\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">9</text><path d=\"M395 88V102\" stroke=\"currentColor\"/><text x=\"395\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"16\">10</text><text x=\"30\" y=\"205\" fill=\"currentColor\" font-size=\"17\">Os números aumentam para a direita.</text></svg><h3>Exemplo resolvido</h3><p>Em uma reta de 30 a 40 com passos de um, 36 fica depois de 35 e antes de 37. Como 38 fica à direita de 36, 38 é maior.</p><h3>Atenção ao raciocínio</h3><p>Não trate um salto de dez como se fosse um salto de uma unidade.</p><h3>Investigue e produza</h3><p>Desenhe uma reta de 40 a 50, com passos de um. Marque 42, 45 e 49, compare dois deles e explique usando a posição das marcas.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "reta_numerica",
+      "ordenacao"
+    ],
+    "errosComuns": [
+      "Não trate um salto de dez como se fosse um salto de uma unidade."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "reta_numerica_ate_100.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Num trecho da reta com passos de um, entre 35 e 37 fica:",
+      "alternativas": [
+        "36",
+        "34",
+        "38"
+      ],
+      "correta": 0,
+      "explicacao": "A ordem é 35, 36, 37."
+    },
+    {
+      "id": "reta_numerica_ate_100.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe uma reta de 40 a 50, com passos de um. Marque 42, 45 e 49, compare dois deles e explique usando a posição das marcas.",
+      "gabarito": "As marcas devem ter intervalos iguais e valores corretos. 42 < 45 < 49. Aceitar comparação oral com apoio da reta.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "As marcas devem ter intervalos iguais e valores corretos. 42 < 45 < 49. Aceitar comparação oral com apoio da reta.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "reta_numerica",
+    "ordenacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14
+      ],
+      "paginasImpressas": "17",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.numeros_ate_100.numeros_ate_100_e_dezenas_exatas"
+  ],
+  "proximosPassos": [
+    "mat.ef01.numeros_ate_100.composicao_e_decomposicao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

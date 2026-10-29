@@ -1,0 +1,117 @@
+{
+  "id": "mat.ef01.figuras_geometricas.contornos_e_faces",
+  "componente": "mat",
+  "nivel": "EF01",
+  "ordem": 18,
+  "unidade": "Figuras Geométricas",
+  "titulo": "Contornos e Faces",
+  "bncc": [
+    "EF01MA14"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Reconhecer figuras planas em contornos e em diferentes posições."
+    ],
+    "resumo": "Reconhecer figuras planas em contornos e em diferentes posições.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Contornos e Faces</h2><h3>O que vamos aprender</h3><p>Reconhecer figuras planas em contornos e em diferentes posições.</p><h3>Ideias e relações</h3><p>Podemos apoiar uma face plana de um objeto no papel e contornar com lápis. Uma base circular deixa um círculo; uma face quadrada deixa um quadrado. O contorno é uma linha que limita a figura desenhada. Para nomear, observe as características: o triângulo tem três lados retos; o quadrado tem quatro lados iguais e quatro cantos retos; o retângulo tem quatro cantos retos. Girar o desenho não transforma um quadrado em outra figura.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Quatro figuras planas: círculo, quadrado, retângulo e triângulo, identificadas por escrito.\" style=\"max-width:100%;color:inherit\"><title>Quatro figuras planas: círculo, quadrado, retângulo e triângulo, identificadas por escrito.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\"><circle cx=\"55\" cy=\"100\" r=\"30\"/><rect x=\"125\" y=\"70\" width=\"60\" height=\"60\"/><rect x=\"220\" y=\"80\" width=\"90\" height=\"45\"/><path d=\"M345 130 380 65 415 130Z\"/></g><g fill=\"currentColor\" font-size=\"13\"><text x=\"30\" y=\"170\">Círculo</text><text x=\"125\" y=\"170\">Quadrado</text><text x=\"225\" y=\"170\">Retângulo</text><text x=\"345\" y=\"170\">Triângulo</text></g></svg><h3>Exemplo resolvido</h3><p>A base de uma lata pode ser usada para traçar um círculo. Uma face quadrada de uma caixa pode ser contornada e depois girada no papel: continua sendo um quadrado.</p><h3>Atenção ao raciocínio</h3><p>Não chame todo desenho inclinado de losango sem observar suas características.</p><h3>Investigue e produza</h3><p>Contorne faces planas de objetos disponíveis. Procure círculo, quadrado e retângulo; desenhe também triângulos em duas posições. Diga os nomes e explique como reconheceu.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "figuras_planas",
+      "faces"
+    ],
+    "errosComuns": [
+      "Não chame todo desenho inclinado de losango sem observar suas características."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "contornos_e_faces.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma figura com três lados retos é um:",
+      "alternativas": [
+        "Triângulo",
+        "Círculo",
+        "Quadrado"
+      ],
+      "correta": 0,
+      "explicacao": "Três lados retos fechando a figura formam um triângulo."
+    },
+    {
+      "id": "contornos_e_faces.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Contorne faces planas de objetos disponíveis. Procure círculo, quadrado e retângulo; desenhe também triângulos em duas posições. Diga os nomes e explique como reconheceu.",
+      "gabarito": "Conferir contornos e nomeação em diferentes orientações. Não exigir que toda coleção tenha todos os modelos; completar por desenho quando faltar um objeto adequado.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir contornos e nomeação em diferentes orientações. Não exigir que toda coleção tenha todos os modelos; completar por desenho quando faltar um objeto adequado.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_planas",
+    "faces"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        281
+      ],
+      "paginasImpressas": "279",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef01.figuras_geometricas.figuras_espaciais_do_cotidiano"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}
