@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef02.grandezas_e_suas_medidas.equivalencia_entre_moedas_e_cedulas",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 23,
+  "unidade": "Grandezas e suas medidas",
+  "titulo": "Equivalência entre Moedas e Cédulas",
+  "bncc": [
+    "EF02MA20"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Construir pagamentos e trocas equivalentes em situações de compra."
+    ],
+    "resumo": "Construir pagamentos e trocas equivalentes em situações de compra.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Equivalência entre Moedas e Cédulas</h2><h3>O que vamos aprender</h3><p>Construir pagamentos e trocas equivalentes em situações de compra.</p><h3>Ideias e relações</h3><p>Pagamentos iguais podem usar combinações diferentes de moedas e cédulas. O valor total depende do valor de cada peça, não de sua quantidade. Um real corresponde a cem centavos, e duas moedas de cinquenta centavos equivalem a um real. Para uma compra de brincadeira, podemos usar cartões com valores claramente escritos. Se o pagamento superar o preço, o valor que volta deve completar, com o preço, o total pago.</p><h3>Exemplo resolvido</h3><p>Um preço fictício de R$ 12 pode ser pago com R$ 10 e R$ 2, ou R$ 5, R$ 5 e R$ 2. Se pagarmos R$ 20, devem voltar R$ 8, pois 12+8=20.</p><h3>Atenção ao raciocínio</h3><p>Ter mais moedas não significa necessariamente possuir maior valor.</p><h3>Investigue e produza</h3><p>Observe valores de moedas e cédulas do real com um adulto e represente-os por cartões. Faça duas combinações para R$ 15. Depois monte R$ 3 com moedas de R$ 1 e de cinquenta centavos e simule uma compra com troco.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "sistema_monetario",
+      "equivalencia"
+    ],
+    "errosComuns": [
+      "Ter mais moedas não significa necessariamente possuir maior valor."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "equivalencia_entre_moedas_e_cedulas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um preço de brincadeira é R$ 12 e o pagamento é R$ 20. Devem voltar:",
+      "alternativas": [
+        "R$ 32",
+        "R$ 8",
+        "R$ 12"
+      ],
+      "correta": 1,
+      "explicacao": "Vinte menos doze são oito; doze e oito recompõem vinte."
+    },
+    {
+      "id": "equivalencia_entre_moedas_e_cedulas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Observe valores de moedas e cédulas do real com um adulto e represente-os por cartões. Faça duas combinações para R$ 15. Depois monte R$ 3 com moedas de R$ 1 e de cinquenta centavos e simule uma compra com troco.",
+      "gabarito": "Exemplos para quinze: 10+5 e 5+5+5. Para três reais, três moedas de um real ou seis de cinquenta centavos, entre outras combinações. A compra criada precisa ter troco que reconstrua o pagamento.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Exemplos para quinze: 10+5 e 5+5+5. Para três reais, três moedas de um real ou seis de cinquenta centavos, entre outras combinações. A compra criada precisa ter troco que reconstrua o pagamento.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sistema_monetario",
+    "equivalencia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        287
+      ],
+      "paginasImpressas": "285",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.grandezas_e_suas_medidas.relogio_digital_e_duracao"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

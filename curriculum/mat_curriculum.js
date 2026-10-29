@@ -154,53 +154,178 @@ registrarCurriculo("Matemática", {
     "Números até 199": [
       {
         "id": "mat.ef02.numeros_ate_199.centenas_dezenas_e_unidades",
-        "titulo": "Centenas, Dezenas e Unidades"
+        "titulo": "Centenas, Dezenas e Unidades",
+        "complementar": false
       },
       {
         "id": "mat.ef02.numeros_ate_199.estimativa_e_comparacao",
-        "titulo": "Estimativa e Comparação"
-      }
-    ],
-    "Sólidos Geométricos": [
-      {
-        "id": "mat.ef02.solidos_geometricos.solidos_geometricos_e_suas_caracteristicas",
-        "titulo": "Sólidos Geométricos e suas Características"
-      }
-    ],
-    "Regiões Planas e seus Contornos": [
-      {
-        "id": "mat.ef02.regioes_planas_e_seus_contornos.figuras_planas",
-        "titulo": "Figuras Planas"
-      }
-    ],
-    "Adição": [
-      {
-        "id": "mat.ef02.adicao.algoritmos_da_adicao",
-        "titulo": "Algoritmos da Adição"
-      }
-    ],
-    "Subtração": [
-      {
-        "id": "mat.ef02.subtracao.algoritmos_da_subtracao",
-        "titulo": "Algoritmos da Subtração"
+        "titulo": "Estimativa e Comparação",
+        "complementar": false
       }
     ],
     "Números até 1000": [
       {
         "id": "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000",
-        "titulo": "Sistema de Numeração Decimal (até 1000)"
+        "titulo": "Sistema de Numeração Decimal (até 1000)",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.numeros_ate_1000.comparacao_e_ordenacao_ate_1000",
+        "titulo": "Comparação e Ordenação até 1000",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.numeros_ate_1000.fatos_basicos_da_adicao_e_subtracao",
+        "titulo": "Fatos Básicos da Adição e Subtração",
+        "complementar": false
+      }
+    ],
+    "Adição": [
+      {
+        "id": "mat.ef02.adicao.algoritmos_da_adicao",
+        "titulo": "Algoritmos da Adição",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.adicao.problemas_de_adicao",
+        "titulo": "Problemas de Adição",
+        "complementar": false
+      }
+    ],
+    "Subtração": [
+      {
+        "id": "mat.ef02.subtracao.algoritmos_da_subtracao",
+        "titulo": "Algoritmos da Subtração",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.subtracao.problemas_de_subtracao",
+        "titulo": "Problemas de Subtração",
+        "complementar": false
       }
     ],
     "Multiplicação": [
       {
         "id": "mat.ef02.multiplicacao.introducao_a_multiplicacao",
-        "titulo": "Introdução à Multiplicação"
+        "titulo": "Introdução à Multiplicação",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.multiplicacao.adicao_de_parcelas_iguais",
+        "titulo": "Adição de Parcelas Iguais",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.multiplicacao.dobro_metade_triplo_e_terca_parte",
+        "titulo": "Dobro, Metade, Triplo e Terça Parte",
+        "complementar": false
+      }
+    ],
+    "Regiões Planas e seus Contornos": [
+      {
+        "id": "mat.ef02.regioes_planas_e_seus_contornos.figuras_planas",
+        "titulo": "Figuras Planas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.regioes_planas_e_seus_contornos.comparacao_de_figuras_planas",
+        "titulo": "Comparação de Figuras Planas",
+        "complementar": false
+      }
+    ],
+    "Sólidos Geométricos": [
+      {
+        "id": "mat.ef02.solidos_geometricos.solidos_geometricos_e_suas_caracteristicas",
+        "titulo": "Sólidos Geométricos e suas Características",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.solidos_geometricos.figuras_espaciais_do_cotidiano",
+        "titulo": "Figuras Espaciais do Cotidiano",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.solidos_geometricos.planificacoes_simples",
+        "titulo": "Planificações Simples",
+        "complementar": true
       }
     ],
     "Grandezas e suas medidas": [
       {
         "id": "mat.ef02.grandezas_e_suas_medidas.medidas_padronizadas",
-        "titulo": "Medidas Padronizadas"
+        "titulo": "Medidas Padronizadas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.grandezas_e_suas_medidas.medindo_comprimentos",
+        "titulo": "Medindo Comprimentos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.grandezas_e_suas_medidas.massa_e_capacidade",
+        "titulo": "Massa e Capacidade",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.grandezas_e_suas_medidas.intervalos_de_tempo",
+        "titulo": "Intervalos de Tempo",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.grandezas_e_suas_medidas.relogio_digital_e_duracao",
+        "titulo": "Relógio Digital e Duração",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.grandezas_e_suas_medidas.equivalencia_entre_moedas_e_cedulas",
+        "titulo": "Equivalência entre Moedas e Cédulas",
+        "complementar": false
+      }
+    ],
+    "Localização e Deslocamento": [
+      {
+        "id": "mat.ef02.localizacao_e_deslocamento.localizacao_com_pontos_de_referencia",
+        "titulo": "Localização com Pontos de Referência",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.localizacao_e_deslocamento.roteiros_e_plantas_simples",
+        "titulo": "Roteiros e Plantas Simples",
+        "complementar": false
+      }
+    ],
+    "Probabilidade e Estatística": [
+      {
+        "id": "mat.ef02.probabilidade_e_estatistica.eventos_provaveis_e_improvaveis",
+        "titulo": "Eventos Pouco ou Muito Prováveis",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+        "titulo": "Tabelas de Dupla Entrada",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.probabilidade_e_estatistica.pesquisa_na_escola",
+        "titulo": "Pesquisa na Escola",
+        "complementar": false
+      }
+    ],
+    "Padrões e Sequências": [
+      {
+        "id": "mat.ef02.padroes_e_sequencias.sequencias_crescentes_e_decrescentes",
+        "titulo": "Sequências Crescentes e Decrescentes",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.padroes_e_sequencias.sequencias_repetitivas_e_recursivas",
+        "titulo": "Sequências Repetitivas e Recursivas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef02.padroes_e_sequencias.elementos_ausentes_em_sequencias",
+        "titulo": "Elementos Ausentes em Sequências",
+        "complementar": false
       }
     ]
   },

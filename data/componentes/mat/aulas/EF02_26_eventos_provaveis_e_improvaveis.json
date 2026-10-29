@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef02.probabilidade_e_estatistica.eventos_provaveis_e_improvaveis",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 26,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Eventos Pouco ou Muito Prováveis",
+  "bncc": [
+    "EF02MA21"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Comparar possibilidades de resultados em situações de acaso."
+    ],
+    "resumo": "Comparar possibilidades de resultados em situações de acaso.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Eventos Pouco ou Muito Prováveis</h2><h3>O que vamos aprender</h3><p>Comparar possibilidades de resultados em situações de acaso.</p><h3>Ideias e relações</h3><p>Para dizer se algo é muito ou pouco provável, precisamos conhecer as condições. Numa sacola com nove peças azuis e uma amarela, todas semelhantes fora da cor e bem misturadas, numa retirada sem olhar, sair azul é muito provável e sair amarela é pouco provável. Sair verde é impossível porque não há verde. “Improvável” pode indicar pouca chance, mas não é o mesmo que impossível. Um resultado de pouca chance ainda pode acontecer num sorteio.</p><h3>Exemplo resolvido</h3><p>Na sacola do exemplo, há mais possibilidades de retirar azul. Mesmo assim, a única amarela pode sair. O resultado de uma retirada não muda as cores existentes se a peça for devolvida.</p><h3>Atenção ao raciocínio</h3><p>Muito provável não quer dizer certo, e improvável não quer dizer impossível.</p><h3>Investigue e produza</h3><p>Monte uma sacola com quantidades diferentes de duas cores. Diga um resultado muito provável, um pouco provável ou improvável e um impossível. Faça retiradas sem olhar, com devolução e relate se apareceu algum resultado de pouca chance.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "probabilidade",
+      "acaso"
+    ],
+    "errosComuns": [
+      "Muito provável não quer dizer certo, e improvável não quer dizer impossível."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "eventos_provaveis_e_improvaveis.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Numa sacola com nove azuis e uma amarela, sair amarela é:",
+      "alternativas": [
+        "Certo",
+        "Pouco provável, mas possível",
+        "Impossível"
+      ],
+      "correta": 1,
+      "explicacao": "Existe uma amarela, mas há bem mais peças azuis."
+    },
+    {
+      "id": "eventos_provaveis_e_improvaveis.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Monte uma sacola com quantidades diferentes de duas cores. Diga um resultado muito provável, um pouco provável ou improvável e um impossível. Faça retiradas sem olhar, com devolução e relate se apareceu algum resultado de pouca chance.",
+      "gabarito": "Conferir a composição real, igualdade das condições de retirada e as justificativas. Aceitar que um resultado pouco provável apareça; não exigir frequência numérica igual à proporção teórica.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir a composição real, igualdade das condições de retirada e as justificativas. Aceitar que um resultado pouco provável apareça; não exigir frequência numérica igual à proporção teórica.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "probabilidade",
+    "acaso"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        287
+      ],
+      "paginasImpressas": "285",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef02.probabilidade_e_estatistica.tabelas_de_dupla_entrada"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

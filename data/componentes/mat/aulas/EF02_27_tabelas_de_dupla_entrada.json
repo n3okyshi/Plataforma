@@ -1,0 +1,111 @@
+{
+  "id": "mat.ef02.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 27,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Tabelas de Dupla Entrada",
+  "bncc": [
+    "EF02MA22"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Comparar informações em tabela de dupla entrada e gráfico de barras."
+    ],
+    "resumo": "Comparar informações em tabela de dupla entrada e gráfico de barras.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Tabelas de Dupla Entrada</h2><h3>O que vamos aprender</h3><p>Comparar informações em tabela de dupla entrada e gráfico de barras.</p><h3>Ideias e relações</h3><p>Uma tabela de dupla entrada combina informações das linhas e das colunas. Para ler uma célula, identifique o grupo da linha e a categoria da coluna. No exemplo, os dados são fictícios. O gráfico de barras mostra somente o grupo A, e não o total dos dois grupos. Observe título, escala e rótulos antes de comparar. Uma diferença entre grupos descreve os dados apresentados, sem explicar sozinha por que as escolhas foram diferentes.</p><table><caption>Brincadeiras escolhidas em dois grupos — dados fictícios</caption><thead><tr><th>Grupo</th><th>Bola</th><th>Desenho</th></tr></thead><tbody><tr><td>A</td><td>6</td><td>4</td></tr><tr><td>B</td><td>3</td><td>7</td></tr></tbody></table><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Gráfico de barras com as escolhas do grupo A: bola seis votos e desenho quatro votos. Dados fictícios; escala de um voto por passo, iniciada em zero.\" style=\"max-width:100%;color:inherit\"><title>Gráfico de barras com as escolhas do grupo A: bola seis votos e desenho quatro votos. Dados fictícios; escala de um voto por passo, iniciada em zero.</title><g fill=\"none\" stroke=\"currentColor\"><path d=\"M110 45V175H380\"/><path d=\"M110 172V180\"/><text x=\"105\" y=\"200\" fill=\"currentColor\" stroke=\"none\" font-size=\"14\">0</text><path d=\"M145 172V180\"/><text x=\"140\" y=\"200\" fill=\"currentColor\" stroke=\"none\" font-size=\"14\">1</text><path d=\"M180 172V180\"/><text x=\"175\" y=\"200\" fill=\"currentColor\" stroke=\"none\" font-size=\"14\">2</text><path d=\"M215 172V180\"/><text x=\"210\" y=\"200\" fill=\"currentColor\" stroke=\"none\" font-size=\"14\">3</text><path d=\"M250 172V180\"/><text x=\"245\" y=\"200\" fill=\"currentColor\" stroke=\"none\" font-size=\"14\">4</text><path d=\"M285 172V180\"/><text x=\"280\" y=\"200\" fill=\"currentColor\" stroke=\"none\" font-size=\"14\">5</text><path d=\"M320 172V180\"/><text x=\"315\" y=\"200\" fill=\"currentColor\" stroke=\"none\" font-size=\"14\">6</text><path d=\"M355 172V180\"/><text x=\"350\" y=\"200\" fill=\"currentColor\" stroke=\"none\" font-size=\"14\">7</text></g><g fill=\"#2563eb\"><rect x=\"110\" y=\"65\" width=\"210\" height=\"30\"/><rect x=\"110\" y=\"125\" width=\"140\" height=\"30\"/></g><g fill=\"currentColor\" font-size=\"14\"><text x=\"35\" y=\"86\">Bola</text><text x=\"25\" y=\"146\">Desenho</text><text x=\"290\" y=\"224\">Votos</text><text x=\"15\" y=\"245\">Fonte: exemplo autoral fictício, 29/10/2026.</text></g></svg><h3>Exemplo resolvido</h3><p>Na tabela, bola tem seis escolhas no grupo A e três no B. Desenho tem quatro no A e sete no B. O gráfico confirma seis e quatro no grupo A; cada passo representa um voto.</p><h3>Atenção ao raciocínio</h3><p>Não use uma barra do grupo A como se representasse a escola inteira.</p><h3>Investigue e produza</h3><p>Compare bola nos dois grupos e identifique a preferência maior em cada grupo. Refaça o gráfico para o grupo B, com escala, rótulos e indicação de dados fictícios.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "tabelas",
+      "graficos"
+    ],
+    "errosComuns": [
+      "Não use uma barra do grupo A como se representasse a escola inteira."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "tabelas_de_dupla_entrada.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na tabela apresentada, quantas escolhas de desenho há no grupo B?",
+      "alternativas": [
+        "7",
+        "4",
+        "3"
+      ],
+      "correta": 0,
+      "explicacao": "A célula da linha B e coluna Desenho contém sete."
+    },
+    {
+      "id": "tabelas_de_dupla_entrada.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare bola nos dois grupos e identifique a preferência maior em cada grupo. Refaça o gráfico para o grupo B, com escala, rótulos e indicação de dados fictícios.",
+      "gabarito": "Bola: A tem três votos a mais que B. No A, bola supera desenho; no B, desenho supera bola. O gráfico de B deve representar três e sete, mantendo escala coerente e identificação.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Bola: A tem três votos a mais que B. No A, bola supera desenho; no B, desenho supera bola. O gráfico de B deve representar três e sete, mantendo escala coerente e identificação.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "tabelas",
+    "graficos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        287
+      ],
+      "paginasImpressas": "285",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.probabilidade_e_estatistica.eventos_provaveis_e_improvaveis"
+  ],
+  "proximosPassos": [
+    "mat.ef02.probabilidade_e_estatistica.pesquisa_na_escola"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

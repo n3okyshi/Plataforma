@@ -1,0 +1,111 @@
+{
+  "id": "mat.ef02.padroes_e_sequencias.sequencias_repetitivas_e_recursivas",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 30,
+  "unidade": "Padrões e Sequências",
+  "titulo": "Sequências Repetitivas e Recursivas",
+  "bncc": [
+    "EF02MA10"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Descrever padrões repetitivos e regras baseadas no termo anterior."
+    ],
+    "resumo": "Descrever padrões repetitivos e regras baseadas no termo anterior.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Sequências Repetitivas e Recursivas</h2><h3>O que vamos aprender</h3><p>Descrever padrões repetitivos e regras baseadas no termo anterior.</p><h3>Ideias e relações</h3><p>Uma sequência repetitiva retoma um bloco, como círculo, círculo, quadrado. Para continuar, mantenha a ordem dos elementos desse bloco. Uma sequência recursiva pode usar o termo anterior para produzir o seguinte, como começar em três e acrescentar quatro: 3,7,11,15. Descreva a regra por palavras, desenhos ou símbolos. Poucos termos podem admitir regras diferentes; informe a que você escolheu e confira se os exemplos a respeitam.</p><h3>Exemplo resolvido</h3><p>No padrão círculo, círculo, quadrado, círculo, círculo, quadrado, o bloco tem três figuras. Já em 3,7,11,15, a regra numérica é acrescentar quatro ao anterior.</p><h3>Atenção ao raciocínio</h3><p>Observar só duas figuras pode esconder um bloco repetido maior.</p><h3>Investigue e produza</h3><p>Crie um padrão que repita um bloco de três figuras e uma sequência numérica recursiva. Descreva cada regra para que alguém consiga continuar sem adivinhar.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "padroes",
+      "sequencias"
+    ],
+    "errosComuns": [
+      "Observar só duas figuras pode esconder um bloco repetido maior."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sequencias_repetitivas_e_recursivas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A regra para 3,7,11,15 é acrescentar, a cada passo:",
+      "alternativas": [
+        "4",
+        "3",
+        "7"
+      ],
+      "correta": 0,
+      "explicacao": "As diferenças entre termos consecutivos são quatro."
+    },
+    {
+      "id": "sequencias_repetitivas_e_recursivas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Crie um padrão que repita um bloco de três figuras e uma sequência numérica recursiva. Descreva cada regra para que alguém consiga continuar sem adivinhar.",
+      "gabarito": "Conferir a repetição completa do bloco e a aplicação da regra numérica ao termo anterior. Aceitar palavras, símbolos e desenhos como registros da regularidade.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir a repetição completa do bloco e a aplicação da regra numérica ao termo anterior. Aceitar palavras, símbolos e desenhos como registros da regularidade.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "padroes",
+    "sequencias"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.padroes_e_sequencias.sequencias_crescentes_e_decrescentes"
+  ],
+  "proximosPassos": [
+    "mat.ef02.padroes_e_sequencias.elementos_ausentes_em_sequencias"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

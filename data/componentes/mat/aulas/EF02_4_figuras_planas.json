@@ -2,36 +2,116 @@
   "id": "mat.ef02.regioes_planas_e_seus_contornos.figuras_planas",
   "componente": "mat",
   "nivel": "EF02",
-  "ordem": 4,
+  "ordem": 13,
   "unidade": "Regiões Planas e seus Contornos",
   "titulo": "Figuras Planas",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF02MA15"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Reconhecer e nomear figuras planas em diferentes posições."
+    ],
+    "resumo": "Reconhecer e nomear figuras planas em diferentes posições.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Figuras Planas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Quadrados, retângulos, triângulos e círculos. Diferença entre a linha de fora (contorno) e a parte de dentro (interior).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🖼️ Moldura e Quadro:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O contorno é como a moldura. O interior é onde pintamos o desenho.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Figuras Planas</h2><h3>O que vamos aprender</h3><p>Reconhecer e nomear figuras planas em diferentes posições.</p><h3>Ideias e relações</h3><p>Podemos reconhecer círculo, quadrado, retângulo e triângulo observando suas características. Triângulos têm três lados retos. Quadrados têm quatro lados iguais e quatro cantos retos. Retângulos têm quatro cantos retos; alguns deles também têm os quatro lados iguais e são quadrados. O círculo tem contorno curvo, sem lados retos. Girar uma figura não altera suas características. As formas planas também aparecem nos contornos de faces de objetos.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Quadrado girado, retângulo e triângulo, com lados destacados pelo contorno.\" style=\"max-width:100%;color:inherit\"><title>Quadrado girado, retângulo e triângulo, com lados destacados pelo contorno.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\"><path d=\"M80 45 130 95 80 145 30 95Z\"/><rect x=\"175\" y=\"65\" width=\"100\" height=\"60\"/><path d=\"M320 140 375 45 420 140Z\"/></g><g fill=\"currentColor\" font-size=\"15\"><text x=\"35\" y=\"190\">Quadrado</text><text x=\"180\" y=\"190\">Retângulo</text><text x=\"325\" y=\"190\">Triângulo</text></g></svg><h3>Exemplo resolvido</h3><p>O quadrado da ilustração foi girado. Continua tendo quatro lados iguais e cantos retos, portanto continua sendo quadrado.</p><h3>Atenção ao raciocínio</h3><p>A posição do desenho não basta para dar nome à figura.</p><h3>Investigue e produza</h3><p>Desenhe círculo, quadrado, retângulo e triângulo. Gire a folha e nomeie novamente. Procure contornos dessas formas em objetos e explique como reconheceu.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "figuras_planas",
+      "contorno"
+    ],
+    "errosComuns": [
+      "A posição do desenho não basta para dar nome à figura."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "figuras_planas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um quadrado desenhado com uma ponta para cima, sem deformação, continua sendo:",
+      "alternativas": [
+        "Círculo",
+        "Triângulo",
+        "Quadrado"
+      ],
+      "correta": 2,
+      "explicacao": "A rotação conserva os lados e os cantos retos."
+    },
+    {
+      "id": "figuras_planas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe círculo, quadrado, retângulo e triângulo. Gire a folha e nomeie novamente. Procure contornos dessas formas em objetos e explique como reconheceu.",
+      "gabarito": "Conferir características e reconhecimento em orientações variadas, distinguindo a figura plana do objeto inteiro. Aceitar apontamento e explicação oral.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir características e reconhecimento em orientações variadas, distinguindo a figura plana do objeto inteiro. Aceitar apontamento e explicação oral.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_planas",
+    "contorno"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef02.regioes_planas_e_seus_contornos.comparacao_de_figuras_planas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

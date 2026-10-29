@@ -1,0 +1,111 @@
+{
+  "id": "mat.ef02.grandezas_e_suas_medidas.intervalos_de_tempo",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 21,
+  "unidade": "Grandezas e suas medidas",
+  "titulo": "Intervalos de Tempo",
+  "bncc": [
+    "EF02MA18"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Contar dias entre datas e usar meses e calendário no planejamento."
+    ],
+    "resumo": "Contar dias entre datas e usar meses e calendário no planejamento.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Intervalos de Tempo</h2><h3>O que vamos aprender</h3><p>Contar dias entre datas e usar meses e calendário no planejamento.</p><h3>Ideias e relações</h3><p>Para saber quantos dias decorrem entre duas datas, conte as passagens de um dia para o seguinte. Combine se a pergunta pede dias decorridos ou se deseja incluir os dois dias como datas de atividades. Calendários mostram dias da semana, meses e anos; os meses não têm todos a mesma quantidade de dias. Quando o intervalo passa de um mês ao seguinte, consulte as duas páginas do calendário. Não é preciso supor que todo mês tem trinta dias.</p><table><caption>Junho de 2026</caption><thead><tr><th>Dom</th><th>Seg</th><th>Ter</th><th>Qua</th><th>Qui</th><th>Sex</th><th>Sáb</th></tr></thead><tbody><tr><td>—</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td></tr><tr><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td></tr><tr><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td></tr><tr><td>28</td><td>29</td><td>30</td><td>—</td><td>—</td><td>—</td><td>—</td></tr></tbody></table><h3>Exemplo resolvido</h3><p>De 8 a 12 de junho de 2026 decorrem quatro dias: 8→9, 9→10, 10→11 e 11→12. Se houver uma atividade em cada data de 8 a 12, incluindo as extremidades, serão cinco datas de atividade.</p><h3>Atenção ao raciocínio</h3><p>Número de dias decorridos e número de datas incluídas podem ser diferentes.</p><h3>Investigue e produza</h3><p>No calendário, marque 3 e 10 de junho de 2026. Indique os dias da semana e quantos dias decorrem. Depois planeje uma atividade que passe de um mês ao seguinte, consultando ambos os meses.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "tempo",
+      "calendario"
+    ],
+    "errosComuns": [
+      "Número de dias decorridos e número de datas incluídas podem ser diferentes."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "intervalos_de_tempo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "De 8 a 12 de junho, quantos dias decorrem?",
+      "alternativas": [
+        "4",
+        "5",
+        "12"
+      ],
+      "correta": 0,
+      "explicacao": "São quatro mudanças de um dia para o seguinte."
+    },
+    {
+      "id": "intervalos_de_tempo.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "No calendário, marque 3 e 10 de junho de 2026. Indique os dias da semana e quantos dias decorrem. Depois planeje uma atividade que passe de um mês ao seguinte, consultando ambos os meses.",
+      "gabarito": "3 e 10 de junho de 2026 são quartas-feiras; decorrem sete dias. Na escolha livre, conferir os calendários reais, os limites do intervalo e a convenção de contagem.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "3 e 10 de junho de 2026 são quartas-feiras; decorrem sete dias. Na escolha livre, conferir os calendários reais, os limites do intervalo e a convenção de contagem.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "tempo",
+    "calendario"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        287
+      ],
+      "paginasImpressas": "285",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.grandezas_e_suas_medidas.massa_e_capacidade"
+  ],
+  "proximosPassos": [
+    "mat.ef02.grandezas_e_suas_medidas.relogio_digital_e_duracao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

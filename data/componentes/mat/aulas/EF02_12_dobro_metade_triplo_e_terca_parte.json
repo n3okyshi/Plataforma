@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef02.multiplicacao.dobro_metade_triplo_e_terca_parte",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 12,
+  "unidade": "Multiplicação",
+  "titulo": "Dobro, Metade, Triplo e Terça Parte",
+  "bncc": [
+    "EF02MA08"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Construir dobro, triplo, metade e terça parte com peças."
+    ],
+    "resumo": "Construir dobro, triplo, metade e terça parte com peças.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Dobro, Metade, Triplo e Terça Parte</h2><h3>O que vamos aprender</h3><p>Construir dobro, triplo, metade e terça parte com peças.</p><h3>Ideias e relações</h3><p>O dobro reúne duas quantidades iguais à inicial; o triplo reúne três. Para encontrar a metade de uma coleção, repartimos em dois grupos iguais; para a terça parte, em três grupos iguais. Nesta atividade usamos quantidades de objetos que permitem a partilha inteira. Diga sempre qual é a quantidade de referência. Metade não significa retirar dois objetos: significa fazer duas partes iguais do todo.</p><h3>Exemplo resolvido</h3><p>O dobro de seis é doze e o triplo de seis é dezoito. A metade de doze é seis; a terça parte de dezoito também é seis, pois cada um dos três grupos recebe seis.</p><h3>Atenção ao raciocínio</h3><p>Na partilha, todos os grupos precisam receber a mesma quantidade e nenhuma peça deve desaparecer.</p><h3>Investigue e produza</h3><p>Use peças para mostrar dobro e triplo de quatro. Depois encontre metade de dezesseis e terça parte de quinze. Explique as montagens e confira juntando as partes.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "dobro",
+      "metade",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Na partilha, todos os grupos precisam receber a mesma quantidade e nenhuma peça deve desaparecer."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "dobro_metade_triplo_e_terca_parte.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A terça parte de 18 peças, repartidas em três grupos iguais, é:",
+      "alternativas": [
+        "6 peças",
+        "9 peças",
+        "3 peças"
+      ],
+      "correta": 0,
+      "explicacao": "Três grupos de seis recompõem as dezoito peças."
+    },
+    {
+      "id": "dobro_metade_triplo_e_terca_parte.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Use peças para mostrar dobro e triplo de quatro. Depois encontre metade de dezesseis e terça parte de quinze. Explique as montagens e confira juntando as partes.",
+      "gabarito": "Dobro oito; triplo doze; metade de dezesseis é oito; terça parte de quinze é cinco. Avaliar igualdade dos grupos, conservação do total e referência usada.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Dobro oito; triplo doze; metade de dezesseis é oito; terça parte de quinze é cinco. Avaliar igualdade dos grupos, conservação do total e referência usada.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "dobro",
+    "metade",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34,
+        35
+      ],
+      "paginasImpressas": "37, 38",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.multiplicacao.adicao_de_parcelas_iguais"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

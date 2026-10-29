@@ -1,0 +1,303 @@
+[
+  {
+    "id": "mat.ef02.subtracao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Subtração",
+    "aulaId": "mat.ef02.subtracao.algoritmos_da_subtracao",
+    "bncc": [
+      "EF02MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Quanto é 142 − 27?",
+    "opcoes": [
+      "125",
+      "169",
+      "115"
+    ],
+    "correta": 2,
+    "explicacao": "142−20=122 e 122−7=115; 115+27=142 confere.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          32
+        ],
+        "paginasImpressas": "35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.subtracao.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Subtração",
+    "aulaId": "mat.ef02.subtracao.problemas_de_subtracao",
+    "bncc": [
+      "EF02MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma caixa tem 320 fichas, 145 azuis e as demais amarelas. Quantas são amarelas?",
+    "opcoes": [
+      "465",
+      "175",
+      "185"
+    ],
+    "correta": 1,
+    "explicacao": "A parte que falta é 320−145=175.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          32
+        ],
+        "paginasImpressas": "35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.subtracao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Subtração",
+    "aulaId": "mat.ef02.subtracao.algoritmos_da_subtracao",
+    "bncc": [
+      "EF02MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Quanto é 153−28?",
+    "opcoes": [
+      "135",
+      "181",
+      "125"
+    ],
+    "correta": 2,
+    "explicacao": "153−20=133; menos oito são 125.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          32
+        ],
+        "paginasImpressas": "35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.subtracao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Subtração",
+    "aulaId": "mat.ef02.subtracao.problemas_de_subtracao",
+    "bncc": [
+      "EF02MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Há 410 fichas. Foram retiradas 165. Restaram:",
+    "opcoes": [
+      "575",
+      "245",
+      "255"
+    ],
+    "correta": 1,
+    "explicacao": "410−100−60−5=245; 245+165=410 confere.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          32
+        ],
+        "paginasImpressas": "35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.subtracao.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Subtração",
+    "aulaId": "mat.ef02.subtracao.algoritmos_da_subtracao",
+    "bncc": [
+      "EF02MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Trocar uma dezena por dez unidades numa conta:",
+    "opcoes": [
+      "Conserva o valor total",
+      "Acrescenta dez objetos ao total",
+      "Retira uma centena"
+    ],
+    "correta": 0,
+    "explicacao": "O reagrupamento altera a representação, sem alterar a quantidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          32
+        ],
+        "paginasImpressas": "35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.subtracao.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Subtração",
+    "aulaId": "mat.ef02.subtracao.problemas_de_subtracao",
+    "bncc": [
+      "EF02MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma coleção tem 203 peças, sendo 87 claras e as outras escuras. Há quantas escuras?",
+    "opcoes": [
+      "126",
+      "290",
+      "116"
+    ],
+    "correta": 2,
+    "explicacao": "A parte restante é 203−87=116.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          32
+        ],
+        "paginasImpressas": "35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.subtracao.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Subtração",
+    "aulaId": "mat.ef02.subtracao.algoritmos_da_subtracao",
+    "bncc": [
+      "EF02MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para conferir uma retirada de 36 de um total 164, cuja resposta foi 128, podemos calcular:",
+    "opcoes": [
+      "164+36=128",
+      "128+36=164",
+      "128−36=164"
+    ],
+    "correta": 1,
+    "explicacao": "Parte restante e parte retirada devem recompor o início.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          32
+        ],
+        "paginasImpressas": "35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

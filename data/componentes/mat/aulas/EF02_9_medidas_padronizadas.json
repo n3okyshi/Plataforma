@@ -2,36 +2,118 @@
   "id": "mat.ef02.grandezas_e_suas_medidas.medidas_padronizadas",
   "componente": "mat",
   "nivel": "EF02",
-  "ordem": 9,
+  "ordem": 18,
   "unidade": "Grandezas e suas medidas",
   "titulo": "Medidas Padronizadas",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF02MA16"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Escolher unidades e instrumentos para estimar e medir comprimentos."
+    ],
+    "resumo": "Escolher unidades e instrumentos para estimar e medir comprimentos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Usando a Régua</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Começamos a usar unidades de verdade: Centímetros (cm) e Metros (m) para tamanho; Quilo (kg) para peso; Litro (L) para líquidos.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Do Zero:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Para medir certo com a régua, temos que começar colocando o objeto no tracinho do <strong>Zero</strong>, não no começo da régua!</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Medidas Padronizadas</h2><h3>O que vamos aprender</h3><p>Escolher unidades e instrumentos para estimar e medir comprimentos.</p><h3>Ideias e relações</h3><p>Uma medida compara um comprimento com uma unidade. Passos e palmos podem variar entre pessoas; metro, centímetro e milímetro permitem comunicar uma referência padronizada. Uma régua ajuda em objetos pequenos e uma fita métrica em comprimentos maiores. Um metro tem cem centímetros, e um centímetro tem dez milímetros. Alinhe o início do objeto com o zero do instrumento e leia a marca final, mantendo a unidade no registro.</p><h3>Exemplo resolvido</h3><p>Uma tira começa no zero da régua e termina em oito centímetros. Sua medida é 8 cm. Se começar na marca 2 e terminar na 10, ela também mede 8 cm: a diferença entre as marcas é oito.</p><h3>Atenção ao raciocínio</h3><p>A ponta física da régua pode não coincidir com a marca zero.</p><h3>Investigue e produza</h3><p>Estime o comprimento de um lápis, depois meça com régua em centímetros e observe os milímetros. Compare com uma medida em clipes iguais. Registre instrumentos, unidades e diferença entre estimativa e medição.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "medidas",
+      "unidades_de_medida"
+    ],
+    "errosComuns": [
+      "A ponta física da régua pode não coincidir com a marca zero."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "medidas_padronizadas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma tira vai da marca 2 cm à marca 10 cm. Seu comprimento é:",
+      "alternativas": [
+        "8 cm",
+        "10 cm",
+        "12 cm"
+      ],
+      "correta": 0,
+      "explicacao": "O intervalo entre as marcas é 10−2=8 cm."
+    },
+    {
+      "id": "medidas_padronizadas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Estime o comprimento de um lápis, depois meça com régua em centímetros e observe os milímetros. Compare com uma medida em clipes iguais. Registre instrumentos, unidades e diferença entre estimativa e medição.",
+      "gabarito": "Conferir os valores efetivamente medidos, alinhamento do zero e uso consistente das unidades. Unidades não padronizadas precisam ter tamanho constante e ser colocadas sem espaços ou sobreposição.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir os valores efetivamente medidos, alinhamento do zero e uso consistente das unidades. Unidades não padronizadas precisam ter tamanho constante e ser colocadas sem espaços ou sobreposição.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "medidas",
+    "unidades_de_medida"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        287
+      ],
+      "paginasImpressas": "285",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        110,
+        111
+      ],
+      "paginasImpressas": "112, 113, 114",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef02.grandezas_e_suas_medidas.medindo_comprimentos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

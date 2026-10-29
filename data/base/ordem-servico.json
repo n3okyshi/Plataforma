@@ -38,17 +38,13 @@
     },
     {
       "ordem": 8,
-      "trabalho": "Completar todas as unidades de Matemática do 6º ano em todas as camadas e realizar testes",
-      "estado": "conteudo_integral_para_testes"
-    },
-    {
-      "ordem": 9,
-      "trabalho": "Completar Matemática do 1º ao 9º ano",
+      "trabalho": "Completar todas as unidades de Matemática do 1º ao 9º ano em todas as camadas",
       "estado": "em_andamento",
       "subescopos": [
         {
           "niveis": [
             "EF01",
+            "EF02",
             "EF06",
             "EF07",
             "EF08",
@@ -58,12 +54,11 @@
           "pendencias": [
             "Aplicação em turma e homologação docente.",
             "Revisão visual e acessibilidade.",
-            "Persistência Firebase."
+            "Persistência Firebase e cache em ambiente real."
           ]
         },
         {
           "niveis": [
-            "EF02",
             "EF03",
             "EF04",
             "EF05"
@@ -73,51 +68,48 @@
       ]
     },
     {
-      "ordem": 10,
+      "ordem": 9,
       "trabalho": "Completar Matemática do 1º ao 3º ano do Ensino Médio em todas as camadas e realizar testes",
       "estado": "pendente"
     },
     {
-      "ordem": 11,
+      "ordem": 10,
       "trabalho": "Completar uma unidade de Língua Portuguesa do 6º ano em todas as camadas e realizar testes",
       "estado": "pendente"
     },
     {
+      "ordem": 11,
+      "trabalho": "Completar todas as unidades de Língua Portuguesa do 1º ao 9º ano em todas as camadas",
+      "estado": "pendente"
+    },
+    {
       "ordem": 12,
-      "trabalho": "Completar todas as unidades de Língua Portuguesa do 6º ano em todas as camadas e realizar testes",
-      "estado": "pendente"
-    },
-    {
-      "ordem": 13,
-      "trabalho": "Completar Língua Portuguesa do 1º ao 9º ano",
-      "estado": "pendente"
-    },
-    {
-      "ordem": 14,
       "trabalho": "Completar Língua Portuguesa do 1º ao 3º ano do Ensino Médio em todas as camadas e realizar testes",
       "estado": "pendente"
     },
     {
-      "ordem": 15,
+      "ordem": 13,
       "trabalho": "Completar uma unidade de Ciências da Natureza do 6º ano em todas as camadas e realizar testes",
       "estado": "pendente"
     },
     {
-      "ordem": 16,
-      "trabalho": "Completar todas as unidades de Ciências da Natureza do 6º ano em todas as camadas e realizar testes",
+      "ordem": 14,
+      "trabalho": "Completar todas as unidades de Ciências da Natureza do 1º ao 9º ano em todas as camadas",
       "estado": "pendente"
     },
     {
-      "ordem": 17,
-      "trabalho": "Completar Ciências da Natureza do 1º ao 9º ano",
-      "estado": "pendente"
-    },
-    {
-      "ordem": 18,
+      "ordem": 15,
       "trabalho": "Expandir por componente e etapa até finalizar todas as disciplinas das etapas correspondentes",
       "estado": "pendente"
     }
   ],
-  "marcoAtual": "Matemática EF01 e EF06–EF09 disponíveis para testes, com pendências registradas. A ampliação da ordem abrange EF01–EF05; próximo lote de autoria: EF02, seguido de EF03–EF05 antes do Ensino Médio.",
-  "regra": "Rascunhos recuperados e vínculos propostos não equivalem a conteúdos concluídos."
+  "marcoAtual": "Matemática EF01–EF02 e EF06–EF09 disponíveis para testes, com pendências registradas. Próximo lote de autoria: EF03, seguido de EF04–EF05 antes do Ensino Médio.",
+  "regra": "Rascunhos recuperados e vínculos propostos não equivalem a conteúdos concluídos.",
+  "criteriosDeConclusao": [
+    "Todas as camadas têm fonte rastreável e conteúdo efetivo.",
+    "Correspondência entre habilidade e tarefas exige revisão pedagógica, além da validação do código.",
+    "Provas e arenas respeitam seleção curricular e oferecem devolutiva.",
+    "Pendências impedem classificar o lote como concluído.",
+    "Educação Infantil exige experiência própria da etapa."
+  ]
 }

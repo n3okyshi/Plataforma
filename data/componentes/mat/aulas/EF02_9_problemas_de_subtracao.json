@@ -1,0 +1,117 @@
+{
+  "id": "mat.ef02.subtracao.problemas_de_subtracao",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 9,
+  "unidade": "Subtração",
+  "titulo": "Problemas de Subtração",
+  "bncc": [
+    "EF02MA06"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Resolver e elaborar histórias de separar e retirar, interpretando a resposta."
+    ],
+    "resumo": "Resolver e elaborar histórias de separar e retirar, interpretando a resposta.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Problemas de Subtração</h2><h3>O que vamos aprender</h3><p>Resolver e elaborar histórias de separar e retirar, interpretando a resposta.</p><h3>Ideias e relações</h3><p>Uma história de subtração pode perguntar o que resta após retirar ou a quantidade de uma parte quando conhecemos o todo e outra parte. Represente o total e separe a parte conhecida. Escolha desenhos, decomposição, contagem ou algoritmo que você consiga explicar. A conferência pela adição ajuda a verificar se parte retirada e parte restante recompõem o total. Ao criar uma história, mantenha quantidades coerentes com a situação.</p><h3>Exemplo resolvido</h3><p>Uma caixa tem 320 fichas, das quais 145 são azuis e as demais amarelas. Separando as 145 azuis, restam 175 amarelas. A conferência é 145+175=320.</p><h3>Atenção ao raciocínio</h3><p>O número retirado não é necessariamente o número procurado; leia a pergunta da história.</p><h3>Investigue e produza</h3><p>Crie uma história para 204−76. Mostre a resolução com agrupamentos ou estratégia pessoal e confira recompondo o total.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "subtracao",
+      "problemas"
+    ],
+    "errosComuns": [
+      "O número retirado não é necessariamente o número procurado; leia a pergunta da história."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "problemas_de_subtracao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma caixa tem 320 fichas, 145 azuis e as demais amarelas. Quantas são amarelas?",
+      "alternativas": [
+        "175",
+        "185",
+        "465"
+      ],
+      "correta": 0,
+      "explicacao": "A parte que falta é 320−145=175."
+    },
+    {
+      "id": "problemas_de_subtracao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Crie uma história para 204−76. Mostre a resolução com agrupamentos ou estratégia pessoal e confira recompondo o total.",
+      "gabarito": "O resultado é 128. Aceitar formas equivalentes de reorganizar 204; a conferência 128+76=204 deve estar ligada às partes da história.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O resultado é 128. Aceitar formas equivalentes de reorganizar 204; a conferência 128+76=204 deve estar ligada às partes da história.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "subtracao",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        32
+      ],
+      "paginasImpressas": "35",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.subtracao.algoritmos_da_subtracao"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

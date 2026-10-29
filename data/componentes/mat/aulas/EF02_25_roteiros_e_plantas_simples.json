@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef02.localizacao_e_deslocamento.roteiros_e_plantas_simples",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 25,
+  "unidade": "Localização e Deslocamento",
+  "titulo": "Roteiros e Plantas Simples",
+  "bncc": [
+    "EF02MA13"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Esboçar uma planta ou roteiro com entradas, saídas e referências."
+    ],
+    "resumo": "Esboçar uma planta ou roteiro com entradas, saídas e referências.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Roteiros e Plantas Simples</h2><h3>O que vamos aprender</h3><p>Esboçar uma planta ou roteiro com entradas, saídas e referências.</p><h3>Ideias e relações</h3><p>Uma planta simples representa um ambiente como se fosse observado de cima. Não é necessário desenhar todos os detalhes: escolha os que ajudam a reconhecer o lugar. Marque entradas, saídas e referências, como mesas e portas. Use nomes, símbolos ou legenda e mostre o caminho com setas. Um roteiro também pode ser uma sequência de desenhos e instruções. Compare com o ambiente para conferir posições e acessos.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Planta esquemática: entrada embaixo à esquerda, mesa embaixo à direita, estante em cima à direita e saída em cima à esquerda. Roteiro da entrada à mesa e depois à estante.\" style=\"max-width:100%;color:inherit\"><title>Planta esquemática: entrada embaixo à esquerda, mesa embaixo à direita, estante em cima à direita e saída em cima à esquerda. Roteiro da entrada à mesa e depois à estante.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><rect x=\"30\" y=\"25\" width=\"370\" height=\"190\"/><rect x=\"265\" y=\"65\" width=\"100\" height=\"30\"/><rect x=\"275\" y=\"145\" width=\"80\" height=\"40\"/><path d=\"M95 175H245V85\" stroke=\"#2563eb\" stroke-width=\"3\"/><path d=\"m239 94 6-9 6 9\"/></g><g fill=\"currentColor\" font-size=\"14\"><text x=\"40\" y=\"193\">Entrada</text><text x=\"40\" y=\"52\">Saída</text><text x=\"280\" y=\"84\">Estante</text><text x=\"290\" y=\"170\">Mesa</text><text x=\"30\" y=\"245\">Referência: direita e esquerda de quem olha a planta.</text></g></svg><h3>Exemplo resolvido</h3><p>Na planta da aula, os retângulos representam uma mesa e uma estante. As etiquetas indicam entrada e saída. A seta destaca um percurso possível, não todos os caminhos do ambiente.</p><h3>Atenção ao raciocínio</h3><p>Uma planta sem entrada ou referências pode não ajudar outra pessoa a se orientar.</p><h3>Investigue e produza</h3><p>Esboce a planta de uma sala ou outro ambiente familiar. Marque entradas, saídas, três referências e um caminho. Peça a alguém para interpretar e ajuste o que não ficou claro.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "plantas",
+      "roteiros"
+    ],
+    "errosComuns": [
+      "Uma planta sem entrada ou referências pode não ajudar outra pessoa a se orientar."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "roteiros_e_plantas_simples.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O que deve aparecer numa planta feita para orientar um percurso?",
+      "alternativas": [
+        "Somente uma decoração",
+        "Apenas o nome de quem desenhou",
+        "Entradas, saídas e pontos de referência"
+      ],
+      "correta": 2,
+      "explicacao": "Esses elementos ajudam a identificar por onde entrar, sair e seguir."
+    },
+    {
+      "id": "roteiros_e_plantas_simples.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Esboce a planta de uma sala ou outro ambiente familiar. Marque entradas, saídas, três referências e um caminho. Peça a alguém para interpretar e ajuste o que não ficou claro.",
+      "gabarito": "O desenho deve corresponder às posições relativas e aos acessos reais, com referências identificáveis. Não exigir escala formal ou precisão de desenho técnico; observar se o roteiro pode ser seguido.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O desenho deve corresponder às posições relativas e aos acessos reais, com referências identificáveis. Não exigir escala formal ou precisão de desenho técnico; observar se o roteiro pode ser seguido.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "plantas",
+    "roteiros"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.localizacao_e_deslocamento.localizacao_com_pontos_de_referencia"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "nivel": "EF02",
+  "motivo": "Consolidação de subtópicos em aulas completas, preservando os IDs já presentes no percurso e registrando os destinos do planejamento anterior.",
+  "integracoes": [
+    {
+      "idAnterior": "mat.ef02.numeros_ate_199.leitura_e_escrita_ate_199",
+      "tituloAnterior": "Leitura e Escrita até 199",
+      "integradoEm": "mat.ef02.numeros_ate_199.centenas_dezenas_e_unidades"
+    },
+    {
+      "idAnterior": "mat.ef02.numeros_ate_199.composicao_e_decomposicao_ate_199",
+      "tituloAnterior": "Composição e Decomposição até 199",
+      "integradoEm": "mat.ef02.numeros_ate_199.centenas_dezenas_e_unidades"
+    },
+    {
+      "idAnterior": "mat.ef02.numeros_ate_1000.reta_numerica_ate_1000",
+      "tituloAnterior": "Reta Numérica até 1000",
+      "integradoEm": "mat.ef02.numeros_ate_1000.comparacao_e_ordenacao_ate_1000"
+    },
+    {
+      "idAnterior": "mat.ef02.adicao.calculo_mental_com_adicao",
+      "tituloAnterior": "Cálculo Mental com Adição",
+      "integradoEm": "mat.ef02.numeros_ate_1000.fatos_basicos_da_adicao_e_subtracao"
+    },
+    {
+      "idAnterior": "mat.ef02.subtracao.relacao_entre_adicao_e_subtracao",
+      "tituloAnterior": "Relação entre Adição e Subtração",
+      "integradoEm": "mat.ef02.numeros_ate_1000.fatos_basicos_da_adicao_e_subtracao"
+    },
+    {
+      "idAnterior": "mat.ef02.regioes_planas_e_seus_contornos.contornos_e_lados",
+      "tituloAnterior": "Contornos e Lados",
+      "integradoEm": "mat.ef02.regioes_planas_e_seus_contornos.comparacao_de_figuras_planas"
+    },
+    {
+      "idAnterior": "mat.ef02.localizacao_e_deslocamento.deslocamentos_no_espaco",
+      "tituloAnterior": "Deslocamentos no Espaço",
+      "integradoEm": "mat.ef02.localizacao_e_deslocamento.localizacao_com_pontos_de_referencia"
+    }
+  ]
+}

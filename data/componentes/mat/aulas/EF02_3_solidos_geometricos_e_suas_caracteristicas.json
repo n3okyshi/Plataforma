@@ -2,36 +2,116 @@
   "id": "mat.ef02.solidos_geometricos.solidos_geometricos_e_suas_caracteristicas",
   "componente": "mat",
   "nivel": "EF02",
-  "ordem": 3,
+  "ordem": 15,
   "unidade": "Sólidos Geométricos",
   "titulo": "Sólidos Geométricos e suas Características",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF02MA14"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Nomear e comparar cubo, bloco, pirâmide, cone, cilindro e esfera."
+    ],
+    "resumo": "Nomear e comparar cubo, bloco, pirâmide, cone, cilindro e esfera.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sólidos Geométricos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cubo, pirâmide, cone, cilindro e esfera. Aprendemos a contar as partes: pontas (vértices) e lados (faces).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧊 Rola ou não rola?</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Objetos redondos (esfera, cone) rolam. Objetos quadrados (cubo) ficam parados.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Sólidos Geométricos e suas Características</h2><h3>O que vamos aprender</h3><p>Nomear e comparar cubo, bloco, pirâmide, cone, cilindro e esfera.</p><h3>Ideias e relações</h3><p>Figuras espaciais podem ter partes planas e curvas. Um cubo tem seis faces quadradas iguais. Um bloco retangular tem seis faces retangulares, que não precisam ter todas a mesma medida. Uma pirâmide tem uma base e faces laterais triangulares que se encontram num vértice. Um cilindro tem duas bases circulares e parte lateral curva; um cone tem uma base circular e uma ponta; uma esfera não tem face plana. Observe modelos de vários lados antes de comparar.</p><h3>Exemplo resolvido</h3><p>Uma caixa cúbica pode ser apoiada em qualquer uma de suas faces quadradas. Uma bola lembra uma esfera e não possui uma face plana como a da caixa.</p><h3>Atenção ao raciocínio</h3><p>Não classifique só pela cor ou pelo tamanho. A forma é a característica estudada.</p><h3>Investigue e produza</h3><p>Observe ou modele os seis sólidos citados. Nomeie-os e compare um par por vez, indicando uma semelhança e uma diferença verificáveis. Use desenhos quando não houver todos os modelos.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "figuras_espaciais",
+      "solidos"
+    ],
+    "errosComuns": [
+      "Não classifique só pela cor ou pelo tamanho. A forma é a característica estudada."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "solidos_geometricos_e_suas_caracteristicas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual modelo tem duas bases circulares e parte lateral curva?",
+      "alternativas": [
+        "Cilindro",
+        "Cone",
+        "Esfera"
+      ],
+      "correta": 0,
+      "explicacao": "O cilindro tem duas bases; o cone tem uma e a esfera não tem base plana."
+    },
+    {
+      "id": "solidos_geometricos_e_suas_caracteristicas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Observe ou modele os seis sólidos citados. Nomeie-os e compare um par por vez, indicando uma semelhança e uma diferença verificáveis. Use desenhos quando não houver todos os modelos.",
+      "gabarito": "Conferir os seis nomes e as características usadas: faces planas, partes curvas, bases e ponta, conforme o modelo. Não exigir contagem formal de arestas e vértices de corpos redondos.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir os seis nomes e as características usadas: faces planas, partes curvas, bases e ponta, conforme o modelo. Não exigir contagem formal de arestas e vértices de corpos redondos.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_espaciais",
+    "solidos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef02.solidos_geometricos.figuras_espaciais_do_cotidiano"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef02.probabilidade_e_estatistica.pesquisa_na_escola",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 28,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Pesquisa na Escola",
+  "bncc": [
+    "EF02MA23"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Coletar e organizar pesquisa com até trinta participantes e variáveis categóricas."
+    ],
+    "resumo": "Coletar e organizar pesquisa com até trinta participantes e variáveis categóricas.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Pesquisa na Escola</h2><h3>O que vamos aprender</h3><p>Coletar e organizar pesquisa com até trinta participantes e variáveis categóricas.</p><h3>Ideias e relações</h3><p>Uma variável categórica registra uma categoria, como brincadeira escolhida ou tipo de história preferido. Escolha até três variáveis de interesse e um grupo de até trinta participantes. Combine perguntas e categorias, faça a coleta sem nomes e mantenha uma resposta por participante em cada pergunta. Organize uma lista por participante sem identificá-lo, depois conte as categorias em tabelas e gráficos de colunas. As quantidades dependem da coleta real e podem ser diferentes das esperadas.</p><h3>Exemplo resolvido</h3><p>Podemos perguntar a um grupo de até trinta pessoas qual brincadeira escolhem e qual tipo de história preferem. Cada participante fornece duas respostas, uma para cada variável; o total de respostas de cada pergunta deve corresponder aos participantes que a responderam.</p><h3>Atenção ao raciocínio</h3><p>Não some respostas de duas perguntas como se o total fosse o número de participantes.</p><h3>Investigue e produza</h3><p>Planeje e realize pesquisa de cinco a trinta participantes com uma ou duas variáveis categóricas, podendo incluir uma terceira. Registre respostas sem nomes, organize listas, tabelas e gráficos de colunas e apresente uma comparação.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "pesquisa",
+      "coleta_de_dados"
+    ],
+    "errosComuns": [
+      "Não some respostas de duas perguntas como se o total fosse o número de participantes."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pesquisa_na_escola.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma pesquisa tem duas perguntas e cada uma foi respondida pelas mesmas doze pessoas. Há:",
+      "alternativas": [
+        "24 participantes",
+        "Somente 2 participantes",
+        "12 participantes"
+      ],
+      "correta": 2,
+      "explicacao": "Cada pessoa respondeu duas perguntas, mas continua contando uma vez como participante."
+    },
+    {
+      "id": "pesquisa_na_escola.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Planeje e realize pesquisa de cinco a trinta participantes com uma ou duas variáveis categóricas, podendo incluir uma terceira. Registre respostas sem nomes, organize listas, tabelas e gráficos de colunas e apresente uma comparação.",
+      "gabarito": "Conferir população consultada, até três variáveis categóricas, registros reais e totais por pergunta. As tabelas e gráficos precisam corresponder às listas, com título, categorias, escala e fonte da coleta. Não há resultados numéricos previamente fixados.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir população consultada, até três variáveis categóricas, registros reais e totais por pergunta. As tabelas e gráficos precisam corresponder às listas, com título, categorias, escala e fonte da coleta. Não há resultados numéricos previamente fixados.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "pesquisa",
+    "coleta_de_dados"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        287
+      ],
+      "paginasImpressas": "285",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.probabilidade_e_estatistica.tabelas_de_dupla_entrada"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

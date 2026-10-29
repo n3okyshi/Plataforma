@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef02.padroes_e_sequencias.sequencias_crescentes_e_decrescentes",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 29,
+  "unidade": "Padrões e Sequências",
+  "titulo": "Sequências Crescentes e Decrescentes",
+  "bncc": [
+    "EF02MA09"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Construir sequências numéricas por uma regra de crescimento ou diminuição."
+    ],
+    "resumo": "Construir sequências numéricas por uma regra de crescimento ou diminuição.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Sequências Crescentes e Decrescentes</h2><h3>O que vamos aprender</h3><p>Construir sequências numéricas por uma regra de crescimento ou diminuição.</p><h3>Ideias e relações</h3><p>Para construir uma sequência, escolha um número inicial e uma regra. Acrescentar cinco a cada passo produz uma sequência crescente; retirar dois a cada passo produz uma decrescente enquanto mantemos números naturais. A regra deve valer em todos os passos que registramos. É possível começar em números diferentes de zero. Confira o início, a direção da mudança e a quantidade que é acrescentada ou retirada.</p><h3>Exemplo resolvido</h3><p>Começando em 17 e acrescentando 5, obtemos 17,22,27,32. Começando em 20 e retirando 2, obtemos 20,18,16,14.</p><h3>Atenção ao raciocínio</h3><p>Não confunda a posição do termo com o valor que precisa ser acrescentado.</p><h3>Investigue e produza</h3><p>Construa cinco termos a partir de 24, somando 3 a cada passo. Depois faça cinco termos a partir de 31, retirando 4. Explique e confira as duas regras.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "sequencias",
+      "numeros_naturais"
+    ],
+    "errosComuns": [
+      "Não confunda a posição do termo com o valor que precisa ser acrescentado."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sequencias_crescentes_e_decrescentes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Começando em 17 e acrescentando 5 a cada passo, depois de 22 vem:",
+      "alternativas": [
+        "32",
+        "27",
+        "23"
+      ],
+      "correta": 1,
+      "explicacao": "22+5=27."
+    },
+    {
+      "id": "sequencias_crescentes_e_decrescentes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa cinco termos a partir de 24, somando 3 a cada passo. Depois faça cinco termos a partir de 31, retirando 4. Explique e confira as duas regras.",
+      "gabarito": "Sequências: 24,27,30,33,36 e 31,27,23,19,15. Verificar regra constante e ordem crescente ou decrescente.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Sequências: 24,27,30,33,36 e 31,27,23,19,15. Verificar regra constante e ordem crescente ou decrescente.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sequencias",
+    "numeros_naturais"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef02.padroes_e_sequencias.sequencias_repetitivas_e_recursivas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

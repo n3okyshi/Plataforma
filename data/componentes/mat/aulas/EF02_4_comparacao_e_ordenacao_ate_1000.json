@@ -1,0 +1,119 @@
+{
+  "id": "mat.ef02.numeros_ate_1000.comparacao_e_ordenacao_ate_1000",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 4,
+  "unidade": "Números até 1000",
+  "titulo": "Comparação e Ordenação até 1000",
+  "bncc": [
+    "EF02MA01"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Comparar números de três ordens pela posição dos algarismos."
+    ],
+    "resumo": "Comparar números de três ordens pela posição dos algarismos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Comparação e Ordenação até 1000</h2><h3>O que vamos aprender</h3><p>Comparar números de três ordens pela posição dos algarismos.</p><h3>Ideias e relações</h3><p>Para comparar números de três algarismos, observe primeiro as centenas. Se forem iguais, compare as dezenas; se ainda forem iguais, compare as unidades. O zero também ocupa uma posição e pode mudar a comparação. Uma reta numérica ajuda a conferir a ordem, desde que a escala seja indicada. Os exemplos desta aula usam números até 999, dentro das três ordens estudadas.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Reta de quinhentos a seiscentos, marcada de dez em dez.\" style=\"max-width:100%;color:inherit\"><title>Reta de quinhentos a seiscentos, marcada de dez em dez.</title><path d=\"M35 95H410\" stroke=\"currentColor\"/><path d=\"M45 88V102\" stroke=\"currentColor\"/><text x=\"45\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"12\">500</text><path d=\"M80 88V102\" stroke=\"currentColor\"/><text x=\"80\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"12\">510</text><path d=\"M115 88V102\" stroke=\"currentColor\"/><text x=\"115\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"12\">520</text><path d=\"M150 88V102\" stroke=\"currentColor\"/><text x=\"150\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"12\">530</text><path d=\"M185 88V102\" stroke=\"currentColor\"/><text x=\"185\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"12\">540</text><path d=\"M220 88V102\" stroke=\"currentColor\"/><text x=\"220\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"12\">550</text><path d=\"M255 88V102\" stroke=\"currentColor\"/><text x=\"255\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"12\">560</text><path d=\"M290 88V102\" stroke=\"currentColor\"/><text x=\"290\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"12\">570</text><path d=\"M325 88V102\" stroke=\"currentColor\"/><text x=\"325\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"12\">580</text><path d=\"M360 88V102\" stroke=\"currentColor\"/><text x=\"360\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"12\">590</text><path d=\"M395 88V102\" stroke=\"currentColor\"/><text x=\"395\" y=\"135\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"12\">600</text><text x=\"30\" y=\"205\" fill=\"currentColor\" font-size=\"16\">Cada intervalo entre marcas vale dez.</text></svg><h3>Exemplo resolvido</h3><p>Entre 407 e 470, as quatro centenas são iguais. Em 407 há zero dezenas, e em 470 há sete dezenas. Assim, 407 é menor que 470.</p><h3>Atenção ao raciocínio</h3><p>Comparar somente o maior algarismo que aparece no número não determina qual número é maior.</p><h3>Investigue e produza</h3><p>Ordene 305, 350, 299 e 351. Represente dois deles com agrupamentos e explique uma comparação sem depender do desenho. Na reta ilustrada, localize 520 e 560 e explique por que o segundo é maior.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "comparacao",
+      "ordenacao"
+    ],
+    "errosComuns": [
+      "Comparar somente o maior algarismo que aparece no número não determina qual número é maior."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "comparacao_e_ordenacao_ate_1000.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual número é maior?",
+      "alternativas": [
+        "407",
+        "399",
+        "470"
+      ],
+      "correta": 2,
+      "explicacao": "470 e 407 têm quatro centenas; as sete dezenas fazem 470 superar 407. Ambos superam 399."
+    },
+    {
+      "id": "comparacao_e_ordenacao_ate_1000.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Ordene 305, 350, 299 e 351. Represente dois deles com agrupamentos e explique uma comparação sem depender do desenho. Na reta ilustrada, localize 520 e 560 e explique por que o segundo é maior.",
+      "gabarito": "Ordem crescente: 299,305,350,351. Justificar centenas, dezenas e unidades, incluindo o zero em 305 e a diferença de uma unidade entre 350 e 351. A reta tem passos de dez; 560 fica quatro intervalos de dez à direita de 520.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Ordem crescente: 299,305,350,351. Justificar centenas, dezenas e unidades, incluindo o zero em 305 e a diferença de uma unidade entre 350 e 351. A reta tem passos de dez; 560 fica quatro intervalos de dez à direita de 520.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "comparacao",
+    "ordenacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14
+      ],
+      "paginasImpressas": "17",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000"
+  ],
+  "proximosPassos": [
+    "mat.ef02.numeros_ate_1000.fatos_basicos_da_adicao_e_subtracao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+[
+  {
+    "id": "mat.ef02.regioes_planas_e_seus_contornos.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Regiões Planas e seus Contornos",
+    "aulaId": "mat.ef02.regioes_planas_e_seus_contornos.figuras_planas",
+    "bncc": [
+      "EF02MA15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um quadrado desenhado com uma ponta para cima, sem deformação, continua sendo:",
+    "opcoes": [
+      "Círculo",
+      "Triângulo",
+      "Quadrado"
+    ],
+    "correta": 2,
+    "explicacao": "A rotação conserva os lados e os cantos retos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.regioes_planas_e_seus_contornos.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Regiões Planas e seus Contornos",
+    "aulaId": "mat.ef02.regioes_planas_e_seus_contornos.comparacao_de_figuras_planas",
+    "bncc": [
+      "EF02MA15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O que quadrados e retângulos sempre têm em comum?",
+    "opcoes": [
+      "Três lados",
+      "Quatro cantos retos",
+      "Todos os lados com medidas diferentes"
+    ],
+    "correta": 1,
+    "explicacao": "Os quatro cantos retos são uma característica comum aos dois.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.regioes_planas_e_seus_contornos.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Regiões Planas e seus Contornos",
+    "aulaId": "mat.ef02.regioes_planas_e_seus_contornos.figuras_planas",
+    "bncc": [
+      "EF02MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual figura tem contorno curvo, sem lados retos?",
+    "opcoes": [
+      "Triângulo",
+      "Retângulo",
+      "Círculo"
+    ],
+    "correta": 2,
+    "explicacao": "O círculo não tem lados retos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.regioes_planas_e_seus_contornos.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Regiões Planas e seus Contornos",
+    "aulaId": "mat.ef02.regioes_planas_e_seus_contornos.comparacao_de_figuras_planas",
+    "bncc": [
+      "EF02MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual característica é comum ao quadrado e ao retângulo?",
+    "opcoes": [
+      "Contorno sem trechos retos",
+      "Quatro cantos retos",
+      "Três lados"
+    ],
+    "correta": 1,
+    "explicacao": "Ambos têm quatro lados e quatro cantos retos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.regioes_planas_e_seus_contornos.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Regiões Planas e seus Contornos",
+    "aulaId": "mat.ef02.regioes_planas_e_seus_contornos.figuras_planas",
+    "bncc": [
+      "EF02MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um triângulo desenhado de cabeça para baixo continua com:",
+    "opcoes": [
+      "Três lados retos",
+      "Quatro lados retos",
+      "Nenhum lado reto"
+    ],
+    "correta": 0,
+    "explicacao": "Girar o desenho não modifica sua quantidade de lados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.regioes_planas_e_seus_contornos.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Regiões Planas e seus Contornos",
+    "aulaId": "mat.ef02.regioes_planas_e_seus_contornos.comparacao_de_figuras_planas",
+    "bncc": [
+      "EF02MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um retângulo com lados vizinhos de 2 cm e 5 cm é quadrado?",
+    "opcoes": [
+      "Sim, todo retângulo é quadrado",
+      "Sim, porque tem quatro lados",
+      "Não, seus quatro lados não são iguais"
+    ],
+    "correta": 2,
+    "explicacao": "Para ser quadrado, os quatro lados precisariam ter a mesma medida.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.regioes_planas_e_seus_contornos.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Regiões Planas e seus Contornos",
+    "aulaId": "mat.ef02.regioes_planas_e_seus_contornos.figuras_planas",
+    "bncc": [
+      "EF02MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A base circular de uma lata pode deixar no papel um contorno de:",
+    "opcoes": [
+      "Quadrado",
+      "Círculo",
+      "Triângulo"
+    ],
+    "correta": 1,
+    "explicacao": "O contorno da base circular é um círculo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

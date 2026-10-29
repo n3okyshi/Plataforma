@@ -1,0 +1,108 @@
+{
+  "id": "mat.ef02.solidos_geometricos.planificacoes_simples",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 17,
+  "unidade": "Sólidos Geométricos",
+  "titulo": "Planificações Simples",
+  "bncc": [],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Explorar, como complemento, uma rede de cubo por dobradura."
+    ],
+    "resumo": "Explorar, como complemento, uma rede de cubo por dobradura.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Planificações Simples</h2><h3>O que vamos aprender</h3><p>Explorar, como complemento, uma rede de cubo por dobradura.</p><h3>Ideias e relações</h3><p>Esta exploração complementar relaciona um modelo espacial e suas faces no papel. Uma rede de cubo precisa de seis quadrados iguais unidos de modo que possam ser dobrados para fechar as seis faces sem sobreposição. Não basta juntar seis quadrados de qualquer maneira: algumas disposições não fecham o cubo. Observe a rede apresentada e teste com papel preparado por um adulto. Compare o papel aberto com o modelo fechado, nomeando as faces quadradas.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Rede de cubo: quatro quadrados em fila e um quadrado acima e outro abaixo do segundo quadrado. Todos têm o mesmo lado.\" style=\"max-width:100%;color:inherit\"><title>Rede de cubo: quatro quadrados em fila e um quadrado acima e outro abaixo do segundo quadrado. Todos têm o mesmo lado.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><rect x=\"100\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"145\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"190\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"235\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"145\" y=\"50\" width=\"45\" height=\"45\"/><rect x=\"145\" y=\"140\" width=\"45\" height=\"45\"/></g><text x=\"30\" y=\"225\" fill=\"currentColor\" font-size=\"15\">Aprofundamento: dobrar sem sobrepor as faces.</text></svg><h3>Exemplo resolvido</h3><p>A rede ilustrada tem quatro quadrados em fila e dois ligados ao segundo, um acima e outro abaixo. Dobrando nas linhas comuns, podemos formar as seis faces de um cubo.</p><h3>Atenção ao raciocínio</h3><p>Um desenho de seis quadrados unidos não é automaticamente uma rede que fecha um cubo.</p><h3>Investigue e produza</h3><p>Com ajuda de um adulto para preparar o papel, monte a rede ilustrada, teste as dobras e compare o modelo aberto e fechado. Explique por que os seis quadrados precisam ter o mesmo tamanho.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "figuras_espaciais",
+      "planificacao"
+    ],
+    "errosComuns": [
+      "Um desenho de seis quadrados unidos não é automaticamente uma rede que fecha um cubo."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "planificacoes_simples.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "As faces do cubo representadas na rede são:",
+      "alternativas": [
+        "Quatro triângulos",
+        "Seis quadrados iguais",
+        "Três círculos"
+      ],
+      "correta": 1,
+      "explicacao": "O cubo tem seis faces quadradas iguais."
+    },
+    {
+      "id": "planificacoes_simples.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com ajuda de um adulto para preparar o papel, monte a rede ilustrada, teste as dobras e compare o modelo aberto e fechado. Explique por que os seis quadrados precisam ter o mesmo tamanho.",
+      "gabarito": "O modelo deve fechar seis faces quadradas iguais sem sobreposição. Aceitar relato das tentativas e correções. Esta é uma exploração complementar, sem atribuição artificial de habilidade obrigatória específica de planificação no 2º ano.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O modelo deve fechar seis faces quadradas iguais sem sobreposição. Aceitar relato das tentativas e correções. Esta é uma exploração complementar, sem atribuição artificial de habilidade obrigatória específica de planificação no 2º ano.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_espaciais",
+    "planificacao"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [
+    "mat.ef02.solidos_geometricos.figuras_espaciais_do_cotidiano"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ],
+  "observacaoCurricular": "Retomada ou aprofundamento complementar; não corresponde isoladamente a uma habilidade obrigatória específica deste ano."
+}

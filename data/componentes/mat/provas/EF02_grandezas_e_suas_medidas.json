@@ -1,0 +1,207 @@
+{
+  "id": "mat.ef02.grandezas_e_suas_medidas.prova",
+  "titulo": "Avaliação: Grandezas e suas medidas",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF02",
+  "unidade": "Grandezas e suas medidas",
+  "bncc": [
+    "EF02MA16",
+    "EF02MA17",
+    "EF02MA18",
+    "EF02MA19",
+    "EF02MA20"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef02.grandezas_e_suas_medidas.prova.01",
+    "mat.ef02.grandezas_e_suas_medidas.prova.02",
+    "mat.ef02.grandezas_e_suas_medidas.prova.03",
+    "mat.ef02.grandezas_e_suas_medidas.prova.04",
+    "mat.ef02.grandezas_e_suas_medidas.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF02MA16",
+      "questoes": [
+        "mat.ef02.grandezas_e_suas_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.grandezas_e_suas_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.grandezas_e_suas_medidas.medidas_padronizadas#medidas_padronizadas.investigacao",
+        "mat.ef02.grandezas_e_suas_medidas.medindo_comprimentos#medindo_comprimentos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02MA17",
+      "questoes": [
+        "mat.ef02.grandezas_e_suas_medidas.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.grandezas_e_suas_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.grandezas_e_suas_medidas.massa_e_capacidade#massa_e_capacidade.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02MA18",
+      "questoes": [
+        "mat.ef02.grandezas_e_suas_medidas.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.grandezas_e_suas_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.grandezas_e_suas_medidas.intervalos_de_tempo#intervalos_de_tempo.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02MA19",
+      "questoes": [
+        "mat.ef02.grandezas_e_suas_medidas.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.grandezas_e_suas_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.grandezas_e_suas_medidas.relogio_digital_e_duracao#relogio_digital_e_duracao.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02MA20",
+      "questoes": [
+        "mat.ef02.grandezas_e_suas_medidas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.grandezas_e_suas_medidas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.grandezas_e_suas_medidas.equivalencia_entre_moedas_e_cedulas#equivalencia_entre_moedas_e_cedulas.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef02.grandezas_e_suas_medidas.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Grandezas e suas medidas",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Estime o comprimento de um lápis, depois meça com régua em centímetros e observe os milímetros. Compare com uma medida em clipes iguais. Registre instrumentos, unidades e diferença entre estimativa e medição. 2. Estime e meça os lados de um desenho poligonal. Depois, com um adulto, meça lados de uma sala e registre o contorno; compare um trecho também por passos de tamanho consistente. Explique como evitou contar um lado duas vezes. 3. Estime e compare a massa de dois objetos usando uma balança disponível, anotando a unidade. Compare dois recipientes por enchimentos iguais e, se possível, confira em mililitros ou litros. Explique o que foi medido. 4. No calendário, marque 3 e 10 de junho de 2026. Indique os dias da semana e quantos dias decorrem. Depois planeje uma atividade que passe de um mês ao seguinte, consultando ambos os meses. 5. Com ajuda de um adulto, observe num relógio digital o início e o fim de uma atividade curta. Registre ambos e calcule a duração. Compare sua estratégia com a contagem em trechos até uma hora completa, se houver passagem de hora. 6. Observe valores de moedas e cédulas do real com um adulto e represente-os por cartões. Faça duas combinações para R$ 15. Depois monte R$ 3 com moedas de R$ 1 e de cinquenta centavos e simule uma compra com troco.",
+    "gabarito": "Conferência por tarefa: 1. Conferir os valores efetivamente medidos, alinhamento do zero e uso consistente das unidades. Unidades não padronizadas precisam ter tamanho constante e ser colocadas sem espaços ou sobreposição. 2. Os resultados dependem do ambiente e do desenho. Verificar unidades, todos os lados incluídos e coerência da soma. Distinguir comprimento do contorno e área; não exigir cálculo de área nesta tarefa. 3. Avaliar registros reais, distinção entre massa e capacidade, unidade constante e critério de enchimento. Se não houver instrumento, registrar a comparação possível e a medição que ainda falta, sem inventar resultados. 4. 3 e 10 de junho de 2026 são quartas-feiras; decorrem sete dias. Na escolha livre, conferir os calendários reais, os limites do intervalo e a convenção de contagem. 5. Os horários devem ser efetivamente observados. Conferir o cálculo com sessenta minutos por hora e a concordância entre registros e duração; não exigir que a atividade atravesse uma hora para ser válida. 6. Exemplos para quinze: 10+5 e 5+5+5. Para três reais, três moedas de um real ou seis de cinquenta centavos, entre outras combinações. A compra criada precisa ter troco que reconstrua o pagamento.",
+    "bncc": [
+      "EF02MA16",
+      "EF02MA17",
+      "EF02MA18",
+      "EF02MA19",
+      "EF02MA20"
+    ],
+    "atividadesOrigem": [
+      "mat.ef02.grandezas_e_suas_medidas.medidas_padronizadas#medidas_padronizadas.investigacao",
+      "mat.ef02.grandezas_e_suas_medidas.medindo_comprimentos#medindo_comprimentos.investigacao",
+      "mat.ef02.grandezas_e_suas_medidas.massa_e_capacidade#massa_e_capacidade.investigacao",
+      "mat.ef02.grandezas_e_suas_medidas.intervalos_de_tempo#intervalos_de_tempo.investigacao",
+      "mat.ef02.grandezas_e_suas_medidas.relogio_digital_e_duracao#relogio_digital_e_duracao.investigacao",
+      "mat.ef02.grandezas_e_suas_medidas.equivalencia_entre_moedas_e_cedulas#equivalencia_entre_moedas_e_cedulas.investigacao"
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Medidas Padronizadas",
+        "enunciado": "Estime o comprimento de um lápis, depois meça com régua em centímetros e observe os milímetros. Compare com uma medida em clipes iguais. Registre instrumentos, unidades e diferença entre estimativa e medição.",
+        "gabarito": "Conferir os valores efetivamente medidos, alinhamento do zero e uso consistente das unidades. Unidades não padronizadas precisam ter tamanho constante e ser colocadas sem espaços ou sobreposição.",
+        "bncc": [
+          "EF02MA16"
+        ],
+        "atividadeOrigem": "mat.ef02.grandezas_e_suas_medidas.medidas_padronizadas#medidas_padronizadas.investigacao"
+      },
+      {
+        "titulo": "Medindo Comprimentos",
+        "enunciado": "Estime e meça os lados de um desenho poligonal. Depois, com um adulto, meça lados de uma sala e registre o contorno; compare um trecho também por passos de tamanho consistente. Explique como evitou contar um lado duas vezes.",
+        "gabarito": "Os resultados dependem do ambiente e do desenho. Verificar unidades, todos os lados incluídos e coerência da soma. Distinguir comprimento do contorno e área; não exigir cálculo de área nesta tarefa.",
+        "bncc": [
+          "EF02MA16"
+        ],
+        "atividadeOrigem": "mat.ef02.grandezas_e_suas_medidas.medindo_comprimentos#medindo_comprimentos.investigacao"
+      },
+      {
+        "titulo": "Massa e Capacidade",
+        "enunciado": "Estime e compare a massa de dois objetos usando uma balança disponível, anotando a unidade. Compare dois recipientes por enchimentos iguais e, se possível, confira em mililitros ou litros. Explique o que foi medido.",
+        "gabarito": "Avaliar registros reais, distinção entre massa e capacidade, unidade constante e critério de enchimento. Se não houver instrumento, registrar a comparação possível e a medição que ainda falta, sem inventar resultados.",
+        "bncc": [
+          "EF02MA17"
+        ],
+        "atividadeOrigem": "mat.ef02.grandezas_e_suas_medidas.massa_e_capacidade#massa_e_capacidade.investigacao"
+      },
+      {
+        "titulo": "Intervalos de Tempo",
+        "enunciado": "No calendário, marque 3 e 10 de junho de 2026. Indique os dias da semana e quantos dias decorrem. Depois planeje uma atividade que passe de um mês ao seguinte, consultando ambos os meses.",
+        "gabarito": "3 e 10 de junho de 2026 são quartas-feiras; decorrem sete dias. Na escolha livre, conferir os calendários reais, os limites do intervalo e a convenção de contagem.",
+        "bncc": [
+          "EF02MA18"
+        ],
+        "atividadeOrigem": "mat.ef02.grandezas_e_suas_medidas.intervalos_de_tempo#intervalos_de_tempo.investigacao"
+      },
+      {
+        "titulo": "Relógio Digital e Duração",
+        "enunciado": "Com ajuda de um adulto, observe num relógio digital o início e o fim de uma atividade curta. Registre ambos e calcule a duração. Compare sua estratégia com a contagem em trechos até uma hora completa, se houver passagem de hora.",
+        "gabarito": "Os horários devem ser efetivamente observados. Conferir o cálculo com sessenta minutos por hora e a concordância entre registros e duração; não exigir que a atividade atravesse uma hora para ser válida.",
+        "bncc": [
+          "EF02MA19"
+        ],
+        "atividadeOrigem": "mat.ef02.grandezas_e_suas_medidas.relogio_digital_e_duracao#relogio_digital_e_duracao.investigacao"
+      },
+      {
+        "titulo": "Equivalência entre Moedas e Cédulas",
+        "enunciado": "Observe valores de moedas e cédulas do real com um adulto e represente-os por cartões. Faça duas combinações para R$ 15. Depois monte R$ 3 com moedas de R$ 1 e de cinquenta centavos e simule uma compra com troco.",
+        "gabarito": "Exemplos para quinze: 10+5 e 5+5+5. Para três reais, três moedas de um real ou seis de cinquenta centavos, entre outras combinações. A compra criada precisa ter troco que reconstrua o pagamento.",
+        "bncc": [
+          "EF02MA20"
+        ],
+        "atividadeOrigem": "mat.ef02.grandezas_e_suas_medidas.equivalencia_entre_moedas_e_cedulas#equivalencia_entre_moedas_e_cedulas.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        287
+      ],
+      "paginasImpressas": "285",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        110,
+        111
+      ],
+      "paginasImpressas": "112, 113, 114",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        121,
+        122,
+        123,
+        124
+      ],
+      "paginasImpressas": "124, 125, 126, 127",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ]
+}

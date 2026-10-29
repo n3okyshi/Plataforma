@@ -1,0 +1,247 @@
+[
+  {
+    "id": "mat.ef02.localizacao_e_deslocamento.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Localização e Deslocamento",
+    "aulaId": "mat.ef02.localizacao_e_deslocamento.localizacao_com_pontos_de_referencia",
+    "bncc": [
+      "EF02MA12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual instrução usa mais de um ponto de referência?",
+    "opcoes": [
+      "Vá para lá",
+      "Continue até algum lugar",
+      "Parta da entrada, vá até a mesa e siga para a estante"
+    ],
+    "correta": 2,
+    "explicacao": "A instrução identifica início e referências ao longo do trajeto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.localizacao_e_deslocamento.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Localização e Deslocamento",
+    "aulaId": "mat.ef02.localizacao_e_deslocamento.roteiros_e_plantas_simples",
+    "bncc": [
+      "EF02MA13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O que deve aparecer numa planta feita para orientar um percurso?",
+    "opcoes": [
+      "Apenas o nome de quem desenhou",
+      "Entradas, saídas e pontos de referência",
+      "Somente uma decoração"
+    ],
+    "correta": 1,
+    "explicacao": "Esses elementos ajudam a identificar por onde entrar, sair e seguir.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.localizacao_e_deslocamento.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Localização e Deslocamento",
+    "aulaId": "mat.ef02.localizacao_e_deslocamento.localizacao_com_pontos_de_referencia",
+    "bncc": [
+      "EF02MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual roteiro informa início e duas referências?",
+    "opcoes": [
+      "Vá para lá",
+      "Ande até algum lugar",
+      "Saia da porta, passe pela mesa e pare na estante"
+    ],
+    "correta": 2,
+    "explicacao": "Porta, mesa e estante tornam o percurso mais claro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.localizacao_e_deslocamento.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Localização e Deslocamento",
+    "aulaId": "mat.ef02.localizacao_e_deslocamento.localizacao_com_pontos_de_referencia",
+    "bncc": [
+      "EF02MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Numa instrução que usa direita e esquerda, é necessário combinar:",
+    "opcoes": [
+      "O nome de todas as ruas da cidade",
+      "O ponto de vista e a orientação",
+      "A cor da roupa"
+    ],
+    "correta": 1,
+    "explicacao": "Os lados dependem da referência de quem se orienta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.localizacao_e_deslocamento.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Localização e Deslocamento",
+    "aulaId": "mat.ef02.localizacao_e_deslocamento.roteiros_e_plantas_simples",
+    "bncc": [
+      "EF02MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma planta de sala feita para orientar deve indicar:",
+    "opcoes": [
+      "Entradas, saídas e referências",
+      "Somente figuras decorativas",
+      "Apenas a data do desenho"
+    ],
+    "correta": 0,
+    "explicacao": "Esses elementos permitem interpretar o ambiente e seus acessos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.localizacao_e_deslocamento.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Localização e Deslocamento",
+    "aulaId": "mat.ef02.localizacao_e_deslocamento.roteiros_e_plantas_simples",
+    "bncc": [
+      "EF02MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma planta simples representa um ambiente como se fosse observado:",
+    "opcoes": [
+      "Sempre de dentro de uma gaveta",
+      "Somente de costas",
+      "De cima"
+    ],
+    "correta": 2,
+    "explicacao": "A visão de cima ajuda a mostrar posições relativas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.localizacao_e_deslocamento.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Localização e Deslocamento",
+    "aulaId": "mat.ef02.localizacao_e_deslocamento.localizacao_com_pontos_de_referencia",
+    "bncc": [
+      "EF02MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um percurso segue da porta à mesa e depois retorna pelo mesmo trecho. Na volta mudou:",
+    "opcoes": [
+      "O tamanho da porta",
+      "O sentido do deslocamento",
+      "O nome da mesa"
+    ],
+    "correta": 1,
+    "explicacao": "O trajeto é percorrido no sentido contrário.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

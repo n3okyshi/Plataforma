@@ -1,0 +1,350 @@
+[
+  {
+    "id": "mat.ef02.numeros_ate_1000.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Números até 1000",
+    "aulaId": "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000",
+    "bncc": [
+      "EF02MA01",
+      "EF02MA02",
+      "EF02MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Sete centenas, duas dezenas e cinco unidades formam:",
+    "opcoes": [
+      "752",
+      "275",
+      "725"
+    ],
+    "correta": 2,
+    "explicacao": "Os valores são 700, 20 e 5, que totalizam 725.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.numeros_ate_1000.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Números até 1000",
+    "aulaId": "mat.ef02.numeros_ate_1000.comparacao_e_ordenacao_ate_1000",
+    "bncc": [
+      "EF02MA01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual número é maior?",
+    "opcoes": [
+      "399",
+      "470",
+      "407"
+    ],
+    "correta": 1,
+    "explicacao": "470 e 407 têm quatro centenas; as sete dezenas fazem 470 superar 407. Ambos superam 399.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.numeros_ate_1000.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Números até 1000",
+    "aulaId": "mat.ef02.numeros_ate_1000.fatos_basicos_da_adicao_e_subtracao",
+    "bncc": [
+      "EF02MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Se 8 + 5 = 13, então 13 − 5 é:",
+    "opcoes": [
+      "8",
+      "18",
+      "5"
+    ],
+    "correta": 0,
+    "explicacao": "Retirar a parcela cinco do total treze deixa a outra parcela, oito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.numeros_ate_1000.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Números até 1000",
+    "aulaId": "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000",
+    "bncc": [
+      "EF02MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Quatro centenas, sete dezenas e duas unidades formam:",
+    "opcoes": [
+      "427",
+      "742",
+      "472"
+    ],
+    "correta": 2,
+    "explicacao": "400+70+2=472.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.numeros_ate_1000.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Números até 1000",
+    "aulaId": "mat.ef02.numeros_ate_1000.comparacao_e_ordenacao_ate_1000",
+    "bncc": [
+      "EF02MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual sequência está em ordem crescente?",
+    "opcoes": [
+      "599,590,509",
+      "509,590,599",
+      "590,509,599"
+    ],
+    "correta": 1,
+    "explicacao": "Com cinco centenas iguais, comparamos as dezenas e depois as unidades.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.numeros_ate_1000.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Números até 1000",
+    "aulaId": "mat.ef02.numeros_ate_1000.fatos_basicos_da_adicao_e_subtracao",
+    "bncc": [
+      "EF02MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Se 9+7=16, então 16−7 é:",
+    "opcoes": [
+      "9",
+      "23",
+      "7"
+    ],
+    "correta": 0,
+    "explicacao": "Retirar uma parcela da soma deixa a outra parcela.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.numeros_ate_1000.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Números até 1000",
+    "aulaId": "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000",
+    "bncc": [
+      "EF02MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma coleção tem nove grupos completos de cem e mais vinte objetos. São:",
+    "opcoes": [
+      "902 objetos",
+      "29 objetos",
+      "920 objetos"
+    ],
+    "correta": 2,
+    "explicacao": "Novecentos mais vinte totalizam novecentos e vinte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.numeros_ate_1000.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Números até 1000",
+    "aulaId": "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000",
+    "bncc": [
+      "EF02MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em 703, o zero indica que não há, nessa representação:",
+    "opcoes": [
+      "Unidades soltas",
+      "Dezenas soltas",
+      "Centenas"
+    ],
+    "correta": 1,
+    "explicacao": "São sete centenas, zero dezenas e três unidades.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

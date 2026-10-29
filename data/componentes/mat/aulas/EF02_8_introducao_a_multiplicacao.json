@@ -2,36 +2,117 @@
   "id": "mat.ef02.multiplicacao.introducao_a_multiplicacao",
   "componente": "mat",
   "nivel": "EF02",
-  "ordem": 8,
+  "ordem": 10,
   "unidade": "Multiplicação",
   "titulo": "Introdução à Multiplicação",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF02MA07"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver e elaborar problemas com grupos iguais de duas a cinco unidades."
+    ],
+    "resumo": "Resolver e elaborar problemas com grupos iguais de duas a cinco unidades.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Multiplicação (Vezes)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Somar a mesma coisa várias vezes. Construção das primeiras tabuadas (2, 3, 4 e 5).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">✖️ Grupos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">3 x 4 significa \"3 grupos com 4 coisas dentro\". Dobro é 2x, Triplo é 3x.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Introdução à Multiplicação</h2><h3>O que vamos aprender</h3><p>Resolver e elaborar problemas com grupos iguais de duas a cinco unidades.</p><h3>Ideias e relações</h3><p>Quando os grupos têm a mesma quantidade, podemos somar parcelas iguais. Quatro pratos com três frutas em cada um têm 3+3+3+3 frutas. A multiplicação é uma forma de registrar essa repetição, mas precisamos dizer o que cada fator representa. Desenhos e peças ajudam a conferir o número de grupos e a quantidade por grupo. Nesta etapa, vamos trabalhar grupos de 2, 3, 4 ou 5, sem exigir decorar toda uma tabuada de uma vez.</p><h3>Exemplo resolvido</h3><p>Quatro pratos com três frutas em cada têm doze frutas. O desenho de quatro grupos de três corresponde à adição 3+3+3+3 e ao registro 4× 3=12, na convenção usada aqui.</p><h3>Atenção ao raciocínio</h3><p>Somar número de grupos e quantidade por grupo, 4+3, não conta todas as frutas.</p><h3>Investigue e produza</h3><p>Monte três grupos de cinco peças. Desenhe, escreva a adição e invente uma história que corresponda aos grupos. Explique cada número do seu registro.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "multiplicacao",
+      "adicao_de_parcelas_iguais"
+    ],
+    "errosComuns": [
+      "Somar número de grupos e quantidade por grupo, 4+3, não conta todas as frutas."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "introducao_a_multiplicacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quatro grupos de três peças totalizam:",
+      "alternativas": [
+        "7",
+        "4",
+        "12"
+      ],
+      "correta": 2,
+      "explicacao": "3+3+3+3=12."
+    },
+    {
+      "id": "introducao_a_multiplicacao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Monte três grupos de cinco peças. Desenhe, escreva a adição e invente uma história que corresponda aos grupos. Explique cada número do seu registro.",
+      "gabarito": "São quinze peças, com adição 5+5+5. A história deve manter três grupos iguais de cinco e uma pergunta sobre o total; aceitar a convenção de fatores quando explicitada.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "São quinze peças, com adição 5+5+5. A história deve manter três grupos iguais de cinco e uma pergunta sobre o total; aceitar a convenção de fatores quando explicitada.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "multiplicacao",
+    "adicao_de_parcelas_iguais"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34,
+        35
+      ],
+      "paginasImpressas": "37, 38",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef02.multiplicacao.adicao_de_parcelas_iguais"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

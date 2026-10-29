@@ -2,36 +2,116 @@
   "id": "mat.ef02.subtracao.algoritmos_da_subtracao",
   "componente": "mat",
   "nivel": "EF02",
-  "ordem": 6,
+  "ordem": 8,
   "unidade": "Subtração",
   "titulo": "Algoritmos da Subtração",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF02MA06"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Subtrair por ordens justificando reagrupamentos."
+    ],
+    "resumo": "Subtrair por ordens justificando reagrupamentos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Conta de Menos (Pedir Emprestado)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Tirar, completar ou comparar. E o que fazer quando o número de cima é menor que o de baixo?\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🚪 Toc-Toc:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Batemos na porta do vizinho (dezena) e pedimos 1 emprestado. O vizinho diminui e nós aumentamos!</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Algoritmos da Subtração</h2><h3>O que vamos aprender</h3><p>Subtrair por ordens justificando reagrupamentos.</p><h3>Ideias e relações</h3><p>Na subtração, podemos separar uma quantidade e descobrir o que resta. Para registrar por ordens, às vezes precisamos reorganizar centenas, dezenas e unidades. Uma dezena pode ser trocada por dez unidades, sem mudar o total inicial. Faça essa troca no material antes de registrá-la na conta. Outra forma de conferir é somar o que foi retirado ao que restou: o resultado precisa reconstruir o início.</p><h3>Exemplo resolvido</h3><p>Em 142−27, trocamos uma das quatro dezenas por dez unidades. Ficamos com uma centena, três dezenas e doze unidades. Retirando duas dezenas e sete unidades, restam uma centena, uma dezena e cinco unidades: 115.</p><h3>Atenção ao raciocínio</h3><p>O reagrupamento não cria objetos: ele muda a forma de representar a mesma quantidade.</p><h3>Investigue e produza</h3><p>Represente 231 e retire 48 com material ou desenho de agrupamentos. Registre as trocas e confira a resposta por adição.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "subtracao",
+      "algoritmo"
+    ],
+    "errosComuns": [
+      "O reagrupamento não cria objetos: ele muda a forma de representar a mesma quantidade."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "algoritmos_da_subtracao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto é 142 − 27?",
+      "alternativas": [
+        "169",
+        "115",
+        "125"
+      ],
+      "correta": 1,
+      "explicacao": "142−20=122 e 122−7=115; 115+27=142 confere."
+    },
+    {
+      "id": "algoritmos_da_subtracao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Represente 231 e retire 48 com material ou desenho de agrupamentos. Registre as trocas e confira a resposta por adição.",
+      "gabarito": "Restam 183. Uma representação útil é 1 centena, 12 dezenas e 11 unidades; retirar 4 dezenas e 8 unidades deixa 1 centena, 8 dezenas e 3 unidades. 183+48=231.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Restam 183. Uma representação útil é 1 centena, 12 dezenas e 11 unidades; retirar 4 dezenas e 8 unidades deixa 1 centena, 8 dezenas e 3 unidades. 183+48=231.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "subtracao",
+    "algoritmo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        32
+      ],
+      "paginasImpressas": "35",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef02.subtracao.problemas_de_subtracao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }
