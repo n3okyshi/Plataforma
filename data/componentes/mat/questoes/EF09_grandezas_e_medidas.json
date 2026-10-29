@@ -1,0 +1,368 @@
+[
+  {
+    "id": "mat.ef09.grandezas_e_medidas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef09.grandezas_e_medidas.unidades_de_medida_de_outras_grandezas",
+    "bncc": [
+      "EF09MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "80 nm, usando 1 nm=10⁻⁹ m, equivalem a:",
+    "opcoes": [
+      "8× 10⁻⁹ m",
+      "80× 10⁹ m",
+      "8× 10⁸ m",
+      "8× 10⁻⁸ m"
+    ],
+    "correta": 3,
+    "explicacao": "80× 10⁻⁹=8× 10⁻⁸.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          109
+        ],
+        "paginasImpressas": "43, 112",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.grandezas_e_medidas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos",
+    "bncc": [
+      "EF09MA19"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um cilindro de raio 2 dm e altura 5 dm tem volume exato:",
+    "opcoes": [
+      "40π dm³",
+      "100π dm³",
+      "10π dm³",
+      "20π dm³"
+    ],
+    "correta": 3,
+    "explicacao": "V=π× 2²× 5=20π dm³.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          118,
+          119,
+          406
+        ],
+        "paginasImpressas": "121, 122, 409",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.grandezas_e_medidas.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef09.grandezas_e_medidas.grandezas_e_medidas_no_plano_cartesiano",
+    "bncc": [
+      "EF09MA16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A distância entre(1,2) e(4,6) é:",
+    "opcoes": [
+      "25",
+      "1",
+      "5",
+      "7"
+    ],
+    "correta": 2,
+    "explicacao": "O triângulo auxiliar tem catetos 3 e 4; a hipotenusa é 5.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298,
+          372
+        ],
+        "paginasImpressas": "300, 301, 375",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.grandezas_e_medidas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef09.grandezas_e_medidas.unidades_de_medida_de_outras_grandezas",
+    "bncc": [
+      "EF09MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Usando 1 nm = 10⁻⁹ m, 50 nm equivalem a:",
+    "opcoes": [
+      "5 × 10⁸ m",
+      "50 × 10⁹ m",
+      "5 × 10⁻¹⁰ m",
+      "5 × 10⁻⁸ m"
+    ],
+    "correta": 3,
+    "explicacao": "50× 10⁻⁹=5× 10⁻⁸ m.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          109
+        ],
+        "paginasImpressas": "43, 112",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.grandezas_e_medidas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos",
+    "bncc": [
+      "EF09MA19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um cilindro reto de raio 3 cm e altura 8 cm tem volume:",
+    "opcoes": [
+      "48π cm³",
+      "9π cm³",
+      "72π cm³",
+      "24π cm³"
+    ],
+    "correta": 2,
+    "explicacao": "V=πr²h=π× 9× 8=72π.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          118,
+          119,
+          406
+        ],
+        "paginasImpressas": "121, 122, 409",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.grandezas_e_medidas.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos",
+    "bncc": [
+      "EF09MA19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um prisma reto de área da base 15 cm² e altura 7 cm tem volume:",
+    "opcoes": [
+      "15/7 cm³",
+      "105 cm³",
+      "22 cm³",
+      "210 cm³"
+    ],
+    "correta": 1,
+    "explicacao": "V=A_base×h=15× 7=105.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          118,
+          119,
+          406
+        ],
+        "paginasImpressas": "121, 122, 409",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.grandezas_e_medidas.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef09.grandezas_e_medidas.grandezas_e_medidas_no_plano_cartesiano",
+    "bncc": [
+      "EF09MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A(1,2) e B(7,10) diferem 6 na horizontal e 8 na vertical. A distância AB é:",
+    "opcoes": [
+      "10",
+      "14",
+      "2",
+      "48"
+    ],
+    "correta": 0,
+    "explicacao": "Construir o triângulo dos deslocamentos e usar Pitágoras: √(6²+8²)=10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298,
+          372
+        ],
+        "paginasImpressas": "300, 301, 375",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.grandezas_e_medidas.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef09.grandezas_e_medidas.grandezas_e_medidas_no_plano_cartesiano",
+    "bncc": [
+      "EF09MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O ponto médio entre (2,1) e (8,5) é:",
+    "opcoes": [
+      "(6,4)",
+      "(10,6)",
+      "(3,2)",
+      "(5,3)"
+    ],
+    "correta": 3,
+    "explicacao": "Metade do deslocamento (6,4) é (3,2); partindo de (2,1), chegamos a (5,3).",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298,
+          372
+        ],
+        "paginasImpressas": "300, 301, 375",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

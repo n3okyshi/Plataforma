@@ -2,36 +2,118 @@
   "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 16,
+  "ordem": 18,
   "unidade": "Lugares Geométricos e Construções Geométricas",
   "titulo": "Lugares Geométricos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA17"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver equidistância com mediatriz e bissetriz como lugares geométricos."
+    ],
+    "resumo": "Resolver equidistância com mediatriz e bissetriz como lugares geométricos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Lugares Geométricos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conjuntos de pontos que satisfazem uma \"lei\" ou propriedade comum.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 Exemplos:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Circunferência:</strong> Equidistantes do centro.</li>\n                <li><strong>Mediatriz:</strong> Equidistantes de dois pontos.</li>\n                <li><strong>Bissetriz:</strong> Equidistantes dos lados de um ângulo.</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Lugares Geométricos</h2><h3>O que vamos aprender</h3><p>Resolver equidistância com mediatriz e bissetriz como lugares geométricos.</p><h3>Ideias e relações</h3><p>Um lugar geométrico reúne todos os pontos que satisfazem uma condição. Os pontos equidistantes de A e B pertencem à mediatriz de AB; reciprocamente, qualquer ponto dessa reta tem as duas distâncias iguais. No interior de um ângulo, os pontos equidistantes de seus lados pertencem à bissetriz; as distâncias aos lados são medidas por perpendiculares. Essas propriedades transformam uma busca entre muitos pontos em uma construção geométrica e permitem combinar condições por intersecções.</p><h3>Exemplo resolvido</h3><p>Um ponto de atendimento à mesma distância de duas localidades A e B deve estar na mediatriz de AB. Sem outra condição, não há uma posição única.</p><h3>Atenção ao raciocínio</h3><p>Equidistância dos lados de um ângulo não significa medir até seus extremos.</p><h3>Investigue e produza</h3><p>Marque duas localidades e uma estrada que cruze a mediatriz do segmento que as une. Encontre, no desenho, uma posição na estrada equidistante das localidades. Explique o papel da intersecção.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "lugar_geometrico",
+      "mediatriz"
+    ],
+    "errosComuns": [
+      "Equidistância dos lados de um ângulo não significa medir até seus extremos."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "lugares_geometricos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O conjunto de pontos equidistantes de duas posições A e B é:",
+      "alternativas": [
+        "A circunferência de centro A qualquer.",
+        "Somente o ponto A.",
+        "O segmento AB inteiro.",
+        "A mediatriz de AB."
+      ],
+      "correta": 3,
+      "explicacao": "A mediatriz caracteriza a igualdade das distâncias a A e B."
+    },
+    {
+      "id": "lugares_geometricos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Marque duas localidades e uma estrada que cruze a mediatriz do segmento que as une. Encontre, no desenho, uma posição na estrada equidistante das localidades. Explique o papel da intersecção.",
+      "gabarito": "A posição procurada é a intersecção entre estrada e mediatriz. Conferir as duas condições: pertencer à estrada e ter distâncias iguais. Discutir se a disposição escolhida dá uma ou mais soluções.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "A posição procurada é a intersecção entre estrada e mediatriz. Conferir as duas condições: pertencer à estrada e ter distâncias iguais. Discutir se a disposição escolhida dá uma ou mais soluções.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "lugar_geometrico",
+    "mediatriz"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        355,
+        364
+      ],
+      "paginasImpressas": "358, 367",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

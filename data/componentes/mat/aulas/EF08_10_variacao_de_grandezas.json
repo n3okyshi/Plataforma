@@ -1,0 +1,122 @@
+{
+  "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas",
+  "componente": "mat",
+  "nivel": "EF08",
+  "ordem": 10,
+  "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+  "titulo": "Variação de Grandezas",
+  "bncc": [
+    "EF08MA12"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Classificar variações diretas, inversas e não proporcionais e representá-las graficamente."
+    ],
+    "resumo": "Classificar variações diretas, inversas e não proporcionais e representá-las graficamente.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Variação de Grandezas</h2><h3>O que vamos aprender</h3><p>Classificar variações diretas, inversas e não proporcionais e representá-las graficamente.</p><h3>Ideias e relações</h3><p>Uma tabela deve ser investigada por razões ou produtos, e a sentença algébrica explica a natureza da variação. Em y=2x, a razão y/x é constante para x não nulo e o gráfico passa pela origem. Em y=12/x, com x positivo, o produto é 12 e o gráfico não é uma reta. Já y=2x+1 não é diretamente nem inversamente proporcional, embora y cresça com x. Marcar pontos no plano ajuda a comparar, mas uma conclusão geral exige a regra ou o modelo, não apenas poucos pontos.</p><h3>Exemplo resolvido</h3><p>Para x=1,2,3, y=2x+1 produz 3,5,7. As razões são 3; 2,5; e 7/3 não são iguais, e os produtos 3,10,21 também variam.</p><h3>Atenção ao raciocínio</h3><p>Uma reta não precisa representar proporcionalidade direta: ela também pode ter uma parcela fixa.</p><h3>Investigue e produza</h3><p>Construa tabelas e gráficos para y=2x, y=12/x e y=2x+1 usando entradas positivas adequadas. Justifique a classificação de cada relação.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "grandezas",
+      "proporcionalidade"
+    ],
+    "errosComuns": [
+      "Uma reta não precisa representar proporcionalidade direta: ela também pode ter uma parcela fixa."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "variacao_de_grandezas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual relação NÃO é diretamente proporcional?",
+      "alternativas": [
+        "y=2x+1",
+        "y=x/3",
+        "y=2x",
+        "y=5x"
+      ],
+      "correta": 0,
+      "explicacao": "A parcela fixa 1 impede que y/x seja constante."
+    },
+    {
+      "id": "variacao_de_grandezas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa tabelas e gráficos para y=2x, y=12/x e y=2x+1 usando entradas positivas adequadas. Justifique a classificação de cada relação.",
+      "gabarito": "Direta: razão 2; inversa: produto 12; terceira: razão e produto variáveis. Indicar escalas, eixos e os valores usados, sem ligar a função inversa como se fosse reta.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Direta: razão 2; inversa: produto 12; terceira: razão e produto variáveis. Indicar escalas, eixos e os valores usados, sem ligar a função inversa como se fosse reta.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "grandezas",
+    "proporcionalidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        174,
+        297,
+        298
+      ],
+      "paginasImpressas": "177, 300, 301",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade"
+  ],
+  "proximosPassos": [
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.porcentagens_no_cotidiano"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

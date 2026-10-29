@@ -1,0 +1,262 @@
+{
+  "id": "mat.ef07.expressoes_algebricas_e_equacoes.prova",
+  "titulo": "Avaliação: Expressões Algébricas e Equações",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF07",
+  "unidade": "Expressões Algébricas e Equações",
+  "bncc": [
+    "EF07MA05",
+    "EF07MA06",
+    "EF07MA07",
+    "EF07MA13",
+    "EF07MA14",
+    "EF07MA15",
+    "EF07MA16",
+    "EF07MA18"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef07.expressoes_algebricas_e_equacoes.prova.01",
+    "mat.ef07.expressoes_algebricas_e_equacoes.prova.02",
+    "mat.ef07.expressoes_algebricas_e_equacoes.prova.03",
+    "mat.ef07.expressoes_algebricas_e_equacoes.prova.04",
+    "mat.ef07.expressoes_algebricas_e_equacoes.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF07MA05",
+      "questoes": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas#algoritmos_e_fluxogramas_de_problemas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA06",
+      "questoes": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas#algoritmos_e_fluxogramas_de_problemas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA07",
+      "questoes": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas#algoritmos_e_fluxogramas_de_problemas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA13",
+      "questoes": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas#expressoes_algebricas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA14",
+      "questoes": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica#sequencias_e_linguagem_algebrica.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA15",
+      "questoes": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica#sequencias_e_linguagem_algebrica.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA16",
+      "questoes": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica#sequencias_e_linguagem_algebrica.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA18",
+      "questoes": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.03",
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau#equacoes_do_1_grau.investigacao",
+        "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes#resolucao_de_problemas_com_equacoes.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef07.expressoes_algebricas_e_equacoes.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Expressões Algébricas e Equações",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Crie uma situação para C = 5n + 10. Faça uma tabela para três valores de n e transforme uma das linhas numa pergunta com incógnita. 2. Resolva 2(x + 4) = 26 por duas sequências de operações válidas e confira. 3. Crie um problema para 5x − 12 = 48. Defina x, resolva e explique como conferir no contexto. 4. Desenhe um padrão que comece com quatro peças e acrescente três por etapa. Dê a regra recursiva e uma expressão direta. Compare 3(n−1)+4 e 3n+1. 5. Resolva 12× 25 por dois algoritmos. Depois escreva e desenhe um fluxograma para calcular o total de n pacotes de 25; execute-o para n=4 e n=12.",
+    "gabarito": "Conferência por tarefa: 1. Exemplo: taxa fixa de 10 e cinco por item. Para n=1,2,3, C=15,20,25. Perguntar a quantidade quando C=25 transforma n numa incógnita. 2. Dividir por 2 e subtrair 4 dá x=9. Outra estratégia: distribuir, obter 2x+8=26, subtrair 8 e dividir por 2. Ambas preservam a igualdade. 3. x=12. O enunciado deve representar cinco quantidades iguais, retirada de doze e resultado quarenta e oito; a substituição 5× 12−12=48 confirma. 4. Recursiva: iniciar com 4 e acrescentar 3. Direta: 4+3(n−1)=3n+1. As expressões são equivalentes pela distributiva. Relacionar a regra ao desenho de cada etapa. 5. 12× 25=300, por exemplo 10× 25+2× 25 ou 3×(4× 25). Fluxograma: ler n, multiplicar por 25, informar o total, terminar. Saídas 100 e 300.",
+    "bncc": [
+      "EF07MA05",
+      "EF07MA06",
+      "EF07MA07",
+      "EF07MA13",
+      "EF07MA14",
+      "EF07MA15",
+      "EF07MA16",
+      "EF07MA18"
+    ],
+    "atividadesOrigem": [
+      "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas#expressoes_algebricas.investigacao",
+      "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau#equacoes_do_1_grau.investigacao",
+      "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes#resolucao_de_problemas_com_equacoes.investigacao",
+      "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica#sequencias_e_linguagem_algebrica.investigacao",
+      "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas#algoritmos_e_fluxogramas_de_problemas.investigacao"
+    ],
+    "duracaoMinSugerida": 75,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Expressões Algébricas",
+        "enunciado": "Crie uma situação para C = 5n + 10. Faça uma tabela para três valores de n e transforme uma das linhas numa pergunta com incógnita.",
+        "gabarito": "Exemplo: taxa fixa de 10 e cinco por item. Para n=1,2,3, C=15,20,25. Perguntar a quantidade quando C=25 transforma n numa incógnita.",
+        "bncc": [
+          "EF07MA13"
+        ],
+        "atividadeOrigem": "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas#expressoes_algebricas.investigacao"
+      },
+      {
+        "titulo": "Equações do 1º Grau",
+        "enunciado": "Resolva 2(x + 4) = 26 por duas sequências de operações válidas e confira.",
+        "gabarito": "Dividir por 2 e subtrair 4 dá x=9. Outra estratégia: distribuir, obter 2x+8=26, subtrair 8 e dividir por 2. Ambas preservam a igualdade.",
+        "bncc": [
+          "EF07MA18"
+        ],
+        "atividadeOrigem": "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau#equacoes_do_1_grau.investigacao"
+      },
+      {
+        "titulo": "Resolução de Problemas com Equações",
+        "enunciado": "Crie um problema para 5x − 12 = 48. Defina x, resolva e explique como conferir no contexto.",
+        "gabarito": "x=12. O enunciado deve representar cinco quantidades iguais, retirada de doze e resultado quarenta e oito; a substituição 5× 12−12=48 confirma.",
+        "bncc": [
+          "EF07MA18"
+        ],
+        "atividadeOrigem": "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes#resolucao_de_problemas_com_equacoes.investigacao"
+      },
+      {
+        "titulo": "Sequências e Linguagem Algébrica",
+        "enunciado": "Desenhe um padrão que comece com quatro peças e acrescente três por etapa. Dê a regra recursiva e uma expressão direta. Compare 3(n−1)+4 e 3n+1.",
+        "gabarito": "Recursiva: iniciar com 4 e acrescentar 3. Direta: 4+3(n−1)=3n+1. As expressões são equivalentes pela distributiva. Relacionar a regra ao desenho de cada etapa.",
+        "bncc": [
+          "EF07MA14",
+          "EF07MA15",
+          "EF07MA16"
+        ],
+        "atividadeOrigem": "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica#sequencias_e_linguagem_algebrica.investigacao"
+      },
+      {
+        "titulo": "Algoritmos e Fluxogramas de Problemas",
+        "enunciado": "Resolva 12× 25 por dois algoritmos. Depois escreva e desenhe um fluxograma para calcular o total de n pacotes de 25; execute-o para n=4 e n=12.",
+        "gabarito": "12× 25=300, por exemplo 10× 25+2× 25 ou 3×(4× 25). Fluxograma: ler n, multiplicar por 25, informar o total, terminar. Saídas 100 e 300.",
+        "bncc": [
+          "EF07MA05",
+          "EF07MA06",
+          "EF07MA07"
+        ],
+        "atividadeOrigem": "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas#algoritmos_e_fluxogramas_de_problemas.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        206,
+        207,
+        208
+      ],
+      "paginasImpressas": "209, 210, 211",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        148,
+        154,
+        155
+      ],
+      "paginasImpressas": "151, 157, 158",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        148,
+        154,
+        156
+      ],
+      "paginasImpressas": "151, 157, 159",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34,
+        35
+      ],
+      "paginasImpressas": "37, 38",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

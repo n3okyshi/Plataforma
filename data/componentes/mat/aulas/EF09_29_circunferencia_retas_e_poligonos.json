@@ -2,36 +2,119 @@
   "id": "mat.ef09.circunferencia_e_circulos.circunferencia_retas_e_poligonos",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 29,
+  "ordem": 23,
   "unidade": "Circunferência e Círculos",
   "titulo": "Circunferência, Retas e Polígonos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA15"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Descrever e executar construção de polígono regular com lado conhecido."
+    ],
+    "resumo": "Descrever e executar construção de polígono regular com lado conhecido.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Reta e Circunferência</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Posições relativas (tangente, secante, externa). Estudo de polígonos inscritos e circunscritos.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">👆 Tangente:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A reta tangente toca a circunferência em apenas um ponto e forma <strong>90º</strong> com o raio.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Circunferência, Retas e Polígonos</h2><h3>O que vamos aprender</h3><p>Descrever e executar construção de polígono regular com lado conhecido.</p><h3>Ideias e relações</h3><p>Régua e compasso permitem construir um polígono regular a partir de um comprimento dado. Para um hexágono regular de lado a&gt;0, trace uma circunferência de raio a, escolha um ponto inicial e transporte a mesma abertura do compasso seis vezes sobre a curva. Una os pontos consecutivos. A justificativa está nos seis triângulos equiláteros formados com o centro. Registre as repetições em texto e fluxograma e, se possível, reproduza os passos em software. Como retomada, uma reta pode ser externa, secante ou tangente à circunferência conforme tenha zero, dois ou um ponto comum.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Hexágono regular dividido em seis triângulos equiláteros por raios.\" style=\"max-width:100%;color:inherit\"><title>Hexágono regular dividido em seis triângulos equiláteros por raios.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><polygon points=\"305.00,120.00 262.50,46.39 177.50,46.39 135.00,120.00 177.50,193.61 262.50,193.61\"/><path d=\"M220 120 305.00 120.00\"/><path d=\"M220 120 262.50 46.39\"/><path d=\"M220 120 177.50 46.39\"/><path d=\"M220 120 135.00 120.00\"/><path d=\"M220 120 177.50 193.61\"/><path d=\"M220 120 262.50 193.61\"/></g><g fill=\"currentColor\" font-size=\"16\"><text x=\"242\" y=\"113\">60°</text><text x=\"95\" y=\"235\">Cada lado mede o mesmo que o raio.</text></g></svg><h3>Exemplo resolvido</h3><p>Num hexágono regular de lado 4 cm, o raio da circunferência circunscrita também mede 4 cm e cada ângulo central mede 60°.</p><h3>Atenção ao raciocínio</h3><p>Uma construção feita apenas pela aparência não garante regularidade.</p><h3>Investigue e produza</h3><p>Produza o algoritmo escrito e o fluxograma do hexágono dado o lado. Execute para dois comprimentos e registre o que muda e o que é preservado.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "circunferencia",
+      "poligonos_regulares"
+    ],
+    "errosComuns": [
+      "Uma construção feita apenas pela aparência não garante regularidade."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "circunferencia_retas_e_poligonos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O raio da circunferência circunscrita a um hexágono regular de lado 4 cm mede:",
+      "alternativas": [
+        "8 cm",
+        "2 cm",
+        "4 cm",
+        "6 cm"
+      ],
+      "correta": 2,
+      "explicacao": "O hexágono se divide em seis triângulos equiláteros, de lado e raio iguais."
+    },
+    {
+      "id": "circunferencia_retas_e_poligonos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Produza o algoritmo escrito e o fluxograma do hexágono dado o lado. Execute para dois comprimentos e registre o que muda e o que é preservado.",
+      "gabarito": "Entrada a>0, circunferência de raio a, marcação sucessiva de seis cordas de medida a, ligação e fechamento. Preservam-se ângulos e regularidade; os comprimentos variam com a. A versão digital deve reproduzir as condições geométricas.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Entrada a>0, circunferência de raio a, marcação sucessiva de seis cordas de medida a, ligação e fechamento. Preservam-se ângulos e regularidade; os comprimentos variam com a. A versão digital deve reproduzir as condições geométricas.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "circunferencia",
+    "poligonos_regulares"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        408,
+        415,
+        416
+      ],
+      "paginasImpressas": "411, 418, 419",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.circunferencia_e_circulos.angulos_em_uma_circunferencia"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

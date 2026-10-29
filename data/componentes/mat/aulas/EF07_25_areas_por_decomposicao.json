@@ -1,0 +1,119 @@
+{
+  "id": "mat.ef07.area_de_figuras_planas.areas_por_decomposicao",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 25,
+  "unidade": "Área de Figuras Planas",
+  "titulo": "Áreas por Decomposição",
+  "bncc": [
+    "EF07MA32"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Resolver áreas de figuras compostas usando soma, diferença e equivalência de regiões."
+    ],
+    "resumo": "Resolver áreas de figuras compostas usando soma, diferença e equivalência de regiões.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Áreas por Decomposição</h2><h3>O que vamos aprender</h3><p>Resolver áreas de figuras compostas usando soma, diferença e equivalência de regiões.</p><h3>Ideias e relações</h3><p>Uma figura composta pode ser dividida em retângulos e triângulos de áreas conhecidas, sem sobreposição nem lacunas. Também podemos completar um retângulo e subtrair a região que falta. Desenhe os cortes, indique as medidas necessárias e escolha uma decomposição que simplifique o cálculo. Diferentes decomposições devem produzir o mesmo total, pois apenas reorganizam a mesma região. Não aplique uma expressão a um contorno que não corresponde à figura geométrica exigida.</p><h3>Exemplo resolvido</h3><p>Uma região em L cabe num retângulo 8× 6, do qual foi retirado um retângulo 3× 2. A área é 48−6=42 unidades quadradas.</p><h3>Atenção ao raciocínio</h3><p>Somar áreas sobrepostas conta uma mesma região duas vezes.</p><h3>Investigue e produza</h3><p>Desenhe a região do exemplo e resolva por uma segunda decomposição em retângulos. Explique por que os resultados coincidem.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "area",
+      "decomposicao"
+    ],
+    "errosComuns": [
+      "Somar áreas sobrepostas conta uma mesma região duas vezes."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "areas_por_decomposicao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "De um retângulo 8× 6 retira-se uma região retangular 3× 2. A área restante é:",
+      "alternativas": [
+        "40",
+        "42",
+        "54",
+        "36"
+      ],
+      "correta": 1,
+      "explicacao": "O total 48 perde uma região de área 6, restando 42."
+    },
+    {
+      "id": "areas_por_decomposicao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe a região do exemplo e resolva por uma segunda decomposição em retângulos. Explique por que os resultados coincidem.",
+      "gabarito": "Uma decomposição possível, com o recorte num canto, produz retângulos 5× 6 e 3× 4, de áreas 30 e 12. A soma 42 coincide com 48−6; o desenho deve indicar onde foi o recorte.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Uma decomposição possível, com o recorte num canto, produz retângulos 5× 6 e 3× 4, de áreas 30 e 12. A soma 42 coincide com 48−6; o desenho deve indicar onde foi o recorte.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "area",
+    "decomposicao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        112,
+        113
+      ],
+      "paginasImpressas": "115, 116",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.area_de_figuras_planas.area_de_triangulos"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

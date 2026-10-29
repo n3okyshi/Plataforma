@@ -1,0 +1,468 @@
+[
+  {
+    "id": "mat.ef07.expressoes_algebricas_e_equacoes.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Expressões Algébricas e Equações",
+    "aulaId": "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas",
+    "bncc": [
+      "EF07MA13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em C = 4n + 7, qual é C quando n = 3?",
+    "opcoes": [
+      "21",
+      "28",
+      "40",
+      "19"
+    ],
+    "correta": 3,
+    "explicacao": "4× 3 + 7 = 12 + 7 = 19.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          206,
+          207,
+          208
+        ],
+        "paginasImpressas": "209, 210, 211",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.expressoes_algebricas_e_equacoes.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Expressões Algébricas e Equações",
+    "aulaId": "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau",
+    "bncc": [
+      "EF07MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A solução de 3x − 5 = 16 é:",
+    "opcoes": [
+      "7",
+      "11",
+      "3",
+      "5"
+    ],
+    "correta": 0,
+    "explicacao": "Somar 5 e dividir por 3 dá x = 7; a substituição confirma.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          148,
+          154,
+          155
+        ],
+        "paginasImpressas": "151, 157, 158",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.expressoes_algebricas_e_equacoes.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Expressões Algébricas e Equações",
+    "aulaId": "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes",
+    "bncc": [
+      "EF07MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quatro ingressos e uma taxa única de 8 totalizam 60. Qual equação representa o preço x de cada ingresso?",
+    "opcoes": [
+      "4x=68",
+      "4(x+8)=60",
+      "x+4+8=60",
+      "4x+8=60"
+    ],
+    "correta": 3,
+    "explicacao": "O preço se repete quatro vezes, mas a taxa é acrescentada apenas uma vez.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          148,
+          154,
+          156
+        ],
+        "paginasImpressas": "151, 157, 159",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.expressoes_algebricas_e_equacoes.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Expressões Algébricas e Equações",
+    "aulaId": "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica",
+    "bncc": [
+      "EF07MA14",
+      "EF07MA15",
+      "EF07MA16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A sequência dada por aₙ=2n+1, para n a partir de 1, tem décimo termo:",
+    "opcoes": [
+      "11",
+      "20",
+      "21",
+      "22"
+    ],
+    "correta": 2,
+    "explicacao": "Substituir n por 10 dá 21.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          206,
+          207,
+          208
+        ],
+        "paginasImpressas": "209, 210, 211",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.expressoes_algebricas_e_equacoes.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Expressões Algébricas e Equações",
+    "aulaId": "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas",
+    "bncc": [
+      "EF07MA05",
+      "EF07MA06",
+      "EF07MA07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual procedimento serve para qualquer número natural n de pacotes de 15 itens?",
+    "opcoes": [
+      "Calcular 15×n.",
+      "Dividir sempre 15 por n.",
+      "Usar sempre o resultado 120.",
+      "Somar 15 apenas uma vez."
+    ],
+    "correta": 0,
+    "explicacao": "Cada pacote contribui com quinze itens; o total depende da entrada n.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.expressoes_algebricas_e_equacoes.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Expressões Algébricas e Equações",
+    "aulaId": "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas",
+    "bncc": [
+      "EF07MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em C=3n+5, quando n varia para representar quantidades, n é:",
+    "opcoes": [
+      "Uma variável da relação.",
+      "Obrigatoriamente um resultado único.",
+      "Uma unidade de área.",
+      "Sempre uma constante."
+    ],
+    "correta": 0,
+    "explicacao": "n pode assumir diferentes entradas e determina custos correspondentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          206,
+          207,
+          208
+        ],
+        "paginasImpressas": "209, 210, 211",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.expressoes_algebricas_e_equacoes.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Expressões Algébricas e Equações",
+    "aulaId": "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica",
+    "bncc": [
+      "EF07MA14",
+      "EF07MA15",
+      "EF07MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "As regras 2n+3 e n+n+3, para posições n≥1, são:",
+    "opcoes": [
+      "Iguais apenas para n=1.",
+      "Regras sem posição definida.",
+      "Equivalentes pela soma n+n=2n.",
+      "Diferentes para toda posição."
+    ],
+    "correta": 2,
+    "explicacao": "A transformação algébrica conserva cada termo; a regra direta difere de uma descrição recursiva, embora possa gerar a mesma sequência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          206,
+          207,
+          208
+        ],
+        "paginasImpressas": "209, 210, 211",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.expressoes_algebricas_e_equacoes.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Expressões Algébricas e Equações",
+    "aulaId": "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau",
+    "bncc": [
+      "EF07MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A solução de 4x+3=31 é:",
+    "opcoes": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "correta": 3,
+    "explicacao": "Subtrair 3 dá 4x=28; dividir por 4 dá 7.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          148,
+          154,
+          155
+        ],
+        "paginasImpressas": "151, 157, 158",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.expressoes_algebricas_e_equacoes.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Expressões Algébricas e Equações",
+    "aulaId": "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes",
+    "bncc": [
+      "EF07MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Três ingressos iguais e taxa única 6 custam 42. O preço de cada ingresso é:",
+    "opcoes": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correta": 1,
+    "explicacao": "3x+6=42, então x=12.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          148,
+          154,
+          156
+        ],
+        "paginasImpressas": "151, 157, 159",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.expressoes_algebricas_e_equacoes.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Expressões Algébricas e Equações",
+    "aulaId": "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas",
+    "bncc": [
+      "EF07MA05",
+      "EF07MA06",
+      "EF07MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para problemas de n pacotes iguais com 20 itens cada, um procedimento reutilizável é:",
+    "opcoes": [
+      "Ler n, calcular 20n e informar o total.",
+      "Mudar de operação sem observar os dados.",
+      "Apresentar apenas um desenho sem etapas.",
+      "Fixar a resposta 20."
+    ],
+    "correta": 0,
+    "explicacao": "A entrada varia, mas a estrutura de grupos iguais permanece.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

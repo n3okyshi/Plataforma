@@ -2,36 +2,119 @@
   "id": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 20,
+  "ordem": 12,
   "unidade": "Sistema de Equações do 1° Grau com 2 Incógnitas",
-  "titulo": "Sistema de Equações do 1° Grau com 2 Incógnitas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Sistemas de Equações do 1º Grau com 2 Incógnitas",
+  "bncc": [
+    "EF08MA07"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Associar soluções de uma equação linear com duas incógnitas a pontos de uma reta."
+    ],
+    "resumo": "Associar soluções de uma equação linear com duas incógnitas a pontos de uma reta.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sistemas Lineares</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução ao sistema linear. A solução não é um número, mas um <strong>par ordenado (x, y)</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📈 Visão Gráfica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Cada equação é uma reta. A solução do sistema é exatamente o ponto onde as duas retas se cruzam.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Sistemas de Equações do 1º Grau com 2 Incógnitas</h2><h3>O que vamos aprender</h3><p>Associar soluções de uma equação linear com duas incógnitas a pontos de uma reta.</p><h3>Ideias e relações</h3><p>Uma equação linear com duas incógnitas pode admitir muitos pares solução. Em x+y=8, cada par que satisfaz a igualdade é representado por um ponto; os pontos formam uma reta no plano real. Para desenhá-la, encontre pelo menos dois pares distintos e use a escala dos eixos. A posição das coordenadas importa. Se o contexto exige quantidades inteiras não negativas, apenas parte dos pontos da reta será admissível; a representação algébrica e o domínio do problema precisam ser articulados.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Duas retas: x+y=8 e x−y=2, com intersecção em (5,3).\" style=\"max-width:100%;color:inherit\"><title>Duas retas: x+y=8 e x−y=2, com intersecção em (5,3).</title><g stroke=\"currentColor\" fill=\"none\"><path d=\"M95 210H290M110 225V35\"/><path d=\"M110 206V214M106 210H114\"/><path d=\"M130 206V214M106 190H114\"/><path d=\"M150 206V214M106 170H114\"/><path d=\"M170 206V214M106 150H114\"/><path d=\"M190 206V214M106 130H114\"/><path d=\"M210 206V214M106 110H114\"/><path d=\"M230 206V214M106 90H114\"/><path d=\"M250 206V214M106 70H114\"/><path d=\"M270 206V214M106 50H114\"/></g><path d=\"M110 50 270 210\" stroke=\"#2563eb\" stroke-width=\"2\"/><path d=\"M150 210 270 90\" stroke=\"#16a34a\" stroke-width=\"2\"/><circle cx=\"210\" cy=\"150\" r=\"5\" fill=\"#dc2626\"/><g fill=\"currentColor\" font-size=\"14\"><text x=\"216\" y=\"145\">(5,3)</text><text x=\"96\" y=\"230\">0</text><text x=\"265\" y=\"230\">8</text><text x=\"90\" y=\"55\">8</text><text x=\"295\" y=\"215\">x</text><text x=\"105\" y=\"25\">y</text><text x=\"300\" y=\"75\">Azul: x+y=8</text><text x=\"300\" y=\"100\">Verde: x−y=2</text></g></svg><h3>Exemplo resolvido</h3><p>(0,8),(3,5) e(8,0) satisfazem x+y=8. O ponto(5,3) também pertence à reta, mas(5,4) não pertence, pois a soma é 9.</p><h3>Atenção ao raciocínio</h3><p>Duas incógnitas não significam automaticamente uma única solução.</p><h3>Investigue e produza</h3><p>Construa a reta 2x+y=6 usando três pares solução. Se x e y representam quantidades de objetos, identifique os pares inteiros não negativos.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "sistemas_de_equacoes",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Duas incógnitas não significam automaticamente uma única solução."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "sistema_de_equacoes_do_1_grau_com_2_incognitas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual ponto pertence à reta x+y=8?",
+      "alternativas": [
+        "(2,5)",
+        "(3,4)",
+        "(5,3)",
+        "(8,1)"
+      ],
+      "correta": 2,
+      "explicacao": "5+3=8."
+    },
+    {
+      "id": "sistema_de_equacoes_do_1_grau_com_2_incognitas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa a reta 2x+y=6 usando três pares solução. Se x e y representam quantidades de objetos, identifique os pares inteiros não negativos.",
+      "gabarito": "Pontos possíveis(0,6),(1,4),(2,2),(3,0). A reta contém outros pontos reais; o contexto restringe os pares aos inteiros não negativos indicados.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Pontos possíveis(0,6),(1,4),(2,2),(3,0). A reta contém outros pontos reais; o contexto restringe os pares aos inteiros não negativos indicados.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sistemas_de_equacoes",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        163,
+        164,
+        297
+      ],
+      "paginasImpressas": "166, 167, 300",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

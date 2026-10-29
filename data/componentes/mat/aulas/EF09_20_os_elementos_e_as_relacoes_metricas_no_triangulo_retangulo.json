@@ -2,36 +2,121 @@
   "id": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 20,
+  "ordem": 19,
   "unidade": "Relações Métricas no Triângulo Retângulo",
-  "titulo": "Os Elementos e as Relações Métricas no Triângulo Retângulo",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Elementos e Relações Métricas no Triângulo Retângulo",
+  "bncc": [
+    "EF09MA13"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Demonstrar relações métricas usando semelhança de triângulos e áreas."
+    ],
+    "resumo": "Demonstrar relações métricas usando semelhança de triângulos e áreas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Relações Métricas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Além de Pitágoras, existem outras relações envolvendo a altura e as projeções dos catetos.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Fórmulas:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">$h^2 = m \\cdot n$ (altura ao quadrado = produto das projeções).<br>$b^2 = a \\cdot m$ (cateto ao quadrado = hipotenusa vezes sua projeção).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Elementos e Relações Métricas no Triângulo Retângulo</h2><h3>O que vamos aprender</h3><p>Demonstrar relações métricas usando semelhança de triângulos e áreas.</p><h3>Ideias e relações</h3><p>No triângulo ABC retângulo em C, tome AB=a, AC=b, BC=c e a altura CD=h. As projeções AD=m e DB=n satisfazem m+n=a. Os triângulos formados pela altura são semelhantes ao original por AA. Da razão m/b=b/a, obtemos b²=am; de modo análogo,c²=an. A semelhança dos menores fornece h²=mn. Comparando duas expressões da área, bc/2=ah/2, obtemos bc=ah. Cada expressão deve respeitar a projeção correspondente ao cateto.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Triângulo ABC retângulo em C, com altitude CD à hipotenusa AB.\" style=\"max-width:100%;color:inherit\"><title>Triângulo ABC retângulo em C, com altitude CD à hipotenusa AB.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M70 210 178 66 370 210Z\"/><path d=\"M178 66V210\" stroke-dasharray=\"5 4\"/><path d=\"M178 196H192V210\"/></g><g fill=\"currentColor\" font-size=\"16\"><text x=\"52\" y=\"230\">A</text><text x=\"375\" y=\"230\">B</text><text x=\"171\" y=\"54\">C</text><text x=\"162\" y=\"230\">D</text><text x=\"92\" y=\"131\">b</text><text x=\"285\" y=\"125\">c</text><text x=\"213\" y=\"245\">a</text><text x=\"155\" y=\"145\">h</text></g></svg><h3>Exemplo resolvido</h3><p>Para a=5,b=3,c=4, temos m=9/5=1,8,n=16/5=3,2 e h=12/5=2,4. A soma das projeções confirma 5.</p><h3>Atenção ao raciocínio</h3><p>Trocar m e n sem trocar os catetos correspondentes altera as relações.</p><h3>Investigue e produza</h3><p>Use a figura para identificar os três triângulos semelhantes. Demonstre b²=am e h²=mn e confira para o exemplo 3,4,5.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "relacoes_metricas",
+      "triangulo_retangulo"
+    ],
+    "errosComuns": [
+      "Trocar m e n sem trocar os catetos correspondentes altera as relações."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com hipotenusa 5 e catetos 3 e 4, a altura à hipotenusa é:",
+      "alternativas": [
+        "4",
+        "1,2",
+        "2,4",
+        "3"
+      ],
+      "correta": 2,
+      "explicacao": "bc=ah dá 3× 4=5h, portanto h=2,4."
+    },
+    {
+      "id": "os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Use a figura para identificar os três triângulos semelhantes. Demonstre b²=am e h²=mn e confira para o exemplo 3,4,5.",
+      "gabarito": "Explicitar AA e correspondência de lados. m/b=b/a e m/h=h/n levam às relações. Conferências:9=5× 1,8 e 5,76=1,8× 3,2.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Explicitar AA e correspondência de lados. m/b=b/a e m/h=h/n levam às relações. Conferências:9=5× 1,8 e 5,76=1,8× 3,2.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "relacoes_metricas",
+    "triangulo_retangulo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        372,
+        373,
+        374
+      ],
+      "paginasImpressas": "375, 376, 377",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.relacoes_metricas_no_triangulo_retangulo.uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras"
+  ],
+  "proximosPassos": [
+    "mat.ef09.relacoes_metricas_no_triangulo_retangulo.aplicacoes_importantes_do_teorema_de_pitagoras"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

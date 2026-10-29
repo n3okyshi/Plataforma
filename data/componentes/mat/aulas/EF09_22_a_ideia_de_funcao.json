@@ -2,36 +2,119 @@
   "id": "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 22,
+  "ordem": 10,
   "unidade": "Explorando a Ideia de Função",
   "titulo": "A Ideia de Função",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA06"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Reconhecer dependência unívoca e conectar tabela, regra e gráfico."
+    ],
+    "resumo": "Reconhecer dependência unívoca e conectar tabela, regra e gráfico.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">O Que é Função?</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Formalização da relação entre grandezas. Definição rigorosa de Domínio (entrada), Contradomínio (possíveis saídas) e Imagem (saídas reais).\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔍 Teste da Reta Vertical:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">No gráfico, se você traçar uma linha vertical e ela cortar a curva em mais de um ponto, <strong>não é função</strong>.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>A Ideia de Função</h2><h3>O que vamos aprender</h3><p>Reconhecer dependência unívoca e conectar tabela, regra e gráfico.</p><h3>Ideias e relações</h3><p>Uma função associa a cada entrada admitida exatamente uma saída. Entradas diferentes podem ter a mesma saída; o que não pode ocorrer é uma mesma entrada possuir duas saídas na regra definida. O domínio informa quais entradas são permitidas. Uma relação pode ser apresentada verbalmente, por tabela, expressão ou gráfico, e essas representações precisam concordar. Em situações de contagem, o domínio pode ser discreto; em medidas idealizadas, pode incluir intervalos de reais.</p><h3>Exemplo resolvido</h3><p>Se o custo é C(n)=4n+6, então C(0)=6 e C(3)=18. O valor fixo 6 e o preço por item 4 têm papéis diferentes na dependência.</p><h3>Atenção ao raciocínio</h3><p>Uma letra numa tabela não basta para afirmar que a relação é função: confira a unicidade da saída.</p><h3>Investigue e produza</h3><p>Crie uma relação funcional para uma situação cotidiana. Apresente domínio, três pares, regra e uma interpretação da saída para uma entrada escolhida.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "funcao",
+      "variavel"
+    ],
+    "errosComuns": [
+      "Uma letra numa tabela não basta para afirmar que a relação é função: confira a unicidade da saída."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "a_ideia_de_funcao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual relação viola a unicidade de saída para uma mesma entrada?",
+      "alternativas": [
+        "1→3 e 2→4",
+        "0→6 e 3→18",
+        "1→2 e 2→2",
+        "1→2 e 1→3"
+      ],
+      "correta": 3,
+      "explicacao": "A entrada 1 foi associada a duas saídas diferentes."
+    },
+    {
+      "id": "a_ideia_de_funcao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Crie uma relação funcional para uma situação cotidiana. Apresente domínio, três pares, regra e uma interpretação da saída para uma entrada escolhida.",
+      "gabarito": "As quatro representações devem ser coerentes e cada entrada do domínio ter uma saída única. Explicar unidades e possíveis restrições, como quantidades inteiras não negativas.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "As quatro representações devem ser coerentes e cada entrada do domínio ter uma saída única. Explicar unidades e possíveis restrições, como quantidades inteiras não negativas.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "funcao",
+    "variavel"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        294,
+        295,
+        300
+      ],
+      "paginasImpressas": "297, 298, 303",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -16,7 +16,7 @@ const arena = {
         if (!window.Registry || !['treino', 'prova'].includes(tipo)) return;
         let pool = Registry.getQuestoes(nivel, disciplina, unidade, tipo);
         const prova = tipo === 'prova' ? Registry.getProva(nivel, disciplina, unidade) : null;
-        const quantidade = tipo === 'prova' ? (prova?.questoes?.length || 0) : 5;
+        const quantidade = tipo === 'prova' ? (prova?.questoes?.length || 0) : Math.min(5, pool.length);
         if (tipo === 'prova' && prova && Array.isArray(prova.questoes)) {
             const porId = new Map(pool.map(q => [q.id, q]));
             pool = prova.questoes.map(id => porId.get(id)).filter(Boolean);
@@ -101,7 +101,14 @@ const arena = {
             return `<li class="my-5 p-4 rounded-xl border"><h2 class="font-bold">${i + 1}. ${views.escapeHTML(q.pergunta)}</h2><p>Sua resposta: ${views.escapeHTML(q.opcoes[r.respostaDada])} — ${r.acertou ? 'correta' : 'rever'}</p><p>Resposta esperada: ${views.escapeHTML(q.opcoes[q.correta])}</p><p>${views.escapeHTML(q.explicacao)}</p></li>`;
         }).join('');
         const pratica = s.tipo === 'prova' ? s.prova?.avaliacaoPratica : null;
-        const etapaPratica = pratica ? `<section class="my-8 p-5 rounded-xl border"><h2 class="text-2xl font-bold">Etapa prática: ${views.escapeHTML(pratica.titulo)}</h2><p class="my-3">${views.escapeHTML(pratica.enunciado)}</p><h3 class="font-bold">Critérios para observar sua produção</h3><ul class="list-disc pl-5">${pratica.rubrica.map(c => `<li>${views.escapeHTML(c)}</li>`).join('')}</ul><p class="my-3">A nota acima considera os itens objetivos. Esta etapa precisa da sua produção e da avaliação do professor; não recebe nota automática.</p><details><summary class="font-bold cursor-pointer">Orientações para autoavaliação</summary><p>${views.escapeHTML(pratica.gabarito)}</p></details></section>` : '';
+        const tarefas = Array.isArray(pratica?.tarefas) ? pratica.tarefas : [];
+        const producoes = tarefas.length
+            ? '<p>Reúna as produções abaixo, registre as revisões feitas após a devolutiva e utilize dados realmente coletados nas pesquisas e experimentos.</p><ol class="list-decimal pl-6">' + tarefas.map(t => `<li class="my-4"><h3 class="font-bold">${views.escapeHTML(t.titulo)}</h3><p>${views.escapeHTML(t.enunciado)}</p></li>`).join('') + '</ol>'
+            : `<p class="my-3">${views.escapeHTML(pratica?.enunciado || '')}</p>`;
+        const orientacoes = tarefas.length
+            ? '<ol class="list-decimal pl-6">' + tarefas.map(t => `<li class="my-4"><strong>${views.escapeHTML(t.titulo)}</strong><p>${views.escapeHTML(t.gabarito)}</p></li>`).join('') + '</ol>'
+            : `<p>${views.escapeHTML(pratica?.gabarito || '')}</p>`;
+        const etapaPratica = pratica ? `<section class="my-8 p-5 rounded-xl border"><h2 class="text-2xl font-bold">Etapa prática: ${views.escapeHTML(pratica.titulo)}</h2>${producoes}<h3 class="font-bold">Critérios para observar sua produção</h3><ul class="list-disc pl-5">${pratica.rubrica.map(c => `<li>${views.escapeHTML(c)}</li>`).join('')}</ul><p class="my-3">A nota acima considera os itens objetivos. Esta etapa precisa da sua produção e da avaliação do professor; não recebe nota automática.</p><details><summary class="font-bold cursor-pointer">Orientações para autoavaliação</summary>${orientacoes}</details></section>` : '';
         const tituloResultado = pratica ? 'Resultado da parte objetiva' : 'Resultado';
         container.innerHTML = `<section class="max-w-3xl mx-auto p-6"><h1 class="text-3xl font-bold">${tituloResultado}: ${nota.toFixed(1)}</h1><p>${s.acertos} de ${total} respostas corretas.</p><h2 class="text-xl font-bold mt-6">Correção comentada</h2><ol>${revisao}</ol>${etapaPratica}<button data-action="nav" data-arg="map" class="px-6 py-3 rounded-xl bg-brand-blue text-white">Voltar à trilha</button></section>`;
         window.scrollTo(0, 0);

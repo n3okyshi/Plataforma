@@ -6,32 +6,105 @@
   "unidade": "Números, dos Naturais aos Racionais, e Sequências",
   "titulo": "Conjuntos Numéricos",
   "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Retomar a inclusão entre naturais, inteiros e racionais como apoio ao estudo do 8º ano."
+    ],
+    "resumo": "Retomar a inclusão entre naturais, inteiros e racionais como apoio ao estudo do 8º ano.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Revisão: Conjuntos Numéricos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aprofundamos a relação entre Naturais (N), Inteiros (Z) e Racionais (Q). O foco é transformar <strong>dízimas periódicas</strong> em frações geratrizes e localizar esses números na reta.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💡 Lembre-se:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Todo número que pode ser escrito como fração (mesmo que infinito e periódico) é Racional.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Conjuntos Numéricos</h2><h3>O que vamos aprender</h3><p>Retomar a inclusão entre naturais, inteiros e racionais como apoio ao estudo do 8º ano.</p><h3>Ideias e relações</h3><p>Esta retomada complementar organiza representações já estudadas. Adotamos os naturais com zero; todos eles são inteiros, e todos os inteiros são racionais porque podem ser escritos com denominador 1. Uma fração de inteiros define um racional apenas quando o denominador não é zero. Um mesmo número pode ter várias escritas: 1/2,2/4 e 0,5. A inclusão entre conjuntos não significa que todos os racionais sejam inteiros: há muitos valores entre dois inteiros consecutivos.</p><h3>Exemplo resolvido</h3><p>−4 = −4/1 é inteiro e racional, mas não natural. Já 0,25=1/4 é racional e não inteiro.</p><h3>Atenção ao raciocínio</h3><p>Divisão por zero não fornece uma nova representação racional.</p><h3>Investigue e produza</h3><p>Dê um exemplo de cada caso: natural, inteiro não natural e racional não inteiro. Mostre duas representações do último.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "conjuntos_numericos",
+      "numeros_reais"
+    ],
+    "errosComuns": [
+      "Divisão por zero não fornece uma nova representação racional."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "conjuntos_numericos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual escrita NÃO define uma fração racional?",
+      "alternativas": [
+        "−3/4",
+        "0/5",
+        "1/0",
+        "1/2"
+      ],
+      "correta": 2,
+      "explicacao": "O denominador de uma fração racional deve ser diferente de zero."
+    },
+    {
+      "id": "conjuntos_numericos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Dê um exemplo de cada caso: natural, inteiro não natural e racional não inteiro. Mostre duas representações do último.",
+      "gabarito": "Exemplos:3;−2;0,75=3/4=6/8. Justificar as inclusões e manter denominadores não nulos.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Exemplos:3;−2;0,75=3/4=6/8. Justificar as inclusões e manter denominadores não nulos.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "conjuntos_numericos",
+    "numeros_reais"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        129,
+        140
+      ],
+      "paginasImpressas": "132, 143",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ],
+  "observacaoCurricular": "Retomada ou aprofundamento complementar; não corresponde isoladamente a uma habilidade obrigatória específica deste ano."
 }

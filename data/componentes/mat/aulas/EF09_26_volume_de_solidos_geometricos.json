@@ -2,36 +2,121 @@
   "id": "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 26,
+  "ordem": 28,
   "unidade": "Grandezas e Medidas",
-  "titulo": "Volume de Sólidos Geométricos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Volumes de Prismas e Cilindros Retos",
+  "bncc": [
+    "EF09MA19"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver volumes de prismas e cilindros retos com medidas e hipóteses coerentes."
+    ],
+    "resumo": "Resolver volumes de prismas e cilindros retos com medidas e hipóteses coerentes.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume de Sólidos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Além de prismas e cilindros, avançamos para pirâmides, cones e esferas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⅓ Regra do 1/3:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O volume do cone e da pirâmide é sempre <strong>um terço</strong> do volume do prisma/cilindro correspondente.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Volumes de Prismas e Cilindros Retos</h2><h3>O que vamos aprender</h3><p>Resolver volumes de prismas e cilindros retos com medidas e hipóteses coerentes.</p><h3>Ideias e relações</h3><p>Um prisma reto pode ser entendido como camadas de mesma área de base; seu volume é área da base vezes altura. No cilindro circular reto, a base tem áreaπr², então V=πr²h. Converta as medidas para a mesma unidade e diferencie raio de diâmetro. Para capacidade, use dimensões internas e relacione 1 dm³=1 L. Se usar uma aproximação paraπ, registre-a e arredonde apenas conforme a precisão pedida. Não aplique a expressão a um sólido com outra estrutura.</p><h3>Exemplo resolvido</h3><p>Um cilindro de raio 2 dm e altura 5 dm tem volume 20π dm³, ou 20π L. Comπ≈3,14, a capacidade ideal seria 62,8 L.</p><h3>Atenção ao raciocínio</h3><p>Usar o diâmetro no lugar do raio multiplica indevidamente a área da base por quatro.</p><h3>Investigue e produza</h3><p>Compare um prisma reto de base de área 12 cm² e altura 8 cm com um cilindro de raio 2 cm e altura 8 cm. Calcule e interprete as unidades.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "volume",
+      "solidos"
+    ],
+    "errosComuns": [
+      "Usar o diâmetro no lugar do raio multiplica indevidamente a área da base por quatro."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "volume_de_solidos_geometricos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um cilindro de raio 2 dm e altura 5 dm tem volume exato:",
+      "alternativas": [
+        "10π dm³",
+        "20π dm³",
+        "40π dm³",
+        "100π dm³"
+      ],
+      "correta": 1,
+      "explicacao": "V=π× 2²× 5=20π dm³."
+    },
+    {
+      "id": "volume_de_solidos_geometricos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare um prisma reto de base de área 12 cm² e altura 8 cm com um cilindro de raio 2 cm e altura 8 cm. Calcule e interprete as unidades.",
+      "gabarito": "O prisma tem 96 cm³; o cilindro 32π cm³, aproximadamente 100,48 cm³ comπ≈3,14. A comparação depende da área da base e da mesma altura.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O prisma tem 96 cm³; o cilindro 32π cm³, aproximadamente 100,48 cm³ comπ≈3,14. A comparação depende da área da base e da mesma altura.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "volume",
+    "solidos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        118,
+        119,
+        406
+      ],
+      "paginasImpressas": "121, 122, 409",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.grandezas_e_medidas.unidades_de_medida_de_outras_grandezas"
+  ],
+  "proximosPassos": [
+    "mat.ef09.grandezas_e_medidas.grandezas_e_medidas_no_plano_cartesiano"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

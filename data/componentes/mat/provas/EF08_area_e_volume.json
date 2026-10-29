@@ -1,0 +1,141 @@
+{
+  "id": "mat.ef08.area_e_volume.prova",
+  "titulo": "Avaliação: Área e Volume",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF08",
+  "unidade": "Área e Volume",
+  "bncc": [
+    "EF08MA19",
+    "EF08MA20",
+    "EF08MA21"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef08.area_e_volume.prova.01",
+    "mat.ef08.area_e_volume.prova.02",
+    "mat.ef08.area_e_volume.prova.03",
+    "mat.ef08.area_e_volume.prova.04",
+    "mat.ef08.area_e_volume.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF08MA19",
+      "questoes": [
+        "mat.ef08.area_e_volume.prova.01",
+        "mat.ef08.area_e_volume.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.area_e_volume.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area#retomando_e_aprofundando_o_calculo_de_medida_de_area.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA20",
+      "questoes": [
+        "mat.ef08.area_e_volume.prova.03",
+        "mat.ef08.area_e_volume.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.area_e_volume.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade#retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA21",
+      "questoes": [
+        "mat.ef08.area_e_volume.prova.04",
+        "mat.ef08.area_e_volume.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.area_e_volume.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade#retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef08.area_e_volume.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Área e Volume",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Projete um jardim retangular 12× 8 m com um canteiro circular de raio 2 m. Calcule as duas áreas e a área restante, indicando uma aproximação paraπ. 2. Calcule a capacidade de uma caixa interna 0,8× 0,5× 0,4 m. Determine quanto falta para enchê-la se contém 75 L e explique duas conversões possíveis.",
+    "gabarito": "Conferência por tarefa: 1. Retângulo 96 m², círculo 4π m² e restante 96−4π m². Paraπ≈3,14, o restante é 83,44 m². O desenho deve comportar o círculo sem ultrapassar a região. 2. Volume 0,16 m³=160 L. Faltam 85 L. Outra estratégia:8× 5× 4 dm=160 dm³. Justificar as dimensões internas e a unidade cúbica.",
+    "bncc": [
+      "EF08MA19",
+      "EF08MA20",
+      "EF08MA21"
+    ],
+    "atividadesOrigem": [
+      "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area#retomando_e_aprofundando_o_calculo_de_medida_de_area.investigacao",
+      "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade#retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Retomando e Aprofundando o Cálculo de Área",
+        "enunciado": "Projete um jardim retangular 12× 8 m com um canteiro circular de raio 2 m. Calcule as duas áreas e a área restante, indicando uma aproximação paraπ.",
+        "gabarito": "Retângulo 96 m², círculo 4π m² e restante 96−4π m². Paraπ≈3,14, o restante é 83,44 m². O desenho deve comportar o círculo sem ultrapassar a região.",
+        "bncc": [
+          "EF08MA19"
+        ],
+        "atividadeOrigem": "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area#retomando_e_aprofundando_o_calculo_de_medida_de_area.investigacao"
+      },
+      {
+        "titulo": "Volume e Capacidade: Retomada e Aprofundamento",
+        "enunciado": "Calcule a capacidade de uma caixa interna 0,8× 0,5× 0,4 m. Determine quanto falta para enchê-la se contém 75 L e explique duas conversões possíveis.",
+        "gabarito": "Volume 0,16 m³=160 L. Faltam 85 L. Outra estratégia:8× 5× 4 dm=160 dm³. Justificar as dimensões internas e a unidade cúbica.",
+        "bncc": [
+          "EF08MA20",
+          "EF08MA21"
+        ],
+        "atividadeOrigem": "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade#retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        112,
+        113,
+        406
+      ],
+      "paginasImpressas": "115, 116, 409",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        118,
+        119,
+        120
+      ],
+      "paginasImpressas": "121, 122, 123",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

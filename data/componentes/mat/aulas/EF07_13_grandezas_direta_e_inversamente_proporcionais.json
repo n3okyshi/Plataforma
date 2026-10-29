@@ -2,36 +2,121 @@
   "id": "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 13,
+  "ordem": 18,
   "unidade": "Grandezas Proporcionais",
   "titulo": "Grandezas Direta e Inversamente Proporcionais",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA17"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Modelar variações diretas e inversas com uma sentença algébrica."
+    ],
+    "resumo": "Modelar variações diretas e inversas com uma sentença algébrica.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Tipos de Proporção</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Análise da dependência entre grandezas.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔍 O Teste:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Direta:</strong> Se uma dobra, a outra dobra. (Ex: Tempo e Distância).</li>\n                <li><strong>Inversa:</strong> Se uma dobra, a outra cai pela metade. (Ex: Velocidade e Tempo).</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Grandezas Direta e Inversamente Proporcionais</h2><h3>O que vamos aprender</h3><p>Modelar variações diretas e inversas com uma sentença algébrica.</p><h3>Ideias e relações</h3><p>Na proporcionalidade direta, y/x é constante e podemos escrever y=kx. Na inversa, xy é constante e y=k/x, com x não nulo. Duplicar uma grandeza duplica a outra no primeiro caso e a divide por dois no segundo. Essas relações dependem das hipóteses do modelo: repartir a mesma quantidade de trabalho entre equipes supõe produtividade igual e condições mantidas. Nem toda situação em que uma grandeza aumenta e outra diminui é inversamente proporcional; o produto precisa permanecer constante.</p><h3>Exemplo resolvido</h3><p>Um percurso fixo de 120 km percorrido a velocidade constante v exige tempo t=120/v. A 40 km/h, t=3 h; a 60 km/h, t=2 h. O produto vt permanece 120.</p><h3>Atenção ao raciocínio</h3><p>Oposição de sentidos sozinha não comprova proporcionalidade inversa.</p><h3>Investigue e produza</h3><p>Um trabalho exige 24 jornadas de uma pessoa. Monte tabela de pessoas e dias para 2,3,4 e 6 pessoas, com produtividade igual, e escreva a relação.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "proporcionalidade",
+      "grandezas"
+    ],
+    "errosComuns": [
+      "Oposição de sentidos sozinha não comprova proporcionalidade inversa."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "grandezas_direta_e_inversamente_proporcionais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para um percurso de 120 km, a 60 km/h constantes o tempo é:",
+      "alternativas": [
+        "3 h",
+        "7.200 h",
+        "0,5 h",
+        "2 h"
+      ],
+      "correta": 3,
+      "explicacao": "t=120/60=2 horas, nas hipóteses do modelo."
+    },
+    {
+      "id": "grandezas_direta_e_inversamente_proporcionais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Um trabalho exige 24 jornadas de uma pessoa. Monte tabela de pessoas e dias para 2,3,4 e 6 pessoas, com produtividade igual, e escreva a relação.",
+      "gabarito": "Dias: 12,8,6,4. Se p é o número de pessoas e d de dias, pd=24 ou d=24/p. Explicitar que o modelo supõe trabalho divisível e produtividade igual.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Dias: 12,8,6,4. Se p é o número de pessoas e d de dias, pd=24 ou d=24/p. Explicitar que o modelo supõe trabalho divisível e produtividade igual.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "proporcionalidade",
+    "grandezas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        174,
+        175,
+        176
+      ],
+      "paginasImpressas": "177, 178, 179",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.grandezas_proporcionais.razao_e_proporcao"
+  ],
+  "proximosPassos": [
+    "mat.ef07.grandezas_proporcionais.regra_de_tres_simples"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

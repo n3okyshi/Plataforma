@@ -1,0 +1,466 @@
+[
+  {
+    "id": "mat.ef09.proporcionalidade_e_juros.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Proporcionalidade e Juros",
+    "aulaId": "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao",
+    "bncc": [
+      "EF09MA08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em escala 1:500,4 cm no desenho representam:",
+    "opcoes": [
+      "20 m",
+      "200 m",
+      "2.000 m",
+      "2 m"
+    ],
+    "correta": 0,
+    "explicacao": "4× 500=2.000 cm=20 m.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          174,
+          183,
+          190
+        ],
+        "paginasImpressas": "173, 177, 186, 193",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.proporcionalidade_e_juros.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Proporcionalidade e Juros",
+    "aulaId": "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales",
+    "bncc": [
+      "EF09MA14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com segmentos correspondentes 4 e 6 numa secante,6 e x na outra, qual valor satisfaz a proporção?",
+    "opcoes": [
+      "8",
+      "9",
+      "4",
+      "6"
+    ],
+    "correta": 1,
+    "explicacao": "4/6=6/x implica 4x=36 e x=9.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          370,
+          371
+        ],
+        "paginasImpressas": "373, 374",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.proporcionalidade_e_juros.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Proporcionalidade e Juros",
+    "aulaId": "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria",
+    "bncc": [
+      "EF09MA08",
+      "EF09MA12",
+      "EF09MA14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No modelo das sombras com razão altura:sombra=1,5:2, uma sombra de 8 m corresponde à altura:",
+    "opcoes": [
+      "12 m",
+      "4 m",
+      "6 m",
+      "8 m"
+    ],
+    "correta": 2,
+    "explicacao": "h=8× 1,5÷ 2=6 m.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319,
+          321
+        ],
+        "paginasImpressas": "317, 319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          370,
+          371
+        ],
+        "paginasImpressas": "173, 373, 374",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.proporcionalidade_e_juros.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Proporcionalidade e Juros",
+    "aulaId": "mat.ef09.proporcionalidade_e_juros.juros",
+    "bncc": [
+      "EF09MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "100 após aumentos sucessivos de 10% e 20% torna-se:",
+    "opcoes": [
+      "120",
+      "130",
+      "132",
+      "140"
+    ],
+    "correta": 2,
+    "explicacao": "100× 1,10× 1,20=132.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          196,
+          197,
+          199
+        ],
+        "paginasImpressas": "199, 200, 202",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.proporcionalidade_e_juros.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Proporcionalidade e Juros",
+    "aulaId": "mat.ef09.proporcionalidade_e_juros.razao_entre_grandezas_diferentes",
+    "bncc": [
+      "EF09MA07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma população hipotética de 12.000 em 30 km² tem densidade média:",
+    "opcoes": [
+      "400 habitantes/km²",
+      "3.600 habitantes/km²",
+      "360.000 habitantes/km²",
+      "40 habitantes/km²"
+    ],
+    "correta": 0,
+    "explicacao": "12.000÷ 30=400 habitantes por quilômetro quadrado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          171
+        ],
+        "paginasImpressas": "173, 174",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.proporcionalidade_e_juros.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Proporcionalidade e Juros",
+    "aulaId": "mat.ef09.proporcionalidade_e_juros.razao_entre_grandezas_diferentes",
+    "bncc": [
+      "EF09MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um percurso de 180 km em 3 h tem velocidade média:",
+    "opcoes": [
+      "540 km/h",
+      "177 km/h",
+      "1/60 km/h",
+      "60 km/h"
+    ],
+    "correta": 3,
+    "explicacao": "Dividir distância por tempo: 180/3=60.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          171
+        ],
+        "paginasImpressas": "173, 174",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.proporcionalidade_e_juros.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Proporcionalidade e Juros",
+    "aulaId": "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao",
+    "bncc": [
+      "EF09MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em escala 1:200, um segmento de 4 cm representa:",
+    "opcoes": [
+      "2 m",
+      "50 cm",
+      "8 m",
+      "800 m"
+    ],
+    "correta": 2,
+    "explicacao": "4 × 200 = 800 cm = 8 m.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          174,
+          183,
+          190
+        ],
+        "paginasImpressas": "173, 177, 186, 193",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.proporcionalidade_e_juros.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Proporcionalidade e Juros",
+    "aulaId": "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales",
+    "bncc": [
+      "EF09MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Três paralelas cortam duas secantes. Segmentos correspondentes são 3 e 5 numa secante e 6 e x na outra. Então x vale:",
+    "opcoes": [
+      "15",
+      "10",
+      "8",
+      "9"
+    ],
+    "correta": 1,
+    "explicacao": "3/5 = 6/x; multiplicação cruzada dá 3x=30.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          370,
+          371
+        ],
+        "paginasImpressas": "373, 374",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.proporcionalidade_e_juros.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Proporcionalidade e Juros",
+    "aulaId": "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria",
+    "bncc": [
+      "EF09MA08",
+      "EF09MA12",
+      "EF09MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Dois triângulos semelhantes têm lados correspondentes 4 e 10. Ao lado 6 do primeiro corresponde:",
+    "opcoes": [
+      "15",
+      "12",
+      "24",
+      "2,4"
+    ],
+    "correta": 0,
+    "explicacao": "A razão de ampliação é 10/4=2,5; 6× 2,5=15.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319,
+          321
+        ],
+        "paginasImpressas": "317, 319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          370,
+          371
+        ],
+        "paginasImpressas": "173, 373, 374",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.proporcionalidade_e_juros.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Proporcionalidade e Juros",
+    "aulaId": "mat.ef09.proporcionalidade_e_juros.juros",
+    "bncc": [
+      "EF09MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um preço de R$ 100 aumenta 10% e depois recebe desconto de 10%. O preço final é:",
+    "opcoes": [
+      "R$ 100",
+      "R$ 101",
+      "R$ 90",
+      "R$ 99"
+    ],
+    "correta": 3,
+    "explicacao": "100× 1,10× 0,90=99; percentuais sucessivos incidem sobre bases diferentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          196,
+          197,
+          199
+        ],
+        "paginasImpressas": "199, 200, 202",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

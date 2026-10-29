@@ -1,0 +1,146 @@
+{
+  "id": "mat.ef07.medidas_de_volume.prova",
+  "titulo": "Avaliação: Medidas de Volume",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF07",
+  "unidade": "Medidas de Volume",
+  "bncc": [
+    "EF07MA29",
+    "EF07MA30"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef07.medidas_de_volume.prova.01",
+    "mat.ef07.medidas_de_volume.prova.02",
+    "mat.ef07.medidas_de_volume.prova.03",
+    "mat.ef07.medidas_de_volume.prova.04",
+    "mat.ef07.medidas_de_volume.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF07MA29",
+      "questoes": [
+        "mat.ef07.medidas_de_volume.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.medidas_de_volume.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.medidas_de_volume.problemas_de_medicao#problemas_de_medicao.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA30",
+      "questoes": [
+        "mat.ef07.medidas_de_volume.prova.01",
+        "mat.ef07.medidas_de_volume.prova.02",
+        "mat.ef07.medidas_de_volume.prova.03",
+        "mat.ef07.medidas_de_volume.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.medidas_de_volume.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares#volume_de_blocos_retangulares.investigacao",
+        "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade#relacao_entre_volume_e_capacidade.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef07.medidas_de_volume.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Medidas de Volume",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Calcule o volume de uma caixa de 40 cm por 30 cm por 20 cm e expresse o resultado também em dm³. Justifique a conversão. 2. Projete duas caixas retangulares de capacidades iguais a 2 L e dimensões internas diferentes. Explique as unidades usadas. 3. Meça o mesmo objeto três vezes, de preferência com duas réguas de graduações diferentes. Registre valores, unidades e uma aproximação justificável.",
+    "gabarito": "Conferência por tarefa: 1. 24.000 cm³. Como 1 dm³ contém 1.000 cm³, são 24 dm³. Também se pode converter dimensões para 4 dm,3 dm,2 dm e calcular. 2. Exemplos: 20× 10× 10 cm e 25× 10× 8 cm, ambas com 2.000 cm³. As medidas devem ser internas e o volume convertido corretamente. 3. Os resultados dependem do objeto real. Avaliar registro da graduação, comparação entre leituras e aproximação compatível; não exigir igualdade perfeita entre todas as medidas.",
+    "bncc": [
+      "EF07MA29",
+      "EF07MA30"
+    ],
+    "atividadesOrigem": [
+      "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares#volume_de_blocos_retangulares.investigacao",
+      "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade#relacao_entre_volume_e_capacidade.investigacao",
+      "mat.ef07.medidas_de_volume.problemas_de_medicao#problemas_de_medicao.investigacao"
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Volume de Blocos Retangulares",
+        "enunciado": "Calcule o volume de uma caixa de 40 cm por 30 cm por 20 cm e expresse o resultado também em dm³. Justifique a conversão.",
+        "gabarito": "24.000 cm³. Como 1 dm³ contém 1.000 cm³, são 24 dm³. Também se pode converter dimensões para 4 dm,3 dm,2 dm e calcular.",
+        "bncc": [
+          "EF07MA30"
+        ],
+        "atividadeOrigem": "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares#volume_de_blocos_retangulares.investigacao"
+      },
+      {
+        "titulo": "Relação entre Volume e Capacidade",
+        "enunciado": "Projete duas caixas retangulares de capacidades iguais a 2 L e dimensões internas diferentes. Explique as unidades usadas.",
+        "gabarito": "Exemplos: 20× 10× 10 cm e 25× 10× 8 cm, ambas com 2.000 cm³. As medidas devem ser internas e o volume convertido corretamente.",
+        "bncc": [
+          "EF07MA30"
+        ],
+        "atividadeOrigem": "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade#relacao_entre_volume_e_capacidade.investigacao"
+      },
+      {
+        "titulo": "Problemas de Medição",
+        "enunciado": "Meça o mesmo objeto três vezes, de preferência com duas réguas de graduações diferentes. Registre valores, unidades e uma aproximação justificável.",
+        "gabarito": "Os resultados dependem do objeto real. Avaliar registro da graduação, comparação entre leituras e aproximação compatível; não exigir igualdade perfeita entre todas as medidas.",
+        "bncc": [
+          "EF07MA29"
+        ],
+        "atividadeOrigem": "mat.ef07.medidas_de_volume.problemas_de_medicao#problemas_de_medicao.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        118,
+        119
+      ],
+      "paginasImpressas": "121, 122",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        118,
+        120,
+        121
+      ],
+      "paginasImpressas": "121, 123, 124",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        110,
+        123
+      ],
+      "paginasImpressas": "112, 113, 126",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

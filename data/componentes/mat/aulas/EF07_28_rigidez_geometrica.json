@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef07.geometria_angulos_e_triangulos.rigidez_geometrica",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 28,
+  "unidade": "Geometria: Ângulos e Triângulos",
+  "titulo": "Rigidez Geométrica dos Triângulos",
+  "bncc": [
+    "EF07MA25",
+    "EF07MA26"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Relacionar a rigidez dos triângulos a estruturas e descrever um algoritmo de construção."
+    ],
+    "resumo": "Relacionar a rigidez dos triângulos a estruturas e descrever um algoritmo de construção.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Rigidez Geométrica dos Triângulos</h2><h3>O que vamos aprender</h3><p>Relacionar a rigidez dos triângulos a estruturas e descrever um algoritmo de construção.</p><h3>Ideias e relações</h3><p>Três lados fixos que formam um triângulo determinam sua forma, permitindo apenas mudar sua posição ou refletir o desenho. Um quadrilátero de lados articulados pode deformar-se; acrescentar uma diagonal divide-o em triângulos e ajuda a estabilizá-lo. Para construir um triângulo com três lados conhecidos, um algoritmo deve verificar medidas positivas e a desigualdade triangular, escolher a base, traçar dois arcos e unir uma intersecção às extremidades. Represente a decisão de existência e as saídas num fluxograma.</p><h3>Exemplo resolvido</h3><p>Uma moldura retangular de palitos articulados pode inclinar-se. Uma barra diagonal forma dois triângulos e impede essa deformação no modelo ideal de barras rígidas.</p><h3>Atenção ao raciocínio</h3><p>A conclusão refere-se ao modelo geométrico de barras rígidas e articulações.</p><h3>Investigue e produza</h3><p>Descreva e represente em fluxograma a construção de um triângulo de lados 4,5,6. Inclua a decisão de existência. Compare um modelo articulado antes e depois da diagonal.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "triangulos",
+      "estruturas"
+    ],
+    "errosComuns": [
+      "A conclusão refere-se ao modelo geométrico de barras rígidas e articulações."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "rigidez_geometrica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Por que uma diagonal pode estabilizar um quadrilátero articulado?",
+      "alternativas": [
+        "Aumenta sua área obrigatoriamente.",
+        "Divide-o em triângulos de lados fixos.",
+        "Transforma todos os ângulos em 60°.",
+        "Elimina todos os vértices."
+      ],
+      "correta": 1,
+      "explicacao": "Os triângulos com lados fixos não se deformam como o quadrilátero articulado."
+    },
+    {
+      "id": "rigidez_geometrica.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Descreva e represente em fluxograma a construção de um triângulo de lados 4,5,6. Inclua a decisão de existência. Compare um modelo articulado antes e depois da diagonal.",
+      "gabarito": "Verificar 6<4+5 e positividade. Traçar AB=6; arcos centrados em A e B de raios 4 e 5; escolher C numa intersecção; unir AC e BC. Se a condição falhar, informar impossibilidade. Relacionar a diagonal à rigidez.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Verificar 6<4+5 e positividade. Traçar AB=6; arcos centrados em A e B de raios 4 e 5; escolher C numa intersecção; unir AC e BC. Se a condição falhar, informar impossibilidade. Relacionar a diagonal à rigidez.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "triangulos",
+    "estruturas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344,
+        352
+      ],
+      "paginasImpressas": "347, 355",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.geometria_angulos_e_triangulos.triangulos"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+[
+  {
+    "id": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Sistema de Equações do 1° Grau com 2 Incógnitas",
+    "aulaId": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas",
+    "bncc": [
+      "EF08MA07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual ponto pertence à reta x+y=8?",
+    "opcoes": [
+      "(3,4)",
+      "(5,3)",
+      "(8,1)",
+      "(2,5)"
+    ],
+    "correta": 1,
+    "explicacao": "5+3=8.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          163,
+          164,
+          297
+        ],
+        "paginasImpressas": "166, 167, 300",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Sistema de Equações do 1° Grau com 2 Incógnitas",
+    "aulaId": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas",
+    "bncc": [
+      "EF08MA08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A solução de x+y=8 e x−y=2 é:",
+    "opcoes": [
+      "(5,3)",
+      "(6,2)",
+      "(3,5)",
+      "(4,4)"
+    ],
+    "correta": 0,
+    "explicacao": "5+3=8 e 5−3=2.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          163,
+          164,
+          165
+        ],
+        "paginasImpressas": "166, 167, 168",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Sistema de Equações do 1° Grau com 2 Incógnitas",
+    "aulaId": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas",
+    "bncc": [
+      "EF08MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual par pertence à reta 2x + y = 9?",
+    "opcoes": [
+      "(2,2)",
+      "(4,4)",
+      "(0,0)",
+      "(3,3)"
+    ],
+    "correta": 3,
+    "explicacao": "2 × 3 + 3 = 9.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          163,
+          164,
+          297
+        ],
+        "paginasImpressas": "166, 167, 300",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Sistema de Equações do 1° Grau com 2 Incógnitas",
+    "aulaId": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas",
+    "bncc": [
+      "EF08MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O sistema x + y = 10 e x − y = 4 tem solução:",
+    "opcoes": [
+      "(6,4)",
+      "(10,4)",
+      "(7,3)",
+      "(3,7)"
+    ],
+    "correta": 2,
+    "explicacao": "Somar as equações dá 2x = 14; x = 7 e y = 3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          163,
+          164,
+          165
+        ],
+        "paginasImpressas": "166, 167, 168",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Sistema de Equações do 1° Grau com 2 Incógnitas",
+    "aulaId": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas",
+    "bncc": [
+      "EF08MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma solução comum às duas retas representa:",
+    "opcoes": [
+      "Sempre a origem",
+      "A interseção das retas",
+      "Qualquer ponto de uma só reta",
+      "A soma dos eixos"
+    ],
+    "correta": 1,
+    "explicacao": "O mesmo par ordenado precisa satisfazer ambas as equações.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          163,
+          164,
+          165
+        ],
+        "paginasImpressas": "166, 167, 168",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Sistema de Equações do 1° Grau com 2 Incógnitas",
+    "aulaId": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas",
+    "bncc": [
+      "EF08MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Dois cadernos e uma caneta custam R$ 17; um caderno e uma caneta custam R$ 10. O caderno custa:",
+    "opcoes": [
+      "R$ 7",
+      "R$ 3",
+      "R$ 10",
+      "R$ 17"
+    ],
+    "correta": 0,
+    "explicacao": "Subtrair as relações elimina a caneta: um caderno custa 17 − 10 = 7.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          163,
+          164,
+          165
+        ],
+        "paginasImpressas": "166, 167, 168",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Sistema de Equações do 1° Grau com 2 Incógnitas",
+    "aulaId": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas",
+    "bncc": [
+      "EF08MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A equação y = 6 − x corresponde à reta que passa por:",
+    "opcoes": [
+      "(0,0) e (6,6)",
+      "(0,−6) e (6,0)",
+      "(1,6) e (6,1)",
+      "(0,6) e (6,0)"
+    ],
+    "correta": 3,
+    "explicacao": "Substituir x por 0 e por 6 produz as duas interseções com os eixos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          163,
+          164,
+          297
+        ],
+        "paginasImpressas": "166, 167, 300",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

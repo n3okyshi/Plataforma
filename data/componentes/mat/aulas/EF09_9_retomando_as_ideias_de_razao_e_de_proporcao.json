@@ -2,36 +2,120 @@
   "id": "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 9,
+  "ordem": 13,
   "unidade": "Proporcionalidade e Juros",
-  "titulo": "Retomando as Ideias de Razão e de Proporção",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Retomando Razão e Proporção",
+  "bncc": [
+    "EF09MA08"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver escalas, divisão proporcional e relações diretas ou inversas com hipóteses."
+    ],
+    "resumo": "Resolver escalas, divisão proporcional e relações diretas ou inversas com hipóteses.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Razão e Proporção</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolução de problemas complexos envolvendo escalas, divisão proporcional e <strong>Regra de Três Composta</strong>.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🗺️ Escalas:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Essencial para leitura de mapas (ex: 1:100 significa que 1 cm no papel = 100 cm na realidade).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Retomando Razão e Proporção</h2><h3>O que vamos aprender</h3><p>Resolver escalas, divisão proporcional e relações diretas ou inversas com hipóteses.</p><h3>Ideias e relações</h3><p>Relações proporcionais devem ser sustentadas por razões constantes ou produtos constantes. Em uma escala 1:500, um centímetro no desenho corresponde a 500 centímetros reais; as duas medidas precisam estar na mesma unidade. Dividir um total na razão 2:3 significa formar cinco partes de referência. Em modelos com três grandezas, explicite o efeito de cada uma: para máquinas de mesmo rendimento, o tempo cresce com a quantidade a produzir e diminui com o número de máquinas.</p><h3>Exemplo resolvido</h3><p>Quatro centímetros em uma planta 1:500 representam 2.000 cm, ou 20 m. Dividir 80 na razão 3:5 produz 30 e 50.</p><h3>Atenção ao raciocínio</h3><p>A escala linear não deve ser aplicada diretamente à área sem considerar as duas dimensões.</p><h3>Investigue e produza</h3><p>Uma máquina produz 100 peças por hora no modelo. Determine o tempo para 3.000 peças com três máquinas iguais e compare com duas máquinas. Escreva a relação entre peças, máquinas e tempo.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "razao",
+      "proporcao"
+    ],
+    "errosComuns": [
+      "A escala linear não deve ser aplicada diretamente à área sem considerar as duas dimensões."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "retomando_as_ideias_de_razao_e_de_proporcao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em escala 1:500,4 cm no desenho representam:",
+      "alternativas": [
+        "20 m",
+        "200 m",
+        "2.000 m",
+        "2 m"
+      ],
+      "correta": 0,
+      "explicacao": "4× 500=2.000 cm=20 m."
+    },
+    {
+      "id": "retomando_as_ideias_de_razao_e_de_proporcao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Uma máquina produz 100 peças por hora no modelo. Determine o tempo para 3.000 peças com três máquinas iguais e compare com duas máquinas. Escreva a relação entre peças, máquinas e tempo.",
+      "gabarito": "t=n/(100m). Para 3.000 peças:10 h com 3 máquinas e 15 h com 2. A hipótese de rendimento constante e trabalho simultâneo precisa ser indicada.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "t=n/(100m). Para 3.000 peças:10 h com 3 máquinas e 15 h com 2. A hipótese de rendimento constante e trabalho simultâneo precisa ser indicada.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "razao",
+    "proporcao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        174,
+        183,
+        190
+      ],
+      "paginasImpressas": "173, 177, 186, 193",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

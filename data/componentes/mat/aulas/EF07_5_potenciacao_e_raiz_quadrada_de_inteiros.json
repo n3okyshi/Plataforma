@@ -5,33 +5,117 @@
   "ordem": 5,
   "unidade": "Operações com números inteiros",
   "titulo": "Potenciação e Raiz Quadrada de Inteiros",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA04"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Distinguir potência de base negativa, sinal externo e raiz quadrada principal."
+    ],
+    "resumo": "Distinguir potência de base negativa, sinal externo e raiz quadrada principal.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Potências e Raízes</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de potências com base negativa e raízes exatas de quadrados perfeitos.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚠️ Atenção ao Expoente:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li>Base negativa com expoente <strong>PAR</strong>: Resultado Positivo.</li>\n                <li>Base negativa com expoente <strong>ÍMPAR</strong>: Resultado Negativo.</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Potenciação e Raiz Quadrada de Inteiros</h2><h3>O que vamos aprender</h3><p>Distinguir potência de base negativa, sinal externo e raiz quadrada principal.</p><h3>Ideias e relações</h3><p>Uma potência repete fatores iguais. Os parênteses mostram se o sinal pertence à base: (−3)² = (−3)×(−3) = 9, enquanto −3² = −(3× 3) = −9. Expoente par em uma base negativa produz positivo; ímpar produz negativo. A raiz quadrada principal de um quadrado perfeito não negativo é o número não negativo cujo quadrado é o radicando. Assim, √25 = 5; resolver x² = 25 é outra pergunta, que admite 5 e −5.</p><h3>Exemplo resolvido</h3><p>(−2)³ = −8 e (−2)⁴ = 16. √36 = 6, mas −6 também tem quadrado 36; isso não transforma a raiz principal em dois valores.</p><h3>Atenção ao raciocínio</h3><p>Não escreva √36 = ±6. A raiz principal e as soluções de uma equação precisam ser distinguidas.</p><h3>Investigue e produza</h3><p>Compare (−5)² e −5². Depois explique por que √49 = 7 não contradiz (−7)² = 49.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "numeros_inteiros",
+      "potenciacao"
+    ],
+    "errosComuns": [
+      "Não escreva √36 = ±6. A raiz principal e as soluções de uma equação precisam ser distinguidas."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "potenciacao_e_raiz_quadrada_de_inteiros.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é o valor de −4²?",
+      "alternativas": [
+        "−8",
+        "8",
+        "16",
+        "−16"
+      ],
+      "correta": 3,
+      "explicacao": "Sem parênteses na base, a potência é calculada antes do sinal externo: −(4²) = −16."
+    },
+    {
+      "id": "potenciacao_e_raiz_quadrada_de_inteiros.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare (−5)² e −5². Depois explique por que √49 = 7 não contradiz (−7)² = 49.",
+      "gabarito": "Os resultados são 25 e −25. √49 designa a raiz principal, não negativa; a equação x² = 49 tem duas soluções reais.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Os resultados são 25 e −25. √49 designa a raiz principal, não negativa; a equação x² = 49 tem duas soluções reais.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "numeros_inteiros",
+    "potenciacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        40,
+        41,
+        45,
+        137
+      ],
+      "paginasImpressas": "43, 44, 48, 140",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

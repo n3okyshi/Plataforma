@@ -1,0 +1,121 @@
+{
+  "nivel": "EF07",
+  "motivo": "Consolidação de subtópicos em aulas completas, preservando os IDs já presentes no percurso e registrando os destinos do planejamento anterior.",
+  "integracoes": [
+    {
+      "idAnterior": "mat.ef07.numeros_inteiros.historia_dos_numeros_inteiros",
+      "tituloAnterior": "História dos Números Inteiros",
+      "integradoEm": "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica"
+    },
+    {
+      "idAnterior": "mat.ef07.numeros_inteiros.situacoes_com_numeros_negativos",
+      "tituloAnterior": "Situações com Números Negativos",
+      "integradoEm": "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica"
+    },
+    {
+      "idAnterior": "mat.ef07.operacoes_com_numeros_inteiros.problemas_com_numeros_inteiros",
+      "tituloAnterior": "Problemas com Números Inteiros",
+      "integradoEm": "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros"
+    },
+    {
+      "idAnterior": "mat.ef07.multiplos_divisores_e_mdc.criterios_de_divisibilidade",
+      "tituloAnterior": "Critérios de Divisibilidade",
+      "integradoEm": "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores"
+    },
+    {
+      "idAnterior": "mat.ef07.numeros_racionais.comparacao_de_racionais_na_reta",
+      "tituloAnterior": "Comparação de Racionais na Reta",
+      "integradoEm": "mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais"
+    },
+    {
+      "idAnterior": "mat.ef07.numeros_racionais.comparacao_e_ordenacao_de_fracoes",
+      "tituloAnterior": "Comparação e Ordenação de Frações",
+      "integradoEm": "mat.ef07.numeros_racionais.fracoes_e_razao"
+    },
+    {
+      "idAnterior": "mat.ef07.numeros_racionais.problemas_com_racionais",
+      "tituloAnterior": "Problemas com Números Racionais",
+      "integradoEm": "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais"
+    },
+    {
+      "idAnterior": "mat.ef07.expressoes_algebricas_e_equacoes.variavel_e_incognita",
+      "tituloAnterior": "Variável e Incógnita",
+      "integradoEm": "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas"
+    },
+    {
+      "idAnterior": "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_equivalentes",
+      "tituloAnterior": "Expressões Algébricas Equivalentes",
+      "integradoEm": "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica"
+    },
+    {
+      "idAnterior": "mat.ef07.expressoes_algebricas_e_equacoes.porcentagens_no_cotidiano",
+      "tituloAnterior": "Porcentagens no Cotidiano",
+      "integradoEm": "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples"
+    },
+    {
+      "idAnterior": "mat.ef07.inequacoes_do_1_grau.resolucao_de_inequacoes",
+      "tituloAnterior": "Resolução de Inequações",
+      "integradoEm": "mat.ef07.inequacoes_do_1_grau.desigualdades_e_inequacoes"
+    },
+    {
+      "idAnterior": "mat.ef07.inequacoes_do_1_grau.problemas_com_inequacoes",
+      "tituloAnterior": "Problemas com Inequações",
+      "integradoEm": "mat.ef07.inequacoes_do_1_grau.desigualdades_e_inequacoes"
+    },
+    {
+      "idAnterior": "mat.ef07.grandezas_proporcionais.acrescimos_e_decrescimos",
+      "tituloAnterior": "Acréscimos e Decréscimos Simples",
+      "integradoEm": "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples"
+    },
+    {
+      "idAnterior": "mat.ef07.area_de_figuras_planas.area_de_quadrilateros",
+      "tituloAnterior": "Área de Quadriláteros",
+      "integradoEm": "mat.ef07.area_de_figuras_planas.area_de_triangulos"
+    },
+    {
+      "idAnterior": "mat.ef07.geometria_angulos_e_triangulos.retas_paralelas_e_transversal",
+      "tituloAnterior": "Retas Paralelas e uma Transversal",
+      "integradoEm": "mat.ef07.geometria_angulos_e_triangulos.angulos"
+    },
+    {
+      "idAnterior": "mat.ef07.geometria_angulos_e_triangulos.construcao_de_triangulos",
+      "tituloAnterior": "Construção de Triângulos",
+      "integradoEm": "mat.ef07.geometria_angulos_e_triangulos.triangulos"
+    },
+    {
+      "idAnterior": "mat.ef07.geometria_angulos_e_triangulos.soma_dos_angulos_internos",
+      "tituloAnterior": "Soma dos Ângulos Internos",
+      "integradoEm": "mat.ef07.geometria_angulos_e_triangulos.triangulos"
+    },
+    {
+      "idAnterior": "mat.ef07.poligonos_e_transformacoes_geometricas.angulos_internos_e_externos",
+      "tituloAnterior": "Ângulos Internos e Externos",
+      "integradoEm": "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares"
+    },
+    {
+      "idAnterior": "mat.ef07.poligonos_e_transformacoes_geometricas.algoritmo_de_construcao_de_poligono",
+      "tituloAnterior": "Algoritmo de Construção de Polígono Regular",
+      "integradoEm": "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares"
+    },
+    {
+      "idAnterior": "mat.ef07.circunferencia_e_lugar_geometrico.construcao_de_circunferencias_com_compasso",
+      "tituloAnterior": "Construção de Circunferências com Compasso",
+      "integradoEm": "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico"
+    },
+    {
+      "idAnterior": "mat.ef07.circunferencia_e_lugar_geometrico.composicoes_artisticas_com_circunferencias",
+      "tituloAnterior": "Composições Artísticas com Circunferências",
+      "integradoEm": "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico"
+    },
+    {
+      "idAnterior": "mat.ef07.estatistica_e_probabilidade.experimentos_aleatorios",
+      "tituloAnterior": "Experimentos Aleatórios",
+      "integradoEm": "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade"
+    },
+    {
+      "idAnterior": "mat.ef07.estatistica_e_probabilidade.graficos_de_setores",
+      "tituloAnterior": "Gráficos de Setores",
+      "integradoEm": "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade"
+    }
+  ]
+}

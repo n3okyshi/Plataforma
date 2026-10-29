@@ -1,0 +1,247 @@
+{
+  "id": "mat.ef09.proporcionalidade_e_juros.prova",
+  "titulo": "Avaliação: Proporcionalidade e Juros",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF09",
+  "unidade": "Proporcionalidade e Juros",
+  "bncc": [
+    "EF09MA05",
+    "EF09MA07",
+    "EF09MA08",
+    "EF09MA12",
+    "EF09MA14"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef09.proporcionalidade_e_juros.prova.01",
+    "mat.ef09.proporcionalidade_e_juros.prova.02",
+    "mat.ef09.proporcionalidade_e_juros.prova.03",
+    "mat.ef09.proporcionalidade_e_juros.prova.04",
+    "mat.ef09.proporcionalidade_e_juros.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF09MA05",
+      "questoes": [
+        "mat.ef09.proporcionalidade_e_juros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.juros#juros.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA07",
+      "questoes": [
+        "mat.ef09.proporcionalidade_e_juros.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.razao_entre_grandezas_diferentes#razao_entre_grandezas_diferentes.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA08",
+      "questoes": [
+        "mat.ef09.proporcionalidade_e_juros.prova.02",
+        "mat.ef09.proporcionalidade_e_juros.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao#retomando_as_ideias_de_razao_e_de_proporcao.investigacao",
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria#outras_situacoes_que_envolvem_proporcionalidade_em_geometria.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA12",
+      "questoes": [
+        "mat.ef09.proporcionalidade_e_juros.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria#outras_situacoes_que_envolvem_proporcionalidade_em_geometria.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA14",
+      "questoes": [
+        "mat.ef09.proporcionalidade_e_juros.prova.03",
+        "mat.ef09.proporcionalidade_e_juros.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales#feixe_de_retas_paralelas_e_o_teorema_de_tales.investigacao",
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria#outras_situacoes_que_envolvem_proporcionalidade_em_geometria.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef09.proporcionalidade_e_juros.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Proporcionalidade e Juros",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Uma máquina produz 100 peças por hora no modelo. Determine o tempo para 3.000 peças com três máquinas iguais e compare com duas máquinas. Escreva a relação entre peças, máquinas e tempo. 2. Desenhe três paralelas cortadas por duas secantes e proponha medidas coerentes para três intervalos conhecidos. Determine o quarto e explique a correspondência. 3. Crie um problema de ampliação com fator 3 e compare comprimentos, perímetros e áreas. Indique como provar que as figuras são semelhantes. 4. Compare numa planilha três períodos de 2% sobre 1.000 nos modelos simples e composto. Determine também a taxa total de uma mudança de 250 para 300. 5. Resolva um trajeto de 180 km em 3 h e compare com 90 km em 2 h. Explique a diferença entre razão global e velocidade em cada instante.",
+    "gabarito": "Conferência por tarefa: 1. t=n/(100m). Para 3.000 peças:10 h com 3 máquinas e 15 h com 2. A hipótese de rendimento constante e trabalho simultâneo precisa ser indicada. 2. A equação deve comparar os mesmos intervalos entre paralelas. Verificar a igualdade das razões e indicar unidades, em vez de usar apenas a aparência do desenho. 3. Comprimentos e perímetros triplicam; áreas ficam nove vezes maiores. A semelhança exige mesma forma, ângulos correspondentes iguais e razão comum dos lados. 4. Simples:1.060. Composto:1.000× 1,02³=1.061,208, aproximadamente 1.061,21 ao final. A taxa de 250 para 300 é 50/250=20%. Explicitar arredondamento e base de cada etapa. 5. Médias 60 e 45 km/h. As médias comparam distância e tempo totais; sem outros dados, não determinam velocidades em trechos ou instantes.",
+    "bncc": [
+      "EF09MA05",
+      "EF09MA07",
+      "EF09MA08",
+      "EF09MA12",
+      "EF09MA14"
+    ],
+    "atividadesOrigem": [
+      "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao#retomando_as_ideias_de_razao_e_de_proporcao.investigacao",
+      "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales#feixe_de_retas_paralelas_e_o_teorema_de_tales.investigacao",
+      "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria#outras_situacoes_que_envolvem_proporcionalidade_em_geometria.investigacao",
+      "mat.ef09.proporcionalidade_e_juros.juros#juros.investigacao",
+      "mat.ef09.proporcionalidade_e_juros.razao_entre_grandezas_diferentes#razao_entre_grandezas_diferentes.investigacao"
+    ],
+    "duracaoMinSugerida": 75,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Retomando Razão e Proporção",
+        "enunciado": "Uma máquina produz 100 peças por hora no modelo. Determine o tempo para 3.000 peças com três máquinas iguais e compare com duas máquinas. Escreva a relação entre peças, máquinas e tempo.",
+        "gabarito": "t=n/(100m). Para 3.000 peças:10 h com 3 máquinas e 15 h com 2. A hipótese de rendimento constante e trabalho simultâneo precisa ser indicada.",
+        "bncc": [
+          "EF09MA08"
+        ],
+        "atividadeOrigem": "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao#retomando_as_ideias_de_razao_e_de_proporcao.investigacao"
+      },
+      {
+        "titulo": "Feixe de Retas Paralelas e o Teorema de Tales",
+        "enunciado": "Desenhe três paralelas cortadas por duas secantes e proponha medidas coerentes para três intervalos conhecidos. Determine o quarto e explique a correspondência.",
+        "gabarito": "A equação deve comparar os mesmos intervalos entre paralelas. Verificar a igualdade das razões e indicar unidades, em vez de usar apenas a aparência do desenho.",
+        "bncc": [
+          "EF09MA14"
+        ],
+        "atividadeOrigem": "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales#feixe_de_retas_paralelas_e_o_teorema_de_tales.investigacao"
+      },
+      {
+        "titulo": "Proporcionalidade em Geometria",
+        "enunciado": "Crie um problema de ampliação com fator 3 e compare comprimentos, perímetros e áreas. Indique como provar que as figuras são semelhantes.",
+        "gabarito": "Comprimentos e perímetros triplicam; áreas ficam nove vezes maiores. A semelhança exige mesma forma, ângulos correspondentes iguais e razão comum dos lados.",
+        "bncc": [
+          "EF09MA08",
+          "EF09MA12",
+          "EF09MA14"
+        ],
+        "atividadeOrigem": "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria#outras_situacoes_que_envolvem_proporcionalidade_em_geometria.investigacao"
+      },
+      {
+        "titulo": "Juros",
+        "enunciado": "Compare numa planilha três períodos de 2% sobre 1.000 nos modelos simples e composto. Determine também a taxa total de uma mudança de 250 para 300.",
+        "gabarito": "Simples:1.060. Composto:1.000× 1,02³=1.061,208, aproximadamente 1.061,21 ao final. A taxa de 250 para 300 é 50/250=20%. Explicitar arredondamento e base de cada etapa.",
+        "bncc": [
+          "EF09MA05"
+        ],
+        "atividadeOrigem": "mat.ef09.proporcionalidade_e_juros.juros#juros.investigacao"
+      },
+      {
+        "titulo": "Razão entre Grandezas de Espécies Diferentes",
+        "enunciado": "Resolva um trajeto de 180 km em 3 h e compare com 90 km em 2 h. Explique a diferença entre razão global e velocidade em cada instante.",
+        "gabarito": "Médias 60 e 45 km/h. As médias comparam distância e tempo totais; sem outros dados, não determinam velocidades em trechos ou instantes.",
+        "bncc": [
+          "EF09MA07"
+        ],
+        "atividadeOrigem": "mat.ef09.proporcionalidade_e_juros.razao_entre_grandezas_diferentes#razao_entre_grandezas_diferentes.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        174,
+        183,
+        190
+      ],
+      "paginasImpressas": "173, 177, 186, 193",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        370,
+        371
+      ],
+      "paginasImpressas": "373, 374",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319,
+        321
+      ],
+      "paginasImpressas": "317, 319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        370,
+        371
+      ],
+      "paginasImpressas": "173, 373, 374",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        196,
+        197,
+        199
+      ],
+      "paginasImpressas": "199, 200, 202",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        171
+      ],
+      "paginasImpressas": "173, 174",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

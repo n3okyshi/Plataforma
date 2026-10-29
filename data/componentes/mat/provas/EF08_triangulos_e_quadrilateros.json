@@ -1,0 +1,114 @@
+{
+  "id": "mat.ef08.triangulos_e_quadrilateros.prova",
+  "titulo": "Avaliação: Triângulos e Quadriláteros",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF08",
+  "unidade": "Triângulos e Quadriláteros",
+  "bncc": [
+    "EF08MA14"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef08.triangulos_e_quadrilateros.prova.01",
+    "mat.ef08.triangulos_e_quadrilateros.prova.02",
+    "mat.ef08.triangulos_e_quadrilateros.prova.03",
+    "mat.ef08.triangulos_e_quadrilateros.prova.04",
+    "mat.ef08.triangulos_e_quadrilateros.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF08MA14",
+      "questoes": [
+        "mat.ef08.triangulos_e_quadrilateros.prova.01",
+        "mat.ef08.triangulos_e_quadrilateros.prova.02",
+        "mat.ef08.triangulos_e_quadrilateros.prova.03",
+        "mat.ef08.triangulos_e_quadrilateros.prova.04",
+        "mat.ef08.triangulos_e_quadrilateros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.triangulos_e_quadrilateros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos#ampliando_o_estudo_dos_triangulos.investigacao",
+        "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros#ampliando_o_estudo_dos_quadrilateros.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef08.triangulos_e_quadrilateros.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Triângulos e Quadriláteros",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Desenhe um retângulo e trace uma diagonal. Identifique os dois triângulos, justifique sua congruência e explique uma propriedade que pode ser concluída. 2. Construa um paralelogramo não retangular e escreva uma demonstração da igualdade de seus lados opostos, indicando ângulos, lado comum e critério de congruência.",
+    "gabarito": "Conferência por tarefa: 1. Os triângulos têm lados opostos iguais do retângulo e diagonal comum, permitindo LLL, ou ALA com paralelismo. A conclusão deve respeitar a correspondência, como igualdade dos ângulos opostos. 2. Identificar alternos internos pelo paralelismo, usar AC comum e ALA. Transportar a correspondência correta para concluir AB=CD e BC=AD, sem depender do comprimento medido.",
+    "bncc": [
+      "EF08MA14"
+    ],
+    "atividadesOrigem": [
+      "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos#ampliando_o_estudo_dos_triangulos.investigacao",
+      "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros#ampliando_o_estudo_dos_quadrilateros.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Ampliando o Estudo dos Triângulos",
+        "enunciado": "Desenhe um retângulo e trace uma diagonal. Identifique os dois triângulos, justifique sua congruência e explique uma propriedade que pode ser concluída.",
+        "gabarito": "Os triângulos têm lados opostos iguais do retângulo e diagonal comum, permitindo LLL, ou ALA com paralelismo. A conclusão deve respeitar a correspondência, como igualdade dos ângulos opostos.",
+        "bncc": [
+          "EF08MA14"
+        ],
+        "atividadeOrigem": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos#ampliando_o_estudo_dos_triangulos.investigacao"
+      },
+      {
+        "titulo": "Ampliando o Estudo dos Quadriláteros",
+        "enunciado": "Construa um paralelogramo não retangular e escreva uma demonstração da igualdade de seus lados opostos, indicando ângulos, lado comum e critério de congruência.",
+        "gabarito": "Identificar alternos internos pelo paralelismo, usar AC comum e ALA. Transportar a correspondência correta para concluir AB=CD e BC=AD, sem depender do comprimento medido.",
+        "bncc": [
+          "EF08MA14"
+        ],
+        "atividadeOrigem": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros#ampliando_o_estudo_dos_quadrilateros.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        352,
+        353,
+        364
+      ],
+      "paginasImpressas": "355, 356, 367",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        352,
+        355,
+        364
+      ],
+      "paginasImpressas": "355, 358, 367",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

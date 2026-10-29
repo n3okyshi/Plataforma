@@ -2,36 +2,124 @@
   "id": "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 7,
+  "ordem": 9,
   "unidade": "Números Racionais",
   "titulo": "Operações com Números Racionais",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA11",
+    "EF07MA12"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver operações com racionais e verificar multiplicação e divisão por relações inversas."
+    ],
+    "resumo": "Resolver operações com racionais e verificar multiplicação e divisão por relações inversas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Cálculos com Racionais</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Extensão das quatro operações, potência e raiz para Q.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔗 Conexão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">As regras de sinais aprendidas nos Inteiros (Z) continuam valendo aqui, mas agora aplicadas a frações e decimais.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Operações com Números Racionais</h2><h3>O que vamos aprender</h3><p>Resolver operações com racionais e verificar multiplicação e divisão por relações inversas.</p><h3>Ideias e relações</h3><p>As propriedades das operações continuam válidas para racionais, respeitando denominadores e divisores não nulos. Para somar frações, use partes do mesmo tamanho por equivalência. Multiplicar frações combina os fatores; dividir por uma fração não nula equivale a multiplicar por seu inverso, pois precisamos encontrar o fator que reconstrói o dividendo. Os sinais seguem as relações estudadas com inteiros. Escolher entre forma fracionária e decimal pode tornar o cálculo mais claro, mas a troca de representação não deve alterar o valor.</p><h3>Exemplo resolvido</h3><p>(−3/4) ÷ (1/2) = −3/2, pois (1/2)×(−3/2) = −3/4. Para (−0,6)× 0,5, tomar metade de −0,6 produz −0,3.</p><h3>Atenção ao raciocínio</h3><p>Inverter só o divisor é uma estratégia justificada pela operação inversa; não inverta todas as frações.</p><h3>Investigue e produza</h3><p>Calcule 2/3 − 5/6 e (−1,2) ÷ 0,3. Elabore um problema para uma das contas e confira por outra operação.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "numeros_racionais",
+      "operacoes"
+    ],
+    "errosComuns": [
+      "Inverter só o divisor é uma estratégia justificada pela operação inversa; não inverta todas as frações."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "operacoes_com_numeros_racionais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto vale (−3/4) ÷ (1/2)?",
+      "alternativas": [
+        "−3/2",
+        "3/8",
+        "3/2",
+        "−3/8"
+      ],
+      "correta": 0,
+      "explicacao": "Multiplicamos por 2/1: (−3/4)× 2 = −3/2."
+    },
+    {
+      "id": "operacoes_com_numeros_racionais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Calcule 2/3 − 5/6 e (−1,2) ÷ 0,3. Elabore um problema para uma das contas e confira por outra operação.",
+      "gabarito": "2/3 − 5/6 = −1/6. (−1,2) ÷ 0,3 = −4, conferido por 0,3×(−4) = −1,2. O contexto deve permitir os valores negativos.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "2/3 − 5/6 = −1/6. (−1,2) ÷ 0,3 = −4, conferido por 0,3×(−4) = −1,2. O contexto deve permitir os valores negativos.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "numeros_racionais",
+    "operacoes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        82,
+        83,
+        84,
+        142,
+        143
+      ],
+      "paginasImpressas": "85, 86, 87, 145, 146",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais"
+  ],
+  "proximosPassos": [
+    "mat.ef07.numeros_racionais.fracoes_e_razao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

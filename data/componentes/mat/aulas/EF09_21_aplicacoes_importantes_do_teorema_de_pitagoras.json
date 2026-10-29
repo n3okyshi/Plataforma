@@ -2,36 +2,119 @@
   "id": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.aplicacoes_importantes_do_teorema_de_pitagoras",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 21,
+  "ordem": 20,
   "unidade": "Relações Métricas no Triângulo Retângulo",
-  "titulo": "Aplicações Importantes do Teorema de Pitágoras",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Aplicações do Teorema de Pitágoras",
+  "bncc": [
+    "EF09MA14"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver situações de diagonal e distância com triângulos retângulos explicitados."
+    ],
+    "resumo": "Resolver situações de diagonal e distância com triângulos retângulos explicitados.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Aplicações de Pitágoras</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Uso do teorema para calcular a diagonal de um quadrado, a altura de um triângulo equilátero e a distância entre dois pontos.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 Diagonal:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Diagonal do quadrado: $d = l\\sqrt{2}$.<br>Altura do triângulo equilátero: $h = \\frac{l\\sqrt{3}}{2}$.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Aplicações do Teorema de Pitágoras</h2><h3>O que vamos aprender</h3><p>Resolver situações de diagonal e distância com triângulos retângulos explicitados.</p><h3>Ideias e relações</h3><p>Em um problema de distância, represente primeiro os segmentos e identifique a existência de um ângulo reto. Diagonais de retângulos e distâncias entre pontos podem ser encontradas construindo um triângulo retângulo auxiliar. Se a incógnita é um cateto, subtraia o quadrado do outro cateto do quadrado da hipotenusa. Verifique unidades e coerência: a hipotenusa precisa superar cada cateto. Uma medida real depende ainda de aproximações e das hipóteses do modelo.</p><h3>Exemplo resolvido</h3><p>A diagonal de um retângulo 9× 12 mede 15, pois d²=81+144=225. Num modelo de triângulo retângulo de hipotenusa 13 e cateto 5, o outro cateto é 12.</p><h3>Atenção ao raciocínio</h3><p>Não some os comprimentos dos catetos para obter a distância em linha reta.</p><h3>Investigue e produza</h3><p>Crie um problema com um triângulo retângulo de hipotenusa 17 e cateto 8. Determine o outro cateto e explique as hipóteses geométricas.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "teorema_de_pitagoras",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Não some os comprimentos dos catetos para obter a distância em linha reta."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "aplicacoes_importantes_do_teorema_de_pitagoras.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A diagonal de um retângulo 9× 12 mede:",
+      "alternativas": [
+        "3",
+        "15",
+        "21",
+        "108"
+      ],
+      "correta": 1,
+      "explicacao": "A soma dos quadrados é 225; a raiz positiva é 15."
+    },
+    {
+      "id": "aplicacoes_importantes_do_teorema_de_pitagoras.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Crie um problema com um triângulo retângulo de hipotenusa 17 e cateto 8. Determine o outro cateto e explique as hipóteses geométricas.",
+      "gabarito": "O outro cateto é 15, pois 17²−8²=289−64=225. O enunciado deve garantir ângulo reto e identificar corretamente os lados.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O outro cateto é 15, pois 17²−8²=289−64=225. O enunciado deve garantir ângulo reto e identificar corretamente os lados.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "teorema_de_pitagoras",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        372,
+        373,
+        374
+      ],
+      "paginasImpressas": "375, 376, 377",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.relacoes_metricas_no_triangulo_retangulo.os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

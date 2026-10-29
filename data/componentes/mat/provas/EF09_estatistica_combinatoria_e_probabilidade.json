@@ -1,0 +1,163 @@
+{
+  "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.prova",
+  "titulo": "Avaliação: Estatística, Combinatória e Probabilidade",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF09",
+  "unidade": "Estatística, Combinatória e Probabilidade",
+  "bncc": [
+    "EF09MA20",
+    "EF09MA21",
+    "EF09MA22",
+    "EF09MA23"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.01",
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.02",
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.03",
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.04",
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF09MA20",
+      "questoes": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.03",
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem#combinatoria_metodo_de_contagem.investigacao",
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade#probabilidade.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA21",
+      "questoes": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica#estatistica.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA22",
+      "questoes": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.escolha_e_construcao_de_graficos#escolha_e_construcao_de_graficos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA23",
+      "questoes": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade#estatistica_e_probabilidade.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Estatística, Combinatória e Probabilidade",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Compare a chance de ambos os algarismos serem ímpares com e sem repetição. Faça as árvores e explique o efeito da primeira escolha na segunda. 2. Selecione um gráfico divulgado pela mídia e analise fonte, data, escala, legenda e conclusão. Refaça uma representação e explique o efeito das escolhas, sem presumir intenção. 3. Planeje e execute uma pesquisa sobre transporte, leitura ou sustentabilidade. Use planilha para tabela e medidas, produza gráficos e redija relatório com avaliação da amostra e dos resultados. 4. Desenhe árvores para dois sorteios de um conjunto com 3 fichas claras e 2 escuras, com e sem reposição. Calcule a chance de duas claras e compare. 5. Construa gráficos para uma série temporal e para categorias exclusivas de sua escolha, identificando quais medidas centrais fazem sentido e como destacá-las.",
+    "gabarito": "Conferência por tarefa: 1. Com repetição:2/3× 2/3=4/9. Sem repetição, após um ímpar resta um ímpar entre dois algarismos:2/3× 1/2=1/3. Explicitar uniformidade e ordem. 2. Conferir os dados da fonte selecionada e comparar representações coerentes. A análise deve distinguir descrição do efeito visual, omissão verificável e hipótese não comprovada sobre intenções. 3. Avaliar população, técnica, registros reais, medidas compatíveis com a variável, amplitude, gráficos identificados e limites da inferência. Os resultados dependem da coleta; não há respostas numéricas previamente fixadas. 4. Com reposição:3/5× 3/5=9/25. Sem:3/5× 2/4=3/10. Explicar por que a probabilidade da segunda etapa muda no segundo modelo. 5. As escolhas devem corresponder às variáveis. Conferir totais, medidas, eixos, escalas, fonte e data; explicitar se os dados são reais ou fictícios e evitar atribuir média a categorias nominais.",
+    "bncc": [
+      "EF09MA20",
+      "EF09MA21",
+      "EF09MA22",
+      "EF09MA23"
+    ],
+    "atividadesOrigem": [
+      "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem#combinatoria_metodo_de_contagem.investigacao",
+      "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica#estatistica.investigacao",
+      "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade#estatistica_e_probabilidade.investigacao",
+      "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade#probabilidade.investigacao",
+      "mat.ef09.estatistica_combinatoria_e_probabilidade.escolha_e_construcao_de_graficos#escolha_e_construcao_de_graficos.investigacao"
+    ],
+    "duracaoMinSugerida": 75,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Combinatória: Método de Contagem",
+        "enunciado": "Compare a chance de ambos os algarismos serem ímpares com e sem repetição. Faça as árvores e explique o efeito da primeira escolha na segunda.",
+        "gabarito": "Com repetição:2/3× 2/3=4/9. Sem repetição, após um ímpar resta um ímpar entre dois algarismos:2/3× 1/2=1/3. Explicitar uniformidade e ordem.",
+        "bncc": [
+          "EF09MA20"
+        ],
+        "atividadeOrigem": "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem#combinatoria_metodo_de_contagem.investigacao"
+      },
+      {
+        "titulo": "Estatística",
+        "enunciado": "Selecione um gráfico divulgado pela mídia e analise fonte, data, escala, legenda e conclusão. Refaça uma representação e explique o efeito das escolhas, sem presumir intenção.",
+        "gabarito": "Conferir os dados da fonte selecionada e comparar representações coerentes. A análise deve distinguir descrição do efeito visual, omissão verificável e hipótese não comprovada sobre intenções.",
+        "bncc": [
+          "EF09MA21"
+        ],
+        "atividadeOrigem": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica#estatistica.investigacao"
+      },
+      {
+        "titulo": "Estatística e Probabilidade",
+        "enunciado": "Planeje e execute uma pesquisa sobre transporte, leitura ou sustentabilidade. Use planilha para tabela e medidas, produza gráficos e redija relatório com avaliação da amostra e dos resultados.",
+        "gabarito": "Avaliar população, técnica, registros reais, medidas compatíveis com a variável, amplitude, gráficos identificados e limites da inferência. Os resultados dependem da coleta; não há respostas numéricas previamente fixadas.",
+        "bncc": [
+          "EF09MA23"
+        ],
+        "atividadeOrigem": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade#estatistica_e_probabilidade.investigacao"
+      },
+      {
+        "titulo": "Probabilidade",
+        "enunciado": "Desenhe árvores para dois sorteios de um conjunto com 3 fichas claras e 2 escuras, com e sem reposição. Calcule a chance de duas claras e compare.",
+        "gabarito": "Com reposição:3/5× 3/5=9/25. Sem:3/5× 2/4=3/10. Explicar por que a probabilidade da segunda etapa muda no segundo modelo.",
+        "bncc": [
+          "EF09MA20"
+        ],
+        "atividadeOrigem": "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade#probabilidade.investigacao"
+      },
+      {
+        "titulo": "Escolha e Construção de Gráficos",
+        "enunciado": "Construa gráficos para uma série temporal e para categorias exclusivas de sua escolha, identificando quais medidas centrais fazem sentido e como destacá-las.",
+        "gabarito": "As escolhas devem corresponder às variáveis. Conferir totais, medidas, eixos, escalas, fonte e data; explicitar se os dados são reais ou fictícios e evitar atribuir média a categorias nominais.",
+        "bncc": [
+          "EF09MA22"
+        ],
+        "atividadeOrigem": "mat.ef09.estatistica_combinatoria_e_probabilidade.escolha_e_construcao_de_graficos#escolha_e_construcao_de_graficos.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ]
+}

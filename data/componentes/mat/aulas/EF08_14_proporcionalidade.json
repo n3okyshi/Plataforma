@@ -2,36 +2,121 @@
   "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 14,
+  "ordem": 9,
   "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
   "titulo": "Proporcionalidade",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA13"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver problemas diretos e inversos por estratégias variadas, com hipóteses explícitas."
+    ],
+    "resumo": "Resolver problemas diretos e inversos por estratégias variadas, com hipóteses explícitas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Proporcionalidade</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo aprofundado de grandezas diretas e inversas.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚙️ Aplicações:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Resolução de problemas envolvendo <strong>regra de três composta</strong> e divisão de lucros/custos em partes proporcionais.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Proporcionalidade</h2><h3>O que vamos aprender</h3><p>Resolver problemas diretos e inversos por estratégias variadas, com hipóteses explícitas.</p><h3>Ideias e relações</h3><p>Grandezas diretamente proporcionais mantêm a razão entre valores correspondentes; inversamente proporcionais mantêm o produto. Antes de resolver, identifique o que permanece fixo e as hipóteses da situação. Podemos usar valor unitário, fator de escala, tabela ou sentença algébrica. Em modelos de produtividade, supomos trabalho divisível e rendimento igual; em compras proporcionais, supomos preço unitário constante. Interpretar essas condições é parte da solução, não um detalhe acrescentado depois.</p><h3>Exemplo resolvido</h3><p>Um percurso fixo feito a 40 km/h leva 3 h. No modelo de velocidade constante, a 60 km/h leva 2 h, pois a distância continua 120 km.</p><h3>Atenção ao raciocínio</h3><p>Nem todo aumento simultâneo é proporcionalidade direta, e nem toda diminuição oposta é inversa.</p><h3>Investigue e produza</h3><p>Resolva uma compra de 7 unidades aR$ 12 cada por duas estratégias. Crie um problema inversamente proporcional e explique suas hipóteses.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "proporcionalidade",
+      "grandezas"
+    ],
+    "errosComuns": [
+      "Nem todo aumento simultâneo é proporcionalidade direta, e nem toda diminuição oposta é inversa."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "proporcionalidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma tarefa modelada por 12 pessoas× 5 dias exige, com 10 pessoas igualmente produtivas:",
+      "alternativas": [
+        "5 dias",
+        "6 dias",
+        "10 dias",
+        "4 dias"
+      ],
+      "correta": 1,
+      "explicacao": "O trabalho corresponde a 60 jornadas;60÷ 10=6 dias."
+    },
+    {
+      "id": "proporcionalidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva uma compra de 7 unidades aR$ 12 cada por duas estratégias. Crie um problema inversamente proporcional e explique suas hipóteses.",
+      "gabarito": "Total 84, por valor unitário ou decomposição 7×(10+2). O problema inverso deve preservar um produto e explicitar as condições do modelo.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Total 84, por valor unitário ou decomposição 7×(10+2). O problema inverso deve preservar um produto e explicitar as condições do modelo.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "proporcionalidade",
+    "grandezas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        174,
+        175,
+        190
+      ],
+      "paginasImpressas": "177, 178, 193",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes"
+  ],
+  "proximosPassos": [
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

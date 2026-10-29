@@ -1,0 +1,110 @@
+{
+  "id": "mat.ef08.estatistica_e_probabilidade.pesquisa_amostral",
+  "componente": "mat",
+  "nivel": "EF08",
+  "ordem": 29,
+  "unidade": "Estatística e Probabilidade",
+  "titulo": "Planejamento de Pesquisa Amostral",
+  "bncc": [
+    "EF08MA27"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Executar pesquisa amostral com técnica justificada e relatório em planilha."
+    ],
+    "resumo": "Executar pesquisa amostral com técnica justificada e relatório em planilha.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Planejamento de Pesquisa Amostral</h2><h3>O que vamos aprender</h3><p>Executar pesquisa amostral com técnica justificada e relatório em planilha.</p><h3>Ideias e relações</h3><p>Uma pesquisa amostral precisa ligar pergunta, população, técnica de seleção e análise. Defina uma variável observável e uma coleta que evite respostas duplicadas. Registre a seleção realizada, inclusive recusas ou dados ausentes, para explicitar limites. Organize os dados em planilha, escolha gráficos adequados e calcule medidas de tendência central e amplitude quando fizerem sentido para a variável. Um relatório deve informar método, resultados e conclusões, sem transformar a amostra consultada numa certeza sobre toda a população.</p><h3>Exemplo resolvido</h3><p>Para estudar tempo de deslocamento de estudantes, uma amostra por séries pode evitar que apenas uma turma represente a escola. O relatório deve explicar como cada série contribuiu e o que não foi observado.</p><h3>Atenção ao raciocínio</h3><p>Não calcule média de códigos de categorias, como 1=ônibus e 2=bicicleta, como se fossem medidas.</p><h3>Investigue e produza</h3><p>Planeje e realize uma pesquisa amostral de leitura, transporte ou sustentabilidade. Justifique a seleção e produza planilha e relatório com gráficos e medidas adequadas.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "pesquisa",
+      "amostragem"
+    ],
+    "errosComuns": [
+      "Não calcule média de códigos de categorias, como 1=ônibus e 2=bicicleta, como se fossem medidas."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pesquisa_amostral.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Num relatório amostral, deve constar:",
+      "alternativas": [
+        "Método de seleção e limites da conclusão.",
+        "Um resultado inventado para preencher lacunas.",
+        "A certeza de que todos pensam igual.",
+        "Somente o gráfico mais bonito."
+      ],
+      "correta": 0,
+      "explicacao": "O método e os limites permitem avaliar o alcance dos resultados."
+    },
+    {
+      "id": "pesquisa_amostral.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Planeje e realize uma pesquisa amostral de leitura, transporte ou sustentabilidade. Justifique a seleção e produza planilha e relatório com gráficos e medidas adequadas.",
+      "gabarito": "Avaliar pergunta e população, técnica executável e justificada, registros reais, gráficos identificados, medidas compatíveis com a variável e limites da generalização. Não há valores de resultado previamente fixados.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Avaliar pergunta e população, técnica executável e justificada, registros reais, gráficos identificados, medidas compatíveis com a variável e limites da generalização. Não há valores de resultado previamente fixados.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "pesquisa",
+    "amostragem"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.estatistica_e_probabilidade.classes_de_uma_variavel_continua"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

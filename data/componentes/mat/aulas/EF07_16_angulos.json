@@ -2,36 +2,119 @@
   "id": "mat.ef07.geometria_angulos_e_triangulos.angulos",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 16,
+  "ordem": 26,
   "unidade": "Geometria: Ângulos e Triângulos",
   "titulo": "Ângulos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA23"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Verificar relações angulares em paralelas cortadas por uma transversal."
+    ],
+    "resumo": "Verificar relações angulares em paralelas cortadas por uma transversal.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Ângulos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definição de ângulo como região do plano limitada por duas semirretas de mesma origem e como <strong>medida de giro</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 Classificação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uso do transferidor para classificar em: <strong>Agudo, Reto, Obtuso e Raso</strong>.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Ângulos</h2><h3>O que vamos aprender</h3><p>Verificar relações angulares em paralelas cortadas por uma transversal.</p><h3>Ideias e relações</h3><p>Quando duas retas paralelas são cortadas por uma transversal, ângulos correspondentes têm a mesma medida e ângulos alternos internos também. Ângulos colaterais internos somam 180°. Essas relações dependem do paralelismo: a aparência aproximada do desenho não basta para usá-las. Ângulos opostos pelo vértice são iguais mesmo sem paralelismo de outras retas; ângulos adjacentes que formam um ângulo raso são suplementares. Identifique primeiro a posição de cada ângulo e a propriedade que permite compará-los.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Duas retas paralelas cortadas por duas secantes que partem de O: segmentos AB e CD paralelos.\" style=\"max-width:100%;color:inherit\"><title>Duas retas paralelas cortadas por duas secantes que partem de O: segmentos AB e CD paralelos.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M60 20 140 160M60 20 400 160M70 90H350M30 160H425\"/></g><g fill=\"currentColor\" font-size=\"16\"><text x=\"40\" y=\"20\">O</text><text x=\"85\" y=\"85\">A</text><text x=\"233\" y=\"85\">B</text><text x=\"120\" y=\"183\">C</text><text x=\"402\" y=\"183\">D</text><text x=\"105\" y=\"225\">AB e CD são paralelos.</text></g></svg><h3>Exemplo resolvido</h3><p>Se um ângulo mede 65°, seu correspondente numa paralela mede 65°. Seu adjacente sobre uma reta mede 180°−65°=115°.</p><h3>Atenção ao raciocínio</h3><p>Não escolha uma relação apenas por uma figura parecer uma letra conhecida; confira lados e posições.</p><h3>Investigue e produza</h3><p>Construa duas paralelas e uma transversal com instrumentos. Meça dois correspondentes e dois colaterais internos; registre diferenças experimentais e as relações ideais.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "angulos",
+      "classificacao"
+    ],
+    "errosComuns": [
+      "Não escolha uma relação apenas por uma figura parecer uma letra conhecida; confira lados e posições."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "angulos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um ângulo de 65° tem um adjacente formando uma linha reta. A medida desse adjacente é:",
+      "alternativas": [
+        "115°",
+        "130°",
+        "25°",
+        "65°"
+      ],
+      "correta": 0,
+      "explicacao": "Os dois somam 180°; 180−65=115."
+    },
+    {
+      "id": "angulos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa duas paralelas e uma transversal com instrumentos. Meça dois correspondentes e dois colaterais internos; registre diferenças experimentais e as relações ideais.",
+      "gabarito": "Correspondentes devem ser iguais; colaterais internos somam 180°. Pequenas diferenças medidas podem decorrer do traçado e do instrumento, não de outra propriedade geométrica.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Correspondentes devem ser iguais; colaterais internos somam 180°. Pequenas diferenças medidas podem decorrer do traçado e do instrumento, não de outra propriedade geométrica.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "angulos",
+    "classificacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        355,
+        356,
+        357
+      ],
+      "paginasImpressas": "358, 359, 360",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef07.geometria_angulos_e_triangulos.triangulos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -1,0 +1,325 @@
+[
+  {
+    "id": "mat.ef07.area_de_figuras_planas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Área de Figuras Planas",
+    "aulaId": "mat.ef07.area_de_figuras_planas.area_de_triangulos",
+    "bncc": [
+      "EF07MA31"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um triângulo de base 8 cm e altura 5 cm tem área de:",
+    "opcoes": [
+      "20 cm²",
+      "40 cm²",
+      "80 cm²",
+      "13 cm²"
+    ],
+    "correta": 0,
+    "explicacao": "A=8× 5÷ 2=20 cm².",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113,
+          344,
+          364
+        ],
+        "paginasImpressas": "115, 116, 347, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.area_de_figuras_planas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Área de Figuras Planas",
+    "aulaId": "mat.ef07.area_de_figuras_planas.areas_por_decomposicao",
+    "bncc": [
+      "EF07MA32"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "De um retângulo 8× 6 retira-se uma região retangular 3× 2. A área restante é:",
+    "opcoes": [
+      "42",
+      "54",
+      "36",
+      "40"
+    ],
+    "correta": 0,
+    "explicacao": "O total 48 perde uma região de área 6, restando 42.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113
+        ],
+        "paginasImpressas": "115, 116",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.area_de_figuras_planas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Área de Figuras Planas",
+    "aulaId": "mat.ef07.area_de_figuras_planas.area_de_triangulos",
+    "bncc": [
+      "EF07MA31"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um triângulo de base 12 cm e altura 5 cm tem área:",
+    "opcoes": [
+      "30 cm²",
+      "60 cm²",
+      "120 cm²",
+      "17 cm²"
+    ],
+    "correta": 0,
+    "explicacao": "12× 5÷ 2=30 cm².",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113,
+          344,
+          364
+        ],
+        "paginasImpressas": "115, 116, 347, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.area_de_figuras_planas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Área de Figuras Planas",
+    "aulaId": "mat.ef07.area_de_figuras_planas.area_de_triangulos",
+    "bncc": [
+      "EF07MA31"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um paralelogramo de base 8 e altura 3 tem área:",
+    "opcoes": [
+      "24",
+      "48",
+      "11",
+      "12"
+    ],
+    "correta": 0,
+    "explicacao": "A=bh=24.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113,
+          344,
+          364
+        ],
+        "paginasImpressas": "115, 116, 347, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.area_de_figuras_planas.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Área de Figuras Planas",
+    "aulaId": "mat.ef07.area_de_figuras_planas.area_de_triangulos",
+    "bncc": [
+      "EF07MA31"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um trapézio de bases 12 e 6 e altura 4 tem área:",
+    "opcoes": [
+      "72",
+      "24",
+      "36",
+      "48"
+    ],
+    "correta": 2,
+    "explicacao": "(12+6)× 4÷ 2=36.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113,
+          344,
+          364
+        ],
+        "paginasImpressas": "115, 116, 347, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.area_de_figuras_planas.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Área de Figuras Planas",
+    "aulaId": "mat.ef07.area_de_figuras_planas.areas_por_decomposicao",
+    "bncc": [
+      "EF07MA32"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "De um retângulo 10× 8 retira-se um recorte 3× 4. A área restante é:",
+    "opcoes": [
+      "12",
+      "56",
+      "68",
+      "92"
+    ],
+    "correta": 2,
+    "explicacao": "80−12=68.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113
+        ],
+        "paginasImpressas": "115, 116",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.area_de_figuras_planas.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Área de Figuras Planas",
+    "aulaId": "mat.ef07.area_de_figuras_planas.areas_por_decomposicao",
+    "bncc": [
+      "EF07MA32"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas decomposições sem lacunas e sem sobreposição da mesma região devem:",
+    "opcoes": [
+      "Conservar a área total.",
+      "Mudar o tamanho da unidade.",
+      "Somar comprimentos no lugar de áreas.",
+      "Dar áreas totais diferentes."
+    ],
+    "correta": 0,
+    "explicacao": "A região é a mesma; apenas a organização das partes muda.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113
+        ],
+        "paginasImpressas": "115, 116",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

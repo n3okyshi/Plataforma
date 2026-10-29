@@ -2,36 +2,121 @@
   "id": "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 23,
+  "ordem": 11,
   "unidade": "Explorando a Ideia de Função",
   "titulo": "Construção do Gráfico de uma Função",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA06"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construir e interpretar gráficos a partir de uma regra e de seu domínio."
+    ],
+    "resumo": "Construir e interpretar gráficos a partir de uma regra e de seu domínio.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Gráficos de Funções</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Visualizando o comportamento da função no plano cartesiano.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📈 Análise:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Identificamos intervalos de crescimento, decrescimento e os <strong>zeros da função</strong> (onde o gráfico corta o eixo X).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Construção do Gráfico de uma Função</h2><h3>O que vamos aprender</h3><p>Construir e interpretar gráficos a partir de uma regra e de seu domínio.</p><h3>Ideias e relações</h3><p>Para construir um gráfico, escolha entradas permitidas, calcule as saídas e represente os pares ordenados com eixos, escalas e unidades identificados. Em f(x)=2x+1 com domínio real, os pontos pertencem a uma reta; dois pontos distintos a determinam, mas outros permitem conferir os cálculos. Se a entrada representa quantidade inteira de objetos, o contexto pode exigir pontos isolados em vez de todos os segmentos entre eles. O gráfico deve mostrar a dependência, e não apenas uma sequência de números sem referência.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Reta da função f(x)=2x+1, contendo os pontos (menos um,menos um), (zero,um), (um,três) e (dois,cinco).\" style=\"max-width:100%;color:inherit\"><title>Reta da função f(x)=2x+1, contendo os pontos (menos um,menos um), (zero,um), (um,três) e (dois,cinco).</title><g stroke=\"currentColor\" fill=\"none\"><path d=\"M140 170H330M220 235V10\"/></g><path d=\"M190 200 280 20\" stroke=\"#2563eb\" stroke-width=\"3\"/><g fill=\"currentColor\" font-size=\"14\"><text x=\"224\" y=\"187\">0</text><text x=\"245\" y=\"187\">1</text><text x=\"276\" y=\"187\">2</text><text x=\"203\" y=\"144\">1</text><text x=\"203\" y=\"84\">3</text><text x=\"203\" y=\"24\">5</text><text x=\"335\" y=\"175\">x</text><text x=\"224\" y=\"12\">y</text><text x=\"25\" y=\"240\">Cada unidade dos eixos usa a mesma escala.</text></g></svg><h3>Exemplo resolvido</h3><p>Para x=−1,0,1,2, as saídas de 2x+1 são−1,1,3,5. Os pontos(0,1) e(1,3) mostram aumento de 2 na saída a cada unidade de entrada.</p><h3>Atenção ao raciocínio</h3><p>Não ligue pontos discretos como se qualquer entrada intermediária fosse admissível sem verificar o domínio.</p><h3>Investigue e produza</h3><p>Construa o gráfico de g(x)=3x−2 para domínio real e compare com uma tabela para x=0,1,2. Depois descreva o que mudaria se x fosse quantidade de ingressos.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "funcao",
+      "graficos"
+    ],
+    "errosComuns": [
+      "Não ligue pontos discretos como se qualquer entrada intermediária fosse admissível sem verificar o domínio."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "construcao_do_grafico_de_uma_funcao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual ponto pertence ao gráfico de f(x)=2x+1?",
+      "alternativas": [
+        "(0,0)",
+        "(1,2)",
+        "(2,5)",
+        "(3,5)"
+      ],
+      "correta": 2,
+      "explicacao": "f(2)=2× 2+1=5."
+    },
+    {
+      "id": "construcao_do_grafico_de_uma_funcao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa o gráfico de g(x)=3x−2 para domínio real e compare com uma tabela para x=0,1,2. Depois descreva o que mudaria se x fosse quantidade de ingressos.",
+      "gabarito": "Pontos(0,−2),(1,1),(2,4) numa reta. Como quantidade de ingressos, o domínio deve ser restringido a inteiros não negativos e o modelo de custo precisa fazer sentido no contexto.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Pontos(0,−2),(1,1),(2,4) numa reta. Como quantidade de ingressos, o domínio deve ser restringido a inteiros não negativos e o modelo de custo precisa fazer sentido no contexto.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "funcao",
+    "graficos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        298,
+        300
+      ],
+      "paginasImpressas": "300, 301, 303",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao"
+  ],
+  "proximosPassos": [
+    "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

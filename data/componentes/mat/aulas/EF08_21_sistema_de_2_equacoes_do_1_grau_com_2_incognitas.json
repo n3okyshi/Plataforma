@@ -2,36 +2,119 @@
   "id": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 21,
+  "ordem": 13,
   "unidade": "Sistema de Equações do 1° Grau com 2 Incógnitas",
   "titulo": "Sistema de 2 Equações do 1º Grau com 2 Incógnitas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA08"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver e interpretar sistemas por substituição, adição e intersecção de retas."
+    ],
+    "resumo": "Resolver e interpretar sistemas por substituição, adição e intersecção de retas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Resolvendo Sistemas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Métodos algébricos para encontrar a solução sem desenhar gráficos.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛠️ Métodos:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Substituição:</strong> Isola uma letra e troca na outra.</li>\n                <li><strong>Adição:</strong> Soma as equações para \"zerar\" uma letra.</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Sistema de 2 Equações do 1º Grau com 2 Incógnitas</h2><h3>O que vamos aprender</h3><p>Resolver e interpretar sistemas por substituição, adição e intersecção de retas.</p><h3>Ideias e relações</h3><p>Um sistema exige que as mesmas incógnitas satisfaçam simultaneamente duas equações. Por substituição, isolamos uma incógnita e usamos a expressão na outra equação. Por adição, combinamos equações para eliminar um termo, preservando as soluções. Graficamente, uma solução comum corresponde a uma intersecção das retas. Retas paralelas distintas não têm solução comum; retas coincidentes têm infinitas soluções reais. Confira o par nas duas equações e no contexto do problema.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Duas retas: x+y=8 e x−y=2, com intersecção em (5,3).\" style=\"max-width:100%;color:inherit\"><title>Duas retas: x+y=8 e x−y=2, com intersecção em (5,3).</title><g stroke=\"currentColor\" fill=\"none\"><path d=\"M95 210H290M110 225V35\"/><path d=\"M110 206V214M106 210H114\"/><path d=\"M130 206V214M106 190H114\"/><path d=\"M150 206V214M106 170H114\"/><path d=\"M170 206V214M106 150H114\"/><path d=\"M190 206V214M106 130H114\"/><path d=\"M210 206V214M106 110H114\"/><path d=\"M230 206V214M106 90H114\"/><path d=\"M250 206V214M106 70H114\"/><path d=\"M270 206V214M106 50H114\"/></g><path d=\"M110 50 270 210\" stroke=\"#2563eb\" stroke-width=\"2\"/><path d=\"M150 210 270 90\" stroke=\"#16a34a\" stroke-width=\"2\"/><circle cx=\"210\" cy=\"150\" r=\"5\" fill=\"#dc2626\"/><g fill=\"currentColor\" font-size=\"14\"><text x=\"216\" y=\"145\">(5,3)</text><text x=\"96\" y=\"230\">0</text><text x=\"265\" y=\"230\">8</text><text x=\"90\" y=\"55\">8</text><text x=\"295\" y=\"215\">x</text><text x=\"105\" y=\"25\">y</text><text x=\"300\" y=\"75\">Azul: x+y=8</text><text x=\"300\" y=\"100\">Verde: x−y=2</text></g></svg><h3>Exemplo resolvido</h3><p>Em x+y=8 e x−y=2, somar as equações fornece 2x=10; x=5. Substituindo, y=3. O par(5,3) é a intersecção do desenho.</p><h3>Atenção ao raciocínio</h3><p>Um par que satisfaz apenas uma equação não resolve o sistema.</p><h3>Investigue e produza</h3><p>Elabore e resolva um problema para x+y=12 e 2x+y=17. Use dois métodos e interprete a solução no gráfico.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "sistemas_de_equacoes",
+      "incognita"
+    ],
+    "errosComuns": [
+      "Um par que satisfaz apenas uma equação não resolve o sistema."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "sistema_de_2_equacoes_do_1_grau_com_2_incognitas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A solução de x+y=8 e x−y=2 é:",
+      "alternativas": [
+        "(4,4)",
+        "(5,3)",
+        "(6,2)",
+        "(3,5)"
+      ],
+      "correta": 1,
+      "explicacao": "5+3=8 e 5−3=2."
+    },
+    {
+      "id": "sistema_de_2_equacoes_do_1_grau_com_2_incognitas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Elabore e resolva um problema para x+y=12 e 2x+y=17. Use dois métodos e interprete a solução no gráfico.",
+      "gabarito": "Subtrair a primeira equação da segunda dá x=5; y=7. Por substituição, y=12−x leva ao mesmo par. O contexto deve representar as duas condições e a intersecção.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Subtrair a primeira equação da segunda dá x=5; y=7. Por substituição, y=12−x leva ao mesmo par. O contexto deve representar as duas condições e a intersecção.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sistemas_de_equacoes",
+    "incognita"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        163,
+        164,
+        165
+      ],
+      "paginasImpressas": "166, 167, 168",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

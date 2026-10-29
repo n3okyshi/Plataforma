@@ -1,0 +1,126 @@
+{
+  "id": "mat.ef07.area_de_figuras_planas.prova",
+  "titulo": "Avaliação: Área de Figuras Planas",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF07",
+  "unidade": "Área de Figuras Planas",
+  "bncc": [
+    "EF07MA31",
+    "EF07MA32"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef07.area_de_figuras_planas.prova.01",
+    "mat.ef07.area_de_figuras_planas.prova.02",
+    "mat.ef07.area_de_figuras_planas.prova.03",
+    "mat.ef07.area_de_figuras_planas.prova.04",
+    "mat.ef07.area_de_figuras_planas.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF07MA31",
+      "questoes": [
+        "mat.ef07.area_de_figuras_planas.prova.01",
+        "mat.ef07.area_de_figuras_planas.prova.02",
+        "mat.ef07.area_de_figuras_planas.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.area_de_figuras_planas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.area_de_figuras_planas.area_de_triangulos#area_de_triangulos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA32",
+      "questoes": [
+        "mat.ef07.area_de_figuras_planas.prova.04",
+        "mat.ef07.area_de_figuras_planas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.area_de_figuras_planas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.area_de_figuras_planas.areas_por_decomposicao#areas_por_decomposicao.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef07.area_de_figuras_planas.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Área de Figuras Planas",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Use recortes para justificar a área de um paralelogramo e de um trapézio. Calcule a área de um trapézio com bases 8 e 4 e altura 3. 2. Desenhe a região do exemplo e resolva por uma segunda decomposição em retângulos. Explique por que os resultados coincidem.",
+    "gabarito": "Conferência por tarefa: 1. As recomposições devem conservar a área e justificar as expressões. Para o trapézio: (8+4)× 3÷ 2=18 unidades quadradas. 2. Uma decomposição possível, com o recorte num canto, produz retângulos 5× 6 e 3× 4, de áreas 30 e 12. A soma 42 coincide com 48−6; o desenho deve indicar onde foi o recorte.",
+    "bncc": [
+      "EF07MA31",
+      "EF07MA32"
+    ],
+    "atividadesOrigem": [
+      "mat.ef07.area_de_figuras_planas.area_de_triangulos#area_de_triangulos.investigacao",
+      "mat.ef07.area_de_figuras_planas.areas_por_decomposicao#areas_por_decomposicao.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Áreas de Triângulos e Quadriláteros",
+        "enunciado": "Use recortes para justificar a área de um paralelogramo e de um trapézio. Calcule a área de um trapézio com bases 8 e 4 e altura 3.",
+        "gabarito": "As recomposições devem conservar a área e justificar as expressões. Para o trapézio: (8+4)× 3÷ 2=18 unidades quadradas.",
+        "bncc": [
+          "EF07MA31"
+        ],
+        "atividadeOrigem": "mat.ef07.area_de_figuras_planas.area_de_triangulos#area_de_triangulos.investigacao"
+      },
+      {
+        "titulo": "Áreas por Decomposição",
+        "enunciado": "Desenhe a região do exemplo e resolva por uma segunda decomposição em retângulos. Explique por que os resultados coincidem.",
+        "gabarito": "Uma decomposição possível, com o recorte num canto, produz retângulos 5× 6 e 3× 4, de áreas 30 e 12. A soma 42 coincide com 48−6; o desenho deve indicar onde foi o recorte.",
+        "bncc": [
+          "EF07MA32"
+        ],
+        "atividadeOrigem": "mat.ef07.area_de_figuras_planas.areas_por_decomposicao#areas_por_decomposicao.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        112,
+        113,
+        344,
+        364
+      ],
+      "paginasImpressas": "115, 116, 347, 367",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        112,
+        113
+      ],
+      "paginasImpressas": "115, 116",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

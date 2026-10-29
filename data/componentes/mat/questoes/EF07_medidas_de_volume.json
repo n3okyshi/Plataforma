@@ -1,0 +1,367 @@
+[
+  {
+    "id": "mat.ef07.medidas_de_volume.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Medidas de Volume",
+    "aulaId": "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares",
+    "bncc": [
+      "EF07MA30"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O volume de um bloco de 3 dm, 2 dm e 4 dm é:",
+    "opcoes": [
+      "12 dm³",
+      "24 dm³",
+      "48 dm³",
+      "9 dm³"
+    ],
+    "correta": 1,
+    "explicacao": "Multiplicamos as três dimensões: 3× 2× 4=24.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          118,
+          119
+        ],
+        "paginasImpressas": "121, 122",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.medidas_de_volume.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Medidas de Volume",
+    "aulaId": "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade",
+    "bncc": [
+      "EF07MA30"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "3.000 cm³ de volume interno correspondem a:",
+    "opcoes": [
+      "30 L",
+      "3.000 L",
+      "0,3 L",
+      "3 L"
+    ],
+    "correta": 3,
+    "explicacao": "Cada 1.000 cm³ equivale a um litro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          118,
+          120,
+          121
+        ],
+        "paginasImpressas": "121, 123, 124",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.medidas_de_volume.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Medidas de Volume",
+    "aulaId": "mat.ef07.medidas_de_volume.problemas_de_medicao",
+    "bncc": [
+      "EF07MA29"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O que pode limitar a precisão de uma medida com régua?",
+    "opcoes": [
+      "A escolha de uma letra para a medida.",
+      "Somente o nome do objeto.",
+      "A graduação e o procedimento de leitura.",
+      "A quantidade de algarismos digitada depois."
+    ],
+    "correta": 2,
+    "explicacao": "A resolução do instrumento, o alinhamento e a leitura influenciam a medição.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110,
+          123
+        ],
+        "paginasImpressas": "112, 113, 126",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.medidas_de_volume.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Medidas de Volume",
+    "aulaId": "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares",
+    "bncc": [
+      "EF07MA30"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um bloco de 2 m,3 m e 4 m tem volume:",
+    "opcoes": [
+      "12 m³",
+      "24 m³",
+      "48 m³",
+      "9 m³"
+    ],
+    "correta": 1,
+    "explicacao": "2× 3× 4=24 m³.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          118,
+          119
+        ],
+        "paginasImpressas": "121, 122",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.medidas_de_volume.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Medidas de Volume",
+    "aulaId": "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade",
+    "bncc": [
+      "EF07MA30"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "1 m³ corresponde a:",
+    "opcoes": [
+      "1.000 L",
+      "10.000 L",
+      "10 L",
+      "100 L"
+    ],
+    "correta": 0,
+    "explicacao": "1 m³=1.000 dm³ e cada dm³ é 1 L.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          118,
+          120,
+          121
+        ],
+        "paginasImpressas": "121, 123, 124",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.medidas_de_volume.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Medidas de Volume",
+    "aulaId": "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade",
+    "bncc": [
+      "EF07MA30"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um recipiente interno 40× 20× 10 cm comporta:",
+    "opcoes": [
+      "800 L",
+      "0,8 L",
+      "8 L",
+      "80 L"
+    ],
+    "correta": 2,
+    "explicacao": "São 8.000 cm³, equivalentes a 8 L.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          118,
+          120,
+          121
+        ],
+        "paginasImpressas": "121, 123, 124",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.medidas_de_volume.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Medidas de Volume",
+    "aulaId": "mat.ef07.medidas_de_volume.problemas_de_medicao",
+    "bncc": [
+      "EF07MA29"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma medida empírica depende:",
+    "opcoes": [
+      "Só da quantidade de casas escritas.",
+      "Do instrumento e do procedimento.",
+      "Da certeza de erro zero.",
+      "De ser sempre um número inteiro."
+    ],
+    "correta": 1,
+    "explicacao": "Resolução e método limitam a precisão.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110,
+          123
+        ],
+        "paginasImpressas": "112, 113, 126",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.medidas_de_volume.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Medidas de Volume",
+    "aulaId": "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares",
+    "bncc": [
+      "EF07MA30"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ao converter 1 dm³ para cm³, obtemos:",
+    "opcoes": [
+      "100",
+      "1.000",
+      "10.000",
+      "10"
+    ],
+    "correta": 1,
+    "explicacao": "Cada direção tem fator 10, totalizando 10³.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          118,
+          119
+        ],
+        "paginasImpressas": "121, 122",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -1,0 +1,136 @@
+{
+  "id": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova",
+  "titulo": "Avaliação: Relações Métricas no Triângulo Retângulo",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF09",
+  "unidade": "Relações Métricas no Triângulo Retângulo",
+  "bncc": [
+    "EF09MA13",
+    "EF09MA14"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.01",
+    "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.02",
+    "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.03",
+    "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.04",
+    "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF09MA13",
+      "questoes": [
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.01",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.02",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.03",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras#uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras.investigacao",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo#os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA14",
+      "questoes": [
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.aplicacoes_importantes_do_teorema_de_pitagoras#aplicacoes_importantes_do_teorema_de_pitagoras.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Relações Métricas no Triângulo Retângulo",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Recorte quatro triângulos retângulos iguais e organize a demonstração por áreas. Registre as áreas do quadrado externo, dos triângulos e do quadrado interno. 2. Use a figura para identificar os três triângulos semelhantes. Demonstre b²=am e h²=mn e confira para o exemplo 3,4,5. 3. Crie um problema com um triângulo retângulo de hipotenusa 17 e cateto 8. Determine o outro cateto e explique as hipóteses geométricas.",
+    "gabarito": "Conferência por tarefa: 1. Externo(b+c)²; quatro triângulos totalizam 2bc; restante b²+c²=a². A montagem deve justificar que a região interna é um quadrado de lado a. 2. Explicitar AA e correspondência de lados. m/b=b/a e m/h=h/n levam às relações. Conferências:9=5× 1,8 e 5,76=1,8× 3,2. 3. O outro cateto é 15, pois 17²−8²=289−64=225. O enunciado deve garantir ângulo reto e identificar corretamente os lados.",
+    "bncc": [
+      "EF09MA13",
+      "EF09MA14"
+    ],
+    "atividadesOrigem": [
+      "mat.ef09.relacoes_metricas_no_triangulo_retangulo.uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras#uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras.investigacao",
+      "mat.ef09.relacoes_metricas_no_triangulo_retangulo.os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo#os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo.investigacao",
+      "mat.ef09.relacoes_metricas_no_triangulo_retangulo.aplicacoes_importantes_do_teorema_de_pitagoras#aplicacoes_importantes_do_teorema_de_pitagoras.investigacao"
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "O Teorema de Pitágoras",
+        "enunciado": "Recorte quatro triângulos retângulos iguais e organize a demonstração por áreas. Registre as áreas do quadrado externo, dos triângulos e do quadrado interno.",
+        "gabarito": "Externo(b+c)²; quatro triângulos totalizam 2bc; restante b²+c²=a². A montagem deve justificar que a região interna é um quadrado de lado a.",
+        "bncc": [
+          "EF09MA13"
+        ],
+        "atividadeOrigem": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras#uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras.investigacao"
+      },
+      {
+        "titulo": "Elementos e Relações Métricas no Triângulo Retângulo",
+        "enunciado": "Use a figura para identificar os três triângulos semelhantes. Demonstre b²=am e h²=mn e confira para o exemplo 3,4,5.",
+        "gabarito": "Explicitar AA e correspondência de lados. m/b=b/a e m/h=h/n levam às relações. Conferências:9=5× 1,8 e 5,76=1,8× 3,2.",
+        "bncc": [
+          "EF09MA13"
+        ],
+        "atividadeOrigem": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo#os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo.investigacao"
+      },
+      {
+        "titulo": "Aplicações do Teorema de Pitágoras",
+        "enunciado": "Crie um problema com um triângulo retângulo de hipotenusa 17 e cateto 8. Determine o outro cateto e explique as hipóteses geométricas.",
+        "gabarito": "O outro cateto é 15, pois 17²−8²=289−64=225. O enunciado deve garantir ângulo reto e identificar corretamente os lados.",
+        "bncc": [
+          "EF09MA14"
+        ],
+        "atividadeOrigem": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.aplicacoes_importantes_do_teorema_de_pitagoras#aplicacoes_importantes_do_teorema_de_pitagoras.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        372,
+        373
+      ],
+      "paginasImpressas": "375, 376",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        372,
+        373,
+        374
+      ],
+      "paginasImpressas": "375, 376, 377",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

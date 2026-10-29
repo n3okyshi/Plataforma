@@ -1,0 +1,104 @@
+{
+  "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.escolha_e_construcao_de_graficos",
+  "componente": "mat",
+  "nivel": "EF09",
+  "ordem": 34,
+  "unidade": "Estatística, Combinatória e Probabilidade",
+  "titulo": "Escolha e Construção de Gráficos",
+  "bncc": [
+    "EF09MA22"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Escolher e construir gráficos que apresentem dados e medidas de tendência central."
+    ],
+    "resumo": "Escolher e construir gráficos que apresentem dados e medidas de tendência central.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Escolha e Construção de Gráficos</h2><h3>O que vamos aprender</h3><p>Escolher e construir gráficos que apresentem dados e medidas de tendência central.</p><h3>Ideias e relações</h3><p>Escolher entre colunas, setores e linhas depende da variável e da pergunta. Linhas favorecem uma sequência temporal; colunas comparam categorias; setores mostram partes exclusivas de um mesmo todo. Calcule e interprete medidas de tendência central quando a variável permitir e destaque-as de forma coerente, por exemplo uma linha de média num gráfico temporal. Use planilha quando disponível, mas confira escalas e rótulos automáticos. Uma representação clara precisa de fonte, data, unidades e limites da informação.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Exemplo fictício de livros lidos em quatro semanas: dois,três,três,oito. A média é quatro e está indicada por linha tracejada.\" style=\"max-width:100%;color:inherit\"><title>Exemplo fictício de livros lidos em quatro semanas: dois,três,três,oito. A média é quatro e está indicada por linha tracejada.</title><g stroke=\"currentColor\" fill=\"none\"><path d=\"M60 25V200H400\"/><path d=\"M56 200H400\" opacity=\"0.15\"/><path d=\"M56 160H400\" opacity=\"0.15\"/><path d=\"M56 120H400\" opacity=\"0.15\"/><path d=\"M56 80H400\" opacity=\"0.15\"/><path d=\"M56 40H400\" opacity=\"0.15\"/></g><path d=\"M80 160 180 140 280 140 380 40\" stroke=\"#2563eb\" stroke-width=\"3\" fill=\"none\"/><path d=\"M60 120H400\" stroke=\"#d97706\" stroke-dasharray=\"5 4\"/><g fill=\"currentColor\" font-size=\"12\"><text x=\"75\" y=\"216\">1</text><text x=\"175\" y=\"216\">2</text><text x=\"275\" y=\"216\">3</text><text x=\"375\" y=\"216\">4</text><text x=\"40\" y=\"204\">0</text><text x=\"40\" y=\"164\">2</text><text x=\"40\" y=\"124\">4</text><text x=\"40\" y=\"84\">6</text><text x=\"40\" y=\"44\">8</text><text x=\"325\" y=\"112\">Média4</text><text x=\"5\" y=\"18\">Livros</text><text x=\"327\" y=\"233\">Semana</text><text x=\"10\" y=\"248\">Fonte: exemplo fictício autoral29/10/2026.</text></g></svg><h3>Exemplo resolvido</h3><p>Nos dados fictícios 2,3,3,8 livros em quatro semanas, a média é 4 e a mediana 3. A linha horizontal de média não significa que em cada semana tenham sido lidos quatro livros.</p><h3>Atenção ao raciocínio</h3><p>Não calcule média de nomes de categorias apenas porque foram codificados por números.</p><h3>Investigue e produza</h3><p>Construa gráficos para uma série temporal e para categorias exclusivas de sua escolha, identificando quais medidas centrais fazem sentido e como destacá-las.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Não calcule média de nomes de categorias apenas porque foram codificados por números."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "escolha_e_construcao_de_graficos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A média de 2,3,3,8 é:",
+      "alternativas": [
+        "5",
+        "6",
+        "3",
+        "4"
+      ],
+      "correta": 3,
+      "explicacao": "A soma 16 dividida por 4 dá 4."
+    },
+    {
+      "id": "escolha_e_construcao_de_graficos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa gráficos para uma série temporal e para categorias exclusivas de sua escolha, identificando quais medidas centrais fazem sentido e como destacá-las.",
+      "gabarito": "As escolhas devem corresponder às variáveis. Conferir totais, medidas, eixos, escalas, fonte e data; explicitar se os dados são reais ou fictícios e evitar atribuir média a categorias nominais.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "As escolhas devem corresponder às variáveis. Conferir totais, medidas, eixos, escalas, fonte e data; explicitar se os dados são reais ou fictícios e evitar atribuir média a categorias nominais.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

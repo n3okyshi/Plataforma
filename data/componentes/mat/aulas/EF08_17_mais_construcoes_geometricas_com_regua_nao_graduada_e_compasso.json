@@ -4,34 +4,120 @@
   "nivel": "EF08",
   "ordem": 17,
   "unidade": "Lugares Geométricos e Construções Geométricas",
-  "titulo": "Mais Construções Geométricas com Régua Não Graduada e Compasso",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Hexágono Regular: Construção e Algoritmo",
+  "bncc": [
+    "EF08MA15",
+    "EF08MA16"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Descrever e executar um algoritmo de construção de hexágono regular."
+    ],
+    "resumo": "Descrever e executar um algoritmo de construção de hexágono regular.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Construções sem Medidas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Construção \"pura\" de ângulos notáveis (30º, 45º, 60º, 90º) e polígonos regulares inscritos apenas com régua lisa e compasso.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎨 Arte Matemática:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Desenvolvemos o raciocínio espacial sem depender dos números do transferidor.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Hexágono Regular: Construção e Algoritmo</h2><h3>O que vamos aprender</h3><p>Descrever e executar um algoritmo de construção de hexágono regular.</p><h3>Ideias e relações</h3><p>Num hexágono regular inscrito, o raio da circunferência é igual ao lado e cada ângulo central mede 60°. Para construí-lo com lado a positivo, trace uma circunferência de raio a, escolha um ponto inicial e marque sucessivamente seis cordas com a mesma abertura do compasso. Una os pontos consecutivos. Os seis triângulos formados com o centro são equiláteros, justificando as medidas. Um esquadro de 30°/60° pode conferir o ângulo central. O algoritmo deve informar entrada, repetição, fechamento e saída, em texto e fluxograma.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Hexágono regular dividido em seis triângulos equiláteros por raios.\" style=\"max-width:100%;color:inherit\"><title>Hexágono regular dividido em seis triângulos equiláteros por raios.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><polygon points=\"305.00,120.00 262.50,46.39 177.50,46.39 135.00,120.00 177.50,193.61 262.50,193.61\"/><path d=\"M220 120 305.00 120.00\"/><path d=\"M220 120 262.50 46.39\"/><path d=\"M220 120 177.50 46.39\"/><path d=\"M220 120 135.00 120.00\"/><path d=\"M220 120 177.50 193.61\"/><path d=\"M220 120 262.50 193.61\"/></g><g fill=\"currentColor\" font-size=\"16\"><text x=\"242\" y=\"113\">60°</text><text x=\"95\" y=\"235\">Cada lado mede o mesmo que o raio.</text></g></svg><h3>Exemplo resolvido</h3><p>Com lado 3 cm, use raio 3 cm e marque seis cordas de 3 cm. A figura fecha após seis etapas porque 6× 60°=360°.</p><h3>Atenção ao raciocínio</h3><p>Não divida a circunferência em seis arcos apenas pela aparência do desenho.</p><h3>Investigue e produza</h3><p>Construa o hexágono de lado 4 cm com compasso e esquadro e produza seu algoritmo escrito e fluxograma, incluindo um contador de seis marcações.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "construcoes_geometricas",
+      "compasso"
+    ],
+    "errosComuns": [
+      "Não divida a circunferência em seis arcos apenas pela aparência do desenho."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em um hexágono regular, o ângulo central entre vértices consecutivos é:",
+      "alternativas": [
+        "45°",
+        "60°",
+        "120°",
+        "30°"
+      ],
+      "correta": 1,
+      "explicacao": "Uma volta completa dividida por seis dá 60°."
+    },
+    {
+      "id": "mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa o hexágono de lado 4 cm com compasso e esquadro e produza seu algoritmo escrito e fluxograma, incluindo um contador de seis marcações.",
+      "gabarito": "Ler a>0; traçar circunferência de raio a; escolher ponto inicial; marcar seis cordas com a mesma abertura, contando as etapas; unir pontos em ordem e fechar. Justificar 60° pelos triângulos equiláteros.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Ler a>0; traçar circunferência de raio a; escolher ponto inicial; marcar seis cordas com a mesma abertura, contando as etapas; unir pontos em ordem e fechar. Justificar 60° pelos triângulos equiláteros.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "construcoes_geometricas",
+    "compasso"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344,
+        415,
+        416
+      ],
+      "paginasImpressas": "347, 418, 419",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso"
+  ],
+  "proximosPassos": [
+    "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

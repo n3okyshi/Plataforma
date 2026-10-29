@@ -2,36 +2,111 @@
   "id": "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 6,
+  "ordem": 24,
   "unidade": "Estatística e Probabilidade",
   "titulo": "Representação Gráfica dos Dados de uma Pesquisa",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA23"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Escolher gráficos adequados ao tipo de variável, ao todo e ao objetivo da comunicação."
+    ],
+    "resumo": "Escolher gráficos adequados ao tipo de variável, ao todo e ao objetivo da comunicação.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Leitura de Gráficos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Interpretação e construção de gráficos: barras, linhas, setores (pizza) e histogramas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎯 Escolha Certa:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Aprender qual gráfico é o \"mais honesto\" e adequado para cada tipo de variável apresentada.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Representação Gráfica dos Dados de uma Pesquisa</h2><h3>O que vamos aprender</h3><p>Escolher gráficos adequados ao tipo de variável, ao todo e ao objetivo da comunicação.</p><h3>Ideias e relações</h3><p>Gráficos comunicam relações diferentes. Colunas ou barras comparam categorias; linhas mostram uma variável em uma sequência ordenada, como o tempo; setores representam partes de um mesmo todo. Dados contínuos agrupados em classes podem ser apresentados por histograma. A escolha exige observar a variável e a pergunta, e não apenas preferir uma aparência. Inclua título, eixos, unidades, escala, fonte, data e legenda quando necessária. Um gráfico adequado não permite conclusões sobre causas sem outras evidências.</p><h3>Exemplo resolvido</h3><p>Uma evolução mensal de consumo pode usar linhas; a preferência por três categorias exclusivas pode usar colunas ou setores. Se cada pessoa pode escolher várias categorias, os setores podem sugerir um todo inexistente.</p><h3>Atenção ao raciocínio</h3><p>Não ligue categorias sem ordem natural como se os segmentos representassem uma evolução temporal.</p><h3>Investigue e produza</h3><p>Use dados fictícios de consumo mensal 12,15,11,18 e dados de categorias exclusivas A=10,B=6,C=4. Escolha e construa gráficos, justificando cada escolha.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "graficos",
+      "representacao"
+    ],
+    "errosComuns": [
+      "Não ligue categorias sem ordem natural como se os segmentos representassem uma evolução temporal."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "representacao_grafica_dos_dados_de_uma_pesquisa.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para acompanhar um consumo mês a mês, o tipo mais diretamente adequado é:",
+      "alternativas": [
+        "Linhas",
+        "Setores sem período",
+        "Um único ponto sem eixos",
+        "Qualquer gráfico sem escala"
+      ],
+      "correta": 0,
+      "explicacao": "A ordem temporal torna útil observar a evolução por uma linha."
+    },
+    {
+      "id": "representacao_grafica_dos_dados_de_uma_pesquisa.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Use dados fictícios de consumo mensal 12,15,11,18 e dados de categorias exclusivas A=10,B=6,C=4. Escolha e construa gráficos, justificando cada escolha.",
+      "gabarito": "Linhas são adequadas à série temporal; colunas ou setores servem às categorias, cujo total é 20. Identificar os exemplos como fictícios e incluir elementos de leitura.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Linhas são adequadas à série temporal; colunas ou setores servem às categorias, cujo total é 20. Identificar os exemplos como fictícios e incluir elementos de leitura.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "graficos",
+    "representacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica"
+  ],
+  "proximosPassos": [
+    "mat.ef08.estatistica_e_probabilidade.probabilidade"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

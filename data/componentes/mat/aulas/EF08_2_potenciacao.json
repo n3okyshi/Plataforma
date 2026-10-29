@@ -5,33 +5,118 @@
   "ordem": 2,
   "unidade": "Números, dos Naturais aos Racionais, e Sequências",
   "titulo": "Potenciação",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA01"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Operar potências de expoente inteiro explicitando as restrições das bases."
+    ],
+    "resumo": "Operar potências de expoente inteiro explicitando as restrições das bases.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Potenciação e Notação Científica</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Exploramos expoentes inteiros (incluindo negativos, que invertem a base) e a <strong>Notação Científica</strong> para lidar com números astronômicos ou microscópicos.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🚀 Aplicação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Usamos potências de 10 para escrever a distância entre planetas ou o tamanho de uma célula.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Potenciação</h2><h3>O que vamos aprender</h3><p>Operar potências de expoente inteiro explicitando as restrições das bases.</p><h3>Ideias e relações</h3><p>Para a base não nula, a⁰=1 e a⁻ⁿ=1/aⁿ, com n inteiro positivo. Ao multiplicar potências de mesma base, somamos os expoentes; ao dividir, subtraímos, mantendo divisor não nulo. Em uma potência de potência, multiplicamos os expoentes. Essas relações se justificam cancelando fatores e mantendo a coerência das operações. Sinais e parênteses continuam importantes: (−2)² é diferente de −2². As propriedades não autorizam somar expoentes em uma adição de potências.</p><h3>Exemplo resolvido</h3><p>2³× 2⁻¹=2²=4. Outra verificação é 8× 1/2=4. Já 2³+2¹=8+2=10, e não 2⁴.</p><h3>Atenção ao raciocínio</h3><p>Expoente negativo não transforma automaticamente o resultado em número negativo.</p><h3>Investigue e produza</h3><p>Calcule 3²× 3⁻³ e (2²)³ por duas estratégias. Indique onde a base deve ser não nula.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "potenciacao",
+      "expoentes"
+    ],
+    "errosComuns": [
+      "Expoente negativo não transforma automaticamente o resultado em número negativo."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "potenciacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto vale 2⁻³?",
+      "alternativas": [
+        "1/6",
+        "1/8",
+        "−8",
+        "−6"
+      ],
+      "correta": 1,
+      "explicacao": "2⁻³=1/(2³)=1/8."
+    },
+    {
+      "id": "potenciacao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Calcule 3²× 3⁻³ e (2²)³ por duas estratégias. Indique onde a base deve ser não nula.",
+      "gabarito": "3²× 3⁻³=3⁻¹=1/3;9× 1/27 confirma. (2²)³=2⁶=64;4³ também. Expoentes negativos e divisões exigem base não nula.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "3²× 3⁻³=3⁻¹=1/3;9× 1/27 confirma. (2²)³=2⁶=64;4³ também. Expoentes negativos e divisões exigem base não nula.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "potenciacao",
+    "expoentes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        40,
+        41,
+        42
+      ],
+      "paginasImpressas": "43, 44, 45",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.conjuntos_numericos"
+  ],
+  "proximosPassos": [
+    "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.radiciacao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

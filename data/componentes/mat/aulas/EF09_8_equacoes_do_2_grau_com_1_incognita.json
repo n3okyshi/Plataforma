@@ -2,36 +2,119 @@
   "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 8,
+  "ordem": 9,
   "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
-  "titulo": "Equações do 2º Grau com 1 Incógnita",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Equações do 2º Grau com uma Incógnita",
+  "bncc": [
+    "EF09MA09"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver equações quadráticas e interpretar quais raízes são admissíveis no problema."
+    ],
+    "resumo": "Resolver equações quadráticas e interpretar quais raízes são admissíveis no problema.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Equação do 2º Grau</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definição da forma $ax^2 + bx + c = 0$. Resolução pela lendária <strong>Fórmula de Bhaskara</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚠️ O Delta (Δ):</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O discriminante nos diz quantas soluções reais existem:\n            <br>Δ > 0 (duas raízes), Δ = 0 (uma raiz), Δ < 0 (nenhuma raiz real).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Equações do 2º Grau com uma Incógnita</h2><h3>O que vamos aprender</h3><p>Resolver equações quadráticas e interpretar quais raízes são admissíveis no problema.</p><h3>Ideias e relações</h3><p>Uma equação quadrática pode ser organizada em ax²+bx+c=0, com a não nulo. Procure fatoração quando ela for conveniente; também se pode completar quadrados ou usar x=(−b±√Δ)/(2a), com Δ=b²−4ac. Se Δ é positivo, há duas raízes reais; se é zero, uma raiz real dupla; se é negativo, não há raízes reais. As soluções algébricas precisam ser interpretadas no contexto, como medidas positivas ou quantidades inteiras quando exigidas.</p><h3>Exemplo resolvido</h3><p>x²−5x+6=0 pode ser fatorada em(x−2)(x−3)=0, dando 2 e 3. Pela expressão geral, Δ=1 e(5±1)/2 confirma os mesmos valores.</p><h3>Atenção ao raciocínio</h3><p>Uma raiz negativa não deve ser descartada sem motivo; a restrição vem do contexto, não da aparência do resultado.</p><h3>Investigue e produza</h3><p>Um retângulo tem lados x e x+2 e área 48. Modele, resolva e explique qual raiz responde ao problema.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "equacao_do_2_grau",
+      "equacoes"
+    ],
+    "errosComuns": [
+      "Uma raiz negativa não deve ser descartada sem motivo; a restrição vem do contexto, não da aparência do resultado."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "equacoes_do_2_grau_com_1_incognita.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "As raízes de x²−5x+6=0 são:",
+      "alternativas": [
+        "2 e 3",
+        "1 e 6",
+        "−1 e−6",
+        "−2 e−3"
+      ],
+      "correta": 0,
+      "explicacao": "A fatoração(x−2)(x−3) produz os dois valores."
+    },
+    {
+      "id": "equacoes_do_2_grau_com_1_incognita.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Um retângulo tem lados x e x+2 e área 48. Modele, resolva e explique qual raiz responde ao problema.",
+      "gabarito": "x²+2x−48=0, ou(x+8)(x−6)=0. As raízes são−8 e 6; medidas positivas dão x=6 e lados 6 e 8. Conferir área 48.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "x²+2x−48=0, ou(x+8)(x−6)=0. As raízes são−8 e 6; medidas positivas dão x=6 e lados 6 e 8. Conferir área 48.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "equacao_do_2_grau",
+    "equacoes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        267,
+        268,
+        269
+      ],
+      "paginasImpressas": "270, 271, 272",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

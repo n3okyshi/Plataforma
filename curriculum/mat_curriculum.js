@@ -655,113 +655,207 @@ registrarCurriculo("Matemática", {
     "Números Inteiros": [
       {
         "id": "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica",
-        "titulo": "Números inteiros e reta numérica"
+        "titulo": "Números Inteiros e Reta Numérica",
+        "complementar": false
       },
       {
         "id": "mat.ef07.numeros_inteiros.comparacao_de_numeros_inteiros",
-        "titulo": "Comparação de números inteiros"
+        "titulo": "Comparação de Números Inteiros",
+        "complementar": false
       }
     ],
     "Operações com números inteiros": [
       {
         "id": "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros",
-        "titulo": "Adição e Subtração de Inteiros"
+        "titulo": "Adição e Subtração de Inteiros",
+        "complementar": false
       },
       {
         "id": "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros",
-        "titulo": "Multiplicação e Divisão de Inteiros"
+        "titulo": "Multiplicação e Divisão de Inteiros",
+        "complementar": false
       },
       {
         "id": "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros",
-        "titulo": "Potenciação e Raiz Quadrada de Inteiros"
+        "titulo": "Potenciação e Raiz Quadrada de Inteiros",
+        "complementar": false
+      }
+    ],
+    "Múltiplos, Divisores e MDC": [
+      {
+        "id": "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores",
+        "titulo": "Problemas com Múltiplos e Divisores",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas",
+        "titulo": "MDC e MMC em Problemas",
+        "complementar": false
       }
     ],
     "Números Racionais": [
       {
         "id": "mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais",
-        "titulo": "O Conjunto dos Números Racionais"
+        "titulo": "O Conjunto dos Números Racionais",
+        "complementar": false
       },
       {
         "id": "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais",
-        "titulo": "Operações com Números Racionais"
+        "titulo": "Operações com Números Racionais",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.numeros_racionais.fracoes_e_razao",
+        "titulo": "Fração e Razão",
+        "complementar": false
       }
     ],
     "Expressões Algébricas e Equações": [
       {
         "id": "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas",
-        "titulo": "Expressões Algébricas"
+        "titulo": "Expressões Algébricas",
+        "complementar": false
       },
       {
         "id": "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau",
-        "titulo": "Equações do 1º Grau"
+        "titulo": "Equações do 1º Grau",
+        "complementar": false
       },
       {
         "id": "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes",
-        "titulo": "Resolução de Problemas com Equações"
+        "titulo": "Resolução de Problemas com Equações",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica",
+        "titulo": "Sequências e Linguagem Algébrica",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas",
+        "titulo": "Algoritmos e Fluxogramas de Problemas",
+        "complementar": false
       }
     ],
     "Inequações do 1º Grau": [
       {
         "id": "mat.ef07.inequacoes_do_1_grau.desigualdades_e_inequacoes",
-        "titulo": "Desigualdades e Inequações"
+        "titulo": "Desigualdades e Inequações",
+        "complementar": true
       }
     ],
     "Grandezas Proporcionais": [
       {
         "id": "mat.ef07.grandezas_proporcionais.razao_e_proporcao",
-        "titulo": "Razão e Proporção"
+        "titulo": "Razão e Proporção",
+        "complementar": false
       },
       {
         "id": "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais",
-        "titulo": "Grandezas Direta e Inversamente Proporcionais"
+        "titulo": "Grandezas Direta e Inversamente Proporcionais",
+        "complementar": false
       },
       {
         "id": "mat.ef07.grandezas_proporcionais.regra_de_tres_simples",
-        "titulo": "Regra de Três Simples"
+        "titulo": "Regra de Três Simples",
+        "complementar": false
       },
       {
         "id": "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples",
-        "titulo": "Porcentagem e Juros Simples"
-      }
-    ],
-    "Geometria: Ângulos e Triângulos": [
-      {
-        "id": "mat.ef07.geometria_angulos_e_triangulos.angulos",
-        "titulo": "Ângulos"
-      },
-      {
-        "id": "mat.ef07.geometria_angulos_e_triangulos.triangulos",
-        "titulo": "Triângulos"
-      }
-    ],
-    "Polígonos e Transformações Geométricas": [
-      {
-        "id": "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares",
-        "titulo": "Polígonos Regulares"
-      },
-      {
-        "id": "mat.ef07.poligonos_e_transformacoes_geometricas.transformacoes_geometricas",
-        "titulo": "Transformações Geométricas"
+        "titulo": "Porcentagem e Juros Simples",
+        "complementar": false
       }
     ],
     "Medidas de Volume": [
       {
         "id": "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares",
-        "titulo": "Volume de Blocos Retangulares"
+        "titulo": "Volume de Blocos Retangulares",
+        "complementar": false
       },
       {
         "id": "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade",
-        "titulo": "Relação entre Volume e Capacidade"
+        "titulo": "Relação entre Volume e Capacidade",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.medidas_de_volume.problemas_de_medicao",
+        "titulo": "Problemas de Medição",
+        "complementar": false
+      }
+    ],
+    "Área de Figuras Planas": [
+      {
+        "id": "mat.ef07.area_de_figuras_planas.area_de_triangulos",
+        "titulo": "Áreas de Triângulos e Quadriláteros",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.area_de_figuras_planas.areas_por_decomposicao",
+        "titulo": "Áreas por Decomposição",
+        "complementar": false
+      }
+    ],
+    "Geometria: Ângulos e Triângulos": [
+      {
+        "id": "mat.ef07.geometria_angulos_e_triangulos.angulos",
+        "titulo": "Ângulos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.geometria_angulos_e_triangulos.triangulos",
+        "titulo": "Triângulos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.geometria_angulos_e_triangulos.rigidez_geometrica",
+        "titulo": "Rigidez Geométrica dos Triângulos",
+        "complementar": false
+      }
+    ],
+    "Polígonos e Transformações Geométricas": [
+      {
+        "id": "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares",
+        "titulo": "Polígonos Regulares",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.poligonos_e_transformacoes_geometricas.transformacoes_geometricas",
+        "titulo": "Transformações Geométricas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.poligonos_e_transformacoes_geometricas.simetria_no_plano_cartesiano",
+        "titulo": "Simetria no Plano Cartesiano",
+        "complementar": false
+      }
+    ],
+    "Circunferência e Lugar Geométrico": [
+      {
+        "id": "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico",
+        "titulo": "A Circunferência como Lugar Geométrico",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.circunferencia_e_lugar_geometrico.o_numero_pi_e_o_comprimento_da_circunferencia",
+        "titulo": "O Número Pi e o Comprimento da Circunferência",
+        "complementar": false
       }
     ],
     "Estatística e Probabilidade": [
       {
-        "id": "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central",
-        "titulo": "Medidas de Tendência Central"
+        "id": "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade",
+        "titulo": "Gráficos de Setores e Experimentos Aleatórios",
+        "complementar": false
       },
       {
-        "id": "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade",
-        "titulo": "Gráficos e Probabilidade"
+        "id": "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central",
+        "titulo": "Medidas de Tendência Central",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef07.estatistica_e_probabilidade.pesquisa_amostral_e_censo",
+        "titulo": "Pesquisa Amostral e Censitária",
+        "complementar": false
       }
     ]
   },
@@ -769,109 +863,162 @@ registrarCurriculo("Matemática", {
     "Números, dos Naturais aos Racionais, e Sequências": [
       {
         "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.conjuntos_numericos",
-        "titulo": "Conjuntos Numéricos"
+        "titulo": "Conjuntos Numéricos",
+        "complementar": true
       },
       {
         "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao",
-        "titulo": "Potenciação"
+        "titulo": "Potenciação",
+        "complementar": false
       },
       {
         "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.radiciacao",
-        "titulo": "Radiciação"
+        "titulo": "Radiciação",
+        "complementar": false
       },
       {
         "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias",
-        "titulo": "Sequências"
-      }
-    ],
-    "Estatística e Probabilidade": [
-      {
-        "id": "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica",
-        "titulo": "Termos de uma Pesquisa Estatística"
+        "titulo": "Sequências Recursivas e Não Recursivas",
+        "complementar": false
       },
       {
-        "id": "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa",
-        "titulo": "Representação Gráfica dos Dados de uma Pesquisa"
+        "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.notacao_cientifica",
+        "titulo": "Notação Científica",
+        "complementar": false
       },
       {
-        "id": "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central",
-        "titulo": "Medidas de Tendência Central"
-      },
-      {
-        "id": "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc",
-        "titulo": "Princípio Multiplicativo ou Princípio Fundamental da Contagem (PFC)"
-      },
-      {
-        "id": "mat.ef08.estatistica_e_probabilidade.probabilidade",
-        "titulo": "Probabilidade"
-      }
-    ],
-    "Área e Volume": [
-      {
-        "id": "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area",
-        "titulo": "Retomando e Aprofundando o Cálculo de Medida de Área"
-      },
-      {
-        "id": "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade",
-        "titulo": "Retomando e Aprofundando o Cálculo de Medidas de Volume e Medidas de Capacidade"
+        "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.dizimas_periodicas_e_fracao_geratriz",
+        "titulo": "Dízimas Periódicas e Fração Geratriz",
+        "complementar": false
       }
     ],
     "Expressões Algébricas, Equações e Proporcionalidade": [
       {
         "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas",
-        "titulo": "Expressões Algébricas"
+        "titulo": "Expressões Algébricas",
+        "complementar": false
       },
       {
         "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes",
-        "titulo": "Equações"
+        "titulo": "Equações do Tipo ax²=b",
+        "complementar": false
       },
       {
         "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade",
-        "titulo": "Proporcionalidade"
-      }
-    ],
-    "Lugares Geométricos e Construções Geométricas": [
-      {
-        "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso",
-        "titulo": "Construções Geométricas com Régua, Esquadro, Transferidor e Compasso"
+        "titulo": "Proporcionalidade",
+        "complementar": false
       },
       {
-        "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos",
-        "titulo": "Lugares Geométricos"
+        "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas",
+        "titulo": "Variação de Grandezas",
+        "complementar": false
       },
       {
-        "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso",
-        "titulo": "Mais Construções Geométricas com Régua Não Graduada e Compasso"
-      }
-    ],
-    "Triângulos e Quadriláteros": [
-      {
-        "id": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos",
-        "titulo": "Ampliando o Estudo dos Triângulos"
-      },
-      {
-        "id": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros",
-        "titulo": "Ampliando o Estudo dos Quadriláteros"
+        "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.porcentagens_no_cotidiano",
+        "titulo": "Porcentagens no Cotidiano",
+        "complementar": false
       }
     ],
     "Sistema de Equações do 1° Grau com 2 Incógnitas": [
       {
         "id": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas",
-        "titulo": "Sistema de Equações do 1° Grau com 2 Incógnitas"
+        "titulo": "Sistemas de Equações do 1º Grau com 2 Incógnitas",
+        "complementar": false
       },
       {
         "id": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas",
-        "titulo": "Sistema de 2 Equações do 1º Grau com 2 Incógnitas"
+        "titulo": "Sistema de 2 Equações do 1º Grau com 2 Incógnitas",
+        "complementar": false
+      }
+    ],
+    "Triângulos e Quadriláteros": [
+      {
+        "id": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos",
+        "titulo": "Ampliando o Estudo dos Triângulos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros",
+        "titulo": "Ampliando o Estudo dos Quadriláteros",
+        "complementar": false
+      }
+    ],
+    "Lugares Geométricos e Construções Geométricas": [
+      {
+        "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso",
+        "titulo": "Construções com Régua, Esquadro, Transferidor e Compasso",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso",
+        "titulo": "Hexágono Regular: Construção e Algoritmo",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos",
+        "titulo": "Lugares Geométricos",
+        "complementar": false
       }
     ],
     "Transformações Geométricas": [
       {
         "id": "mat.ef08.transformacoes_geometricas.transformacoes_geometricas",
-        "titulo": "Transformações Geométricas"
+        "titulo": "Transformações Geométricas",
+        "complementar": false
       },
       {
         "id": "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas",
-        "titulo": "Composição de Transformações Geométricas"
+        "titulo": "Composição de Transformações Geométricas",
+        "complementar": false
+      }
+    ],
+    "Área e Volume": [
+      {
+        "id": "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area",
+        "titulo": "Retomando e Aprofundando o Cálculo de Área",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade",
+        "titulo": "Volume e Capacidade: Retomada e Aprofundamento",
+        "complementar": false
+      }
+    ],
+    "Estatística e Probabilidade": [
+      {
+        "id": "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica",
+        "titulo": "Termos de uma Pesquisa Estatística",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa",
+        "titulo": "Representação Gráfica dos Dados de uma Pesquisa",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef08.estatistica_e_probabilidade.probabilidade",
+        "titulo": "Probabilidade",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central",
+        "titulo": "Medidas de Tendência Central",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc",
+        "titulo": "Princípio Multiplicativo da Contagem",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef08.estatistica_e_probabilidade.classes_de_uma_variavel_continua",
+        "titulo": "Classes de uma Variável Contínua",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef08.estatistica_e_probabilidade.pesquisa_amostral",
+        "titulo": "Planejamento de Pesquisa Amostral",
+        "complementar": false
       }
     ]
   },
@@ -879,139 +1026,189 @@ registrarCurriculo("Matemática", {
     "Números Reais": [
       {
         "id": "mat.ef09.numeros_reais.conjunto_dos_numeros_racionais",
-        "titulo": "Conjunto dos Números Racionais"
+        "titulo": "Conjunto dos Números Racionais",
+        "complementar": false
       },
       {
         "id": "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais",
-        "titulo": "Conjunto dos Números Irracionais"
+        "titulo": "Conjunto dos Números Irracionais",
+        "complementar": false
       },
       {
         "id": "mat.ef09.numeros_reais.conjunto_dos_numeros_reais",
-        "titulo": "Conjunto dos Números Reais"
+        "titulo": "Conjunto dos Números Reais",
+        "complementar": false
       },
       {
         "id": "mat.ef09.numeros_reais.operacoes_com_raizes",
-        "titulo": "Operações com Raízes"
+        "titulo": "Operações com Raízes",
+        "complementar": false
       },
       {
         "id": "mat.ef09.numeros_reais.potenciacao_com_base_real",
-        "titulo": "Potenciação com Base Real"
+        "titulo": "Potenciação com Base Real",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.numeros_reais.notacao_cientifica_e_ordem_de_grandeza",
+        "titulo": "Operações em Notação Científica",
+        "complementar": false
       }
     ],
     "Produtos Notáveis, Fatoração e Equações do 2º Graus": [
       {
         "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis",
-        "titulo": "Produtos Notáveis"
+        "titulo": "Produtos Notáveis",
+        "complementar": false
       },
       {
         "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios",
-        "titulo": "Fatoração de Polinômios"
+        "titulo": "Fatoração de Polinômios",
+        "complementar": false
       },
       {
         "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita",
-        "titulo": "Equações do 2º Grau com 1 Incógnita"
-      }
-    ],
-    "Proporcionalidade e Juros": [
-      {
-        "id": "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao",
-        "titulo": "Retomando as Ideias de Razão e de Proporção"
-      },
-      {
-        "id": "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales",
-        "titulo": "Feixe de Retas Paralelas e o Teorema de Tales"
-      },
-      {
-        "id": "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria",
-        "titulo": "Outras Situações Que Envolvem Proporcionalidade em Geometria"
-      },
-      {
-        "id": "mat.ef09.proporcionalidade_e_juros.juros",
-        "titulo": "Juros"
-      }
-    ],
-    "Geometria - Semelhança, Perspectiva e Vistas Ortogonais": [
-      {
-        "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras",
-        "titulo": "Semelhanças de Figuras"
-      },
-      {
-        "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano",
-        "titulo": "Perspectiva - Técnica Para Representação de Objetos no Plano"
-      }
-    ],
-    "Estatística, Combinatória e Probabilidade": [
-      {
-        "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica",
-        "titulo": "Estatística"
-      },
-      {
-        "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem",
-        "titulo": "Combinatória - Método de Contagem"
-      },
-      {
-        "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade",
-        "titulo": "Probabilidade"
-      },
-      {
-        "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade",
-        "titulo": "Estatística e Probabilidade"
-      }
-    ],
-    "Relações Métricas no Triângulo Retângulo": [
-      {
-        "id": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras",
-        "titulo": "Uma Grande Descoberta que Envolve Medidas de Área - O Teorema de Pitágoras"
-      },
-      {
-        "id": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo",
-        "titulo": "Os Elementos e as Relações Métricas no Triângulo Retângulo"
-      },
-      {
-        "id": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.aplicacoes_importantes_do_teorema_de_pitagoras",
-        "titulo": "Aplicações Importantes do Teorema de Pitágoras"
+        "titulo": "Equações do 2º Grau com uma Incógnita",
+        "complementar": false
       }
     ],
     "Explorando a Ideia de Função": [
       {
         "id": "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao",
-        "titulo": "A Ideia de Função"
+        "titulo": "A Ideia de Função",
+        "complementar": false
       },
       {
         "id": "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao",
-        "titulo": "Construção do Gráfico de uma Função"
+        "titulo": "Construção do Gráfico de uma Função",
+        "complementar": false
       },
       {
         "id": "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica",
-        "titulo": "Função Quadrática"
+        "titulo": "Função Quadrática",
+        "complementar": false
       }
     ],
-    "Grandezas e Medidas": [
+    "Proporcionalidade e Juros": [
       {
-        "id": "mat.ef09.grandezas_e_medidas.grandezas_e_medidas_no_plano_cartesiano",
-        "titulo": "Grandezas e Medidas no Plano Cartesiano"
+        "id": "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao",
+        "titulo": "Retomando Razão e Proporção",
+        "complementar": false
       },
       {
-        "id": "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos",
-        "titulo": "Volume de Sólidos Geométricos"
+        "id": "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales",
+        "titulo": "Feixe de Retas Paralelas e o Teorema de Tales",
+        "complementar": false
       },
       {
-        "id": "mat.ef09.grandezas_e_medidas.unidades_de_medida_de_outras_grandezas",
-        "titulo": "Unidades de Medida de Outras Grandezas"
+        "id": "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria",
+        "titulo": "Proporcionalidade em Geometria",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.proporcionalidade_e_juros.juros",
+        "titulo": "Juros",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.proporcionalidade_e_juros.razao_entre_grandezas_diferentes",
+        "titulo": "Razão entre Grandezas de Espécies Diferentes",
+        "complementar": false
+      }
+    ],
+    "Relações Métricas no Triângulo Retângulo": [
+      {
+        "id": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras",
+        "titulo": "O Teorema de Pitágoras",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo",
+        "titulo": "Elementos e Relações Métricas no Triângulo Retângulo",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.aplicacoes_importantes_do_teorema_de_pitagoras",
+        "titulo": "Aplicações do Teorema de Pitágoras",
+        "complementar": false
       }
     ],
     "Circunferência e Círculos": [
       {
         "id": "mat.ef09.circunferencia_e_circulos.circulo_e_circunferencia",
-        "titulo": "Círculo e Circunferência"
-      },
-      {
-        "id": "mat.ef09.circunferencia_e_circulos.circunferencia_retas_e_poligonos",
-        "titulo": "Circunferência, Retas e Polígonos"
+        "titulo": "Círculo e Circunferência",
+        "complementar": false
       },
       {
         "id": "mat.ef09.circunferencia_e_circulos.angulos_em_uma_circunferencia",
-        "titulo": "ângulos em uma Circunferência"
+        "titulo": "Ângulos em uma Circunferência",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.circunferencia_e_circulos.circunferencia_retas_e_poligonos",
+        "titulo": "Circunferência, Retas e Polígonos",
+        "complementar": false
+      }
+    ],
+    "Geometria - Semelhança, Perspectiva e Vistas Ortogonais": [
+      {
+        "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras",
+        "titulo": "Semelhança de Figuras",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano",
+        "titulo": "Perspectiva Técnica no Plano",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.angulos_em_retas_paralelas_cortadas_por_transversal",
+        "titulo": "Ângulos em Retas Paralelas Cortadas por Transversal",
+        "complementar": false
+      }
+    ],
+    "Grandezas e Medidas": [
+      {
+        "id": "mat.ef09.grandezas_e_medidas.unidades_de_medida_de_outras_grandezas",
+        "titulo": "Unidades de Medida de Outras Grandezas",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos",
+        "titulo": "Volumes de Prismas e Cilindros Retos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.grandezas_e_medidas.grandezas_e_medidas_no_plano_cartesiano",
+        "titulo": "Grandezas e Medidas no Plano Cartesiano",
+        "complementar": false
+      }
+    ],
+    "Estatística, Combinatória e Probabilidade": [
+      {
+        "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem",
+        "titulo": "Combinatória: Método de Contagem",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica",
+        "titulo": "Estatística",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade",
+        "titulo": "Estatística e Probabilidade",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade",
+        "titulo": "Probabilidade",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.escolha_e_construcao_de_graficos",
+        "titulo": "Escolha e Construção de Gráficos",
+        "complementar": false
       }
     ]
   },

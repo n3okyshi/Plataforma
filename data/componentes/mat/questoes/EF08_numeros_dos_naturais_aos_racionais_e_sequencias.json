@@ -1,0 +1,499 @@
+[
+  {
+    "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+    "aulaId": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.conjuntos_numericos",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual escrita NÃO define uma fração racional?",
+    "opcoes": [
+      "−3/4",
+      "0/5",
+      "1/0",
+      "1/2"
+    ],
+    "correta": 2,
+    "explicacao": "O denominador de uma fração racional deve ser diferente de zero.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          129,
+          140
+        ],
+        "paginasImpressas": "132, 143",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+    "aulaId": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao",
+    "bncc": [
+      "EF08MA01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto vale 2⁻³?",
+    "opcoes": [
+      "1/6",
+      "1/8",
+      "−8",
+      "−6"
+    ],
+    "correta": 1,
+    "explicacao": "2⁻³=1/(2³)=1/8.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          42
+        ],
+        "paginasImpressas": "43, 44, 45",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+    "aulaId": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.radiciacao",
+    "bncc": [
+      "EF08MA02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto vale 16^(3/4)?",
+    "opcoes": [
+      "12",
+      "4",
+      "6",
+      "8"
+    ],
+    "correta": 3,
+    "explicacao": "A raiz quarta de 16 é 2;2³=8.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          45,
+          262,
+          263
+        ],
+        "paginasImpressas": "48, 265, 266",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+    "aulaId": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias",
+    "bncc": [
+      "EF08MA10",
+      "EF08MA11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na sequência aₙ=4n−1, para n a partir de 1, o quinto termo é:",
+    "opcoes": [
+      "15",
+      "16",
+      "19",
+      "20"
+    ],
+    "correta": 2,
+    "explicacao": "4× 5−1=19.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          206,
+          207,
+          208
+        ],
+        "paginasImpressas": "209, 210, 211",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+    "aulaId": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.notacao_cientifica",
+    "bncc": [
+      "EF08MA01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é a notação científica padronizada de 0,00072?",
+    "opcoes": [
+      "7,2× 10⁻⁴",
+      "72× 10⁻⁵",
+      "0,72× 10⁻³",
+      "7,2× 10⁴"
+    ],
+    "correta": 0,
+    "explicacao": "O coeficiente 7,2 está entre 1 e 10, e a potência 10⁻⁴ conserva o valor.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          42
+        ],
+        "paginasImpressas": "43, 44, 45",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+    "aulaId": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.dizimas_periodicas_e_fracao_geratriz",
+    "bncc": [
+      "EF08MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A fração geratriz de 0,121212… é:",
+    "opcoes": [
+      "4/33",
+      "1/12",
+      "12/100",
+      "12/90"
+    ],
+    "correta": 0,
+    "explicacao": "100x−x=12 leva a 99x=12, ou 4/33.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96,
+          140
+        ],
+        "paginasImpressas": "98, 99, 143",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+    "aulaId": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao",
+    "bncc": [
+      "EF08MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 2³ × 2⁴?",
+    "opcoes": [
+      "2¹² = 4.096",
+      "4⁷",
+      "2",
+      "2⁷ = 128"
+    ],
+    "correta": 3,
+    "explicacao": "Bases iguais: somar os expoentes 3 + 4 = 7.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          42
+        ],
+        "paginasImpressas": "43, 44, 45",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+    "aulaId": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.notacao_cientifica",
+    "bncc": [
+      "EF08MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "0,000072 em notação científica é:",
+    "opcoes": [
+      "7,2 × 10⁵",
+      "0,72 × 10⁻⁵",
+      "7,2 × 10⁻⁵",
+      "72 × 10⁻⁵"
+    ],
+    "correta": 2,
+    "explicacao": "7,2 deve ser multiplicado por 0,00001; o coeficiente está entre 1 e 10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          42
+        ],
+        "paginasImpressas": "43, 44, 45",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+    "aulaId": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.radiciacao",
+    "bncc": [
+      "EF08MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para base positiva, 81^(1/2) vale:",
+    "opcoes": [
+      "−9",
+      "9",
+      "40,5",
+      "18"
+    ],
+    "correta": 1,
+    "explicacao": "O expoente 1/2 representa a raiz quadrada principal; 9² = 81.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          45,
+          262,
+          263
+        ],
+        "paginasImpressas": "48, 265, 266",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+    "aulaId": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.dizimas_periodicas_e_fracao_geratriz",
+    "bncc": [
+      "EF08MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A dízima 0,272727… corresponde a:",
+    "opcoes": [
+      "3/11",
+      "27/100",
+      "27/9",
+      "27/90"
+    ],
+    "correta": 0,
+    "explicacao": "100x − x = 27; x = 27/99 = 3/11.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96,
+          140
+        ],
+        "paginasImpressas": "98, 99, 143",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+    "aulaId": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias",
+    "bncc": [
+      "EF08MA10",
+      "EF08MA11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma sequência começa em 5 e soma 3 a cada passo. Qual regra e qual próximo termo após 5,8,11 são corretos?",
+    "opcoes": [
+      "aₙ = 5n e próximo 15",
+      "aₙ = n + 3 e próximo 12",
+      "aₙ = 3n e próximo 13",
+      "aₙ = 3n + 2 e próximo 14"
+    ],
+    "correta": 3,
+    "explicacao": "Para n=1,2,3, a regra gera 5,8,11; a recorrência soma 3 e gera 14.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          206,
+          207,
+          208
+        ],
+        "paginasImpressas": "209, 210, 211",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "id": "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 14,
+  "unidade": "Expressões Algébricas e Equações",
+  "titulo": "Sequências e Linguagem Algébrica",
+  "bncc": [
+    "EF07MA14",
+    "EF07MA15",
+    "EF07MA16"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Expressar regularidades e comparar regras recursivas e diretas equivalentes."
+    ],
+    "resumo": "Expressar regularidades e comparar regras recursivas e diretas equivalentes.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Sequências e Linguagem Algébrica</h2><h3>O que vamos aprender</h3><p>Expressar regularidades e comparar regras recursivas e diretas equivalentes.</p><h3>Ideias e relações</h3><p>Uma sequência pode ser descrita a partir de termos anteriores, por uma regra recursiva, ou diretamente pela posição. A regra “comece em 3 e some 2 ao anterior” gera 3,5,7,9,…; para posições n=1,2,3,…, a expressão 2n+1 fornece os mesmos termos. As expressões 2n+1 e n+n+1 são equivalentes por propriedades algébricas, não apenas porque coincidiram em alguns testes. Padrões recursivos também aparecem na criação de desenhos e narrativas que retomam e ampliam uma etapa anterior.</p><h3>Exemplo resolvido</h3><p>Na posição 10, a regra direta dá 2× 10+1=21. A regra recursiva chega ao mesmo termo, mas depende de repetir nove acréscimos após o termo inicial.</p><h3>Atenção ao raciocínio</h3><p>Poucos termos isolados não determinam uma regra única; informe a regra que está sendo estudada.</p><h3>Investigue e produza</h3><p>Desenhe um padrão que comece com quatro peças e acrescente três por etapa. Dê a regra recursiva e uma expressão direta. Compare 3(n−1)+4 e 3n+1.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "sequencias",
+      "expressoes_algebricas"
+    ],
+    "errosComuns": [
+      "Poucos termos isolados não determinam uma regra única; informe a regra que está sendo estudada."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sequencias_e_linguagem_algebrica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A sequência dada por aₙ=2n+1, para n a partir de 1, tem décimo termo:",
+      "alternativas": [
+        "21",
+        "22",
+        "11",
+        "20"
+      ],
+      "correta": 0,
+      "explicacao": "Substituir n por 10 dá 21."
+    },
+    {
+      "id": "sequencias_e_linguagem_algebrica.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe um padrão que comece com quatro peças e acrescente três por etapa. Dê a regra recursiva e uma expressão direta. Compare 3(n−1)+4 e 3n+1.",
+      "gabarito": "Recursiva: iniciar com 4 e acrescentar 3. Direta: 4+3(n−1)=3n+1. As expressões são equivalentes pela distributiva. Relacionar a regra ao desenho de cada etapa.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Recursiva: iniciar com 4 e acrescentar 3. Direta: 4+3(n−1)=3n+1. As expressões são equivalentes pela distributiva. Relacionar a regra ao desenho de cada etapa.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sequencias",
+    "expressoes_algebricas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        206,
+        207,
+        208
+      ],
+      "paginasImpressas": "209, 210, 211",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes"
+  ],
+  "proximosPassos": [
+    "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

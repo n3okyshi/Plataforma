@@ -1,0 +1,371 @@
+[
+  {
+    "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Lugares Geométricos e Construções Geométricas",
+    "aulaId": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso",
+    "bncc": [
+      "EF08MA15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Bissectar um ângulo de 90° produz ângulos de:",
+    "opcoes": [
+      "45°",
+      "60°",
+      "180°",
+      "30°"
+    ],
+    "correta": 0,
+    "explicacao": "A bissetriz divide a abertura em duas partes iguais:90÷ 2=45.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          329,
+          330,
+          344,
+          355
+        ],
+        "paginasImpressas": "332, 333, 347, 358",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Lugares Geométricos e Construções Geométricas",
+    "aulaId": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso",
+    "bncc": [
+      "EF08MA15",
+      "EF08MA16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em um hexágono regular, o ângulo central entre vértices consecutivos é:",
+    "opcoes": [
+      "60°",
+      "120°",
+      "30°",
+      "45°"
+    ],
+    "correta": 0,
+    "explicacao": "Uma volta completa dividida por seis dá 60°.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344,
+          415,
+          416
+        ],
+        "paginasImpressas": "347, 418, 419",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Lugares Geométricos e Construções Geométricas",
+    "aulaId": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos",
+    "bncc": [
+      "EF08MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O conjunto de pontos equidistantes de duas posições A e B é:",
+    "opcoes": [
+      "Somente o ponto A.",
+      "O segmento AB inteiro.",
+      "A mediatriz de AB.",
+      "A circunferência de centro A qualquer."
+    ],
+    "correta": 2,
+    "explicacao": "A mediatriz caracteriza a igualdade das distâncias a A e B.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          355,
+          364
+        ],
+        "paginasImpressas": "358, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Lugares Geométricos e Construções Geométricas",
+    "aulaId": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos",
+    "bncc": [
+      "EF08MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Pontos equidistantes de A e B pertencem à:",
+    "opcoes": [
+      "Reta AB inteira",
+      "Circunferência de centro A qualquer",
+      "Bissetriz de qualquer ângulo",
+      "Mediatriz de AB"
+    ],
+    "correta": 3,
+    "explicacao": "A mediatriz é o lugar geométrico dos pontos de mesma distância aos extremos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          355,
+          364
+        ],
+        "paginasImpressas": "358, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Lugares Geométricos e Construções Geométricas",
+    "aulaId": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos",
+    "bncc": [
+      "EF08MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Pontos no interior de um ângulo, à mesma distância de suas duas retas laterais, estão na:",
+    "opcoes": [
+      "Base de um triângulo qualquer",
+      "Reta perpendicular a uma lateral",
+      "Bissetriz interna",
+      "Mediatriz de uma lateral"
+    ],
+    "correta": 2,
+    "explicacao": "Distâncias perpendiculares iguais às laterais caracterizam a bissetriz interna.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          355,
+          364
+        ],
+        "paginasImpressas": "358, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Lugares Geométricos e Construções Geométricas",
+    "aulaId": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso",
+    "bncc": [
+      "EF08MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na construção da mediatriz com compasso, usamos dois arcos:",
+    "opcoes": [
+      "Com raio zero",
+      "De mesmo raio maior que metade de AB, centrados em A e B",
+      "De raios diferentes quaisquer",
+      "Centrados só em A"
+    ],
+    "correta": 1,
+    "explicacao": "As interseções ficam à mesma distância dos extremos e definem a mediatriz.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          329,
+          330,
+          344,
+          355
+        ],
+        "paginasImpressas": "332, 333, 347, 358",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Lugares Geométricos e Construções Geométricas",
+    "aulaId": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso",
+    "bncc": [
+      "EF08MA15",
+      "EF08MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Num hexágono regular inscrito de raio 4 cm, o lado mede:",
+    "opcoes": [
+      "4 cm",
+      "8 cm",
+      "2 cm",
+      "24 cm"
+    ],
+    "correta": 0,
+    "explicacao": "Os seis triângulos centrais são equiláteros; lado igual ao raio.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344,
+          415,
+          416
+        ],
+        "paginasImpressas": "347, 418, 419",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Lugares Geométricos e Construções Geométricas",
+    "aulaId": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso",
+    "bncc": [
+      "EF08MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual algoritmo constrói o hexágono regular com compasso?",
+    "opcoes": [
+      "Mudar o raio a cada marca",
+      "Marcar cinco pontos quaisquer",
+      "Unir apenas o centro a um ponto",
+      "Manter o raio e marcar seis cordas consecutivas na circunferência"
+    ],
+    "correta": 3,
+    "explicacao": "Seis cordas de comprimento igual ao raio dividem a volta em seis partes de 60°.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344,
+          415,
+          416
+        ],
+        "paginasImpressas": "347, 418, 419",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

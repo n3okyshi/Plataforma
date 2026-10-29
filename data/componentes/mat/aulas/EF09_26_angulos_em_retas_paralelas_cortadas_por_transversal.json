@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.angulos_em_retas_paralelas_cortadas_por_transversal",
+  "componente": "mat",
+  "nivel": "EF09",
+  "ordem": 26,
+  "unidade": "Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+  "titulo": "Ângulos em Retas Paralelas Cortadas por Transversal",
+  "bncc": [
+    "EF09MA10"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Demonstrar relações angulares simples usando propriedades e encadeamento de razões."
+    ],
+    "resumo": "Demonstrar relações angulares simples usando propriedades e encadeamento de razões.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Ângulos em Retas Paralelas Cortadas por Transversal</h2><h3>O que vamos aprender</h3><p>Demonstrar relações angulares simples usando propriedades e encadeamento de razões.</p><h3>Ideias e relações</h3><p>Uma demonstração explicita por que uma relação vale sob certas hipóteses. Em paralelas cortadas por uma transversal, considere dois alternos internos. O correspondente de um deles na outra intersecção é oposto pelo vértice ao segundo. Pela igualdade de correspondentes nas paralelas e de opostos pelo vértice, os alternos internos são iguais. Os colaterais internos somam 180°, pois um deles é suplementar ao alterno interno do outro. Medir exemplos ajuda a explorar, mas não substitui esse encadeamento.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Duas retas paralelas cortadas por duas secantes que partem de O: segmentos AB e CD paralelos.\" style=\"max-width:100%;color:inherit\"><title>Duas retas paralelas cortadas por duas secantes que partem de O: segmentos AB e CD paralelos.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M60 20 140 160M60 20 400 160M70 90H350M30 160H425\"/></g><g fill=\"currentColor\" font-size=\"16\"><text x=\"40\" y=\"20\">O</text><text x=\"85\" y=\"85\">A</text><text x=\"233\" y=\"85\">B</text><text x=\"120\" y=\"183\">C</text><text x=\"402\" y=\"183\">D</text><text x=\"105\" y=\"225\">AB e CD são paralelos.</text></g></svg><h3>Exemplo resolvido</h3><p>Se um colateral interno mede 112°, o outro mede 68°, pois ambos completam 180°. A justificativa depende do paralelismo informado.</p><h3>Atenção ao raciocínio</h3><p>Um desenho que apenas parece ter retas paralelas não autoriza aplicar a propriedade como hipótese.</p><h3>Investigue e produza</h3><p>Desenhe paralelas e uma transversal, nomeie um par de alternos internos e escreva a prova usando um correspondente e um oposto pelo vértice.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "angulos",
+      "retas"
+    ],
+    "errosComuns": [
+      "Um desenho que apenas parece ter retas paralelas não autoriza aplicar a propriedade como hipótese."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "angulos_em_retas_paralelas_cortadas_por_transversal.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em duas paralelas, colaterais internos de 112° e x satisfazem:",
+      "alternativas": [
+        "x=56°",
+        "x=248°",
+        "x=112°",
+        "x=68°"
+      ],
+      "correta": 3,
+      "explicacao": "A soma é 180°;180−112=68."
+    },
+    {
+      "id": "angulos_em_retas_paralelas_cortadas_por_transversal.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe paralelas e uma transversal, nomeie um par de alternos internos e escreva a prova usando um correspondente e um oposto pelo vértice.",
+      "gabarito": "A nomeação deve sustentar a sequência de duas igualdades. Usar explicitamente paralelismo e oposição pelo vértice; não aceitar apenas valores medidos como demonstração geral.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "A nomeação deve sustentar a sequência de duas igualdades. Usar explicitamente paralelismo e oposição pelo vértice; não aceitar apenas valores medidos como demonstração geral.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "angulos",
+    "retas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        355,
+        356,
+        357
+      ],
+      "paginasImpressas": "358, 359, 360",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

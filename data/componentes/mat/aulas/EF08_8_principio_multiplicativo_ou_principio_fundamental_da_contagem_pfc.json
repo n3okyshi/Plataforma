@@ -2,36 +2,111 @@
   "id": "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 8,
+  "ordem": 27,
   "unidade": "Estatística e Probabilidade",
-  "titulo": "Princípio Multiplicativo ou Princípio Fundamental da Contagem (PFC)",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Princípio Multiplicativo da Contagem",
+  "bncc": [
+    "EF08MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver contagens em etapas com árvore de possibilidades e princípio multiplicativo."
+    ],
+    "resumo": "Resolver contagens em etapas com árvore de possibilidades e princípio multiplicativo.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Princípio Multiplicativo (PFC)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Técnica para resolver problemas de contagem multiplicando as opções de escolha em cada etapa.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧠 Lógica pura:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Não precisamos de fórmulas complexas ainda, apenas organizar o pensamento (árvore de possibilidades) e multiplicar.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Princípio Multiplicativo da Contagem</h2><h3>O que vamos aprender</h3><p>Resolver contagens em etapas com árvore de possibilidades e princípio multiplicativo.</p><h3>Ideias e relações</h3><p>Quando uma escolha é feita em etapas, podemos organizar uma árvore ou tabela para não repetir nem omitir possibilidades. Se cada escolha de uma etapa pode ser combinada com todas as escolhas da seguinte, multiplicamos suas quantidades. Restrições podem alterar as opções disponíveis e precisam ser tratadas explicitamente. Contar possibilidades não determina probabilidades se elas não forem igualmente prováveis. Ao elaborar um problema, diga se a ordem importa, se repetições são permitidas e se zero pode aparecer na primeira posição de um código.</p><h3>Exemplo resolvido</h3><p>Duas opções de tamanho, três de recheio e quatro de bebida produzem 2× 3× 4=24 combinações, se todas as combinações forem permitidas.</p><h3>Atenção ao raciocínio</h3><p>Multiplicar sem observar uma proibição pode contar possibilidades que não existem.</p><h3>Investigue e produza</h3><p>Conte códigos com duas letras entre A e B seguidas de um algarismo entre 0,1,2, permitindo repetições. Faça uma árvore e crie uma restrição para um segundo problema.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "principio_multiplicativo",
+      "contagem"
+    ],
+    "errosComuns": [
+      "Multiplicar sem observar uma proibição pode contar possibilidades que não existem."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Dois tamanhos, três recheios e quatro bebidas, livremente combináveis, geram:",
+      "alternativas": [
+        "32 combinações",
+        "9 combinações",
+        "12 combinações",
+        "24 combinações"
+      ],
+      "correta": 3,
+      "explicacao": "São 2× 3× 4=24 escolhas completas."
+    },
+    {
+      "id": "principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Conte códigos com duas letras entre A e B seguidas de um algarismo entre 0,1,2, permitindo repetições. Faça uma árvore e crie uma restrição para um segundo problema.",
+      "gabarito": "São 2× 2× 3=12 códigos. Se proibir letras iguais nas duas posições, restam 2× 1× 3=6. Outras restrições precisam ser descritas e recontadas.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "São 2× 2× 3=12 códigos. Se proibir letras iguais nas duas posições, restam 2× 1× 3=6. Outras restrições precisam ser descritas e recontadas.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "principio_multiplicativo",
+    "contagem"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central"
+  ],
+  "proximosPassos": [
+    "mat.ef08.estatistica_e_probabilidade.classes_de_uma_variavel_continua"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

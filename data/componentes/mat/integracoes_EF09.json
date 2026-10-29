@@ -1,0 +1,86 @@
+{
+  "nivel": "EF09",
+  "motivo": "Consolidação de subtópicos em aulas completas, preservando os IDs já presentes no percurso e registrando os destinos do planejamento anterior.",
+  "integracoes": [
+    {
+      "idAnterior": "mat.ef09.numeros_reais.reta_real_e_aproximacoes",
+      "tituloAnterior": "Reta Real e Aproximações",
+      "integradoEm": "mat.ef09.numeros_reais.conjunto_dos_numeros_reais"
+    },
+    {
+      "idAnterior": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.aplicacoes_de_produtos_notaveis",
+      "tituloAnterior": "Aplicações de Produtos Notáveis",
+      "integradoEm": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis"
+    },
+    {
+      "idAnterior": "mat.ef09.explorando_a_ideia_de_funcao.funcao_afim_e_seu_grafico",
+      "tituloAnterior": "Função Afim e seu Gráfico",
+      "integradoEm": "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao"
+    },
+    {
+      "idAnterior": "mat.ef09.explorando_a_ideia_de_funcao.representacoes_de_uma_funcao",
+      "tituloAnterior": "Representações de uma Função",
+      "integradoEm": "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao"
+    },
+    {
+      "idAnterior": "mat.ef09.proporcionalidade_e_juros.escalas_e_plantas",
+      "tituloAnterior": "Escalas e Plantas",
+      "integradoEm": "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao"
+    },
+    {
+      "idAnterior": "mat.ef09.proporcionalidade_e_juros.porcentagens_sucessivas",
+      "tituloAnterior": "Porcentagens Sucessivas",
+      "integradoEm": "mat.ef09.proporcionalidade_e_juros.juros"
+    },
+    {
+      "idAnterior": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.demonstracao_do_teorema_de_pitagoras",
+      "tituloAnterior": "Demonstração do Teorema de Pitágoras",
+      "integradoEm": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras"
+    },
+    {
+      "idAnterior": "mat.ef09.circunferencia_e_circulos.arcos_e_angulos_centrais",
+      "tituloAnterior": "Arcos e Ângulos Centrais",
+      "integradoEm": "mat.ef09.circunferencia_e_circulos.circulo_e_circunferencia"
+    },
+    {
+      "idAnterior": "mat.ef09.circunferencia_e_circulos.angulos_inscritos",
+      "tituloAnterior": "Ângulos Inscritos",
+      "integradoEm": "mat.ef09.circunferencia_e_circulos.angulos_em_uma_circunferencia"
+    },
+    {
+      "idAnterior": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhanca_de_triangulos",
+      "tituloAnterior": "Semelhança de Triângulos",
+      "integradoEm": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras"
+    },
+    {
+      "idAnterior": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.vistas_ortogonais",
+      "tituloAnterior": "Vistas Ortogonais",
+      "integradoEm": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano"
+    },
+    {
+      "idAnterior": "mat.ef09.grandezas_e_medidas.volume_de_prismas_e_cilindros",
+      "tituloAnterior": "Volume de Prismas e Cilindros",
+      "integradoEm": "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos"
+    },
+    {
+      "idAnterior": "mat.ef09.grandezas_e_medidas.medidas_muito_grandes_e_muito_pequenas",
+      "tituloAnterior": "Medidas Muito Grandes e Muito Pequenas",
+      "integradoEm": "mat.ef09.grandezas_e_medidas.unidades_de_medida_de_outras_grandezas"
+    },
+    {
+      "idAnterior": "mat.ef09.estatistica_combinatoria_e_probabilidade.eventos_dependentes_e_independentes",
+      "tituloAnterior": "Eventos Dependentes e Independentes",
+      "integradoEm": "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade"
+    },
+    {
+      "idAnterior": "mat.ef09.estatistica_combinatoria_e_probabilidade.graficos_que_enganam",
+      "tituloAnterior": "Gráficos que Induzem a Erros",
+      "integradoEm": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica"
+    },
+    {
+      "idAnterior": "mat.ef09.estatistica_combinatoria_e_probabilidade.relatorio_de_pesquisa",
+      "tituloAnterior": "Relatório de Pesquisa Amostral",
+      "integradoEm": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade"
+    }
+  ]
+}

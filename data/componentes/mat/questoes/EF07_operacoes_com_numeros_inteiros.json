@@ -1,0 +1,374 @@
+[
+  {
+    "id": "mat.ef07.operacoes_com_numeros_inteiros.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Operações com números inteiros",
+    "aulaId": "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros",
+    "bncc": [
+      "EF07MA03",
+      "EF07MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto vale 7 − (−4)?",
+    "opcoes": [
+      "−3",
+      "3",
+      "11",
+      "−11"
+    ],
+    "correta": 2,
+    "explicacao": "Subtrair −4 é somar seu oposto, +4: o resultado é 11.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          132,
+          133,
+          134
+        ],
+        "paginasImpressas": "135, 136, 137",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.operacoes_com_numeros_inteiros.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Operações com números inteiros",
+    "aulaId": "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros",
+    "bncc": [
+      "EF07MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é (−7) × (−4)?",
+    "opcoes": [
+      "11",
+      "28",
+      "−28",
+      "−11"
+    ],
+    "correta": 1,
+    "explicacao": "Dois fatores negativos têm produto positivo; 7× 4 = 28.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          135,
+          136,
+          137
+        ],
+        "paginasImpressas": "138, 139, 140",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.operacoes_com_numeros_inteiros.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Operações com números inteiros",
+    "aulaId": "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros",
+    "bncc": [
+      "EF07MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é o valor de −4²?",
+    "opcoes": [
+      "16",
+      "−16",
+      "−8",
+      "8"
+    ],
+    "correta": 1,
+    "explicacao": "Sem parênteses na base, a potência é calculada antes do sinal externo: −(4²) = −16.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          45,
+          137
+        ],
+        "paginasImpressas": "43, 44, 48, 140",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.operacoes_com_numeros_inteiros.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Operações com números inteiros",
+    "aulaId": "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros",
+    "bncc": [
+      "EF07MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é−15+8−6?",
+    "opcoes": [
+      "−13",
+      "−1",
+      "13",
+      "−29"
+    ],
+    "correta": 0,
+    "explicacao": "−15+8=−7;−7−6=−13.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          132,
+          133,
+          134
+        ],
+        "paginasImpressas": "135, 136, 137",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.operacoes_com_numeros_inteiros.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Operações com números inteiros",
+    "aulaId": "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros",
+    "bncc": [
+      "EF07MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto vale(−8)× 5?",
+    "opcoes": [
+      "13",
+      "40",
+      "−40",
+      "−13"
+    ],
+    "correta": 2,
+    "explicacao": "Sinais diferentes dão produto negativo:−40.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          135,
+          136,
+          137
+        ],
+        "paginasImpressas": "138, 139, 140",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.operacoes_com_numeros_inteiros.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Operações com números inteiros",
+    "aulaId": "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros",
+    "bncc": [
+      "EF07MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto vale(−42)÷(−7)?",
+    "opcoes": [
+      "6",
+      "−6",
+      "−5",
+      "5"
+    ],
+    "correta": 0,
+    "explicacao": "(−7)× 6=−42.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          135,
+          136,
+          137
+        ],
+        "paginasImpressas": "138, 139, 140",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.operacoes_com_numeros_inteiros.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Operações com números inteiros",
+    "aulaId": "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros",
+    "bncc": [
+      "EF07MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é o valor de(−3)³?",
+    "opcoes": [
+      "−27",
+      "−9",
+      "9",
+      "27"
+    ],
+    "correta": 0,
+    "explicacao": "São três fatores negativos iguais; o produto é−27.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          45,
+          137
+        ],
+        "paginasImpressas": "43, 44, 48, 140",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.operacoes_com_numeros_inteiros.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Operações com números inteiros",
+    "aulaId": "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros",
+    "bncc": [
+      "EF07MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A raiz quadrada principal de 81 é:",
+    "opcoes": [
+      "9",
+      "±9",
+      "40,5",
+      "−9"
+    ],
+    "correta": 0,
+    "explicacao": "A raiz principal é não negativa e 9²=81.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          45,
+          137
+        ],
+        "paginasImpressas": "43, 44, 48, 140",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

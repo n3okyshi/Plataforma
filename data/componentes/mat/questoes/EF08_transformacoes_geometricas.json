@@ -1,0 +1,321 @@
+[
+  {
+    "id": "mat.ef08.transformacoes_geometricas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Transformações Geométricas",
+    "aulaId": "mat.ef08.transformacoes_geometricas.transformacoes_geometricas",
+    "bncc": [
+      "EF08MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma rotação de 90° anti-horária na origem leva(2,1) a:",
+    "opcoes": [
+      "(−1,2)",
+      "(1,−2)",
+      "(−2,−1)",
+      "(1,2)"
+    ],
+    "correta": 0,
+    "explicacao": "A regra é(x,y)→(−y,x).",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298,
+          322
+        ],
+        "paginasImpressas": "300, 301, 325",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.transformacoes_geometricas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Transformações Geométricas",
+    "aulaId": "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas",
+    "bncc": [
+      "EF08MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Refletir(1,2) no eixo y e depois transladar três à direita resulta em:",
+    "opcoes": [
+      "(4,−2)",
+      "(−2,2)",
+      "(2,2)",
+      "(−4,2)"
+    ],
+    "correta": 2,
+    "explicacao": "A reflexão dá(−1,2), e a translação leva a(2,2).",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298
+        ],
+        "paginasImpressas": "300, 301",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.transformacoes_geometricas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Transformações Geométricas",
+    "aulaId": "mat.ef08.transformacoes_geometricas.transformacoes_geometricas",
+    "bncc": [
+      "EF08MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A translação de (2,−1) pelo vetor (3,4) produz:",
+    "opcoes": [
+      "(−1,−5)",
+      "(6,−4)",
+      "(3,5)",
+      "(5,3)"
+    ],
+    "correta": 3,
+    "explicacao": "Somar as componentes do vetor às coordenadas: (2+3,−1+4).",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298,
+          322
+        ],
+        "paginasImpressas": "300, 301, 325",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.transformacoes_geometricas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Transformações Geométricas",
+    "aulaId": "mat.ef08.transformacoes_geometricas.transformacoes_geometricas",
+    "bncc": [
+      "EF08MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Refletir (−4,2) no eixo y produz:",
+    "opcoes": [
+      "(4,−2)",
+      "(2,−4)",
+      "(4,2)",
+      "(−4,−2)"
+    ],
+    "correta": 2,
+    "explicacao": "A reflexão no eixo y troca o sinal da abscissa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298,
+          322
+        ],
+        "paginasImpressas": "300, 301, 325",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.transformacoes_geometricas.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Transformações Geométricas",
+    "aulaId": "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas",
+    "bncc": [
+      "EF08MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas reflexões sucessivas no mesmo eixo produzem:",
+    "opcoes": [
+      "Uma figura de área dobrada",
+      "A posição original",
+      "Sempre um giro de 90°",
+      "Uma ampliação"
+    ],
+    "correta": 1,
+    "explicacao": "Cada reflexão desfaz a outra; a composição é identidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298
+        ],
+        "paginasImpressas": "300, 301",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.transformacoes_geometricas.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Transformações Geométricas",
+    "aulaId": "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas",
+    "bncc": [
+      "EF08MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Transladar duas unidades à direita e depois três à esquerda equivale a:",
+    "opcoes": [
+      "Uma unidade à esquerda",
+      "Cinco à direita",
+      "Uma à direita",
+      "Cinco à esquerda"
+    ],
+    "correta": 0,
+    "explicacao": "Os deslocamentos somam +2 − 3 = −1.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298
+        ],
+        "paginasImpressas": "300, 301",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.transformacoes_geometricas.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Transformações Geométricas",
+    "aulaId": "mat.ef08.transformacoes_geometricas.transformacoes_geometricas",
+    "bncc": [
+      "EF08MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma rotação preserva:",
+    "opcoes": [
+      "Apenas a área, nunca os comprimentos",
+      "Somente a posição",
+      "Sempre as coordenadas",
+      "Comprimentos e ângulos"
+    ],
+    "correta": 3,
+    "explicacao": "Rotação é isometria: preserva as distâncias e as aberturas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298,
+          322
+        ],
+        "paginasImpressas": "300, 301, 325",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -2,36 +2,121 @@
   "id": "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 9,
+  "ordem": 12,
   "unidade": "Expressões Algébricas e Equações",
   "titulo": "Equações do 1º Grau",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA18"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver equações de primeiro grau por transformações equivalentes e conferir soluções."
+    ],
+    "resumo": "Resolver equações de primeiro grau por transformações equivalentes e conferir soluções.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Equações do 1º Grau</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            O conceito de igualdade como uma balança equilibrada. O objetivo é isolar a incógnita.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚖️ Princípio de Equivalência:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Tudo que você faz de um lado da igualdade (somar, dividir, multiplicar), deve fazer do outro para manter o equilíbrio.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Equações do 1º Grau</h2><h3>O que vamos aprender</h3><p>Resolver equações de primeiro grau por transformações equivalentes e conferir soluções.</p><h3>Ideias e relações</h3><p>Uma equação exige uma igualdade verdadeira para determinados valores da incógnita. Para isolar o desconhecido, aplique a mesma adição, subtração, multiplicação ou divisão não nula aos dois membros, preservando as soluções. Quando aparecem parênteses, use a distributiva antes de reunir termos. Ao final, substitua o valor obtido na equação inicial. A conferência deve usar a sentença original, pois uma manipulação incorreta pode ter alterado o problema.</p><h3>Exemplo resolvido</h3><p>Em 3x − 5 = 16, somamos 5 aos dois membros: 3x = 21. Dividindo ambos por 3, x = 7. Conferência: 3× 7 − 5 = 16.</p><h3>Atenção ao raciocínio</h3><p>“Trocar de lado e trocar o sinal” não explica por que a igualdade foi preservada.</p><h3>Investigue e produza</h3><p>Resolva 2(x + 4) = 26 por duas sequências de operações válidas e confira.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "equacoes",
+      "incognita"
+    ],
+    "errosComuns": [
+      "“Trocar de lado e trocar o sinal” não explica por que a igualdade foi preservada."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "equacoes_do_1_grau.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A solução de 3x − 5 = 16 é:",
+      "alternativas": [
+        "3",
+        "5",
+        "7",
+        "11"
+      ],
+      "correta": 2,
+      "explicacao": "Somar 5 e dividir por 3 dá x = 7; a substituição confirma."
+    },
+    {
+      "id": "equacoes_do_1_grau.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva 2(x + 4) = 26 por duas sequências de operações válidas e confira.",
+      "gabarito": "Dividir por 2 e subtrair 4 dá x=9. Outra estratégia: distribuir, obter 2x+8=26, subtrair 8 e dividir por 2. Ambas preservam a igualdade.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Dividir por 2 e subtrair 4 dá x=9. Outra estratégia: distribuir, obter 2x+8=26, subtrair 8 e dividir por 2. Ambas preservam a igualdade.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "equacoes",
+    "incognita"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        148,
+        154,
+        155
+      ],
+      "paginasImpressas": "151, 157, 158",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas"
+  ],
+  "proximosPassos": [
+    "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

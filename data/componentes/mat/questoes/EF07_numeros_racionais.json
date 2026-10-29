@@ -1,0 +1,382 @@
+[
+  {
+    "id": "mat.ef07.numeros_racionais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Números Racionais",
+    "aulaId": "mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais",
+    "bncc": [
+      "EF07MA10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual número é maior?",
+    "opcoes": [
+      "−0,5",
+      "−1",
+      "−3/4",
+      "−0,8"
+    ],
+    "correta": 0,
+    "explicacao": "−0,5 está mais à direita que −0,75, −0,8 e −1.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          140,
+          141,
+          95
+        ],
+        "paginasImpressas": "143, 144, 98",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.numeros_racionais.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Números Racionais",
+    "aulaId": "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais",
+    "bncc": [
+      "EF07MA11",
+      "EF07MA12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto vale (−3/4) ÷ (1/2)?",
+    "opcoes": [
+      "3/8",
+      "3/2",
+      "−3/8",
+      "−3/2"
+    ],
+    "correta": 3,
+    "explicacao": "Multiplicamos por 2/1: (−3/4)× 2 = −3/2.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          82,
+          83,
+          84,
+          142,
+          143
+        ],
+        "paginasImpressas": "85, 86, 87, 145, 146",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.numeros_racionais.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Números Racionais",
+    "aulaId": "mat.ef07.numeros_racionais.fracoes_e_razao",
+    "bncc": [
+      "EF07MA08",
+      "EF07MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com 8 peças claras e 12 escuras, a razão claras:total é:",
+    "opcoes": [
+      "3/5",
+      "2/3",
+      "3/2",
+      "2/5"
+    ],
+    "correta": 3,
+    "explicacao": "São 20 peças no total; 8/20 = 2/5.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          77,
+          82,
+          170
+        ],
+        "paginasImpressas": "74, 80, 85, 173",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.numeros_racionais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Números Racionais",
+    "aulaId": "mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais",
+    "bncc": [
+      "EF07MA10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual está mais à esquerda na reta?",
+    "opcoes": [
+      "−0,9",
+      "0",
+      "−0,25",
+      "−1/2"
+    ],
+    "correta": 0,
+    "explicacao": "−0,9 é menor que−0,5,0 e−0,25.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          140,
+          141,
+          95
+        ],
+        "paginasImpressas": "143, 144, 98",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.numeros_racionais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Números Racionais",
+    "aulaId": "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais",
+    "bncc": [
+      "EF07MA11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto vale(−2/3)÷(4/5)?",
+    "opcoes": [
+      "5/6",
+      "−6/5",
+      "−8/15",
+      "−5/6"
+    ],
+    "correta": 3,
+    "explicacao": "(−2/3)×(5/4)=−10/12=−5/6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          82,
+          83,
+          84,
+          142,
+          143
+        ],
+        "paginasImpressas": "85, 86, 87, 145, 146",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.numeros_racionais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Números Racionais",
+    "aulaId": "mat.ef07.numeros_racionais.fracoes_e_razao",
+    "bncc": [
+      "EF07MA08",
+      "EF07MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com 9 peças claras e 6 escuras, a razão claras:escuras é:",
+    "opcoes": [
+      "2/5",
+      "3/2",
+      "3/5",
+      "2/3"
+    ],
+    "correta": 1,
+    "explicacao": "9/6=3/2; o total não é o denominador nessa pergunta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          77,
+          82,
+          170
+        ],
+        "paginasImpressas": "74, 80, 85, 173",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.numeros_racionais.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Números Racionais",
+    "aulaId": "mat.ef07.numeros_racionais.fracoes_e_razao",
+    "bncc": [
+      "EF07MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual fração supera 3/4?",
+    "opcoes": [
+      "2/3",
+      "1/2",
+      "4/5",
+      "3/5"
+    ],
+    "correta": 2,
+    "explicacao": "4/5=0,8 e 3/4=0,75.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          77,
+          82,
+          170
+        ],
+        "paginasImpressas": "74, 80, 85, 173",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.numeros_racionais.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Números Racionais",
+    "aulaId": "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais",
+    "bncc": [
+      "EF07MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um saldo−2,50 recebe 1,75. O saldo resultante é:",
+    "opcoes": [
+      "−0,75",
+      "0,75",
+      "4,25",
+      "−4,25"
+    ],
+    "correta": 0,
+    "explicacao": "−2,50+1,75=−0,75.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          82,
+          83,
+          84,
+          142,
+          143
+        ],
+        "paginasImpressas": "85, 86, 87, 145, 146",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

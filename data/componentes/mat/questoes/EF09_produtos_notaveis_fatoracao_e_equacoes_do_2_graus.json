@@ -1,0 +1,373 @@
+[
+  {
+    "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
+    "aulaId": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis",
+    "bncc": [
+      "EF09MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual expressão equivale a(x+3)²?",
+    "opcoes": [
+      "x²+3x+9",
+      "x²+6x+9",
+      "2x+6",
+      "x²+9"
+    ],
+    "correta": 1,
+    "explicacao": "A distributiva produz x²+3x+3x+9.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          220,
+          221,
+          222
+        ],
+        "paginasImpressas": "223, 224, 225",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
+    "aulaId": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios",
+    "bncc": [
+      "EF09MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual fatoração corresponde a x²−25?",
+    "opcoes": [
+      "(x−25)(x+1)",
+      "x(x−25)",
+      "(x−5)²",
+      "(x−5)(x+5)"
+    ],
+    "correta": 3,
+    "explicacao": "É uma diferença de quadrados: x²−5².",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          230,
+          231,
+          232,
+          233
+        ],
+        "paginasImpressas": "233, 234, 235, 236",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
+    "aulaId": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita",
+    "bncc": [
+      "EF09MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "As raízes de x²−5x+6=0 são:",
+    "opcoes": [
+      "−1 e−6",
+      "−2 e−3",
+      "2 e 3",
+      "1 e 6"
+    ],
+    "correta": 2,
+    "explicacao": "A fatoração(x−2)(x−3) produz os dois valores.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          267,
+          268,
+          269
+        ],
+        "paginasImpressas": "270, 271, 272",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
+    "aulaId": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis",
+    "bncc": [
+      "EF09MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A expansão de (x + 4)² é:",
+    "opcoes": [
+      "x² + 16",
+      "x² + 4x + 16",
+      "2x + 8",
+      "x² + 8x + 16"
+    ],
+    "correta": 3,
+    "explicacao": "O termo misto é 2 × x × 4 = 8x.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          220,
+          221,
+          222
+        ],
+        "paginasImpressas": "223, 224, 225",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
+    "aulaId": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios",
+    "bncc": [
+      "EF09MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma fatoração de x² − 25 é:",
+    "opcoes": [
+      "(x − 25)(x + 25)",
+      "x(x − 25)",
+      "(x − 5)(x + 5)",
+      "(x − 5)²"
+    ],
+    "correta": 2,
+    "explicacao": "Diferença de quadrados: a²−b²=(a−b)(a+b).",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          230,
+          231,
+          232,
+          233
+        ],
+        "paginasImpressas": "233, 234, 235, 236",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
+    "aulaId": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita",
+    "bncc": [
+      "EF09MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "As raízes de x² − 7x + 12 = 0 são:",
+    "opcoes": [
+      "0 e 12",
+      "3 e 4",
+      "−3 e −4",
+      "2 e 6"
+    ],
+    "correta": 1,
+    "explicacao": "Fatorar em (x−3)(x−4)=0 e aplicar produto nulo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          267,
+          268,
+          269
+        ],
+        "paginasImpressas": "270, 271, 272",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
+    "aulaId": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita",
+    "bncc": [
+      "EF09MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um quadrado tem área 49 cm². O lado mede:",
+    "opcoes": [
+      "7 cm",
+      "−7 cm",
+      "±7 cm",
+      "24,5 cm"
+    ],
+    "correta": 0,
+    "explicacao": "A equação l²=49 tem raízes ±7, mas o comprimento exige l>0.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          267,
+          268,
+          269
+        ],
+        "paginasImpressas": "270, 271, 272",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
+    "aulaId": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios",
+    "bncc": [
+      "EF09MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Fatorando 3x² + 6x, obtemos:",
+    "opcoes": [
+      "3(x + 2)",
+      "x(3x + 2)",
+      "3x(x + 6)",
+      "3x(x + 2)"
+    ],
+    "correta": 3,
+    "explicacao": "O fator comum é 3x; conferir pela distributiva.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          230,
+          231,
+          232,
+          233
+        ],
+        "paginasImpressas": "233, 234, 235, 236",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

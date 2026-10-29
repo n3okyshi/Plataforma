@@ -2,36 +2,119 @@
   "id": "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 8,
+  "ordem": 11,
   "unidade": "Expressões Algébricas e Equações",
   "titulo": "Expressões Algébricas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA13"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Diferenciar variável de incógnita e representar relações entre grandezas."
+    ],
+    "resumo": "Diferenciar variável de incógnita e representar relações entre grandezas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Linguagem da Álgebra</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução ao uso de letras (variáveis) para representar números desconhecidos ou generalizar padrões.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔡 Valor Numérico:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">É o resultado quando trocamos a letra por um número específico e fazemos a conta.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Expressões Algébricas</h2><h3>O que vamos aprender</h3><p>Diferenciar variável de incógnita e representar relações entre grandezas.</p><h3>Ideias e relações</h3><p>Uma letra pode representar valores que variam numa relação ou um valor desconhecido numa condição. Em C = 4n + 7, n pode variar conforme a quantidade de itens e C varia como custo correspondente. Quando informamos C = 27 e perguntamos por n, passamos a procurar uma incógnita. O papel da letra depende da situação. Uma expressão algébrica combina números, letras e operações; substituir um valor exige respeitar agrupamentos e a ordem das operações.</p><h3>Exemplo resolvido</h3><p>Com C = 4n + 7 e n = 5, C = 4× 5 + 7 = 27. A parcela 7 é fixa e não se repete cinco vezes.</p><h3>Atenção ao raciocínio</h3><p>4n + 7 não significa 4×(n + 7); os agrupamentos representam relações diferentes.</p><h3>Investigue e produza</h3><p>Crie uma situação para C = 5n + 10. Faça uma tabela para três valores de n e transforme uma das linhas numa pergunta com incógnita.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "expressoes_algebricas",
+      "variavel"
+    ],
+    "errosComuns": [
+      "4n + 7 não significa 4×(n + 7); os agrupamentos representam relações diferentes."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "expressoes_algebricas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em C = 4n + 7, qual é C quando n = 3?",
+      "alternativas": [
+        "40",
+        "19",
+        "21",
+        "28"
+      ],
+      "correta": 1,
+      "explicacao": "4× 3 + 7 = 12 + 7 = 19."
+    },
+    {
+      "id": "expressoes_algebricas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Crie uma situação para C = 5n + 10. Faça uma tabela para três valores de n e transforme uma das linhas numa pergunta com incógnita.",
+      "gabarito": "Exemplo: taxa fixa de 10 e cinco por item. Para n=1,2,3, C=15,20,25. Perguntar a quantidade quando C=25 transforma n numa incógnita.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Exemplo: taxa fixa de 10 e cinco por item. Para n=1,2,3, C=15,20,25. Perguntar a quantidade quando C=25 transforma n numa incógnita.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "expressoes_algebricas",
+    "variavel"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        206,
+        207,
+        208
+      ],
+      "paginasImpressas": "209, 210, 211",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

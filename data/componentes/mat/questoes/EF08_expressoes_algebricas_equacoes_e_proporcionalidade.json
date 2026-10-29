@@ -1,0 +1,460 @@
+[
+  {
+    "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+    "aulaId": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas",
+    "bncc": [
+      "EF08MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O valor de 2x²−3x+1 para x=−2 é:",
+    "opcoes": [
+      "3",
+      "15",
+      "21",
+      "−1"
+    ],
+    "correta": 1,
+    "explicacao": "O quadrado vale 4;8+6+1=15.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          207,
+          208,
+          211
+        ],
+        "paginasImpressas": "210, 211, 214",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+    "aulaId": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes",
+    "bncc": [
+      "EF08MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "As soluções reais de 2x²=98 são:",
+    "opcoes": [
+      "7 e−7",
+      "49 e−49",
+      "Somente 7",
+      "Somente−7"
+    ],
+    "correta": 0,
+    "explicacao": "Dividir por 2 dá x²=49; os dois números opostos têm quadrado 49.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          267,
+          268
+        ],
+        "paginasImpressas": "270, 271",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+    "aulaId": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade",
+    "bncc": [
+      "EF08MA13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma tarefa modelada por 12 pessoas× 5 dias exige, com 10 pessoas igualmente produtivas:",
+    "opcoes": [
+      "10 dias",
+      "4 dias",
+      "5 dias",
+      "6 dias"
+    ],
+    "correta": 3,
+    "explicacao": "O trabalho corresponde a 60 jornadas;60÷ 10=6 dias.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          174,
+          175,
+          190
+        ],
+        "paginasImpressas": "177, 178, 193",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+    "aulaId": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas",
+    "bncc": [
+      "EF08MA12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual relação NÃO é diretamente proporcional?",
+    "opcoes": [
+      "y=2x",
+      "y=5x",
+      "y=2x+1",
+      "y=x/3"
+    ],
+    "correta": 2,
+    "explicacao": "A parcela fixa 1 impede que y/x seja constante.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          174,
+          297,
+          298
+        ],
+        "paginasImpressas": "177, 300, 301",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+    "aulaId": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.porcentagens_no_cotidiano",
+    "bncc": [
+      "EF08MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um desconto de 8% sobre 250 produz preço final:",
+    "opcoes": [
+      "230",
+      "242",
+      "270",
+      "20"
+    ],
+    "correta": 0,
+    "explicacao": "8% de 250 são 20; o preço final é 230.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          196,
+          197,
+          198
+        ],
+        "paginasImpressas": "199, 200, 201",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+    "aulaId": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas",
+    "bncc": [
+      "EF08MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é o valor de 2x² − 3 para x = −2?",
+    "opcoes": [
+      "−11",
+      "1",
+      "13",
+      "5"
+    ],
+    "correta": 3,
+    "explicacao": "2 × (−2)² − 3 = 8 − 3 = 5.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          207,
+          208,
+          211
+        ],
+        "paginasImpressas": "210, 211, 214",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+    "aulaId": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes",
+    "bncc": [
+      "EF08MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No conjunto dos reais, 3x² = 75 tem soluções:",
+    "opcoes": [
+      "−25 e 25",
+      "Nenhuma",
+      "−5 e 5",
+      "Somente 5"
+    ],
+    "correta": 2,
+    "explicacao": "Dividir por 3 dá x² = 25, com duas soluções opostas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          267,
+          268
+        ],
+        "paginasImpressas": "270, 271",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+    "aulaId": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade",
+    "bncc": [
+      "EF08MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quatro máquinas iguais fazem uma tarefa em 15 h. Oito máquinas no mesmo ritmo levarão:",
+    "opcoes": [
+      "60 h",
+      "7,5 h",
+      "30 h",
+      "11 h"
+    ],
+    "correta": 1,
+    "explicacao": "Na hipótese de trabalho divisível e ritmo constante, máquinas × tempo = 60.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          174,
+          175,
+          190
+        ],
+        "paginasImpressas": "177, 178, 193",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+    "aulaId": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas",
+    "bncc": [
+      "EF08MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual relação, para x positivo, é inversamente proporcional?",
+    "opcoes": [
+      "y = 18/x",
+      "y = x + 18",
+      "y = 18x",
+      "y = x²"
+    ],
+    "correta": 0,
+    "explicacao": "O produto xy permanece 18, característica da proporcionalidade inversa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          174,
+          297,
+          298
+        ],
+        "paginasImpressas": "177, 300, 301",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+    "aulaId": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.porcentagens_no_cotidiano",
+    "bncc": [
+      "EF08MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Após desconto de 15% sobre R$ 240, o preço é:",
+    "opcoes": [
+      "R$ 225",
+      "R$ 276",
+      "R$ 36",
+      "R$ 204"
+    ],
+    "correta": 3,
+    "explicacao": "15% de 240 = 36; 240 − 36 = 204.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          196,
+          197,
+          198
+        ],
+        "paginasImpressas": "199, 200, 201",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

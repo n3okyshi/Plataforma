@@ -2,36 +2,109 @@
   "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 16,
+  "ordem": 30,
   "unidade": "Estatística, Combinatória e Probabilidade",
-  "titulo": "Combinatória - Método de Contagem",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Combinatória: Método de Contagem",
+  "bncc": [
+    "EF09MA20"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Organizar possibilidades para calcular probabilidades e reconhecer o efeito de restrições."
+    ],
+    "resumo": "Organizar possibilidades para calcular probabilidades e reconhecer o efeito de restrições.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Combinatória</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aprofundamento do Princípio Fundamental da Contagem.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🤔 A Pergunta de Ouro:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">\"A ordem importa?\" <br>Sim = Arranjo (Senha). <br>Não = Combinação (Salada de frutas).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Combinatória: Método de Contagem</h2><h3>O que vamos aprender</h3><p>Organizar possibilidades para calcular probabilidades e reconhecer o efeito de restrições.</p><h3>Ideias e relações</h3><p>Contar resultados exige esclarecer ordem, reposição e restrições. Códigos de duas posições com os algarismos 1,2,3 têm nove possibilidades se a repetição é permitida e seis se não for. Num sorteio uniforme, cada código admissível tem a mesma chance; uma árvore ajuda a calcular eventos. Esse uso retoma contagem para analisar probabilidades do 9º ano. Restrições podem modificar o número de escolhas da segunda etapa e a relação entre os eventos, não apenas o total de códigos.</p><h3>Exemplo resolvido</h3><p>Sem repetição, os códigos são 12,13,21,23,31,32. Os dois com ambos os algarismos ímpares são 13 e 31, então a chance é 2/6=1/3. Com repetição, seria 4/9.</p><h3>Atenção ao raciocínio</h3><p>Não use o mesmo espaço amostral para regras de formação diferentes.</p><h3>Investigue e produza</h3><p>Compare a chance de ambos os algarismos serem ímpares com e sem repetição. Faça as árvores e explique o efeito da primeira escolha na segunda.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "combinatoria",
+      "contagem"
+    ],
+    "errosComuns": [
+      "Não use o mesmo espaço amostral para regras de formação diferentes."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "combinatoria_metodo_de_contagem.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com os algarismos 1,2,3, sem repetição, quantos códigos de duas posições existem?",
+      "alternativas": [
+        "8",
+        "9",
+        "3",
+        "6"
+      ],
+      "correta": 3,
+      "explicacao": "São 3 escolhas na primeira posição e 2 na segunda:6."
+    },
+    {
+      "id": "combinatoria_metodo_de_contagem.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare a chance de ambos os algarismos serem ímpares com e sem repetição. Faça as árvores e explique o efeito da primeira escolha na segunda.",
+      "gabarito": "Com repetição:2/3× 2/3=4/9. Sem repetição, após um ímpar resta um ímpar entre dois algarismos:2/3× 1/2=1/3. Explicitar uniformidade e ordem.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Com repetição:2/3× 2/3=4/9. Sem repetição, após um ímpar resta um ímpar entre dois algarismos:2/3× 1/2=1/3. Explicitar uniformidade e ordem.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "combinatoria",
+    "contagem"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

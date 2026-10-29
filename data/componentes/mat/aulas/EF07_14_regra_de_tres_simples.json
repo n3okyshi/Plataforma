@@ -2,36 +2,121 @@
   "id": "mat.ef07.grandezas_proporcionais.regra_de_tres_simples",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 14,
+  "ordem": 19,
   "unidade": "Grandezas Proporcionais",
   "titulo": "Regra de Três Simples",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA17"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver proporções decidindo primeiro a natureza da variação."
+    ],
+    "resumo": "Resolver proporções decidindo primeiro a natureza da variação.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Regra de Três</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A técnica suprema para resolver problemas. Temos três valores conhecidos e queremos descobrir o quarto.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛠️ Passo a Passo:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">1. Monte a tabela. 2. Identifique se é direta ou inversa. 3. Calcule.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Regra de Três Simples</h2><h3>O que vamos aprender</h3><p>Resolver proporções decidindo primeiro a natureza da variação.</p><h3>Ideias e relações</h3><p>A regra de três é uma organização possível de relações proporcionais, não uma justificativa universal. Antes de usá-la, verifique as unidades, as condições constantes e se a relação é direta ou inversa. Em uma relação direta, razões correspondentes se mantêm; em uma inversa, o produto é constante. Podemos resolver por valor unitário, fatores de ampliação ou sentença algébrica. Ao comparar estratégias, explique por que elas representam a mesma relação e confira a plausibilidade do resultado.</p><h3>Exemplo resolvido</h3><p>Se três metros de tecido custam 27 reais, com o mesmo preço por metro, um metro custa 9 e cinco custam 45. Em uma proporção: 27/3 = C/5, logo C=45.</p><h3>Atenção ao raciocínio</h3><p>Não aplique multiplicação cruzada antes de verificar se as razões realmente são iguais.</p><h3>Investigue e produza</h3><p>Resolva por duas estratégias: quatro trabalhadores igualmente produtivos concluem um trabalho divisível em doze dias. No modelo, quanto tempo levariam seis? Justifique a relação.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "regra_de_tres",
+      "proporcionalidade"
+    ],
+    "errosComuns": [
+      "Não aplique multiplicação cruzada antes de verificar se as razões realmente são iguais."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "regra_de_tres_simples.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Três metros custam R$ 27, com preço unitário constante. Cinco metros custam:",
+      "alternativas": [
+        "R$ 81",
+        "R$ 29",
+        "R$ 35",
+        "R$ 45"
+      ],
+      "correta": 3,
+      "explicacao": "O preço por metro é 27÷ 3=9; cinco metros custam 45."
+    },
+    {
+      "id": "regra_de_tres_simples.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva por duas estratégias: quatro trabalhadores igualmente produtivos concluem um trabalho divisível em doze dias. No modelo, quanto tempo levariam seis? Justifique a relação.",
+      "gabarito": "O total é 48 jornadas; com seis trabalhadores, 8 dias. Outra estratégia usa fator 6/4 nas pessoas e fator inverso 4/6 no tempo. As hipóteses devem ser explicitadas.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O total é 48 jornadas; com seis trabalhadores, 8 dias. Outra estratégia usa fator 6/4 nas pessoas e fator inverso 4/6 no tempo. As hipóteses devem ser explicitadas.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "regra_de_tres",
+    "proporcionalidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        190,
+        191,
+        192
+      ],
+      "paginasImpressas": "193, 194, 195",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais"
+  ],
+  "proximosPassos": [
+    "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

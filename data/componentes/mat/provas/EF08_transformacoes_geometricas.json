@@ -1,0 +1,113 @@
+{
+  "id": "mat.ef08.transformacoes_geometricas.prova",
+  "titulo": "Avaliação: Transformações Geométricas",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF08",
+  "unidade": "Transformações Geométricas",
+  "bncc": [
+    "EF08MA18"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef08.transformacoes_geometricas.prova.01",
+    "mat.ef08.transformacoes_geometricas.prova.02",
+    "mat.ef08.transformacoes_geometricas.prova.03",
+    "mat.ef08.transformacoes_geometricas.prova.04",
+    "mat.ef08.transformacoes_geometricas.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF08MA18",
+      "questoes": [
+        "mat.ef08.transformacoes_geometricas.prova.01",
+        "mat.ef08.transformacoes_geometricas.prova.02",
+        "mat.ef08.transformacoes_geometricas.prova.03",
+        "mat.ef08.transformacoes_geometricas.prova.04",
+        "mat.ef08.transformacoes_geometricas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.transformacoes_geometricas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.transformacoes_geometricas.transformacoes_geometricas#transformacoes_geometricas.investigacao",
+        "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas#composicao_de_transformacoes_geometricas.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef08.transformacoes_geometricas.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Transformações Geométricas",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Desenhe um triângulo e faça uma rotação de 90° seguida de uma translação. Registre cada imagem e verifique lados e ângulos com instrumentos. 2. Compare as duas ordens do exemplo para um triângulo de sua escolha. Faça uma composição de duas translações e investigue se trocar a ordem altera o resultado.",
+    "gabarito": "Conferência por tarefa: 1. Os parâmetros devem ser informados e as duas etapas executadas para todos os vértices. As imagens são congruentes; medições aproximadas ajudam a conferir. 2. Reflexão e translação do exemplo produzem imagens diferentes. Duas translações somam seus vetores; nesse caso, a ordem não altera a imagem final.",
+    "bncc": [
+      "EF08MA18"
+    ],
+    "atividadesOrigem": [
+      "mat.ef08.transformacoes_geometricas.transformacoes_geometricas#transformacoes_geometricas.investigacao",
+      "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas#composicao_de_transformacoes_geometricas.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Transformações Geométricas",
+        "enunciado": "Desenhe um triângulo e faça uma rotação de 90° seguida de uma translação. Registre cada imagem e verifique lados e ângulos com instrumentos.",
+        "gabarito": "Os parâmetros devem ser informados e as duas etapas executadas para todos os vértices. As imagens são congruentes; medições aproximadas ajudam a conferir.",
+        "bncc": [
+          "EF08MA18"
+        ],
+        "atividadeOrigem": "mat.ef08.transformacoes_geometricas.transformacoes_geometricas#transformacoes_geometricas.investigacao"
+      },
+      {
+        "titulo": "Composição de Transformações Geométricas",
+        "enunciado": "Compare as duas ordens do exemplo para um triângulo de sua escolha. Faça uma composição de duas translações e investigue se trocar a ordem altera o resultado.",
+        "gabarito": "Reflexão e translação do exemplo produzem imagens diferentes. Duas translações somam seus vetores; nesse caso, a ordem não altera a imagem final.",
+        "bncc": [
+          "EF08MA18"
+        ],
+        "atividadeOrigem": "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas#composicao_de_transformacoes_geometricas.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        298,
+        322
+      ],
+      "paginasImpressas": "300, 301, 325",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        298
+      ],
+      "paginasImpressas": "300, 301",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

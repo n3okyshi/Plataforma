@@ -4,34 +4,117 @@
   "nivel": "EF07",
   "ordem": 1,
   "unidade": "Números Inteiros",
-  "titulo": "Números inteiros e reta numérica",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Números Inteiros e Reta Numérica",
+  "bncc": [
+    "EF07MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Interpretar inteiros como posições e variações em relação a uma referência."
+    ],
+    "resumo": "Interpretar inteiros como posições e variações em relação a uma referência.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números Inteiros (Z)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Ampliação do conjunto dos números naturais. Agora incluímos os negativos para representar situações como temperaturas abaixo de zero e saldos devedores.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Conceitos Chave:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Opostos (Simétricos):</strong> Estão à mesma distância do zero (ex: -3 e +3).</li>\n                <li><strong>Módulo:</strong> É a distância até o zero, sempre positivo (ex: |-5| = 5).</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Números Inteiros e Reta Numérica</h2><h3>O que vamos aprender</h3><p>Interpretar inteiros como posições e variações em relação a uma referência.</p><h3>Ideias e relações</h3><p>Os inteiros ampliam os naturais para representar posições nos dois sentidos de uma referência. Adotamos Z = {…, −2, −1, 0, 1, 2, …}. Temperaturas, saldos e altitudes exigem indicar o significado do zero e dos sinais. Na reta, intervalos iguais representam diferenças iguais e os valores aumentam para a direita. Uma variação positiva indica aumento; uma negativa, diminuição, segundo a convenção do contexto. A ampliação histórica dos sistemas de números respondeu também à necessidade de registrar situações de oposição.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Reta numérica dos inteiros de menos quatro a quatro, com intervalos iguais.\" style=\"max-width:100%;color:inherit\"><title>Reta numérica dos inteiros de menos quatro a quatro, com intervalos iguais.</title><path d=\"M35 110H410\" stroke=\"currentColor\"/><path d=\"M60 103V117\" stroke=\"currentColor\"/><text x=\"60\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-4</text><path d=\"M100 103V117\" stroke=\"currentColor\"/><text x=\"100\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-3</text><path d=\"M140 103V117\" stroke=\"currentColor\"/><text x=\"140\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-2</text><path d=\"M180 103V117\" stroke=\"currentColor\"/><text x=\"180\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-1</text><path d=\"M220 103V117\" stroke=\"currentColor\"/><text x=\"220\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">0</text><path d=\"M260 103V117\" stroke=\"currentColor\"/><text x=\"260\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">1</text><path d=\"M300 103V117\" stroke=\"currentColor\"/><text x=\"300\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">2</text><path d=\"M340 103V117\" stroke=\"currentColor\"/><text x=\"340\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">3</text><path d=\"M380 103V117\" stroke=\"currentColor\"/><text x=\"380\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">4</text><text x=\"75\" y=\"205\" fill=\"currentColor\" font-size=\"16\">Aumentam para a direita.</text></svg><h3>Exemplo resolvido</h3><p>Uma temperatura de −3 °C que aumenta 5 °C passa a 2 °C: na reta, partimos de −3 e avançamos cinco unidades para a direita.</p><h3>Atenção ao raciocínio</h3><p>O sinal de uma posição e o sentido de uma mudança são informações diferentes.</p><h3>Investigue e produza</h3><p>Desenhe uma reta de −6 a 6. Represente um deslocamento de −4 até 3 e explique a referência, o sentido e a variação.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "numeros_inteiros",
+      "reta_numerica"
+    ],
+    "errosComuns": [
+      "O sinal de uma posição e o sentido de uma mudança são informações diferentes."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "numeros_inteiros_e_reta_numerica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A temperatura −3 °C aumenta 5 °C. A nova leitura é:",
+      "alternativas": [
+        "−2 °C",
+        "2 °C",
+        "8 °C",
+        "−8 °C"
+      ],
+      "correta": 1,
+      "explicacao": "−3 + 5 = 2: o aumento atravessa o zero."
+    },
+    {
+      "id": "numeros_inteiros_e_reta_numerica.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe uma reta de −6 a 6. Represente um deslocamento de −4 até 3 e explique a referência, o sentido e a variação.",
+      "gabarito": "A variação é +7. A reta deve manter intervalos iguais, zero identificado e deslocamento para a direita.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "A variação é +7. A reta deve manter intervalos iguais, zero identificado e deslocamento para a direita.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "numeros_inteiros",
+    "reta_numerica"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        129,
+        130,
+        131
+      ],
+      "paginasImpressas": "132, 133, 134",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef07.numeros_inteiros.comparacao_de_numeros_inteiros"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

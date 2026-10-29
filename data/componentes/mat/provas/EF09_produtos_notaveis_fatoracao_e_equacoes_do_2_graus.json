@@ -1,0 +1,136 @@
+{
+  "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova",
+  "titulo": "Avaliação: Produtos Notáveis, Fatoração e Equações do 2º Graus",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF09",
+  "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
+  "bncc": [
+    "EF09MA09"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.01",
+    "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.02",
+    "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.03",
+    "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.04",
+    "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF09MA09",
+      "questoes": [
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.01",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.02",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.03",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.04",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis#produtos_notaveis.investigacao",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios#fatoracao_de_polinomios.investigacao",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita#equacoes_do_2_grau_com_1_incognita.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Produtos Notáveis, Fatoração e Equações do 2º Graus",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Use um desenho de área para justificar(10+2)² e desenvolva(2x−1)². Explique a origem do termo do meio. 2. Fatore x²+5x+6 e resolva x²+5x+6=0. Confira as raízes na expressão original. 3. Um retângulo tem lados x e x+2 e área 48. Modele, resolva e explique qual raiz responde ao problema.",
+    "gabarito": "Conferência por tarefa: 1. 144=100+20+20+4. (2x−1)²=4x²−4x+1; o termo do meio é a soma dos dois produtos−2x. 2. (x+2)(x+3); raízes−2 e−3. Desenvolver confirma o trinômio e substituir cada raiz produz zero. 3. x²+2x−48=0, ou(x+8)(x−6)=0. As raízes são−8 e 6; medidas positivas dão x=6 e lados 6 e 8. Conferir área 48.",
+    "bncc": [
+      "EF09MA09"
+    ],
+    "atividadesOrigem": [
+      "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis#produtos_notaveis.investigacao",
+      "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios#fatoracao_de_polinomios.investigacao",
+      "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita#equacoes_do_2_grau_com_1_incognita.investigacao"
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Produtos Notáveis",
+        "enunciado": "Use um desenho de área para justificar(10+2)² e desenvolva(2x−1)². Explique a origem do termo do meio.",
+        "gabarito": "144=100+20+20+4. (2x−1)²=4x²−4x+1; o termo do meio é a soma dos dois produtos−2x.",
+        "bncc": [
+          "EF09MA09"
+        ],
+        "atividadeOrigem": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis#produtos_notaveis.investigacao"
+      },
+      {
+        "titulo": "Fatoração de Polinômios",
+        "enunciado": "Fatore x²+5x+6 e resolva x²+5x+6=0. Confira as raízes na expressão original.",
+        "gabarito": "(x+2)(x+3); raízes−2 e−3. Desenvolver confirma o trinômio e substituir cada raiz produz zero.",
+        "bncc": [
+          "EF09MA09"
+        ],
+        "atividadeOrigem": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios#fatoracao_de_polinomios.investigacao"
+      },
+      {
+        "titulo": "Equações do 2º Grau com uma Incógnita",
+        "enunciado": "Um retângulo tem lados x e x+2 e área 48. Modele, resolva e explique qual raiz responde ao problema.",
+        "gabarito": "x²+2x−48=0, ou(x+8)(x−6)=0. As raízes são−8 e 6; medidas positivas dão x=6 e lados 6 e 8. Conferir área 48.",
+        "bncc": [
+          "EF09MA09"
+        ],
+        "atividadeOrigem": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita#equacoes_do_2_grau_com_1_incognita.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        220,
+        221,
+        222
+      ],
+      "paginasImpressas": "223, 224, 225",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        230,
+        231,
+        232,
+        233
+      ],
+      "paginasImpressas": "233, 234, 235, 236",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        267,
+        268,
+        269
+      ],
+      "paginasImpressas": "270, 271, 272",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

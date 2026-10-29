@@ -5,33 +5,117 @@
   "ordem": 3,
   "unidade": "Operações com números inteiros",
   "titulo": "Adição e Subtração de Inteiros",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA03",
+    "EF07MA04"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver e elaborar problemas de adição e subtração com inteiros."
+    ],
+    "resumo": "Resolver e elaborar problemas de adição e subtração com inteiros.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Soma e Subtração em Z</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolução de problemas envolvendo ganhos (+), perdas (-) e variações. Focamos na eliminação de parênteses.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚡ Regras Práticas:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Sinais Iguais:</strong> Soma e mantém o sinal.</li>\n                <li><strong>Sinais Diferentes:</strong> Subtrai e mantém o sinal do maior valor absoluto (quem \"pesa\" mais).</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Adição e Subtração de Inteiros</h2><h3>O que vamos aprender</h3><p>Resolver e elaborar problemas de adição e subtração com inteiros.</p><h3>Ideias e relações</h3><p>Somar inteiros pode reunir variações ou transformar uma posição. Na reta, somar um positivo desloca para a direita e somar um negativo para a esquerda. Subtrair um inteiro equivale a somar seu oposto: a − b = a + (−b). Com parcelas de sinais contrários, compare os módulos para interpretar o saldo. Os sinais indicam a relação com a referência do problema; não são instruções para apagar símbolos sem compreender a operação.</p><h3>Exemplo resolvido</h3><p>Um saldo de −18 recebe um crédito de 25 e depois um débito de 12: −18 + 25 − 12 = 7 − 12 = −5.</p><h3>Atenção ao raciocínio</h3><p>Em 7 − (−4), subtrair o negativo produz 7 + 4; não confunda com 7 + (−4).</p><h3>Investigue e produza</h3><p>Crie um problema de saldo ou temperatura para −12 + 20 − 15. Resolva pela reta e por agrupamento de parcelas.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "numeros_inteiros",
+      "adicao"
+    ],
+    "errosComuns": [
+      "Em 7 − (−4), subtrair o negativo produz 7 + 4; não confunda com 7 + (−4)."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "adicao_e_subtracao_de_inteiros.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto vale 7 − (−4)?",
+      "alternativas": [
+        "11",
+        "−11",
+        "−3",
+        "3"
+      ],
+      "correta": 0,
+      "explicacao": "Subtrair −4 é somar seu oposto, +4: o resultado é 11."
+    },
+    {
+      "id": "adicao_e_subtracao_de_inteiros.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Crie um problema de saldo ou temperatura para −12 + 20 − 15. Resolva pela reta e por agrupamento de parcelas.",
+      "gabarito": "O resultado é −7. O contexto deve representar corretamente as três posições ou variações; as duas estratégias devem levar ao mesmo valor.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O resultado é −7. O contexto deve representar corretamente as três posições ou variações; as duas estratégias devem levar ao mesmo valor.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "numeros_inteiros",
+    "adicao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        132,
+        133,
+        134
+      ],
+      "paginasImpressas": "135, 136, 137",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

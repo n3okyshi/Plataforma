@@ -2,36 +2,124 @@
   "id": "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 11,
+  "ordem": 15,
   "unidade": "Proporcionalidade e Juros",
-  "titulo": "Outras Situações Que Envolvem Proporcionalidade em Geometria",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Proporcionalidade em Geometria",
+  "bncc": [
+    "EF09MA08",
+    "EF09MA12",
+    "EF09MA14"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Modelar situações geométricas proporcionais e justificar semelhança e escalas."
+    ],
+    "resumo": "Modelar situações geométricas proporcionais e justificar semelhança e escalas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Teorema da Bissetriz</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aplicação do Teorema da Bissetriz Interna e análise de segmentos proporcionais em triângulos.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">✂️ Divisão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A bissetriz divide o lado oposto em segmentos proporcionais aos lados adjacentes.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Proporcionalidade em Geometria</h2><h3>O que vamos aprender</h3><p>Modelar situações geométricas proporcionais e justificar semelhança e escalas.</p><h3>Ideias e relações</h3><p>Comprimentos de figuras semelhantes mantêm uma mesma razão e ângulos correspondentes são iguais. Em problemas de sombras ou ampliações, explique quais condições garantem a semelhança antes de usar proporções. Um modelo de sombras pode supor objetos verticais, terreno plano e raios de luz paralelos. Alterar apenas uma direção de um desenho não preserva a forma. Ao usar escalas, os comprimentos mudam pelo fator k e áreas por k², de modo que uma razão de áreas não deve ser confundida com razão de lados.</p><h3>Exemplo resolvido</h3><p>No modelo, uma haste de 1,5 m projeta sombra de 2 m. Um objeto vertical com sombra de 8 m teria altura 6 m, pois 1,5/2=h/8.</p><h3>Atenção ao raciocínio</h3><p>A proporcionalidade depende das condições do modelo; sombras medidas em situações diferentes podem não permitir a mesma relação.</p><h3>Investigue e produza</h3><p>Crie um problema de ampliação com fator 3 e compare comprimentos, perímetros e áreas. Indique como provar que as figuras são semelhantes.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "proporcionalidade",
+      "geometria"
+    ],
+    "errosComuns": [
+      "A proporcionalidade depende das condições do modelo; sombras medidas em situações diferentes podem não permitir a mesma relação."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "outras_situacoes_que_envolvem_proporcionalidade_em_geometria.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No modelo das sombras com razão altura:sombra=1,5:2, uma sombra de 8 m corresponde à altura:",
+      "alternativas": [
+        "12 m",
+        "4 m",
+        "6 m",
+        "8 m"
+      ],
+      "correta": 2,
+      "explicacao": "h=8× 1,5÷ 2=6 m."
+    },
+    {
+      "id": "outras_situacoes_que_envolvem_proporcionalidade_em_geometria.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Crie um problema de ampliação com fator 3 e compare comprimentos, perímetros e áreas. Indique como provar que as figuras são semelhantes.",
+      "gabarito": "Comprimentos e perímetros triplicam; áreas ficam nove vezes maiores. A semelhança exige mesma forma, ângulos correspondentes iguais e razão comum dos lados.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Comprimentos e perímetros triplicam; áreas ficam nove vezes maiores. A semelhança exige mesma forma, ângulos correspondentes iguais e razão comum dos lados.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "proporcionalidade",
+    "geometria"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319,
+        321
+      ],
+      "paginasImpressas": "317, 319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        370,
+        371
+      ],
+      "paginasImpressas": "173, 373, 374",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales"
+  ],
+  "proximosPassos": [
+    "mat.ef09.proporcionalidade_e_juros.juros"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -2,36 +2,119 @@
   "id": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 19,
+  "ordem": 15,
   "unidade": "Triângulos e Quadriláteros",
   "titulo": "Ampliando o Estudo dos Quadriláteros",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA14"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Demonstrar propriedades de paralelogramos utilizando triângulos congruentes."
+    ],
+    "resumo": "Demonstrar propriedades de paralelogramos utilizando triângulos congruentes.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Família dos Quadriláteros</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Propriedades específicas dos paralelogramos e trapézios.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🟦 Herança:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Entendemos a hierarquia: Todo quadrado é um retângulo e também um losango, mas o inverso não é verdadeiro.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Ampliando o Estudo dos Quadriláteros</h2><h3>O que vamos aprender</h3><p>Demonstrar propriedades de paralelogramos utilizando triângulos congruentes.</p><h3>Ideias e relações</h3><p>Considere um paralelogramo ABCD com vértices em ordem. A diagonal AC produz os triângulos ABC e CDA. O paralelismo garante dois pares de ângulos alternos internos iguais, e AC é comum; por ALA, os triângulos são congruentes. Concluímos que AB=CD e BC=AD e que os ângulos opostos do paralelogramo são iguais. A prova utiliza propriedades informadas, não medidas aproximadas do desenho. Em um quadrilátero qualquer, não podemos assumir a mesma conclusão sem hipóteses suficientes.</p><h3>Exemplo resolvido</h3><p>Se AB=7 cm e BC=4 cm num paralelogramo, a congruência dos triângulos pela diagonal explica CD=7 cm e AD=4 cm.</p><h3>Atenção ao raciocínio</h3><p>Uma diagonal não divide todo quadrilátero em triângulos congruentes.</p><h3>Investigue e produza</h3><p>Construa um paralelogramo não retangular e escreva uma demonstração da igualdade de seus lados opostos, indicando ângulos, lado comum e critério de congruência.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "quadrilateros",
+      "propriedades"
+    ],
+    "errosComuns": [
+      "Uma diagonal não divide todo quadrilátero em triângulos congruentes."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "ampliando_o_estudo_dos_quadrilateros.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Num paralelogramo, a congruência dos triângulos formados por uma diagonal permite concluir que:",
+      "alternativas": [
+        "As diagonais sempre são perpendiculares.",
+        "Todos os lados são iguais.",
+        "Os lados opostos são iguais.",
+        "Todos os ângulos são retos."
+      ],
+      "correta": 2,
+      "explicacao": "Essas hipóteses garantem igualdade de lados opostos; as demais propriedades exigem condições adicionais."
+    },
+    {
+      "id": "ampliando_o_estudo_dos_quadrilateros.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa um paralelogramo não retangular e escreva uma demonstração da igualdade de seus lados opostos, indicando ângulos, lado comum e critério de congruência.",
+      "gabarito": "Identificar alternos internos pelo paralelismo, usar AC comum e ALA. Transportar a correspondência correta para concluir AB=CD e BC=AD, sem depender do comprimento medido.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Identificar alternos internos pelo paralelismo, usar AC comum e ALA. Transportar a correspondência correta para concluir AB=CD e BC=AD, sem depender do comprimento medido.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "quadrilateros",
+    "propriedades"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        352,
+        355,
+        364
+      ],
+      "paginasImpressas": "355, 358, 367",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -2,36 +2,120 @@
   "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 15,
+  "ordem": 16,
   "unidade": "Lugares Geométricos e Construções Geométricas",
-  "titulo": "Construções Geométricas com Régua, Esquadro, Transferidor e Compasso",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Construções com Régua, Esquadro, Transferidor e Compasso",
+  "bncc": [
+    "EF08MA15"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construir mediatriz, bissetriz e ângulos notáveis com instrumentos."
+    ],
+    "resumo": "Construir mediatriz, bissetriz e ângulos notáveis com instrumentos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Desenho Geométrico</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Técnicas manuais para desenhar retas paralelas, perpendiculares e transportar ângulos com precisão.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Instrumentos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uso coordenado de régua, esquadro, transferidor e compasso.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Construções com Régua, Esquadro, Transferidor e Compasso</h2><h3>O que vamos aprender</h3><p>Construir mediatriz, bissetriz e ângulos notáveis com instrumentos.</p><h3>Ideias e relações</h3><p>A mediatriz de AB é perpendicular ao segmento e passa por seu ponto médio. Para construí-la, trace arcos de mesmo raio, maior que metade de AB, com centros A e B e una as duas intersecções. Para a bissetriz de um ângulo, marque dois pontos equidistantes do vértice nos lados, trace arcos de mesmo raio a partir deles e una o vértice à intersecção interna. Uma perpendicular produz 90°, um triângulo equilátero produz 60°; bissectar essas aberturas produz 45° e 30°.</p><h3>Exemplo resolvido</h3><p>Construindo um ângulo de 60° por um triângulo equilátero e aplicando a construção de sua bissetriz, obtemos duas aberturas de 30°.</p><h3>Atenção ao raciocínio</h3><p>A abertura do compasso precisa permanecer igual entre os dois arcos de uma mesma etapa.</p><h3>Investigue e produza</h3><p>Construa a mediatriz de um segmento e ângulos de 90°,60°,45° e 30°. Identifique quais propriedades garantem cada construção e confira com transferidor.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "construcoes_geometricas",
+      "instrumentos"
+    ],
+    "errosComuns": [
+      "A abertura do compasso precisa permanecer igual entre os dois arcos de uma mesma etapa."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Bissectar um ângulo de 90° produz ângulos de:",
+      "alternativas": [
+        "30°",
+        "45°",
+        "60°",
+        "180°"
+      ],
+      "correta": 1,
+      "explicacao": "A bissetriz divide a abertura em duas partes iguais:90÷ 2=45."
+    },
+    {
+      "id": "construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa a mediatriz de um segmento e ângulos de 90°,60°,45° e 30°. Identifique quais propriedades garantem cada construção e confira com transferidor.",
+      "gabarito": "Usar arcos iguais para a mediatriz, perpendicularidade para 90°, equilátero para 60° e bissetrizes para 45° e 30°. O transferidor é uma conferência, não a justificativa geométrica.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Usar arcos iguais para a mediatriz, perpendicularidade para 90°, equilátero para 60° e bissetrizes para 45° e 30°. O transferidor é uma conferência, não a justificativa geométrica.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "construcoes_geometricas",
+    "instrumentos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        329,
+        330,
+        344,
+        355
+      ],
+      "paginasImpressas": "332, 333, 347, 358",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

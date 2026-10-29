@@ -1,0 +1,121 @@
+{
+  "id": "mat.ef07.area_de_figuras_planas.area_de_triangulos",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 24,
+  "unidade": "Área de Figuras Planas",
+  "titulo": "Áreas de Triângulos e Quadriláteros",
+  "bncc": [
+    "EF07MA31"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Estabelecer expressões de área de triângulos e quadriláteros por composição e recorte."
+    ],
+    "resumo": "Estabelecer expressões de área de triângulos e quadriláteros por composição e recorte.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Áreas de Triângulos e Quadriláteros</h2><h3>O que vamos aprender</h3><p>Estabelecer expressões de área de triângulos e quadriláteros por composição e recorte.</p><h3>Ideias e relações</h3><p>A área de um retângulo é base×altura pela contagem de fileiras. Um paralelogramo pode ser recortado e reorganizado num retângulo de mesma base e altura; por isso sua área também é bh. Dois triângulos congruentes formam um paralelogramo, resultando em A=bh/2. Para um trapézio, duas cópias reorganizadas formam um paralelogramo de base B+b e altura h, então A=(B+b)h/2. Altura é uma distância perpendicular, não necessariamente o comprimento de um lado inclinado.</p><h3>Exemplo resolvido</h3><p>Um triângulo de base 8 cm e altura 5 cm ocupa metade de um paralelogramo de área 40 cm², portanto sua área é 20 cm².</p><h3>Atenção ao raciocínio</h3><p>Substituir a altura pelo lado inclinado pode produzir uma área incorreta.</p><h3>Investigue e produza</h3><p>Use recortes para justificar a área de um paralelogramo e de um trapézio. Calcule a área de um trapézio com bases 8 e 4 e altura 3.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "area",
+      "triangulos"
+    ],
+    "errosComuns": [
+      "Substituir a altura pelo lado inclinado pode produzir uma área incorreta."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "area_de_triangulos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um triângulo de base 8 cm e altura 5 cm tem área de:",
+      "alternativas": [
+        "13 cm²",
+        "20 cm²",
+        "40 cm²",
+        "80 cm²"
+      ],
+      "correta": 1,
+      "explicacao": "A=8× 5÷ 2=20 cm²."
+    },
+    {
+      "id": "area_de_triangulos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Use recortes para justificar a área de um paralelogramo e de um trapézio. Calcule a área de um trapézio com bases 8 e 4 e altura 3.",
+      "gabarito": "As recomposições devem conservar a área e justificar as expressões. Para o trapézio: (8+4)× 3÷ 2=18 unidades quadradas.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "As recomposições devem conservar a área e justificar as expressões. Para o trapézio: (8+4)× 3÷ 2=18 unidades quadradas.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "area",
+    "triangulos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        112,
+        113,
+        344,
+        364
+      ],
+      "paginasImpressas": "115, 116, 347, 367",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef07.area_de_figuras_planas.areas_por_decomposicao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

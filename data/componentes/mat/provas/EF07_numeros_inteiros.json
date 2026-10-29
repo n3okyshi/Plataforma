@@ -1,0 +1,113 @@
+{
+  "id": "mat.ef07.numeros_inteiros.prova",
+  "titulo": "Avaliação: Números Inteiros",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF07",
+  "unidade": "Números Inteiros",
+  "bncc": [
+    "EF07MA03"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef07.numeros_inteiros.prova.01",
+    "mat.ef07.numeros_inteiros.prova.02",
+    "mat.ef07.numeros_inteiros.prova.03",
+    "mat.ef07.numeros_inteiros.prova.04",
+    "mat.ef07.numeros_inteiros.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF07MA03",
+      "questoes": [
+        "mat.ef07.numeros_inteiros.prova.01",
+        "mat.ef07.numeros_inteiros.prova.02",
+        "mat.ef07.numeros_inteiros.prova.03",
+        "mat.ef07.numeros_inteiros.prova.04",
+        "mat.ef07.numeros_inteiros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.numeros_inteiros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica#numeros_inteiros_e_reta_numerica.investigacao",
+        "mat.ef07.numeros_inteiros.comparacao_de_numeros_inteiros#comparacao_de_numeros_inteiros.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef07.numeros_inteiros.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Números Inteiros",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Desenhe uma reta de −6 a 6. Represente um deslocamento de −4 até 3 e explique a referência, o sentido e a variação. 2. Ordene −5, 2, −1, 0 e −8. Identifique o maior módulo e explique por que ele não pertence ao maior número da lista.",
+    "gabarito": "Conferência por tarefa: 1. A variação é +7. A reta deve manter intervalos iguais, zero identificado e deslocamento para a direita. 2. Ordem crescente: −8, −5, −1, 0, 2. O maior módulo é 8, de −8; o maior número é 2. Distância e ordenação são relações diferentes.",
+    "bncc": [
+      "EF07MA03"
+    ],
+    "atividadesOrigem": [
+      "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica#numeros_inteiros_e_reta_numerica.investigacao",
+      "mat.ef07.numeros_inteiros.comparacao_de_numeros_inteiros#comparacao_de_numeros_inteiros.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Números Inteiros e Reta Numérica",
+        "enunciado": "Desenhe uma reta de −6 a 6. Represente um deslocamento de −4 até 3 e explique a referência, o sentido e a variação.",
+        "gabarito": "A variação é +7. A reta deve manter intervalos iguais, zero identificado e deslocamento para a direita.",
+        "bncc": [
+          "EF07MA03"
+        ],
+        "atividadeOrigem": "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica#numeros_inteiros_e_reta_numerica.investigacao"
+      },
+      {
+        "titulo": "Comparação de Números Inteiros",
+        "enunciado": "Ordene −5, 2, −1, 0 e −8. Identifique o maior módulo e explique por que ele não pertence ao maior número da lista.",
+        "gabarito": "Ordem crescente: −8, −5, −1, 0, 2. O maior módulo é 8, de −8; o maior número é 2. Distância e ordenação são relações diferentes.",
+        "bncc": [
+          "EF07MA03"
+        ],
+        "atividadeOrigem": "mat.ef07.numeros_inteiros.comparacao_de_numeros_inteiros#comparacao_de_numeros_inteiros.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        129,
+        130,
+        131
+      ],
+      "paginasImpressas": "132, 133, 134",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        131,
+        132
+      ],
+      "paginasImpressas": "134, 135",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

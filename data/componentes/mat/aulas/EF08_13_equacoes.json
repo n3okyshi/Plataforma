@@ -2,36 +2,120 @@
   "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 13,
+  "ordem": 8,
   "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
-  "titulo": "Equações",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Equações do Tipo ax²=b",
+  "bncc": [
+    "EF08MA09"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver problemas modelados por equações do tipo ax²=b e interpretar as soluções."
+    ],
+    "resumo": "Resolver problemas modelados por equações do tipo ax²=b e interpretar as soluções.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Equações Avançadas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolução de equações do 1º grau mais complexas, com coeficientes racionais e fracionários.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔧 Ferramentas:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uso intensivo da <strong>propriedade distributiva</strong> (o \"chuveirinho\") para organizar a equação antes de isolar o X.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Equações do Tipo ax²=b</h2><h3>O que vamos aprender</h3><p>Resolver problemas modelados por equações do tipo ax²=b e interpretar as soluções.</p><h3>Ideias e relações</h3><p>Uma equação do tipo ax²=b, com a não nulo, pode ser reduzida a x²=b/a. Se b/a é positivo, existem duas soluções reais opostas; se é zero, há uma solução real; se é negativo, não há solução real. No contexto de uma medida de comprimento, uma solução negativa pode não ser admissível, embora pertença à solução algébrica. Com calculadora ou planilha, confira quadrados e aproximações, distinguindo solução exata de aproximada.</p><h3>Exemplo resolvido</h3><p>2x²=98 implica x²=49, então x=7 ou x=−7. Se x representa o lado de um quadrado, escolhemos 7 pela interpretação geométrica.</p><h3>Atenção ao raciocínio</h3><p>Não elimine a solução negativa antes de verificar o domínio e o contexto da pergunta.</p><h3>Investigue e produza</h3><p>Resolva 3x²=75 e determine o lado de um quadrado de área 75/3. Explique por que as respostas são apresentadas de modo diferente.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "equacoes",
+      "incognita"
+    ],
+    "errosComuns": [
+      "Não elimine a solução negativa antes de verificar o domínio e o contexto da pergunta."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "equacoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "As soluções reais de 2x²=98 são:",
+      "alternativas": [
+        "Somente 7",
+        "Somente−7",
+        "7 e−7",
+        "49 e−49"
+      ],
+      "correta": 2,
+      "explicacao": "Dividir por 2 dá x²=49; os dois números opostos têm quadrado 49."
+    },
+    {
+      "id": "equacoes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva 3x²=75 e determine o lado de um quadrado de área 75/3. Explique por que as respostas são apresentadas de modo diferente.",
+      "gabarito": "A equação tem soluções±5. O lado do quadrado é 5 unidades, pois comprimento é positivo. Conferir 3× 25=75.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "A equação tem soluções±5. O lado do quadrado é 5 unidades, pois comprimento é positivo. Conferir 3× 25=75.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "equacoes",
+    "incognita"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        267,
+        268
+      ],
+      "paginasImpressas": "270, 271",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas"
+  ],
+  "proximosPassos": [
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -1,0 +1,115 @@
+{
+  "id": "mat.ef07.multiplos_divisores_e_mdc.prova",
+  "titulo": "Avaliação: Múltiplos, Divisores e MDC",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF07",
+  "unidade": "Múltiplos, Divisores e MDC",
+  "bncc": [
+    "EF07MA01"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef07.multiplos_divisores_e_mdc.prova.01",
+    "mat.ef07.multiplos_divisores_e_mdc.prova.02",
+    "mat.ef07.multiplos_divisores_e_mdc.prova.03",
+    "mat.ef07.multiplos_divisores_e_mdc.prova.04",
+    "mat.ef07.multiplos_divisores_e_mdc.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF07MA01",
+      "questoes": [
+        "mat.ef07.multiplos_divisores_e_mdc.prova.01",
+        "mat.ef07.multiplos_divisores_e_mdc.prova.02",
+        "mat.ef07.multiplos_divisores_e_mdc.prova.03",
+        "mat.ef07.multiplos_divisores_e_mdc.prova.04",
+        "mat.ef07.multiplos_divisores_e_mdc.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.multiplos_divisores_e_mdc.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores#problemas_com_multiplos_e_divisores.investigacao",
+        "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas#mdc_e_mmc_em_problemas.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef07.multiplos_divisores_e_mdc.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Múltiplos, Divisores e MDC",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Elabore um problema de grupos com 42 peças e outro de coincidência de períodos de 4 e 10 minutos. Resolva com listas ou desenhos. 2. Compare duas perguntas: cortar fitas de 20 e 30 cm em pedaços iguais do maior comprimento possível; e encontrar a primeira coincidência de períodos de 20 e 30 minutos.",
+    "gabarito": "Conferência por tarefa: 1. Divisores de 42: 1,2,3,6,7,14,21,42. O primeiro encontro de períodos 4 e 10 é 20 minutos. O contexto deve justificar o uso de divisor ou múltiplo. 2. O comprimento é 10 cm, maior divisor comum. A coincidência é 60 minutos, menor múltiplo comum positivo. Justificar por listas e interpretar as unidades.",
+    "bncc": [
+      "EF07MA01"
+    ],
+    "atividadesOrigem": [
+      "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores#problemas_com_multiplos_e_divisores.investigacao",
+      "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas#mdc_e_mmc_em_problemas.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Problemas com Múltiplos e Divisores",
+        "enunciado": "Elabore um problema de grupos com 42 peças e outro de coincidência de períodos de 4 e 10 minutos. Resolva com listas ou desenhos.",
+        "gabarito": "Divisores de 42: 1,2,3,6,7,14,21,42. O primeiro encontro de períodos 4 e 10 é 20 minutos. O contexto deve justificar o uso de divisor ou múltiplo.",
+        "bncc": [
+          "EF07MA01"
+        ],
+        "atividadeOrigem": "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores#problemas_com_multiplos_e_divisores.investigacao"
+      },
+      {
+        "titulo": "MDC e MMC em Problemas",
+        "enunciado": "Compare duas perguntas: cortar fitas de 20 e 30 cm em pedaços iguais do maior comprimento possível; e encontrar a primeira coincidência de períodos de 20 e 30 minutos.",
+        "gabarito": "O comprimento é 10 cm, maior divisor comum. A coincidência é 60 minutos, menor múltiplo comum positivo. Justificar por listas e interpretar as unidades.",
+        "bncc": [
+          "EF07MA01"
+        ],
+        "atividadeOrigem": "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas#mdc_e_mmc_em_problemas.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        53,
+        54,
+        66
+      ],
+      "paginasImpressas": "56, 57, 69",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        63,
+        64,
+        66,
+        67
+      ],
+      "paginasImpressas": "66, 67, 69, 70",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

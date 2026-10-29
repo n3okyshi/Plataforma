@@ -1,0 +1,417 @@
+[
+  {
+    "id": "mat.ef07.grandezas_proporcionais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Grandezas Proporcionais",
+    "aulaId": "mat.ef07.grandezas_proporcionais.razao_e_proporcao",
+    "bncc": [
+      "EF07MA09",
+      "EF07MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com preço unitário constante de R$ 4, cinco cadernos custam:",
+    "opcoes": [
+      "R$ 16",
+      "R$ 20",
+      "R$ 25",
+      "R$ 9"
+    ],
+    "correta": 1,
+    "explicacao": "C=4n; para n=5, C=20.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          171,
+          174
+        ],
+        "paginasImpressas": "173, 174, 177",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.grandezas_proporcionais.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Grandezas Proporcionais",
+    "aulaId": "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais",
+    "bncc": [
+      "EF07MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para um percurso de 120 km, a 60 km/h constantes o tempo é:",
+    "opcoes": [
+      "3 h",
+      "7.200 h",
+      "0,5 h",
+      "2 h"
+    ],
+    "correta": 3,
+    "explicacao": "t=120/60=2 horas, nas hipóteses do modelo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          174,
+          175,
+          176
+        ],
+        "paginasImpressas": "177, 178, 179",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.grandezas_proporcionais.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Grandezas Proporcionais",
+    "aulaId": "mat.ef07.grandezas_proporcionais.regra_de_tres_simples",
+    "bncc": [
+      "EF07MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Três metros custam R$ 27, com preço unitário constante. Cinco metros custam:",
+    "opcoes": [
+      "R$ 81",
+      "R$ 29",
+      "R$ 35",
+      "R$ 45"
+    ],
+    "correta": 3,
+    "explicacao": "O preço por metro é 27÷ 3=9; cinco metros custam 45.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          190,
+          191,
+          192
+        ],
+        "paginasImpressas": "193, 194, 195",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.grandezas_proporcionais.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Grandezas Proporcionais",
+    "aulaId": "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples",
+    "bncc": [
+      "EF07MA02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um produto de R$ 200 recebe desconto de 15%. O preço final é:",
+    "opcoes": [
+      "R$ 30",
+      "R$ 170",
+      "R$ 185",
+      "R$ 230"
+    ],
+    "correta": 1,
+    "explicacao": "15% de 200 são 30; 200−30=170.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          196,
+          197,
+          199
+        ],
+        "paginasImpressas": "199, 200, 202",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.grandezas_proporcionais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Grandezas Proporcionais",
+    "aulaId": "mat.ef07.grandezas_proporcionais.razao_e_proporcao",
+    "bncc": [
+      "EF07MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se cada unidade custa 7 e não há taxa fixa,5 unidades custam:",
+    "opcoes": [
+      "25",
+      "35",
+      "42",
+      "12"
+    ],
+    "correta": 1,
+    "explicacao": "C=7n; para n=5, C=35.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          171,
+          174
+        ],
+        "paginasImpressas": "173, 174, 177",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.grandezas_proporcionais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Grandezas Proporcionais",
+    "aulaId": "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais",
+    "bncc": [
+      "EF07MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Num percurso fixo, dobrar a velocidade constante faz o tempo:",
+    "opcoes": [
+      "Ficar igual.",
+      "Aumentar quatro vezes.",
+      "Dobrar.",
+      "Cair à metade."
+    ],
+    "correta": 3,
+    "explicacao": "Distância=velocidade×tempo fica fixa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          174,
+          175,
+          176
+        ],
+        "paginasImpressas": "177, 178, 179",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.grandezas_proporcionais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Grandezas Proporcionais",
+    "aulaId": "mat.ef07.grandezas_proporcionais.regra_de_tres_simples",
+    "bncc": [
+      "EF07MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Cinco pessoas concluem uma tarefa em 12 dias, no modelo de produtividade igual. Dez pessoas levam:",
+    "opcoes": [
+      "24 dias",
+      "3 dias",
+      "6 dias",
+      "12 dias"
+    ],
+    "correta": 2,
+    "explicacao": "O produto pessoas×dias é 60; com dez pessoas,6 dias.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          190,
+          191,
+          192
+        ],
+        "paginasImpressas": "193, 194, 195",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.grandezas_proporcionais.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Grandezas Proporcionais",
+    "aulaId": "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples",
+    "bncc": [
+      "EF07MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um preço de 150 aumentado em 8% torna-se:",
+    "opcoes": [
+      "158",
+      "160",
+      "162",
+      "170"
+    ],
+    "correta": 2,
+    "explicacao": "8% de 150 são 12; o preço final é 162.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          196,
+          197,
+          199
+        ],
+        "paginasImpressas": "199, 200, 202",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.grandezas_proporcionais.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Grandezas Proporcionais",
+    "aulaId": "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples",
+    "bncc": [
+      "EF07MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um desconto de 20% sobre 90 deixa o preço em:",
+    "opcoes": [
+      "70",
+      "72",
+      "108",
+      "18"
+    ],
+    "correta": 1,
+    "explicacao": "O desconto é 18;90−18=72.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          196,
+          197,
+          199
+        ],
+        "paginasImpressas": "199, 200, 202",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -2,36 +2,122 @@
   "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 7,
+  "ordem": 8,
   "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
   "titulo": "Fatoração de Polinômios",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA09"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Fatorar por propriedades distributivas e relacionar fatores às soluções de equações."
+    ],
+    "resumo": "Fatorar por propriedades distributivas e relacionar fatores às soluções de equações.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Fatoração</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            O processo inverso dos produtos notáveis. Transformamos somas em multiplicações.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧩 Técnicas:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li>Fator comum em evidência.</li>\n                <li>Agrupamento.</li>\n                <li>Diferença de quadrados ($a^2 - b^2$).</li>\n                <li>Trinômio Quadrado Perfeito.</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Fatoração de Polinômios</h2><h3>O que vamos aprender</h3><p>Fatorar por propriedades distributivas e relacionar fatores às soluções de equações.</p><h3>Ideias e relações</h3><p>Fatorar é reescrever uma soma como produto sem alterar a expressão. Podemos colocar um fator comum em evidência, reconhecer diferenças de quadrados ou usar a relação entre soma e produto num trinômio. Verifique a fatoração desenvolvendo o produto. A forma fatorada ajuda a resolver uma equação igualada a zero porque um produto é zero se algum fator é zero. Dividir por uma expressão que pode ser nula pode eliminar soluções e precisa ser evitado ou tratado por casos.</p><h3>Exemplo resolvido</h3><p>x²−25=(x−5)(x+5). Também 2x²+6x=2x(x+3); na equação 2x(x+3)=0, as soluções são 0 e−3.</p><h3>Atenção ao raciocínio</h3><p>Cancelar x dividindo sem considerar x=0 perderia uma solução do segundo exemplo.</p><h3>Investigue e produza</h3><p>Fatore x²+5x+6 e resolva x²+5x+6=0. Confira as raízes na expressão original.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "fatoracao",
+      "polinomios"
+    ],
+    "errosComuns": [
+      "Cancelar x dividindo sem considerar x=0 perderia uma solução do segundo exemplo."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "fatoracao_de_polinomios.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual fatoração corresponde a x²−25?",
+      "alternativas": [
+        "(x−5)²",
+        "(x−5)(x+5)",
+        "(x−25)(x+1)",
+        "x(x−25)"
+      ],
+      "correta": 1,
+      "explicacao": "É uma diferença de quadrados: x²−5²."
+    },
+    {
+      "id": "fatoracao_de_polinomios.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Fatore x²+5x+6 e resolva x²+5x+6=0. Confira as raízes na expressão original.",
+      "gabarito": "(x+2)(x+3); raízes−2 e−3. Desenvolver confirma o trinômio e substituir cada raiz produz zero.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "(x+2)(x+3); raízes−2 e−3. Desenvolver confirma o trinômio e substituir cada raiz produz zero.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fatoracao",
+    "polinomios"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        230,
+        231,
+        232,
+        233
+      ],
+      "paginasImpressas": "233, 234, 235, 236",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis"
+  ],
+  "proximosPassos": [
+    "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

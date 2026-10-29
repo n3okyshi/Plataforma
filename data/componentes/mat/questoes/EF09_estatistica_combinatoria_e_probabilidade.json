@@ -1,0 +1,362 @@
+[
+  {
+    "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Estatística, Combinatória e Probabilidade",
+    "aulaId": "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem",
+    "bncc": [
+      "EF09MA20"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com os algarismos 1,2,3, sem repetição, quantos códigos de duas posições existem?",
+    "opcoes": [
+      "6",
+      "8",
+      "9",
+      "3"
+    ],
+    "correta": 0,
+    "explicacao": "São 3 escolhas na primeira posição e 2 na segunda:6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Estatística, Combinatória e Probabilidade",
+    "aulaId": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica",
+    "bncc": [
+      "EF09MA21"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Barras de 95 e 100 num eixo iniciado em 90 podem:",
+    "opcoes": [
+      "Provar intenção de fraude.",
+      "Eliminar a necessidade de fonte.",
+      "Mudar os valores reais para 5 e 10.",
+      "Ampliar a diferença visual sem alterar os dados."
+    ],
+    "correta": 3,
+    "explicacao": "O recorte altera a percepção dos comprimentos; os dados continuam 95 e 100.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Estatística, Combinatória e Probabilidade",
+    "aulaId": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade",
+    "bncc": [
+      "EF09MA23"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O relatório de uma pesquisa amostral deve apresentar:",
+    "opcoes": [
+      "Dados inventados para parecerem completos.",
+      "Somente a média.",
+      "Método, resultados, medidas adequadas e limites.",
+      "Uma conclusão escolhida antes da coleta."
+    ],
+    "correta": 2,
+    "explicacao": "A comunicação precisa permitir avaliar como os resultados foram obtidos e até onde podem ser usados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Estatística, Combinatória e Probabilidade",
+    "aulaId": "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade",
+    "bncc": [
+      "EF09MA20"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No exemplo 2 vermelhas e 3 azuis, duas vermelhas sem reposição têm chance:",
+    "opcoes": [
+      "4/25",
+      "1/10",
+      "2/5",
+      "1/5"
+    ],
+    "correta": 1,
+    "explicacao": "Primeiro 2/5; após uma vermelha, resta 1 entre 4: produto 1/10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Estatística, Combinatória e Probabilidade",
+    "aulaId": "mat.ef09.estatistica_combinatoria_e_probabilidade.escolha_e_construcao_de_graficos",
+    "bncc": [
+      "EF09MA22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A média de 2,3,3,8 é:",
+    "opcoes": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "correta": 0,
+    "explicacao": "A soma 16 dividida por 4 dá 4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Estatística, Combinatória e Probabilidade",
+    "aulaId": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica",
+    "bncc": [
+      "EF09MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um gráfico de barras com eixo iniciado em 95 exibe valores 96 e 100. Qual cuidado é necessário?",
+    "opcoes": [
+      "Concluir que 100 é vinte vezes 96",
+      "Ignorar os números escritos",
+      "Supor que a população dobrou",
+      "Conferir a escala: a diferença real é 4, não a proporção aparente das barras"
+    ],
+    "correta": 3,
+    "explicacao": "O corte da escala pode exagerar visualmente a diferença; interpretar os valores e a fonte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Estatística, Combinatória e Probabilidade",
+    "aulaId": "mat.ef09.estatistica_combinatoria_e_probabilidade.escolha_e_construcao_de_graficos",
+    "bncc": [
+      "EF09MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para acompanhar a mesma medida mensal ao longo de um ano, é apropriado usar:",
+    "opcoes": [
+      "Barras sem rótulos nem escala",
+      "Somente uma ilustração decorativa",
+      "Gráfico de linhas com meses ordenados, escala e fonte",
+      "Setores com percentuais que somam 180%"
+    ],
+    "correta": 2,
+    "explicacao": "Linhas destacam a evolução temporal; identificação e escala são necessárias.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Estatística, Combinatória e Probabilidade",
+    "aulaId": "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem",
+    "bncc": [
+      "EF09MA20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Há 3 cartões vermelhos e 2 azuis. Ao retirar dois sem reposição, a chance de ambos vermelhos é:",
+    "opcoes": [
+      "1/2",
+      "3/10",
+      "9/25",
+      "3/5"
+    ],
+    "correta": 1,
+    "explicacao": "3/5 na primeira retirada e 2/4 na segunda: produto 6/20=3/10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Estatística, Combinatória e Probabilidade",
+    "aulaId": "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade",
+    "bncc": [
+      "EF09MA20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em dois lançamentos independentes de uma moeda equilibrada, a chance de duas caras é:",
+    "opcoes": [
+      "1/4",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correta": 0,
+    "explicacao": "P(cara e cara)=1/2× 1/2=1/4; a primeira saída não muda a chance da segunda.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Estatística, Combinatória e Probabilidade",
+    "aulaId": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade",
+    "bncc": [
+      "EF09MA23"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um relatório de pesquisa amostral precisa registrar:",
+    "opcoes": [
+      "Só o resultado preferido do autor",
+      "Respostas esperadas como se tivessem sido coletadas",
+      "Nomes dos participantes obrigatoriamente",
+      "População, seleção da amostra, dados reais, análise e limites"
+    ],
+    "correta": 3,
+    "explicacao": "A transparência do método e dos dados permite avaliar a interpretação e seus limites.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]
