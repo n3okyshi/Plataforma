@@ -2,36 +2,115 @@
   "id": "mat.ef03.geometria.congruencia_e_malhas",
   "componente": "mat",
   "nivel": "EF03",
-  "ordem": 3,
+  "ordem": 11,
   "unidade": "Geometria",
   "titulo": "Congruência e Malhas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF03MA16"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Na malha, desenhe um retângulo 2×3 e duas cópias em posições diferentes",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Figuras congruentes podem ser sobrepostas coincidindo em tamanho e forma, mesmo após girar ou virar o papel",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Figuras Iguais (Congruentes)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Usando o papel quadriculado para desenhar e identificar figuras que são gêmeas idênticas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔍 A Regra:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Para ser congruente, tem que ter a mesma forma e o mesmo tamanho. Se mudar o tamanho, não vale!</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Congruência e Malhas</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Figuras congruentes podem ser sobrepostas coincidindo em tamanho e forma, mesmo após girar ou virar o papel. Uma malha ajuda a comparar deslocamentos e contornos, mas a mesma quantidade de quadradinhos de área não garante congruência.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.\"><title>Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.</title><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 35V215\"/><path d=\"M105 35V215\"/><path d=\"M150 35V215\"/><path d=\"M195 35V215\"/><path d=\"M240 35V215\"/><path d=\"M285 35V215\"/><path d=\"M330 35V215\"/><path d=\"M60 35H330\"/><path d=\"M60 80H330\"/><path d=\"M60 125H330\"/><path d=\"M60 170H330\"/><path d=\"M60 215H330\"/></g></svg><h3>Exemplo resolvido</h3><p>Retângulos 2×4 e 4×2 são congruentes por rotação. Um retângulo 1×8 tem a mesma área oito, mas outra forma.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Na malha, desenhe um retângulo 2×3 e duas cópias em posições diferentes. Recorte ou use papel transparente para sobrepor e compare com um retângulo 1×6.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 289</li><li>MC_MATEM_EF.pdf — páginas impressas 355</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "congruencia",
+      "malhas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "congruencia_e_malhas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Retângulos 2×5 e 5×2 são:",
+      "alternativas": [
+        "Triângulos",
+        "Congruentes",
+        "De tamanhos diferentes"
+      ],
+      "correta": 1,
+      "explicacao": "Uma rotação permite sobrepor os contornos."
+    },
+    {
+      "id": "congruencia_e_malhas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Na malha, desenhe um retângulo 2×3 e duas cópias em posições diferentes. Recorte ou use papel transparente para sobrepor e compare com um retângulo 1×6.",
+      "gabarito": "As cópias coincidem por movimento; o 1×6 tem igual área, mas lados diferentes e não é congruente.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "As cópias coincidem por movimento; o 1×6 tem igual área, mas lados diferentes e não é congruente.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "congruencia",
+    "malhas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        352
+      ],
+      "paginasImpressas": "355",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.geometria.poliedros_e_corpos_redondos"
+  ],
+  "proximosPassos": [
+    "mat.ef03.geometria.planificacoes_de_solidos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

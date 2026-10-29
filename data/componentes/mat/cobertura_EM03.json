@@ -1,0 +1,557 @@
+{
+  "nivel": "EM03",
+  "estado": "piloto_integral",
+  "aulas": 30,
+  "unidades": 10,
+  "habilidades": [
+    {
+      "codigo": "EM13MAT102",
+      "aulas": [
+        "mat.em03.estatistica.introducao_a_estatistica"
+      ],
+      "atividades": [
+        "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.aplicacao",
+        "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.estatistica.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em03.estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT103",
+      "aulas": [
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano"
+      ],
+      "atividades": [
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.aplicacao",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.grandezas_e_medidas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em03.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT104",
+      "aulas": [
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal"
+      ],
+      "atividades": [
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.aplicacao",
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.educacao_financeira.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em03.educacao_financeira.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.educacao_financeira.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT105",
+      "aulas": [
+        "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas"
+      ],
+      "atividades": [
+        "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas#transformacoes_geometricas.aplicacao",
+        "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas#transformacoes_geometricas.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.geometria_no_plano_cartesiano.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em03.geometria_no_plano_cartesiano.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.geometria_no_plano_cartesiano.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT106",
+      "aulas": [
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude"
+      ],
+      "atividades": [
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.aplicacao",
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.producao",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.aplicacao",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.modelagem_e_risco.treino.01",
+        "mat.em03.modelagem_e_risco.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em03.modelagem_e_risco.prova.01",
+        "mat.em03.modelagem_e_risco.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.modelagem_e_risco.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT201",
+      "aulas": [
+        "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade"
+      ],
+      "atividades": [
+        "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade#medicoes_de_area_volume_e_capacidade.aplicacao",
+        "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade#medicoes_de_area_volume_e_capacidade.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.grandezas_e_medidas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em03.grandezas_e_medidas.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT202",
+      "aulas": [
+        "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados"
+      ],
+      "atividades": [
+        "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados#pesquisa_amostral_e_coleta_de_dados.aplicacao",
+        "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados#pesquisa_amostral_e_coleta_de_dados.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.estatistica.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em03.estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT203",
+      "aulas": [
+        "mat.em03.computacao.projeto_de_programacao",
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal"
+      ],
+      "atividades": [
+        "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.aplicacao",
+        "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao",
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.aplicacao",
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.computacao.treino.04",
+        "mat.em03.educacao_financeira.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em03.computacao.prova.04",
+        "mat.em03.educacao_financeira.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.computacao.pratica",
+        "mat.em03.educacao_financeira.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT301",
+      "aulas": [
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia"
+      ],
+      "atividades": [
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.aplicacao",
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.geometria_no_plano_cartesiano.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em03.geometria_no_plano_cartesiano.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.geometria_no_plano_cartesiano.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT303",
+      "aulas": [
+        "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira"
+      ],
+      "atividades": [
+        "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira#fundamentos_da_matematica_financeira.aplicacao",
+        "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira#fundamentos_da_matematica_financeira.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.educacao_financeira.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em03.educacao_financeira.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.educacao_financeira.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT310",
+      "aulas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem"
+      ],
+      "atividades": [
+        "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem#analise_combinatoria_diferentes_estrategias_de_contagem.aplicacao",
+        "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem#analise_combinatoria_diferentes_estrategias_de_contagem.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.analise_combinatoria_e_probabilidade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT311",
+      "aulas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes"
+      ],
+      "atividades": [
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.aplicacao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.aplicacao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.analise_combinatoria_e_probabilidade.treino.02",
+        "mat.em03.modelagem_e_risco.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+        "mat.em03.modelagem_e_risco.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica",
+        "mat.em03.modelagem_e_risco.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT312",
+      "aulas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos",
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude"
+      ],
+      "atividades": [
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.aplicacao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos#probabilidade_de_eventos_sucessivos.aplicacao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos#probabilidade_de_eventos_sucessivos.producao",
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.aplicacao",
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.producao",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.aplicacao",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.analise_combinatoria_e_probabilidade.treino.02",
+        "mat.em03.analise_combinatoria_e_probabilidade.treino.03",
+        "mat.em03.modelagem_e_risco.treino.01",
+        "mat.em03.modelagem_e_risco.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.03",
+        "mat.em03.modelagem_e_risco.prova.01",
+        "mat.em03.modelagem_e_risco.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica",
+        "mat.em03.modelagem_e_risco.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT313",
+      "aulas": [
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano"
+      ],
+      "atividades": [
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.aplicacao",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.grandezas_e_medidas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em03.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT314",
+      "aulas": [
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano"
+      ],
+      "atividades": [
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.aplicacao",
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.grandezas_e_medidas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em03.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT315",
+      "aulas": [
+        "mat.em03.computacao.um_pouco_de_historia",
+        "mat.em03.computacao.algoritmos_e_fluxogramas"
+      ],
+      "atividades": [
+        "mat.em03.computacao.um_pouco_de_historia#um_pouco_de_historia.aplicacao",
+        "mat.em03.computacao.um_pouco_de_historia#um_pouco_de_historia.producao",
+        "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.aplicacao",
+        "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.computacao.treino.01",
+        "mat.em03.computacao.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em03.computacao.prova.01",
+        "mat.em03.computacao.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.computacao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT316",
+      "aulas": [
+        "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao"
+      ],
+      "atividades": [
+        "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao#medidas_de_tendencia_central_e_medidas_de_dispersao.aplicacao",
+        "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao#medidas_de_tendencia_central_e_medidas_de_dispersao.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.estatistica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em03.estatistica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT401",
+      "aulas": [
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia"
+      ],
+      "atividades": [
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.aplicacao",
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.geometria_no_plano_cartesiano.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em03.geometria_no_plano_cartesiano.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.geometria_no_plano_cartesiano.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT405",
+      "aulas": [
+        "mat.em03.computacao.conceitos_iniciais",
+        "mat.em03.computacao.algoritmos_e_fluxogramas",
+        "mat.em03.computacao.projeto_de_programacao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes"
+      ],
+      "atividades": [
+        "mat.em03.computacao.conceitos_iniciais#conceitos_iniciais.aplicacao",
+        "mat.em03.computacao.conceitos_iniciais#conceitos_iniciais.producao",
+        "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.aplicacao",
+        "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao",
+        "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.aplicacao",
+        "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.aplicacao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.computacao.treino.02",
+        "mat.em03.computacao.treino.03",
+        "mat.em03.computacao.treino.04",
+        "mat.em03.modelagem_e_risco.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em03.computacao.prova.02",
+        "mat.em03.computacao.prova.03",
+        "mat.em03.computacao.prova.04",
+        "mat.em03.modelagem_e_risco.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.computacao.pratica",
+        "mat.em03.modelagem_e_risco.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT406",
+      "aulas": [
+        "mat.em03.estatistica.introducao_a_estatistica"
+      ],
+      "atividades": [
+        "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.aplicacao",
+        "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.estatistica.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em03.estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT407",
+      "aulas": [
+        "mat.em03.estatistica.histogramas_e_diagramas_de_caixa"
+      ],
+      "atividades": [
+        "mat.em03.estatistica.histogramas_e_diagramas_de_caixa#histogramas_e_diagramas_de_caixa.aplicacao",
+        "mat.em03.estatistica.histogramas_e_diagramas_de_caixa#histogramas_e_diagramas_de_caixa.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.estatistica.treino.04"
+      ],
+      "questoesProva": [
+        "mat.em03.estatistica.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT510",
+      "aulas": [
+        "mat.em03.estatistica.correlacao_e_reta_de_ajuste"
+      ],
+      "atividades": [
+        "mat.em03.estatistica.correlacao_e_reta_de_ajuste#correlacao_e_reta_de_ajuste.aplicacao",
+        "mat.em03.estatistica.correlacao_e_reta_de_ajuste#correlacao_e_reta_de_ajuste.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.estatistica.treino.05"
+      ],
+      "questoesProva": [
+        "mat.em03.estatistica.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT511",
+      "aulas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes"
+      ],
+      "atividades": [
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.aplicacao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.aplicacao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.em03.analise_combinatoria_e_probabilidade.treino.02",
+        "mat.em03.modelagem_e_risco.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+        "mat.em03.modelagem_e_risco.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.analise_combinatoria_e_probabilidade.pratica",
+        "mat.em03.modelagem_e_risco.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    }
+  ],
+  "observacao": "No Ensino Médio, distribuição por série é proposta do projeto para habilidades da etapa EM13.",
+  "pendencias": [
+    "Aplicação real das produções e homologação docente.",
+    "Revisão visual e acessibilidade.",
+    "Firebase e cache em ambiente real."
+  ]
+}

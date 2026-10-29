@@ -1,0 +1,131 @@
+{
+  "id": "mat.em02.computacao_e_modelagem.prova",
+  "titulo": "Avaliação: Computação e Modelagem",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM02",
+  "unidade": "Computação e Modelagem",
+  "bncc": [
+    "EM13MAT201",
+    "EM13MAT315",
+    "EM13MAT405"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em02.computacao_e_modelagem.prova.01",
+    "mat.em02.computacao_e_modelagem.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT201",
+      "questoes": [
+        "mat.em02.computacao_e_modelagem.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.computacao_e_modelagem.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT315",
+      "questoes": [
+        "mat.em02.computacao_e_modelagem.prova.01",
+        "mat.em02.computacao_e_modelagem.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.computacao_e_modelagem.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao",
+        "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT405",
+      "questoes": [
+        "mat.em02.computacao_e_modelagem.prova.01",
+        "mat.em02.computacao_e_modelagem.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.computacao_e_modelagem.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao",
+        "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em02.computacao_e_modelagem.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Computação e Modelagem",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT201",
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "atividadesOrigem": [
+      "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao",
+      "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Modelagem Matemática de Problemas",
+        "enunciado": "Proponha ação adequada à comunidade envolvendo área, volume, capacidade ou massa. Faça medições reais, modelo, fluxograma e implementação simples; simule cenários, compare e apresente limites e proposta fundamentada.",
+        "gabarito": "Avaliar demanda efetiva, execução das medições, unidades, código ou algoritmo testado, decisão e limitações. Não tratar proposta como obra executada.",
+        "bncc": [
+          "EM13MAT201",
+          "EM13MAT315",
+          "EM13MAT405"
+        ],
+        "atividadeOrigem": "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao"
+      },
+      {
+        "titulo": "Algoritmos de Busca e Ordenação",
+        "enunciado": "Desenhe fluxogramas, implemente busca sequencial e binária e teste alvo presente, ausente e lista vazia. Implemente inserção e compare saídas com ordenação conferida manualmente.",
+        "gabarito": "Avaliar execução, limites dos índices e hipótese de ordenação. Número de passos depende dos dados e do algoritmo; não afirmar tempo real só por contar comparações.",
+        "bncc": [
+          "EM13MAT315",
+          "EM13MAT405"
+        ],
+        "atividadeOrigem": "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546,
+        547
+      ],
+      "paginasImpressas": "544, 545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

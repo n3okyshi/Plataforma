@@ -1,0 +1,170 @@
+[
+  {
+    "id": "mat.em03.geometria_no_plano_cartesiano.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria no Plano Cartesiano",
+    "aulaId": "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia",
+    "bncc": [
+      "EM13MAT301",
+      "EM13MAT401"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Distância entre (0,0) e (6,8) é:",
+    "opcoes": [
+      "14",
+      "48",
+      "10"
+    ],
+    "correta": 2,
+    "explicacao": "√(36+64)=10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545,
+          546
+        ],
+        "paginasImpressas": "543, 544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          359,
+          363,
+          365,
+          374,
+          391
+        ],
+        "paginasImpressas": "362, 366, 368, 377, 394",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.geometria_no_plano_cartesiano.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria no Plano Cartesiano",
+    "aulaId": "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas",
+    "bncc": [
+      "EM13MAT105"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Rotação de 90° anti-horária em torno da origem leva (2,3) a:",
+    "opcoes": [
+      "(−2,−3)",
+      "(−3,2)",
+      "(3,−2)"
+    ],
+    "correta": 1,
+    "explicacao": "Regra (x,y)→(−y,x).",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.geometria_no_plano_cartesiano.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria no Plano Cartesiano",
+    "aulaId": "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia",
+    "bncc": [
+      "EM13MAT301",
+      "EM13MAT401"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Circunferência centro (2,−1), raio três tem equação:",
+    "opcoes": [
+      "(x+2)²+(y−1)²=3",
+      "x²+y²=3",
+      "(x−2)²+(y+1)²=9"
+    ],
+    "correta": 2,
+    "explicacao": "Subtrair coordenadas do centro e usar raio ao quadrado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545,
+          546
+        ],
+        "paginasImpressas": "543, 544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          359,
+          363,
+          365,
+          374,
+          391
+        ],
+        "paginasImpressas": "362, 366, 368, 377, 394",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.geometria_no_plano_cartesiano.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria no Plano Cartesiano",
+    "aulaId": "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas",
+    "bncc": [
+      "EM13MAT105"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Fator de homotetia 1/2 multiplica área por:",
+    "opcoes": [
+      "2",
+      "1/4",
+      "1/2"
+    ],
+    "correta": 1,
+    "explicacao": "A área varia pelo quadrado do fator.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

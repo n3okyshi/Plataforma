@@ -1,0 +1,106 @@
+{
+  "id": "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade",
+  "componente": "mat",
+  "nivel": "EF05",
+  "ordem": 14,
+  "unidade": "Propriedades da Igualdade",
+  "titulo": "Propriedades da Igualdade",
+  "bncc": [
+    "EF05MA10"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Crie três igualdades e aplique, a ambos os membros, adição, subtração, multiplicação e divisão não nula",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Dois membros de uma igualdade representam valores iguais",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Propriedades da Igualdade</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Dois membros de uma igualdade representam valores iguais. Adicionar, subtrair, multiplicar ou dividir ambos pelo mesmo número conserva a equivalência, desde que o divisor não seja zero. Investigue com balanças ou exemplos antes de formalizar.</p><h3>Exemplo resolvido</h3><p>Se 18+12=30, multiplicar ambos por três dá 90=90. Dividir ambos por seis dá 5=5. A operação deve atingir todo cada membro.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Crie três igualdades e aplique, a ambos os membros, adição, subtração, multiplicação e divisão não nula. Explique por peças ou desenho e registre as condições.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 295</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "igualdade",
+      "propriedades"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "propriedades_da_igualdade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Se a=b, qual transformação sempre preserva a igualdade?",
+      "alternativas": [
+        "a÷0=b÷0",
+        "a+7=b+7",
+        "a+7=b"
+      ],
+      "correta": 1,
+      "explicacao": "O mesmo acréscimo atinge os dois valores."
+    },
+    {
+      "id": "propriedades_da_igualdade.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie três igualdades e aplique, a ambos os membros, adição, subtração, multiplicação e divisão não nula. Explique por peças ou desenho e registre as condições.",
+      "gabarito": "Verificar cada transformação e o alcance da operação em todos os termos. Resultados que saiam dos naturais podem ser evitados escolhendo exemplos apropriados.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Verificar cada transformação e o alcance da operação em todos os termos. Resultados que saiam dos naturais podem ser evitados escolhendo exemplos apropriados.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "igualdade",
+    "propriedades"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

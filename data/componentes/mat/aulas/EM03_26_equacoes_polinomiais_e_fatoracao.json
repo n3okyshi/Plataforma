@@ -1,0 +1,101 @@
+{
+  "id": "mat.em03.complexos_e_polinomios_complementar.equacoes_polinomiais_e_fatoracao",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 26,
+  "unidade": "Complexos e Polinômios — Complementar",
+  "titulo": "Equacoes polinomiais e fatoracao",
+  "bncc": [],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Resolva x³−6x²+11x−6=0 testando raízes inteiras e dividindo por fatores",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Resolva equações polinomiais por fatoração quando possível, usando raízes conhecidas e divisão por x−a para reduzir grau",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Equacoes polinomiais e fatoracao</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Resolva equações polinomiais por fatoração quando possível, usando raízes conhecidas e divisão por x−a para reduzir grau. O teorema fundamental garante existência complexa, mas não fornece um método elementar para toda expressão. Confira cada raiz no polinômio original e respeite multiplicidades.</p><h3>Exemplo resolvido</h3><p>x³−4x=x(x−2)(x+2) tem raízes zero, dois e menos dois. A fatoração usa fator comum e diferença de quadrados.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Resolva x³−6x²+11x−6=0 testando raízes inteiras e dividindo por fatores. Compare com x⁴−1 e identifique todas as raízes complexas.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 348, 349, 355</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "equacoes_polinomiais_e_fatoracao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "x³−9x=0 tem raízes reais:",
+      "alternativas": [
+        "−9,0,9",
+        "−3,0,3",
+        "0,9"
+      ],
+      "correta": 1,
+      "explicacao": "x(x²−9)=x(x−3)(x+3)."
+    },
+    {
+      "id": "equacoes_polinomiais_e_fatoracao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva x³−6x²+11x−6=0 testando raízes inteiras e dividindo por fatores. Compare com x⁴−1 e identifique todas as raízes complexas.",
+      "gabarito": "Primeira: 1,2,3. Segunda: 1,−1,i,−i. Conferir grau total e produto dos fatores.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Primeira: 1,2,3. Segunda: 1,−1,i,−i. Conferir grau total e produto dos fatores.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        345,
+        346,
+        352
+      ],
+      "paginasImpressas": "348, 349, 355",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [
+    "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
+}

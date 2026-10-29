@@ -5,33 +5,115 @@
   "ordem": 6,
   "unidade": "Função Quadrática",
   "titulo": "Análises Algébrica e Gráfica da Função Quadrática",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT402",
+    "EM13MAT503"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Dedique tabela, gráfico e completamento de quadrado ao modelo A(x)=x(10−x)",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Raízes resolvem ax²+bx+c=0; o discriminante b²−4ac informa a quantidade de raízes reais",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Vértice e Raízes</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo dos pontos críticos: Raízes (onde corta X) e Vértice (ponto de máximo ou mínimo).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⛰️ O Vértice:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">As coordenadas do vértice são fundamentais para problemas de otimização (ex: lucro máximo). $X_v = -b/2a$.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Análises Algébrica e Gráfica da Função Quadrática</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Raízes resolvem ax²+bx+c=0; o discriminante b²−4ac informa a quantidade de raízes reais. A fórmula (−b±√Δ)/(2a) exige a≠0. O vértice tem x=−b/(2a); sua imagem é máximo se a&lt;0 e mínimo se a&gt;0. Estudo do sinal depende de raízes, concavidade e domínio.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Parábola y=−x²+6x: raízes zero e seis; máximo nove em x=3.\"><title>Parábola y=−x²+6x: raízes zero e seis; máximo nove em x=3.</title><defs><clipPath id=\"limites\"><rect x=\"58\" y=\"38\" width=\"334\" height=\"169\"/></clipPath></defs><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 205.0H390\"/><path d=\"M60.0 40V205\"/></g><text x=\"60.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">0</text><text x=\"14\" y=\"209.0\" fill=\"currentColor\" font-size=\"12\">0</text><text x=\"142.5\" y=\"229\" fill=\"currentColor\" font-size=\"12\">1.5</text><text x=\"14\" y=\"167.75\" fill=\"currentColor\" font-size=\"12\">2.5</text><text x=\"225.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">3</text><text x=\"14\" y=\"126.5\" fill=\"currentColor\" font-size=\"12\">5</text><text x=\"307.5\" y=\"229\" fill=\"currentColor\" font-size=\"12\">4.5</text><text x=\"14\" y=\"85.25\" fill=\"currentColor\" font-size=\"12\">7.5</text><text x=\"390.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">6</text><text x=\"14\" y=\"44.0\" fill=\"currentColor\" font-size=\"12\">10</text><polyline points=\"60.00,205.00 61.65,202.04 63.30,199.12 64.95,196.22 66.60,193.36 68.25,190.52 69.90,187.71 71.55,184.94 73.20,182.19 74.85,179.47 76.50,176.78 78.15,174.13 79.80,171.50 81.45,168.90 83.10,166.33 84.75,163.79 86.40,161.28 88.05,158.80 89.70,156.35 91.35,153.93 93.00,151.54 94.65,149.18 96.30,146.85 97.95,144.55 99.60,142.27 101.25,140.03 102.90,137.82 104.55,135.64 106.20,133.48 107.85,131.36 109.50,129.26 111.15,127.20 112.80,125.17 114.45,123.16 116.10,121.19 117.75,119.24 119.40,117.33 121.05,115.44 122.70,113.58 124.35,111.76 126.00,109.96 127.65,108.19 129.30,106.46 130.95,104.75 132.60,103.07 134.25,101.42 135.90,99.80 137.55,98.21 139.20,96.65 140.85,95.12 142.50,93.62 144.15,92.15 145.80,90.71 147.45,89.30 149.10,87.92 150.75,86.57 152.40,85.25 154.05,83.96 155.70,82.70 157.35,81.46 159.00,80.26 160.65,79.09 162.30,77.94 163.95,76.83 165.60,75.75 167.25,74.69 168.90,73.67 170.55,72.67 172.20,71.71 173.85,70.77 175.50,69.86 177.15,68.99 178.80,68.14 180.45,67.33 182.10,66.54 183.75,65.78 185.40,65.05 187.05,64.36 188.70,63.69 190.35,63.05 192.00,62.44 193.65,61.86 195.30,61.31 196.95,60.79 198.60,60.30 200.25,59.84 201.90,59.41 203.55,59.01 205.20,58.64 206.85,58.30 208.50,57.98 210.15,57.70 211.80,57.45 213.45,57.23 215.10,57.03 216.75,56.87 218.40,56.74 220.05,56.63 221.70,56.56 223.35,56.51 225.00,56.50 226.65,56.51 228.30,56.56 229.95,56.63 231.60,56.74 233.25,56.87 234.90,57.03 236.55,57.23 238.20,57.45 239.85,57.70 241.50,57.99 243.15,58.30 244.80,58.64 246.45,59.01 248.10,59.41 249.75,59.84 251.40,60.30 253.05,60.79 254.70,61.31 256.35,61.86 258.00,62.44 259.65,63.05 261.30,63.69 262.95,64.36 264.60,65.05 266.25,65.78 267.90,66.54 269.55,67.33 271.20,68.14 272.85,68.99 274.50,69.87 276.15,70.77 277.80,71.71 279.45,72.67 281.10,73.67 282.75,74.69 284.40,75.75 286.05,76.83 287.70,77.94 289.35,79.09 291.00,80.26 292.65,81.46 294.30,82.70 295.95,83.96 297.60,85.25 299.25,86.57 300.90,87.92 302.55,89.30 304.20,90.71 305.85,92.15 307.50,93.62 309.15,95.12 310.80,96.65 312.45,98.21 314.10,99.80 315.75,101.42 317.40,103.07 319.05,104.75 320.70,106.46 322.35,108.19 324.00,109.96 325.65,111.76 327.30,113.58 328.95,115.44 330.60,117.33 332.25,119.24 333.90,121.19 335.55,123.16 337.20,125.17 338.85,127.20 340.50,129.26 342.15,131.36 343.80,133.48 345.45,135.64 347.10,137.82 348.75,140.03 350.40,142.27 352.05,144.55 353.70,146.85 355.35,149.18 357.00,151.54 358.65,153.93 360.30,156.35 361.95,158.80 363.60,161.28 365.25,163.79 366.90,166.33 368.55,168.90 370.20,171.50 371.85,174.13 373.50,176.78 375.15,179.47 376.80,182.19 378.45,184.94 380.10,187.71 381.75,190.52 383.40,193.36 385.05,196.22 386.70,199.12 388.35,202.04 390.00,205.00\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\" clip-path=\"url(#limites)\"/><text x=\"397\" y=\"229\" fill=\"currentColor\">x</text><text x=\"15\" y=\"25\" fill=\"currentColor\">y</text></svg><h3>Exemplo resolvido</h3><p>f(x)=−x²+6x tem raízes zero e seis e máximo nove em x=3. Num retângulo de lados x e 6−x, o domínio físico é 0&lt;x&lt;6.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Dedique tabela, gráfico e completamento de quadrado ao modelo A(x)=x(10−x). Determine raízes, máximo e intervalos de positividade com apoio de planilha ou software.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543</li><li>MC_MATEM_EM.pdf — páginas impressas 30, 33, 37, 42, 44</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "funcao_quadratica",
+      "grafico"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "analises_algebrica_e_grafica_da_funcao_quadratica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para x²−5x+6, as raízes são:",
+      "alternativas": [
+        "2 e 3",
+        "−2 e −3",
+        "1 e 6"
+      ],
+      "correta": 0,
+      "explicacao": "(x−2)(x−3)=0."
+    },
+    {
+      "id": "analises_algebrica_e_grafica_da_funcao_quadratica.producao",
+      "tipo": "discursiva",
+      "enunciado": "Dedique tabela, gráfico e completamento de quadrado ao modelo A(x)=x(10−x). Determine raízes, máximo e intervalos de positividade com apoio de planilha ou software.",
+      "gabarito": "Raízes zero e dez; A=25−(x−5)², máximo vinte e cinco em cinco. Positiva entre raízes; extremos físicos devem ser interpretados.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Raízes zero e dez; A=25−(x−5)², máximo vinte e cinco em cinco. Positiva entre raízes; extremos físicos devem ser interpretados.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "funcao_quadratica",
+    "grafico"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        27,
+        30,
+        34,
+        39,
+        41
+      ],
+      "paginasImpressas": "30, 33, 37, 42, 44",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.funcao_quadratica.a_funcao_quadratica"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

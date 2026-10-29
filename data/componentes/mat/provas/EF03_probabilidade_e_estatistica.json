@@ -1,0 +1,157 @@
+{
+  "id": "mat.ef03.probabilidade_e_estatistica.prova",
+  "titulo": "Avaliação: Probabilidade e Estatística",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF03",
+  "unidade": "Probabilidade e Estatística",
+  "bncc": [
+    "EF03MA25",
+    "EF03MA26",
+    "EF03MA27",
+    "EF03MA28"
+  ],
+  "duracaoMin": 20,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 4 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef03.probabilidade_e_estatistica.prova.01",
+    "mat.ef03.probabilidade_e_estatistica.prova.02",
+    "mat.ef03.probabilidade_e_estatistica.prova.03",
+    "mat.ef03.probabilidade_e_estatistica.prova.04"
+  ],
+  "criterios": "Cada item objetivo vale 10/4 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF03MA25",
+      "questoes": [
+        "mat.ef03.probabilidade_e_estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis#eventos_e_resultados_possiveis.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA26",
+      "questoes": [
+        "mat.ef03.probabilidade_e_estatistica.prova.02",
+        "mat.ef03.probabilidade_e_estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.producao",
+        "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA27",
+      "questoes": [
+        "mat.ef03.probabilidade_e_estatistica.prova.02",
+        "mat.ef03.probabilidade_e_estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.producao",
+        "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA28",
+      "questoes": [
+        "mat.ef03.probabilidade_e_estatistica.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas#pesquisa_com_variaveis_categoricas.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef03.probabilidade_e_estatistica.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Probabilidade e Estatística",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF03MA25",
+      "EF03MA26",
+      "EF03MA27",
+      "EF03MA28"
+    ],
+    "atividadesOrigem": [
+      "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis#eventos_e_resultados_possiveis.producao",
+      "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.producao",
+      "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.producao",
+      "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas#pesquisa_com_variaveis_categoricas.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Eventos e Resultados Possíveis",
+        "enunciado": "Monte uma sacola de três cores com quantidades diferentes, liste as cores possíveis e compare chances. Faça retiradas com devolução e registre o que observou.",
+        "gabarito": "Conferir a composição real e a lista completa. Reposição conserva a composição, não obriga repetição do resultado.",
+        "bncc": [
+          "EF03MA25"
+        ],
+        "atividadeOrigem": "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis#eventos_e_resultados_possiveis.producao"
+      },
+      {
+        "titulo": "Tabelas de Dupla Entrada",
+        "enunciado": "Construa a tabela do exemplo, calcule totais por grupo e por categoria e escreva duas conclusões com maior e menor frequência, indicando que os dados são fictícios.",
+        "gabarito": "Cada grupo tem doze votos; bola treze, desenho onze. A interpretação deve conservar categorias e não tratar o exemplo como pesquisa real.",
+        "bncc": [
+          "EF03MA26",
+          "EF03MA27"
+        ],
+        "atividadeOrigem": "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.producao"
+      },
+      {
+        "titulo": "Gráficos de Barras e Colunas",
+        "enunciado": "Represente os dados fictícios em gráfico de colunas com eixo iniciado em zero, título, unidade e fonte. Resolva duas comparações e escreva uma síntese sem generalizar para outras pessoas.",
+        "gabarito": "Alturas 6,3,9 na mesma escala; total dezoito. Avaliar leitura numérica, identificação e texto coerente.",
+        "bncc": [
+          "EF03MA26",
+          "EF03MA27"
+        ],
+        "atividadeOrigem": "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.producao"
+      },
+      {
+        "titulo": "Pesquisa com Variáveis Categóricas",
+        "enunciado": "Planeje e execute pesquisa de cinco a cinquenta participantes com uma ou duas variáveis categóricas. Produza lista anônima, tabela, gráfico e uma conclusão com limites do grupo consultado.",
+        "gabarito": "Verificar coleta real, categorias, universo até cinquenta e correspondência entre lista, tabela e gráfico. O resultado não é previamente fixado.",
+        "bncc": [
+          "EF03MA28"
+        ],
+        "atividadeOrigem": "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas#pesquisa_com_variaveis_categoricas.producao"
+      }
+    ],
+    "duracaoMinSugerida": 120,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

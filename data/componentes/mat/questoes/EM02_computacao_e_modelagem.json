@@ -1,0 +1,150 @@
+[
+  {
+    "id": "mat.em02.computacao_e_modelagem.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Computação e Modelagem",
+    "aulaId": "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas",
+    "bncc": [
+      "EM13MAT201",
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Uma diferença entre previsão e observação deve motivar:",
+    "opcoes": [
+      "Ocultar o dado",
+      "Declarar o modelo exato",
+      "Revisão das hipóteses e medições"
+    ],
+    "correta": 2,
+    "explicacao": "A comparação é parte da modelagem.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546,
+          547
+        ],
+        "paginasImpressas": "544, 545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.computacao_e_modelagem.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Computação e Modelagem",
+    "aulaId": "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao",
+    "bncc": [
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Busca binária pressupõe:",
+    "opcoes": [
+      "Lista de tamanho par",
+      "Lista ordenada",
+      "Apenas números positivos"
+    ],
+    "correta": 1,
+    "explicacao": "A redução de intervalo depende da ordem.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.computacao_e_modelagem.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Computação e Modelagem",
+    "aulaId": "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas",
+    "bncc": [
+      "EM13MAT201",
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um algoritmo de cenários precisa:",
+    "opcoes": [
+      "Aceitar medidas negativas sem análise",
+      "Dispensar unidades",
+      "Validar entradas e registrar hipóteses"
+    ],
+    "correta": 2,
+    "explicacao": "Entradas incoerentes comprometem a conclusão.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546,
+          547
+        ],
+        "paginasImpressas": "544, 545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.computacao_e_modelagem.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Computação e Modelagem",
+    "aulaId": "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao",
+    "bncc": [
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Alvo ausente deve produzir:",
+    "opcoes": [
+      "Laço infinito",
+      "Saída explícita de não encontrado",
+      "Um índice inventado"
+    ],
+    "correta": 1,
+    "explicacao": "O término precisa tratar ausência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

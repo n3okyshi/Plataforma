@@ -1,0 +1,117 @@
+{
+  "id": "mat.ef03.adicao_e_subtracao.problemas_de_adicao_e_subtracao",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 6,
+  "unidade": "Adição e Subtração",
+  "titulo": "Problemas de Adição e Subtração",
+  "bncc": [
+    "EF03MA06"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Crie e resolva duas histórias para 320−185: uma de retirar e outra de completar ou comparar",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Problemas podem pedir juntar, acrescentar, retirar, separar, comparar ou completar",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Problemas de Adição e Subtração</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Problemas podem pedir juntar, acrescentar, retirar, separar, comparar ou completar. Represente o papel de cada quantidade antes de escolher a operação. Conferir se a resposta resolve a pergunta evita operar apenas por palavras isoladas.</p><h3>Exemplo resolvido</h3><p>Uma coleção tem 145 itens e precisa chegar a 230: faltam 85. Comparar 230 com 145 também produz diferença 85, embora a história seja outra.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Crie e resolva duas histórias para 320−185: uma de retirar e outra de completar ou comparar. Faça ainda uma história de juntar 185 e 135.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 287</li><li>MC_MATEM_EF.pdf — páginas impressas 32, 35</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "adicao",
+      "subtracao",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "problemas_de_adicao_e_subtracao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para completar 275 até 400, faltam:",
+      "alternativas": [
+        "125",
+        "135",
+        "675"
+      ],
+      "correta": 0,
+      "explicacao": "400−275=125."
+    },
+    {
+      "id": "problemas_de_adicao_e_subtracao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie e resolva duas histórias para 320−185: uma de retirar e outra de completar ou comparar. Faça ainda uma história de juntar 185 e 135.",
+      "gabarito": "Restam ou faltam 135; na reunião são 320. Avaliar dados suficientes, significados distintos, estratégias e unidade da resposta.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Restam ou faltam 135; na reunião são 320. Avaliar dados suficientes, significados distintos, estratégias e unidade da resposta.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "adicao",
+    "subtracao",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        32
+      ],
+      "paginasImpressas": "32, 35",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.adicao_e_subtracao.estrategias_de_calculo_mental_e_escrito"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

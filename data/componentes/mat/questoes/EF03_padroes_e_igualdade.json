@@ -1,0 +1,160 @@
+[
+  {
+    "id": "mat.ef03.padroes_e_igualdade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias",
+    "bncc": [
+      "EF03MA10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na regra somar seis, após 32 vem:",
+    "opcoes": [
+      "36",
+      "37",
+      "38"
+    ],
+    "correta": 2,
+    "explicacao": "32+6=38.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.padroes_e_igualdade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas",
+    "bncc": [
+      "EF03MA11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual igualdade é verdadeira?",
+    "opcoes": [
+      "9+6=20−6",
+      "9+6=20−5",
+      "9+6=20+5"
+    ],
+    "correta": 1,
+    "explicacao": "Ambos os lados da primeira valem quinze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.padroes_e_igualdade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias",
+    "bncc": [
+      "EF03MA10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Pela regra retirar quatro, entre 27 e 19 falta:",
+    "opcoes": [
+      "24",
+      "22",
+      "23"
+    ],
+    "correta": 2,
+    "explicacao": "27−4=23 e 23−4=19.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.padroes_e_igualdade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas",
+    "bncc": [
+      "EF03MA11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Que número completa 12+__=10+7?",
+    "opcoes": [
+      "17",
+      "5",
+      "7"
+    ],
+    "correta": 1,
+    "explicacao": "O lado direito vale dezessete; faltam cinco a doze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

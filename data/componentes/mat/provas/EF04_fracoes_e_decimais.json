@@ -1,0 +1,119 @@
+{
+  "id": "mat.ef04.fracoes_e_decimais.prova",
+  "titulo": "Avaliação: Frações e Decimais",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF04",
+  "unidade": "Frações e Decimais",
+  "bncc": [
+    "EF04MA09",
+    "EF04MA10"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef04.fracoes_e_decimais.prova.01",
+    "mat.ef04.fracoes_e_decimais.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF04MA09",
+      "questoes": [
+        "mat.ef04.fracoes_e_decimais.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.fracoes_e_decimais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.fracoes_e_decimais.introducao_as_fracoes#introducao_as_fracoes.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA10",
+      "questoes": [
+        "mat.ef04.fracoes_e_decimais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.fracoes_e_decimais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.fracoes_e_decimais.numeros_decimais#numeros_decimais.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef04.fracoes_e_decimais.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Frações e Decimais",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF04MA09",
+      "EF04MA10"
+    ],
+    "atividadesOrigem": [
+      "mat.ef04.fracoes_e_decimais.introducao_as_fracoes#introducao_as_fracoes.producao",
+      "mat.ef04.fracoes_e_decimais.numeros_decimais#numeros_decimais.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Introdução às Frações",
+        "enunciado": "Com tiras iguais, construa as seis frações unitárias e marque-as em retas de mesmo comprimento. Explique a relação entre quantidade de partes e tamanho da unidade fracionária.",
+        "gabarito": "Conferir partições iguais e posição entre zero e um. Ordem: 1/100<1/10<1/5<1/4<1/3<1/2.",
+        "bncc": [
+          "EF04MA09"
+        ],
+        "atividadeOrigem": "mat.ef04.fracoes_e_decimais.introducao_as_fracoes#introducao_as_fracoes.producao"
+      },
+      {
+        "titulo": "Números Decimais",
+        "enunciado": "Represente 0,4 e 0,04 em malhas de cem partes e na reta. Monte R$ 3,70 por duas combinações e explique décimos, centésimos e zeros.",
+        "gabarito": "Quarenta e quatro centésimos, respectivamente. R$3,70 pode ser 3 reais+70 centavos ou 2 reais+170 centavos; conferir equivalência, não tamanho das peças.",
+        "bncc": [
+          "EF04MA10"
+        ],
+        "atividadeOrigem": "mat.ef04.fracoes_e_decimais.numeros_decimais#numeros_decimais.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        293
+      ],
+      "paginasImpressas": "291",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        71,
+        72
+      ],
+      "paginasImpressas": "74, 75",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        96
+      ],
+      "paginasImpressas": "98, 99",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

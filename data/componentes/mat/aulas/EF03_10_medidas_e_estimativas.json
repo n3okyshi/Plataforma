@@ -2,36 +2,120 @@
   "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas",
   "componente": "mat",
   "nivel": "EF03",
-  "ordem": 10,
+  "ordem": 15,
   "unidade": "Grandezas e medidas: comprimento, massa e capacidade",
   "titulo": "Medidas e Estimativas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF03MA17",
+    "EF03MA18",
+    "EF03MA19",
+    "EF03MA20"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Estime e meça três comprimentos com régua ou fita e um deles com clipes iguais",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "A medida depende da unidade escolhida",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Medindo com Precisão</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aprofundamento nas unidades: milímetros (mm), centímetros (cm), metros (m), gramas (g) e mililitros (mL).\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Escolha Certa:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Usamos régua para o caderno, fita métrica para a cintura e balança para a comida.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Medidas e Estimativas</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>A medida depende da unidade escolhida. Metro, centímetro e milímetro expressam comprimentos; litro e mililitro, capacidade; quilograma, grama e miligrama, massa. Estime antes e escolha régua, fita, recipiente graduado ou balança segundo a grandeza e o tamanho.</p><h3>Exemplo resolvido</h3><p>Uma fita de um metro mede cem centímetros. A mesma distância precisa de mais unidades pequenas que grandes. Um rótulo de 500 mL indica capacidade, não massa.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Estime e meça três comprimentos com régua ou fita e um deles com clipes iguais. Compare unidades. Observe rótulos em L,mL,kg,g,mg e meça massa e capacidade com instrumentos disponíveis, registrando o que não pôde medir.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 289</li><li>MC_MATEM_EF.pdf — páginas impressas 112, 113, 124, 126, 127</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "medidas",
+      "estimativa"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "medidas_e_estimativas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para uma mesa, é mais adequado medir o comprimento com:",
+      "alternativas": [
+        "Fita métrica",
+        "Relógio",
+        "Balança"
+      ],
+      "correta": 0,
+      "explicacao": "A fita mede comprimento."
+    },
+    {
+      "id": "medidas_e_estimativas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Estime e meça três comprimentos com régua ou fita e um deles com clipes iguais. Compare unidades. Observe rótulos em L,mL,kg,g,mg e meça massa e capacidade com instrumentos disponíveis, registrando o que não pôde medir.",
+      "gabarito": "Conferir valores reais, zero alinhado, unidade constante, instrumento adequado e distinção entre grandezas. 1 m=100 cm; 1 cm=10 mm; 1 L=1000 mL; 1 kg=1000 g; 1 g=1000 mg. Não inventar medições.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir valores reais, zero alinhado, unidade constante, instrumento adequado e distinção entre grandezas. 1 m=100 cm; 1 cm=10 mm; 1 L=1000 mL; 1 kg=1000 g; 1 g=1000 mg. Não inventar medições.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "medidas",
+    "estimativa"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        110,
+        121,
+        123,
+        124
+      ],
+      "paginasImpressas": "112, 113, 124, 126, 127",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

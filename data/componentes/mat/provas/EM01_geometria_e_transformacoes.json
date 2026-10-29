@@ -1,0 +1,80 @@
+{
+  "id": "mat.em01.geometria_e_transformacoes.prova",
+  "titulo": "Avaliação: Geometria e Transformações",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM01",
+  "unidade": "Geometria e Transformações",
+  "bncc": [
+    "EM13MAT105"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em01.geometria_e_transformacoes.prova.01",
+    "mat.em01.geometria_e_transformacoes.prova.02",
+    "mat.em01.geometria_e_transformacoes.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT105",
+      "questoes": [
+        "mat.em01.geometria_e_transformacoes.prova.01",
+        "mat.em01.geometria_e_transformacoes.prova.02",
+        "mat.em01.geometria_e_transformacoes.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.geometria_e_transformacoes.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.geometria_e_transformacoes.transformacoes_isometricas#transformacoes_isometricas.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em01.geometria_e_transformacoes.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Geometria e Transformações",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT105"
+    ],
+    "atividadesOrigem": [
+      "mat.em01.geometria_e_transformacoes.transformacoes_isometricas#transformacoes_isometricas.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Transformações Isométricas",
+        "enunciado": "Construa um padrão artístico com isometrias e uma figura homotética, registrando centros, eixos, vetores e fatores. Compare comprimentos, ângulos e áreas; use software se disponível.",
+        "gabarito": "Avaliar construção real e correspondências. Composição pode depender da ordem; fator três multiplica área por nove.",
+        "bncc": [
+          "EM13MAT105"
+        ],
+        "atividadeOrigem": "mat.em01.geometria_e_transformacoes.transformacoes_isometricas#transformacoes_isometricas.producao"
+      }
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

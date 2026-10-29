@@ -2,36 +2,115 @@
   "id": "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal",
   "componente": "mat",
   "nivel": "EM03",
-  "ordem": 4,
+  "ordem": 9,
   "unidade": "Educação Financeira",
   "titulo": "Planejamento e Gestão de Orçamento Pessoal",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT203",
+    "EM13MAT104"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Crie planilha de orçamento fictício, compare previsto e realizado e simule mudanças de preços por categoria",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Planejamento financeiro organiza receitas, despesas fixas e variáveis e cenários",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Gestão Financeira</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estratégias para organizar a vida adulta. Análise de investimentos (Renda Fixa vs Variável) e planilhas.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💰 A Regra 50-30-20:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uma dica comum: 50% para necessidades, 30% para desejos e 20% para investimentos/dívidas.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Planejamento e Gestão de Orçamento Pessoal</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Planejamento financeiro organiza receitas, despesas fixas e variáveis e cenários. Use valores fictícios ou agregados e preserve a distinção entre previsto e realizado. A inflação de uma cesta depende de quantidades e pesos; índices gerais podem diferir do padrão de consumo de um grupo.</p><h3>Exemplo resolvido</h3><p>Receita hipotética 3000 e despesas 2700 deixam margem 300. Se só despesas subirem 8%, tornam-se 2916 e o saldo cai a 84, sem alterar a receita.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Crie planilha de orçamento fictício, compare previsto e realizado e simule mudanças de preços por categoria. Explique os pesos e uma proposta de ajuste com limites.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543</li><li>MC_MATEM_EM.pdf — páginas impressas 288, 305</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "orcamento",
+      "planejamento"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "planejamento_e_gestao_de_orcamento_pessoal.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Despesa 2000 aumentada em 5% passa a:",
+      "alternativas": [
+        "2100",
+        "2050",
+        "1900"
+      ],
+      "correta": 0,
+      "explicacao": "Acréscimo cem."
+    },
+    {
+      "id": "planejamento_e_gestao_de_orcamento_pessoal.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie planilha de orçamento fictício, compare previsto e realizado e simule mudanças de preços por categoria. Explique os pesos e uma proposta de ajuste com limites.",
+      "gabarito": "Avaliar fórmula, totais, categorias, cenários e argumentos; não recomendar investimento ou supor renda futura garantida.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar fórmula, totais, categorias, cenários e argumentos; não recomendar investimento ou supor renda futura garantida.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "orcamento",
+    "planejamento"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        285,
+        302
+      ],
+      "paginasImpressas": "288, 305",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

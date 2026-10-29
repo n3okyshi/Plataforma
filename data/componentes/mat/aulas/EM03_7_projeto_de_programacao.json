@@ -1,0 +1,110 @@
+{
+  "id": "mat.em03.computacao.projeto_de_programacao",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 7,
+  "unidade": "Computação",
+  "titulo": "Projeto de Programação",
+  "bncc": [
+    "EM13MAT203",
+    "EM13MAT405"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Implemente um pequeno aplicativo ou programa de orçamento ou medições",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Um projeto computacional deve ligar demanda, entradas, algoritmo, implementação, testes e interpretação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Projeto de Programação</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Um projeto computacional deve ligar demanda, entradas, algoritmo, implementação, testes e interpretação. Planilha e programa podem resolver o mesmo modelo, permitindo conferência cruzada. Separe dados pessoais reais de exemplos e registre limites das projeções.</p><h3>Exemplo resolvido</h3><p>Um simulador hipotético de orçamento calcula saldo=receitas−despesas e projeta cenários de mudanças. Comparar com planilha ajuda a detectar fórmulas inconsistentes.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Implemente um pequeno aplicativo ou programa de orçamento ou medições. Inclua validação, cenários, testes com casos conhecidos e relatório de uma decisão fictícia; compare com planilha.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543, 544</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "projeto",
+      "programacao",
+      "algoritmos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "projeto_de_programacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Receita fictícia 2400 e despesa 2150 deixam saldo:",
+      "alternativas": [
+        "4550",
+        "350",
+        "250"
+      ],
+      "correta": 2,
+      "explicacao": "2400−2150=250."
+    },
+    {
+      "id": "projeto_de_programacao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Implemente um pequeno aplicativo ou programa de orçamento ou medições. Inclua validação, cenários, testes com casos conhecidos e relatório de uma decisão fictícia; compare com planilha.",
+      "gabarito": "Avaliar execução efetiva, documentação, fórmulas, entradas inválidas e decisão ligada aos dados. Não basta apresentar pseudocódigo como programa executado.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar execução efetiva, documentação, fórmulas, entradas inválidas e decisão ligada aos dados. Não basta apresentar pseudocódigo como programa executado.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "projeto",
+    "programacao",
+    "algoritmos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545,
+        546
+      ],
+      "paginasImpressas": "543, 544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em03.computacao.algoritmos_e_fluxogramas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

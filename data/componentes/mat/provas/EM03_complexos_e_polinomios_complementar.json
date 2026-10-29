@@ -1,0 +1,141 @@
+{
+  "id": "mat.em03.complexos_e_polinomios_complementar.prova",
+  "titulo": "Avaliação: Complexos e Polinômios — Complementar",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM03",
+  "unidade": "Complexos e Polinômios — Complementar",
+  "bncc": [],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": true,
+  "instrucoes": "Parte objetiva com 5 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em03.complexos_e_polinomios_complementar.prova.01",
+    "mat.em03.complexos_e_polinomios_complementar.prova.02",
+    "mat.em03.complexos_e_polinomios_complementar.prova.03",
+    "mat.em03.complexos_e_polinomios_complementar.prova.04",
+    "mat.em03.complexos_e_polinomios_complementar.prova.05"
+  ],
+  "criterios": "Cada item objetivo vale 10/5 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [],
+  "avaliacaoPratica": {
+    "id": "mat.em03.complexos_e_polinomios_complementar.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Complexos e Polinômios — Complementar",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [],
+    "atividadesOrigem": [
+      "mat.em03.complexos_e_polinomios_complementar.numeros_complexos_e_operacoes#numeros_complexos_e_operacoes.producao",
+      "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas#forma_trigonometrica_e_raizes_complexas.producao",
+      "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao#polinomios_operacoes_e_divisao.producao",
+      "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard#raizes_multiplicidade_e_relacoes_de_girard.producao",
+      "mat.em03.complexos_e_polinomios_complementar.equacoes_polinomiais_e_fatoracao#equacoes_polinomiais_e_fatoracao.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Numeros complexos e operacoes",
+        "enunciado": "Represente complexos no plano, efetue soma, produto e quociente e confira o quociente pelo produto. Investigue o ciclo das potências de i.",
+        "gabarito": "Conferir i²=−1, coordenadas (a,b), denominador não nulo e ciclo 1,i,−1,−i. O módulo é real não negativo.",
+        "bncc": [],
+        "atividadeOrigem": "mat.em03.complexos_e_polinomios_complementar.numeros_complexos_e_operacoes#numeros_complexos_e_operacoes.producao"
+      },
+      {
+        "titulo": "Forma trigonometrica e raizes complexas",
+        "enunciado": "Converta 1+i para forma trigonométrica, calcule sua quarta potência e construa as quatro raízes de −1 no plano, justificando módulos e argumentos.",
+        "gabarito": "1+i tem módulo √2 e argumento π/4; quarta potência −4. Raízes de −1: módulo um, argumentos π/4,3π/4,5π/4,7π/4.",
+        "bncc": [],
+        "atividadeOrigem": "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas#forma_trigonometrica_e_raizes_complexas.producao"
+      },
+      {
+        "titulo": "Polinomios operacoes e divisao",
+        "enunciado": "Faça soma e produto de polinômios, divida x³−1 por x−1 e verifique DQ+R. Execute Horner para avaliar um polinômio escolhido e compare com substituição direta.",
+        "gabarito": "Quociente x²+x+1, resto zero. Conferir todos os coeficientes, inclusive ordens ausentes, e grau do resto.",
+        "bncc": [],
+        "atividadeOrigem": "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao#polinomios_operacoes_e_divisao.producao"
+      },
+      {
+        "titulo": "Raizes multiplicidade e relacoes de girard",
+        "enunciado": "Expanda esse produto e confira soma e produto das raízes com multiplicidade. Investigue x²+1 nos reais e complexos e explique a condição de conjugação.",
+        "gabarito": "Expansão x³−3x²+4; soma 2+2−1=3 e produto −4. x²+1 tem raízes ±i e nenhuma real.",
+        "bncc": [],
+        "atividadeOrigem": "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard#raizes_multiplicidade_e_relacoes_de_girard.producao"
+      },
+      {
+        "titulo": "Equacoes polinomiais e fatoracao",
+        "enunciado": "Resolva x³−6x²+11x−6=0 testando raízes inteiras e dividindo por fatores. Compare com x⁴−1 e identifique todas as raízes complexas.",
+        "gabarito": "Primeira: 1,2,3. Segunda: 1,−1,i,−i. Conferir grau total e produto dos fatores.",
+        "bncc": [],
+        "atividadeOrigem": "mat.em03.complexos_e_polinomios_complementar.equacoes_polinomiais_e_fatoracao#equacoes_polinomiais_e_fatoracao.producao"
+      }
+    ],
+    "duracaoMinSugerida": 150,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        307,
+        308,
+        312,
+        315,
+        320,
+        321
+      ],
+      "paginasImpressas": "310, 311, 315, 318, 323, 324",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        323,
+        324
+      ],
+      "paginasImpressas": "326, 327",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        330,
+        332,
+        334,
+        337,
+        341
+      ],
+      "paginasImpressas": "333, 335, 337, 340, 344",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        345,
+        346,
+        348,
+        349,
+        352
+      ],
+      "paginasImpressas": "348, 349, 351, 352, 355",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        345,
+        346,
+        352
+      ],
+      "paginasImpressas": "348, 349, 355",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

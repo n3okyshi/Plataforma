@@ -1,0 +1,106 @@
+{
+  "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.problemas_com_dinheiro",
+  "componente": "mat",
+  "nivel": "EF04",
+  "ordem": 13,
+  "unidade": "Massa, capacidade, intervalo de tempo e temperatura",
+  "titulo": "Problemas de Compra e Venda",
+  "bncc": [
+    "EF04MA25"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Crie situação de compra com desconto, pagamento e troco",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Preço, desconto, forma de pagamento e troco precisam ser comparados considerando o total",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Problemas de Compra e Venda</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Preço, desconto, forma de pagamento e troco precisam ser comparados considerando o total. Um desconto em valor fixo reduz o preço; parcelamento não garante preço menor. Use exemplos fictícios e reflita sobre necessidade da compra, desperdício e condições declaradas.</p><h3>Exemplo resolvido</h3><p>Produto fictício de R$ 85 com desconto de R$ 12 custa R$ 73. Pago com R$ 100, gera R$ 27 de troco.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Crie situação de compra com desconto, pagamento e troco. Compare pagar à vista com parcelas de valores fornecidos, explicando total e uma decisão de consumo responsável.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 293</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "sistema_monetario",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "problemas_com_dinheiro.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Preço fictício 96 reais menos desconto de 15 reais fica:",
+      "alternativas": [
+        "111 reais",
+        "85 reais",
+        "81 reais"
+      ],
+      "correta": 2,
+      "explicacao": "96−15=81."
+    },
+    {
+      "id": "problemas_com_dinheiro.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie situação de compra com desconto, pagamento e troco. Compare pagar à vista com parcelas de valores fornecidos, explicando total e uma decisão de consumo responsável.",
+      "gabarito": "Verificar somas, unidades monetárias e condições. A decisão precisa considerar dados e necessidade; não pressupor que qualquer parcela seja vantajosa.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Verificar somas, unidades monetárias e condições. A decisão precisa considerar dados e necessidade; não pressupor que qualquer parcela seja vantajosa.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sistema_monetario",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        295
+      ],
+      "paginasImpressas": "293",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

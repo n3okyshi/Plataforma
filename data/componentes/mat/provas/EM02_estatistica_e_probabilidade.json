@@ -1,0 +1,184 @@
+{
+  "id": "mat.em02.estatistica_e_probabilidade.prova",
+  "titulo": "Avaliação: Estatística e Probabilidade",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM02",
+  "unidade": "Estatística e Probabilidade",
+  "bncc": [
+    "EM13MAT202",
+    "EM13MAT311",
+    "EM13MAT407",
+    "EM13MAT510",
+    "EM13MAT511"
+  ],
+  "duracaoMin": 20,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 4 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em02.estatistica_e_probabilidade.prova.01",
+    "mat.em02.estatistica_e_probabilidade.prova.02",
+    "mat.em02.estatistica_e_probabilidade.prova.03",
+    "mat.em02.estatistica_e_probabilidade.prova.04"
+  ],
+  "criterios": "Cada item objetivo vale 10/4 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT202",
+      "questoes": [
+        "mat.em02.estatistica_e_probabilidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio#pesquisa_amostral_e_relatorio.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT311",
+      "questoes": [
+        "mat.em02.estatistica_e_probabilidade.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT407",
+      "questoes": [
+        "mat.em02.estatistica_e_probabilidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas#diagramas_de_caixa_e_histogramas.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT510",
+      "questoes": [
+        "mat.em02.estatistica_e_probabilidade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste#duas_variaveis_e_reta_de_ajuste.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT511",
+      "questoes": [
+        "mat.em02.estatistica_e_probabilidade.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em02.estatistica_e_probabilidade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Estatística e Probabilidade",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT202",
+      "EM13MAT311",
+      "EM13MAT407",
+      "EM13MAT510",
+      "EM13MAT511"
+    ],
+    "atividadesOrigem": [
+      "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio#pesquisa_amostral_e_relatorio.producao",
+      "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas#diagramas_de_caixa_e_histogramas.producao",
+      "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste#duas_variaveis_e_reta_de_ajuste.producao",
+      "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Pesquisa Amostral e Relatório",
+        "enunciado": "Planeje e execute pesquisa relevante para o grupo. Colete dados reais, registre seleção e limites, calcule medidas adequadas e produza relatório com tabela, gráficos, amplitude e desvio padrão.",
+        "gabarito": "Avaliar coleta efetiva, anonimização, correspondência dos cálculos e interpretação da dispersão. Não aceitar resultados previstos como observados.",
+        "bncc": [
+          "EM13MAT202"
+        ],
+        "atividadeOrigem": "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio#pesquisa_amostral_e_relatorio.producao"
+      },
+      {
+        "titulo": "Diagramas de Caixa e Histogramas",
+        "enunciado": "Represente duas séries por histograma, boxplot e ramos e folhas; compare forma, centro, dispersão e valores ocultos. Declare classes e convenção de quartis e escolha a representação mais útil.",
+        "gabarito": "Conferir dados e escalas; boxplots iguais podem ocultar distribuições diferentes e não demonstram igualdade de todos os valores.",
+        "bncc": [
+          "EM13MAT407"
+        ],
+        "atividadeOrigem": "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas#diagramas_de_caixa_e_histogramas.producao"
+      },
+      {
+        "titulo": "Duas Variáveis e Reta de Ajuste",
+        "enunciado": "Colete ou consulte pares reais com fonte, desenhe dispersão, proponha reta, calcule resíduos e discuta se a reta é adequada. Compare conclusão descritiva e afirmação causal.",
+        "gabarito": "Avaliar origem dos pares, relação plausível, variação residual e limites; aceitar rejeitar modelo linear se os dados indicarem outra forma.",
+        "bncc": [
+          "EM13MAT510"
+        ],
+        "atividadeOrigem": "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste#duas_variaveis_e_reta_de_ajuste.producao"
+      },
+      {
+        "titulo": "Espaços Amostrais e Eventos",
+        "enunciado": "Construa árvore ou tabela de dois dados, calcule chances de duas somas e compare com sorteio uniforme em intervalo. Elabore decisão hipotética baseada nas diferenças e explique limites.",
+        "gabarito": "Conferir 36 pares, seis para soma sete, um para dois e interpretação do contínuo; não usar favoráveis/total contando somas como iguais.",
+        "bncc": [
+          "EM13MAT311",
+          "EM13MAT511"
+        ],
+        "atividadeOrigem": "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.producao"
+      }
+    ],
+    "duracaoMinSugerida": 120,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        264,
+        266,
+        267
+      ],
+      "paginasImpressas": "267, 269, 270",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

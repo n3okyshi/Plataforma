@@ -2,36 +2,105 @@
   "id": "mat.em03.computacao.um_pouco_de_historia",
   "componente": "mat",
   "nivel": "EM03",
-  "ordem": 9,
+  "ordem": 4,
   "unidade": "Computação",
   "titulo": "Um Pouco de História",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT315"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Compare subtrações repetidas e divisões com resto para MDC",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Procedimentos de cálculo podem ser descritos e transmitidos antes de sua implementação eletrônica",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">História da Computação</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Do Ábaco aos Supercomputadores. Personagens como Ada Lovelace (a primeira programadora) e Alan Turing.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🕰️ Evolução:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Entender que o computador é uma máquina de processar lógica, não apenas eletrônica.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Um Pouco de História</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Procedimentos de cálculo podem ser descritos e transmitidos antes de sua implementação eletrônica. Compare versões de um algoritmo por passos e propriedades, não apenas pela tecnologia usada. O algoritmo de Euclides conserva divisores comuns ao substituir um par pelo divisor e resto, terminando quando o resto zera.</p><h3>Exemplo resolvido</h3><p>Para MDC de 48 e 18: 48=2×18+12;18=1×12+6;12=2×6. O último resto não nulo é seis.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Compare subtrações repetidas e divisões com resto para MDC. Registre uma descrição em linguagem corrente e fluxograma, execute para 48,18 e explique a conservação dos divisores e a parada.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "historia_da_computacao",
+      "tecnologia"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "um_pouco_de_historia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "MDC de 30 e 18 é:",
+      "alternativas": [
+        "12",
+        "3",
+        "6"
+      ],
+      "correta": 2,
+      "explicacao": "30=18+12;18=12+6;12=2×6."
+    },
+    {
+      "id": "um_pouco_de_historia.producao",
+      "tipo": "discursiva",
+      "enunciado": "Compare subtrações repetidas e divisões com resto para MDC. Registre uma descrição em linguagem corrente e fluxograma, execute para 48,18 e explique a conservação dos divisores e a parada.",
+      "gabarito": "Ambos dão seis. No método por restos, o segundo valor diminui entre naturais até zero; não inventar datas históricas como parte da prova matemática.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Ambos dão seis. No método por restos, o segundo valor diminui entre naturais até zero; não inventar datas históricas como parte da prova matemática.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "historia_da_computacao",
+    "tecnologia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em03.computacao.conceitos_iniciais"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

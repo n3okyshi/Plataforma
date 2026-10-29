@@ -2,36 +2,105 @@
   "id": "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas",
   "componente": "mat",
   "nivel": "EM02",
-  "ordem": 1,
+  "ordem": 15,
   "unidade": "Regiões Planas e Área",
   "titulo": "Medida de Área de Regiões Planas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT307"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Deduza fórmulas de triângulo e trapézio por reconfiguração",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Áreas podem ser obtidas por composição, recorte e aproximação",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Áreas de Figuras Planas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Revisão e aprofundamento do cálculo de áreas. O foco é a estratégia de <strong>decomposição</strong>: dividir figuras complexas em formas simples (triângulos, retângulos) para somar as áreas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧩 Dividir para Conquistar:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Qualquer polígono pode ser \"fatiado\" em triângulos. É a base para entender a fórmula da área de polígonos regulares.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Medida de Área de Regiões Planas</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Áreas podem ser obtidas por composição, recorte e aproximação. Derivar expressões exige explicar a transformação que conserva a superfície. Em contornos irregulares, uma malha produz estimativa cuja precisão depende da resolução e do tratamento das bordas.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.\"><title>Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.</title><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 35V215\"/><path d=\"M105 35V215\"/><path d=\"M150 35V215\"/><path d=\"M195 35V215\"/><path d=\"M240 35V215\"/><path d=\"M285 35V215\"/><path d=\"M330 35V215\"/><path d=\"M60 35H330\"/><path d=\"M60 80H330\"/><path d=\"M60 125H330\"/><path d=\"M60 170H330\"/><path d=\"M60 215H330\"/></g></svg><h3>Exemplo resolvido</h3><p>Duas cópias de um trapézio formam paralelogramo de base B+b e altura h; a área de uma cópia é (B+b)h/2.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Deduza fórmulas de triângulo e trapézio por reconfiguração. Estime área de região irregular por malhas de duas resoluções e aplique a uma situação de distribuição de espaço.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "area",
+      "regioes_planas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "medida_de_area_de_regioes_planas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Trapézio B=10,b=6,h=4 tem área:",
+      "alternativas": [
+        "32",
+        "64",
+        "24"
+      ],
+      "correta": 0,
+      "explicacao": "(10+6)×4/2=32."
+    },
+    {
+      "id": "medida_de_area_de_regioes_planas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Deduza fórmulas de triângulo e trapézio por reconfiguração. Estime área de região irregular por malhas de duas resoluções e aplique a uma situação de distribuição de espaço.",
+      "gabarito": "Conferir ausência de lacunas/sobreposição e limites da aproximação; a malha fina não garante exatidão de um contorno medido.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir ausência de lacunas/sobreposição e limites da aproximação; a malha fina não garante exatidão de um contorno medido.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "area",
+    "regioes_planas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em02.regioes_planas_e_area.ladrilhamento"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

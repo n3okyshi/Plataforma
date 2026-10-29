@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 23,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Gráficos de Barras e Colunas",
+  "bncc": [
+    "EF03MA26",
+    "EF03MA27"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Represente os dados fictícios em gráfico de colunas com eixo iniciado em zero, título, unidade e fonte",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Barras e colunas precisam de escala, nomes e fonte",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Gráficos de Barras e Colunas</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Barras e colunas precisam de escala, nomes e fonte. A frequência é a quantidade de ocorrências de uma categoria. Compare valores, não apenas aparência; um eixo deve deixar clara sua origem e cada intervalo representado.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Dados fictícios da aula: A pé 6, Bicicleta 3, Ônibus 9 Valores numéricos indicados nas colunas.\"><title>Dados fictícios da aula: A pé 6, Bicicleta 3, Ônibus 9 Valores numéricos indicados nas colunas.</title><path d=\"M55 35V200H420\" fill=\"none\" stroke=\"currentColor\"/><rect x=\"75.0\" y=\"103.33333333333333\" width=\"45\" height=\"96.66666666666667\" fill=\"#2563eb\"/><text x=\"75.0\" y=\"94.33333333333333\" font-size=\"14\" fill=\"currentColor\">6</text><text x=\"75.0\" y=\"220\" font-size=\"12\" fill=\"currentColor\">A pé</text><rect x=\"185.0\" y=\"151.66666666666666\" width=\"45\" height=\"48.333333333333336\" fill=\"#2563eb\"/><text x=\"185.0\" y=\"142.66666666666666\" font-size=\"14\" fill=\"currentColor\">3</text><text x=\"185.0\" y=\"220\" font-size=\"12\" fill=\"currentColor\">Bicicleta</text><rect x=\"295.0\" y=\"55.0\" width=\"45\" height=\"145.0\" fill=\"#2563eb\"/><text x=\"295.0\" y=\"46.0\" font-size=\"14\" fill=\"currentColor\">9</text><text x=\"295.0\" y=\"220\" font-size=\"12\" fill=\"currentColor\">Ônibus</text><text x=\"35\" y=\"205\" fill=\"currentColor\">0</text><text x=\"15\" y=\"248\" fill=\"currentColor\" font-size=\"11\">Fonte: exemplo autoral fictício, 29/10/2026.</text></svg><h3>Exemplo resolvido</h3><p>Exemplo fictício: a pé 6, bicicleta 3, ônibus 9. Total dezoito; ônibus tem maior frequência e bicicleta menor. A diferença entre ônibus e a pé é três.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Represente os dados fictícios em gráfico de colunas com eixo iniciado em zero, título, unidade e fonte. Resolva duas comparações e escreva uma síntese sem generalizar para outras pessoas.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 289</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "graficos",
+      "leitura_de_dados"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "graficos_de_barras_e_colunas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Nesses dados, a diferença entre ônibus e bicicleta é:",
+      "alternativas": [
+        "12",
+        "6",
+        "3"
+      ],
+      "correta": 1,
+      "explicacao": "9−3=6."
+    },
+    {
+      "id": "graficos_de_barras_e_colunas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Represente os dados fictícios em gráfico de colunas com eixo iniciado em zero, título, unidade e fonte. Resolva duas comparações e escreva uma síntese sem generalizar para outras pessoas.",
+      "gabarito": "Alturas 6,3,9 na mesma escala; total dezoito. Avaliar leitura numérica, identificação e texto coerente.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Alturas 6,3,9 na mesma escala; total dezoito. Avaliar leitura numérica, identificação e texto coerente.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "graficos",
+    "leitura_de_dados"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada"
+  ],
+  "proximosPassos": [
+    "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

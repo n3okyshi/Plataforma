@@ -1,0 +1,116 @@
+{
+  "id": "mat.ef05.decimais.decimais_na_reta_numerica",
+  "componente": "mat",
+  "nivel": "EF05",
+  "ordem": 3,
+  "unidade": "Decimais",
+  "titulo": "Decimais na Reta Numérica",
+  "bncc": [
+    "EF05MA02",
+    "EF05MA05"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Decomponha e ordene 2,05;2,5;2,15;2,50",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Compare decimais pelo valor, não pela quantidade de algarismos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Decimais na Reta Numérica</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Compare decimais pelo valor, não pela quantidade de algarismos. Zeros à direita da parte decimal não mudam o número. Na reta, estabeleça a unidade e subdivisões iguais; composição por inteiros, décimos e centésimos explica a localização.</p><h3>Exemplo resolvido</h3><p>1,4=1,40 e é maior que 1,35. Entre 1,3 e 1,4 há dez intervalos de um centésimo.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Decomponha e ordene 2,05;2,5;2,15;2,50. Localize-os numa reta com escala e explique a igualdade existente.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 295</li><li>MC_MATEM_EF.pdf — páginas impressas 98, 99</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "decimais",
+      "reta_numerica"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "decimais_na_reta_numerica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é maior?",
+      "alternativas": [
+        "0,8",
+        "0,75",
+        "0,09"
+      ],
+      "correta": 0,
+      "explicacao": "Oito décimos são oitenta centésimos, maiores que setenta e cinco."
+    },
+    {
+      "id": "decimais_na_reta_numerica.producao",
+      "tipo": "discursiva",
+      "enunciado": "Decomponha e ordene 2,05;2,5;2,15;2,50. Localize-os numa reta com escala e explique a igualdade existente.",
+      "gabarito": "2,05<2,15<2,5=2,50. Conferir cinco centésimos em 2,05, não cinco décimos.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "2,05<2,15<2,5=2,50. Conferir cinco centésimos em 2,05, não cinco décimos.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "decimais",
+    "reta_numerica"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        96
+      ],
+      "paginasImpressas": "98, 99",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef05.decimais.numeros_decimais_e_porcentagem"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

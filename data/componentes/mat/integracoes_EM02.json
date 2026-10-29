@@ -1,0 +1,156 @@
+{
+  "nivel": "EM02",
+  "motivo": "Consolidação didática do planejamento, com preservação dos IDs do percurso anterior. Destinos de estudo podem abranger mais de uma aula.",
+  "integracoes": [
+    {
+      "idAnterior": "mat.em02.geometria_espacial.areas_totais_e_composicao_de_solidos",
+      "tituloAnterior": "Áreas Totais e Composição de Sólidos",
+      "destinos": [
+        "mat.em02.geometria_espacial.introducao_a_geometria_espacial",
+        "mat.em02.geometria_espacial.prismas_e_cilindros",
+        "mat.em02.geometria_espacial.piramide_e_cone",
+        "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas",
+        "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri",
+        "mat.em02.geometria_espacial.area_e_volume_da_esfera"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.trigonometria.fenomenos_periodicos_e_modelos_trigonometricos",
+      "tituloAnterior": "Fenômenos Periódicos e Modelos Trigonométricos",
+      "destinos": [
+        "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia",
+        "mat.em02.trigonometria.funcoes_trigonometricas",
+        "mat.em02.trigonometria.relacoes_trigonometricas",
+        "mat.em02.trigonometria.semelhanca_de_poligonos",
+        "mat.em02.trigonometria.leis_do_seno_e_do_cosseno",
+        "mat.em02.trigonometria.equacoes_e_identidades_trigonometricas"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.trigonometria.resolucao_de_triangulos_quaisquer",
+      "tituloAnterior": "Resolução de Triângulos Quaisquer",
+      "destinos": [
+        "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia",
+        "mat.em02.trigonometria.funcoes_trigonometricas",
+        "mat.em02.trigonometria.relacoes_trigonometricas",
+        "mat.em02.trigonometria.semelhanca_de_poligonos",
+        "mat.em02.trigonometria.leis_do_seno_e_do_cosseno",
+        "mat.em02.trigonometria.equacoes_e_identidades_trigonometricas"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.matrizes_determinantes_e_sistemas_lineares.operacoes_com_matrizes",
+      "tituloAnterior": "Operações com Matrizes",
+      "destinos": [
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.matrizes_e_determinantes",
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares_na_forma_matricial",
+      "tituloAnterior": "Sistemas Lineares na Forma Matricial",
+      "destinos": [
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.matrizes_e_determinantes",
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.matrizes_determinantes_e_sistemas_lineares.resolucao_grafica_de_sistemas",
+      "tituloAnterior": "Resolução Gráfica de Sistemas",
+      "destinos": [
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.matrizes_e_determinantes",
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.regioes_planas_e_area.areas_por_decomposicao_e_reconfiguracao",
+      "tituloAnterior": "Áreas por Decomposição e Reconfiguração",
+      "destinos": [
+        "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas",
+        "mat.em02.regioes_planas_e_area.ladrilhamento",
+        "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.regioes_planas_e_area.areas_em_contextos_reais",
+      "tituloAnterior": "Áreas em Contextos Reais",
+      "destinos": [
+        "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas",
+        "mat.em02.regioes_planas_e_area.ladrilhamento",
+        "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.estatistica_e_probabilidade.medidas_de_dispersao_amplitude_e_desvio_padrao",
+      "tituloAnterior": "Medidas de Dispersão: Amplitude e Desvio Padrão",
+      "destinos": [
+        "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio",
+        "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas",
+        "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste",
+        "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.estatistica_e_probabilidade.probabilidade_e_tomada_de_decisao",
+      "tituloAnterior": "Probabilidade e Tomada de Decisão",
+      "destinos": [
+        "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio",
+        "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas",
+        "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste",
+        "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.proporcionalidade_e_variacao.taxas_de_variacao_e_graficos",
+      "tituloAnterior": "Taxas de Variação e Gráficos",
+      "destinos": [
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.proporcionalidade_e_variacao.funcoes_e_taxas_em_contextos_cientificos",
+      "tituloAnterior": "Funções e Taxas em Contextos Científicos",
+      "destinos": [
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.proporcionalidade_e_variacao.modelagem_de_fenomenos_com_funcoes",
+      "tituloAnterior": "Modelagem de Fenômenos com Funções",
+      "destinos": [
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.computacao_e_modelagem.simulacao_e_experimentos_com_planilhas",
+      "tituloAnterior": "Simulação e Experimentos com Planilhas",
+      "destinos": [
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas",
+        "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    },
+    {
+      "idAnterior": "mat.em02.computacao_e_modelagem.projeto_integrador_de_modelagem",
+      "tituloAnterior": "Projeto Integrador de Modelagem",
+      "destinos": [
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas",
+        "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao"
+      ],
+      "observacao": "Subtópico reorganizado na sequência desta unidade. A homologação docente deve conferir o detalhamento; os IDs antes disponíveis no percurso foram preservados."
+    }
+  ]
+}

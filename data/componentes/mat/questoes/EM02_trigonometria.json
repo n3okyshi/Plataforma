@@ -1,0 +1,454 @@
+[
+  {
+    "id": "mat.em02.trigonometria.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia",
+    "bncc": [
+      "EM13MAT306"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "π radianos correspondem a:",
+    "opcoes": [
+      "90°",
+      "360°",
+      "180°"
+    ],
+    "correta": 2,
+    "explicacao": "Uma meia-volta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          120,
+          122,
+          125,
+          126,
+          130,
+          133
+        ],
+        "paginasImpressas": "123, 125, 128, 129, 133, 136",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.funcoes_trigonometricas",
+    "bncc": [
+      "EM13MAT306"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "y=3sen(2t)+4 tem amplitude:",
+    "opcoes": [
+      "4",
+      "3",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "A amplitude é módulo do coeficiente do seno.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          152
+        ],
+        "paginasImpressas": "155",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.relacoes_trigonometricas",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Se sen θ=3/5 e θ é agudo, cos θ é:",
+    "opcoes": [
+      "4/5",
+      "2/5",
+      "−4/5"
+    ],
+    "correta": 0,
+    "explicacao": "Raiz positiva de 1−9/25.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          108,
+          109,
+          116,
+          136
+        ],
+        "paginasImpressas": "111, 112, 119, 139",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.semelhanca_de_poligonos",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Triângulo semelhante a 4,5,6 por fator três tem lados:",
+    "opcoes": [
+      "7,8,9",
+      "8,10,12",
+      "12,15,18"
+    ],
+    "correta": 2,
+    "explicacao": "Multiplicar todos por três preserva razão comum.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.leis_do_seno_e_do_cosseno",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Com a=b=4 e C=60°, o terceiro lado mede:",
+    "opcoes": [
+      "√32",
+      "4",
+      "8"
+    ],
+    "correta": 1,
+    "explicacao": "c²=16+16−16=16.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.treino.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.equacoes_e_identidades_trigonometricas",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "sen(2x) equivale a:",
+    "opcoes": [
+      "2sen x cos x",
+      "sen²x",
+      "2sen x"
+    ],
+    "correta": 0,
+    "explicacao": "Identidade de ângulo duplo.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          136,
+          138,
+          140,
+          141,
+          143,
+          150
+        ],
+        "paginasImpressas": "139, 141, 143, 144, 146, 153",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em02.trigonometria.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia",
+    "bncc": [
+      "EM13MAT306"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "No círculo unitário, θ=π tem ponto:",
+    "opcoes": [
+      "(0,1)",
+      "(1,0)",
+      "(−1,0)"
+    ],
+    "correta": 2,
+    "explicacao": "Cosseno menos um, seno zero.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          120,
+          122,
+          125,
+          126,
+          130,
+          133
+        ],
+        "paginasImpressas": "123, 125, 128, 129, 133, 136",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.funcoes_trigonometricas",
+    "bncc": [
+      "EM13MAT306"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "cos(πt/4) tem período:",
+    "opcoes": [
+      "2π",
+      "8",
+      "4"
+    ],
+    "correta": 1,
+    "explicacao": "2π/(π/4)=8.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          152
+        ],
+        "paginasImpressas": "155",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.relacoes_trigonometricas",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Tangente relaciona:",
+    "opcoes": [
+      "Cateto oposto ao adjacente",
+      "Hipotenusa ao perímetro",
+      "Área ao raio"
+    ],
+    "correta": 0,
+    "explicacao": "A razão depende do ângulo escolhido.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          108,
+          109,
+          116,
+          136
+        ],
+        "paginasImpressas": "111, 112, 119, 139",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.semelhanca_de_poligonos",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Dobrar comprimentos multiplica área por:",
+    "opcoes": [
+      "2",
+      "8",
+      "4"
+    ],
+    "correta": 2,
+    "explicacao": "Duas dimensões são ampliadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.leis_do_seno_e_do_cosseno",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A lei dos senos compara:",
+    "opcoes": [
+      "Área com perímetro",
+      "Lado com seno do ângulo oposto",
+      "Lado com ângulo adjacente sempre"
+    ],
+    "correta": 1,
+    "explicacao": "A correspondência oposta é essencial.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000",
+    "bncc": [
+      "EF03MA01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Como se lê 609?",
+    "opcoes": [
+      "Sessenta e nove",
+      "Seiscentos e noventa",
+      "Seiscentos e nove"
+    ],
+    "correta": 2,
+    "explicacao": "São seis centenas, zero dezenas e nove unidades.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.reta_numerica",
+    "bncc": [
+      "EF03MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Partir de 46 e voltar 8 unidades leva a:",
+    "opcoes": [
+      "40",
+      "38",
+      "54"
+    ],
+    "correta": 1,
+    "explicacao": "46−8=38.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao",
+    "bncc": [
+      "EF03MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se 7×5=35, então 7×6 é:",
+    "opcoes": [
+      "42",
+      "41",
+      "35"
+    ],
+    "correta": 0,
+    "explicacao": "Acrescenta-se uma parcela de sete.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          35
+        ],
+        "paginasImpressas": "32, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000",
+    "bncc": [
+      "EF03MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é maior: 706 ou 760?",
+    "opcoes": [
+      "706",
+      "São iguais",
+      "760"
+    ],
+    "correta": 2,
+    "explicacao": "As centenas coincidem; setecentos e sessenta tem mais dezenas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.reta_numerica",
+    "bncc": [
+      "EF03MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Partir de 57 e avançar 6 unidades leva a:",
+    "opcoes": [
+      "62",
+      "63",
+      "51"
+    ],
+    "correta": 1,
+    "explicacao": "57+6=63.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao",
+    "bncc": [
+      "EF03MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Usando 8+2=10, 8+6 é:",
+    "opcoes": [
+      "14",
+      "16",
+      "12"
+    ],
+    "correta": 0,
+    "explicacao": "Seis é dois e quatro; dez mais quatro são quatorze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          35
+        ],
+        "paginasImpressas": "32, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

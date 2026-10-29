@@ -1,0 +1,110 @@
+{
+  "id": "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 19,
+  "unidade": "Estatística e Probabilidade",
+  "titulo": "Diagramas de Caixa e Histogramas",
+  "bncc": [
+    "EM13MAT407"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Represente duas séries por histograma, boxplot e ramos e folhas; compare forma, centro, dispersão e valores ocultos",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Histogramas mostram frequências em classes; com larguras diferentes, alturas precisam considerar densidade para que áreas representem frequências",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Diagramas de Caixa e Histogramas</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Histogramas mostram frequências em classes; com larguras diferentes, alturas precisam considerar densidade para que áreas representem frequências. Boxplots resumem mediana, quartis e extremos conforme a convenção, sem mostrar toda a distribuição. Ramos e folhas preservam mais valores individuais.</p><h3>Exemplo resolvido</h3><p>Série 1,2,3,4,5,6,7,8 tem mediana 4,5. Pela convenção de mediana das metades, Q1=2,5 e Q3=6,5; outras convenções devem ser declaradas.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Represente duas séries por histograma, boxplot e ramos e folhas; compare forma, centro, dispersão e valores ocultos. Declare classes e convenção de quartis e escolha a representação mais útil.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "box_plot",
+      "histograma",
+      "graficos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "diagramas_de_caixa_e_histogramas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um boxplot destaca diretamente:",
+      "alternativas": [
+        "Cada valor individual sempre",
+        "Causas de diferenças",
+        "Mediana e quartis"
+      ],
+      "correta": 2,
+      "explicacao": "É um resumo posicional."
+    },
+    {
+      "id": "diagramas_de_caixa_e_histogramas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Represente duas séries por histograma, boxplot e ramos e folhas; compare forma, centro, dispersão e valores ocultos. Declare classes e convenção de quartis e escolha a representação mais útil.",
+      "gabarito": "Conferir dados e escalas; boxplots iguais podem ocultar distribuições diferentes e não demonstram igualdade de todos os valores.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir dados e escalas; boxplots iguais podem ocultar distribuições diferentes e não demonstram igualdade de todos os valores.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "box_plot",
+    "histograma",
+    "graficos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio"
+  ],
+  "proximosPassos": [
+    "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

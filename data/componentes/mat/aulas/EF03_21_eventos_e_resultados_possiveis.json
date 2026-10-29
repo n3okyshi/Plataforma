@@ -1,0 +1,106 @@
+{
+  "id": "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 21,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Eventos e Resultados Possíveis",
+  "bncc": [
+    "EF03MA25"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Monte uma sacola de três cores com quantidades diferentes, liste as cores possíveis e compare chances",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Liste todos os resultados possíveis antes de comparar chances",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Eventos e Resultados Possíveis</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Liste todos os resultados possíveis antes de comparar chances. Numa retirada sem olhar de peças semelhantes, cores com mais peças oferecem mais possibilidades. Uma cor ausente não pode sair. As conclusões dependem da composição e das condições do experimento.</p><h3>Exemplo resolvido</h3><p>Com seis azuis, três amarelas e uma verde, os resultados por cor são azul, amarelo e verde. Azul tem maior chance; verde menor. Uma única retirada não precisa reproduzir essa ordem.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Monte uma sacola de três cores com quantidades diferentes, liste as cores possíveis e compare chances. Faça retiradas com devolução e registre o que observou.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 289</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "probabilidade",
+      "espaco_amostral"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "eventos_e_resultados_possiveis.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual cor tem maior chance com 5 vermelhas e 2 azuis, em sorteio sem olhar?",
+      "alternativas": [
+        "Vermelha",
+        "Azul",
+        "Sempre iguais"
+      ],
+      "correta": 0,
+      "explicacao": "Há mais peças vermelhas em condições iguais de retirada."
+    },
+    {
+      "id": "eventos_e_resultados_possiveis.producao",
+      "tipo": "discursiva",
+      "enunciado": "Monte uma sacola de três cores com quantidades diferentes, liste as cores possíveis e compare chances. Faça retiradas com devolução e registre o que observou.",
+      "gabarito": "Conferir a composição real e a lista completa. Reposição conserva a composição, não obriga repetição do resultado.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir a composição real e a lista completa. Reposição conserva a composição, não obriga repetição do resultado.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "probabilidade",
+    "espaco_amostral"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

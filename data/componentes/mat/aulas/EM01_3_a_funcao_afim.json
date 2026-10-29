@@ -5,33 +5,116 @@
   "ordem": 3,
   "unidade": "Conjuntos e Função Afim",
   "titulo": "A Função Afim",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT101",
+    "EM13MAT401",
+    "EM13MAT501"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Investigue uma tabela de variação linear, construa a regra e o gráfico",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Para f(x)=ax+b, a taxa de variação é a e o intercepto é b",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Função Afim (1º Grau)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A função polinomial $f(x) = ax + b$. Seu gráfico é sempre uma <strong>reta</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📈 Coeficientes:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>a (Angular):</strong> Define a inclinação (crescente ou decrescente).</li>\n                <li><strong>b (Linear):</strong> Onde a reta corta o eixo Y.</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>A Função Afim</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Para f(x)=ax+b, a taxa de variação é a e o intercepto é b. A partir de tabela, investigue diferenças e formule a regra; dois pontos distintos determinam a reta, mas verifique o domínio e o significado dos dados. Crescimento depende do sinal de a.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Reta y=3x+5: passa por (0,5),(2,11),(4,17).\"><title>Reta y=3x+5: passa por (0,5),(2,11),(4,17).</title><defs><clipPath id=\"limites\"><rect x=\"58\" y=\"38\" width=\"334\" height=\"169\"/></clipPath></defs><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 205.0H390\"/><path d=\"M60.0 40V205\"/></g><text x=\"60.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">0</text><text x=\"14\" y=\"209.0\" fill=\"currentColor\" font-size=\"12\">0</text><text x=\"142.5\" y=\"229\" fill=\"currentColor\" font-size=\"12\">1</text><text x=\"14\" y=\"167.75\" fill=\"currentColor\" font-size=\"12\">5</text><text x=\"225.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">2</text><text x=\"14\" y=\"126.5\" fill=\"currentColor\" font-size=\"12\">10</text><text x=\"307.5\" y=\"229\" fill=\"currentColor\" font-size=\"12\">3</text><text x=\"14\" y=\"85.25\" fill=\"currentColor\" font-size=\"12\">15</text><text x=\"390.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">4</text><text x=\"14\" y=\"44.0\" fill=\"currentColor\" font-size=\"12\">20</text><polyline points=\"60.00,163.75 61.65,163.25 63.30,162.76 64.95,162.26 66.60,161.77 68.25,161.28 69.90,160.78 71.55,160.28 73.20,159.79 74.85,159.30 76.50,158.80 78.15,158.31 79.80,157.81 81.45,157.31 83.10,156.82 84.75,156.32 86.40,155.83 88.05,155.34 89.70,154.84 91.35,154.34 93.00,153.85 94.65,153.36 96.30,152.86 97.95,152.37 99.60,151.87 101.25,151.38 102.90,150.88 104.55,150.38 106.20,149.89 107.85,149.39 109.50,148.90 111.15,148.41 112.80,147.91 114.45,147.41 116.10,146.92 117.75,146.43 119.40,145.93 121.05,145.44 122.70,144.94 124.35,144.44 126.00,143.95 127.65,143.45 129.30,142.96 130.95,142.47 132.60,141.97 134.25,141.47 135.90,140.98 137.55,140.49 139.20,139.99 140.85,139.50 142.50,139.00 144.15,138.50 145.80,138.01 147.45,137.51 149.10,137.02 150.75,136.52 152.40,136.03 154.05,135.53 155.70,135.04 157.35,134.55 159.00,134.05 160.65,133.56 162.30,133.06 163.95,132.56 165.60,132.07 167.25,131.57 168.90,131.08 170.55,130.59 172.20,130.09 173.85,129.59 175.50,129.10 177.15,128.61 178.80,128.11 180.45,127.62 182.10,127.12 183.75,126.62 185.40,126.13 187.05,125.63 188.70,125.14 190.35,124.64 192.00,124.15 193.65,123.66 195.30,123.16 196.95,122.66 198.60,122.17 200.25,121.67 201.90,121.18 203.55,120.69 205.20,120.19 206.85,119.70 208.50,119.20 210.15,118.70 211.80,118.21 213.45,117.72 215.10,117.22 216.75,116.73 218.40,116.23 220.05,115.73 221.70,115.24 223.35,114.75 225.00,114.25 226.65,113.75 228.30,113.26 229.95,112.77 231.60,112.27 233.25,111.77 234.90,111.28 236.55,110.78 238.20,110.29 239.85,109.79 241.50,109.30 243.15,108.80 244.80,108.31 246.45,107.82 248.10,107.32 249.75,106.83 251.40,106.33 253.05,105.84 254.70,105.34 256.35,104.84 258.00,104.35 259.65,103.86 261.30,103.36 262.95,102.87 264.60,102.37 266.25,101.88 267.90,101.38 269.55,100.88 271.20,100.39 272.85,99.90 274.50,99.40 276.15,98.91 277.80,98.41 279.45,97.91 281.10,97.42 282.75,96.92 284.40,96.43 286.05,95.93 287.70,95.44 289.35,94.95 291.00,94.45 292.65,93.96 294.30,93.46 295.95,92.97 297.60,92.47 299.25,91.97 300.90,91.48 302.55,90.98 304.20,90.49 305.85,90.00 307.50,89.50 309.15,89.00 310.80,88.51 312.45,88.02 314.10,87.52 315.75,87.03 317.40,86.53 319.05,86.03 320.70,85.54 322.35,85.04 324.00,84.55 325.65,84.05 327.30,83.56 328.95,83.07 330.60,82.57 332.25,82.08 333.90,81.58 335.55,81.09 337.20,80.59 338.85,80.09 340.50,79.60 342.15,79.10 343.80,78.61 345.45,78.12 347.10,77.62 348.75,77.12 350.40,76.63 352.05,76.13 353.70,75.64 355.35,75.15 357.00,74.65 358.65,74.16 360.30,73.66 361.95,73.16 363.60,72.67 365.25,72.17 366.90,71.68 368.55,71.19 370.20,70.69 371.85,70.19 373.50,69.70 375.15,69.20 376.80,68.71 378.45,68.22 380.10,67.72 381.75,67.22 383.40,66.73 385.05,66.23 386.70,65.74 388.35,65.25 390.00,64.75\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\" clip-path=\"url(#limites)\"/><text x=\"397\" y=\"229\" fill=\"currentColor\">x</text><text x=\"15\" y=\"25\" fill=\"currentColor\">y</text></svg><h3>Exemplo resolvido</h3><p>Os pares (0,5),(2,11),(4,17) mantêm Δy/Δx=3, sugerindo y=3x+5. Conferir todos os pontos sustenta a conjectura no modelo linear informado.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Investigue uma tabela de variação linear, construa a regra e o gráfico. Compare uma taxa positiva, negativa e um modelo proporcional. Interprete criticamente um gráfico econômico ou científico com fonte identificada. Resolva ainda 3x+5≤20 e represente o conjunto solução na reta.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543</li><li>MC_MATEM_EM.pdf — páginas impressas 14, 17, 20</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "funcao_afim",
+      "proporcionalidade"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "a_funcao_afim.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A reta por (1,4) e (3,10) tem inclinação:",
+      "alternativas": [
+        "3",
+        "6",
+        "2"
+      ],
+      "correta": 0,
+      "explicacao": "(10−4)/(3−1)=3."
+    },
+    {
+      "id": "a_funcao_afim.producao",
+      "tipo": "discursiva",
+      "enunciado": "Investigue uma tabela de variação linear, construa a regra e o gráfico. Compare uma taxa positiva, negativa e um modelo proporcional. Interprete criticamente um gráfico econômico ou científico com fonte identificada. Resolva ainda 3x+5≤20 e represente o conjunto solução na reta.",
+      "gabarito": "Avaliar hipóteses, eixos, unidades, interceptos, taxas e limites da extrapolação; poucos pontos não provam linearidade universal. A desigualdade dá x≤5 no domínio real.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar hipóteses, eixos, unidades, interceptos, taxas e limites da extrapolação; poucos pontos não provam linearidade universal. A desigualdade dá x≤5 no domínio real.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "funcao_afim",
+    "proporcionalidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        11,
+        14,
+        17
+      ],
+      "paginasImpressas": "14, 17, 20",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao"
+  ],
+  "proximosPassos": [
+    "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

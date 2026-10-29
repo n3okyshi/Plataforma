@@ -2,36 +2,113 @@
   "id": "mat.ef03.geometria.poliedros_e_corpos_redondos",
   "componente": "mat",
   "nivel": "EF03",
-  "ordem": 2,
+  "ordem": 10,
   "unidade": "Geometria",
   "titulo": "Poliedros e Corpos Redondos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF03MA13"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Procure ou modele cubo, bloco retangular, pirâmide, cone, cilindro e esfera",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Modelos espaciais ajudam a nomear formas de objetos",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sólidos e Planificações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Classificação avançada. Aprendemos a \"abrir\" as caixas (planificação) e contamos os elementos: Vértices (pontas), Faces (lados) e Arestas (linhas).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📦 Abrindo a Caixa:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Planificar é desenhar no papel como o sólido ficaria se fosse desmontado.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Poliedros e Corpos Redondos</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Modelos espaciais ajudam a nomear formas de objetos. Cubos e blocos têm faces planas; cone, cilindro e esfera têm partes curvas. Pirâmides têm base e faces laterais triangulares. Observe por vários lados e considere detalhes que diferem do modelo.</p><h3>Exemplo resolvido</h3><p>Uma caixa pode lembrar um bloco retangular, uma lata um cilindro, uma bola uma esfera e um chapéu de festa um cone.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Procure ou modele cubo, bloco retangular, pirâmide, cone, cilindro e esfera. Registre um objeto para cada e compare dois modelos.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 287</li><li>MC_MATEM_EF.pdf — páginas impressas 328</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "figuras_espaciais",
+      "solidos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "poliedros_e_corpos_redondos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual objeto costuma lembrar um cilindro?",
+      "alternativas": [
+        "Bola",
+        "Caixa cúbica",
+        "Lata de base circular"
+      ],
+      "correta": 2,
+      "explicacao": "A lata tem duas bases circulares e lateral curva."
+    },
+    {
+      "id": "poliedros_e_corpos_redondos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Procure ou modele cubo, bloco retangular, pirâmide, cone, cilindro e esfera. Registre um objeto para cada e compare dois modelos.",
+      "gabarito": "Conferir seis correspondências baseadas na forma, não na cor ou função; aceitar desenhos e modelos construídos.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir seis correspondências baseadas na forma, não na cor ou função; aceitar desenhos e modelos construídos.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_espaciais",
+    "solidos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef03.geometria.congruencia_e_malhas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

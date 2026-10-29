@@ -1,0 +1,108 @@
+{
+  "id": "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 21,
+  "unidade": "Grandezas e Medidas",
+  "titulo": "Medições de Área, Volume e Capacidade",
+  "bncc": [
+    "EM13MAT201"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Proponha ou participe de ação local com medições reais de perímetro, área, volume, capacidade ou massa",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Uma ação comunitária deve começar por demanda real e medições adequadas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Medições de Área, Volume e Capacidade</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Uma ação comunitária deve começar por demanda real e medições adequadas. Modele áreas e volumes, converta capacidade e massa quando o contexto permitir e identifique perdas, espessuras ou margens. Proposta calculada não significa intervenção executada.</p><h3>Exemplo resolvido</h3><p>Para canteiro hipotético 4×3 m com camada de 0,2 m, o volume geométrico é 2,4 m³. Quantidade de massa depende da densidade do material e não pode ser inferida só do volume.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Proponha ou participe de ação local com medições reais de perímetro, área, volume, capacidade ou massa. Registre método, cálculo, incerteza, discussão com o grupo e limites da proposta, sem assumir execução não realizada.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "medicoes",
+      "area",
+      "volume"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "medicoes_de_area_volume_e_capacidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Volume geométrico de camada 5×2×0,1 m é:",
+      "alternativas": [
+        "1 m³",
+        "10 m³",
+        "0,1 m³"
+      ],
+      "correta": 0,
+      "explicacao": "Produto das dimensões."
+    },
+    {
+      "id": "medicoes_de_area_volume_e_capacidade.producao",
+      "tipo": "discursiva",
+      "enunciado": "Proponha ou participe de ação local com medições reais de perímetro, área, volume, capacidade ou massa. Registre método, cálculo, incerteza, discussão com o grupo e limites da proposta, sem assumir execução não realizada.",
+      "gabarito": "Avaliar demanda, medições, unidades, hipóteses e participação ou proposta efetiva. Não apresentar exemplo hipotético como levantamento real.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar demanda, medições, unidades, hipóteses e participação ou proposta efetiva. Não apresentar exemplo hipotético como levantamento real.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "medicoes",
+    "area",
+    "volume"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

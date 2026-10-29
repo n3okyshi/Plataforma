@@ -1,0 +1,106 @@
+{
+  "id": "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido",
+  "componente": "mat",
+  "nivel": "EF05",
+  "ordem": 15,
+  "unidade": "Propriedades da Igualdade",
+  "titulo": "Problemas com Termo Desconhecido",
+  "bncc": [
+    "EF05MA11"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Elabore problemas para □+27=80, 90−□=34 e 6×□=72",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Traduza uma situação por igualdade com uma operação e termo desconhecido",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Problemas com Termo Desconhecido</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Traduza uma situação por igualdade com uma operação e termo desconhecido. Identifique o significado e a unidade da incógnita; encontre o valor usando relações inversas e confira na sentença original e no contexto.</p><h3>Exemplo resolvido</h3><p>Quatro cadernos de mesmo preço custam 36 reais: 4×□=36, portanto cada um custa nove. A conferência é 4×9=36.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Elabore problemas para □+27=80, 90−□=34 e 6×□=72. Resolva e explique as operações inversas e a unidade de cada resposta.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 295</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "incognita",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "problemas_com_termo_desconhecido.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual completa □÷5=8?",
+      "alternativas": [
+        "40",
+        "13",
+        "3"
+      ],
+      "correta": 0,
+      "explicacao": "Quarenta dividido por cinco é oito."
+    },
+    {
+      "id": "problemas_com_termo_desconhecido.producao",
+      "tipo": "discursiva",
+      "enunciado": "Elabore problemas para □+27=80, 90−□=34 e 6×□=72. Resolva e explique as operações inversas e a unidade de cada resposta.",
+      "gabarito": "53,56,12. Conferir por substituição, coerência da história e não apenas transformação simbólica.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "53,56,12. Conferir por substituição, coerência da história e não apenas transformação simbólica.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "incognita",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

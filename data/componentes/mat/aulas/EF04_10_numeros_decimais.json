@@ -2,36 +2,114 @@
   "id": "mat.ef04.fracoes_e_decimais.numeros_decimais",
   "componente": "mat",
   "nivel": "EF04",
-  "ordem": 10,
+  "ordem": 6,
   "unidade": "Frações e Decimais",
   "titulo": "Números Decimais",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF04MA10"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Represente 0,4 e 0,04 em malhas de cem partes e na reta",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Décimos e centésimos estendem a organização decimal para partes da unidade",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números com Vírgula</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução aos Décimos (0,1) e Centésimos (0,01). A melhor forma de entender é usando dinheiro!\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💰 Moedinhas:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">1 Real é o inteiro. 10 centavos é um décimo (0,10). 1 centavo é um centésimo (0,01).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Números Decimais</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Décimos e centésimos estendem a organização decimal para partes da unidade. Dez décimos recompõem um inteiro; cem centésimos também. No dinheiro, um real corresponde a cem centavos. Conserve o valor ao trocar representações.</p><h3>Exemplo resolvido</h3><p>0,35 são três décimos e cinco centésimos, ou trinta e cinco centésimos. R$ 2,35 corresponde a dois reais e trinta e cinco centavos.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Represente 0,4 e 0,04 em malhas de cem partes e na reta. Monte R$ 3,70 por duas combinações e explique décimos, centésimos e zeros.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 291</li><li>MC_MATEM_EF.pdf — páginas impressas 98, 99</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "decimais",
+      "sistema_decimal"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "numeros_decimais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "0,6 corresponde a quantos centésimos?",
+      "alternativas": [
+        "60",
+        "6",
+        "600"
+      ],
+      "correta": 0,
+      "explicacao": "Seis décimos são sessenta centésimos."
+    },
+    {
+      "id": "numeros_decimais.producao",
+      "tipo": "discursiva",
+      "enunciado": "Represente 0,4 e 0,04 em malhas de cem partes e na reta. Monte R$ 3,70 por duas combinações e explique décimos, centésimos e zeros.",
+      "gabarito": "Quarenta e quatro centésimos, respectivamente. R$3,70 pode ser 3 reais+70 centavos ou 2 reais+170 centavos; conferir equivalência, não tamanho das peças.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Quarenta e quatro centésimos, respectivamente. R$3,70 pode ser 3 reais+70 centavos ou 2 reais+170 centavos; conferir equivalência, não tamanho das peças.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "decimais",
+    "sistema_decimal"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        293
+      ],
+      "paginasImpressas": "291",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        96
+      ],
+      "paginasImpressas": "98, 99",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef04.fracoes_e_decimais.introducao_as_fracoes"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

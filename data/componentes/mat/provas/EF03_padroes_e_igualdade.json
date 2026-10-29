@@ -1,0 +1,110 @@
+{
+  "id": "mat.ef03.padroes_e_igualdade.prova",
+  "titulo": "Avaliação: Padrões e Igualdade",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF03",
+  "unidade": "Padrões e Igualdade",
+  "bncc": [
+    "EF03MA10",
+    "EF03MA11"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef03.padroes_e_igualdade.prova.01",
+    "mat.ef03.padroes_e_igualdade.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF03MA10",
+      "questoes": [
+        "mat.ef03.padroes_e_igualdade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.padroes_e_igualdade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias#regularidades_em_sequencias.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA11",
+      "questoes": [
+        "mat.ef03.padroes_e_igualdade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.padroes_e_igualdade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas#igualdade_e_sentencas_matematicas.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef03.padroes_e_igualdade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Padrões e Igualdade",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF03MA10",
+      "EF03MA11"
+    ],
+    "atividadesOrigem": [
+      "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias#regularidades_em_sequencias.producao",
+      "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas#igualdade_e_sentencas_matematicas.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Regularidades em Sequências",
+        "enunciado": "Construa seis termos começando em 12 e somando sete. Depois seis termos de 45 retirando cinco. Oculte um termo e explique como recuperá-lo.",
+        "gabarito": "12,19,26,33,40,47; 45,40,35,30,25,20. Justificar o passo constante antes e depois da lacuna.",
+        "bncc": [
+          "EF03MA10"
+        ],
+        "atividadeOrigem": "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias#regularidades_em_sequencias.producao"
+      },
+      {
+        "titulo": "Igualdade e Sentenças Matemáticas",
+        "enunciado": "Escreva três adições e três subtrações com resultado 18. Forme igualdades entre elas e explique por cálculo ou peças.",
+        "gabarito": "Exemplos 10+8,9+9,12+6; 20−2,25−7,30−12. Cada lado de uma igualdade deve representar dezoito.",
+        "bncc": [
+          "EF03MA11"
+        ],
+        "atividadeOrigem": "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas#igualdade_e_sentencas_matematicas.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        32
+      ],
+      "paginasImpressas": "32, 35",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

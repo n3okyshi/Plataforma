@@ -1,0 +1,137 @@
+{
+  "id": "mat.em03.geometria_no_plano_cartesiano.prova",
+  "titulo": "Avaliação: Geometria no Plano Cartesiano",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM03",
+  "unidade": "Geometria no Plano Cartesiano",
+  "bncc": [
+    "EM13MAT105",
+    "EM13MAT301",
+    "EM13MAT401"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em03.geometria_no_plano_cartesiano.prova.01",
+    "mat.em03.geometria_no_plano_cartesiano.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT105",
+      "questoes": [
+        "mat.em03.geometria_no_plano_cartesiano.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.geometria_no_plano_cartesiano.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas#transformacoes_geometricas.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT301",
+      "questoes": [
+        "mat.em03.geometria_no_plano_cartesiano.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.geometria_no_plano_cartesiano.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT401",
+      "questoes": [
+        "mat.em03.geometria_no_plano_cartesiano.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em03.geometria_no_plano_cartesiano.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em03.geometria_no_plano_cartesiano.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Geometria no Plano Cartesiano",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT105",
+      "EM13MAT301",
+      "EM13MAT401"
+    ],
+    "atividadesOrigem": [
+      "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao",
+      "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas#transformacoes_geometricas.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Geometria Analítica: Ponto, Reta e Circunferência",
+        "enunciado": "Modele duas retas por dados e encontre sua intersecção como sistema. Construa distância e ponto médio geometricamente e represente uma circunferência por centro e raio; confira pontos nas equações.",
+        "gabarito": "Avaliar representações e domínio. Para pontos dados, distâncias e ponto médio devem concordar; vertical não possui inclinação finita. Equação de circunferência é ampliação complementar.",
+        "bncc": [
+          "EM13MAT301",
+          "EM13MAT401"
+        ],
+        "atividadeOrigem": "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao"
+      },
+      {
+        "titulo": "Transformações Geométricas",
+        "enunciado": "Construa padrão artístico ou fractal simples por isometrias e homotetias, registre regras e parâmetros e investigue duas ordens de composição. Compare razões de comprimento e área.",
+        "gabarito": "Avaliar execução, correspondência e parâmetros; homotetia negativa inclui inversão em relação ao centro.",
+        "bncc": [
+          "EM13MAT105"
+        ],
+        "atividadeOrigem": "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas#transformacoes_geometricas.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545,
+        546
+      ],
+      "paginasImpressas": "543, 544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        359,
+        363,
+        365,
+        374,
+        391
+      ],
+      "paginasImpressas": "362, 366, 368, 377, 394",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

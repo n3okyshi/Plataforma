@@ -1,0 +1,118 @@
+{
+  "id": "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 17,
+  "unidade": "Modelagem e Risco",
+  "titulo": "Escolhas e Risco Probabilístico",
+  "bncc": [
+    "EM13MAT106",
+    "EM13MAT312"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Compare duas escolhas hipotéticas por árvore de eventos, probabilidades e consequências",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Decisões sob risco precisam de probabilidades, consequências e informação disponível",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Escolhas e Risco Probabilístico</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Decisões sob risco precisam de probabilidades, consequências e informação disponível. Probabilidade condicional depende da base. Valor esperado resume média do modelo e não garante resultado individual. Trabalhe com dados hipotéticos declarados, sem transformar cálculo em prescrição pessoal.</p><h3>Exemplo resolvido</h3><p>Jogo fictício com ganho 10 em chance 0,2 e perda 3 em chance 0,8 tem valor esperado 2−2,4=−0,4. Isso não prevê o resultado de uma jogada.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Compare duas escolhas hipotéticas por árvore de eventos, probabilidades e consequências. Calcule valores esperados e discuta variabilidade, informação ausente e critérios além da média.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li><li>MC_MATEM_EM.pdf — páginas impressas 275, 277</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "risco",
+      "probabilidade",
+      "decisao"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "escolhas_e_risco_probabilistico.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Ganho 8 com chance 1/4 e perda 4 com chance 3/4 tem valor esperado:",
+      "alternativas": [
+        "4",
+        "−1",
+        "1"
+      ],
+      "correta": 1,
+      "explicacao": "2−3=−1."
+    },
+    {
+      "id": "escolhas_e_risco_probabilistico.producao",
+      "tipo": "discursiva",
+      "enunciado": "Compare duas escolhas hipotéticas por árvore de eventos, probabilidades e consequências. Calcule valores esperados e discuta variabilidade, informação ausente e critérios além da média.",
+      "gabarito": "Avaliar hipóteses, unidades e distinção entre modelo e decisão individual; não recomendar apostas ou tratamentos reais.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar hipóteses, unidades e distinção entre modelo e decisão individual; não recomendar apostas ou tratamentos reais.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "risco",
+    "probabilidade",
+    "decisao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        272,
+        274
+      ],
+      "paginasImpressas": "275, 277",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

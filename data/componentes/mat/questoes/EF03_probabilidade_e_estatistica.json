@@ -1,0 +1,286 @@
+[
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis",
+    "bncc": [
+      "EF03MA25"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual cor tem maior chance com 5 vermelhas e 2 azuis, em sorteio sem olhar?",
+    "opcoes": [
+      "Azul",
+      "Sempre iguais",
+      "Vermelha"
+    ],
+    "correta": 2,
+    "explicacao": "Há mais peças vermelhas em condições iguais de retirada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+    "bncc": [
+      "EF03MA26",
+      "EF03MA27"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Nos dados do exemplo, quantos votos de desenho há nos dois grupos?",
+    "opcoes": [
+      "13",
+      "11",
+      "12"
+    ],
+    "correta": 1,
+    "explicacao": "4+7=11.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas",
+    "bncc": [
+      "EF03MA26",
+      "EF03MA27"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Nesses dados, a diferença entre ônibus e bicicleta é:",
+    "opcoes": [
+      "6",
+      "3",
+      "12"
+    ],
+    "correta": 0,
+    "explicacao": "9−3=6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas",
+    "bncc": [
+      "EF03MA28"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O que deve preencher uma pesquisa realizada?",
+    "opcoes": [
+      "Números inventados",
+      "Somente o resultado preferido",
+      "Respostas efetivamente coletadas"
+    ],
+    "correta": 2,
+    "explicacao": "O registro precisa corresponder à coleta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis",
+    "bncc": [
+      "EF03MA25"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com apenas amarelas e verdes, quais cores podem sair?",
+    "opcoes": [
+      "Qualquer cor",
+      "Somente azul",
+      "Amarela ou verde"
+    ],
+    "correta": 2,
+    "explicacao": "A lista respeita as cores existentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+    "bncc": [
+      "EF03MA26",
+      "EF03MA27"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No grupo B, a categoria mais frequente é:",
+    "opcoes": [
+      "As duas iguais",
+      "Desenho",
+      "Bola"
+    ],
+    "correta": 1,
+    "explicacao": "Sete supera cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas",
+    "bncc": [
+      "EF03MA26",
+      "EF03MA27"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se cada passo vale três votos, uma coluna de nove votos ocupa:",
+    "opcoes": [
+      "3 passos",
+      "9 passos",
+      "27 passos"
+    ],
+    "correta": 0,
+    "explicacao": "9÷3=3 passos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas",
+    "bncc": [
+      "EF03MA28"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Vinte pessoas respondem duas perguntas cada. Há quantos participantes?",
+    "opcoes": [
+      "40",
+      "2",
+      "20"
+    ],
+    "correta": 2,
+    "explicacao": "Participantes são pessoas, não quantidade de respostas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

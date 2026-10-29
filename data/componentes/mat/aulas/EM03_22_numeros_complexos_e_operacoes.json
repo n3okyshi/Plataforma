@@ -1,0 +1,104 @@
+{
+  "id": "mat.em03.complexos_e_polinomios_complementar.numeros_complexos_e_operacoes",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 22,
+  "unidade": "Complexos e Polinômios — Complementar",
+  "titulo": "Numeros complexos e operacoes",
+  "bncc": [],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Represente complexos no plano, efetue soma, produto e quociente e confira o quociente pelo produto",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Complexos têm forma a+bi, com i²=−1",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Numeros complexos e operacoes</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Complexos têm forma a+bi, com i²=−1. Somam-se partes reais e imaginárias; multiplicação usa distributiva e i²=−1. O conjugado a−bi ajuda na divisão por complexo não nulo. Módulo √(a²+b²) é distância à origem no plano de Argand-Gauss.</p><h3>Exemplo resolvido</h3><p>(2+3i)(1−i)=5+i. O conjugado de 3+4i é 3−4i e seu módulo cinco; o produto dos conjugados é 25.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Represente complexos no plano, efetue soma, produto e quociente e confira o quociente pelo produto. Investigue o ciclo das potências de i.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 310, 311, 315, 318, 323, 324</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "numeros_complexos_e_operacoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "(1+i)² vale:",
+      "alternativas": [
+        "2",
+        "1+i",
+        "2i"
+      ],
+      "correta": 2,
+      "explicacao": "1+2i+i²=2i."
+    },
+    {
+      "id": "numeros_complexos_e_operacoes.producao",
+      "tipo": "discursiva",
+      "enunciado": "Represente complexos no plano, efetue soma, produto e quociente e confira o quociente pelo produto. Investigue o ciclo das potências de i.",
+      "gabarito": "Conferir i²=−1, coordenadas (a,b), denominador não nulo e ciclo 1,i,−1,−i. O módulo é real não negativo.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir i²=−1, coordenadas (a,b), denominador não nulo e ciclo 1,i,−1,−i. O módulo é real não negativo.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        307,
+        308,
+        312,
+        315,
+        320,
+        321
+      ],
+      "paginasImpressas": "310, 311, 315, 318, 323, 324",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
+}

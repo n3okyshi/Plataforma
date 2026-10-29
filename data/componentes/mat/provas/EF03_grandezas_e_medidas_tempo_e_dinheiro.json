@@ -1,0 +1,116 @@
+{
+  "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova",
+  "titulo": "Avaliação: Grandezas e Medidas: Tempo e Dinheiro",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF03",
+  "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
+  "bncc": [
+    "EF03MA22",
+    "EF03MA23",
+    "EF03MA24"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.01",
+    "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF03MA22",
+      "questoes": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA23",
+      "questoes": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA24",
+      "questoes": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario#sistema_monetario.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Grandezas e Medidas: Tempo e Dinheiro",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF03MA22",
+      "EF03MA23",
+      "EF03MA24"
+    ],
+    "atividadesOrigem": [
+      "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.producao",
+      "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario#sistema_monetario.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Horas e Minutos",
+        "enunciado": "Leia o relógio ilustrado e compare com 03:30 digital. Observe horários reais de início e fim de uma tarefa, calcule a duração e represente um deles num relógio de papel. Converta dois minutos em segundos.",
+        "gabarito": "03:30; duração depende da observação; dois minutos=120 s. Conferir os dois ponteiros, sessenta minutos por hora e registros reais.",
+        "bncc": [
+          "EF03MA22",
+          "EF03MA23"
+        ],
+        "atividadeOrigem": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.producao"
+      },
+      {
+        "titulo": "Sistema Monetário",
+        "enunciado": "Crie uma compra e uma troca com cartões de valores do real. Proponha dois pagamentos equivalentes, calcule o troco e confira com outra estratégia.",
+        "gabarito": "As somas precisam corresponder aos valores representados. Avaliar pergunta, equivalência, preço e troco; aceitar combinações distintas corretas.",
+        "bncc": [
+          "EF03MA24"
+        ],
+        "atividadeOrigem": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario#sistema_monetario.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

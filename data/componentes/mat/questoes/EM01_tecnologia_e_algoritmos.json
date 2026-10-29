@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mat.em01.tecnologia_e_algoritmos.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Tecnologia e Algoritmos",
+    "aulaId": "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente",
+    "bncc": [
+      "EM13MAT315"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Ao somar 1 até 4, a saída é:",
+    "opcoes": [
+      "4",
+      "16",
+      "10"
+    ],
+    "correta": 2,
+    "explicacao": "1+2+3+4=10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.tecnologia_e_algoritmos.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Tecnologia e Algoritmos",
+    "aulaId": "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis",
+    "bncc": [
+      "EM13MAT405"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Em Python, range(1,4) produz:",
+    "opcoes": [
+      "0,1,2,3",
+      "1,2,3",
+      "1,2,3,4"
+    ],
+    "correta": 1,
+    "explicacao": "O limite superior é excluído.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.tecnologia_e_algoritmos.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Tecnologia e Algoritmos",
+    "aulaId": "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente",
+    "bncc": [
+      "EM13MAT315"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um laço precisa de condição de parada para:",
+    "opcoes": [
+      "Garantir qualquer resposta",
+      "Dispensar entradas",
+      "Evitar repetição sem término"
+    ],
+    "correta": 2,
+    "explicacao": "A execução precisa avançar para o término.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.tecnologia_e_algoritmos.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Tecnologia e Algoritmos",
+    "aulaId": "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis",
+    "bncc": [
+      "EM13MAT405"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "x=x+1 significa no programa:",
+    "opcoes": [
+      "Apagar x",
+      "Atualizar x a partir do valor anterior",
+      "Uma igualdade impossível a resolver"
+    ],
+    "correta": 1,
+    "explicacao": "É atribuição, não equação algébrica.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

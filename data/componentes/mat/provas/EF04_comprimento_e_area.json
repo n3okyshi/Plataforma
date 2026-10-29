@@ -1,0 +1,104 @@
+{
+  "id": "mat.ef04.comprimento_e_area.prova",
+  "titulo": "Avaliação: Comprimento e Área",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF04",
+  "unidade": "Comprimento e Área",
+  "bncc": [
+    "EF04MA20",
+    "EF04MA21"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef04.comprimento_e_area.prova.01",
+    "mat.ef04.comprimento_e_area.prova.02",
+    "mat.ef04.comprimento_e_area.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF04MA20",
+      "questoes": [
+        "mat.ef04.comprimento_e_area.prova.01",
+        "mat.ef04.comprimento_e_area.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.comprimento_e_area.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.producao"
+      ]
+    },
+    {
+      "bncc": "EF04MA21",
+      "questoes": [
+        "mat.ef04.comprimento_e_area.prova.01",
+        "mat.ef04.comprimento_e_area.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef04.comprimento_e_area.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef04.comprimento_e_area.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Comprimento e Área",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF04MA20",
+      "EF04MA21"
+    ],
+    "atividadesOrigem": [
+      "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Perímetro e Área",
+        "enunciado": "Desenhe duas figuras de área doze e contornos diferentes. Acrescente figura com metades de quadradinhos e conte sua área. Estime e meça ainda um contorno real com instrumento adequado.",
+        "gabarito": "Exemplos 3×4 e 2×6; justificar contagens e reunião de metades. Medição real deve registrar instrumento, unidade e valor observado.",
+        "bncc": [
+          "EF04MA20",
+          "EF04MA21"
+        ],
+        "atividadeOrigem": "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.producao"
+      }
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        295
+      ],
+      "paginasImpressas": "293",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        112
+      ],
+      "paginasImpressas": "112, 115",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

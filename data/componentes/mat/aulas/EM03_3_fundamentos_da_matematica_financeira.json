@@ -2,36 +2,115 @@
   "id": "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira",
   "componente": "mat",
   "nivel": "EM03",
-  "ordem": 3,
+  "ordem": 8,
   "unidade": "Educação Financeira",
   "titulo": "Fundamentos da Matemática Financeira",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT303"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construa gráficos e planilha para comparar dois modelos hipotéticos de mesma taxa",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Compare modelos por bases, períodos e condições",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Matemática do Dinheiro</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conceitos vitais: Inflação (perda de poder de compra) e Amortização (como pagar dívidas longas).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🏠 SAC vs Price:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">No financiamento da casa (SAC), as parcelas diminuem. No carro (Price), as parcelas costumam ser fixas.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Fundamentos da Matemática Financeira</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Compare modelos por bases, períodos e condições. Em juros simples M=C(1+in); em compostos M=C(1+i)^n. Taxa efetiva em vários períodos depende de fatores multiplicativos. Um valor nominal não informa sozinho o poder de compra, e simulações não substituem condições reais de contratos.</p><h3>Exemplo resolvido</h3><p>1000 a 2% por três períodos: simples 1060; compostos 1061,208. A taxa composta total é cerca de 6,1208%, não exatamente 6%.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa gráficos e planilha para comparar dois modelos hipotéticos de mesma taxa. Determine taxa equivalente de dois períodos e analise diferenças nominal e real com inflação fornecida.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li><li>MC_MATEM_EM.pdf — páginas impressas 299, 303, 305</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "matematica_financeira",
+      "juros"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "fundamentos_da_matematica_financeira.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Dois aumentos de 10% produzem taxa total:",
+      "alternativas": [
+        "10%",
+        "21%",
+        "20%"
+      ],
+      "correta": 1,
+      "explicacao": "1,1²−1=0,21."
+    },
+    {
+      "id": "fundamentos_da_matematica_financeira.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa gráficos e planilha para comparar dois modelos hipotéticos de mesma taxa. Determine taxa equivalente de dois períodos e analise diferenças nominal e real com inflação fornecida.",
+      "gabarito": "Conferir períodos, bases e arredondamento. Retorno real por fatores: (1+retorno nominal)/(1+inflação)−1, dentro das hipóteses dadas.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir períodos, bases e arredondamento. Retorno real por fatores: (1+retorno nominal)/(1+inflação)−1, dentro das hipóteses dadas.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "matematica_financeira",
+    "juros"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        296,
+        300,
+        302
+      ],
+      "paginasImpressas": "299, 303, 305",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

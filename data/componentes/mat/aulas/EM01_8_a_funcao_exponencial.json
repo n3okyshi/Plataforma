@@ -5,33 +5,114 @@
   "ordem": 8,
   "unidade": "Função Exponencial",
   "titulo": "A Função Exponencial",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT304",
+    "EM13MAT403"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Modele crescimento de vinte por cento e redução de vinte por cento por período",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Em f(x)=a^x, a>0 e a≠1, o domínio é real e a imagem positiva",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Função Exponencial</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A função $f(x) = a^x$. Crescimento ou decaimento muito rápido.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🦠 Aplicações:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Essencial para entender juros compostos, crescimento de bactérias e epidemias.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>A Função Exponencial</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Em f(x)=a^x, a&gt;0 e a≠1, o domínio é real e a imagem positiva. Para a&gt;1 há crescimento; para 0&lt;a&lt;1, decrescimento. Uma variação percentual constante multiplica o saldo, em vez de acrescentar quantia fixa. Tabelas e gráficos mostram essa diferença.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Função y=2 elevado a x; ponto (0,1) e crescimento exponencial.\"><title>Função y=2 elevado a x; ponto (0,1) e crescimento exponencial.</title><defs><clipPath id=\"limites\"><rect x=\"58\" y=\"38\" width=\"334\" height=\"169\"/></clipPath></defs><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 205.0H390\"/><path d=\"M192.0 40V205\"/></g><text x=\"60.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">-2</text><text x=\"14\" y=\"209.0\" fill=\"currentColor\" font-size=\"12\">0</text><text x=\"142.5\" y=\"229\" fill=\"currentColor\" font-size=\"12\">-0.75</text><text x=\"14\" y=\"167.75\" fill=\"currentColor\" font-size=\"12\">2</text><text x=\"225.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">0.5</text><text x=\"14\" y=\"126.5\" fill=\"currentColor\" font-size=\"12\">4</text><text x=\"307.5\" y=\"229\" fill=\"currentColor\" font-size=\"12\">1.75</text><text x=\"14\" y=\"85.25\" fill=\"currentColor\" font-size=\"12\">6</text><text x=\"390.0\" y=\"229\" fill=\"currentColor\" font-size=\"12\">3</text><text x=\"14\" y=\"44.0\" fill=\"currentColor\" font-size=\"12\">8</text><polyline points=\"60.00,199.84 61.65,199.75 63.30,199.66 64.95,199.57 66.60,199.47 68.25,199.38 69.90,199.28 71.55,199.18 73.20,199.08 74.85,198.97 76.50,198.87 78.15,198.76 79.80,198.65 81.45,198.54 83.10,198.43 84.75,198.31 86.40,198.20 88.05,198.08 89.70,197.96 91.35,197.83 93.00,197.71 94.65,197.58 96.30,197.45 97.95,197.32 99.60,197.18 101.25,197.05 102.90,196.91 104.55,196.77 106.20,196.62 107.85,196.48 109.50,196.33 111.15,196.18 112.80,196.02 114.45,195.87 116.10,195.71 117.75,195.54 119.40,195.38 121.05,195.21 122.70,195.04 124.35,194.86 126.00,194.69 127.65,194.51 129.30,194.32 130.95,194.14 132.60,193.95 134.25,193.75 135.90,193.56 137.55,193.36 139.20,193.15 140.85,192.95 142.50,192.74 144.15,192.52 145.80,192.30 147.45,192.08 149.10,191.86 150.75,191.63 152.40,191.39 154.05,191.15 155.70,190.91 157.35,190.67 159.00,190.42 160.65,190.16 162.30,189.90 163.95,189.64 165.60,189.37 167.25,189.10 168.90,188.82 170.55,188.54 172.20,188.25 173.85,187.95 175.50,187.66 177.15,187.35 178.80,187.04 180.45,186.73 182.10,186.41 183.75,186.09 185.40,185.76 187.05,185.42 188.70,185.08 190.35,184.73 192.00,184.38 193.65,184.01 195.30,183.65 196.95,183.27 198.60,182.89 200.25,182.51 201.90,182.12 203.55,181.72 205.20,181.31 206.85,180.89 208.50,180.47 210.15,180.04 211.80,179.61 213.45,179.16 215.10,178.71 216.75,178.25 218.40,177.79 220.05,177.31 221.70,176.83 223.35,176.33 225.00,175.83 226.65,175.32 228.30,174.80 229.95,174.28 231.60,173.74 233.25,173.19 234.90,172.64 236.55,172.07 238.20,171.49 239.85,170.91 241.50,170.31 243.15,169.71 244.80,169.09 246.45,168.46 248.10,167.82 249.75,167.17 251.40,166.51 253.05,165.84 254.70,165.16 256.35,164.46 258.00,163.75 259.65,163.03 261.30,162.30 262.95,161.55 264.60,160.79 266.25,160.02 267.90,159.23 269.55,158.43 271.20,157.62 272.85,156.79 274.50,155.95 276.15,155.09 277.80,154.22 279.45,153.33 281.10,152.42 282.75,151.51 284.40,150.57 286.05,149.62 287.70,148.65 289.35,147.67 291.00,146.66 292.65,145.64 294.30,144.61 295.95,143.55 297.60,142.48 299.25,141.38 300.90,140.27 302.55,139.14 304.20,137.99 305.85,136.82 307.50,135.63 309.15,134.41 310.80,133.18 312.45,131.92 314.10,130.65 315.75,129.35 317.40,128.02 319.05,126.68 320.70,125.31 322.35,123.92 324.00,122.50 325.65,121.06 327.30,119.59 328.95,118.10 330.60,116.58 332.25,115.03 333.90,113.46 335.55,111.86 337.20,110.23 338.85,108.58 340.50,106.89 342.15,105.18 343.80,103.43 345.45,101.66 347.10,99.85 348.75,98.01 350.40,96.14 352.05,94.24 353.70,92.30 355.35,90.33 357.00,88.33 358.65,86.29 360.30,84.21 361.95,82.10 363.60,79.95 365.25,77.77 366.90,75.54 368.55,73.28 370.20,70.98 371.85,68.64 373.50,66.25 375.15,63.83 376.80,61.36 378.45,58.85 380.10,56.29 381.75,53.69 383.40,51.05 385.05,48.36 386.70,45.62 388.35,42.83 390.00,40.00\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"2\" clip-path=\"url(#limites)\"/><text x=\"397\" y=\"229\" fill=\"currentColor\">x</text><text x=\"15\" y=\"25\" fill=\"currentColor\">y</text></svg><h3>Exemplo resolvido</h3><p>Modelo hipotético N(t)=100×1,2^t dá 100,120,144 em três instantes. A taxa percentual é constante, mas os acréscimos absolutos crescem.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Modele crescimento de vinte por cento e redução de vinte por cento por período. Faça tabela, gráfico e equação para atingir um valor. Compare com modelo linear e resolva desigualdade exponencial respeitando monotonicidade.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li><li>MC_MATEM_EM.pdf — páginas impressas 68, 69, 72, 76</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "funcao_exponencial",
+      "crescimento"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "a_funcao_exponencial.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No modelo 200×1,1^t, após dois períodos há:",
+      "alternativas": [
+        "220",
+        "242",
+        "240"
+      ],
+      "correta": 1,
+      "explicacao": "200×1,21=242."
+    },
+    {
+      "id": "a_funcao_exponencial.producao",
+      "tipo": "discursiva",
+      "enunciado": "Modele crescimento de vinte por cento e redução de vinte por cento por período. Faça tabela, gráfico e equação para atingir um valor. Compare com modelo linear e resolva desigualdade exponencial respeitando monotonicidade.",
+      "gabarito": "Fatores 1,2 e 0,8. Domínio depende do contexto; não supor crescimento ilimitado real fora das condições do modelo.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Fatores 1,2 e 0,8. Domínio depende do contexto; não supor crescimento ilimitado real fora das condições do modelo.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "funcao_exponencial",
+    "crescimento"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        65,
+        66,
+        69,
+        73
+      ],
+      "paginasImpressas": "68, 69, 72, 76",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.funcao_exponencial.potenciacao_e_radiciacao"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes",
+  "componente": "mat",
+  "nivel": "EF04",
+  "ordem": 19,
+  "unidade": "Padrões e Igualdade",
+  "titulo": "Relações Inversas entre Operações",
+  "bncc": [
+    "EF04MA04",
+    "EF04MA13"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Investigue três pares de operações inversas, com e sem calculadora",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Adição e subtração, multiplicação e divisão podem desfazer relações",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Relações Inversas entre Operações</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Adição e subtração, multiplicação e divisão podem desfazer relações. Investigue igualdades numéricas e use-as para resolver problemas e conferir cálculos. Divisão por zero não é uma operação admitida; respeite o domínio e as condições do problema.</p><h3>Exemplo resolvido</h3><p>Se 24×15=360, então 360÷15=24 e 360÷24=15. A relação permite conferir sem repetir o mesmo algoritmo.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Investigue três pares de operações inversas, com e sem calculadora. Use-os para resolver uma partilha e completar uma quantidade, explicando por que a conferência reconstrói os dados.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 291</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "operacoes_inversas",
+      "igualdade"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "relacoes_inversas_entre_operacoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Se 18×7=126, 126÷7 vale:",
+      "alternativas": [
+        "7",
+        "119",
+        "18"
+      ],
+      "correta": 2,
+      "explicacao": "A divisão recupera o fator desconhecido."
+    },
+    {
+      "id": "relacoes_inversas_entre_operacoes.producao",
+      "tipo": "discursiva",
+      "enunciado": "Investigue três pares de operações inversas, com e sem calculadora. Use-os para resolver uma partilha e completar uma quantidade, explicando por que a conferência reconstrói os dados.",
+      "gabarito": "As igualdades precisam ser verdadeiras e ligadas aos significados das situações; aceitar diversas estratégias, evitando divisão por zero.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "As igualdades precisam ser verdadeiras e ligadas aos significados das situações; aceitar diversas estratégias, evitando divisão por zero.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "operacoes_inversas",
+    "igualdade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        293
+      ],
+      "paginasImpressas": "291",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias"
+  ],
+  "proximosPassos": [
+    "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

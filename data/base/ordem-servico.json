@@ -39,12 +39,15 @@
     {
       "ordem": 8,
       "trabalho": "Completar todas as unidades de Matemática do 1º ao 9º ano em todas as camadas",
-      "estado": "em_andamento",
+      "estado": "conteudo_integral_para_testes",
       "subescopos": [
         {
           "niveis": [
             "EF01",
             "EF02",
+            "EF03",
+            "EF04",
+            "EF05",
             "EF06",
             "EF07",
             "EF08",
@@ -52,25 +55,32 @@
           ],
           "estado": "conteudo_integral_para_testes",
           "pendencias": [
-            "Aplicação em turma e homologação docente.",
+            "Aplicação das produções e homologação docente.",
             "Revisão visual e acessibilidade.",
-            "Persistência Firebase e cache em ambiente real."
+            "Firebase e cache em ambiente real."
           ]
-        },
-        {
-          "niveis": [
-            "EF03",
-            "EF04",
-            "EF05"
-          ],
-          "estado": "planejamento_a_completar"
         }
       ]
     },
     {
       "ordem": 9,
       "trabalho": "Completar Matemática do 1º ao 3º ano do Ensino Médio em todas as camadas e realizar testes",
-      "estado": "pendente"
+      "estado": "conteudo_integral_para_testes",
+      "subescopos": [
+        {
+          "niveis": [
+            "EM01",
+            "EM02",
+            "EM03"
+          ],
+          "estado": "conteudo_integral_para_testes",
+          "pendencias": [
+            "Aplicação das produções e homologação docente.",
+            "Revisão visual e acessibilidade.",
+            "Firebase e cache em ambiente real."
+          ]
+        }
+      ]
     },
     {
       "ordem": 10,
@@ -103,7 +113,7 @@
       "estado": "pendente"
     }
   ],
-  "marcoAtual": "Matemática EF01–EF02 e EF06–EF09 disponíveis para testes, com pendências registradas. Próximo lote de autoria: EF03, seguido de EF04–EF05 antes do Ensino Médio.",
+  "marcoAtual": "Conteúdo de Matemática EF01–EF09 e EM01–EM03 implementado em todas as camadas para testes. Nenhum lote está homologado como concluído; pendências técnicas reais e pedagógicas permanecem. Próxima autoria da ordem: piloto de Língua Portuguesa EF06.",
   "regra": "Rascunhos recuperados e vínculos propostos não equivalem a conteúdos concluídos.",
   "criteriosDeConclusao": [
     "Todas as camadas têm fonte rastreável e conteúdo efetivo.",

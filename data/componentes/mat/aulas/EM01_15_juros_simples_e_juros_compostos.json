@@ -1,0 +1,117 @@
+{
+  "id": "mat.em01.matematica_financeira.juros_simples_e_juros_compostos",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 15,
+  "unidade": "Matemática Financeira",
+  "titulo": "Juros Simples e Juros Compostos",
+  "bncc": [
+    "EM13MAT303"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Monte planilha e gráficos para cinco períodos em ambos os modelos",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Juros simples acrescentam a cada período C×i, calculado sobre o capital inicial",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Juros Simples e Juros Compostos</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Juros simples acrescentam a cada período C×i, calculado sobre o capital inicial. Compostos multiplicam o saldo por 1+i, gerando M=C(1+i)^n. Taxa e período devem ser compatíveis. São modelos hipotéticos; custos, tributos e condições de produtos reais não estão pressupostos.</p><h3>Exemplo resolvido</h3><p>Sobre 1000 a 10% por dois períodos, simples dão 1200; compostos dão 1210. A diferença decorre da base atualizada, não de arredondamento.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Monte planilha e gráficos para cinco períodos em ambos os modelos. Explique crescimento linear e exponencial, taxa, base e limitações das hipóteses.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li><li>MC_MATEM_EM.pdf — páginas impressas 299, 303</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "juros_simples",
+      "juros_compostos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "juros_simples_e_juros_compostos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "1000 a 5% composto por dois períodos resulta em:",
+      "alternativas": [
+        "1102,50",
+        "1100",
+        "1050"
+      ],
+      "correta": 0,
+      "explicacao": "1000×1,05²=1102,50."
+    },
+    {
+      "id": "juros_simples_e_juros_compostos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Monte planilha e gráficos para cinco períodos em ambos os modelos. Explique crescimento linear e exponencial, taxa, base e limitações das hipóteses.",
+      "gabarito": "Conferir fórmulas, capital inicial, período zero, unidades e arredondamento ao final; não apresentar projeções como garantia.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir fórmulas, capital inicial, período zero, unidades e arredondamento ao final; não apresentar projeções como garantia.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "juros_simples",
+    "juros_compostos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        296,
+        300
+      ],
+      "paginasImpressas": "299, 303",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto"
+  ],
+  "proximosPassos": [
+    "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

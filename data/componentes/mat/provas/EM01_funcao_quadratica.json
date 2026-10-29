@@ -1,0 +1,155 @@
+{
+  "id": "mat.em01.funcao_quadratica.prova",
+  "titulo": "Avaliação: Função Quadrática",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM01",
+  "unidade": "Função Quadrática",
+  "bncc": [
+    "EM13MAT302",
+    "EM13MAT402",
+    "EM13MAT502",
+    "EM13MAT503"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em01.funcao_quadratica.prova.01",
+    "mat.em01.funcao_quadratica.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT302",
+      "questoes": [
+        "mat.em01.funcao_quadratica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_quadratica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT402",
+      "questoes": [
+        "mat.em01.funcao_quadratica.prova.01",
+        "mat.em01.funcao_quadratica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_quadratica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT502",
+      "questoes": [
+        "mat.em01.funcao_quadratica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_quadratica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT503",
+      "questoes": [
+        "mat.em01.funcao_quadratica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_quadratica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em01.funcao_quadratica.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Função Quadrática",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT302",
+      "EM13MAT402",
+      "EM13MAT502",
+      "EM13MAT503"
+    ],
+    "atividadesOrigem": [
+      "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao",
+      "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "A Função Quadrática",
+        "enunciado": "Investigue áreas de quadrados de lados 1,2,3,4 e formule uma regra. Construa tabelas e gráficos de y=x² e y=2x²+3 e compare proporcionalidade ao quadrado, concavidade e interceptos.",
+        "gabarito": "Áreas 1,4,9,16, regra A=l². A segunda função não é diretamente proporcional a x² por causa da parcela três.",
+        "bncc": [
+          "EM13MAT302",
+          "EM13MAT402",
+          "EM13MAT502"
+        ],
+        "atividadeOrigem": "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao"
+      },
+      {
+        "titulo": "Análises Algébrica e Gráfica da Função Quadrática",
+        "enunciado": "Dedique tabela, gráfico e completamento de quadrado ao modelo A(x)=x(10−x). Determine raízes, máximo e intervalos de positividade com apoio de planilha ou software.",
+        "gabarito": "Raízes zero e dez; A=25−(x−5)², máximo vinte e cinco em cinco. Positiva entre raízes; extremos físicos devem ser interpretados.",
+        "bncc": [
+          "EM13MAT402",
+          "EM13MAT503"
+        ],
+        "atividadeOrigem": "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        26,
+        30
+      ],
+      "paginasImpressas": "29, 33",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        27,
+        30,
+        34,
+        39,
+        41
+      ],
+      "paginasImpressas": "30, 33, 37, 42, 44",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

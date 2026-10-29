@@ -1,4 +1,4 @@
-/** Questões e avaliações autorais de Matemática EF01–EF02 e EF06–EF09. */
+/** Matemática EF01–EF09 e EM01–EM03 — bancos separados por seleção curricular. */
 registrarQuestoes([
   {
     "id": "mat.ef01.adicao_e_subtracao.treino.01",
@@ -6319,6 +6319,6414 @@ registrarQuestoes([
         ],
         "paginasImpressas": "35",
         "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.adicao_e_subtracao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef03.adicao_e_subtracao.estrategias_de_calculo_mental_e_escrito",
+    "bncc": [
+      "EF03MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "499+126 pode ser calculado como:",
+    "opcoes": [
+      "500+126+1",
+      "499−126",
+      "500+126−1"
+    ],
+    "correta": 2,
+    "explicacao": "Somou-se uma unidade a mais, que deve ser retirada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.adicao_e_subtracao.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef03.adicao_e_subtracao.problemas_de_adicao_e_subtracao",
+    "bncc": [
+      "EF03MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para completar 275 até 400, faltam:",
+    "opcoes": [
+      "675",
+      "125",
+      "135"
+    ],
+    "correta": 1,
+    "explicacao": "400−275=125.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.adicao_e_subtracao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef03.adicao_e_subtracao.estrategias_de_calculo_mental_e_escrito",
+    "bncc": [
+      "EF03MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 702−198?",
+    "opcoes": [
+      "514",
+      "900",
+      "504"
+    ],
+    "correta": 2,
+    "explicacao": "Retirar 200 e devolver dois: 502+2=504.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.adicao_e_subtracao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Adição e Subtração",
+    "aulaId": "mat.ef03.adicao_e_subtracao.problemas_de_adicao_e_subtracao",
+    "bncc": [
+      "EF03MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma coleção de 186 itens recebe 127. O total é:",
+    "opcoes": [
+      "59",
+      "313",
+      "303"
+    ],
+    "correta": 1,
+    "explicacao": "186+100+27=313.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.divisao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Divisão",
+    "aulaId": "mat.ef03.divisao.introducao_a_divisao",
+    "bncc": [
+      "EF03MA08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "27÷5 tem quociente e resto:",
+    "opcoes": [
+      "4 e 7",
+      "5 e 5",
+      "5 e 2"
+    ],
+    "correta": 2,
+    "explicacao": "27=5×5+2, com resto menor que cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.divisao.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Divisão",
+    "aulaId": "mat.ef03.divisao.metade_terca_quarta_quinta_e_decima_parte",
+    "bncc": [
+      "EF03MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A quinta parte de 45 é:",
+    "opcoes": [
+      "40",
+      "9",
+      "5"
+    ],
+    "correta": 1,
+    "explicacao": "Cinco grupos de nove recompõem quarenta e cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36
+        ],
+        "paginasImpressas": "39",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.divisao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Divisão",
+    "aulaId": "mat.ef03.divisao.introducao_a_divisao",
+    "bncc": [
+      "EF03MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "31 peças em grupos de seis formam:",
+    "opcoes": [
+      "6 grupos e sobra 1",
+      "5 grupos e sobram 6",
+      "5 grupos e sobra 1"
+    ],
+    "correta": 2,
+    "explicacao": "31=6×5+1.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.divisao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Divisão",
+    "aulaId": "mat.ef03.divisao.metade_terca_quarta_quinta_e_decima_parte",
+    "bncc": [
+      "EF03MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A décima parte de 70 é:",
+    "opcoes": [
+      "60",
+      "7",
+      "10"
+    ],
+    "correta": 1,
+    "explicacao": "70÷10=7.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36
+        ],
+        "paginasImpressas": "39",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.poliedros_e_corpos_redondos",
+    "bncc": [
+      "EF03MA13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual objeto costuma lembrar um cilindro?",
+    "opcoes": [
+      "Bola",
+      "Caixa cúbica",
+      "Lata de base circular"
+    ],
+    "correta": 2,
+    "explicacao": "A lata tem duas bases circulares e lateral curva.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.congruencia_e_malhas",
+    "bncc": [
+      "EF03MA16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Retângulos 2×5 e 5×2 são:",
+    "opcoes": [
+      "Triângulos",
+      "Congruentes",
+      "De tamanhos diferentes"
+    ],
+    "correta": 1,
+    "explicacao": "Uma rotação permite sobrepor os contornos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352
+        ],
+        "paginasImpressas": "355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.planificacoes_de_solidos",
+    "bncc": [
+      "EF03MA14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A representação da superfície de um cilindro inclui:",
+    "opcoes": [
+      "Dois círculos e um retângulo",
+      "Seis quadrados",
+      "Um único triângulo"
+    ],
+    "correta": 0,
+    "explicacao": "Os círculos são as bases e o retângulo representa a lateral aberta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.figuras_planas_e_seus_lados",
+    "bncc": [
+      "EF03MA15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quantos vértices tem um triângulo?",
+    "opcoes": [
+      "4",
+      "5",
+      "3"
+    ],
+    "correta": 2,
+    "explicacao": "Um vértice em cada encontro de dois dos três lados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344,
+          364
+        ],
+        "paginasImpressas": "347, 367",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.trajetos_e_croquis",
+    "bncc": [
+      "EF03MA12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No retorno pelo mesmo trecho, muda principalmente:",
+    "opcoes": [
+      "A quantidade de portas",
+      "O sentido",
+      "O nome do lugar"
+    ],
+    "correta": 1,
+    "explicacao": "Percorre-se o trecho em orientação contrária de avanço.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.poliedros_e_corpos_redondos",
+    "bncc": [
+      "EF03MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um modelo com base e faces laterais triangulares encontrando-se numa ponta é uma:",
+    "opcoes": [
+      "Esfera",
+      "Cilindro",
+      "Pirâmide"
+    ],
+    "correta": 2,
+    "explicacao": "Essas são características da pirâmide.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.congruencia_e_malhas",
+    "bncc": [
+      "EF03MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ter igual área garante congruência?",
+    "opcoes": [
+      "Somente se a cor for igual",
+      "Não",
+      "Sim, sempre"
+    ],
+    "correta": 1,
+    "explicacao": "Formatos diferentes podem ocupar a mesma área.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352
+        ],
+        "paginasImpressas": "355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.planificacoes_de_solidos",
+    "bncc": [
+      "EF03MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma pirâmide de base quadrada tem laterais representadas por:",
+    "opcoes": [
+      "Quatro triângulos",
+      "Quatro círculos",
+      "Dois retângulos"
+    ],
+    "correta": 0,
+    "explicacao": "Cada lado da base corresponde a uma face triangular.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.figuras_planas_e_seus_lados",
+    "bncc": [
+      "EF03MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual característica sempre vale num paralelogramo?",
+    "opcoes": [
+      "Três lados",
+      "Todos os lados curvos",
+      "Dois pares de lados paralelos"
+    ],
+    "correta": 2,
+    "explicacao": "As paralelas opostas definem o paralelogramo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344,
+          364
+        ],
+        "paginasImpressas": "347, 367",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.geometria.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef03.geometria.trajetos_e_croquis",
+    "bncc": [
+      "EF03MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma instrução de caminho deve informar:",
+    "opcoes": [
+      "Só o destino sem início",
+      "Referências e ponto de vista",
+      "Só a cor do lápis"
+    ],
+    "correta": 1,
+    "explicacao": "Sem referência, direita e esquerda podem ser interpretadas de outro modo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e medidas: comprimento, massa e capacidade",
+    "aulaId": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas",
+    "bncc": [
+      "EF03MA17",
+      "EF03MA18",
+      "EF03MA19",
+      "EF03MA20"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para uma mesa, é mais adequado medir o comprimento com:",
+    "opcoes": [
+      "Relógio",
+      "Balança",
+      "Fita métrica"
+    ],
+    "correta": 2,
+    "explicacao": "A fita mede comprimento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110,
+          121,
+          123,
+          124
+        ],
+        "paginasImpressas": "112, 113, 124, 126, 127",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e medidas: comprimento, massa e capacidade",
+    "aulaId": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas",
+    "bncc": [
+      "EF03MA21"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas figuras feitas com os mesmos oito quadradinhos sem sobreposição têm:",
+    "opcoes": [
+      "Sempre a mesma forma",
+      "Mesma área",
+      "Sempre o mesmo contorno"
+    ],
+    "correta": 1,
+    "explicacao": "O total da superfície de oito quadrados foi conservado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112
+        ],
+        "paginasImpressas": "115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e medidas: comprimento, massa e capacidade",
+    "aulaId": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas",
+    "bncc": [
+      "EF03MA17",
+      "EF03MA18",
+      "EF03MA19",
+      "EF03MA20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "500 g indicam uma medida de:",
+    "opcoes": [
+      "Tempo",
+      "Capacidade",
+      "Massa"
+    ],
+    "correta": 2,
+    "explicacao": "Grama é unidade de massa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110,
+          121,
+          123,
+          124
+        ],
+        "paginasImpressas": "112, 113, 124, 126, 127",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e medidas: comprimento, massa e capacidade",
+    "aulaId": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas",
+    "bncc": [
+      "EF03MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Sobrepor duas figuras pode ajudar a comparar:",
+    "opcoes": [
+      "Massas",
+      "Áreas",
+      "Datas"
+    ],
+    "correta": 1,
+    "explicacao": "A cobertura permite observar a superfície que sobra.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112
+        ],
+        "paginasImpressas": "115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
+    "aulaId": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos",
+    "bncc": [
+      "EF03MA22",
+      "EF03MA23"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "De 10h50 a 11h15 decorrem:",
+    "opcoes": [
+      "35 minutos",
+      "65 minutos",
+      "25 minutos"
+    ],
+    "correta": 2,
+    "explicacao": "Dez até onze horas e mais quinze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
+    "aulaId": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario",
+    "bncc": [
+      "EF03MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma compra fictícia de R$ 46 paga com R$ 60 deixa:",
+    "opcoes": [
+      "R$ 106",
+      "R$ 14",
+      "R$ 16"
+    ],
+    "correta": 1,
+    "explicacao": "60−46=14.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
+    "aulaId": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos",
+    "bncc": [
+      "EF03MA22",
+      "EF03MA23"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Três minutos correspondem a:",
+    "opcoes": [
+      "30 segundos",
+      "300 segundos",
+      "180 segundos"
+    ],
+    "correta": 2,
+    "explicacao": "3×60=180.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
+    "aulaId": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario",
+    "bncc": [
+      "EF03MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual conjunto equivale a R$ 20?",
+    "opcoes": [
+      "5+5 reais",
+      "10+5+5 reais",
+      "10+5 reais"
+    ],
+    "correta": 1,
+    "explicacao": "A soma dos valores é vinte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.multiplicacao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Multiplicação",
+    "aulaId": "mat.ef03.multiplicacao.algoritmo_da_multiplicacao",
+    "bncc": [
+      "EF03MA07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 32×3?",
+    "opcoes": [
+      "35",
+      "86",
+      "96"
+    ],
+    "correta": 2,
+    "explicacao": "30×3+2×3=90+6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.multiplicacao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Multiplicação",
+    "aulaId": "mat.ef03.multiplicacao.algoritmo_da_multiplicacao",
+    "bncc": [
+      "EF03MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Cinco grupos de 17 peças têm:",
+    "opcoes": [
+      "75",
+      "22",
+      "85"
+    ],
+    "correta": 2,
+    "explicacao": "5×10+5×7=50+35=85.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.multiplicacao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Multiplicação",
+    "aulaId": "mat.ef03.multiplicacao.algoritmo_da_multiplicacao",
+    "bncc": [
+      "EF03MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um arranjo de cinco linhas com 16 peças por linha contém:",
+    "opcoes": [
+      "75",
+      "80",
+      "21"
+    ],
+    "correta": 1,
+    "explicacao": "5×16=80.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.multiplicacao.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Multiplicação",
+    "aulaId": "mat.ef03.multiplicacao.algoritmo_da_multiplicacao",
+    "bncc": [
+      "EF03MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Dez caixas com 24 peças cada contêm:",
+    "opcoes": [
+      "240",
+      "34",
+      "124"
+    ],
+    "correta": 0,
+    "explicacao": "Dez grupos de vinte e quatro totalizam duzentas e quarenta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000",
+    "bncc": [
+      "EF03MA01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Como se lê 609?",
+    "opcoes": [
+      "Sessenta e nove",
+      "Seiscentos e noventa",
+      "Seiscentos e nove"
+    ],
+    "correta": 2,
+    "explicacao": "São seis centenas, zero dezenas e nove unidades.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.reta_numerica",
+    "bncc": [
+      "EF03MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Partir de 46 e voltar 8 unidades leva a:",
+    "opcoes": [
+      "40",
+      "38",
+      "54"
+    ],
+    "correta": 1,
+    "explicacao": "46−8=38.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao",
+    "bncc": [
+      "EF03MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se 7×5=35, então 7×6 é:",
+    "opcoes": [
+      "42",
+      "41",
+      "35"
+    ],
+    "correta": 0,
+    "explicacao": "Acrescenta-se uma parcela de sete.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          35
+        ],
+        "paginasImpressas": "32, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000",
+    "bncc": [
+      "EF03MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é maior: 706 ou 760?",
+    "opcoes": [
+      "706",
+      "São iguais",
+      "760"
+    ],
+    "correta": 2,
+    "explicacao": "As centenas coincidem; setecentos e sessenta tem mais dezenas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.reta_numerica",
+    "bncc": [
+      "EF03MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Partir de 57 e avançar 6 unidades leva a:",
+    "opcoes": [
+      "62",
+      "63",
+      "51"
+    ],
+    "correta": 1,
+    "explicacao": "57+6=63.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_de_1_a_1000.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "aulaId": "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao",
+    "bncc": [
+      "EF03MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Usando 8+2=10, 8+6 é:",
+    "opcoes": [
+      "14",
+      "16",
+      "12"
+    ],
+    "correta": 0,
+    "explicacao": "Seis é dois e quatro; dez mais quatro são quatorze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          35
+        ],
+        "paginasImpressas": "32, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_maiores_do_que_1000.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números maiores do que 1000",
+    "aulaId": "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar",
+    "bncc": [
+      "EF03MA01",
+      "EF03MA02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em 5032, o 5 representa:",
+    "opcoes": [
+      "500",
+      "50",
+      "5000"
+    ],
+    "correta": 2,
+    "explicacao": "O cinco ocupa a unidade de milhar.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_maiores_do_que_1000.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números maiores do que 1000",
+    "aulaId": "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar",
+    "bncc": [
+      "EF03MA01",
+      "EF03MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual decomposição representa 7048?",
+    "opcoes": [
+      "700+40+8",
+      "7000+400+8",
+      "7000+40+8"
+    ],
+    "correta": 2,
+    "explicacao": "Não há centenas soltas; os demais valores são sete mil, quarenta e oito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_maiores_do_que_1000.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números maiores do que 1000",
+    "aulaId": "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar",
+    "bncc": [
+      "EF03MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual leitura corresponde a 2064?",
+    "opcoes": [
+      "Dois mil seiscentos e quatro",
+      "Dois mil e sessenta e quatro",
+      "Duzentos e sessenta e quatro"
+    ],
+    "correta": 1,
+    "explicacao": "Duas unidades de milhar, zero centenas, seis dezenas e quatro unidades.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.numeros_maiores_do_que_1000.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números maiores do que 1000",
+    "aulaId": "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar",
+    "bncc": [
+      "EF03MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual decomposição conserva 8305?",
+    "opcoes": [
+      "8000+300+5",
+      "800+300+5",
+      "8000+30+5"
+    ],
+    "correta": 0,
+    "explicacao": "As ordens são milhares, centenas, zero dezenas e unidades.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.padroes_e_igualdade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias",
+    "bncc": [
+      "EF03MA10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na regra somar seis, após 32 vem:",
+    "opcoes": [
+      "36",
+      "37",
+      "38"
+    ],
+    "correta": 2,
+    "explicacao": "32+6=38.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.padroes_e_igualdade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas",
+    "bncc": [
+      "EF03MA11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual igualdade é verdadeira?",
+    "opcoes": [
+      "9+6=20−6",
+      "9+6=20−5",
+      "9+6=20+5"
+    ],
+    "correta": 1,
+    "explicacao": "Ambos os lados da primeira valem quinze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.padroes_e_igualdade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias",
+    "bncc": [
+      "EF03MA10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Pela regra retirar quatro, entre 27 e 19 falta:",
+    "opcoes": [
+      "24",
+      "22",
+      "23"
+    ],
+    "correta": 2,
+    "explicacao": "27−4=23 e 23−4=19.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.padroes_e_igualdade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas",
+    "bncc": [
+      "EF03MA11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Que número completa 12+__=10+7?",
+    "opcoes": [
+      "17",
+      "5",
+      "7"
+    ],
+    "correta": 1,
+    "explicacao": "O lado direito vale dezessete; faltam cinco a doze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis",
+    "bncc": [
+      "EF03MA25"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual cor tem maior chance com 5 vermelhas e 2 azuis, em sorteio sem olhar?",
+    "opcoes": [
+      "Azul",
+      "Sempre iguais",
+      "Vermelha"
+    ],
+    "correta": 2,
+    "explicacao": "Há mais peças vermelhas em condições iguais de retirada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+    "bncc": [
+      "EF03MA26",
+      "EF03MA27"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Nos dados do exemplo, quantos votos de desenho há nos dois grupos?",
+    "opcoes": [
+      "13",
+      "11",
+      "12"
+    ],
+    "correta": 1,
+    "explicacao": "4+7=11.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas",
+    "bncc": [
+      "EF03MA26",
+      "EF03MA27"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Nesses dados, a diferença entre ônibus e bicicleta é:",
+    "opcoes": [
+      "6",
+      "3",
+      "12"
+    ],
+    "correta": 0,
+    "explicacao": "9−3=6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas",
+    "bncc": [
+      "EF03MA28"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O que deve preencher uma pesquisa realizada?",
+    "opcoes": [
+      "Números inventados",
+      "Somente o resultado preferido",
+      "Respostas efetivamente coletadas"
+    ],
+    "correta": 2,
+    "explicacao": "O registro precisa corresponder à coleta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis",
+    "bncc": [
+      "EF03MA25"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com apenas amarelas e verdes, quais cores podem sair?",
+    "opcoes": [
+      "Qualquer cor",
+      "Somente azul",
+      "Amarela ou verde"
+    ],
+    "correta": 2,
+    "explicacao": "A lista respeita as cores existentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+    "bncc": [
+      "EF03MA26",
+      "EF03MA27"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No grupo B, a categoria mais frequente é:",
+    "opcoes": [
+      "As duas iguais",
+      "Desenho",
+      "Bola"
+    ],
+    "correta": 1,
+    "explicacao": "Sete supera cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas",
+    "bncc": [
+      "EF03MA26",
+      "EF03MA27"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se cada passo vale três votos, uma coluna de nove votos ocupa:",
+    "opcoes": [
+      "3 passos",
+      "9 passos",
+      "27 passos"
+    ],
+    "correta": 0,
+    "explicacao": "9÷3=3 passos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef03.probabilidade_e_estatistica.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas",
+    "bncc": [
+      "EF03MA28"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Vinte pessoas respondem duas perguntas cada. Há quantos participantes?",
+    "opcoes": [
+      "40",
+      "2",
+      "20"
+    ],
+    "correta": 2,
+    "explicacao": "Participantes são pessoas, não quantidade de respostas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
+    "bncc": [
+      "EF04MA03",
+      "EF04MA04",
+      "EF04MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 2999+126?",
+    "opcoes": [
+      "3025",
+      "3126",
+      "3125"
+    ],
+    "correta": 2,
+    "explicacao": "3000+126−1=3125.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
+    "bncc": [
+      "EF04MA03",
+      "EF04MA04",
+      "EF04MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual verificação confere 804−257=547?",
+    "opcoes": [
+      "547−257=804",
+      "804+257=547",
+      "547+257=804"
+    ],
+    "correta": 2,
+    "explicacao": "A soma das partes recompõe o total.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
+    "bncc": [
+      "EF04MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma reserva de 5030 peças teve 1875 retiradas. Restam:",
+    "opcoes": [
+      "6905",
+      "3155",
+      "3255"
+    ],
+    "correta": 1,
+    "explicacao": "5030−1875=3155; a adição confere.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
+    "bncc": [
+      "EF04MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para 38+47+62, é útil agrupar:",
+    "opcoes": [
+      "38+62 antes de somar 47",
+      "38−62 antes de somar 47",
+      "38×62 antes de somar 47"
+    ],
+    "correta": 0,
+    "explicacao": "Comutativa e associativa permitem formar cem e somar quarenta e sete.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.comprimento_e_area.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Comprimento e Área",
+    "aulaId": "mat.ef04.comprimento_e_area.perimetro_e_area",
+    "bncc": [
+      "EF04MA20",
+      "EF04MA21"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Dez quadradinhos e quatro metades ocupam área de:",
+    "opcoes": [
+      "14 quadradinhos",
+      "10 quadradinhos",
+      "12 quadradinhos"
+    ],
+    "correta": 2,
+    "explicacao": "Quatro metades equivalem a dois inteiros.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          112
+        ],
+        "paginasImpressas": "112, 115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.comprimento_e_area.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Comprimento e Área",
+    "aulaId": "mat.ef04.comprimento_e_area.perimetro_e_area",
+    "bncc": [
+      "EF04MA20",
+      "EF04MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma figura de mesma área que outra precisa ter igual contorno?",
+    "opcoes": [
+      "Sim, sempre",
+      "Só se mudar de cor",
+      "Não"
+    ],
+    "correta": 2,
+    "explicacao": "Os retângulos do exemplo são contraexemplo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          112
+        ],
+        "paginasImpressas": "112, 115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.comprimento_e_area.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Comprimento e Área",
+    "aulaId": "mat.ef04.comprimento_e_area.perimetro_e_area",
+    "bncc": [
+      "EF04MA20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um contorno de lados 7,4,7,4 metros mede:",
+    "opcoes": [
+      "11 m",
+      "22 m",
+      "28 m"
+    ],
+    "correta": 1,
+    "explicacao": "Somar todos os quatro lados: 7+4+7+4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          112
+        ],
+        "paginasImpressas": "112, 115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.comprimento_e_area.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Comprimento e Área",
+    "aulaId": "mat.ef04.comprimento_e_area.perimetro_e_area",
+    "bncc": [
+      "EF04MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Oito quadradinhos inteiros e seis metades têm área:",
+    "opcoes": [
+      "11 quadradinhos",
+      "14 quadradinhos",
+      "8 quadradinhos"
+    ],
+    "correta": 0,
+    "explicacao": "Seis metades recompõem três inteiros.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          112
+        ],
+        "paginasImpressas": "112, 115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.divisao_com_numeros_naturais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Divisão com Números Naturais",
+    "aulaId": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao",
+    "bncc": [
+      "EF04MA07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual divisão está conferida corretamente?",
+    "opcoes": [
+      "367=15×23+22 com resto válido",
+      "367=15×24+15",
+      "367=15×24+7"
+    ],
+    "correta": 2,
+    "explicacao": "Só a primeira tem igualdade verdadeira e resto menor que quinze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.divisao_com_numeros_naturais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Divisão com Números Naturais",
+    "aulaId": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao",
+    "bncc": [
+      "EF04MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "593÷20 tem quociente e resto:",
+    "opcoes": [
+      "28 e 33",
+      "30 e 7",
+      "29 e 13"
+    ],
+    "correta": 2,
+    "explicacao": "20×29=580; sobram treze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.divisao_com_numeros_naturais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Divisão com Números Naturais",
+    "aulaId": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao",
+    "bncc": [
+      "EF04MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma coleção de 864 peças em grupos de 24 forma:",
+    "opcoes": [
+      "38 grupos",
+      "36 grupos",
+      "34 grupos"
+    ],
+    "correta": 1,
+    "explicacao": "24×36=864.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.divisao_com_numeros_naturais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Divisão com Números Naturais",
+    "aulaId": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao",
+    "bncc": [
+      "EF04MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em 449÷18, quociente e resto são:",
+    "opcoes": [
+      "24 e 17",
+      "25 e 1",
+      "23 e 35"
+    ],
+    "correta": 0,
+    "explicacao": "18×24=432; resto dezessete, menor que dezoito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.fracoes_e_decimais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Frações e Decimais",
+    "aulaId": "mat.ef04.fracoes_e_decimais.introducao_as_fracoes",
+    "bncc": [
+      "EF04MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Entre 1/3 e 1/5 do mesmo inteiro, qual é maior?",
+    "opcoes": [
+      "1/5",
+      "São iguais",
+      "1/3"
+    ],
+    "correta": 2,
+    "explicacao": "Três partes iguais deixam cada parte maior que cinco partes iguais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          72
+        ],
+        "paginasImpressas": "74, 75",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.fracoes_e_decimais.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Frações e Decimais",
+    "aulaId": "mat.ef04.fracoes_e_decimais.numeros_decimais",
+    "bncc": [
+      "EF04MA10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "0,6 corresponde a quantos centésimos?",
+    "opcoes": [
+      "600",
+      "60",
+      "6"
+    ],
+    "correta": 1,
+    "explicacao": "Seis décimos são sessenta centésimos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96
+        ],
+        "paginasImpressas": "98, 99",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.fracoes_e_decimais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Frações e Decimais",
+    "aulaId": "mat.ef04.fracoes_e_decimais.introducao_as_fracoes",
+    "bncc": [
+      "EF04MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A metade fica na reta:",
+    "opcoes": [
+      "Depois de 1",
+      "Antes de 0",
+      "Entre 0 e 1, a igual distância de ambos"
+    ],
+    "correta": 2,
+    "explicacao": "Duas partes iguais do intervalo definem 1/2.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          72
+        ],
+        "paginasImpressas": "74, 75",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.fracoes_e_decimais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Frações e Decimais",
+    "aulaId": "mat.ef04.fracoes_e_decimais.numeros_decimais",
+    "bncc": [
+      "EF04MA10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "R$ 4,08 significa:",
+    "opcoes": [
+      "Quarenta e oito reais",
+      "Quatro reais e oito centavos",
+      "Quatro reais e oitenta centavos"
+    ],
+    "correta": 1,
+    "explicacao": "O zero conserva a posição dos décimos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96
+        ],
+        "paginasImpressas": "98, 99",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.geometria.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.angulos_e_poligonos",
+    "bncc": [
+      "EF04MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual instrumento ajuda a conferir ângulo reto?",
+    "opcoes": [
+      "Balança",
+      "Recipiente graduado",
+      "Esquadro"
+    ],
+    "correta": 2,
+    "explicacao": "O esquadro tem uma referência de perpendicularidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          329,
+          330
+        ],
+        "paginasImpressas": "332, 333",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.geometria.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.localizacao_deslocamento_e_simetria",
+    "bncc": [
+      "EF04MA16",
+      "EF04MA19"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na reflexão, a distância de um ponto ao eixo:",
+    "opcoes": [
+      "Sempre zera",
+      "É conservada",
+      "Sempre dobra"
+    ],
+    "correta": 1,
+    "explicacao": "Original e imagem ficam a distâncias iguais, em lados opostos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          322,
+          355
+        ],
+        "paginasImpressas": "325, 358",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.geometria.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.planificacoes_de_prismas_e_piramides",
+    "bncc": [
+      "EF04MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma rede de prisma triangular inclui:",
+    "opcoes": [
+      "Dois triângulos e três retângulos",
+      "Um triângulo e quatro círculos",
+      "Seis triângulos iguais sempre"
+    ],
+    "correta": 0,
+    "explicacao": "As bases são triangulares e as três laterais retangulares.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.geometria.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.angulos_e_poligonos",
+    "bncc": [
+      "EF04MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Girar um retângulo muda seus ângulos retos?",
+    "opcoes": [
+      "Sim, sempre",
+      "Só quando dobra de tamanho",
+      "Não"
+    ],
+    "correta": 2,
+    "explicacao": "A rotação preserva as aberturas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          329,
+          330
+        ],
+        "paginasImpressas": "332, 333",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.geometria.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.localizacao_deslocamento_e_simetria",
+    "bncc": [
+      "EF04MA16",
+      "EF04MA19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ruas perpendiculares formam ângulos:",
+    "opcoes": [
+      "Sempre rasos",
+      "Retos",
+      "Sempre agudos"
+    ],
+    "correta": 1,
+    "explicacao": "Perpendicularidade corresponde ao encontro em ângulo reto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          322,
+          355
+        ],
+        "paginasImpressas": "325, 358",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.geometria.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.planificacoes_de_prismas_e_piramides",
+    "bncc": [
+      "EF04MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma pirâmide de base pentagonal possui quantas laterais triangulares?",
+    "opcoes": [
+      "5",
+      "2",
+      "7"
+    ],
+    "correta": 0,
+    "explicacao": "Cada lado da base corresponde a uma lateral.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Massa, capacidade, intervalo de tempo e temperatura",
+    "aulaId": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida",
+    "bncc": [
+      "EF04MA20",
+      "EF04MA22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "2 minutos e 15 segundos correspondem a:",
+    "opcoes": [
+      "215 s",
+      "120 s",
+      "135 s"
+    ],
+    "correta": 2,
+    "explicacao": "2×60+15=135.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          121,
+          123
+        ],
+        "paginasImpressas": "112, 124, 126",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Massa, capacidade, intervalo de tempo e temperatura",
+    "aulaId": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos",
+    "bncc": [
+      "EF04MA23",
+      "EF04MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Máxima 31 °C e mínima 22 °C têm diferença:",
+    "opcoes": [
+      "22 °C",
+      "9 °C",
+      "53 °C"
+    ],
+    "correta": 1,
+    "explicacao": "31−22=9.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Massa, capacidade, intervalo de tempo e temperatura",
+    "aulaId": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.problemas_com_dinheiro",
+    "bncc": [
+      "EF04MA25"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Preço fictício 96 reais menos desconto de 15 reais fica:",
+    "opcoes": [
+      "81 reais",
+      "111 reais",
+      "85 reais"
+    ],
+    "correta": 0,
+    "explicacao": "96−15=81.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Massa, capacidade, intervalo de tempo e temperatura",
+    "aulaId": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida",
+    "bncc": [
+      "EF04MA20",
+      "EF04MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "1,5 L correspondem a:",
+    "opcoes": [
+      "150 mL",
+      "15 mL",
+      "1500 mL"
+    ],
+    "correta": 2,
+    "explicacao": "Um litro tem mil mililitros.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          121,
+          123
+        ],
+        "paginasImpressas": "112, 124, 126",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Massa, capacidade, intervalo de tempo e temperatura",
+    "aulaId": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos",
+    "bncc": [
+      "EF04MA23",
+      "EF04MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para comparar temperaturas de dois lugares, devemos informar:",
+    "opcoes": [
+      "Apenas o maior número",
+      "Local, unidade e período",
+      "Somente a cor do gráfico"
+    ],
+    "correta": 1,
+    "explicacao": "Esses dados dão significado à comparação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Massa, capacidade, intervalo de tempo e temperatura",
+    "aulaId": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.problemas_com_dinheiro",
+    "bncc": [
+      "EF04MA25"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Três parcelas de R$ 28 totalizam:",
+    "opcoes": [
+      "R$ 84",
+      "R$ 31",
+      "R$ 56"
+    ],
+    "correta": 0,
+    "explicacao": "3×28=84; comparar com o preço à vista informado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.multiplicacao_com_numeros_naturais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Multiplicação com Números Naturais",
+    "aulaId": "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades",
+    "bncc": [
+      "EF04MA04",
+      "EF04MA05",
+      "EF04MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "18×25 pode ser calculado por:",
+    "opcoes": [
+      "20×25−2",
+      "18+25",
+      "20×25−2×25"
+    ],
+    "correta": 2,
+    "explicacao": "Compensar dois grupos de vinte e cinco conserva o produto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.multiplicacao_com_numeros_naturais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Multiplicação com Números Naturais",
+    "aulaId": "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades",
+    "bncc": [
+      "EF04MA04",
+      "EF04MA05",
+      "EF04MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 34×12?",
+    "opcoes": [
+      "348",
+      "46",
+      "408"
+    ],
+    "correta": 2,
+    "explicacao": "34×10+34×2=340+68=408.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.multiplicacao_com_numeros_naturais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Multiplicação com Números Naturais",
+    "aulaId": "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades",
+    "bncc": [
+      "EF04MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Cada ingresso fictício custa 18 reais. Sete ingressos sem taxa custam:",
+    "opcoes": [
+      "116 reais",
+      "126 reais",
+      "25 reais"
+    ],
+    "correta": 1,
+    "explicacao": "Preço unitário constante: 7×18=126.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.multiplicacao_com_numeros_naturais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Multiplicação com Números Naturais",
+    "aulaId": "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades",
+    "bncc": [
+      "EF04MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual expressão conserva 26×14?",
+    "opcoes": [
+      "26×10+26×4",
+      "26×10+4",
+      "26+14"
+    ],
+    "correta": 0,
+    "explicacao": "A distributiva decompõe o segundo fator.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.padroes_e_igualdade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias",
+    "bncc": [
+      "EF04MA11",
+      "EF04MA12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual número deixa resto 2 ao dividir por 5?",
+    "opcoes": [
+      "15",
+      "19",
+      "17"
+    ],
+    "correta": 2,
+    "explicacao": "17=5×3+2.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.padroes_e_igualdade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes",
+    "bncc": [
+      "EF04MA04",
+      "EF04MA13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se 18×7=126, 126÷7 vale:",
+    "opcoes": [
+      "119",
+      "18",
+      "7"
+    ],
+    "correta": 1,
+    "explicacao": "A divisão recupera o fator desconhecido.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.padroes_e_igualdade.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade",
+    "bncc": [
+      "EF04MA14",
+      "EF04MA15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual número completa 76−□=29?",
+    "opcoes": [
+      "47",
+      "105",
+      "57"
+    ],
+    "correta": 0,
+    "explicacao": "76−47=29.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.padroes_e_igualdade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias",
+    "bncc": [
+      "EF04MA11",
+      "EF04MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Depois de 24, o próximo múltiplo de seis é:",
+    "opcoes": [
+      "28",
+      "25",
+      "30"
+    ],
+    "correta": 2,
+    "explicacao": "Acrescentar seis mantém a sequência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.padroes_e_igualdade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes",
+    "bncc": [
+      "EF04MA04",
+      "EF04MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual operação confere uma subtração?",
+    "opcoes": [
+      "Multiplicar os algarismos",
+      "Somar resultado e parte retirada",
+      "Somar duas vezes o resultado sempre"
+    ],
+    "correta": 1,
+    "explicacao": "A soma recompõe o total inicial.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.padroes_e_igualdade.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Padrões e Igualdade",
+    "aulaId": "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade",
+    "bncc": [
+      "EF04MA14",
+      "EF04MA15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Adicionar cinco aos dois lados de igualdade verdadeira:",
+    "opcoes": [
+      "Conserva a igualdade",
+      "Sempre a destrói",
+      "Só altera o lado esquerdo"
+    ],
+    "correta": 0,
+    "explicacao": "Os dois valores iguais recebem o mesmo acréscimo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.probabilidade_e_estatistica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef04.probabilidade_e_estatistica.chances_de_eventos",
+    "bncc": [
+      "EF04MA26"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com 7 azuis e 2 vermelhas, qual tem maior chance num sorteio sem olhar?",
+    "opcoes": [
+      "Vermelha",
+      "Sempre iguais",
+      "Azul"
+    ],
+    "correta": 2,
+    "explicacao": "Há mais peças azuis em condições iguais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.probabilidade_e_estatistica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos",
+    "bncc": [
+      "EF04MA27"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quatro símbolos de cinco unidades representam:",
+    "opcoes": [
+      "4 unidades",
+      "20 unidades",
+      "9 unidades"
+    ],
+    "correta": 1,
+    "explicacao": "4×5=20.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.probabilidade_e_estatistica.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis",
+    "bncc": [
+      "EF04MA28"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Minutos de trajeto são uma variável:",
+    "opcoes": [
+      "Numérica",
+      "Apenas uma cor",
+      "Sem medida possível"
+    ],
+    "correta": 0,
+    "explicacao": "São valores de tempo medidos ou informados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.probabilidade_e_estatistica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef04.probabilidade_e_estatistica.chances_de_eventos",
+    "bncc": [
+      "EF04MA26"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um resultado menos provável pode acontecer?",
+    "opcoes": [
+      "Nunca",
+      "Só se não houver sorteio",
+      "Sim"
+    ],
+    "correta": 2,
+    "explicacao": "Pouca chance não significa impossibilidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.probabilidade_e_estatistica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos",
+    "bncc": [
+      "EF04MA27"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Nos dados fictícios, terça supera quarta em:",
+    "opcoes": [
+      "33 livros",
+      "3 livros",
+      "6 livros"
+    ],
+    "correta": 1,
+    "explicacao": "18−15=3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.probabilidade_e_estatistica.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis",
+    "bncc": [
+      "EF04MA28"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Colunas agrupadas devem usar:",
+    "opcoes": [
+      "Legenda e escala comum",
+      "Escalas ocultas",
+      "Dados inventados para igualar grupos"
+    ],
+    "correta": 0,
+    "explicacao": "A identificação permite comparações corretas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.problemas_de_contagem.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Problemas de Contagem",
+    "aulaId": "mat.ef04.problemas_de_contagem.combinacoes_simples",
+    "bncc": [
+      "EF04MA08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas blusas e quatro calças permitem:",
+    "opcoes": [
+      "6 combinações",
+      "4 combinações",
+      "8 combinações"
+    ],
+    "correta": 2,
+    "explicacao": "Cada blusa se combina com quatro calças.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.problemas_de_contagem.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Problemas de Contagem",
+    "aulaId": "mat.ef04.problemas_de_contagem.combinacoes_simples",
+    "bncc": [
+      "EF04MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Cinco sabores e dois tamanhos permitem:",
+    "opcoes": [
+      "7 escolhas",
+      "5 escolhas",
+      "10 escolhas"
+    ],
+    "correta": 2,
+    "explicacao": "Cinco grupos de duas escolhas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.problemas_de_contagem.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Problemas de Contagem",
+    "aulaId": "mat.ef04.problemas_de_contagem.combinacoes_simples",
+    "bncc": [
+      "EF04MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quatro opções de suco e três de sanduíche, livremente combináveis, formam:",
+    "opcoes": [
+      "24 pares",
+      "12 pares",
+      "7 pares"
+    ],
+    "correta": 1,
+    "explicacao": "Cada suco se combina com três sanduíches.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.problemas_de_contagem.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Problemas de Contagem",
+    "aulaId": "mat.ef04.problemas_de_contagem.combinacoes_simples",
+    "bncc": [
+      "EF04MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Numa tabela com duas linhas e cinco colunas, um par por célula, há:",
+    "opcoes": [
+      "10 pares",
+      "7 pares",
+      "5 pares"
+    ],
+    "correta": 0,
+    "explicacao": "Contar os cruzamentos: duas vezes cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.sistemas_de_numeracao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Sistemas de Numeração",
+    "aulaId": "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar",
+    "bncc": [
+      "EF04MA01",
+      "EF04MA02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em 72504, o 7 representa:",
+    "opcoes": [
+      "7000",
+      "700",
+      "70000"
+    ],
+    "correta": 2,
+    "explicacao": "Sete dezenas de milhar.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.sistemas_de_numeracao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Sistemas de Numeração",
+    "aulaId": "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar",
+    "bncc": [
+      "EF04MA01",
+      "EF04MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual decomposição conserva 40318?",
+    "opcoes": [
+      "4×1000+318",
+      "40000+3000+18",
+      "4×10000+3×100+1×10+8"
+    ],
+    "correta": 2,
+    "explicacao": "A primeira totaliza quarenta mil trezentos e dezoito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.sistemas_de_numeracao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Sistemas de Numeração",
+    "aulaId": "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar",
+    "bncc": [
+      "EF04MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é a ordem crescente?",
+    "opcoes": [
+      "47008,40708,47800",
+      "40708,47008,47800",
+      "47800,47008,40708"
+    ],
+    "correta": 1,
+    "explicacao": "Compare ordens da esquerda para a direita.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.sistemas_de_numeracao.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Sistemas de Numeração",
+    "aulaId": "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar",
+    "bncc": [
+      "EF04MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "5×10000+7×100+9 representa:",
+    "opcoes": [
+      "50709",
+      "57009",
+      "50790"
+    ],
+    "correta": 0,
+    "explicacao": "São cinquenta mil, setecentos e nove.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas",
+    "bncc": [
+      "EF05MA07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 8,6+2,75?",
+    "opcoes": [
+      "10,81",
+      "11,25",
+      "11,35"
+    ],
+    "correta": 2,
+    "explicacao": "8,60+2,75=11,35.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          97
+        ],
+        "paginasImpressas": "98, 100",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao",
+    "bncc": [
+      "EF05MA07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para completar 6 km após percorrer 4,65 km, faltam:",
+    "opcoes": [
+      "10,65 km",
+      "1,35 km",
+      "2,35 km"
+    ],
+    "correta": 1,
+    "explicacao": "6−4,65=1,35.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          97
+        ],
+        "paginasImpressas": "98, 100",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas",
+    "bncc": [
+      "EF05MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "20−7,85 resulta em:",
+    "opcoes": [
+      "13,15",
+      "27,85",
+      "12,15"
+    ],
+    "correta": 2,
+    "explicacao": "12,15+7,85=20 confere.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          97
+        ],
+        "paginasImpressas": "98, 100",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "aulaId": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao",
+    "bncc": [
+      "EF05MA07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "3,25+4,5 totaliza:",
+    "opcoes": [
+      "8,25",
+      "7,75",
+      "7,30"
+    ],
+    "correta": 1,
+    "explicacao": "Quatro e meio são 4,50.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          97
+        ],
+        "paginasImpressas": "98, 100",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.decimais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef05.decimais.numeros_decimais_e_porcentagem",
+    "bncc": [
+      "EF05MA02",
+      "EF05MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "75% de 80 são:",
+    "opcoes": [
+      "75",
+      "20",
+      "60"
+    ],
+    "correta": 2,
+    "explicacao": "Três quartos de oitenta: cada quarto vale vinte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          196
+        ],
+        "paginasImpressas": "98, 199",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.decimais.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef05.decimais.decimais_na_reta_numerica",
+    "bncc": [
+      "EF05MA02",
+      "EF05MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é maior?",
+    "opcoes": [
+      "0,09",
+      "0,8",
+      "0,75"
+    ],
+    "correta": 1,
+    "explicacao": "Oito décimos são oitenta centésimos, maiores que setenta e cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96
+        ],
+        "paginasImpressas": "98, 99",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.decimais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef05.decimais.numeros_decimais_e_porcentagem",
+    "bncc": [
+      "EF05MA02",
+      "EF05MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "10% de 350 são:",
+    "opcoes": [
+      "3,5",
+      "315",
+      "35"
+    ],
+    "correta": 2,
+    "explicacao": "Um décimo é dividir por dez.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          196
+        ],
+        "paginasImpressas": "98, 199",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.decimais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef05.decimais.decimais_na_reta_numerica",
+    "bncc": [
+      "EF05MA02",
+      "EF05MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "2,30 e 2,3 são:",
+    "opcoes": [
+      "O segundo sempre maior",
+      "Iguais",
+      "O primeiro sempre maior"
+    ],
+    "correta": 1,
+    "explicacao": "Zero à direita conserva o valor.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96
+        ],
+        "paginasImpressas": "98, 99",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.fracoes.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Frações",
+    "aulaId": "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia",
+    "bncc": [
+      "EF05MA03",
+      "EF05MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual equivale a 3/4?",
+    "opcoes": [
+      "4/5",
+      "3/8",
+      "6/8"
+    ],
+    "correta": 2,
+    "explicacao": "Dobrar ambas as contagens mantém a proporção.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          72,
+          77
+        ],
+        "paginasImpressas": "74, 75, 80",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.fracoes.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Frações",
+    "aulaId": "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes",
+    "bncc": [
+      "EF05MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é maior, 3/5 ou 1/2?",
+    "opcoes": [
+      "São iguais",
+      "3/5",
+      "1/2"
+    ],
+    "correta": 1,
+    "explicacao": "3/5=6/10 e 1/2=5/10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          77
+        ],
+        "paginasImpressas": "74, 80",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.fracoes.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Frações",
+    "aulaId": "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia",
+    "bncc": [
+      "EF05MA03",
+      "EF05MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Cinco pães repartidos igualmente entre quatro pessoas dão a cada uma:",
+    "opcoes": [
+      "4/5 de pão",
+      "1/4 de pão",
+      "5/4 de pão"
+    ],
+    "correta": 2,
+    "explicacao": "O quociente é cinco dividido por quatro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          72,
+          77
+        ],
+        "paginasImpressas": "74, 75, 80",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.fracoes.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Frações",
+    "aulaId": "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes",
+    "bncc": [
+      "EF05MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual fração ocupa o ponto 0,25?",
+    "opcoes": [
+      "3/4",
+      "1/4",
+      "1/2"
+    ],
+    "correta": 1,
+    "explicacao": "Vinte e cinco centésimos equivalem a um quarto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          77
+        ],
+        "paginasImpressas": "74, 80",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.geometria.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef05.geometria.plano_cartesiano_e_solidos",
+    "bncc": [
+      "EF05MA14",
+      "EF05MA15",
+      "EF05MA16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No ponto (3,5), a coordenada horizontal é:",
+    "opcoes": [
+      "5",
+      "8",
+      "3"
+    ],
+    "correta": 2,
+    "explicacao": "A primeira coordenada indica posição horizontal.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          325
+        ],
+        "paginasImpressas": "300, 328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.geometria.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef05.geometria.poligonos_e_seus_elementos",
+    "bncc": [
+      "EF05MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um hexágono tem:",
+    "opcoes": [
+      "8 lados",
+      "6 lados",
+      "5 lados"
+    ],
+    "correta": 1,
+    "explicacao": "O prefixo indica seis lados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344
+        ],
+        "paginasImpressas": "347",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.geometria.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef05.geometria.plano_cartesiano_e_solidos",
+    "bncc": [
+      "EF05MA14",
+      "EF05MA15",
+      "EF05MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A superfície aberta de um cone inclui:",
+    "opcoes": [
+      "Dois círculos e um retângulo",
+      "Seis quadrados",
+      "Um círculo e um setor circular"
+    ],
+    "correta": 2,
+    "explicacao": "Base circular e lateral em setor.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          325
+        ],
+        "paginasImpressas": "300, 328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.geometria.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef05.geometria.poligonos_e_seus_elementos",
+    "bncc": [
+      "EF05MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ter cinco lados garante que o pentágono seja regular?",
+    "opcoes": [
+      "Só se estiver na horizontal",
+      "Não",
+      "Sim, sempre"
+    ],
+    "correta": 1,
+    "explicacao": "Regularidade exige lados e ângulos iguais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344
+        ],
+        "paginasImpressas": "347",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.grandezas_e_medidas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas",
+    "bncc": [
+      "EF05MA19",
+      "EF05MA21"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quatro camadas de 3×2 cubinhos contêm:",
+    "opcoes": [
+      "9 cubos",
+      "12 cubos",
+      "24 cubos"
+    ],
+    "correta": 2,
+    "explicacao": "Cada camada tem seis e há quatro camadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          121,
+          123
+        ],
+        "paginasImpressas": "112, 124, 126",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.grandezas_e_medidas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area",
+    "bncc": [
+      "EF05MA20"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Retângulos 2×3 e 1×6 têm:",
+    "opcoes": [
+      "Áreas diferentes",
+      "Mesma área e perímetros diferentes",
+      "Sempre o mesmo perímetro"
+    ],
+    "correta": 1,
+    "explicacao": "Ambos têm área seis; perímetros dez e quatorze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112
+        ],
+        "paginasImpressas": "115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.grandezas_e_medidas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas",
+    "bncc": [
+      "EF05MA19",
+      "EF05MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "2,5 kg correspondem a:",
+    "opcoes": [
+      "250 g",
+      "25 g",
+      "2500 g"
+    ],
+    "correta": 2,
+    "explicacao": "Multiplicar por mil converte kg em g.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          121,
+          123
+        ],
+        "paginasImpressas": "112, 124, 126",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.grandezas_e_medidas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area",
+    "bncc": [
+      "EF05MA20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Mesmo perímetro garante mesma área?",
+    "opcoes": [
+      "Só se as cores coincidirem",
+      "Não",
+      "Sim, sempre"
+    ],
+    "correta": 1,
+    "explicacao": "1×5 e 2×4 refutam essa afirmação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112
+        ],
+        "paginasImpressas": "115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.mais_geometria.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Mais Geometria",
+    "aulaId": "mat.ef05.mais_geometria.poligonos_e_ampliacao",
+    "bncc": [
+      "EF05MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um lado de 5 cm ampliado por três mede:",
+    "opcoes": [
+      "8 cm",
+      "25 cm",
+      "15 cm"
+    ],
+    "correta": 2,
+    "explicacao": "5×3=15.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344
+        ],
+        "paginasImpressas": "347",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.mais_geometria.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Mais Geometria",
+    "aulaId": "mat.ef05.mais_geometria.poligonos_e_ampliacao",
+    "bncc": [
+      "EF05MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na ampliação proporcional, os ângulos:",
+    "opcoes": [
+      "Dobram sempre",
+      "Somem",
+      "Conservam suas medidas"
+    ],
+    "correta": 2,
+    "explicacao": "Semelhança preserva ângulos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344
+        ],
+        "paginasImpressas": "347",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.mais_geometria.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Mais Geometria",
+    "aulaId": "mat.ef05.mais_geometria.poligonos_e_ampliacao",
+    "bncc": [
+      "EF05MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ao reduzir lados pelo fator 1/2, ângulos correspondentes:",
+    "opcoes": [
+      "Sempre passam a retos",
+      "Conservam a medida",
+      "São reduzidos à metade"
+    ],
+    "correta": 1,
+    "explicacao": "A redução proporcional preserva a forma e as aberturas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344
+        ],
+        "paginasImpressas": "347",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.mais_geometria.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Mais Geometria",
+    "aulaId": "mat.ef05.mais_geometria.poligonos_e_ampliacao",
+    "bncc": [
+      "EF05MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Retângulo 4×6 ampliado por dois mede:",
+    "opcoes": [
+      "8×12",
+      "6×8",
+      "8×6"
+    ],
+    "correta": 0,
+    "explicacao": "Os dois comprimentos seguem o mesmo fator.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344
+        ],
+        "paginasImpressas": "347",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Multiplicação e Divisão com Números Naturais",
+    "aulaId": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo",
+    "bncc": [
+      "EF05MA08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 5×2,4?",
+    "opcoes": [
+      "1,2",
+      "120",
+      "12"
+    ],
+    "correta": 2,
+    "explicacao": "Cinco grupos de vinte e quatro décimos dão cento e vinte décimos, doze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          99,
+          101
+        ],
+        "paginasImpressas": "102, 104",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Multiplicação e Divisão com Números Naturais",
+    "aulaId": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo",
+    "bncc": [
+      "EF05MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "8,4÷4 é:",
+    "opcoes": [
+      "21",
+      "0,21",
+      "2,1"
+    ],
+    "correta": 2,
+    "explicacao": "Quatro vezes 2,1 recompõem 8,4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          99,
+          101
+        ],
+        "paginasImpressas": "102, 104",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Multiplicação e Divisão com Números Naturais",
+    "aulaId": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo",
+    "bncc": [
+      "EF05MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "4×3,25 resulta em:",
+    "opcoes": [
+      "130",
+      "13",
+      "1,3"
+    ],
+    "correta": 1,
+    "explicacao": "Quatro grupos de três e um quarto totalizam treze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          99,
+          101
+        ],
+        "paginasImpressas": "102, 104",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Multiplicação e Divisão com Números Naturais",
+    "aulaId": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo",
+    "bncc": [
+      "EF05MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "15,6÷3 resulta em:",
+    "opcoes": [
+      "5,2",
+      "52",
+      "0,52"
+    ],
+    "correta": 0,
+    "explicacao": "Três vezes 5,2 recompõem 15,6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          99,
+          101
+        ],
+        "paginasImpressas": "102, 104",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo",
+    "bncc": [
+      "EF05MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Três camisetas e quatro bermudas permitem:",
+    "opcoes": [
+      "7 pares",
+      "24 pares",
+      "12 pares"
+    ],
+    "correta": 2,
+    "explicacao": "Cada camiseta tem quatro escolhas de bermuda.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.espaco_amostral",
+    "bncc": [
+      "EF05MA22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas cores numa sacola sempre têm chances iguais?",
+    "opcoes": [
+      "Só se o sorteio for sem olhar",
+      "Não",
+      "Sim"
+    ],
+    "correta": 1,
+    "explicacao": "Depende das quantidades e condições.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis",
+    "bncc": [
+      "EF05MA23"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No dado equilibrado, sair maior que quatro tem chance:",
+    "opcoes": [
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correta": 0,
+    "explicacao": "São duas faces favoráveis entre seis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos",
+    "bncc": [
+      "EF05MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No exemplo, o aumento do primeiro ao quarto mês é:",
+    "opcoes": [
+      "19",
+      "56",
+      "9"
+    ],
+    "correta": 2,
+    "explicacao": "19−10=9.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados",
+    "bncc": [
+      "EF05MA25"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma variável categórica é:",
+    "opcoes": [
+      "Quantidade de livros",
+      "Meio de transporte escolhido",
+      "Minutos de trajeto"
+    ],
+    "correta": 1,
+    "explicacao": "O valor é uma categoria.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo",
+    "bncc": [
+      "EF05MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Dois tamanhos e cinco cores geram:",
+    "opcoes": [
+      "7 combinações",
+      "5 combinações",
+      "10 combinações"
+    ],
+    "correta": 2,
+    "explicacao": "2×5=10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.espaco_amostral",
+    "bncc": [
+      "EF05MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um dado comum equilibrado tem quantos resultados de face possíveis?",
+    "opcoes": [
+      "12",
+      "6",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "Faces de um a seis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis",
+    "bncc": [
+      "EF05MA23"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Numa caixa com dez cartões igualmente sorteáveis, quatro marcados, a chance de marcado é:",
+    "opcoes": [
+      "4/10",
+      "4/6",
+      "6/4"
+    ],
+    "correta": 0,
+    "explicacao": "Quatro favoráveis sobre dez resultados equiprováveis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos",
+    "bncc": [
+      "EF05MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um gráfico de linhas com meses fora de ordem pode:",
+    "opcoes": [
+      "Provar uma causa",
+      "Dispensar a fonte",
+      "Distorcer a leitura temporal"
+    ],
+    "correta": 2,
+    "explicacao": "A sequência temporal deve ser respeitada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.probabilidade_e_estatistica.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados",
+    "bncc": [
+      "EF05MA25"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O texto final deve explicar:",
+    "opcoes": [
+      "Apenas uma opinião anterior à coleta",
+      "Finalidade e síntese dos resultados",
+      "Só a cor do gráfico"
+    ],
+    "correta": 1,
+    "explicacao": "O relatório liga pergunta e dados observados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.proporcionalidade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Proporcionalidade",
+    "aulaId": "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais",
+    "bncc": [
+      "EF05MA12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se dois itens custam 14 reais com preço unitário fixo, cinco custam:",
+    "opcoes": [
+      "17 reais",
+      "28 reais",
+      "35 reais"
+    ],
+    "correta": 2,
+    "explicacao": "Um custa sete e cinco custam trinta e cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          174
+        ],
+        "paginasImpressas": "173, 177",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.proporcionalidade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Proporcionalidade",
+    "aulaId": "mat.ef05.proporcionalidade.partilha_em_partes_desiguais",
+    "bncc": [
+      "EF05MA13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ao repartir 72 em partes na razão 1:2, a menor é:",
+    "opcoes": [
+      "48",
+      "24",
+      "36"
+    ],
+    "correta": 1,
+    "explicacao": "Setenta e dois contêm três partes de vinte e quatro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170
+        ],
+        "paginasImpressas": "173",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.proporcionalidade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Proporcionalidade",
+    "aulaId": "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais",
+    "bncc": [
+      "EF05MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma receita para três pessoas usa 300 g. Para nove usa:",
+    "opcoes": [
+      "600 g",
+      "309 g",
+      "900 g"
+    ],
+    "correta": 2,
+    "explicacao": "Triplicar pessoas triplica ingrediente nas condições da receita.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          174
+        ],
+        "paginasImpressas": "173, 177",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.proporcionalidade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Proporcionalidade",
+    "aulaId": "mat.ef05.proporcionalidade.partilha_em_partes_desiguais",
+    "bncc": [
+      "EF05MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se uma parte é dobro da outra, o total contém quantas partes menores?",
+    "opcoes": [
+      "4",
+      "3",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "Uma menor mais duas menores equivalentes à maior.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170
+        ],
+        "paginasImpressas": "173",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.propriedades_da_igualdade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Propriedades da Igualdade",
+    "aulaId": "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade",
+    "bncc": [
+      "EF05MA10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se a=b, qual transformação sempre preserva a igualdade?",
+    "opcoes": [
+      "a+7=b",
+      "a÷0=b÷0",
+      "a+7=b+7"
+    ],
+    "correta": 2,
+    "explicacao": "O mesmo acréscimo atinge os dois valores.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.propriedades_da_igualdade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Propriedades da Igualdade",
+    "aulaId": "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido",
+    "bncc": [
+      "EF05MA11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual completa □÷5=8?",
+    "opcoes": [
+      "3",
+      "40",
+      "13"
+    ],
+    "correta": 1,
+    "explicacao": "Quarenta dividido por cinco é oito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.propriedades_da_igualdade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Propriedades da Igualdade",
+    "aulaId": "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade",
+    "bncc": [
+      "EF05MA10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Por que não dividir ambos os membros por zero?",
+    "opcoes": [
+      "Porque sempre dá um",
+      "Porque sempre dá zero",
+      "Divisão por zero não é definida"
+    ],
+    "correta": 2,
+    "explicacao": "A condição de divisor não nulo é necessária.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.propriedades_da_igualdade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Propriedades da Igualdade",
+    "aulaId": "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido",
+    "bncc": [
+      "EF05MA11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um valor somado a 48 dá 125. Ele é:",
+    "opcoes": [
+      "87",
+      "77",
+      "173"
+    ],
+    "correta": 1,
+    "explicacao": "125−48=77.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.sistema_de_numeracao_decimal.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Sistema de Numeração Decimal",
+    "aulaId": "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes",
+    "bncc": [
+      "EF05MA01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em 708045, o 8 representa:",
+    "opcoes": [
+      "800",
+      "80",
+      "8000"
+    ],
+    "correta": 2,
+    "explicacao": "Oito unidades de milhar.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.sistema_de_numeracao_decimal.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Sistema de Numeração Decimal",
+    "aulaId": "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes",
+    "bncc": [
+      "EF05MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é menor?",
+    "opcoes": [
+      "526009",
+      "526090",
+      "520609"
+    ],
+    "correta": 2,
+    "explicacao": "Com as demais ordens comparadas da esquerda para a direita, zero milhares é menor que seis milhares.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.sistema_de_numeracao_decimal.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Sistema de Numeração Decimal",
+    "aulaId": "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes",
+    "bncc": [
+      "EF05MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é menor?",
+    "opcoes": [
+      "890750",
+      "809075",
+      "890075"
+    ],
+    "correta": 1,
+    "explicacao": "Ambos têm oito centenas de milhar; zero dezenas de milhar é menor que nove.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.sistema_de_numeracao_decimal.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Sistema de Numeração Decimal",
+    "aulaId": "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes",
+    "bncc": [
+      "EF05MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "305040 lê-se:",
+    "opcoes": [
+      "Trezentos e cinco mil e quarenta",
+      "Trinta e cinco mil e quarenta",
+      "Trezentos e cinquenta mil e quatro"
+    ],
+    "correta": 0,
+    "explicacao": "As ordens conservam trezentos mil, cinco mil e quarenta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
       }
     ],
     "autoria": "produção autoral assistida",
@@ -25205,6 +31613,6445 @@ registrarQuestoes([
     "autoria": "produção autoral assistida",
     "estado": "piloto",
     "complementar": false
+  },
+  {
+    "id": "mat.em01.conjuntos_e_funcao_afim.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Conjuntos e Função Afim",
+    "aulaId": "mat.em01.conjuntos_e_funcao_afim.conjuntos",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para A={2,4,6}, B={4,5}, A∩B é:",
+    "opcoes": [
+      "{2,4,5,6}",
+      "{2,6}",
+      "{4}"
+    ],
+    "correta": 2,
+    "explicacao": "Apenas quatro pertence aos dois.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          20,
+          21,
+          25,
+          26
+        ],
+        "paginasImpressas": "23, 24, 28, 29",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em01.conjuntos_e_funcao_afim.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Conjuntos e Função Afim",
+    "aulaId": "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao",
+    "bncc": [
+      "EM13MAT302",
+      "EM13MAT401"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Em C(n)=5n+8, C(4) é:",
+    "opcoes": [
+      "20",
+      "28",
+      "52"
+    ],
+    "correta": 1,
+    "explicacao": "5×4+8=28.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          8,
+          9,
+          11
+        ],
+        "paginasImpressas": "11, 12, 14",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.conjuntos_e_funcao_afim.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Conjuntos e Função Afim",
+    "aulaId": "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim",
+    "bncc": [
+      "EM13MAT101",
+      "EM13MAT401",
+      "EM13MAT501"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A reta por (1,4) e (3,10) tem inclinação:",
+    "opcoes": [
+      "3",
+      "6",
+      "2"
+    ],
+    "correta": 0,
+    "explicacao": "(10−4)/(3−1)=3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          11,
+          14,
+          17
+        ],
+        "paginasImpressas": "14, 17, 20",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.conjuntos_e_funcao_afim.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Conjuntos e Função Afim",
+    "aulaId": "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca",
+    "bncc": [
+      "EM13MAT404"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Na tarifa do exemplo, T(7) vale:",
+    "opcoes": [
+      "24",
+      "10",
+      "14"
+    ],
+    "correta": 2,
+    "explicacao": "Acrescentar duas unidades de consumo além de cinco: 10+2×2.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          8
+        ],
+        "paginasImpressas": "11",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.conjuntos_e_funcao_afim.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Conjuntos e Função Afim",
+    "aulaId": "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao",
+    "bncc": [
+      "EM13MAT302",
+      "EM13MAT401"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Qual relação é diretamente proporcional?",
+    "opcoes": [
+      "y=3x+2",
+      "y=x²",
+      "y=3x"
+    ],
+    "correta": 2,
+    "explicacao": "y/x é constante igual a três para x não nulo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          8,
+          9,
+          11
+        ],
+        "paginasImpressas": "11, 12, 14",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.conjuntos_e_funcao_afim.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Conjuntos e Função Afim",
+    "aulaId": "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim",
+    "bncc": [
+      "EM13MAT101",
+      "EM13MAT401",
+      "EM13MAT501"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para y=−2x+6, o zero é:",
+    "opcoes": [
+      "6",
+      "3",
+      "−3"
+    ],
+    "correta": 1,
+    "explicacao": "−2x+6=0 dá x=3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          11,
+          14,
+          17
+        ],
+        "paginasImpressas": "14, 17, 20",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.conjuntos_e_funcao_afim.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Conjuntos e Função Afim",
+    "aulaId": "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca",
+    "bncc": [
+      "EM13MAT404"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O ponto de fronteira precisa ser analisado para:",
+    "opcoes": [
+      "Garantir domínio e saída bem definidos",
+      "Dispensar a regra",
+      "Tornar toda função crescente"
+    ],
+    "correta": 0,
+    "explicacao": "Condições dos trechos precisam ser compatíveis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          8
+        ],
+        "paginasImpressas": "11",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.estatistica_e_graficos.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos",
+    "bncc": [
+      "EM13MAT102"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "De 96 para 100, a diferença absoluta é:",
+    "opcoes": [
+      "5",
+      "100",
+      "4"
+    ],
+    "correta": 2,
+    "explicacao": "100−96=4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.estatistica_e_graficos.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia",
+    "bncc": [
+      "EM13MAT406"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Duas ocorrências em cinco equivalem a:",
+    "opcoes": [
+      "2%",
+      "40%",
+      "20%"
+    ],
+    "correta": 1,
+    "explicacao": "2/5=0,4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.estatistica_e_graficos.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao",
+    "bncc": [
+      "EM13MAT316"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Em 1,3,5, a média é:",
+    "opcoes": [
+      "3",
+      "4",
+      "9"
+    ],
+    "correta": 0,
+    "explicacao": "Soma nove dividida por três.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          277,
+          279
+        ],
+        "paginasImpressas": "280, 282",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.estatistica_e_graficos.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos",
+    "bncc": [
+      "EM13MAT102"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Ouvir só voluntários de uma rede social pode:",
+    "opcoes": [
+      "Garantir representação de todos",
+      "Eliminar incerteza",
+      "Introduzir viés de seleção"
+    ],
+    "correta": 2,
+    "explicacao": "A participação pode se relacionar ao tema.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.estatistica_e_graficos.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia",
+    "bncc": [
+      "EM13MAT406"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Nas classes [0,5) e [5,10), o valor 5 pertence:",
+    "opcoes": [
+      "A nenhuma",
+      "Só à segunda",
+      "Às duas"
+    ],
+    "correta": 1,
+    "explicacao": "A primeira exclui cinco e a segunda inclui.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.estatistica_e_graficos.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "aulaId": "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao",
+    "bncc": [
+      "EM13MAT316"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Se todos os valores são iguais, o desvio padrão é:",
+    "opcoes": [
+      "0",
+      "1",
+      "Igual à média sempre"
+    ],
+    "correta": 0,
+    "explicacao": "Todos os desvios são zero.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          277,
+          279
+        ],
+        "paginasImpressas": "280, 282",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_exponencial.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Exponencial",
+    "aulaId": "mat.em01.funcao_exponencial.potenciacao_e_radiciacao",
+    "bncc": [
+      "EM13MAT304"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Quanto é 27^(2/3)?",
+    "opcoes": [
+      "18",
+      "6",
+      "9"
+    ],
+    "correta": 2,
+    "explicacao": "Raiz cúbica três elevada ao quadrado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          65,
+          66
+        ],
+        "paginasImpressas": "68, 69",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_exponencial.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Exponencial",
+    "aulaId": "mat.em01.funcao_exponencial.a_funcao_exponencial",
+    "bncc": [
+      "EM13MAT304",
+      "EM13MAT403"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "No modelo 200×1,1^t, após dois períodos há:",
+    "opcoes": [
+      "220",
+      "242",
+      "240"
+    ],
+    "correta": 1,
+    "explicacao": "200×1,21=242.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          65,
+          66,
+          69,
+          73
+        ],
+        "paginasImpressas": "68, 69, 72, 76",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_exponencial.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Exponencial",
+    "aulaId": "mat.em01.funcao_exponencial.potenciacao_e_radiciacao",
+    "bncc": [
+      "EM13MAT304"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "2^(−4) vale:",
+    "opcoes": [
+      "−16",
+      "−8",
+      "1/16"
+    ],
+    "correta": 2,
+    "explicacao": "Expoente negativo produz recíproco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          65,
+          66
+        ],
+        "paginasImpressas": "68, 69",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_exponencial.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Exponencial",
+    "aulaId": "mat.em01.funcao_exponencial.a_funcao_exponencial",
+    "bncc": [
+      "EM13MAT304",
+      "EM13MAT403"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para 0,5^x, o gráfico é:",
+    "opcoes": [
+      "Uma reta",
+      "Decrescente e positivo",
+      "Crescente e negativo"
+    ],
+    "correta": 1,
+    "explicacao": "A base entre zero e um produz decrescimento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          65,
+          66,
+          69,
+          73
+        ],
+        "paginasImpressas": "68, 69, 72, 76",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_logaritmica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Logarítmica",
+    "aulaId": "mat.em01.funcao_logaritmica.logaritmo",
+    "bncc": [
+      "EM13MAT305"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "log_3(81) vale:",
+    "opcoes": [
+      "27",
+      "3",
+      "4"
+    ],
+    "correta": 2,
+    "explicacao": "3^4=81.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          84,
+          86,
+          90,
+          92,
+          89
+        ],
+        "paginasImpressas": "87, 89, 93, 95, 92",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_logaritmica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Logarítmica",
+    "aulaId": "mat.em01.funcao_logaritmica.a_funcao_logaritmica",
+    "bncc": [
+      "EM13MAT305",
+      "EM13MAT403"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "log_2(x−1)=3 tem solução:",
+    "opcoes": [
+      "8",
+      "9",
+      "7"
+    ],
+    "correta": 1,
+    "explicacao": "x−1=8 e x=9 satisfaz o domínio.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          94,
+          97,
+          100
+        ],
+        "paginasImpressas": "97, 100, 103",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_logaritmica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Logarítmica",
+    "aulaId": "mat.em01.funcao_logaritmica.logaritmo",
+    "bncc": [
+      "EM13MAT305"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Qual propriedade é válida para a,b positivos?",
+    "opcoes": [
+      "log(a+b)=log(a)+log(b)",
+      "log(a−b)=log(a)−log(b) sempre",
+      "log(ab)=log(a)+log(b)"
+    ],
+    "correta": 2,
+    "explicacao": "A identidade é para produto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          84,
+          86,
+          90,
+          92,
+          89
+        ],
+        "paginasImpressas": "87, 89, 93, 95, 92",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_logaritmica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Logarítmica",
+    "aulaId": "mat.em01.funcao_logaritmica.a_funcao_logaritmica",
+    "bncc": [
+      "EM13MAT305",
+      "EM13MAT403"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Dobrar o argumento de log_2(x) acrescenta à saída:",
+    "opcoes": [
+      "O próprio x",
+      "1",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "log_2(2x)=1+log_2(x).",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          94,
+          97,
+          100
+        ],
+        "paginasImpressas": "97, 100, 103",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_modular_complementar.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Modular — Complementar",
+    "aulaId": "mat.em01.funcao_modular_complementar.funcao_modular",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O mínimo de |x−4|+2 é:",
+    "opcoes": [
+      "4",
+      "0",
+      "2"
+    ],
+    "correta": 2,
+    "explicacao": "O módulo zera em quatro e nunca é negativo.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          51,
+          54
+        ],
+        "paginasImpressas": "54, 57",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em01.funcao_modular_complementar.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Modular — Complementar",
+    "aulaId": "mat.em01.funcao_modular_complementar.equacoes_e_inequacoes_modulares",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "|x−2|=4 tem soluções:",
+    "opcoes": [
+      "−4 e 4",
+      "−2 e 6",
+      "2 e 4"
+    ],
+    "correta": 1,
+    "explicacao": "x−2=±4.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          56,
+          58
+        ],
+        "paginasImpressas": "59, 61",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em01.funcao_modular_complementar.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Modular — Complementar",
+    "aulaId": "mat.em01.funcao_modular_complementar.funcao_modular",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "|−7| vale:",
+    "opcoes": [
+      "−7",
+      "0",
+      "7"
+    ],
+    "correta": 2,
+    "explicacao": "É a distância de menos sete a zero.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          51,
+          54
+        ],
+        "paginasImpressas": "54, 57",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em01.funcao_modular_complementar.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Modular — Complementar",
+    "aulaId": "mat.em01.funcao_modular_complementar.equacoes_e_inequacoes_modulares",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "|x|<3 representa:",
+    "opcoes": [
+      "x<−3 ou x>3",
+      "−3<x<3",
+      "x>3"
+    ],
+    "correta": 1,
+    "explicacao": "A distância a zero é menor que três.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          56,
+          58
+        ],
+        "paginasImpressas": "59, 61",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em01.funcao_quadratica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Quadrática",
+    "aulaId": "mat.em01.funcao_quadratica.a_funcao_quadratica",
+    "bncc": [
+      "EM13MAT302",
+      "EM13MAT402",
+      "EM13MAT502"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para y=3x², x=−2 produz:",
+    "opcoes": [
+      "−12",
+      "6",
+      "12"
+    ],
+    "correta": 2,
+    "explicacao": "O quadrado de −2 é quatro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          26,
+          30
+        ],
+        "paginasImpressas": "29, 33",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_quadratica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Quadrática",
+    "aulaId": "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica",
+    "bncc": [
+      "EM13MAT402",
+      "EM13MAT503"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para x²−5x+6, as raízes são:",
+    "opcoes": [
+      "1 e 6",
+      "2 e 3",
+      "−2 e −3"
+    ],
+    "correta": 1,
+    "explicacao": "(x−2)(x−3)=0.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          27,
+          30,
+          34,
+          39,
+          41
+        ],
+        "paginasImpressas": "30, 33, 37, 42, 44",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_quadratica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Quadrática",
+    "aulaId": "mat.em01.funcao_quadratica.a_funcao_quadratica",
+    "bncc": [
+      "EM13MAT302",
+      "EM13MAT402",
+      "EM13MAT502"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Qual regra representa proporcionalidade ao quadrado?",
+    "opcoes": [
+      "y=4x²+1",
+      "y=4x+1",
+      "y=4x²"
+    ],
+    "correta": 2,
+    "explicacao": "A razão y/x² permanece quatro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          26,
+          30
+        ],
+        "paginasImpressas": "29, 33",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.funcao_quadratica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Quadrática",
+    "aulaId": "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica",
+    "bncc": [
+      "EM13MAT402",
+      "EM13MAT503"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O máximo de −x²+8x é:",
+    "opcoes": [
+      "4",
+      "16",
+      "8"
+    ],
+    "correta": 1,
+    "explicacao": "−(x−4)²+16 tem máximo dezesseis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          27,
+          30,
+          34,
+          39,
+          41
+        ],
+        "paginasImpressas": "30, 33, 37, 42, 44",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.geometria_e_transformacoes.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Geometria e Transformações",
+    "aulaId": "mat.em01.geometria_e_transformacoes.transformacoes_isometricas",
+    "bncc": [
+      "EM13MAT105"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Refletir (−3,4) no eixo y produz:",
+    "opcoes": [
+      "(−3,−4)",
+      "(3,−4)",
+      "(3,4)"
+    ],
+    "correta": 2,
+    "explicacao": "Troca o sinal horizontal.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.geometria_e_transformacoes.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Geometria e Transformações",
+    "aulaId": "mat.em01.geometria_e_transformacoes.transformacoes_isometricas",
+    "bncc": [
+      "EM13MAT105"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Homotetia de fator 4 multiplica áreas por:",
+    "opcoes": [
+      "4",
+      "8",
+      "16"
+    ],
+    "correta": 2,
+    "explicacao": "A área varia com o quadrado do fator.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.geometria_e_transformacoes.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Geometria e Transformações",
+    "aulaId": "mat.em01.geometria_e_transformacoes.transformacoes_isometricas",
+    "bncc": [
+      "EM13MAT105"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Transladar (−1,4) pelo vetor (3,−2) produz:",
+    "opcoes": [
+      "(3,−2)",
+      "(2,2)",
+      "(−4,6)"
+    ],
+    "correta": 1,
+    "explicacao": "Somar componentes do vetor ao ponto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.geometria_e_transformacoes.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Geometria e Transformações",
+    "aulaId": "mat.em01.geometria_e_transformacoes.transformacoes_isometricas",
+    "bncc": [
+      "EM13MAT105"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Refletir duas vezes no mesmo eixo equivale a:",
+    "opcoes": [
+      "Identidade",
+      "Rotação de 90°",
+      "Ampliação de fator dois"
+    ],
+    "correta": 0,
+    "explicacao": "A segunda reflexão desfaz a primeira.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.grandezas_e_medidas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT313"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "36 km/h correspondem a:",
+    "opcoes": [
+      "36 m/s",
+      "3,6 m/s",
+      "10 m/s"
+    ],
+    "correta": 2,
+    "explicacao": "Dividir por 3,6 converte km/h em m/s.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.grandezas_e_medidas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas",
+    "bncc": [
+      "EM13MAT314"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "180 km em 2,5 h têm velocidade média:",
+    "opcoes": [
+      "177,5 km/h",
+      "72 km/h",
+      "450 km/h"
+    ],
+    "correta": 1,
+    "explicacao": "180/2,5=72.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.grandezas_e_medidas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT313"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "0,00420 tem quantos algarismos significativos?",
+    "opcoes": [
+      "5",
+      "2",
+      "3"
+    ],
+    "correta": 2,
+    "explicacao": "Zeros iniciais localizam a vírgula; 4,2 e zero final informam precisão.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.grandezas_e_medidas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas",
+    "bncc": [
+      "EM13MAT314"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "1,2 kW por duas horas corresponde a:",
+    "opcoes": [
+      "3,2 kWh",
+      "2,4 kWh",
+      "0,6 kWh"
+    ],
+    "correta": 1,
+    "explicacao": "Energia é produto de potência e tempo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto",
+    "bncc": [
+      "EM13MAT203"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Preço 200 com desconto de 15% fica:",
+    "opcoes": [
+      "185",
+      "30",
+      "170"
+    ],
+    "correta": 2,
+    "explicacao": "Redução trinta, preço final cento e setenta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          285,
+          287,
+          289,
+          291
+        ],
+        "paginasImpressas": "288, 290, 292, 294",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.juros_simples_e_juros_compostos",
+    "bncc": [
+      "EM13MAT303"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "1000 a 5% composto por dois períodos resulta em:",
+    "opcoes": [
+      "1050",
+      "1102,50",
+      "1100"
+    ],
+    "correta": 1,
+    "explicacao": "1000×1,05²=1102,50.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300
+        ],
+        "paginasImpressas": "299, 303",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra",
+    "bncc": [
+      "EM13MAT104"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Custo de 80 passa a 88. A taxa é:",
+    "opcoes": [
+      "10%",
+      "8%",
+      "110%"
+    ],
+    "correta": 0,
+    "explicacao": "A variação oito sobre base oitenta é dez por cento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          302
+        ],
+        "paginasImpressas": "305",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros",
+    "bncc": [
+      "EM13MAT203"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Qual taxa decimal representa 3%?",
+    "opcoes": [
+      "3",
+      "0,3",
+      "0,03"
+    ],
+    "correta": 2,
+    "explicacao": "Três por cento são três centésimos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300
+        ],
+        "paginasImpressas": "299, 303",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto",
+    "bncc": [
+      "EM13MAT203"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Custo 60 e venda 75 têm acréscimo sobre custo:",
+    "opcoes": [
+      "20%",
+      "15%",
+      "25%"
+    ],
+    "correta": 2,
+    "explicacao": "Lucro quinze dividido por sessenta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          285,
+          287,
+          289,
+          291
+        ],
+        "paginasImpressas": "288, 290, 292, 294",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.juros_simples_e_juros_compostos",
+    "bncc": [
+      "EM13MAT303"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "No modelo simples, o acréscimo periódico é:",
+    "opcoes": [
+      "Igual ao expoente",
+      "Constante sobre C",
+      "Sempre sobre o saldo anterior"
+    ],
+    "correta": 1,
+    "explicacao": "J=Cin usa a mesma base inicial.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300
+        ],
+        "paginasImpressas": "299, 303",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra",
+    "bncc": [
+      "EM13MAT104"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um índice médio garante mesma variação em todos os itens?",
+    "opcoes": [
+      "Não",
+      "Sim",
+      "Só se for percentual"
+    ],
+    "correta": 0,
+    "explicacao": "A média pode combinar variações diferentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          302
+        ],
+        "paginasImpressas": "305",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros",
+    "bncc": [
+      "EM13MAT203"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um teste com período zero deve retornar:",
+    "opcoes": [
+      "Zero sempre",
+      "Somente os juros",
+      "Capital inicial"
+    ],
+    "correta": 2,
+    "explicacao": "(1+i)^0=1.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300
+        ],
+        "paginasImpressas": "299, 303",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.sequencias_e_progressoes.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.sequencias",
+    "bncc": [
+      "EM13MAT507",
+      "EM13MAT508"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para a_n=4n−1, o décimo termo é:",
+    "opcoes": [
+      "40",
+      "41",
+      "39"
+    ],
+    "correta": 2,
+    "explicacao": "4×10−1=39.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          162,
+          164,
+          173
+        ],
+        "paginasImpressas": "165, 167, 176",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.sequencias_e_progressoes.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.progressao_aritmetica",
+    "bncc": [
+      "EM13MAT507"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Na PA a_1=3,r=4, a_8 é:",
+    "opcoes": [
+      "32",
+      "31",
+      "35"
+    ],
+    "correta": 1,
+    "explicacao": "3+7×4=31.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          164,
+          168,
+          170
+        ],
+        "paginasImpressas": "167, 171, 173",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.sequencias_e_progressoes.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.progressao_geometrica",
+    "bncc": [
+      "EM13MAT508"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Na PG 2,6,18, o quarto termo é:",
+    "opcoes": [
+      "54",
+      "36",
+      "24"
+    ],
+    "correta": 0,
+    "explicacao": "A razão é três.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          173,
+          176,
+          178,
+          179
+        ],
+        "paginasImpressas": "176, 179, 181, 182",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.sequencias_e_progressoes.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.sequencias",
+    "bncc": [
+      "EM13MAT507",
+      "EM13MAT508"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Na sequência 3,6,12 por duplicação, o próximo é:",
+    "opcoes": [
+      "18",
+      "15",
+      "24"
+    ],
+    "correta": 2,
+    "explicacao": "A regra multiplica por dois.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          162,
+          164,
+          173
+        ],
+        "paginasImpressas": "165, 167, 176",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.sequencias_e_progressoes.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.progressao_aritmetica",
+    "bncc": [
+      "EM13MAT507"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A soma de 2,4,6,8,10 é:",
+    "opcoes": [
+      "25",
+      "30",
+      "20"
+    ],
+    "correta": 1,
+    "explicacao": "Cinco termos de média seis totalizam trinta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          164,
+          168,
+          170
+        ],
+        "paginasImpressas": "167, 171, 173",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.sequencias_e_progressoes.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "aulaId": "mat.em01.sequencias_e_progressoes.progressao_geometrica",
+    "bncc": [
+      "EM13MAT508"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A soma infinita 3+1,5+0,75+… é:",
+    "opcoes": [
+      "6",
+      "4,5",
+      "Infinita necessariamente"
+    ],
+    "correta": 0,
+    "explicacao": "q=1/2 e S=3/(1−1/2)=6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          173,
+          176,
+          178,
+          179
+        ],
+        "paginasImpressas": "176, 179, 181, 182",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.tecnologia_e_algoritmos.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Tecnologia e Algoritmos",
+    "aulaId": "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente",
+    "bncc": [
+      "EM13MAT315"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Ao somar 1 até 4, a saída é:",
+    "opcoes": [
+      "4",
+      "16",
+      "10"
+    ],
+    "correta": 2,
+    "explicacao": "1+2+3+4=10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.tecnologia_e_algoritmos.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Tecnologia e Algoritmos",
+    "aulaId": "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis",
+    "bncc": [
+      "EM13MAT405"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Em Python, range(1,4) produz:",
+    "opcoes": [
+      "0,1,2,3",
+      "1,2,3",
+      "1,2,3,4"
+    ],
+    "correta": 1,
+    "explicacao": "O limite superior é excluído.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.tecnologia_e_algoritmos.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Tecnologia e Algoritmos",
+    "aulaId": "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente",
+    "bncc": [
+      "EM13MAT315"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um laço precisa de condição de parada para:",
+    "opcoes": [
+      "Garantir qualquer resposta",
+      "Dispensar entradas",
+      "Evitar repetição sem término"
+    ],
+    "correta": 2,
+    "explicacao": "A execução precisa avançar para o término.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.tecnologia_e_algoritmos.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Tecnologia e Algoritmos",
+    "aulaId": "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis",
+    "bncc": [
+      "EM13MAT405"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "x=x+1 significa no programa:",
+    "opcoes": [
+      "Apagar x",
+      "Atualizar x a partir do valor anterior",
+      "Uma igualdade impossível a resolver"
+    ],
+    "correta": 1,
+    "explicacao": "É atribuição, não equação algébrica.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.computacao_e_modelagem.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Computação e Modelagem",
+    "aulaId": "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas",
+    "bncc": [
+      "EM13MAT201",
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Uma diferença entre previsão e observação deve motivar:",
+    "opcoes": [
+      "Ocultar o dado",
+      "Declarar o modelo exato",
+      "Revisão das hipóteses e medições"
+    ],
+    "correta": 2,
+    "explicacao": "A comparação é parte da modelagem.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546,
+          547
+        ],
+        "paginasImpressas": "544, 545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.computacao_e_modelagem.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Computação e Modelagem",
+    "aulaId": "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao",
+    "bncc": [
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Busca binária pressupõe:",
+    "opcoes": [
+      "Lista de tamanho par",
+      "Lista ordenada",
+      "Apenas números positivos"
+    ],
+    "correta": 1,
+    "explicacao": "A redução de intervalo depende da ordem.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.computacao_e_modelagem.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Computação e Modelagem",
+    "aulaId": "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas",
+    "bncc": [
+      "EM13MAT201",
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um algoritmo de cenários precisa:",
+    "opcoes": [
+      "Aceitar medidas negativas sem análise",
+      "Dispensar unidades",
+      "Validar entradas e registrar hipóteses"
+    ],
+    "correta": 2,
+    "explicacao": "Entradas incoerentes comprometem a conclusão.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546,
+          547
+        ],
+        "paginasImpressas": "544, 545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.computacao_e_modelagem.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Computação e Modelagem",
+    "aulaId": "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao",
+    "bncc": [
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Alvo ausente deve produzir:",
+    "opcoes": [
+      "Laço infinito",
+      "Saída explícita de não encontrado",
+      "Um índice inventado"
+    ],
+    "correta": 1,
+    "explicacao": "O término precisa tratar ausência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio",
+    "bncc": [
+      "EM13MAT202"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Aumentar uma amostra enviesada garante corrigir o viés?",
+    "opcoes": [
+      "Sim",
+      "Só se dobrar",
+      "Não"
+    ],
+    "correta": 2,
+    "explicacao": "Quantidade não remove automaticamente seleção inadequada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas",
+    "bncc": [
+      "EM13MAT407"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um boxplot destaca diretamente:",
+    "opcoes": [
+      "Causas de diferenças",
+      "Mediana e quartis",
+      "Cada valor individual sempre"
+    ],
+    "correta": 1,
+    "explicacao": "É um resumo posicional.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste",
+    "bncc": [
+      "EM13MAT510"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Uma reta ajustada que não passa por todos os pontos é necessariamente inválida?",
+    "opcoes": [
+      "Não",
+      "Sim",
+      "Só se tiver inclinação negativa"
+    ],
+    "correta": 0,
+    "explicacao": "Ajuste descreve tendência com resíduos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT511"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A soma sete em dois dados equilibrados tem chance:",
+    "opcoes": [
+      "1/11",
+      "1/36",
+      "1/6"
+    ],
+    "correta": 2,
+    "explicacao": "Seis pares favoráveis entre trinta e seis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          264,
+          266,
+          267
+        ],
+        "paginasImpressas": "267, 269, 270",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio",
+    "bncc": [
+      "EM13MAT202"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para variável nominal, é inadequado calcular:",
+    "opcoes": [
+      "Frequência por categoria",
+      "Moda",
+      "Média de códigos como se fossem medidas"
+    ],
+    "correta": 2,
+    "explicacao": "Os códigos não têm significado métrico.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas",
+    "bncc": [
+      "EM13MAT407"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Em histograma de classes desiguais, frequências devem ser proporcionais a:",
+    "opcoes": [
+      "Alturas sempre sem ajuste",
+      "Áreas das barras",
+      "Larguras só"
+    ],
+    "correta": 1,
+    "explicacao": "Usar densidade corrige a largura diferente.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste",
+    "bncc": [
+      "EM13MAT510"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Correlação forte demonstra causa?",
+    "opcoes": [
+      "Não",
+      "Sim",
+      "Sempre que houver muitos pontos"
+    ],
+    "correta": 0,
+    "explicacao": "Outros fatores e seleção podem explicar associação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.estatistica_e_probabilidade.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT511"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Somas de dois dados são equiprováveis?",
+    "opcoes": [
+      "Sim",
+      "Só as pares",
+      "Não"
+    ],
+    "correta": 2,
+    "explicacao": "Há quantidades diferentes de pares por soma.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          264,
+          266,
+          267
+        ],
+        "paginasImpressas": "267, 269, 270",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.introducao_a_geometria_espacial",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Volume de bloco 2×3×4 é:",
+    "opcoes": [
+      "18",
+      "52",
+      "24"
+    ],
+    "correta": 2,
+    "explicacao": "Produto das três dimensões.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.prismas_e_cilindros",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Cilindro r=2,h=7 tem volume:",
+    "opcoes": [
+      "56π",
+      "28π",
+      "14π"
+    ],
+    "correta": 1,
+    "explicacao": "πr²h=π×4×7.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.piramide_e_cone",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Cone r=2,h=9 tem volume:",
+    "opcoes": [
+      "12π",
+      "36π",
+      "18π"
+    ],
+    "correta": 0,
+    "explicacao": "π×4×9/3=12π.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas",
+    "bncc": [
+      "EM13MAT509"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um mapa plano deve ser interpretado considerando:",
+    "opcoes": [
+      "Preservação universal de áreas e ângulos",
+      "Apenas a cor",
+      "A projeção e suas deformações"
+    ],
+    "correta": 2,
+    "explicacao": "A regra de projeção altera medidas e aparência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "USGS — Map projections: A working manual",
+        "url": "https://www.usgs.gov/educational-resources/map-projections-working-manual",
+        "uso": "Fonte cartográfica complementar: famílias de projeção e deformações; explicações e investigação autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri",
+    "bncc": [
+      "EM13MAT504"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Mesma base e altura: cone ocupa que fração do cilindro?",
+    "opcoes": [
+      "2/3",
+      "1/3",
+      "1/2"
+    ],
+    "correta": 1,
+    "explicacao": "V_cone=A_base h/3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.treino.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.area_e_volume_da_esfera",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Esfera de raio dois tem volume:",
+    "opcoes": [
+      "32π/3",
+      "16π",
+      "8π"
+    ],
+    "correta": 0,
+    "explicacao": "4π×8/3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.introducao_a_geometria_espacial",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Área de revestimento deve ser expressa em:",
+    "opcoes": [
+      "Unidades cúbicas",
+      "Somente litros",
+      "Unidades quadradas"
+    ],
+    "correta": 2,
+    "explicacao": "Revestimento mede superfície.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.prismas_e_cilindros",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Área lateral do cilindro r=2,h=5 é:",
+    "opcoes": [
+      "40π",
+      "20π",
+      "10π"
+    ],
+    "correta": 1,
+    "explicacao": "2πrh=20π.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.piramide_e_cone",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Cone reto r=5,h=12 tem geratriz:",
+    "opcoes": [
+      "13",
+      "17",
+      "7"
+    ],
+    "correta": 0,
+    "explicacao": "Pitágoras dá √169=13.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas",
+    "bncc": [
+      "EM13MAT509"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Retângulos iguais numa grade latitude/longitude plana garantem áreas esféricas iguais?",
+    "opcoes": [
+      "Sim, sempre",
+      "Só se os nomes forem iguais",
+      "Não"
+    ],
+    "correta": 2,
+    "explicacao": "O comprimento dos paralelos varia com a latitude.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "USGS — Map projections: A working manual",
+        "url": "https://www.usgs.gov/educational-resources/map-projections-working-manual",
+        "uso": "Fonte cartográfica complementar: famílias de projeção e deformações; explicações e investigação autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri",
+    "bncc": [
+      "EM13MAT504"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Cavalieri exige comparar seções:",
+    "opcoes": [
+      "Só no topo",
+      "Em todos os níveis correspondentes",
+      "Só na base"
+    ],
+    "correta": 1,
+    "explicacao": "A equivalência seccional precisa valer ao longo da altura.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.area_e_volume_da_esfera",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Dobrar o raio de esfera multiplica volume por:",
+    "opcoes": [
+      "8",
+      "4",
+      "2"
+    ],
+    "correta": 0,
+    "explicacao": "O volume depende de r³.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Matrizes, Determinantes e Sistemas Lineares",
+    "aulaId": "mat.em02.matrizes_determinantes_e_sistemas_lineares.matrizes_e_determinantes",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Determinante de [[2,1],[3,4]] é:",
+    "opcoes": [
+      "11",
+      "8",
+      "5"
+    ],
+    "correta": 2,
+    "explicacao": "2×4−1×3=5.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          187,
+          191,
+          200
+        ],
+        "paginasImpressas": "190, 194, 203",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Matrizes, Determinantes e Sistemas Lineares",
+    "aulaId": "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares",
+    "bncc": [
+      "EM13MAT301"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "x+y=8 e x−y=2 têm solução:",
+    "opcoes": [
+      "(4,4)",
+      "(5,3)",
+      "(3,5)"
+    ],
+    "correta": 1,
+    "explicacao": "Somando, 2x=10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          215,
+          220,
+          224,
+          222
+        ],
+        "paginasImpressas": "218, 223, 227, 225",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Matrizes, Determinantes e Sistemas Lineares",
+    "aulaId": "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares",
+    "bncc": [
+      "EM13MAT301"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Retas paralelas distintas representam sistema:",
+    "opcoes": [
+      "Com uma solução",
+      "Sempre com infinitas",
+      "Sem solução"
+    ],
+    "correta": 2,
+    "explicacao": "Não existe ponto comum.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          215,
+          220,
+          224,
+          222
+        ],
+        "paginasImpressas": "218, 223, 227, 225",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.proporcionalidade_e_variacao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Proporcionalidade e Variação",
+    "aulaId": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa",
+    "bncc": [
+      "EM13MAT101",
+      "EM13MAT302"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Entre x=2 e x=4 em y=x², a taxa média é:",
+    "opcoes": [
+      "4",
+      "12",
+      "6"
+    ],
+    "correta": 2,
+    "explicacao": "(16−4)/(4−2)=6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.proporcionalidade_e_variacao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Proporcionalidade e Variação",
+    "aulaId": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa",
+    "bncc": [
+      "EM13MAT101",
+      "EM13MAT302"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Qual é inversamente proporcional para x>0?",
+    "opcoes": [
+      "y=20x",
+      "y=x+20",
+      "y=20/x"
+    ],
+    "correta": 2,
+    "explicacao": "O produto xy é vinte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.proporcionalidade_e_variacao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Proporcionalidade e Variação",
+    "aulaId": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa",
+    "bncc": [
+      "EM13MAT101"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Em y=x², entre x=1 e x=2 a taxa média é:",
+    "opcoes": [
+      "1",
+      "3",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "(4−1)/(2−1)=3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.proporcionalidade_e_variacao.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Proporcionalidade e Variação",
+    "aulaId": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa",
+    "bncc": [
+      "EM13MAT302"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Na relação y=5x+10, dobrar x sempre dobra y?",
+    "opcoes": [
+      "Não",
+      "Sim",
+      "Somente porque é reta"
+    ],
+    "correta": 0,
+    "explicacao": "A parcela fixa dez impede proporcionalidade direta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.regioes_planas_e_area.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Regiões Planas e Área",
+    "aulaId": "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas",
+    "bncc": [
+      "EM13MAT307"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Trapézio B=10,b=6,h=4 tem área:",
+    "opcoes": [
+      "64",
+      "24",
+      "32"
+    ],
+    "correta": 2,
+    "explicacao": "(10+6)×4/2=32.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.regioes_planas_e_area.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Regiões Planas e Área",
+    "aulaId": "mat.em02.regioes_planas_e_area.ladrilhamento",
+    "bncc": [
+      "EM13MAT505"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Três hexágonos regulares em um vértice somam:",
+    "opcoes": [
+      "540°",
+      "360°",
+      "180°"
+    ],
+    "correta": 1,
+    "explicacao": "3×120°=360°.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.regioes_planas_e_area.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Regiões Planas e Área",
+    "aulaId": "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares",
+    "bncc": [
+      "EM13MAT506"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Triplicar o lado de um quadrado multiplica a área por:",
+    "opcoes": [
+      "9",
+      "3",
+      "6"
+    ],
+    "correta": 0,
+    "explicacao": "A área é proporcional ao quadrado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.regioes_planas_e_area.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Regiões Planas e Área",
+    "aulaId": "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas",
+    "bncc": [
+      "EM13MAT307"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Decompor uma região deve evitar:",
+    "opcoes": [
+      "Toda mudança de forma",
+      "Qualquer estimativa",
+      "Lacunas e dupla contagem"
+    ],
+    "correta": 2,
+    "explicacao": "Os pedaços precisam corresponder exatamente à região.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.regioes_planas_e_area.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Regiões Planas e Área",
+    "aulaId": "mat.em02.regioes_planas_e_area.ladrilhamento",
+    "bncc": [
+      "EM13MAT505"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Por que 360/108 não inteiro importa ao ladrilhamento só com pentágonos regulares?",
+    "opcoes": [
+      "Dispensa testar a cobertura",
+      "Não fecha uma volta só com esses ângulos",
+      "Prova que nenhum pentágono ladrilha"
+    ],
+    "correta": 1,
+    "explicacao": "A conclusão é sobre a forma regular e condições declaradas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.regioes_planas_e_area.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Regiões Planas e Área",
+    "aulaId": "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares",
+    "bncc": [
+      "EM13MAT506"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para hexágono regular de lado l, o perímetro é:",
+    "opcoes": [
+      "6l",
+      "l²",
+      "3l"
+    ],
+    "correta": 0,
+    "explicacao": "São seis lados iguais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia",
+    "bncc": [
+      "EM13MAT306"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "π radianos correspondem a:",
+    "opcoes": [
+      "90°",
+      "360°",
+      "180°"
+    ],
+    "correta": 2,
+    "explicacao": "Uma meia-volta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          120,
+          122,
+          125,
+          126,
+          130,
+          133
+        ],
+        "paginasImpressas": "123, 125, 128, 129, 133, 136",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.funcoes_trigonometricas",
+    "bncc": [
+      "EM13MAT306"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "y=3sen(2t)+4 tem amplitude:",
+    "opcoes": [
+      "4",
+      "3",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "A amplitude é módulo do coeficiente do seno.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          152
+        ],
+        "paginasImpressas": "155",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.relacoes_trigonometricas",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Se sen θ=3/5 e θ é agudo, cos θ é:",
+    "opcoes": [
+      "4/5",
+      "2/5",
+      "−4/5"
+    ],
+    "correta": 0,
+    "explicacao": "Raiz positiva de 1−9/25.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          108,
+          109,
+          116,
+          136
+        ],
+        "paginasImpressas": "111, 112, 119, 139",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.semelhanca_de_poligonos",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Triângulo semelhante a 4,5,6 por fator três tem lados:",
+    "opcoes": [
+      "7,8,9",
+      "8,10,12",
+      "12,15,18"
+    ],
+    "correta": 2,
+    "explicacao": "Multiplicar todos por três preserva razão comum.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.leis_do_seno_e_do_cosseno",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Com a=b=4 e C=60°, o terceiro lado mede:",
+    "opcoes": [
+      "√32",
+      "4",
+      "8"
+    ],
+    "correta": 1,
+    "explicacao": "c²=16+16−16=16.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.treino.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.equacoes_e_identidades_trigonometricas",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "sen(2x) equivale a:",
+    "opcoes": [
+      "2sen x cos x",
+      "sen²x",
+      "2sen x"
+    ],
+    "correta": 0,
+    "explicacao": "Identidade de ângulo duplo.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          136,
+          138,
+          140,
+          141,
+          143,
+          150
+        ],
+        "paginasImpressas": "139, 141, 143, 144, 146, 153",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em02.trigonometria.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia",
+    "bncc": [
+      "EM13MAT306"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "No círculo unitário, θ=π tem ponto:",
+    "opcoes": [
+      "(0,1)",
+      "(1,0)",
+      "(−1,0)"
+    ],
+    "correta": 2,
+    "explicacao": "Cosseno menos um, seno zero.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          120,
+          122,
+          125,
+          126,
+          130,
+          133
+        ],
+        "paginasImpressas": "123, 125, 128, 129, 133, 136",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.funcoes_trigonometricas",
+    "bncc": [
+      "EM13MAT306"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "cos(πt/4) tem período:",
+    "opcoes": [
+      "2π",
+      "8",
+      "4"
+    ],
+    "correta": 1,
+    "explicacao": "2π/(π/4)=8.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          152
+        ],
+        "paginasImpressas": "155",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.relacoes_trigonometricas",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Tangente relaciona:",
+    "opcoes": [
+      "Cateto oposto ao adjacente",
+      "Hipotenusa ao perímetro",
+      "Área ao raio"
+    ],
+    "correta": 0,
+    "explicacao": "A razão depende do ângulo escolhido.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          108,
+          109,
+          116,
+          136
+        ],
+        "paginasImpressas": "111, 112, 119, 139",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.semelhanca_de_poligonos",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Dobrar comprimentos multiplica área por:",
+    "opcoes": [
+      "2",
+      "8",
+      "4"
+    ],
+    "correta": 2,
+    "explicacao": "Duas dimensões são ampliadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.trigonometria.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "aulaId": "mat.em02.trigonometria.leis_do_seno_e_do_cosseno",
+    "bncc": [
+      "EM13MAT308"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A lei dos senos compara:",
+    "opcoes": [
+      "Área com perímetro",
+      "Lado com seno do ângulo oposto",
+      "Lado com ângulo adjacente sempre"
+    ],
+    "correta": 1,
+    "explicacao": "A correspondência oposta é essencial.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem",
+    "bncc": [
+      "EM13MAT310"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Escolher dois entre seis, sem ordem, permite:",
+    "opcoes": [
+      "30",
+      "12",
+      "15"
+    ],
+    "correta": 2,
+    "explicacao": "6×5/2=15.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          232,
+          237,
+          241,
+          242,
+          244,
+          247
+        ],
+        "paginasImpressas": "235, 240, 244, 245, 247, 250",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT312",
+      "EM13MAT511"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Duas caras em moedas equilibradas independentes têm chance:",
+    "opcoes": [
+      "1",
+      "1/4",
+      "1/2"
+    ],
+    "correta": 1,
+    "explicacao": "Produto de meios.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          264,
+          266,
+          267,
+          272,
+          274
+        ],
+        "paginasImpressas": "267, 269, 270, 275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos",
+    "bncc": [
+      "EM13MAT312"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Com duas vermelhas e três azuis, duas vermelhas sem reposição têm chance:",
+    "opcoes": [
+      "1/10",
+      "4/25",
+      "2/5"
+    ],
+    "correta": 0,
+    "explicacao": "2/5×1/4=1/10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          270,
+          272,
+          274
+        ],
+        "paginasImpressas": "273, 275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem",
+    "bncc": [
+      "EM13MAT310"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Cargos diferentes de presidente e vice entre cinco pessoas permitem:",
+    "opcoes": [
+      "10",
+      "25",
+      "20"
+    ],
+    "correta": 2,
+    "explicacao": "Cinco escolhas e depois quatro, sem repetição.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          232,
+          237,
+          241,
+          242,
+          244,
+          247
+        ],
+        "paginasImpressas": "235, 240, 244, 245, 247, 250",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT312",
+      "EM13MAT511"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Num sorteio uniforme em [0,1], P(X≤0,2) é:",
+    "opcoes": [
+      "1",
+      "0,2",
+      "0"
+    ],
+    "correta": 1,
+    "explicacao": "O intervalo favorável tem um quinto do comprimento total.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          264,
+          266,
+          267,
+          272,
+          274
+        ],
+        "paginasImpressas": "267, 269, 270, 275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "aulaId": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos",
+    "bncc": [
+      "EM13MAT312"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Eventos disjuntos de probabilidade positiva são independentes?",
+    "opcoes": [
+      "Não",
+      "Sempre",
+      "Só se somarem um"
+    ],
+    "correta": 0,
+    "explicacao": "A conjunta é zero, diferente do produto positivo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          270,
+          272,
+          274
+        ],
+        "paginasImpressas": "273, 275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.binomio_de_newton_complementar.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Binômio de Newton — Complementar",
+    "aulaId": "mat.em03.binomio_de_newton_complementar.triangulo_de_pascal_e_binomio_de_newton",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O coeficiente de x² em (x+1)^4 é:",
+    "opcoes": [
+      "4",
+      "8",
+      "6"
+    ],
+    "correta": 2,
+    "explicacao": "C(4,2)=6.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          251,
+          254,
+          256,
+          257
+        ],
+        "paginasImpressas": "254, 257, 259, 260",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.binomio_de_newton_complementar.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Binômio de Newton — Complementar",
+    "aulaId": "mat.em03.binomio_de_newton_complementar.termo_geral_do_binomio",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Coeficiente de x em (x+2)^3 é:",
+    "opcoes": [
+      "8",
+      "12",
+      "6"
+    ],
+    "correta": 1,
+    "explicacao": "k=2: C(3,2)×2²=12.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          257,
+          259
+        ],
+        "paginasImpressas": "260, 262",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.binomio_de_newton_complementar.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Binômio de Newton — Complementar",
+    "aulaId": "mat.em03.binomio_de_newton_complementar.triangulo_de_pascal_e_binomio_de_newton",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A soma dos coeficientes de (a+b)^5 é:",
+    "opcoes": [
+      "10",
+      "25",
+      "32"
+    ],
+    "correta": 2,
+    "explicacao": "Substituir a=b=1 dá 2^5.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          251,
+          254,
+          256,
+          257
+        ],
+        "paginasImpressas": "254, 257, 259, 260",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.binomio_de_newton_complementar.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Binômio de Newton — Complementar",
+    "aulaId": "mat.em03.binomio_de_newton_complementar.termo_geral_do_binomio",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O termo inicial do binômio corresponde a:",
+    "opcoes": [
+      "k=n+1",
+      "k=0",
+      "k=1"
+    ],
+    "correta": 1,
+    "explicacao": "A primeira escolha usa zero fatores b.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          257,
+          259
+        ],
+        "paginasImpressas": "260, 262",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.numeros_complexos_e_operacoes",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "(1+i)² vale:",
+    "opcoes": [
+      "2",
+      "1+i",
+      "2i"
+    ],
+    "correta": 2,
+    "explicacao": "1+2i+i²=2i.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          307,
+          308,
+          312,
+          315,
+          320,
+          321
+        ],
+        "paginasImpressas": "310, 311, 315, 318, 323, 324",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O módulo de (1+i)⁴ é:",
+    "opcoes": [
+      "√2",
+      "4",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "(√2)^4=4.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          323,
+          324
+        ],
+        "paginasImpressas": "326, 327",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O resto de x²+2x+3 dividido por x−1 é:",
+    "opcoes": [
+      "6",
+      "3",
+      "0"
+    ],
+    "correta": 0,
+    "explicacao": "P(1)=1+2+3=6.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          330,
+          332,
+          334,
+          337,
+          341
+        ],
+        "paginasImpressas": "333, 335, 337, 340, 344",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um polinômio de grau três pode ter só uma raiz distinta?",
+    "opcoes": [
+      "Não",
+      "Só se for constante",
+      "Sim, com multiplicidade três"
+    ],
+    "correta": 2,
+    "explicacao": "(x−a)³ é um exemplo.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          345,
+          346,
+          348,
+          349,
+          352
+        ],
+        "paginasImpressas": "348, 349, 351, 352, 355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.equacoes_polinomiais_e_fatoracao",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "x³−9x=0 tem raízes reais:",
+    "opcoes": [
+      "−9,0,9",
+      "−3,0,3",
+      "0,9"
+    ],
+    "correta": 1,
+    "explicacao": "x(x²−9)=x(x−3)(x+3).",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          345,
+          346,
+          352
+        ],
+        "paginasImpressas": "348, 349, 355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.numeros_complexos_e_operacoes",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "i elevado a 6 vale:",
+    "opcoes": [
+      "1",
+      "i",
+      "−1"
+    ],
+    "correta": 2,
+    "explicacao": "6 deixa resto dois na divisão por quatro.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          307,
+          308,
+          312,
+          315,
+          320,
+          321
+        ],
+        "paginasImpressas": "310, 311, 315, 318, 323, 324",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O número de raízes complexas distintas de ordem quatro de um número não nulo é:",
+    "opcoes": [
+      "1",
+      "4",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "Os quatro argumentos distintos módulo 2π geram quatro pontos.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          323,
+          324
+        ],
+        "paginasImpressas": "326, 327",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Grau de 2x⁴−x+1 é:",
+    "opcoes": [
+      "4",
+      "3",
+      "1"
+    ],
+    "correta": 0,
+    "explicacao": "O maior expoente não nulo é quatro.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          330,
+          332,
+          334,
+          337,
+          341
+        ],
+        "paginasImpressas": "333, 335, 337, 340, 344",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para x²−5x+6, soma e produto das raízes são:",
+    "opcoes": [
+      "−5 e 6",
+      "5 e −6",
+      "5 e 6"
+    ],
+    "correta": 2,
+    "explicacao": "Girard: −b/a e c/a.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          345,
+          346,
+          348,
+          349,
+          352
+        ],
+        "paginasImpressas": "348, 349, 351, 352, 355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.equacoes_polinomiais_e_fatoracao",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Uma raiz a de P permite dividir sem resto por:",
+    "opcoes": [
+      "a−P",
+      "x−a",
+      "x+a sempre"
+    ],
+    "correta": 1,
+    "explicacao": "É o teorema do fator.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          345,
+          346,
+          352
+        ],
+        "paginasImpressas": "348, 349, 355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.computacao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Computação",
+    "aulaId": "mat.em03.computacao.um_pouco_de_historia",
+    "bncc": [
+      "EM13MAT315"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "MDC de 30 e 18 é:",
+    "opcoes": [
+      "12",
+      "3",
+      "6"
+    ],
+    "correta": 2,
+    "explicacao": "30=18+12;18=12+6;12=2×6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.computacao.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Computação",
+    "aulaId": "mat.em03.computacao.conceitos_iniciais",
+    "bncc": [
+      "EM13MAT405"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Lista [3,6,9] tem média:",
+    "opcoes": [
+      "3",
+      "6",
+      "18"
+    ],
+    "correta": 1,
+    "explicacao": "Soma dezoito dividida por três.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.computacao.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Computação",
+    "aulaId": "mat.em03.computacao.algoritmos_e_fluxogramas",
+    "bncc": [
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "No passo (a,b)=(b,a mod b), para (35,15) obtemos:",
+    "opcoes": [
+      "(15,5)",
+      "(5,15)",
+      "(15,0)"
+    ],
+    "correta": 0,
+    "explicacao": "Resto de 35 por 15 é cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.computacao.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Computação",
+    "aulaId": "mat.em03.computacao.projeto_de_programacao",
+    "bncc": [
+      "EM13MAT203",
+      "EM13MAT405"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Receita fictícia 2400 e despesa 2150 deixam saldo:",
+    "opcoes": [
+      "4550",
+      "350",
+      "250"
+    ],
+    "correta": 2,
+    "explicacao": "2400−2150=250.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545,
+          546
+        ],
+        "paginasImpressas": "543, 544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.computacao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Computação",
+    "aulaId": "mat.em03.computacao.um_pouco_de_historia",
+    "bncc": [
+      "EM13MAT315"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "No algoritmo por restos, a parada ocorre quando:",
+    "opcoes": [
+      "O quociente é um sempre",
+      "Os números aumentam",
+      "O resto é zero"
+    ],
+    "correta": 2,
+    "explicacao": "O último divisor não nulo é o MDC.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.computacao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Computação",
+    "aulaId": "mat.em03.computacao.conceitos_iniciais",
+    "bncc": [
+      "EM13MAT405"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Antes de dividir pela quantidade de elementos, verifique:",
+    "opcoes": [
+      "Se todos os números têm dois algarismos",
+      "Se a lista está vazia",
+      "A cor da tela"
+    ],
+    "correta": 1,
+    "explicacao": "O divisor não pode ser zero.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.computacao.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Computação",
+    "aulaId": "mat.em03.computacao.algoritmos_e_fluxogramas",
+    "bncc": [
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Rastrear estados ajuda a:",
+    "opcoes": [
+      "Conferir correspondência entre fluxo e código",
+      "Provar qualquer programa por um teste",
+      "Eliminar a necessidade de domínio"
+    ],
+    "correta": 0,
+    "explicacao": "Os testes encontram falhas específicas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.computacao.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Computação",
+    "aulaId": "mat.em03.computacao.projeto_de_programacao",
+    "bncc": [
+      "EM13MAT203",
+      "EM13MAT405"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um cenário projetado deve ser descrito como:",
+    "opcoes": [
+      "Garantia sobre o futuro",
+      "Dado observado automaticamente",
+      "Resultado condicionado às hipóteses"
+    ],
+    "correta": 2,
+    "explicacao": "Simulação não é observação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545,
+          546
+        ],
+        "paginasImpressas": "543, 544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.educacao_financeira.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Educação Financeira",
+    "aulaId": "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira",
+    "bncc": [
+      "EM13MAT303"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Dois aumentos de 10% produzem taxa total:",
+    "opcoes": [
+      "20%",
+      "10%",
+      "21%"
+    ],
+    "correta": 2,
+    "explicacao": "1,1²−1=0,21.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300,
+          302
+        ],
+        "paginasImpressas": "299, 303, 305",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.educacao_financeira.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Educação Financeira",
+    "aulaId": "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal",
+    "bncc": [
+      "EM13MAT203",
+      "EM13MAT104"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Despesa 2000 aumentada em 5% passa a:",
+    "opcoes": [
+      "1900",
+      "2100",
+      "2050"
+    ],
+    "correta": 1,
+    "explicacao": "Acréscimo cem.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          285,
+          302
+        ],
+        "paginasImpressas": "288, 305",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.educacao_financeira.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Educação Financeira",
+    "aulaId": "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira",
+    "bncc": [
+      "EM13MAT303"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "1000 a 10% simples por três períodos resulta em:",
+    "opcoes": [
+      "1331",
+      "1100",
+      "1300"
+    ],
+    "correta": 2,
+    "explicacao": "1000(1+0,1×3)=1300.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300,
+          302
+        ],
+        "paginasImpressas": "299, 303, 305",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.educacao_financeira.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Educação Financeira",
+    "aulaId": "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal",
+    "bncc": [
+      "EM13MAT203",
+      "EM13MAT104"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Índice de cesta com pesos diferentes pode mudar porque:",
+    "opcoes": [
+      "Toda inflação é igual para todos",
+      "Categorias têm participações distintas",
+      "Porcentagens não têm base"
+    ],
+    "correta": 1,
+    "explicacao": "O custo total pondera quantidades e preços.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          285,
+          302
+        ],
+        "paginasImpressas": "288, 305",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.introducao_a_estatistica",
+    "bncc": [
+      "EM13MAT102",
+      "EM13MAT406"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "20 em 1000 correspondem a:",
+    "opcoes": [
+      "20%",
+      "0,2%",
+      "2%"
+    ],
+    "correta": 2,
+    "explicacao": "20/1000=0,02.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          277
+        ],
+        "paginasImpressas": "280",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao",
+    "bncc": [
+      "EM13MAT316"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A variância populacional de 2,2,2 é:",
+    "opcoes": [
+      "4",
+      "0",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "Todos os desvios em relação à média são zero.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          279
+        ],
+        "paginasImpressas": "282",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados",
+    "bncc": [
+      "EM13MAT202"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O relatório deve incluir:",
+    "opcoes": [
+      "Método, dados, análises e limites",
+      "Só a conclusão desejada",
+      "Valores inventados para ausência"
+    ],
+    "correta": 0,
+    "explicacao": "Transparência permite avaliar a evidência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.histogramas_e_diagramas_de_caixa",
+    "bncc": [
+      "EM13MAT407"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um ponto marcado como outlier deve ser:",
+    "opcoes": [
+      "Apagado automaticamente",
+      "Tratado sempre como fraude",
+      "Investigado no contexto"
+    ],
+    "correta": 2,
+    "explicacao": "Pode ser valor legítimo ou erro; a marca não decide.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.correlacao_e_reta_de_ajuste",
+    "bncc": [
+      "EM13MAT510"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para previsão nove e observação doze, resíduo observado−previsto é:",
+    "opcoes": [
+      "21",
+      "3",
+      "−3"
+    ],
+    "correta": 1,
+    "explicacao": "12−9=3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.introducao_a_estatistica",
+    "bncc": [
+      "EM13MAT102",
+      "EM13MAT406"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Comparar grupos de tamanhos distintos exige observar:",
+    "opcoes": [
+      "Somente totais absolutos",
+      "Somente a cor",
+      "Denominadores ou taxas"
+    ],
+    "correta": 2,
+    "explicacao": "Taxas ajudam a contextualizar a quantidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          277
+        ],
+        "paginasImpressas": "280",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao",
+    "bncc": [
+      "EM13MAT316"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O desvio padrão tem unidade:",
+    "opcoes": [
+      "Sem unidade em qualquer caso",
+      "Igual à da variável",
+      "Sempre quadrada"
+    ],
+    "correta": 1,
+    "explicacao": "É a raiz da variância.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          279
+        ],
+        "paginasImpressas": "282",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados",
+    "bncc": [
+      "EM13MAT202"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Não resposta pode:",
+    "opcoes": [
+      "Introduzir viés",
+      "Nunca afetar resultados",
+      "Garantir independência"
+    ],
+    "correta": 0,
+    "explicacao": "Quem não responde pode diferir dos respondentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.histogramas_e_diagramas_de_caixa",
+    "bncc": [
+      "EM13MAT407"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Histograma muda quando alteramos classes?",
+    "opcoes": [
+      "Nunca",
+      "Só se os dados forem falsos",
+      "Pode mudar a aparência"
+    ],
+    "correta": 2,
+    "explicacao": "O agrupamento influencia o resumo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.correlacao_e_reta_de_ajuste",
+    "bncc": [
+      "EM13MAT510"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Extrapolar muito além da faixa observada é:",
+    "opcoes": [
+      "Uma medição real",
+      "Dependente de hipóteses adicionais",
+      "Sempre seguro"
+    ],
+    "correta": 1,
+    "explicacao": "A relação pode mudar fora dos dados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.geometria_analitica_complementar.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria Analítica — Complementar",
+    "aulaId": "mat.em03.geometria_analitica_complementar.reta_distancias_e_posicoes_relativas",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Distância de (0,0) a x=5 é:",
+    "opcoes": [
+      "0",
+      "−5",
+      "5"
+    ],
+    "correta": 2,
+    "explicacao": "A perpendicular horizontal tem comprimento cinco.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          370,
+          371,
+          374,
+          383,
+          387,
+          389,
+          366
+        ],
+        "paginasImpressas": "373, 374, 377, 386, 390, 392, 369",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.geometria_analitica_complementar.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria Analítica — Complementar",
+    "aulaId": "mat.em03.geometria_analitica_complementar.elipse_e_circunferencia",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para x²/16+y²/9=1, o semieixo maior é:",
+    "opcoes": [
+      "8",
+      "4",
+      "16"
+    ],
+    "correta": 1,
+    "explicacao": "A²=16, portanto a=4.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          391,
+          395
+        ],
+        "paginasImpressas": "394, 398",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.geometria_analitica_complementar.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria Analítica — Complementar",
+    "aulaId": "mat.em03.geometria_analitica_complementar.reta_distancias_e_posicoes_relativas",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Retas y=2x+1 e y=2x−3 são:",
+    "opcoes": [
+      "Perpendiculares",
+      "Coincidentes",
+      "Paralelas distintas"
+    ],
+    "correta": 2,
+    "explicacao": "Mesma inclinação e interceptos diferentes.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          370,
+          371,
+          374,
+          383,
+          387,
+          389,
+          366
+        ],
+        "paginasImpressas": "373, 374, 377, 386, 390, 392, 369",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.geometria_analitica_complementar.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria Analítica — Complementar",
+    "aulaId": "mat.em03.geometria_analitica_complementar.elipse_e_circunferencia",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Uma circunferência de raio três tem soma constante de distâncias aos focos coincidentes igual a:",
+    "opcoes": [
+      "9",
+      "6",
+      "3"
+    ],
+    "correta": 1,
+    "explicacao": "Dois raios somam seis.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          391,
+          395
+        ],
+        "paginasImpressas": "394, 398",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.geometria_no_plano_cartesiano.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria no Plano Cartesiano",
+    "aulaId": "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia",
+    "bncc": [
+      "EM13MAT301",
+      "EM13MAT401"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Distância entre (0,0) e (6,8) é:",
+    "opcoes": [
+      "14",
+      "48",
+      "10"
+    ],
+    "correta": 2,
+    "explicacao": "√(36+64)=10.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545,
+          546
+        ],
+        "paginasImpressas": "543, 544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          359,
+          363,
+          365,
+          374,
+          391
+        ],
+        "paginasImpressas": "362, 366, 368, 377, 394",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.geometria_no_plano_cartesiano.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria no Plano Cartesiano",
+    "aulaId": "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas",
+    "bncc": [
+      "EM13MAT105"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Rotação de 90° anti-horária em torno da origem leva (2,3) a:",
+    "opcoes": [
+      "(−2,−3)",
+      "(−3,2)",
+      "(3,−2)"
+    ],
+    "correta": 1,
+    "explicacao": "Regra (x,y)→(−y,x).",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.geometria_no_plano_cartesiano.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria no Plano Cartesiano",
+    "aulaId": "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia",
+    "bncc": [
+      "EM13MAT301",
+      "EM13MAT401"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Circunferência centro (2,−1), raio três tem equação:",
+    "opcoes": [
+      "(x+2)²+(y−1)²=3",
+      "x²+y²=3",
+      "(x−2)²+(y+1)²=9"
+    ],
+    "correta": 2,
+    "explicacao": "Subtrair coordenadas do centro e usar raio ao quadrado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545,
+          546
+        ],
+        "paginasImpressas": "543, 544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          359,
+          363,
+          365,
+          374,
+          391
+        ],
+        "paginasImpressas": "362, 366, 368, 377, 394",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.geometria_no_plano_cartesiano.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria no Plano Cartesiano",
+    "aulaId": "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas",
+    "bncc": [
+      "EM13MAT105"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Fator de homotetia 1/2 multiplica área por:",
+    "opcoes": [
+      "2",
+      "1/4",
+      "1/2"
+    ],
+    "correta": 1,
+    "explicacao": "A área varia pelo quadrado do fator.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.grandezas_e_medidas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT313",
+      "EM13MAT314"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "8 MB na convenção decimal contêm:",
+    "opcoes": [
+      "1 megabit",
+      "8 megabits",
+      "64 megabits"
+    ],
+    "correta": 2,
+    "explicacao": "Um byte tem oito bits.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.grandezas_e_medidas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade",
+    "bncc": [
+      "EM13MAT201"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Volume geométrico de camada 5×2×0,1 m é:",
+    "opcoes": [
+      "0,1 m³",
+      "1 m³",
+      "10 m³"
+    ],
+    "correta": 1,
+    "explicacao": "Produto das dimensões.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.grandezas_e_medidas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT313",
+      "EM13MAT314"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "1,20×10³ tem quantos algarismos significativos?",
+    "opcoes": [
+      "2",
+      "4",
+      "3"
+    ],
+    "correta": 2,
+    "explicacao": "1,2 e zero final indicam três algarismos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.grandezas_e_medidas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade",
+    "bncc": [
+      "EM13MAT201"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para converter volume em massa de material é necessário conhecer:",
+    "opcoes": [
+      "A cor",
+      "Densidade ou relação específica",
+      "Somente perímetro"
+    ],
+    "correta": 1,
+    "explicacao": "Massa=volume×densidade nas condições do modelo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.modelagem_e_risco.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico",
+    "bncc": [
+      "EM13MAT106",
+      "EM13MAT312"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Ganho 8 com chance 1/4 e perda 4 com chance 3/4 tem valor esperado:",
+    "opcoes": [
+      "1",
+      "4",
+      "−1"
+    ],
+    "correta": 2,
+    "explicacao": "2−3=−1.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          272,
+          274
+        ],
+        "paginasImpressas": "275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.modelagem_e_risco.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude",
+    "bncc": [
+      "EM13MAT106",
+      "EM13MAT312"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Entre noventa positivos verdadeiros e trinta falsos positivos, a fração verdadeira é:",
+    "opcoes": [
+      "1/3",
+      "3/4",
+      "9/10"
+    ],
+    "correta": 1,
+    "explicacao": "90/(90+30)=3/4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          272,
+          274
+        ],
+        "paginasImpressas": "275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.modelagem_e_risco.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.simulacoes_e_previsoes",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT405",
+      "EM13MAT511"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Semente fixa ajuda a:",
+    "opcoes": [
+      "Reproduzir a sequência simulada",
+      "Provar o fenômeno real",
+      "Eliminar toda variabilidade teórica"
+    ],
+    "correta": 0,
+    "explicacao": "A execução pode ser refeita.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546,
+          548
+        ],
+        "paginasImpressas": "544, 546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.modelagem_e_risco.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico",
+    "bncc": [
+      "EM13MAT106",
+      "EM13MAT312"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Valor esperado positivo garante ganho em uma tentativa?",
+    "opcoes": [
+      "Sim",
+      "Só se for inteiro",
+      "Não"
+    ],
+    "correta": 2,
+    "explicacao": "A média do modelo não elimina variabilidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          272,
+          274
+        ],
+        "paginasImpressas": "275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.modelagem_e_risco.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude",
+    "bncc": [
+      "EM13MAT106",
+      "EM13MAT312"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Conhecer apenas a taxa de acerto entre quem tem a condição basta para saber chance após positivo?",
+    "opcoes": [
+      "Só se for alta",
+      "Não",
+      "Sim"
+    ],
+    "correta": 1,
+    "explicacao": "A frequência inicial e falsos positivos também importam.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          272,
+          274
+        ],
+        "paginasImpressas": "275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.modelagem_e_risco.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "aulaId": "mat.em03.modelagem_e_risco.simulacoes_e_previsoes",
+    "bncc": [
+      "EM13MAT311",
+      "EM13MAT405",
+      "EM13MAT511"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Frequência em simulação finita precisa ser igual à probabilidade?",
+    "opcoes": [
+      "Não",
+      "Sim, sempre",
+      "Só com cem repetições"
+    ],
+    "correta": 0,
+    "explicacao": "Amostras têm variação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546,
+          548
+        ],
+        "paginasImpressas": "544, 546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
   }
 ]);
 registrarProvas({
@@ -27869,6 +40716,4037 @@ registrarProvas({
         ],
         "paginasImpressas": "35",
         "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ]
+  },
+  "mat.ef03.adicao_e_subtracao.prova": {
+    "id": "mat.ef03.adicao_e_subtracao.prova",
+    "titulo": "Avaliação: Adição e Subtração",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Adição e Subtração",
+    "bncc": [
+      "EF03MA05",
+      "EF03MA06"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef03.adicao_e_subtracao.prova.01",
+      "mat.ef03.adicao_e_subtracao.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF03MA05",
+        "questoes": [
+          "mat.ef03.adicao_e_subtracao.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.adicao_e_subtracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.adicao_e_subtracao.estrategias_de_calculo_mental_e_escrito#estrategias_de_calculo_mental_e_escrito.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA06",
+        "questoes": [
+          "mat.ef03.adicao_e_subtracao.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.adicao_e_subtracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.adicao_e_subtracao.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef03.adicao_e_subtracao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Adição e Subtração",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF03MA05",
+        "EF03MA06"
+      ],
+      "atividadesOrigem": [
+        "mat.ef03.adicao_e_subtracao.estrategias_de_calculo_mental_e_escrito#estrategias_de_calculo_mental_e_escrito.producao",
+        "mat.ef03.adicao_e_subtracao.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Estratégias de Cálculo (Mental e Escrito)",
+          "enunciado": "Resolva 496+238 e 803−267 por duas estratégias, incluindo estimativa. Explique as compensações ou reagrupamentos.",
+          "gabarito": "734 e 536. Estimativas próximas de 700 e 500 são coerentes; conferir por decomposição e operações inversas.",
+          "bncc": [
+            "EF03MA05"
+          ],
+          "atividadeOrigem": "mat.ef03.adicao_e_subtracao.estrategias_de_calculo_mental_e_escrito#estrategias_de_calculo_mental_e_escrito.producao"
+        },
+        {
+          "titulo": "Problemas de Adição e Subtração",
+          "enunciado": "Crie e resolva duas histórias para 320−185: uma de retirar e outra de completar ou comparar. Faça ainda uma história de juntar 185 e 135.",
+          "gabarito": "Restam ou faltam 135; na reunião são 320. Avaliar dados suficientes, significados distintos, estratégias e unidade da resposta.",
+          "bncc": [
+            "EF03MA06"
+          ],
+          "atividadeOrigem": "mat.ef03.adicao_e_subtracao.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef03.divisao.prova": {
+    "id": "mat.ef03.divisao.prova",
+    "titulo": "Avaliação: Divisão",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Divisão",
+    "bncc": [
+      "EF03MA08",
+      "EF03MA09"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef03.divisao.prova.01",
+      "mat.ef03.divisao.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF03MA08",
+        "questoes": [
+          "mat.ef03.divisao.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.divisao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.divisao.introducao_a_divisao#introducao_a_divisao.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA09",
+        "questoes": [
+          "mat.ef03.divisao.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.divisao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.divisao.metade_terca_quarta_quinta_e_decima_parte#metade_terca_quarta_quinta_e_decima_parte.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef03.divisao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Divisão",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF03MA08",
+        "EF03MA09"
+      ],
+      "atividadesOrigem": [
+        "mat.ef03.divisao.introducao_a_divisao#introducao_a_divisao.producao",
+        "mat.ef03.divisao.metade_terca_quarta_quinta_e_decima_parte#metade_terca_quarta_quinta_e_decima_parte.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Introdução à Divisão",
+          "enunciado": "Resolva 34÷4 nos dois significados. Faça desenhos, interprete a sobra e elabore uma história com divisor de até dez.",
+          "gabarito": "Quociente oito e resto dois: 34=4×8+2. Distinguir peças por pessoa e quantidade de grupos.",
+          "bncc": [
+            "EF03MA08"
+          ],
+          "atividadeOrigem": "mat.ef03.divisao.introducao_a_divisao#introducao_a_divisao.producao"
+        },
+        {
+          "titulo": "Metade, Terça, Quarta, Quinta e Décima Parte",
+          "enunciado": "Com peças ou desenhos, encontre metade de 30, terça parte de 24, quarta de 20, quinta de 35 e décima de 80. Confira cada partilha pelo produto.",
+          "gabarito": "15,8,5,7,8. Conferir número de grupos, igualdade das partes e total recomposto.",
+          "bncc": [
+            "EF03MA09"
+          ],
+          "atividadeOrigem": "mat.ef03.divisao.metade_terca_quarta_quinta_e_decima_parte#metade_terca_quarta_quinta_e_decima_parte.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36
+        ],
+        "paginasImpressas": "39",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef03.geometria.prova": {
+    "id": "mat.ef03.geometria.prova",
+    "titulo": "Avaliação: Geometria",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Geometria",
+    "bncc": [
+      "EF03MA12",
+      "EF03MA13",
+      "EF03MA14",
+      "EF03MA15",
+      "EF03MA16"
+    ],
+    "duracaoMin": 25,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 5 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef03.geometria.prova.01",
+      "mat.ef03.geometria.prova.02",
+      "mat.ef03.geometria.prova.03",
+      "mat.ef03.geometria.prova.04",
+      "mat.ef03.geometria.prova.05"
+    ],
+    "criterios": "Cada item objetivo vale 10/5 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF03MA12",
+        "questoes": [
+          "mat.ef03.geometria.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.geometria.trajetos_e_croquis#trajetos_e_croquis.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA13",
+        "questoes": [
+          "mat.ef03.geometria.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.geometria.poliedros_e_corpos_redondos#poliedros_e_corpos_redondos.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA14",
+        "questoes": [
+          "mat.ef03.geometria.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.geometria.planificacoes_de_solidos#planificacoes_de_solidos.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA15",
+        "questoes": [
+          "mat.ef03.geometria.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.geometria.figuras_planas_e_seus_lados#figuras_planas_e_seus_lados.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA16",
+        "questoes": [
+          "mat.ef03.geometria.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.geometria.congruencia_e_malhas#congruencia_e_malhas.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef03.geometria.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Geometria",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF03MA12",
+        "EF03MA13",
+        "EF03MA14",
+        "EF03MA15",
+        "EF03MA16"
+      ],
+      "atividadesOrigem": [
+        "mat.ef03.geometria.poliedros_e_corpos_redondos#poliedros_e_corpos_redondos.producao",
+        "mat.ef03.geometria.congruencia_e_malhas#congruencia_e_malhas.producao",
+        "mat.ef03.geometria.planificacoes_de_solidos#planificacoes_de_solidos.producao",
+        "mat.ef03.geometria.figuras_planas_e_seus_lados#figuras_planas_e_seus_lados.producao",
+        "mat.ef03.geometria.trajetos_e_croquis#trajetos_e_croquis.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Poliedros e Corpos Redondos",
+          "enunciado": "Procure ou modele cubo, bloco retangular, pirâmide, cone, cilindro e esfera. Registre um objeto para cada e compare dois modelos.",
+          "gabarito": "Conferir seis correspondências baseadas na forma, não na cor ou função; aceitar desenhos e modelos construídos.",
+          "bncc": [
+            "EF03MA13"
+          ],
+          "atividadeOrigem": "mat.ef03.geometria.poliedros_e_corpos_redondos#poliedros_e_corpos_redondos.producao"
+        },
+        {
+          "titulo": "Congruência e Malhas",
+          "enunciado": "Na malha, desenhe um retângulo 2×3 e duas cópias em posições diferentes. Recorte ou use papel transparente para sobrepor e compare com um retângulo 1×6.",
+          "gabarito": "As cópias coincidem por movimento; o 1×6 tem igual área, mas lados diferentes e não é congruente.",
+          "bncc": [
+            "EF03MA16"
+          ],
+          "atividadeOrigem": "mat.ef03.geometria.congruencia_e_malhas#congruencia_e_malhas.producao"
+        },
+        {
+          "titulo": "Planificações de Sólidos",
+          "enunciado": "Monte uma rede de cubo; abra uma embalagem em forma de prisma. Desenhe redes para uma pirâmide, cilindro e cone, relacionando cada parte ao sólido, e teste modelos de papel com ajuda.",
+          "gabarito": "Observar bases, faces laterais e partes curvas. Pirâmide quadrangular: quadrado e quatro triângulos; cilindro: dois círculos e retângulo; cone: círculo e setor ajustados para fechar. Registrar correções após o teste.",
+          "bncc": [
+            "EF03MA14"
+          ],
+          "atividadeOrigem": "mat.ef03.geometria.planificacoes_de_solidos#planificacoes_de_solidos.producao"
+        },
+        {
+          "titulo": "Figuras Planas e seus Lados",
+          "enunciado": "Desenhe triângulo, quadrado, retângulo, trapézio e paralelogramo em orientações variadas. Marque lados paralelos, compare comprimentos e conte vértices.",
+          "gabarito": "Conferir três ou quatro vértices, pares de paralelas e igualdade dos lados quando aplicável. Respeitar a convenção de trapézio declarada.",
+          "bncc": [
+            "EF03MA15"
+          ],
+          "atividadeOrigem": "mat.ef03.geometria.figuras_planas_e_seus_lados#figuras_planas_e_seus_lados.producao"
+        },
+        {
+          "titulo": "Trajetos e Croquis",
+          "enunciado": "Esboce um trajeto real entre dois pontos próximos, com três referências e mudanças de direção e sentido. Peça que alguém interprete; registre e corrija ambiguidades.",
+          "gabarito": "Avaliar concordância com o ambiente, referência explícita, início, fim e orientação; não exigir escala técnica.",
+          "bncc": [
+            "EF03MA12"
+          ],
+          "atividadeOrigem": "mat.ef03.geometria.trajetos_e_croquis#trajetos_e_croquis.producao"
+        }
+      ],
+      "duracaoMinSugerida": 150,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352
+        ],
+        "paginasImpressas": "355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344,
+          364
+        ],
+        "paginasImpressas": "347, 367",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova": {
+    "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova",
+    "titulo": "Avaliação: Grandezas e medidas: comprimento, massa e capacidade",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e medidas: comprimento, massa e capacidade",
+    "bncc": [
+      "EF03MA17",
+      "EF03MA18",
+      "EF03MA19",
+      "EF03MA20",
+      "EF03MA21"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01",
+      "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF03MA17",
+        "questoes": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA18",
+        "questoes": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA19",
+        "questoes": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA20",
+        "questoes": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA21",
+        "questoes": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas#comparacao_de_areas.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Grandezas e medidas: comprimento, massa e capacidade",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF03MA17",
+        "EF03MA18",
+        "EF03MA19",
+        "EF03MA20",
+        "EF03MA21"
+      ],
+      "atividadesOrigem": [
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao",
+        "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas#comparacao_de_areas.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Medidas e Estimativas",
+          "enunciado": "Estime e meça três comprimentos com régua ou fita e um deles com clipes iguais. Compare unidades. Observe rótulos em L,mL,kg,g,mg e meça massa e capacidade com instrumentos disponíveis, registrando o que não pôde medir.",
+          "gabarito": "Conferir valores reais, zero alinhado, unidade constante, instrumento adequado e distinção entre grandezas. 1 m=100 cm; 1 cm=10 mm; 1 L=1000 mL; 1 kg=1000 g; 1 g=1000 mg. Não inventar medições.",
+          "bncc": [
+            "EF03MA17",
+            "EF03MA18",
+            "EF03MA19",
+            "EF03MA20"
+          ],
+          "atividadeOrigem": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas#medidas_e_estimativas.producao"
+        },
+        {
+          "titulo": "Comparação de Áreas",
+          "enunciado": "Compare faces de duas caixas por sobreposição com papel. Desenhe duas figuras diferentes com oito quadradinhos e explique a igualdade de áreas.",
+          "gabarito": "Observar coberturas reais e conservação dos oito quadrados, sem afirmar igualdade apenas pela aparência do contorno.",
+          "bncc": [
+            "EF03MA21"
+          ],
+          "atividadeOrigem": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas#comparacao_de_areas.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110,
+          121,
+          123,
+          124
+        ],
+        "paginasImpressas": "112, 113, 124, 126, 127",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112
+        ],
+        "paginasImpressas": "115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova": {
+    "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova",
+    "titulo": "Avaliação: Grandezas e Medidas: Tempo e Dinheiro",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
+    "bncc": [
+      "EF03MA22",
+      "EF03MA23",
+      "EF03MA24"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.01",
+      "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF03MA22",
+        "questoes": [
+          "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA23",
+        "questoes": [
+          "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA24",
+        "questoes": [
+          "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario#sistema_monetario.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Grandezas e Medidas: Tempo e Dinheiro",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF03MA22",
+        "EF03MA23",
+        "EF03MA24"
+      ],
+      "atividadesOrigem": [
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.producao",
+        "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario#sistema_monetario.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Horas e Minutos",
+          "enunciado": "Leia o relógio ilustrado e compare com 03:30 digital. Observe horários reais de início e fim de uma tarefa, calcule a duração e represente um deles num relógio de papel. Converta dois minutos em segundos.",
+          "gabarito": "03:30; duração depende da observação; dois minutos=120 s. Conferir os dois ponteiros, sessenta minutos por hora e registros reais.",
+          "bncc": [
+            "EF03MA22",
+            "EF03MA23"
+          ],
+          "atividadeOrigem": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos#horas_e_minutos.producao"
+        },
+        {
+          "titulo": "Sistema Monetário",
+          "enunciado": "Crie uma compra e uma troca com cartões de valores do real. Proponha dois pagamentos equivalentes, calcule o troco e confira com outra estratégia.",
+          "gabarito": "As somas precisam corresponder aos valores representados. Avaliar pergunta, equivalência, preço e troco; aceitar combinações distintas corretas.",
+          "bncc": [
+            "EF03MA24"
+          ],
+          "atividadeOrigem": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario#sistema_monetario.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.ef03.multiplicacao.prova": {
+    "id": "mat.ef03.multiplicacao.prova",
+    "titulo": "Avaliação: Multiplicação",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Multiplicação",
+    "bncc": [
+      "EF03MA07"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef03.multiplicacao.prova.01",
+      "mat.ef03.multiplicacao.prova.02",
+      "mat.ef03.multiplicacao.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF03MA07",
+        "questoes": [
+          "mat.ef03.multiplicacao.prova.01",
+          "mat.ef03.multiplicacao.prova.02",
+          "mat.ef03.multiplicacao.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.multiplicacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.multiplicacao.algoritmo_da_multiplicacao#algoritmo_da_multiplicacao.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef03.multiplicacao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Multiplicação",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF03MA07"
+      ],
+      "atividadesOrigem": [
+        "mat.ef03.multiplicacao.algoritmo_da_multiplicacao#algoritmo_da_multiplicacao.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Algoritmo da Multiplicação",
+          "enunciado": "Desenhe ou monte 18×5 e 24×3 como grupos e retângulos. Elabore uma história para um deles e confira por adição de parcelas iguais.",
+          "gabarito": "90 e 72. As linhas ou grupos devem conservar quantidade por grupo e número de grupos; a história precisa pedir o total.",
+          "bncc": [
+            "EF03MA07"
+          ],
+          "atividadeOrigem": "mat.ef03.multiplicacao.algoritmo_da_multiplicacao#algoritmo_da_multiplicacao.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef03.numeros_de_1_a_1000.prova": {
+    "id": "mat.ef03.numeros_de_1_a_1000.prova",
+    "titulo": "Avaliação: Números de 1 a 1000",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números de 1 a 1000",
+    "bncc": [
+      "EF03MA01",
+      "EF03MA03",
+      "EF03MA04"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef03.numeros_de_1_a_1000.prova.01",
+      "mat.ef03.numeros_de_1_a_1000.prova.02",
+      "mat.ef03.numeros_de_1_a_1000.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF03MA01",
+        "questoes": [
+          "mat.ef03.numeros_de_1_a_1000.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.numeros_de_1_a_1000.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000#leitura_e_escrita_de_numeros_ate_1000.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA03",
+        "questoes": [
+          "mat.ef03.numeros_de_1_a_1000.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.numeros_de_1_a_1000.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao#fatos_basicos_da_adicao_e_multiplicacao.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA04",
+        "questoes": [
+          "mat.ef03.numeros_de_1_a_1000.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.numeros_de_1_a_1000.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.numeros_de_1_a_1000.reta_numerica#reta_numerica.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef03.numeros_de_1_a_1000.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Números de 1 a 1000",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF03MA01",
+        "EF03MA03",
+        "EF03MA04"
+      ],
+      "atividadesOrigem": [
+        "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000#leitura_e_escrita_de_numeros_ate_1000.producao",
+        "mat.ef03.numeros_de_1_a_1000.reta_numerica#reta_numerica.producao",
+        "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao#fatos_basicos_da_adicao_e_multiplicacao.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Leitura e Escrita de Números até 1000",
+          "enunciado": "Escreva por extenso 508, 580 e 1000; represente dois deles com agrupamentos e ordene os três.",
+          "gabarito": "Quinhentos e oito; quinhentos e oitenta; mil. 508<580<1000. Conferir a função do zero e a concordância entre fala, peças e numeral.",
+          "bncc": [
+            "EF03MA01"
+          ],
+          "atividadeOrigem": "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000#leitura_e_escrita_de_numeros_ate_1000.producao"
+        },
+        {
+          "titulo": "Números na Reta Numérica",
+          "enunciado": "Desenhe um trecho de reta de 20 a 50. Represente 28+7 e 42−9; use-o para comparar 28,35 e 42.",
+          "gabarito": "Resultados 35 e 33. Marcas igualmente espaçadas, sentidos corretos e ordem 28<35<42.",
+          "bncc": [
+            "EF03MA04"
+          ],
+          "atividadeOrigem": "mat.ef03.numeros_de_1_a_1000.reta_numerica#reta_numerica.producao"
+        },
+        {
+          "titulo": "Fatos Básicos da Adição e Multiplicação",
+          "enunciado": "Construa com peças 6×4 e use-o para calcular 6×5. Explique também 9+8 completando dez.",
+          "gabarito": "24; depois 30 por acrescentar um grupo de seis. 9+8=17, com 9+1+7. Aceitar estratégias equivalentes justificadas.",
+          "bncc": [
+            "EF03MA03"
+          ],
+          "atividadeOrigem": "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao#fatos_basicos_da_adicao_e_multiplicacao.producao"
+        }
+      ],
+      "duracaoMinSugerida": 90,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14
+        ],
+        "paginasImpressas": "17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          35
+        ],
+        "paginasImpressas": "32, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef03.numeros_maiores_do_que_1000.prova": {
+    "id": "mat.ef03.numeros_maiores_do_que_1000.prova",
+    "titulo": "Avaliação: Números maiores do que 1000",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Números maiores do que 1000",
+    "bncc": [
+      "EF03MA01",
+      "EF03MA02"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef03.numeros_maiores_do_que_1000.prova.01",
+      "mat.ef03.numeros_maiores_do_que_1000.prova.02",
+      "mat.ef03.numeros_maiores_do_que_1000.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF03MA01",
+        "questoes": [
+          "mat.ef03.numeros_maiores_do_que_1000.prova.01",
+          "mat.ef03.numeros_maiores_do_que_1000.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.numeros_maiores_do_que_1000.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar#a_quarta_ordem_unidade_de_milhar.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA02",
+        "questoes": [
+          "mat.ef03.numeros_maiores_do_que_1000.prova.01",
+          "mat.ef03.numeros_maiores_do_que_1000.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.numeros_maiores_do_que_1000.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar#a_quarta_ordem_unidade_de_milhar.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef03.numeros_maiores_do_que_1000.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Números maiores do que 1000",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF03MA01",
+        "EF03MA02"
+      ],
+      "atividadesOrigem": [
+        "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar#a_quarta_ordem_unidade_de_milhar.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "A Quarta Ordem (Unidade de Milhar)",
+          "enunciado": "Represente 4026 e 4260 com desenhos de agrupamentos; escreva por extenso, decomponha de dois modos e compare.",
+          "gabarito": "Quatro mil e vinte e seis; quatro mil duzentos e sessenta. 4026=4000+20+6; 4260=4000+200+60. 4026<4260.",
+          "bncc": [
+            "EF03MA01",
+            "EF03MA02"
+          ],
+          "atividadeOrigem": "mat.ef03.numeros_maiores_do_que_1000.a_quarta_ordem_unidade_de_milhar#a_quarta_ordem_unidade_de_milhar.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13
+        ],
+        "paginasImpressas": "16",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef03.padroes_e_igualdade.prova": {
+    "id": "mat.ef03.padroes_e_igualdade.prova",
+    "titulo": "Avaliação: Padrões e Igualdade",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Padrões e Igualdade",
+    "bncc": [
+      "EF03MA10",
+      "EF03MA11"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef03.padroes_e_igualdade.prova.01",
+      "mat.ef03.padroes_e_igualdade.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF03MA10",
+        "questoes": [
+          "mat.ef03.padroes_e_igualdade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.padroes_e_igualdade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias#regularidades_em_sequencias.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA11",
+        "questoes": [
+          "mat.ef03.padroes_e_igualdade.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.padroes_e_igualdade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas#igualdade_e_sentencas_matematicas.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef03.padroes_e_igualdade.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Padrões e Igualdade",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF03MA10",
+        "EF03MA11"
+      ],
+      "atividadesOrigem": [
+        "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias#regularidades_em_sequencias.producao",
+        "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas#igualdade_e_sentencas_matematicas.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Regularidades em Sequências",
+          "enunciado": "Construa seis termos começando em 12 e somando sete. Depois seis termos de 45 retirando cinco. Oculte um termo e explique como recuperá-lo.",
+          "gabarito": "12,19,26,33,40,47; 45,40,35,30,25,20. Justificar o passo constante antes e depois da lacuna.",
+          "bncc": [
+            "EF03MA10"
+          ],
+          "atividadeOrigem": "mat.ef03.padroes_e_igualdade.regularidades_em_sequencias#regularidades_em_sequencias.producao"
+        },
+        {
+          "titulo": "Igualdade e Sentenças Matemáticas",
+          "enunciado": "Escreva três adições e três subtrações com resultado 18. Forme igualdades entre elas e explique por cálculo ou peças.",
+          "gabarito": "Exemplos 10+8,9+9,12+6; 20−2,25−7,30−12. Cada lado de uma igualdade deve representar dezoito.",
+          "bncc": [
+            "EF03MA11"
+          ],
+          "atividadeOrigem": "mat.ef03.padroes_e_igualdade.igualdade_e_sentencas_matematicas#igualdade_e_sentencas_matematicas.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          289
+        ],
+        "paginasImpressas": "287",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef03.probabilidade_e_estatistica.prova": {
+    "id": "mat.ef03.probabilidade_e_estatistica.prova",
+    "titulo": "Avaliação: Probabilidade e Estatística",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF03",
+    "unidade": "Probabilidade e Estatística",
+    "bncc": [
+      "EF03MA25",
+      "EF03MA26",
+      "EF03MA27",
+      "EF03MA28"
+    ],
+    "duracaoMin": 20,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 4 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef03.probabilidade_e_estatistica.prova.01",
+      "mat.ef03.probabilidade_e_estatistica.prova.02",
+      "mat.ef03.probabilidade_e_estatistica.prova.03",
+      "mat.ef03.probabilidade_e_estatistica.prova.04"
+    ],
+    "criterios": "Cada item objetivo vale 10/4 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF03MA25",
+        "questoes": [
+          "mat.ef03.probabilidade_e_estatistica.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis#eventos_e_resultados_possiveis.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA26",
+        "questoes": [
+          "mat.ef03.probabilidade_e_estatistica.prova.02",
+          "mat.ef03.probabilidade_e_estatistica.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.producao",
+          "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA27",
+        "questoes": [
+          "mat.ef03.probabilidade_e_estatistica.prova.02",
+          "mat.ef03.probabilidade_e_estatistica.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.producao",
+          "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.producao"
+        ]
+      },
+      {
+        "bncc": "EF03MA28",
+        "questoes": [
+          "mat.ef03.probabilidade_e_estatistica.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef03.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas#pesquisa_com_variaveis_categoricas.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef03.probabilidade_e_estatistica.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Probabilidade e Estatística",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF03MA25",
+        "EF03MA26",
+        "EF03MA27",
+        "EF03MA28"
+      ],
+      "atividadesOrigem": [
+        "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis#eventos_e_resultados_possiveis.producao",
+        "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.producao",
+        "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.producao",
+        "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas#pesquisa_com_variaveis_categoricas.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Eventos e Resultados Possíveis",
+          "enunciado": "Monte uma sacola de três cores com quantidades diferentes, liste as cores possíveis e compare chances. Faça retiradas com devolução e registre o que observou.",
+          "gabarito": "Conferir a composição real e a lista completa. Reposição conserva a composição, não obriga repetição do resultado.",
+          "bncc": [
+            "EF03MA25"
+          ],
+          "atividadeOrigem": "mat.ef03.probabilidade_e_estatistica.eventos_e_resultados_possiveis#eventos_e_resultados_possiveis.producao"
+        },
+        {
+          "titulo": "Tabelas de Dupla Entrada",
+          "enunciado": "Construa a tabela do exemplo, calcule totais por grupo e por categoria e escreva duas conclusões com maior e menor frequência, indicando que os dados são fictícios.",
+          "gabarito": "Cada grupo tem doze votos; bola treze, desenho onze. A interpretação deve conservar categorias e não tratar o exemplo como pesquisa real.",
+          "bncc": [
+            "EF03MA26",
+            "EF03MA27"
+          ],
+          "atividadeOrigem": "mat.ef03.probabilidade_e_estatistica.tabelas_de_dupla_entrada#tabelas_de_dupla_entrada.producao"
+        },
+        {
+          "titulo": "Gráficos de Barras e Colunas",
+          "enunciado": "Represente os dados fictícios em gráfico de colunas com eixo iniciado em zero, título, unidade e fonte. Resolva duas comparações e escreva uma síntese sem generalizar para outras pessoas.",
+          "gabarito": "Alturas 6,3,9 na mesma escala; total dezoito. Avaliar leitura numérica, identificação e texto coerente.",
+          "bncc": [
+            "EF03MA26",
+            "EF03MA27"
+          ],
+          "atividadeOrigem": "mat.ef03.probabilidade_e_estatistica.graficos_de_barras_e_colunas#graficos_de_barras_e_colunas.producao"
+        },
+        {
+          "titulo": "Pesquisa com Variáveis Categóricas",
+          "enunciado": "Planeje e execute pesquisa de cinco a cinquenta participantes com uma ou duas variáveis categóricas. Produza lista anônima, tabela, gráfico e uma conclusão com limites do grupo consultado.",
+          "gabarito": "Verificar coleta real, categorias, universo até cinquenta e correspondência entre lista, tabela e gráfico. O resultado não é previamente fixado.",
+          "bncc": [
+            "EF03MA28"
+          ],
+          "atividadeOrigem": "mat.ef03.probabilidade_e_estatistica.pesquisa_com_variaveis_categoricas#pesquisa_com_variaveis_categoricas.producao"
+        }
+      ],
+      "duracaoMinSugerida": 120,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          291
+        ],
+        "paginasImpressas": "289",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova": {
+    "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova",
+    "titulo": "Avaliação: Adição e Subtração com Números Naturais",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "bncc": [
+      "EF04MA03",
+      "EF04MA04",
+      "EF04MA05"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.01",
+      "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.02",
+      "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF04MA03",
+        "questoes": [
+          "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.01",
+          "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.adicao_e_subtracao_com_numeros_naturais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas#propriedades_e_problemas.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA04",
+        "questoes": [
+          "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.adicao_e_subtracao_com_numeros_naturais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas#propriedades_e_problemas.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA05",
+        "questoes": [
+          "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.01",
+          "mat.ef04.adicao_e_subtracao_com_numeros_naturais.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.adicao_e_subtracao_com_numeros_naturais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas#propriedades_e_problemas.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Adição e Subtração com Números Naturais",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF04MA03",
+        "EF04MA04",
+        "EF04MA05"
+      ],
+      "atividadesOrigem": [
+        "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas#propriedades_e_problemas.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Propriedades e Problemas",
+          "enunciado": "Crie histórias de juntar e retirar para 2456+1789 e 5000−2768. Resolva por duas estratégias e faça estimativas. Explique uma propriedade usada.",
+          "gabarito": "4245 e 2232. Conferir dados, aproximações coerentes e recomposição pela inversa; não aplicar troca da ordem à subtração.",
+          "bncc": [
+            "EF04MA03",
+            "EF04MA04",
+            "EF04MA05"
+          ],
+          "atividadeOrigem": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas#propriedades_e_problemas.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef04.comprimento_e_area.prova": {
+    "id": "mat.ef04.comprimento_e_area.prova",
+    "titulo": "Avaliação: Comprimento e Área",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Comprimento e Área",
+    "bncc": [
+      "EF04MA20",
+      "EF04MA21"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef04.comprimento_e_area.prova.01",
+      "mat.ef04.comprimento_e_area.prova.02",
+      "mat.ef04.comprimento_e_area.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF04MA20",
+        "questoes": [
+          "mat.ef04.comprimento_e_area.prova.01",
+          "mat.ef04.comprimento_e_area.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.comprimento_e_area.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA21",
+        "questoes": [
+          "mat.ef04.comprimento_e_area.prova.01",
+          "mat.ef04.comprimento_e_area.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.comprimento_e_area.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef04.comprimento_e_area.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Comprimento e Área",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF04MA20",
+        "EF04MA21"
+      ],
+      "atividadesOrigem": [
+        "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Perímetro e Área",
+          "enunciado": "Desenhe duas figuras de área doze e contornos diferentes. Acrescente figura com metades de quadradinhos e conte sua área. Estime e meça ainda um contorno real com instrumento adequado.",
+          "gabarito": "Exemplos 3×4 e 2×6; justificar contagens e reunião de metades. Medição real deve registrar instrumento, unidade e valor observado.",
+          "bncc": [
+            "EF04MA20",
+            "EF04MA21"
+          ],
+          "atividadeOrigem": "mat.ef04.comprimento_e_area.perimetro_e_area#perimetro_e_area.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          112
+        ],
+        "paginasImpressas": "112, 115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef04.divisao_com_numeros_naturais.prova": {
+    "id": "mat.ef04.divisao_com_numeros_naturais.prova",
+    "titulo": "Avaliação: Divisão com Números Naturais",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Divisão com Números Naturais",
+    "bncc": [
+      "EF04MA07"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef04.divisao_com_numeros_naturais.prova.01",
+      "mat.ef04.divisao_com_numeros_naturais.prova.02",
+      "mat.ef04.divisao_com_numeros_naturais.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF04MA07",
+        "questoes": [
+          "mat.ef04.divisao_com_numeros_naturais.prova.01",
+          "mat.ef04.divisao_com_numeros_naturais.prova.02",
+          "mat.ef04.divisao_com_numeros_naturais.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.divisao_com_numeros_naturais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao#algoritmo_da_divisao.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef04.divisao_com_numeros_naturais.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Divisão com Números Naturais",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF04MA07"
+      ],
+      "atividadesOrigem": [
+        "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao#algoritmo_da_divisao.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Algoritmo da Divisão",
+          "enunciado": "Resolva 756÷18 por estimativa, retiradas de múltiplos e conta escrita. Crie histórias nos significados de repartir e formar grupos, interpretando o resultado.",
+          "gabarito": "Quarenta e dois, resto zero: 18×42=756. Distinguir quantidade por destinatário e número de grupos.",
+          "bncc": [
+            "EF04MA07"
+          ],
+          "atividadeOrigem": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao#algoritmo_da_divisao.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          36,
+          37
+        ],
+        "paginasImpressas": "39, 40",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef04.fracoes_e_decimais.prova": {
+    "id": "mat.ef04.fracoes_e_decimais.prova",
+    "titulo": "Avaliação: Frações e Decimais",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Frações e Decimais",
+    "bncc": [
+      "EF04MA09",
+      "EF04MA10"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef04.fracoes_e_decimais.prova.01",
+      "mat.ef04.fracoes_e_decimais.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF04MA09",
+        "questoes": [
+          "mat.ef04.fracoes_e_decimais.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.fracoes_e_decimais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.fracoes_e_decimais.introducao_as_fracoes#introducao_as_fracoes.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA10",
+        "questoes": [
+          "mat.ef04.fracoes_e_decimais.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.fracoes_e_decimais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.fracoes_e_decimais.numeros_decimais#numeros_decimais.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef04.fracoes_e_decimais.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Frações e Decimais",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF04MA09",
+        "EF04MA10"
+      ],
+      "atividadesOrigem": [
+        "mat.ef04.fracoes_e_decimais.introducao_as_fracoes#introducao_as_fracoes.producao",
+        "mat.ef04.fracoes_e_decimais.numeros_decimais#numeros_decimais.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Introdução às Frações",
+          "enunciado": "Com tiras iguais, construa as seis frações unitárias e marque-as em retas de mesmo comprimento. Explique a relação entre quantidade de partes e tamanho da unidade fracionária.",
+          "gabarito": "Conferir partições iguais e posição entre zero e um. Ordem: 1/100<1/10<1/5<1/4<1/3<1/2.",
+          "bncc": [
+            "EF04MA09"
+          ],
+          "atividadeOrigem": "mat.ef04.fracoes_e_decimais.introducao_as_fracoes#introducao_as_fracoes.producao"
+        },
+        {
+          "titulo": "Números Decimais",
+          "enunciado": "Represente 0,4 e 0,04 em malhas de cem partes e na reta. Monte R$ 3,70 por duas combinações e explique décimos, centésimos e zeros.",
+          "gabarito": "Quarenta e quatro centésimos, respectivamente. R$3,70 pode ser 3 reais+70 centavos ou 2 reais+170 centavos; conferir equivalência, não tamanho das peças.",
+          "bncc": [
+            "EF04MA10"
+          ],
+          "atividadeOrigem": "mat.ef04.fracoes_e_decimais.numeros_decimais#numeros_decimais.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          72
+        ],
+        "paginasImpressas": "74, 75",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96
+        ],
+        "paginasImpressas": "98, 99",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef04.geometria.prova": {
+    "id": "mat.ef04.geometria.prova",
+    "titulo": "Avaliação: Geometria",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "bncc": [
+      "EF04MA16",
+      "EF04MA17",
+      "EF04MA18",
+      "EF04MA19"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef04.geometria.prova.01",
+      "mat.ef04.geometria.prova.02",
+      "mat.ef04.geometria.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF04MA16",
+        "questoes": [
+          "mat.ef04.geometria.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA17",
+        "questoes": [
+          "mat.ef04.geometria.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.geometria.planificacoes_de_prismas_e_piramides#planificacoes_de_prismas_e_piramides.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA18",
+        "questoes": [
+          "mat.ef04.geometria.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.geometria.angulos_e_poligonos#angulos_e_poligonos.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA19",
+        "questoes": [
+          "mat.ef04.geometria.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef04.geometria.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Geometria",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF04MA16",
+        "EF04MA17",
+        "EF04MA18",
+        "EF04MA19"
+      ],
+      "atividadesOrigem": [
+        "mat.ef04.geometria.angulos_e_poligonos#angulos_e_poligonos.producao",
+        "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.producao",
+        "mat.ef04.geometria.planificacoes_de_prismas_e_piramides#planificacoes_de_prismas_e_piramides.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Ângulos e Polígonos",
+          "enunciado": "Produza um canto reto por dobradura e use-o para investigar quadriláteros e triângulos em posições variadas. Marque os ângulos retos e compare os demais sem depender só da aparência.",
+          "gabarito": "Conferir superposição de vértice e direções; aceitar esquadro ou software. O tamanho dos segmentos não muda o ângulo.",
+          "bncc": [
+            "EF04MA18"
+          ],
+          "atividadeOrigem": "mat.ef04.geometria.angulos_e_poligonos#angulos_e_poligonos.producao"
+        },
+        {
+          "titulo": "Localização, Deslocamento e Simetria",
+          "enunciado": "Desenhe ruas paralelas e uma transversal perpendicular numa malha, indique um trajeto com mudanças de direção e sentido. Reflita uma figura em eixo vertical e confira por dobradura.",
+          "gabarito": "Avaliar referências, intersecções, trajetos e distâncias iguais ao eixo. Não confundir reflexão com simples deslocamento.",
+          "bncc": [
+            "EF04MA16",
+            "EF04MA19"
+          ],
+          "atividadeOrigem": "mat.ef04.geometria.localizacao_deslocamento_e_simetria#localizacao_deslocamento_e_simetria.producao"
+        },
+        {
+          "titulo": "Planificações de Prismas e Pirâmides",
+          "enunciado": "Desenhe e teste redes de um prisma triangular e de uma pirâmide quadrangular. Compare bases, faces laterais e o modelo fechado, registrando correções.",
+          "gabarito": "Prisma: cinco faces; pirâmide: cinco faces, mas tipos e organização diferentes. Verificar dimensões compatíveis e fechamento real.",
+          "bncc": [
+            "EF04MA17"
+          ],
+          "atividadeOrigem": "mat.ef04.geometria.planificacoes_de_prismas_e_piramides#planificacoes_de_prismas_e_piramides.producao"
+        }
+      ],
+      "duracaoMinSugerida": 90,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          329,
+          330
+        ],
+        "paginasImpressas": "332, 333",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          322,
+          355
+        ],
+        "paginasImpressas": "325, 358",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova": {
+    "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova",
+    "titulo": "Avaliação: Massa, capacidade, intervalo de tempo e temperatura",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Massa, capacidade, intervalo de tempo e temperatura",
+    "bncc": [
+      "EF04MA20",
+      "EF04MA22",
+      "EF04MA23",
+      "EF04MA24",
+      "EF04MA25"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.01",
+      "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.02",
+      "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF04MA20",
+        "questoes": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida#grandezas_e_unidades_de_medida.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA22",
+        "questoes": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida#grandezas_e_unidades_de_medida.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA23",
+        "questoes": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos#temperatura_e_graficos.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA24",
+        "questoes": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos#temperatura_e_graficos.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA25",
+        "questoes": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.problemas_com_dinheiro#problemas_com_dinheiro.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Massa, capacidade, intervalo de tempo e temperatura",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF04MA20",
+        "EF04MA22",
+        "EF04MA23",
+        "EF04MA24",
+        "EF04MA25"
+      ],
+      "atividadesOrigem": [
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida#grandezas_e_unidades_de_medida.producao",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos#temperatura_e_graficos.producao",
+        "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.problemas_com_dinheiro#problemas_com_dinheiro.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Grandezas e Unidades de Medida",
+          "enunciado": "Estime e meça um comprimento, uma massa e uma capacidade com instrumentos disponíveis. Observe início e fim de uma tarefa em horas, minutos e segundos e calcule sua duração.",
+          "gabarito": "Valores dependem das observações. Conferir unidade, resolução do instrumento e conversões, sem inventar medições ausentes.",
+          "bncc": [
+            "EF04MA20",
+            "EF04MA22"
+          ],
+          "atividadeOrigem": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida#grandezas_e_unidades_de_medida.producao"
+        },
+        {
+          "titulo": "Temperatura e Gráficos",
+          "enunciado": "Registre máximas e mínimas locais de vários dias com instrumento ou fonte identificada. Monte tabela e gráfico de colunas e compare locais ou regiões com dados fornecidos e datas compatíveis.",
+          "gabarito": "Conferir dados reais, unidades, dias e fonte; gráficos devem reproduzir máximas e mínimas. Distinguir conclusão local e generalização climática.",
+          "bncc": [
+            "EF04MA23",
+            "EF04MA24"
+          ],
+          "atividadeOrigem": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos#temperatura_e_graficos.producao"
+        },
+        {
+          "titulo": "Problemas de Compra e Venda",
+          "enunciado": "Crie situação de compra com desconto, pagamento e troco. Compare pagar à vista com parcelas de valores fornecidos, explicando total e uma decisão de consumo responsável.",
+          "gabarito": "Verificar somas, unidades monetárias e condições. A decisão precisa considerar dados e necessidade; não pressupor que qualquer parcela seja vantajosa.",
+          "bncc": [
+            "EF04MA25"
+          ],
+          "atividadeOrigem": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.problemas_com_dinheiro#problemas_com_dinheiro.producao"
+        }
+      ],
+      "duracaoMinSugerida": 90,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          121,
+          123
+        ],
+        "paginasImpressas": "112, 124, 126",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef04.multiplicacao_com_numeros_naturais.prova": {
+    "id": "mat.ef04.multiplicacao_com_numeros_naturais.prova",
+    "titulo": "Avaliação: Multiplicação com Números Naturais",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Multiplicação com Números Naturais",
+    "bncc": [
+      "EF04MA04",
+      "EF04MA05",
+      "EF04MA06"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef04.multiplicacao_com_numeros_naturais.prova.01",
+      "mat.ef04.multiplicacao_com_numeros_naturais.prova.02",
+      "mat.ef04.multiplicacao_com_numeros_naturais.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF04MA04",
+        "questoes": [
+          "mat.ef04.multiplicacao_com_numeros_naturais.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.multiplicacao_com_numeros_naturais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades#algoritmo_e_propriedades.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA05",
+        "questoes": [
+          "mat.ef04.multiplicacao_com_numeros_naturais.prova.01",
+          "mat.ef04.multiplicacao_com_numeros_naturais.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.multiplicacao_com_numeros_naturais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades#algoritmo_e_propriedades.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA06",
+        "questoes": [
+          "mat.ef04.multiplicacao_com_numeros_naturais.prova.01",
+          "mat.ef04.multiplicacao_com_numeros_naturais.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.multiplicacao_com_numeros_naturais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades#algoritmo_e_propriedades.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef04.multiplicacao_com_numeros_naturais.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Multiplicação com Números Naturais",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF04MA04",
+        "EF04MA05",
+        "EF04MA06"
+      ],
+      "atividadesOrigem": [
+        "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades#algoritmo_e_propriedades.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Algoritmo e Propriedades",
+          "enunciado": "Resolva e elabore um problema de 32×18 por disposição retangular e por algoritmo. Proponha outro de preço unitário constante e compare as estratégias.",
+          "gabarito": "576. Avaliar arranjo, distributiva 32×(10+8), estimativa e proporcionalidade com preço sem taxa fixa.",
+          "bncc": [
+            "EF04MA04",
+            "EF04MA05",
+            "EF04MA06"
+          ],
+          "atividadeOrigem": "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades#algoritmo_e_propriedades.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35
+        ],
+        "paginasImpressas": "37, 38",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef04.padroes_e_igualdade.prova": {
+    "id": "mat.ef04.padroes_e_igualdade.prova",
+    "titulo": "Avaliação: Padrões e Igualdade",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Padrões e Igualdade",
+    "bncc": [
+      "EF04MA04",
+      "EF04MA11",
+      "EF04MA12",
+      "EF04MA13",
+      "EF04MA14",
+      "EF04MA15"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef04.padroes_e_igualdade.prova.01",
+      "mat.ef04.padroes_e_igualdade.prova.02",
+      "mat.ef04.padroes_e_igualdade.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF04MA04",
+        "questoes": [
+          "mat.ef04.padroes_e_igualdade.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.padroes_e_igualdade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA11",
+        "questoes": [
+          "mat.ef04.padroes_e_igualdade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.padroes_e_igualdade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA12",
+        "questoes": [
+          "mat.ef04.padroes_e_igualdade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.padroes_e_igualdade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA13",
+        "questoes": [
+          "mat.ef04.padroes_e_igualdade.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.padroes_e_igualdade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA14",
+        "questoes": [
+          "mat.ef04.padroes_e_igualdade.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.padroes_e_igualdade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA15",
+        "questoes": [
+          "mat.ef04.padroes_e_igualdade.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.padroes_e_igualdade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef04.padroes_e_igualdade.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Padrões e Igualdade",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF04MA04",
+        "EF04MA11",
+        "EF04MA12",
+        "EF04MA13",
+        "EF04MA14",
+        "EF04MA15"
+      ],
+      "atividadesOrigem": [
+        "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.producao",
+        "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.producao",
+        "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Múltiplos em Sequências",
+          "enunciado": "Liste múltiplos de quatro e números de resto três ao dividir por quatro. Faça oito termos de cada sequência e confira divisões, usando calculadora depois de explicar.",
+          "gabarito": "Múltiplos podem começar em zero: 0,4,8,12,16,20,24,28; resto três: 3,7,11,15,19,23,27,31.",
+          "bncc": [
+            "EF04MA11",
+            "EF04MA12"
+          ],
+          "atividadeOrigem": "mat.ef04.padroes_e_igualdade.multiplos_em_sequencias#multiplos_em_sequencias.producao"
+        },
+        {
+          "titulo": "Relações Inversas entre Operações",
+          "enunciado": "Investigue três pares de operações inversas, com e sem calculadora. Use-os para resolver uma partilha e completar uma quantidade, explicando por que a conferência reconstrói os dados.",
+          "gabarito": "As igualdades precisam ser verdadeiras e ligadas aos significados das situações; aceitar diversas estratégias, evitando divisão por zero.",
+          "bncc": [
+            "EF04MA04",
+            "EF04MA13"
+          ],
+          "atividadeOrigem": "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes#relacoes_inversas_entre_operacoes.producao"
+        },
+        {
+          "titulo": "Propriedades da Igualdade",
+          "enunciado": "Use uma balança desenhada para mostrar 18+12=20+10 e a adição de sete a ambos os lados. Resolva □+48=125 e 6×□=54, conferindo as sentenças originais.",
+          "gabarito": "Ambos os lados passam de trinta para trinta e sete; incógnitas 77 e 9. Justificar conservação da igualdade e conferir.",
+          "bncc": [
+            "EF04MA14",
+            "EF04MA15"
+          ],
+          "atividadeOrigem": "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+        }
+      ],
+      "duracaoMinSugerida": 90,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.ef04.probabilidade_e_estatistica.prova": {
+    "id": "mat.ef04.probabilidade_e_estatistica.prova",
+    "titulo": "Avaliação: Probabilidade e Estatística",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Probabilidade e Estatística",
+    "bncc": [
+      "EF04MA26",
+      "EF04MA27",
+      "EF04MA28"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef04.probabilidade_e_estatistica.prova.01",
+      "mat.ef04.probabilidade_e_estatistica.prova.02",
+      "mat.ef04.probabilidade_e_estatistica.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF04MA26",
+        "questoes": [
+          "mat.ef04.probabilidade_e_estatistica.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.probabilidade_e_estatistica.chances_de_eventos#chances_de_eventos.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA27",
+        "questoes": [
+          "mat.ef04.probabilidade_e_estatistica.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos#tabelas_e_graficos.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA28",
+        "questoes": [
+          "mat.ef04.probabilidade_e_estatistica.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis#pesquisa_com_variaveis.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef04.probabilidade_e_estatistica.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Probabilidade e Estatística",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF04MA26",
+        "EF04MA27",
+        "EF04MA28"
+      ],
+      "atividadesOrigem": [
+        "mat.ef04.probabilidade_e_estatistica.chances_de_eventos#chances_de_eventos.producao",
+        "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos#tabelas_e_graficos.producao",
+        "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis#pesquisa_com_variaveis.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Chances de Eventos Aleatórios",
+          "enunciado": "Proponha dois experimentos cotidianos de sorteio, liste possibilidades e compare chances por palavras. Execute com reposição e registre resultados inesperados.",
+          "gabarito": "Conferir condições iguais, composição real e distinção entre provável, certo e impossível; não exigir frequência exata.",
+          "bncc": [
+            "EF04MA26"
+          ],
+          "atividadeOrigem": "mat.ef04.probabilidade_e_estatistica.chances_de_eventos#chances_de_eventos.producao"
+        },
+        {
+          "titulo": "Tabelas e Gráficos de Pesquisa",
+          "enunciado": "Construa tabela e pictograma dos dados fictícios. Compare maior e menor, calcule o total e escreva síntese. Analise também um gráfico de outra área com fonte identificada.",
+          "gabarito": "Total 45; terça é maior e segunda menor, diferença seis. A síntese do gráfico externo deve corresponder à fonte realmente consultada.",
+          "bncc": [
+            "EF04MA27"
+          ],
+          "atividadeOrigem": "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos#tabelas_e_graficos.producao"
+        },
+        {
+          "titulo": "Pesquisa com Variáveis Categóricas e Numéricas",
+          "enunciado": "Realize uma pesquisa com uma variável categórica e uma numérica. Registre sem nomes, faça tabelas, gráfico de colunas e uma comparação por grupos, explicando limites da coleta.",
+          "gabarito": "Avaliar pergunta, registros efetivos, tipos de variáveis, totais, escala e correspondência entre dados e gráficos. Não há valores esperados fixos.",
+          "bncc": [
+            "EF04MA28"
+          ],
+          "atividadeOrigem": "mat.ef04.probabilidade_e_estatistica.pesquisa_com_variaveis#pesquisa_com_variaveis.producao"
+        }
+      ],
+      "duracaoMinSugerida": 90,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.ef04.problemas_de_contagem.prova": {
+    "id": "mat.ef04.problemas_de_contagem.prova",
+    "titulo": "Avaliação: Problemas de Contagem",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Problemas de Contagem",
+    "bncc": [
+      "EF04MA08"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef04.problemas_de_contagem.prova.01",
+      "mat.ef04.problemas_de_contagem.prova.02",
+      "mat.ef04.problemas_de_contagem.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF04MA08",
+        "questoes": [
+          "mat.ef04.problemas_de_contagem.prova.01",
+          "mat.ef04.problemas_de_contagem.prova.02",
+          "mat.ef04.problemas_de_contagem.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.problemas_de_contagem.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.problemas_de_contagem.combinacoes_simples#combinacoes_simples.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef04.problemas_de_contagem.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Problemas de Contagem",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF04MA08"
+      ],
+      "atividadesOrigem": [
+        "mat.ef04.problemas_de_contagem.combinacoes_simples#combinacoes_simples.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Combinações Simples",
+          "enunciado": "Com cartões, combine quatro sabores e três tamanhos de um produto fictício. Liste todas as escolhas por tabela e árvore e invente outro problema de combinação.",
+          "gabarito": "Doze combinações sem repetição de pares; representação precisa mostrar todos os cruzamentos permitidos.",
+          "bncc": [
+            "EF04MA08"
+          ],
+          "atividadeOrigem": "mat.ef04.problemas_de_contagem.combinacoes_simples#combinacoes_simples.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef04.sistemas_de_numeracao.prova": {
+    "id": "mat.ef04.sistemas_de_numeracao.prova",
+    "titulo": "Avaliação: Sistemas de Numeração",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Sistemas de Numeração",
+    "bncc": [
+      "EF04MA01",
+      "EF04MA02"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef04.sistemas_de_numeracao.prova.01",
+      "mat.ef04.sistemas_de_numeracao.prova.02",
+      "mat.ef04.sistemas_de_numeracao.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF04MA01",
+        "questoes": [
+          "mat.ef04.sistemas_de_numeracao.prova.01",
+          "mat.ef04.sistemas_de_numeracao.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.sistemas_de_numeracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar#numeros_naturais_ate_a_dezena_de_milhar.producao"
+        ]
+      },
+      {
+        "bncc": "EF04MA02",
+        "questoes": [
+          "mat.ef04.sistemas_de_numeracao.prova.01",
+          "mat.ef04.sistemas_de_numeracao.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef04.sistemas_de_numeracao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar#numeros_naturais_ate_a_dezena_de_milhar.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef04.sistemas_de_numeracao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Sistemas de Numeração",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF04MA01",
+        "EF04MA02"
+      ],
+      "atividadesOrigem": [
+        "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar#numeros_naturais_ate_a_dezena_de_milhar.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Números Naturais até a Dezena de Milhar",
+          "enunciado": "Leia, escreva por extenso e decomponha 50207 e 52070 de dois modos; ordene-os e marque aproximadamente numa reta de 50000 a 60000.",
+          "gabarito": "Cinquenta mil duzentos e sete; cinquenta e dois mil e setenta. 50207<52070. Conferir ordens, zeros e escala da reta.",
+          "bncc": [
+            "EF04MA01",
+            "EF04MA02"
+          ],
+          "atividadeOrigem": "mat.ef04.sistemas_de_numeracao.numeros_naturais_ate_a_dezena_de_milhar#numeros_naturais_ate_a_dezena_de_milhar.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova": {
+    "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova",
+    "titulo": "Avaliação: Adição e Subtração com Números Naturais",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Adição e Subtração com Números Naturais",
+    "bncc": [
+      "EF05MA07"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.01",
+      "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF05MA07",
+        "questoes": [
+          "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.01",
+          "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.adicao_e_subtracao_com_numeros_naturais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas#operacoes_e_expressoes_numericas.producao",
+          "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Adição e Subtração com Números Naturais",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF05MA07"
+      ],
+      "atividadesOrigem": [
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas#operacoes_e_expressoes_numericas.producao",
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Operações e Expressões Numéricas",
+          "enunciado": "Crie um problema para (25,40+8,75)−12,60 e outro com naturais. Resolva por duas estratégias, estime e explique as ordens e agrupamentos.",
+          "gabarito": "Primeiro resultado 21,55. O problema criado precisa corresponder às ações e fornecer unidades; conferir por inversas.",
+          "bncc": [
+            "EF05MA07"
+          ],
+          "atividadeOrigem": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas#operacoes_e_expressoes_numericas.producao"
+        },
+        {
+          "titulo": "Problemas de Adição e Subtração",
+          "enunciado": "Elabore uma situação com duas medidas decimais, uma soma e uma diferença. Represente-a por desenho ou tabela, estime e resolva com cálculo mental e escrito.",
+          "gabarito": "Avaliar coerência dos dados, unidade comum, operações e conferência. As respostas dependem da situação criada.",
+          "bncc": [
+            "EF05MA07"
+          ],
+          "atividadeOrigem": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          97
+        ],
+        "paginasImpressas": "98, 100",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef05.decimais.prova": {
+    "id": "mat.ef05.decimais.prova",
+    "titulo": "Avaliação: Decimais",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Decimais",
+    "bncc": [
+      "EF05MA02",
+      "EF05MA05",
+      "EF05MA06"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef05.decimais.prova.01",
+      "mat.ef05.decimais.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF05MA02",
+        "questoes": [
+          "mat.ef05.decimais.prova.01",
+          "mat.ef05.decimais.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.decimais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.producao",
+          "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA05",
+        "questoes": [
+          "mat.ef05.decimais.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.decimais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA06",
+        "questoes": [
+          "mat.ef05.decimais.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.decimais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef05.decimais.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Decimais",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF05MA02",
+        "EF05MA05",
+        "EF05MA06"
+      ],
+      "atividadesOrigem": [
+        "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.producao",
+        "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Números Decimais e Porcentagem",
+          "enunciado": "Represente décimos e centésimos em malha, calcule 10%,25%,50%,75% e 100% de 160 e explique duas estratégias, conferindo com calculadora.",
+          "gabarito": "16,40,80,120,160. Os registros decimais devem preservar unidades e casas; justificar frações do todo.",
+          "bncc": [
+            "EF05MA02",
+            "EF05MA06"
+          ],
+          "atividadeOrigem": "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.producao"
+        },
+        {
+          "titulo": "Decimais na Reta Numérica",
+          "enunciado": "Decomponha e ordene 2,05;2,5;2,15;2,50. Localize-os numa reta com escala e explique a igualdade existente.",
+          "gabarito": "2,05<2,15<2,5=2,50. Conferir cinco centésimos em 2,05, não cinco décimos.",
+          "bncc": [
+            "EF05MA02",
+            "EF05MA05"
+          ],
+          "atividadeOrigem": "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          196
+        ],
+        "paginasImpressas": "98, 199",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96
+        ],
+        "paginasImpressas": "98, 99",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef05.fracoes.prova": {
+    "id": "mat.ef05.fracoes.prova",
+    "titulo": "Avaliação: Frações",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Frações",
+    "bncc": [
+      "EF05MA03",
+      "EF05MA04",
+      "EF05MA05"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef05.fracoes.prova.01",
+      "mat.ef05.fracoes.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF05MA03",
+        "questoes": [
+          "mat.ef05.fracoes.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.fracoes.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia#operacoes_com_fracoes_e_equivalencia.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA04",
+        "questoes": [
+          "mat.ef05.fracoes.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.fracoes.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia#operacoes_com_fracoes_e_equivalencia.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA05",
+        "questoes": [
+          "mat.ef05.fracoes.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.fracoes.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes#comparacao_e_ordenacao_de_fracoes.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef05.fracoes.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Frações",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF05MA03",
+        "EF05MA04",
+        "EF05MA05"
+      ],
+      "atividadesOrigem": [
+        "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia#operacoes_com_fracoes_e_equivalencia.producao",
+        "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes#comparacao_e_ordenacao_de_fracoes.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Frações, Divisão e Equivalência",
+          "enunciado": "Represente 3/2 e 5/4 com tiras de mesmo inteiro, na reta e por uma história de divisão. Produza duas equivalências e justifique sem apenas repetir uma regra. Como exploração opcional, represente 1/3+1/6 por tiras e equivalência.",
+          "gabarito": "3/2=1,5;5/4=1,25. Tiras e reta precisam ter a mesma unidade. Equivalências possíveis 3/2=6/4=9/6. Na exploração opcional, 1/3+1/6=2/6+1/6=3/6=1/2; não exigir essa ampliação para concluir a tarefa principal.",
+          "bncc": [
+            "EF05MA03",
+            "EF05MA04"
+          ],
+          "atividadeOrigem": "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia#operacoes_com_fracoes_e_equivalencia.producao"
+        },
+        {
+          "titulo": "Comparação e Ordenação de Frações",
+          "enunciado": "Ordene 1/2,0,8,3/4 e 5/4, mostrando equivalências e posições na reta. Explique por que 5/4 passa de um.",
+          "gabarito": "0,5<0,75<0,8<1,25. Cinco quartos são quatro quartos mais um quarto.",
+          "bncc": [
+            "EF05MA05"
+          ],
+          "atividadeOrigem": "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes#comparacao_e_ordenacao_de_fracoes.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          72,
+          77
+        ],
+        "paginasImpressas": "74, 75, 80",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          71,
+          77
+        ],
+        "paginasImpressas": "74, 80",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef05.geometria.prova": {
+    "id": "mat.ef05.geometria.prova",
+    "titulo": "Avaliação: Geometria",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Geometria",
+    "bncc": [
+      "EF05MA14",
+      "EF05MA15",
+      "EF05MA16",
+      "EF05MA17"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef05.geometria.prova.01",
+      "mat.ef05.geometria.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF05MA14",
+        "questoes": [
+          "mat.ef05.geometria.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA15",
+        "questoes": [
+          "mat.ef05.geometria.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA16",
+        "questoes": [
+          "mat.ef05.geometria.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA17",
+        "questoes": [
+          "mat.ef05.geometria.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.geometria.poligonos_e_seus_elementos#poligonos_e_seus_elementos.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef05.geometria.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Geometria",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF05MA14",
+        "EF05MA15",
+        "EF05MA16",
+        "EF05MA17"
+      ],
+      "atividadesOrigem": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao",
+        "mat.ef05.geometria.poligonos_e_seus_elementos#poligonos_e_seus_elementos.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Plano Cartesiano e Sólidos",
+          "enunciado": "Faça um mapa por células e represente um percurso no primeiro quadrante, com coordenadas, giro e retorno. Depois relacione redes de prisma, pirâmide, cilindro e cone aos modelos, comparando partes.",
+          "gabarito": "Conferir ordem dos pares, orientação e sentido. Nas redes: duas bases no prisma e cilindro; uma base e laterais triangulares na pirâmide; círculo e setor no cone. Registrar testes de fechamento.",
+          "bncc": [
+            "EF05MA14",
+            "EF05MA15",
+            "EF05MA16"
+          ],
+          "atividadeOrigem": "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao"
+        },
+        {
+          "titulo": "Polígonos e seus Elementos",
+          "enunciado": "Desenhe triângulos, quadriláteros, pentágonos e hexágonos em posições variadas. Compare características e construa dois polígonos com o mesmo número de lados e formas diferentes.",
+          "gabarito": "Conferir fechamento, ausência de lados curvos, contagem de lados/vértices e distinção entre regular e qualquer polígono.",
+          "bncc": [
+            "EF05MA17"
+          ],
+          "atividadeOrigem": "mat.ef05.geometria.poligonos_e_seus_elementos#poligonos_e_seus_elementos.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          325
+        ],
+        "paginasImpressas": "300, 328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344
+        ],
+        "paginasImpressas": "347",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef05.grandezas_e_medidas.prova": {
+    "id": "mat.ef05.grandezas_e_medidas.prova",
+    "titulo": "Avaliação: Grandezas e Medidas",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Grandezas e Medidas",
+    "bncc": [
+      "EF05MA19",
+      "EF05MA20",
+      "EF05MA21"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef05.grandezas_e_medidas.prova.01",
+      "mat.ef05.grandezas_e_medidas.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF05MA19",
+        "questoes": [
+          "mat.ef05.grandezas_e_medidas.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.grandezas_e_medidas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas#volume_e_outras_grandezas.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA20",
+        "questoes": [
+          "mat.ef05.grandezas_e_medidas.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.grandezas_e_medidas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area#relacoes_entre_perimetro_e_area.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA21",
+        "questoes": [
+          "mat.ef05.grandezas_e_medidas.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.grandezas_e_medidas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas#volume_e_outras_grandezas.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef05.grandezas_e_medidas.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Grandezas e Medidas",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF05MA19",
+        "EF05MA20",
+        "EF05MA21"
+      ],
+      "atividadesOrigem": [
+        "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas#volume_e_outras_grandezas.producao",
+        "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area#relacoes_entre_perimetro_e_area.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Volume e Outras Grandezas",
+          "enunciado": "Monte dois sólidos com doze cubos e compare seus volumes. Resolva e elabore problemas de comprimento, massa, tempo, temperatura e capacidade com unidades usuais, incluindo conversões, e explique as diferenças de grandeza.",
+          "gabarito": "Os sólidos têm doze unidades cúbicas, mesmo com formas distintas. Conferir conversões contextuais: m/cm,kg/g,h/min,L/mL; não aplicar um fator linear a qualquer grandeza.",
+          "bncc": [
+            "EF05MA19",
+            "EF05MA21"
+          ],
+          "atividadeOrigem": "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas#volume_e_outras_grandezas.producao"
+        },
+        {
+          "titulo": "Relações entre Perímetro e Área",
+          "enunciado": "Construa dois pares: mesmo perímetro e áreas diferentes; mesma área e perímetros diferentes. Registre contagens, medidas e uma conclusão geral cuidadosa.",
+          "gabarito": "Exemplos do texto ou outros válidos, com unidades lineares e quadradas distintas. Não concluir proporcionalidade direta entre área e perímetro.",
+          "bncc": [
+            "EF05MA20"
+          ],
+          "atividadeOrigem": "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area#relacoes_entre_perimetro_e_area.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          121,
+          123
+        ],
+        "paginasImpressas": "112, 124, 126",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112
+        ],
+        "paginasImpressas": "115",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef05.mais_geometria.prova": {
+    "id": "mat.ef05.mais_geometria.prova",
+    "titulo": "Avaliação: Mais Geometria",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Mais Geometria",
+    "bncc": [
+      "EF05MA18"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef05.mais_geometria.prova.01",
+      "mat.ef05.mais_geometria.prova.02",
+      "mat.ef05.mais_geometria.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF05MA18",
+        "questoes": [
+          "mat.ef05.mais_geometria.prova.01",
+          "mat.ef05.mais_geometria.prova.02",
+          "mat.ef05.mais_geometria.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.mais_geometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.mais_geometria.poligonos_e_ampliacao#poligonos_e_ampliacao.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef05.mais_geometria.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Mais Geometria",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF05MA18"
+      ],
+      "atividadesOrigem": [
+        "mat.ef05.mais_geometria.poligonos_e_ampliacao#poligonos_e_ampliacao.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Polígonos e Ampliação",
+          "enunciado": "Desenhe um polígono em malha, amplie por dois e reduza uma cópia pelo fator metade. Compare ângulos e razões entre lados, com sobreposição ou software.",
+          "gabarito": "Todos os comprimentos precisam seguir o fator e os ângulos conservar a abertura. Avaliar também a explicação da proporcionalidade.",
+          "bncc": [
+            "EF05MA18"
+          ],
+          "atividadeOrigem": "mat.ef05.mais_geometria.poligonos_e_ampliacao#poligonos_e_ampliacao.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          344
+        ],
+        "paginasImpressas": "347",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova": {
+    "id": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova",
+    "titulo": "Avaliação: Multiplicação e Divisão com Números Naturais",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Multiplicação e Divisão com Números Naturais",
+    "bncc": [
+      "EF05MA08"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.01",
+      "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.02",
+      "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF05MA08",
+        "questoes": [
+          "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.01",
+          "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.02",
+          "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo#estrategias_de_calculo.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Multiplicação e Divisão com Números Naturais",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF05MA08"
+      ],
+      "atividadesOrigem": [
+        "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo#estrategias_de_calculo.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Estratégias de Cálculo",
+          "enunciado": "Crie problemas para 4×1,75 e 12,6÷3. Resolva por decomposição e algoritmo, compare com estimativas e confira por inversas.",
+          "gabarito": "7 e 4,2. Explicar quantidade por grupo, grupos iguais e conservação do valor decimal; não exigir divisão por decimal neste recorte.",
+          "bncc": [
+            "EF05MA08"
+          ],
+          "atividadeOrigem": "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo#estrategias_de_calculo.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          99,
+          101
+        ],
+        "paginasImpressas": "102, 104",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef05.probabilidade_e_estatistica.prova": {
+    "id": "mat.ef05.probabilidade_e_estatistica.prova",
+    "titulo": "Avaliação: Probabilidade e Estatística",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Probabilidade e Estatística",
+    "bncc": [
+      "EF05MA09",
+      "EF05MA22",
+      "EF05MA23",
+      "EF05MA24",
+      "EF05MA25"
+    ],
+    "duracaoMin": 25,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 5 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef05.probabilidade_e_estatistica.prova.01",
+      "mat.ef05.probabilidade_e_estatistica.prova.02",
+      "mat.ef05.probabilidade_e_estatistica.prova.03",
+      "mat.ef05.probabilidade_e_estatistica.prova.04",
+      "mat.ef05.probabilidade_e_estatistica.prova.05"
+    ],
+    "criterios": "Cada item objetivo vale 10/5 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF05MA09",
+        "questoes": [
+          "mat.ef05.probabilidade_e_estatistica.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo#contagem_e_principio_multiplicativo.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA22",
+        "questoes": [
+          "mat.ef05.probabilidade_e_estatistica.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.probabilidade_e_estatistica.espaco_amostral#espaco_amostral.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA23",
+        "questoes": [
+          "mat.ef05.probabilidade_e_estatistica.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis#probabilidade_de_eventos_equiprovaveis.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA24",
+        "questoes": [
+          "mat.ef05.probabilidade_e_estatistica.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos#leitura_de_graficos.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA25",
+        "questoes": [
+          "mat.ef05.probabilidade_e_estatistica.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.probabilidade_e_estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados#pesquisa_e_organizacao_de_dados.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef05.probabilidade_e_estatistica.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Probabilidade e Estatística",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF05MA09",
+        "EF05MA22",
+        "EF05MA23",
+        "EF05MA24",
+        "EF05MA25"
+      ],
+      "atividadesOrigem": [
+        "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo#contagem_e_principio_multiplicativo.producao",
+        "mat.ef05.probabilidade_e_estatistica.espaco_amostral#espaco_amostral.producao",
+        "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis#probabilidade_de_eventos_equiprovaveis.producao",
+        "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos#leitura_de_graficos.producao",
+        "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados#pesquisa_e_organizacao_de_dados.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Contagem e Princípio Multiplicativo",
+          "enunciado": "Faça árvore e tabela para cinco sabores e três tamanhos. Elabore outro problema, imponha uma restrição explícita e recalcule os casos.",
+          "gabarito": "Quinze combinações no primeiro. A contagem com restrição depende do enunciado e deve mostrar casos sem duplicação.",
+          "bncc": [
+            "EF05MA09"
+          ],
+          "atividadeOrigem": "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo#contagem_e_principio_multiplicativo.producao"
+        },
+        {
+          "titulo": "Espaço Amostral",
+          "enunciado": "Liste resultados de um dado equilibrado e de uma sacola com cores em quantidades diferentes. Explique em qual descrição os resultados são equiprováveis e teste por sorteios com reposição.",
+          "gabarito": "Faces equiprováveis no modelo; cores não equiprováveis na sacola. Frequências observadas podem variar sem invalidar a lista.",
+          "bncc": [
+            "EF05MA22"
+          ],
+          "atividadeOrigem": "mat.ef05.probabilidade_e_estatistica.espaco_amostral#espaco_amostral.producao"
+        },
+        {
+          "titulo": "Probabilidade de Eventos Equiprováveis",
+          "enunciado": "Liste as faces de um dado, determine as chances de maior que quatro e de menor que sete. Crie evento de chance zero e compare as frações com a lista.",
+          "gabarito": "2/6=1/3 e 6/6=1. Exemplo impossível: sair oito. Avaliar lista completa e condições de equilíbrio.",
+          "bncc": [
+            "EF05MA23"
+          ],
+          "atividadeOrigem": "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis#probabilidade_de_eventos_equiprovaveis.producao"
+        },
+        {
+          "titulo": "Leitura de Gráficos de Colunas e Linhas",
+          "enunciado": "Represente o exemplo por linhas e colunas. Analise também um gráfico de saúde ou trânsito de fonte identificada e escreva síntese do que permite concluir, sem orientar decisões clínicas.",
+          "gabarito": "Conferir soma, escalas e período; texto sobre fonte externa precisa reproduzir valores efetivos e limites.",
+          "bncc": [
+            "EF05MA24"
+          ],
+          "atividadeOrigem": "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos#leitura_de_graficos.producao"
+        },
+        {
+          "titulo": "Pesquisa e Organização de Dados",
+          "enunciado": "Realize pesquisa com as duas classes de variável. Construa tabela, gráfico de colunas, pictograma e um gráfico de linhas de uma medida acompanhada em sequência temporal; escreva finalidade e síntese dos resultados.",
+          "gabarito": "Avaliar coleta real, registros anônimos, categorias, unidades, escalas e correspondência entre todas as representações. A série temporal deve ser efetivamente observada ou claramente identificada como exemplo fictício separado.",
+          "bncc": [
+            "EF05MA25"
+          ],
+          "atividadeOrigem": "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados#pesquisa_e_organizacao_de_dados.producao"
+        }
+      ],
+      "duracaoMinSugerida": 150,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          299
+        ],
+        "paginasImpressas": "297",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.ef05.proporcionalidade.prova": {
+    "id": "mat.ef05.proporcionalidade.prova",
+    "titulo": "Avaliação: Proporcionalidade",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Proporcionalidade",
+    "bncc": [
+      "EF05MA12",
+      "EF05MA13"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef05.proporcionalidade.prova.01",
+      "mat.ef05.proporcionalidade.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF05MA12",
+        "questoes": [
+          "mat.ef05.proporcionalidade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.proporcionalidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais#grandezas_diretamente_proporcionais.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA13",
+        "questoes": [
+          "mat.ef05.proporcionalidade.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.proporcionalidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.proporcionalidade.partilha_em_partes_desiguais#partilha_em_partes_desiguais.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef05.proporcionalidade.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Proporcionalidade",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF05MA12",
+        "EF05MA13"
+      ],
+      "atividadesOrigem": [
+        "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais#grandezas_diretamente_proporcionais.producao",
+        "mat.ef05.proporcionalidade.partilha_em_partes_desiguais#partilha_em_partes_desiguais.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Grandezas Diretamente Proporcionais",
+          "enunciado": "Adapte uma receita de quatro para dez porções; crie tabela de preço por quantidade com valor unitário constante e explique uma ampliação de escala. Compare com preço que tenha taxa fixa.",
+          "gabarito": "Aplicar fator 10/4=2,5 em todos os ingredientes; mostrar a razão unitária e por que a taxa fixa muda o modelo.",
+          "bncc": [
+            "EF05MA12"
+          ],
+          "atividadeOrigem": "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais#grandezas_diretamente_proporcionais.producao"
+        },
+        {
+          "titulo": "Partilha em Partes Desiguais",
+          "enunciado": "Represente por barras uma partilha de 150 com uma parte dupla da outra. Elabore outra história de partilha desigual e diferencie razão entre partes e fração do total.",
+          "gabarito": "50 e 100. Razão menor:maior=1:2; menor:total=1:3. Conferir soma e condição de dobro.",
+          "bncc": [
+            "EF05MA13"
+          ],
+          "atividadeOrigem": "mat.ef05.proporcionalidade.partilha_em_partes_desiguais#partilha_em_partes_desiguais.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          174
+        ],
+        "paginasImpressas": "173, 177",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170
+        ],
+        "paginasImpressas": "173",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.ef05.propriedades_da_igualdade.prova": {
+    "id": "mat.ef05.propriedades_da_igualdade.prova",
+    "titulo": "Avaliação: Propriedades da Igualdade",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Propriedades da Igualdade",
+    "bncc": [
+      "EF05MA10",
+      "EF05MA11"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef05.propriedades_da_igualdade.prova.01",
+      "mat.ef05.propriedades_da_igualdade.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF05MA10",
+        "questoes": [
+          "mat.ef05.propriedades_da_igualdade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.propriedades_da_igualdade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+        ]
+      },
+      {
+        "bncc": "EF05MA11",
+        "questoes": [
+          "mat.ef05.propriedades_da_igualdade.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.propriedades_da_igualdade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido#problemas_com_termo_desconhecido.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef05.propriedades_da_igualdade.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Propriedades da Igualdade",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF05MA10",
+        "EF05MA11"
+      ],
+      "atividadesOrigem": [
+        "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao",
+        "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido#problemas_com_termo_desconhecido.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Propriedades da Igualdade",
+          "enunciado": "Crie três igualdades e aplique, a ambos os membros, adição, subtração, multiplicação e divisão não nula. Explique por peças ou desenho e registre as condições.",
+          "gabarito": "Verificar cada transformação e o alcance da operação em todos os termos. Resultados que saiam dos naturais podem ser evitados escolhendo exemplos apropriados.",
+          "bncc": [
+            "EF05MA10"
+          ],
+          "atividadeOrigem": "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+        },
+        {
+          "titulo": "Problemas com Termo Desconhecido",
+          "enunciado": "Elabore problemas para □+27=80, 90−□=34 e 6×□=72. Resolva e explique as operações inversas e a unidade de cada resposta.",
+          "gabarito": "53,56,12. Conferir por substituição, coerência da história e não apenas transformação simbólica.",
+          "bncc": [
+            "EF05MA11"
+          ],
+          "atividadeOrigem": "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido#problemas_com_termo_desconhecido.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.ef05.sistema_de_numeracao_decimal.prova": {
+    "id": "mat.ef05.sistema_de_numeracao_decimal.prova",
+    "titulo": "Avaliação: Sistema de Numeração Decimal",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Sistema de Numeração Decimal",
+    "bncc": [
+      "EF05MA01"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.ef05.sistema_de_numeracao_decimal.prova.01",
+      "mat.ef05.sistema_de_numeracao_decimal.prova.02",
+      "mat.ef05.sistema_de_numeracao_decimal.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EF05MA01",
+        "questoes": [
+          "mat.ef05.sistema_de_numeracao_decimal.prova.01",
+          "mat.ef05.sistema_de_numeracao_decimal.prova.02",
+          "mat.ef05.sistema_de_numeracao_decimal.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.ef05.sistema_de_numeracao_decimal.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes#numeros_ate_a_classe_dos_milhoes.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.ef05.sistema_de_numeracao_decimal.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Sistema de Numeração Decimal",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EF05MA01"
+      ],
+      "atividadesOrigem": [
+        "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes#numeros_ate_a_classe_dos_milhoes.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Sistema Decimal até Centenas de Milhar",
+          "enunciado": "Leia, decomponha e ordene 603408,630408 e 630480. Marque posições aproximadas numa reta e explique os zeros.",
+          "gabarito": "Seiscentos e três mil quatrocentos e oito; seiscentos e trinta mil quatrocentos e oito; seiscentos e trinta mil quatrocentos e oitenta. Ordem conforme apresentada; conferir posições.",
+          "bncc": [
+            "EF05MA01"
+          ],
+          "atividadeOrigem": "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes#numeros_ate_a_classe_dos_milhoes.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          13,
+          14
+        ],
+        "paginasImpressas": "16, 17",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
       }
     ]
   },
@@ -34470,6 +51348,3849 @@ registrarProvas({
         ],
         "paginasImpressas": "375, 376, 377",
         "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ]
+  },
+  "mat.em01.conjuntos_e_funcao_afim.prova": {
+    "id": "mat.em01.conjuntos_e_funcao_afim.prova",
+    "titulo": "Avaliação: Conjuntos e Função Afim",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Conjuntos e Função Afim",
+    "bncc": [
+      "EM13MAT101",
+      "EM13MAT302",
+      "EM13MAT401",
+      "EM13MAT404",
+      "EM13MAT501"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em01.conjuntos_e_funcao_afim.prova.01",
+      "mat.em01.conjuntos_e_funcao_afim.prova.02",
+      "mat.em01.conjuntos_e_funcao_afim.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT101",
+        "questoes": [
+          "mat.em01.conjuntos_e_funcao_afim.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.conjuntos_e_funcao_afim.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT302",
+        "questoes": [
+          "mat.em01.conjuntos_e_funcao_afim.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.conjuntos_e_funcao_afim.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT401",
+        "questoes": [
+          "mat.em01.conjuntos_e_funcao_afim.prova.01",
+          "mat.em01.conjuntos_e_funcao_afim.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.conjuntos_e_funcao_afim.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao",
+          "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT404",
+        "questoes": [
+          "mat.em01.conjuntos_e_funcao_afim.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.conjuntos_e_funcao_afim.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca#funcoes_definidas_por_mais_de_uma_sentenca.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT501",
+        "questoes": [
+          "mat.em01.conjuntos_e_funcao_afim.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.conjuntos_e_funcao_afim.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em01.conjuntos_e_funcao_afim.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Conjuntos e Função Afim",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT101",
+        "EM13MAT302",
+        "EM13MAT401",
+        "EM13MAT404",
+        "EM13MAT501"
+      ],
+      "atividadesOrigem": [
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao",
+        "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca#funcoes_definidas_por_mais_de_uma_sentenca.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "A Ideia de Função",
+          "enunciado": "Modele um custo fictício com taxa fixa e preço por item. Faça tabela, gráfico, domínio e interpretação de duas saídas. Compare com custo sem taxa fixa.",
+          "gabarito": "Conferir unicidade, unidades, pontos discretos quando contagem, intercepto e razão constante apenas no caso sem taxa.",
+          "bncc": [
+            "EM13MAT302",
+            "EM13MAT401"
+          ],
+          "atividadeOrigem": "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao"
+        },
+        {
+          "titulo": "A Função Afim",
+          "enunciado": "Investigue uma tabela de variação linear, construa a regra e o gráfico. Compare uma taxa positiva, negativa e um modelo proporcional. Interprete criticamente um gráfico econômico ou científico com fonte identificada. Resolva ainda 3x+5≤20 e represente o conjunto solução na reta.",
+          "gabarito": "Avaliar hipóteses, eixos, unidades, interceptos, taxas e limites da extrapolação; poucos pontos não provam linearidade universal. A desigualdade dá x≤5 no domínio real.",
+          "bncc": [
+            "EM13MAT101",
+            "EM13MAT401",
+            "EM13MAT501"
+          ],
+          "atividadeOrigem": "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+        },
+        {
+          "titulo": "Funções Definidas por Mais de uma Sentença",
+          "enunciado": "Crie tarifa hipotética por dois trechos, construa tabela e gráfico, determine domínio e imagem e descreva crescimento e comportamento na fronteira.",
+          "gabarito": "Conferir valores nas condições, unicidade e extremos; imagem depende dos intervalos e do domínio declarado.",
+          "bncc": [
+            "EM13MAT404"
+          ],
+          "atividadeOrigem": "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca#funcoes_definidas_por_mais_de_uma_sentenca.producao"
+        }
+      ],
+      "duracaoMinSugerida": 90,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          8,
+          9,
+          11
+        ],
+        "paginasImpressas": "11, 12, 14",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          11,
+          14,
+          17
+        ],
+        "paginasImpressas": "14, 17, 20",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          8
+        ],
+        "paginasImpressas": "11",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em01.estatistica_e_graficos.prova": {
+    "id": "mat.em01.estatistica_e_graficos.prova",
+    "titulo": "Avaliação: Estatística e Gráficos",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Estatística e Gráficos",
+    "bncc": [
+      "EM13MAT102",
+      "EM13MAT316",
+      "EM13MAT406"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em01.estatistica_e_graficos.prova.01",
+      "mat.em01.estatistica_e_graficos.prova.02",
+      "mat.em01.estatistica_e_graficos.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT102",
+        "questoes": [
+          "mat.em01.estatistica_e_graficos.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.estatistica_e_graficos.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos#leitura_critica_de_tabelas_e_graficos.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT316",
+        "questoes": [
+          "mat.em01.estatistica_e_graficos.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.estatistica_e_graficos.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao#medidas_de_tendencia_central_e_dispersao.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT406",
+        "questoes": [
+          "mat.em01.estatistica_e_graficos.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.estatistica_e_graficos.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia#tabelas_e_graficos_de_frequencia.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em01.estatistica_e_graficos.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Estatística e Gráficos",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT102",
+        "EM13MAT316",
+        "EM13MAT406"
+      ],
+      "atividadesOrigem": [
+        "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos#leitura_critica_de_tabelas_e_graficos.producao",
+        "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia#tabelas_e_graficos_de_frequencia.producao",
+        "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao#medidas_de_tendencia_central_e_dispersao.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Leitura Crítica de Tabelas e Gráficos",
+          "enunciado": "Selecione relatório divulgado com tabela, gráfico e amostra. Registre fonte e período, critique escala e seleção, refaça uma representação e redija conclusão proporcional à evidência.",
+          "gabarito": "Verificar dados efetivos e distinguir valor original, altura cortada, população-alvo e respondentes; não inventar relatório.",
+          "bncc": [
+            "EM13MAT102"
+          ],
+          "atividadeOrigem": "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos#leitura_critica_de_tabelas_e_graficos.producao"
+        },
+        {
+          "titulo": "Tabelas e Gráficos de Frequência",
+          "enunciado": "Colete uma pequena amostra real, crie tabela absoluta e relativa, gráfico e um agrupamento por classes. Compare com dados brutos e identifique perdas de detalhe.",
+          "gabarito": "Conferir total, classes sem dupla contagem, origem real e gráfico adequado; não usar média de códigos nominais.",
+          "bncc": [
+            "EM13MAT406"
+          ],
+          "atividadeOrigem": "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia#tabelas_e_graficos_de_frequencia.producao"
+        },
+        {
+          "titulo": "Medidas de Tendência Central e Dispersão",
+          "enunciado": "Compare duas séries de mesma média e dispersões diferentes. Calcule medidas à mão e por planilha, declarando a convenção e interpretando extremos.",
+          "gabarito": "Avaliar ordenação, desvios quadráticos, unidades e comparação substantiva; não confundir amplitude com desvio padrão.",
+          "bncc": [
+            "EM13MAT316"
+          ],
+          "atividadeOrigem": "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao#medidas_de_tendencia_central_e_dispersao.producao"
+        }
+      ],
+      "duracaoMinSugerida": 90,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          277,
+          279
+        ],
+        "paginasImpressas": "280, 282",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em01.funcao_exponencial.prova": {
+    "id": "mat.em01.funcao_exponencial.prova",
+    "titulo": "Avaliação: Função Exponencial",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Exponencial",
+    "bncc": [
+      "EM13MAT304",
+      "EM13MAT403"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em01.funcao_exponencial.prova.01",
+      "mat.em01.funcao_exponencial.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT304",
+        "questoes": [
+          "mat.em01.funcao_exponencial.prova.01",
+          "mat.em01.funcao_exponencial.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.funcao_exponencial.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.funcao_exponencial.potenciacao_e_radiciacao#potenciacao_e_radiciacao.producao",
+          "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT403",
+        "questoes": [
+          "mat.em01.funcao_exponencial.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.funcao_exponencial.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em01.funcao_exponencial.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Função Exponencial",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT304",
+        "EM13MAT403"
+      ],
+      "atividadesOrigem": [
+        "mat.em01.funcao_exponencial.potenciacao_e_radiciacao#potenciacao_e_radiciacao.producao",
+        "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Potenciação e Radiciação",
+          "enunciado": "Compare potências de base positiva e resolva 3^t=81. Crie modelo de duplicação e explique as unidades do expoente e os limites de continuidade temporal.",
+          "gabarito": "t=4. O expoente deve contar períodos compatíveis com o modelo; distinguir passos inteiros e idealização contínua.",
+          "bncc": [
+            "EM13MAT304"
+          ],
+          "atividadeOrigem": "mat.em01.funcao_exponencial.potenciacao_e_radiciacao#potenciacao_e_radiciacao.producao"
+        },
+        {
+          "titulo": "A Função Exponencial",
+          "enunciado": "Modele crescimento de vinte por cento e redução de vinte por cento por período. Faça tabela, gráfico e equação para atingir um valor. Compare com modelo linear e resolva desigualdade exponencial respeitando monotonicidade.",
+          "gabarito": "Fatores 1,2 e 0,8. Domínio depende do contexto; não supor crescimento ilimitado real fora das condições do modelo.",
+          "bncc": [
+            "EM13MAT304",
+            "EM13MAT403"
+          ],
+          "atividadeOrigem": "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          65,
+          66
+        ],
+        "paginasImpressas": "68, 69",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          65,
+          66,
+          69,
+          73
+        ],
+        "paginasImpressas": "68, 69, 72, 76",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em01.funcao_logaritmica.prova": {
+    "id": "mat.em01.funcao_logaritmica.prova",
+    "titulo": "Avaliação: Função Logarítmica",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Logarítmica",
+    "bncc": [
+      "EM13MAT305",
+      "EM13MAT403"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em01.funcao_logaritmica.prova.01",
+      "mat.em01.funcao_logaritmica.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT305",
+        "questoes": [
+          "mat.em01.funcao_logaritmica.prova.01",
+          "mat.em01.funcao_logaritmica.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.funcao_logaritmica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.funcao_logaritmica.logaritmo#logaritmo.producao",
+          "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT403",
+        "questoes": [
+          "mat.em01.funcao_logaritmica.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.funcao_logaritmica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em01.funcao_logaritmica.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Função Logarítmica",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT305",
+        "EM13MAT403"
+      ],
+      "atividadesOrigem": [
+        "mat.em01.funcao_logaritmica.logaritmo#logaritmo.producao",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Logaritmo",
+          "enunciado": "Resolva equações logarítmicas simples verificando domínio e compare propriedades por exemplos e contraexemplos. Crie problema de tempo para multiplicação de uma quantidade por fator fixo.",
+          "gabarito": "Conferir argumento positivo, base válida e substituição na equação inicial; o tempo depende do modelo escolhido.",
+          "bncc": [
+            "EM13MAT305"
+          ],
+          "atividadeOrigem": "mat.em01.funcao_logaritmica.logaritmo#logaritmo.producao"
+        },
+        {
+          "titulo": "A Função Logarítmica",
+          "enunciado": "Construa tabelas e gráficos de 2^x e log_2(x), trocando coordenadas. Resolva log_2(x−1)=3 e uma desigualdade de base 1/2, justificando domínio e sentido.",
+          "gabarito": "Pontos se refletem na reta y=x; x=9, com x>1. Para base menor que um, o sentido da comparação de argumentos se inverte.",
+          "bncc": [
+            "EM13MAT305",
+            "EM13MAT403"
+          ],
+          "atividadeOrigem": "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          84,
+          86,
+          90,
+          92,
+          89
+        ],
+        "paginasImpressas": "87, 89, 93, 95, 92",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          94,
+          97,
+          100
+        ],
+        "paginasImpressas": "97, 100, 103",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em01.funcao_modular_complementar.prova": {
+    "id": "mat.em01.funcao_modular_complementar.prova",
+    "titulo": "Avaliação: Função Modular — Complementar",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Modular — Complementar",
+    "bncc": [],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": true,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em01.funcao_modular_complementar.prova.01",
+      "mat.em01.funcao_modular_complementar.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [],
+    "avaliacaoPratica": {
+      "id": "mat.em01.funcao_modular_complementar.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Função Modular — Complementar",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [],
+      "atividadesOrigem": [
+        "mat.em01.funcao_modular_complementar.funcao_modular#funcao_modular.producao",
+        "mat.em01.funcao_modular_complementar.equacoes_e_inequacoes_modulares#equacoes_e_inequacoes_modulares.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Funcao modular",
+          "enunciado": "Construa tabela e gráfico de |x−2| e 2|x+1|−3, escreva por trechos e compare vértice, imagem e inclinações.",
+          "gabarito": "Segundo vértice (−1,−3), imagem [−3,+∞). Conferir sinais, condições dos trechos e representação gráfica.",
+          "bncc": [],
+          "atividadeOrigem": "mat.em01.funcao_modular_complementar.funcao_modular#funcao_modular.producao"
+        },
+        {
+          "titulo": "Equacoes e inequacoes modulares",
+          "enunciado": "Resolva |2x−1|=5 e |x+2|>3 por casos e por reta, conferindo as soluções originais. Crie um problema de tolerância usando distância.",
+          "gabarito": "x=3 ou −2; desigualdade x<−5 ou x>1. Conferir extremos e domínio.",
+          "bncc": [],
+          "atividadeOrigem": "mat.em01.funcao_modular_complementar.equacoes_e_inequacoes_modulares#equacoes_e_inequacoes_modulares.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          51,
+          54
+        ],
+        "paginasImpressas": "54, 57",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          56,
+          58
+        ],
+        "paginasImpressas": "59, 61",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em01.funcao_quadratica.prova": {
+    "id": "mat.em01.funcao_quadratica.prova",
+    "titulo": "Avaliação: Função Quadrática",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Quadrática",
+    "bncc": [
+      "EM13MAT302",
+      "EM13MAT402",
+      "EM13MAT502",
+      "EM13MAT503"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em01.funcao_quadratica.prova.01",
+      "mat.em01.funcao_quadratica.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT302",
+        "questoes": [
+          "mat.em01.funcao_quadratica.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.funcao_quadratica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT402",
+        "questoes": [
+          "mat.em01.funcao_quadratica.prova.01",
+          "mat.em01.funcao_quadratica.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.funcao_quadratica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao",
+          "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT502",
+        "questoes": [
+          "mat.em01.funcao_quadratica.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.funcao_quadratica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT503",
+        "questoes": [
+          "mat.em01.funcao_quadratica.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.funcao_quadratica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em01.funcao_quadratica.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Função Quadrática",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT302",
+        "EM13MAT402",
+        "EM13MAT502",
+        "EM13MAT503"
+      ],
+      "atividadesOrigem": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "A Função Quadrática",
+          "enunciado": "Investigue áreas de quadrados de lados 1,2,3,4 e formule uma regra. Construa tabelas e gráficos de y=x² e y=2x²+3 e compare proporcionalidade ao quadrado, concavidade e interceptos.",
+          "gabarito": "Áreas 1,4,9,16, regra A=l². A segunda função não é diretamente proporcional a x² por causa da parcela três.",
+          "bncc": [
+            "EM13MAT302",
+            "EM13MAT402",
+            "EM13MAT502"
+          ],
+          "atividadeOrigem": "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao"
+        },
+        {
+          "titulo": "Análises Algébrica e Gráfica da Função Quadrática",
+          "enunciado": "Dedique tabela, gráfico e completamento de quadrado ao modelo A(x)=x(10−x). Determine raízes, máximo e intervalos de positividade com apoio de planilha ou software.",
+          "gabarito": "Raízes zero e dez; A=25−(x−5)², máximo vinte e cinco em cinco. Positiva entre raízes; extremos físicos devem ser interpretados.",
+          "bncc": [
+            "EM13MAT402",
+            "EM13MAT503"
+          ],
+          "atividadeOrigem": "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          26,
+          30
+        ],
+        "paginasImpressas": "29, 33",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          27,
+          30,
+          34,
+          39,
+          41
+        ],
+        "paginasImpressas": "30, 33, 37, 42, 44",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em01.geometria_e_transformacoes.prova": {
+    "id": "mat.em01.geometria_e_transformacoes.prova",
+    "titulo": "Avaliação: Geometria e Transformações",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Geometria e Transformações",
+    "bncc": [
+      "EM13MAT105"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em01.geometria_e_transformacoes.prova.01",
+      "mat.em01.geometria_e_transformacoes.prova.02",
+      "mat.em01.geometria_e_transformacoes.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT105",
+        "questoes": [
+          "mat.em01.geometria_e_transformacoes.prova.01",
+          "mat.em01.geometria_e_transformacoes.prova.02",
+          "mat.em01.geometria_e_transformacoes.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.geometria_e_transformacoes.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.geometria_e_transformacoes.transformacoes_isometricas#transformacoes_isometricas.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em01.geometria_e_transformacoes.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Geometria e Transformações",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT105"
+      ],
+      "atividadesOrigem": [
+        "mat.em01.geometria_e_transformacoes.transformacoes_isometricas#transformacoes_isometricas.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Transformações Isométricas",
+          "enunciado": "Construa um padrão artístico com isometrias e uma figura homotética, registrando centros, eixos, vetores e fatores. Compare comprimentos, ângulos e áreas; use software se disponível.",
+          "gabarito": "Avaliar construção real e correspondências. Composição pode depender da ordem; fator três multiplica área por nove.",
+          "bncc": [
+            "EM13MAT105"
+          ],
+          "atividadeOrigem": "mat.em01.geometria_e_transformacoes.transformacoes_isometricas#transformacoes_isometricas.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.em01.grandezas_e_medidas.prova": {
+    "id": "mat.em01.grandezas_e_medidas.prova",
+    "titulo": "Avaliação: Grandezas e Medidas",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Grandezas e Medidas",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT313",
+      "EM13MAT314"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em01.grandezas_e_medidas.prova.01",
+      "mat.em01.grandezas_e_medidas.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT103",
+        "questoes": [
+          "mat.em01.grandezas_e_medidas.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.grandezas_e_medidas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT313",
+        "questoes": [
+          "mat.em01.grandezas_e_medidas.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.grandezas_e_medidas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT314",
+        "questoes": [
+          "mat.em01.grandezas_e_medidas.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.grandezas_e_medidas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas#razao_e_produto_de_grandezas.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em01.grandezas_e_medidas.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Grandezas e Medidas",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT103",
+        "EM13MAT313",
+        "EM13MAT314"
+      ],
+      "atividadesOrigem": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao",
+        "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas#razao_e_produto_de_grandezas.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Unidades do SI e Conversões",
+          "enunciado": "Analise um texto científico ou tecnológico com unidades, fonte e período. Converta medidas, registre resolução de uma medição real e explique algarismos significativos e margem de incerteza.",
+          "gabarito": "Conferir análise dimensional, convenções, arredondamentos e distinção entre erro e dígitos escritos; não declarar medida exata a partir de instrumento limitado.",
+          "bncc": [
+            "EM13MAT103",
+            "EM13MAT313"
+          ],
+          "atividadeOrigem": "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao"
+        },
+        {
+          "titulo": "Razão e Produto de Grandezas",
+          "enunciado": "Crie e resolva problemas de velocidade média, densidade e energia com dados declarados. Compatibilize unidades e explique limites das médias e hipóteses de constância.",
+          "gabarito": "Conferir razão/produto, unidades e interpretação global, sem tratar velocidade média como velocidade instantânea.",
+          "bncc": [
+            "EM13MAT314"
+          ],
+          "atividadeOrigem": "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas#razao_e_produto_de_grandezas.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.em01.matematica_financeira.prova": {
+    "id": "mat.em01.matematica_financeira.prova",
+    "titulo": "Avaliação: Matemática Financeira",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "bncc": [
+      "EM13MAT104",
+      "EM13MAT203",
+      "EM13MAT303"
+    ],
+    "duracaoMin": 20,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 4 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em01.matematica_financeira.prova.01",
+      "mat.em01.matematica_financeira.prova.02",
+      "mat.em01.matematica_financeira.prova.03",
+      "mat.em01.matematica_financeira.prova.04"
+    ],
+    "criterios": "Cada item objetivo vale 10/4 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT104",
+        "questoes": [
+          "mat.em01.matematica_financeira.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.matematica_financeira.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra#inflacao_indices_e_poder_de_compra.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT203",
+        "questoes": [
+          "mat.em01.matematica_financeira.prova.01",
+          "mat.em01.matematica_financeira.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.matematica_financeira.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto#porcentagem_lucro_e_desconto.producao",
+          "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros#planilhas_e_simuladores_financeiros.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT303",
+        "questoes": [
+          "mat.em01.matematica_financeira.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.matematica_financeira.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.matematica_financeira.juros_simples_e_juros_compostos#juros_simples_e_juros_compostos.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em01.matematica_financeira.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Matemática Financeira",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT104",
+        "EM13MAT203",
+        "EM13MAT303"
+      ],
+      "atividadesOrigem": [
+        "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto#porcentagem_lucro_e_desconto.producao",
+        "mat.em01.matematica_financeira.juros_simples_e_juros_compostos#juros_simples_e_juros_compostos.producao",
+        "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra#inflacao_indices_e_poder_de_compra.producao",
+        "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros#planilhas_e_simuladores_financeiros.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Porcentagem, Lucro e Desconto",
+          "enunciado": "Implemente planilha que diferencie custo, venda, lucro, margem e acréscimo. Compare descontos sucessivos e registre testes de base e decisão fictícia.",
+          "gabarito": "Conferir denominadores, lucro versus receita, fatores sucessivos e execução das fórmulas.",
+          "bncc": [
+            "EM13MAT203"
+          ],
+          "atividadeOrigem": "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto#porcentagem_lucro_e_desconto.producao"
+        },
+        {
+          "titulo": "Juros Simples e Juros Compostos",
+          "enunciado": "Monte planilha e gráficos para cinco períodos em ambos os modelos. Explique crescimento linear e exponencial, taxa, base e limitações das hipóteses.",
+          "gabarito": "Conferir fórmulas, capital inicial, período zero, unidades e arredondamento ao final; não apresentar projeções como garantia.",
+          "bncc": [
+            "EM13MAT303"
+          ],
+          "atividadeOrigem": "mat.em01.matematica_financeira.juros_simples_e_juros_compostos#juros_simples_e_juros_compostos.producao"
+        },
+        {
+          "titulo": "Inflação, Índices e Poder de Compra",
+          "enunciado": "Monte cesta fictícia de três itens com quantidades fixas e preços em dois períodos. Calcule índice, explique pesos e compare com renda hipotética. Analise o método de um índice divulgado, identificando fonte, período e limites.",
+          "gabarito": "Conferir quantidades e razões, variação nominal versus capacidade de compra; dados hipotéticos devem ser rotulados. Índice externo exige leitura do método efetivamente citado.",
+          "bncc": [
+            "EM13MAT104"
+          ],
+          "atividadeOrigem": "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra#inflacao_indices_e_poder_de_compra.producao"
+        },
+        {
+          "titulo": "Planilhas e Simuladores Financeiros",
+          "enunciado": "Crie planilha de orçamento e simulador de juros. Teste taxa zero, período zero e um caso calculado manualmente; compare cenários e explique uma decisão fictícia sem recomendar produto real.",
+          "gabarito": "Avaliar execução, fórmulas corretas, saldo, referências, testes e limites; não basta desenhar uma tabela sem calcular.",
+          "bncc": [
+            "EM13MAT203"
+          ],
+          "atividadeOrigem": "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros#planilhas_e_simuladores_financeiros.producao"
+        }
+      ],
+      "duracaoMinSugerida": 120,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          285,
+          287,
+          289,
+          291
+        ],
+        "paginasImpressas": "288, 290, 292, 294",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300
+        ],
+        "paginasImpressas": "299, 303",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          302
+        ],
+        "paginasImpressas": "305",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em01.sequencias_e_progressoes.prova": {
+    "id": "mat.em01.sequencias_e_progressoes.prova",
+    "titulo": "Avaliação: Sequências e Progressões",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Sequências e Progressões",
+    "bncc": [
+      "EM13MAT507",
+      "EM13MAT508"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em01.sequencias_e_progressoes.prova.01",
+      "mat.em01.sequencias_e_progressoes.prova.02",
+      "mat.em01.sequencias_e_progressoes.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT507",
+        "questoes": [
+          "mat.em01.sequencias_e_progressoes.prova.01",
+          "mat.em01.sequencias_e_progressoes.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.sequencias_e_progressoes.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao",
+          "mat.em01.sequencias_e_progressoes.progressao_aritmetica#progressao_aritmetica.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT508",
+        "questoes": [
+          "mat.em01.sequencias_e_progressoes.prova.01",
+          "mat.em01.sequencias_e_progressoes.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.sequencias_e_progressoes.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao",
+          "mat.em01.sequencias_e_progressoes.progressao_geometrica#progressao_geometrica.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em01.sequencias_e_progressoes.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Sequências e Progressões",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT507",
+        "EM13MAT508"
+      ],
+      "atividadesOrigem": [
+        "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao",
+        "mat.em01.sequencias_e_progressoes.progressao_aritmetica#progressao_aritmetica.producao",
+        "mat.em01.sequencias_e_progressoes.progressao_geometrica#progressao_geometrica.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Sequências",
+          "enunciado": "Construa regras direta e recursiva para uma sequência aditiva e outra multiplicativa. Represente-as por pontos e explique por que unir continuamente os pontos depende de extensão do modelo.",
+          "gabarito": "Conferir início, posição, recorrência e domínio discreto, sem inferir lei única apenas de poucos termos.",
+          "bncc": [
+            "EM13MAT507",
+            "EM13MAT508"
+          ],
+          "atividadeOrigem": "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao"
+        },
+        {
+          "titulo": "Progressão Aritmética",
+          "enunciado": "Deduza termo e soma por desenhos ou pares de extremos. Modele depósitos hipotéticos que aumentam por valor fixo e compare com valor acumulado, que não é o mesmo que o depósito de um mês.",
+          "gabarito": "Distinguir termo e soma; conferir quantidade de intervalos n−1 e domínio discreto.",
+          "bncc": [
+            "EM13MAT507"
+          ],
+          "atividadeOrigem": "mat.em01.sequencias_e_progressoes.progressao_aritmetica#progressao_aritmetica.producao"
+        },
+        {
+          "titulo": "Progressão Geométrica",
+          "enunciado": "Deduza a soma finita subtraindo qS−S; modele um processo de redução pela metade e compare termos e totais, discutindo o significado de infinitas etapas no contexto.",
+          "gabarito": "Verificar q≠1 na fórmula e |q|<1 na convergência. Não aplicar soma infinita a crescimento com q>1.",
+          "bncc": [
+            "EM13MAT508"
+          ],
+          "atividadeOrigem": "mat.em01.sequencias_e_progressoes.progressao_geometrica#progressao_geometrica.producao"
+        }
+      ],
+      "duracaoMinSugerida": 90,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          162,
+          164,
+          173
+        ],
+        "paginasImpressas": "165, 167, 176",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          164,
+          168,
+          170
+        ],
+        "paginasImpressas": "167, 171, 173",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          173,
+          176,
+          178,
+          179
+        ],
+        "paginasImpressas": "176, 179, 181, 182",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em01.tecnologia_e_algoritmos.prova": {
+    "id": "mat.em01.tecnologia_e_algoritmos.prova",
+    "titulo": "Avaliação: Tecnologia e Algoritmos",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Tecnologia e Algoritmos",
+    "bncc": [
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em01.tecnologia_e_algoritmos.prova.01",
+      "mat.em01.tecnologia_e_algoritmos.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT315",
+        "questoes": [
+          "mat.em01.tecnologia_e_algoritmos.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.tecnologia_e_algoritmos.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente#algoritmos_em_linguagem_corrente.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT405",
+        "questoes": [
+          "mat.em01.tecnologia_e_algoritmos.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em01.tecnologia_e_algoritmos.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis#primeiros_programas_e_variaveis.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em01.tecnologia_e_algoritmos.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Tecnologia e Algoritmos",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT315",
+        "EM13MAT405"
+      ],
+      "atividadesOrigem": [
+        "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente#algoritmos_em_linguagem_corrente.producao",
+        "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis#primeiros_programas_e_variaveis.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Algoritmos em Linguagem Corrente",
+          "enunciado": "Descreva e desenhe o fluxograma da soma até n. Execute manualmente para n=0,1,5, registre estados e explique parada e domínio.",
+          "gabarito": "Saídas 0,1,15; contador cresce até sair da condição. O caso zero não entra no laço.",
+          "bncc": [
+            "EM13MAT315"
+          ],
+          "atividadeOrigem": "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente#algoritmos_em_linguagem_corrente.producao"
+        },
+        {
+          "titulo": "Primeiros Programas e Variáveis",
+          "enunciado": "Implemente o algoritmo da soma em Python ou linguagem disponível. Execute os testes 0,1,5 e uma entrada inválida, registrando código, saídas e tratamento do domínio.",
+          "gabarito": "Avaliar programa realmente executado, saídas 0,1,15 e rejeição ou tratamento explícito de entrada não natural; aceitar outra linguagem equivalente.",
+          "bncc": [
+            "EM13MAT405"
+          ],
+          "atividadeOrigem": "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis#primeiros_programas_e_variaveis.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.em02.computacao_e_modelagem.prova": {
+    "id": "mat.em02.computacao_e_modelagem.prova",
+    "titulo": "Avaliação: Computação e Modelagem",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Computação e Modelagem",
+    "bncc": [
+      "EM13MAT201",
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em02.computacao_e_modelagem.prova.01",
+      "mat.em02.computacao_e_modelagem.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT201",
+        "questoes": [
+          "mat.em02.computacao_e_modelagem.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.computacao_e_modelagem.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT315",
+        "questoes": [
+          "mat.em02.computacao_e_modelagem.prova.01",
+          "mat.em02.computacao_e_modelagem.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.computacao_e_modelagem.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao",
+          "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT405",
+        "questoes": [
+          "mat.em02.computacao_e_modelagem.prova.01",
+          "mat.em02.computacao_e_modelagem.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.computacao_e_modelagem.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao",
+          "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em02.computacao_e_modelagem.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Computação e Modelagem",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT201",
+        "EM13MAT315",
+        "EM13MAT405"
+      ],
+      "atividadesOrigem": [
+        "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao",
+        "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Modelagem Matemática de Problemas",
+          "enunciado": "Proponha ação adequada à comunidade envolvendo área, volume, capacidade ou massa. Faça medições reais, modelo, fluxograma e implementação simples; simule cenários, compare e apresente limites e proposta fundamentada.",
+          "gabarito": "Avaliar demanda efetiva, execução das medições, unidades, código ou algoritmo testado, decisão e limitações. Não tratar proposta como obra executada.",
+          "bncc": [
+            "EM13MAT201",
+            "EM13MAT315",
+            "EM13MAT405"
+          ],
+          "atividadeOrigem": "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas#modelagem_matematica_de_problemas.producao"
+        },
+        {
+          "titulo": "Algoritmos de Busca e Ordenação",
+          "enunciado": "Desenhe fluxogramas, implemente busca sequencial e binária e teste alvo presente, ausente e lista vazia. Implemente inserção e compare saídas com ordenação conferida manualmente.",
+          "gabarito": "Avaliar execução, limites dos índices e hipótese de ordenação. Número de passos depende dos dados e do algoritmo; não afirmar tempo real só por contar comparações.",
+          "bncc": [
+            "EM13MAT315",
+            "EM13MAT405"
+          ],
+          "atividadeOrigem": "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao#algoritmos_de_busca_e_ordenacao.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546,
+          547
+        ],
+        "paginasImpressas": "544, 545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.em02.estatistica_e_probabilidade.prova": {
+    "id": "mat.em02.estatistica_e_probabilidade.prova",
+    "titulo": "Avaliação: Estatística e Probabilidade",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Estatística e Probabilidade",
+    "bncc": [
+      "EM13MAT202",
+      "EM13MAT311",
+      "EM13MAT407",
+      "EM13MAT510",
+      "EM13MAT511"
+    ],
+    "duracaoMin": 20,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 4 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em02.estatistica_e_probabilidade.prova.01",
+      "mat.em02.estatistica_e_probabilidade.prova.02",
+      "mat.em02.estatistica_e_probabilidade.prova.03",
+      "mat.em02.estatistica_e_probabilidade.prova.04"
+    ],
+    "criterios": "Cada item objetivo vale 10/4 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT202",
+        "questoes": [
+          "mat.em02.estatistica_e_probabilidade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.estatistica_e_probabilidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio#pesquisa_amostral_e_relatorio.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT311",
+        "questoes": [
+          "mat.em02.estatistica_e_probabilidade.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.estatistica_e_probabilidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT407",
+        "questoes": [
+          "mat.em02.estatistica_e_probabilidade.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.estatistica_e_probabilidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas#diagramas_de_caixa_e_histogramas.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT510",
+        "questoes": [
+          "mat.em02.estatistica_e_probabilidade.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.estatistica_e_probabilidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste#duas_variaveis_e_reta_de_ajuste.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT511",
+        "questoes": [
+          "mat.em02.estatistica_e_probabilidade.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.estatistica_e_probabilidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em02.estatistica_e_probabilidade.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Estatística e Probabilidade",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT202",
+        "EM13MAT311",
+        "EM13MAT407",
+        "EM13MAT510",
+        "EM13MAT511"
+      ],
+      "atividadesOrigem": [
+        "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio#pesquisa_amostral_e_relatorio.producao",
+        "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas#diagramas_de_caixa_e_histogramas.producao",
+        "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste#duas_variaveis_e_reta_de_ajuste.producao",
+        "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Pesquisa Amostral e Relatório",
+          "enunciado": "Planeje e execute pesquisa relevante para o grupo. Colete dados reais, registre seleção e limites, calcule medidas adequadas e produza relatório com tabela, gráficos, amplitude e desvio padrão.",
+          "gabarito": "Avaliar coleta efetiva, anonimização, correspondência dos cálculos e interpretação da dispersão. Não aceitar resultados previstos como observados.",
+          "bncc": [
+            "EM13MAT202"
+          ],
+          "atividadeOrigem": "mat.em02.estatistica_e_probabilidade.pesquisa_amostral_e_relatorio#pesquisa_amostral_e_relatorio.producao"
+        },
+        {
+          "titulo": "Diagramas de Caixa e Histogramas",
+          "enunciado": "Represente duas séries por histograma, boxplot e ramos e folhas; compare forma, centro, dispersão e valores ocultos. Declare classes e convenção de quartis e escolha a representação mais útil.",
+          "gabarito": "Conferir dados e escalas; boxplots iguais podem ocultar distribuições diferentes e não demonstram igualdade de todos os valores.",
+          "bncc": [
+            "EM13MAT407"
+          ],
+          "atividadeOrigem": "mat.em02.estatistica_e_probabilidade.diagramas_de_caixa_e_histogramas#diagramas_de_caixa_e_histogramas.producao"
+        },
+        {
+          "titulo": "Duas Variáveis e Reta de Ajuste",
+          "enunciado": "Colete ou consulte pares reais com fonte, desenhe dispersão, proponha reta, calcule resíduos e discuta se a reta é adequada. Compare conclusão descritiva e afirmação causal.",
+          "gabarito": "Avaliar origem dos pares, relação plausível, variação residual e limites; aceitar rejeitar modelo linear se os dados indicarem outra forma.",
+          "bncc": [
+            "EM13MAT510"
+          ],
+          "atividadeOrigem": "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste#duas_variaveis_e_reta_de_ajuste.producao"
+        },
+        {
+          "titulo": "Espaços Amostrais e Eventos",
+          "enunciado": "Construa árvore ou tabela de dois dados, calcule chances de duas somas e compare com sorteio uniforme em intervalo. Elabore decisão hipotética baseada nas diferenças e explique limites.",
+          "gabarito": "Conferir 36 pares, seis para soma sete, um para dois e interpretação do contínuo; não usar favoráveis/total contando somas como iguais.",
+          "bncc": [
+            "EM13MAT311",
+            "EM13MAT511"
+          ],
+          "atividadeOrigem": "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos#espacos_amostrais_e_eventos.producao"
+        }
+      ],
+      "duracaoMinSugerida": 120,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          264,
+          266,
+          267
+        ],
+        "paginasImpressas": "267, 269, 270",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em02.geometria_espacial.prova": {
+    "id": "mat.em02.geometria_espacial.prova",
+    "titulo": "Avaliação: Geometria Espacial",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "bncc": [
+      "EM13MAT309",
+      "EM13MAT504",
+      "EM13MAT509"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 6 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em02.geometria_espacial.prova.01",
+      "mat.em02.geometria_espacial.prova.02",
+      "mat.em02.geometria_espacial.prova.03",
+      "mat.em02.geometria_espacial.prova.04",
+      "mat.em02.geometria_espacial.prova.05",
+      "mat.em02.geometria_espacial.prova.06"
+    ],
+    "criterios": "Cada item objetivo vale 10/6 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT309",
+        "questoes": [
+          "mat.em02.geometria_espacial.prova.01",
+          "mat.em02.geometria_espacial.prova.02",
+          "mat.em02.geometria_espacial.prova.03",
+          "mat.em02.geometria_espacial.prova.06"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.geometria_espacial.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.geometria_espacial.introducao_a_geometria_espacial#introducao_a_geometria_espacial.producao",
+          "mat.em02.geometria_espacial.prismas_e_cilindros#prismas_e_cilindros.producao",
+          "mat.em02.geometria_espacial.piramide_e_cone#piramide_e_cone.producao",
+          "mat.em02.geometria_espacial.area_e_volume_da_esfera#area_e_volume_da_esfera.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT504",
+        "questoes": [
+          "mat.em02.geometria_espacial.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.geometria_espacial.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri#volumes_e_principio_de_cavalieri.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT509",
+        "questoes": [
+          "mat.em02.geometria_espacial.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.geometria_espacial.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas#esfera_e_projecoes_cartograficas.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em02.geometria_espacial.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Geometria Espacial",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT309",
+        "EM13MAT504",
+        "EM13MAT509"
+      ],
+      "atividadesOrigem": [
+        "mat.em02.geometria_espacial.introducao_a_geometria_espacial#introducao_a_geometria_espacial.producao",
+        "mat.em02.geometria_espacial.prismas_e_cilindros#prismas_e_cilindros.producao",
+        "mat.em02.geometria_espacial.piramide_e_cone#piramide_e_cone.producao",
+        "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas#esfera_e_projecoes_cartograficas.producao",
+        "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri#volumes_e_principio_de_cavalieri.producao",
+        "mat.em02.geometria_espacial.area_e_volume_da_esfera#area_e_volume_da_esfera.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Introdução à Geometria Espacial",
+          "enunciado": "Modele uma embalagem real por um sólido, registre aproximações e meça o necessário para calcular espaço interno e material de cobertura. Explique o que o modelo não representa.",
+          "gabarito": "Conferir sólido, dimensões, unidades quadradas/cúbicas e limites da aproximação; não usar medidas ocultas inventadas.",
+          "bncc": [
+            "EM13MAT309"
+          ],
+          "atividadeOrigem": "mat.em02.geometria_espacial.introducao_a_geometria_espacial#introducao_a_geometria_espacial.producao"
+        },
+        {
+          "titulo": "Prismas e Cilindros",
+          "enunciado": "Compare uma caixa retangular e um cilindro de capacidades próximas, calculando material para modelos abertos e fechados. Elabore problema de pintura de uma composição e justifique áreas expostas.",
+          "gabarito": "Conferir medidas, conversões e exclusão das regiões de contato; não contar superfície interna como externa sem o enunciado pedir.",
+          "bncc": [
+            "EM13MAT309"
+          ],
+          "atividadeOrigem": "mat.em02.geometria_espacial.prismas_e_cilindros#prismas_e_cilindros.producao"
+        },
+        {
+          "titulo": "Pirâmide e Cone",
+          "enunciado": "Elabore problemas de volume e revestimento de pirâmide e cone, inclua sólido composto e identifique regiões de contato. Compare altura e geratriz num desenho.",
+          "gabarito": "Conferir fator um terço, altura perpendicular, área das faces triangulares e superfícies expostas; pirâmide exige dados de apótema lateral quando necessários.",
+          "bncc": [
+            "EM13MAT309"
+          ],
+          "atividadeOrigem": "mat.em02.geometria_espacial.piramide_e_cone#piramide_e_cone.producao"
+        },
+        {
+          "titulo": "Esfera e Projeções Cartográficas",
+          "enunciado": "Construa grades em esfera ou globo e compare transferências para cilindro e cone de papel, ou mapas de fontes cartográficas identificadas. Compare ângulos e áreas em duas regiões e explique quais propriedades mudam, registrando o método.",
+          "gabarito": "Conferir comparação efetiva, regra de projeção e regiões. Nem todo desenho cônico preserva área ou ângulo; não generalizar propriedades de uma projeção específica para a família inteira.",
+          "bncc": [
+            "EM13MAT509"
+          ],
+          "atividadeOrigem": "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas#esfera_e_projecoes_cartograficas.producao"
+        },
+        {
+          "titulo": "Volumes e Princípio de Cavalieri",
+          "enunciado": "Investigue volumes de prismas e cilindros por camadas. Compare pirâmide/prisma e cone/cilindro de base e altura iguais por modelos, enchimentos ou seções, registre dados e explique o papel de Cavalieri na generalização.",
+          "gabarito": "Avaliar construção ou simulação efetiva, altura comum e áreas seccionais comparadas corretamente. Empirismo isolado não demonstra a fórmula geral; cone e pirâmide variam seccionalmente de modo quadrático.",
+          "bncc": [
+            "EM13MAT504"
+          ],
+          "atividadeOrigem": "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri#volumes_e_principio_de_cavalieri.producao"
+        },
+        {
+          "titulo": "Área e Volume da Esfera",
+          "enunciado": "Elabore e resolva problema de revestimento e capacidade de objeto esférico e de um composto com hemisfério. Desenhe superfícies expostas e explique aproximações.",
+          "gabarito": "Conferir raio, unidades, metade da esfera quando cabível e inclusão da base plana apenas se exposta.",
+          "bncc": [
+            "EM13MAT309"
+          ],
+          "atividadeOrigem": "mat.em02.geometria_espacial.area_e_volume_da_esfera#area_e_volume_da_esfera.producao"
+        }
+      ],
+      "duracaoMinSugerida": 180,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "USGS — Map projections: A working manual",
+        "url": "https://www.usgs.gov/educational-resources/map-projections-working-manual",
+        "uso": "Fonte cartográfica complementar: famílias de projeção e deformações; explicações e investigação autorais."
+      }
+    ]
+  },
+  "mat.em02.matrizes_determinantes_e_sistemas_lineares.prova": {
+    "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.prova",
+    "titulo": "Avaliação: Matrizes, Determinantes e Sistemas Lineares",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Matrizes, Determinantes e Sistemas Lineares",
+    "bncc": [
+      "EM13MAT301"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 1 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em02.matrizes_determinantes_e_sistemas_lineares.prova.01"
+    ],
+    "criterios": "Cada item objetivo vale 10/1 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT301",
+        "questoes": [
+          "mat.em02.matrizes_determinantes_e_sistemas_lineares.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.matrizes_determinantes_e_sistemas_lineares.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares#sistemas_lineares.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em02.matrizes_determinantes_e_sistemas_lineares.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Matrizes, Determinantes e Sistemas Lineares",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT301"
+      ],
+      "atividadesOrigem": [
+        "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares#sistemas_lineares.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Sistemas Lineares",
+          "enunciado": "Elabore problema de mistura ou preços com duas equações. Resolva por eliminação, substituição e gráfico, depois escreva AX=B e discuta um sistema impossível. Compare também a resolução de um sistema 2×2 de solução única pela regra de Cramer.",
+          "gabarito": "Avaliar modelagem, par nas duas equações e interpretação do domínio; determinante é ferramenta possível, não substitui o significado.",
+          "bncc": [
+            "EM13MAT301"
+          ],
+          "atividadeOrigem": "mat.em02.matrizes_determinantes_e_sistemas_lineares.sistemas_lineares#sistemas_lineares.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          215,
+          220,
+          224,
+          222
+        ],
+        "paginasImpressas": "218, 223, 227, 225",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em02.proporcionalidade_e_variacao.prova": {
+    "id": "mat.em02.proporcionalidade_e_variacao.prova",
+    "titulo": "Avaliação: Proporcionalidade e Variação",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Proporcionalidade e Variação",
+    "bncc": [
+      "EM13MAT101",
+      "EM13MAT302"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em02.proporcionalidade_e_variacao.prova.01",
+      "mat.em02.proporcionalidade_e_variacao.prova.02",
+      "mat.em02.proporcionalidade_e_variacao.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT101",
+        "questoes": [
+          "mat.em02.proporcionalidade_e_variacao.prova.01",
+          "mat.em02.proporcionalidade_e_variacao.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.proporcionalidade_e_variacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT302",
+        "questoes": [
+          "mat.em02.proporcionalidade_e_variacao.prova.01",
+          "mat.em02.proporcionalidade_e_variacao.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.proporcionalidade_e_variacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em02.proporcionalidade_e_variacao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Proporcionalidade e Variação",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT101",
+        "EM13MAT302"
+      ],
+      "atividadesOrigem": [
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Proporcionalidade Direta e Inversa",
+          "enunciado": "Modele duas grandezas de um contexto científico com dados ou hipóteses explícitas, compare funções candidatas por tabelas, gráficos e taxas e discuta limites da escolha.",
+          "gabarito": "Conferir unidades, domínio, razão/produto, resíduos e comparação de taxas; poucos pontos não certificam uma lei universal.",
+          "bncc": [
+            "EM13MAT101",
+            "EM13MAT302"
+          ],
+          "atividadeOrigem": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.producao"
+        }
+      ],
+      "duracaoMinSugerida": 45,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.em02.regioes_planas_e_area.prova": {
+    "id": "mat.em02.regioes_planas_e_area.prova",
+    "titulo": "Avaliação: Regiões Planas e Área",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Regiões Planas e Área",
+    "bncc": [
+      "EM13MAT307",
+      "EM13MAT505",
+      "EM13MAT506"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em02.regioes_planas_e_area.prova.01",
+      "mat.em02.regioes_planas_e_area.prova.02",
+      "mat.em02.regioes_planas_e_area.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT307",
+        "questoes": [
+          "mat.em02.regioes_planas_e_area.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.regioes_planas_e_area.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas#medida_de_area_de_regioes_planas.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT505",
+        "questoes": [
+          "mat.em02.regioes_planas_e_area.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.regioes_planas_e_area.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.regioes_planas_e_area.ladrilhamento#ladrilhamento.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT506",
+        "questoes": [
+          "mat.em02.regioes_planas_e_area.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.regioes_planas_e_area.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares#area_e_perimetro_de_poligonos_regulares.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em02.regioes_planas_e_area.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Regiões Planas e Área",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT307",
+        "EM13MAT505",
+        "EM13MAT506"
+      ],
+      "atividadesOrigem": [
+        "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas#medida_de_area_de_regioes_planas.producao",
+        "mat.em02.regioes_planas_e_area.ladrilhamento#ladrilhamento.producao",
+        "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares#area_e_perimetro_de_poligonos_regulares.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Medida de Área de Regiões Planas",
+          "enunciado": "Deduza fórmulas de triângulo e trapézio por reconfiguração. Estime área de região irregular por malhas de duas resoluções e aplique a uma situação de distribuição de espaço.",
+          "gabarito": "Conferir ausência de lacunas/sobreposição e limites da aproximação; a malha fina não garante exatidão de um contorno medido.",
+          "bncc": [
+            "EM13MAT307"
+          ],
+          "atividadeOrigem": "mat.em02.regioes_planas_e_area.medida_de_area_de_regioes_planas#medida_de_area_de_regioes_planas.producao"
+        },
+        {
+          "titulo": "Ladrilhamento",
+          "enunciado": "Construa padrões com triângulos, quadrados e hexágonos, teste pentágonos regulares e proponha composição mista. Registre o padrão e uma generalização justificada.",
+          "gabarito": "Avaliar cobertura real, ângulos e repetição; não estender a impossibilidade dos regulares a todos os pentágonos.",
+          "bncc": [
+            "EM13MAT505"
+          ],
+          "atividadeOrigem": "mat.em02.regioes_planas_e_area.ladrilhamento#ladrilhamento.producao"
+        },
+        {
+          "titulo": "Área e Perímetro de Polígonos Regulares",
+          "enunciado": "Construa tabela e gráficos de área e perímetro para quadrado e outro polígono regular. Justifique as expressões e classifique as funções e o domínio físico.",
+          "gabarito": "Comprimentos positivos, unidade linear/quadrada e coeficientes compatíveis; não comparar áreas como se crescessem pelo mesmo fator do lado.",
+          "bncc": [
+            "EM13MAT506"
+          ],
+          "atividadeOrigem": "mat.em02.regioes_planas_e_area.area_e_perimetro_de_poligonos_regulares#area_e_perimetro_de_poligonos_regulares.producao"
+        }
+      ],
+      "duracaoMinSugerida": 90,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.em02.trigonometria.prova": {
+    "id": "mat.em02.trigonometria.prova",
+    "titulo": "Avaliação: Trigonometria",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Trigonometria",
+    "bncc": [
+      "EM13MAT306",
+      "EM13MAT308"
+    ],
+    "duracaoMin": 25,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 5 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em02.trigonometria.prova.01",
+      "mat.em02.trigonometria.prova.02",
+      "mat.em02.trigonometria.prova.03",
+      "mat.em02.trigonometria.prova.04",
+      "mat.em02.trigonometria.prova.05"
+    ],
+    "criterios": "Cada item objetivo vale 10/5 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT306",
+        "questoes": [
+          "mat.em02.trigonometria.prova.01",
+          "mat.em02.trigonometria.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.trigonometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia#conceitos_trigonometricos_basicos_na_circunferencia.producao",
+          "mat.em02.trigonometria.funcoes_trigonometricas#funcoes_trigonometricas.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT308",
+        "questoes": [
+          "mat.em02.trigonometria.prova.03",
+          "mat.em02.trigonometria.prova.04",
+          "mat.em02.trigonometria.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em02.trigonometria.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em02.trigonometria.relacoes_trigonometricas#relacoes_trigonometricas.producao",
+          "mat.em02.trigonometria.semelhanca_de_poligonos#semelhanca_de_poligonos.producao",
+          "mat.em02.trigonometria.leis_do_seno_e_do_cosseno#leis_do_seno_e_do_cosseno.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em02.trigonometria.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Trigonometria",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT306",
+        "EM13MAT308"
+      ],
+      "atividadesOrigem": [
+        "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia#conceitos_trigonometricos_basicos_na_circunferencia.producao",
+        "mat.em02.trigonometria.funcoes_trigonometricas#funcoes_trigonometricas.producao",
+        "mat.em02.trigonometria.relacoes_trigonometricas#relacoes_trigonometricas.producao",
+        "mat.em02.trigonometria.semelhanca_de_poligonos#semelhanca_de_poligonos.producao",
+        "mat.em02.trigonometria.leis_do_seno_e_do_cosseno#leis_do_seno_e_do_cosseno.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Conceitos Trigonométricos Básicos na Circunferência",
+          "enunciado": "Construa círculo orientado, marque ângulos em graus e radianos nos quatro quadrantes e relacione-os a deslocamento periódico. Explique sinais e arcos côngruos.",
+          "gabarito": "Conferir orientação positiva anti-horária, coordenadas e equivalências; não trocar seno e cosseno.",
+          "bncc": [
+            "EM13MAT306"
+          ],
+          "atividadeOrigem": "mat.em02.trigonometria.conceitos_trigonometricos_basicos_na_circunferencia#conceitos_trigonometricos_basicos_na_circunferencia.producao"
+        },
+        {
+          "titulo": "Funções Trigonométricas",
+          "enunciado": "Investigue uma série periódica real de fonte identificada ou uma medição de movimento cíclico. Ajuste seno ou cosseno, faça tabela e gráfico e compare amplitude, fase e período com os dados.",
+          "gabarito": "Avaliar fonte ou coleta efetiva, unidades de t e limitações do ajuste; não confundir frequência e período.",
+          "bncc": [
+            "EM13MAT306"
+          ],
+          "atividadeOrigem": "mat.em02.trigonometria.funcoes_trigonometricas#funcoes_trigonometricas.producao"
+        },
+        {
+          "titulo": "Relações Trigonométricas",
+          "enunciado": "Elabore problema de altura por ângulo de elevação e distância horizontal. Desenhe, escolha a razão adequada e explique precisão angular e hipóteses do modelo.",
+          "gabarito": "Conferir ângulo, catetos e unidade; incluir altura do instrumento quando o contexto exigir.",
+          "bncc": [
+            "EM13MAT308"
+          ],
+          "atividadeOrigem": "mat.em02.trigonometria.relacoes_trigonometricas#relacoes_trigonometricas.producao"
+        },
+        {
+          "titulo": "Semelhança de Polígonos",
+          "enunciado": "Modele uma medição indireta por triângulos semelhantes, explicando verticalidade, terreno e direção dos raios. Resolva e elabore problema de ampliação e compare escalas lineares e áreas.",
+          "gabarito": "Conferir correspondências, critérios e unidades; áreas variam com o quadrado do fator.",
+          "bncc": [
+            "EM13MAT308"
+          ],
+          "atividadeOrigem": "mat.em02.trigonometria.semelhanca_de_poligonos#semelhanca_de_poligonos.producao"
+        },
+        {
+          "titulo": "Leis do Seno e do Cosseno",
+          "enunciado": "Crie e resolva um problema de distância inacessível usando uma das leis. Compare duas estratégias e investigue quando o conjunto de dados não determina um único triângulo.",
+          "gabarito": "Conferir correspondências, domínio dos ângulos, soma 180° e plausibilidade do lado; não aceitar ramo impossível.",
+          "bncc": [
+            "EM13MAT308"
+          ],
+          "atividadeOrigem": "mat.em02.trigonometria.leis_do_seno_e_do_cosseno#leis_do_seno_e_do_cosseno.producao"
+        }
+      ],
+      "duracaoMinSugerida": 150,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          120,
+          122,
+          125,
+          126,
+          130,
+          133
+        ],
+        "paginasImpressas": "123, 125, 128, 129, 133, 136",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          152
+        ],
+        "paginasImpressas": "155",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          108,
+          109,
+          116,
+          136
+        ],
+        "paginasImpressas": "111, 112, 119, 139",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em03.analise_combinatoria_e_probabilidade.prova": {
+    "id": "mat.em03.analise_combinatoria_e_probabilidade.prova",
+    "titulo": "Avaliação: Análise Combinatória e Probabilidade",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Análise Combinatória e Probabilidade",
+    "bncc": [
+      "EM13MAT310",
+      "EM13MAT311",
+      "EM13MAT312",
+      "EM13MAT511"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em03.analise_combinatoria_e_probabilidade.prova.01",
+      "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+      "mat.em03.analise_combinatoria_e_probabilidade.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT310",
+        "questoes": [
+          "mat.em03.analise_combinatoria_e_probabilidade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.analise_combinatoria_e_probabilidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem#analise_combinatoria_diferentes_estrategias_de_contagem.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT311",
+        "questoes": [
+          "mat.em03.analise_combinatoria_e_probabilidade.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.analise_combinatoria_e_probabilidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT312",
+        "questoes": [
+          "mat.em03.analise_combinatoria_e_probabilidade.prova.02",
+          "mat.em03.analise_combinatoria_e_probabilidade.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.analise_combinatoria_e_probabilidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao",
+          "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos#probabilidade_de_eventos_sucessivos.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT511",
+        "questoes": [
+          "mat.em03.analise_combinatoria_e_probabilidade.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.analise_combinatoria_e_probabilidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em03.analise_combinatoria_e_probabilidade.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Análise Combinatória e Probabilidade",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT310",
+        "EM13MAT311",
+        "EM13MAT312",
+        "EM13MAT511"
+      ],
+      "atividadesOrigem": [
+        "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem#analise_combinatoria_diferentes_estrategias_de_contagem.producao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao",
+        "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos#probabilidade_de_eventos_sucessivos.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Análise Combinatória: Diferentes Estratégias de Contagem",
+          "enunciado": "Elabore um problema ordenável e outro não ordenável com restrição. Resolva por árvore ou tabela e por contagem algébrica, explicando duplicações e casos disjuntos.",
+          "gabarito": "Avaliar espaço e condições; comissão difere de cargos distintos. Fatorial de zero é um e fórmulas precisam de parâmetros válidos.",
+          "bncc": [
+            "EM13MAT310"
+          ],
+          "atividadeOrigem": "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem#analise_combinatoria_diferentes_estrategias_de_contagem.producao"
+        },
+        {
+          "titulo": "Probabilidade",
+          "enunciado": "Liste espaços discretos equiprováveis e não equiprováveis. Compare com ponto uniforme no intervalo [0,1], calcule chance de cair em [0,1/4] e resolva um experimento de duas retiradas com e sem reposição.",
+          "gabarito": "No contínuo uniforme a chance é comprimento relativo, um quarto; ponto exato tem chance zero sem ser impossibilidade lógica. Conferir condicionais e composição.",
+          "bncc": [
+            "EM13MAT311",
+            "EM13MAT312",
+            "EM13MAT511"
+          ],
+          "atividadeOrigem": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade#probabilidade.producao"
+        },
+        {
+          "titulo": "Probabilidade de Eventos Sucessivos",
+          "enunciado": "Desenhe árvore do exemplo e elabore outro com etapas dependentes. Calcule probabilidades conjuntas, total e uma condicional, conferindo soma dos ramos.",
+          "gabarito": "Conferir condicionamento e denominador; uma informação pode alterar a chance sobre o ramo anterior.",
+          "bncc": [
+            "EM13MAT312"
+          ],
+          "atividadeOrigem": "mat.em03.analise_combinatoria_e_probabilidade.probabilidade_de_eventos_sucessivos#probabilidade_de_eventos_sucessivos.producao"
+        }
+      ],
+      "duracaoMinSugerida": 90,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          232,
+          237,
+          241,
+          242,
+          244,
+          247
+        ],
+        "paginasImpressas": "235, 240, 244, 245, 247, 250",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          264,
+          266,
+          267,
+          272,
+          274
+        ],
+        "paginasImpressas": "267, 269, 270, 275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          270,
+          272,
+          274
+        ],
+        "paginasImpressas": "273, 275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em03.binomio_de_newton_complementar.prova": {
+    "id": "mat.em03.binomio_de_newton_complementar.prova",
+    "titulo": "Avaliação: Binômio de Newton — Complementar",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Binômio de Newton — Complementar",
+    "bncc": [],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": true,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em03.binomio_de_newton_complementar.prova.01",
+      "mat.em03.binomio_de_newton_complementar.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [],
+    "avaliacaoPratica": {
+      "id": "mat.em03.binomio_de_newton_complementar.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Binômio de Newton — Complementar",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [],
+      "atividadesOrigem": [
+        "mat.em03.binomio_de_newton_complementar.triangulo_de_pascal_e_binomio_de_newton#triangulo_de_pascal_e_binomio_de_newton.producao",
+        "mat.em03.binomio_de_newton_complementar.termo_geral_do_binomio#termo_geral_do_binomio.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Triangulo de pascal e binomio de newton",
+          "enunciado": "Construa as seis primeiras linhas do triângulo por contagem e recorrência. Expanda (x+2)^4 e confira por multiplicação e substituição de valores.",
+          "gabarito": "x⁴+8x³+24x²+32x+16. Avaliar coeficientes, expoentes e termo inicial da linha com n=0.",
+          "bncc": [],
+          "atividadeOrigem": "mat.em03.binomio_de_newton_complementar.triangulo_de_pascal_e_binomio_de_newton#triangulo_de_pascal_e_binomio_de_newton.producao"
+        },
+        {
+          "titulo": "Termo geral do binomio",
+          "enunciado": "Encontre termo independente de x em (x²+1/x)^6, para x≠0, e compare com expansão parcial. Determine também o termo de x² em (x+3)^4.",
+          "gabarito": "Expoente 12−3k zera em k=4; coeficiente C(6,4)=15. Na segunda, k=2, coeficiente 6×9=54.",
+          "bncc": [],
+          "atividadeOrigem": "mat.em03.binomio_de_newton_complementar.termo_geral_do_binomio#termo_geral_do_binomio.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          251,
+          254,
+          256,
+          257
+        ],
+        "paginasImpressas": "254, 257, 259, 260",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          257,
+          259
+        ],
+        "paginasImpressas": "260, 262",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em03.complexos_e_polinomios_complementar.prova": {
+    "id": "mat.em03.complexos_e_polinomios_complementar.prova",
+    "titulo": "Avaliação: Complexos e Polinômios — Complementar",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "bncc": [],
+    "duracaoMin": 25,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": true,
+    "instrucoes": "Parte objetiva com 5 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em03.complexos_e_polinomios_complementar.prova.01",
+      "mat.em03.complexos_e_polinomios_complementar.prova.02",
+      "mat.em03.complexos_e_polinomios_complementar.prova.03",
+      "mat.em03.complexos_e_polinomios_complementar.prova.04",
+      "mat.em03.complexos_e_polinomios_complementar.prova.05"
+    ],
+    "criterios": "Cada item objetivo vale 10/5 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [],
+    "avaliacaoPratica": {
+      "id": "mat.em03.complexos_e_polinomios_complementar.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Complexos e Polinômios — Complementar",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [],
+      "atividadesOrigem": [
+        "mat.em03.complexos_e_polinomios_complementar.numeros_complexos_e_operacoes#numeros_complexos_e_operacoes.producao",
+        "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas#forma_trigonometrica_e_raizes_complexas.producao",
+        "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao#polinomios_operacoes_e_divisao.producao",
+        "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard#raizes_multiplicidade_e_relacoes_de_girard.producao",
+        "mat.em03.complexos_e_polinomios_complementar.equacoes_polinomiais_e_fatoracao#equacoes_polinomiais_e_fatoracao.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Numeros complexos e operacoes",
+          "enunciado": "Represente complexos no plano, efetue soma, produto e quociente e confira o quociente pelo produto. Investigue o ciclo das potências de i.",
+          "gabarito": "Conferir i²=−1, coordenadas (a,b), denominador não nulo e ciclo 1,i,−1,−i. O módulo é real não negativo.",
+          "bncc": [],
+          "atividadeOrigem": "mat.em03.complexos_e_polinomios_complementar.numeros_complexos_e_operacoes#numeros_complexos_e_operacoes.producao"
+        },
+        {
+          "titulo": "Forma trigonometrica e raizes complexas",
+          "enunciado": "Converta 1+i para forma trigonométrica, calcule sua quarta potência e construa as quatro raízes de −1 no plano, justificando módulos e argumentos.",
+          "gabarito": "1+i tem módulo √2 e argumento π/4; quarta potência −4. Raízes de −1: módulo um, argumentos π/4,3π/4,5π/4,7π/4.",
+          "bncc": [],
+          "atividadeOrigem": "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas#forma_trigonometrica_e_raizes_complexas.producao"
+        },
+        {
+          "titulo": "Polinomios operacoes e divisao",
+          "enunciado": "Faça soma e produto de polinômios, divida x³−1 por x−1 e verifique DQ+R. Execute Horner para avaliar um polinômio escolhido e compare com substituição direta.",
+          "gabarito": "Quociente x²+x+1, resto zero. Conferir todos os coeficientes, inclusive ordens ausentes, e grau do resto.",
+          "bncc": [],
+          "atividadeOrigem": "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao#polinomios_operacoes_e_divisao.producao"
+        },
+        {
+          "titulo": "Raizes multiplicidade e relacoes de girard",
+          "enunciado": "Expanda esse produto e confira soma e produto das raízes com multiplicidade. Investigue x²+1 nos reais e complexos e explique a condição de conjugação.",
+          "gabarito": "Expansão x³−3x²+4; soma 2+2−1=3 e produto −4. x²+1 tem raízes ±i e nenhuma real.",
+          "bncc": [],
+          "atividadeOrigem": "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard#raizes_multiplicidade_e_relacoes_de_girard.producao"
+        },
+        {
+          "titulo": "Equacoes polinomiais e fatoracao",
+          "enunciado": "Resolva x³−6x²+11x−6=0 testando raízes inteiras e dividindo por fatores. Compare com x⁴−1 e identifique todas as raízes complexas.",
+          "gabarito": "Primeira: 1,2,3. Segunda: 1,−1,i,−i. Conferir grau total e produto dos fatores.",
+          "bncc": [],
+          "atividadeOrigem": "mat.em03.complexos_e_polinomios_complementar.equacoes_polinomiais_e_fatoracao#equacoes_polinomiais_e_fatoracao.producao"
+        }
+      ],
+      "duracaoMinSugerida": 150,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          307,
+          308,
+          312,
+          315,
+          320,
+          321
+        ],
+        "paginasImpressas": "310, 311, 315, 318, 323, 324",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          323,
+          324
+        ],
+        "paginasImpressas": "326, 327",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          330,
+          332,
+          334,
+          337,
+          341
+        ],
+        "paginasImpressas": "333, 335, 337, 340, 344",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          345,
+          346,
+          348,
+          349,
+          352
+        ],
+        "paginasImpressas": "348, 349, 351, 352, 355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          345,
+          346,
+          352
+        ],
+        "paginasImpressas": "348, 349, 355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em03.computacao.prova": {
+    "id": "mat.em03.computacao.prova",
+    "titulo": "Avaliação: Computação",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Computação",
+    "bncc": [
+      "EM13MAT203",
+      "EM13MAT315",
+      "EM13MAT405"
+    ],
+    "duracaoMin": 20,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 4 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em03.computacao.prova.01",
+      "mat.em03.computacao.prova.02",
+      "mat.em03.computacao.prova.03",
+      "mat.em03.computacao.prova.04"
+    ],
+    "criterios": "Cada item objetivo vale 10/4 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT203",
+        "questoes": [
+          "mat.em03.computacao.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.computacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT315",
+        "questoes": [
+          "mat.em03.computacao.prova.01",
+          "mat.em03.computacao.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.computacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.computacao.um_pouco_de_historia#um_pouco_de_historia.producao",
+          "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT405",
+        "questoes": [
+          "mat.em03.computacao.prova.02",
+          "mat.em03.computacao.prova.03",
+          "mat.em03.computacao.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.computacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.computacao.conceitos_iniciais#conceitos_iniciais.producao",
+          "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao",
+          "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em03.computacao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Computação",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT203",
+        "EM13MAT315",
+        "EM13MAT405"
+      ],
+      "atividadesOrigem": [
+        "mat.em03.computacao.um_pouco_de_historia#um_pouco_de_historia.producao",
+        "mat.em03.computacao.conceitos_iniciais#conceitos_iniciais.producao",
+        "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao",
+        "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Um Pouco de História",
+          "enunciado": "Compare subtrações repetidas e divisões com resto para MDC. Registre uma descrição em linguagem corrente e fluxograma, execute para 48,18 e explique a conservação dos divisores e a parada.",
+          "gabarito": "Ambos dão seis. No método por restos, o segundo valor diminui entre naturais até zero; não inventar datas históricas como parte da prova matemática.",
+          "bncc": [
+            "EM13MAT315"
+          ],
+          "atividadeOrigem": "mat.em03.computacao.um_pouco_de_historia#um_pouco_de_historia.producao"
+        },
+        {
+          "titulo": "Conceitos Iniciais",
+          "enunciado": "Implemente função de média e amplitude para uma lista de números, com tratamento de lista vazia. Execute casos conhecidos, documente entradas e compare com cálculo manual.",
+          "gabarito": "Avaliar código executado, soma e quantidade, máximo e mínimo, retorno e tratamento explícito de ausência; não dividir por zero.",
+          "bncc": [
+            "EM13MAT405"
+          ],
+          "atividadeOrigem": "mat.em03.computacao.conceitos_iniciais#conceitos_iniciais.producao"
+        },
+        {
+          "titulo": "Algoritmos e Fluxogramas",
+          "enunciado": "Desenhe e implemente MDC por Euclides. Rastreie 54,24; teste números iguais, divisor exato, um argumento zero e ambos zero, declarando a convenção para esse último caso.",
+          "gabarito": "MDC 54,24=6. Para ambos zero, rejeitar ou declarar convenção usada; para a>0,b=0 retorna a. Registrar código e saídas reais.",
+          "bncc": [
+            "EM13MAT315",
+            "EM13MAT405"
+          ],
+          "atividadeOrigem": "mat.em03.computacao.algoritmos_e_fluxogramas#algoritmos_e_fluxogramas.producao"
+        },
+        {
+          "titulo": "Projeto de Programação",
+          "enunciado": "Implemente um pequeno aplicativo ou programa de orçamento ou medições. Inclua validação, cenários, testes com casos conhecidos e relatório de uma decisão fictícia; compare com planilha.",
+          "gabarito": "Avaliar execução efetiva, documentação, fórmulas, entradas inválidas e decisão ligada aos dados. Não basta apresentar pseudocódigo como programa executado.",
+          "bncc": [
+            "EM13MAT203",
+            "EM13MAT405"
+          ],
+          "atividadeOrigem": "mat.em03.computacao.projeto_de_programacao#projeto_de_programacao.producao"
+        }
+      ],
+      "duracaoMinSugerida": 120,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545,
+          546
+        ],
+        "paginasImpressas": "543, 544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.em03.educacao_financeira.prova": {
+    "id": "mat.em03.educacao_financeira.prova",
+    "titulo": "Avaliação: Educação Financeira",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Educação Financeira",
+    "bncc": [
+      "EM13MAT104",
+      "EM13MAT203",
+      "EM13MAT303"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em03.educacao_financeira.prova.01",
+      "mat.em03.educacao_financeira.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT104",
+        "questoes": [
+          "mat.em03.educacao_financeira.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.educacao_financeira.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT203",
+        "questoes": [
+          "mat.em03.educacao_financeira.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.educacao_financeira.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT303",
+        "questoes": [
+          "mat.em03.educacao_financeira.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.educacao_financeira.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira#fundamentos_da_matematica_financeira.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em03.educacao_financeira.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Educação Financeira",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT104",
+        "EM13MAT203",
+        "EM13MAT303"
+      ],
+      "atividadesOrigem": [
+        "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira#fundamentos_da_matematica_financeira.producao",
+        "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Fundamentos da Matemática Financeira",
+          "enunciado": "Construa gráficos e planilha para comparar dois modelos hipotéticos de mesma taxa. Determine taxa equivalente de dois períodos e analise diferenças nominal e real com inflação fornecida.",
+          "gabarito": "Conferir períodos, bases e arredondamento. Retorno real por fatores: (1+retorno nominal)/(1+inflação)−1, dentro das hipóteses dadas.",
+          "bncc": [
+            "EM13MAT303"
+          ],
+          "atividadeOrigem": "mat.em03.educacao_financeira.fundamentos_da_matematica_financeira#fundamentos_da_matematica_financeira.producao"
+        },
+        {
+          "titulo": "Planejamento e Gestão de Orçamento Pessoal",
+          "enunciado": "Crie planilha de orçamento fictício, compare previsto e realizado e simule mudanças de preços por categoria. Explique os pesos e uma proposta de ajuste com limites.",
+          "gabarito": "Avaliar fórmula, totais, categorias, cenários e argumentos; não recomendar investimento ou supor renda futura garantida.",
+          "bncc": [
+            "EM13MAT203",
+            "EM13MAT104"
+          ],
+          "atividadeOrigem": "mat.em03.educacao_financeira.planejamento_e_gestao_de_orcamento_pessoal#planejamento_e_gestao_de_orcamento_pessoal.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300,
+          302
+        ],
+        "paginasImpressas": "299, 303, 305",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          285,
+          302
+        ],
+        "paginasImpressas": "288, 305",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em03.estatistica.prova": {
+    "id": "mat.em03.estatistica.prova",
+    "titulo": "Avaliação: Estatística",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "bncc": [
+      "EM13MAT102",
+      "EM13MAT202",
+      "EM13MAT316",
+      "EM13MAT406",
+      "EM13MAT407",
+      "EM13MAT510"
+    ],
+    "duracaoMin": 25,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 5 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em03.estatistica.prova.01",
+      "mat.em03.estatistica.prova.02",
+      "mat.em03.estatistica.prova.03",
+      "mat.em03.estatistica.prova.04",
+      "mat.em03.estatistica.prova.05"
+    ],
+    "criterios": "Cada item objetivo vale 10/5 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT102",
+        "questoes": [
+          "mat.em03.estatistica.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT202",
+        "questoes": [
+          "mat.em03.estatistica.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados#pesquisa_amostral_e_coleta_de_dados.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT316",
+        "questoes": [
+          "mat.em03.estatistica.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao#medidas_de_tendencia_central_e_medidas_de_dispersao.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT406",
+        "questoes": [
+          "mat.em03.estatistica.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT407",
+        "questoes": [
+          "mat.em03.estatistica.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.estatistica.histogramas_e_diagramas_de_caixa#histogramas_e_diagramas_de_caixa.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT510",
+        "questoes": [
+          "mat.em03.estatistica.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.estatistica.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.estatistica.correlacao_e_reta_de_ajuste#correlacao_e_reta_de_ajuste.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em03.estatistica.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Estatística",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT102",
+        "EM13MAT202",
+        "EM13MAT316",
+        "EM13MAT406",
+        "EM13MAT407",
+        "EM13MAT510"
+      ],
+      "atividadesOrigem": [
+        "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao",
+        "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao#medidas_de_tendencia_central_e_medidas_de_dispersao.producao",
+        "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados#pesquisa_amostral_e_coleta_de_dados.producao",
+        "mat.em03.estatistica.histogramas_e_diagramas_de_caixa#histogramas_e_diagramas_de_caixa.producao",
+        "mat.em03.estatistica.correlacao_e_reta_de_ajuste#correlacao_e_reta_de_ajuste.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Introdução à Estatística",
+          "enunciado": "Analise um relatório de fonte identificada, reconstitua tabela de frequências e um gráfico e escreva crítica da amostra, escala e denominadores, distinguindo descrição e causalidade.",
+          "gabarito": "Conferir fonte, período, população e valores. A crítica deve apontar efeito verificável sem presumir intenção.",
+          "bncc": [
+            "EM13MAT102",
+            "EM13MAT406"
+          ],
+          "atividadeOrigem": "mat.em03.estatistica.introducao_a_estatistica#introducao_a_estatistica.producao"
+        },
+        {
+          "titulo": "Medidas de Tendência Central e Medidas de Dispersão",
+          "enunciado": "Compare dados reais de dois grupos por média, mediana, moda, amplitude, variância e desvio padrão. Use planilha para conferir e explique qual resumo responde à pergunta.",
+          "gabarito": "Avaliar cálculo, divisor declarado, unidades e extremos; não concluir igualdade de distribuições só pela média.",
+          "bncc": [
+            "EM13MAT316"
+          ],
+          "atividadeOrigem": "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao#medidas_de_tendencia_central_e_medidas_de_dispersao.producao"
+        },
+        {
+          "titulo": "Pesquisa Amostral e Coleta de Dados",
+          "enunciado": "Execute pesquisa de tema social relevante com amostra planejada. Registre dados anônimos, método e ausências; faça tabelas, gráficos e medidas de centro e dispersão e apresente relatório crítico.",
+          "gabarito": "Verificar realização, compatibilidade das variáveis, fórmulas e limites. Resultados dependem da coleta real.",
+          "bncc": [
+            "EM13MAT202"
+          ],
+          "atividadeOrigem": "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados#pesquisa_amostral_e_coleta_de_dados.producao"
+        },
+        {
+          "titulo": "Histogramas e Diagramas de Caixa",
+          "enunciado": "Represente duas séries por três tipos de gráfico e escolha o mais adequado para comparar concentração, centro e extremos. Justifique classes e quartis e discuta perdas.",
+          "gabarito": "Conferir dados completos, soma das frequências, unidades e regras de outliers quando usadas; não tratar marca de outlier como prova de erro de registro.",
+          "bncc": [
+            "EM13MAT407"
+          ],
+          "atividadeOrigem": "mat.em03.estatistica.histogramas_e_diagramas_de_caixa#histogramas_e_diagramas_de_caixa.producao"
+        },
+        {
+          "titulo": "Correlação e Reta de Ajuste",
+          "enunciado": "Investigue duas variáveis numéricas de fonte identificada ou coleta real. Faça dispersão, ajuste reta quando adequado, registre resíduos e uma previsão acompanhada de limites.",
+          "gabarito": "Avaliar origem, cálculo, relação não necessariamente causal e adequação da reta; aceitar rejeitar modelo linear.",
+          "bncc": [
+            "EM13MAT510"
+          ],
+          "atividadeOrigem": "mat.em03.estatistica.correlacao_e_reta_de_ajuste#correlacao_e_reta_de_ajuste.producao"
+        }
+      ],
+      "duracaoMinSugerida": 150,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          277
+        ],
+        "paginasImpressas": "280",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          279
+        ],
+        "paginasImpressas": "282",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.em03.geometria_analitica_complementar.prova": {
+    "id": "mat.em03.geometria_analitica_complementar.prova",
+    "titulo": "Avaliação: Geometria Analítica — Complementar",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria Analítica — Complementar",
+    "bncc": [],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": true,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em03.geometria_analitica_complementar.prova.01",
+      "mat.em03.geometria_analitica_complementar.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [],
+    "avaliacaoPratica": {
+      "id": "mat.em03.geometria_analitica_complementar.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Geometria Analítica — Complementar",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [],
+      "atividadesOrigem": [
+        "mat.em03.geometria_analitica_complementar.reta_distancias_e_posicoes_relativas#reta_distancias_e_posicoes_relativas.producao",
+        "mat.em03.geometria_analitica_complementar.elipse_e_circunferencia#elipse_e_circunferencia.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Reta distancias e posicoes relativas",
+          "enunciado": "Determine intersecção, paralelismo e distância em pares de retas, incluindo uma vertical. Compare cálculo algébrico com construção por perpendicular e interprete em um contexto geométrico. Determine o baricentro de um triângulo escolhido e confira construindo duas medianas.",
+          "gabarito": "Conferir denominador positivo, valor absoluto, condições de direção e equações originais; distâncias não podem ser negativas. Conferir a média das coordenadas e a intersecção das medianas.",
+          "bncc": [],
+          "atividadeOrigem": "mat.em03.geometria_analitica_complementar.reta_distancias_e_posicoes_relativas#reta_distancias_e_posicoes_relativas.producao"
+        },
+        {
+          "titulo": "Elipse e circunferencia",
+          "enunciado": "Construa uma elipse por fio ou software e relacione centro, eixos e focos com a equação. Compare com circunferência e teste três pontos nas expressões.",
+          "gabarito": "Conferir orientação do eixo maior, c²=16 e constante 2a, sem usar a como comprimento do eixo inteiro.",
+          "bncc": [],
+          "atividadeOrigem": "mat.em03.geometria_analitica_complementar.elipse_e_circunferencia#elipse_e_circunferencia.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          370,
+          371,
+          374,
+          383,
+          387,
+          389,
+          366
+        ],
+        "paginasImpressas": "373, 374, 377, 386, 390, 392, 369",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          391,
+          395
+        ],
+        "paginasImpressas": "394, 398",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ]
+  },
+  "mat.em03.geometria_no_plano_cartesiano.prova": {
+    "id": "mat.em03.geometria_no_plano_cartesiano.prova",
+    "titulo": "Avaliação: Geometria no Plano Cartesiano",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Geometria no Plano Cartesiano",
+    "bncc": [
+      "EM13MAT105",
+      "EM13MAT301",
+      "EM13MAT401"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em03.geometria_no_plano_cartesiano.prova.01",
+      "mat.em03.geometria_no_plano_cartesiano.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT105",
+        "questoes": [
+          "mat.em03.geometria_no_plano_cartesiano.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.geometria_no_plano_cartesiano.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas#transformacoes_geometricas.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT301",
+        "questoes": [
+          "mat.em03.geometria_no_plano_cartesiano.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.geometria_no_plano_cartesiano.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT401",
+        "questoes": [
+          "mat.em03.geometria_no_plano_cartesiano.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.geometria_no_plano_cartesiano.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em03.geometria_no_plano_cartesiano.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Geometria no Plano Cartesiano",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT105",
+        "EM13MAT301",
+        "EM13MAT401"
+      ],
+      "atividadesOrigem": [
+        "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao",
+        "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas#transformacoes_geometricas.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Geometria Analítica: Ponto, Reta e Circunferência",
+          "enunciado": "Modele duas retas por dados e encontre sua intersecção como sistema. Construa distância e ponto médio geometricamente e represente uma circunferência por centro e raio; confira pontos nas equações.",
+          "gabarito": "Avaliar representações e domínio. Para pontos dados, distâncias e ponto médio devem concordar; vertical não possui inclinação finita. Equação de circunferência é ampliação complementar.",
+          "bncc": [
+            "EM13MAT301",
+            "EM13MAT401"
+          ],
+          "atividadeOrigem": "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia#geometria_analitica_ponto_reta_e_circunferencia.producao"
+        },
+        {
+          "titulo": "Transformações Geométricas",
+          "enunciado": "Construa padrão artístico ou fractal simples por isometrias e homotetias, registre regras e parâmetros e investigue duas ordens de composição. Compare razões de comprimento e área.",
+          "gabarito": "Avaliar execução, correspondência e parâmetros; homotetia negativa inclui inversão em relação ao centro.",
+          "bncc": [
+            "EM13MAT105"
+          ],
+          "atividadeOrigem": "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas#transformacoes_geometricas.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545,
+          546
+        ],
+        "paginasImpressas": "543, 544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          359,
+          363,
+          365,
+          374,
+          391
+        ],
+        "paginasImpressas": "362, 366, 368, 377, 394",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.em03.grandezas_e_medidas.prova": {
+    "id": "mat.em03.grandezas_e_medidas.prova",
+    "titulo": "Avaliação: Grandezas e Medidas",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Grandezas e Medidas",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT201",
+      "EM13MAT313",
+      "EM13MAT314"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em03.grandezas_e_medidas.prova.01",
+      "mat.em03.grandezas_e_medidas.prova.02"
+    ],
+    "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT103",
+        "questoes": [
+          "mat.em03.grandezas_e_medidas.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.grandezas_e_medidas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT201",
+        "questoes": [
+          "mat.em03.grandezas_e_medidas.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.grandezas_e_medidas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade#medicoes_de_area_volume_e_capacidade.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT313",
+        "questoes": [
+          "mat.em03.grandezas_e_medidas.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.grandezas_e_medidas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT314",
+        "questoes": [
+          "mat.em03.grandezas_e_medidas.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.grandezas_e_medidas.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em03.grandezas_e_medidas.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Grandezas e Medidas",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT103",
+        "EM13MAT201",
+        "EM13MAT313",
+        "EM13MAT314"
+      ],
+      "atividadesOrigem": [
+        "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao",
+        "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade#medicoes_de_area_volume_e_capacidade.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Unidades e Conversões no Cotidiano",
+          "enunciado": "Analise texto científico ou tecnológico com fonte e data, converta unidades, estime ordem de grandeza e interprete taxa ou produto. Faça medição real e informe resolução e algarismo duvidoso. Resolva ainda um exemplo hipotético de densidade com massa e volume fornecidos e de energia com potência e tempo.",
+          "gabarito": "Conferir bits/bytes, fatores, unidade final e hipóteses. Diferenciar precisão de exatidão e valor ideal de tempo observado. Conferir densidade=massa/volume e energia=potência×tempo, sem supor massa universal por litro.",
+          "bncc": [
+            "EM13MAT103",
+            "EM13MAT313",
+            "EM13MAT314"
+          ],
+          "atividadeOrigem": "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano#unidades_e_conversoes_no_cotidiano.producao"
+        },
+        {
+          "titulo": "Medições de Área, Volume e Capacidade",
+          "enunciado": "Proponha ou participe de ação local com medições reais de perímetro, área, volume, capacidade ou massa. Registre método, cálculo, incerteza, discussão com o grupo e limites da proposta, sem assumir execução não realizada.",
+          "gabarito": "Avaliar demanda, medições, unidades, hipóteses e participação ou proposta efetiva. Não apresentar exemplo hipotético como levantamento real.",
+          "bncc": [
+            "EM13MAT201"
+          ],
+          "atividadeOrigem": "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade#medicoes_de_area_volume_e_capacidade.producao"
+        }
+      ],
+      "duracaoMinSugerida": 60,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ]
+  },
+  "mat.em03.modelagem_e_risco.prova": {
+    "id": "mat.em03.modelagem_e_risco.prova",
+    "titulo": "Avaliação: Modelagem e Risco",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Modelagem e Risco",
+    "bncc": [
+      "EM13MAT106",
+      "EM13MAT311",
+      "EM13MAT312",
+      "EM13MAT405",
+      "EM13MAT511"
+    ],
+    "duracaoMin": 15,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "complementar": false,
+    "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+    "questoes": [
+      "mat.em03.modelagem_e_risco.prova.01",
+      "mat.em03.modelagem_e_risco.prova.02",
+      "mat.em03.modelagem_e_risco.prova.03"
+    ],
+    "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+    "matriz": [
+      {
+        "bncc": "EM13MAT106",
+        "questoes": [
+          "mat.em03.modelagem_e_risco.prova.01",
+          "mat.em03.modelagem_e_risco.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.modelagem_e_risco.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.producao",
+          "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT311",
+        "questoes": [
+          "mat.em03.modelagem_e_risco.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.modelagem_e_risco.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT312",
+        "questoes": [
+          "mat.em03.modelagem_e_risco.prova.01",
+          "mat.em03.modelagem_e_risco.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.modelagem_e_risco.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.producao",
+          "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT405",
+        "questoes": [
+          "mat.em03.modelagem_e_risco.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.modelagem_e_risco.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.producao"
+        ]
+      },
+      {
+        "bncc": "EM13MAT511",
+        "questoes": [
+          "mat.em03.modelagem_e_risco.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "mat.em03.modelagem_e_risco.pratica"
+        ],
+        "atividadesPraticas": [
+          "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.producao"
+        ]
+      }
+    ],
+    "avaliacaoPratica": {
+      "id": "mat.em03.modelagem_e_risco.pratica",
+      "tipo": "discursiva",
+      "titulo": "Produções: Modelagem e Risco",
+      "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+      "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+      "bncc": [
+        "EM13MAT106",
+        "EM13MAT311",
+        "EM13MAT312",
+        "EM13MAT405",
+        "EM13MAT511"
+      ],
+      "atividadesOrigem": [
+        "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.producao",
+        "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.producao",
+        "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.producao"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Escolhas e Risco Probabilístico",
+          "enunciado": "Compare duas escolhas hipotéticas por árvore de eventos, probabilidades e consequências. Calcule valores esperados e discuta variabilidade, informação ausente e critérios além da média.",
+          "gabarito": "Avaliar hipóteses, unidades e distinção entre modelo e decisão individual; não recomendar apostas ou tratamentos reais.",
+          "bncc": [
+            "EM13MAT106",
+            "EM13MAT312"
+          ],
+          "atividadeOrigem": "mat.em03.modelagem_e_risco.escolhas_e_risco_probabilistico#escolhas_e_risco_probabilistico.producao"
+        },
+        {
+          "titulo": "Probabilidade em Decisões de Saúde",
+          "enunciado": "Reconstitua a tabela do exemplo. Compare outro cenário hipotético de frequência inicial menor mantendo taxas do teste. Explique por que a interpretação muda e quais informações faltam para qualquer decisão real.",
+          "gabarito": "Conferir totais e condicionais. Para decisões reais há avaliação profissional e outras evidências; a atividade não indica tratamento nem diagnóstico.",
+          "bncc": [
+            "EM13MAT106",
+            "EM13MAT312"
+          ],
+          "atividadeOrigem": "mat.em03.modelagem_e_risco.probabilidade_em_decisoes_de_saude#probabilidade_em_decisoes_de_saude.producao"
+        },
+        {
+          "titulo": "Simulações e Previsões",
+          "enunciado": "Implemente simulação discreta e uniforme contínua, registre semente, parâmetros e saídas. Compare frequências e probabilidades, discuta erro amostral e por que simular não comprova que o modelo descreve a realidade.",
+          "gabarito": "Avaliar código executado, pesos corretos e identificação de resultados simulados; no contínuo uniforme, chance de ponto exato é zero.",
+          "bncc": [
+            "EM13MAT311",
+            "EM13MAT405",
+            "EM13MAT511"
+          ],
+          "atividadeOrigem": "mat.em03.modelagem_e_risco.simulacoes_e_previsoes#simulacoes_e_previsoes.producao"
+        }
+      ],
+      "duracaoMinSugerida": 90,
+      "rubrica": [
+        "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+        "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+        "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+        "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+      ],
+      "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          272,
+          274
+        ],
+        "paginasImpressas": "275, 277",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546,
+          548
+        ],
+        "paginasImpressas": "544, 546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
       }
     ]
   }

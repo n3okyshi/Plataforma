@@ -1,0 +1,109 @@
+{
+  "id": "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 23,
+  "unidade": "Computação e Modelagem",
+  "titulo": "Modelagem Matemática de Problemas",
+  "bncc": [
+    "EM13MAT201",
+    "EM13MAT315",
+    "EM13MAT405"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Proponha ação adequada à comunidade envolvendo área, volume, capacidade ou massa",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Um projeto de modelagem define demanda, variáveis, medições e critério de decisão",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Modelagem Matemática de Problemas</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Um projeto de modelagem define demanda, variáveis, medições e critério de decisão. Registre aproximações, desenvolva algoritmo e implemente quando possível. Compare previsão com observação e revise o modelo, em vez de apenas calcular uma fórmula pronta.</p><h3>Exemplo resolvido</h3><p>Para estimar material de um canteiro, meça contorno e área, desconte regiões não utilizadas e converta unidades. Um programa pode repetir cenários, mas precisa de entradas validadas.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Proponha ação adequada à comunidade envolvendo área, volume, capacidade ou massa. Faça medições reais, modelo, fluxograma e implementação simples; simule cenários, compare e apresente limites e proposta fundamentada.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544, 545</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "modelagem",
+      "algoritmos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "modelagem_matematica_de_problemas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma diferença entre previsão e observação deve motivar:",
+      "alternativas": [
+        "Declarar o modelo exato",
+        "Revisão das hipóteses e medições",
+        "Ocultar o dado"
+      ],
+      "correta": 1,
+      "explicacao": "A comparação é parte da modelagem."
+    },
+    {
+      "id": "modelagem_matematica_de_problemas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Proponha ação adequada à comunidade envolvendo área, volume, capacidade ou massa. Faça medições reais, modelo, fluxograma e implementação simples; simule cenários, compare e apresente limites e proposta fundamentada.",
+      "gabarito": "Avaliar demanda efetiva, execução das medições, unidades, código ou algoritmo testado, decisão e limitações. Não tratar proposta como obra executada.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar demanda efetiva, execução das medições, unidades, código ou algoritmo testado, decisão e limitações. Não tratar proposta como obra executada.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "modelagem",
+    "algoritmos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546,
+        547
+      ],
+      "paginasImpressas": "544, 545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

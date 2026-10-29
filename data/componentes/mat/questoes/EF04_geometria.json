@@ -1,0 +1,266 @@
+[
+  {
+    "id": "mat.ef04.geometria.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.angulos_e_poligonos",
+    "bncc": [
+      "EF04MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual instrumento ajuda a conferir ângulo reto?",
+    "opcoes": [
+      "Balança",
+      "Recipiente graduado",
+      "Esquadro"
+    ],
+    "correta": 2,
+    "explicacao": "O esquadro tem uma referência de perpendicularidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          329,
+          330
+        ],
+        "paginasImpressas": "332, 333",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.geometria.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.localizacao_deslocamento_e_simetria",
+    "bncc": [
+      "EF04MA16",
+      "EF04MA19"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na reflexão, a distância de um ponto ao eixo:",
+    "opcoes": [
+      "Sempre zera",
+      "É conservada",
+      "Sempre dobra"
+    ],
+    "correta": 1,
+    "explicacao": "Original e imagem ficam a distâncias iguais, em lados opostos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          322,
+          355
+        ],
+        "paginasImpressas": "325, 358",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.geometria.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.planificacoes_de_prismas_e_piramides",
+    "bncc": [
+      "EF04MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma rede de prisma triangular inclui:",
+    "opcoes": [
+      "Dois triângulos e três retângulos",
+      "Um triângulo e quatro círculos",
+      "Seis triângulos iguais sempre"
+    ],
+    "correta": 0,
+    "explicacao": "As bases são triangulares e as três laterais retangulares.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.geometria.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.angulos_e_poligonos",
+    "bncc": [
+      "EF04MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Girar um retângulo muda seus ângulos retos?",
+    "opcoes": [
+      "Sim, sempre",
+      "Só quando dobra de tamanho",
+      "Não"
+    ],
+    "correta": 2,
+    "explicacao": "A rotação preserva as aberturas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          329,
+          330
+        ],
+        "paginasImpressas": "332, 333",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.geometria.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.localizacao_deslocamento_e_simetria",
+    "bncc": [
+      "EF04MA16",
+      "EF04MA19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ruas perpendiculares formam ângulos:",
+    "opcoes": [
+      "Sempre rasos",
+      "Retos",
+      "Sempre agudos"
+    ],
+    "correta": 1,
+    "explicacao": "Perpendicularidade corresponde ao encontro em ângulo reto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          322,
+          355
+        ],
+        "paginasImpressas": "325, 358",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.geometria.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Geometria",
+    "aulaId": "mat.ef04.geometria.planificacoes_de_prismas_e_piramides",
+    "bncc": [
+      "EF04MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma pirâmide de base pentagonal possui quantas laterais triangulares?",
+    "opcoes": [
+      "5",
+      "2",
+      "7"
+    ],
+    "correta": 0,
+    "explicacao": "Cada lado da base corresponde a uma lateral.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          295
+        ],
+        "paginasImpressas": "293",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          325
+        ],
+        "paginasImpressas": "328",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

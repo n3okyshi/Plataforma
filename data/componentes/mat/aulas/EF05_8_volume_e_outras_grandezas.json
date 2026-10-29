@@ -2,36 +2,116 @@
   "id": "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas",
   "componente": "mat",
   "nivel": "EF05",
-  "ordem": 8,
+  "ordem": 12,
   "unidade": "Grandezas e Medidas",
   "titulo": "Volume e Outras Grandezas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF05MA19",
+    "EF05MA21"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Monte dois sólidos com doze cubos e compare seus volumes",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Volume expressa espaço ocupado por um sólido",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume (Espaço)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conceito inicial de volume através do empilhamento de cubinhos.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📦 Enchendo a caixa:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Volume é o espaço que um objeto ocupa. Contamos quantos cubinhos unitários cabem dentro dele.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Volume e Outras Grandezas</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Volume expressa espaço ocupado por um sólido. Empilhar cubos iguais permite medi-lo em unidades cúbicas: conte todas as camadas, inclusive cubos ocultos. Diferencie volume, capacidade, área e comprimento. Conversões exigem identificar a grandeza antes de escolher o fator.</p><h3>Exemplo resolvido</h3><p>Um bloco com três camadas de 4×2 cubos tem 24 cubos unitários. Já 1,5 L de capacidade equivalem a 1500 mL; não é uma medida de área.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Monte dois sólidos com doze cubos e compare seus volumes. Resolva e elabore problemas de comprimento, massa, tempo, temperatura e capacidade com unidades usuais, incluindo conversões, e explique as diferenças de grandeza.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 297</li><li>MC_MATEM_EF.pdf — páginas impressas 112, 124, 126</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "volume",
+      "grandezas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "volume_e_outras_grandezas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quatro camadas de 3×2 cubinhos contêm:",
+      "alternativas": [
+        "24 cubos",
+        "9 cubos",
+        "12 cubos"
+      ],
+      "correta": 0,
+      "explicacao": "Cada camada tem seis e há quatro camadas."
+    },
+    {
+      "id": "volume_e_outras_grandezas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Monte dois sólidos com doze cubos e compare seus volumes. Resolva e elabore problemas de comprimento, massa, tempo, temperatura e capacidade com unidades usuais, incluindo conversões, e explique as diferenças de grandeza.",
+      "gabarito": "Os sólidos têm doze unidades cúbicas, mesmo com formas distintas. Conferir conversões contextuais: m/cm,kg/g,h/min,L/mL; não aplicar um fator linear a qualquer grandeza.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Os sólidos têm doze unidades cúbicas, mesmo com formas distintas. Conferir conversões contextuais: m/cm,kg/g,h/min,L/mL; não aplicar um fator linear a qualquer grandeza.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "volume",
+    "grandezas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        299
+      ],
+      "paginasImpressas": "297",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        121,
+        123
+      ],
+      "paginasImpressas": "112, 124, 126",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

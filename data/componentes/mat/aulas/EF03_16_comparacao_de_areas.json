@@ -1,0 +1,114 @@
+{
+  "id": "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.comparacao_de_areas",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 16,
+  "unidade": "Grandezas e medidas: comprimento, massa e capacidade",
+  "titulo": "Comparação de Áreas",
+  "bncc": [
+    "EF03MA21"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Compare faces de duas caixas por sobreposição com papel",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Área relaciona-se à superfície ocupada",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Comparação de Áreas</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Área relaciona-se à superfície ocupada. Compare por sobreposição, recorte ou cobertura sem lacunas. Um contorno mais comprido não garante maior área. Ao comparar, mantenha a mesma referência de superfície e evite contar partes sobrepostas duas vezes.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.\"><title>Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.</title><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 35V215\"/><path d=\"M105 35V215\"/><path d=\"M150 35V215\"/><path d=\"M195 35V215\"/><path d=\"M240 35V215\"/><path d=\"M285 35V215\"/><path d=\"M330 35V215\"/><path d=\"M60 35H330\"/><path d=\"M60 80H330\"/><path d=\"M60 125H330\"/><path d=\"M60 170H330\"/><path d=\"M60 215H330\"/></g></svg><h3>Exemplo resolvido</h3><p>Duas figuras formadas pelos mesmos seis quadrados iguais podem ter contornos diferentes e a mesma área. O recorte e a recomposição conservam a superfície.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Compare faces de duas caixas por sobreposição com papel. Desenhe duas figuras diferentes com oito quadradinhos e explique a igualdade de áreas.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 289</li><li>MC_MATEM_EF.pdf — páginas impressas 115</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "area",
+      "comparacao"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "comparacao_de_areas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Duas figuras feitas com os mesmos oito quadradinhos sem sobreposição têm:",
+      "alternativas": [
+        "Sempre o mesmo contorno",
+        "Sempre a mesma forma",
+        "Mesma área"
+      ],
+      "correta": 2,
+      "explicacao": "O total da superfície de oito quadrados foi conservado."
+    },
+    {
+      "id": "comparacao_de_areas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Compare faces de duas caixas por sobreposição com papel. Desenhe duas figuras diferentes com oito quadradinhos e explique a igualdade de áreas.",
+      "gabarito": "Observar coberturas reais e conservação dos oito quadrados, sem afirmar igualdade apenas pela aparência do contorno.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Observar coberturas reais e conservação dos oito quadrados, sem afirmar igualdade apenas pela aparência do contorno.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "area",
+    "comparacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        112
+      ],
+      "paginasImpressas": "115",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.grandezas_e_medidas_comprimento_massa_e_capacidade.medidas_e_estimativas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

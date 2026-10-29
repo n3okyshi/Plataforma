@@ -1,0 +1,118 @@
+{
+  "id": "mat.ef05.proporcionalidade.prova",
+  "titulo": "Avaliação: Proporcionalidade",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF05",
+  "unidade": "Proporcionalidade",
+  "bncc": [
+    "EF05MA12",
+    "EF05MA13"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 2 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef05.proporcionalidade.prova.01",
+    "mat.ef05.proporcionalidade.prova.02"
+  ],
+  "criterios": "Cada item objetivo vale 10/2 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF05MA12",
+      "questoes": [
+        "mat.ef05.proporcionalidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.proporcionalidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais#grandezas_diretamente_proporcionais.producao"
+      ]
+    },
+    {
+      "bncc": "EF05MA13",
+      "questoes": [
+        "mat.ef05.proporcionalidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.proporcionalidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.proporcionalidade.partilha_em_partes_desiguais#partilha_em_partes_desiguais.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef05.proporcionalidade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Proporcionalidade",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF05MA12",
+      "EF05MA13"
+    ],
+    "atividadesOrigem": [
+      "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais#grandezas_diretamente_proporcionais.producao",
+      "mat.ef05.proporcionalidade.partilha_em_partes_desiguais#partilha_em_partes_desiguais.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Grandezas Diretamente Proporcionais",
+        "enunciado": "Adapte uma receita de quatro para dez porções; crie tabela de preço por quantidade com valor unitário constante e explique uma ampliação de escala. Compare com preço que tenha taxa fixa.",
+        "gabarito": "Aplicar fator 10/4=2,5 em todos os ingredientes; mostrar a razão unitária e por que a taxa fixa muda o modelo.",
+        "bncc": [
+          "EF05MA12"
+        ],
+        "atividadeOrigem": "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais#grandezas_diretamente_proporcionais.producao"
+      },
+      {
+        "titulo": "Partilha em Partes Desiguais",
+        "enunciado": "Represente por barras uma partilha de 150 com uma parte dupla da outra. Elabore outra história de partilha desigual e diferencie razão entre partes e fração do total.",
+        "gabarito": "50 e 100. Razão menor:maior=1:2; menor:total=1:3. Conferir soma e condição de dobro.",
+        "bncc": [
+          "EF05MA13"
+        ],
+        "atividadeOrigem": "mat.ef05.proporcionalidade.partilha_em_partes_desiguais#partilha_em_partes_desiguais.producao"
+      }
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        174
+      ],
+      "paginasImpressas": "173, 177",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170
+      ],
+      "paginasImpressas": "173",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

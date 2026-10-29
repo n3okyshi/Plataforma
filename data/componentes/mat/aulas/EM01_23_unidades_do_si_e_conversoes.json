@@ -1,0 +1,107 @@
+{
+  "id": "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 23,
+  "unidade": "Grandezas e Medidas",
+  "titulo": "Unidades do SI e Conversões",
+  "bncc": [
+    "EM13MAT103",
+    "EM13MAT313"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Analise um texto científico ou tecnológico com unidades, fonte e período",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Medidas exigem unidade, resolução e incerteza",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Unidades do SI e Conversões</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Medidas exigem unidade, resolução e incerteza. Conversões preservam grandeza e usam fatores compatíveis, inclusive unidades compostas. Em armazenamento, declare convenção decimal ou binária. Algarismos significativos comunicam a precisão, e o último informado pode ser duvidoso.</p><h3>Exemplo resolvido</h3><p>Uma leitura 12,3 cm com resolução 0,1 cm tem três algarismos significativos. 72 km/h=20 m/s. No modelo decimal 1 MB=10^6 bytes, 5 MB são cinco milhões de bytes.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Analise um texto científico ou tecnológico com unidades, fonte e período. Converta medidas, registre resolução de uma medição real e explique algarismos significativos e margem de incerteza.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "unidades_de_medida",
+      "conversoes"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "unidades_do_si_e_conversoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "36 km/h correspondem a:",
+      "alternativas": [
+        "3,6 m/s",
+        "10 m/s",
+        "36 m/s"
+      ],
+      "correta": 1,
+      "explicacao": "Dividir por 3,6 converte km/h em m/s."
+    },
+    {
+      "id": "unidades_do_si_e_conversoes.producao",
+      "tipo": "discursiva",
+      "enunciado": "Analise um texto científico ou tecnológico com unidades, fonte e período. Converta medidas, registre resolução de uma medição real e explique algarismos significativos e margem de incerteza.",
+      "gabarito": "Conferir análise dimensional, convenções, arredondamentos e distinção entre erro e dígitos escritos; não declarar medida exata a partir de instrumento limitado.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir análise dimensional, convenções, arredondamentos e distinção entre erro e dígitos escritos; não declarar medida exata a partir de instrumento limitado.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "unidades_de_medida",
+    "conversoes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

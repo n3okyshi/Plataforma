@@ -1,0 +1,108 @@
+{
+  "id": "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 21,
+  "unidade": "Estatística e Gráficos",
+  "titulo": "Tabelas e Gráficos de Frequência",
+  "bncc": [
+    "EM13MAT406"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Colete uma pequena amostra real, crie tabela absoluta e relativa, gráfico e um agrupamento por classes",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Frequência absoluta conta ocorrências; relativa divide pelo total",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Tabelas e Gráficos de Frequência</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Frequência absoluta conta ocorrências; relativa divide pelo total. Classes precisam cobrir os dados sem sobreposição e identificar limites incluídos. Construa tabela e gráfico conforme o tipo de variável, explicando o que o agrupamento esconde.</p><h3>Exemplo resolvido</h3><p>Dados 1,2,2,3,5 dão frequências 1,2,1,1 e relativas 20%,40%,20%,20%. O total das frequências relativas é 100%.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Colete uma pequena amostra real, crie tabela absoluta e relativa, gráfico e um agrupamento por classes. Compare com dados brutos e identifique perdas de detalhe.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "frequencia",
+      "tabelas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "tabelas_e_graficos_de_frequencia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Duas ocorrências em cinco equivalem a:",
+      "alternativas": [
+        "40%",
+        "20%",
+        "2%"
+      ],
+      "correta": 0,
+      "explicacao": "2/5=0,4."
+    },
+    {
+      "id": "tabelas_e_graficos_de_frequencia.producao",
+      "tipo": "discursiva",
+      "enunciado": "Colete uma pequena amostra real, crie tabela absoluta e relativa, gráfico e um agrupamento por classes. Compare com dados brutos e identifique perdas de detalhe.",
+      "gabarito": "Conferir total, classes sem dupla contagem, origem real e gráfico adequado; não usar média de códigos nominais.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir total, classes sem dupla contagem, origem real e gráfico adequado; não usar média de códigos nominais.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "frequencia",
+    "tabelas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos"
+  ],
+  "proximosPassos": [
+    "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

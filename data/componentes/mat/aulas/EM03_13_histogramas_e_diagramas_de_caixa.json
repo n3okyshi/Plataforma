@@ -1,0 +1,108 @@
+{
+  "id": "mat.em03.estatistica.histogramas_e_diagramas_de_caixa",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 13,
+  "unidade": "Estatística",
+  "titulo": "Histogramas e Diagramas de Caixa",
+  "bncc": [
+    "EM13MAT407"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Represente duas séries por três tipos de gráfico e escolha o mais adequado para comparar concentração, centro e extremos",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Compare representações pelo que mostram e ocultam",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Histogramas e Diagramas de Caixa</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Compare representações pelo que mostram e ocultam. Histogramas dependem dos intervalos; boxplots resumem posições; ramos e folhas preservam observações. Declarações sobre assimetria e extremos precisam ser sustentadas por dados e pela convenção gráfica.</p><h3>Exemplo resolvido</h3><p>Dados 1,1,2,2,2,3,8 concentram-se em valores baixos e têm um extremo alto. A média 19/7 supera a mediana dois; o boxplot não mostra todas as repetições.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Represente duas séries por três tipos de gráfico e escolha o mais adequado para comparar concentração, centro e extremos. Justifique classes e quartis e discuta perdas.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "histograma",
+      "box_plot"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "histogramas_e_diagramas_de_caixa.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um ponto marcado como outlier deve ser:",
+      "alternativas": [
+        "Apagado automaticamente",
+        "Tratado sempre como fraude",
+        "Investigado no contexto"
+      ],
+      "correta": 2,
+      "explicacao": "Pode ser valor legítimo ou erro; a marca não decide."
+    },
+    {
+      "id": "histogramas_e_diagramas_de_caixa.producao",
+      "tipo": "discursiva",
+      "enunciado": "Represente duas séries por três tipos de gráfico e escolha o mais adequado para comparar concentração, centro e extremos. Justifique classes e quartis e discuta perdas.",
+      "gabarito": "Conferir dados completos, soma das frequências, unidades e regras de outliers quando usadas; não tratar marca de outlier como prova de erro de registro.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir dados completos, soma das frequências, unidades e regras de outliers quando usadas; não tratar marca de outlier como prova de erro de registro.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "histograma",
+    "box_plot"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados"
+  ],
+  "proximosPassos": [
+    "mat.em03.estatistica.correlacao_e_reta_de_ajuste"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

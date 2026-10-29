@@ -1,0 +1,114 @@
+{
+  "id": "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area",
+  "componente": "mat",
+  "nivel": "EF05",
+  "ordem": 13,
+  "unidade": "Grandezas e Medidas",
+  "titulo": "Relações entre Perímetro e Área",
+  "bncc": [
+    "EF05MA20"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Construa dois pares: mesmo perímetro e áreas diferentes; mesma área e perímetros diferentes",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Perímetro e área variam de modos diferentes",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Relações entre Perímetro e Área</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Perímetro e área variam de modos diferentes. Investigue exemplos em malha em vez de concluir que maior contorno sempre significa maior superfície. Um contraexemplo basta para refutar uma afirmação universal, mas não substitui explicar as contagens.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.\"><title>Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.</title><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 35V215\"/><path d=\"M105 35V215\"/><path d=\"M150 35V215\"/><path d=\"M195 35V215\"/><path d=\"M240 35V215\"/><path d=\"M285 35V215\"/><path d=\"M330 35V215\"/><path d=\"M60 35H330\"/><path d=\"M60 80H330\"/><path d=\"M60 125H330\"/><path d=\"M60 170H330\"/><path d=\"M60 215H330\"/></g></svg><h3>Exemplo resolvido</h3><p>Retângulos 1×5 e 2×4 têm perímetro doze e áreas cinco e oito. Já 2×6 e 3×4 têm área doze e perímetros dezesseis e quatorze.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa dois pares: mesmo perímetro e áreas diferentes; mesma área e perímetros diferentes. Registre contagens, medidas e uma conclusão geral cuidadosa.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 297</li><li>MC_MATEM_EF.pdf — páginas impressas 115</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "perimetro",
+      "area"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "relacoes_entre_perimetro_e_area.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Retângulos 2×3 e 1×6 têm:",
+      "alternativas": [
+        "Sempre o mesmo perímetro",
+        "Áreas diferentes",
+        "Mesma área e perímetros diferentes"
+      ],
+      "correta": 2,
+      "explicacao": "Ambos têm área seis; perímetros dez e quatorze."
+    },
+    {
+      "id": "relacoes_entre_perimetro_e_area.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa dois pares: mesmo perímetro e áreas diferentes; mesma área e perímetros diferentes. Registre contagens, medidas e uma conclusão geral cuidadosa.",
+      "gabarito": "Exemplos do texto ou outros válidos, com unidades lineares e quadradas distintas. Não concluir proporcionalidade direta entre área e perímetro.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Exemplos do texto ou outros válidos, com unidades lineares e quadradas distintas. Não concluir proporcionalidade direta entre área e perímetro.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "perimetro",
+    "area"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        299
+      ],
+      "paginasImpressas": "297",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        112
+      ],
+      "paginasImpressas": "115",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

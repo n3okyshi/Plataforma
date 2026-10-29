@@ -1,0 +1,135 @@
+{
+  "id": "mat.em01.estatistica_e_graficos.prova",
+  "titulo": "Avaliação: Estatística e Gráficos",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM01",
+  "unidade": "Estatística e Gráficos",
+  "bncc": [
+    "EM13MAT102",
+    "EM13MAT316",
+    "EM13MAT406"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em01.estatistica_e_graficos.prova.01",
+    "mat.em01.estatistica_e_graficos.prova.02",
+    "mat.em01.estatistica_e_graficos.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT102",
+      "questoes": [
+        "mat.em01.estatistica_e_graficos.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.estatistica_e_graficos.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos#leitura_critica_de_tabelas_e_graficos.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT316",
+      "questoes": [
+        "mat.em01.estatistica_e_graficos.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.estatistica_e_graficos.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao#medidas_de_tendencia_central_e_dispersao.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT406",
+      "questoes": [
+        "mat.em01.estatistica_e_graficos.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.estatistica_e_graficos.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia#tabelas_e_graficos_de_frequencia.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em01.estatistica_e_graficos.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Estatística e Gráficos",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT102",
+      "EM13MAT316",
+      "EM13MAT406"
+    ],
+    "atividadesOrigem": [
+      "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos#leitura_critica_de_tabelas_e_graficos.producao",
+      "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia#tabelas_e_graficos_de_frequencia.producao",
+      "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao#medidas_de_tendencia_central_e_dispersao.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Leitura Crítica de Tabelas e Gráficos",
+        "enunciado": "Selecione relatório divulgado com tabela, gráfico e amostra. Registre fonte e período, critique escala e seleção, refaça uma representação e redija conclusão proporcional à evidência.",
+        "gabarito": "Verificar dados efetivos e distinguir valor original, altura cortada, população-alvo e respondentes; não inventar relatório.",
+        "bncc": [
+          "EM13MAT102"
+        ],
+        "atividadeOrigem": "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos#leitura_critica_de_tabelas_e_graficos.producao"
+      },
+      {
+        "titulo": "Tabelas e Gráficos de Frequência",
+        "enunciado": "Colete uma pequena amostra real, crie tabela absoluta e relativa, gráfico e um agrupamento por classes. Compare com dados brutos e identifique perdas de detalhe.",
+        "gabarito": "Conferir total, classes sem dupla contagem, origem real e gráfico adequado; não usar média de códigos nominais.",
+        "bncc": [
+          "EM13MAT406"
+        ],
+        "atividadeOrigem": "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia#tabelas_e_graficos_de_frequencia.producao"
+      },
+      {
+        "titulo": "Medidas de Tendência Central e Dispersão",
+        "enunciado": "Compare duas séries de mesma média e dispersões diferentes. Calcule medidas à mão e por planilha, declarando a convenção e interpretando extremos.",
+        "gabarito": "Avaliar ordenação, desvios quadráticos, unidades e comparação substantiva; não confundir amplitude com desvio padrão.",
+        "bncc": [
+          "EM13MAT316"
+        ],
+        "atividadeOrigem": "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao#medidas_de_tendencia_central_e_dispersao.producao"
+      }
+    ],
+    "duracaoMinSugerida": 90,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        277,
+        279
+      ],
+      "paginasImpressas": "280, 282",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

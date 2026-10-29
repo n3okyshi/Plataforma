@@ -1,0 +1,106 @@
+{
+  "id": "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 19,
+  "unidade": "Tecnologia e Algoritmos",
+  "titulo": "Primeiros Programas e Variáveis",
+  "bncc": [
+    "EM13MAT405"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Implemente o algoritmo da soma em Python ou linguagem disponível",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Implementar um algoritmo exige distinguir atribuição, comparação, tipos e entrada",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Primeiros Programas e Variáveis</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Implementar um algoritmo exige distinguir atribuição, comparação, tipos e entrada. Em Python, range(1,n+1) inclui um e exclui n+1, produzindo os inteiros desejados. Código deve ser executado e comparado com o procedimento manual.</p><h3>Exemplo resolvido</h3><p>n=4; soma=0; para k em range(1,n+1), atualizar soma+=k; imprimir soma resulta dez. Não usar n como se fosse a quantidade de repetições sem verificar limites.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Código de apoio — Python</h3><pre><code>def soma_ate(n):\n    if not isinstance(n, int) or isinstance(n, bool) or n &lt; 0:\n        raise ValueError(&quot;Informe um inteiro não negativo&quot;)\n    soma = 0\n    for k in range(1, n + 1):\n        soma += k\n    return soma\n\nprint([soma_ate(n) for n in (0, 1, 5)])</code></pre><h3>Investigue, construa ou produza</h3><p>Implemente o algoritmo da soma em Python ou linguagem disponível. Execute os testes 0,1,5 e uma entrada inválida, registrando código, saídas e tratamento do domínio.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "programacao",
+      "variaveis"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "primeiros_programas_e_variaveis.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em Python, range(1,4) produz:",
+      "alternativas": [
+        "1,2,3,4",
+        "0,1,2,3",
+        "1,2,3"
+      ],
+      "correta": 2,
+      "explicacao": "O limite superior é excluído."
+    },
+    {
+      "id": "primeiros_programas_e_variaveis.producao",
+      "tipo": "discursiva",
+      "enunciado": "Implemente o algoritmo da soma em Python ou linguagem disponível. Execute os testes 0,1,5 e uma entrada inválida, registrando código, saídas e tratamento do domínio.",
+      "gabarito": "Avaliar programa realmente executado, saídas 0,1,15 e rejeição ou tratamento explícito de entrada não natural; aceitar outra linguagem equivalente.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar programa realmente executado, saídas 0,1,15 e rejeição ou tratamento explícito de entrada não natural; aceitar outra linguagem equivalente.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "programacao",
+    "variaveis"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

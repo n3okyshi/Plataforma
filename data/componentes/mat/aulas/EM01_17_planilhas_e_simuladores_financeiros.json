@@ -1,0 +1,117 @@
+{
+  "id": "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 17,
+  "unidade": "Matemática Financeira",
+  "titulo": "Planilhas e Simuladores Financeiros",
+  "bncc": [
+    "EM13MAT203"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Crie planilha de orçamento e simulador de juros",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Planilhas tornam explícitas entradas, fórmulas e cenários",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Planilhas e Simuladores Financeiros</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Planilhas tornam explícitas entradas, fórmulas e cenários. Separe valores, taxas e períodos; referências absolutas ajudam a manter parâmetros. Valide fórmulas com casos conhecidos e registre hipóteses antes de interpretar uma simulação como apoio à decisão.</p><h3>Exemplo resolvido</h3><p>Com capital em B1, taxa decimal em B2 e período em A5, a fórmula =$B$1*(1+$B$2)^A5 projeta montante composto. Para período zero, deve retornar o capital.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Crie planilha de orçamento e simulador de juros. Teste taxa zero, período zero e um caso calculado manualmente; compare cenários e explique uma decisão fictícia sem recomendar produto real.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543</li><li>MC_MATEM_EM.pdf — páginas impressas 299, 303</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "planilhas",
+      "simulacao",
+      "orcamento"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "planilhas_e_simuladores_financeiros.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual taxa decimal representa 3%?",
+      "alternativas": [
+        "0,3",
+        "0,03",
+        "3"
+      ],
+      "correta": 1,
+      "explicacao": "Três por cento são três centésimos."
+    },
+    {
+      "id": "planilhas_e_simuladores_financeiros.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie planilha de orçamento e simulador de juros. Teste taxa zero, período zero e um caso calculado manualmente; compare cenários e explique uma decisão fictícia sem recomendar produto real.",
+      "gabarito": "Avaliar execução, fórmulas corretas, saldo, referências, testes e limites; não basta desenhar uma tabela sem calcular.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar execução, fórmulas corretas, saldo, referências, testes e limites; não basta desenhar uma tabela sem calcular.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "planilhas",
+    "simulacao",
+    "orcamento"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        296,
+        300
+      ],
+      "paginasImpressas": "299, 303",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

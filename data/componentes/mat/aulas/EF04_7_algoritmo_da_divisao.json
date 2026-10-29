@@ -2,36 +2,112 @@
   "id": "mat.ef04.divisao_com_numeros_naturais.algoritmo_da_divisao",
   "componente": "mat",
   "nivel": "EF04",
-  "ordem": 7,
+  "ordem": 4,
   "unidade": "Divisão com Números Naturais",
   "titulo": "Algoritmo da Divisão",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF04MA07"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolva 756÷18 por estimativa, retiradas de múltiplos e conta escrita",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Na divisão, o divisor pode ter até dois algarismos",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Conta de Dividir</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Usando a chave para divisões maiores. Entendendo o papel do <strong>Resto</strong>.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛑 Regra do Resto:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O resto nunca pode ser maior ou igual ao número que está na chave (divisor). Se for, dá para dividir mais!</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Algoritmo da Divisão</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Na divisão, o divisor pode ter até dois algarismos. Estime quantos grupos cabem e retire múltiplos do divisor, registrando quociente e resto. A igualdade dividendo=divisor×quociente+resto confere o cálculo, com resto não negativo e menor que o divisor.</p><h3>Exemplo resolvido</h3><p>527÷24: vinte grupos usam 480, restam 47; mais um grupo usa 24 e restam 23. Quociente 21, resto 23.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Resolva 756÷18 por estimativa, retiradas de múltiplos e conta escrita. Crie histórias nos significados de repartir e formar grupos, interpretando o resultado.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 291</li><li>MC_MATEM_EF.pdf — páginas impressas 39, 40</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "divisao",
+      "algoritmo"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
+  "atividades": [
+    {
+      "id": "algoritmo_da_divisao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual divisão está conferida corretamente?",
+      "alternativas": [
+        "367=15×23+22 com resto válido",
+        "367=15×24+15",
+        "367=15×24+7"
+      ],
+      "correta": 2,
+      "explicacao": "Só a primeira tem igualdade verdadeira e resto menor que quinze."
+    },
+    {
+      "id": "algoritmo_da_divisao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva 756÷18 por estimativa, retiradas de múltiplos e conta escrita. Crie histórias nos significados de repartir e formar grupos, interpretando o resultado.",
+      "gabarito": "Quarenta e dois, resto zero: 18×42=756. Distinguir quantidade por destinatário e número de grupos.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Quarenta e dois, resto zero: 18×42=756. Distinguir quantidade por destinatário e número de grupos.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "divisao",
+    "algoritmo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        293
+      ],
+      "paginasImpressas": "291",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        36,
+        37
+      ],
+      "paginasImpressas": "39, 40",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
   "preRequisitos": [],
   "proximosPassos": [],
-  "fontes": [],
-  "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

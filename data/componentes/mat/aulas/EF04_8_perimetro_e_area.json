@@ -2,36 +2,113 @@
   "id": "mat.ef04.comprimento_e_area.perimetro_e_area",
   "componente": "mat",
   "nivel": "EF04",
-  "ordem": 8,
+  "ordem": 10,
   "unidade": "Comprimento e Área",
   "titulo": "Perímetro e Área",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF04MA20",
+    "EF04MA21"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Desenhe duas figuras de área doze e contornos diferentes",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Perímetro mede o contorno; área mede a superfície",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Contorno e Superfície</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Não confunda! <strong>Perímetro</strong> é a volta (cerca). <strong>Área</strong> é o preenchimento (piso).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧱 Contando Quadradinhos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Para medir a área no papel quadriculado, contamos quantos quadradinhos cabem dentro da figura.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Perímetro e Área</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Perímetro mede o contorno; área mede a superfície. Estime e meça comprimentos com unidade adequada. Numa malha, conte quadradinhos inteiros e metades sem sobreposição: duas metades recompõem um quadrado. Formatos diferentes podem ter área igual.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.\"><title>Malha de seis por quatro quadradinhos; cada quadradinho tem lado uma unidade.</title><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 35V215\"/><path d=\"M105 35V215\"/><path d=\"M150 35V215\"/><path d=\"M195 35V215\"/><path d=\"M240 35V215\"/><path d=\"M285 35V215\"/><path d=\"M330 35V215\"/><path d=\"M60 35H330\"/><path d=\"M60 80H330\"/><path d=\"M60 125H330\"/><path d=\"M60 170H330\"/><path d=\"M60 215H330\"/></g></svg><h3>Exemplo resolvido</h3><p>Um retângulo 3×4 tem área de doze quadradinhos e contorno de quatorze lados unitários. Um retângulo 2×6 conserva a área, mas tem contorno dezesseis.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Desenhe duas figuras de área doze e contornos diferentes. Acrescente figura com metades de quadradinhos e conte sua área. Estime e meça ainda um contorno real com instrumento adequado.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 293</li><li>MC_MATEM_EF.pdf — páginas impressas 112, 115</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "perimetro",
+      "area"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
+  "atividades": [
+    {
+      "id": "perimetro_e_area.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Dez quadradinhos e quatro metades ocupam área de:",
+      "alternativas": [
+        "14 quadradinhos",
+        "10 quadradinhos",
+        "12 quadradinhos"
+      ],
+      "correta": 2,
+      "explicacao": "Quatro metades equivalem a dois inteiros."
+    },
+    {
+      "id": "perimetro_e_area.producao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe duas figuras de área doze e contornos diferentes. Acrescente figura com metades de quadradinhos e conte sua área. Estime e meça ainda um contorno real com instrumento adequado.",
+      "gabarito": "Exemplos 3×4 e 2×6; justificar contagens e reunião de metades. Medição real deve registrar instrumento, unidade e valor observado.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Exemplos 3×4 e 2×6; justificar contagens e reunião de metades. Medição real deve registrar instrumento, unidade e valor observado.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "perimetro",
+    "area"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        295
+      ],
+      "paginasImpressas": "293",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        112
+      ],
+      "paginasImpressas": "112, 115",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
   "preRequisitos": [],
   "proximosPassos": [],
-  "fontes": [],
-  "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

@@ -1,0 +1,107 @@
+{
+  "id": "mat.ef04.padroes_e_igualdade.propriedades_da_igualdade",
+  "componente": "mat",
+  "nivel": "EF04",
+  "ordem": 20,
+  "unidade": "Padrões e Igualdade",
+  "titulo": "Propriedades da Igualdade",
+  "bncc": [
+    "EF04MA14",
+    "EF04MA15"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Use uma balança desenhada para mostrar 18+12=20+10 e a adição de sete a ambos os lados",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Uma igualdade permanece verdadeira ao adicionar ou subtrair o mesmo número nos dois lados",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Propriedades da Igualdade</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Uma igualdade permanece verdadeira ao adicionar ou subtrair o mesmo número nos dois lados. Isso ajuda a encontrar termos desconhecidos. Pense nos lados como valores equivalentes e explique cada transformação, em vez de usar apenas uma regra de mudança de sinal.</p><h3>Exemplo resolvido</h3><p>Em x+37=90, subtrair 37 dos dois lados produz x=53. A substituição 53+37=90 confere a igualdade original.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Use uma balança desenhada para mostrar 18+12=20+10 e a adição de sete a ambos os lados. Resolva □+48=125 e 6×□=54, conferindo as sentenças originais.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 291</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "igualdade",
+      "propriedades"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "propriedades_da_igualdade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual número completa 76−□=29?",
+      "alternativas": [
+        "57",
+        "47",
+        "105"
+      ],
+      "correta": 1,
+      "explicacao": "76−47=29."
+    },
+    {
+      "id": "propriedades_da_igualdade.producao",
+      "tipo": "discursiva",
+      "enunciado": "Use uma balança desenhada para mostrar 18+12=20+10 e a adição de sete a ambos os lados. Resolva □+48=125 e 6×□=54, conferindo as sentenças originais.",
+      "gabarito": "Ambos os lados passam de trinta para trinta e sete; incógnitas 77 e 9. Justificar conservação da igualdade e conferir.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Ambos os lados passam de trinta para trinta e sete; incógnitas 77 e 9. Justificar conservação da igualdade e conferir.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "igualdade",
+    "propriedades"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        293
+      ],
+      "paginasImpressas": "291",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef04.padroes_e_igualdade.relacoes_inversas_entre_operacoes"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

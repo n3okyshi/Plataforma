@@ -2,36 +2,116 @@
   "id": "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.grandezas_e_unidades_de_medida",
   "componente": "mat",
   "nivel": "EF04",
-  "ordem": 4,
+  "ordem": 11,
   "unidade": "Massa, capacidade, intervalo de tempo e temperatura",
   "titulo": "Grandezas e Unidades de Medida",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF04MA20",
+    "EF04MA22"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Estime e meça um comprimento, uma massa e uma capacidade com instrumentos disponíveis",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Escolha instrumentos e unidades segundo a grandeza: comprimento, massa, capacidade e tempo",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Medidas e Temperatura</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolver problemas transformando metros em centímetros e lendo termômetros em <strong>graus Celsius (°C)</strong>.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🌡️ Quente ou Frio?</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">0°C é quando a água vira gelo. 100°C é quando a água ferve. Nosso corpo fica em torno de 36°C.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Grandezas e Unidades de Medida</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Escolha instrumentos e unidades segundo a grandeza: comprimento, massa, capacidade e tempo. Estimar antes de medir ajuda a conferir. Horas, minutos e segundos não seguem mudanças decimais: cada hora tem sessenta minutos e cada minuto sessenta segundos.</p><h3>Exemplo resolvido</h3><p>De 09:48:20 a 09:50:05 decorrem 1 minuto e 45 segundos: quarenta até 09:49, sessenta até 09:50 e mais cinco.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Estime e meça um comprimento, uma massa e uma capacidade com instrumentos disponíveis. Observe início e fim de uma tarefa em horas, minutos e segundos e calcule sua duração.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 293</li><li>MC_MATEM_EF.pdf — páginas impressas 112, 124, 126</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "grandezas",
+      "unidades_de_medida"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "grandezas_e_unidades_de_medida.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "2 minutos e 15 segundos correspondem a:",
+      "alternativas": [
+        "120 s",
+        "135 s",
+        "215 s"
+      ],
+      "correta": 1,
+      "explicacao": "2×60+15=135."
+    },
+    {
+      "id": "grandezas_e_unidades_de_medida.producao",
+      "tipo": "discursiva",
+      "enunciado": "Estime e meça um comprimento, uma massa e uma capacidade com instrumentos disponíveis. Observe início e fim de uma tarefa em horas, minutos e segundos e calcule sua duração.",
+      "gabarito": "Valores dependem das observações. Conferir unidade, resolução do instrumento e conversões, sem inventar medições ausentes.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Valores dependem das observações. Conferir unidade, resolução do instrumento e conversões, sem inventar medições ausentes.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "grandezas",
+    "unidades_de_medida"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        295
+      ],
+      "paginasImpressas": "293",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        121,
+        123
+      ],
+      "paginasImpressas": "112, 124, 126",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef04.massa_capacidade_intervalo_de_tempo_e_temperatura.temperatura_e_graficos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

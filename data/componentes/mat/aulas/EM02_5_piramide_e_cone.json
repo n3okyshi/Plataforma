@@ -2,36 +2,109 @@
   "id": "mat.em02.geometria_espacial.piramide_e_cone",
   "componente": "mat",
   "nivel": "EM02",
-  "ordem": 5,
+  "ordem": 3,
   "unidade": "Geometria Espacial",
   "titulo": "Pirâmide e Cone",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT309"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Elabore problemas de volume e revestimento de pirâmide e cone, inclua sólido composto e identifique regiões de contato",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Pirâmides e cones têm volume um terço da área da base vezes altura",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sólidos de Ponta</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Sólidos que convergem para um único vértice (Pirâmides e Cones).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⅓ A Regra do 1/3:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O volume de uma pirâmide (ou cone) é exatamente <strong>um terço</strong> do volume de um prisma (ou cilindro) com mesma base e altura.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Pirâmide e Cone</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Pirâmides e cones têm volume um terço da área da base vezes altura. A geratriz de um cone reto não é sua altura: g²=h²+r². A lateral do cone circular reto mede πrg; área total inclui πr² se a base for considerada.</p><h3>Exemplo resolvido</h3><p>Cone r=3,h=4 tem g=5,V=12π e área lateral 15π. Com base, área total 24π.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Elabore problemas de volume e revestimento de pirâmide e cone, inclua sólido composto e identifique regiões de contato. Compare altura e geratriz num desenho.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "piramides",
+      "cones",
+      "volume"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "piramide_e_cone.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Cone r=2,h=9 tem volume:",
+      "alternativas": [
+        "12π",
+        "36π",
+        "18π"
+      ],
+      "correta": 0,
+      "explicacao": "π×4×9/3=12π."
+    },
+    {
+      "id": "piramide_e_cone.producao",
+      "tipo": "discursiva",
+      "enunciado": "Elabore problemas de volume e revestimento de pirâmide e cone, inclua sólido composto e identifique regiões de contato. Compare altura e geratriz num desenho.",
+      "gabarito": "Conferir fator um terço, altura perpendicular, área das faces triangulares e superfícies expostas; pirâmide exige dados de apótema lateral quando necessários.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir fator um terço, altura perpendicular, área das faces triangulares e superfícies expostas; pirâmide exige dados de apótema lateral quando necessários.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "piramides",
+    "cones",
+    "volume"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.geometria_espacial.prismas_e_cilindros"
+  ],
+  "proximosPassos": [
+    "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

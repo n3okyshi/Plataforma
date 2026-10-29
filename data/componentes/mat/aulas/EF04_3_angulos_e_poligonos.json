@@ -2,36 +2,114 @@
   "id": "mat.ef04.geometria.angulos_e_poligonos",
   "componente": "mat",
   "nivel": "EF04",
-  "ordem": 3,
+  "ordem": 7,
   "unidade": "Geometria",
   "titulo": "Ângulos e Polígonos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF04MA18"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Produza um canto reto por dobradura e use-o para investigar quadriláteros e triângulos em posições variadas",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "O ângulo compara aberturas entre direções",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Giros e Cantos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            O ângulo é uma abertura ou um giro. Aprendemos a identificar o famoso <strong>Ângulo Reto</strong> (o canto quadrado).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 O Canto da Lousa:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O ângulo reto (90º) está em todo lugar: no canto do caderno, na quina da mesa e nas paredes.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Ângulos e Polígonos</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>O ângulo compara aberturas entre direções. Um canto reto pode ser obtido por dobradura ou conferido com esquadro. Reconheça ângulos retos e não retos em polígonos, independentemente da posição do desenho; lados mais longos não tornam a abertura maior.</p><h3>Exemplo resolvido</h3><p>Todos os ângulos de um retângulo são retos. Num triângulo retângulo, apenas um é reto; os outros são menores que um reto.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Produza um canto reto por dobradura e use-o para investigar quadriláteros e triângulos em posições variadas. Marque os ângulos retos e compare os demais sem depender só da aparência.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 293</li><li>MC_MATEM_EF.pdf — páginas impressas 332, 333</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "angulos",
+      "poligonos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "angulos_e_poligonos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual instrumento ajuda a conferir ângulo reto?",
+      "alternativas": [
+        "Balança",
+        "Recipiente graduado",
+        "Esquadro"
+      ],
+      "correta": 2,
+      "explicacao": "O esquadro tem uma referência de perpendicularidade."
+    },
+    {
+      "id": "angulos_e_poligonos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Produza um canto reto por dobradura e use-o para investigar quadriláteros e triângulos em posições variadas. Marque os ângulos retos e compare os demais sem depender só da aparência.",
+      "gabarito": "Conferir superposição de vértice e direções; aceitar esquadro ou software. O tamanho dos segmentos não muda o ângulo.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir superposição de vértice e direções; aceitar esquadro ou software. O tamanho dos segmentos não muda o ângulo.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "angulos",
+    "poligonos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        295
+      ],
+      "paginasImpressas": "293",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        329,
+        330
+      ],
+      "paginasImpressas": "332, 333",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef04.geometria.localizacao_deslocamento_e_simetria"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

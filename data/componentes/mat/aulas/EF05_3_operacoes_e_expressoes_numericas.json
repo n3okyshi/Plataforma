@@ -2,36 +2,116 @@
   "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas",
   "componente": "mat",
   "nivel": "EF05",
-  "ordem": 3,
+  "ordem": 6,
   "unidade": "Adição e Subtração com Números Naturais",
   "titulo": "Operações e Expressões Numéricas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF05MA07"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Crie um problema para (25,40+8,75)−12,60 e outro com naturais",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Adição e subtração de naturais e decimais finitos podem ser resolvidas por estimativa, decomposição e algoritmo",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Expressões Numéricas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Organizando as contas. Introdução aos parênteses e a ordem de resolução.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚠️ Ordem:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Primeiro resolvemos o que está dentro dos <strong>(parênteses)</strong>, depois o que está fora.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Operações e Expressões Numéricas</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Adição e subtração de naturais e decimais finitos podem ser resolvidas por estimativa, decomposição e algoritmo. Alinhar ordens significa somar unidades do mesmo valor; a vírgula marca a parte inteira. Agrupamentos em expressões registram a ordem de ações de uma história.</p><h3>Exemplo resolvido</h3><p>12,75+3,8=12,75+3,80=16,55. Retirar 4,25 deixa 12,30. A estimativa perto de doze é coerente.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Crie um problema para (25,40+8,75)−12,60 e outro com naturais. Resolva por duas estratégias, estime e explique as ordens e agrupamentos.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 295</li><li>MC_MATEM_EF.pdf — páginas impressas 98, 100</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "adicao",
+      "subtracao",
+      "expressoes_numericas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "operacoes_e_expressoes_numericas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto é 8,6+2,75?",
+      "alternativas": [
+        "11,35",
+        "10,81",
+        "11,25"
+      ],
+      "correta": 0,
+      "explicacao": "8,60+2,75=11,35."
+    },
+    {
+      "id": "operacoes_e_expressoes_numericas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie um problema para (25,40+8,75)−12,60 e outro com naturais. Resolva por duas estratégias, estime e explique as ordens e agrupamentos.",
+      "gabarito": "Primeiro resultado 21,55. O problema criado precisa corresponder às ações e fornecer unidades; conferir por inversas.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Primeiro resultado 21,55. O problema criado precisa corresponder às ações e fornecer unidades; conferir por inversas.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "adicao",
+    "subtracao",
+    "expressoes_numericas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        97
+      ],
+      "paginasImpressas": "98, 100",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

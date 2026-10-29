@@ -5,33 +5,111 @@
   "ordem": 13,
   "unidade": "Sequências e Progressões",
   "titulo": "Progressão Geométrica",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT508"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Deduza a soma finita subtraindo qS−S; modele um processo de redução pela metade e compare termos e totais, discutindo o significado de infinitas etapas no contexto.",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Uma PG tem razão multiplicativa q; a_n=a_1q^(n−1)",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Progressão Geométrica (P.G.)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Sequência onde cada termo é o anterior <strong>multiplicado</strong> por uma constante (razão $q$).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">♾️ Soma Infinita:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Se $-1 < q < 1$, a soma infinita converge para um valor fixo. Essencial para entender fractais.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Progressão Geométrica</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Uma PG tem razão multiplicativa q; a_n=a_1q^(n−1). Para q≠1, a soma finita é a_1(q^n−1)/(q−1); para q=1, é na_1. Se |q|&lt;1, a soma infinita converge a a_1/(1−q). A extensão exponencial contínua requer condições de base positiva.</p><h3>Exemplo resolvido</h3><p>PG 3,6,12 tem q=2; a_6=96 e S_6=3(64−1)=189. A sequência 1,1/2,1/4 tem soma infinita dois.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Deduza a soma finita subtraindo qS−S; modele um processo de redução pela metade e compare termos e totais, discutindo o significado de infinitas etapas no contexto.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li><li>MC_MATEM_EM.pdf — páginas impressas 176, 179, 181, 182</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "progressao_geometrica"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "progressao_geometrica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na PG 2,6,18, o quarto termo é:",
+      "alternativas": [
+        "36",
+        "24",
+        "54"
+      ],
+      "correta": 2,
+      "explicacao": "A razão é três."
+    },
+    {
+      "id": "progressao_geometrica.producao",
+      "tipo": "discursiva",
+      "enunciado": "Deduza a soma finita subtraindo qS−S; modele um processo de redução pela metade e compare termos e totais, discutindo o significado de infinitas etapas no contexto.",
+      "gabarito": "Verificar q≠1 na fórmula e |q|<1 na convergência. Não aplicar soma infinita a crescimento com q>1.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Verificar q≠1 na fórmula e |q|<1 na convergência. Não aplicar soma infinita a crescimento com q>1.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "progressao_geometrica"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        173,
+        176,
+        178,
+        179
+      ],
+      "paginasImpressas": "176, 179, 181, 182",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.sequencias_e_progressoes.progressao_aritmetica"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

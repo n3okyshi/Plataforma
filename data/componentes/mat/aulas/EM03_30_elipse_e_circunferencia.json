@@ -1,0 +1,100 @@
+{
+  "id": "mat.em03.geometria_analitica_complementar.elipse_e_circunferencia",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 30,
+  "unidade": "Geometria Analítica — Complementar",
+  "titulo": "Elipse e circunferencia",
+  "bncc": [],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Construa uma elipse por fio ou software e relacione centro, eixos e focos com a equação",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Elipse é o conjunto de pontos cuja soma das distâncias a dois focos é constante",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Elipse e circunferencia</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Elipse é o conjunto de pontos cuja soma das distâncias a dois focos é constante. No modelo alinhado aos eixos, (x−h)²/a²+(y−k)²/b²=1, com a≥b&gt;0, e c²=a²−b². A circunferência é o caso a=b, com focos coincidentes.</p><h3>Exemplo resolvido</h3><p>x²/25+y²/9=1 tem centro origem, semieixos cinco e três e focos (±4,0). A soma das distâncias aos focos é dez.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa uma elipse por fio ou software e relacione centro, eixos e focos com a equação. Compare com circunferência e teste três pontos nas expressões.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 394, 398</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "elipse_e_circunferencia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para x²/16+y²/9=1, o semieixo maior é:",
+      "alternativas": [
+        "4",
+        "16",
+        "8"
+      ],
+      "correta": 0,
+      "explicacao": "A²=16, portanto a=4."
+    },
+    {
+      "id": "elipse_e_circunferencia.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa uma elipse por fio ou software e relacione centro, eixos e focos com a equação. Compare com circunferência e teste três pontos nas expressões.",
+      "gabarito": "Conferir orientação do eixo maior, c²=16 e constante 2a, sem usar a como comprimento do eixo inteiro.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir orientação do eixo maior, c²=16 e constante 2a, sem usar a como comprimento do eixo inteiro.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        391,
+        395
+      ],
+      "paginasImpressas": "394, 398",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [
+    "mat.em03.geometria_analitica_complementar.reta_distancias_e_posicoes_relativas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
+}

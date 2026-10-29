@@ -1,0 +1,588 @@
+{
+  "nivel": "EM01",
+  "estado": "piloto_integral",
+  "aulas": 27,
+  "unidades": 11,
+  "habilidades": [
+    {
+      "codigo": "EM13MAT101",
+      "aulas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim"
+      ],
+      "atividades": [
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.conjuntos_e_funcao_afim.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT102",
+      "aulas": [
+        "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos"
+      ],
+      "atividades": [
+        "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos#leitura_critica_de_tabelas_e_graficos.aplicacao",
+        "mat.em01.estatistica_e_graficos.leitura_critica_de_tabelas_e_graficos#leitura_critica_de_tabelas_e_graficos.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.estatistica_e_graficos.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.estatistica_e_graficos.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.estatistica_e_graficos.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT103",
+      "aulas": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes"
+      ],
+      "atividades": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.aplicacao",
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.grandezas_e_medidas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT104",
+      "aulas": [
+        "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra"
+      ],
+      "atividades": [
+        "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra#inflacao_indices_e_poder_de_compra.aplicacao",
+        "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra#inflacao_indices_e_poder_de_compra.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.matematica_financeira.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em01.matematica_financeira.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.matematica_financeira.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT105",
+      "aulas": [
+        "mat.em01.geometria_e_transformacoes.transformacoes_isometricas"
+      ],
+      "atividades": [
+        "mat.em01.geometria_e_transformacoes.transformacoes_isometricas#transformacoes_isometricas.aplicacao",
+        "mat.em01.geometria_e_transformacoes.transformacoes_isometricas#transformacoes_isometricas.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.geometria_e_transformacoes.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.geometria_e_transformacoes.prova.01",
+        "mat.em01.geometria_e_transformacoes.prova.02",
+        "mat.em01.geometria_e_transformacoes.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.geometria_e_transformacoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT203",
+      "aulas": [
+        "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto",
+        "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros"
+      ],
+      "atividades": [
+        "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto#porcentagem_lucro_e_desconto.aplicacao",
+        "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto#porcentagem_lucro_e_desconto.producao",
+        "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros#planilhas_e_simuladores_financeiros.aplicacao",
+        "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros#planilhas_e_simuladores_financeiros.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.matematica_financeira.treino.01",
+        "mat.em01.matematica_financeira.treino.04"
+      ],
+      "questoesProva": [
+        "mat.em01.matematica_financeira.prova.01",
+        "mat.em01.matematica_financeira.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.matematica_financeira.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT302",
+      "aulas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao",
+        "mat.em01.funcao_quadratica.a_funcao_quadratica"
+      ],
+      "atividades": [
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao",
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.aplicacao",
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.conjuntos_e_funcao_afim.treino.02",
+        "mat.em01.funcao_quadratica.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.01",
+        "mat.em01.funcao_quadratica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica",
+        "mat.em01.funcao_quadratica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT303",
+      "aulas": [
+        "mat.em01.matematica_financeira.juros_simples_e_juros_compostos"
+      ],
+      "atividades": [
+        "mat.em01.matematica_financeira.juros_simples_e_juros_compostos#juros_simples_e_juros_compostos.aplicacao",
+        "mat.em01.matematica_financeira.juros_simples_e_juros_compostos#juros_simples_e_juros_compostos.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.matematica_financeira.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.matematica_financeira.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.matematica_financeira.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT304",
+      "aulas": [
+        "mat.em01.funcao_exponencial.potenciacao_e_radiciacao",
+        "mat.em01.funcao_exponencial.a_funcao_exponencial"
+      ],
+      "atividades": [
+        "mat.em01.funcao_exponencial.potenciacao_e_radiciacao#potenciacao_e_radiciacao.aplicacao",
+        "mat.em01.funcao_exponencial.potenciacao_e_radiciacao#potenciacao_e_radiciacao.producao",
+        "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.aplicacao",
+        "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_exponencial.treino.01",
+        "mat.em01.funcao_exponencial.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_exponencial.prova.01",
+        "mat.em01.funcao_exponencial.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_exponencial.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT305",
+      "aulas": [
+        "mat.em01.funcao_logaritmica.logaritmo",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica"
+      ],
+      "atividades": [
+        "mat.em01.funcao_logaritmica.logaritmo#logaritmo.aplicacao",
+        "mat.em01.funcao_logaritmica.logaritmo#logaritmo.producao",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.aplicacao",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_logaritmica.treino.01",
+        "mat.em01.funcao_logaritmica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_logaritmica.prova.01",
+        "mat.em01.funcao_logaritmica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_logaritmica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT313",
+      "aulas": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes"
+      ],
+      "atividades": [
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.aplicacao",
+        "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes#unidades_do_si_e_conversoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.grandezas_e_medidas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT314",
+      "aulas": [
+        "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas"
+      ],
+      "atividades": [
+        "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas#razao_e_produto_de_grandezas.aplicacao",
+        "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas#razao_e_produto_de_grandezas.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.grandezas_e_medidas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.grandezas_e_medidas.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT315",
+      "aulas": [
+        "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente"
+      ],
+      "atividades": [
+        "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente#algoritmos_em_linguagem_corrente.aplicacao",
+        "mat.em01.tecnologia_e_algoritmos.algoritmos_em_linguagem_corrente#algoritmos_em_linguagem_corrente.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.tecnologia_e_algoritmos.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.tecnologia_e_algoritmos.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.tecnologia_e_algoritmos.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT316",
+      "aulas": [
+        "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao"
+      ],
+      "atividades": [
+        "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao#medidas_de_tendencia_central_e_dispersao.aplicacao",
+        "mat.em01.estatistica_e_graficos.medidas_de_tendencia_central_e_dispersao#medidas_de_tendencia_central_e_dispersao.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.estatistica_e_graficos.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em01.estatistica_e_graficos.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.estatistica_e_graficos.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT401",
+      "aulas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim"
+      ],
+      "atividades": [
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.a_ideia_de_funcao#a_ideia_de_funcao.producao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.conjuntos_e_funcao_afim.treino.02",
+        "mat.em01.conjuntos_e_funcao_afim.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.01",
+        "mat.em01.conjuntos_e_funcao_afim.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT402",
+      "aulas": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica"
+      ],
+      "atividades": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.aplicacao",
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.aplicacao",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_quadratica.treino.01",
+        "mat.em01.funcao_quadratica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_quadratica.prova.01",
+        "mat.em01.funcao_quadratica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_quadratica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT403",
+      "aulas": [
+        "mat.em01.funcao_exponencial.a_funcao_exponencial",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica"
+      ],
+      "atividades": [
+        "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.aplicacao",
+        "mat.em01.funcao_exponencial.a_funcao_exponencial#a_funcao_exponencial.producao",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.aplicacao",
+        "mat.em01.funcao_logaritmica.a_funcao_logaritmica#a_funcao_logaritmica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_exponencial.treino.02",
+        "mat.em01.funcao_logaritmica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_exponencial.prova.02",
+        "mat.em01.funcao_logaritmica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_exponencial.pratica",
+        "mat.em01.funcao_logaritmica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT404",
+      "aulas": [
+        "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca"
+      ],
+      "atividades": [
+        "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca#funcoes_definidas_por_mais_de_uma_sentenca.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca#funcoes_definidas_por_mais_de_uma_sentenca.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.conjuntos_e_funcao_afim.treino.04"
+      ],
+      "questoesProva": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT405",
+      "aulas": [
+        "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis"
+      ],
+      "atividades": [
+        "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis#primeiros_programas_e_variaveis.aplicacao",
+        "mat.em01.tecnologia_e_algoritmos.primeiros_programas_e_variaveis#primeiros_programas_e_variaveis.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.tecnologia_e_algoritmos.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.tecnologia_e_algoritmos.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.tecnologia_e_algoritmos.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT406",
+      "aulas": [
+        "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia"
+      ],
+      "atividades": [
+        "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia#tabelas_e_graficos_de_frequencia.aplicacao",
+        "mat.em01.estatistica_e_graficos.tabelas_e_graficos_de_frequencia#tabelas_e_graficos_de_frequencia.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.estatistica_e_graficos.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.estatistica_e_graficos.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.estatistica_e_graficos.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT501",
+      "aulas": [
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim"
+      ],
+      "atividades": [
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.aplicacao",
+        "mat.em01.conjuntos_e_funcao_afim.a_funcao_afim#a_funcao_afim.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.conjuntos_e_funcao_afim.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em01.conjuntos_e_funcao_afim.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.conjuntos_e_funcao_afim.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT502",
+      "aulas": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica"
+      ],
+      "atividades": [
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.aplicacao",
+        "mat.em01.funcao_quadratica.a_funcao_quadratica#a_funcao_quadratica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_quadratica.treino.01"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_quadratica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_quadratica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT503",
+      "aulas": [
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica"
+      ],
+      "atividades": [
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.aplicacao",
+        "mat.em01.funcao_quadratica.analises_algebrica_e_grafica_da_funcao_quadratica#analises_algebrica_e_grafica_da_funcao_quadratica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.funcao_quadratica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.funcao_quadratica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.funcao_quadratica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT507",
+      "aulas": [
+        "mat.em01.sequencias_e_progressoes.sequencias",
+        "mat.em01.sequencias_e_progressoes.progressao_aritmetica"
+      ],
+      "atividades": [
+        "mat.em01.sequencias_e_progressoes.sequencias#sequencias.aplicacao",
+        "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao",
+        "mat.em01.sequencias_e_progressoes.progressao_aritmetica#progressao_aritmetica.aplicacao",
+        "mat.em01.sequencias_e_progressoes.progressao_aritmetica#progressao_aritmetica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.sequencias_e_progressoes.treino.01",
+        "mat.em01.sequencias_e_progressoes.treino.02"
+      ],
+      "questoesProva": [
+        "mat.em01.sequencias_e_progressoes.prova.01",
+        "mat.em01.sequencias_e_progressoes.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.sequencias_e_progressoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EM13MAT508",
+      "aulas": [
+        "mat.em01.sequencias_e_progressoes.sequencias",
+        "mat.em01.sequencias_e_progressoes.progressao_geometrica"
+      ],
+      "atividades": [
+        "mat.em01.sequencias_e_progressoes.sequencias#sequencias.aplicacao",
+        "mat.em01.sequencias_e_progressoes.sequencias#sequencias.producao",
+        "mat.em01.sequencias_e_progressoes.progressao_geometrica#progressao_geometrica.aplicacao",
+        "mat.em01.sequencias_e_progressoes.progressao_geometrica#progressao_geometrica.producao"
+      ],
+      "questoesTreino": [
+        "mat.em01.sequencias_e_progressoes.treino.01",
+        "mat.em01.sequencias_e_progressoes.treino.03"
+      ],
+      "questoesProva": [
+        "mat.em01.sequencias_e_progressoes.prova.01",
+        "mat.em01.sequencias_e_progressoes.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.sequencias_e_progressoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    }
+  ],
+  "observacao": "No Ensino Médio, distribuição por série é proposta do projeto para habilidades da etapa EM13.",
+  "pendencias": [
+    "Aplicação real das produções e homologação docente.",
+    "Revisão visual e acessibilidade.",
+    "Firebase e cache em ambiente real."
+  ]
+}

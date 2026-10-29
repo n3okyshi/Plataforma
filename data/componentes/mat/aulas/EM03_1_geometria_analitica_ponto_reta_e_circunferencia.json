@@ -2,36 +2,121 @@
   "id": "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia",
   "componente": "mat",
   "nivel": "EM03",
-  "ordem": 1,
+  "ordem": 15,
   "unidade": "Geometria no Plano Cartesiano",
   "titulo": "Geometria Analítica: Ponto, Reta e Circunferência",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT301",
+    "EM13MAT401"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Modele duas retas por dados e encontre sua intersecção como sistema",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Coordenadas permitem relacionar álgebra e geometria",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Geometria Analítica</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A fusão da Álgebra com a Geometria. Estudamos as formas geométricas através de equações e coordenadas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 Distância:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A fórmula da distância entre dois pontos nada mais é do que o <strong>Teorema de Pitágoras</strong> aplicado no gráfico: $d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Geometria Analítica: Ponto, Reta e Circunferência</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Coordenadas permitem relacionar álgebra e geometria. Distância vem de Pitágoras; ponto médio usa metade do deslocamento. Retas podem ser escritas y=mx+b quando não verticais; reta vertical usa x=c. Como aprofundamento, circunferência de centro (a,b) e raio r satisfaz (x−a)²+(y−b)²=r².</p><h3>Exemplo resolvido</h3><p>Entre (1,2) e (4,6), distância cinco e ponto médio (2,5;4), com primeira coordenada decimal. A reta pelos dois pontos tem inclinação 4/3.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Modele duas retas por dados e encontre sua intersecção como sistema. Construa distância e ponto médio geometricamente e represente uma circunferência por centro e raio; confira pontos nas equações.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543, 544</li><li>MC_MATEM_EM.pdf — páginas impressas 362, 366, 368, 377, 394</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "geometria_analitica",
+      "reta",
+      "circunferencia"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "geometria_analitica_ponto_reta_e_circunferencia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Distância entre (0,0) e (6,8) é:",
+      "alternativas": [
+        "10",
+        "14",
+        "48"
+      ],
+      "correta": 0,
+      "explicacao": "√(36+64)=10."
+    },
+    {
+      "id": "geometria_analitica_ponto_reta_e_circunferencia.producao",
+      "tipo": "discursiva",
+      "enunciado": "Modele duas retas por dados e encontre sua intersecção como sistema. Construa distância e ponto médio geometricamente e represente uma circunferência por centro e raio; confira pontos nas equações.",
+      "gabarito": "Avaliar representações e domínio. Para pontos dados, distâncias e ponto médio devem concordar; vertical não possui inclinação finita. Equação de circunferência é ampliação complementar.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar representações e domínio. Para pontos dados, distâncias e ponto médio devem concordar; vertical não possui inclinação finita. Equação de circunferência é ampliação complementar.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "geometria_analitica",
+    "reta",
+    "circunferencia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545,
+        546
+      ],
+      "paginasImpressas": "543, 544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        359,
+        363,
+        365,
+        374,
+        391
+      ],
+      "paginasImpressas": "362, 366, 368, 377, 394",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

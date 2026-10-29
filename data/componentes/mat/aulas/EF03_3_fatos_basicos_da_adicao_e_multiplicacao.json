@@ -1,0 +1,117 @@
+{
+  "id": "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 3,
+  "unidade": "Números de 1 a 1000",
+  "titulo": "Fatos Básicos da Adição e Multiplicação",
+  "bncc": [
+    "EF03MA03"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Construa com peças 6×4 e use-o para calcular 6×5",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Fatos conhecidos ajudam a calcular outros: completar dez, dobrar e decompor preservam os valores",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Fatos Básicos da Adição e Multiplicação</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Fatos conhecidos ajudam a calcular outros: completar dez, dobrar e decompor preservam os valores. Na multiplicação, uma parcela pode ser repartida e os produtos reunidos. Explicar a construção permite conferir o resultado.</p><h3>Exemplo resolvido</h3><p>Para 7×6, use 7×5+7=35+7=42. Para 8+7, complete dez com dois dos sete e acrescente cinco.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa com peças 6×4 e use-o para calcular 6×5. Explique também 9+8 completando dez.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 287</li><li>MC_MATEM_EF.pdf — páginas impressas 32, 38</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "adicao",
+      "multiplicacao",
+      "calculo_mental"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "fatos_basicos_da_adicao_e_multiplicacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Se 7×5=35, então 7×6 é:",
+      "alternativas": [
+        "42",
+        "41",
+        "35"
+      ],
+      "correta": 0,
+      "explicacao": "Acrescenta-se uma parcela de sete."
+    },
+    {
+      "id": "fatos_basicos_da_adicao_e_multiplicacao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa com peças 6×4 e use-o para calcular 6×5. Explique também 9+8 completando dez.",
+      "gabarito": "24; depois 30 por acrescentar um grupo de seis. 9+8=17, com 9+1+7. Aceitar estratégias equivalentes justificadas.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "24; depois 30 por acrescentar um grupo de seis. 9+8=17, com 9+1+7. Aceitar estratégias equivalentes justificadas.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "adicao",
+    "multiplicacao",
+    "calculo_mental"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        35
+      ],
+      "paginasImpressas": "32, 38",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.numeros_de_1_a_1000.reta_numerica"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

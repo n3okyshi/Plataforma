@@ -2,36 +2,116 @@
   "id": "mat.ef04.adicao_e_subtracao_com_numeros_naturais.propriedades_e_problemas",
   "componente": "mat",
   "nivel": "EF04",
-  "ordem": 5,
+  "ordem": 2,
   "unidade": "Adição e Subtração com Números Naturais",
   "titulo": "Propriedades e Problemas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF04MA03",
+    "EF04MA04",
+    "EF04MA05"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Crie histórias de juntar e retirar para 2456+1789 e 5000−2768",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Problemas de adição e subtração podem ser resolvidos por decomposição, compensação e algoritmos",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Problemas Grandes</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Usando a adição e subtração para resolver desafios com números grandes, aplicando propriedades como a comutativa (trocar a ordem não altera a soma).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🕵️ Detetive:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Em problemas, circule os dados importantes e pergunte: \"Estou juntando ou estou comparando?\"</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Propriedades e Problemas</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Problemas de adição e subtração podem ser resolvidos por decomposição, compensação e algoritmos. A associativa e a comutativa auxiliam na soma; subtração não é comutativa. Estimar e usar a operação inversa permite conferir se o valor exato faz sentido.</p><h3>Exemplo resolvido</h3><p>1998+347=2000+347−2=2345. A conferência 2345−347=1998 utiliza a relação inversa.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Crie histórias de juntar e retirar para 2456+1789 e 5000−2768. Resolva por duas estratégias e faça estimativas. Explique uma propriedade usada.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 291</li><li>MC_MATEM_EF.pdf — páginas impressas 32, 35</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "adicao",
+      "subtracao",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
+  "atividades": [
+    {
+      "id": "propriedades_e_problemas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto é 2999+126?",
+      "alternativas": [
+        "3126",
+        "3125",
+        "3025"
+      ],
+      "correta": 1,
+      "explicacao": "3000+126−1=3125."
+    },
+    {
+      "id": "propriedades_e_problemas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie histórias de juntar e retirar para 2456+1789 e 5000−2768. Resolva por duas estratégias e faça estimativas. Explique uma propriedade usada.",
+      "gabarito": "4245 e 2232. Conferir dados, aproximações coerentes e recomposição pela inversa; não aplicar troca da ordem à subtração.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "4245 e 2232. Conferir dados, aproximações coerentes e recomposição pela inversa; não aplicar troca da ordem à subtração.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "adicao",
+    "subtracao",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        293
+      ],
+      "paginasImpressas": "291",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        32
+      ],
+      "paginasImpressas": "32, 35",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
   "preRequisitos": [],
   "proximosPassos": [],
-  "fontes": [],
-  "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

@@ -1,0 +1,100 @@
+{
+  "id": "mat.em01.funcao_modular_complementar.equacoes_e_inequacoes_modulares",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 27,
+  "unidade": "Função Modular — Complementar",
+  "titulo": "Equacoes e inequacoes modulares",
+  "bncc": [],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Resolva |2x−1|=5 e |x+2|>3 por casos e por reta, conferindo as soluções originais",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Equações com módulo podem ser resolvidas por distância ou por casos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Equacoes e inequacoes modulares</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Equações com módulo podem ser resolvidas por distância ou por casos. |u|=a com a≥0 equivale a u=a ou u=−a; com a&lt;0 não tem solução real. Para a&gt;0, |u|&lt;a significa −a&lt;u&lt;a; |u|&gt;a exige uma das regiões externas.</p><h3>Exemplo resolvido</h3><p>|x−3|=2 tem soluções um e cinco. |x−3|≤2 tem intervalo [1,5], incluindo os extremos.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Resolva |2x−1|=5 e |x+2|&gt;3 por casos e por reta, conferindo as soluções originais. Crie um problema de tolerância usando distância.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 59, 61</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "equacoes_e_inequacoes_modulares.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "|x−2|=4 tem soluções:",
+      "alternativas": [
+        "−2 e 6",
+        "2 e 4",
+        "−4 e 4"
+      ],
+      "correta": 0,
+      "explicacao": "x−2=±4."
+    },
+    {
+      "id": "equacoes_e_inequacoes_modulares.producao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva |2x−1|=5 e |x+2|>3 por casos e por reta, conferindo as soluções originais. Crie um problema de tolerância usando distância.",
+      "gabarito": "x=3 ou −2; desigualdade x<−5 ou x>1. Conferir extremos e domínio.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "x=3 ou −2; desigualdade x<−5 ou x>1. Conferir extremos e domínio.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        56,
+        58
+      ],
+      "paginasImpressas": "59, 61",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [
+    "mat.em01.funcao_modular_complementar.funcao_modular"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
+}

@@ -2,36 +2,116 @@
   "id": "mat.ef05.geometria.plano_cartesiano_e_solidos",
   "componente": "mat",
   "nivel": "EF05",
-  "ordem": 2,
+  "ordem": 9,
   "unidade": "Geometria",
   "titulo": "Plano Cartesiano e Sólidos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF05MA14",
+    "EF05MA15",
+    "EF05MA16"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Faça um mapa por células e represente um percurso no primeiro quadrante, com coordenadas, giro e retorno",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Coordenadas localizam objetos por referências ordenadas, como coluna e linha de uma planilha",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Coordenadas e Sólidos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Localização de pontos no mapa (Par Ordenado) e estudo profundo dos sólidos (Prismas e Pirâmides).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🗺️ Batalha Naval:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Para achar um ponto, primeiro andamos para o lado (eixo X) e depois subimos (eixo Y).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Plano Cartesiano e Sólidos</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Coordenadas localizam objetos por referências ordenadas, como coluna e linha de uma planilha. No primeiro quadrante cartesiano, o primeiro valor indica deslocamento horizontal e o segundo vertical. Figuras espaciais podem ser relacionadas a redes planas por suas bases e faces, sem confundir coordenadas de um desenho com forma espacial.</p><svg viewBox=\"0 0 440 260\" role=\"img\" aria-label=\"Rede de cubo com quatro quadrados em fila e um acima e um abaixo do segundo.\"><title>Rede de cubo com quatro quadrados em fila e um acima e um abaixo do segundo.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><rect x=\"100\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"145\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"190\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"235\" y=\"95\" width=\"45\" height=\"45\"/><rect x=\"145\" y=\"50\" width=\"45\" height=\"45\"/><rect x=\"145\" y=\"140\" width=\"45\" height=\"45\"/></g></svg><h3>Exemplo resolvido</h3><p>Partindo da origem, (4,2) indica quatro unidades à direita e duas acima. Trocar para (2,4) muda o ponto. Um cubo, por sua vez, pode ser representado pela rede de seis quadrados.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Faça um mapa por células e represente um percurso no primeiro quadrante, com coordenadas, giro e retorno. Depois relacione redes de prisma, pirâmide, cilindro e cone aos modelos, comparando partes.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 297</li><li>MC_MATEM_EF.pdf — páginas impressas 300, 328</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "plano_cartesiano",
+      "figuras_espaciais"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "plano_cartesiano_e_solidos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No ponto (3,5), a coordenada horizontal é:",
+      "alternativas": [
+        "3",
+        "5",
+        "8"
+      ],
+      "correta": 0,
+      "explicacao": "A primeira coordenada indica posição horizontal."
+    },
+    {
+      "id": "plano_cartesiano_e_solidos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Faça um mapa por células e represente um percurso no primeiro quadrante, com coordenadas, giro e retorno. Depois relacione redes de prisma, pirâmide, cilindro e cone aos modelos, comparando partes.",
+      "gabarito": "Conferir ordem dos pares, orientação e sentido. Nas redes: duas bases no prisma e cilindro; uma base e laterais triangulares na pirâmide; círculo e setor no cone. Registrar testes de fechamento.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir ordem dos pares, orientação e sentido. Nas redes: duas bases no prisma e cilindro; uma base e laterais triangulares na pirâmide; círculo e setor no cone. Registrar testes de fechamento.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "plano_cartesiano",
+    "figuras_espaciais"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        299
+      ],
+      "paginasImpressas": "297",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        325
+      ],
+      "paginasImpressas": "300, 328",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef05.geometria.poligonos_e_seus_elementos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

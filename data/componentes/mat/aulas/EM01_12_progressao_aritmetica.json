@@ -5,33 +5,112 @@
   "ordem": 12,
   "unidade": "Sequências e Progressões",
   "titulo": "Progressão Aritmética",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT507"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Deduza termo e soma por desenhos ou pares de extremos",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Uma PA tem diferença constante r",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Progressão Aritmética (P.A.)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Sequência onde cada termo é o anterior <strong>somado</strong> a uma constante (razão $r$).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">∑ Soma de Gauss:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Famosa fórmula da soma: $(a_1 + a_n) cdot n / 2$. \"O primeiro mais o último, vezes a quantidade, dividido por 2\".</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Progressão Aritmética</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Uma PA tem diferença constante r. Seu termo geral a_n=a_1+(n−1)r é uma função afim restrita às posições. Somar termos equidistantes dos extremos produz o mesmo total; daí S_n=n(a_1+a_n)/2. A razão pode ser positiva, negativa ou zero.</p><h3>Exemplo resolvido</h3><p>PA 7,12,17 tem r=5. a_10=7+9×5=52 e S_10=10×(7+52)/2=295.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Deduza termo e soma por desenhos ou pares de extremos. Modele depósitos hipotéticos que aumentam por valor fixo e compare com valor acumulado, que não é o mesmo que o depósito de um mês.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li><li>MC_MATEM_EM.pdf — páginas impressas 167, 171, 173</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "progressao_aritmetica"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "progressao_aritmetica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na PA a_1=3,r=4, a_8 é:",
+      "alternativas": [
+        "31",
+        "35",
+        "32"
+      ],
+      "correta": 0,
+      "explicacao": "3+7×4=31."
+    },
+    {
+      "id": "progressao_aritmetica.producao",
+      "tipo": "discursiva",
+      "enunciado": "Deduza termo e soma por desenhos ou pares de extremos. Modele depósitos hipotéticos que aumentam por valor fixo e compare com valor acumulado, que não é o mesmo que o depósito de um mês.",
+      "gabarito": "Distinguir termo e soma; conferir quantidade de intervalos n−1 e domínio discreto.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Distinguir termo e soma; conferir quantidade de intervalos n−1 e domínio discreto.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "progressao_aritmetica"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        164,
+        168,
+        170
+      ],
+      "paginasImpressas": "167, 171, 173",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.sequencias_e_progressoes.sequencias"
+  ],
+  "proximosPassos": [
+    "mat.em01.sequencias_e_progressoes.progressao_geometrica"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

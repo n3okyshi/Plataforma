@@ -1,0 +1,432 @@
+[
+  {
+    "id": "mat.em02.geometria_espacial.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.introducao_a_geometria_espacial",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Volume de bloco 2×3×4 é:",
+    "opcoes": [
+      "18",
+      "52",
+      "24"
+    ],
+    "correta": 2,
+    "explicacao": "Produto das três dimensões.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.prismas_e_cilindros",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Cilindro r=2,h=7 tem volume:",
+    "opcoes": [
+      "56π",
+      "28π",
+      "14π"
+    ],
+    "correta": 1,
+    "explicacao": "πr²h=π×4×7.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.piramide_e_cone",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Cone r=2,h=9 tem volume:",
+    "opcoes": [
+      "12π",
+      "36π",
+      "18π"
+    ],
+    "correta": 0,
+    "explicacao": "π×4×9/3=12π.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas",
+    "bncc": [
+      "EM13MAT509"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um mapa plano deve ser interpretado considerando:",
+    "opcoes": [
+      "Preservação universal de áreas e ângulos",
+      "Apenas a cor",
+      "A projeção e suas deformações"
+    ],
+    "correta": 2,
+    "explicacao": "A regra de projeção altera medidas e aparência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "USGS — Map projections: A working manual",
+        "url": "https://www.usgs.gov/educational-resources/map-projections-working-manual",
+        "uso": "Fonte cartográfica complementar: famílias de projeção e deformações; explicações e investigação autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri",
+    "bncc": [
+      "EM13MAT504"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Mesma base e altura: cone ocupa que fração do cilindro?",
+    "opcoes": [
+      "2/3",
+      "1/3",
+      "1/2"
+    ],
+    "correta": 1,
+    "explicacao": "V_cone=A_base h/3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.treino.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.area_e_volume_da_esfera",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Esfera de raio dois tem volume:",
+    "opcoes": [
+      "32π/3",
+      "16π",
+      "8π"
+    ],
+    "correta": 0,
+    "explicacao": "4π×8/3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.introducao_a_geometria_espacial",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Área de revestimento deve ser expressa em:",
+    "opcoes": [
+      "Unidades cúbicas",
+      "Somente litros",
+      "Unidades quadradas"
+    ],
+    "correta": 2,
+    "explicacao": "Revestimento mede superfície.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.prismas_e_cilindros",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Área lateral do cilindro r=2,h=5 é:",
+    "opcoes": [
+      "40π",
+      "20π",
+      "10π"
+    ],
+    "correta": 1,
+    "explicacao": "2πrh=20π.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.piramide_e_cone",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Cone reto r=5,h=12 tem geratriz:",
+    "opcoes": [
+      "13",
+      "17",
+      "7"
+    ],
+    "correta": 0,
+    "explicacao": "Pitágoras dá √169=13.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas",
+    "bncc": [
+      "EM13MAT509"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Retângulos iguais numa grade latitude/longitude plana garantem áreas esféricas iguais?",
+    "opcoes": [
+      "Sim, sempre",
+      "Só se os nomes forem iguais",
+      "Não"
+    ],
+    "correta": 2,
+    "explicacao": "O comprimento dos paralelos varia com a latitude.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "USGS — Map projections: A working manual",
+        "url": "https://www.usgs.gov/educational-resources/map-projections-working-manual",
+        "uso": "Fonte cartográfica complementar: famílias de projeção e deformações; explicações e investigação autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri",
+    "bncc": [
+      "EM13MAT504"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Cavalieri exige comparar seções:",
+    "opcoes": [
+      "Só no topo",
+      "Em todos os níveis correspondentes",
+      "Só na base"
+    ],
+    "correta": 1,
+    "explicacao": "A equivalência seccional precisa valer ao longo da altura.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.geometria_espacial.prova.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Geometria Espacial",
+    "aulaId": "mat.em02.geometria_espacial.area_e_volume_da_esfera",
+    "bncc": [
+      "EM13MAT309"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Dobrar o raio de esfera multiplica volume por:",
+    "opcoes": [
+      "8",
+      "4",
+      "2"
+    ],
+    "correta": 0,
+    "explicacao": "O volume depende de r³.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

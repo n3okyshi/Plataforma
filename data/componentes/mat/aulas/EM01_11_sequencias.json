@@ -5,33 +5,113 @@
   "ordem": 11,
   "unidade": "Sequências e Progressões",
   "titulo": "Sequências",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT507",
+    "EM13MAT508"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construa regras direta e recursiva para uma sequência aditiva e outra multiplicativa",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Sequências são funções de domínio discreto, frequentemente posições naturais a partir de um",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sequências Numéricas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Identificação de padrões matemáticos e generalização através do <strong>Termo Geral</strong> ($a_n$).\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔢 Padrões:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Diferenciar o valor do termo ($a_n$) da sua posição ($n$) na fila.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Sequências</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Sequências são funções de domínio discreto, frequentemente posições naturais a partir de um. Uma regra direta usa a posição; uma recursiva usa termos anteriores e condições iniciais. Uma lista finita não determina uma única lei sem hipóteses.</p><h3>Exemplo resolvido</h3><p>a_n=3n+2 gera 5,8,11. Já b_1=2 e b_(n+1)=2b_n gera 2,4,8. As tabelas sugerem crescimento aditivo e multiplicativo.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa regras direta e recursiva para uma sequência aditiva e outra multiplicativa. Represente-as por pontos e explique por que unir continuamente os pontos depende de extensão do modelo.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li><li>MC_MATEM_EM.pdf — páginas impressas 165, 167, 176</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "sequencias",
+      "padroes"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "sequencias.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para a_n=4n−1, o décimo termo é:",
+      "alternativas": [
+        "41",
+        "39",
+        "40"
+      ],
+      "correta": 1,
+      "explicacao": "4×10−1=39."
+    },
+    {
+      "id": "sequencias.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa regras direta e recursiva para uma sequência aditiva e outra multiplicativa. Represente-as por pontos e explique por que unir continuamente os pontos depende de extensão do modelo.",
+      "gabarito": "Conferir início, posição, recorrência e domínio discreto, sem inferir lei única apenas de poucos termos.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir início, posição, recorrência e domínio discreto, sem inferir lei única apenas de poucos termos.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sequencias",
+    "padroes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        162,
+        164,
+        173
+      ],
+      "paginasImpressas": "165, 167, 176",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em01.sequencias_e_progressoes.progressao_aritmetica"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

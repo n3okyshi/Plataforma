@@ -1,0 +1,175 @@
+{
+  "id": "mat.em01.matematica_financeira.prova",
+  "titulo": "Avaliação: Matemática Financeira",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM01",
+  "unidade": "Matemática Financeira",
+  "bncc": [
+    "EM13MAT104",
+    "EM13MAT203",
+    "EM13MAT303"
+  ],
+  "duracaoMin": 20,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 4 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em01.matematica_financeira.prova.01",
+    "mat.em01.matematica_financeira.prova.02",
+    "mat.em01.matematica_financeira.prova.03",
+    "mat.em01.matematica_financeira.prova.04"
+  ],
+  "criterios": "Cada item objetivo vale 10/4 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT104",
+      "questoes": [
+        "mat.em01.matematica_financeira.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.matematica_financeira.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra#inflacao_indices_e_poder_de_compra.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT203",
+      "questoes": [
+        "mat.em01.matematica_financeira.prova.01",
+        "mat.em01.matematica_financeira.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.matematica_financeira.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto#porcentagem_lucro_e_desconto.producao",
+        "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros#planilhas_e_simuladores_financeiros.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT303",
+      "questoes": [
+        "mat.em01.matematica_financeira.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em01.matematica_financeira.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em01.matematica_financeira.juros_simples_e_juros_compostos#juros_simples_e_juros_compostos.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em01.matematica_financeira.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Matemática Financeira",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT104",
+      "EM13MAT203",
+      "EM13MAT303"
+    ],
+    "atividadesOrigem": [
+      "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto#porcentagem_lucro_e_desconto.producao",
+      "mat.em01.matematica_financeira.juros_simples_e_juros_compostos#juros_simples_e_juros_compostos.producao",
+      "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra#inflacao_indices_e_poder_de_compra.producao",
+      "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros#planilhas_e_simuladores_financeiros.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Porcentagem, Lucro e Desconto",
+        "enunciado": "Implemente planilha que diferencie custo, venda, lucro, margem e acréscimo. Compare descontos sucessivos e registre testes de base e decisão fictícia.",
+        "gabarito": "Conferir denominadores, lucro versus receita, fatores sucessivos e execução das fórmulas.",
+        "bncc": [
+          "EM13MAT203"
+        ],
+        "atividadeOrigem": "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto#porcentagem_lucro_e_desconto.producao"
+      },
+      {
+        "titulo": "Juros Simples e Juros Compostos",
+        "enunciado": "Monte planilha e gráficos para cinco períodos em ambos os modelos. Explique crescimento linear e exponencial, taxa, base e limitações das hipóteses.",
+        "gabarito": "Conferir fórmulas, capital inicial, período zero, unidades e arredondamento ao final; não apresentar projeções como garantia.",
+        "bncc": [
+          "EM13MAT303"
+        ],
+        "atividadeOrigem": "mat.em01.matematica_financeira.juros_simples_e_juros_compostos#juros_simples_e_juros_compostos.producao"
+      },
+      {
+        "titulo": "Inflação, Índices e Poder de Compra",
+        "enunciado": "Monte cesta fictícia de três itens com quantidades fixas e preços em dois períodos. Calcule índice, explique pesos e compare com renda hipotética. Analise o método de um índice divulgado, identificando fonte, período e limites.",
+        "gabarito": "Conferir quantidades e razões, variação nominal versus capacidade de compra; dados hipotéticos devem ser rotulados. Índice externo exige leitura do método efetivamente citado.",
+        "bncc": [
+          "EM13MAT104"
+        ],
+        "atividadeOrigem": "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra#inflacao_indices_e_poder_de_compra.producao"
+      },
+      {
+        "titulo": "Planilhas e Simuladores Financeiros",
+        "enunciado": "Crie planilha de orçamento e simulador de juros. Teste taxa zero, período zero e um caso calculado manualmente; compare cenários e explique uma decisão fictícia sem recomendar produto real.",
+        "gabarito": "Avaliar execução, fórmulas corretas, saldo, referências, testes e limites; não basta desenhar uma tabela sem calcular.",
+        "bncc": [
+          "EM13MAT203"
+        ],
+        "atividadeOrigem": "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros#planilhas_e_simuladores_financeiros.producao"
+      }
+    ],
+    "duracaoMinSugerida": 120,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        285,
+        287,
+        289,
+        291
+      ],
+      "paginasImpressas": "288, 290, 292, 294",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        296,
+        300
+      ],
+      "paginasImpressas": "299, 303",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        302
+      ],
+      "paginasImpressas": "305",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

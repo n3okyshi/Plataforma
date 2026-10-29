@@ -1,0 +1,192 @@
+{
+  "id": "mat.ef05.probabilidade_e_estatistica.prova",
+  "titulo": "Avaliação: Probabilidade e Estatística",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF05",
+  "unidade": "Probabilidade e Estatística",
+  "bncc": [
+    "EF05MA09",
+    "EF05MA22",
+    "EF05MA23",
+    "EF05MA24",
+    "EF05MA25"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 5 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef05.probabilidade_e_estatistica.prova.01",
+    "mat.ef05.probabilidade_e_estatistica.prova.02",
+    "mat.ef05.probabilidade_e_estatistica.prova.03",
+    "mat.ef05.probabilidade_e_estatistica.prova.04",
+    "mat.ef05.probabilidade_e_estatistica.prova.05"
+  ],
+  "criterios": "Cada item objetivo vale 10/5 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF05MA09",
+      "questoes": [
+        "mat.ef05.probabilidade_e_estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo#contagem_e_principio_multiplicativo.producao"
+      ]
+    },
+    {
+      "bncc": "EF05MA22",
+      "questoes": [
+        "mat.ef05.probabilidade_e_estatistica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.espaco_amostral#espaco_amostral.producao"
+      ]
+    },
+    {
+      "bncc": "EF05MA23",
+      "questoes": [
+        "mat.ef05.probabilidade_e_estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis#probabilidade_de_eventos_equiprovaveis.producao"
+      ]
+    },
+    {
+      "bncc": "EF05MA24",
+      "questoes": [
+        "mat.ef05.probabilidade_e_estatistica.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos#leitura_de_graficos.producao"
+      ]
+    },
+    {
+      "bncc": "EF05MA25",
+      "questoes": [
+        "mat.ef05.probabilidade_e_estatistica.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados#pesquisa_e_organizacao_de_dados.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef05.probabilidade_e_estatistica.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Probabilidade e Estatística",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF05MA09",
+      "EF05MA22",
+      "EF05MA23",
+      "EF05MA24",
+      "EF05MA25"
+    ],
+    "atividadesOrigem": [
+      "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo#contagem_e_principio_multiplicativo.producao",
+      "mat.ef05.probabilidade_e_estatistica.espaco_amostral#espaco_amostral.producao",
+      "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis#probabilidade_de_eventos_equiprovaveis.producao",
+      "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos#leitura_de_graficos.producao",
+      "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados#pesquisa_e_organizacao_de_dados.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Contagem e Princípio Multiplicativo",
+        "enunciado": "Faça árvore e tabela para cinco sabores e três tamanhos. Elabore outro problema, imponha uma restrição explícita e recalcule os casos.",
+        "gabarito": "Quinze combinações no primeiro. A contagem com restrição depende do enunciado e deve mostrar casos sem duplicação.",
+        "bncc": [
+          "EF05MA09"
+        ],
+        "atividadeOrigem": "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo#contagem_e_principio_multiplicativo.producao"
+      },
+      {
+        "titulo": "Espaço Amostral",
+        "enunciado": "Liste resultados de um dado equilibrado e de uma sacola com cores em quantidades diferentes. Explique em qual descrição os resultados são equiprováveis e teste por sorteios com reposição.",
+        "gabarito": "Faces equiprováveis no modelo; cores não equiprováveis na sacola. Frequências observadas podem variar sem invalidar a lista.",
+        "bncc": [
+          "EF05MA22"
+        ],
+        "atividadeOrigem": "mat.ef05.probabilidade_e_estatistica.espaco_amostral#espaco_amostral.producao"
+      },
+      {
+        "titulo": "Probabilidade de Eventos Equiprováveis",
+        "enunciado": "Liste as faces de um dado, determine as chances de maior que quatro e de menor que sete. Crie evento de chance zero e compare as frações com a lista.",
+        "gabarito": "2/6=1/3 e 6/6=1. Exemplo impossível: sair oito. Avaliar lista completa e condições de equilíbrio.",
+        "bncc": [
+          "EF05MA23"
+        ],
+        "atividadeOrigem": "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis#probabilidade_de_eventos_equiprovaveis.producao"
+      },
+      {
+        "titulo": "Leitura de Gráficos de Colunas e Linhas",
+        "enunciado": "Represente o exemplo por linhas e colunas. Analise também um gráfico de saúde ou trânsito de fonte identificada e escreva síntese do que permite concluir, sem orientar decisões clínicas.",
+        "gabarito": "Conferir soma, escalas e período; texto sobre fonte externa precisa reproduzir valores efetivos e limites.",
+        "bncc": [
+          "EF05MA24"
+        ],
+        "atividadeOrigem": "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos#leitura_de_graficos.producao"
+      },
+      {
+        "titulo": "Pesquisa e Organização de Dados",
+        "enunciado": "Realize pesquisa com as duas classes de variável. Construa tabela, gráfico de colunas, pictograma e um gráfico de linhas de uma medida acompanhada em sequência temporal; escreva finalidade e síntese dos resultados.",
+        "gabarito": "Avaliar coleta real, registros anônimos, categorias, unidades, escalas e correspondência entre todas as representações. A série temporal deve ser efetivamente observada ou claramente identificada como exemplo fictício separado.",
+        "bncc": [
+          "EF05MA25"
+        ],
+        "atividadeOrigem": "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados#pesquisa_e_organizacao_de_dados.producao"
+      }
+    ],
+    "duracaoMinSugerida": 150,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34
+      ],
+      "paginasImpressas": "37",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        299
+      ],
+      "paginasImpressas": "297",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

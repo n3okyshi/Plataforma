@@ -1,0 +1,561 @@
+{
+  "nivel": "EF05",
+  "estado": "piloto_integral",
+  "aulas": 22,
+  "unidades": 11,
+  "habilidades": [
+    {
+      "codigo": "EF05MA01",
+      "aulas": [
+        "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes"
+      ],
+      "atividades": [
+        "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes#numeros_ate_a_classe_dos_milhoes.aplicacao",
+        "mat.ef05.sistema_de_numeracao_decimal.numeros_ate_a_classe_dos_milhoes#numeros_ate_a_classe_dos_milhoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.sistema_de_numeracao_decimal.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.sistema_de_numeracao_decimal.prova.01",
+        "mat.ef05.sistema_de_numeracao_decimal.prova.02",
+        "mat.ef05.sistema_de_numeracao_decimal.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.sistema_de_numeracao_decimal.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA02",
+      "aulas": [
+        "mat.ef05.decimais.numeros_decimais_e_porcentagem",
+        "mat.ef05.decimais.decimais_na_reta_numerica"
+      ],
+      "atividades": [
+        "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.aplicacao",
+        "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.producao",
+        "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.aplicacao",
+        "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.decimais.treino.01",
+        "mat.ef05.decimais.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef05.decimais.prova.01",
+        "mat.ef05.decimais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.decimais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA03",
+      "aulas": [
+        "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia"
+      ],
+      "atividades": [
+        "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia#operacoes_com_fracoes_e_equivalencia.aplicacao",
+        "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia#operacoes_com_fracoes_e_equivalencia.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.fracoes.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.fracoes.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.fracoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA04",
+      "aulas": [
+        "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia"
+      ],
+      "atividades": [
+        "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia#operacoes_com_fracoes_e_equivalencia.aplicacao",
+        "mat.ef05.fracoes.operacoes_com_fracoes_e_equivalencia#operacoes_com_fracoes_e_equivalencia.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.fracoes.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.fracoes.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.fracoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA05",
+      "aulas": [
+        "mat.ef05.decimais.decimais_na_reta_numerica",
+        "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes"
+      ],
+      "atividades": [
+        "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.aplicacao",
+        "mat.ef05.decimais.decimais_na_reta_numerica#decimais_na_reta_numerica.producao",
+        "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes#comparacao_e_ordenacao_de_fracoes.aplicacao",
+        "mat.ef05.fracoes.comparacao_e_ordenacao_de_fracoes#comparacao_e_ordenacao_de_fracoes.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.decimais.treino.02",
+        "mat.ef05.fracoes.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef05.decimais.prova.02",
+        "mat.ef05.fracoes.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.decimais.pratica",
+        "mat.ef05.fracoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA06",
+      "aulas": [
+        "mat.ef05.decimais.numeros_decimais_e_porcentagem"
+      ],
+      "atividades": [
+        "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.aplicacao",
+        "mat.ef05.decimais.numeros_decimais_e_porcentagem#numeros_decimais_e_porcentagem.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.decimais.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.decimais.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.decimais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA07",
+      "aulas": [
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas",
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao"
+      ],
+      "atividades": [
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas#operacoes_e_expressoes_numericas.aplicacao",
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas#operacoes_e_expressoes_numericas.producao",
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.aplicacao",
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao#problemas_de_adicao_e_subtracao.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.treino.01",
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.01",
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.adicao_e_subtracao_com_numeros_naturais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA08",
+      "aulas": [
+        "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo"
+      ],
+      "atividades": [
+        "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo#estrategias_de_calculo.aplicacao",
+        "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.estrategias_de_calculo#estrategias_de_calculo.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.01",
+        "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.02",
+        "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.multiplicacao_e_divisao_com_numeros_naturais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA09",
+      "aulas": [
+        "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo"
+      ],
+      "atividades": [
+        "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo#contagem_e_principio_multiplicativo.aplicacao",
+        "mat.ef05.probabilidade_e_estatistica.contagem_e_principio_multiplicativo#contagem_e_principio_multiplicativo.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.probabilidade_e_estatistica.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.probabilidade_e_estatistica.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA10",
+      "aulas": [
+        "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade"
+      ],
+      "atividades": [
+        "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.aplicacao",
+        "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade#propriedades_da_igualdade.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.propriedades_da_igualdade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.propriedades_da_igualdade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.propriedades_da_igualdade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA11",
+      "aulas": [
+        "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido"
+      ],
+      "atividades": [
+        "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido#problemas_com_termo_desconhecido.aplicacao",
+        "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido#problemas_com_termo_desconhecido.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.propriedades_da_igualdade.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef05.propriedades_da_igualdade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.propriedades_da_igualdade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA12",
+      "aulas": [
+        "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais"
+      ],
+      "atividades": [
+        "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais#grandezas_diretamente_proporcionais.aplicacao",
+        "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais#grandezas_diretamente_proporcionais.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.proporcionalidade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.proporcionalidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.proporcionalidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA13",
+      "aulas": [
+        "mat.ef05.proporcionalidade.partilha_em_partes_desiguais"
+      ],
+      "atividades": [
+        "mat.ef05.proporcionalidade.partilha_em_partes_desiguais#partilha_em_partes_desiguais.aplicacao",
+        "mat.ef05.proporcionalidade.partilha_em_partes_desiguais#partilha_em_partes_desiguais.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.proporcionalidade.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef05.proporcionalidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.proporcionalidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA14",
+      "aulas": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos"
+      ],
+      "atividades": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.aplicacao",
+        "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.geometria.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.geometria.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA15",
+      "aulas": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos"
+      ],
+      "atividades": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.aplicacao",
+        "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.geometria.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.geometria.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA16",
+      "aulas": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos"
+      ],
+      "atividades": [
+        "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.aplicacao",
+        "mat.ef05.geometria.plano_cartesiano_e_solidos#plano_cartesiano_e_solidos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.geometria.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.geometria.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA17",
+      "aulas": [
+        "mat.ef05.geometria.poligonos_e_seus_elementos"
+      ],
+      "atividades": [
+        "mat.ef05.geometria.poligonos_e_seus_elementos#poligonos_e_seus_elementos.aplicacao",
+        "mat.ef05.geometria.poligonos_e_seus_elementos#poligonos_e_seus_elementos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.geometria.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef05.geometria.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA18",
+      "aulas": [
+        "mat.ef05.mais_geometria.poligonos_e_ampliacao"
+      ],
+      "atividades": [
+        "mat.ef05.mais_geometria.poligonos_e_ampliacao#poligonos_e_ampliacao.aplicacao",
+        "mat.ef05.mais_geometria.poligonos_e_ampliacao#poligonos_e_ampliacao.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.mais_geometria.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.mais_geometria.prova.01",
+        "mat.ef05.mais_geometria.prova.02",
+        "mat.ef05.mais_geometria.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.mais_geometria.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA19",
+      "aulas": [
+        "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas"
+      ],
+      "atividades": [
+        "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas#volume_e_outras_grandezas.aplicacao",
+        "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas#volume_e_outras_grandezas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.grandezas_e_medidas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA20",
+      "aulas": [
+        "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area"
+      ],
+      "atividades": [
+        "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area#relacoes_entre_perimetro_e_area.aplicacao",
+        "mat.ef05.grandezas_e_medidas.relacoes_entre_perimetro_e_area#relacoes_entre_perimetro_e_area.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.grandezas_e_medidas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef05.grandezas_e_medidas.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA21",
+      "aulas": [
+        "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas"
+      ],
+      "atividades": [
+        "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas#volume_e_outras_grandezas.aplicacao",
+        "mat.ef05.grandezas_e_medidas.volume_e_outras_grandezas#volume_e_outras_grandezas.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.grandezas_e_medidas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef05.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA22",
+      "aulas": [
+        "mat.ef05.probabilidade_e_estatistica.espaco_amostral"
+      ],
+      "atividades": [
+        "mat.ef05.probabilidade_e_estatistica.espaco_amostral#espaco_amostral.aplicacao",
+        "mat.ef05.probabilidade_e_estatistica.espaco_amostral#espaco_amostral.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.probabilidade_e_estatistica.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef05.probabilidade_e_estatistica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA23",
+      "aulas": [
+        "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis"
+      ],
+      "atividades": [
+        "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis#probabilidade_de_eventos_equiprovaveis.aplicacao",
+        "mat.ef05.probabilidade_e_estatistica.probabilidade_de_eventos_equiprovaveis#probabilidade_de_eventos_equiprovaveis.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.probabilidade_e_estatistica.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef05.probabilidade_e_estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA24",
+      "aulas": [
+        "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos"
+      ],
+      "atividades": [
+        "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos#leitura_de_graficos.aplicacao",
+        "mat.ef05.probabilidade_e_estatistica.leitura_de_graficos#leitura_de_graficos.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.probabilidade_e_estatistica.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef05.probabilidade_e_estatistica.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    },
+    {
+      "codigo": "EF05MA25",
+      "aulas": [
+        "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados"
+      ],
+      "atividades": [
+        "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados#pesquisa_e_organizacao_de_dados.aplicacao",
+        "mat.ef05.probabilidade_e_estatistica.pesquisa_e_organizacao_de_dados#pesquisa_e_organizacao_de_dados.producao"
+      ],
+      "questoesTreino": [
+        "mat.ef05.probabilidade_e_estatistica.treino.05"
+      ],
+      "questoesProva": [
+        "mat.ef05.probabilidade_e_estatistica.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef05.probabilidade_e_estatistica.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas e revisão assistida; aplicação das produções e homologação docente pendentes."
+    }
+  ],
+  "observacao": "No Ensino Médio, distribuição por série é proposta do projeto para habilidades da etapa EM13.",
+  "pendencias": [
+    "Aplicação real das produções e homologação docente.",
+    "Revisão visual e acessibilidade.",
+    "Firebase e cache em ambiente real."
+  ]
+}

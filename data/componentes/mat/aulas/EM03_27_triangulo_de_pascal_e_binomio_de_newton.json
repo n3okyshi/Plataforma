@@ -1,0 +1,102 @@
+{
+  "id": "mat.em03.binomio_de_newton_complementar.triangulo_de_pascal_e_binomio_de_newton",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 27,
+  "unidade": "Binômio de Newton — Complementar",
+  "titulo": "Triangulo de pascal e binomio de newton",
+  "bncc": [],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Construa as seis primeiras linhas do triângulo por contagem e recorrência",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Coeficientes binomiais contam subconjuntos e formam o triângulo de Pascal",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Triangulo de pascal e binomio de newton</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Coeficientes binomiais contam subconjuntos e formam o triângulo de Pascal. A relação C(n,k)=C(n−1,k−1)+C(n−1,k) separa casos que incluem ou não um elemento. O binômio (a+b)^n soma C(n,k)a^(n−k)b^k para k de zero a n. A simetria C(n,k)=C(n,n−k) também decorre de escolher um subconjunto ou seu complemento.</p><h3>Exemplo resolvido</h3><p>(a+b)³=a³+3a²b+3ab²+b³; os coeficientes são 1,3,3,1, não todos um. A soma dos coeficientes é 2³=8.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa as seis primeiras linhas do triângulo por contagem e recorrência. Expanda (x+2)^4 e confira por multiplicação e substituição de valores.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 254, 257, 259, 260</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "triangulo_de_pascal_e_binomio_de_newton.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O coeficiente de x² em (x+1)^4 é:",
+      "alternativas": [
+        "6",
+        "4",
+        "8"
+      ],
+      "correta": 0,
+      "explicacao": "C(4,2)=6."
+    },
+    {
+      "id": "triangulo_de_pascal_e_binomio_de_newton.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa as seis primeiras linhas do triângulo por contagem e recorrência. Expanda (x+2)^4 e confira por multiplicação e substituição de valores.",
+      "gabarito": "x⁴+8x³+24x²+32x+16. Avaliar coeficientes, expoentes e termo inicial da linha com n=0.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "x⁴+8x³+24x²+32x+16. Avaliar coeficientes, expoentes e termo inicial da linha com n=0.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        251,
+        254,
+        256,
+        257
+      ],
+      "paginasImpressas": "254, 257, 259, 260",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em03.binomio_de_newton_complementar.termo_geral_do_binomio"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
+}

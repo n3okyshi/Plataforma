@@ -1,0 +1,144 @@
+[
+  {
+    "id": "mat.em01.grandezas_e_medidas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT313"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "36 km/h correspondem a:",
+    "opcoes": [
+      "36 m/s",
+      "3,6 m/s",
+      "10 m/s"
+    ],
+    "correta": 2,
+    "explicacao": "Dividir por 3,6 converte km/h em m/s.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.grandezas_e_medidas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas",
+    "bncc": [
+      "EM13MAT314"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "180 km em 2,5 h têm velocidade média:",
+    "opcoes": [
+      "177,5 km/h",
+      "72 km/h",
+      "450 km/h"
+    ],
+    "correta": 1,
+    "explicacao": "180/2,5=72.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.grandezas_e_medidas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em01.grandezas_e_medidas.unidades_do_si_e_conversoes",
+    "bncc": [
+      "EM13MAT103",
+      "EM13MAT313"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "0,00420 tem quantos algarismos significativos?",
+    "opcoes": [
+      "5",
+      "2",
+      "3"
+    ],
+    "correta": 2,
+    "explicacao": "Zeros iniciais localizam a vírgula; 4,2 e zero final informam precisão.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.grandezas_e_medidas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Grandezas e Medidas",
+    "aulaId": "mat.em01.grandezas_e_medidas.razao_e_produto_de_grandezas",
+    "bncc": [
+      "EM13MAT314"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "1,2 kW por duas horas corresponde a:",
+    "opcoes": [
+      "3,2 kWh",
+      "2,4 kWh",
+      "0,6 kWh"
+    ],
+    "correta": 1,
+    "explicacao": "Energia é produto de potência e tempo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          547
+        ],
+        "paginasImpressas": "545",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

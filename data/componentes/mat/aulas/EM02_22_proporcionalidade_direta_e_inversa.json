@@ -1,0 +1,105 @@
+{
+  "id": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 22,
+  "unidade": "Proporcionalidade e Variação",
+  "titulo": "Proporcionalidade Direta e Inversa",
+  "bncc": [
+    "EM13MAT101",
+    "EM13MAT302"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Modele duas grandezas de um contexto científico com dados ou hipóteses explícitas, compare funções candidatas por tabelas, gráficos e taxas e discuta limites da escolha.",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Modelar variação exige verificar razão constante, produto constante ou outro padrão",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Proporcionalidade Direta e Inversa</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Modelar variação exige verificar razão constante, produto constante ou outro padrão. Função afim com intercepto não nulo não é proporcionalidade direta. Taxa média Δy/Δx descreve intervalo e pode variar entre intervalos em modelos não lineares.</p><h3>Exemplo resolvido</h3><p>y=3x tem razão três; y=12/x tem produto doze; y=3x+2 não tem razão constante. Para y=x² entre um e três, taxa média (9−1)/2=4.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Modele duas grandezas de um contexto científico com dados ou hipóteses explícitas, compare funções candidatas por tabelas, gráficos e taxas e discuta limites da escolha.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "proporcionalidade",
+      "variacao"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "proporcionalidade_direta_e_inversa.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Entre x=2 e x=4 em y=x², a taxa média é:",
+      "alternativas": [
+        "4",
+        "12",
+        "6"
+      ],
+      "correta": 2,
+      "explicacao": "(16−4)/(4−2)=6."
+    },
+    {
+      "id": "proporcionalidade_direta_e_inversa.producao",
+      "tipo": "discursiva",
+      "enunciado": "Modele duas grandezas de um contexto científico com dados ou hipóteses explícitas, compare funções candidatas por tabelas, gráficos e taxas e discuta limites da escolha.",
+      "gabarito": "Conferir unidades, domínio, razão/produto, resíduos e comparação de taxas; poucos pontos não certificam uma lei universal.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir unidades, domínio, razão/produto, resíduos e comparação de taxas; poucos pontos não certificam uma lei universal.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "proporcionalidade",
+    "variacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

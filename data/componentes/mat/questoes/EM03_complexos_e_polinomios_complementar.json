@@ -1,0 +1,364 @@
+[
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.numeros_complexos_e_operacoes",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "(1+i)² vale:",
+    "opcoes": [
+      "2",
+      "1+i",
+      "2i"
+    ],
+    "correta": 2,
+    "explicacao": "1+2i+i²=2i.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          307,
+          308,
+          312,
+          315,
+          320,
+          321
+        ],
+        "paginasImpressas": "310, 311, 315, 318, 323, 324",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O módulo de (1+i)⁴ é:",
+    "opcoes": [
+      "√2",
+      "4",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "(√2)^4=4.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          323,
+          324
+        ],
+        "paginasImpressas": "326, 327",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O resto de x²+2x+3 dividido por x−1 é:",
+    "opcoes": [
+      "6",
+      "3",
+      "0"
+    ],
+    "correta": 0,
+    "explicacao": "P(1)=1+2+3=6.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          330,
+          332,
+          334,
+          337,
+          341
+        ],
+        "paginasImpressas": "333, 335, 337, 340, 344",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um polinômio de grau três pode ter só uma raiz distinta?",
+    "opcoes": [
+      "Não",
+      "Só se for constante",
+      "Sim, com multiplicidade três"
+    ],
+    "correta": 2,
+    "explicacao": "(x−a)³ é um exemplo.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          345,
+          346,
+          348,
+          349,
+          352
+        ],
+        "paginasImpressas": "348, 349, 351, 352, 355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.equacoes_polinomiais_e_fatoracao",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "x³−9x=0 tem raízes reais:",
+    "opcoes": [
+      "−9,0,9",
+      "−3,0,3",
+      "0,9"
+    ],
+    "correta": 1,
+    "explicacao": "x(x²−9)=x(x−3)(x+3).",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          345,
+          346,
+          352
+        ],
+        "paginasImpressas": "348, 349, 355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.numeros_complexos_e_operacoes",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "i elevado a 6 vale:",
+    "opcoes": [
+      "1",
+      "i",
+      "−1"
+    ],
+    "correta": 2,
+    "explicacao": "6 deixa resto dois na divisão por quatro.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          307,
+          308,
+          312,
+          315,
+          320,
+          321
+        ],
+        "paginasImpressas": "310, 311, 315, 318, 323, 324",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O número de raízes complexas distintas de ordem quatro de um número não nulo é:",
+    "opcoes": [
+      "1",
+      "4",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "Os quatro argumentos distintos módulo 2π geram quatro pontos.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          323,
+          324
+        ],
+        "paginasImpressas": "326, 327",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Grau de 2x⁴−x+1 é:",
+    "opcoes": [
+      "4",
+      "3",
+      "1"
+    ],
+    "correta": 0,
+    "explicacao": "O maior expoente não nulo é quatro.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          330,
+          332,
+          334,
+          337,
+          341
+        ],
+        "paginasImpressas": "333, 335, 337, 340, 344",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.raizes_multiplicidade_e_relacoes_de_girard",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para x²−5x+6, soma e produto das raízes são:",
+    "opcoes": [
+      "−5 e 6",
+      "5 e −6",
+      "5 e 6"
+    ],
+    "correta": 2,
+    "explicacao": "Girard: −b/a e c/a.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          345,
+          346,
+          348,
+          349,
+          352
+        ],
+        "paginasImpressas": "348, 349, 351, 352, 355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em03.complexos_e_polinomios_complementar.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Complexos e Polinômios — Complementar",
+    "aulaId": "mat.em03.complexos_e_polinomios_complementar.equacoes_polinomiais_e_fatoracao",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Uma raiz a de P permite dividir sem resto por:",
+    "opcoes": [
+      "a−P",
+      "x−a",
+      "x+a sempre"
+    ],
+    "correta": 1,
+    "explicacao": "É o teorema do fator.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          345,
+          346,
+          352
+        ],
+        "paginasImpressas": "348, 349, 355",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  }
+]

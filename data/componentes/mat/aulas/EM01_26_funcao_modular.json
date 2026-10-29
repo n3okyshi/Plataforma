@@ -1,0 +1,100 @@
+{
+  "id": "mat.em01.funcao_modular_complementar.funcao_modular",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 26,
+  "unidade": "Função Modular — Complementar",
+  "titulo": "Funcao modular",
+  "bncc": [],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Construa tabela e gráfico de |x−2| e 2|x+1|−3, escreva por trechos e compare vértice, imagem e inclinações.",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "O módulo |x| é a distância de x a zero: x se x≥0 e −x se x<0",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Funcao modular</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>O módulo |x| é a distância de x a zero: x se x≥0 e −x se x&lt;0. Funções modulares podem ser escritas por trechos. Translações e fatores alteram o gráfico; o domínio e as condições de cada expressão precisam ser respeitados.</p><h3>Exemplo resolvido</h3><p>f(x)=|x−2| tem vértice (2,0), vale 2−x para x&lt;2 e x−2 para x≥2. Seu domínio é real e imagem não negativa.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa tabela e gráfico de |x−2| e 2|x+1|−3, escreva por trechos e compare vértice, imagem e inclinações.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 54, 57</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "funcao_modular.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O mínimo de |x−4|+2 é:",
+      "alternativas": [
+        "0",
+        "2",
+        "4"
+      ],
+      "correta": 1,
+      "explicacao": "O módulo zera em quatro e nunca é negativo."
+    },
+    {
+      "id": "funcao_modular.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa tabela e gráfico de |x−2| e 2|x+1|−3, escreva por trechos e compare vértice, imagem e inclinações.",
+      "gabarito": "Segundo vértice (−1,−3), imagem [−3,+∞). Conferir sinais, condições dos trechos e representação gráfica.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Segundo vértice (−1,−3), imagem [−3,+∞). Conferir sinais, condições dos trechos e representação gráfica.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        51,
+        54
+      ],
+      "paginasImpressas": "54, 57",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em01.funcao_modular_complementar.equacoes_e_inequacoes_modulares"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
+}

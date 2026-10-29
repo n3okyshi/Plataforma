@@ -1,0 +1,104 @@
+{
+  "id": "mat.em01.geometria_e_transformacoes.transformacoes_isometricas",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 25,
+  "unidade": "Geometria e Transformações",
+  "titulo": "Transformações Isométricas",
+  "bncc": [
+    "EM13MAT105"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Construa um padrão artístico com isometrias e uma figura homotética, registrando centros, eixos, vetores e fatores",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Translação, reflexão e rotação preservam distâncias e ângulos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Transformações Isométricas</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Translação, reflexão e rotação preservam distâncias e ângulos. Homotetia de fator k multiplica comprimentos por |k| e áreas por k². Use parâmetros explícitos para construir e analisar padrões, sem inferir semelhança só pela aparência.</p><h3>Exemplo resolvido</h3><p>Transladar (2,1) por (3,−2) dá (5,−1). Refletir no eixo y dá (−2,1). Homotetia de centro origem e fator dois dá (4,2).</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa um padrão artístico com isometrias e uma figura homotética, registrando centros, eixos, vetores e fatores. Compare comprimentos, ângulos e áreas; use software se disponível.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "transformacoes_geometricas",
+      "isometrias"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "transformacoes_isometricas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Refletir (−3,4) no eixo y produz:",
+      "alternativas": [
+        "(−3,−4)",
+        "(3,−4)",
+        "(3,4)"
+      ],
+      "correta": 2,
+      "explicacao": "Troca o sinal horizontal."
+    },
+    {
+      "id": "transformacoes_isometricas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa um padrão artístico com isometrias e uma figura homotética, registrando centros, eixos, vetores e fatores. Compare comprimentos, ângulos e áreas; use software se disponível.",
+      "gabarito": "Avaliar construção real e correspondências. Composição pode depender da ordem; fator três multiplica área por nove.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar construção real e correspondências. Composição pode depender da ordem; fator três multiplica área por nove.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "transformacoes_geometricas",
+    "isometrias"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

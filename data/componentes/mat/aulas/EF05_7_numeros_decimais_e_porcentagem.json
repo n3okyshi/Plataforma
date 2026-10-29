@@ -2,36 +2,115 @@
   "id": "mat.ef05.decimais.numeros_decimais_e_porcentagem",
   "componente": "mat",
   "nivel": "EF05",
-  "ordem": 7,
+  "ordem": 2,
   "unidade": "Decimais",
   "titulo": "Números Decimais e Porcentagem",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF05MA02",
+    "EF05MA06"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Represente décimos e centésimos em malha, calcule 10%,25%,50%,75% e 100% de 160 e explique duas estratégias, conferindo com calculadora.",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "A escrita decimal representa partes por potências de dez",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Decimais e Porcentagem</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Tudo está conectado! 50% é a mesma coisa que metade (1/2) ou 0,5.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💯 Por cento:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O símbolo % significa \"dividido por 100\". 25% é o mesmo que 25 pedacinhos de 100.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Números Decimais e Porcentagem</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>A escrita decimal representa partes por potências de dez. Porcentagens usuais relacionam partes do todo: 10% é um décimo,25% um quarto,50% metade,75% três quartos e 100% o inteiro. Use estratégias pessoais e identifique a base de referência.</p><h3>Exemplo resolvido</h3><p>25% de 240 são 60, por dividir em quatro partes iguais. 75% são três dessas partes, 180. Não é necessário montar regra de três.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Represente décimos e centésimos em malha, calcule 10%,25%,50%,75% e 100% de 160 e explique duas estratégias, conferindo com calculadora.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 295</li><li>MC_MATEM_EF.pdf — páginas impressas 98, 199</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "decimais",
+      "porcentagem"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "numeros_decimais_e_porcentagem.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "75% de 80 são:",
+      "alternativas": [
+        "20",
+        "60",
+        "75"
+      ],
+      "correta": 1,
+      "explicacao": "Três quartos de oitenta: cada quarto vale vinte."
+    },
+    {
+      "id": "numeros_decimais_e_porcentagem.producao",
+      "tipo": "discursiva",
+      "enunciado": "Represente décimos e centésimos em malha, calcule 10%,25%,50%,75% e 100% de 160 e explique duas estratégias, conferindo com calculadora.",
+      "gabarito": "16,40,80,120,160. Os registros decimais devem preservar unidades e casas; justificar frações do todo.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "16,40,80,120,160. Os registros decimais devem preservar unidades e casas; justificar frações do todo.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "decimais",
+    "porcentagem"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        196
+      ],
+      "paginasImpressas": "98, 199",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef05.decimais.decimais_na_reta_numerica"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

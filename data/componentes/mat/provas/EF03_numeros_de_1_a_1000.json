@@ -1,0 +1,152 @@
+{
+  "id": "mat.ef03.numeros_de_1_a_1000.prova",
+  "titulo": "Avaliação: Números de 1 a 1000",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF03",
+  "unidade": "Números de 1 a 1000",
+  "bncc": [
+    "EF03MA01",
+    "EF03MA03",
+    "EF03MA04"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.ef03.numeros_de_1_a_1000.prova.01",
+    "mat.ef03.numeros_de_1_a_1000.prova.02",
+    "mat.ef03.numeros_de_1_a_1000.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EF03MA01",
+      "questoes": [
+        "mat.ef03.numeros_de_1_a_1000.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.numeros_de_1_a_1000.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000#leitura_e_escrita_de_numeros_ate_1000.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA03",
+      "questoes": [
+        "mat.ef03.numeros_de_1_a_1000.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.numeros_de_1_a_1000.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao#fatos_basicos_da_adicao_e_multiplicacao.producao"
+      ]
+    },
+    {
+      "bncc": "EF03MA04",
+      "questoes": [
+        "mat.ef03.numeros_de_1_a_1000.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef03.numeros_de_1_a_1000.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef03.numeros_de_1_a_1000.reta_numerica#reta_numerica.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef03.numeros_de_1_a_1000.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Números de 1 a 1000",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EF03MA01",
+      "EF03MA03",
+      "EF03MA04"
+    ],
+    "atividadesOrigem": [
+      "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000#leitura_e_escrita_de_numeros_ate_1000.producao",
+      "mat.ef03.numeros_de_1_a_1000.reta_numerica#reta_numerica.producao",
+      "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao#fatos_basicos_da_adicao_e_multiplicacao.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Leitura e Escrita de Números até 1000",
+        "enunciado": "Escreva por extenso 508, 580 e 1000; represente dois deles com agrupamentos e ordene os três.",
+        "gabarito": "Quinhentos e oito; quinhentos e oitenta; mil. 508<580<1000. Conferir a função do zero e a concordância entre fala, peças e numeral.",
+        "bncc": [
+          "EF03MA01"
+        ],
+        "atividadeOrigem": "mat.ef03.numeros_de_1_a_1000.leitura_e_escrita_de_numeros_ate_1000#leitura_e_escrita_de_numeros_ate_1000.producao"
+      },
+      {
+        "titulo": "Números na Reta Numérica",
+        "enunciado": "Desenhe um trecho de reta de 20 a 50. Represente 28+7 e 42−9; use-o para comparar 28,35 e 42.",
+        "gabarito": "Resultados 35 e 33. Marcas igualmente espaçadas, sentidos corretos e ordem 28<35<42.",
+        "bncc": [
+          "EF03MA04"
+        ],
+        "atividadeOrigem": "mat.ef03.numeros_de_1_a_1000.reta_numerica#reta_numerica.producao"
+      },
+      {
+        "titulo": "Fatos Básicos da Adição e Multiplicação",
+        "enunciado": "Construa com peças 6×4 e use-o para calcular 6×5. Explique também 9+8 completando dez.",
+        "gabarito": "24; depois 30 por acrescentar um grupo de seis. 9+8=17, com 9+1+7. Aceitar estratégias equivalentes justificadas.",
+        "bncc": [
+          "EF03MA03"
+        ],
+        "atividadeOrigem": "mat.ef03.numeros_de_1_a_1000.fatos_basicos_da_adicao_e_multiplicacao#fatos_basicos_da_adicao_e_multiplicacao.producao"
+      }
+    ],
+    "duracaoMinSugerida": 90,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13,
+        14
+      ],
+      "paginasImpressas": "16, 17",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14
+      ],
+      "paginasImpressas": "17",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        35
+      ],
+      "paginasImpressas": "32, 38",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ]
+}

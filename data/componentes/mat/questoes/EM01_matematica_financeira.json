@@ -1,0 +1,356 @@
+[
+  {
+    "id": "mat.em01.matematica_financeira.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto",
+    "bncc": [
+      "EM13MAT203"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Preço 200 com desconto de 15% fica:",
+    "opcoes": [
+      "185",
+      "30",
+      "170"
+    ],
+    "correta": 2,
+    "explicacao": "Redução trinta, preço final cento e setenta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          285,
+          287,
+          289,
+          291
+        ],
+        "paginasImpressas": "288, 290, 292, 294",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.juros_simples_e_juros_compostos",
+    "bncc": [
+      "EM13MAT303"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "1000 a 5% composto por dois períodos resulta em:",
+    "opcoes": [
+      "1050",
+      "1102,50",
+      "1100"
+    ],
+    "correta": 1,
+    "explicacao": "1000×1,05²=1102,50.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300
+        ],
+        "paginasImpressas": "299, 303",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra",
+    "bncc": [
+      "EM13MAT104"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Custo de 80 passa a 88. A taxa é:",
+    "opcoes": [
+      "10%",
+      "8%",
+      "110%"
+    ],
+    "correta": 0,
+    "explicacao": "A variação oito sobre base oitenta é dez por cento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          302
+        ],
+        "paginasImpressas": "305",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros",
+    "bncc": [
+      "EM13MAT203"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Qual taxa decimal representa 3%?",
+    "opcoes": [
+      "3",
+      "0,3",
+      "0,03"
+    ],
+    "correta": 2,
+    "explicacao": "Três por cento são três centésimos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300
+        ],
+        "paginasImpressas": "299, 303",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.porcentagem_lucro_e_desconto",
+    "bncc": [
+      "EM13MAT203"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Custo 60 e venda 75 têm acréscimo sobre custo:",
+    "opcoes": [
+      "20%",
+      "15%",
+      "25%"
+    ],
+    "correta": 2,
+    "explicacao": "Lucro quinze dividido por sessenta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          285,
+          287,
+          289,
+          291
+        ],
+        "paginasImpressas": "288, 290, 292, 294",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.juros_simples_e_juros_compostos",
+    "bncc": [
+      "EM13MAT303"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "No modelo simples, o acréscimo periódico é:",
+    "opcoes": [
+      "Igual ao expoente",
+      "Constante sobre C",
+      "Sempre sobre o saldo anterior"
+    ],
+    "correta": 1,
+    "explicacao": "J=Cin usa a mesma base inicial.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          546
+        ],
+        "paginasImpressas": "544",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300
+        ],
+        "paginasImpressas": "299, 303",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra",
+    "bncc": [
+      "EM13MAT104"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um índice médio garante mesma variação em todos os itens?",
+    "opcoes": [
+      "Não",
+      "Sim",
+      "Só se for percentual"
+    ],
+    "correta": 0,
+    "explicacao": "A média pode combinar variações diferentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          302
+        ],
+        "paginasImpressas": "305",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em01.matematica_financeira.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Matemática Financeira",
+    "aulaId": "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros",
+    "bncc": [
+      "EM13MAT203"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um teste com período zero deve retornar:",
+    "opcoes": [
+      "Zero sempre",
+      "Somente os juros",
+      "Capital inicial"
+    ],
+    "correta": 2,
+    "explicacao": "(1+i)^0=1.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          296,
+          300
+        ],
+        "paginasImpressas": "299, 303",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "id": "mat.em03.estatistica.correlacao_e_reta_de_ajuste",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 14,
+  "unidade": "Estatística",
+  "titulo": "Correlação e Reta de Ajuste",
+  "bncc": [
+    "EM13MAT510"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Investigue duas variáveis numéricas de fonte identificada ou coleta real",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Uma reta de ajuste resume associação aproximadamente linear",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Correlação e Reta de Ajuste</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Uma reta de ajuste resume associação aproximadamente linear. Resíduos medem diferença entre observado e previsto. Examine dispersão, extremos e domínio antes de extrapolar. Correlação não resolve causalidade nem garante previsão confiável para indivíduo.</p><h3>Exemplo resolvido</h3><p>Pares hipotéticos (1,3),(2,5),(3,7) cabem em y=2x+1. Um novo ponto (4,12) deixa resíduo três em relação à previsão nove.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Investigue duas variáveis numéricas de fonte identificada ou coleta real. Faça dispersão, ajuste reta quando adequado, registre resíduos e uma previsão acompanhada de limites.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "correlacao",
+      "reta",
+      "duas_variaveis"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "correlacao_e_reta_de_ajuste.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para previsão nove e observação doze, resíduo observado−previsto é:",
+      "alternativas": [
+        "21",
+        "3",
+        "−3"
+      ],
+      "correta": 1,
+      "explicacao": "12−9=3."
+    },
+    {
+      "id": "correlacao_e_reta_de_ajuste.producao",
+      "tipo": "discursiva",
+      "enunciado": "Investigue duas variáveis numéricas de fonte identificada ou coleta real. Faça dispersão, ajuste reta quando adequado, registre resíduos e uma previsão acompanhada de limites.",
+      "gabarito": "Avaliar origem, cálculo, relação não necessariamente causal e adequação da reta; aceitar rejeitar modelo linear.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar origem, cálculo, relação não necessariamente causal e adequação da reta; aceitar rejeitar modelo linear.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "correlacao",
+    "reta",
+    "duas_variaveis"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em03.estatistica.histogramas_e_diagramas_de_caixa"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "mat.em01.funcao_modular_complementar.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Modular — Complementar",
+    "aulaId": "mat.em01.funcao_modular_complementar.funcao_modular",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O mínimo de |x−4|+2 é:",
+    "opcoes": [
+      "4",
+      "0",
+      "2"
+    ],
+    "correta": 2,
+    "explicacao": "O módulo zera em quatro e nunca é negativo.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          51,
+          54
+        ],
+        "paginasImpressas": "54, 57",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em01.funcao_modular_complementar.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Modular — Complementar",
+    "aulaId": "mat.em01.funcao_modular_complementar.equacoes_e_inequacoes_modulares",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "|x−2|=4 tem soluções:",
+    "opcoes": [
+      "−4 e 4",
+      "−2 e 6",
+      "2 e 4"
+    ],
+    "correta": 1,
+    "explicacao": "x−2=±4.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          56,
+          58
+        ],
+        "paginasImpressas": "59, 61",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em01.funcao_modular_complementar.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Modular — Complementar",
+    "aulaId": "mat.em01.funcao_modular_complementar.funcao_modular",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "|−7| vale:",
+    "opcoes": [
+      "−7",
+      "0",
+      "7"
+    ],
+    "correta": 2,
+    "explicacao": "É a distância de menos sete a zero.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          51,
+          54
+        ],
+        "paginasImpressas": "54, 57",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.em01.funcao_modular_complementar.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM01",
+    "unidade": "Função Modular — Complementar",
+    "aulaId": "mat.em01.funcao_modular_complementar.equacoes_e_inequacoes_modulares",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "|x|<3 representa:",
+    "opcoes": [
+      "x<−3 ou x>3",
+      "−3<x<3",
+      "x>3"
+    ],
+    "correta": 1,
+    "explicacao": "A distância a zero é menor que três.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          56,
+          58
+        ],
+        "paginasImpressas": "59, 61",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "id": "mat.ef04.probabilidade_e_estatistica.chances_de_eventos",
+  "componente": "mat",
+  "nivel": "EF04",
+  "ordem": 15,
+  "unidade": "Probabilidade e Estatística",
+  "titulo": "Chances de Eventos Aleatórios",
+  "bncc": [
+    "EF04MA26"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Proponha dois experimentos cotidianos de sorteio, liste possibilidades e compare chances por palavras",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Compare chances pelo número de possibilidades nas condições do experimento, sem precisar escrever frações",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Chances de Eventos Aleatórios</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Compare chances pelo número de possibilidades nas condições do experimento, sem precisar escrever frações. Com peças semelhantes e sorteio sem olhar, uma cor mais numerosa é mais provável, mas a menos numerosa ainda pode sair.</p><h3>Exemplo resolvido</h3><p>Nove peças verdes e três amarelas tornam verde mais provável. Se retiramos e devolvemos, a composição se mantém; isso não obriga repetir a cor.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Proponha dois experimentos cotidianos de sorteio, liste possibilidades e compare chances por palavras. Execute com reposição e registre resultados inesperados.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 293</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "probabilidade",
+      "acaso"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "chances_de_eventos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com 7 azuis e 2 vermelhas, qual tem maior chance num sorteio sem olhar?",
+      "alternativas": [
+        "Azul",
+        "Vermelha",
+        "Sempre iguais"
+      ],
+      "correta": 0,
+      "explicacao": "Há mais peças azuis em condições iguais."
+    },
+    {
+      "id": "chances_de_eventos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Proponha dois experimentos cotidianos de sorteio, liste possibilidades e compare chances por palavras. Execute com reposição e registre resultados inesperados.",
+      "gabarito": "Conferir condições iguais, composição real e distinção entre provável, certo e impossível; não exigir frequência exata.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir condições iguais, composição real e distinção entre provável, certo e impossível; não exigir frequência exata.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "probabilidade",
+    "acaso"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        295
+      ],
+      "paginasImpressas": "293",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef04.probabilidade_e_estatistica.tabelas_e_graficos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

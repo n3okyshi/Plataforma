@@ -1,0 +1,118 @@
+{
+  "id": "mat.em01.matematica_financeira.inflacao_indices_e_poder_de_compra",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 16,
+  "unidade": "Matemática Financeira",
+  "titulo": "Inflação, Índices e Poder de Compra",
+  "bncc": [
+    "EM13MAT104"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Monte cesta fictícia de três itens com quantidades fixas e preços em dois períodos",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Índices resumem informações por métodos e pesos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Inflação, Índices e Poder de Compra</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Índices resumem informações por métodos e pesos. Uma inflação de cesta hipotética pode ser estimada por comparar seu custo em dois períodos; pesos refletem participação dos itens. Taxa média não descreve necessariamente cada família ou produto. Compare variação nominal e poder de compra.</p><h3>Exemplo resolvido</h3><p>Cesta fictícia passa de 200 a 220: aumento de 10%. Uma renda que passa de 1000 a 1050 cresce 5%; sua razão renda/custo cai de 5 para cerca de 4,77 cestas.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Monte cesta fictícia de três itens com quantidades fixas e preços em dois períodos. Calcule índice, explique pesos e compare com renda hipotética. Analise o método de um índice divulgado, identificando fonte, período e limites.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 543</li><li>MC_MATEM_EM.pdf — páginas impressas 305</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "inflacao",
+      "indices",
+      "economia"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "inflacao_indices_e_poder_de_compra.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Custo de 80 passa a 88. A taxa é:",
+      "alternativas": [
+        "8%",
+        "110%",
+        "10%"
+      ],
+      "correta": 2,
+      "explicacao": "A variação oito sobre base oitenta é dez por cento."
+    },
+    {
+      "id": "inflacao_indices_e_poder_de_compra.producao",
+      "tipo": "discursiva",
+      "enunciado": "Monte cesta fictícia de três itens com quantidades fixas e preços em dois períodos. Calcule índice, explique pesos e compare com renda hipotética. Analise o método de um índice divulgado, identificando fonte, período e limites.",
+      "gabarito": "Conferir quantidades e razões, variação nominal versus capacidade de compra; dados hipotéticos devem ser rotulados. Índice externo exige leitura do método efetivamente citado.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir quantidades e razões, variação nominal versus capacidade de compra; dados hipotéticos devem ser rotulados. Índice externo exige leitura do método efetivamente citado.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "inflacao",
+    "indices",
+    "economia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        302
+      ],
+      "paginasImpressas": "305",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em01.matematica_financeira.juros_simples_e_juros_compostos"
+  ],
+  "proximosPassos": [
+    "mat.em01.matematica_financeira.planilhas_e_simuladores_financeiros"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

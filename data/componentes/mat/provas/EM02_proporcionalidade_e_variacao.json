@@ -1,0 +1,95 @@
+{
+  "id": "mat.em02.proporcionalidade_e_variacao.prova",
+  "titulo": "Avaliação: Proporcionalidade e Variação",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM02",
+  "unidade": "Proporcionalidade e Variação",
+  "bncc": [
+    "EM13MAT101",
+    "EM13MAT302"
+  ],
+  "duracaoMin": 15,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 3 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em02.proporcionalidade_e_variacao.prova.01",
+    "mat.em02.proporcionalidade_e_variacao.prova.02",
+    "mat.em02.proporcionalidade_e_variacao.prova.03"
+  ],
+  "criterios": "Cada item objetivo vale 10/3 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT101",
+      "questoes": [
+        "mat.em02.proporcionalidade_e_variacao.prova.01",
+        "mat.em02.proporcionalidade_e_variacao.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.proporcionalidade_e_variacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT302",
+      "questoes": [
+        "mat.em02.proporcionalidade_e_variacao.prova.01",
+        "mat.em02.proporcionalidade_e_variacao.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.proporcionalidade_e_variacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em02.proporcionalidade_e_variacao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Proporcionalidade e Variação",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT101",
+      "EM13MAT302"
+    ],
+    "atividadesOrigem": [
+      "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Proporcionalidade Direta e Inversa",
+        "enunciado": "Modele duas grandezas de um contexto científico com dados ou hipóteses explícitas, compare funções candidatas por tabelas, gráficos e taxas e discuta limites da escolha.",
+        "gabarito": "Conferir unidades, domínio, razão/produto, resíduos e comparação de taxas; poucos pontos não certificam uma lei universal.",
+        "bncc": [
+          "EM13MAT101",
+          "EM13MAT302"
+        ],
+        "atividadeOrigem": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa#proporcionalidade_direta_e_inversa.producao"
+      }
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        545
+      ],
+      "paginasImpressas": "543",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ]
+}

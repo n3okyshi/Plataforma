@@ -1,0 +1,106 @@
+{
+  "id": "mat.em02.trigonometria.leis_do_seno_e_do_cosseno",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 11,
+  "unidade": "Trigonometria",
+  "titulo": "Leis do Seno e do Cosseno",
+  "bncc": [
+    "EM13MAT308"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Crie e resolva um problema de distância inacessível usando uma das leis",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Para triângulos quaisquer, a/sen A=b/sen B=c/sen C",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Leis do Seno e do Cosseno</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Para triângulos quaisquer, a/sen A=b/sen B=c/sen C. A lei dos cossenos é c²=a²+b²−2ab cos C, com C compreendido entre a e b. Desenhe a correspondência e verifique condições; dados lado-lado-ângulo podem admitir ambiguidades.</p><h3>Exemplo resolvido</h3><p>Lados 5 e 7 com ângulo compreendido 60° têm lado oposto √(25+49−35)=√39. Se o ângulo fosse reto, a expressão voltaria a Pitágoras.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Crie e resolva um problema de distância inacessível usando uma das leis. Compare duas estratégias e investigue quando o conjunto de dados não determina um único triângulo.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "lei_dos_senos",
+      "lei_dos_cossenos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "leis_do_seno_e_do_cosseno.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com a=b=4 e C=60°, o terceiro lado mede:",
+      "alternativas": [
+        "√32",
+        "4",
+        "8"
+      ],
+      "correta": 1,
+      "explicacao": "c²=16+16−16=16."
+    },
+    {
+      "id": "leis_do_seno_e_do_cosseno.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie e resolva um problema de distância inacessível usando uma das leis. Compare duas estratégias e investigue quando o conjunto de dados não determina um único triângulo.",
+      "gabarito": "Conferir correspondências, domínio dos ângulos, soma 180° e plausibilidade do lado; não aceitar ramo impossível.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir correspondências, domínio dos ângulos, soma 180° e plausibilidade do lado; não aceitar ramo impossível.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "lei_dos_senos",
+    "lei_dos_cossenos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.trigonometria.semelhanca_de_poligonos"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

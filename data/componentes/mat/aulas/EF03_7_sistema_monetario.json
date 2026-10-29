@@ -2,36 +2,105 @@
   "id": "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.sistema_monetario",
   "componente": "mat",
   "nivel": "EF03",
-  "ordem": 7,
+  "ordem": 18,
   "unidade": "Grandezas e Medidas: Tempo e Dinheiro",
   "titulo": "Sistema Monetário",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF03MA24"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Crie uma compra e uma troca com cartões de valores do real",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Valores monetários podem ser representados por combinações diferentes de moedas e cédulas",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Comprando e Dando Troco</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolver problemas reais de compra e venda. Calcular quanto sobra de dinheiro (troco).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💰 Centavos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Lembre-se que 100 centavos formam 1 Real. Às vezes precisamos trocar notas por moedas para dar o troco.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Sistema Monetário</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Valores monetários podem ser representados por combinações diferentes de moedas e cédulas. Compare preço e pagamento, calcule o troco e confira recompondo o total pago. Os preços desta aula são fictícios, destinados ao cálculo e não à indicação de preços atuais.</p><h3>Exemplo resolvido</h3><p>Uma compra de R$ 37 paga com R$ 50 deixa R$ 13 de troco. 37+13=50 confirma. R$ 10 pode ser representado por 5+5 ou 2+2+2+2+2.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Crie uma compra e uma troca com cartões de valores do real. Proponha dois pagamentos equivalentes, calcule o troco e confira com outra estratégia.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 289</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "sistema_monetario",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "sistema_monetario.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma compra fictícia de R$ 46 paga com R$ 60 deixa:",
+      "alternativas": [
+        "R$ 14",
+        "R$ 16",
+        "R$ 106"
+      ],
+      "correta": 0,
+      "explicacao": "60−46=14."
+    },
+    {
+      "id": "sistema_monetario.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie uma compra e uma troca com cartões de valores do real. Proponha dois pagamentos equivalentes, calcule o troco e confira com outra estratégia.",
+      "gabarito": "As somas precisam corresponder aos valores representados. Avaliar pergunta, equivalência, preço e troco; aceitar combinações distintas corretas.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "As somas precisam corresponder aos valores representados. Avaliar pergunta, equivalência, preço e troco; aceitar combinações distintas corretas.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sistema_monetario",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        291
+      ],
+      "paginasImpressas": "289",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.grandezas_e_medidas_tempo_e_dinheiro.horas_e_minutos"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

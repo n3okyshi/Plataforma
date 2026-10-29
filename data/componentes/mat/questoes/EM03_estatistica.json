@@ -1,0 +1,386 @@
+[
+  {
+    "id": "mat.em03.estatistica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.introducao_a_estatistica",
+    "bncc": [
+      "EM13MAT102",
+      "EM13MAT406"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "20 em 1000 correspondem a:",
+    "opcoes": [
+      "20%",
+      "0,2%",
+      "2%"
+    ],
+    "correta": 2,
+    "explicacao": "20/1000=0,02.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          277
+        ],
+        "paginasImpressas": "280",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao",
+    "bncc": [
+      "EM13MAT316"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "A variância populacional de 2,2,2 é:",
+    "opcoes": [
+      "4",
+      "0",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "Todos os desvios em relação à média são zero.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          279
+        ],
+        "paginasImpressas": "282",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados",
+    "bncc": [
+      "EM13MAT202"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O relatório deve incluir:",
+    "opcoes": [
+      "Método, dados, análises e limites",
+      "Só a conclusão desejada",
+      "Valores inventados para ausência"
+    ],
+    "correta": 0,
+    "explicacao": "Transparência permite avaliar a evidência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.histogramas_e_diagramas_de_caixa",
+    "bncc": [
+      "EM13MAT407"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Um ponto marcado como outlier deve ser:",
+    "opcoes": [
+      "Apagado automaticamente",
+      "Tratado sempre como fraude",
+      "Investigado no contexto"
+    ],
+    "correta": 2,
+    "explicacao": "Pode ser valor legítimo ou erro; a marca não decide.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.correlacao_e_reta_de_ajuste",
+    "bncc": [
+      "EM13MAT510"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Para previsão nove e observação doze, resíduo observado−previsto é:",
+    "opcoes": [
+      "21",
+      "3",
+      "−3"
+    ],
+    "correta": 1,
+    "explicacao": "12−9=3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.introducao_a_estatistica",
+    "bncc": [
+      "EM13MAT102",
+      "EM13MAT406"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Comparar grupos de tamanhos distintos exige observar:",
+    "opcoes": [
+      "Somente totais absolutos",
+      "Somente a cor",
+      "Denominadores ou taxas"
+    ],
+    "correta": 2,
+    "explicacao": "Taxas ajudam a contextualizar a quantidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          277
+        ],
+        "paginasImpressas": "280",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.medidas_de_tendencia_central_e_medidas_de_dispersao",
+    "bncc": [
+      "EM13MAT316"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "O desvio padrão tem unidade:",
+    "opcoes": [
+      "Sem unidade em qualquer caso",
+      "Igual à da variável",
+      "Sempre quadrada"
+    ],
+    "correta": 1,
+    "explicacao": "É a raiz da variância.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EM.pdf",
+        "paginasPdf": [
+          279
+        ],
+        "paginasImpressas": "282",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.pesquisa_amostral_e_coleta_de_dados",
+    "bncc": [
+      "EM13MAT202"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Não resposta pode:",
+    "opcoes": [
+      "Introduzir viés",
+      "Nunca afetar resultados",
+      "Garantir independência"
+    ],
+    "correta": 0,
+    "explicacao": "Quem não responde pode diferir dos respondentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.histogramas_e_diagramas_de_caixa",
+    "bncc": [
+      "EM13MAT407"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Histograma muda quando alteramos classes?",
+    "opcoes": [
+      "Nunca",
+      "Só se os dados forem falsos",
+      "Pode mudar a aparência"
+    ],
+    "correta": 2,
+    "explicacao": "O agrupamento influencia o resumo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          548
+        ],
+        "paginasImpressas": "546",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em03.estatistica.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM03",
+    "unidade": "Estatística",
+    "aulaId": "mat.em03.estatistica.correlacao_e_reta_de_ajuste",
+    "bncc": [
+      "EM13MAT510"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Extrapolar muito além da faixa observada é:",
+    "opcoes": [
+      "Uma medição real",
+      "Dependente de hipóteses adicionais",
+      "Sempre seguro"
+    ],
+    "correta": 1,
+    "explicacao": "A relação pode mudar fora dos dados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

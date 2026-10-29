@@ -1,0 +1,108 @@
+{
+  "id": "mat.em03.grandezas_e_medidas.unidades_e_conversoes_no_cotidiano",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 20,
+  "unidade": "Grandezas e Medidas",
+  "titulo": "Unidades e Conversões no Cotidiano",
+  "bncc": [
+    "EM13MAT103",
+    "EM13MAT313",
+    "EM13MAT314"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Analise texto científico ou tecnológico com fonte e data, converta unidades, estime ordem de grandeza e interprete taxa ou produto",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Compatibilize unidades antes de calcular razões e produtos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Unidades e Conversões no Cotidiano</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Compatibilize unidades antes de calcular razões e produtos. Notação científica conserva coeficiente e potência; algarismos significativos indicam precisão limitada. Textos tecnológicos podem usar convenções decimais ou binárias de armazenamento: registre explicitamente a adotada. Razões como densidade (massa/volume) e produtos como energia (potência×tempo) exigem unidades compatíveis.</p><h3>Exemplo resolvido</h3><p>No modelo decimal, arquivo de 24 MB tem 192 megabits. A 12 megabits por segundo constantes, o tempo ideal é dezesseis segundos, sem perdas ou sobrecargas.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Analise texto científico ou tecnológico com fonte e data, converta unidades, estime ordem de grandeza e interprete taxa ou produto. Faça medição real e informe resolução e algarismo duvidoso. Resolva ainda um exemplo hipotético de densidade com massa e volume fornecidos e de energia com potência e tempo.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "unidades_de_medida",
+      "conversoes"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "unidades_e_conversoes_no_cotidiano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "8 MB na convenção decimal contêm:",
+      "alternativas": [
+        "8 megabits",
+        "64 megabits",
+        "1 megabit"
+      ],
+      "correta": 1,
+      "explicacao": "Um byte tem oito bits."
+    },
+    {
+      "id": "unidades_e_conversoes_no_cotidiano.producao",
+      "tipo": "discursiva",
+      "enunciado": "Analise texto científico ou tecnológico com fonte e data, converta unidades, estime ordem de grandeza e interprete taxa ou produto. Faça medição real e informe resolução e algarismo duvidoso. Resolva ainda um exemplo hipotético de densidade com massa e volume fornecidos e de energia com potência e tempo.",
+      "gabarito": "Conferir bits/bytes, fatores, unidade final e hipóteses. Diferenciar precisão de exatidão e valor ideal de tempo observado. Conferir densidade=massa/volume e energia=potência×tempo, sem supor massa universal por litro.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir bits/bytes, fatores, unidade final e hipóteses. Diferenciar precisão de exatidão e valor ideal de tempo observado. Conferir densidade=massa/volume e energia=potência×tempo, sem supor massa universal por litro.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "unidades_de_medida",
+    "conversoes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em03.grandezas_e_medidas.medicoes_de_area_volume_e_capacidade"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

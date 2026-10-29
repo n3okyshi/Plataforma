@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mat.ef05.propriedades_da_igualdade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Propriedades da Igualdade",
+    "aulaId": "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade",
+    "bncc": [
+      "EF05MA10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se a=b, qual transformação sempre preserva a igualdade?",
+    "opcoes": [
+      "a+7=b",
+      "a÷0=b÷0",
+      "a+7=b+7"
+    ],
+    "correta": 2,
+    "explicacao": "O mesmo acréscimo atinge os dois valores.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.propriedades_da_igualdade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Propriedades da Igualdade",
+    "aulaId": "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido",
+    "bncc": [
+      "EF05MA11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual completa □÷5=8?",
+    "opcoes": [
+      "3",
+      "40",
+      "13"
+    ],
+    "correta": 1,
+    "explicacao": "Quarenta dividido por cinco é oito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.propriedades_da_igualdade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Propriedades da Igualdade",
+    "aulaId": "mat.ef05.propriedades_da_igualdade.propriedades_da_igualdade",
+    "bncc": [
+      "EF05MA10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Por que não dividir ambos os membros por zero?",
+    "opcoes": [
+      "Porque sempre dá um",
+      "Porque sempre dá zero",
+      "Divisão por zero não é definida"
+    ],
+    "correta": 2,
+    "explicacao": "A condição de divisor não nulo é necessária.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef05.propriedades_da_igualdade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF05",
+    "unidade": "Propriedades da Igualdade",
+    "aulaId": "mat.ef05.propriedades_da_igualdade.problemas_com_termo_desconhecido",
+    "bncc": [
+      "EF05MA11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um valor somado a 48 dá 125. Ele é:",
+    "opcoes": [
+      "87",
+      "77",
+      "173"
+    ],
+    "correta": 1,
+    "explicacao": "125−48=77.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          297
+        ],
+        "paginasImpressas": "295",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "id": "mat.em02.estatistica_e_probabilidade.espacos_amostrais_e_eventos",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 21,
+  "unidade": "Estatística e Probabilidade",
+  "titulo": "Espaços Amostrais e Eventos",
+  "bncc": [
+    "EM13MAT311",
+    "EM13MAT511"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Construa árvore ou tabela de dois dados, calcule chances de duas somas e compare com sorteio uniforme em intervalo",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Resultados possíveis podem ser discretos ou contínuos e equiprováveis ou não",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Espaços Amostrais e Eventos</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Resultados possíveis podem ser discretos ou contínuos e equiprováveis ou não. Para dois dados equilibrados, os pares ordenados têm a mesma chance, mas suas somas não. No contínuo uniforme, probabilidades de intervalos dependem de comprimentos, não de contar pontos.</p><h3>Exemplo resolvido</h3><p>Soma sete em dois dados tem seis pares entre 36; soma dois tem apenas um. A lista de somas de dois a doze não é equiprovável.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa árvore ou tabela de dois dados, calcule chances de duas somas e compare com sorteio uniforme em intervalo. Elabore decisão hipotética baseada nas diferenças e explique limites.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li><li>MC_MATEM_EM.pdf — páginas impressas 267, 269, 270</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "espaco_amostral",
+      "eventos",
+      "probabilidade"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "espacos_amostrais_e_eventos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A soma sete em dois dados equilibrados tem chance:",
+      "alternativas": [
+        "1/6",
+        "1/11",
+        "1/36"
+      ],
+      "correta": 0,
+      "explicacao": "Seis pares favoráveis entre trinta e seis."
+    },
+    {
+      "id": "espacos_amostrais_e_eventos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa árvore ou tabela de dois dados, calcule chances de duas somas e compare com sorteio uniforme em intervalo. Elabore decisão hipotética baseada nas diferenças e explique limites.",
+      "gabarito": "Conferir 36 pares, seis para soma sete, um para dois e interpretação do contínuo; não usar favoráveis/total contando somas como iguais.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir 36 pares, seis para soma sete, um para dois e interpretação do contínuo; não usar favoráveis/total contando somas como iguais.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "espaco_amostral",
+    "eventos",
+    "probabilidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        264,
+        266,
+        267
+      ],
+      "paginasImpressas": "267, 269, 270",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.estatistica_e_probabilidade.duas_variaveis_e_reta_de_ajuste"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

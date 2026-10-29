@@ -5,33 +5,111 @@
   "ordem": 1,
   "unidade": "Números de 1 a 1000",
   "titulo": "Leitura e Escrita de Números até 1000",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF03MA01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Escreva por extenso 508, 580 e 1000; represente dois deles com agrupamentos e ordene os três.",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Ler um numeral é relacionar sua escrita aos valores das ordens",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números até 1000</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Consolidando o sistema decimal. Aprendemos a compor (juntar) e decompor (separar) os números: Centena, Dezena e Unidade.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📝 Por Extenso:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Escrever o nome do número ajuda a entender o valor. Ex: 234 = Duzentos e trinta e quatro.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Leitura e Escrita de Números até 1000</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Ler um numeral é relacionar sua escrita aos valores das ordens. Compare primeiro centenas, depois dezenas e unidades. O zero conserva uma posição sem quantidade naquela ordem. Mil vem após novecentos e noventa e nove.</p><h3>Exemplo resolvido</h3><p>407 lê-se quatrocentos e sete; 470 lê-se quatrocentos e setenta. Quatro centenas iguais não tornam os números iguais.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Escreva por extenso 508, 580 e 1000; represente dois deles com agrupamentos e ordene os três.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 287</li><li>MC_MATEM_EF.pdf — páginas impressas 16, 17</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "leitura_e_escrita",
+      "sistema_decimal"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "leitura_e_escrita_de_numeros_ate_1000.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Como se lê 609?",
+      "alternativas": [
+        "Sessenta e nove",
+        "Seiscentos e noventa",
+        "Seiscentos e nove"
+      ],
+      "correta": 2,
+      "explicacao": "São seis centenas, zero dezenas e nove unidades."
+    },
+    {
+      "id": "leitura_e_escrita_de_numeros_ate_1000.producao",
+      "tipo": "discursiva",
+      "enunciado": "Escreva por extenso 508, 580 e 1000; represente dois deles com agrupamentos e ordene os três.",
+      "gabarito": "Quinhentos e oito; quinhentos e oitenta; mil. 508<580<1000. Conferir a função do zero e a concordância entre fala, peças e numeral.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Quinhentos e oito; quinhentos e oitenta; mil. 508<580<1000. Conferir a função do zero e a concordância entre fala, peças e numeral.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "leitura_e_escrita",
+    "sistema_decimal"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13,
+        14
+      ],
+      "paginasImpressas": "16, 17",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef03.numeros_de_1_a_1000.reta_numerica"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

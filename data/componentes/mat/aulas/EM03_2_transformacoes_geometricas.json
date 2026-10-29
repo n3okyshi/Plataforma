@@ -2,36 +2,105 @@
   "id": "mat.em03.geometria_no_plano_cartesiano.transformacoes_geometricas",
   "componente": "mat",
   "nivel": "EM03",
-  "ordem": 2,
+  "ordem": 16,
   "unidade": "Geometria no Plano Cartesiano",
   "titulo": "Transformações Geométricas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT105"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construa padrão artístico ou fractal simples por isometrias e homotetias, registre regras e parâmetros e investigue duas ordens de composição",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Transformações podem ser descritas por coordenadas e composições",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Matrizes e Transformações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Como mover figuras no plano cartesiano usando matemática. Análise de isometrias (reflexão, translação, rotação).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎮 Computação Gráfica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Multiplicar coordenadas por <strong>Matrizes</strong> é a base para rotacionar e redimensionar personagens em jogos 3D.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Transformações Geométricas</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Transformações podem ser descritas por coordenadas e composições. Isometrias conservam distâncias e ângulos; homotetias mantêm ângulos e razões entre lados. A ordem da composição pode alterar a imagem. Use construções e padrões para justificar, não apenas uma fórmula decorada.</p><h3>Exemplo resolvido</h3><p>Refletir (1,2) no eixo y e transladar três à direita dá (2,2). Inverter a ordem dá (−4,2), mostrando composições diferentes.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Construa padrão artístico ou fractal simples por isometrias e homotetias, registre regras e parâmetros e investigue duas ordens de composição. Compare razões de comprimento e área.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "transformacoes_geometricas",
+      "isometrias"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "transformacoes_geometricas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Rotação de 90° anti-horária em torno da origem leva (2,3) a:",
+      "alternativas": [
+        "(3,−2)",
+        "(−2,−3)",
+        "(−3,2)"
+      ],
+      "correta": 2,
+      "explicacao": "Regra (x,y)→(−y,x)."
+    },
+    {
+      "id": "transformacoes_geometricas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Construa padrão artístico ou fractal simples por isometrias e homotetias, registre regras e parâmetros e investigue duas ordens de composição. Compare razões de comprimento e área.",
+      "gabarito": "Avaliar execução, correspondência e parâmetros; homotetia negativa inclui inversão em relação ao centro.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar execução, correspondência e parâmetros; homotetia negativa inclui inversão em relação ao centro.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "transformacoes_geometricas",
+    "isometrias"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em03.geometria_no_plano_cartesiano.geometria_analitica_ponto_reta_e_circunferencia"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

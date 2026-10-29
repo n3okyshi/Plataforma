@@ -1,0 +1,117 @@
+{
+  "id": "mat.ef05.adicao_e_subtracao_com_numeros_naturais.problemas_de_adicao_e_subtracao",
+  "componente": "mat",
+  "nivel": "EF05",
+  "ordem": 7,
+  "unidade": "Adição e Subtração com Números Naturais",
+  "titulo": "Problemas de Adição e Subtração",
+  "bncc": [
+    "EF05MA07"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Elabore uma situação com duas medidas decimais, uma soma e uma diferença",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Uma resposta exata e uma estimativa têm finalidades diferentes",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Problemas de Adição e Subtração</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Uma resposta exata e uma estimativa têm finalidades diferentes. Escolha o procedimento pelo significado de juntar, retirar, comparar ou completar e confira a plausibilidade. Quantidades decimais precisam representar a mesma grandeza antes de serem reunidas.</p><h3>Exemplo resolvido</h3><p>Uma caminhada de 2,35 km e outra de 1,8 km totalizam 4,15 km. Para chegar a 5 km, faltam 0,85 km.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Elabore uma situação com duas medidas decimais, uma soma e uma diferença. Represente-a por desenho ou tabela, estime e resolva com cálculo mental e escrito.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 295</li><li>MC_MATEM_EF.pdf — páginas impressas 98, 100</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "adicao",
+      "subtracao",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "problemas_de_adicao_e_subtracao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para completar 6 km após percorrer 4,65 km, faltam:",
+      "alternativas": [
+        "2,35 km",
+        "10,65 km",
+        "1,35 km"
+      ],
+      "correta": 2,
+      "explicacao": "6−4,65=1,35."
+    },
+    {
+      "id": "problemas_de_adicao_e_subtracao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Elabore uma situação com duas medidas decimais, uma soma e uma diferença. Represente-a por desenho ou tabela, estime e resolva com cálculo mental e escrito.",
+      "gabarito": "Avaliar coerência dos dados, unidade comum, operações e conferência. As respostas dependem da situação criada.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar coerência dos dados, unidade comum, operações e conferência. As respostas dependem da situação criada.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "adicao",
+    "subtracao",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        97
+      ],
+      "paginasImpressas": "98, 100",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef05.adicao_e_subtracao_com_numeros_naturais.operacoes_e_expressoes_numericas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

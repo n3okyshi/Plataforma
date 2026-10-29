@@ -1,0 +1,170 @@
+{
+  "id": "mat.em02.geometria_espacial.prova",
+  "titulo": "Avaliação: Geometria Espacial",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EM02",
+  "unidade": "Geometria Espacial",
+  "bncc": [
+    "EM13MAT309",
+    "EM13MAT504",
+    "EM13MAT509"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "complementar": false,
+  "instrucoes": "Parte objetiva com 6 itens de igual peso, totalizando dez pontos; correção ao final. Portfólio com critérios por produção, avaliado separadamente pelo professor. Use leitura mediada e registros orais ou desenhos quando adequados. Unidades complementares têm avaliação opcional; complementos avulsos não são exigidos na prova principal.",
+  "questoes": [
+    "mat.em02.geometria_espacial.prova.01",
+    "mat.em02.geometria_espacial.prova.02",
+    "mat.em02.geometria_espacial.prova.03",
+    "mat.em02.geometria_espacial.prova.04",
+    "mat.em02.geometria_espacial.prova.05",
+    "mat.em02.geometria_espacial.prova.06"
+  ],
+  "criterios": "Cada item objetivo vale 10/6 pontos. As produções têm devolutiva docente sem nota automática; observar execução e revisão.",
+  "matriz": [
+    {
+      "bncc": "EM13MAT309",
+      "questoes": [
+        "mat.em02.geometria_espacial.prova.01",
+        "mat.em02.geometria_espacial.prova.02",
+        "mat.em02.geometria_espacial.prova.03",
+        "mat.em02.geometria_espacial.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.geometria_espacial.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.geometria_espacial.introducao_a_geometria_espacial#introducao_a_geometria_espacial.producao",
+        "mat.em02.geometria_espacial.prismas_e_cilindros#prismas_e_cilindros.producao",
+        "mat.em02.geometria_espacial.piramide_e_cone#piramide_e_cone.producao",
+        "mat.em02.geometria_espacial.area_e_volume_da_esfera#area_e_volume_da_esfera.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT504",
+      "questoes": [
+        "mat.em02.geometria_espacial.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.geometria_espacial.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri#volumes_e_principio_de_cavalieri.producao"
+      ]
+    },
+    {
+      "bncc": "EM13MAT509",
+      "questoes": [
+        "mat.em02.geometria_espacial.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.em02.geometria_espacial.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas#esfera_e_projecoes_cartograficas.producao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.em02.geometria_espacial.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produções: Geometria Espacial",
+    "enunciado": "Execute ou revise as produções da unidade; o professor observa cada tarefa pelos critérios específicos. Pesquisas, medidas e programas exigem registros da execução real.",
+    "gabarito": "Use as orientações de cada tarefa para conferir e revisar, sem substituir sua execução pela leitura da resposta.",
+    "bncc": [
+      "EM13MAT309",
+      "EM13MAT504",
+      "EM13MAT509"
+    ],
+    "atividadesOrigem": [
+      "mat.em02.geometria_espacial.introducao_a_geometria_espacial#introducao_a_geometria_espacial.producao",
+      "mat.em02.geometria_espacial.prismas_e_cilindros#prismas_e_cilindros.producao",
+      "mat.em02.geometria_espacial.piramide_e_cone#piramide_e_cone.producao",
+      "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas#esfera_e_projecoes_cartograficas.producao",
+      "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri#volumes_e_principio_de_cavalieri.producao",
+      "mat.em02.geometria_espacial.area_e_volume_da_esfera#area_e_volume_da_esfera.producao"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Introdução à Geometria Espacial",
+        "enunciado": "Modele uma embalagem real por um sólido, registre aproximações e meça o necessário para calcular espaço interno e material de cobertura. Explique o que o modelo não representa.",
+        "gabarito": "Conferir sólido, dimensões, unidades quadradas/cúbicas e limites da aproximação; não usar medidas ocultas inventadas.",
+        "bncc": [
+          "EM13MAT309"
+        ],
+        "atividadeOrigem": "mat.em02.geometria_espacial.introducao_a_geometria_espacial#introducao_a_geometria_espacial.producao"
+      },
+      {
+        "titulo": "Prismas e Cilindros",
+        "enunciado": "Compare uma caixa retangular e um cilindro de capacidades próximas, calculando material para modelos abertos e fechados. Elabore problema de pintura de uma composição e justifique áreas expostas.",
+        "gabarito": "Conferir medidas, conversões e exclusão das regiões de contato; não contar superfície interna como externa sem o enunciado pedir.",
+        "bncc": [
+          "EM13MAT309"
+        ],
+        "atividadeOrigem": "mat.em02.geometria_espacial.prismas_e_cilindros#prismas_e_cilindros.producao"
+      },
+      {
+        "titulo": "Pirâmide e Cone",
+        "enunciado": "Elabore problemas de volume e revestimento de pirâmide e cone, inclua sólido composto e identifique regiões de contato. Compare altura e geratriz num desenho.",
+        "gabarito": "Conferir fator um terço, altura perpendicular, área das faces triangulares e superfícies expostas; pirâmide exige dados de apótema lateral quando necessários.",
+        "bncc": [
+          "EM13MAT309"
+        ],
+        "atividadeOrigem": "mat.em02.geometria_espacial.piramide_e_cone#piramide_e_cone.producao"
+      },
+      {
+        "titulo": "Esfera e Projeções Cartográficas",
+        "enunciado": "Construa grades em esfera ou globo e compare transferências para cilindro e cone de papel, ou mapas de fontes cartográficas identificadas. Compare ângulos e áreas em duas regiões e explique quais propriedades mudam, registrando o método.",
+        "gabarito": "Conferir comparação efetiva, regra de projeção e regiões. Nem todo desenho cônico preserva área ou ângulo; não generalizar propriedades de uma projeção específica para a família inteira.",
+        "bncc": [
+          "EM13MAT509"
+        ],
+        "atividadeOrigem": "mat.em02.geometria_espacial.esfera_e_projecoes_cartograficas#esfera_e_projecoes_cartograficas.producao"
+      },
+      {
+        "titulo": "Volumes e Princípio de Cavalieri",
+        "enunciado": "Investigue volumes de prismas e cilindros por camadas. Compare pirâmide/prisma e cone/cilindro de base e altura iguais por modelos, enchimentos ou seções, registre dados e explique o papel de Cavalieri na generalização.",
+        "gabarito": "Avaliar construção ou simulação efetiva, altura comum e áreas seccionais comparadas corretamente. Empirismo isolado não demonstra a fórmula geral; cone e pirâmide variam seccionalmente de modo quadrático.",
+        "bncc": [
+          "EM13MAT504"
+        ],
+        "atividadeOrigem": "mat.em02.geometria_espacial.volumes_e_principio_de_cavalieri#volumes_e_principio_de_cavalieri.producao"
+      },
+      {
+        "titulo": "Área e Volume da Esfera",
+        "enunciado": "Elabore e resolva problema de revestimento e capacidade de objeto esférico e de um composto com hemisfério. Desenhe superfícies expostas e explique aproximações.",
+        "gabarito": "Conferir raio, unidades, metade da esfera quando cabível e inclusão da base plana apenas se exposta.",
+        "bncc": [
+          "EM13MAT309"
+        ],
+        "atividadeOrigem": "mat.em02.geometria_espacial.area_e_volume_da_esfera#area_e_volume_da_esfera.producao"
+      }
+    ],
+    "duracaoMinSugerida": 180,
+    "rubrica": [
+      "Conferir cada produção pelos critérios específicos da aula; registrar atende, em desenvolvimento ou retomar com justificativa.",
+      "Verificar execução real de construções, medições, pesquisas, experimentos e programas quando solicitados.",
+      "Avaliar raciocínio, condições, unidades e limites, além do resultado.",
+      "Solicitar revisão após devolutiva; a nota objetiva não certifica domínio."
+    ],
+    "correcao": "Docente por tarefa, com autoavaliação orientada; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "USGS — Map projections: A working manual",
+      "url": "https://www.usgs.gov/educational-resources/map-projections-working-manual",
+      "uso": "Fonte cartográfica complementar: famílias de projeção e deformações; explicações e investigação autorais."
+    }
+  ]
+}

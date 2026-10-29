@@ -1,0 +1,144 @@
+[
+  {
+    "id": "mat.em02.proporcionalidade_e_variacao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Proporcionalidade e Variação",
+    "aulaId": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa",
+    "bncc": [
+      "EM13MAT101",
+      "EM13MAT302"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Entre x=2 e x=4 em y=x², a taxa média é:",
+    "opcoes": [
+      "4",
+      "12",
+      "6"
+    ],
+    "correta": 2,
+    "explicacao": "(16−4)/(4−2)=6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.proporcionalidade_e_variacao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Proporcionalidade e Variação",
+    "aulaId": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa",
+    "bncc": [
+      "EM13MAT101",
+      "EM13MAT302"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Qual é inversamente proporcional para x>0?",
+    "opcoes": [
+      "y=20x",
+      "y=x+20",
+      "y=20/x"
+    ],
+    "correta": 2,
+    "explicacao": "O produto xy é vinte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.proporcionalidade_e_variacao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Proporcionalidade e Variação",
+    "aulaId": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa",
+    "bncc": [
+      "EM13MAT101"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Em y=x², entre x=1 e x=2 a taxa média é:",
+    "opcoes": [
+      "1",
+      "3",
+      "2"
+    ],
+    "correta": 1,
+    "explicacao": "(4−1)/(2−1)=3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.em02.proporcionalidade_e_variacao.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EM02",
+    "unidade": "Proporcionalidade e Variação",
+    "aulaId": "mat.em02.proporcionalidade_e_variacao.proporcionalidade_direta_e_inversa",
+    "bncc": [
+      "EM13MAT302"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 3,
+    "pergunta": "Na relação y=5x+10, dobrar x sempre dobra y?",
+    "opcoes": [
+      "Não",
+      "Sim",
+      "Somente porque é reta"
+    ],
+    "correta": 0,
+    "explicacao": "A parcela fixa dez impede proporcionalidade direta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          545
+        ],
+        "paginasImpressas": "543",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

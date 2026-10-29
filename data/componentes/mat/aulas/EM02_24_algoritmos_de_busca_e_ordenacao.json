@@ -1,0 +1,107 @@
+{
+  "id": "mat.em02.computacao_e_modelagem.algoritmos_de_busca_e_ordenacao",
+  "componente": "mat",
+  "nivel": "EM02",
+  "ordem": 24,
+  "unidade": "Computação e Modelagem",
+  "titulo": "Algoritmos de Busca e Ordenação",
+  "bncc": [
+    "EM13MAT315",
+    "EM13MAT405"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe fluxogramas, implemente busca sequencial e binária e teste alvo presente, ausente e lista vazia",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Busca sequencial percorre elementos até achar o alvo ou terminar",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Algoritmos de Busca e Ordenação</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Busca sequencial percorre elementos até achar o alvo ou terminar. Busca binária reduz um intervalo pela metade, mas exige dados ordenados. Ordenação por inserção mantém uma parte ordenada e insere o próximo elemento. Descreva invariantes e casos-limite antes de implementar.</p><h3>Exemplo resolvido</h3><p>Na lista [2,5,8,11,14], a busca binária de onze compara com oito e restringe ao trecho à direita. Uma lista desordenada quebra essa justificativa.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Código de apoio — Python</h3><pre><code>def busca_binaria(valores, alvo):\n    if any(valores[i] &gt; valores[i+1] for i in range(len(valores)-1)):\n        raise ValueError(&quot;Lista deve estar ordenada&quot;)\n    inicio, fim = 0, len(valores)-1\n    while inicio &lt;= fim:\n        meio = (inicio+fim)//2\n        if valores[meio] == alvo:\n            return meio\n        if valores[meio] &lt; alvo:\n            inicio = meio+1\n        else:\n            fim = meio-1\n    return None\n\ndef insercao(valores):\n    saida = list(valores)\n    for i in range(1, len(saida)):\n        valor, j = saida[i], i-1\n        while j &gt;= 0 and saida[j] &gt; valor:\n            saida[j+1] = saida[j]\n            j -= 1\n        saida[j+1] = valor\n    return saida\n\nprint(busca_binaria([2,5,8,11], 8), insercao([3,1,2]))</code></pre><h3>Investigue, construa ou produza</h3><p>Desenhe fluxogramas, implemente busca sequencial e binária e teste alvo presente, ausente e lista vazia. Implemente inserção e compare saídas com ordenação conferida manualmente.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 544</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "algoritmos",
+      "programacao"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "algoritmos_de_busca_e_ordenacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Busca binária pressupõe:",
+      "alternativas": [
+        "Lista ordenada",
+        "Apenas números positivos",
+        "Lista de tamanho par"
+      ],
+      "correta": 0,
+      "explicacao": "A redução de intervalo depende da ordem."
+    },
+    {
+      "id": "algoritmos_de_busca_e_ordenacao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe fluxogramas, implemente busca sequencial e binária e teste alvo presente, ausente e lista vazia. Implemente inserção e compare saídas com ordenação conferida manualmente.",
+      "gabarito": "Avaliar execução, limites dos índices e hipótese de ordenação. Número de passos depende dos dados e do algoritmo; não afirmar tempo real só por contar comparações.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar execução, limites dos índices e hipótese de ordenação. Número de passos depende dos dados e do algoritmo; não afirmar tempo real só por contar comparações.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "algoritmos",
+    "programacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        546
+      ],
+      "paginasImpressas": "544",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.computacao_e_modelagem.modelagem_matematica_de_problemas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 15,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 30,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 30,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 15,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+[
+  {
+    "id": "mat.ef04.problemas_de_contagem.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Problemas de Contagem",
+    "aulaId": "mat.ef04.problemas_de_contagem.combinacoes_simples",
+    "bncc": [
+      "EF04MA08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas blusas e quatro calças permitem:",
+    "opcoes": [
+      "6 combinações",
+      "4 combinações",
+      "8 combinações"
+    ],
+    "correta": 2,
+    "explicacao": "Cada blusa se combina com quatro calças.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.problemas_de_contagem.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Problemas de Contagem",
+    "aulaId": "mat.ef04.problemas_de_contagem.combinacoes_simples",
+    "bncc": [
+      "EF04MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Cinco sabores e dois tamanhos permitem:",
+    "opcoes": [
+      "7 escolhas",
+      "5 escolhas",
+      "10 escolhas"
+    ],
+    "correta": 2,
+    "explicacao": "Cinco grupos de duas escolhas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.problemas_de_contagem.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Problemas de Contagem",
+    "aulaId": "mat.ef04.problemas_de_contagem.combinacoes_simples",
+    "bncc": [
+      "EF04MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quatro opções de suco e três de sanduíche, livremente combináveis, formam:",
+    "opcoes": [
+      "24 pares",
+      "12 pares",
+      "7 pares"
+    ],
+    "correta": 1,
+    "explicacao": "Cada suco se combina com três sanduíches.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef04.problemas_de_contagem.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF04",
+    "unidade": "Problemas de Contagem",
+    "aulaId": "mat.ef04.problemas_de_contagem.combinacoes_simples",
+    "bncc": [
+      "EF04MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Numa tabela com duas linhas e cinco colunas, um par por célula, há:",
+    "opcoes": [
+      "10 pares",
+      "7 pares",
+      "5 pares"
+    ],
+    "correta": 0,
+    "explicacao": "Contar os cruzamentos: duas vezes cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          293
+        ],
+        "paginasImpressas": "291",
+        "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34
+        ],
+        "paginasImpressas": "37",
+        "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "id": "mat.ef03.geometria.trajetos_e_croquis",
+  "componente": "mat",
+  "nivel": "EF03",
+  "ordem": 14,
+  "unidade": "Geometria",
+  "titulo": "Trajetos e Croquis",
+  "bncc": [
+    "EF03MA12"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Esboce um trajeto real entre dois pontos próximos, com três referências e mudanças de direção e sentido",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Croquis e maquetes registram caminhos por referências",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Trajetos e Croquis</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Croquis e maquetes registram caminhos por referências. Identifique ponto inicial, direção, sentido e mudanças no percurso. Uma mesma posição pode ser descrita por mais de uma referência; as instruções precisam combinar o ponto de vista.</p><h3>Exemplo resolvido</h3><p>Num croqui, sair da porta, seguir até a mesa e virar em direção à janela utiliza três referências. Retornar pelo mesmo caminho muda o sentido.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Esboce um trajeto real entre dois pontos próximos, com três referências e mudanças de direção e sentido. Peça que alguém interprete; registre e corrija ambiguidades.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 287</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "localizacao",
+      "deslocamento"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "trajetos_e_croquis.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No retorno pelo mesmo trecho, muda principalmente:",
+      "alternativas": [
+        "A quantidade de portas",
+        "O sentido",
+        "O nome do lugar"
+      ],
+      "correta": 1,
+      "explicacao": "Percorre-se o trecho em orientação contrária de avanço."
+    },
+    {
+      "id": "trajetos_e_croquis.producao",
+      "tipo": "discursiva",
+      "enunciado": "Esboce um trajeto real entre dois pontos próximos, com três referências e mudanças de direção e sentido. Peça que alguém interprete; registre e corrija ambiguidades.",
+      "gabarito": "Avaliar concordância com o ambiente, referência explícita, início, fim e orientação; não exigir escala técnica.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar concordância com o ambiente, referência explícita, início, fim e orientação; não exigir escala técnica.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "localizacao",
+    "deslocamento"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        289
+      ],
+      "paginasImpressas": "287",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef03.geometria.figuras_planas_e_seus_lados"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

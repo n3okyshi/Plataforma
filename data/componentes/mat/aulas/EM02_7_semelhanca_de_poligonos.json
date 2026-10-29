@@ -2,36 +2,107 @@
   "id": "mat.em02.trigonometria.semelhanca_de_poligonos",
   "componente": "mat",
   "nivel": "EM02",
-  "ordem": 7,
+  "ordem": 10,
   "unidade": "Trigonometria",
   "titulo": "Semelhança de Polígonos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EM13MAT308"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Modele uma medição indireta por triângulos semelhantes, explicando verticalidade, terreno e direção dos raios",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Semelhança de triângulos pode ser reconhecida por AA, lados proporcionais ou dois lados proporcionais e ângulo compreendido igual",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Semelhança (Base da Trigonometria)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Compreensão da razão de semelhança. Se os ângulos são mantidos, os lados crescem proporcionalmente.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔗 Conexão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Isso fundamenta o porquê de o seno de 30º ser sempre 0,5, não importa o tamanho do triângulo.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Semelhança de Polígonos</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Semelhança de triângulos pode ser reconhecida por AA, lados proporcionais ou dois lados proporcionais e ângulo compreendido igual. Para polígonos gerais, ângulos iguais sozinhos não bastam. Declare hipóteses de modelos de sombras ou escalas.</p><h3>Exemplo resolvido</h3><p>Triângulos de lados 3,4,5 e 6,8,10 são semelhantes de fator dois. Retângulos 2×3 e 2×4 têm ângulos iguais, mas razões de lados incompatíveis.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Modele uma medição indireta por triângulos semelhantes, explicando verticalidade, terreno e direção dos raios. Resolva e elabore problema de ampliação e compare escalas lineares e áreas.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 545</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "semelhanca",
+      "poligonos"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "semelhanca_de_poligonos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Triângulo semelhante a 4,5,6 por fator três tem lados:",
+      "alternativas": [
+        "7,8,9",
+        "8,10,12",
+        "12,15,18"
+      ],
+      "correta": 2,
+      "explicacao": "Multiplicar todos por três preserva razão comum."
+    },
+    {
+      "id": "semelhanca_de_poligonos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Modele uma medição indireta por triângulos semelhantes, explicando verticalidade, terreno e direção dos raios. Resolva e elabore problema de ampliação e compare escalas lineares e áreas.",
+      "gabarito": "Conferir correspondências, critérios e unidades; áreas variam com o quadrado do fator.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Conferir correspondências, critérios e unidades; áreas variam com o quadrado do fator.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "semelhanca",
+    "poligonos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        547
+      ],
+      "paginasImpressas": "545",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.em02.trigonometria.relacoes_trigonometricas"
+  ],
+  "proximosPassos": [
+    "mat.em02.trigonometria.leis_do_seno_e_do_cosseno"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

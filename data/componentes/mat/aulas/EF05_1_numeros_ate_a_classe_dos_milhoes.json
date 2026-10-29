@@ -4,34 +4,110 @@
   "nivel": "EF05",
   "ordem": 1,
   "unidade": "Sistema de Numeração Decimal",
-  "titulo": "Números até a Classe dos Milhões",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Sistema Decimal até Centenas de Milhar",
+  "bncc": [
+    "EF05MA01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Leia, decomponha e ordene 603408,630408 e 630480",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "No 5º ano, a habilidade focaliza números até centenas de milhar",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Classe dos Milhões</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Expandindo nossos horizontes para números gigantes! Leitura, escrita e o valor de cada algarismo até a casa dos milhões.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🌍 População:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Usamos esses números para contar habitantes de países. Ex: O Brasil tem mais de 200 milhões de pessoas!</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Sistema Decimal até Centenas de Milhar</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>No 5º ano, a habilidade focaliza números até centenas de milhar. A posição determina o valor dos algarismos; zeros conservam ordens sem quantidade. Ler, escrever, comparar e decompor são representações da mesma quantidade. Como ampliação complementar, dez centenas de milhar formam um milhão, sem confundir esse aprofundamento com o limite da habilidade.</p><h3>Exemplo resolvido</h3><p>405072=400000+5000+70+2, quatrocentos e cinco mil e setenta e dois. Comparado a 450072, tem menos dezenas de milhar.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Leia, decomponha e ordene 603408,630408 e 630480. Marque posições aproximadas numa reta e explique os zeros.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 295</li><li>MC_MATEM_EF.pdf — páginas impressas 16, 17</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "sistema_decimal",
+      "milhoes"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
+  "atividades": [
+    {
+      "id": "numeros_ate_a_classe_dos_milhoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 708045, o 8 representa:",
+      "alternativas": [
+        "800",
+        "80",
+        "8000"
+      ],
+      "correta": 2,
+      "explicacao": "Oito unidades de milhar."
+    },
+    {
+      "id": "numeros_ate_a_classe_dos_milhoes.producao",
+      "tipo": "discursiva",
+      "enunciado": "Leia, decomponha e ordene 603408,630408 e 630480. Marque posições aproximadas numa reta e explique os zeros.",
+      "gabarito": "Seiscentos e três mil quatrocentos e oito; seiscentos e trinta mil quatrocentos e oito; seiscentos e trinta mil quatrocentos e oitenta. Ordem conforme apresentada; conferir posições.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Seiscentos e três mil quatrocentos e oito; seiscentos e trinta mil quatrocentos e oito; seiscentos e trinta mil quatrocentos e oitenta. Ordem conforme apresentada; conferir posições.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sistema_decimal",
+    "milhoes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13,
+        14
+      ],
+      "paginasImpressas": "16, 17",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
   "preRequisitos": [],
   "proximosPassos": [],
-  "fontes": [],
-  "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }

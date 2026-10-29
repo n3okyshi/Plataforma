@@ -1,0 +1,115 @@
+{
+  "id": "mat.ef05.proporcionalidade.grandezas_diretamente_proporcionais",
+  "componente": "mat",
+  "nivel": "EF05",
+  "ordem": 16,
+  "unidade": "Proporcionalidade",
+  "titulo": "Grandezas Diretamente Proporcionais",
+  "bncc": [
+    "EF05MA12"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Adapte uma receita de quatro para dez porções; crie tabela de preço por quantidade com valor unitário constante e explique uma ampliação de escala",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Na proporcionalidade direta, multiplicar uma quantidade por um fator multiplica a outra pelo mesmo fator, nas condições mantidas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Grandezas Diretamente Proporcionais</h2><p>Use material, desenhos e leitura mediada quando necessário; um adulto pode ajudar a registrar a produção. A explicação importa mais que a velocidade.</p><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Na proporcionalidade direta, multiplicar uma quantidade por um fator multiplica a outra pelo mesmo fator, nas condições mantidas. Preço unitário constante, receitas e escalas são exemplos. Uma taxa fixa adicional pode romper a proporcionalidade.</p><h3>Exemplo resolvido</h3><p>Se três porções usam 450 mL, seis usam 900 mL e uma usa 150 mL, mantendo a receita.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Adapte uma receita de quatro para dez porções; crie tabela de preço por quantidade com valor unitário constante e explique uma ampliação de escala. Compare com preço que tenha taxa fixa.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 295</li><li>MC_MATEM_EF.pdf — páginas impressas 173, 177</li></ul>"
+      }
+    ],
+    "vocabulario": [
+      "proporcionalidade",
+      "grandezas"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "grandezas_diretamente_proporcionais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Se dois itens custam 14 reais com preço unitário fixo, cinco custam:",
+      "alternativas": [
+        "17 reais",
+        "28 reais",
+        "35 reais"
+      ],
+      "correta": 2,
+      "explicacao": "Um custa sete e cinco custam trinta e cinco."
+    },
+    {
+      "id": "grandezas_diretamente_proporcionais.producao",
+      "tipo": "discursiva",
+      "enunciado": "Adapte uma receita de quatro para dez porções; crie tabela de preço por quantidade com valor unitário constante e explique uma ampliação de escala. Compare com preço que tenha taxa fixa.",
+      "gabarito": "Aplicar fator 10/4=2,5 em todos os ingredientes; mostrar a razão unitária e por que a taxa fixa muda o modelo.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Aplicar fator 10/4=2,5 em todos os ingredientes; mostrar a razão unitária e por que a taxa fixa muda o modelo.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "proporcionalidade",
+    "grandezas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        297
+      ],
+      "paginasImpressas": "295",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        174
+      ],
+      "paginasImpressas": "173, 177",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef05.proporcionalidade.partilha_em_partes_desiguais"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
+}

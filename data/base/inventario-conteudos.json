@@ -144,6 +144,102 @@
       "homologacaoDocente": "pendente",
       "revisaoVisualEAcessibilidade": "pendente",
       "persistenciaFirebase": "pendente"
+    },
+    "mat.EF03": {
+      "aulas": 24,
+      "unidades": 10,
+      "habilidadesReferenciadas": 28,
+      "atividades": 48,
+      "questoesTreino": 24,
+      "questoesProva": 28,
+      "provas": 10,
+      "etapasPraticas": 10,
+      "complementares": 0,
+      "estado": "piloto_integral",
+      "homologacaoDocente": "pendente",
+      "aplicacaoEmTurma": "pendente",
+      "revisaoVisualEAcessibilidade": "pendente",
+      "persistenciaFirebase": "pendente"
+    },
+    "mat.EF04": {
+      "aulas": 20,
+      "unidades": 11,
+      "habilidadesReferenciadas": 28,
+      "atividades": 40,
+      "questoesTreino": 20,
+      "questoesProva": 32,
+      "provas": 11,
+      "etapasPraticas": 11,
+      "complementares": 0,
+      "estado": "piloto_integral",
+      "homologacaoDocente": "pendente",
+      "aplicacaoEmTurma": "pendente",
+      "revisaoVisualEAcessibilidade": "pendente",
+      "persistenciaFirebase": "pendente"
+    },
+    "mat.EF05": {
+      "aulas": 22,
+      "unidades": 11,
+      "habilidadesReferenciadas": 25,
+      "atividades": 44,
+      "questoesTreino": 22,
+      "questoesProva": 28,
+      "provas": 11,
+      "etapasPraticas": 11,
+      "complementares": 0,
+      "estado": "piloto_integral",
+      "homologacaoDocente": "pendente",
+      "aplicacaoEmTurma": "pendente",
+      "revisaoVisualEAcessibilidade": "pendente",
+      "persistenciaFirebase": "pendente"
+    },
+    "mat.EM01": {
+      "aulas": 27,
+      "unidades": 11,
+      "habilidadesReferenciadas": 25,
+      "atividades": 54,
+      "questoesTreino": 27,
+      "questoesProva": 28,
+      "provas": 11,
+      "etapasPraticas": 11,
+      "complementares": 3,
+      "estado": "piloto_integral",
+      "homologacaoDocente": "pendente",
+      "aplicacaoEmTurma": "pendente",
+      "revisaoVisualEAcessibilidade": "pendente",
+      "persistenciaFirebase": "pendente"
+    },
+    "mat.EM02": {
+      "aulas": 24,
+      "unidades": 7,
+      "habilidadesReferenciadas": 19,
+      "atividades": 48,
+      "questoesTreino": 24,
+      "questoesProva": 24,
+      "provas": 7,
+      "etapasPraticas": 7,
+      "complementares": 2,
+      "estado": "piloto_integral",
+      "homologacaoDocente": "pendente",
+      "aplicacaoEmTurma": "pendente",
+      "revisaoVisualEAcessibilidade": "pendente",
+      "persistenciaFirebase": "pendente"
+    },
+    "mat.EM03": {
+      "aulas": 30,
+      "unidades": 10,
+      "habilidadesReferenciadas": 23,
+      "atividades": 60,
+      "questoesTreino": 30,
+      "questoesProva": 30,
+      "provas": 10,
+      "etapasPraticas": 10,
+      "complementares": 9,
+      "estado": "piloto_integral",
+      "homologacaoDocente": "pendente",
+      "aplicacaoEmTurma": "pendente",
+      "revisaoVisualEAcessibilidade": "pendente",
+      "persistenciaFirebase": "pendente"
     }
   },
   "ampliacaoAnosIniciais": {
@@ -161,24 +257,33 @@
       },
       {
         "nivel": "EF03",
-        "estado": "planejamento_a_completar",
+        "estado": "lote_integral_para_testes",
         "observacao": "Não tratar planejamento ou vínculo de código como conteúdo concluído."
       },
       {
         "nivel": "EF04",
-        "estado": "planejamento_a_completar",
+        "estado": "lote_integral_para_testes",
         "observacao": "Não tratar planejamento ou vínculo de código como conteúdo concluído."
       },
       {
         "nivel": "EF05",
-        "estado": "planejamento_a_completar",
+        "estado": "lote_integral_para_testes",
         "observacao": "Não tratar planejamento ou vínculo de código como conteúdo concluído."
       }
     ],
     "lacunas": [
-      "Matemática EF02–EF05 ainda requer autoria em todas as camadas.",
-      "Língua Portuguesa EF01–EF05 e Ciências EF01–EF05 incluídas no escopo, sem novos lotes concluídos.",
-      "Manual Compacto usado como referência conceitual; não representa sequência pronta para alfabetização matemática."
+      "Matemática EF01–EF09 implementada para testes; homologação e uso real pendentes.",
+      "Língua Portuguesa e Ciências continuam em planejamento, sem novos lotes concluídos."
+    ]
+  },
+  "matematicaEnsinoMedio": {
+    "estado": "piloto_integral",
+    "habilidadesDaEtapa": 43,
+    "distribuicao": "Proposta de série do projeto, registrada em cobertura_EM.json.",
+    "pendencias": [
+      "Aplicação em turma e homologação docente.",
+      "Revisão visual e acessibilidade.",
+      "Firebase e cache em ambiente real."
     ]
   }
 }

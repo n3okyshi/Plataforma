@@ -1,0 +1,102 @@
+{
+  "id": "mat.em03.complexos_e_polinomios_complementar.forma_trigonometrica_e_raizes_complexas",
+  "componente": "mat",
+  "nivel": "EM03",
+  "ordem": 23,
+  "unidade": "Complexos e Polinômios — Complementar",
+  "titulo": "Forma trigonometrica e raizes complexas",
+  "bncc": [],
+  "duracaoMin": 60,
+  "dificuldade": 3,
+  "conteudo": {
+    "objetivos": [
+      "Converta 1+i para forma trigonométrica, calcule sua quarta potência e construa as quatro raízes de −1 no plano, justificando módulos e argumentos.",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Para z≠0, z=r(cos θ+i sen θ), r>0; argumentos diferem por 2kπ",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Forma trigonometrica e raizes complexas</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Para z≠0, z=r(cos θ+i sen θ), r&gt;0; argumentos diferem por 2kπ. Multiplicar soma argumentos e multiplica módulos. De Moivre dá z^n=r^n(cos nθ+i sen nθ). Raízes de ordem n distribuem argumentos (θ+2kπ)/n, k=0,…,n−1. Zero tem módulo zero e não possui argumento definido.</p><h3>Exemplo resolvido</h3><p>As raízes cúbicas de um são 1 e os pontos de argumentos 2π/3 e 4π/3 no círculo unitário. Formam três vértices igualmente espaçados.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Converta 1+i para forma trigonométrica, calcule sua quarta potência e construa as quatro raízes de −1 no plano, justificando módulos e argumentos.</p><h3>Fontes</h3><ul><li>MC_MATEM_EM.pdf — páginas impressas 326, 327</li></ul>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "forma_trigonometrica_e_raizes_complexas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O módulo de (1+i)⁴ é:",
+      "alternativas": [
+        "√2",
+        "4",
+        "2"
+      ],
+      "correta": 1,
+      "explicacao": "(√2)^4=4."
+    },
+    {
+      "id": "forma_trigonometrica_e_raizes_complexas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Converta 1+i para forma trigonométrica, calcule sua quarta potência e construa as quatro raízes de −1 no plano, justificando módulos e argumentos.",
+      "gabarito": "1+i tem módulo √2 e argumento π/4; quarta potência −4. Raízes de −1: módulo um, argumentos π/4,3π/4,5π/4,7π/4.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "1+i tem módulo √2 e argumento π/4; quarta potência −4. Raízes de −1: módulo um, argumentos π/4,3π/4,5π/4,7π/4.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        323,
+        324
+      ],
+      "paginasImpressas": "326, 327",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
+  "metadados": {
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": true,
+  "preRequisitos": [
+    "mat.em03.complexos_e_polinomios_complementar.numeros_complexos_e_operacoes"
+  ],
+  "proximosPassos": [
+    "mat.em03.complexos_e_polinomios_complementar.polinomios_operacoes_e_divisao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ],
+  "observacaoCurricular": "Apoio ou aprofundamento complementar, sem associação artificial a habilidade obrigatória específica. Não bloqueia a progressão principal."
+}

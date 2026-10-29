@@ -2,36 +2,118 @@
   "id": "mat.em03.analise_combinatoria_e_probabilidade.analise_combinatoria_diferentes_estrategias_de_contagem",
   "componente": "mat",
   "nivel": "EM03",
-  "ordem": 5,
+  "ordem": 1,
   "unidade": "Análise Combinatória e Probabilidade",
-  "titulo": "Análise Combinatória - Diferentes Estratégias de Contagem",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Análise Combinatória: Diferentes Estratégias de Contagem",
+  "bncc": [
+    "EM13MAT310"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 3,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Elabore um problema ordenável e outro não ordenável com restrição",
+      "Explicar e conferir procedimentos e resultados."
+    ],
+    "resumo": "Contar exige esclarecer ordem, repetição e restrições",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Análise Combinatória</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Técnicas avançadas de contagem: Permutação, Arranjo e Combinação.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🤔 O Grande Dilema:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A ordem importa? <br><strong>Sim:</strong> Arranjo (Pódio, Senha). <br><strong>Não:</strong> Combinação (Grupo de estudo, Carta de baralho).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Análise Combinatória: Diferentes Estratégias de Contagem</h2><p>Esta sequência pode ocupar mais de um encontro, especialmente nas construções, pesquisas e projetos.</p><h3>Ideias e relações</h3><p>Contar exige esclarecer ordem, repetição e restrições. O princípio aditivo reúne casos disjuntos; o multiplicativo combina etapas. Permutações ordenam todos os elementos; arranjos selecionam e ordenam; combinações selecionam sem ordem. Justifique divisões por simetria antes de usar fórmulas.</p><h3>Exemplo resolvido</h3><p>Escolher comissão de três entre cinco dá 5×4×3/3!=10, pois as seis ordens da mesma comissão não criam novas comissões.</p><h3>Atenção</h3><p>Confira as condições, a representação e a unidade antes de concluir.</p><h3>Investigue, construa ou produza</h3><p>Elabore um problema ordenável e outro não ordenável com restrição. Resolva por árvore ou tabela e por contagem algébrica, explicando duplicações e casos disjuntos.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — páginas impressas 546</li><li>MC_MATEM_EM.pdf — páginas impressas 235, 240, 244, 245, 247, 250</li></ul>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "analise_combinatoria",
+      "contagem"
+    ],
+    "errosComuns": [
+      "Confira as condições, a representação e a unidade antes de concluir."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "analise_combinatoria_diferentes_estrategias_de_contagem.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Escolher dois entre seis, sem ordem, permite:",
+      "alternativas": [
+        "30",
+        "12",
+        "15"
+      ],
+      "correta": 2,
+      "explicacao": "6×5/2=15."
+    },
+    {
+      "id": "analise_combinatoria_diferentes_estrategias_de_contagem.producao",
+      "tipo": "discursiva",
+      "enunciado": "Elabore um problema ordenável e outro não ordenável com restrição. Resolva por árvore ou tabela e por contagem algébrica, explicando duplicações e casos disjuntos.",
+      "gabarito": "Avaliar espaço e condições; comissão difere de cargos distintos. Fatorial de zero é um e fórmulas precisam de parâmetros válidos.",
+      "rubrica": [
+        "Executar a produção solicitada e apresentar registros verificáveis.",
+        "Avaliar espaço e condições; comissão difere de cargos distintos. Fatorial de zero é um e fórmulas precisam de parâmetros válidos.",
+        "Explicar procedimentos, propriedades, condições e unidades; revisar após a devolutiva."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "analise_combinatoria",
+    "contagem"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        548
+      ],
+      "paginasImpressas": "546",
+      "uso": "Delimitação curricular; explicações e itens autorais. Habilidades EM13 referem-se à etapa, não a uma série oficial fixa."
+    },
+    {
+      "documento": "MC_MATEM_EM.pdf",
+      "paginasPdf": [
+        232,
+        237,
+        241,
+        242,
+        244,
+        247
+      ],
+      "paginasImpressas": "235, 240, 244, 245, 247, 250",
+      "uso": "Referência conceitual consultada; adaptação e exemplos autorais, sem transcrição de exercícios."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 4,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida; aplicação das produções e homologação docente, revisão visual e acessibilidade, Firebase e cache reais pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.em03.analise_combinatoria_e_probabilidade.probabilidade"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 10,
+      "acao": "Diagnosticar conhecimentos prévios e discutir condições."
+    },
+    {
+      "min": 20,
+      "acao": "Construir relações, representações e exemplo."
+    },
+    {
+      "min": 20,
+      "acao": "Executar aplicação e produção; desdobrar em encontros se necessário."
+    },
+    {
+      "min": 10,
+      "acao": "Conferir e dar devolutiva com critérios específicos."
+    }
+  ]
 }
