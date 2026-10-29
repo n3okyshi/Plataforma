@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef02.padroes_e_sequencias.elementos_ausentes_em_sequencias",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 31,
+  "unidade": "Padrões e Sequências",
+  "titulo": "Elementos Ausentes em Sequências",
+  "bncc": [
+    "EF02MA11"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Encontrar e justificar elementos ausentes de sequências."
+    ],
+    "resumo": "Encontrar e justificar elementos ausentes de sequências.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Elementos Ausentes em Sequências</h2><h3>O que vamos aprender</h3><p>Encontrar e justificar elementos ausentes de sequências.</p><h3>Ideias e relações</h3><p>Para preencher um espaço vazio, procure a regra indicada e teste os elementos vizinhos. Em uma sequência numérica recursiva, verifique o passo antes e depois da lacuna. Em uma sequência repetitiva, localize a posição dentro do bloco que se repete. Explicar o que falta ajuda a mostrar que você reconheceu a regularidade. Se houver mais de uma regra possível, diga qual está sendo usada.</p><h3>Exemplo resolvido</h3><p>Com a regra “somar três”, 8,11,espaço vazio,17 deve ter 14 na lacuna: 11+3=14 e 14+3=17.</p><h3>Atenção ao raciocínio</h3><p>Uma resposta que funciona só antes da lacuna pode quebrar a regra depois dela.</p><h3>Investigue e produza</h3><p>Complete, pela regra retirar dois: 22,__,18,16. Depois complete um padrão de bloco círculo, quadrado, quadrado: círculo, quadrado,__,círculo. Explique as duas respostas.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "padroes",
+      "elementos_ausentes"
+    ],
+    "errosComuns": [
+      "Uma resposta que funciona só antes da lacuna pode quebrar a regra depois dela."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "elementos_ausentes_em_sequencias.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A regra é somar 3. Em 8,11,__,17, falta:",
+      "alternativas": [
+        "12",
+        "15",
+        "14"
+      ],
+      "correta": 2,
+      "explicacao": "Quatorze mantém o mesmo passo de três nas duas ligações."
+    },
+    {
+      "id": "elementos_ausentes_em_sequencias.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Complete, pela regra retirar dois: 22,__,18,16. Depois complete um padrão de bloco círculo, quadrado, quadrado: círculo, quadrado,__,círculo. Explique as duas respostas.",
+      "gabarito": "Faltam 20 e quadrado. Justificar pela subtração de dois e pela posição no bloco de três figuras, respectivamente.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Faltam 20 e quadrado. Justificar pela subtração de dois e pela posição no bloco de três figuras, respectivamente.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "padroes",
+    "elementos_ausentes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.padroes_e_sequencias.sequencias_repetitivas_e_recursivas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

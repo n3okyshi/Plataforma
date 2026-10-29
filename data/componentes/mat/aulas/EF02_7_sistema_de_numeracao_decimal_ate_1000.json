@@ -2,36 +2,118 @@
   "id": "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000",
   "componente": "mat",
   "nivel": "EF02",
-  "ordem": 7,
+  "ordem": 3,
   "unidade": "Números até 1000",
   "titulo": "Sistema de Numeração Decimal (até 1000)",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF02MA01",
+    "EF02MA02",
+    "EF02MA04"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Contar coleções maiores e relacionar agrupamentos à escrita decimal."
+    ],
+    "resumo": "Contar coleções maiores e relacionar agrupamentos à escrita decimal.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Até o Mil!</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Caminhando na reta numérica até chegar no 1000. Quem vem antes (antecessor) e quem vem depois (sucessor)?\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 Valor Posicional:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O número 5 vale 5 na unidade, 50 na dezena e 500 na centena. O lugar onde ele senta muda tudo!</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Sistema de Numeração Decimal (até 1000)</h2><h3>O que vamos aprender</h3><p>Contar coleções maiores e relacionar agrupamentos à escrita decimal.</p><h3>Ideias e relações</h3><p>Na organização decimal, cada grupo de dez pode ser reunido numa unidade de ordem seguinte. Contar de cem em cem ajuda a acompanhar coleções grandes. Em 608, há seis centenas, nenhuma dezena solta e oito unidades. Uma coleção também pode ser registrada por grupos diferentes: o total precisa ser conservado. Para chegar a mil objetos, são necessários dez grupos completos de cem. A contagem até mil pode ser construída ao longo de várias coletas, com registros conferidos.</p><h3>Exemplo resolvido</h3><p>Uma coleção com sete grupos de cem, dois de dez e cinco unidades tem 725 objetos. Podemos conferir 700 + 20 + 5 e dizer “setecentos e vinte e cinco”.</p><h3>Atenção ao raciocínio</h3><p>Um grupo contado como centena precisa conter cem objetos; não basta receber esse nome.</p><h3>Investigue e produza</h3><p>Organize uma coleção da turma em grupos de dez e de cem, usando tamanho viável e ampliando gradualmente até mil. Estime antes, registre a contagem por grupos e numeral e explique como conferiu. Represente ainda 608 por duas adições.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "sistema_decimal",
+      "valor_posicional"
+    ],
+    "errosComuns": [
+      "Um grupo contado como centena precisa conter cem objetos; não basta receber esse nome."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "sistema_de_numeracao_decimal_ate_1000.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Sete centenas, duas dezenas e cinco unidades formam:",
+      "alternativas": [
+        "725",
+        "752",
+        "275"
+      ],
+      "correta": 0,
+      "explicacao": "Os valores são 700, 20 e 5, que totalizam 725."
+    },
+    {
+      "id": "sistema_de_numeracao_decimal_ate_1000.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Organize uma coleção da turma em grupos de dez e de cem, usando tamanho viável e ampliando gradualmente até mil. Estime antes, registre a contagem por grupos e numeral e explique como conferiu. Represente ainda 608 por duas adições.",
+      "gabarito": "Os registros devem corresponder à coleção efetiva e conservar a contagem ao reagrupar. 608=600+8=500+100+8. Registrar a função do zero. Dez centenas formam mil; não inventar uma coleta que não foi realizada.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Os registros devem corresponder à coleção efetiva e conservar a contagem ao reagrupar. 608=600+8=500+100+8. Registrar a função do zero. Dez centenas formam mil; não inventar uma coleta que não foi realizada.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sistema_decimal",
+    "valor_posicional"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13
+      ],
+      "paginasImpressas": "16",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef02.numeros_ate_1000.comparacao_e_ordenacao_ate_1000"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

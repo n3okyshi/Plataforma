@@ -1,0 +1,117 @@
+{
+  "id": "mat.ef02.regioes_planas_e_seus_contornos.comparacao_de_figuras_planas",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 14,
+  "unidade": "Regiões Planas e seus Contornos",
+  "titulo": "Comparação de Figuras Planas",
+  "bncc": [
+    "EF02MA15"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Comparar características comuns e diferentes de figuras planas."
+    ],
+    "resumo": "Comparar características comuns e diferentes de figuras planas.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Comparação de Figuras Planas</h2><h3>O que vamos aprender</h3><p>Comparar características comuns e diferentes de figuras planas.</p><h3>Ideias e relações</h3><p>Comparar figuras é explicar semelhanças e diferenças. Quadrado e retângulo têm quatro lados retos e quatro cantos retos; no quadrado, os quatro lados têm a mesma medida. Um retângulo pode ter lados vizinhos de medidas diferentes. Um triângulo tem três lados, enquanto o círculo não tem lados retos. Desenhar em posições diferentes ajuda a conferir se estamos observando propriedades ou apenas uma aparência habitual.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Quadrado girado, retângulo e triângulo, com lados destacados pelo contorno.\" style=\"max-width:100%;color:inherit\"><title>Quadrado girado, retângulo e triângulo, com lados destacados pelo contorno.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"3\"><path d=\"M80 45 130 95 80 145 30 95Z\"/><rect x=\"175\" y=\"65\" width=\"100\" height=\"60\"/><path d=\"M320 140 375 45 420 140Z\"/></g><g fill=\"currentColor\" font-size=\"15\"><text x=\"35\" y=\"190\">Quadrado</text><text x=\"180\" y=\"190\">Retângulo</text><text x=\"325\" y=\"190\">Triângulo</text></g></svg><h3>Exemplo resolvido</h3><p>Um quadrado de lado três e um retângulo de lados três e cinco têm quatro cantos retos. O segundo não é quadrado porque seus quatro lados não têm a mesma medida.</p><h3>Atenção ao raciocínio</h3><p>Não afirme que um quadrado deixa de ser retângulo: ele satisfaz as características de retângulo e tem ainda quatro lados iguais.</p><h3>Investigue e produza</h3><p>Faça uma coleção de desenhos em posições variadas. Separe os que têm três lados, quatro cantos retos ou contorno sem lados retos. Explique por que um quadrado pode entrar no grupo dos retângulos.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "figuras_planas",
+      "comparacao"
+    ],
+    "errosComuns": [
+      "Não afirme que um quadrado deixa de ser retângulo: ele satisfaz as características de retângulo e tem ainda quatro lados iguais."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "comparacao_de_figuras_planas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O que quadrados e retângulos sempre têm em comum?",
+      "alternativas": [
+        "Três lados",
+        "Quatro cantos retos",
+        "Todos os lados com medidas diferentes"
+      ],
+      "correta": 1,
+      "explicacao": "Os quatro cantos retos são uma característica comum aos dois."
+    },
+    {
+      "id": "comparacao_de_figuras_planas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Faça uma coleção de desenhos em posições variadas. Separe os que têm três lados, quatro cantos retos ou contorno sem lados retos. Explique por que um quadrado pode entrar no grupo dos retângulos.",
+      "gabarito": "A classificação deve respeitar as características. Quadrados pertencem ao grupo de figuras com quatro cantos retos; diferenciam-se pela igualdade dos quatro lados.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "A classificação deve respeitar as características. Quadrados pertencem ao grupo de figuras com quatro cantos retos; diferenciam-se pela igualdade dos quatro lados.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_planas",
+    "comparacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.regioes_planas_e_seus_contornos.figuras_planas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

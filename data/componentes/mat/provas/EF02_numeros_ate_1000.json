@@ -1,0 +1,170 @@
+{
+  "id": "mat.ef02.numeros_ate_1000.prova",
+  "titulo": "Avaliação: Números até 1000",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF02",
+  "unidade": "Números até 1000",
+  "bncc": [
+    "EF02MA01",
+    "EF02MA02",
+    "EF02MA04",
+    "EF02MA05"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef02.numeros_ate_1000.prova.01",
+    "mat.ef02.numeros_ate_1000.prova.02",
+    "mat.ef02.numeros_ate_1000.prova.03",
+    "mat.ef02.numeros_ate_1000.prova.04",
+    "mat.ef02.numeros_ate_1000.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF02MA01",
+      "questoes": [
+        "mat.ef02.numeros_ate_1000.prova.02",
+        "mat.ef02.numeros_ate_1000.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.numeros_ate_1000.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000#sistema_de_numeracao_decimal_ate_1000.investigacao",
+        "mat.ef02.numeros_ate_1000.comparacao_e_ordenacao_ate_1000#comparacao_e_ordenacao_ate_1000.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02MA02",
+      "questoes": [
+        "mat.ef02.numeros_ate_1000.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.numeros_ate_1000.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000#sistema_de_numeracao_decimal_ate_1000.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02MA04",
+      "questoes": [
+        "mat.ef02.numeros_ate_1000.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.numeros_ate_1000.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000#sistema_de_numeracao_decimal_ate_1000.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02MA05",
+      "questoes": [
+        "mat.ef02.numeros_ate_1000.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.numeros_ate_1000.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.numeros_ate_1000.fatos_basicos_da_adicao_e_subtracao#fatos_basicos_da_adicao_e_subtracao.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef02.numeros_ate_1000.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Números até 1000",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Organize uma coleção da turma em grupos de dez e de cem, usando tamanho viável e ampliando gradualmente até mil. Estime antes, registre a contagem por grupos e numeral e explique como conferiu. Represente ainda 608 por duas adições. 2. Ordene 305, 350, 299 e 351. Represente dois deles com agrupamentos e explique uma comparação sem depender do desenho. Na reta ilustrada, localize 520 e 560 e explique por que o segundo é maior. 3. Construa com peças os fatos 7+6, 13−6 e 13−7. Depois use uma dessas relações para explicar 17+6 e confira por desenho ou decomposição.",
+    "gabarito": "Conferência por tarefa: 1. Os registros devem corresponder à coleção efetiva e conservar a contagem ao reagrupar. 608=600+8=500+100+8. Registrar a função do zero. Dez centenas formam mil; não inventar uma coleta que não foi realizada. 2. Ordem crescente: 299,305,350,351. Justificar centenas, dezenas e unidades, incluindo o zero em 305 e a diferença de uma unidade entre 350 e 351. A reta tem passos de dez; 560 fica quatro intervalos de dez à direita de 520. 3. 7+6=13; 13−6=7; 13−7=6. 17+6=23, por exemplo mantendo a dezena de 17 e usando 7+6. Aceitar outras estratégias corretas e explicadas.",
+    "bncc": [
+      "EF02MA01",
+      "EF02MA02",
+      "EF02MA04",
+      "EF02MA05"
+    ],
+    "atividadesOrigem": [
+      "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000#sistema_de_numeracao_decimal_ate_1000.investigacao",
+      "mat.ef02.numeros_ate_1000.comparacao_e_ordenacao_ate_1000#comparacao_e_ordenacao_ate_1000.investigacao",
+      "mat.ef02.numeros_ate_1000.fatos_basicos_da_adicao_e_subtracao#fatos_basicos_da_adicao_e_subtracao.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Sistema de Numeração Decimal (até 1000)",
+        "enunciado": "Organize uma coleção da turma em grupos de dez e de cem, usando tamanho viável e ampliando gradualmente até mil. Estime antes, registre a contagem por grupos e numeral e explique como conferiu. Represente ainda 608 por duas adições.",
+        "gabarito": "Os registros devem corresponder à coleção efetiva e conservar a contagem ao reagrupar. 608=600+8=500+100+8. Registrar a função do zero. Dez centenas formam mil; não inventar uma coleta que não foi realizada.",
+        "bncc": [
+          "EF02MA01",
+          "EF02MA02",
+          "EF02MA04"
+        ],
+        "atividadeOrigem": "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000#sistema_de_numeracao_decimal_ate_1000.investigacao"
+      },
+      {
+        "titulo": "Comparação e Ordenação até 1000",
+        "enunciado": "Ordene 305, 350, 299 e 351. Represente dois deles com agrupamentos e explique uma comparação sem depender do desenho. Na reta ilustrada, localize 520 e 560 e explique por que o segundo é maior.",
+        "gabarito": "Ordem crescente: 299,305,350,351. Justificar centenas, dezenas e unidades, incluindo o zero em 305 e a diferença de uma unidade entre 350 e 351. A reta tem passos de dez; 560 fica quatro intervalos de dez à direita de 520.",
+        "bncc": [
+          "EF02MA01"
+        ],
+        "atividadeOrigem": "mat.ef02.numeros_ate_1000.comparacao_e_ordenacao_ate_1000#comparacao_e_ordenacao_ate_1000.investigacao"
+      },
+      {
+        "titulo": "Fatos Básicos da Adição e Subtração",
+        "enunciado": "Construa com peças os fatos 7+6, 13−6 e 13−7. Depois use uma dessas relações para explicar 17+6 e confira por desenho ou decomposição.",
+        "gabarito": "7+6=13; 13−6=7; 13−7=6. 17+6=23, por exemplo mantendo a dezena de 17 e usando 7+6. Aceitar outras estratégias corretas e explicadas.",
+        "bncc": [
+          "EF02MA05"
+        ],
+        "atividadeOrigem": "mat.ef02.numeros_ate_1000.fatos_basicos_da_adicao_e_subtracao#fatos_basicos_da_adicao_e_subtracao.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13
+      ],
+      "paginasImpressas": "16",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14
+      ],
+      "paginasImpressas": "17",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        32
+      ],
+      "paginasImpressas": "32, 35",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ]
+}

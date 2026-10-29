@@ -1,0 +1,105 @@
+{
+  "id": "mat.ef02.grandezas_e_suas_medidas.relogio_digital_e_duracao",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 22,
+  "unidade": "Grandezas e suas medidas",
+  "titulo": "Relógio Digital e Duração",
+  "bncc": [
+    "EF02MA19"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Registrar início e fim e medir duração por relógio digital."
+    ],
+    "resumo": "Registrar início e fim e medir duração por relógio digital.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Relógio Digital e Duração</h2><h3>O que vamos aprender</h3><p>Registrar início e fim e medir duração por relógio digital.</p><h3>Ideias e relações</h3><p>Um relógio digital registra horas e minutos. Em 09:15, são nove horas e quinze minutos. Para medir uma atividade, registre o início e o fim e conte o tempo decorrido. Cada hora tem sessenta minutos. Quando o intervalo atravessa uma hora, podemos contar até a hora seguinte e depois o restante. Os horários devem ser observados de verdade na tarefa prática; exemplos inventados precisam ser identificados como exemplos.</p><h3>Exemplo resolvido</h3><p>No exemplo, uma atividade começa às 09:45 e termina às 10:10. De 09:45 a 10:00 são quinze minutos; depois mais dez. A duração é de vinte e cinco minutos.</p><h3>Atenção ao raciocínio</h3><p>Subtrair apenas os algarismos finais, como 10−45, não resolve um intervalo que atravessa a hora.</p><h3>Investigue e produza</h3><p>Com ajuda de um adulto, observe num relógio digital o início e o fim de uma atividade curta. Registre ambos e calcule a duração. Compare sua estratégia com a contagem em trechos até uma hora completa, se houver passagem de hora.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": [
+      "Subtrair apenas os algarismos finais, como 10−45, não resolve um intervalo que atravessa a hora."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "relogio_digital_e_duracao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma atividade de exemplo vai de 09:45 a 10:10. Dura:",
+      "alternativas": [
+        "35 minutos",
+        "65 minutos",
+        "25 minutos"
+      ],
+      "correta": 2,
+      "explicacao": "Quinze minutos até as dez e mais dez minutos totalizam vinte e cinco."
+    },
+    {
+      "id": "relogio_digital_e_duracao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com ajuda de um adulto, observe num relógio digital o início e o fim de uma atividade curta. Registre ambos e calcule a duração. Compare sua estratégia com a contagem em trechos até uma hora completa, se houver passagem de hora.",
+      "gabarito": "Os horários devem ser efetivamente observados. Conferir o cálculo com sessenta minutos por hora e a concordância entre registros e duração; não exigir que a atividade atravesse uma hora para ser válida.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Os horários devem ser efetivamente observados. Conferir o cálculo com sessenta minutos por hora e a concordância entre registros e duração; não exigir que a atividade atravesse uma hora para ser válida.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        287
+      ],
+      "paginasImpressas": "285",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.grandezas_e_suas_medidas.intervalos_de_tempo"
+  ],
+  "proximosPassos": [
+    "mat.ef02.grandezas_e_suas_medidas.equivalencia_entre_moedas_e_cedulas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

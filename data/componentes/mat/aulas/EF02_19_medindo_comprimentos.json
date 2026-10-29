@@ -1,0 +1,121 @@
+{
+  "id": "mat.ef02.grandezas_e_suas_medidas.medindo_comprimentos",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 19,
+  "unidade": "Grandezas e suas medidas",
+  "titulo": "Medindo Comprimentos",
+  "bncc": [
+    "EF02MA16"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Medir e comparar lados e contornos de salas e polígonos."
+    ],
+    "resumo": "Medir e comparar lados e contornos de salas e polígonos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Medindo Comprimentos</h2><h3>O que vamos aprender</h3><p>Medir e comparar lados e contornos de salas e polígonos.</p><h3>Ideias e relações</h3><p>Para medir o contorno de uma figura, percorra todos os lados uma vez. Registre cada comprimento com a mesma unidade antes de reunir os resultados. Numa sala, uma fita pode precisar ser reposicionada: marque onde terminou cada trecho para evitar lacunas ou repetição. Use instrumentos adequados e compare com uma estimativa inicial. Passos iguais ou outras unidades não padronizadas podem servir à exploração, mas a medida deve dizer qual unidade foi usada.</p><h3>Exemplo resolvido</h3><p>Um retângulo tem lados de 8 cm, 5 cm, 8 cm e 5 cm. O contorno completo mede 26 cm, pois todos os quatro lados foram incluídos.</p><h3>Atenção ao raciocínio</h3><p>Medir apenas um lado não informa o comprimento do contorno inteiro.</p><h3>Investigue e produza</h3><p>Estime e meça os lados de um desenho poligonal. Depois, com um adulto, meça lados de uma sala e registre o contorno; compare um trecho também por passos de tamanho consistente. Explique como evitou contar um lado duas vezes.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "medidas",
+      "comprimento"
+    ],
+    "errosComuns": [
+      "Medir apenas um lado não informa o comprimento do contorno inteiro."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "medindo_comprimentos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um retângulo tem lados 8,5,8 e 5 cm. O contorno mede:",
+      "alternativas": [
+        "13 cm",
+        "40 cm",
+        "26 cm"
+      ],
+      "correta": 2,
+      "explicacao": "Somar os quatro lados dá 8+5+8+5=26 cm."
+    },
+    {
+      "id": "medindo_comprimentos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Estime e meça os lados de um desenho poligonal. Depois, com um adulto, meça lados de uma sala e registre o contorno; compare um trecho também por passos de tamanho consistente. Explique como evitou contar um lado duas vezes.",
+      "gabarito": "Os resultados dependem do ambiente e do desenho. Verificar unidades, todos os lados incluídos e coerência da soma. Distinguir comprimento do contorno e área; não exigir cálculo de área nesta tarefa.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Os resultados dependem do ambiente e do desenho. Verificar unidades, todos os lados incluídos e coerência da soma. Distinguir comprimento do contorno e área; não exigir cálculo de área nesta tarefa.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "medidas",
+    "comprimento"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        287
+      ],
+      "paginasImpressas": "285",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        110,
+        111
+      ],
+      "paginasImpressas": "112, 113, 114",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.grandezas_e_suas_medidas.medidas_padronizadas"
+  ],
+  "proximosPassos": [
+    "mat.ef02.grandezas_e_suas_medidas.massa_e_capacidade"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

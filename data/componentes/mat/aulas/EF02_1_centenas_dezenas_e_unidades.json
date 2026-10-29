@@ -5,33 +5,114 @@
   "ordem": 1,
   "unidade": "Números até 199",
   "titulo": "Centenas, Dezenas e Unidades",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF02MA01",
+    "EF02MA04"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Ler o valor dos algarismos e representar números de três ordens com material."
+    ],
+    "resumo": "Ler o valor dos algarismos e representar números de três ordens com material.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Casa das Centenas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conhecendo números maiores! Usamos o <strong>Material Dourado</strong> para entender que 10 barrinhas formam uma placa (100).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧱 O Jogo da Troca:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Juntou 10 cubinhos? Troca por uma barrinha. Juntou 10 barrinhas? Troca por uma placa (Centena)!</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Centenas, Dezenas e Unidades</h2><h3>O que vamos aprender</h3><p>Ler o valor dos algarismos e representar números de três ordens com material.</p><h3>Ideias e relações</h3><p>Dez unidades podem ser reunidas em uma dezena; dez dezenas formam uma centena. Em 143, o 1 representa cem unidades, o 4 representa quarenta e o 3 representa três. O valor depende da posição. Em 104, o zero informa que não há dezenas soltas nessa representação; ele mantém a posição dos outros algarismos. Use peças, grupos desenhados ou material de base dez para relacionar cada algarismo à quantidade que representa.</p><table><caption>Representações de 143</caption><thead><tr><th>Centenas</th><th>Dezenas</th><th>Unidades</th></tr></thead><tbody><tr><td>1</td><td>4</td><td>3</td></tr></tbody></table><h3>Exemplo resolvido</h3><p>143 pode ser montado com uma centena, quatro dezenas e três unidades. Também pode ser separado em 100 + 40 + 3 ou 100 + 43, mantendo o total.</p><h3>Atenção ao raciocínio</h3><p>Não leia os algarismos como se todos representassem unidades: em 143, o 1 representa 100.</p><h3>Investigue e produza</h3><p>Monte ou desenhe 137 e 170, explique o zero e represente cada número por duas adições diferentes. Confira juntando as partes.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "valor_posicional",
+      "sistema_decimal"
+    ],
+    "errosComuns": [
+      "Não leia os algarismos como se todos representassem unidades: em 143, o 1 representa 100."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "centenas_dezenas_e_unidades.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 143, o algarismo 4 representa:",
+      "alternativas": [
+        "4",
+        "400",
+        "40"
+      ],
+      "correta": 2,
+      "explicacao": "Ele ocupa a posição das dezenas: quatro dezenas são quarenta unidades."
+    },
+    {
+      "id": "centenas_dezenas_e_unidades.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Monte ou desenhe 137 e 170, explique o zero e represente cada número por duas adições diferentes. Confira juntando as partes.",
+      "gabarito": "137=100+30+7=100+37. 170=100+70=160+10, entre outras decomposições. O zero de 170 indica ausência de unidades soltas na escrita posicional. Conferir correspondência entre peças e registros.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "137=100+30+7=100+37. 170=100+70=160+10, entre outras decomposições. O zero de 170 indica ausência de unidades soltas na escrita posicional. Conferir correspondência entre peças e registros.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "valor_posicional",
+    "sistema_decimal"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        13
+      ],
+      "paginasImpressas": "16",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef02.numeros_ate_199.estimativa_e_comparacao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

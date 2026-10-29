@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef02.numeros_ate_1000.fatos_basicos_da_adicao_e_subtracao",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 5,
+  "unidade": "Números até 1000",
+  "titulo": "Fatos Básicos da Adição e Subtração",
+  "bncc": [
+    "EF02MA05"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Construir fatos básicos e usá-los em cálculos mentais ou escritos."
+    ],
+    "resumo": "Construir fatos básicos e usá-los em cálculos mentais ou escritos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Fatos Básicos da Adição e Subtração</h2><h3>O que vamos aprender</h3><p>Construir fatos básicos e usá-los em cálculos mentais ou escritos.</p><h3>Ideias e relações</h3><p>Uma adição conhecida pode ajudar a descobrir outras e as subtrações relacionadas. Se 8 + 5 = 13, então 13 − 5 = 8 e 13 − 8 = 5. Podemos construir esse fato completando dez: de cinco, separamos dois e três; oito e dois fazem dez, e mais três fazem treze. Usar peças ou desenhos ajuda a explicar e conferir a estratégia. Memorizar pode ser consequência da prática, mas a explicação mostra como os números se relacionam.</p><h3>Exemplo resolvido</h3><p>Para 14 − 6, podemos procurar quanto falta de seis até quatorze: de seis até dez faltam quatro, e até quatorze mais quatro. Ao todo, oito.</p><h3>Atenção ao raciocínio</h3><p>Usar uma estratégia conhecida não dispensa conferir se as parcelas ou as partes foram conservadas.</p><h3>Investigue e produza</h3><p>Construa com peças os fatos 7+6, 13−6 e 13−7. Depois use uma dessas relações para explicar 17+6 e confira por desenho ou decomposição.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "adicao",
+      "subtracao",
+      "calculo_mental"
+    ],
+    "errosComuns": [
+      "Usar uma estratégia conhecida não dispensa conferir se as parcelas ou as partes foram conservadas."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "fatos_basicos_da_adicao_e_subtracao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Se 8 + 5 = 13, então 13 − 5 é:",
+      "alternativas": [
+        "5",
+        "8",
+        "18"
+      ],
+      "correta": 1,
+      "explicacao": "Retirar a parcela cinco do total treze deixa a outra parcela, oito."
+    },
+    {
+      "id": "fatos_basicos_da_adicao_e_subtracao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa com peças os fatos 7+6, 13−6 e 13−7. Depois use uma dessas relações para explicar 17+6 e confira por desenho ou decomposição.",
+      "gabarito": "7+6=13; 13−6=7; 13−7=6. 17+6=23, por exemplo mantendo a dezena de 17 e usando 7+6. Aceitar outras estratégias corretas e explicadas.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "7+6=13; 13−6=7; 13−7=6. 17+6=23, por exemplo mantendo a dezena de 17 e usando 7+6. Aceitar outras estratégias corretas e explicadas.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "adicao",
+    "subtracao",
+    "calculo_mental"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        32
+      ],
+      "paginasImpressas": "32, 35",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.numeros_ate_1000.comparacao_e_ordenacao_ate_1000"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

@@ -981,7 +981,8 @@
               "id": "mat.ef02.numeros_ate_199.centenas_dezenas_e_unidades",
               "titulo": "Centenas, Dezenas e Unidades",
               "bncc": [
-                "EF02MA01"
+                "EF02MA01",
+                "EF02MA04"
               ],
               "areas": [
                 "matematica",
@@ -993,12 +994,26 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "14-17"
+                  "paginasPdf": [
+                    13
+                  ],
+                  "paginasImpressas": "16",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Reconhecer o valor posicional dos algarismos em números de até três ordens."
+              "resumo": "Reconhecer o valor posicional dos algarismos em números de até três ordens.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.numeros_ate_199.estimativa_e_comparacao",
@@ -1017,60 +1032,30 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "17-19"
+                  "paginasPdf": [
+                    14
+                  ],
+                  "paginasImpressas": "17",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Estimar quantidades e comparar conjuntos dizendo qual tem mais ou menos elementos."
-            },
-            {
-              "id": "mat.ef02.numeros_ate_199.leitura_e_escrita_ate_199",
-              "titulo": "Leitura e Escrita até 199",
-              "bncc": [
-                "EF02MA01"
-              ],
-              "areas": [
-                "matematica",
-                "numeros_e_operacoes"
-              ],
-              "tags": [
-                "sistema_decimal",
-                "leitura_e_escrita"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "14-17"
-                }
-              ],
-              "legado": false,
-              "resumo": "Ler, escrever e ordenar números naturais até 199 em registros numéricos e em palavras."
-            },
-            {
-              "id": "mat.ef02.numeros_ate_199.composicao_e_decomposicao_ate_199",
-              "titulo": "Composição e Decomposição até 199",
-              "bncc": [
-                "EF02MA04"
-              ],
-              "areas": [
-                "matematica",
-                "numeros_e_operacoes"
-              ],
-              "tags": [
-                "composicao",
-                "sistema_decimal"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "14-17"
-                }
-              ],
-              "legado": false,
-              "resumo": "Compor e decompor números de três ordens usando material manipulável e adições."
+              "resumo": "Estimar quantidades e comparar conjuntos dizendo qual tem mais ou menos elementos.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef02.numeros_ate_1000",
@@ -1081,6 +1066,7 @@
               "titulo": "Sistema de Numeração Decimal (até 1000)",
               "bncc": [
                 "EF02MA01",
+                "EF02MA02",
                 "EF02MA04"
               ],
               "areas": [
@@ -1093,12 +1079,26 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "14-19"
+                  "paginasPdf": [
+                    13
+                  ],
+                  "paginasImpressas": "16",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Compreender as regras do sistema decimal ao trabalhar com números de até quatro ordens."
+              "resumo": "Compreender as regras do sistema decimal ao trabalhar com números de até quatro ordens.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.numeros_ate_1000.comparacao_e_ordenacao_ate_1000",
@@ -1116,35 +1116,26 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "17-19"
-                }
-              ],
-              "legado": false,
-              "resumo": "Comparar e ordenar números de até três ordens pelo valor posicional."
-            },
-            {
-              "id": "mat.ef02.numeros_ate_1000.reta_numerica_ate_1000",
-              "titulo": "Reta Numérica até 1000",
-              "bncc": [
-                "EF02MA01"
-              ],
-              "areas": [
-                "matematica",
-                "numeros_e_operacoes"
-              ],
-              "tags": [
-                "reta_numerica",
-                "ordenacao"
-              ],
-              "fontes": [
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
                 {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "17-19"
+                  "paginasPdf": [
+                    14
+                  ],
+                  "paginasImpressas": "17",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Posicionar números na reta numérica e usá-la para comparar e ordenar."
+              "resumo": "Comparar e ordenar números de até três ordens pelo valor posicional.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.numeros_ate_1000.fatos_basicos_da_adicao_e_subtracao",
@@ -1163,14 +1154,31 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-37"
+                  "paginasPdf": [
+                    29,
+                    32
+                  ],
+                  "paginasImpressas": "32, 35",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Construir e usar fatos fundamentais das duas operações no cálculo mental e escrito."
+              "resumo": "Construir e usar fatos fundamentais das duas operações no cálculo mental e escrito.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef02.adicao",
@@ -1180,7 +1188,6 @@
               "id": "mat.ef02.adicao.algoritmos_da_adicao",
               "titulo": "Algoritmos da Adição",
               "bncc": [
-                "EF02MA05",
                 "EF02MA06"
               ],
               "areas": [
@@ -1193,12 +1200,26 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-35"
+                  "paginasPdf": [
+                    29
+                  ],
+                  "paginasImpressas": "32",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Armar e resolver adições com e sem reagrupamento usando o algoritmo convencional."
+              "resumo": "Armar e resolver adições com e sem reagrupamento usando o algoritmo convencional.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.adicao.problemas_de_adicao",
@@ -1216,37 +1237,30 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-35"
-                }
-              ],
-              "legado": false,
-              "resumo": "Resolver e elaborar problemas de adição com números de até três ordens."
-            },
-            {
-              "id": "mat.ef02.adicao.calculo_mental_com_adicao",
-              "titulo": "Cálculo Mental com Adição",
-              "bncc": [
-                "EF02MA05"
-              ],
-              "areas": [
-                "matematica",
-                "numeros_e_operacoes"
-              ],
-              "tags": [
-                "calculo_mental",
-                "adicao"
-              ],
-              "fontes": [
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
                 {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-35"
+                  "paginasPdf": [
+                    29
+                  ],
+                  "paginasImpressas": "32",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Criar estratégias pessoais de cálculo mental para somar com rapidez."
+              "resumo": "Resolver e elaborar problemas de adição com números de até três ordens.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef02.subtracao",
@@ -1256,7 +1270,6 @@
               "id": "mat.ef02.subtracao.algoritmos_da_subtracao",
               "titulo": "Algoritmos da Subtração",
               "bncc": [
-                "EF02MA05",
                 "EF02MA06"
               ],
               "areas": [
@@ -1269,12 +1282,26 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "35-37"
+                  "paginasPdf": [
+                    32
+                  ],
+                  "paginasImpressas": "35",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Armar e resolver subtrações com e sem reagrupamento pelo algoritmo convencional."
+              "resumo": "Armar e resolver subtrações com e sem reagrupamento pelo algoritmo convencional.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.subtracao.problemas_de_subtracao",
@@ -1292,38 +1319,30 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "35-37"
-                }
-              ],
-              "legado": false,
-              "resumo": "Resolver problemas de subtração com as ideias de separar, retirar e comparar."
-            },
-            {
-              "id": "mat.ef02.subtracao.relacao_entre_adicao_e_subtracao",
-              "titulo": "Relação entre Adição e Subtração",
-              "bncc": [
-                "EF02MA05"
-              ],
-              "areas": [
-                "matematica",
-                "numeros_e_operacoes"
-              ],
-              "tags": [
-                "adicao",
-                "subtracao",
-                "operacoes_inversas"
-              ],
-              "fontes": [
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
                 {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-37"
+                  "paginasPdf": [
+                    32
+                  ],
+                  "paginasImpressas": "35",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Usar uma operação para conferir o resultado da outra e completar igualdades."
+              "resumo": "Resolver problemas de subtração com as ideias de separar, retirar e comparar.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef02.multiplicacao",
@@ -1345,12 +1364,27 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "37-40"
+                  "paginasPdf": [
+                    34,
+                    35
+                  ],
+                  "paginasImpressas": "37, 38",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Entender a multiplicação como adição de parcelas iguais em situações concretas."
+              "resumo": "Entender a multiplicação como adição de parcelas iguais em situações concretas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.multiplicacao.adicao_de_parcelas_iguais",
@@ -1368,12 +1402,27 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "37-40"
+                  "paginasPdf": [
+                    34,
+                    35
+                  ],
+                  "paginasImpressas": "37, 38",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Representar multiplicações por 2, 3, 4 e 5 como somas repetidas e resolver problemas."
+              "resumo": "Representar multiplicações por 2, 3, 4 e 5 como somas repetidas e resolver problemas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.multiplicacao.dobro_metade_triplo_e_terca_parte",
@@ -1392,18 +1441,35 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "37-40"
+                  "paginasPdf": [
+                    34,
+                    35
+                  ],
+                  "paginasImpressas": "37, 38",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Resolver problemas com dobro, metade, triplo e terça parte usando imagens e materiais."
+              "resumo": "Resolver problemas com dobro, metade, triplo e terça parte usando imagens e materiais.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef02.regioes_planas_e_seus_contornos",
-          "titulo": "Regiões Planas e Seus Contornos",
+          "titulo": "Regiões Planas e seus Contornos",
           "aulas": [
             {
               "id": "mat.ef02.regioes_planas_e_seus_contornos.figuras_planas",
@@ -1421,35 +1487,26 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "342-347"
+                  "paginasPdf": [
+                    325
+                  ],
+                  "paginasImpressas": "328",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Reconhecer e nomear círculo, quadrado, retângulo e triângulo em diferentes posições."
-            },
-            {
-              "id": "mat.ef02.regioes_planas_e_seus_contornos.contornos_e_lados",
-              "titulo": "Contornos e Lados",
-              "bncc": [
-                "EF02MA15"
-              ],
-              "areas": [
-                "matematica",
-                "geometria"
-              ],
-              "tags": [
-                "figuras_planas",
-                "lados"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "342-347"
-                }
-              ],
-              "legado": false,
-              "resumo": "Comparar figuras planas pelas características comuns dos seus contornos e lados."
+              "resumo": "Reconhecer e nomear círculo, quadrado, retângulo e triângulo em diferentes posições.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.regioes_planas_e_seus_contornos.comparacao_de_figuras_planas",
@@ -1467,14 +1524,30 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "342-347"
+                  "paginasPdf": [
+                    325
+                  ],
+                  "paginasImpressas": "328",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Identificar semelhanças e diferenças entre figuras planas desenhadas em malhas."
+              "resumo": "Identificar semelhanças e diferenças entre figuras planas desenhadas em malhas.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef02.solidos_geometricos",
@@ -1496,12 +1569,26 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
+                  "paginasPdf": [
+                    325
+                  ],
+                  "paginasImpressas": "328",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Reconhecer, nomear e comparar cubo, bloco retangular, pirâmide, cone, cilindro e esfera."
+              "resumo": "Reconhecer, nomear e comparar cubo, bloco retangular, pirâmide, cone, cilindro e esfera.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.solidos_geometricos.figuras_espaciais_do_cotidiano",
@@ -1519,19 +1606,31 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
+                  "paginasPdf": [
+                    325
+                  ],
+                  "paginasImpressas": "328",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Relacionar sólidos geométricos a embalagens e objetos do mundo físico."
+              "resumo": "Relacionar sólidos geométricos a embalagens e objetos do mundo físico.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.solidos_geometricos.planificacoes_simples",
               "titulo": "Planificações Simples",
-              "bncc": [
-                "EF02MA14"
-              ],
+              "bncc": [],
               "areas": [
                 "matematica",
                 "geometria"
@@ -1543,23 +1642,31 @@
               "fontes": [
                 {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
+                  "paginasPdf": [
+                    325
+                  ],
+                  "paginasImpressas": "328",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Abrir caixas e observar as figuras planas que formam a superfície dos sólidos."
+              "resumo": "Abrir caixas e observar as figuras planas que formam a superfície dos sólidos.",
+              "estado": "piloto",
+              "complementar": true
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef02.grandezas_e_suas_medidas",
-          "titulo": "Grandezas e suas Medidas",
+          "titulo": "Grandezas e suas medidas",
           "aulas": [
             {
               "id": "mat.ef02.grandezas_e_suas_medidas.medidas_padronizadas",
               "titulo": "Medidas Padronizadas",
               "bncc": [
-                "EF02MA17"
+                "EF02MA16"
               ],
               "areas": [
                 "matematica",
@@ -1571,12 +1678,28 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    287
+                  ],
+                  "paginasImpressas": "285",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "112-129"
+                  "paginasPdf": [
+                    109,
+                    110,
+                    111
+                  ],
+                  "paginasImpressas": "112, 113, 114",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": true,
-              "resumo": "Usar litro, mililitro, quilograma e grama para medir capacidade e massa."
+              "resumo": "Usar litro, mililitro, quilograma e grama para medir capacidade e massa.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.grandezas_e_suas_medidas.medindo_comprimentos",
@@ -1594,12 +1717,28 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    287
+                  ],
+                  "paginasImpressas": "285",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "112-115"
+                  "paginasPdf": [
+                    109,
+                    110,
+                    111
+                  ],
+                  "paginasImpressas": "112, 113, 114",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Estimar e medir comprimentos com metro, centímetro e milímetro."
+              "resumo": "Estimar e medir comprimentos com metro, centímetro e milímetro.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.grandezas_e_suas_medidas.massa_e_capacidade",
@@ -1618,19 +1757,35 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    287
+                  ],
+                  "paginasImpressas": "285",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                },
+                {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "121-129"
+                  "paginasPdf": [
+                    121,
+                    122,
+                    123,
+                    124
+                  ],
+                  "paginasImpressas": "124, 125, 126, 127",
+                  "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
                 }
               ],
               "legado": false,
-              "resumo": "Comparar massas e capacidades usando instrumentos e unidades padronizadas."
+              "resumo": "Comparar massas e capacidades usando instrumentos e unidades padronizadas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.grandezas_e_suas_medidas.intervalos_de_tempo",
               "titulo": "Intervalos de Tempo",
               "bncc": [
-                "EF02MA18",
-                "EF02MA19"
+                "EF02MA18"
               ],
               "areas": [
                 "matematica",
@@ -1642,12 +1797,37 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "112-114"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    287
+                  ],
+                  "paginasImpressas": "285",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Calcular durações entre datas e ler horários em relógios digitais."
+              "resumo": "Calcular durações entre datas e ler horários em relógios digitais.",
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "mat.ef02.grandezas_e_suas_medidas.relogio_digital_e_duracao",
+              "titulo": "Relógio Digital e Duração",
+              "bncc": [
+                "EF02MA19"
+              ],
+              "estado": "piloto",
+              "complementar": false,
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    287
+                  ],
+                  "paginasImpressas": "285",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+                }
+              ]
             },
             {
               "id": "mat.ef02.grandezas_e_suas_medidas.equivalencia_entre_moedas_e_cedulas",
@@ -1665,14 +1845,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "173-186"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    287
+                  ],
+                  "paginasImpressas": "285",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Trocar moedas e cédulas por outras de mesmo valor em situações de compra."
+              "resumo": "Trocar moedas e cédulas por outras de mesmo valor em situações de compra.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef02.localizacao_e_deslocamento",
@@ -1694,35 +1882,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Descrever a posição de pessoas e objetos usando mais de um ponto de referência."
-            },
-            {
-              "id": "mat.ef02.localizacao_e_deslocamento.deslocamentos_no_espaco",
-              "titulo": "Deslocamentos no Espaço",
-              "bncc": [
-                "EF02MA12"
-              ],
-              "areas": [
-                "matematica",
-                "geometria"
-              ],
-              "tags": [
-                "localizacao",
-                "deslocamento"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
-                }
-              ],
-              "legado": false,
-              "resumo": "Registrar verbalmente ou por desenho os caminhos percorridos no espaço escolar."
+              "resumo": "Descrever a posição de pessoas e objetos usando mais de um ponto de referência.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.localizacao_e_deslocamento.roteiros_e_plantas_simples",
@@ -1740,14 +1911,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Esboçar roteiros e plantas de ambientes familiares com entradas, saídas e referências."
+              "resumo": "Esboçar roteiros e plantas de ambientes familiares com entradas, saídas e referências.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef02.probabilidade_e_estatistica",
@@ -1769,12 +1948,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "173-186"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    287
+                  ],
+                  "paginasImpressas": "285",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Classificar resultados de eventos aleatórios do cotidiano em pouco ou muito prováveis."
+              "resumo": "Classificar resultados de eventos aleatórios do cotidiano em pouco ou muito prováveis.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
@@ -1792,12 +1977,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "173-186"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    287
+                  ],
+                  "paginasImpressas": "285",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Comparar informações de tabelas de dupla entrada e gráficos de colunas ou barras."
+              "resumo": "Comparar informações de tabelas de dupla entrada e gráficos de colunas ou barras.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.probabilidade_e_estatistica.pesquisa_na_escola",
@@ -1815,14 +2006,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "173-186"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    287
+                  ],
+                  "paginasImpressas": "285",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Pesquisar até três variáveis categóricas e organizar os dados em listas e tabelas."
+              "resumo": "Pesquisar até três variáveis categóricas e organizar os dados em listas e tabelas.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         },
         {
           "id": "mat.ef02.padroes_e_sequencias",
@@ -1844,12 +2043,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "21-30"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Construir sequências de números naturais em ordem crescente ou decrescente a partir de uma regularidade."
+              "resumo": "Construir sequências de números naturais em ordem crescente ou decrescente a partir de uma regularidade.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.padroes_e_sequencias.sequencias_repetitivas_e_recursivas",
@@ -1867,12 +2072,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "21-30"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Descrever o padrão de sequências repetitivas e recursivas de números, objetos ou figuras."
+              "resumo": "Descrever o padrão de sequências repetitivas e recursivas de números, objetos ou figuras.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef02.padroes_e_sequencias.elementos_ausentes_em_sequencias",
@@ -1890,14 +2101,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "15-17"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    285
+                  ],
+                  "paginasImpressas": "283",
+                  "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Identificar e completar os elementos ausentes em sequências repetitivas e recursivas."
+              "resumo": "Identificar e completar os elementos ausentes em sequências repetitivas e recursivas.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo integral para testes; observação das produções e homologação docente pendentes."
         }
       ]
     },

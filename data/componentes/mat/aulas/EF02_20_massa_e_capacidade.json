@@ -1,0 +1,124 @@
+{
+  "id": "mat.ef02.grandezas_e_suas_medidas.massa_e_capacidade",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 20,
+  "unidade": "Grandezas e suas medidas",
+  "titulo": "Massa e Capacidade",
+  "bncc": [
+    "EF02MA17"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Estimar, medir e comparar massas e capacidades com unidades adequadas."
+    ],
+    "resumo": "Estimar, medir e comparar massas e capacidades com unidades adequadas.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Massa e Capacidade</h2><h3>O que vamos aprender</h3><p>Estimar, medir e comparar massas e capacidades com unidades adequadas.</p><h3>Ideias e relações</h3><p>Massa e capacidade são grandezas diferentes. Uma balança pode medir massa em gramas ou quilogramas; um recipiente graduado pode medir capacidade em mililitros ou litros. Um quilograma corresponde a mil gramas, e um litro a mil mililitros. Antes de medir, estime e diga qual grandeza está observando. Para comparar capacidades por enchimentos, use a mesma unidade e um critério consistente. A altura de um recipiente não determina sozinha quanto cabe nele.</p><h3>Exemplo resolvido</h3><p>Uma embalagem indica 500 g e outra 1 kg. A segunda corresponde a 1000 g, o dobro da primeira. Já duas porções de 250 mL totalizam 500 mL, medida de volume de líquido, não de massa.</p><h3>Atenção ao raciocínio</h3><p>Não conclua que um litro de qualquer material tem massa de um quilograma: isso depende do material.</p><h3>Investigue e produza</h3><p>Estime e compare a massa de dois objetos usando uma balança disponível, anotando a unidade. Compare dois recipientes por enchimentos iguais e, se possível, confira em mililitros ou litros. Explique o que foi medido.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "medidas",
+      "massa",
+      "capacidade"
+    ],
+    "errosComuns": [
+      "Não conclua que um litro de qualquer material tem massa de um quilograma: isso depende do material."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "massa_e_capacidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Duas porções de 250 mL totalizam:",
+      "alternativas": [
+        "500 kg",
+        "500 mL",
+        "250 mL"
+      ],
+      "correta": 1,
+      "explicacao": "250+250=500, mantendo a unidade de capacidade utilizada."
+    },
+    {
+      "id": "massa_e_capacidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Estime e compare a massa de dois objetos usando uma balança disponível, anotando a unidade. Compare dois recipientes por enchimentos iguais e, se possível, confira em mililitros ou litros. Explique o que foi medido.",
+      "gabarito": "Avaliar registros reais, distinção entre massa e capacidade, unidade constante e critério de enchimento. Se não houver instrumento, registrar a comparação possível e a medição que ainda falta, sem inventar resultados.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Avaliar registros reais, distinção entre massa e capacidade, unidade constante e critério de enchimento. Se não houver instrumento, registrar a comparação possível e a medição que ainda falta, sem inventar resultados.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "medidas",
+    "massa",
+    "capacidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        287
+      ],
+      "paginasImpressas": "285",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        121,
+        122,
+        123,
+        124
+      ],
+      "paginasImpressas": "124, 125, 126, 127",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.grandezas_e_suas_medidas.medindo_comprimentos"
+  ],
+  "proximosPassos": [
+    "mat.ef02.grandezas_e_suas_medidas.intervalos_de_tempo"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

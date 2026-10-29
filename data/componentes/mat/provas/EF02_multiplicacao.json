@@ -1,0 +1,126 @@
+{
+  "id": "mat.ef02.multiplicacao.prova",
+  "titulo": "Avaliação: Multiplicação",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF02",
+  "unidade": "Multiplicação",
+  "bncc": [
+    "EF02MA07",
+    "EF02MA08"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef02.multiplicacao.prova.01",
+    "mat.ef02.multiplicacao.prova.02",
+    "mat.ef02.multiplicacao.prova.03",
+    "mat.ef02.multiplicacao.prova.04",
+    "mat.ef02.multiplicacao.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF02MA07",
+      "questoes": [
+        "mat.ef02.multiplicacao.prova.01",
+        "mat.ef02.multiplicacao.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.multiplicacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.multiplicacao.introducao_a_multiplicacao#introducao_a_multiplicacao.investigacao",
+        "mat.ef02.multiplicacao.adicao_de_parcelas_iguais#adicao_de_parcelas_iguais.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02MA08",
+      "questoes": [
+        "mat.ef02.multiplicacao.prova.03",
+        "mat.ef02.multiplicacao.prova.04",
+        "mat.ef02.multiplicacao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.multiplicacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.multiplicacao.dobro_metade_triplo_e_terca_parte#dobro_metade_triplo_e_terca_parte.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef02.multiplicacao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Multiplicação",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Monte três grupos de cinco peças. Desenhe, escreva a adição e invente uma história que corresponda aos grupos. Explique cada número do seu registro. 2. Desenhe grupos que correspondam a 2+2+2+2+2 e a 4+4+4. Conte os totais e crie uma história para uma das adições. 3. Use peças para mostrar dobro e triplo de quatro. Depois encontre metade de dezesseis e terça parte de quinze. Explique as montagens e confira juntando as partes.",
+    "gabarito": "Conferência por tarefa: 1. São quinze peças, com adição 5+5+5. A história deve manter três grupos iguais de cinco e uma pergunta sobre o total; aceitar a convenção de fatores quando explicitada. 2. Totais dez e doze. Conferir cinco grupos de dois e três grupos de quatro, mantendo a relação entre história, desenho e conta. 3. Dobro oito; triplo doze; metade de dezesseis é oito; terça parte de quinze é cinco. Avaliar igualdade dos grupos, conservação do total e referência usada.",
+    "bncc": [
+      "EF02MA07",
+      "EF02MA08"
+    ],
+    "atividadesOrigem": [
+      "mat.ef02.multiplicacao.introducao_a_multiplicacao#introducao_a_multiplicacao.investigacao",
+      "mat.ef02.multiplicacao.adicao_de_parcelas_iguais#adicao_de_parcelas_iguais.investigacao",
+      "mat.ef02.multiplicacao.dobro_metade_triplo_e_terca_parte#dobro_metade_triplo_e_terca_parte.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Introdução à Multiplicação",
+        "enunciado": "Monte três grupos de cinco peças. Desenhe, escreva a adição e invente uma história que corresponda aos grupos. Explique cada número do seu registro.",
+        "gabarito": "São quinze peças, com adição 5+5+5. A história deve manter três grupos iguais de cinco e uma pergunta sobre o total; aceitar a convenção de fatores quando explicitada.",
+        "bncc": [
+          "EF02MA07"
+        ],
+        "atividadeOrigem": "mat.ef02.multiplicacao.introducao_a_multiplicacao#introducao_a_multiplicacao.investigacao"
+      },
+      {
+        "titulo": "Adição de Parcelas Iguais",
+        "enunciado": "Desenhe grupos que correspondam a 2+2+2+2+2 e a 4+4+4. Conte os totais e crie uma história para uma das adições.",
+        "gabarito": "Totais dez e doze. Conferir cinco grupos de dois e três grupos de quatro, mantendo a relação entre história, desenho e conta.",
+        "bncc": [
+          "EF02MA07"
+        ],
+        "atividadeOrigem": "mat.ef02.multiplicacao.adicao_de_parcelas_iguais#adicao_de_parcelas_iguais.investigacao"
+      },
+      {
+        "titulo": "Dobro, Metade, Triplo e Terça Parte",
+        "enunciado": "Use peças para mostrar dobro e triplo de quatro. Depois encontre metade de dezesseis e terça parte de quinze. Explique as montagens e confira juntando as partes.",
+        "gabarito": "Dobro oito; triplo doze; metade de dezesseis é oito; terça parte de quinze é cinco. Avaliar igualdade dos grupos, conservação do total e referência usada.",
+        "bncc": [
+          "EF02MA08"
+        ],
+        "atividadeOrigem": "mat.ef02.multiplicacao.dobro_metade_triplo_e_terca_parte#dobro_metade_triplo_e_terca_parte.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34,
+        35
+      ],
+      "paginasImpressas": "37, 38",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ]
+}

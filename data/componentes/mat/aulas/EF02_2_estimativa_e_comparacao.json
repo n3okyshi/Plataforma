@@ -5,33 +5,114 @@
   "ordem": 2,
   "unidade": "Números até 199",
   "titulo": "Estimativa e Comparação",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF02MA02",
+    "EF02MA03"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Estimar, contar e comparar coleções, explicando diferenças de quantidade."
+    ],
+    "resumo": "Estimar, contar e comparar coleções, explicando diferenças de quantidade.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Maior ou Menor?</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Adivinhar \"quantos têm\" sem contar um por um e usar os sinais de comparação: <strong>></strong> (maior) e <strong><</strong> (menor).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🐊 O Jacaré Comilão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Dica: A boca do jacaré sempre abre para o lado do número <strong>maior</strong> (ele quer comer mais!). Ex: 5 < 9.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Estimativa e Comparação</h2><h3>O que vamos aprender</h3><p>Estimar, contar e comparar coleções, explicando diferenças de quantidade.</p><h3>Ideias e relações</h3><p>Uma estimativa é uma previsão que depois podemos conferir. Organizar coleções em pares ou grupos de dez facilita a contagem. Para comparar duas coleções, faça correspondência e observe as sobras. Registrar a contagem permite dizer não só qual tem mais, mas quantos a mais ou a menos. Um agrupamento conhecido também ajuda a estimar uma coleção maior: imagine quantos grupos parecidos caberiam nela e depois verifique.</p><h3>Exemplo resolvido</h3><p>Em duas coleções com 48 e 42 peças, quarenta e dois pares usam peças dos dois grupos. Sobram seis na primeira; ela tem seis a mais e a segunda seis a menos.</p><h3>Atenção ao raciocínio</h3><p>Uma coleção mais espalhada não tem necessariamente mais objetos. Confira pelo pareamento ou pela contagem.</p><h3>Investigue e produza</h3><p>Estime e conte duas coleções disponíveis, inicialmente menores e depois maiores. Use grupos, registre os totais e diga quantos objetos uma tem a mais ou a menos. Para coleções grandes, mantenha registros dos grupos já contados.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "estimativa",
+      "comparacao"
+    ],
+    "errosComuns": [
+      "Uma coleção mais espalhada não tem necessariamente mais objetos. Confira pelo pareamento ou pela contagem."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "estimativa_e_comparacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma coleção tem 48 peças e outra 42. A primeira tem:",
+      "alternativas": [
+        "A mesma quantidade",
+        "6 a mais",
+        "6 a menos"
+      ],
+      "correta": 1,
+      "explicacao": "Ao comparar 48 com 42, a diferença é seis."
+    },
+    {
+      "id": "estimativa_e_comparacao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Estime e conte duas coleções disponíveis, inicialmente menores e depois maiores. Use grupos, registre os totais e diga quantos objetos uma tem a mais ou a menos. Para coleções grandes, mantenha registros dos grupos já contados.",
+      "gabarito": "Conferir os totais reais e a diferença. Aceitar revisão da estimativa e estratégias por pares, dezenas ou outros agrupamentos que não repitam nem omitam objetos.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir os totais reais e a diferença. Aceitar revisão da estimativa e estratégias por pares, dezenas ou outros agrupamentos que não repitam nem omitam objetos.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "estimativa",
+    "comparacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14
+      ],
+      "paginasImpressas": "17",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.numeros_ate_199.centenas_dezenas_e_unidades"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

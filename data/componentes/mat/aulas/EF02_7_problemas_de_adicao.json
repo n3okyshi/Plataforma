@@ -1,0 +1,117 @@
+{
+  "id": "mat.ef02.adicao.problemas_de_adicao",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 7,
+  "unidade": "Adição",
+  "titulo": "Problemas de Adição",
+  "bncc": [
+    "EF02MA06"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Elaborar e resolver histórias de juntar e acrescentar com até três ordens."
+    ],
+    "resumo": "Elaborar e resolver histórias de juntar e acrescentar com até três ordens.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Problemas de Adição</h2><h3>O que vamos aprender</h3><p>Elaborar e resolver histórias de juntar e acrescentar com até três ordens.</p><h3>Ideias e relações</h3><p>Leia ou escute a história e explique o que cada número representa. Juntar duas coleções ou acrescentar objetos pode pedir o total. Use desenhos, agrupamentos, decomposição ou conta por ordens. Ao criar um problema, forneça quantidades e uma pergunta clara, depois resolva para conferir. Não escolha uma operação apenas por uma palavra: observe a relação entre os dados e o que está sendo perguntado.</p><h3>Exemplo resolvido</h3><p>Uma turma juntou 125 folhas numa semana e 86 na seguinte. O total é 125+86=211 folhas. A resposta precisa indicar a quantidade de folhas, não apenas escrever 211 sem contexto.</p><h3>Atenção ao raciocínio</h3><p>Uma estimativa aproxima o total; não deve ser apresentada como se fosse a contagem exata.</p><h3>Investigue e produza</h3><p>Elabore uma história de juntar para 137+65. Resolva com uma estratégia pessoal e outra forma de conferir. Explique o significado da resposta.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "adicao",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Uma estimativa aproxima o total; não deve ser apresentada como se fosse a contagem exata."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "problemas_de_adicao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma coleção de 125 folhas recebe mais 86. O total é:",
+      "alternativas": [
+        "201",
+        "39",
+        "211"
+      ],
+      "correta": 2,
+      "explicacao": "125+80+6=205+6=211."
+    },
+    {
+      "id": "problemas_de_adicao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Elabore uma história de juntar para 137+65. Resolva com uma estratégia pessoal e outra forma de conferir. Explique o significado da resposta.",
+      "gabarito": "O total é 202. O problema deve representar as duas quantidades, incluir pergunta de total e manter coerência entre unidade, registros e resposta. Aceitar história ditada e material manipulável.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O total é 202. O problema deve representar as duas quantidades, incluir pergunta de total e manter coerência entre unidade, registros e resposta. Aceitar história ditada e material manipulável.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "adicao",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29
+      ],
+      "paginasImpressas": "32",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.adicao.algoritmos_da_adicao"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

@@ -2,36 +2,116 @@
   "id": "mat.ef02.adicao.algoritmos_da_adicao",
   "componente": "mat",
   "nivel": "EF02",
-  "ordem": 5,
+  "ordem": 6,
   "unidade": "Adição",
   "titulo": "Algoritmos da Adição",
-  "bncc": [],
-  "duracaoMin": 50,
+  "bncc": [
+    "EF02MA06"
+  ],
+  "duracaoMin": 35,
   "dificuldade": 1,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Somar números de três ordens compreendendo as trocas entre unidades."
+    ],
+    "resumo": "Somar números de três ordens compreendendo as trocas entre unidades.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Conta de Mais (Armada)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Montando a continha em pé. Aprendemos o \"vai um\" (reserva) quando a soma passa de 9.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">☝️ Subir o 1:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Quando a casa das unidades fica cheia (dá 10 ou mais), a dezena tem que subir para o andar de cima.</p>\n        </div>\n    </div>\n    "
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Algoritmos da Adição</h2><h3>O que vamos aprender</h3><p>Somar números de três ordens compreendendo as trocas entre unidades.</p><h3>Ideias e relações</h3><p>Um algoritmo é uma sequência de passos que pode ajudar no cálculo. Na adição por ordens, juntamos unidades com unidades, dezenas com dezenas e centenas com centenas. Quando formamos dez unidades, podemos trocá-las por uma dezena. A troca conserva o valor total. Antes da conta escrita, monte as quantidades com material ou desenhos. Depois confira por decomposição ou estimativa, sem depender apenas de repetir os mesmos passos.</p><h3>Exemplo resolvido</h3><p>Em 158 + 27, as unidades somam quinze: uma dezena e cinco unidades. As dezenas, incluindo a formada, totalizam oito. Com uma centena, obtemos 185. Por decomposição: 150+20+8+7=170+15=185.</p><h3>Atenção ao raciocínio</h3><p>A dezena formada não é uma unidade solta; seu registro precisa respeitar a posição.</p><h3>Investigue e produza</h3><p>Resolva um problema com 246 peças e mais 38 peças. Use material ou desenho, registre uma conta por ordens e explique a troca. Confira por outra estratégia.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "adicao",
+      "algoritmo"
+    ],
+    "errosComuns": [
+      "A dezena formada não é uma unidade solta; seu registro precisa respeitar a posição."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "algoritmos_da_adicao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto é 158 + 27?",
+      "alternativas": [
+        "185",
+        "175",
+        "285"
+      ],
+      "correta": 0,
+      "explicacao": "150+20=170 e 8+7=15; 170+15=185."
+    },
+    {
+      "id": "algoritmos_da_adicao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva um problema com 246 peças e mais 38 peças. Use material ou desenho, registre uma conta por ordens e explique a troca. Confira por outra estratégia.",
+      "gabarito": "O total é 284. Unidades 6+8=14 formam uma dezena e quatro unidades; dezenas 4+3+1=8. Conferir com 246+30+8=284.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O total é 284. Unidades 6+8=14 formam uma dezena e quatro unidades; dezenas 4+3+1=8. Conferir com 246+30+8=284.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "adicao",
+    "algoritmo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29
+      ],
+      "paginasImpressas": "32",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef02.adicao.problemas_de_adicao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

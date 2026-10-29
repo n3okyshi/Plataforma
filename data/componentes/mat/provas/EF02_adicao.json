@@ -1,0 +1,102 @@
+{
+  "id": "mat.ef02.adicao.prova",
+  "titulo": "Avaliação: Adição",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF02",
+  "unidade": "Adição",
+  "bncc": [
+    "EF02MA06"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef02.adicao.prova.01",
+    "mat.ef02.adicao.prova.02",
+    "mat.ef02.adicao.prova.03",
+    "mat.ef02.adicao.prova.04",
+    "mat.ef02.adicao.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF02MA06",
+      "questoes": [
+        "mat.ef02.adicao.prova.01",
+        "mat.ef02.adicao.prova.02",
+        "mat.ef02.adicao.prova.03",
+        "mat.ef02.adicao.prova.04",
+        "mat.ef02.adicao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.adicao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.adicao.algoritmos_da_adicao#algoritmos_da_adicao.investigacao",
+        "mat.ef02.adicao.problemas_de_adicao#problemas_de_adicao.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef02.adicao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Adição",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Resolva um problema com 246 peças e mais 38 peças. Use material ou desenho, registre uma conta por ordens e explique a troca. Confira por outra estratégia. 2. Elabore uma história de juntar para 137+65. Resolva com uma estratégia pessoal e outra forma de conferir. Explique o significado da resposta.",
+    "gabarito": "Conferência por tarefa: 1. O total é 284. Unidades 6+8=14 formam uma dezena e quatro unidades; dezenas 4+3+1=8. Conferir com 246+30+8=284. 2. O total é 202. O problema deve representar as duas quantidades, incluir pergunta de total e manter coerência entre unidade, registros e resposta. Aceitar história ditada e material manipulável.",
+    "bncc": [
+      "EF02MA06"
+    ],
+    "atividadesOrigem": [
+      "mat.ef02.adicao.algoritmos_da_adicao#algoritmos_da_adicao.investigacao",
+      "mat.ef02.adicao.problemas_de_adicao#problemas_de_adicao.investigacao"
+    ],
+    "duracaoMinSugerida": 20,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Algoritmos da Adição",
+        "enunciado": "Resolva um problema com 246 peças e mais 38 peças. Use material ou desenho, registre uma conta por ordens e explique a troca. Confira por outra estratégia.",
+        "gabarito": "O total é 284. Unidades 6+8=14 formam uma dezena e quatro unidades; dezenas 4+3+1=8. Conferir com 246+30+8=284.",
+        "bncc": [
+          "EF02MA06"
+        ],
+        "atividadeOrigem": "mat.ef02.adicao.algoritmos_da_adicao#algoritmos_da_adicao.investigacao"
+      },
+      {
+        "titulo": "Problemas de Adição",
+        "enunciado": "Elabore uma história de juntar para 137+65. Resolva com uma estratégia pessoal e outra forma de conferir. Explique o significado da resposta.",
+        "gabarito": "O total é 202. O problema deve representar as duas quantidades, incluir pergunta de total e manter coerência entre unidade, registros e resposta. Aceitar história ditada e material manipulável.",
+        "bncc": [
+          "EF02MA06"
+        ],
+        "atividadeOrigem": "mat.ef02.adicao.problemas_de_adicao#problemas_de_adicao.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29
+      ],
+      "paginasImpressas": "32",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ]
+}

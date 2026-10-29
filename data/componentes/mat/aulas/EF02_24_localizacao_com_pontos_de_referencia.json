@@ -1,0 +1,109 @@
+{
+  "id": "mat.ef02.localizacao_e_deslocamento.localizacao_com_pontos_de_referencia",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 24,
+  "unidade": "Localização e Deslocamento",
+  "titulo": "Localização com Pontos de Referência",
+  "bncc": [
+    "EF02MA12"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Descrever localização e deslocamento com mais de uma referência."
+    ],
+    "resumo": "Descrever localização e deslocamento com mais de uma referência.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Localização com Pontos de Referência</h2><h3>O que vamos aprender</h3><p>Descrever localização e deslocamento com mais de uma referência.</p><h3>Ideias e relações</h3><p>Uma descrição de caminho precisa dizer de onde parte e quais referências ajudam a chegar. Podemos usar entrada, mesa e estante, indicando mudanças de direção e de sentido. Direita e esquerda dependem do ponto de vista combinado. Na planta desta aula, combinamos os lados de quem olha a folha. Podemos representar um percurso com setas e depois explicá-lo por palavras ou gestos. Quem escuta deve conseguir seguir as instruções.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Planta esquemática: entrada embaixo à esquerda, mesa embaixo à direita, estante em cima à direita e saída em cima à esquerda. Roteiro da entrada à mesa e depois à estante.\" style=\"max-width:100%;color:inherit\"><title>Planta esquemática: entrada embaixo à esquerda, mesa embaixo à direita, estante em cima à direita e saída em cima à esquerda. Roteiro da entrada à mesa e depois à estante.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><rect x=\"30\" y=\"25\" width=\"370\" height=\"190\"/><rect x=\"265\" y=\"65\" width=\"100\" height=\"30\"/><rect x=\"275\" y=\"145\" width=\"80\" height=\"40\"/><path d=\"M95 175H245V85\" stroke=\"#2563eb\" stroke-width=\"3\"/><path d=\"m239 94 6-9 6 9\"/></g><g fill=\"currentColor\" font-size=\"14\"><text x=\"40\" y=\"193\">Entrada</text><text x=\"40\" y=\"52\">Saída</text><text x=\"280\" y=\"84\">Estante</text><text x=\"290\" y=\"170\">Mesa</text><text x=\"30\" y=\"245\">Referência: direita e esquerda de quem olha a planta.</text></g></svg><h3>Exemplo resolvido</h3><p>Na planta, saímos da entrada em direção à mesa e depois seguimos para cima, até a estante. Usamos a entrada como início e mesa e estante como referências, com uma mudança de direção.</p><h3>Atenção ao raciocínio</h3><p>Dizer “vire à direita” sem informar a orientação de quem se desloca pode gerar outro caminho.</p><h3>Investigue e produza</h3><p>Escolha dois ou mais pontos de referência num ambiente conhecido. Descreva um caminho, incluindo uma mudança de direção e um trecho no sentido de volta. Peça que outra pessoa siga suas instruções e revise ambiguidades.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "localizacao",
+      "pontos_de_referencia"
+    ],
+    "errosComuns": [
+      "Dizer “vire à direita” sem informar a orientação de quem se desloca pode gerar outro caminho."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "localizacao_com_pontos_de_referencia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual instrução usa mais de um ponto de referência?",
+      "alternativas": [
+        "Parta da entrada, vá até a mesa e siga para a estante",
+        "Vá para lá",
+        "Continue até algum lugar"
+      ],
+      "correta": 0,
+      "explicacao": "A instrução identifica início e referências ao longo do trajeto."
+    },
+    {
+      "id": "localizacao_com_pontos_de_referencia.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Escolha dois ou mais pontos de referência num ambiente conhecido. Descreva um caminho, incluindo uma mudança de direção e um trecho no sentido de volta. Peça que outra pessoa siga suas instruções e revise ambiguidades.",
+      "gabarito": "Conferir o percurso real e o ponto de vista explicitado. A mudança de direção altera a orientação do trajeto; a volta altera o sentido. Aceitar fala, gestos e setas coerentes.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir o percurso real e o ponto de vista explicitado. A mudança de direção altera a orientação do trajeto; a volta altera o sentido. Aceitar fala, gestos e setas coerentes.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "localizacao",
+    "pontos_de_referencia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef02.localizacao_e_deslocamento.roteiros_e_plantas_simples"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

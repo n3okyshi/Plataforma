@@ -1,0 +1,129 @@
+{
+  "id": "mat.ef02.padroes_e_sequencias.prova",
+  "titulo": "Avaliação: Padrões e Sequências",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF02",
+  "unidade": "Padrões e Sequências",
+  "bncc": [
+    "EF02MA09",
+    "EF02MA10",
+    "EF02MA11"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Com leitura mediada quando necessária, responda a cinco itens objetivos de dois pontos; correção ao final. As respostas podem ser apontadas. O portfólio admite fala, gestos, objetos e desenhos, com ajuda de um adulto para registrar, e é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef02.padroes_e_sequencias.prova.01",
+    "mat.ef02.padroes_e_sequencias.prova.02",
+    "mat.ef02.padroes_e_sequencias.prova.03",
+    "mat.ef02.padroes_e_sequencias.prova.04",
+    "mat.ef02.padroes_e_sequencias.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF02MA09",
+      "questoes": [
+        "mat.ef02.padroes_e_sequencias.prova.01",
+        "mat.ef02.padroes_e_sequencias.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.padroes_e_sequencias.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.padroes_e_sequencias.sequencias_crescentes_e_decrescentes#sequencias_crescentes_e_decrescentes.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02MA10",
+      "questoes": [
+        "mat.ef02.padroes_e_sequencias.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.padroes_e_sequencias.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.padroes_e_sequencias.sequencias_repetitivas_e_recursivas#sequencias_repetitivas_e_recursivas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02MA11",
+      "questoes": [
+        "mat.ef02.padroes_e_sequencias.prova.04",
+        "mat.ef02.padroes_e_sequencias.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef02.padroes_e_sequencias.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef02.padroes_e_sequencias.elementos_ausentes_em_sequencias#elementos_ausentes_em_sequencias.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef02.padroes_e_sequencias.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Padrões e Sequências",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Construa cinco termos a partir de 24, somando 3 a cada passo. Depois faça cinco termos a partir de 31, retirando 4. Explique e confira as duas regras. 2. Crie um padrão que repita um bloco de três figuras e uma sequência numérica recursiva. Descreva cada regra para que alguém consiga continuar sem adivinhar. 3. Complete, pela regra retirar dois: 22,__,18,16. Depois complete um padrão de bloco círculo, quadrado, quadrado: círculo, quadrado,__,círculo. Explique as duas respostas.",
+    "gabarito": "Conferência por tarefa: 1. Sequências: 24,27,30,33,36 e 31,27,23,19,15. Verificar regra constante e ordem crescente ou decrescente. 2. Conferir a repetição completa do bloco e a aplicação da regra numérica ao termo anterior. Aceitar palavras, símbolos e desenhos como registros da regularidade. 3. Faltam 20 e quadrado. Justificar pela subtração de dois e pela posição no bloco de três figuras, respectivamente.",
+    "bncc": [
+      "EF02MA09",
+      "EF02MA10",
+      "EF02MA11"
+    ],
+    "atividadesOrigem": [
+      "mat.ef02.padroes_e_sequencias.sequencias_crescentes_e_decrescentes#sequencias_crescentes_e_decrescentes.investigacao",
+      "mat.ef02.padroes_e_sequencias.sequencias_repetitivas_e_recursivas#sequencias_repetitivas_e_recursivas.investigacao",
+      "mat.ef02.padroes_e_sequencias.elementos_ausentes_em_sequencias#elementos_ausentes_em_sequencias.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Sequências Crescentes e Decrescentes",
+        "enunciado": "Construa cinco termos a partir de 24, somando 3 a cada passo. Depois faça cinco termos a partir de 31, retirando 4. Explique e confira as duas regras.",
+        "gabarito": "Sequências: 24,27,30,33,36 e 31,27,23,19,15. Verificar regra constante e ordem crescente ou decrescente.",
+        "bncc": [
+          "EF02MA09"
+        ],
+        "atividadeOrigem": "mat.ef02.padroes_e_sequencias.sequencias_crescentes_e_decrescentes#sequencias_crescentes_e_decrescentes.investigacao"
+      },
+      {
+        "titulo": "Sequências Repetitivas e Recursivas",
+        "enunciado": "Crie um padrão que repita um bloco de três figuras e uma sequência numérica recursiva. Descreva cada regra para que alguém consiga continuar sem adivinhar.",
+        "gabarito": "Conferir a repetição completa do bloco e a aplicação da regra numérica ao termo anterior. Aceitar palavras, símbolos e desenhos como registros da regularidade.",
+        "bncc": [
+          "EF02MA10"
+        ],
+        "atividadeOrigem": "mat.ef02.padroes_e_sequencias.sequencias_repetitivas_e_recursivas#sequencias_repetitivas_e_recursivas.investigacao"
+      },
+      {
+        "titulo": "Elementos Ausentes em Sequências",
+        "enunciado": "Complete, pela regra retirar dois: 22,__,18,16. Depois complete um padrão de bloco círculo, quadrado, quadrado: círculo, quadrado,__,círculo. Explique as duas respostas.",
+        "gabarito": "Faltam 20 e quadrado. Justificar pela subtração de dois e pela posição no bloco de três figuras, respectivamente.",
+        "bncc": [
+          "EF02MA11"
+        ],
+        "atividadeOrigem": "mat.ef02.padroes_e_sequencias.elementos_ausentes_em_sequencias#elementos_ausentes_em_sequencias.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ]
+}

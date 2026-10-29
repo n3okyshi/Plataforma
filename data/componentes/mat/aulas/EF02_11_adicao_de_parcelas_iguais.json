@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef02.multiplicacao.adicao_de_parcelas_iguais",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 11,
+  "unidade": "Multiplicação",
+  "titulo": "Adição de Parcelas Iguais",
+  "bncc": [
+    "EF02MA07"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Comparar desenhos e registros de adições repetidas."
+    ],
+    "resumo": "Comparar desenhos e registros de adições repetidas.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Adição de Parcelas Iguais</h2><h3>O que vamos aprender</h3><p>Comparar desenhos e registros de adições repetidas.</p><h3>Ideias e relações</h3><p>Uma adição de parcelas iguais permite contar uma coleção por grupos. Para saber se um desenho corresponde à conta, confira quantos grupos existem e quantas peças há em cada grupo. Se um grupo tem quantidade diferente, o total ainda pode ser somado, mas aquela coleção não corresponde à repetição de uma única parcela do mesmo modo. Podemos organizar os grupos em linhas para acompanhar a contagem.</p><h3>Exemplo resolvido</h3><p>Cinco grupos de quatro peças têm 4+4+4+4+4=20 peças. Duas linhas de cinco peças têm 5+5=10. Em cada caso, as parcelas representam a quantidade de um grupo.</p><h3>Atenção ao raciocínio</h3><p>Não omita um grupo ao escrever a adição repetida.</p><h3>Investigue e produza</h3><p>Desenhe grupos que correspondam a 2+2+2+2+2 e a 4+4+4. Conte os totais e crie uma história para uma das adições.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "multiplicacao",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Não omita um grupo ao escrever a adição repetida."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "adicao_de_parcelas_iguais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Cinco grupos com quatro peças em cada um têm:",
+      "alternativas": [
+        "16 peças",
+        "20 peças",
+        "9 peças"
+      ],
+      "correta": 1,
+      "explicacao": "Somar quatro cinco vezes dá vinte."
+    },
+    {
+      "id": "adicao_de_parcelas_iguais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe grupos que correspondam a 2+2+2+2+2 e a 4+4+4. Conte os totais e crie uma história para uma das adições.",
+      "gabarito": "Totais dez e doze. Conferir cinco grupos de dois e três grupos de quatro, mantendo a relação entre história, desenho e conta.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Totais dez e doze. Conferir cinco grupos de dois e três grupos de quatro, mantendo a relação entre história, desenho e conta.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "multiplicacao",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34,
+        35
+      ],
+      "paginasImpressas": "37, 38",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.multiplicacao.introducao_a_multiplicacao"
+  ],
+  "proximosPassos": [
+    "mat.ef02.multiplicacao.dobro_metade_triplo_e_terca_parte"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

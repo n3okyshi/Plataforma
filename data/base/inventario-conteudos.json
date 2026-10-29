@@ -129,6 +129,21 @@
       "homologacaoDocente": "pendente",
       "revisaoVisualEAcessibilidade": "pendente",
       "persistenciaFirebase": "pendente"
+    },
+    "mat.EF02": {
+      "estado": "piloto_integral",
+      "aulas": 31,
+      "unidades": 11,
+      "atividades": 62,
+      "questoesTreino": 31,
+      "questoesProva": 55,
+      "provas": 11,
+      "etapasPraticas": 11,
+      "habilidadesReferenciadas": 23,
+      "aplicacaoEmTurma": "pendente",
+      "homologacaoDocente": "pendente",
+      "revisaoVisualEAcessibilidade": "pendente",
+      "persistenciaFirebase": "pendente"
     }
   },
   "ampliacaoAnosIniciais": {
@@ -141,7 +156,7 @@
       },
       {
         "nivel": "EF02",
-        "estado": "planejamento_a_completar",
+        "estado": "lote_integral_para_testes",
         "observacao": "Não tratar planejamento ou vínculo de código como conteúdo concluído."
       },
       {

@@ -1,0 +1,439 @@
+[
+  {
+    "id": "mat.ef02.grandezas_e_suas_medidas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Grandezas e suas medidas",
+    "aulaId": "mat.ef02.grandezas_e_suas_medidas.medidas_padronizadas",
+    "bncc": [
+      "EF02MA16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma tira vai da marca 2 cm à marca 10 cm. Seu comprimento é:",
+    "opcoes": [
+      "10 cm",
+      "12 cm",
+      "8 cm"
+    ],
+    "correta": 2,
+    "explicacao": "O intervalo entre as marcas é 10−2=8 cm.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110,
+          111
+        ],
+        "paginasImpressas": "112, 113, 114",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.grandezas_e_suas_medidas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Grandezas e suas medidas",
+    "aulaId": "mat.ef02.grandezas_e_suas_medidas.medindo_comprimentos",
+    "bncc": [
+      "EF02MA16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um retângulo tem lados 8,5,8 e 5 cm. O contorno mede:",
+    "opcoes": [
+      "40 cm",
+      "26 cm",
+      "13 cm"
+    ],
+    "correta": 1,
+    "explicacao": "Somar os quatro lados dá 8+5+8+5=26 cm.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110,
+          111
+        ],
+        "paginasImpressas": "112, 113, 114",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.grandezas_e_suas_medidas.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Grandezas e suas medidas",
+    "aulaId": "mat.ef02.grandezas_e_suas_medidas.massa_e_capacidade",
+    "bncc": [
+      "EF02MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Duas porções de 250 mL totalizam:",
+    "opcoes": [
+      "500 mL",
+      "250 mL",
+      "500 kg"
+    ],
+    "correta": 0,
+    "explicacao": "250+250=500, mantendo a unidade de capacidade utilizada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          121,
+          122,
+          123,
+          124
+        ],
+        "paginasImpressas": "124, 125, 126, 127",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.grandezas_e_suas_medidas.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Grandezas e suas medidas",
+    "aulaId": "mat.ef02.grandezas_e_suas_medidas.intervalos_de_tempo",
+    "bncc": [
+      "EF02MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "De 8 a 12 de junho, quantos dias decorrem?",
+    "opcoes": [
+      "5",
+      "12",
+      "4"
+    ],
+    "correta": 2,
+    "explicacao": "São quatro mudanças de um dia para o seguinte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.grandezas_e_suas_medidas.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Grandezas e suas medidas",
+    "aulaId": "mat.ef02.grandezas_e_suas_medidas.relogio_digital_e_duracao",
+    "bncc": [
+      "EF02MA19"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma atividade de exemplo vai de 09:45 a 10:10. Dura:",
+    "opcoes": [
+      "65 minutos",
+      "25 minutos",
+      "35 minutos"
+    ],
+    "correta": 1,
+    "explicacao": "Quinze minutos até as dez e mais dez minutos totalizam vinte e cinco.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.grandezas_e_suas_medidas.treino.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Grandezas e suas medidas",
+    "aulaId": "mat.ef02.grandezas_e_suas_medidas.equivalencia_entre_moedas_e_cedulas",
+    "bncc": [
+      "EF02MA20"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um preço de brincadeira é R$ 12 e o pagamento é R$ 20. Devem voltar:",
+    "opcoes": [
+      "R$ 8",
+      "R$ 12",
+      "R$ 32"
+    ],
+    "correta": 0,
+    "explicacao": "Vinte menos doze são oito; doze e oito recompõem vinte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.grandezas_e_suas_medidas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Grandezas e suas medidas",
+    "aulaId": "mat.ef02.grandezas_e_suas_medidas.medidas_padronizadas",
+    "bncc": [
+      "EF02MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma fita vai da marca 3 cm até a marca 12 cm. Ela mede:",
+    "opcoes": [
+      "12 cm",
+      "15 cm",
+      "9 cm"
+    ],
+    "correta": 2,
+    "explicacao": "12−3=9 cm.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110,
+          111
+        ],
+        "paginasImpressas": "112, 113, 114",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.grandezas_e_suas_medidas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Grandezas e suas medidas",
+    "aulaId": "mat.ef02.grandezas_e_suas_medidas.massa_e_capacidade",
+    "bncc": [
+      "EF02MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um quilograma corresponde a:",
+    "opcoes": [
+      "1000 mililitros em qualquer material",
+      "1000 gramas",
+      "100 gramas"
+    ],
+    "correta": 1,
+    "explicacao": "A relação de massa é 1 kg=1000 g; não depende de uma conversão universal para volume.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          121,
+          122,
+          123,
+          124
+        ],
+        "paginasImpressas": "124, 125, 126, 127",
+        "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.grandezas_e_suas_medidas.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Grandezas e suas medidas",
+    "aulaId": "mat.ef02.grandezas_e_suas_medidas.intervalos_de_tempo",
+    "bncc": [
+      "EF02MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "De 6 a 13 do mesmo mês, sem mudança de mês, decorrem:",
+    "opcoes": [
+      "7 dias",
+      "8 dias",
+      "13 dias"
+    ],
+    "correta": 0,
+    "explicacao": "Contamos sete passagens de um dia para o seguinte.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.grandezas_e_suas_medidas.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Grandezas e suas medidas",
+    "aulaId": "mat.ef02.grandezas_e_suas_medidas.relogio_digital_e_duracao",
+    "bncc": [
+      "EF02MA19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma atividade de exemplo começa às 14:50 e termina às 15:15. Dura:",
+    "opcoes": [
+      "35 minutos",
+      "65 minutos",
+      "25 minutos"
+    ],
+    "correta": 2,
+    "explicacao": "São dez minutos até 15:00 e mais quinze até 15:15.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.grandezas_e_suas_medidas.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Grandezas e suas medidas",
+    "aulaId": "mat.ef02.grandezas_e_suas_medidas.equivalencia_entre_moedas_e_cedulas",
+    "bncc": [
+      "EF02MA20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um preço fictício de R$ 18 é pago com R$ 20. O troco é:",
+    "opcoes": [
+      "R$ 38",
+      "R$ 2",
+      "R$ 18"
+    ],
+    "correta": 1,
+    "explicacao": "18+2=20.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

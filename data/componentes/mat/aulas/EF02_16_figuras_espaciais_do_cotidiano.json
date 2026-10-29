@@ -1,0 +1,119 @@
+{
+  "id": "mat.ef02.solidos_geometricos.figuras_espaciais_do_cotidiano",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 16,
+  "unidade": "Sólidos Geométricos",
+  "titulo": "Figuras Espaciais do Cotidiano",
+  "bncc": [
+    "EF02MA14"
+  ],
+  "duracaoMin": 35,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Relacionar modelos espaciais a objetos e explicar os limites da comparação."
+    ],
+    "resumo": "Relacionar modelos espaciais a objetos e explicar os limites da comparação.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> peça a leitura de um adulto quando precisar. Responda também com fala, gestos, objetos ou desenhos; um adulto pode ajudar a registrar sua produção. Não é preciso responder com pressa.</p><h2>Figuras Espaciais do Cotidiano</h2><h3>O que vamos aprender</h3><p>Relacionar modelos espaciais a objetos e explicar os limites da comparação.</p><h3>Ideias e relações</h3><p>Uma embalagem pode lembrar um bloco retangular; uma caixa com seis faces quadradas iguais pode lembrar um cubo. Uma lata pode lembrar um cilindro, uma bola uma esfera e um chapéu de festa um cone. Um modelo de pirâmide pode ser feito com base e faces triangulares. Os objetos reais têm detalhes, como tampas e bordas, que podem não fazer parte do modelo geométrico. Compare o objeto inteiro e explique qual forma ele aproxima.</p><h3>Exemplo resolvido</h3><p>Uma lata de base circular lembra um cilindro. Um objeto com base circular e ponta lembra um cone; ambos têm partes curvas, mas não têm a mesma quantidade de bases.</p><h3>Atenção ao raciocínio</h3><p>Uma fotografia de frente pode esconder partes. Quando possível, observe o objeto por mais de um lado.</p><h3>Investigue e produza</h3><p>Faça uma lista ilustrada de objetos que lembrem cubo, bloco retangular, pirâmide, cone, cilindro e esfera. Compare dois e registre uma diferença entre objeto e modelo.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "figuras_espaciais",
+      "cotidiano"
+    ],
+    "errosComuns": [
+      "Uma fotografia de frente pode esconder partes. Quando possível, observe o objeto por mais de um lado."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "figuras_espaciais_do_cotidiano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual par de modelos tem parte lateral curva?",
+      "alternativas": [
+        "Cubo e bloco retangular",
+        "Cubo e pirâmide",
+        "Cone e cilindro"
+      ],
+      "correta": 2,
+      "explicacao": "Cone e cilindro têm partes laterais curvas; os outros pares citados têm faces planas."
+    },
+    {
+      "id": "figuras_espaciais_do_cotidiano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Faça uma lista ilustrada de objetos que lembrem cubo, bloco retangular, pirâmide, cone, cilindro e esfera. Compare dois e registre uma diferença entre objeto e modelo.",
+      "gabarito": "Verificar os seis pares propostos e as justificativas pela forma. Aceitar modelos construídos ou desenhados quando um objeto não estiver disponível; não inventar observações que não foram feitas.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Verificar os seis pares propostos e as justificativas pela forma. Aceitar modelos construídos ou desenhados quando um objeto não estiver disponível; não inventar observações que não foram feitas.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_espaciais",
+    "cotidiano"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        285
+      ],
+      "paginasImpressas": "283",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        325
+      ],
+      "paginasImpressas": "328",
+      "uso": "Referência conceitual para autoria; adaptação didática aos anos iniciais guiada pela BNCC. Exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef02.solidos_geometricos.solidos_geometricos_e_suas_caracteristicas"
+  ],
+  "proximosPassos": [
+    "mat.ef02.solidos_geometricos.planificacoes_simples"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 7,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 8,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 10,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

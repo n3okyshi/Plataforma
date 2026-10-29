@@ -1,0 +1,282 @@
+[
+  {
+    "id": "mat.ef02.probabilidade_e_estatistica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef02.probabilidade_e_estatistica.eventos_provaveis_e_improvaveis",
+    "bncc": [
+      "EF02MA21"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Numa sacola com nove azuis e uma amarela, sair amarela é:",
+    "opcoes": [
+      "Impossível",
+      "Certo",
+      "Pouco provável, mas possível"
+    ],
+    "correta": 2,
+    "explicacao": "Existe uma amarela, mas há bem mais peças azuis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.probabilidade_e_estatistica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef02.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+    "bncc": [
+      "EF02MA22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na tabela apresentada, quantas escolhas de desenho há no grupo B?",
+    "opcoes": [
+      "3",
+      "7",
+      "4"
+    ],
+    "correta": 1,
+    "explicacao": "A célula da linha B e coluna Desenho contém sete.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.probabilidade_e_estatistica.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef02.probabilidade_e_estatistica.pesquisa_na_escola",
+    "bncc": [
+      "EF02MA23"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma pesquisa tem duas perguntas e cada uma foi respondida pelas mesmas doze pessoas. Há:",
+    "opcoes": [
+      "12 participantes",
+      "24 participantes",
+      "Somente 2 participantes"
+    ],
+    "correta": 0,
+    "explicacao": "Cada pessoa respondeu duas perguntas, mas continua contando uma vez como participante.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.probabilidade_e_estatistica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef02.probabilidade_e_estatistica.eventos_provaveis_e_improvaveis",
+    "bncc": [
+      "EF02MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Numa sacola com oito peças verdes e duas roxas, todas semelhantes fora da cor e bem misturadas, tirar uma peça sem olhar e obter verde é:",
+    "opcoes": [
+      "Impossível",
+      "Certo",
+      "Muito provável, mas não certo"
+    ],
+    "correta": 2,
+    "explicacao": "Há mais verdes, mas uma roxa também pode sair.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.probabilidade_e_estatistica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef02.probabilidade_e_estatistica.eventos_provaveis_e_improvaveis",
+    "bncc": [
+      "EF02MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Nessa sacola, sem peças laranjas, tirar laranja é:",
+    "opcoes": [
+      "Certo",
+      "Impossível",
+      "Muito provável"
+    ],
+    "correta": 1,
+    "explicacao": "Não há peça laranja para ser retirada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.probabilidade_e_estatistica.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef02.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+    "bncc": [
+      "EF02MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma tabela informa: grupo C, bola 4 e desenho 5; grupo D, bola 7 e desenho 2. Qual grupo tem mais escolhas de bola?",
+    "opcoes": [
+      "D",
+      "C",
+      "Os dois têm a mesma quantidade"
+    ],
+    "correta": 0,
+    "explicacao": "Sete escolhas de bola no D superam quatro no C.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.probabilidade_e_estatistica.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef02.probabilidade_e_estatistica.tabelas_de_dupla_entrada",
+    "bncc": [
+      "EF02MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um gráfico de barras do grupo D, com sete votos para bola e dois para desenho, deve mostrar:",
+    "opcoes": [
+      "As duas barras com a mesma altura",
+      "Bola com dois e desenho com sete",
+      "Barra de bola maior que a de desenho, na mesma escala"
+    ],
+    "correta": 2,
+    "explicacao": "A representação deve conservar os valores e uma escala comum.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.probabilidade_e_estatistica.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Probabilidade e Estatística",
+    "aulaId": "mat.ef02.probabilidade_e_estatistica.pesquisa_na_escola",
+    "bncc": [
+      "EF02MA23"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Quinze pessoas respondem a três perguntas, uma resposta por pergunta. Quantos participantes há?",
+    "opcoes": [
+      "3",
+      "15",
+      "45"
+    ],
+    "correta": 1,
+    "explicacao": "O número de perguntas não multiplica o número de pessoas participantes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          287
+        ],
+        "paginasImpressas": "285",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

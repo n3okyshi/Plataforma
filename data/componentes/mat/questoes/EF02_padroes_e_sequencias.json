@@ -1,0 +1,282 @@
+[
+  {
+    "id": "mat.ef02.padroes_e_sequencias.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Padrões e Sequências",
+    "aulaId": "mat.ef02.padroes_e_sequencias.sequencias_crescentes_e_decrescentes",
+    "bncc": [
+      "EF02MA09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Começando em 17 e acrescentando 5 a cada passo, depois de 22 vem:",
+    "opcoes": [
+      "23",
+      "32",
+      "27"
+    ],
+    "correta": 2,
+    "explicacao": "22+5=27.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.padroes_e_sequencias.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Padrões e Sequências",
+    "aulaId": "mat.ef02.padroes_e_sequencias.sequencias_repetitivas_e_recursivas",
+    "bncc": [
+      "EF02MA10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A regra para 3,7,11,15 é acrescentar, a cada passo:",
+    "opcoes": [
+      "7",
+      "4",
+      "3"
+    ],
+    "correta": 1,
+    "explicacao": "As diferenças entre termos consecutivos são quatro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.padroes_e_sequencias.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Padrões e Sequências",
+    "aulaId": "mat.ef02.padroes_e_sequencias.elementos_ausentes_em_sequencias",
+    "bncc": [
+      "EF02MA11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A regra é somar 3. Em 8,11,__,17, falta:",
+    "opcoes": [
+      "14",
+      "12",
+      "15"
+    ],
+    "correta": 0,
+    "explicacao": "Quatorze mantém o mesmo passo de três nas duas ligações.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.padroes_e_sequencias.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Padrões e Sequências",
+    "aulaId": "mat.ef02.padroes_e_sequencias.sequencias_crescentes_e_decrescentes",
+    "bncc": [
+      "EF02MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Comece em 12 e some 4 a cada passo. Os três primeiros termos são:",
+    "opcoes": [
+      "12,15,18",
+      "4,8,12",
+      "12,16,20"
+    ],
+    "correta": 2,
+    "explicacao": "O início é doze e os acréscimos são quatro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.padroes_e_sequencias.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Padrões e Sequências",
+    "aulaId": "mat.ef02.padroes_e_sequencias.sequencias_crescentes_e_decrescentes",
+    "bncc": [
+      "EF02MA09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Comece em 35 e retire 5 por passo. Depois de 30 vem:",
+    "opcoes": [
+      "35",
+      "25",
+      "29"
+    ],
+    "correta": 1,
+    "explicacao": "30−5=25.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.padroes_e_sequencias.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Padrões e Sequências",
+    "aulaId": "mat.ef02.padroes_e_sequencias.sequencias_repetitivas_e_recursivas",
+    "bncc": [
+      "EF02MA10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em círculo, triângulo, triângulo, círculo, triângulo, triângulo, o bloco que se repete é:",
+    "opcoes": [
+      "Círculo, triângulo, triângulo",
+      "Círculo, círculo",
+      "Somente triângulo"
+    ],
+    "correta": 0,
+    "explicacao": "Cada repetição contém uma figura circular e duas triangulares nessa ordem.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.padroes_e_sequencias.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Padrões e Sequências",
+    "aulaId": "mat.ef02.padroes_e_sequencias.elementos_ausentes_em_sequencias",
+    "bncc": [
+      "EF02MA11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Pela regra somar 4, em 6,10,__,18, falta:",
+    "opcoes": [
+      "12",
+      "16",
+      "14"
+    ],
+    "correta": 2,
+    "explicacao": "10+4=14 e 14+4=18.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef02.padroes_e_sequencias.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF02",
+    "unidade": "Padrões e Sequências",
+    "aulaId": "mat.ef02.padroes_e_sequencias.elementos_ausentes_em_sequencias",
+    "bncc": [
+      "EF02MA11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Pela regra retirar 3, em 25,__,19,16, falta:",
+    "opcoes": [
+      "21",
+      "22",
+      "23"
+    ],
+    "correta": 1,
+    "explicacao": "25−3=22 e 22−3=19.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          285
+        ],
+        "paginasImpressas": "283",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]
