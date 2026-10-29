@@ -1,0 +1,19 @@
+{
+  "mat":      { "nome": "Matemática", "etapas": ["EF01","EF02","EF03","EF04","EF05","EF06","EF07","EF08","EF09","EM01","EM02","EM03"] },
+  "lip":      { "nome": "Língua Portuguesa", "etapas": ["EF01","EF02","EF03","EF04","EF05","EF06","EF07","EF08","EF09","EM01","EM02","EM03"] },
+  "lie":      { "nome": "Língua Inglesa", "etapas": ["EF01","EF02","EF03","EF04","EF05","EF06","EF07","EF08","EF09","EM01","EM02","EM03"] },
+  "art":      { "nome": "Arte", "etapas": ["EF01","EF02","EF03","EF04","EF05","EF06","EF07","EF08","EF09","EM01","EM02","EM03"] },
+  "edf":      { "nome": "Educação Física", "etapas": ["EF01","EF02","EF03","EF04","EF05","EF06","EF07","EF08","EF09","EM01","EM02","EM03"] },
+  "red":      { "nome": "Redação", "etapas": ["EM01","EM02","EM03"] },
+  "fis":      { "nome": "Física", "etapas": ["EM01","EM02","EM03"] },
+  "qui":      { "nome": "Química", "etapas": ["EM01","EM02","EM03"] },
+  "cna":      { "nome": "Ciências Naturais", "etapas": ["EF01","EF02","EF03","EF04","EF05","EF06","EF07","EF08","EF09"] },
+  "bio":      { "nome": "Biologia", "etapas": ["EM01","EM02","EM03"] },
+  "his":      { "nome": "História", "etapas": ["EF01","EF02","EF03","EF04","EF05","EF06","EF07","EF08","EF09","EM01","EM02","EM03"] },
+  "gea":      { "nome": "Geografia", "etapas": ["EF01","EF02","EF03","EF04","EF05","EF06","EF07","EF08","EF09","EM01","EM02","EM03"] },
+  "geo":      { "nome": "Geologia", "etapas": ["EM01","EM02","EM03"] },
+  "fil":      { "nome": "Filosofia", "etapas": ["EM01","EM02","EM03"] },
+  "soc":      { "nome": "Sociologia", "etapas": ["EM01","EM02","EM03"] },
+  "ast":      { "nome": "Astronomia", "etapas": ["EM01","EM02","EM03"] },
+  "superior": { "nome": "Ensino Superior", "etapas": [] }
+}
