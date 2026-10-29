@@ -2,36 +2,121 @@
   "id": "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 13,
+  "ordem": 16,
   "unidade": "Operações com números naturais",
   "titulo": "Igualdade e Propriedades das Desigualdades",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA14"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Determinar valores desconhecidos mantendo o equilíbrio de uma igualdade.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Determinar valores desconhecidos mantendo o equilíbrio de uma igualdade.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Igualdade e Propriedades das Desigualdades</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: reconhecer relações de igualdade e desigualdade, utilizar propriedades (transitiva, aditiva, multiplicativa) e aplicá-las em resolução de problemas.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Exemplo: se a = b e b = c então a = c (transitividade). Se a &lt; b então a + c &lt; b + c (adição de mesma quantidade conserva desigualdade).</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Verdadeiro ou Falso</label>\n  <p>Marque verdadeiro ou falso: Se 3 &lt; 5 então 3 × 2 &lt; 5 × 2.</p>\n  <div>\n    <button class=\"btn\">Verdadeiro</button>\n    <button class=\"btn\">Falso</button>\n  </div>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se x + 4 = 10, então x &lt; 7 será:</p>\n  <div>\n    <button class=\"btn\">Verdadeiro</button>\n    <button class=\"btn\">Verdadeiro</button>\n    <button class=\"btn\">Falso</button>\n  </div>\n</div>\n    "
+        "html": "<h2>Igualdade e Propriedades das Desigualdades</h2><h3>O que vamos aprender</h3><p>Determinar valores desconhecidos mantendo o equilíbrio de uma igualdade.</p><h3>Ideias e relações</h3><p>Uma igualdade afirma que duas expressões têm o mesmo valor. Podemos adicionar ou subtrair a mesma quantidade dos dois membros e a igualdade permanece verdadeira. Também podemos multiplicar ambos por um mesmo número ou dividir ambos por um mesmo número diferente de zero. Essas transformações permitem descobrir valores desconhecidos como em uma balança equilibrada. O objetivo não é “passar um termo para o outro lado” sem explicação, mas realizar a mesma operação nos dois membros.</p><h3>Exemplo resolvido</h3><p>Em □ + 18 = 47, subtraímos 18 dos dois membros: □ + 18 − 18 = 47 − 18. Logo, □ = 29. A substituição confirma: 29 + 18 = 47.</p><h3>Atenção ao raciocínio</h3><p>Não se pode dividir por zero. Além disso, uma igualdade deve continuar válida após a transformação escolhida.</p><h3>Investigue, construa ou elabore</h3><p>Resolva 3 × □ + 6 = 30 e explique cada transformação aplicada aos dois membros.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "igualdade",
+      "desigualdade"
+    ],
+    "errosComuns": [
+      "Não se pode dividir por zero. Além disso, uma igualdade deve continuar válida após a transformação escolhida."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "igualdade_e_propriedades_das_desigualdades.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual valor mantém 4 × □ = 68?",
+      "alternativas": [
+        "4",
+        "16",
+        "17",
+        "64"
+      ],
+      "correta": 2,
+      "explicacao": "Dividindo os dois membros por 4, temos □ = 68 ÷ 4 = 17."
+    },
+    {
+      "id": "igualdade_e_propriedades_das_desigualdades.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva 3 × □ + 6 = 30 e explique cada transformação aplicada aos dois membros.",
+      "gabarito": "Subtrair 6 dos dois membros dá 3 × □ = 24. Dividir ambos por 3 dá □ = 8. Conferência: 3 × 8 + 6 = 30.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Subtrair 6 dos dois membros dá 3 × □ = 24. Dividir ambos por 3 dá □ = 8. Conferência: 3 × 8 + 6 = 30.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "igualdade",
+    "desigualdade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        148,
+        154
+      ],
+      "paginasImpressas": "151, 157",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes"
+  ],
+  "proximosPassos": [
+    "mat.ef06.operacoes_com_numeros_naturais.a_ideia_de_funcao"
+  ]
 }

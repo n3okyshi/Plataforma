@@ -1,0 +1,102 @@
+{
+  "id": "mat.ef06.outras_grandezas_e_medidas.prova",
+  "titulo": "Avaliação: Outras grandezas e medidas",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF06",
+  "unidade": "Outras grandezas e medidas",
+  "bncc": [
+    "EF06MA24"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "A parte objetiva tem cinco itens, valendo dois pontos cada. A correção aparece ao final. A etapa prática tem rubrica própria e exige conferência do professor; a nota objetiva não certifica sozinha o domínio da unidade.",
+  "questoes": [
+    "mat.ef06.outras_grandezas_e_medidas.prova.01",
+    "mat.ef06.outras_grandezas_e_medidas.prova.02",
+    "mat.ef06.outras_grandezas_e_medidas.prova.03",
+    "mat.ef06.outras_grandezas_e_medidas.prova.04",
+    "mat.ef06.outras_grandezas_e_medidas.prova.05"
+  ],
+  "criterios": "Parte objetiva: dois pontos por item correto. Etapa prática: observar a produção real com a rubrica; sem nota automática. O diagnóstico serve para orientar retomadas.",
+  "matriz": [
+    {
+      "bncc": "EF06MA24",
+      "questoes": [
+        "mat.ef06.outras_grandezas_e_medidas.prova.01",
+        "mat.ef06.outras_grandezas_e_medidas.prova.02",
+        "mat.ef06.outras_grandezas_e_medidas.prova.03",
+        "mat.ef06.outras_grandezas_e_medidas.prova.04",
+        "mat.ef06.outras_grandezas_e_medidas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.outras_grandezas_e_medidas.pratica"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef06.outras_grandezas_e_medidas.pratica",
+    "tipo": "discursiva",
+    "titulo": "Escolher e converter unidades em situações reais",
+    "enunciado": "Resolva e explique: retirar 250 g de 1,5 kg; completar um recipiente de 3 L que contém 750 mL; contar um bloco de duas camadas de 3×4 cubinhos; calcular o tempo de 9h35 a 11h05 e a variação de 16 °C para 23 °C.",
+    "gabarito": "Restam 1.250 g; faltam 2.250 mL; há 24 cubinhos; decorreram 90 minutos; houve aumento de 7 °C. Justificar conversões, camadas e distinção entre as grandezas.",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "rubrica": [
+      "Realizar a tarefa e apresentar registros verificáveis (texto, desenho, modelo, tabela, gráfico ou fluxograma).",
+      "Explicar os procedimentos, propriedades e unidades utilizadas.",
+      "Conferir o resultado e discutir limites, aproximações ou ambiguidades quando aplicáveis."
+    ],
+    "correcao": "Docente; a interface oferece autoavaliação orientada, não uma nota automática para essa etapa."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        123,
+        124,
+        125
+      ],
+      "paginasImpressas": "126, 127, 128",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        120,
+        121,
+        122
+      ],
+      "paginasImpressas": "123, 124, 125",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        118,
+        119
+      ],
+      "paginasImpressas": "121, 122",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        110
+      ],
+      "paginasImpressas": "112, 113",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ]
+}

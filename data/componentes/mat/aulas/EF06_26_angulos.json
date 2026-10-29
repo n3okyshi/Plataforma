@@ -2,36 +2,122 @@
   "id": "mat.ef06.angulos_e_poligonos.angulos",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 26,
+  "ordem": 38,
   "unidade": "Ângulos e polígonos",
   "titulo": "Ângulos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA25"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Reconhecer a abertura de um ângulo independentemente do comprimento dos traços.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Reconhecer a abertura de um ângulo independentemente do comprimento dos traços.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Ângulos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definição de ângulo como região do plano limitada por duas semirretas de mesma origem e como <strong>medida de giro</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 Classificação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Uso do transferidor para classificar em: <strong>Agudo, Reto, Obtuso e Raso</strong>.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Ângulos</h2><h3>O que vamos aprender</h3><p>Reconhecer a abertura de um ângulo independentemente do comprimento dos traços.</p><h3>Ideias e relações</h3><p>Um ângulo pode ser representado por duas semirretas de mesma origem; a origem é o vértice. Sua abertura pode ser entendida como uma medida de giro. Esticar os traços que representam os lados não aumenta a abertura. Um ângulo agudo tem abertura menor que a de um ângulo reto; um obtuso está entre o reto e o raso. O ângulo reto mede 90°, o raso 180° e uma volta completa 360°. Compare as aberturas a partir do vértice, não pela extensão desenhada dos lados.</p><svg viewBox=\"0 0 440 240\" role=\"img\" aria-label=\"Ângulo reto com vértice O e lados OA horizontal e OB vertical.\" style=\"max-width:100%;color:inherit\"><title>Ângulo reto com vértice O e lados OA horizontal e OB vertical.</title><g stroke=\"currentColor\" stroke-width=\"3\" fill=\"none\"><path d=\"M100 40V180H340\"/><path d=\"M100 150H130V180\" stroke-width=\"1.5\"/></g><g fill=\"currentColor\" font-size=\"18\"><text x=\"76\" y=\"201\">O</text><text x=\"346\" y=\"187\">A</text><text x=\"93\" y=\"30\">B</text><text x=\"145\" y=\"143\">90°</text></g></svg><h3>Exemplo resolvido</h3><p>Uma porta que passa de fechada para uma posição perpendicular à parede gira 90°. Desenhar os lados mais longos não muda essa medida.</p><h3>Atenção ao raciocínio</h3><p>O tamanho do desenho não é a medida da abertura: dois ângulos desenhados em escalas diferentes podem ter a mesma medida.</p><h3>Investigue, construa ou elabore</h3><p>Desenhe dois ângulos retos com traços de comprimentos diferentes. Explique como verificar que as aberturas são iguais.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "angulos",
+      "grandezas"
+    ],
+    "errosComuns": [
+      "O tamanho do desenho não é a medida da abertura: dois ângulos desenhados em escalas diferentes podem ter a mesma medida."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "angulos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um ângulo de 120° é:",
+      "alternativas": [
+        "Agudo",
+        "Reto",
+        "Obtuso",
+        "Raso"
+      ],
+      "correta": 2,
+      "explicacao": "120° é maior que 90° e menor que 180°, portanto é obtuso."
+    },
+    {
+      "id": "angulos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe dois ângulos retos com traços de comprimentos diferentes. Explique como verificar que as aberturas são iguais.",
+      "gabarito": "Ambos devem ter abertura de 90°. Pode-se conferir com esquadro, sobreposição ou transferidor; o comprimento dos traços não altera a abertura.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Ambos devem ter abertura de 90°. Pode-se conferir com esquadro, sobreposição ou transferidor; o comprimento dos traços não altera a abertura.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "angulos",
+    "grandezas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        328,
+        330,
+        333
+      ],
+      "paginasImpressas": "331, 333, 336",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes"
+  ],
+  "proximosPassos": [
+    "mat.ef06.angulos_e_poligonos.poligonos"
+  ]
 }

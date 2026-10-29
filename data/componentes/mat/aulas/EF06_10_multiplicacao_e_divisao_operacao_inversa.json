@@ -4,34 +4,119 @@
   "nivel": "EF06",
   "ordem": 10,
   "unidade": "Operações com números naturais",
-  "titulo": "Multiplicação e Divisão - Operação Inversa",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Multiplicação e Divisão: Operação Inversa",
+  "bncc": [
+    "EF06MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Conferir divisões e encontrar fatores desconhecidos usando produtos.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Conferir divisões e encontrar fatores desconhecidos usando produtos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Multiplicação e Divisão — Operação Inversa</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: usar a relação entre multiplicação e divisão para verificar cálculos e resolver problemas com incógnitas.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Se a × b = c então c ÷ b = a e c ÷ a = b. Isso é útil para checar contas ou encontrar fatores desconhecidos.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Resolva</label>\n  <p>Complete: ? × 24 = 2.400</p>\n  <input id=\"atividade-inversa-multdiv-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se x × 8 = 3.216, então x = ?</p>\n  <div>\n    <button class=\"btn\">402</button>\n    <button class=\"btn\">402</button>\n    <button class=\"btn\">403</button>\n  </div>\n</div>\n    "
+        "html": "<h2>Multiplicação e Divisão: Operação Inversa</h2><h3>O que vamos aprender</h3><p>Conferir divisões e encontrar fatores desconhecidos usando produtos.</p><h3>Ideias e relações</h3><p>Quando uma divisão é exata e o divisor não é zero, multiplicar o quociente pelo divisor reconstrói o dividendo. Se 7 × 16 = 112, então 112 ÷ 7 = 16 e 112 ÷ 16 = 7. Em uma divisão não exata, acrescente o resto à reconstrução. Essa relação é útil para verificar cálculos e descobrir um fator que falta, sem depender de tentativas aleatórias. A pergunta “quantos grupos?” pode ser substituída por “qual fator produz o total?”.</p><h3>Exemplo resolvido</h3><p>Uma compra de 9 ingressos iguais custou R$ 135. Procuramos o fator em 9 × □ = 135. Como 9 × 15 = 135, cada ingresso custou R$ 15.</p><h3>Atenção ao raciocínio</h3><p>A conferência de uma divisão com resto é divisor × quociente + resto, e não apenas a multiplicação.</p><h3>Investigue, construa ou elabore</h3><p>Verifique se “157 ÷ 12 tem quociente 13 e resto 1” é uma divisão válida. Explique as duas condições necessárias.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "operacoes_inversas",
+      "divisao"
+    ],
+    "errosComuns": [
+      "A conferência de uma divisão com resto é divisor × quociente + resto, e não apenas a multiplicação."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "multiplicacao_e_divisao_operacao_inversa.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em 9 × □ = 135, qual é o fator desconhecido?",
+      "alternativas": [
+        "9",
+        "14",
+        "15",
+        "126"
+      ],
+      "correta": 2,
+      "explicacao": "135 ÷ 9 = 15; o produto 9 × 15 devolve 135."
+    },
+    {
+      "id": "multiplicacao_e_divisao_operacao_inversa.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Verifique se “157 ÷ 12 tem quociente 13 e resto 1” é uma divisão válida. Explique as duas condições necessárias.",
+      "gabarito": "Sim: 12 × 13 + 1 = 157 e 0 ≤ 1 < 12. Reconstrução e limite do resto são necessários.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Sim: 12 × 13 + 1 = 157 e 0 ≤ 1 < 12. Reconstrução e limite do resto são necessários.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "operacoes_inversas",
+    "divisao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        37,
+        38
+      ],
+      "paginasImpressas": "40, 41",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais"
+  ],
+  "proximosPassos": [
+    "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais"
+  ]
 }

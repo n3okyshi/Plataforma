@@ -2,36 +2,125 @@
   "id": "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 22,
+  "ordem": 20,
   "unidade": "Múltiplos e divisores",
-  "titulo": "Divisores de um número Natural",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Divisores de um Número Natural",
+  "bncc": [
+    "EF06MA05",
+    "EF06MA06"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Encontrar todos os divisores por pares de fatores e investigar critérios de divisibilidade.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Encontrar todos os divisores por pares de fatores e investigar critérios de divisibilidade.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Divisores</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Identificação dos números que dividem um determinado número de forma exata (resto zero).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛑 Conjunto Finito:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Ao contrário dos múltiplos, os divisores formam sequências finitas. O número <strong>1 é divisor universal</strong>.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Divisores de um Número Natural</h2><h3>O que vamos aprender</h3><p>Encontrar todos os divisores por pares de fatores e investigar critérios de divisibilidade.</p><h3>Ideias e relações</h3><p>Para listar divisores de um natural positivo, procure pares de fatores que formem o número. Em 36, os pares 1×36, 2×18, 3×12, 4×9 e 6×6 fornecem os divisores sem repetições: 1, 2, 3, 4, 6, 9, 12, 18 e 36. Critérios ajudam a decidir divisibilidade: por 2, observe o último algarismo; por 3 e por 9, some os algarismos; por 4, observe os dois últimos; por 8, os três últimos. Para 6, teste 2 e 3; para 5, o final é 0 ou 5; para 10, 100 e 1.000, os finais são um, dois e três zeros. Experimente exemplos e explique o padrão.</p><h3>Exemplo resolvido</h3><p>3.216 é divisível por 8 porque 216 = 8 × 27. É divisível por 3 porque 3 + 2 + 1 + 6 = 12. É também divisível por 6, pois é par e divisível por 3.</p><h3>Atenção ao raciocínio</h3><p>Um número ser divisível por 2 não garante que seja divisível por 4 ou por 8.</p><h3>Investigue, construa ou elabore</h3><p>Liste todos os divisores de 24. Depois investigue por quais números da lista 2, 3, 4, 5, 6, 8, 9, 10, 100 e 1.000 o número 12.000 é divisível. Justifique.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "divisores",
+      "criterios_de_divisibilidade"
+    ],
+    "errosComuns": [
+      "Um número ser divisível por 2 não garante que seja divisível por 4 ou por 8."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "divisores_de_um_numero_natural.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual número é divisível por 6?",
+      "alternativas": [
+        "125",
+        "146",
+        "234",
+        "301"
+      ],
+      "correta": 2,
+      "explicacao": "234 é par e sua soma de algarismos é 9, múltiplo de 3; portanto é divisível por 6."
+    },
+    {
+      "id": "divisores_de_um_numero_natural.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Liste todos os divisores de 24. Depois investigue por quais números da lista 2, 3, 4, 5, 6, 8, 9, 10, 100 e 1.000 o número 12.000 é divisível. Justifique.",
+      "gabarito": "D(24) = {1,2,3,4,6,8,12,24}. 12.000 é divisível por 2,3,4,5,6,8,10,100 e 1.000, mas não por 9, pois a soma dos algarismos é 3. As justificativas devem usar os critérios ou divisões exatas.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "D(24) = {1,2,3,4,6,8,12,24}. 12.000 é divisível por 2,3,4,5,6,8,10,100 e 1.000, mas não por 9, pois a soma dos algarismos é 3. As justificativas devem usar os critérios ou divisões exatas.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "divisores",
+    "criterios_de_divisibilidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "paginasImpressas": "56, 57, 58, 59, 60",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural"
+  ],
+  "proximosPassos": [
+    "mat.ef06.multiplos_e_divisores.numero_primo"
+  ]
 }

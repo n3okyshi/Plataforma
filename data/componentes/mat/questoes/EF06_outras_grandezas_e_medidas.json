@@ -1,0 +1,456 @@
+[
+  {
+    "id": "mat.ef06.outras_grandezas_e_medidas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Outras grandezas e medidas",
+    "aulaId": "mat.ef06.outras_grandezas_e_medidas.grandeza_massa",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Depois de retirar 350 g de 1,2 kg de arroz, restam:",
+    "opcoes": [
+      "750 g",
+      "850 g",
+      "950 g",
+      "1.165 g"
+    ],
+    "correta": 1,
+    "explicacao": "1,2 kg = 1.200 g; 1.200 − 350 = 850 g.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          123,
+          124,
+          125
+        ],
+        "paginasImpressas": "126, 127, 128",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.outras_grandezas_e_medidas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Outras grandezas e medidas",
+    "aulaId": "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "1,5 L podem encher quantos copos de 250 mL?",
+    "opcoes": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correta": 2,
+    "explicacao": "1,5 L = 1.500 mL; 1.500 ÷ 250 = 6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          120,
+          121,
+          122
+        ],
+        "paginasImpressas": "123, 124, 125",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.outras_grandezas_e_medidas.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Outras grandezas e medidas",
+    "aulaId": "mat.ef06.outras_grandezas_e_medidas.grandeza_volume",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas camadas iguais, cada uma com 3 fileiras de 4 cubinhos, têm ao todo:",
+    "opcoes": [
+      "9 cubinhos",
+      "12 cubinhos",
+      "18 cubinhos",
+      "24 cubinhos"
+    ],
+    "correta": 3,
+    "explicacao": "Cada camada tem 12 cubinhos; duas camadas somam 24.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          118,
+          119
+        ],
+        "paginasImpressas": "121, 122",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.outras_grandezas_e_medidas.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Outras grandezas e medidas",
+    "aulaId": "mat.ef06.outras_grandezas_e_medidas.mais_grandezas",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "De 8h45 a 10h10 decorrem:",
+    "opcoes": [
+      "65 minutos",
+      "75 minutos",
+      "85 minutos",
+      "125 minutos"
+    ],
+    "correta": 2,
+    "explicacao": "15 + 60 + 10 = 85 minutos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110
+        ],
+        "paginasImpressas": "112, 113",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.outras_grandezas_e_medidas.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Outras grandezas e medidas",
+    "aulaId": "mat.ef06.outras_grandezas_e_medidas.mais_grandezas",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma hora e quinze minutos correspondem a:",
+    "opcoes": [
+      "65 minutos",
+      "75 minutos",
+      "85 minutos",
+      "115 minutos"
+    ],
+    "correta": 1,
+    "explicacao": "Uma hora tem 60 minutos; 60 + 15 = 75.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110
+        ],
+        "paginasImpressas": "112, 113",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.outras_grandezas_e_medidas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Outras grandezas e medidas",
+    "aulaId": "mat.ef06.outras_grandezas_e_medidas.grandeza_massa",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "2,3 kg correspondem a:",
+    "opcoes": [
+      "230 g",
+      "2.030 g",
+      "2.300 g",
+      "23.000 g"
+    ],
+    "correta": 2,
+    "explicacao": "2 kg são 2.000 g e 0,3 kg são 300 g; total 2.300 g.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          123,
+          124,
+          125
+        ],
+        "paginasImpressas": "126, 127, 128",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.outras_grandezas_e_medidas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Outras grandezas e medidas",
+    "aulaId": "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma garrafa de 1,8 L enche quantos copos de 300 mL?",
+    "opcoes": [
+      "3",
+      "5",
+      "6",
+      "9"
+    ],
+    "correta": 2,
+    "explicacao": "1,8 L = 1.800 mL; 1.800 ÷ 300 = 6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          120,
+          121,
+          122
+        ],
+        "paginasImpressas": "123, 124, 125",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.outras_grandezas_e_medidas.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Outras grandezas e medidas",
+    "aulaId": "mat.ef06.outras_grandezas_e_medidas.grandeza_volume",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um bloco tem três camadas, cada uma com duas fileiras de cinco cubinhos. Quantos cubinhos há?",
+    "opcoes": [
+      "10",
+      "15",
+      "20",
+      "30"
+    ],
+    "correta": 3,
+    "explicacao": "Cada camada tem dez cubinhos; três camadas totalizam trinta.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          118,
+          119
+        ],
+        "paginasImpressas": "121, 122",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.outras_grandezas_e_medidas.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Outras grandezas e medidas",
+    "aulaId": "mat.ef06.outras_grandezas_e_medidas.mais_grandezas",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um evento começa às 14h20 e termina às 16h05. A duração é:",
+    "opcoes": [
+      "85 min",
+      "95 min",
+      "105 min",
+      "145 min"
+    ],
+    "correta": 2,
+    "explicacao": "São 40 minutos até 15h, mais 60 até 16h e mais 5: 105 minutos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110
+        ],
+        "paginasImpressas": "112, 113",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.outras_grandezas_e_medidas.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Outras grandezas e medidas",
+    "aulaId": "mat.ef06.outras_grandezas_e_medidas.mais_grandezas",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A temperatura passou de 17 °C para 24 °C. A variação foi:",
+    "opcoes": [
+      "Aumento de 7 °C.",
+      "Aumento de 41 °C.",
+      "Queda de 7 °C.",
+      "Aumento de 17 °C."
+    ],
+    "correta": 0,
+    "explicacao": "24 − 17 = 7; o valor final é maior, logo houve aumento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110
+        ],
+        "paginasImpressas": "112, 113",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

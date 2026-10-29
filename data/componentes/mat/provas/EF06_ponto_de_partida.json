@@ -1,0 +1,84 @@
+{
+  "id": "mat.ef06.ponto_de_partida.prova",
+  "titulo": "Diagnóstico: Ponto de Partida",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF06",
+  "unidade": "Ponto de Partida",
+  "bncc": [
+    "EF06MA01",
+    "EF06MA03"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "A parte objetiva tem cinco itens, valendo dois pontos cada. A correção aparece ao final. A etapa prática tem rubrica própria e exige conferência do professor; a nota objetiva não certifica sozinha o domínio da unidade.",
+  "questoes": [
+    "mat.ef06.ponto_de_partida.prova.01",
+    "mat.ef06.ponto_de_partida.prova.02",
+    "mat.ef06.ponto_de_partida.prova.03",
+    "mat.ef06.ponto_de_partida.prova.04",
+    "mat.ef06.ponto_de_partida.prova.05"
+  ],
+  "criterios": "Parte objetiva: dois pontos por item correto. Etapa prática: observar a produção real com a rubrica; sem nota automática. O diagnóstico serve para orientar retomadas.",
+  "matriz": [
+    {
+      "bncc": "EF06MA01",
+      "questoes": [
+        "mat.ef06.ponto_de_partida.prova.01",
+        "mat.ef06.ponto_de_partida.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.ponto_de_partida.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA03",
+      "questoes": [
+        "mat.ef06.ponto_de_partida.prova.03",
+        "mat.ef06.ponto_de_partida.prova.04",
+        "mat.ef06.ponto_de_partida.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.ponto_de_partida.pratica"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef06.ponto_de_partida.pratica",
+    "tipo": "discursiva",
+    "titulo": "Explique uma estratégia de cálculo e um ponto a retomar",
+    "enunciado": "Resolva 42 + 29, 100 − 37 e compare 2.049 com 2.094. Registre as estratégias e escolha uma dificuldade para revisar.",
+    "gabarito": "71; 63; 2.049 < 2.094. Observar estratégias e dificuldades sem usar o resultado como classificação definitiva.",
+    "bncc": [
+      "EF06MA01",
+      "EF06MA03"
+    ],
+    "rubrica": [
+      "Realizar a tarefa e apresentar registros verificáveis (texto, desenho, modelo, tabela, gráfico ou fluxograma).",
+      "Explicar os procedimentos, propriedades e unidades utilizadas.",
+      "Conferir o resultado e discutir limites, aproximações ou ambiguidades quando aplicáveis."
+    ],
+    "correcao": "Docente; a interface oferece autoavaliação orientada, não uma nota automática para essa etapa."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14,
+        29,
+        32
+      ],
+      "paginasImpressas": "17, 32, 35",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ]
+}

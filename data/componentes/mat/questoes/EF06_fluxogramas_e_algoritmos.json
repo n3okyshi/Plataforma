@@ -1,0 +1,363 @@
+[
+  {
+    "id": "mat.ef06.fluxogramas_e_algoritmos.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Fluxogramas e Algoritmos",
+    "aulaId": "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma",
+    "bncc": [
+      "EF06MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No algoritmo de paridade, um natural é par quando o resto de sua divisão por 2 é:",
+    "opcoes": [
+      "0",
+      "1",
+      "2",
+      "Qualquer valor"
+    ],
+    "correta": 0,
+    "explicacao": "Resto zero significa que o número é múltiplo de 2.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.fluxogramas_e_algoritmos.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Fluxogramas e Algoritmos",
+    "aulaId": "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano",
+    "bncc": [
+      "EF06MA34"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Num organograma, uma seta definida como “supervisiona” indica:",
+    "opcoes": [
+      "Sempre uma estrada.",
+      "Uma relação de supervisão.",
+      "Obrigatoriamente passagem do tempo.",
+      "Uma soma de quantidades."
+    ],
+    "correta": 1,
+    "explicacao": "A legenda define a relação; neste caso, supervisão, e não deslocamento ou tempo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.fluxogramas_e_algoritmos.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Fluxogramas e Algoritmos",
+    "aulaId": "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento",
+    "bncc": [
+      "EF06MA23",
+      "EF06MA16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Partindo de (1,1), quatro unidades à direita e três acima levam a:",
+    "opcoes": [
+      "(4,3)",
+      "(5,4)",
+      "(4,5)",
+      "(1,8)"
+    ],
+    "correta": 1,
+    "explicacao": "x aumenta de 1 para 5 e y aumenta de 1 para 4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.fluxogramas_e_algoritmos.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Fluxogramas e Algoritmos",
+    "aulaId": "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano",
+    "bncc": [
+      "EF06MA34"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Num mapa com estradas de dois sentidos A–B e B–C, qual trajeto usa apenas essas estradas?",
+    "opcoes": [
+      "A→C direto",
+      "C→B→A",
+      "C→D→A",
+      "B→D"
+    ],
+    "correta": 1,
+    "explicacao": "C liga-se a B, e B liga-se a A. Não foi informada estrada direta A–C.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.fluxogramas_e_algoritmos.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Fluxogramas e Algoritmos",
+    "aulaId": "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma",
+    "bncc": [
+      "EF06MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O resto da divisão de 14 por 2 é zero. O algoritmo de paridade informa:",
+    "opcoes": [
+      "Ímpar",
+      "Par",
+      "Indefinido",
+      "Negativo"
+    ],
+    "correta": 1,
+    "explicacao": "Resto zero na divisão por dois caracteriza um natural par.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.fluxogramas_e_algoritmos.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Fluxogramas e Algoritmos",
+    "aulaId": "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma",
+    "bncc": [
+      "EF06MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ao testar a paridade de zero pelo resto da divisão por 2, a saída correta é:",
+    "opcoes": [
+      "Ímpar",
+      "Par",
+      "Sem saída possível",
+      "Negativo"
+    ],
+    "correta": 1,
+    "explicacao": "0 ÷ 2 é exato, com resto zero; zero é múltiplo de 2 e é par.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.fluxogramas_e_algoritmos.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Fluxogramas e Algoritmos",
+    "aulaId": "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma",
+    "bncc": [
+      "EF06MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em um fluxograma de paridade, o ramo “resto diferente de zero” para um natural leva a:",
+    "opcoes": [
+      "Par",
+      "Ímpar",
+      "Sempre primo",
+      "Sempre zero"
+    ],
+    "correta": 1,
+    "explicacao": "Na divisão por 2, o resto possível diferente de zero é 1, que identifica ímpar.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.fluxogramas_e_algoritmos.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Fluxogramas e Algoritmos",
+    "aulaId": "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano",
+    "bncc": [
+      "EF06MA34"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Há estradas de dois sentidos A–B, B–C e A–D. Um caminho de C até D é:",
+    "opcoes": [
+      "C→D direto",
+      "C→A direto",
+      "C→B→A→D",
+      "C→B→D direto"
+    ],
+    "correta": 2,
+    "explicacao": "O caminho usa sucessivamente B–C, A–B e A–D; as ligações diretas alternativas não foram dadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.fluxogramas_e_algoritmos.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Fluxogramas e Algoritmos",
+    "aulaId": "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento",
+    "bncc": [
+      "EF06MA23"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Partindo de (2,2), andar três unidades à direita e quatro acima leva a:",
+    "opcoes": [
+      "(3,4)",
+      "(5,6)",
+      "(6,5)",
+      "(2,9)"
+    ],
+    "correta": 1,
+    "explicacao": "Somamos 3 a x e 4 a y: (2+3, 2+4) = (5,6).",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.fluxogramas_e_algoritmos.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Fluxogramas e Algoritmos",
+    "aulaId": "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano",
+    "bncc": [
+      "EF06MA34"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se a legenda define uma seta como “supervisiona”, Direção → Coordenação significa:",
+    "opcoes": [
+      "A Coordenação supervisiona a Direção.",
+      "A Direção supervisiona a Coordenação.",
+      "Há uma estrada entre duas cidades.",
+      "Uma etapa deve durar cinco minutos."
+    ],
+    "correta": 1,
+    "explicacao": "A relação deve ser interpretada no sentido e com o significado definidos pela legenda.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

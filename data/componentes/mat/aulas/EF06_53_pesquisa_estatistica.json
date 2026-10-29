@@ -2,36 +2,110 @@
   "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 53,
+  "ordem": 61,
   "unidade": "Probabilidade e pesquisa estatística",
-  "titulo": "Pesquisa estatística",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Pesquisa Estatística",
+  "bncc": [
+    "EF06MA33"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Planejar, coletar, organizar e apresentar dados de uma pesquisa com pergunta e população definidas.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Planejar, coletar, organizar e apresentar dados de uma pesquisa com pergunta e população definidas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Estatística</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            As etapas de uma pesquisa: coleta, organização e interpretação de dados.\n        </p>\n        \n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📊 Gráficos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Leitura e construção de tabelas de frequência e gráficos (barras, colunas e linhas) para sintetizar informações.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Pesquisa Estatística</h2><h3>O que vamos aprender</h3><p>Planejar, coletar, organizar e apresentar dados de uma pesquisa com pergunta e população definidas.</p><h3>Ideias e relações</h3><p>Uma pesquisa começa com uma pergunta clara e com a definição de quem será pesquisado. Escolha uma variável que ajude a responder à pergunta, combine categorias sem sobreposição e registre uma resposta por participante quando a pergunta exigir apenas uma escolha. Organize as contagens em tabela de frequências e use uma planilha para registrar e somar os dados. Depois escolha um gráfico adequado e escreva uma conclusão limitada ao grupo consultado. Evite coletar informações pessoais desnecessárias; explique a finalidade da atividade.</p><svg viewBox=\"0 0 440 240\" role=\"img\" aria-label=\"Dados fictícios: transporte de vinte estudantes. A pé: oito; bicicleta: quatro; ônibus: oito. Cada marca vertical corresponde a dois estudantes. Fonte: exemplo autoral, 29 de outubro de 2026.\" style=\"max-width:100%;color:inherit\"><title>Dados fictícios: transporte de vinte estudantes. A pé: oito; bicicleta: quatro; ônibus: oito. Cada marca vertical corresponde a dois estudantes. Fonte: exemplo autoral, 29 de outubro de 2026.</title><g fill=\"none\" stroke=\"currentColor\"><path d=\"M55 25V175H400\"/><path d=\"M50 175H400\" opacity=\"0.15\"/><path d=\"M50 145H400\" opacity=\"0.15\"/><path d=\"M50 115H400\" opacity=\"0.15\"/><path d=\"M50 85H400\" opacity=\"0.15\"/><path d=\"M50 55H400\" opacity=\"0.15\"/></g><g fill=\"#2563eb\"><rect x=\"95\" y=\"55\" width=\"55\" height=\"120\"/><rect x=\"205\" y=\"115\" width=\"55\" height=\"60\"/><rect x=\"315\" y=\"55\" width=\"55\" height=\"120\"/></g><g fill=\"currentColor\" font-size=\"12\"><text x=\"35\" y=\"179\">0</text><text x=\"35\" y=\"149\">2</text><text x=\"35\" y=\"119\">4</text><text x=\"35\" y=\"89\">6</text><text x=\"35\" y=\"59\">8</text><text x=\"95\" y=\"194\">A pé</text><text x=\"200\" y=\"194\">Bicicleta</text><text x=\"315\" y=\"194\">Ônibus</text><text x=\"55\" y=\"16\">Transporte de 20 estudantes — dados fictícios</text><text x=\"20\" y=\"222\">Fonte: exemplo autoral; 29/10/2026. Unidade: estudante.</text></g></svg><h3>Exemplo resolvido</h3><p>Exemplo fictício: vinte estudantes informaram seu principal meio de transporte: a pé, 8; bicicleta, 4; ônibus, 8. As frequências somam 20. A planilha pode ter colunas “meio de transporte” e “frequência”. Não podemos afirmar que esses dados representam todas as escolas.</p><h3>Atenção ao raciocínio</h3><p>Uma tabela organizada não corrige uma pergunta ambígua ou uma coleta com respostas duplicadas.</p><h3>Investigue, construa ou elabore</h3><p>Planeje e realize com a turma uma pesquisa sobre uma prática sustentável, sem nomes. Defina a pergunta, o grupo, as categorias e a coleta. Registre em planilha, faça um gráfico e redija uma conclusão.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "pesquisa",
+      "coleta_de_dados"
+    ],
+    "errosComuns": [
+      "Uma tabela organizada não corrige uma pergunta ambígua ou uma coleta com respostas duplicadas."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "pesquisa_estatistica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na tabela fictícia a pé=8, bicicleta=4 e ônibus=8, o total de respostas é:",
+      "alternativas": [
+        "16",
+        "18",
+        "20",
+        "24"
+      ],
+      "correta": 2,
+      "explicacao": "Somamos as frequências: 8 + 4 + 8 = 20."
+    },
+    {
+      "id": "pesquisa_estatistica.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Planeje e realize com a turma uma pesquisa sobre uma prática sustentável, sem nomes. Defina a pergunta, o grupo, as categorias e a coleta. Registre em planilha, faça um gráfico e redija uma conclusão.",
+      "gabarito": "Avaliar clareza da pergunta, população delimitada, categorias consistentes, registro sem duplicação, tabela conferida, gráfico identificado e conclusão apoiada nos dados reais coletados. Não há resultado numérico único.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Avaliar clareza da pergunta, população delimitada, categorias consistentes, registro sem duplicação, tabela conferida, gráfico identificado e conclusão apoiada nos dados reais coletados. Não há resultado numérico único.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "pesquisa",
+    "coleta_de_dados"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        307
+      ],
+      "paginasImpressas": "305",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade"
+  ]
 }

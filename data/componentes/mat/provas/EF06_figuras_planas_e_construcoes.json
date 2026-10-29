@@ -1,0 +1,145 @@
+{
+  "id": "mat.ef06.figuras_planas_e_construcoes.prova",
+  "titulo": "Avaliação: Figuras Planas e Construções",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF06",
+  "unidade": "Figuras Planas e Construções",
+  "bncc": [
+    "EF06MA19",
+    "EF06MA20",
+    "EF06MA22",
+    "EF06MA26",
+    "EF06MA27"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "A parte objetiva tem cinco itens, valendo dois pontos cada. A correção aparece ao final. A etapa prática tem rubrica própria e exige conferência do professor; a nota objetiva não certifica sozinha o domínio da unidade.",
+  "questoes": [
+    "mat.ef06.figuras_planas_e_construcoes.prova.01",
+    "mat.ef06.figuras_planas_e_construcoes.prova.02",
+    "mat.ef06.figuras_planas_e_construcoes.prova.03",
+    "mat.ef06.figuras_planas_e_construcoes.prova.04",
+    "mat.ef06.figuras_planas_e_construcoes.prova.05"
+  ],
+  "criterios": "Parte objetiva: dois pontos por item correto. Etapa prática: observar a produção real com a rubrica; sem nota automática. O diagnóstico serve para orientar retomadas.",
+  "matriz": [
+    {
+      "bncc": "EF06MA19",
+      "questoes": [
+        "mat.ef06.figuras_planas_e_construcoes.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.figuras_planas_e_construcoes.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA20",
+      "questoes": [
+        "mat.ef06.figuras_planas_e_construcoes.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.figuras_planas_e_construcoes.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA22",
+      "questoes": [
+        "mat.ef06.figuras_planas_e_construcoes.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.figuras_planas_e_construcoes.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA26",
+      "questoes": [
+        "mat.ef06.figuras_planas_e_construcoes.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.figuras_planas_e_construcoes.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA27",
+      "questoes": [
+        "mat.ef06.figuras_planas_e_construcoes.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.figuras_planas_e_construcoes.pratica"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef06.figuras_planas_e_construcoes.pratica",
+    "tipo": "discursiva",
+    "titulo": "Classificações e medição geométrica",
+    "enunciado": "Construa um triângulo com tiras de comprimentos 3,4,5 e classifique-o por lados e ângulos. Desenhe um retângulo 5×2 usando esquadro e diga por que não é quadrado. Construa e meça com transferidor um ângulo de 40° e descreva um giro de meia volta.",
+    "gabarito": "Triângulo escaleno e retângulo. O retângulo 5×2 não possui quatro lados iguais. Conferir o alinhamento do centro e do zero ao construir 40°; meia volta mede 180°. Considerar a precisão do instrumento.",
+    "bncc": [
+      "EF06MA19",
+      "EF06MA20",
+      "EF06MA22",
+      "EF06MA26",
+      "EF06MA27"
+    ],
+    "rubrica": [
+      "Realizar a tarefa e apresentar registros verificáveis (texto, desenho, modelo, tabela, gráfico ou fluxograma).",
+      "Explicar os procedimentos, propriedades e unidades utilizadas.",
+      "Conferir o resultado e discutir limites, aproximações ou ambiguidades quando aplicáveis."
+    ],
+    "correcao": "Docente; a interface oferece autoavaliação orientada, não uma nota automática para essa etapa."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344,
+        345,
+        346
+      ],
+      "paginasImpressas": "347, 348, 349",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        364,
+        365,
+        366,
+        367
+      ],
+      "paginasImpressas": "367, 368, 369, 370",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        330,
+        331,
+        333
+      ],
+      "paginasImpressas": "333, 334, 336",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        328,
+        330,
+        333
+      ],
+      "paginasImpressas": "331, 333, 336",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ]
+}

@@ -2,36 +2,121 @@
   "id": "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 27,
+  "ordem": 37,
   "unidade": "Ângulos e polígonos",
   "titulo": "Retas Paralelas e Retas Concorrentes",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA22"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construir retas paralelas e perpendiculares utilizando régua e esquadros.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Construir retas paralelas e perpendiculares utilizando régua e esquadros.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Posições Relativas de Retas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo da posição relativa entre retas no plano.\n        </p>\n        \n\n\t\t\t\t\t\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛣️ Tipos:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Paralelas:</strong> Mantêm a mesma distância e não se cruzam.</li>\n                <li><strong>Concorrentes:</strong> Possuem um ponto em comum.</li>\n                <li><strong>Perpendiculares:</strong> Concorrentes que formam 90º.</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Retas Paralelas e Retas Concorrentes</h2><h3>O que vamos aprender</h3><p>Construir retas paralelas e perpendiculares utilizando régua e esquadros.</p><h3>Ideias e relações</h3><p>No mesmo plano, retas paralelas distintas não se encontram; retas concorrentes têm um ponto em comum. Retas perpendiculares são concorrentes que formam ângulos retos. Para construir uma paralela, apoie um esquadro em uma régua, alinhe um lado à reta inicial e deslize o esquadro sem girá-lo. Trace pela nova posição do mesmo lado. Para uma perpendicular, use os lados que formam o ângulo reto do esquadro. Confirme a construção com o instrumento, sem confiar apenas na aparência.</p><h3>Exemplo resolvido</h3><p>Para construir um retângulo, trace um segmento horizontal; por suas extremidades, represente perpendiculares de mesma medida; una as novas extremidades. Os lados opostos ficam paralelos.</p><h3>Atenção ao raciocínio</h3><p>Retas que parecem não se tocar dentro da folha podem ser concorrentes quando prolongadas.</p><h3>Investigue, construa ou elabore</h3><p>Construa com régua e esquadros um retângulo de 6 cm por 3 cm. Registre como garantiu os ângulos retos e o paralelismo dos lados opostos.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "retas",
+      "paralelismo"
+    ],
+    "errosComuns": [
+      "Retas que parecem não se tocar dentro da folha podem ser concorrentes quando prolongadas."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "retas_paralelas_e_retas_concorrentes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Duas retas perpendiculares formam ângulos de:",
+      "alternativas": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correta": 3,
+      "explicacao": "A perpendicularidade corresponde à formação de ângulos retos, de 90°."
+    },
+    {
+      "id": "retas_paralelas_e_retas_concorrentes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa com régua e esquadros um retângulo de 6 cm por 3 cm. Registre como garantiu os ângulos retos e o paralelismo dos lados opostos.",
+      "gabarito": "Usar o ângulo reto do esquadro nas extremidades, manter medidas iguais nas direções perpendiculares e unir as extremidades. A justificativa deve envolver os instrumentos e as propriedades, não só a aparência.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Usar o ângulo reto do esquadro nas extremidades, manter medidas iguais nas direções perpendiculares e unir as extremidades. A justificativa deve envolver os instrumentos e as propriedades, não só a aparência.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "retas",
+    "paralelismo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        329,
+        355
+      ],
+      "paginasImpressas": "332, 358",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano"
+  ],
+  "proximosPassos": [
+    "mat.ef06.angulos_e_poligonos.angulos"
+  ]
 }

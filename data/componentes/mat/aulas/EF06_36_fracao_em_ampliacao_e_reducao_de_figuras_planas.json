@@ -2,36 +2,121 @@
   "id": "mat.ef06.fracoes_e_porcentagem.fracao_em_ampliacao_e_reducao_de_figuras_planas",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 36,
+  "ordem": 34,
   "unidade": "Frações e porcentagem",
-  "titulo": "Fração em Ampliação e Redução de Figuras Planas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Fração em Ampliação e Redução de Figuras",
+  "bncc": [
+    "EF06MA21"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construir uma redução com fator fracionário preservando a forma da figura.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Construir uma redução com fator fracionário preservando a forma da figura.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Razão de Semelhança</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aplicação prática de frações no redimensionamento de imagens.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔍 A Regra:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Multiplicar as dimensões por uma fração <strong>maior que 1 amplia</strong> a figura. Multiplicar por uma fração <strong>menor que 1 a reduz</strong>.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Fração em Ampliação e Redução de Figuras</h2><h3>O que vamos aprender</h3><p>Construir uma redução com fator fracionário preservando a forma da figura.</p><h3>Ideias e relações</h3><p>Uma redução produz uma figura semelhante quando todas as medidas lineares correspondentes são multiplicadas pelo mesmo fator positivo menor que 1, mantendo as medidas dos ângulos. Podemos usar a malha para contar os comprimentos e construir a nova figura. Reduzir pela metade significa multiplicar cada comprimento por 1/2, não retirar a mesma quantidade de cada lado. Depois de desenhar, confira as razões entre lados correspondentes e observe se os ângulos foram conservados.</p><h3>Exemplo resolvido</h3><p>Um retângulo de 8 por 6 quadradinhos, reduzido pelo fator 1/2, passa a medir 4 por 3 quadradinhos. Ambos os lados foram multiplicados pelo mesmo fator.</p><h3>Atenção ao raciocínio</h3><p>Retirar duas unidades de cada lado produziria 6 por 4; as razões 6/8 e 4/6 são diferentes, então a forma não é preservada.</p><h3>Investigue, construa ou elabore</h3><p>Em malha, desenhe um retângulo de 6 por 4 e sua redução pelo fator 1/2. Compare lados e ângulos correspondentes.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "fracoes",
+      "ampliacao"
+    ],
+    "errosComuns": [
+      "Retirar duas unidades de cada lado produziria 6 por 4; as razões 6/8 e 4/6 são diferentes, então a forma não é preservada."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "fracao_em_ampliacao_e_reducao_de_figuras_planas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um retângulo de 8 por 6 é reduzido pelo fator 1/2. As novas medidas são:",
+      "alternativas": [
+        "6 e 4",
+        "4 e 3",
+        "4 e 6",
+        "8 e 3"
+      ],
+      "correta": 1,
+      "explicacao": "Multiplicamos os dois comprimentos por 1/2: 4 e 3."
+    },
+    {
+      "id": "fracao_em_ampliacao_e_reducao_de_figuras_planas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Em malha, desenhe um retângulo de 6 por 4 e sua redução pelo fator 1/2. Compare lados e ângulos correspondentes.",
+      "gabarito": "O retângulo reduzido mede 3 por 2. As razões são 3/6 = 2/4 = 1/2, e todos os ângulos continuam retos.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "O retângulo reduzido mede 3 por 2. As razões são 3/6 = 2/4 = 1/2, e todos os ângulos continuam retos.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fracoes",
+    "ampliacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        171
+      ],
+      "paginasImpressas": "173, 174",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal"
+  ],
+  "proximosPassos": [
+    "mat.ef06.fracoes_e_porcentagem.porcentagem"
+  ]
 }

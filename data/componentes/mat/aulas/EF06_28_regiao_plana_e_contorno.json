@@ -2,36 +2,122 @@
   "id": "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 28,
+  "ordem": 40,
   "unidade": "Ângulos e polígonos",
   "titulo": "Região Plana e Contorno",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA18",
+    "EF06MA24"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Distinguir a região ocupada por uma figura de sua linha de contorno.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Distinguir a região ocupada por uma figura de sua linha de contorno.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Região Plana vs Contorno</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Distinção essencial entre a linha que delimita uma figura (contorno) e a superfície interna (região plana).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💡 Importância:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Este é o conceito fundamental para diferenciar futuramente <strong>Perímetro</strong> (borda) de <strong>Área</strong> (recheio).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Região Plana e Contorno</h2><h3>O que vamos aprender</h3><p>Distinguir a região ocupada por uma figura de sua linha de contorno.</p><h3>Ideias e relações</h3><p>Ao observar uma figura plana, podemos investigar seu contorno ou a região que ele delimita. O perímetro mede o comprimento do contorno; a área mede a superfície ocupada. Eles usam unidades diferentes: centímetros e centímetros quadrados, por exemplo. Preencher uma figura com quadradinhos estuda sua área; percorrer a borda com uma linha estuda seu perímetro. Em um polígono, os lados constituem o contorno, enquanto os quadradinhos internos ajudam a comparar regiões.</p><h3>Exemplo resolvido</h3><p>Um retângulo de 4 por 3 quadradinhos ocupa 12 quadradinhos. Para percorrer sua borda, contamos 4 + 3 + 4 + 3 = 14 unidades de comprimento.</p><h3>Atenção ao raciocínio</h3><p>Não compare 12 unidades quadradas e 14 unidades de comprimento como se fossem medidas da mesma grandeza.</p><h3>Investigue, construa ou elabore</h3><p>Desenhe em malha duas figuras com a mesma área e contornos diferentes. Conte quadradinhos e segmentos da borda.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "poligonos",
+      "contorno"
+    ],
+    "errosComuns": [
+      "Não compare 12 unidades quadradas e 14 unidades de comprimento como se fossem medidas da mesma grandeza."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "regiao_plana_e_contorno.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O retângulo de 4 por 3 ocupa quantos quadradinhos unitários?",
+      "alternativas": [
+        "7",
+        "12",
+        "14",
+        "16"
+      ],
+      "correta": 1,
+      "explicacao": "São três fileiras com quatro quadradinhos, totalizando 12 unidades de área."
+    },
+    {
+      "id": "regiao_plana_e_contorno.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe em malha duas figuras com a mesma área e contornos diferentes. Conte quadradinhos e segmentos da borda.",
+      "gabarito": "Exemplo: retângulos 1×6 e 2×3 têm área 6, mas perímetros 14 e 10. Aceitar outras construções com contagens corretas.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Exemplo: retângulos 1×6 e 2×3 têm área 6, mas perímetros 14 e 10. Aceitar outras construções com contagens corretas.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "poligonos",
+    "contorno"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        112,
+        113
+      ],
+      "paginasImpressas": "115, 116",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.angulos_e_poligonos.poligonos"
+  ],
+  "proximosPassos": [
+    "mat.ef06.angulos_e_poligonos.plano_cartesiano"
+  ]
 }

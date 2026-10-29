@@ -2,36 +2,125 @@
   "id": "mat.ef06.fracoes_e_porcentagem.comparando_fracoes",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 34,
+  "ordem": 30,
   "unidade": "Frações e porcentagem",
   "titulo": "Comparando Frações",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA07"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Comparar frações usando equivalência, unidade de referência e reta numérica.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Comparar frações usando equivalência, unidade de referência e reta numérica.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Comparação de Frações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estratégias para determinar qual fração é maior ou menor.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Casos:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li>Denominadores iguais (olha o numerador).</li>\n                <li>Numeradores iguais (quanto maior o denominador, menor o pedaço).</li>\n                <li>Redução ao mesmo denominador.</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Comparando Frações</h2><h3>O que vamos aprender</h3><p>Comparar frações usando equivalência, unidade de referência e reta numérica.</p><h3>Ideias e relações</h3><p>Com o mesmo denominador positivo, o maior numerador representa a maior fração. Com o mesmo numerador positivo, o maior denominador indica partes menores e, portanto, uma fração menor. Quando ambos são diferentes, podemos obter denominadores iguais por equivalência. Também é útil comparar com 1/2 ou com 1. Em uma reta, frações equivalentes ocupam o mesmo ponto. Todas essas comparações supõem a mesma unidade: desenhos com todos de tamanhos diferentes podem induzir conclusões erradas.</p><h3>Exemplo resolvido</h3><p>Para comparar 2/3 e 3/4, escrevemos 2/3 = 8/12 e 3/4 = 9/12. Como 8 &lt; 9, temos 2/3 &lt; 3/4.</p><h3>Atenção ao raciocínio</h3><p>Não compare apenas os numeradores ou apenas os denominadores quando ambos diferem.</p><h3>Investigue, construa ou elabore</h3><p>Ordene 1/2, 5/6 e 2/3 e localize-os aproximadamente na reta de 0 a 1, explicando a estratégia.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "fracoes",
+      "comparacao"
+    ],
+    "errosComuns": [
+      "Não compare apenas os numeradores ou apenas os denominadores quando ambos diferem."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "comparando_fracoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual comparação é correta?",
+      "alternativas": [
+        "2/3 > 3/4",
+        "2/3 = 3/4",
+        "2/3 < 3/4",
+        "3/4 < 1/2"
+      ],
+      "correta": 2,
+      "explicacao": "Com denominador 12, as frações são 8/12 e 9/12."
+    },
+    {
+      "id": "comparando_fracoes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Ordene 1/2, 5/6 e 2/3 e localize-os aproximadamente na reta de 0 a 1, explicando a estratégia.",
+      "gabarito": "Em sextos: 3/6 < 4/6 < 5/6. Portanto, 1/2 < 2/3 < 5/6; todos ficam entre 0 e 1.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Em sextos: 3/6 < 4/6 < 5/6. Portanto, 1/2 < 2/3 < 5/6; todos ficam entre 0 e 1.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fracoes",
+    "comparacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "paginasImpressas": "80, 81, 82, 83, 84, 85",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.fracoes_e_porcentagem.fracoes_equivalentes"
+  ],
+  "proximosPassos": [
+    "mat.ef06.fracoes_e_porcentagem.adicao_e_subtracao_de_fracoes"
+  ]
 }

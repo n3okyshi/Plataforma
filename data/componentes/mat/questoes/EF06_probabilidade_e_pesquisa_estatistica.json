@@ -1,0 +1,363 @@
+[
+  {
+    "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Probabilidade e pesquisa estatística",
+    "aulaId": "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica",
+    "bncc": [
+      "EF06MA33"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na tabela fictícia a pé=8, bicicleta=4 e ônibus=8, o total de respostas é:",
+    "opcoes": [
+      "16",
+      "18",
+      "20",
+      "24"
+    ],
+    "correta": 2,
+    "explicacao": "Somamos as frequências: 8 + 4 + 8 = 20.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Probabilidade e pesquisa estatística",
+    "aulaId": "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade",
+    "bncc": [
+      "EF06MA30"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Num dado equilibrado de seis faces, a probabilidade de sair número par é:",
+    "opcoes": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correta": 2,
+    "explicacao": "Há três resultados pares entre seis igualmente possíveis: 3/6 = 1/2.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Probabilidade e pesquisa estatística",
+    "aulaId": "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos",
+    "bncc": [
+      "EF06MA31"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Num eixo com marcas 0, 2, 4, 6 e 8, a terceira marca depois do zero indica:",
+    "opcoes": [
+      "3",
+      "4",
+      "6",
+      "8"
+    ],
+    "correta": 2,
+    "explicacao": "As marcas depois do zero indicam 2, 4 e 6; a terceira é 6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Probabilidade e pesquisa estatística",
+    "aulaId": "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano",
+    "bncc": [
+      "EF06MA32",
+      "EF06MA31"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na coleta fictícia de 18 kg de papel e 12 kg de plástico, a diferença é:",
+    "opcoes": [
+      "3 kg",
+      "6 kg",
+      "12 kg",
+      "30 kg"
+    ],
+    "correta": 1,
+    "explicacao": "18 − 12 = 6 kg, mantendo a mesma grandeza e unidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Probabilidade e pesquisa estatística",
+    "aulaId": "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos",
+    "bncc": [
+      "EF06MA31"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em um gráfico de uma pesquisa, a fonte permite identificar:",
+    "opcoes": [
+      "Quem produziu ou de onde vieram os dados.",
+      "Sempre a causa do fenômeno.",
+      "Somente a maior frequência.",
+      "O resultado de todas as próximas pesquisas."
+    ],
+    "correta": 0,
+    "explicacao": "A fonte identifica a procedência; ela não demonstra, sozinha, causas nem previsões.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Probabilidade e pesquisa estatística",
+    "aulaId": "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade",
+    "bncc": [
+      "EF06MA30"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um saco contém 3 bolas vermelhas e 2 azuis, iguais fora da cor. Sorteando uma ao acaso, a chance de vermelha é:",
+    "opcoes": [
+      "2/5",
+      "3/5",
+      "1/2",
+      "3/2"
+    ],
+    "correta": 1,
+    "explicacao": "Há três bolas favoráveis em cinco igualmente possíveis: 3/5 = 0,6 = 60%.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Probabilidade e pesquisa estatística",
+    "aulaId": "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade",
+    "bncc": [
+      "EF06MA30"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em 30 lançamentos de uma moeda saíram 18 caras. A frequência observada de caras foi:",
+    "opcoes": [
+      "18%",
+      "30%",
+      "50%",
+      "60%"
+    ],
+    "correta": 3,
+    "explicacao": "18/30 = 3/5 = 0,6 = 60%. A chance teórica de 50% não exige frequência idêntica em trinta lançamentos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Probabilidade e pesquisa estatística",
+    "aulaId": "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos",
+    "bncc": [
+      "EF06MA31"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em uma pesquisa sobre transporte, “bicicleta: 7 estudantes” informa:",
+    "opcoes": [
+      "Uma causa comprovada.",
+      "Uma frequência da categoria bicicleta.",
+      "A distância percorrida.",
+      "A data da pesquisa."
+    ],
+    "correta": 1,
+    "explicacao": "A frequência é o número de respostas ou observações naquela categoria.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Probabilidade e pesquisa estatística",
+    "aulaId": "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano",
+    "bncc": [
+      "EF06MA32"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma escola coletou 14 kg de papel e 9 kg de plástico. Qual conclusão é sustentada pelos dados?",
+    "opcoes": [
+      "Toda escola coleta mais papel.",
+      "O papel explica a causa do desperdício.",
+      "Na coleta informada, houve 5 kg a mais de papel.",
+      "No próximo mês haverá o mesmo resultado."
+    ],
+    "correta": 2,
+    "explicacao": "A diferença 14 − 9 é 5 kg. As outras afirmações extrapolam os dados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Probabilidade e pesquisa estatística",
+    "aulaId": "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica",
+    "bncc": [
+      "EF06MA33"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Antes de coletar dados sobre uma prática da turma, é necessário:",
+    "opcoes": [
+      "Escolher o resultado desejado.",
+      "Definir pergunta, grupo e modo de registro.",
+      "Escrever a conclusão sem consultar a turma.",
+      "Copiar uma tabela como se fosse da turma."
+    ],
+    "correta": 1,
+    "explicacao": "O planejamento orienta uma coleta consistente e impede inventar dados ou conclusões.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          307
+        ],
+        "paginasImpressas": "305",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

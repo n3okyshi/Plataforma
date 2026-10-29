@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef06.proporcionalidade_e_partilha.partilha_em_duas_partes_desiguais",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 58,
+  "unidade": "Proporcionalidade e Partilha",
+  "titulo": "Partilha em Duas Partes Desiguais",
+  "bncc": [
+    "EF06MA15"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Resolver partilhas com uma relação multiplicativa entre as partes.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Resolver partilhas com uma relação multiplicativa entre as partes.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Partilha em Duas Partes Desiguais</h2><h3>O que vamos aprender</h3><p>Resolver partilhas com uma relação multiplicativa entre as partes.</p><h3>Ideias e relações</h3><p>Dividir uma quantidade em partes desiguais exige identificar a relação entre as partes. Se uma parte é o dobro da outra, o total corresponde a três partes de mesmo tamanho: uma para a menor e duas para a maior. Essa representação por barras ou grupos iguais evita repartir o total pela razão de modo incorreto. Depois de encontrar o valor de cada parte de referência, reconstrua as quantidades e confira tanto a soma quanto a relação pedida.</p><h3>Exemplo resolvido</h3><p>Repartir 72 figurinhas para que Bia receba o dobro de Caio: uma parte para Caio e duas para Bia, total três. Cada parte vale 72 ÷ 3 = 24; Caio recebe 24 e Bia, 48.</p><h3>Atenção ao raciocínio</h3><p>Não divida o total por 2 só porque aparece “dobro”: o total é formado por três partes iguais.</p><h3>Investigue, construa ou elabore</h3><p>Reparta 84 para que a maior parte seja o triplo da menor. Faça um desenho de barras e confira as duas condições.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "partilha",
+      "proporcionalidade"
+    ],
+    "errosComuns": [
+      "Não divida o total por 2 só porque aparece “dobro”: o total é formado por três partes iguais."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "partilha_em_duas_partes_desiguais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na partilha de 72 em duas partes, sendo uma o dobro da outra, as partes são:",
+      "alternativas": [
+        "36 e 36",
+        "24 e 48",
+        "18 e 54",
+        "12 e 60"
+      ],
+      "correta": 1,
+      "explicacao": "O total tem três partes iguais; 72 ÷ 3 = 24, e a maior é 48."
+    },
+    {
+      "id": "partilha_em_duas_partes_desiguais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Reparta 84 para que a maior parte seja o triplo da menor. Faça um desenho de barras e confira as duas condições.",
+      "gabarito": "São quatro partes de referência; 84 ÷ 4 = 21. As quantidades são 21 e 63: somam 84 e 63 = 3 × 21.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "São quatro partes de referência; 84 ÷ 4 = 21. As quantidades são 21 e 63: somam 84 e 63 = 3 × 21.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "partilha",
+    "proporcionalidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        183,
+        184
+      ],
+      "paginasImpressas": "186, 187",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef06.proporcionalidade_e_partilha.razao_e_proporcao_no_cotidiano"
+  ]
+}

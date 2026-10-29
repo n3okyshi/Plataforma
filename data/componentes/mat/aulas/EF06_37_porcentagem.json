@@ -2,36 +2,120 @@
   "id": "mat.ef06.fracoes_e_porcentagem.porcentagem",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 37,
+  "ordem": 35,
   "unidade": "Frações e porcentagem",
   "titulo": "Porcentagem",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA13"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Calcular e elaborar situações de porcentagem por proporcionalidade, sem regra de três.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Calcular e elaborar situações de porcentagem por proporcionalidade, sem regra de três.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Porcentagem</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Apresentação da porcentagem como uma <strong>fração de denominador 100</strong>.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔄 Conversões:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Aprendemos a transitar entre as representações fracionária, decimal e percentual (%), aplicando a contextos simples de desconto e acréscimo.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Porcentagem</h2><h3>O que vamos aprender</h3><p>Calcular e elaborar situações de porcentagem por proporcionalidade, sem regra de três.</p><h3>Ideias e relações</h3><p>Uma porcentagem compara uma parte com cem partes iguais do todo. Podemos calcular 10% dividindo o todo por dez; 50% tomando metade; 25% tomando a quarta parte; e combinar essas referências. Para 15%, por exemplo, some 10% e 5%, que é metade de 10%. Em educação financeira, diferencie o valor do desconto, do aumento e o valor final. A base de cálculo deve ser sempre indicada. Nesta unidade, resolvemos por relações proporcionais e decomposições, sem montar regra de três.</p><h3>Exemplo resolvido</h3><p>De R$ 240,00, 10% são R$ 24,00 e 5% são R$ 12,00. Portanto, 15% são R$ 36,00. Um desconto de 15% deixa o preço em R$ 204,00.</p><h3>Atenção ao raciocínio</h3><p>Um desconto de 20% seguido de aumento de 20% não necessariamente devolve o preço inicial, pois a base pode mudar.</p><h3>Investigue, construa ou elabore</h3><p>Um produto de R$ 150,00 tem desconto de 20%. Calcule o desconto e o preço final por duas estratégias. Crie um problema semelhante.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "porcentagem",
+      "proporcionalidade"
+    ],
+    "errosComuns": [
+      "Um desconto de 20% seguido de aumento de 20% não necessariamente devolve o preço inicial, pois a base pode mudar."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "porcentagem.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto são 15% de 240?",
+      "alternativas": [
+        "15",
+        "24",
+        "36",
+        "204"
+      ],
+      "correta": 2,
+      "explicacao": "10% são 24 e 5% são 12; juntos são 36."
+    },
+    {
+      "id": "porcentagem.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Um produto de R$ 150,00 tem desconto de 20%. Calcule o desconto e o preço final por duas estratégias. Crie um problema semelhante.",
+      "gabarito": "O desconto é R$ 30,00 e o preço final é R$ 120,00. Estratégias: duas vezes 10% ou tomar 1/5 do preço. O problema criado deve explicitar a base e a pergunta.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "O desconto é R$ 30,00 e o preço final é R$ 120,00. Estratégias: duas vezes 10% ou tomar 1/5 do preço. O problema criado deve explicitar a base e a pergunta.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "porcentagem",
+    "proporcionalidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        196,
+        197,
+        198
+      ],
+      "paginasImpressas": "199, 200, 201",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.fracoes_e_porcentagem.fracao_em_ampliacao_e_reducao_de_figuras_planas"
+  ],
+  "proximosPassos": []
 }

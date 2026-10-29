@@ -1,0 +1,461 @@
+[
+  {
+    "id": "mat.ef06.grandezas_geometricas.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Grandezas geométricas",
+    "aulaId": "mat.ef06.grandezas_geometricas.grandeza_comprimento",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma fita de 2 m e 35 cm, após corte de 80 cm, fica com:",
+    "opcoes": [
+      "155 cm",
+      "195 cm",
+      "225 cm",
+      "235 cm"
+    ],
+    "correta": 0,
+    "explicacao": "2 m e 35 cm = 235 cm; 235 − 80 = 155 cm.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110,
+          111
+        ],
+        "paginasImpressas": "112, 113, 114",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.grandezas_geometricas.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Grandezas geométricas",
+    "aulaId": "mat.ef06.grandezas_geometricas.grandeza_perimetro",
+    "bncc": [
+      "EF06MA24",
+      "EF06MA29"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um retângulo de lados 7 cm e 4 cm tem perímetro de:",
+    "opcoes": [
+      "11 cm",
+      "18 cm",
+      "22 cm",
+      "28 cm"
+    ],
+    "correta": 2,
+    "explicacao": "Somamos os quatro lados: 7 + 4 + 7 + 4 = 22 cm.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113
+        ],
+        "paginasImpressas": "115, 116",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.grandezas_geometricas.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Grandezas geométricas",
+    "aulaId": "mat.ef06.grandezas_geometricas.grandeza_area",
+    "bncc": [
+      "EF06MA24",
+      "EF06MA29"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ao passar de lado 2 para lado 4, a área de um quadrado passa de 4 para:",
+    "opcoes": [
+      "6",
+      "8",
+      "12",
+      "16"
+    ],
+    "correta": 3,
+    "explicacao": "A nova malha tem quatro fileiras de quatro, totalizando 16; a área quadruplicou.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113,
+          114
+        ],
+        "paginasImpressas": "115, 116, 117",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.grandezas_geometricas.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Grandezas geométricas",
+    "aulaId": "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas",
+    "bncc": [
+      "EF06MA28",
+      "EF06MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na planta, cada quadradinho representa 1 m². Um cômodo de 4 colunas e 3 fileiras ocupa:",
+    "opcoes": [
+      "7 m²",
+      "12 m²",
+      "14 m²",
+      "24 m²"
+    ],
+    "correta": 1,
+    "explicacao": "Contando as três fileiras de quatro quadradinhos, obtemos 12 m².",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          112
+        ],
+        "paginasImpressas": "112, 115",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.grandezas_geometricas.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Grandezas geométricas",
+    "aulaId": "mat.ef06.grandezas_geometricas.grandeza_area",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um retângulo com 6 colunas e 4 fileiras de quadradinhos é dividido por uma diagonal. A área de cada metade é:",
+    "opcoes": [
+      "6",
+      "10",
+      "12",
+      "24"
+    ],
+    "correta": 2,
+    "explicacao": "O retângulo ocupa 24 quadradinhos; as duas metades têm áreas iguais de 12.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113,
+          114
+        ],
+        "paginasImpressas": "115, 116, 117",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.grandezas_geometricas.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Grandezas geométricas",
+    "aulaId": "mat.ef06.grandezas_geometricas.grandeza_perimetro",
+    "bncc": [
+      "EF06MA29"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um quadrado de lado 3 cm passa a ter lado 6 cm. Seu perímetro passa de 12 cm para:",
+    "opcoes": [
+      "15 cm",
+      "18 cm",
+      "24 cm",
+      "36 cm"
+    ],
+    "correta": 2,
+    "explicacao": "O contorno é 6 + 6 + 6 + 6 = 24 cm; ele dobrou.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113
+        ],
+        "paginasImpressas": "115, 116",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.grandezas_geometricas.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Grandezas geométricas",
+    "aulaId": "mat.ef06.grandezas_geometricas.grandeza_area",
+    "bncc": [
+      "EF06MA29"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No mesmo aumento de lado 3 para 6, a área do quadrado passa de 9 para:",
+    "opcoes": [
+      "12",
+      "18",
+      "27",
+      "36"
+    ],
+    "correta": 3,
+    "explicacao": "A malha passa de três fileiras de três para seis fileiras de seis: 36 unidades quadradas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113,
+          114
+        ],
+        "paginasImpressas": "115, 116, 117",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.grandezas_geometricas.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Grandezas geométricas",
+    "aulaId": "mat.ef06.grandezas_geometricas.grandeza_area",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um triângulo ocupa metade de um retângulo de 10 colunas e 6 fileiras de quadradinhos. Sua área é:",
+    "opcoes": [
+      "16",
+      "30",
+      "60",
+      "120"
+    ],
+    "correta": 1,
+    "explicacao": "O retângulo ocupa 60 quadradinhos e cada metade ocupa 30.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113,
+          114
+        ],
+        "paginasImpressas": "115, 116, 117",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.grandezas_geometricas.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Grandezas geométricas",
+    "aulaId": "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas",
+    "bncc": [
+      "EF06MA28"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na planta, cada lado de quadradinho representa 2 m. Um cômodo com 3 quadradinhos de largura mede:",
+    "opcoes": [
+      "1,5 m",
+      "3 m",
+      "5 m",
+      "6 m"
+    ],
+    "correta": 3,
+    "explicacao": "São três intervalos de 2 m: 3 × 2 = 6 m.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          112
+        ],
+        "paginasImpressas": "112, 115",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.grandezas_geometricas.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Grandezas geométricas",
+    "aulaId": "mat.ef06.grandezas_geometricas.grandeza_comprimento",
+    "bncc": [
+      "EF06MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um segmento vai da marca 3 cm à marca 11 cm de uma régua. Seu comprimento é:",
+    "opcoes": [
+      "3 cm",
+      "8 cm",
+      "11 cm",
+      "14 cm"
+    ],
+    "correta": 1,
+    "explicacao": "O comprimento é a diferença entre as leituras: 11 − 3 = 8 cm.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          109,
+          110,
+          111
+        ],
+        "paginasImpressas": "112, 113, 114",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

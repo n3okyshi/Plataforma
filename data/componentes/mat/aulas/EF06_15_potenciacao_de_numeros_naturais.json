@@ -2,36 +2,122 @@
   "id": "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 15,
+  "ordem": 11,
   "unidade": "Operações com números naturais",
   "titulo": "Potenciação de Números Naturais",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Interpretar potências como produtos de fatores iguais e distinguir base de expoente.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Interpretar potências como produtos de fatores iguais e distinguir base de expoente.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Potenciação de Números Naturais</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: entender potenciação como multiplicação repetida e aprender notação de potência (base e expoente).</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Exemplo: 3³ = 3 × 3 × 3 = 27. O expoente indica quantas vezes multiplicamos a base por si mesma.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Calcule</label>\n  <p>Calcule 4³ e 2⁵.</p>\n  <input id=\"atividade-pot-1\" class=\"w-40 mt-2 p-2 border rounded\" placeholder=\"4^3 =\" />\n  <input id=\"atividade-pot-2\" class=\"w-40 mt-2 p-2 border rounded\" placeholder=\"2^5 =\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Qual é 5²?</p>\n  <div>\n    <button class=\"btn\">15</button>\n    <button class=\"btn\">25</button>\n    <button class=\"btn\">10</button>\n  </div>\n</div>\n    "
+        "html": "<h2>Potenciação de Números Naturais</h2><h3>O que vamos aprender</h3><p>Interpretar potências como produtos de fatores iguais e distinguir base de expoente.</p><h3>Ideias e relações</h3><p>Uma potência é uma escrita abreviada de multiplicações com fatores iguais. Em 3⁴, a base é 3 e o expoente é 4: multiplicamos quatro fatores iguais a 3. Por isso 3⁴ = 3 × 3 × 3 × 3 = 81, e não 3 × 4. Para qualquer base natural, a¹ = a. Quando a base é diferente de zero, a⁰ = 1. Nesta aula não atribuímos valor à expressão 0⁰. Potências de dez ajudam a escrever agrupamentos do sistema decimal: 10² = 100 e 10³ = 1.000.</p><h3>Exemplo resolvido</h3><p>Uma montagem tem 4 camadas, cada uma com 4 linhas de 4 cubinhos. A quantidade é 4 × 4 × 4 = 4³ = 64 cubinhos. O expoente indica quantos fatores há, não o número de camadas isoladamente.</p><h3>Atenção ao raciocínio</h3><p>2³ e 3² são diferentes: 8 e 9. Base e expoente não podem ser trocados livremente.</p><h3>Investigue, construa ou elabore</h3><p>Compare 4³ e 3⁴ escrevendo os produtos. Explique por que multiplicar base pelo expoente daria uma resposta incorreta.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "potenciacao",
+      "numeros_naturais"
+    ],
+    "errosComuns": [
+      "2³ e 3² são diferentes: 8 e 9. Base e expoente não podem ser trocados livremente."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "potenciacao_de_numeros_naturais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto vale 2⁵?",
+      "alternativas": [
+        "10",
+        "25",
+        "32",
+        "64"
+      ],
+      "correta": 2,
+      "explicacao": "2⁵ = 2 × 2 × 2 × 2 × 2 = 32."
+    },
+    {
+      "id": "potenciacao_de_numeros_naturais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare 4³ e 3⁴ escrevendo os produtos. Explique por que multiplicar base pelo expoente daria uma resposta incorreta.",
+      "gabarito": "4³ = 64 e 3⁴ = 81. Os expoentes contam fatores iguais; os produtos 4 × 3 e 3 × 4 não representam essas potências.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "4³ = 64 e 3⁴ = 81. Os expoentes contam fatores iguais; os produtos 4 × 3 e 3 × 4 não representam essas potências.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "potenciacao",
+    "numeros_naturais"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        40,
+        41,
+        42
+      ],
+      "paginasImpressas": "43, 44, 45",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_e_divisao_operacao_inversa"
+  ],
+  "proximosPassos": [
+    "mat.ef06.operacoes_com_numeros_naturais.calculo_mental"
+  ]
 }

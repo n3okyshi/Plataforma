@@ -1,0 +1,113 @@
+{
+  "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 63,
+  "unidade": "Probabilidade e pesquisa estatística",
+  "titulo": "Tipos de Gráficos e seus Elementos",
+  "bncc": [
+    "EF06MA31"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Identificar variáveis, frequências e elementos que permitem interpretar gráficos.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Identificar variáveis, frequências e elementos que permitem interpretar gráficos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Tipos de Gráficos e seus Elementos</h2><h3>O que vamos aprender</h3><p>Identificar variáveis, frequências e elementos que permitem interpretar gráficos.</p><h3>Ideias e relações</h3><p>Um gráfico deve permitir identificar o que foi pesquisado e como os valores foram representados. Observe título, variáveis, eixos, unidades, escala, fonte, data e legenda quando necessária. Barras ou colunas comparam categorias; linhas ajudam a acompanhar uma variável ao longo do tempo; setores representam partes de um todo e precisam corresponder ao mesmo total. A frequência de uma categoria indica quantas observações pertencem a ela. Na leitura de alturas ou comprimentos, verifique quanto vale cada intervalo da escala.</p><svg viewBox=\"0 0 440 240\" role=\"img\" aria-label=\"Dados fictícios: transporte de vinte estudantes. A pé: oito; bicicleta: quatro; ônibus: oito. Cada marca vertical corresponde a dois estudantes. Fonte: exemplo autoral, 29 de outubro de 2026.\" style=\"max-width:100%;color:inherit\"><title>Dados fictícios: transporte de vinte estudantes. A pé: oito; bicicleta: quatro; ônibus: oito. Cada marca vertical corresponde a dois estudantes. Fonte: exemplo autoral, 29 de outubro de 2026.</title><g fill=\"none\" stroke=\"currentColor\"><path d=\"M55 25V175H400\"/><path d=\"M50 175H400\" opacity=\"0.15\"/><path d=\"M50 145H400\" opacity=\"0.15\"/><path d=\"M50 115H400\" opacity=\"0.15\"/><path d=\"M50 85H400\" opacity=\"0.15\"/><path d=\"M50 55H400\" opacity=\"0.15\"/></g><g fill=\"#2563eb\"><rect x=\"95\" y=\"55\" width=\"55\" height=\"120\"/><rect x=\"205\" y=\"115\" width=\"55\" height=\"60\"/><rect x=\"315\" y=\"55\" width=\"55\" height=\"120\"/></g><g fill=\"currentColor\" font-size=\"12\"><text x=\"35\" y=\"179\">0</text><text x=\"35\" y=\"149\">2</text><text x=\"35\" y=\"119\">4</text><text x=\"35\" y=\"89\">6</text><text x=\"35\" y=\"59\">8</text><text x=\"95\" y=\"194\">A pé</text><text x=\"200\" y=\"194\">Bicicleta</text><text x=\"315\" y=\"194\">Ônibus</text><text x=\"55\" y=\"16\">Transporte de 20 estudantes — dados fictícios</text><text x=\"20\" y=\"222\">Fonte: exemplo autoral; 29/10/2026. Unidade: estudante.</text></g></svg><svg viewBox=\"0 0 440 240\" role=\"img\" aria-label=\"Dados fictícios de massa de papel coletada: semana 1, dois quilogramas; semana 2, cinco; semana 3, quatro. Fonte: exemplo autoral, 29/10/2026.\" style=\"max-width:100%;color:inherit\"><title>Dados fictícios de massa de papel coletada: semana 1, dois quilogramas; semana 2, cinco; semana 3, quatro. Fonte: exemplo autoral, 29/10/2026.</title><g fill=\"none\" stroke=\"currentColor\"><path d=\"M60 30V190H400\"/><path d=\"M55 190H400\" opacity=\"0.15\"/><path d=\"M55 165H400\" opacity=\"0.15\"/><path d=\"M55 140H400\" opacity=\"0.15\"/><path d=\"M55 115H400\" opacity=\"0.15\"/><path d=\"M55 90H400\" opacity=\"0.15\"/><path d=\"M55 65H400\" opacity=\"0.15\"/><path d=\"M55 40H400\" opacity=\"0.15\"/></g><path d=\"M100 140 220 65 340 90\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3\"/><g fill=\"#2563eb\"><circle cx=\"100\" cy=\"140\" r=\"4\"/><circle cx=\"220\" cy=\"65\" r=\"4\"/><circle cx=\"340\" cy=\"90\" r=\"4\"/></g><g fill=\"currentColor\" font-size=\"12\"><text x=\"38\" y=\"194\">0</text><text x=\"38\" y=\"169\">1</text><text x=\"38\" y=\"144\">2</text><text x=\"38\" y=\"119\">3</text><text x=\"38\" y=\"94\">4</text><text x=\"38\" y=\"69\">5</text><text x=\"38\" y=\"44\">6</text><text x=\"30\" y=\"22\">kg</text><text x=\"90\" y=\"207\">1</text><text x=\"215\" y=\"207\">2</text><text x=\"335\" y=\"207\">3</text><text x=\"365\" y=\"207\">semana</text><text x=\"75\" y=\"15\">Papel coletado — dados fictícios</text><text x=\"30\" y=\"232\">Fonte: exemplo autoral; 29/10/2026.</text></g></svg><h3>Exemplo resolvido</h3><p>No exemplo fictício de transporte, a variável é o meio principal de transporte e as frequências são 8, 4 e 8 estudantes. O gráfico de colunas usa a escala de dois em dois; a coluna de bicicleta atinge 4, não 2.</p><h3>Atenção ao raciocínio</h3><p>Não interprete a quantidade de marcas do eixo como se cada marca representasse uma unidade.</p><h3>Investigue, construa ou elabore</h3><p>Analise o gráfico de transporte desta aula e registre título, variável, frequência da bicicleta, escala, fonte e data. Explique por que as frequências somam vinte. Compare com o gráfico de linhas da coleta de papel: identifique suas duas variáveis e explique o que cada ponto representa.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "graficos",
+      "variaveis"
+    ],
+    "errosComuns": [
+      "Não interprete a quantidade de marcas do eixo como se cada marca representasse uma unidade."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "tipos_de_graficos_e_seus_elementos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Num eixo com marcas 0, 2, 4, 6 e 8, a terceira marca depois do zero indica:",
+      "alternativas": [
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "correta": 2,
+      "explicacao": "As marcas depois do zero indicam 2, 4 e 6; a terceira é 6."
+    },
+    {
+      "id": "tipos_de_graficos_e_seus_elementos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Analise o gráfico de transporte desta aula e registre título, variável, frequência da bicicleta, escala, fonte e data. Explique por que as frequências somam vinte. Compare com o gráfico de linhas da coleta de papel: identifique suas duas variáveis e explique o que cada ponto representa.",
+      "gabarito": "Título: transporte de 20 estudantes; variável: meio principal; bicicleta: 4; escala: 2 estudantes por intervalo; fonte: exemplo autoral fictício; data: 29/10/2026. Uma resposta por estudante produz o total 20. No gráfico de linhas, as variáveis são semana e massa de papel em quilogramas; os pontos indicam 2, 5 e 4 kg nas semanas 1, 2 e 3.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Título: transporte de 20 estudantes; variável: meio principal; bicicleta: 4; escala: 2 estudantes por intervalo; fonte: exemplo autoral fictício; data: 29/10/2026. Uma resposta por estudante produz o total 20. No gráfico de linhas, as variáveis são semana e massa de papel em quilogramas; os pontos indicam 2, 5 e 4 kg nas semanas 1, 2 e 3.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "graficos",
+    "variaveis"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        307
+      ],
+      "paginasImpressas": "305",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade"
+  ],
+  "proximosPassos": [
+    "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano"
+  ]
+}

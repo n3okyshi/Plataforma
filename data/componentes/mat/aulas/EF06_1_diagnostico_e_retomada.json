@@ -5,33 +5,116 @@
   "ordem": 1,
   "unidade": "Ponto de Partida",
   "titulo": "Diagnóstico e Retomada",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA01",
+    "EF06MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Explicitar estratégias de leitura, comparação e cálculo para identificar o que precisa ser retomado.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Explicitar estratégias de leitura, comparação e cálculo para identificar o que precisa ser retomado.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Diagnóstico e Retomada</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Seção destinada a levantar os conhecimentos prévios dos estudantes construídos ao longo dos Anos Iniciais (até o 5º ano).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💡 Foco da revisão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Identificar quais tópicos exigem maior investimento: operações básicas, frações, geometria plana/espacial e leitura de gráficos.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Diagnóstico e Retomada</h2><h3>O que vamos aprender</h3><p>Explicitar estratégias de leitura, comparação e cálculo para identificar o que precisa ser retomado.</p><h3>Ideias e relações</h3><p>Uma atividade diagnóstica mostra como você pensa antes de estudar uma unidade. Uma resposta incorreta não define sua capacidade: ajuda a localizar o ponto que precisa de apoio. Registre o caminho utilizado, inclusive quando fizer cálculo mental. Para comparar naturais, observe primeiro a quantidade de algarismos; se ela for igual, compare as ordens da esquerda para a direita. Ao resolver uma situação, identifique os dados, o que se deseja descobrir e se o resultado obtido faz sentido. Estimar antes de calcular é uma forma de conferir a resposta.</p><h3>Exemplo resolvido</h3><p>Uma turma recebeu 28 livros e depois 17. Podemos decompor: 28 + 10 + 7 = 38 + 7 = 45. O resultado deve ser maior que 28, pois chegaram mais livros.</p><h3>Atenção ao raciocínio</h3><p>Não escolha uma operação apenas por uma palavra do enunciado: explique a relação entre as quantidades.</p><h3>Investigue, construa ou elabore</h3><p>Compare 908 e 980, resolva 63 − 28 e explique como conferiu cada resposta. Marque um ponto que deseja retomar.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "diagnostico",
+      "retomada"
+    ],
+    "errosComuns": [
+      "Não escolha uma operação apenas por uma palavra do enunciado: explique a relação entre as quantidades."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "diagnostico_e_retomada.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é o resultado de 28 + 17?",
+      "alternativas": [
+        "35",
+        "45",
+        "46",
+        "315"
+      ],
+      "correta": 1,
+      "explicacao": "28 + 10 = 38; 38 + 7 = 45."
+    },
+    {
+      "id": "diagnostico_e_retomada.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare 908 e 980, resolva 63 − 28 e explique como conferiu cada resposta. Marque um ponto que deseja retomar.",
+      "gabarito": "908 < 980, pois as dezenas são 0 e 8. 63 − 28 = 35; a conferência é 35 + 28 = 63. O registro da dificuldade é pessoal.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "908 < 980, pois as dezenas são 0 e 8. 63 − 28 = 35; a conferência é 35 + 28 = 63. O registro da dificuldade é pessoal.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "diagnostico",
+    "retomada"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14,
+        29,
+        32
+      ],
+      "paginasImpressas": "17, 32, 35",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [],
+  "proximosPassos": []
 }

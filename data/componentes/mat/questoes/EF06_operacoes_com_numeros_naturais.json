@@ -1,0 +1,809 @@
+[
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.adicao_de_numeros_naturais",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 248 + 176?",
+    "opcoes": [
+      "314",
+      "414",
+      "424",
+      "434"
+    ],
+    "correta": 2,
+    "explicacao": "300 + 110 + 14 = 424; as trocas preservam o valor total.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          30
+        ],
+        "paginasImpressas": "32, 33",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.subtracao_de_numeros_naturais",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto é 503 − 178?",
+    "opcoes": [
+      "335",
+      "325",
+      "425",
+      "375"
+    ],
+    "correta": 1,
+    "explicacao": "A diferença é 325; confira: 325 + 178 = 503.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          32,
+          33
+        ],
+        "paginasImpressas": "35, 36",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em □ + 27 = 81, qual é o valor de □?",
+    "opcoes": [
+      "27",
+      "54",
+      "81",
+      "108"
+    ],
+    "correta": 1,
+    "explicacao": "A parcela que falta é 81 − 27 = 54.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32
+        ],
+        "paginasImpressas": "32, 35",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_de_numeros_naturais",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Seis caixas com 24 canetas cada contêm quantas canetas?",
+    "opcoes": [
+      "30",
+      "124",
+      "144",
+      "164"
+    ],
+    "correta": 2,
+    "explicacao": "A distributiva fornece 6 × 20 + 6 × 4 = 144.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          34,
+          35,
+          36
+        ],
+        "paginasImpressas": "37, 38, 39",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na divisão 95 ÷ 8, o quociente e o resto são:",
+    "opcoes": [
+      "11 e 7",
+      "12 e 1",
+      "10 e 15",
+      "11 e 8"
+    ],
+    "correta": 0,
+    "explicacao": "8 × 11 = 88 e 95 − 88 = 7, com 7 < 8.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          37,
+          38,
+          39
+        ],
+        "paginasImpressas": "40, 41, 42",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_e_divisao_operacao_inversa",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em 9 × □ = 135, qual é o fator desconhecido?",
+    "opcoes": [
+      "9",
+      "14",
+      "15",
+      "126"
+    ],
+    "correta": 2,
+    "explicacao": "135 ÷ 9 = 15; o produto 9 × 15 devolve 135.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          37,
+          38
+        ],
+        "paginasImpressas": "40, 41",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.07",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto vale 2⁵?",
+    "opcoes": [
+      "10",
+      "25",
+      "32",
+      "64"
+    ],
+    "correta": 2,
+    "explicacao": "2⁵ = 2 × 2 × 2 × 2 × 2 = 32.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          42
+        ],
+        "paginasImpressas": "43, 44, 45",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.08",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.calculo_mental",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual transformação conserva o resultado de 398 + 57?",
+    "opcoes": [
+      "400 + 57",
+      "400 + 55",
+      "400 + 59",
+      "398 + 55"
+    ],
+    "correta": 1,
+    "explicacao": "Somar 2 a 398 e subtrair 2 de 57 conserva a soma: 455.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          29,
+          32,
+          34
+        ],
+        "paginasImpressas": "32, 35, 37",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.09",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado",
+    "bncc": [
+      "EF06MA12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Arredonde 6.749 para a centena mais próxima.",
+    "opcoes": [
+      "6.700",
+      "6.740",
+      "6.750",
+      "6.800"
+    ],
+    "correta": 0,
+    "explicacao": "6.749 está a 49 de 6.700 e a 51 de 6.800; escolhemos 6.700.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14,
+          29
+        ],
+        "paginasImpressas": "17, 32",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.10",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto vale 18 − 2 × (3 + 4)?",
+    "opcoes": [
+      "112",
+      "4",
+      "11",
+      "16"
+    ],
+    "correta": 1,
+    "explicacao": "Primeiro 3 + 4 = 7; depois 2 × 7 = 14; por fim, 18 − 14 = 4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          46,
+          47,
+          48
+        ],
+        "paginasImpressas": "49, 50, 51",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.11",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se 6 × 24 lápis são comprados, 18 são reservados e o restante é dividido por 9 turmas, cada turma recebe:",
+    "opcoes": [
+      "14",
+      "16",
+      "18",
+      "126"
+    ],
+    "correta": 0,
+    "explicacao": "(6 × 24 − 18) ÷ 9 = 126 ÷ 9 = 14.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          37,
+          46
+        ],
+        "paginasImpressas": "40, 49",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.12",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades",
+    "bncc": [
+      "EF06MA14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual valor mantém 4 × □ = 68?",
+    "opcoes": [
+      "4",
+      "16",
+      "17",
+      "64"
+    ],
+    "correta": 2,
+    "explicacao": "Dividindo os dois membros por 4, temos □ = 68 ÷ 4 = 17.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          148,
+          154
+        ],
+        "paginasImpressas": "151, 157",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.treino.13",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.a_ideia_de_funcao",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Pela regra “multiplicar por 3 e acrescentar 2”, a entrada 6 produz:",
+    "opcoes": [
+      "11",
+      "18",
+      "20",
+      "24"
+    ],
+    "correta": 2,
+    "explicacao": "A saída é 3 × 6 + 2 = 20.",
+    "fontes": [
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          294,
+          295
+        ],
+        "paginasImpressas": "297, 298",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto vale 36 ÷ 6 × 3 + 2²?",
+    "opcoes": [
+      "6",
+      "10",
+      "22",
+      "40"
+    ],
+    "correta": 2,
+    "explicacao": "Primeiro 2² = 4. Divisão e multiplicação, da esquerda para a direita: 36 ÷ 6 = 6; 6 × 3 = 18; 18 + 4 = 22.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          46,
+          47,
+          48
+        ],
+        "paginasImpressas": "49, 50, 51",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "93 pessoas serão transportadas em veículos com até 8 lugares. Qual é o menor número de veículos necessário?",
+    "opcoes": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correta": 2,
+    "explicacao": "11 veículos levam 88 pessoas e ainda faltam cinco; é necessário um 12º veículo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          37,
+          38,
+          39
+        ],
+        "paginasImpressas": "40, 41, 42",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes",
+    "bncc": [
+      "EF06MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Foram compradas 8 caixas com 15 cadernos, e 24 cadernos foram reservados. O restante foi dividido por 6 turmas. Cada turma recebeu:",
+    "opcoes": [
+      "14",
+      "15",
+      "16",
+      "20"
+    ],
+    "correta": 2,
+    "explicacao": "8 × 15 = 120; 120 − 24 = 96; 96 ÷ 6 = 16.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          37,
+          46
+        ],
+        "paginasImpressas": "40, 49",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado",
+    "bncc": [
+      "EF06MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "8.651, aproximado ao milhar mais próximo, é:",
+    "opcoes": [
+      "8.000",
+      "8.600",
+      "8.700",
+      "9.000"
+    ],
+    "correta": 3,
+    "explicacao": "A distância até 9.000 é 349 e até 8.000 é 651; escolhemos 9.000.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          14,
+          29
+        ],
+        "paginasImpressas": "17, 32",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Operações com números naturais",
+    "aulaId": "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades",
+    "bncc": [
+      "EF06MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual valor satisfaz 5 × □ + 7 = 62?",
+    "opcoes": [
+      "9",
+      "10",
+      "11",
+      "13"
+    ],
+    "correta": 2,
+    "explicacao": "Subtraindo 7 dos dois membros, 5 × □ = 55. Dividindo ambos por 5, □ = 11.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          148,
+          154
+        ],
+        "paginasImpressas": "151, 157",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

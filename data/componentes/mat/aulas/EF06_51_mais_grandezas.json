@@ -2,36 +2,119 @@
   "id": "mat.ef06.outras_grandezas_e_medidas.mais_grandezas",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 51,
+  "ordem": 57,
   "unidade": "Outras grandezas e medidas",
-  "titulo": "Mais Grandezas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Mais Grandezas: Tempo e Temperatura",
+  "bncc": [
+    "EF06MA24"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver intervalos de tempo e interpretar medidas de temperatura em escalas.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Resolver intervalos de tempo e interpretar medidas de temperatura em escalas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Tempo e Temperatura</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Exploração das grandezas <strong>Tempo</strong> (horas, minutos, segundos) e <strong>Temperatura</strong> (Celsius).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⏱️ Instrumentos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Prática de leitura de relógios (analógicos e digitais) e termômetros.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Mais Grandezas: Tempo e Temperatura</h2><h3>O que vamos aprender</h3><p>Resolver intervalos de tempo e interpretar medidas de temperatura em escalas.</p><h3>Ideias e relações</h3><p>Tempo e temperatura são grandezas diferentes. Intervalos de tempo podem ser medidos em horas, minutos e segundos: uma hora tem 60 minutos e um minuto tem 60 segundos. Essa conversão não segue a base dez dos comprimentos. Para calcular durações, podemos contar até a próxima hora e depois completar o intervalo. Temperaturas medidas em graus Celsius devem ser lidas pela escala do termômetro: verifique os valores indicados e quanto representa cada divisão. Nesta aula usamos temperaturas não negativas para concentrar a análise em leitura e variação.</p><h3>Exemplo resolvido</h3><p>Uma atividade começa às 8h45 e termina às 10h10. De 8h45 a 9h são 15 min; depois mais 1 h e 10 min. A duração é 1 h e 25 min, ou 85 min.</p><h3>Atenção ao raciocínio</h3><p>1h30 não corresponde a 1,30 hora: trinta minutos são meia hora.</p><h3>Investigue, construa ou elabore</h3><p>Uma temperatura passou de 18 °C para 26 °C. Qual foi a variação? Depois calcule quanto tempo decorre de 13h35 a 15h05 e descreva a estratégia.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "tempo",
+      "temperatura"
+    ],
+    "errosComuns": [
+      "1h30 não corresponde a 1,30 hora: trinta minutos são meia hora."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "mais_grandezas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "De 8h45 a 10h10 decorrem:",
+      "alternativas": [
+        "65 minutos",
+        "75 minutos",
+        "85 minutos",
+        "125 minutos"
+      ],
+      "correta": 2,
+      "explicacao": "15 + 60 + 10 = 85 minutos."
+    },
+    {
+      "id": "mais_grandezas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Uma temperatura passou de 18 °C para 26 °C. Qual foi a variação? Depois calcule quanto tempo decorre de 13h35 a 15h05 e descreva a estratégia.",
+      "gabarito": "A temperatura aumentou 8 °C. O intervalo é 1 h e 30 min ou 90 min: 25 min até 14h, mais 60 até 15h, mais 5.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "A temperatura aumentou 8 °C. O intervalo é 1 h e 30 min ou 90 min: 25 min até 14h, mais 60 até 15h, mais 5.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "tempo",
+    "temperatura"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        110
+      ],
+      "paginasImpressas": "112, 113",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.outras_grandezas_e_medidas.grandeza_volume"
+  ],
+  "proximosPassos": []
 }

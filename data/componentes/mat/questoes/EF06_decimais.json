@@ -1,0 +1,520 @@
+[
+  {
+    "id": "mat.ef06.decimais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
+    "bncc": [
+      "EF06MA01",
+      "EF06MA02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em 4,207, o algarismo 2 vale:",
+    "opcoes": [
+      "2",
+      "0,2",
+      "0,02",
+      "0,002"
+    ],
+    "correta": 1,
+    "explicacao": "O 2 está na primeira posição à direita da vírgula, a ordem dos décimos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96,
+          97
+        ],
+        "paginasImpressas": "98, 99, 100",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.decimais.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef06.decimais.decimo_centesimo_e_milesimo",
+    "bncc": [
+      "EF06MA01",
+      "EF06MA02",
+      "EF06MA08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Trinta e cinco centésimos correspondem a:",
+    "opcoes": [
+      "3,5",
+      "0,35",
+      "0,035",
+      "35,0"
+    ],
+    "correta": 1,
+    "explicacao": "35/100 = 0,35: três décimos e cinco centésimos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96,
+          97
+        ],
+        "paginasImpressas": "98, 99, 100",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.decimais.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef06.decimais.comparacao_entre_decimais",
+    "bncc": [
+      "EF06MA01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual sequência está em ordem crescente?",
+    "opcoes": [
+      "0,8; 0,75; 0,9",
+      "0,75; 0,8; 0,9",
+      "0,9; 0,8; 0,75",
+      "0,75; 0,9; 0,8"
+    ],
+    "correta": 1,
+    "explicacao": "Com duas casas: 0,75 < 0,80 < 0,90.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96,
+          97
+        ],
+        "paginasImpressas": "98, 99, 100",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.decimais.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef06.decimais.operacoes_com_decimais",
+    "bncc": [
+      "EF06MA11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é o resultado de 4,8 ÷ 0,6?",
+    "opcoes": [
+      "0,8",
+      "8",
+      "80",
+      "4,2"
+    ],
+    "correta": 1,
+    "explicacao": "Multiplicando ambos os termos da divisão por 10: 48 ÷ 6 = 8.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          97,
+          98,
+          99,
+          100,
+          101,
+          102
+        ],
+        "paginasImpressas": "100, 101, 102, 103, 104, 105",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.decimais.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes",
+    "bncc": [
+      "EF06MA11",
+      "EF06MA12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma compra de R$ 16,75 é paga com R$ 20,00. Qual é o troco?",
+    "opcoes": [
+      "R$ 2,25",
+      "R$ 3,25",
+      "R$ 3,75",
+      "R$ 4,25"
+    ],
+    "correta": 1,
+    "explicacao": "20,00 − 16,75 = 3,25.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          97,
+          98,
+          99
+        ],
+        "paginasImpressas": "100, 101, 102",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.decimais.treino.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef06.decimais.porcentagem_na_forma_decimal",
+    "bncc": [
+      "EF06MA13",
+      "EF06MA08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é o preço final de um produto de R$ 80,00 com desconto de 15%?",
+    "opcoes": [
+      "R$ 12,00",
+      "R$ 65,00",
+      "R$ 68,00",
+      "R$ 92,00"
+    ],
+    "correta": 2,
+    "explicacao": "15% de 80 são 12; 80 − 12 = 68.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          196,
+          197,
+          198
+        ],
+        "paginasImpressas": "199, 200, 201",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.decimais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
+    "bncc": [
+      "EF06MA01",
+      "EF06MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual decomposição representa 3,406?",
+    "opcoes": [
+      "3 + 0,4 + 0,006",
+      "3 + 0,04 + 0,06",
+      "3 + 0,4 + 0,06",
+      "3 + 0,004 + 0,6"
+    ],
+    "correta": 0,
+    "explicacao": "O 4 ocupa décimos e o 6, milésimos; a ordem dos centésimos é zero.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96,
+          97
+        ],
+        "paginasImpressas": "98, 99, 100",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.decimais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef06.decimais.decimo_centesimo_e_milesimo",
+    "bncc": [
+      "EF06MA08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A representação decimal de 9/20 é:",
+    "opcoes": [
+      "0,09",
+      "0,20",
+      "0,45",
+      "0,9"
+    ],
+    "correta": 2,
+    "explicacao": "9/20 = 45/100 = 0,45.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          96,
+          97
+        ],
+        "paginasImpressas": "98, 99, 100",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.decimais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef06.decimais.operacoes_com_decimais",
+    "bncc": [
+      "EF06MA11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é o resultado de 1,5 × 0,4?",
+    "opcoes": [
+      "0,06",
+      "0,6",
+      "6",
+      "1,9"
+    ],
+    "correta": 1,
+    "explicacao": "15 décimos vezes 4 décimos resultam em 60 centésimos, isto é, 0,6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          97,
+          98,
+          99,
+          100,
+          101,
+          102
+        ],
+        "paginasImpressas": "100, 101, 102, 103, 104, 105",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.decimais.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes",
+    "bncc": [
+      "EF06MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Arredondando cada parcela ao inteiro mais próximo, uma estimativa para 4,8 + 7,1 é:",
+    "opcoes": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correta": 2,
+    "explicacao": "4,8 ≈ 5 e 7,1 ≈ 7; a soma estimada é 12.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          97,
+          98,
+          99
+        ],
+        "paginasImpressas": "100, 101, 102",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.decimais.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Decimais",
+    "aulaId": "mat.ef06.decimais.porcentagem_na_forma_decimal",
+    "bncc": [
+      "EF06MA13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um produto de R$ 200,00 recebe desconto de 12%. Qual é o preço final?",
+    "opcoes": [
+      "R$ 24,00",
+      "R$ 176,00",
+      "R$ 188,00",
+      "R$ 224,00"
+    ],
+    "correta": 1,
+    "explicacao": "10% são 20 e 2% são 4; o desconto é 24. O preço final é 200 − 24 = 176.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          196,
+          197,
+          198
+        ],
+        "paginasImpressas": "199, 200, 201",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

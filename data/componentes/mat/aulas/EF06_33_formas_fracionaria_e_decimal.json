@@ -1,0 +1,124 @@
+{
+  "id": "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 33,
+  "unidade": "Frações e porcentagem",
+  "titulo": "Formas Fracionária e Decimal",
+  "bncc": [
+    "EF06MA08",
+    "EF06MA01"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Converter racionais positivos entre forma fracionária e decimal e associá-los à reta.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Converter racionais positivos entre forma fracionária e decimal e associá-los à reta.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Formas Fracionária e Decimal</h2><h3>O que vamos aprender</h3><p>Converter racionais positivos entre forma fracionária e decimal e associá-los à reta.</p><h3>Ideias e relações</h3><p>Uma fração representa uma divisão e pode ser escrita em forma decimal. Para denominadores como 10, 100 e 1.000, a relação com o sistema posicional é direta. Em outros casos, podemos procurar frações equivalentes: 3/4 = 75/100 = 0,75. Uma divisão também pode produzir representação decimal infinita periódica, como 1/3 = 0,333…; ela não é igual ao decimal finito 0,33. Em uma reta, a fração e o decimal equivalente ocupam exatamente o mesmo ponto.</p><h3>Exemplo resolvido</h3><p>0,125 = 125/1.000 = 1/8. Já 2,5 = 25/10 = 5/2. Para localizar 3/4, podemos marcar 0,75 entre 0,7 e 0,8.</p><h3>Atenção ao raciocínio</h3><p>Não elimine a parte inteira ao converter: 2,5 é maior que 2, e não equivale a 5/10.</p><h3>Investigue, construa ou elabore</h3><p>Converta 7/20 e 0,6 para as outras representações. Marque os dois números em uma reta de 0 a 1.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "fracoes",
+      "decimais"
+    ],
+    "errosComuns": [
+      "Não elimine a parte inteira ao converter: 2,5 é maior que 2, e não equivale a 5/10."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "formas_fracionaria_e_decimal.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual forma decimal corresponde a 3/4?",
+      "alternativas": [
+        "0,34",
+        "0,43",
+        "0,75",
+        "3,4"
+      ],
+      "correta": 2,
+      "explicacao": "3/4 = 75/100 = 0,75."
+    },
+    {
+      "id": "formas_fracionaria_e_decimal.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Converta 7/20 e 0,6 para as outras representações. Marque os dois números em uma reta de 0 a 1.",
+      "gabarito": "7/20 = 35/100 = 0,35; 0,6 = 6/10 = 3/5. O primeiro fica entre 0,3 e 0,4; o segundo na marca de seis décimos.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "7/20 = 35/100 = 0,35; 0,6 = 6/10 = 3/5. O primeiro fica entre 0,3 e 0,4; o segundo na marca de seis décimos.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fracoes",
+    "decimais"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        96,
+        97
+      ],
+      "paginasImpressas": "98, 99, 100",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.fracoes_e_porcentagem.fracao_de_uma_quantidade"
+  ],
+  "proximosPassos": [
+    "mat.ef06.fracoes_e_porcentagem.fracao_em_ampliacao_e_reducao_de_figuras_planas"
+  ]
+}

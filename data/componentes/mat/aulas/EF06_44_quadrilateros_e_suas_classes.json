@@ -1,0 +1,125 @@
+{
+  "id": "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 44,
+  "unidade": "Figuras Planas e Construções",
+  "titulo": "Quadriláteros e suas Classes",
+  "bncc": [
+    "EF06MA20",
+    "EF06MA22"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Classificar quadriláteros e justificar inclusões e intersecções entre suas classes.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Classificar quadriláteros e justificar inclusões e intersecções entre suas classes.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Quadriláteros e suas Classes</h2><h3>O que vamos aprender</h3><p>Classificar quadriláteros e justificar inclusões e intersecções entre suas classes.</p><h3>Ideias e relações</h3><p>Quadriláteros são polígonos de quatro lados. Paralelogramos têm dois pares de lados opostos paralelos. Retângulos são paralelogramos com quatro ângulos retos; losangos são paralelogramos com quatro lados iguais. Quadrados reúnem as propriedades de retângulos e losangos: pertencem às duas classes. Nesta trilha adotamos trapézio em sentido inclusivo: quadrilátero com pelo menos um par de lados opostos paralelos. Assim, paralelogramos também pertencem à classe dos trapézios; outros materiais podem usar uma definição exclusiva, que deve ser explicitada. Para classificar, use propriedades e medidas, não apenas a aparência.</p><h3>Exemplo resolvido</h3><p>Um quadrilátero com quatro lados iguais e quatro ângulos retos é quadrado, retângulo, losango e paralelogramo ao mesmo tempo.</p><h3>Atenção ao raciocínio</h3><p>“Todo quadrado é retângulo” é verdadeiro, mas “todo retângulo é quadrado” é falso: faltaria garantir os quatro lados iguais.</p><h3>Investigue, construa ou elabore</h3><p>Com régua e esquadros, construa um retângulo que não seja quadrado. Faça um diagrama de inclusão com quadrado, retângulo, losango e paralelogramo.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "quadrilateros",
+      "classificacao"
+    ],
+    "errosComuns": [
+      "“Todo quadrado é retângulo” é verdadeiro, mas “todo retângulo é quadrado” é falso: faltaria garantir os quatro lados iguais."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "quadrilateros_e_suas_classes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual afirmação é verdadeira?",
+      "alternativas": [
+        "Todo retângulo é quadrado.",
+        "Todo losango tem quatro ângulos retos.",
+        "Todo quadrado é retângulo e losango.",
+        "Nenhum quadrado é paralelogramo."
+      ],
+      "correta": 2,
+      "explicacao": "Um quadrado tem quatro ângulos retos e quatro lados iguais, satisfazendo as duas definições."
+    },
+    {
+      "id": "quadrilateros_e_suas_classes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com régua e esquadros, construa um retângulo que não seja quadrado. Faça um diagrama de inclusão com quadrado, retângulo, losango e paralelogramo.",
+      "gabarito": "Um retângulo 6×3 serve. Quadrados pertencem simultaneamente a retângulos e losangos; ambos estão nos paralelogramos. A região de intersecção entre retângulos e losangos contém os quadrados.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Um retângulo 6×3 serve. Quadrados pertencem simultaneamente a retângulos e losangos; ambos estão nos paralelogramos. A região de intersecção entre retângulos e losangos contém os quadrados.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "quadrilateros",
+    "classificacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        364,
+        365,
+        366,
+        367
+      ],
+      "paginasImpressas": "367, 368, 369, 370",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.figuras_planas_e_construcoes.triangulos_e_sua_classificacao"
+  ],
+  "proximosPassos": [
+    "mat.ef06.figuras_planas_e_construcoes.angulos_com_transferidor"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "mat.ef06.figuras_planas_e_construcoes.triangulos_e_sua_classificacao",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 43,
+  "unidade": "Figuras Planas e Construções",
+  "titulo": "Triângulos e sua Classificação",
+  "bncc": [
+    "EF06MA19"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Classificar triângulos por lados e ângulos e reconhecer a inclusão entre classes.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Classificar triângulos por lados e ângulos e reconhecer a inclusão entre classes.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Triângulos e sua Classificação</h2><h3>O que vamos aprender</h3><p>Classificar triângulos por lados e ângulos e reconhecer a inclusão entre classes.</p><h3>Ideias e relações</h3><p>Triângulos têm três lados, três vértices e três ângulos internos. Quanto aos lados, são equiláteros quando têm os três lados iguais, isósceles quando têm pelo menos dois lados iguais e escalenos quando os três lados são diferentes. Nesta convenção inclusiva, todo equilátero também é isósceles. Quanto aos ângulos, são acutângulos se todos são agudos, retângulos se um é reto e obtusângulos se um é obtuso. A classificação pelos lados não substitui a classificação pelos ângulos. Nem toda escolha de três medidas forma um triângulo: cada lado precisa ser menor que a soma dos outros dois.</p><h3>Exemplo resolvido</h3><p>Um triângulo com lados 3, 4 e 5 e um ângulo reto é escaleno e retângulo. Um triângulo de três lados iguais é equilátero e acutângulo.</p><h3>Atenção ao raciocínio</h3><p>A posição do desenho na folha não muda sua classe; um triângulo retângulo continua retângulo quando girado.</p><h3>Investigue, construa ou elabore</h3><p>Construa com tiras de papel um triângulo de lados 5, 5 e 6 e compare com a tentativa de lados 2, 3 e 6. Classifique o primeiro e explique a segunda tentativa.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "triangulos",
+      "classificacao"
+    ],
+    "errosComuns": [
+      "A posição do desenho na folha não muda sua classe; um triângulo retângulo continua retângulo quando girado."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "triangulos_e_sua_classificacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um triângulo com três lados de medidas diferentes é:",
+      "alternativas": [
+        "Equilátero",
+        "Escaleno",
+        "Quadrado",
+        "Sempre obtusângulo"
+      ],
+      "correta": 1,
+      "explicacao": "Escaleno significa três lados diferentes; isso não determina sozinho a classe dos ângulos."
+    },
+    {
+      "id": "triangulos_e_sua_classificacao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa com tiras de papel um triângulo de lados 5, 5 e 6 e compare com a tentativa de lados 2, 3 e 6. Classifique o primeiro e explique a segunda tentativa.",
+      "gabarito": "O primeiro é isósceles. O segundo não forma triângulo porque 2 + 3 < 6. Conferir as medidas, não apenas o desenho aproximado.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "O primeiro é isósceles. O segundo não forma triângulo porque 2 + 3 < 6. Conferir as medidas, não apenas o desenho aproximado.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "triangulos",
+    "classificacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344,
+        345,
+        346
+      ],
+      "paginasImpressas": "347, 348, 349",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes"
+  ]
+}

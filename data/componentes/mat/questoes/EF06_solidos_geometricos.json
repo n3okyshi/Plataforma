@@ -1,0 +1,432 @@
+[
+  {
+    "id": "mat.ef06.solidos_geometricos.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Sólidos geométricos",
+    "aulaId": "mat.ef06.solidos_geometricos.solidos_geometricos",
+    "bncc": [
+      "EF06MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma caixa em forma de prisma retangular tem quantos vértices?",
+    "opcoes": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correta": 2,
+    "explicacao": "Há quatro vértices em uma base e quatro na outra: oito no total.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.solidos_geometricos.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Sólidos geométricos",
+    "aulaId": "mat.ef06.solidos_geometricos.prismas_e_piramides",
+    "bncc": [
+      "EF06MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um prisma de base pentagonal possui quantas arestas?",
+    "opcoes": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correta": 2,
+    "explicacao": "São dez arestas das duas bases e cinco ligando os vértices correspondentes: quinze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.solidos_geometricos.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Sólidos geométricos",
+    "aulaId": "mat.ef06.solidos_geometricos.principais_corpos_redondos",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual modelo tem uma base circular e um vértice?",
+    "opcoes": [
+      "Esfera",
+      "Cone circular",
+      "Prisma triangular",
+      "Cilindro circular"
+    ],
+    "correta": 1,
+    "explicacao": "O cone circular tem uma base circular e um vértice fora do plano dessa base.",
+    "fontes": [
+      {
+        "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": true
+  },
+  {
+    "id": "mat.ef06.solidos_geometricos.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Sólidos geométricos",
+    "aulaId": "mat.ef06.solidos_geometricos.prismas_e_piramides",
+    "bncc": [
+      "EF06MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma pirâmide de base quadrada possui, contando a base, quantas faces?",
+    "opcoes": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correta": 1,
+    "explicacao": "São quatro faces laterais triangulares e uma base: cinco faces.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.solidos_geometricos.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Sólidos geométricos",
+    "aulaId": "mat.ef06.solidos_geometricos.prismas_e_piramides",
+    "bncc": [
+      "EF06MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um prisma triangular possui quantas faces ao todo?",
+    "opcoes": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correta": 2,
+    "explicacao": "Duas bases triangulares mais três faces laterais formam cinco faces.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.solidos_geometricos.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Sólidos geométricos",
+    "aulaId": "mat.ef06.solidos_geometricos.prismas_e_piramides",
+    "bncc": [
+      "EF06MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um prisma de base hexagonal possui quantos vértices?",
+    "opcoes": [
+      "6",
+      "8",
+      "12",
+      "18"
+    ],
+    "correta": 2,
+    "explicacao": "São seis vértices em cada uma das duas bases: doze.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.solidos_geometricos.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Sólidos geométricos",
+    "aulaId": "mat.ef06.solidos_geometricos.prismas_e_piramides",
+    "bncc": [
+      "EF06MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma pirâmide de base pentagonal possui quantos vértices?",
+    "opcoes": [
+      "5",
+      "6",
+      "7",
+      "10"
+    ],
+    "correta": 1,
+    "explicacao": "São cinco vértices na base e um vértice fora de seu plano, totalizando seis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.solidos_geometricos.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Sólidos geométricos",
+    "aulaId": "mat.ef06.solidos_geometricos.prismas_e_piramides",
+    "bncc": [
+      "EF06MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quantas faces tem um prisma de base hexagonal?",
+    "opcoes": [
+      "6",
+      "7",
+      "8",
+      "12"
+    ],
+    "correta": 2,
+    "explicacao": "São seis faces laterais e duas bases: oito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.solidos_geometricos.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Sólidos geométricos",
+    "aulaId": "mat.ef06.solidos_geometricos.prismas_e_piramides",
+    "bncc": [
+      "EF06MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma pirâmide de base quadrangular possui quantas arestas?",
+    "opcoes": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correta": 3,
+    "explicacao": "Quatro arestas pertencem à base e quatro ligam seus vértices ao ápice: oito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.solidos_geometricos.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Sólidos geométricos",
+    "aulaId": "mat.ef06.solidos_geometricos.solidos_geometricos",
+    "bncc": [
+      "EF06MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ao contar arestas em um desenho de um prisma, devemos:",
+    "opcoes": [
+      "Contar somente a borda externa.",
+      "Ignorar as arestas tracejadas.",
+      "Considerar também as arestas ocultas do sólido.",
+      "Contar cada face como uma aresta."
+    ],
+    "correta": 2,
+    "explicacao": "A representação pode ocultar elementos; eles continuam pertencendo ao sólido.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

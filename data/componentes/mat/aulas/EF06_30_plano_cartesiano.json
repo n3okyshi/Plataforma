@@ -2,36 +2,121 @@
   "id": "mat.ef06.angulos_e_poligonos.plano_cartesiano",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 30,
+  "ordem": 41,
   "unidade": "Ângulos e polígonos",
   "titulo": "Plano Cartesiano",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA16"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Associar pares ordenados a pontos e vértices de polígonos no primeiro quadrante e eixos de fronteira.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Associar pares ordenados a pontos e vértices de polígonos no primeiro quadrante e eixos de fronteira.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Plano Cartesiano</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução ao sistema de coordenadas. Aprendemos a localizar pontos e identificar eixos e quadrantes.\n        </p>\n        \n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🗺️ GPS Matemático:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Usamos <strong>pares ordenados (x, y)</strong>, onde X é a posição horizontal e Y a vertical.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Plano Cartesiano</h2><h3>O que vamos aprender</h3><p>Associar pares ordenados a pontos e vértices de polígonos no primeiro quadrante e eixos de fronteira.</p><h3>Ideias e relações</h3><p>No plano cartesiano, o eixo horizontal é chamado x e o vertical, y. Um par ordenado (x, y) informa primeiro o deslocamento horizontal e depois o vertical a partir da origem, respeitando a escala. No interior do primeiro quadrante, ambas as coordenadas são positivas; os eixos são suas fronteiras e podem ter uma coordenada zero. Trocar a ordem das coordenadas geralmente muda o ponto. Localizar vértices e ligá-los na ordem informada permite representar um polígono.</p><svg viewBox=\"0 0 440 240\" role=\"img\" aria-label=\"Retângulo com vértices A(1,1), B(5,1), C(5,3) e D(1,3) no plano cartesiano.\" style=\"max-width:100%;color:inherit\"><title>Retângulo com vértices A(1,1), B(5,1), C(5,3) e D(1,3) no plano cartesiano.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" opacity=\"0.2\"><path d=\"M70 30V200\"/><path d=\"M110 30V200\"/><path d=\"M150 30V200\"/><path d=\"M190 30V200\"/><path d=\"M230 30V200\"/><path d=\"M270 30V200\"/><path d=\"M310 30V200\"/><path d=\"M350 30V200\"/><path d=\"M70 40H350\"/><path d=\"M70 80H350\"/><path d=\"M70 120H350\"/><path d=\"M70 160H350\"/><path d=\"M70 200H350\"/></g><path d=\"M70 20V200H370\" stroke=\"currentColor\" fill=\"none\"/><path d=\"M110 160H270V80H110Z\" fill=\"none\" stroke=\"#2563eb\" stroke-width=\"3\"/><g fill=\"currentColor\" font-size=\"14\"><text x=\"55\" y=\"219\">0</text><text x=\"106\" y=\"219\">1</text><text x=\"265\" y=\"219\">5</text><text x=\"48\" y=\"164\">1</text><text x=\"48\" y=\"84\">3</text><text x=\"97\" y=\"180\">A</text><text x=\"274\" y=\"180\">B</text><text x=\"274\" y=\"76\">C</text><text x=\"97\" y=\"76\">D</text><text x=\"380\" y=\"205\">x</text><text x=\"60\" y=\"17\">y</text></g></svg><h3>Exemplo resolvido</h3><p>Os pontos A(1,1), B(5,1), C(5,3) e D(1,3), unidos nessa ordem e fechando em A, formam um retângulo. As bases medem quatro unidades e as laterais duas.</p><h3>Atenção ao raciocínio</h3><p>O ponto (2,5) não é o mesmo que (5,2). Leia sempre a ordem dos eixos.</p><h3>Investigue, construa ou elabore</h3><p>Marque A(2,1), B(6,1), C(6,4) e D(2,4), feche o polígono e descreva a figura obtida. Informe um vértice que tenha x = 6.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "plano_cartesiano",
+      "coordenadas"
+    ],
+    "errosComuns": [
+      "O ponto (2,5) não é o mesmo que (5,2). Leia sempre a ordem dos eixos."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "plano_cartesiano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No par (3,5), a coordenada horizontal é:",
+      "alternativas": [
+        "0",
+        "2",
+        "3",
+        "5"
+      ],
+      "correta": 2,
+      "explicacao": "A primeira coordenada informa a posição horizontal: x = 3."
+    },
+    {
+      "id": "plano_cartesiano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Marque A(2,1), B(6,1), C(6,4) e D(2,4), feche o polígono e descreva a figura obtida. Informe um vértice que tenha x = 6.",
+      "gabarito": "A figura é um retângulo de lados 4 e 3. Os vértices B(6,1) e C(6,4) têm coordenada x = 6. Conferir a escala e a ordem das ligações.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "A figura é um retângulo de lados 4 e 3. Os vértices B(6,1) e C(6,4) têm coordenada x = 6. Conferir a escala e a ordem das ligações.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "plano_cartesiano",
+    "coordenadas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        298
+      ],
+      "paginasImpressas": "300, 301",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno"
+  ],
+  "proximosPassos": [
+    "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas"
+  ]
 }

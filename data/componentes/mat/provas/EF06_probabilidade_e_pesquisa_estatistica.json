@@ -1,0 +1,94 @@
+{
+  "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.prova",
+  "titulo": "Avaliação: Probabilidade e pesquisa estatística",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF06",
+  "unidade": "Probabilidade e pesquisa estatística",
+  "bncc": [
+    "EF06MA30",
+    "EF06MA31",
+    "EF06MA32",
+    "EF06MA33"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "A parte objetiva tem cinco itens, valendo dois pontos cada. A correção aparece ao final. A etapa prática tem rubrica própria e exige conferência do professor; a nota objetiva não certifica sozinha o domínio da unidade.",
+  "questoes": [
+    "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.01",
+    "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.02",
+    "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.03",
+    "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.04",
+    "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.05"
+  ],
+  "criterios": "Parte objetiva: dois pontos por item correto. Etapa prática: observar a produção real com a rubrica; sem nota automática. O diagnóstico serve para orientar retomadas.",
+  "matriz": [
+    {
+      "bncc": "EF06MA30",
+      "questoes": [
+        "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.01",
+        "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.probabilidade_e_pesquisa_estatistica.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA31",
+      "questoes": [
+        "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.probabilidade_e_pesquisa_estatistica.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA32",
+      "questoes": [
+        "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.probabilidade_e_pesquisa_estatistica.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA33",
+      "questoes": [
+        "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.probabilidade_e_pesquisa_estatistica.pratica"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.pratica",
+    "tipo": "discursiva",
+    "titulo": "Pesquisa real e experimento aleatório",
+    "enunciado": "Planeje e colete, sem nomes, dados de uma prática sustentável do grupo. Registre uma tabela e um gráfico identificados e escreva uma conclusão com limites. Analise também um gráfico divulgado pela mídia, registrando fonte, data e uma comparação numérica. Realize também 30 lançamentos de uma moeda e compare a frequência de caras com a chance teórica.",
+    "gabarito": "Usar os dados efetivamente coletados, nunca preencher resultados esperados como se fossem observações. Conferir pergunta, população, categorias, frequências, título, escala, fonte e data. A chance teórica é 1/2; a frequência de caras depende do experimento e pode diferir de 50%. A síntese do gráfico da mídia deve respeitar os valores, o período e a população da fonte efetivamente consultada.",
+    "bncc": [
+      "EF06MA30",
+      "EF06MA31",
+      "EF06MA32",
+      "EF06MA33"
+    ],
+    "rubrica": [
+      "Realizar a tarefa e apresentar registros verificáveis (texto, desenho, modelo, tabela, gráfico ou fluxograma).",
+      "Explicar os procedimentos, propriedades e unidades utilizadas.",
+      "Conferir o resultado e discutir limites, aproximações ou ambiguidades quando aplicáveis."
+    ],
+    "correcao": "Docente; a interface oferece autoavaliação orientada, não uma nota automática para essa etapa."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        307
+      ],
+      "paginasImpressas": "305",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    }
+  ]
+}

@@ -2,36 +2,120 @@
   "id": "mat.ef06.multiplos_e_divisores.numero_primo",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 24,
+  "ordem": 21,
   "unidade": "Múltiplos e divisores",
-  "titulo": "Número Primo",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Números Primos e Compostos",
+  "bncc": [
+    "EF06MA05"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Classificar naturais como primos ou compostos a partir de seus divisores positivos.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Classificar naturais como primos ou compostos a partir de seus divisores positivos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números Primos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definição de números primos (possuem apenas dois divisores: 1 e ele mesmo) e números compostos.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🕵️ Caça aos Primos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Introdução ao <strong>Crivo de Eratóstenes</strong>, um método antigo para encontrar números primos.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Números Primos e Compostos</h2><h3>O que vamos aprender</h3><p>Classificar naturais como primos ou compostos a partir de seus divisores positivos.</p><h3>Ideias e relações</h3><p>Um natural maior que 1 é primo quando tem exatamente dois divisores positivos: 1 e ele próprio. Um natural maior que 1 com mais de dois divisores positivos é composto. O 1 não é primo nem composto. O 2 é o único primo par: qualquer outro par maior que 2 tem 1, 2 e o próprio número como divisores diferentes. Para investigar primalidade, procure fatores além de 1 e do número. Um único par de fatores não triviais já mostra que o número é composto.</p><h3>Exemplo resolvido</h3><p>29 é primo: não encontramos divisor positivo diferente de 1 e 29. Já 39 é composto, pois 39 = 3 × 13. Sua soma de algarismos é 12, o que revela a divisibilidade por 3.</p><h3>Atenção ao raciocínio</h3><p>Um número ímpar não é necessariamente primo: 9, 15 e 21 são ímpares compostos.</p><h3>Investigue, construa ou elabore</h3><p>Classifique 1, 2, 15 e 17. Para cada composto, mostre um produto; para cada primo, descreva os divisores.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "primos",
+      "divisores"
+    ],
+    "errosComuns": [
+      "Um número ímpar não é necessariamente primo: 9, 15 e 21 são ímpares compostos."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "numero_primo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual número é primo?",
+      "alternativas": [
+        "1",
+        "21",
+        "29",
+        "39"
+      ],
+      "correta": 2,
+      "explicacao": "29 tem apenas 1 e 29 como divisores positivos; 1 não é primo e 21 e 39 têm outros fatores."
+    },
+    {
+      "id": "numero_primo.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Classifique 1, 2, 15 e 17. Para cada composto, mostre um produto; para cada primo, descreva os divisores.",
+      "gabarito": "1 não é primo nem composto; 2 é primo, com divisores 1 e 2; 15 é composto, pois 3 × 5 = 15; 17 é primo, com divisores 1 e 17.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "1 não é primo nem composto; 2 é primo, com divisores 1 e 2; 15 é composto, pois 3 × 5 = 15; 17 é primo, com divisores 1 e 17.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "primos",
+    "divisores"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        58,
+        59,
+        60
+      ],
+      "paginasImpressas": "61, 62, 63",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural"
+  ],
+  "proximosPassos": []
 }

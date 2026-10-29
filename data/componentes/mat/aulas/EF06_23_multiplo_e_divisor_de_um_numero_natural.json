@@ -2,36 +2,120 @@
   "id": "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 23,
+  "ordem": 18,
   "unidade": "Múltiplos e divisores",
   "titulo": "Múltiplo e Divisor de um Número Natural",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA05",
+    "EF06MA06"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Relacionar os termos múltiplo, divisor e fator em uma mesma igualdade.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Relacionar os termos múltiplo, divisor e fator em uma mesma igualdade.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Relação Múltiplo e Divisor</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Interligação dos conceitos: se A é múltiplo de B, então B é divisor de A.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚡ Atalhos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Apresentação dos <strong>Critérios de Divisibilidade</strong> (por 2, 3, 5, etc.) para facilitar a identificação sem efetuar a conta.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Múltiplo e Divisor de um Número Natural</h2><h3>O que vamos aprender</h3><p>Relacionar os termos múltiplo, divisor e fator em uma mesma igualdade.</p><h3>Ideias e relações</h3><p>Na igualdade 6 × 4 = 24, 24 é múltiplo de 6 e de 4; 6 e 4 são divisores ou fatores de 24. Dizer “a é divisor de b” significa que existe um natural que, multiplicado por a, produz b, considerando aqui divisores positivos. A divisão correspondente é exata. Ser múltiplo ou divisor é uma relação entre números; não se deve chamar um número de “múltiplo” sem indicar de qual número. Podemos investigar a relação por agrupamentos, produtos ou divisões com resto zero.</p><h3>Exemplo resolvido</h3><p>24 bolinhas podem ser organizadas em quatro grupos de seis, sem sobras. Por isso 24 é múltiplo de 6, e 6 é divisor de 24. Já 5 não divide 24 exatamente.</p><h3>Atenção ao raciocínio</h3><p>Se 6 é divisor de 24, não concluímos que 24 seja divisor de 6: a direção da relação importa.</p><h3>Investigue, construa ou elabore</h3><p>Uma turma de 30 estudantes pode ser dividida em grupos iguais de 4? E de 5? Justifique com a ideia de divisor.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "multiplos",
+      "divisores"
+    ],
+    "errosComuns": [
+      "Se 6 é divisor de 24, não concluímos que 24 seja divisor de 6: a direção da relação importa."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "multiplo_e_divisor_de_um_numero_natural.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual afirmação decorre de 7 × 8 = 56?",
+      "alternativas": [
+        "56 é divisor de 7.",
+        "7 é múltiplo de 56.",
+        "8 é divisor de 56.",
+        "8 é múltiplo de 56."
+      ],
+      "correta": 2,
+      "explicacao": "Como 56 ÷ 8 = 7 é exato, 8 é divisor de 56."
+    },
+    {
+      "id": "multiplo_e_divisor_de_um_numero_natural.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Uma turma de 30 estudantes pode ser dividida em grupos iguais de 4? E de 5? Justifique com a ideia de divisor.",
+      "gabarito": "4 não é divisor de 30, pois sobra resto 2. 5 é divisor de 30: formam-se seis grupos de cinco.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "4 não é divisor de 30, pois sobra resto 2. 5 é divisor de 30: formam-se seis grupos de cinco.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "multiplos",
+    "divisores"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        53,
+        54
+      ],
+      "paginasImpressas": "56, 57",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural"
+  ]
 }

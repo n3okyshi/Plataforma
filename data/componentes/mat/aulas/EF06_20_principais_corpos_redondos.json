@@ -2,36 +2,109 @@
   "id": "mat.ef06.solidos_geometricos.principais_corpos_redondos",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 20,
+  "ordem": 49,
   "unidade": "Sólidos geométricos",
   "titulo": "Principais Corpos Redondos",
   "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Distinguir cilindro, cone e esfera como ampliação complementar do estudo dos sólidos.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Distinguir cilindro, cone e esfera como ampliação complementar do estudo dos sólidos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Corpos Redondos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Identificação e caracterização do <strong>cilindro</strong>, do <strong>cone</strong> e da <strong>esfera</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🌍 No Cotidiano:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Análise de suas superfícies (planas e curvas) e observação de objetos do dia a dia que possuem essas formas.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Principais Corpos Redondos</h2><h3>O que vamos aprender</h3><p>Distinguir cilindro, cone e esfera como ampliação complementar do estudo dos sólidos.</p><h3>Ideias e relações</h3><p>Esta aula é um aprofundamento complementar ao estudo de prismas e pirâmides do 6º ano. Cilindro, cone e esfera apresentam superfícies curvas e não são poliedros. Um cilindro circular tem duas bases circulares paralelas; um cone circular tem uma base circular e um vértice; uma esfera pode modelar uma bola ideal. Objetos reais podem apenas aproximar esses modelos e possuir espessura ou detalhes que o modelo ignora. Compare diferentes vistas para evitar classificar um sólido apenas por sua silhueta.</p><h3>Exemplo resolvido</h3><p>Uma lata pode ser modelada aproximadamente por um cilindro; uma casquinha, por um cone; uma bola, por uma esfera. Ver um círculo em uma fotografia não basta para distinguir os três.</p><h3>Atenção ao raciocínio</h3><p>Círculos não são polígonos. Por isso um cilindro não é um prisma de “muitos lados”.</p><h3>Investigue, construa ou elabore</h3><p>Escolha três objetos cotidianos, proponha modelos entre cilindro, cone e esfera e descreva uma característica real que o modelo simplifica.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "figuras_espaciais",
+      "corpos_redondos"
+    ],
+    "errosComuns": [
+      "Círculos não são polígonos. Por isso um cilindro não é um prisma de “muitos lados”."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "principais_corpos_redondos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual modelo tem uma base circular e um vértice?",
+      "alternativas": [
+        "Esfera",
+        "Cone circular",
+        "Prisma triangular",
+        "Cilindro circular"
+      ],
+      "correta": 1,
+      "explicacao": "O cone circular tem uma base circular e um vértice fora do plano dessa base."
+    },
+    {
+      "id": "principais_corpos_redondos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Escolha três objetos cotidianos, proponha modelos entre cilindro, cone e esfera e descreva uma característica real que o modelo simplifica.",
+      "gabarito": "Exemplos possíveis: lata com espessura e tampa, casquinha com textura e bola com costuras. A identificação deve usar bases, vértice e presença de superfície curva.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Exemplos possíveis: lata com espessura e tampa, casquinha com textura e bola com costuras. A identificação deve usar bases, vértice e presença de superfície curva.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_espaciais",
+    "corpos_redondos"
+  ],
+  "fontes": [
+    {
+      "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+      "paginasPdf": [
+        66,
+        67
+      ],
+      "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": true,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "observacaoCurricular": "Aprofundamento complementar; não representa uma habilidade específica obrigatória de função ou de corpos redondos para o 6º ano.",
+  "preRequisitos": [
+    "mat.ef06.solidos_geometricos.prismas_e_piramides"
+  ],
+  "proximosPassos": []
 }

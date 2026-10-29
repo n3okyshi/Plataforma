@@ -1,0 +1,111 @@
+{
+  "id": "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 65,
+  "unidade": "Fluxogramas e Algoritmos",
+  "titulo": "Paridade e Fluxograma",
+  "bncc": [
+    "EF06MA04"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Construir um algoritmo de decisão de paridade e representá-lo por fluxograma.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Construir um algoritmo de decisão de paridade e representá-lo por fluxograma.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Paridade e Fluxograma</h2><h3>O que vamos aprender</h3><p>Construir um algoritmo de decisão de paridade e representá-lo por fluxograma.</p><h3>Ideias e relações</h3><p>Um algoritmo descreve uma sequência finita de passos para resolver uma situação. Para testar se um natural é par, obtenha o resto de sua divisão por 2: resto zero indica par; resto um indica ímpar. Um fluxograma torna visíveis entrada, processamento, decisão e saída. Em uma decisão, identifique claramente os caminhos “sim” e “não”. Execute o procedimento com exemplos, incluindo zero, para verificar se os passos levam a uma resposta e a um término.</p><svg viewBox=\"0 0 440 240\" role=\"img\" aria-label=\"Algoritmo para classificar paridade: iniciar com natural n, calcular o resto da divisão por dois; se o resto é zero, informar par; caso contrário, informar ímpar; terminar.\" style=\"max-width:100%;color:inherit\"><title>Algoritmo para classificar paridade: iniciar com natural n, calcular o resto da divisão por dois; se o resto é zero, informar par; caso contrário, informar ímpar; terminar.</title><g fill=\"none\" stroke=\"currentColor\"><rect x=\"145\" y=\"5\" width=\"150\" height=\"35\" rx=\"12\"/><path d=\"M220 40V60\"/><path d=\"M220 60 320 105 220 150 120 105Z\"/><path d=\"M120 105H60V165M320 105H380V165\"/><rect x=\"10\" y=\"165\" width=\"100\" height=\"40\"/><rect x=\"330\" y=\"165\" width=\"100\" height=\"40\"/></g><g fill=\"currentColor\" text-anchor=\"middle\" font-size=\"13\"><text x=\"220\" y=\"27\">Entrada: natural n</text><text x=\"220\" y=\"101\">Resto de n ÷ 2</text><text x=\"220\" y=\"119\">é zero?</text><text x=\"93\" y=\"94\">Sim</text><text x=\"350\" y=\"94\">Não</text><text x=\"60\" y=\"190\">Informar: par</text><text x=\"380\" y=\"190\">Informar: ímpar</text><text x=\"220\" y=\"230\">Depois da saída: terminar.</text></g></svg><h3>Exemplo resolvido</h3><p>Para n = 27, a divisão por 2 tem quociente 13 e resto 1; a saída é “ímpar”. Para n = 0, o resto é zero; portanto zero é par.</p><h3>Atenção ao raciocínio</h3><p>A pergunta da decisão precisa ter critérios claros. “O número parece par?” não é um passo verificável.</p><h3>Investigue, construa ou elabore</h3><p>Construa um fluxograma com entrada, teste, dois caminhos e término. Execute-o para 0, 14 e 27 e registre o percurso de cada valor.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "fluxograma",
+      "paridade"
+    ],
+    "errosComuns": [
+      "A pergunta da decisão precisa ter critérios claros. “O número parece par?” não é um passo verificável."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "paridade_e_fluxograma.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No algoritmo de paridade, um natural é par quando o resto de sua divisão por 2 é:",
+      "alternativas": [
+        "0",
+        "1",
+        "2",
+        "Qualquer valor"
+      ],
+      "correta": 0,
+      "explicacao": "Resto zero significa que o número é múltiplo de 2."
+    },
+    {
+      "id": "paridade_e_fluxograma.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa um fluxograma com entrada, teste, dois caminhos e término. Execute-o para 0, 14 e 27 e registre o percurso de cada valor.",
+      "gabarito": "O teste é resto de n ÷ 2 igual a zero. Saídas: 0 e 14 são pares; 27 é ímpar. Cada percurso deve chegar ao término, com ramos sim/não identificados.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "O teste é resto de n ÷ 2 igual a zero. Saídas: 0 e 14 são pares; 27 é ímpar. Cada percurso deve chegar ao término, com ramos sim/não identificados.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fluxograma",
+    "paridade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano"
+  ]
+}

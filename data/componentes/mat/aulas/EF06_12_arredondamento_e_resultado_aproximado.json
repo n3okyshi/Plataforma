@@ -2,36 +2,121 @@
   "id": "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 12,
+  "ordem": 13,
   "unidade": "Operações com números naturais",
   "titulo": "Arredondamento e Resultado Aproximado",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA12"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Aproximar números para múltiplos de dez e usar estimativas para conferir resultados.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Aproximar números para múltiplos de dez e usar estimativas para conferir resultados.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Arredondamento e Resultado Aproximado</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: aprender regras de arredondamento e usar estimativas para verificar razoabilidade de respostas.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Arredondar para a dezena, centena ou unidade mais próxima ajuda a estimar resultados e identificar erros.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Arredonde</label>\n  <p>Arredonde 6.879 para a centena mais próxima.</p>\n  <input id=\"atividade-arred-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se 3.478 é arredondado para a dezena mais próxima, o resultado é:</p>\n  <div>\n    <button class=\"btn\">3.470</button>\n    <button class=\"btn\">3.480</button>\n    <button class=\"btn\">3.400</button>\n  </div>\n</div>\n    "
+        "html": "<h2>Arredondamento e Resultado Aproximado</h2><h3>O que vamos aprender</h3><p>Aproximar números para múltiplos de dez e usar estimativas para conferir resultados.</p><h3>Ideias e relações</h3><p>Arredondar é escolher um valor próximo conforme a precisão desejada. Para a dezena mais próxima, localize as duas dezenas vizinhas e compare as distâncias. Para centenas e milhares, fazemos o mesmo com múltiplos de 100 e 1.000. Nesta trilha, quando há empate entre dois valores, adotamos o maior. Uma aproximação deve vir acompanhada da ordem utilizada e do símbolo ≈ quando apropriado. Estimativas ajudam a detectar respostas improváveis, mas não substituem o valor exato quando o contexto exige precisão.</p><h3>Exemplo resolvido</h3><p>4.268 está a 32 de 4.300 e a 68 de 4.200. Assim, para a centena mais próxima, 4.268 ≈ 4.300. Para a dezena mais próxima, o resultado é 4.270.</p><h3>Atenção ao raciocínio</h3><p>“Arredondar” não significa sempre aumentar: 4.231, para a centena mais próxima, vira 4.200.</p><h3>Investigue, construa ou elabore</h3><p>Estime 2.986 + 4.012 arredondando cada parcela ao milhar mais próximo. Depois calcule o valor exato e compare.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "arredondamento",
+      "estimativa"
+    ],
+    "errosComuns": [
+      "“Arredondar” não significa sempre aumentar: 4.231, para a centena mais próxima, vira 4.200."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "arredondamento_e_resultado_aproximado.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Arredonde 6.749 para a centena mais próxima.",
+      "alternativas": [
+        "6.700",
+        "6.740",
+        "6.750",
+        "6.800"
+      ],
+      "correta": 0,
+      "explicacao": "6.749 está a 49 de 6.700 e a 51 de 6.800; escolhemos 6.700."
+    },
+    {
+      "id": "arredondamento_e_resultado_aproximado.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Estime 2.986 + 4.012 arredondando cada parcela ao milhar mais próximo. Depois calcule o valor exato e compare.",
+      "gabarito": "A estimativa é 3.000 + 4.000 = 7.000; a soma exata é 6.998. A estimativa ficou duas unidades acima.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "A estimativa é 3.000 + 4.000 = 7.000; a soma exata é 6.998. A estimativa ficou duas unidades acima.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "arredondamento",
+    "estimativa"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14,
+        29
+      ],
+      "paginasImpressas": "17, 32",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.operacoes_com_numeros_naturais.calculo_mental"
+  ],
+  "proximosPassos": [
+    "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao"
+  ]
 }

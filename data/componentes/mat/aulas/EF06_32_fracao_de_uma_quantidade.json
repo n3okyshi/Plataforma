@@ -1,0 +1,123 @@
+{
+  "id": "mat.ef06.fracoes_e_porcentagem.fracao_de_uma_quantidade",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 32,
+  "unidade": "Frações e porcentagem",
+  "titulo": "Fração de uma Quantidade",
+  "bncc": [
+    "EF06MA09"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Calcular frações de quantidades por divisão em partes iguais e multiplicação.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Calcular frações de quantidades por divisão em partes iguais e multiplicação.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Fração de uma Quantidade</h2><h3>O que vamos aprender</h3><p>Calcular frações de quantidades por divisão em partes iguais e multiplicação.</p><h3>Ideias e relações</h3><p>Para encontrar uma fração de uma quantidade, divida o todo pelo denominador e tome a quantidade de partes indicada pelo numerador. Essa interpretação explica o cálculo, sem transformar a fração em uma receita desconectada do contexto. Nesta aula, escolhemos situações cujo resultado é natural. O todo deve ser identificado: “3/4” sozinho não informa uma quantidade de objetos. É diferente calcular 3/4 de uma coleção e afirmar que a coleção inteira tem 3/4 de um objeto.</p><h3>Exemplo resolvido</h3><p>Para encontrar 3/4 de 28 livros, repartimos 28 em quatro grupos de sete e tomamos três: 7 × 3 = 21 livros.</p><h3>Atenção ao raciocínio</h3><p>Não divida pelo numerador e multiplique pelo denominador: isso troca o significado das partes.</p><h3>Investigue, construa ou elabore</h3><p>Uma turma tem 35 estudantes e 2/5 participam de um clube. Quantos participam? Crie outra situação em que 2/5 de uma quantidade seja um natural.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "fracoes",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Não divida pelo numerador e multiplique pelo denominador: isso troca o significado das partes."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "fracao_de_uma_quantidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto é 3/4 de 28?",
+      "alternativas": [
+        "7",
+        "16",
+        "21",
+        "24"
+      ],
+      "correta": 2,
+      "explicacao": "28 ÷ 4 = 7; 7 × 3 = 21."
+    },
+    {
+      "id": "fracao_de_uma_quantidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Uma turma tem 35 estudantes e 2/5 participam de um clube. Quantos participam? Crie outra situação em que 2/5 de uma quantidade seja um natural.",
+      "gabarito": "35 ÷ 5 × 2 = 14 estudantes. A situação criada deve identificar o todo e produzir quantidade inteira coerente.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "35 ÷ 5 × 2 = 14 estudantes. A situação criada deve identificar o todo e produzir quantidade inteira coerente.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fracoes",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        71,
+        72,
+        89
+      ],
+      "paginasImpressas": "74, 75, 92",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.fracoes_e_porcentagem.adicao_e_subtracao_de_fracoes"
+  ],
+  "proximosPassos": [
+    "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "mat.ef06.proporcionalidade_e_partilha.prova",
+  "titulo": "Avaliação: Proporcionalidade e Partilha",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF06",
+  "unidade": "Proporcionalidade e Partilha",
+  "bncc": [
+    "EF06MA15"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "A parte objetiva tem cinco itens, valendo dois pontos cada. A correção aparece ao final. A etapa prática tem rubrica própria e exige conferência do professor; a nota objetiva não certifica sozinha o domínio da unidade.",
+  "questoes": [
+    "mat.ef06.proporcionalidade_e_partilha.prova.01",
+    "mat.ef06.proporcionalidade_e_partilha.prova.02",
+    "mat.ef06.proporcionalidade_e_partilha.prova.03",
+    "mat.ef06.proporcionalidade_e_partilha.prova.04",
+    "mat.ef06.proporcionalidade_e_partilha.prova.05"
+  ],
+  "criterios": "Parte objetiva: dois pontos por item correto. Etapa prática: observar a produção real com a rubrica; sem nota automática. O diagnóstico serve para orientar retomadas.",
+  "matriz": [
+    {
+      "bncc": "EF06MA15",
+      "questoes": [
+        "mat.ef06.proporcionalidade_e_partilha.prova.01",
+        "mat.ef06.proporcionalidade_e_partilha.prova.02",
+        "mat.ef06.proporcionalidade_e_partilha.prova.03",
+        "mat.ef06.proporcionalidade_e_partilha.prova.04",
+        "mat.ef06.proporcionalidade_e_partilha.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.proporcionalidade_e_partilha.pratica"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef06.proporcionalidade_e_partilha.pratica",
+    "tipo": "discursiva",
+    "titulo": "Distinguir parte–parte, parte–todo e diferença",
+    "enunciado": "Reparta 100 em duas partes com diferença de 20. Depois reparta 50 na razão 2:3. Represente os dois problemas por barras e explique a fração do total da menor parte em cada caso.",
+    "gabarito": "Primeiro: 40 e 60; a menor é 40/100 = 2/5. Segundo: 20 e 30; a menor é 20/50 = 2/5. As estratégias diferem: retirar a diferença e dividir, ou dividir o total em cinco partes de referência.",
+    "bncc": [
+      "EF06MA15"
+    ],
+    "rubrica": [
+      "Realizar a tarefa e apresentar registros verificáveis (texto, desenho, modelo, tabela, gráfico ou fluxograma).",
+      "Explicar os procedimentos, propriedades e unidades utilizadas.",
+      "Conferir o resultado e discutir limites, aproximações ou ambiguidades quando aplicáveis."
+    ],
+    "correcao": "Docente; a interface oferece autoavaliação orientada, não uma nota automática para essa etapa."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        183,
+        184
+      ],
+      "paginasImpressas": "186, 187",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        171,
+        172,
+        183
+      ],
+      "paginasImpressas": "173, 174, 175, 186",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        148,
+        170,
+        183
+      ],
+      "paginasImpressas": "151, 173, 186",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ]
+}

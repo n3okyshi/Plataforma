@@ -1,0 +1,106 @@
+{
+  "id": "mat.ef06.fluxogramas_e_algoritmos.prova",
+  "titulo": "Avaliação: Fluxogramas e Algoritmos",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF06",
+  "unidade": "Fluxogramas e Algoritmos",
+  "bncc": [
+    "EF06MA04",
+    "EF06MA16",
+    "EF06MA23",
+    "EF06MA34"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "A parte objetiva tem cinco itens, valendo dois pontos cada. A correção aparece ao final. A etapa prática tem rubrica própria e exige conferência do professor; a nota objetiva não certifica sozinha o domínio da unidade.",
+  "questoes": [
+    "mat.ef06.fluxogramas_e_algoritmos.prova.01",
+    "mat.ef06.fluxogramas_e_algoritmos.prova.02",
+    "mat.ef06.fluxogramas_e_algoritmos.prova.03",
+    "mat.ef06.fluxogramas_e_algoritmos.prova.04",
+    "mat.ef06.fluxogramas_e_algoritmos.prova.05"
+  ],
+  "criterios": "Parte objetiva: dois pontos por item correto. Etapa prática: observar a produção real com a rubrica; sem nota automática. O diagnóstico serve para orientar retomadas.",
+  "matriz": [
+    {
+      "bncc": "EF06MA04",
+      "questoes": [
+        "mat.ef06.fluxogramas_e_algoritmos.prova.01",
+        "mat.ef06.fluxogramas_e_algoritmos.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.fluxogramas_e_algoritmos.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA16",
+      "questoes": [],
+      "avaliacoesPraticas": []
+    },
+    {
+      "bncc": "EF06MA23",
+      "questoes": [
+        "mat.ef06.fluxogramas_e_algoritmos.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.fluxogramas_e_algoritmos.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA34",
+      "questoes": [
+        "mat.ef06.fluxogramas_e_algoritmos.prova.03",
+        "mat.ef06.fluxogramas_e_algoritmos.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.fluxogramas_e_algoritmos.pratica"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef06.fluxogramas_e_algoritmos.pratica",
+    "tipo": "discursiva",
+    "titulo": "Produzir e executar algoritmos e diagramas",
+    "enunciado": "Crie um fluxograma de paridade e execute-o para 0,17,30. Represente as estradas de dois sentidos A–B, B–C e A–D e descreva C→D. Escreva instruções para ir de (3,2) a (5,6) em uma malha com referência e escala.",
+    "gabarito": "Saídas: par, ímpar, par. Caminho C→B→A→D. Um deslocamento possível é duas unidades à direita e quatro para cima; aceitar outras sequências válidas que explicitem as etapas, os sentidos e as distâncias.",
+    "bncc": [
+      "EF06MA04",
+      "EF06MA23",
+      "EF06MA34"
+    ],
+    "rubrica": [
+      "Realizar a tarefa e apresentar registros verificáveis (texto, desenho, modelo, tabela, gráfico ou fluxograma).",
+      "Explicar os procedimentos, propriedades e unidades utilizadas.",
+      "Conferir o resultado e discutir limites, aproximações ou ambiguidades quando aplicáveis."
+    ],
+    "correcao": "Docente; a interface oferece autoavaliação orientada, não uma nota automática para essa etapa."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        307
+      ],
+      "paginasImpressas": "305",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    }
+  ]
+}

@@ -4,34 +4,119 @@
   "nivel": "EF06",
   "ordem": 7,
   "unidade": "Operações com números naturais",
-  "titulo": "Adição e Subtração - Operação Inversa",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Adição e Subtração: Operação Inversa",
+  "bncc": [
+    "EF06MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Determinar parcelas ou valores iniciais desconhecidos usando operações inversas.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Determinar parcelas ou valores iniciais desconhecidos usando operações inversas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Adição e Subtração — Operação Inversa</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: relacionar adição e subtração como operações inversas para checar resultados e resolver problemas com incógnitas simples.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Se a + b = c então c − b = a. Usamos essa propriedade para verificar contas e encontrar valores desconhecidos.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade 4 — Complete</label>\n  <p>Complete:  ? + 478 = 1.003</p>\n  <input id=\"atividade-inversa-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se 260 + x = 725, então x = ?</p>\n  <div>\n    <button class=\"btn\">435</button>\n    <button class=\"btn\">465</button>\n    <button class=\"btn\">455</button>\n  </div>\n</div>\n    "
+        "html": "<h2>Adição e Subtração: Operação Inversa</h2><h3>O que vamos aprender</h3><p>Determinar parcelas ou valores iniciais desconhecidos usando operações inversas.</p><h3>Ideias e relações</h3><p>Adição e subtração permitem desfazer uma transformação. Se a + b = c, então c − b = a e c − a = b. Essa relação ajuda a descobrir dados desconhecidos e a conferir resultados. Não precisamos decorar uma posição para o espaço vazio: precisamos interpretar qual quantidade falta. Em uma história com aumentos e retiradas, represente a situação em etapas e faça o caminho inverso para reconstruir o início.</p><h3>Exemplo resolvido</h3><p>Uma caixa tinha certa quantidade de lápis. Depois de receber 27, ficou com 81. Para desfazer o acréscimo, calculamos 81 − 27 = 54. Conferindo: 54 + 27 = 81.</p><h3>Atenção ao raciocínio</h3><p>Em 81 − □ = 27, o desconhecido é 54; em □ − 27 = 81, o desconhecido é 108. A posição muda a relação.</p><h3>Investigue, construa ou elabore</h3><p>Resolva e explique: 46 + □ = 100 e □ − 18 = 35. Confira as duas sentenças substituindo o espaço vazio.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "operacoes_inversas",
+      "adicao"
+    ],
+    "errosComuns": [
+      "Em 81 − □ = 27, o desconhecido é 54; em □ − 27 = 81, o desconhecido é 108. A posição muda a relação."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "adicao_e_subtracao_operacao_inversa.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em □ + 27 = 81, qual é o valor de □?",
+      "alternativas": [
+        "27",
+        "54",
+        "81",
+        "108"
+      ],
+      "correta": 1,
+      "explicacao": "A parcela que falta é 81 − 27 = 54."
+    },
+    {
+      "id": "adicao_e_subtracao_operacao_inversa.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva e explique: 46 + □ = 100 e □ − 18 = 35. Confira as duas sentenças substituindo o espaço vazio.",
+      "gabarito": "No primeiro caso, □ = 54; 46 + 54 = 100. No segundo, □ = 53; 53 − 18 = 35. As operações inversas respeitam a posição do desconhecido.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "No primeiro caso, □ = 54; 46 + 54 = 100. No segundo, □ = 53; 53 − 18 = 35. As operações inversas respeitam a posição do desconhecido.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "operacoes_inversas",
+    "adicao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        32
+      ],
+      "paginasImpressas": "32, 35",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.operacoes_com_numeros_naturais.subtracao_de_numeros_naturais"
+  ],
+  "proximosPassos": [
+    "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_de_numeros_naturais"
+  ]
 }

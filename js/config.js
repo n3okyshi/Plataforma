@@ -35,7 +35,7 @@ if (typeof firebase !== 'undefined') {
 // 3. CONFIGURAÇÕES GERAIS
 const APP_CONFIG = {
     appName: "mathlingo",
-    version: "0.0.1 (Modular)",
+    version: "0.0.4 (Matemática EF06)",
     defaultSubject: "Educacao",
     xpPerLesson: 50,
     xpPerQuestion: 15

@@ -2,36 +2,118 @@
   "id": "mat.ef06.solidos_geometricos.solidos_geometricos",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 18,
+  "ordem": 47,
   "unidade": "Sólidos geométricos",
-  "titulo": "Sólidos geométricos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Sólidos Geométricos",
+  "bncc": [
+    "EF06MA17"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Reconhecer elementos de poliedros e distinguir representações planas de objetos espaciais.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Reconhecer elementos de poliedros e distinguir representações planas de objetos espaciais.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sólidos Geométricos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Classificação geral e diferenciação dos sólidos em dois grandes grupos.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 Diferenciação:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Poliedros:</strong> Apenas faces planas.</li>\n                <li><strong>Corpos Redondos:</strong> Têm ao menos uma superfície curva e rolam (ex: esfera, cilindro).</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Sólidos Geométricos</h2><h3>O que vamos aprender</h3><p>Reconhecer elementos de poliedros e distinguir representações planas de objetos espaciais.</p><h3>Ideias e relações</h3><p>Sólidos geométricos são modelos de objetos que ocupam espaço. Poliedros possuem faces poligonais planas; as arestas são encontros de faces, e os vértices são encontros de arestas. Um desenho mostra apenas uma representação do sólido: alguns elementos podem estar ocultos e continuar existindo. Ao contar elementos de um prisma ou de uma pirâmide, use um modelo concreto, uma planificação ou um desenho com indicação das arestas ocultas. Não confunda a face inteira com uma aresta de seu contorno.</p><svg viewBox=\"0 0 440 240\" role=\"img\" aria-label=\"Prisma de base quadrangular: oito vértices, doze arestas e seis faces.\" style=\"max-width:100%;color:inherit\"><title>Prisma de base quadrangular: oito vértices, doze arestas e seis faces.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M100 90H260V200H100ZM100 90 165 40H325V150L260 200M260 90 325 40\"/><path d=\"M100 200 165 150H325M165 40V150\" stroke-dasharray=\"5 5\"/></g><g fill=\"currentColor\" font-size=\"15\"><text x=\"85\" y=\"225\">As linhas tracejadas indicam arestas ocultas.</text></g></svg><h3>Exemplo resolvido</h3><p>Uma caixa em forma de prisma de base retangular tem 6 faces, 12 arestas e 8 vértices. Ao observar apenas a frente, não vemos todos esses elementos.</p><h3>Atenção ao raciocínio</h3><p>Contar apenas o que aparece no contorno externo do desenho costuma omitir arestas e vértices ocultos.</p><h3>Investigue, construa ou elabore</h3><p>Use uma caixa ou construa um modelo com palitos. Marque faces, arestas e vértices com cores diferentes e registre uma estratégia para contar sem repetir.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "figuras_espaciais",
+      "solidos"
+    ],
+    "errosComuns": [
+      "Contar apenas o que aparece no contorno externo do desenho costuma omitir arestas e vértices ocultos."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "solidos_geometricos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma caixa em forma de prisma retangular tem quantos vértices?",
+      "alternativas": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correta": 2,
+      "explicacao": "Há quatro vértices em uma base e quatro na outra: oito no total."
+    },
+    {
+      "id": "solidos_geometricos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Use uma caixa ou construa um modelo com palitos. Marque faces, arestas e vértices com cores diferentes e registre uma estratégia para contar sem repetir.",
+      "gabarito": "No prisma retangular, registrar 6 faces, 12 arestas e 8 vértices. A estratégia deve incluir os elementos ocultos e evitar dupla contagem.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "No prisma retangular, registrar 6 faces, 12 arestas e 8 vértices. A estratégia deve incluir os elementos ocultos e evitar dupla contagem.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_espaciais",
+    "solidos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+      "paginasPdf": [
+        66,
+        67
+      ],
+      "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef06.solidos_geometricos.prismas_e_piramides"
+  ]
 }

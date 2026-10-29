@@ -1,4 +1,4 @@
-/** Currículo por códigos de nível; aulas em planejamento ficam em data/componentes. */
+/** Currículo de Matemática por códigos de nível e IDs estáveis. */
 registrarCurriculo("Matemática", {
   "EF01": {
     "Vocabulário Fundamental": [
@@ -290,235 +290,364 @@ registrarCurriculo("Matemática", {
     "Ponto de Partida": [
       {
         "id": "mat.ef06.ponto_de_partida.diagnostico_e_retomada",
-        "titulo": "Diagnóstico e Retomada"
+        "titulo": "Diagnóstico e Retomada",
+        "complementar": false
       }
     ],
     "Números naturais e sistemas de numeração": [
       {
         "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia",
-        "titulo": "Números naturais: um pouco de História"
+        "titulo": "Números naturais: um pouco de história",
+        "complementar": false
       },
       {
         "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais",
-        "titulo": "Onde usamos os números naturais"
+        "titulo": "Onde usamos os números naturais",
+        "complementar": false
       },
       {
         "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
-        "titulo": "Números naturais e Sistema Decimal"
+        "titulo": "Números naturais e sistema decimal",
+        "complementar": false
       }
     ],
     "Operações com números naturais": [
       {
         "id": "mat.ef06.operacoes_com_numeros_naturais.adicao_de_numeros_naturais",
-        "titulo": "Adição de Números Naturais"
+        "titulo": "Adição de Números Naturais",
+        "complementar": false
       },
       {
         "id": "mat.ef06.operacoes_com_numeros_naturais.subtracao_de_numeros_naturais",
-        "titulo": "Subtração de Números Naturais"
+        "titulo": "Subtração de Números Naturais",
+        "complementar": false
       },
       {
         "id": "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa",
-        "titulo": "Adição e Subtração - Operação Inversa"
+        "titulo": "Adição e Subtração: Operação Inversa",
+        "complementar": false
       },
       {
         "id": "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_de_numeros_naturais",
-        "titulo": "Multiplicação de Números Naturais"
+        "titulo": "Multiplicação de Números Naturais",
+        "complementar": false
       },
       {
         "id": "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais",
-        "titulo": "Divisão de Números Naturais"
+        "titulo": "Divisão de Números Naturais",
+        "complementar": false
       },
       {
         "id": "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_e_divisao_operacao_inversa",
-        "titulo": "Multiplicação e Divisão - Operação Inversa"
-      },
-      {
-        "id": "mat.ef06.operacoes_com_numeros_naturais.calculo_mental",
-        "titulo": "Calculo Mental"
-      },
-      {
-        "id": "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado",
-        "titulo": "Arredondamento e Resultado Aproximado"
-      },
-      {
-        "id": "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades",
-        "titulo": "Igualdade e Propriedades das Desigualdades"
-      },
-      {
-        "id": "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes",
-        "titulo": "Resolução de Problemas Envolvendo as 4 Operações"
+        "titulo": "Multiplicação e Divisão: Operação Inversa",
+        "complementar": false
       },
       {
         "id": "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais",
-        "titulo": "Potenciação de Números Naturais"
+        "titulo": "Potenciação de Números Naturais",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.operacoes_com_numeros_naturais.calculo_mental",
+        "titulo": "Cálculo Mental",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado",
+        "titulo": "Arredondamento e Resultado Aproximado",
+        "complementar": false
       },
       {
         "id": "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao",
-        "titulo": "Expressões Numéricas envolvendo as 4 operações e Potenciação"
+        "titulo": "Expressões Numéricas com as Quatro Operações e Potenciação",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes",
+        "titulo": "Resolução de Problemas com as Quatro Operações",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades",
+        "titulo": "Igualdade e Propriedades das Desigualdades",
+        "complementar": false
       },
       {
         "id": "mat.ef06.operacoes_com_numeros_naturais.a_ideia_de_funcao",
-        "titulo": "A Ideia de Função"
-      }
-    ],
-    "Sólidos geométricos": [
-      {
-        "id": "mat.ef06.solidos_geometricos.solidos_geometricos",
-        "titulo": "Sólidos geométricos"
-      },
-      {
-        "id": "mat.ef06.solidos_geometricos.prismas_e_piramides",
-        "titulo": "Prismas e Pirâmides"
-      },
-      {
-        "id": "mat.ef06.solidos_geometricos.principais_corpos_redondos",
-        "titulo": "Principais Corpos Redondos"
+        "titulo": "A Ideia de Função",
+        "complementar": true
       }
     ],
     "Múltiplos e divisores": [
       {
+        "id": "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
+        "titulo": "Múltiplo e Divisor de um Número Natural",
+        "complementar": false
+      },
+      {
         "id": "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
-        "titulo": "Múltiplos de um número natural"
+        "titulo": "Múltiplos de um Número Natural",
+        "complementar": false
       },
       {
         "id": "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
-        "titulo": "Divisores de um número Natural"
-      },
-      {
-        "id": "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
-        "titulo": "Múltiplo e Divisor de um Número Natural"
+        "titulo": "Divisores de um Número Natural",
+        "complementar": false
       },
       {
         "id": "mat.ef06.multiplos_e_divisores.numero_primo",
-        "titulo": "Número Primo"
+        "titulo": "Números Primos e Compostos",
+        "complementar": false
       }
     ],
-    "Ângulos e polígonos": [
+    "Decimais": [
       {
-        "id": "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano",
-        "titulo": "Ponto, Reta e Plano"
+        "id": "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
+        "titulo": "Decimais e Sistema de Numeração Decimal",
+        "complementar": false
       },
       {
-        "id": "mat.ef06.angulos_e_poligonos.angulos",
-        "titulo": "Ângulos"
+        "id": "mat.ef06.decimais.decimo_centesimo_e_milesimo",
+        "titulo": "Décimo, Centésimo e Milésimo",
+        "complementar": false
       },
       {
-        "id": "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes",
-        "titulo": "Retas Paralelas e Retas Concorrentes"
+        "id": "mat.ef06.decimais.comparacao_entre_decimais",
+        "titulo": "Comparação entre Decimais",
+        "complementar": false
       },
       {
-        "id": "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno",
-        "titulo": "Região Plana e Contorno"
+        "id": "mat.ef06.decimais.operacoes_com_decimais",
+        "titulo": "Operações com Decimais",
+        "complementar": false
       },
       {
-        "id": "mat.ef06.angulos_e_poligonos.poligonos",
-        "titulo": "Polígonos"
+        "id": "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes",
+        "titulo": "Outras Situações com Decimais e Operações",
+        "complementar": false
       },
       {
-        "id": "mat.ef06.angulos_e_poligonos.plano_cartesiano",
-        "titulo": "Plano Cartesiano"
-      },
-      {
-        "id": "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas",
-        "titulo": "Ampliação e Redução de Figuras Planas"
+        "id": "mat.ef06.decimais.porcentagem_na_forma_decimal",
+        "titulo": "Porcentagem na Forma Decimal",
+        "complementar": false
       }
     ],
     "Frações e porcentagem": [
       {
         "id": "mat.ef06.fracoes_e_porcentagem.ideias_associadas_a_fracao",
-        "titulo": "Ideias associadas à fração"
+        "titulo": "Ideias Associadas à Fração",
+        "complementar": false
       },
       {
         "id": "mat.ef06.fracoes_e_porcentagem.fracoes_equivalentes",
-        "titulo": "Frações Equivalentes"
+        "titulo": "Frações Equivalentes",
+        "complementar": false
       },
       {
         "id": "mat.ef06.fracoes_e_porcentagem.comparando_fracoes",
-        "titulo": "Comparando Frações"
+        "titulo": "Comparando Frações",
+        "complementar": false
       },
       {
         "id": "mat.ef06.fracoes_e_porcentagem.adicao_e_subtracao_de_fracoes",
-        "titulo": "Adição e Subtração de Frações"
+        "titulo": "Adição e Subtração de Frações",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.fracoes_e_porcentagem.fracao_de_uma_quantidade",
+        "titulo": "Fração de uma Quantidade",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal",
+        "titulo": "Formas Fracionária e Decimal",
+        "complementar": false
       },
       {
         "id": "mat.ef06.fracoes_e_porcentagem.fracao_em_ampliacao_e_reducao_de_figuras_planas",
-        "titulo": "Fração em Ampliação e Redução de Figuras Planas"
+        "titulo": "Fração em Ampliação e Redução de Figuras",
+        "complementar": false
       },
       {
         "id": "mat.ef06.fracoes_e_porcentagem.porcentagem",
-        "titulo": "Porcentagem"
+        "titulo": "Porcentagem",
+        "complementar": false
       }
     ],
-    "Decimais": [
+    "Ângulos e polígonos": [
       {
-        "id": "mat.ef06.decimais.decimo_centesimo_e_milesimo",
-        "titulo": "Décimo, Centésimo e Milésimo"
+        "id": "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano",
+        "titulo": "Ponto, Reta e Plano",
+        "complementar": false
       },
       {
-        "id": "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
-        "titulo": "Decimais e Sistema de Numeração Decimal"
+        "id": "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes",
+        "titulo": "Retas Paralelas e Retas Concorrentes",
+        "complementar": false
       },
       {
-        "id": "mat.ef06.decimais.comparacao_entre_decimais",
-        "titulo": "Comparação entre Decimais"
+        "id": "mat.ef06.angulos_e_poligonos.angulos",
+        "titulo": "Ângulos",
+        "complementar": false
       },
       {
-        "id": "mat.ef06.decimais.operacoes_com_decimais",
-        "titulo": "Operações com decimais"
+        "id": "mat.ef06.angulos_e_poligonos.poligonos",
+        "titulo": "Polígonos",
+        "complementar": false
       },
       {
-        "id": "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes",
-        "titulo": "Outras Situações Envolvendo os Decimais e as Operações"
+        "id": "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno",
+        "titulo": "Região Plana e Contorno",
+        "complementar": false
       },
       {
-        "id": "mat.ef06.decimais.porcentagem_na_forma_decimal",
-        "titulo": "Porcentagem na Forma Decimal"
+        "id": "mat.ef06.angulos_e_poligonos.plano_cartesiano",
+        "titulo": "Plano Cartesiano",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas",
+        "titulo": "Ampliação e Redução de Figuras Planas",
+        "complementar": false
+      }
+    ],
+    "Figuras Planas e Construções": [
+      {
+        "id": "mat.ef06.figuras_planas_e_construcoes.triangulos_e_sua_classificacao",
+        "titulo": "Triângulos e sua Classificação",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes",
+        "titulo": "Quadriláteros e suas Classes",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.figuras_planas_e_construcoes.angulos_com_transferidor",
+        "titulo": "Medida de Ângulos com Transferidor",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.figuras_planas_e_construcoes.angulo_de_visao_e_contextos",
+        "titulo": "Ângulos em Situações Reais",
+        "complementar": false
+      }
+    ],
+    "Sólidos geométricos": [
+      {
+        "id": "mat.ef06.solidos_geometricos.solidos_geometricos",
+        "titulo": "Sólidos Geométricos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.solidos_geometricos.prismas_e_piramides",
+        "titulo": "Prismas e Pirâmides",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.solidos_geometricos.principais_corpos_redondos",
+        "titulo": "Principais Corpos Redondos",
+        "complementar": true
       }
     ],
     "Grandezas geométricas": [
       {
         "id": "mat.ef06.grandezas_geometricas.grandeza_comprimento",
-        "titulo": "Grandeza Comprimento"
+        "titulo": "Grandeza Comprimento",
+        "complementar": false
       },
       {
         "id": "mat.ef06.grandezas_geometricas.grandeza_perimetro",
-        "titulo": "Grandeza Perímetro"
+        "titulo": "Grandeza Perímetro",
+        "complementar": false
       },
       {
         "id": "mat.ef06.grandezas_geometricas.grandeza_area",
-        "titulo": "Grandeza Área"
+        "titulo": "Grandeza Área",
+        "complementar": false
       },
       {
         "id": "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas",
-        "titulo": "As Grandeza Perímetro e Área em Vistas Aérea e Plantas Baixas"
+        "titulo": "Perímetro e Área em Vistas Aéreas e Plantas Baixas",
+        "complementar": false
       }
     ],
     "Outras grandezas e medidas": [
       {
         "id": "mat.ef06.outras_grandezas_e_medidas.grandeza_massa",
-        "titulo": "Grandeza Massa"
-      },
-      {
-        "id": "mat.ef06.outras_grandezas_e_medidas.grandeza_volume",
-        "titulo": "Grandeza Volume"
+        "titulo": "Grandeza Massa",
+        "complementar": false
       },
       {
         "id": "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade",
-        "titulo": "Grandeza Capacidade"
+        "titulo": "Grandeza Capacidade",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.outras_grandezas_e_medidas.grandeza_volume",
+        "titulo": "Grandeza Volume",
+        "complementar": false
       },
       {
         "id": "mat.ef06.outras_grandezas_e_medidas.mais_grandezas",
-        "titulo": "Mais Grandezas"
+        "titulo": "Mais Grandezas: Tempo e Temperatura",
+        "complementar": false
+      }
+    ],
+    "Proporcionalidade e Partilha": [
+      {
+        "id": "mat.ef06.proporcionalidade_e_partilha.partilha_em_duas_partes_desiguais",
+        "titulo": "Partilha em Duas Partes Desiguais",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.proporcionalidade_e_partilha.razao_e_proporcao_no_cotidiano",
+        "titulo": "Razão e Proporção no Cotidiano",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.proporcionalidade_e_partilha.problemas_de_partilha_e_razao",
+        "titulo": "Problemas de Partilha e Razão",
+        "complementar": false
       }
     ],
     "Probabilidade e pesquisa estatística": [
       {
-        "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade",
-        "titulo": "Probabilidade"
+        "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica",
+        "titulo": "Pesquisa Estatística",
+        "complementar": false
       },
       {
-        "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica",
-        "titulo": "Pesquisa estatística"
+        "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade",
+        "titulo": "Probabilidade",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos",
+        "titulo": "Tipos de Gráficos e seus Elementos",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano",
+        "titulo": "Interpretação de Dados do Cotidiano",
+        "complementar": false
+      }
+    ],
+    "Fluxogramas e Algoritmos": [
+      {
+        "id": "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma",
+        "titulo": "Paridade e Fluxograma",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano",
+        "titulo": "Fluxogramas do Cotidiano",
+        "complementar": false
+      },
+      {
+        "id": "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento",
+        "titulo": "Algoritmo de Deslocamento no Plano",
+        "complementar": false
       }
     ]
   },

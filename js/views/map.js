@@ -35,6 +35,7 @@ views.extend({
             const licoes = unidades[unidadeNome];
             if (Array.isArray(licoes)) {
                 for (const licao of licoes) {
+                    if (licao.complementar) continue;
                     totalLessons++;
                     if (app.isLessonCompleted && app.isLessonCompleted(licao.id)) {
                         completedLessons++;
@@ -75,7 +76,10 @@ views.extend({
             const safeUnidade = views.escapeHTML(unidadeNome);
 
             const notaProva = app.getNota ? app.getNota(unidadeNome, 'prova') : null;
-            const textoProva = notaProva !== null ? `Nota: ${notaProva.toFixed(1)}` : "Prova";
+            const temEtapaPratica = !!(window.Registry && Registry.getProva(nivel, disciplina, unidadeNome)?.avaliacaoPratica);
+            const textoProva = notaProva !== null
+                ? `${temEtapaPratica ? 'Objetiva' : 'Nota'}: ${notaProva.toFixed(1)}`
+                : (temEtapaPratica ? 'Prova + prática' : 'Prova');
             const corProva = notaProva >= 7 ? "bg-green-100 text-green-700" : "bg-red-100 text-red-700";
 
             const botoesAcao = `
@@ -141,6 +145,7 @@ views.extend({
                         : config.theme.border + " " + config.theme.text
                     }">
                                 <h4 class="font-black text-sm leading-tight drop-shadow-sm">${safeLicao}</h4>
+                                ${licao.complementar ? '<span class="text-xs mt-1">Complementar · opcional</span>' : ''}
                             </div>
 
                             <button ${clickAction} class="w-20 h-20 rounded-full border-b-[6px] flex items-center justify-center transition-all active:scale-90 active:border-b-0 relative z-30 shadow-xl ${scaleAnim} ${btnStyle.bg
@@ -153,7 +158,7 @@ views.extend({
                     </div>
                 `;
 
-                if (!isCompleted) previousLessonCompleted = false;
+                if (!isCompleted && !licao.complementar) previousLessonCompleted = false;
                 globalIndex++;
             });
         }

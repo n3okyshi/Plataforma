@@ -1,0 +1,124 @@
+{
+  "id": "mat.ef06.proporcionalidade_e_partilha.razao_e_proporcao_no_cotidiano",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 59,
+  "unidade": "Proporcionalidade e Partilha",
+  "titulo": "Razão e Proporção no Cotidiano",
+  "bncc": [
+    "EF06MA15"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Distinguir razão entre partes de razão entre uma parte e o todo.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Distinguir razão entre partes de razão entre uma parte e o todo.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Razão e Proporção no Cotidiano</h2><h3>O que vamos aprender</h3><p>Distinguir razão entre partes de razão entre uma parte e o todo.</p><h3>Ideias e relações</h3><p>Uma razão compara quantidades por divisão e deve indicar a ordem da comparação. Se uma coleção tem 12 peças azuis e 18 vermelhas, a razão azuis para vermelhas é 12/18 = 2/3. A razão azuis para o total é 12/30 = 2/5. São perguntas diferentes, embora usem os mesmos dados. Ao representar a composição por grupos de referência, uma razão 2:3 entre duas partes forma um total de cinco partes iguais. Preserve as unidades e o significado de cada termo.</p><h3>Exemplo resolvido</h3><p>Em uma mistura com razão suco:água igual a 2:3, cada grupo de referência tem cinco partes. Em 25 copos da mistura, são 10 copos de suco e 15 de água.</p><h3>Atenção ao raciocínio</h3><p>A razão entre duas partes não tem o total como denominador. Em 2:3, a primeira parte corresponde a 2/5 do todo, não a 2/3 do todo.</p><h3>Investigue, construa ou elabore</h3><p>Reparta 40 fichas na razão 3:5 entre Ana e Bruno. Determine também a fração do total recebida por Ana.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "razao",
+      "proporcao"
+    ],
+    "errosComuns": [
+      "A razão entre duas partes não tem o total como denominador. Em 2:3, a primeira parte corresponde a 2/5 do todo, não a 2/3 do todo."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "razao_e_proporcao_no_cotidiano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma coleção tem 12 peças azuis e 18 vermelhas. A razão azuis:total é:",
+      "alternativas": [
+        "2/3",
+        "3/2",
+        "2/5",
+        "3/5"
+      ],
+      "correta": 2,
+      "explicacao": "O total é 30; 12/30 = 2/5."
+    },
+    {
+      "id": "razao_e_proporcao_no_cotidiano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Reparta 40 fichas na razão 3:5 entre Ana e Bruno. Determine também a fração do total recebida por Ana.",
+      "gabarito": "São oito partes de referência; cada uma vale 5. Ana recebe 15, Bruno recebe 25 e a fração de Ana é 15/40 = 3/8.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "São oito partes de referência; cada uma vale 5. Ana recebe 15, Bruno recebe 25 e a fração de Ana é 15/40 = 3/8.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "razao",
+    "proporcao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        171,
+        172,
+        183
+      ],
+      "paginasImpressas": "173, 174, 175, 186",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.proporcionalidade_e_partilha.partilha_em_duas_partes_desiguais"
+  ],
+  "proximosPassos": [
+    "mat.ef06.proporcionalidade_e_partilha.problemas_de_partilha_e_razao"
+  ]
+}

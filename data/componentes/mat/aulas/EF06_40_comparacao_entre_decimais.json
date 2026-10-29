@@ -2,36 +2,122 @@
   "id": "mat.ef06.decimais.comparacao_entre_decimais",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 40,
+  "ordem": 24,
   "unidade": "Decimais",
   "titulo": "Comparação entre Decimais",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA01"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Comparar e ordenar decimais e localizar valores em uma reta com escala explícita.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Comparar e ordenar decimais e localizar valores em uma reta com escala explícita.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Comparando Decimais</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Técnicas para comparar números racionais na forma decimal.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">👀 Onde olhar:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Analisamos primeiro a <strong>parte inteira</strong>. Se for igual, olhamos as casas decimais sucessivamente (décimos, depois centésimos...).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Comparação entre Decimais</h2><h3>O que vamos aprender</h3><p>Comparar e ordenar decimais e localizar valores em uma reta com escala explícita.</p><h3>Ideias e relações</h3><p>Para comparar decimais, compare primeiro as partes inteiras. Se forem iguais, compare décimos, depois centésimos e assim sucessivamente. Zeros finais podem completar ordens sem alterar o valor. Assim, 0,8 = 0,80 e 0,80 &gt; 0,75. Em uma reta, intervalos iguais representam variações iguais; entre 1,2 e 1,3, dez subdivisões iguais têm tamanho 0,01. A leitura da escala é indispensável: a mesma distância desenhada pode representar valores diferentes em retas distintas.</p><h3>Exemplo resolvido</h3><p>Para ordenar 2,07, 2,7 e 2,17, escrevemos 2,07; 2,70; 2,17. Comparando os décimos e depois os centésimos: 2,07 &lt; 2,17 &lt; 2,70.</p><h3>Atenção ao raciocínio</h3><p>0,75 não é maior que 0,8 só porque 75 é maior que 8: as ordens precisam ser comparadas.</p><h3>Investigue, construa ou elabore</h3><p>Desenhe uma reta de 0 a 1 com dez intervalos iguais. Marque 0,2 e 0,7; depois explique onde ficaria 0,25.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "decimais",
+      "comparacao"
+    ],
+    "errosComuns": [
+      "0,75 não é maior que 0,8 só porque 75 é maior que 8: as ordens precisam ser comparadas."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "comparacao_entre_decimais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual sequência está em ordem crescente?",
+      "alternativas": [
+        "0,8; 0,75; 0,9",
+        "0,75; 0,8; 0,9",
+        "0,9; 0,8; 0,75",
+        "0,75; 0,9; 0,8"
+      ],
+      "correta": 1,
+      "explicacao": "Com duas casas: 0,75 < 0,80 < 0,90."
+    },
+    {
+      "id": "comparacao_entre_decimais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe uma reta de 0 a 1 com dez intervalos iguais. Marque 0,2 e 0,7; depois explique onde ficaria 0,25.",
+      "gabarito": "0,2 e 0,7 ficam nas marcas de dois e sete décimos. 0,25 fica no meio entre 0,2 e 0,3, pois equivale a 25 centésimos.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "0,2 e 0,7 ficam nas marcas de dois e sete décimos. 0,25 fica no meio entre 0,2 e 0,3, pois equivale a 25 centésimos.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "decimais",
+    "comparacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        96,
+        97
+      ],
+      "paginasImpressas": "98, 99, 100",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.decimais.decimo_centesimo_e_milesimo"
+  ],
+  "proximosPassos": [
+    "mat.ef06.decimais.operacoes_com_decimais"
+  ]
 }

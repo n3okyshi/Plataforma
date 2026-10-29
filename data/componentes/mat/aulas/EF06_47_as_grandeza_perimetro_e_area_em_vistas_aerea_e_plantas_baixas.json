@@ -2,36 +2,122 @@
   "id": "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 47,
+  "ordem": 53,
   "unidade": "Grandezas geométricas",
-  "titulo": "As Grandeza Perímetro e Área em Vistas Aérea e Plantas Baixas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Perímetro e Área em Vistas Aéreas e Plantas Baixas",
+  "bncc": [
+    "EF06MA28",
+    "EF06MA24"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Interpretar e produzir plantas baixas distinguindo medidas de contorno e superfície.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Interpretar e produzir plantas baixas distinguindo medidas de contorno e superfície.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Plantas Baixas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aplicação prática dos conceitos de área e perímetro na interpretação de plantas de casas e mapas.\n        </p>\n        \n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🏠 Não confunda:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Diferenciação clara entre a medida da borda (perímetro - rodapés) e do preenchimento (área - piso).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Perímetro e Área em Vistas Aéreas e Plantas Baixas</h2><h3>O que vamos aprender</h3><p>Interpretar e produzir plantas baixas distinguindo medidas de contorno e superfície.</p><h3>Ideias e relações</h3><p>Uma planta baixa representa uma organização espacial vista de cima por meio de contornos, medidas e símbolos. Uma vista aérea pode mostrar a disposição externa de construções e espaços. Para interpretar, identifique o que cada símbolo representa, a orientação e a relação entre o desenho e as medidas reais. Na planta de um cômodo, o contorno ajuda a calcular rodapé, enquanto o recobrimento da região ajuda a estimar piso. Portas, móveis e paredes precisam ter posições coerentes para que a representação possa orientar uma pessoa.</p><h3>Exemplo resolvido</h3><p>Em uma planta na qual cada quadradinho representa 1 m por 1 m, um cômodo de quatro colunas e três fileiras mede 4 m por 3 m, ocupa 12 m² e tem contorno de 14 m antes de descontar aberturas.</p><h3>Atenção ao raciocínio</h3><p>Não use diretamente centímetros do desenho como metros reais sem verificar a relação informada.</p><h3>Investigue, construa ou elabore</h3><p>Desenhe uma planta simples de dois cômodos, com cada quadradinho representando 1 m por 1 m. Inclua porta, legenda e medidas; explique como chegar de um cômodo ao outro. Depois desenhe uma vista aérea esquemática do terreno com casa e quintal e descreva suas posições relativas.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "plantas",
+      "perimetro",
+      "area"
+    ],
+    "errosComuns": [
+      "Não use diretamente centímetros do desenho como metros reais sem verificar a relação informada."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na planta, cada quadradinho representa 1 m². Um cômodo de 4 colunas e 3 fileiras ocupa:",
+      "alternativas": [
+        "7 m²",
+        "12 m²",
+        "14 m²",
+        "24 m²"
+      ],
+      "correta": 1,
+      "explicacao": "Contando as três fileiras de quatro quadradinhos, obtemos 12 m²."
+    },
+    {
+      "id": "as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe uma planta simples de dois cômodos, com cada quadradinho representando 1 m por 1 m. Inclua porta, legenda e medidas; explique como chegar de um cômodo ao outro. Depois desenhe uma vista aérea esquemática do terreno com casa e quintal e descreva suas posições relativas.",
+      "gabarito": "A planta deve ter medidas coerentes, passagem possível entre cômodos, legenda para símbolos e descrição compatível com o desenho. A vista aérea deve representar a disposição da casa e do quintal observados de cima. Diferenciar área de piso e comprimento de contorno.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "A planta deve ter medidas coerentes, passagem possível entre cômodos, legenda para símbolos e descrição compatível com o desenho. A vista aérea deve representar a disposição da casa e do quintal observados de cima. Diferenciar área de piso e comprimento de contorno.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "plantas",
+    "perimetro",
+    "area"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        112
+      ],
+      "paginasImpressas": "112, 115",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.grandezas_geometricas.grandeza_area"
+  ],
+  "proximosPassos": []
 }

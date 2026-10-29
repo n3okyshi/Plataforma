@@ -5,33 +5,116 @@
   "ordem": 5,
   "unidade": "Operações com números naturais",
   "titulo": "Adição de Números Naturais",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver problemas de juntar e acrescentar, justificando a decomposição das parcelas.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Resolver problemas de juntar e acrescentar, justificando a decomposição das parcelas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n<h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Adição de Números Naturais</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: executar adições por algoritmo escrito e por estimativa, relacionando com problemas do cotidiano.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Algoritmo: alinhe os algarismos pelas casas, some coluna a coluna e transporte quando necessário.</p>\n<div class=\"mt-4 p-4 bg-white dark:bg-gray-800 rounded shadow\">\n  <strong>Exemplo:</strong>\n  <p>  578\n  <br>+  246\n  <br>=  824</p>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade 2 — Calcule</label>\n  <p>Calcule 4.763 + 2.589 = ?</p>\n  <input id=\"atividade-adicao-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se você tem 3.200 e ganha 1.150, quanto terá?</p>\n  <div>\n    <button class=\"btn\">4.250</button>\n    <button class=\"btn\">4.350</button>\n    <button class=\"btn\">4.300</button>\n  </div>\n</div>\n    "
+        "html": "<h2>Adição de Números Naturais</h2><h3>O que vamos aprender</h3><p>Resolver problemas de juntar e acrescentar, justificando a decomposição das parcelas.</p><h3>Ideias e relações</h3><p>A adição pode reunir quantidades ou indicar um acréscimo. As quantidades adicionadas são parcelas e o resultado é a soma. A troca da ordem das parcelas não altera a soma (comutatividade), e mudar o agrupamento de três parcelas também não altera o resultado (associatividade). Somar zero conserva o número. No algoritmo escrito, alinhe unidades com unidades e faça as trocas necessárias: dez unidades equivalem a uma dezena. A técnica só tem sentido quando cada troca mantém o valor da quantidade.</p><h3>Exemplo resolvido</h3><p>Uma escola tinha 248 folhas e recebeu 176. Somando por ordens: 200 + 100 = 300; 40 + 70 = 110; 8 + 6 = 14. Portanto, 248 + 176 = 424.</p><h3>Atenção ao raciocínio</h3><p>O “vai um” representa uma troca de dez unidades de uma ordem por uma unidade da ordem seguinte.</p><h3>Investigue, construa ou elabore</h3><p>Crie um problema cujo cálculo seja 125 + 75 + 40. Resolva de duas maneiras e explique qual agrupamento facilita o cálculo.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "adicao",
+      "algoritmo"
+    ],
+    "errosComuns": [
+      "O “vai um” representa uma troca de dez unidades de uma ordem por uma unidade da ordem seguinte."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "adicao_de_numeros_naturais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto é 248 + 176?",
+      "alternativas": [
+        "314",
+        "414",
+        "424",
+        "434"
+      ],
+      "correta": 2,
+      "explicacao": "300 + 110 + 14 = 424; as trocas preservam o valor total."
+    },
+    {
+      "id": "adicao_de_numeros_naturais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Crie um problema cujo cálculo seja 125 + 75 + 40. Resolva de duas maneiras e explique qual agrupamento facilita o cálculo.",
+      "gabarito": "O resultado é 240. Um agrupamento útil é (125 + 75) + 40 = 200 + 40. O contexto deve realmente reunir ou acrescentar as três quantidades.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "O resultado é 240. Um agrupamento útil é (125 + 75) + 40 = 200 + 40. O contexto deve realmente reunir ou acrescentar as três quantidades.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "adicao",
+    "algoritmo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        30
+      ],
+      "paginasImpressas": "32, 33",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef06.operacoes_com_numeros_naturais.subtracao_de_numeros_naturais"
+  ]
 }

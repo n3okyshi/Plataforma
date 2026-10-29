@@ -2,31 +2,67 @@
   "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 52,
+  "ordem": 62,
   "unidade": "Probabilidade e pesquisa estatística",
   "titulo": "Probabilidade",
   "bncc": [
     "EF06MA30"
   ],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Calcular probabilidades em resultados equiprováveis e compará-las com frequências experimentais.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Calcular probabilidades em resultados equiprováveis e compará-las com frequências experimentais.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "<h2>Probabilidade e experimentos</h2><p>Em um experimento com resultados igualmente possíveis, a probabilidade de um evento é a razão entre o número de resultados favoráveis e o total de resultados possíveis.</p><p>Ao lançar um dado equilibrado de seis faces, o evento “sair número par” tem três resultados favoráveis (2, 4, 6). Sua probabilidade é 3/6 = 1/2 = 0,5 = 50%.</p><p>Em experimentos repetidos, a frequência relativa observada pode ser diferente da probabilidade calculada. Registre os resultados de 30 lançamentos e compare a proporção de números pares com 50%. Um resultado observado não garante o próximo lançamento.</p>"
+        "html": "<h2>Probabilidade</h2><h3>O que vamos aprender</h3><p>Calcular probabilidades em resultados equiprováveis e compará-las com frequências experimentais.</p><h3>Ideias e relações</h3><p>Um experimento aleatório tem resultados que não podemos prever com certeza antes da realização. Quando os resultados possíveis são igualmente prováveis, calculamos a probabilidade de um evento pela razão entre resultados favoráveis e possíveis. A mesma chance pode ser escrita como fração, decimal e porcentagem. Em muitas repetições, podemos comparar o modelo com a frequência relativa observada: número de ocorrências dividido pelo número de tentativas. Frequência experimental e probabilidade teórica não precisam ser exatamente iguais em uma quantidade finita de tentativas.</p><h3>Exemplo resolvido</h3><p>Ao lançar um dado equilibrado de seis faces, sair número par tem três resultados favoráveis: 2, 4 e 6. A chance é 3/6 = 1/2 = 0,5 = 50%. Se em 20 lançamentos saíram 12 pares, a frequência observada foi 12/20 = 60%.</p><h3>Atenção ao raciocínio</h3><p>50% não garante exatamente um resultado favorável a cada duas tentativas. A aleatoriedade permite oscilações.</p><h3>Investigue, construa ou elabore</h3><p>Lance uma moeda equilibrada 30 vezes, registrando cada resultado. Compare a frequência de caras com a chance teórica e explique uma possível diferença.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "probabilidade",
+      "fracao"
+    ],
+    "errosComuns": [
+      "50% não garante exatamente um resultado favorável a cada duas tentativas. A aleatoriedade permite oscilações."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
+  "atividades": [
+    {
+      "id": "probabilidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Num dado equilibrado de seis faces, a probabilidade de sair número par é:",
+      "alternativas": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "correta": 2,
+      "explicacao": "Há três resultados pares entre seis igualmente possíveis: 3/6 = 1/2."
+    },
+    {
+      "id": "probabilidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Lance uma moeda equilibrada 30 vezes, registrando cada resultado. Compare a frequência de caras com a chance teórica e explique uma possível diferença.",
+      "gabarito": "A chance teórica de cara é 1/2 = 0,5 = 50%. A frequência observada é quantidade de caras/30 e depende dos resultados reais. Não inventar uma observação nem exigir exatamente quinze caras.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "A chance teórica de cara é 1/2 = 0,5 = 50%. A frequência observada é quantidade de caras/30 e depende dos resultados reais. Não inventar uma observação nem exigir exatamente quinze caras.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "probabilidade",
+    "fracao"
+  ],
   "fontes": [
     {
       "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
@@ -34,16 +70,44 @@
         307
       ],
       "paginasImpressas": "305",
-      "uso": "Delimitação da habilidade EF06MA30."
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
     }
   ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip",
-    "correcao": "Removida a abordagem inadequada de probabilidade condicional e distribuição binomial."
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica"
+  ],
+  "proximosPassos": [
+    "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos"
+  ]
 }

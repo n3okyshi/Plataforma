@@ -5,33 +5,118 @@
   "ordem": 6,
   "unidade": "Operações com números naturais",
   "titulo": "Subtração de Números Naturais",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Interpretar a subtração como retirada, comparação ou determinação de quanto falta.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Interpretar a subtração como retirada, comparação ou determinação de quanto falta.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Subtração de Números Naturais</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: executar subtrações com e sem empréstimo e interpretar subtração em problemas.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Algoritmo: alinhe, subtraia cada coluna e faça empréstimo quando a parte de cima for menor que a de baixo.</p>\n<div class=\"mt-4 p-4 bg-white dark:bg-gray-800 rounded shadow\">\n  <strong>Exemplo:</strong>\n  <p>  1.204\n  <br>-   789\n  <br>=   415</p>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade 3 — Calcule</label>\n  <p>Calcule 7.000 − 2.487 = ?</p>\n  <input id=\"atividade-subtracao-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se você tinha 5.000 e gastou 3.275, quanto restou?</p>\n  <div>\n    <button class=\"btn\">1.725</button>\n    <button class=\"btn\">1.725</button>\n    <button class=\"btn\">2.725</button>\n  </div>\n</div>\n    "
+        "html": "<h2>Subtração de Números Naturais</h2><h3>O que vamos aprender</h3><p>Interpretar a subtração como retirada, comparação ou determinação de quanto falta.</p><h3>Ideias e relações</h3><p>Subtrair não significa apenas retirar objetos. Também usamos a subtração para comparar quantidades e para descobrir quanto falta para atingir uma meta. Em a − b = c, a é o minuendo, b é o subtraendo e c é a diferença. Quando trabalhamos apenas com naturais, consideramos a maior ou igual a b. A ordem importa: 15 − 7 não é igual a 7 − 15. No algoritmo, podemos trocar uma centena por dez dezenas ou uma dezena por dez unidades sem alterar o número inicial.</p><h3>Exemplo resolvido</h3><p>Uma biblioteca possui 503 livros e emprestou 178. Decompondo o 503 em 4 centenas, 9 dezenas e 13 unidades, obtemos 13 − 8 = 5; 9 − 7 = 2; 4 − 1 = 3. Restam 325.</p><h3>Atenção ao raciocínio</h3><p>Trocar uma centena por dezenas não cria valor extra; é outra escrita da mesma quantidade.</p><h3>Investigue, construa ou elabore</h3><p>Escreva uma situação de comparação e outra de quanto falta que sejam resolvidas por 90 − 54. Resolva e confira.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "subtracao",
+      "algoritmo"
+    ],
+    "errosComuns": [
+      "Trocar uma centena por dezenas não cria valor extra; é outra escrita da mesma quantidade."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "subtracao_de_numeros_naturais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto é 503 − 178?",
+      "alternativas": [
+        "335",
+        "325",
+        "425",
+        "375"
+      ],
+      "correta": 1,
+      "explicacao": "A diferença é 325; confira: 325 + 178 = 503."
+    },
+    {
+      "id": "subtracao_de_numeros_naturais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Escreva uma situação de comparação e outra de quanto falta que sejam resolvidas por 90 − 54. Resolva e confira.",
+      "gabarito": "Ambas devem produzir 36. Exemplo: diferença entre duas pontuações e quantidade que falta para completar uma coleção de 90 itens. Conferência: 54 + 36 = 90.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Ambas devem produzir 36. Exemplo: diferença entre duas pontuações e quantidade que falta para completar uma coleção de 90 itens. Conferência: 54 + 36 = 90.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "subtracao",
+    "algoritmo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        32,
+        33
+      ],
+      "paginasImpressas": "35, 36",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.operacoes_com_numeros_naturais.adicao_de_numeros_naturais"
+  ],
+  "proximosPassos": [
+    "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa"
+  ]
 }

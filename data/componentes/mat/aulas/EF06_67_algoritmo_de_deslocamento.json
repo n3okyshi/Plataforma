@@ -1,0 +1,112 @@
+{
+  "id": "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 67,
+  "unidade": "Fluxogramas e Algoritmos",
+  "titulo": "Algoritmo de Deslocamento no Plano",
+  "bncc": [
+    "EF06MA23",
+    "EF06MA16"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Descrever e executar instruções de deslocamento segundo referências e distâncias.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Descrever e executar instruções de deslocamento segundo referências e distâncias.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Algoritmo de Deslocamento no Plano</h2><h3>O que vamos aprender</h3><p>Descrever e executar instruções de deslocamento segundo referências e distâncias.</p><h3>Ideias e relações</h3><p>Instruções claras precisam indicar o ponto inicial, a referência de direção e a distância de cada etapa. “Ande para a direita” pode ser ambíguo se não dissermos em relação a quem ou ao quê. Em uma malha, podemos adotar direita como aumento da coordenada x e cima como aumento da coordenada y. Descreva uma ação por passo e teste o algoritmo com um colega que não tenha visto o desenho. Se ele não alcançar o destino, identifique a instrução ambígua e revise-a.</p><h3>Exemplo resolvido</h3><p>Partindo de (1,1), avance quatro unidades para a direita e três para cima: primeiro chega a (5,1) e depois a (5,4). A ordem das instruções pode mudar o percurso, mesmo quando o destino final é o mesmo.</p><h3>Atenção ao raciocínio</h3><p>Confundir direita com cima troca as coordenadas. A escala deve ser informada para que “uma unidade” seja compreensível.</p><h3>Investigue, construa ou elabore</h3><p>Desenhe em malha um percurso entre dois pontos com pelo menos três etapas. Escreva um algoritmo com direções e distâncias e peça a um colega para executá-lo sem ver o trajeto original.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "algoritmo",
+      "deslocamento"
+    ],
+    "errosComuns": [
+      "Confundir direita com cima troca as coordenadas. A escala deve ser informada para que “uma unidade” seja compreensível."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "algoritmo_de_deslocamento.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Partindo de (1,1), quatro unidades à direita e três acima levam a:",
+      "alternativas": [
+        "(4,3)",
+        "(5,4)",
+        "(4,5)",
+        "(1,8)"
+      ],
+      "correta": 1,
+      "explicacao": "x aumenta de 1 para 5 e y aumenta de 1 para 4."
+    },
+    {
+      "id": "algoritmo_de_deslocamento.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe em malha um percurso entre dois pontos com pelo menos três etapas. Escreva um algoritmo com direções e distâncias e peça a um colega para executá-lo sem ver o trajeto original.",
+      "gabarito": "A execução deve partir da referência informada, respeitar a escala e alcançar o ponto final. Avaliar clareza de cada etapa, consistência das direções e revisão de ambiguidades.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "A execução deve partir da referência informada, respeitar a escala e alcançar o ponto final. Avaliar clareza de cada etapa, consistência das direções e revisão de ambiguidades.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "algoritmo",
+    "deslocamento"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano"
+  ],
+  "proximosPassos": []
+}

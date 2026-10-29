@@ -2,36 +2,122 @@
   "id": "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 50,
+  "ordem": 55,
   "unidade": "Outras grandezas e medidas",
   "titulo": "Grandeza Capacidade",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA24"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver situações de capacidade usando litro e mililitro e recipientes de referência.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Resolver situações de capacidade usando litro e mililitro e recipientes de referência.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Capacidade</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo da capacidade como o <strong>volume interno</strong> de um recipiente.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🥛 Litros:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Relação entre as unidades de volume e capacidade (ex: 1 litro = 1 decímetro cúbico).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Grandeza Capacidade</h2><h3>O que vamos aprender</h3><p>Resolver situações de capacidade usando litro e mililitro e recipientes de referência.</p><h3>Ideias e relações</h3><p>Capacidade indica quanto cabe no interior de um recipiente. Podemos compará-la enchendo recipientes com uma mesma unidade de referência. Um litro corresponde a 1.000 mL; meio litro, a 500 mL. Antes de somar ou repartir, use a mesma unidade e observe se a pergunta trata da capacidade máxima ou do volume de líquido presente. Um recipiente pode ter capacidade de dois litros e estar apenas parcialmente cheio. A relação com o volume interno será explorada com blocos e recipientes: 1 dm³ corresponde a 1 L.</p><h3>Exemplo resolvido</h3><p>Uma jarra com 1,5 L tem 1.500 mL de líquido. Ela enche seis copos de 250 mL, pois 6 × 250 = 1.500. Isso não informa a capacidade total da jarra, apenas o líquido considerado.</p><h3>Atenção ao raciocínio</h3><p>A capacidade do recipiente não é necessariamente a quantidade de líquido que está nele agora.</p><h3>Investigue, construa ou elabore</h3><p>Uma garrafa tem capacidade de 2 L e contém 750 mL. Quanto falta para encher? Proponha uma verificação usando um recipiente graduado ou um desenho.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "capacidade",
+      "unidades_de_medida"
+    ],
+    "errosComuns": [
+      "A capacidade do recipiente não é necessariamente a quantidade de líquido que está nele agora."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "grandeza_capacidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "1,5 L podem encher quantos copos de 250 mL?",
+      "alternativas": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correta": 2,
+      "explicacao": "1,5 L = 1.500 mL; 1.500 ÷ 250 = 6."
+    },
+    {
+      "id": "grandeza_capacidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Uma garrafa tem capacidade de 2 L e contém 750 mL. Quanto falta para encher? Proponha uma verificação usando um recipiente graduado ou um desenho.",
+      "gabarito": "Faltam 1.250 mL, pois 2.000 − 750 = 1.250. A representação deve distinguir o limite de 2 L do nível atual.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Faltam 1.250 mL, pois 2.000 − 750 = 1.250. A representação deve distinguir o limite de 2 L do nível atual.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "capacidade",
+    "unidades_de_medida"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        120,
+        121,
+        122
+      ],
+      "paginasImpressas": "123, 124, 125",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.outras_grandezas_e_medidas.grandeza_massa"
+  ],
+  "proximosPassos": [
+    "mat.ef06.outras_grandezas_e_medidas.grandeza_volume"
+  ]
 }
