@@ -1,0 +1,81 @@
+{
+  "nivel": "EF08",
+  "motivo": "Consolidação de subtópicos em aulas completas, preservando os IDs já presentes no percurso e registrando os destinos do planejamento anterior.",
+  "integracoes": [
+    {
+      "idAnterior": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.valor_numerico_de_expressoes",
+      "tituloAnterior": "Valor Numérico de Expressões",
+      "integradoEm": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas"
+    },
+    {
+      "idAnterior": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacao_do_2_grau_ax2_igual_b",
+      "tituloAnterior": "Equações do Tipo ax² = b",
+      "integradoEm": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes"
+    },
+    {
+      "idAnterior": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.problemas_de_proporcionalidade",
+      "tituloAnterior": "Problemas de Proporcionalidade",
+      "integradoEm": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade"
+    },
+    {
+      "idAnterior": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.metodo_da_substituicao",
+      "tituloAnterior": "Método da Substituição",
+      "integradoEm": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas"
+    },
+    {
+      "idAnterior": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.metodo_da_adicao",
+      "tituloAnterior": "Método da Adição",
+      "integradoEm": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas"
+    },
+    {
+      "idAnterior": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.representacao_grafica_de_sistemas",
+      "tituloAnterior": "Representação Gráfica de Sistemas",
+      "integradoEm": "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas"
+    },
+    {
+      "idAnterior": "mat.ef08.triangulos_e_quadrilateros.congruencia_de_triangulos",
+      "tituloAnterior": "Congruência de Triângulos",
+      "integradoEm": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos"
+    },
+    {
+      "idAnterior": "mat.ef08.triangulos_e_quadrilateros.demonstracoes_de_propriedades",
+      "tituloAnterior": "Demonstrações de Propriedades",
+      "integradoEm": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros"
+    },
+    {
+      "idAnterior": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mediatriz_e_bissetriz",
+      "tituloAnterior": "Mediatriz e Bissetriz",
+      "integradoEm": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos"
+    },
+    {
+      "idAnterior": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.hexagono_regular",
+      "tituloAnterior": "Construção do Hexágono Regular",
+      "integradoEm": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso"
+    },
+    {
+      "idAnterior": "mat.ef08.transformacoes_geometricas.simetrias_no_plano",
+      "tituloAnterior": "Simetrias no Plano",
+      "integradoEm": "mat.ef08.transformacoes_geometricas.transformacoes_geometricas"
+    },
+    {
+      "idAnterior": "mat.ef08.area_e_volume.area_do_circulo",
+      "tituloAnterior": "Área do Círculo",
+      "integradoEm": "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area"
+    },
+    {
+      "idAnterior": "mat.ef08.area_e_volume.comprimento_da_circunferencia",
+      "tituloAnterior": "Comprimento da Circunferência",
+      "integradoEm": "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area"
+    },
+    {
+      "idAnterior": "mat.ef08.area_e_volume.problemas_de_capacidade",
+      "tituloAnterior": "Problemas de Capacidade",
+      "integradoEm": "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade"
+    },
+    {
+      "idAnterior": "mat.ef08.estatistica_e_probabilidade.escolha_do_grafico_adequado",
+      "tituloAnterior": "Escolha do Gráfico Adequado",
+      "integradoEm": "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa"
+    }
+  ]
+}

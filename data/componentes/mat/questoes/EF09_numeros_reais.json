@@ -1,0 +1,508 @@
+[
+  {
+    "id": "mat.ef09.numeros_reais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Números Reais",
+    "aulaId": "mat.ef09.numeros_reais.conjunto_dos_numeros_racionais",
+    "bncc": [
+      "EF09MA02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual representação é racional?",
+    "opcoes": [
+      "Uma raiz de 2 exata",
+      "π exato",
+      "Uma diagonal unitária de comprimento√2",
+      "0,272727… com período 27"
+    ],
+    "correta": 3,
+    "explicacao": "A dízima periódica corresponde à fração 3/11.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          95,
+          140,
+          262
+        ],
+        "paginasImpressas": "98, 143, 265",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.numeros_reais.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Números Reais",
+    "aulaId": "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais",
+    "bncc": [
+      "EF09MA01",
+      "EF09MA02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual número é irracional?",
+    "opcoes": [
+      "−5",
+      "√2",
+      "√4",
+      "0,333… periódico"
+    ],
+    "correta": 1,
+    "explicacao": "√2 não é fração de inteiros; os outros exemplos são racionais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          262,
+          263,
+          264
+        ],
+        "paginasImpressas": "265, 266, 267",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.numeros_reais.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Números Reais",
+    "aulaId": "mat.ef09.numeros_reais.conjunto_dos_numeros_reais",
+    "bncc": [
+      "EF09MA02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual intervalo contém√5?",
+    "opcoes": [
+      "Entre 5 e 6",
+      "Entre 1 e 2",
+      "Entre 2,2 e 2,3",
+      "Entre 2,5 e 2,6"
+    ],
+    "correta": 2,
+    "explicacao": "Os quadrados 2,2² e 2,3² ficam de lados opostos de 5.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          262,
+          263
+        ],
+        "paginasImpressas": "265, 266",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.numeros_reais.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Números Reais",
+    "aulaId": "mat.ef09.numeros_reais.operacoes_com_raizes",
+    "bncc": [
+      "EF09MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é a simplificação de√12+√27?",
+    "opcoes": [
+      "√39",
+      "5√3",
+      "6√3",
+      "3√5"
+    ],
+    "correta": 1,
+    "explicacao": "Extraímos os fatores 4 e 9 dos radicandos e somamos os coeficientes 2 e 3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          262,
+          263,
+          264
+        ],
+        "paginasImpressas": "265, 266, 267",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.numeros_reais.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Números Reais",
+    "aulaId": "mat.ef09.numeros_reais.potenciacao_com_base_real",
+    "bncc": [
+      "EF09MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quanto vale 81^(3/4)?",
+    "opcoes": [
+      "12",
+      "27",
+      "243",
+      "9"
+    ],
+    "correta": 1,
+    "explicacao": "A raiz quarta de 81 é 3;3³=27.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          262
+        ],
+        "paginasImpressas": "43, 44, 265",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.numeros_reais.treino.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Números Reais",
+    "aulaId": "mat.ef09.numeros_reais.notacao_cientifica_e_ordem_de_grandeza",
+    "bncc": [
+      "EF09MA04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é 1,2× 10⁵+3,4× 10⁴?",
+    "opcoes": [
+      "4,6× 10⁵",
+      "1,54× 10⁴",
+      "4,6× 10⁹",
+      "1,54× 10⁵"
+    ],
+    "correta": 3,
+    "explicacao": "Reescrevemos 3,4× 10⁴ como 0,34× 10⁵ antes de somar.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          42
+        ],
+        "paginasImpressas": "43, 44, 45",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.numeros_reais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Números Reais",
+    "aulaId": "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais",
+    "bncc": [
+      "EF09MA01",
+      "EF09MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual número é irracional?",
+    "opcoes": [
+      "0,125",
+      "−3",
+      "0,444…",
+      "√7"
+    ],
+    "correta": 3,
+    "explicacao": "7 não é quadrado de um racional; as demais representações são inteiras, decimais finitas ou periódicas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          262,
+          263,
+          264
+        ],
+        "paginasImpressas": "265, 266, 267",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.numeros_reais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Números Reais",
+    "aulaId": "mat.ef09.numeros_reais.conjunto_dos_numeros_reais",
+    "bncc": [
+      "EF09MA02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Entre quais inteiros consecutivos está √30?",
+    "opcoes": [
+      "6 e 7",
+      "15 e 16",
+      "5 e 6",
+      "4 e 5"
+    ],
+    "correta": 2,
+    "explicacao": "25 < 30 < 36, portanto 5 < √30 < 6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          262,
+          263
+        ],
+        "paginasImpressas": "265, 266",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.numeros_reais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Números Reais",
+    "aulaId": "mat.ef09.numeros_reais.operacoes_com_raizes",
+    "bncc": [
+      "EF09MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "√50 + √8 é igual a:",
+    "opcoes": [
+      "9√2",
+      "7√2",
+      "√58",
+      "5√2"
+    ],
+    "correta": 1,
+    "explicacao": "√50 = 5√2 e √8 = 2√2; somar coeficientes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          262,
+          263,
+          264
+        ],
+        "paginasImpressas": "265, 266, 267",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.numeros_reais.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Números Reais",
+    "aulaId": "mat.ef09.numeros_reais.potenciacao_com_base_real",
+    "bncc": [
+      "EF09MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para base positiva, 27^(2/3) vale:",
+    "opcoes": [
+      "9",
+      "18",
+      "6",
+      "81"
+    ],
+    "correta": 0,
+    "explicacao": "A raiz cúbica de 27 é 3; elevar 3 ao quadrado dá 9.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          262
+        ],
+        "paginasImpressas": "43, 44, 265",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.numeros_reais.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Números Reais",
+    "aulaId": "mat.ef09.numeros_reais.notacao_cientifica_e_ordem_de_grandeza",
+    "bncc": [
+      "EF09MA04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "(6 × 10⁵) ÷ (2 × 10²) é:",
+    "opcoes": [
+      "3 × 10⁷",
+      "12 × 10³",
+      "3 × 10²",
+      "3 × 10³"
+    ],
+    "correta": 3,
+    "explicacao": "Dividir os coeficientes e subtrair os expoentes: 6/2 × 10^(5−2).",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          40,
+          41,
+          42
+        ],
+        "paginasImpressas": "43, 44, 45",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

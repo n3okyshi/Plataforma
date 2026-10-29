@@ -5,33 +5,115 @@
   "ordem": 27,
   "unidade": "Grandezas e Medidas",
   "titulo": "Unidades de Medida de Outras Grandezas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA18"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Expressar medidas muito grandes ou pequenas e interpretar unidades e escalas."
+    ],
+    "resumo": "Expressar medidas muito grandes ou pequenas e interpretar unidades e escalas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Unidades Compostas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conversão e aplicação de unidades de informática (bytes), velocidade média e densidade demográfica.\n        </p>\n    </div>\n    "
+        "html": "<h2>Unidades de Medida de Outras Grandezas</h2><h3>O que vamos aprender</h3><p>Expressar medidas muito grandes ou pequenas e interpretar unidades e escalas.</p><h3>Ideias e relações</h3><p>Potências de dez e prefixos permitem expressar medidas extremas sem escrever longas cadeias de zeros. Um nanômetro corresponde a 10⁻⁹ m e um micrômetro a 10⁻⁶ m. Nas situações de armazenamento, explicite a convenção adotada no problema, evitando misturar unidades definidas por fatores diferentes. A notação científica conserva a unidade e ajuda a comparar escalas, mas um expoente não substitui a informação do coeficiente. Use dados fornecidos como modelos ou identifique a fonte de uma medida real.</p><h3>Exemplo resolvido</h3><p>Um tamanho hipotético de 80 nm equivale a 80× 10⁻⁹ m=8× 10⁻⁸ m. Num problema que adota 1 MB=10⁶ bytes,2,5 MB correspondem a 2,5× 10⁶ bytes.</p><h3>Atenção ao raciocínio</h3><p>Um número pequeno com expoente negativo pode representar uma medida positiva.</p><h3>Investigue e produza</h3><p>Converta 3,2 micrômetros para metros e calcule o espaço de quatro arquivos de 2,5 MB, adotando explicitamente 1 MB=10⁶ bytes.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "unidades_de_medida",
+      "grandezas"
+    ],
+    "errosComuns": [
+      "Um número pequeno com expoente negativo pode representar uma medida positiva."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "unidades_de_medida_de_outras_grandezas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "80 nm, usando 1 nm=10⁻⁹ m, equivalem a:",
+      "alternativas": [
+        "8× 10⁸ m",
+        "8× 10⁻⁸ m",
+        "8× 10⁻⁹ m",
+        "80× 10⁹ m"
+      ],
+      "correta": 1,
+      "explicacao": "80× 10⁻⁹=8× 10⁻⁸."
+    },
+    {
+      "id": "unidades_de_medida_de_outras_grandezas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Converta 3,2 micrômetros para metros e calcule o espaço de quatro arquivos de 2,5 MB, adotando explicitamente 1 MB=10⁶ bytes.",
+      "gabarito": "3,2× 10⁻⁶ m. Os quatro arquivos totalizam 10 MB=10⁷ bytes nessa convenção. Diferenciar valor fornecido, unidade e eventual arredondamento.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "3,2× 10⁻⁶ m. Os quatro arquivos totalizam 10 MB=10⁷ bytes nessa convenção. Diferenciar valor fornecido, unidade e eventual arredondamento.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "unidades_de_medida",
+    "grandezas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        40,
+        109
+      ],
+      "paginasImpressas": "43, 112",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

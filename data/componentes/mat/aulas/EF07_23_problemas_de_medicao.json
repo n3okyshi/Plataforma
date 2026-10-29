@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef07.medidas_de_volume.problemas_de_medicao",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 23,
+  "unidade": "Medidas de Volume",
+  "titulo": "Problemas de Medição",
+  "bncc": [
+    "EF07MA29"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Reconhecer que medições empíricas são aproximadas e registrar unidades e precisão."
+    ],
+    "resumo": "Reconhecer que medições empíricas são aproximadas e registrar unidades e precisão.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Problemas de Medição</h2><h3>O que vamos aprender</h3><p>Reconhecer que medições empíricas são aproximadas e registrar unidades e precisão.</p><h3>Ideias e relações</h3><p>Medir envolve comparar com uma unidade usando um instrumento e um procedimento. A menor divisão da régua ou balança, o alinhamento e a leitura limitam a precisão. Medidas reais devem ser apresentadas com uma aproximação coerente; escrever muitas casas decimais não cria informação que o instrumento não fornece. Podemos repetir a medição e comparar resultados para perceber variações. Diferencie a dimensão ideal de um modelo geométrico da medição aproximada de um objeto real.</p><h3>Exemplo resolvido</h3><p>Uma régua com marcas a cada milímetro pode indicar cerca de 12,3 cm para um objeto. Registrar 12,30000 cm daria uma impressão de precisão não sustentada pela leitura.</p><h3>Atenção ao raciocínio</h3><p>Um resultado de calculadora com muitas casas não torna exatas as medidas de entrada.</p><h3>Investigue e produza</h3><p>Meça o mesmo objeto três vezes, de preferência com duas réguas de graduações diferentes. Registre valores, unidades e uma aproximação justificável.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "medidas",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Um resultado de calculadora com muitas casas não torna exatas as medidas de entrada."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "problemas_de_medicao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O que pode limitar a precisão de uma medida com régua?",
+      "alternativas": [
+        "A escolha de uma letra para a medida.",
+        "Somente o nome do objeto.",
+        "A graduação e o procedimento de leitura.",
+        "A quantidade de algarismos digitada depois."
+      ],
+      "correta": 2,
+      "explicacao": "A resolução do instrumento, o alinhamento e a leitura influenciam a medição."
+    },
+    {
+      "id": "problemas_de_medicao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Meça o mesmo objeto três vezes, de preferência com duas réguas de graduações diferentes. Registre valores, unidades e uma aproximação justificável.",
+      "gabarito": "Os resultados dependem do objeto real. Avaliar registro da graduação, comparação entre leituras e aproximação compatível; não exigir igualdade perfeita entre todas as medidas.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Os resultados dependem do objeto real. Avaliar registro da graduação, comparação entre leituras e aproximação compatível; não exigir igualdade perfeita entre todas as medidas.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "medidas",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        109,
+        110,
+        123
+      ],
+      "paginasImpressas": "112, 113, 126",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

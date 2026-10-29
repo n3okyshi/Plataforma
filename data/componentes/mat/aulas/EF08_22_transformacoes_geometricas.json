@@ -2,36 +2,119 @@
   "id": "mat.ef08.transformacoes_geometricas.transformacoes_geometricas",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 22,
+  "ordem": 19,
   "unidade": "Transformações Geométricas",
   "titulo": "Transformações Geométricas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA18"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construir figuras por duas isometrias sucessivas e registrar os parâmetros."
+    ],
+    "resumo": "Construir figuras por duas isometrias sucessivas e registrar os parâmetros.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Matrizes e Transformações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Como mover figuras no plano cartesiano usando matemática. Análise de isometrias (reflexão, translação, rotação).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎮 Computação Gráfica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Multiplicar coordenadas por <strong>Matrizes</strong> é a base para rotacionar e redimensionar personagens em jogos 3D.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Transformações Geométricas</h2><h3>O que vamos aprender</h3><p>Construir figuras por duas isometrias sucessivas e registrar os parâmetros.</p><h3>Ideias e relações</h3><p>Translações, reflexões e rotações podem ser compostas: o resultado da primeira transformação é a entrada da segunda. Comprimentos e ângulos são preservados em cada etapa e, portanto, na composição. Identifique eixo de reflexão, vetor de translação ou centro, ângulo e sentido de rotação. Transforme todos os vértices e reconstrua os lados. O registro das etapas permite conferir um padrão artístico ou arquitetônico sem depender de uma cópia aproximada.</p><h3>Exemplo resolvido</h3><p>Rodar(2,1) em 90° no sentido anti-horário em torno da origem produz(−1,2). Transladar depois três unidades para a direita produz(2,2).</p><h3>Atenção ao raciocínio</h3><p>Uma rotação não é definida apenas pelo ângulo: centro e sentido também importam.</p><h3>Investigue e produza</h3><p>Desenhe um triângulo e faça uma rotação de 90° seguida de uma translação. Registre cada imagem e verifique lados e ângulos com instrumentos.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "transformacoes_geometricas",
+      "simetria"
+    ],
+    "errosComuns": [
+      "Uma rotação não é definida apenas pelo ângulo: centro e sentido também importam."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "transformacoes_geometricas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma rotação de 90° anti-horária na origem leva(2,1) a:",
+      "alternativas": [
+        "(−2,−1)",
+        "(1,2)",
+        "(−1,2)",
+        "(1,−2)"
+      ],
+      "correta": 2,
+      "explicacao": "A regra é(x,y)→(−y,x)."
+    },
+    {
+      "id": "transformacoes_geometricas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe um triângulo e faça uma rotação de 90° seguida de uma translação. Registre cada imagem e verifique lados e ângulos com instrumentos.",
+      "gabarito": "Os parâmetros devem ser informados e as duas etapas executadas para todos os vértices. As imagens são congruentes; medições aproximadas ajudam a conferir.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Os parâmetros devem ser informados e as duas etapas executadas para todos os vértices. As imagens são congruentes; medições aproximadas ajudam a conferir.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "transformacoes_geometricas",
+    "simetria"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        298,
+        322
+      ],
+      "paginasImpressas": "300, 301, 325",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

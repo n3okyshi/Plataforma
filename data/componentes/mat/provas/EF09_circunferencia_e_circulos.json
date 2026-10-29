@@ -1,0 +1,154 @@
+{
+  "id": "mat.ef09.circunferencia_e_circulos.prova",
+  "titulo": "Avaliação: Circunferência e Círculos",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF09",
+  "unidade": "Circunferência e Círculos",
+  "bncc": [
+    "EF09MA11",
+    "EF09MA15"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef09.circunferencia_e_circulos.prova.01",
+    "mat.ef09.circunferencia_e_circulos.prova.02",
+    "mat.ef09.circunferencia_e_circulos.prova.03",
+    "mat.ef09.circunferencia_e_circulos.prova.04",
+    "mat.ef09.circunferencia_e_circulos.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF09MA11",
+      "questoes": [
+        "mat.ef09.circunferencia_e_circulos.prova.01",
+        "mat.ef09.circunferencia_e_circulos.prova.02",
+        "mat.ef09.circunferencia_e_circulos.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.circunferencia_e_circulos.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.circunferencia_e_circulos.circulo_e_circunferencia#circulo_e_circunferencia.investigacao",
+        "mat.ef09.circunferencia_e_circulos.angulos_em_uma_circunferencia#angulos_em_uma_circunferencia.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA15",
+      "questoes": [
+        "mat.ef09.circunferencia_e_circulos.prova.04",
+        "mat.ef09.circunferencia_e_circulos.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.circunferencia_e_circulos.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.circunferencia_e_circulos.circunferencia_retas_e_poligonos#circunferencia_retas_e_poligonos.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef09.circunferencia_e_circulos.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Circunferência e Círculos",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Desenhe circunferências de raios 2 e 4 e marque em ambas um ângulo central de 90°. Compare as medidas angulares e os comprimentos dos arcos. 2. Construa um triângulo inscrito com um lado coincidindo com o diâmetro. Meça o ângulo oposto e explique a relação com a semicircunferência. Confira com software de geometria dinâmica, se disponível. 3. Produza o algoritmo escrito e o fluxograma do hexágono dado o lado. Execute para dois comprimentos e registre o que muda e o que é preservado.",
+    "gabarito": "Conferência por tarefa: 1. Ambos os arcos medem 90°; os comprimentos sãoπ e 2π, respectivamente. O raio dobrado dobra o comprimento, mas não altera a abertura. 2. O arco interceptado é 180°, portanto o ângulo é 90°. Distinguir a justificativa geométrica da medição aproximada e manter o vértice na circunferência. 3. Entrada a>0, circunferência de raio a, marcação sucessiva de seis cordas de medida a, ligação e fechamento. Preservam-se ângulos e regularidade; os comprimentos variam com a. A versão digital deve reproduzir as condições geométricas.",
+    "bncc": [
+      "EF09MA11",
+      "EF09MA15"
+    ],
+    "atividadesOrigem": [
+      "mat.ef09.circunferencia_e_circulos.circulo_e_circunferencia#circulo_e_circunferencia.investigacao",
+      "mat.ef09.circunferencia_e_circulos.angulos_em_uma_circunferencia#angulos_em_uma_circunferencia.investigacao",
+      "mat.ef09.circunferencia_e_circulos.circunferencia_retas_e_poligonos#circunferencia_retas_e_poligonos.investigacao"
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Círculo e Circunferência",
+        "enunciado": "Desenhe circunferências de raios 2 e 4 e marque em ambas um ângulo central de 90°. Compare as medidas angulares e os comprimentos dos arcos.",
+        "gabarito": "Ambos os arcos medem 90°; os comprimentos sãoπ e 2π, respectivamente. O raio dobrado dobra o comprimento, mas não altera a abertura.",
+        "bncc": [
+          "EF09MA11"
+        ],
+        "atividadeOrigem": "mat.ef09.circunferencia_e_circulos.circulo_e_circunferencia#circulo_e_circunferencia.investigacao"
+      },
+      {
+        "titulo": "Ângulos em uma Circunferência",
+        "enunciado": "Construa um triângulo inscrito com um lado coincidindo com o diâmetro. Meça o ângulo oposto e explique a relação com a semicircunferência. Confira com software de geometria dinâmica, se disponível.",
+        "gabarito": "O arco interceptado é 180°, portanto o ângulo é 90°. Distinguir a justificativa geométrica da medição aproximada e manter o vértice na circunferência.",
+        "bncc": [
+          "EF09MA11"
+        ],
+        "atividadeOrigem": "mat.ef09.circunferencia_e_circulos.angulos_em_uma_circunferencia#angulos_em_uma_circunferencia.investigacao"
+      },
+      {
+        "titulo": "Circunferência, Retas e Polígonos",
+        "enunciado": "Produza o algoritmo escrito e o fluxograma do hexágono dado o lado. Execute para dois comprimentos e registre o que muda e o que é preservado.",
+        "gabarito": "Entrada a>0, circunferência de raio a, marcação sucessiva de seis cordas de medida a, ligação e fechamento. Preservam-se ângulos e regularidade; os comprimentos variam com a. A versão digital deve reproduzir as condições geométricas.",
+        "bncc": [
+          "EF09MA15"
+        ],
+        "atividadeOrigem": "mat.ef09.circunferencia_e_circulos.circunferencia_retas_e_poligonos#circunferencia_retas_e_poligonos.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        405,
+        406,
+        409
+      ],
+      "paginasImpressas": "408, 409, 412",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        409,
+        410
+      ],
+      "paginasImpressas": "412, 413",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        408,
+        415,
+        416
+      ],
+      "paginasImpressas": "411, 418, 419",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

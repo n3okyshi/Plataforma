@@ -5,33 +5,119 @@
   "ordem": 2,
   "unidade": "Números Reais",
   "titulo": "Conjunto dos Números Irracionais",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA01",
+    "EF09MA02"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Reconhecer comprimentos não racionais e estimar irracionais na reta."
+    ],
+    "resumo": "Reconhecer comprimentos não racionais e estimar irracionais na reta.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números Irracionais (I)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Os números com representação decimal <strong>infinita e não periódica</strong>. Eles não podem virar fração.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">π As Celebridades:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O Pi (π) e as raízes não exatas (como √2 e √3) são os exemplos fundamentais.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Conjunto dos Números Irracionais</h2><h3>O que vamos aprender</h3><p>Reconhecer comprimentos não racionais e estimar irracionais na reta.</p><h3>Ideias e relações</h3><p>Fixada uma unidade no lado de um quadrado, a diagonal tem comprimento√2 dessa unidade. Não existe fração de inteiros que seja exatamente√2: supondo uma fração irredutível p/q e elevando ao quadrado, p²=2q² implica p par; substituindo, q também seria par, contradizendo a irredutibilidade. Irracionais são reais de representação decimal infinita não periódica. Podemos localizá-los por intervalos racionais cada vez menores sem transformar a aproximação em igualdade.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Quadrado de lado uma unidade e diagonal de comprimento raiz quadrada de dois.\" style=\"max-width:100%;color:inherit\"><title>Quadrado de lado uma unidade e diagonal de comprimento raiz quadrada de dois.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M130 45H280V195H130Z\"/><path d=\"M130 45 280 195\" stroke=\"#2563eb\"/></g><g fill=\"currentColor\" font-size=\"17\"><text x=\"197\" y=\"30\">1</text><text x=\"290\" y=\"125\">1</text><text x=\"163\" y=\"135\">√2</text><text x=\"85\" y=\"235\">A unidade foi fixada no lado do quadrado.</text></g></svg><h3>Exemplo resolvido</h3><p>Como 1,41²=1,9881&lt;2 e 1,42²=2,0164&gt;2, temos 1,41&lt;√2&lt;1,42. A diagonal é exata como√2, embora a medição física seja aproximada.</p><h3>Atenção ao raciocínio</h3><p>√4=2 é racional; o símbolo de raiz não basta para concluir irracionalidade.</p><h3>Investigue e produza</h3><p>Construa um quadrado de lado 1 e transporte sua diagonal para uma reta com compasso. Justifique o comprimento e dê duas aproximações que o limitem.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "numeros_irracionais",
+      "decimais"
+    ],
+    "errosComuns": [
+      "√4=2 é racional; o símbolo de raiz não basta para concluir irracionalidade."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "conjunto_dos_numeros_irracionais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual número é irracional?",
+      "alternativas": [
+        "−5",
+        "√2",
+        "√4",
+        "0,333… periódico"
+      ],
+      "correta": 1,
+      "explicacao": "√2 não é fração de inteiros; os outros exemplos são racionais."
+    },
+    {
+      "id": "conjunto_dos_numeros_irracionais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa um quadrado de lado 1 e transporte sua diagonal para uma reta com compasso. Justifique o comprimento e dê duas aproximações que o limitem.",
+      "gabarito": "Pelo teorema de Pitágoras, d²=2 e d=√2. A posição fica entre 1,41 e 1,42; distinguir construção ideal, aproximação numérica e medição empírica.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Pelo teorema de Pitágoras, d²=2 e d=√2. A posição fica entre 1,41 e 1,42; distinguir construção ideal, aproximação numérica e medição empírica.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "numeros_irracionais",
+    "decimais"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        262,
+        263,
+        264
+      ],
+      "paginasImpressas": "265, 266, 267",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.numeros_reais.conjunto_dos_numeros_racionais"
+  ],
+  "proximosPassos": [
+    "mat.ef09.numeros_reais.conjunto_dos_numeros_reais"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

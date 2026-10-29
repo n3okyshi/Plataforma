@@ -1,0 +1,340 @@
+[
+  {
+    "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+    "aulaId": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras",
+    "bncc": [
+      "EF09MA12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual conjunto é proporcional a 3,4,5?",
+    "opcoes": [
+      "6,7,8",
+      "3,5,7",
+      "4,5,6",
+      "6,8,10"
+    ],
+    "correta": 3,
+    "explicacao": "Os três lados foram multiplicados pelo mesmo fator 2.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352,
+          370,
+          371
+        ],
+        "paginasImpressas": "355, 373, 374",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+    "aulaId": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano",
+    "bncc": [
+      "EF09MA17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No objeto ilustrado, três posições da base estão ocupadas e há um cubo sobre uma delas. O total é:",
+    "opcoes": [
+      "5 cubos",
+      "6 cubos",
+      "3 cubos",
+      "4 cubos"
+    ],
+    "correta": 3,
+    "explicacao": "São três cubos na camada inferior e um adicional.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+    "aulaId": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.angulos_em_retas_paralelas_cortadas_por_transversal",
+    "bncc": [
+      "EF09MA10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em duas paralelas, colaterais internos de 112° e x satisfazem:",
+    "opcoes": [
+      "x=248°",
+      "x=112°",
+      "x=68°",
+      "x=56°"
+    ],
+    "correta": 2,
+    "explicacao": "A soma é 180°;180−112=68.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          355,
+          356,
+          357
+        ],
+        "paginasImpressas": "358, 359, 360",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+    "aulaId": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras",
+    "bncc": [
+      "EF09MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Triângulos com dois ângulos correspondentes iguais são semelhantes pelo caso:",
+    "opcoes": [
+      "LLL de congruência apenas",
+      "LAL sem razão de lados",
+      "Nenhum",
+      "AA"
+    ],
+    "correta": 3,
+    "explicacao": "A soma angular determina o terceiro ângulo; o caso AA garante semelhança.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352,
+          370,
+          371
+        ],
+        "paginasImpressas": "355, 373, 374",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+    "aulaId": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras",
+    "bncc": [
+      "EF09MA12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ao ampliar uma figura pelo fator 3, sua área é multiplicada por:",
+    "opcoes": [
+      "6",
+      "1/3",
+      "9",
+      "3"
+    ],
+    "correta": 2,
+    "explicacao": "Os comprimentos multiplicam por 3 e as áreas por 3².",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352,
+          370,
+          371
+        ],
+        "paginasImpressas": "355, 373, 374",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+    "aulaId": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano",
+    "bncc": [
+      "EF09MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A vista superior de um objeto descreve:",
+    "opcoes": [
+      "A vista frontal girada por definição",
+      "Sua projeção observada de cima",
+      "Todas as alturas sem sobreposição",
+      "Uma fotografia obrigatoriamente em perspectiva"
+    ],
+    "correta": 1,
+    "explicacao": "A projeção superior mostra a distribuição horizontal; alturas podem ficar ocultas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+    "aulaId": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.angulos_em_retas_paralelas_cortadas_por_transversal",
+    "bncc": [
+      "EF09MA10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas paralelas cortadas por transversal formam um ângulo de 65°. O alterno interno correspondente mede:",
+    "opcoes": [
+      "65°",
+      "115°",
+      "25°",
+      "130°"
+    ],
+    "correta": 0,
+    "explicacao": "Ângulos alternos internos são congruentes quando as retas são paralelas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          355,
+          356,
+          357
+        ],
+        "paginasImpressas": "358, 359, 360",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+    "aulaId": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano",
+    "bncc": [
+      "EF09MA17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas pilhas de cubos, vistas de frente, têm alturas 1 e 3. A vista frontal registra:",
+    "opcoes": [
+      "Exatamente quatro colunas",
+      "Somente a altura 1",
+      "Necessariamente todas as posições em profundidade",
+      "Duas colunas com alturas 1 e 3"
+    ],
+    "correta": 3,
+    "explicacao": "A vista frontal informa larguras e alturas projetadas; não determina sozinha a profundidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          321
+        ],
+        "paginasImpressas": "319",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

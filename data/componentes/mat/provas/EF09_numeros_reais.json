@@ -1,0 +1,226 @@
+{
+  "id": "mat.ef09.numeros_reais.prova",
+  "titulo": "Avaliação: Números Reais",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF09",
+  "unidade": "Números Reais",
+  "bncc": [
+    "EF09MA01",
+    "EF09MA02",
+    "EF09MA03",
+    "EF09MA04"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef09.numeros_reais.prova.01",
+    "mat.ef09.numeros_reais.prova.02",
+    "mat.ef09.numeros_reais.prova.03",
+    "mat.ef09.numeros_reais.prova.04",
+    "mat.ef09.numeros_reais.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF09MA01",
+      "questoes": [
+        "mat.ef09.numeros_reais.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.numeros_reais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais#conjunto_dos_numeros_irracionais.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA02",
+      "questoes": [
+        "mat.ef09.numeros_reais.prova.01",
+        "mat.ef09.numeros_reais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.numeros_reais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_racionais#conjunto_dos_numeros_racionais.investigacao",
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais#conjunto_dos_numeros_irracionais.investigacao",
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_reais#conjunto_dos_numeros_reais.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA03",
+      "questoes": [
+        "mat.ef09.numeros_reais.prova.03",
+        "mat.ef09.numeros_reais.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.numeros_reais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.numeros_reais.operacoes_com_raizes#operacoes_com_raizes.investigacao",
+        "mat.ef09.numeros_reais.potenciacao_com_base_real#potenciacao_com_base_real.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA04",
+      "questoes": [
+        "mat.ef09.numeros_reais.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.numeros_reais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.numeros_reais.notacao_cientifica_e_ordem_de_grandeza#notacao_cientifica_e_ordem_de_grandeza.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef09.numeros_reais.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Números Reais",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Escreva duas representações de 3/8 e compare 1/3 com 0,33. Explique por que algumas casas decimais observadas não bastam para classificar um número. 2. Construa um quadrado de lado 1 e transporte sua diagonal para uma reta com compasso. Justifique o comprimento e dê duas aproximações que o limitem. 3. Localize−√2,0,1,5 e√5 na reta e justifique a ordem usando limites racionais. 4. Simplifique√50−√8 e√((-7)²). Explique por que o segundo resultado não é−7. 5. Calcule 32^(2/5) e 25^(−1/2). Escreva as formas radicais e confira os resultados por potenciação. 6. Calcule(6× 10⁷)÷(2× 10³) e elabore um problema de medida para a operação, com unidades e interpretação.",
+    "gabarito": "Conferência por tarefa: 1. 3/8=0,375=375/1.000.1/3−0,33=1/300>0. Um prefixo decimal finito pode pertencer a números de tipos diferentes; é necessário conhecer a representação completa ou sua regra. 2. Pelo teorema de Pitágoras, d²=2 e d=√2. A posição fica entre 1,41 e 1,42; distinguir construção ideal, aproximação numérica e medição empírica. 3. −√2<0<1,5<√5. Pode-se usar 1,41<√2<1,42 e 2,2<√5<2,3; manter coerência ao refletir intervalos negativos. 4. √50−√8=5√2−2√2=3√2.√49=7=|−7|, pois a raiz principal é não negativa. 5. 32^(2/5)=2²=4;25^(−1/2)=1/5. Conferir 2⁵=32 e 5²=25 e explicitar o inverso na segunda expressão. 6. O quociente é 3× 10⁴. O problema deve explicar o que está sendo dividido e se a resposta é quantidade, medida ou razão; não inventar uma medição real.",
+    "bncc": [
+      "EF09MA01",
+      "EF09MA02",
+      "EF09MA03",
+      "EF09MA04"
+    ],
+    "atividadesOrigem": [
+      "mat.ef09.numeros_reais.conjunto_dos_numeros_racionais#conjunto_dos_numeros_racionais.investigacao",
+      "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais#conjunto_dos_numeros_irracionais.investigacao",
+      "mat.ef09.numeros_reais.conjunto_dos_numeros_reais#conjunto_dos_numeros_reais.investigacao",
+      "mat.ef09.numeros_reais.operacoes_com_raizes#operacoes_com_raizes.investigacao",
+      "mat.ef09.numeros_reais.potenciacao_com_base_real#potenciacao_com_base_real.investigacao",
+      "mat.ef09.numeros_reais.notacao_cientifica_e_ordem_de_grandeza#notacao_cientifica_e_ordem_de_grandeza.investigacao"
+    ],
+    "duracaoMinSugerida": 90,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Conjunto dos Números Racionais",
+        "enunciado": "Escreva duas representações de 3/8 e compare 1/3 com 0,33. Explique por que algumas casas decimais observadas não bastam para classificar um número.",
+        "gabarito": "3/8=0,375=375/1.000.1/3−0,33=1/300>0. Um prefixo decimal finito pode pertencer a números de tipos diferentes; é necessário conhecer a representação completa ou sua regra.",
+        "bncc": [
+          "EF09MA02"
+        ],
+        "atividadeOrigem": "mat.ef09.numeros_reais.conjunto_dos_numeros_racionais#conjunto_dos_numeros_racionais.investigacao"
+      },
+      {
+        "titulo": "Conjunto dos Números Irracionais",
+        "enunciado": "Construa um quadrado de lado 1 e transporte sua diagonal para uma reta com compasso. Justifique o comprimento e dê duas aproximações que o limitem.",
+        "gabarito": "Pelo teorema de Pitágoras, d²=2 e d=√2. A posição fica entre 1,41 e 1,42; distinguir construção ideal, aproximação numérica e medição empírica.",
+        "bncc": [
+          "EF09MA01",
+          "EF09MA02"
+        ],
+        "atividadeOrigem": "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais#conjunto_dos_numeros_irracionais.investigacao"
+      },
+      {
+        "titulo": "Conjunto dos Números Reais",
+        "enunciado": "Localize−√2,0,1,5 e√5 na reta e justifique a ordem usando limites racionais.",
+        "gabarito": "−√2<0<1,5<√5. Pode-se usar 1,41<√2<1,42 e 2,2<√5<2,3; manter coerência ao refletir intervalos negativos.",
+        "bncc": [
+          "EF09MA02"
+        ],
+        "atividadeOrigem": "mat.ef09.numeros_reais.conjunto_dos_numeros_reais#conjunto_dos_numeros_reais.investigacao"
+      },
+      {
+        "titulo": "Operações com Raízes",
+        "enunciado": "Simplifique√50−√8 e√((-7)²). Explique por que o segundo resultado não é−7.",
+        "gabarito": "√50−√8=5√2−2√2=3√2.√49=7=|−7|, pois a raiz principal é não negativa.",
+        "bncc": [
+          "EF09MA03"
+        ],
+        "atividadeOrigem": "mat.ef09.numeros_reais.operacoes_com_raizes#operacoes_com_raizes.investigacao"
+      },
+      {
+        "titulo": "Potenciação com Base Real",
+        "enunciado": "Calcule 32^(2/5) e 25^(−1/2). Escreva as formas radicais e confira os resultados por potenciação.",
+        "gabarito": "32^(2/5)=2²=4;25^(−1/2)=1/5. Conferir 2⁵=32 e 5²=25 e explicitar o inverso na segunda expressão.",
+        "bncc": [
+          "EF09MA03"
+        ],
+        "atividadeOrigem": "mat.ef09.numeros_reais.potenciacao_com_base_real#potenciacao_com_base_real.investigacao"
+      },
+      {
+        "titulo": "Operações em Notação Científica",
+        "enunciado": "Calcule(6× 10⁷)÷(2× 10³) e elabore um problema de medida para a operação, com unidades e interpretação.",
+        "gabarito": "O quociente é 3× 10⁴. O problema deve explicar o que está sendo dividido e se a resposta é quantidade, medida ou razão; não inventar uma medição real.",
+        "bncc": [
+          "EF09MA04"
+        ],
+        "atividadeOrigem": "mat.ef09.numeros_reais.notacao_cientifica_e_ordem_de_grandeza#notacao_cientifica_e_ordem_de_grandeza.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        140,
+        262
+      ],
+      "paginasImpressas": "98, 143, 265",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        262,
+        263,
+        264
+      ],
+      "paginasImpressas": "265, 266, 267",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        262,
+        263
+      ],
+      "paginasImpressas": "265, 266",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        40,
+        41,
+        262
+      ],
+      "paginasImpressas": "43, 44, 265",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        40,
+        41,
+        42
+      ],
+      "paginasImpressas": "43, 44, 45",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

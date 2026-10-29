@@ -2,36 +2,119 @@
   "id": "mat.ef09.grandezas_e_medidas.grandezas_e_medidas_no_plano_cartesiano",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 25,
+  "ordem": 29,
   "unidade": "Grandezas e Medidas",
   "titulo": "Grandezas e Medidas no Plano Cartesiano",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA16"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Determinar distâncias e pontos médios por construção geométrica, sem uso direto de fórmulas."
+    ],
+    "resumo": "Determinar distâncias e pontos médios por construção geométrica, sem uso direto de fórmulas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Geometria Analítica Básica</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolução de problemas geométricos usando coordenadas (perímetro e área de polígonos no gráfico).\n        </p>\n    </div>\n    "
+        "html": "<h2>Grandezas e Medidas no Plano Cartesiano</h2><h3>O que vamos aprender</h3><p>Determinar distâncias e pontos médios por construção geométrica, sem uso direto de fórmulas.</p><h3>Ideias e relações</h3><p>Para encontrar a distância entre pontos, trace segmentos auxiliares paralelos aos eixos, conte os deslocamentos e forme um triângulo retângulo. Use Pitágoras para obter a distância, em vez de aplicar uma fórmula pronta para coordenadas. O ponto médio fica na metade do deslocamento horizontal e na metade do vertical. Essas estratégias permitem calcular contornos e áreas de polígonos representados no plano, mantendo a escala dos eixos. Um desenho com escalas diferentes exige cuidado antes de medir visualmente.</p><h3>Exemplo resolvido</h3><p>Entre(1,2) e(4,6), os deslocamentos são 3 e 4; a distância é 5. Para o ponto médio, avançamos 1,5 à direita e 2 acima do primeiro ponto, chegando a(2,5;4), com a primeira coordenada escrita em notação decimal brasileira.</p><h3>Atenção ao raciocínio</h3><p>A distância direta não é a soma dos deslocamentos horizontal e vertical.</p><h3>Investigue e produza</h3><p>Represente A(−2,1) e B(4,9). Construa o ponto médio e determine AB por deslocamentos e triângulo retângulo. Explique cada passo. Acrescente C(4,1), calcule o perímetro e a área de ABC usando os deslocamentos e justifique.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "plano_cartesiano",
+      "distancia"
+    ],
+    "errosComuns": [
+      "A distância direta não é a soma dos deslocamentos horizontal e vertical."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "grandezas_e_medidas_no_plano_cartesiano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A distância entre(1,2) e(4,6) é:",
+      "alternativas": [
+        "5",
+        "7",
+        "25",
+        "1"
+      ],
+      "correta": 0,
+      "explicacao": "O triângulo auxiliar tem catetos 3 e 4; a hipotenusa é 5."
+    },
+    {
+      "id": "grandezas_e_medidas_no_plano_cartesiano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Represente A(−2,1) e B(4,9). Construa o ponto médio e determine AB por deslocamentos e triângulo retângulo. Explique cada passo. Acrescente C(4,1), calcule o perímetro e a área de ABC usando os deslocamentos e justifique.",
+      "gabarito": "Deslocamentos 6 e 8; metade deles 3 e 4. O ponto médio é(1,5) e a distância 10. AC=6, BC=8 e AB=10; perímetro 24 e área 24 unidades quadradas. Justificar geometricamente, sem apenas substituir numa fórmula de coordenadas.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Deslocamentos 6 e 8; metade deles 3 e 4. O ponto médio é(1,5) e a distância 10. AC=6, BC=8 e AB=10; perímetro 24 e área 24 unidades quadradas. Justificar geometricamente, sem apenas substituir numa fórmula de coordenadas.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "plano_cartesiano",
+    "distancia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        298,
+        372
+      ],
+      "paginasImpressas": "300, 301, 375",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -4,34 +4,120 @@
   "nivel": "EF08",
   "ordem": 4,
   "unidade": "Números, dos Naturais aos Racionais, e Sequências",
-  "titulo": "Sequências",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Sequências Recursivas e Não Recursivas",
+  "bncc": [
+    "EF08MA10",
+    "EF08MA11"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construir algoritmos e fluxogramas para sequências diretas e recursivas."
+    ],
+    "resumo": "Construir algoritmos e fluxogramas para sequências diretas e recursivas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Sequências Numéricas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Identificação de padrões matemáticos e generalização através do <strong>Termo Geral</strong> ($a_n$).\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔢 Padrões:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Diferenciar o valor do termo ($a_n$) da sua posição ($n$) na fila.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Sequências Recursivas e Não Recursivas</h2><h3>O que vamos aprender</h3><p>Construir algoritmos e fluxogramas para sequências diretas e recursivas.</p><h3>Ideias e relações</h3><p>Uma regra não recursiva fornece um termo diretamente pela posição. Em aₙ=4n−1, para n≥1, a quinta posição vale 19. Uma regra recursiva usa um termo inicial e uma relação com os anteriores: começando em 2 e dobrando a cada etapa, temos 2,4,8,16,… Para construir um algoritmo, defina entrada, condições e saída. Na regra direta, calcule a expressão da posição; na recursiva, conte as repetições necessárias. O fluxograma deve controlar o término e permitir testar diferentes entradas.</p><h3>Exemplo resolvido</h3><p>Para obter o quarto termo da regra recursiva, comece em 2 e dobre três vezes:4,8,16. Dobrar quatro vezes produziria o quinto termo.</p><h3>Atenção ao raciocínio</h3><p>Confundir o número da posição com o número de repetições provoca erros de uma etapa.</p><h3>Investigue e produza</h3><p>Produza dois fluxogramas para obter o termo de posição n: um para 4n−1 e outro para a regra “a₁=2, dobrar o anterior”. Execute para n=1 e n=4.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "sequencias",
+      "algoritmo"
+    ],
+    "errosComuns": [
+      "Confundir o número da posição com o número de repetições provoca erros de uma etapa."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "sequencias.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na sequência aₙ=4n−1, para n a partir de 1, o quinto termo é:",
+      "alternativas": [
+        "15",
+        "16",
+        "19",
+        "20"
+      ],
+      "correta": 2,
+      "explicacao": "4× 5−1=19."
+    },
+    {
+      "id": "sequencias.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Produza dois fluxogramas para obter o termo de posição n: um para 4n−1 e outro para a regra “a₁=2, dobrar o anterior”. Execute para n=1 e n=4.",
+      "gabarito": "Direta: ler n≥1, calcular 4n−1, informar. Recursiva: iniciar valor 2 e contador 1; enquanto contador<n, dobrar o valor e incrementar o contador; informar. Saídas:3 e 15 na direta;2 e 16 na recursiva.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Direta: ler n≥1, calcular 4n−1, informar. Recursiva: iniciar valor 2 e contador 1; enquanto contador<n, dobrar o valor e incrementar o contador; informar. Saídas:3 e 15 na direta;2 e 16 na recursiva.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "sequencias",
+    "algoritmo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        206,
+        207,
+        208
+      ],
+      "paginasImpressas": "209, 210, 211",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.radiciacao"
+  ],
+  "proximosPassos": [
+    "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.notacao_cientifica"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef07.poligonos_e_transformacoes_geometricas.simetria_no_plano_cartesiano",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 31,
+  "unidade": "Polígonos e Transformações Geométricas",
+  "titulo": "Simetria no Plano Cartesiano",
+  "bncc": [
+    "EF07MA19",
+    "EF07MA20"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Representar simétricos e analisar a multiplicação de coordenadas por inteiros."
+    ],
+    "resumo": "Representar simétricos e analisar a multiplicação de coordenadas por inteiros.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Simetria no Plano Cartesiano</h2><h3>O que vamos aprender</h3><p>Representar simétricos e analisar a multiplicação de coordenadas por inteiros.</p><h3>Ideias e relações</h3><p>Refletir um ponto (x,y) no eixo x produz (x,−y); no eixo y, (−x,y); na origem, (−x,−y). As regras podem ser justificadas pelas distâncias aos eixos. Multiplicar ambas as coordenadas por um inteiro positivo amplia ou reduz a partir da origem conforme o fator; um fator negativo combina mudança de escala e meia volta. O fator zero leva todos os vértices à origem e não produz uma figura semelhante não degenerada. Transforme todos os vértices e reconstrua os lados na mesma ordem.</p><h3>Exemplo resolvido</h3><p>O ponto (2,3) refletido no eixo y fica em (−2,3). Multiplicando suas duas coordenadas por −2, obtemos (−4,−6), com distâncias à origem duplicadas e posição oposta.</p><h3>Atenção ao raciocínio</h3><p>Reflexão num eixo não significa trocar x por y; cada eixo determina qual sinal muda.</p><h3>Investigue e produza</h3><p>Represente um triângulo com vértices (1,1),(3,1),(1,2). Faça a reflexão na origem e a transformação que multiplica todas as coordenadas por 2. Compare as duas imagens.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "simetria",
+      "plano_cartesiano"
+    ],
+    "errosComuns": [
+      "Reflexão num eixo não significa trocar x por y; cada eixo determina qual sinal muda."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "simetria_no_plano_cartesiano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O simétrico de (2,3) em relação ao eixo x é:",
+      "alternativas": [
+        "(−2,−3)",
+        "(−2,3)",
+        "(2,−3)",
+        "(3,2)"
+      ],
+      "correta": 2,
+      "explicacao": "A distância horizontal é mantida; a posição vertical muda de sinal."
+    },
+    {
+      "id": "simetria_no_plano_cartesiano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Represente um triângulo com vértices (1,1),(3,1),(1,2). Faça a reflexão na origem e a transformação que multiplica todas as coordenadas por 2. Compare as duas imagens.",
+      "gabarito": "Na origem: (−1,−1),(−3,−1),(−1,−2), com comprimentos preservados. Por fator 2: (2,2),(6,2),(2,4), com comprimentos dobrados e ângulos preservados.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Na origem: (−1,−1),(−3,−1),(−1,−2), com comprimentos preservados. Por fator 2: (2,2),(6,2),(2,4), com comprimentos dobrados e ângulos preservados.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "simetria",
+    "plano_cartesiano"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        298
+      ],
+      "paginasImpressas": "300, 301",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.poligonos_e_transformacoes_geometricas.transformacoes_geometricas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

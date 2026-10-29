@@ -2,36 +2,121 @@
   "id": "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 10,
+  "ordem": 13,
   "unidade": "Expressões Algébricas e Equações",
   "titulo": "Resolução de Problemas com Equações",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA18"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Elaborar uma equação a partir das relações de um problema e interpretar sua solução."
+    ],
+    "resumo": "Elaborar uma equação a partir das relações de um problema e interpretar sua solução.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Modelagem Matemática</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A arte de traduzir o português para o \"matematiquês\".\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🗣️ Dicionário:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li>\"Um número\" → <strong>x</strong></li>\n                <li>\"O dobro\" → <strong>2x</strong></li>\n                <li>\"A terça parte\" → <strong>x/3</strong></li>\n                <li>\"Aumentado de\" → <strong>+</strong></li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Resolução de Problemas com Equações</h2><h3>O que vamos aprender</h3><p>Elaborar uma equação a partir das relações de um problema e interpretar sua solução.</p><h3>Ideias e relações</h3><p>Modelar um problema por equação exige definir a incógnita e sua unidade. Identifique o que é fixo, o que se repete e quais relações produzem o total. A equação não é apenas uma conta com uma letra: ela deve traduzir a situação. Depois de resolver, verifique se a solução faz sentido no contexto, como uma quantidade inteira de objetos ou uma medida positiva. Ao elaborar um problema, forneça dados suficientes e confira a coerência da resposta.</p><h3>Exemplo resolvido</h3><p>Quatro ingressos de mesmo preço e uma taxa única de R$ 8 totalizam R$ 60. Se x é o preço de um ingresso, 4x + 8 = 60. Logo x=13; quatro ingressos custam 52 e, com a taxa, 60.</p><h3>Atenção ao raciocínio</h3><p>A taxa única não deve ser multiplicada por quatro; isso produziria outra situação.</p><h3>Investigue e produza</h3><p>Crie um problema para 5x − 12 = 48. Defina x, resolva e explique como conferir no contexto.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "equacoes",
+      "problemas"
+    ],
+    "errosComuns": [
+      "A taxa única não deve ser multiplicada por quatro; isso produziria outra situação."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "resolucao_de_problemas_com_equacoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quatro ingressos e uma taxa única de 8 totalizam 60. Qual equação representa o preço x de cada ingresso?",
+      "alternativas": [
+        "x+4+8=60",
+        "4x+8=60",
+        "4x=68",
+        "4(x+8)=60"
+      ],
+      "correta": 1,
+      "explicacao": "O preço se repete quatro vezes, mas a taxa é acrescentada apenas uma vez."
+    },
+    {
+      "id": "resolucao_de_problemas_com_equacoes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Crie um problema para 5x − 12 = 48. Defina x, resolva e explique como conferir no contexto.",
+      "gabarito": "x=12. O enunciado deve representar cinco quantidades iguais, retirada de doze e resultado quarenta e oito; a substituição 5× 12−12=48 confirma.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "x=12. O enunciado deve representar cinco quantidades iguais, retirada de doze e resultado quarenta e oito; a substituição 5× 12−12=48 confirma.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "equacoes",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        148,
+        154,
+        156
+      ],
+      "paginasImpressas": "151, 157, 159",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau"
+  ],
+  "proximosPassos": [
+    "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

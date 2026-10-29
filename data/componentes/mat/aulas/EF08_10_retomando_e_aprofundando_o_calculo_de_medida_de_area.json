@@ -2,36 +2,119 @@
   "id": "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 10,
+  "ordem": 21,
   "unidade": "Área e Volume",
-  "titulo": "Retomando e Aprofundando o Cálculo de Medida de Área",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Retomando e Aprofundando o Cálculo de Área",
+  "bncc": [
+    "EF08MA19"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver áreas de triângulos, quadriláteros e círculos com expressões justificadas."
+    ],
+    "resumo": "Resolver áreas de triângulos, quadriláteros e círculos com expressões justificadas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Áreas Planas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de área de polígonos (triângulos, quadriláteros) e aprofundamento no círculo.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">pizza🍕 Círculo:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Além da área total (πr²), aprendemos a calcular \"fatias\" (setor circular) e \"bordas\" (coroa circular).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Retomando e Aprofundando o Cálculo de Área</h2><h3>O que vamos aprender</h3><p>Resolver áreas de triângulos, quadriláteros e círculos com expressões justificadas.</p><h3>Ideias e relações</h3><p>Retome a composição e decomposição que sustentam A=bh no retângulo e paralelogramo, A=bh/2 no triângulo e A=(B+b)h/2 no trapézio. Como retomada, o comprimento da circunferência é C=2πr, uma medida linear; para r=3 cm, C=6π cm. Para o círculo, dividir em muitos setores e alterná-los sugere uma região próxima de um retângulo de baseπr e altura r, justificando intuitivamente A=πr². As medidas lineares devem usar a mesma unidade; o resultado é quadrado. Em regiões compostas, indique somas ou retiradas e evite sobreposição.</p><h3>Exemplo resolvido</h3><p>Um círculo de raio 3 cm tem área exata 9π cm², aproximadamente 28,26 cm² seπ≈3,14. Um trapézio de bases 10 e 6 e altura 4 tem área 32 unidades quadradas.</p><h3>Atenção ao raciocínio</h3><p>2πr calcula comprimento da circunferência, não área do círculo.</p><h3>Investigue e produza</h3><p>Projete um jardim retangular 12× 8 m com um canteiro circular de raio 2 m. Calcule as duas áreas e a área restante, indicando uma aproximação paraπ.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "area",
+      "figuras_planas"
+    ],
+    "errosComuns": [
+      "2πr calcula comprimento da circunferência, não área do círculo."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "retomando_e_aprofundando_o_calculo_de_medida_de_area.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A área exata de um círculo de raio 3 cm é:",
+      "alternativas": [
+        "9π cm²",
+        "18π cm²",
+        "36π cm²",
+        "6π cm²"
+      ],
+      "correta": 0,
+      "explicacao": "A=π× 3²=9π cm²."
+    },
+    {
+      "id": "retomando_e_aprofundando_o_calculo_de_medida_de_area.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Projete um jardim retangular 12× 8 m com um canteiro circular de raio 2 m. Calcule as duas áreas e a área restante, indicando uma aproximação paraπ.",
+      "gabarito": "Retângulo 96 m², círculo 4π m² e restante 96−4π m². Paraπ≈3,14, o restante é 83,44 m². O desenho deve comportar o círculo sem ultrapassar a região.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Retângulo 96 m², círculo 4π m² e restante 96−4π m². Paraπ≈3,14, o restante é 83,44 m². O desenho deve comportar o círculo sem ultrapassar a região.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "area",
+    "figuras_planas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        112,
+        113,
+        406
+      ],
+      "paginasImpressas": "115, 116, 409",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

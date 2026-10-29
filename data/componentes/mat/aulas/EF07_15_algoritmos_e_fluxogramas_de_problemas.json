@@ -1,0 +1,121 @@
+{
+  "id": "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 15,
+  "unidade": "Expressões Algébricas e Equações",
+  "titulo": "Algoritmos e Fluxogramas de Problemas",
+  "bncc": [
+    "EF07MA05",
+    "EF07MA06",
+    "EF07MA07"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Comparar procedimentos e construir um fluxograma reutilizável para uma classe de problemas."
+    ],
+    "resumo": "Comparar procedimentos e construir um fluxograma reutilizável para uma classe de problemas.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Algoritmos e Fluxogramas de Problemas</h2><h3>O que vamos aprender</h3><p>Comparar procedimentos e construir um fluxograma reutilizável para uma classe de problemas.</p><h3>Ideias e relações</h3><p>Um mesmo problema pode admitir algoritmos diferentes. Para calcular oito pacotes de quinze itens, podemos somar quinze oito vezes, usar 8×(10+5) ou calcular (4× 15)× 2. Comparar os passos ajuda a justificar resultados e escolher uma estratégia eficiente. Problemas com a mesma estrutura podem compartilhar um procedimento: para n pacotes de quinze, o total é 15n. Um fluxograma deve explicitar entradas, operações, saídas e término; símbolos e setas precisam ter um significado consistente.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Procedimento para calcular o total de itens em pacotes de quinze: ler quantidade n, calcular quinze vezes n e informar o total.\" style=\"max-width:100%;color:inherit\"><title>Procedimento para calcular o total de itens em pacotes de quinze: ler quantidade n, calcular quinze vezes n e informar o total.</title><g stroke=\"currentColor\" fill=\"none\"><rect x=\"110\" y=\"15\" width=\"220\" height=\"45\" rx=\"12\"/><rect x=\"110\" y=\"95\" width=\"220\" height=\"45\"/><rect x=\"110\" y=\"175\" width=\"220\" height=\"45\" rx=\"12\"/><path d=\"M220 60V95m-5-7 5 7 5-7M220 140V175m-5-7 5 7 5-7\"/></g><g fill=\"currentColor\" text-anchor=\"middle\" font-size=\"16\"><text x=\"220\" y=\"43\">Ler o número de pacotes n</text><text x=\"220\" y=\"123\">Calcular total = 15 × n</text><text x=\"220\" y=\"203\">Informar total e terminar</text></g></svg><h3>Exemplo resolvido</h3><p>Para seis pacotes, 6× 15=90; para oito, 8× 15=120. Mudou a entrada, mas o procedimento “multiplicar a quantidade de pacotes por quinze” foi mantido.</p><h3>Atenção ao raciocínio</h3><p>Copiar contas sem identificar a estrutura não garante que o procedimento sirva para outro problema.</p><h3>Investigue e produza</h3><p>Resolva 12× 25 por dois algoritmos. Depois escreva e desenhe um fluxograma para calcular o total de n pacotes de 25; execute-o para n=4 e n=12.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "algoritmo",
+      "fluxograma"
+    ],
+    "errosComuns": [
+      "Copiar contas sem identificar a estrutura não garante que o procedimento sirva para outro problema."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "algoritmos_e_fluxogramas_de_problemas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual procedimento serve para qualquer número natural n de pacotes de 15 itens?",
+      "alternativas": [
+        "Usar sempre o resultado 120.",
+        "Somar 15 apenas uma vez.",
+        "Calcular 15×n.",
+        "Dividir sempre 15 por n."
+      ],
+      "correta": 2,
+      "explicacao": "Cada pacote contribui com quinze itens; o total depende da entrada n."
+    },
+    {
+      "id": "algoritmos_e_fluxogramas_de_problemas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva 12× 25 por dois algoritmos. Depois escreva e desenhe um fluxograma para calcular o total de n pacotes de 25; execute-o para n=4 e n=12.",
+      "gabarito": "12× 25=300, por exemplo 10× 25+2× 25 ou 3×(4× 25). Fluxograma: ler n, multiplicar por 25, informar o total, terminar. Saídas 100 e 300.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "12× 25=300, por exemplo 10× 25+2× 25 ou 3×(4× 25). Fluxograma: ler n, multiplicar por 25, informar o total, terminar. Saídas 100 e 300.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "algoritmo",
+    "fluxograma"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34,
+        35
+      ],
+      "paginasImpressas": "37, 38",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

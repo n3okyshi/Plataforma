@@ -2,36 +2,120 @@
   "id": "mat.ef09.circunferencia_e_circulos.angulos_em_uma_circunferencia",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 30,
+  "ordem": 22,
   "unidade": "Circunferência e Círculos",
-  "titulo": "ângulos em uma Circunferência",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Ângulos em uma Circunferência",
+  "bncc": [
+    "EF09MA11"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver relações entre ângulo central, ângulo inscrito e arco correspondente."
+    ],
+    "resumo": "Resolver relações entre ângulo central, ângulo inscrito e arco correspondente.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Ângulos na Circunferência</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo do ângulo central e do ângulo inscrito.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">👁️ Relação 2x:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O ângulo central é sempre o <strong>dobro</strong> do ângulo inscrito que \"enxerga\" o mesmo arco.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Ângulos em uma Circunferência</h2><h3>O que vamos aprender</h3><p>Resolver relações entre ângulo central, ângulo inscrito e arco correspondente.</p><h3>Ideias e relações</h3><p>Um ângulo inscrito tem vértice na circunferência e lados sobre cordas. Sua medida é a metade da medida do arco interceptado que não contém o vértice. O ângulo central associado ao mesmo arco tem medida igual à desse arco. Consequentemente, ângulos inscritos que interceptam o mesmo arco são iguais, e um ângulo inscrito que intercepta uma semicircunferência mede 90°. Identifique o arco correto antes de aplicar a relação, principalmente quando o desenho permite dois percursos entre os extremos.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Circunferência com ângulo central AOB de100 graus e ângulo inscrito APB de50 graus, ambos associados ao arco AB que não contém P.\" style=\"max-width:100%;color:inherit\"><title>Circunferência com ângulo central AOB de100 graus e ângulo inscrito APB de50 graus, ambos associados ao arco AB que não contém P.</title><circle cx=\"220\" cy=\"120\" r=\"85\" fill=\"none\" stroke=\"currentColor\"/><path d=\"M305 120 220 120 205.24 36.29M305 120 140.12 149.07 205.24 36.29\" stroke=\"#2563eb\" fill=\"none\" stroke-width=\"2\"/><g fill=\"currentColor\" font-size=\"15\"><text x=\"310\" y=\"125\">A</text><text x=\"201\" y=\"26\">B</text><text x=\"120\" y=\"163\">P</text><text x=\"222\" y=\"140\">O</text><text x=\"239\" y=\"100\">100°</text><text x=\"155\" y=\"133\">50°</text><text x=\"60\" y=\"230\">O arco considerado não contém o vértice P.</text></g></svg><h3>Exemplo resolvido</h3><p>Se o arco AB que não contém P mede 100°, o ângulo APB mede 50°. O outro arco entre A e B mede 260° e não é o arco interceptado por esse ângulo.</p><h3>Atenção ao raciocínio</h3><p>Não use sempre o menor arco: a escolha depende da posição do vértice.</p><h3>Investigue e produza</h3><p>Construa um triângulo inscrito com um lado coincidindo com o diâmetro. Meça o ângulo oposto e explique a relação com a semicircunferência. Confira com software de geometria dinâmica, se disponível.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "angulos",
+      "circunferencia"
+    ],
+    "errosComuns": [
+      "Não use sempre o menor arco: a escolha depende da posição do vértice."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "angulos_em_uma_circunferencia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um ângulo inscrito que intercepta um arco de 100° mede:",
+      "alternativas": [
+        "100°",
+        "200°",
+        "25°",
+        "50°"
+      ],
+      "correta": 3,
+      "explicacao": "A medida é metade do arco interceptado."
+    },
+    {
+      "id": "angulos_em_uma_circunferencia.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa um triângulo inscrito com um lado coincidindo com o diâmetro. Meça o ângulo oposto e explique a relação com a semicircunferência. Confira com software de geometria dinâmica, se disponível.",
+      "gabarito": "O arco interceptado é 180°, portanto o ângulo é 90°. Distinguir a justificativa geométrica da medição aproximada e manter o vértice na circunferência.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O arco interceptado é 180°, portanto o ângulo é 90°. Distinguir a justificativa geométrica da medição aproximada e manter o vértice na circunferência.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "angulos",
+    "circunferencia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        409,
+        410
+      ],
+      "paginasImpressas": "412, 413",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.circunferencia_e_circulos.circulo_e_circunferencia"
+  ],
+  "proximosPassos": [
+    "mat.ef09.circunferencia_e_circulos.circunferencia_retas_e_poligonos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

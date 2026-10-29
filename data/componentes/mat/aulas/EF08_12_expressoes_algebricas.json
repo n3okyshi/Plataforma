@@ -2,36 +2,119 @@
   "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 12,
+  "ordem": 7,
   "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
   "titulo": "Expressões Algébricas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA06"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Calcular valores numéricos de expressões usando propriedades e agrupamentos."
+    ],
+    "resumo": "Calcular valores numéricos de expressões usando propriedades e agrupamentos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Linguagem da Álgebra</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução ao uso de letras (variáveis) para representar números desconhecidos ou generalizar padrões.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔡 Valor Numérico:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">É o resultado quando trocamos a letra por um número específico e fazemos a conta.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Expressões Algébricas</h2><h3>O que vamos aprender</h3><p>Calcular valores numéricos de expressões usando propriedades e agrupamentos.</p><h3>Ideias e relações</h3><p>Para obter o valor de uma expressão algébrica, substitua cada variável pelo valor informado, usando parênteses quando necessário. A prioridade das operações continua válida: potências, multiplicações e divisões, adições e subtrações, respeitando agrupamentos. Uma expressão pode assumir valores diferentes conforme as entradas, enquanto duas expressões equivalentes assumem o mesmo valor para toda entrada permitida. Use distributiva e redução de termos semelhantes para justificar equivalência, não apenas testar um caso.</p><h3>Exemplo resolvido</h3><p>Em 2x²−3x+1, para x=−2, temos 2×(−2)²−3×(−2)+1=8+6+1=15.</p><h3>Atenção ao raciocínio</h3><p>Substituir x=−2 sem parênteses em x² pode alterar o significado da potência.</p><h3>Investigue e produza</h3><p>Verifique por propriedades se 3(x+2)+x e 4x+6 são equivalentes. Calcule ambas para x=−1 e explique o papel do teste.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "expressoes_algebricas",
+      "monomios"
+    ],
+    "errosComuns": [
+      "Substituir x=−2 sem parênteses em x² pode alterar o significado da potência."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "expressoes_algebricas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O valor de 2x²−3x+1 para x=−2 é:",
+      "alternativas": [
+        "21",
+        "−1",
+        "3",
+        "15"
+      ],
+      "correta": 3,
+      "explicacao": "O quadrado vale 4;8+6+1=15."
+    },
+    {
+      "id": "expressoes_algebricas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Verifique por propriedades se 3(x+2)+x e 4x+6 são equivalentes. Calcule ambas para x=−1 e explique o papel do teste.",
+      "gabarito": "A distributiva dá 3x+6+x=4x+6. Para−1, ambas valem 2; o teste confirma esse caso, mas a justificativa geral é a transformação algébrica.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "A distributiva dá 3x+6+x=4x+6. Para−1, ambas valem 2; o teste confirma esse caso, mas a justificativa geral é a transformação algébrica.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "expressoes_algebricas",
+    "monomios"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        207,
+        208,
+        211
+      ],
+      "paginasImpressas": "210, 211, 214",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

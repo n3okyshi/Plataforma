@@ -2,36 +2,119 @@
   "id": "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 15,
+  "ordem": 20,
   "unidade": "Grandezas Proporcionais",
   "titulo": "Porcentagem e Juros Simples",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA02"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Calcular acréscimos e decréscimos percentuais e distinguir valor da mudança e valor final."
+    ],
+    "resumo": "Calcular acréscimos e decréscimos percentuais e distinguir valor da mudança e valor final.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Educação Financeira</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aplicação de porcentagem em aumentos e descontos, e introdução aos Juros Simples.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💰 Fórmula:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\"><strong>J = C · i · t</strong> (Juros = Capital × taxa × tempo).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Porcentagem e Juros Simples</h2><h3>O que vamos aprender</h3><p>Calcular acréscimos e decréscimos percentuais e distinguir valor da mudança e valor final.</p><h3>Ideias e relações</h3><p>Uma taxa percentual tem como base uma quantidade de referência. Para um desconto de 15%, podemos somar 10% e 5%; para um aumento, acrescentamos a variação ao valor inicial. No contexto financeiro, sempre identifique a base e o período. Como aprofundamento, o modelo de juros simples mantém os juros de cada período calculados sobre o mesmo capital inicial; não representa automaticamente qualquer contrato real. Use calculadora para conferir depois de explicar o procedimento.</p><h3>Exemplo resolvido</h3><p>Um preço de R$ 200 com desconto de 15% diminui R$ 30 e fica em R$ 170. Num modelo simples de 2% por mês sobre R$ 1.000, cada mês acrescenta R$ 20; em três meses, o total seria R$ 1.060, sem outras cobranças.</p><h3>Atenção ao raciocínio</h3><p>O valor do desconto não é o preço final. Taxa e período precisam ser compatíveis.</p><h3>Investigue e produza</h3><p>Calcule o preço final de R$ 180 após aumento de 12% por duas estratégias. Depois explique a hipótese que diferencia o modelo de juros simples de uma atualização sobre o saldo anterior.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "porcentagem",
+      "juros"
+    ],
+    "errosComuns": [
+      "O valor do desconto não é o preço final. Taxa e período precisam ser compatíveis."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "porcentagem_e_juros_simples.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um produto de R$ 200 recebe desconto de 15%. O preço final é:",
+      "alternativas": [
+        "R$ 30",
+        "R$ 170",
+        "R$ 185",
+        "R$ 230"
+      ],
+      "correta": 1,
+      "explicacao": "15% de 200 são 30; 200−30=170."
+    },
+    {
+      "id": "porcentagem_e_juros_simples.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Calcule o preço final de R$ 180 após aumento de 12% por duas estratégias. Depois explique a hipótese que diferencia o modelo de juros simples de uma atualização sobre o saldo anterior.",
+      "gabarito": "O acréscimo é 21,60 e o preço final 201,60. Pode-se calcular 10%+2% ou multiplicar por 1,12. Juros simples usam a mesma base inicial a cada período.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O acréscimo é 21,60 e o preço final 201,60. Pode-se calcular 10%+2% ou multiplicar por 1,12. Juros simples usam a mesma base inicial a cada período.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "porcentagem",
+    "juros"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        196,
+        197,
+        199
+      ],
+      "paginasImpressas": "199, 200, 202",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.grandezas_proporcionais.regra_de_tres_simples"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

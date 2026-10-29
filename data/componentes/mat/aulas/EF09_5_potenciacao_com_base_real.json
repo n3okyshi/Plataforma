@@ -5,33 +5,118 @@
   "ordem": 5,
   "unidade": "Números Reais",
   "titulo": "Potenciação com Base Real",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Calcular potências reais com expoentes inteiros e fracionários em domínios explícitos."
+    ],
+    "resumo": "Calcular potências reais com expoentes inteiros e fracionários em domínios explícitos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Expoentes Fracionários</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Extensão das propriedades para bases reais e a conexão entre potência e raiz.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">☀️ O Sol e a Sombra:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Regra mnemônica: \"Quem está no sol (numerador) vai para a sombra (dentro da raiz), e quem está na sombra (denominador) vai para o sol (índice)\".</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Potenciação com Base Real</h2><h3>O que vamos aprender</h3><p>Calcular potências reais com expoentes inteiros e fracionários em domínios explícitos.</p><h3>Ideias e relações</h3><p>Potências de bases positivas admitem expoentes fracionários pela relação com raízes: a^(m/n) é a raiz de índice n de aᵐ, para n positivo. Expoentes negativos indicam inverso e exigem base não nula. As propriedades devem respeitar as condições de existência dos resultados reais. Nesta aula usamos bases positivas nos expoentes fracionários para evitar ambiguidades de domínio. Parênteses continuam necessários quando uma base é uma expressão, e uma potência de potência não se resolve somando expoentes.</p><h3>Exemplo resolvido</h3><p>81^(3/4)=(raiz quarta de 81)³=3³=27.16^(−1/2)=1/√16=1/4.</p><h3>Atenção ao raciocínio</h3><p>Uma potência com expoente negativo não tem necessariamente resultado negativo.</p><h3>Investigue e produza</h3><p>Calcule 32^(2/5) e 25^(−1/2). Escreva as formas radicais e confira os resultados por potenciação.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "potenciacao",
+      "expoentes"
+    ],
+    "errosComuns": [
+      "Uma potência com expoente negativo não tem necessariamente resultado negativo."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "potenciacao_com_base_real.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto vale 81^(3/4)?",
+      "alternativas": [
+        "12",
+        "27",
+        "243",
+        "9"
+      ],
+      "correta": 1,
+      "explicacao": "A raiz quarta de 81 é 3;3³=27."
+    },
+    {
+      "id": "potenciacao_com_base_real.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Calcule 32^(2/5) e 25^(−1/2). Escreva as formas radicais e confira os resultados por potenciação.",
+      "gabarito": "32^(2/5)=2²=4;25^(−1/2)=1/5. Conferir 2⁵=32 e 5²=25 e explicitar o inverso na segunda expressão.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "32^(2/5)=2²=4;25^(−1/2)=1/5. Conferir 2⁵=32 e 5²=25 e explicitar o inverso na segunda expressão.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "potenciacao",
+    "expoentes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        40,
+        41,
+        262
+      ],
+      "paginasImpressas": "43, 44, 265",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.numeros_reais.operacoes_com_raizes"
+  ],
+  "proximosPassos": [
+    "mat.ef09.numeros_reais.notacao_cientifica_e_ordem_de_grandeza"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

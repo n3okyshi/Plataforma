@@ -5,33 +5,117 @@
   "ordem": 3,
   "unidade": "Números Reais",
   "titulo": "Conjunto dos Números Reais",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA02"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Organizar racionais e irracionais na reta e justificar intervalos de aproximação."
+    ],
+    "resumo": "Organizar racionais e irracionais na reta e justificar intervalos de aproximação.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números Reais (R)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A união completa: Racionais + Irracionais. Agora, cada ponto da reta numérica corresponde a um único número real.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🤝 Completude:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Os irracionais preenchem as \"lacunas\" deixadas pelos racionais, formando a <strong>Reta Real</strong> contínua.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Conjunto dos Números Reais</h2><h3>O que vamos aprender</h3><p>Organizar racionais e irracionais na reta e justificar intervalos de aproximação.</p><h3>Ideias e relações</h3><p>Os números reais reúnem racionais e irracionais na mesma reta. Naturais e inteiros pertencem aos racionais, que fazem parte dos reais. Cada ponto da reta real representa um número, mas nem todo ponto corresponde a uma fração. Para estimar uma raiz positiva, compare quadrados de racionais próximos; a ordem entre números não negativos é preservada ao elevá-los ao quadrado. Uma aproximação pode ser útil num contexto e insuficiente em outro, conforme a precisão pedida.</p><h3>Exemplo resolvido</h3><p>2,2²=4,84 e 2,3²=5,29; logo 2,2&lt;√5&lt;2,3. Isso também permite concluir√5&gt;2, sem depender de uma imagem aproximada.</p><h3>Atenção ao raciocínio</h3><p>Não troque “aproximadamente” por igualdade ao registrar um irracional com poucas casas.</p><h3>Investigue e produza</h3><p>Localize−√2,0,1,5 e√5 na reta e justifique a ordem usando limites racionais.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "numeros_reais",
+      "conjuntos_numericos"
+    ],
+    "errosComuns": [
+      "Não troque “aproximadamente” por igualdade ao registrar um irracional com poucas casas."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "conjunto_dos_numeros_reais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual intervalo contém√5?",
+      "alternativas": [
+        "Entre 5 e 6",
+        "Entre 1 e 2",
+        "Entre 2,2 e 2,3",
+        "Entre 2,5 e 2,6"
+      ],
+      "correta": 2,
+      "explicacao": "Os quadrados 2,2² e 2,3² ficam de lados opostos de 5."
+    },
+    {
+      "id": "conjunto_dos_numeros_reais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Localize−√2,0,1,5 e√5 na reta e justifique a ordem usando limites racionais.",
+      "gabarito": "−√2<0<1,5<√5. Pode-se usar 1,41<√2<1,42 e 2,2<√5<2,3; manter coerência ao refletir intervalos negativos.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "−√2<0<1,5<√5. Pode-se usar 1,41<√2<1,42 e 2,2<√5<2,3; manter coerência ao refletir intervalos negativos.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "numeros_reais",
+    "conjuntos_numericos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        262,
+        263
+      ],
+      "paginasImpressas": "265, 266",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais"
+  ],
+  "proximosPassos": [
+    "mat.ef09.numeros_reais.operacoes_com_raizes"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

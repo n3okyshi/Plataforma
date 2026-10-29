@@ -2,36 +2,120 @@
   "id": "mat.ef07.grandezas_proporcionais.razao_e_proporcao",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 12,
+  "ordem": 17,
   "unidade": "Grandezas Proporcionais",
   "titulo": "Razão e Proporção",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA09",
+    "EF07MA17"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Interpretar razões e reconhecer uma relação proporcional com unidade e significado."
+    ],
+    "resumo": "Interpretar razões e reconhecer uma relação proporcional com unidade e significado.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Razão e Proporção</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Razão é uma divisão. Proporção é a igualdade entre duas razões.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">✖️ Propriedade Fundamental:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">\"O produto dos extremos é igual ao produto dos meios\" (Multiplicação cruzada).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Razão e Proporção</h2><h3>O que vamos aprender</h3><p>Interpretar razões e reconhecer uma relação proporcional com unidade e significado.</p><h3>Ideias e relações</h3><p>Uma razão compara duas quantidades por divisão, respeitando ordem e unidades. Uma proporção afirma a igualdade de duas razões. Se cada caderno custa R$ 4, o custo C e a quantidade n mantêm C/n=4 para n positivo: C=4n. A relação é diretamente proporcional porque dobrar a quantidade dobra o custo, sem parcela fixa. Comparações entre parte e parte diferem de parte e todo. Use essas relações para justificar as contas, não apenas para preencher uma tabela.</p><h3>Exemplo resolvido</h3><p>Três cadernos custam 12 e cinco custam 20 quando o preço unitário é 4. As razões 12/3 e 20/5 são iguais a 4 reais por caderno.</p><h3>Atenção ao raciocínio</h3><p>Uma taxa fixa adicional rompe a proporcionalidade direta entre custo total e quantidade.</p><h3>Investigue e produza</h3><p>Compare C=4n e C=4n+6 em uma tabela para n=1,2,3. Explique em qual delas a razão C/n é constante.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "razao",
+      "proporcao"
+    ],
+    "errosComuns": [
+      "Uma taxa fixa adicional rompe a proporcionalidade direta entre custo total e quantidade."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "razao_e_proporcao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com preço unitário constante de R$ 4, cinco cadernos custam:",
+      "alternativas": [
+        "R$ 16",
+        "R$ 20",
+        "R$ 25",
+        "R$ 9"
+      ],
+      "correta": 1,
+      "explicacao": "C=4n; para n=5, C=20."
+    },
+    {
+      "id": "razao_e_proporcao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare C=4n e C=4n+6 em uma tabela para n=1,2,3. Explique em qual delas a razão C/n é constante.",
+      "gabarito": "Primeira tabela: 4,8,12, razão sempre 4. Segunda: 10,14,18, razões 10,7,6. A taxa fixa 6 impede proporcionalidade direta.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Primeira tabela: 4,8,12, razão sempre 4. Segunda: 10,14,18, razões 10,7,6. A taxa fixa 6 impede proporcionalidade direta.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "razao",
+    "proporcao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        171,
+        174
+      ],
+      "paginasImpressas": "173, 174, 177",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "mat.ef07.multiplos_divisores_e_mdc.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Múltiplos, Divisores e MDC",
+    "aulaId": "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores",
+    "bncc": [
+      "EF07MA01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Dois sinais se repetem a cada 6 e 9 minutos. O primeiro novo encontro será em:",
+    "opcoes": [
+      "15 min",
+      "18 min",
+      "54 min",
+      "3 min"
+    ],
+    "correta": 1,
+    "explicacao": "18 é o primeiro múltiplo positivo que aparece nas duas listas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          53,
+          54,
+          66
+        ],
+        "paginasImpressas": "56, 57, 69",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.multiplos_divisores_e_mdc.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Múltiplos, Divisores e MDC",
+    "aulaId": "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas",
+    "bncc": [
+      "EF07MA01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é o maior número de kits iguais com 18 lápis e 24 borrachas, sem sobras?",
+    "opcoes": [
+      "6",
+      "12",
+      "3",
+      "4"
+    ],
+    "correta": 0,
+    "explicacao": "Os divisores comuns são 1,2,3,6; o maior é 6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          63,
+          64,
+          66,
+          67
+        ],
+        "paginasImpressas": "66, 67, 69, 70",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.multiplos_divisores_e_mdc.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Múltiplos, Divisores e MDC",
+    "aulaId": "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas",
+    "bncc": [
+      "EF07MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O maior comprimento que divide fitas de 24 e 36 cm em partes iguais sem sobras é:",
+    "opcoes": [
+      "8 cm",
+      "12 cm",
+      "24 cm",
+      "6 cm"
+    ],
+    "correta": 1,
+    "explicacao": "O maior divisor comum de 24 e 36 é 12.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          63,
+          64,
+          66,
+          67
+        ],
+        "paginasImpressas": "66, 67, 69, 70",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.multiplos_divisores_e_mdc.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Múltiplos, Divisores e MDC",
+    "aulaId": "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores",
+    "bncc": [
+      "EF07MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Eventos de 8 e 12 minutos, iniciados juntos, voltam a coincidir primeiro em:",
+    "opcoes": [
+      "24 min",
+      "96 min",
+      "4 min",
+      "20 min"
+    ],
+    "correta": 0,
+    "explicacao": "24 aparece primeiro nas duas listas de múltiplos positivos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          53,
+          54,
+          66
+        ],
+        "paginasImpressas": "56, 57, 69",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.multiplos_divisores_e_mdc.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Múltiplos, Divisores e MDC",
+    "aulaId": "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores",
+    "bncc": [
+      "EF07MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual quantidade pode ser organizada em grupos de 7 sem sobra?",
+    "opcoes": [
+      "38",
+      "35",
+      "36",
+      "37"
+    ],
+    "correta": 1,
+    "explicacao": "35=7× 5.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          53,
+          54,
+          66
+        ],
+        "paginasImpressas": "56, 57, 69",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.multiplos_divisores_e_mdc.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Múltiplos, Divisores e MDC",
+    "aulaId": "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas",
+    "bncc": [
+      "EF07MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com 30 itens A e 45 itens B, o maior número de kits iguais sem sobras é:",
+    "opcoes": [
+      "5",
+      "9",
+      "15",
+      "30"
+    ],
+    "correta": 2,
+    "explicacao": "O maior divisor comum é 15, com 2 itens A e 3 B em cada kit.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          63,
+          64,
+          66,
+          67
+        ],
+        "paginasImpressas": "66, 67, 69, 70",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.multiplos_divisores_e_mdc.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Múltiplos, Divisores e MDC",
+    "aulaId": "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores",
+    "bncc": [
+      "EF07MA01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para investigar um encontro periódico por estratégias diversas, é adequado:",
+    "opcoes": [
+      "Comparar listas de múltiplos positivos.",
+      "Subtrair sempre os períodos.",
+      "Escolher o maior período sem conferir.",
+      "Somar sempre os períodos."
+    ],
+    "correta": 0,
+    "explicacao": "As listas tornam visíveis as coincidências e seu primeiro instante positivo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          309
+        ],
+        "paginasImpressas": "307",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          53,
+          54,
+          66
+        ],
+        "paginasImpressas": "56, 57, 69",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

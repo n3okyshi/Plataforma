@@ -1,0 +1,119 @@
+{
+  "id": "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 32,
+  "unidade": "Circunferência e Lugar Geométrico",
+  "titulo": "A Circunferência como Lugar Geométrico",
+  "bncc": [
+    "EF07MA22"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Construir circunferências com compasso e interpretar a equidistância ao centro."
+    ],
+    "resumo": "Construir circunferências com compasso e interpretar a equidistância ao centro.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>A Circunferência como Lugar Geométrico</h2><h3>O que vamos aprender</h3><p>Construir circunferências com compasso e interpretar a equidistância ao centro.</p><h3>Ideias e relações</h3><p>A circunferência é o conjunto dos pontos do plano a uma mesma distância positiva de um centro. Essa distância é o raio. O círculo inclui a circunferência e a região interna. Ao usar compasso, fixe a ponta seca no centro e conserve a abertura para que todos os pontos traçados tenham o mesmo raio. Essa propriedade permite resolver posições equidistantes e criar composições artísticas com repetições de circunferências, sem depender de contornos feitos à mão livre.</p><h3>Exemplo resolvido</h3><p>Todos os pontos de uma circunferência de centro O e raio 3 cm estão a 3 cm de O. Um ponto a 2 cm fica dentro do círculo, mas não pertence à circunferência.</p><h3>Atenção ao raciocínio</h3><p>Diâmetro e raio são comprimentos diferentes: o diâmetro é duas vezes o raio.</p><h3>Investigue e produza</h3><p>Com compasso, faça uma composição de três circunferências de mesmo raio e centros diferentes. Explique o que cada curva conserva e assinale pontos a uma distância fixada de um centro.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "circunferencia",
+      "lugar_geometrico"
+    ],
+    "errosComuns": [
+      "Diâmetro e raio são comprimentos diferentes: o diâmetro é duas vezes o raio."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "circunferencia_como_lugar_geometrico.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um ponto pertence à circunferência de centro O e raio 3 cm quando sua distância a O é:",
+      "alternativas": [
+        "Menor que 3 cm.",
+        "Exatamente 3 cm.",
+        "Maior que 3 cm.",
+        "Qualquer valor."
+      ],
+      "correta": 1,
+      "explicacao": "A equidistância de 3 cm define a circunferência."
+    },
+    {
+      "id": "circunferencia_como_lugar_geometrico.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com compasso, faça uma composição de três circunferências de mesmo raio e centros diferentes. Explique o que cada curva conserva e assinale pontos a uma distância fixada de um centro.",
+      "gabarito": "Cada curva mantém a distância ao próprio centro. A produção deve usar abertura constante, centros identificados e distinção entre pontos da borda e da região interna.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Cada curva mantém a distância ao próprio centro. A produção deve usar abertura constante, centros identificados e distinção entre pontos da borda e da região interna.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "circunferencia",
+    "lugar_geometrico"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        405,
+        406
+      ],
+      "paginasImpressas": "408, 409",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef07.circunferencia_e_lugar_geometrico.o_numero_pi_e_o_comprimento_da_circunferencia"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

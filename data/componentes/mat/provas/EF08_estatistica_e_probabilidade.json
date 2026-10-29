@@ -1,0 +1,236 @@
+{
+  "id": "mat.ef08.estatistica_e_probabilidade.prova",
+  "titulo": "Avaliação: Estatística e Probabilidade",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF08",
+  "unidade": "Estatística e Probabilidade",
+  "bncc": [
+    "EF08MA03",
+    "EF08MA22",
+    "EF08MA23",
+    "EF08MA24",
+    "EF08MA25",
+    "EF08MA26",
+    "EF08MA27"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef08.estatistica_e_probabilidade.prova.01",
+    "mat.ef08.estatistica_e_probabilidade.prova.02",
+    "mat.ef08.estatistica_e_probabilidade.prova.03",
+    "mat.ef08.estatistica_e_probabilidade.prova.04",
+    "mat.ef08.estatistica_e_probabilidade.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF08MA03",
+      "questoes": [
+        "mat.ef08.estatistica_e_probabilidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc#principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA22",
+      "questoes": [
+        "mat.ef08.estatistica_e_probabilidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.probabilidade#probabilidade.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA23",
+      "questoes": [],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa#representacao_grafica_dos_dados_de_uma_pesquisa.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA24",
+      "questoes": [
+        "mat.ef08.estatistica_e_probabilidade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.classes_de_uma_variavel_continua#classes_de_uma_variavel_continua.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA25",
+      "questoes": [
+        "mat.ef08.estatistica_e_probabilidade.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central#medidas_de_tendencia_central.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA26",
+      "questoes": [],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica#termos_de_uma_pesquisa_estatistica.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA27",
+      "questoes": [
+        "mat.ef08.estatistica_e_probabilidade.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pesquisa_amostral#pesquisa_amostral.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef08.estatistica_e_probabilidade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Estatística e Probabilidade",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Compare um sorteio simples, uma seleção a cada décimo nome após início sorteado e uma amostra por séries. Explique uma vantagem, um limite e uma razão para não fazer censo. 2. Use dados fictícios de consumo mensal 12,15,11,18 e dados de categorias exclusivas A=10,B=6,C=4. Escolha e construa gráficos, justificando cada escolha. 3. Construa o espaço de dois lançamentos independentes de moeda equilibrada. Determine as chances de nenhuma, exatamente uma e duas caras e confira a soma. 4. Calcule as quatro medidas para 1,2,2,5,10. Explique uma informação que a média sozinha esconderia. 5. Conte códigos com duas letras entre A e B seguidas de um algarismo entre 0,1,2, permitindo repetições. Faça uma árvore e crie uma restrição para um segundo problema. 6. Agrupe os tempos fictícios 11,13,15,17,19,20,22,24 em classes de largura 5 a partir de 10. Faça tabela e histograma e discuta o que se perde ao agrupar. 7. Planeje e realize uma pesquisa amostral de leitura, transporte ou sustentabilidade. Justifique a seleção e produza planilha e relatório com gráficos e medidas adequadas.",
+    "gabarito": "Conferência por tarefa: 1. Identificar aleatória simples, sistemática e estratificada; discutir viés, periodicidade ou representação dos grupos. A justificativa de custo, tempo, ética ou teste destrutivo deve corresponder ao contexto. 2. Linhas são adequadas à série temporal; colunas ou setores servem às categorias, cujo total é 20. Identificar os exemplos como fictícios e incluir elementos de leitura. 3. Espaço:CC,CK,KC,KK, usando C=cara e K=coroa. Chances 1/4,2/4,1/4, que somam 1. Distinguir CK e KC como resultados ordenados. 4. Média 4, mediana 2, moda 2, amplitude 9. A média esconde a concentração dos valores baixos e a influência do extremo 10. 5. São 2× 2× 3=12 códigos. Se proibir letras iguais nas duas posições, restam 2× 1× 3=6. Outras restrições precisam ser descritas e recontadas. 6. Frequências 2,3,3 nas classes[10,15),[15,20),[20,25). O resumo não preserva cada valor individual; conferir soma 8 e identificação dos intervalos. 7. Avaliar pergunta e população, técnica executável e justificada, registros reais, gráficos identificados, medidas compatíveis com a variável e limites da generalização. Não há valores de resultado previamente fixados.",
+    "bncc": [
+      "EF08MA03",
+      "EF08MA22",
+      "EF08MA23",
+      "EF08MA24",
+      "EF08MA25",
+      "EF08MA26",
+      "EF08MA27"
+    ],
+    "atividadesOrigem": [
+      "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica#termos_de_uma_pesquisa_estatistica.investigacao",
+      "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa#representacao_grafica_dos_dados_de_uma_pesquisa.investigacao",
+      "mat.ef08.estatistica_e_probabilidade.probabilidade#probabilidade.investigacao",
+      "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central#medidas_de_tendencia_central.investigacao",
+      "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc#principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc.investigacao",
+      "mat.ef08.estatistica_e_probabilidade.classes_de_uma_variavel_continua#classes_de_uma_variavel_continua.investigacao",
+      "mat.ef08.estatistica_e_probabilidade.pesquisa_amostral#pesquisa_amostral.investigacao"
+    ],
+    "duracaoMinSugerida": 105,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Termos de uma Pesquisa Estatística",
+        "enunciado": "Compare um sorteio simples, uma seleção a cada décimo nome após início sorteado e uma amostra por séries. Explique uma vantagem, um limite e uma razão para não fazer censo.",
+        "gabarito": "Identificar aleatória simples, sistemática e estratificada; discutir viés, periodicidade ou representação dos grupos. A justificativa de custo, tempo, ética ou teste destrutivo deve corresponder ao contexto.",
+        "bncc": [
+          "EF08MA26"
+        ],
+        "atividadeOrigem": "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica#termos_de_uma_pesquisa_estatistica.investigacao"
+      },
+      {
+        "titulo": "Representação Gráfica dos Dados de uma Pesquisa",
+        "enunciado": "Use dados fictícios de consumo mensal 12,15,11,18 e dados de categorias exclusivas A=10,B=6,C=4. Escolha e construa gráficos, justificando cada escolha.",
+        "gabarito": "Linhas são adequadas à série temporal; colunas ou setores servem às categorias, cujo total é 20. Identificar os exemplos como fictícios e incluir elementos de leitura.",
+        "bncc": [
+          "EF08MA23"
+        ],
+        "atividadeOrigem": "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa#representacao_grafica_dos_dados_de_uma_pesquisa.investigacao"
+      },
+      {
+        "titulo": "Probabilidade",
+        "enunciado": "Construa o espaço de dois lançamentos independentes de moeda equilibrada. Determine as chances de nenhuma, exatamente uma e duas caras e confira a soma.",
+        "gabarito": "Espaço:CC,CK,KC,KK, usando C=cara e K=coroa. Chances 1/4,2/4,1/4, que somam 1. Distinguir CK e KC como resultados ordenados.",
+        "bncc": [
+          "EF08MA22"
+        ],
+        "atividadeOrigem": "mat.ef08.estatistica_e_probabilidade.probabilidade#probabilidade.investigacao"
+      },
+      {
+        "titulo": "Medidas de Tendência Central",
+        "enunciado": "Calcule as quatro medidas para 1,2,2,5,10. Explique uma informação que a média sozinha esconderia.",
+        "gabarito": "Média 4, mediana 2, moda 2, amplitude 9. A média esconde a concentração dos valores baixos e a influência do extremo 10.",
+        "bncc": [
+          "EF08MA25"
+        ],
+        "atividadeOrigem": "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central#medidas_de_tendencia_central.investigacao"
+      },
+      {
+        "titulo": "Princípio Multiplicativo da Contagem",
+        "enunciado": "Conte códigos com duas letras entre A e B seguidas de um algarismo entre 0,1,2, permitindo repetições. Faça uma árvore e crie uma restrição para um segundo problema.",
+        "gabarito": "São 2× 2× 3=12 códigos. Se proibir letras iguais nas duas posições, restam 2× 1× 3=6. Outras restrições precisam ser descritas e recontadas.",
+        "bncc": [
+          "EF08MA03"
+        ],
+        "atividadeOrigem": "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc#principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc.investigacao"
+      },
+      {
+        "titulo": "Classes de uma Variável Contínua",
+        "enunciado": "Agrupe os tempos fictícios 11,13,15,17,19,20,22,24 em classes de largura 5 a partir de 10. Faça tabela e histograma e discuta o que se perde ao agrupar.",
+        "gabarito": "Frequências 2,3,3 nas classes[10,15),[15,20),[20,25). O resumo não preserva cada valor individual; conferir soma 8 e identificação dos intervalos.",
+        "bncc": [
+          "EF08MA24"
+        ],
+        "atividadeOrigem": "mat.ef08.estatistica_e_probabilidade.classes_de_uma_variavel_continua#classes_de_uma_variavel_continua.investigacao"
+      },
+      {
+        "titulo": "Planejamento de Pesquisa Amostral",
+        "enunciado": "Planeje e realize uma pesquisa amostral de leitura, transporte ou sustentabilidade. Justifique a seleção e produza planilha e relatório com gráficos e medidas adequadas.",
+        "gabarito": "Avaliar pergunta e população, técnica executável e justificada, registros reais, gráficos identificados, medidas compatíveis com a variável e limites da generalização. Não há valores de resultado previamente fixados.",
+        "bncc": [
+          "EF08MA27"
+        ],
+        "atividadeOrigem": "mat.ef08.estatistica_e_probabilidade.pesquisa_amostral#pesquisa_amostral.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        180,
+        181
+      ],
+      "paginasImpressas": "183, 184",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ]
+}

@@ -2,36 +2,118 @@
   "id": "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 23,
+  "ordem": 20,
   "unidade": "Transformações Geométricas",
   "titulo": "Composição de Transformações Geométricas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA18"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Investigar a importância da ordem na composição de isometrias."
+    ],
+    "resumo": "Investigar a importância da ordem na composição de isometrias.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Composição de Movimentos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Aplicação sequencial de transformações no plano cartesiano (ex: refletir e depois girar).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎮 Programação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Essa lógica de passos sequenciais é a base da computação gráfica e da animação de jogos.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Composição de Transformações Geométricas</h2><h3>O que vamos aprender</h3><p>Investigar a importância da ordem na composição de isometrias.</p><h3>Ideias e relações</h3><p>A ordem das transformações pode mudar a imagem final. Para comparar duas composições, mantenha a figura inicial e os mesmos parâmetros e altere somente a sequência. Uma reflexão em um eixo fixo e uma translação nem sempre podem ser trocadas. Analise primeiro um ponto e depois todos os vértices da figura; um ponto que produza imagens diferentes já mostra que as duas composições não são a mesma transformação. Produza também exemplos em que a ordem não mude o resultado.</p><h3>Exemplo resolvido</h3><p>Para P(1,2), refletir no eixo y e transladar três à direita dá(2,2). Transladar primeiro e depois refletir dá(−4,2).</p><h3>Atenção ao raciocínio</h3><p>Preservar distâncias não significa que duas sequências de isometrias tenham sempre a mesma imagem.</p><h3>Investigue e produza</h3><p>Compare as duas ordens do exemplo para um triângulo de sua escolha. Faça uma composição de duas translações e investigue se trocar a ordem altera o resultado.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "transformacoes_geometricas",
+      "composicao"
+    ],
+    "errosComuns": [
+      "Preservar distâncias não significa que duas sequências de isometrias tenham sempre a mesma imagem."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "composicao_de_transformacoes_geometricas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Refletir(1,2) no eixo y e depois transladar três à direita resulta em:",
+      "alternativas": [
+        "(2,2)",
+        "(−4,2)",
+        "(4,−2)",
+        "(−2,2)"
+      ],
+      "correta": 0,
+      "explicacao": "A reflexão dá(−1,2), e a translação leva a(2,2)."
+    },
+    {
+      "id": "composicao_de_transformacoes_geometricas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare as duas ordens do exemplo para um triângulo de sua escolha. Faça uma composição de duas translações e investigue se trocar a ordem altera o resultado.",
+      "gabarito": "Reflexão e translação do exemplo produzem imagens diferentes. Duas translações somam seus vetores; nesse caso, a ordem não altera a imagem final.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Reflexão e translação do exemplo produzem imagens diferentes. Duas translações somam seus vetores; nesse caso, a ordem não altera a imagem final.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "transformacoes_geometricas",
+    "composicao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        298
+      ],
+      "paginasImpressas": "300, 301",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.transformacoes_geometricas.transformacoes_geometricas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

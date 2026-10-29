@@ -1,0 +1,452 @@
+[
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica",
+    "bncc": [
+      "EF08MA26"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Separar a população por grupos e selecionar participantes de cada grupo é amostragem:",
+    "opcoes": [
+      "Estratificada",
+      "Obrigatoriamente por conveniência",
+      "Sem população definida",
+      "Censitária"
+    ],
+    "correta": 0,
+    "explicacao": "A estratificação procura representar os grupos relevantes definidos no planejamento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa",
+    "bncc": [
+      "EF08MA23"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para acompanhar um consumo mês a mês, o tipo mais diretamente adequado é:",
+    "opcoes": [
+      "Um único ponto sem eixos",
+      "Qualquer gráfico sem escala",
+      "Linhas",
+      "Setores sem período"
+    ],
+    "correta": 2,
+    "explicacao": "A ordem temporal torna útil observar a evolução por uma linha.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.probabilidade",
+    "bncc": [
+      "EF08MA22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Numa moeda e num dado equilibrados e independentes, a chance de cara e número par é:",
+    "opcoes": [
+      "1/2",
+      "1/12",
+      "1/6",
+      "1/4"
+    ],
+    "correta": 3,
+    "explicacao": "Três dos doze pares igualmente possíveis são favoráveis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central",
+    "bncc": [
+      "EF08MA25"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A mediana de 2,3,3,4,8 é:",
+    "opcoes": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correta": 1,
+    "explicacao": "O terceiro valor da lista ordenada é 3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          180,
+          181
+        ],
+        "paginasImpressas": "183, 184",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc",
+    "bncc": [
+      "EF08MA03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Dois tamanhos, três recheios e quatro bebidas, livremente combináveis, geram:",
+    "opcoes": [
+      "12 combinações",
+      "24 combinações",
+      "32 combinações",
+      "9 combinações"
+    ],
+    "correta": 1,
+    "explicacao": "São 2× 3× 4=24 escolhas completas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.treino.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.classes_de_uma_variavel_continua",
+    "bncc": [
+      "EF08MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na divisão 10≤t<15,15≤t<20,20≤t<25, o valor 20 fica em:",
+    "opcoes": [
+      "Terceira classe",
+      "Nenhuma classe",
+      "Primeira classe",
+      "Segunda classe"
+    ],
+    "correta": 0,
+    "explicacao": "A terceira inclui 20 e exclui 25.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.treino.07",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.pesquisa_amostral",
+    "bncc": [
+      "EF08MA27"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Num relatório amostral, deve constar:",
+    "opcoes": [
+      "A certeza de que todos pensam igual.",
+      "Somente o gráfico mais bonito.",
+      "Método de seleção e limites da conclusão.",
+      "Um resultado inventado para preencher lacunas."
+    ],
+    "correta": 2,
+    "explicacao": "O método e os limites permitem avaliar o alcance dos resultados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc",
+    "bncc": [
+      "EF08MA03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com 4 camisetas e 3 calças, quantos pares de roupa distintos se formam?",
+    "opcoes": [
+      "7",
+      "4",
+      "24",
+      "12"
+    ],
+    "correta": 3,
+    "explicacao": "Para cada camiseta existem três escolhas de calça: 4 × 3 = 12.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          315
+        ],
+        "paginasImpressas": "313",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.probabilidade",
+    "bncc": [
+      "EF08MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ao lançar um dado equilibrado, a probabilidade de sair número maior que 4 é:",
+    "opcoes": [
+      "2/3",
+      "1/6",
+      "1/3",
+      "1/2"
+    ],
+    "correta": 2,
+    "explicacao": "São dois resultados favoráveis entre seis equiprováveis: 2/6 = 1/3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.classes_de_uma_variavel_continua",
+    "bncc": [
+      "EF08MA24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Nas classes [10,15) e [15,20), em qual classe entra 15?",
+    "opcoes": [
+      "Em nenhuma",
+      "Na segunda apenas",
+      "Na primeira apenas",
+      "Nas duas"
+    ],
+    "correta": 1,
+    "explicacao": "O colchete inclui 15 na segunda; o parêntese exclui 15 da primeira.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central",
+    "bncc": [
+      "EF08MA25"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Nos dados 2,3,3,8, qual é a mediana?",
+    "opcoes": [
+      "3",
+      "4",
+      "8",
+      "2"
+    ],
+    "correta": 0,
+    "explicacao": "Ordenados, os dois valores centrais são 3 e 3; mediana = 3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          180,
+          181
+        ],
+        "paginasImpressas": "183, 184",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.estatistica_e_probabilidade.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef08.estatistica_e_probabilidade.pesquisa_amostral",
+    "bncc": [
+      "EF08MA27"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para estimar o transporte de toda a escola, qual plano reduz o viés de ouvir só uma turma?",
+    "opcoes": [
+      "Ouvir apenas amigos",
+      "Ouvir somente quem chega de bicicleta",
+      "Registrar respostas inventadas",
+      "Sortear estudantes de diferentes anos proporcionalmente às matrículas"
+    ],
+    "correta": 3,
+    "explicacao": "Incluir os diferentes anos por sorteio proporcional amplia a representatividade; ainda há margem de variação amostral.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

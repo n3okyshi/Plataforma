@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.dizimas_periodicas_e_fracao_geratriz",
+  "componente": "mat",
+  "nivel": "EF08",
+  "ordem": 6,
+  "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+  "titulo": "Dízimas Periódicas e Fração Geratriz",
+  "bncc": [
+    "EF08MA05"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Obter frações geratrizes de dízimas simples e compostas justificando as operações."
+    ],
+    "resumo": "Obter frações geratrizes de dízimas simples e compostas justificando as operações.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Dízimas Periódicas e Fração Geratriz</h2><h3>O que vamos aprender</h3><p>Obter frações geratrizes de dízimas simples e compostas justificando as operações.</p><h3>Ideias e relações</h3><p>Uma dízima periódica tem um bloco de algarismos que se repete indefinidamente. Para encontrar uma fração equivalente, multiplicamos a dízima por potências de dez que alinhem partes decimais periódicas iguais; subtraí-las elimina a cauda repetida. O período pode começar logo após a vírgula ou depois de um trecho não periódico. Registre as igualdades antes de simplificar. Um decimal finito truncado é apenas uma aproximação da dízima, não o mesmo número.</p><h3>Exemplo resolvido</h3><p>Se x=0,1666…, então 10x=1,666… e 100x=16,666…. Subtraindo,90x=15; logo x=15/90=1/6. Para 0,121212…,100x−x=12 e x=12/99=4/33.</p><h3>Atenção ao raciocínio</h3><p>0,1666 com número finito de casas não é exatamente 1/6.</p><h3>Investigue e produza</h3><p>Encontre as frações geratrizes de 0,777… e 0,2333… e explique quais multiplicações alinham os períodos.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "dizimas_periodicas",
+      "fracoes"
+    ],
+    "errosComuns": [
+      "0,1666 com número finito de casas não é exatamente 1/6."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "dizimas_periodicas_e_fracao_geratriz.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A fração geratriz de 0,121212… é:",
+      "alternativas": [
+        "4/33",
+        "1/12",
+        "12/100",
+        "12/90"
+      ],
+      "correta": 0,
+      "explicacao": "100x−x=12 leva a 99x=12, ou 4/33."
+    },
+    {
+      "id": "dizimas_periodicas_e_fracao_geratriz.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Encontre as frações geratrizes de 0,777… e 0,2333… e explique quais multiplicações alinham os períodos.",
+      "gabarito": "0,777…=7/9. Para x=0,2333…,100x−10x=23,333…−2,333…=21;90x=21 e x=7/30.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "0,777…=7/9. Para x=0,2333…,100x−10x=23,333…−2,333…=21;90x=21 e x=7/30.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "dizimas_periodicas",
+    "fracoes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        96,
+        140
+      ],
+      "paginasImpressas": "98, 99, 143",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.notacao_cientifica"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

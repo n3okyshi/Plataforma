@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef09.numeros_reais.notacao_cientifica_e_ordem_de_grandeza",
+  "componente": "mat",
+  "nivel": "EF09",
+  "ordem": 6,
+  "unidade": "Números Reais",
+  "titulo": "Operações em Notação Científica",
+  "bncc": [
+    "EF09MA04"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Resolver problemas com notação científica, diferentes operações e precisão declarada."
+    ],
+    "resumo": "Resolver problemas com notação científica, diferentes operações e precisão declarada.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Operações em Notação Científica</h2><h3>O que vamos aprender</h3><p>Resolver problemas com notação científica, diferentes operações e precisão declarada.</p><h3>Ideias e relações</h3><p>Números em notação científica podem ser somados após igualar as potências de dez; em produtos e quocientes, opere os coeficientes e os expoentes e normalize a escrita. Indique unidades e diferencie dados exatos de aproximados. A escala dada pelo expoente ajuda a verificar se um resultado é plausível, mas não dispensa operar os coeficientes. A expressão 1,2× 10⁵+3,4× 10⁴ não permite simplesmente somar expoentes: são parcelas, não fatores.</p><h3>Exemplo resolvido</h3><p>1,2× 10⁵+3,4× 10⁴=1,2× 10⁵+0,34× 10⁵=1,54× 10⁵. Já(3× 10⁻⁴)×(2× 10⁵)=6× 10¹=60.</p><h3>Atenção ao raciocínio</h3><p>As regras de produtos de potências não se aplicam à adição.</p><h3>Investigue e produza</h3><p>Calcule(6× 10⁷)÷(2× 10³) e elabore um problema de medida para a operação, com unidades e interpretação.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "notacao_cientifica",
+      "potencias_de_dez"
+    ],
+    "errosComuns": [
+      "As regras de produtos de potências não se aplicam à adição."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "notacao_cientifica_e_ordem_de_grandeza.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é 1,2× 10⁵+3,4× 10⁴?",
+      "alternativas": [
+        "4,6× 10⁵",
+        "1,54× 10⁴",
+        "4,6× 10⁹",
+        "1,54× 10⁵"
+      ],
+      "correta": 3,
+      "explicacao": "Reescrevemos 3,4× 10⁴ como 0,34× 10⁵ antes de somar."
+    },
+    {
+      "id": "notacao_cientifica_e_ordem_de_grandeza.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Calcule(6× 10⁷)÷(2× 10³) e elabore um problema de medida para a operação, com unidades e interpretação.",
+      "gabarito": "O quociente é 3× 10⁴. O problema deve explicar o que está sendo dividido e se a resposta é quantidade, medida ou razão; não inventar uma medição real.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O quociente é 3× 10⁴. O problema deve explicar o que está sendo dividido e se a resposta é quantidade, medida ou razão; não inventar uma medição real.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "notacao_cientifica",
+    "potencias_de_dez"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        40,
+        41,
+        42
+      ],
+      "paginasImpressas": "43, 44, 45",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.numeros_reais.potenciacao_com_base_real"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

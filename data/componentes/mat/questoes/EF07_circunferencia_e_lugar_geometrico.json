@@ -1,0 +1,317 @@
+[
+  {
+    "id": "mat.ef07.circunferencia_e_lugar_geometrico.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Circunferência e Lugar Geométrico",
+    "aulaId": "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico",
+    "bncc": [
+      "EF07MA22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um ponto pertence à circunferência de centro O e raio 3 cm quando sua distância a O é:",
+    "opcoes": [
+      "Exatamente 3 cm.",
+      "Maior que 3 cm.",
+      "Qualquer valor.",
+      "Menor que 3 cm."
+    ],
+    "correta": 0,
+    "explicacao": "A equidistância de 3 cm define a circunferência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          405,
+          406
+        ],
+        "paginasImpressas": "408, 409",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.circunferencia_e_lugar_geometrico.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Circunferência e Lugar Geométrico",
+    "aulaId": "mat.ef07.circunferencia_e_lugar_geometrico.o_numero_pi_e_o_comprimento_da_circunferencia",
+    "bncc": [
+      "EF07MA33"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com diâmetro 10 cm e π≈3,14, o comprimento é aproximadamente:",
+    "opcoes": [
+      "31,4 cm",
+      "314 cm",
+      "15,7 cm",
+      "20 cm"
+    ],
+    "correta": 0,
+    "explicacao": "C=πd≈3,14× 10=31,4 cm.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          405,
+          406
+        ],
+        "paginasImpressas": "408, 409",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.circunferencia_e_lugar_geometrico.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Circunferência e Lugar Geométrico",
+    "aulaId": "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico",
+    "bncc": [
+      "EF07MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A circunferência de centro O e raio 4 reúne pontos:",
+    "opcoes": [
+      "A exatamente 4 de O.",
+      "A menos de 4 de O apenas.",
+      "Somente no diâmetro horizontal.",
+      "A qualquer distância de O."
+    ],
+    "correta": 0,
+    "explicacao": "A distância fixa ao centro define o lugar geométrico.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          405,
+          406
+        ],
+        "paginasImpressas": "408, 409",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.circunferencia_e_lugar_geometrico.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Circunferência e Lugar Geométrico",
+    "aulaId": "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico",
+    "bncc": [
+      "EF07MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um diâmetro de 12 corresponde ao raio:",
+    "opcoes": [
+      "12",
+      "24",
+      "3",
+      "6"
+    ],
+    "correta": 3,
+    "explicacao": "O raio é metade do diâmetro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          405,
+          406
+        ],
+        "paginasImpressas": "408, 409",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.circunferencia_e_lugar_geometrico.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Circunferência e Lugar Geométrico",
+    "aulaId": "mat.ef07.circunferencia_e_lugar_geometrico.o_numero_pi_e_o_comprimento_da_circunferencia",
+    "bncc": [
+      "EF07MA33"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A razão entre comprimento e diâmetro no modelo circular é:",
+    "opcoes": [
+      "O próprio raio.",
+      "2",
+      "π",
+      "π²"
+    ],
+    "correta": 2,
+    "explicacao": "C/d=π.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          405,
+          406
+        ],
+        "paginasImpressas": "408, 409",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.circunferencia_e_lugar_geometrico.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Circunferência e Lugar Geométrico",
+    "aulaId": "mat.ef07.circunferencia_e_lugar_geometrico.o_numero_pi_e_o_comprimento_da_circunferencia",
+    "bncc": [
+      "EF07MA33"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com diâmetro 8 e π≈3,14, o comprimento aproximado é:",
+    "opcoes": [
+      "12,56",
+      "16",
+      "25,12",
+      "50,24"
+    ],
+    "correta": 2,
+    "explicacao": "C≈3,14× 8=25,12.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          405,
+          406
+        ],
+        "paginasImpressas": "408, 409",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.circunferencia_e_lugar_geometrico.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Circunferência e Lugar Geométrico",
+    "aulaId": "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico",
+    "bncc": [
+      "EF07MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para conservar um raio com compasso, devemos:",
+    "opcoes": [
+      "Manter centro e abertura fixos para a curva.",
+      "Usar a borda da folha como centro variável.",
+      "Desenhar só uma linha reta.",
+      "Mudar a abertura durante o traçado."
+    ],
+    "correta": 0,
+    "explicacao": "A abertura constante mantém a equidistância ao centro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          311
+        ],
+        "paginasImpressas": "309",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          405,
+          406
+        ],
+        "paginasImpressas": "408, 409",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

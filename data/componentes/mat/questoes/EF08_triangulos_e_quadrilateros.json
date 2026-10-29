@@ -1,0 +1,324 @@
+[
+  {
+    "id": "mat.ef08.triangulos_e_quadrilateros.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Triângulos e Quadriláteros",
+    "aulaId": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos",
+    "bncc": [
+      "EF08MA14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual informação garante congruência por LLL?",
+    "opcoes": [
+      "Três lados correspondentes iguais.",
+      "Somente um lado igual.",
+      "Somente perímetros iguais.",
+      "Três ângulos iguais."
+    ],
+    "correta": 0,
+    "explicacao": "As três medidas de lados determinam o triângulo, até isometrias.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352,
+          353,
+          364
+        ],
+        "paginasImpressas": "355, 356, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.triangulos_e_quadrilateros.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Triângulos e Quadriláteros",
+    "aulaId": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros",
+    "bncc": [
+      "EF08MA14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Num paralelogramo, a congruência dos triângulos formados por uma diagonal permite concluir que:",
+    "opcoes": [
+      "Todos os ângulos são retos.",
+      "As diagonais sempre são perpendiculares.",
+      "Todos os lados são iguais.",
+      "Os lados opostos são iguais."
+    ],
+    "correta": 3,
+    "explicacao": "Essas hipóteses garantem igualdade de lados opostos; as demais propriedades exigem condições adicionais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352,
+          355,
+          364
+        ],
+        "paginasImpressas": "355, 358, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.triangulos_e_quadrilateros.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Triângulos e Quadriláteros",
+    "aulaId": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos",
+    "bncc": [
+      "EF08MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Dois triângulos com os três lados correspondentes iguais são congruentes pelo caso:",
+    "opcoes": [
+      "AAA",
+      "Somente AA",
+      "Nenhum caso",
+      "LLL"
+    ],
+    "correta": 3,
+    "explicacao": "Três lados correspondentes iguais determinam a congruência LLL.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352,
+          353,
+          364
+        ],
+        "paginasImpressas": "355, 356, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.triangulos_e_quadrilateros.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Triângulos e Quadriláteros",
+    "aulaId": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos",
+    "bncc": [
+      "EF08MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Só conhecer três ângulos iguais garante:",
+    "opcoes": [
+      "Lados iguais em tamanho",
+      "Área igual",
+      "Semelhança, mas não necessariamente congruência",
+      "Sempre congruência"
+    ],
+    "correta": 2,
+    "explicacao": "Triângulos de escalas diferentes podem ter os mesmos ângulos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352,
+          353,
+          364
+        ],
+        "paginasImpressas": "355, 356, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.triangulos_e_quadrilateros.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Triângulos e Quadriláteros",
+    "aulaId": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros",
+    "bncc": [
+      "EF08MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma diagonal de um paralelogramo permite provar lados opostos iguais porque:",
+    "opcoes": [
+      "Área implica lados iguais",
+      "Forma triângulos congruentes por ângulos e lado comum",
+      "Todos os quadriláteros são quadrados",
+      "Toda diagonal é mediatriz"
+    ],
+    "correta": 1,
+    "explicacao": "As paralelas fornecem ângulos alternos e a diagonal é lado comum: ALA.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352,
+          355,
+          364
+        ],
+        "paginasImpressas": "355, 358, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.triangulos_e_quadrilateros.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Triângulos e Quadriláteros",
+    "aulaId": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos",
+    "bncc": [
+      "EF08MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No caso LAL, o ângulo conhecido deve estar:",
+    "opcoes": [
+      "Entre os dois lados conhecidos",
+      "Em qualquer posição sem restrição",
+      "Fora do triângulo",
+      "Sempre oposto ao menor lado"
+    ],
+    "correta": 0,
+    "explicacao": "O ângulo compreendido entre os lados é parte da condição LAL.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352,
+          353,
+          364
+        ],
+        "paginasImpressas": "355, 356, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef08.triangulos_e_quadrilateros.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF08",
+    "unidade": "Triângulos e Quadriláteros",
+    "aulaId": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros",
+    "bncc": [
+      "EF08MA14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual justificativa permite usar ângulos alternos na prova de um paralelogramo?",
+    "opcoes": [
+      "As diagonais têm sempre o mesmo tamanho",
+      "Todos os ângulos são retos",
+      "O desenho parece simétrico",
+      "Os lados opostos são paralelos"
+    ],
+    "correta": 3,
+    "explicacao": "A definição de paralelogramo assegura o paralelismo necessário.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          317
+        ],
+        "paginasImpressas": "315",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          352,
+          355,
+          364
+        ],
+        "paginasImpressas": "355, 358, 367",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

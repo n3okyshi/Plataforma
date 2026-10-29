@@ -1,0 +1,135 @@
+{
+  "id": "mat.ef09.explorando_a_ideia_de_funcao.prova",
+  "titulo": "Avaliação: Explorando a Ideia de Função",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF09",
+  "unidade": "Explorando a Ideia de Função",
+  "bncc": [
+    "EF09MA06"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef09.explorando_a_ideia_de_funcao.prova.01",
+    "mat.ef09.explorando_a_ideia_de_funcao.prova.02",
+    "mat.ef09.explorando_a_ideia_de_funcao.prova.03",
+    "mat.ef09.explorando_a_ideia_de_funcao.prova.04",
+    "mat.ef09.explorando_a_ideia_de_funcao.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF09MA06",
+      "questoes": [
+        "mat.ef09.explorando_a_ideia_de_funcao.prova.01",
+        "mat.ef09.explorando_a_ideia_de_funcao.prova.02",
+        "mat.ef09.explorando_a_ideia_de_funcao.prova.03",
+        "mat.ef09.explorando_a_ideia_de_funcao.prova.04",
+        "mat.ef09.explorando_a_ideia_de_funcao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.explorando_a_ideia_de_funcao.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao#a_ideia_de_funcao.investigacao",
+        "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao#construcao_do_grafico_de_uma_funcao.investigacao",
+        "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica#funcao_quadratica.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef09.explorando_a_ideia_de_funcao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Explorando a Ideia de Função",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Crie uma relação funcional para uma situação cotidiana. Apresente domínio, três pares, regra e uma interpretação da saída para uma entrada escolhida. 2. Construa o gráfico de g(x)=3x−2 para domínio real e compare com uma tabela para x=0,1,2. Depois descreva o que mudaria se x fosse quantidade de ingressos. 3. Faça tabela e gráfico de h(x)=x²+1 para cinco entradas simétricas. Compare com f(x)=x²−4, identificando zeros reais e mínimos.",
+    "gabarito": "Conferência por tarefa: 1. As quatro representações devem ser coerentes e cada entrada do domínio ter uma saída única. Explicar unidades e possíveis restrições, como quantidades inteiras não negativas. 2. Pontos(0,−2),(1,1),(2,4) numa reta. Como quantidade de ingressos, o domínio deve ser restringido a inteiros não negativos e o modelo de custo precisa fazer sentido no contexto. 3. Para−2,−1,0,1,2, h produz 5,2,1,2,5. Não há zeros reais e o mínimo é 1 em 0. Em relação a f, o gráfico está cinco unidades acima.",
+    "bncc": [
+      "EF09MA06"
+    ],
+    "atividadesOrigem": [
+      "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao#a_ideia_de_funcao.investigacao",
+      "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao#construcao_do_grafico_de_uma_funcao.investigacao",
+      "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica#funcao_quadratica.investigacao"
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "A Ideia de Função",
+        "enunciado": "Crie uma relação funcional para uma situação cotidiana. Apresente domínio, três pares, regra e uma interpretação da saída para uma entrada escolhida.",
+        "gabarito": "As quatro representações devem ser coerentes e cada entrada do domínio ter uma saída única. Explicar unidades e possíveis restrições, como quantidades inteiras não negativas.",
+        "bncc": [
+          "EF09MA06"
+        ],
+        "atividadeOrigem": "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao#a_ideia_de_funcao.investigacao"
+      },
+      {
+        "titulo": "Construção do Gráfico de uma Função",
+        "enunciado": "Construa o gráfico de g(x)=3x−2 para domínio real e compare com uma tabela para x=0,1,2. Depois descreva o que mudaria se x fosse quantidade de ingressos.",
+        "gabarito": "Pontos(0,−2),(1,1),(2,4) numa reta. Como quantidade de ingressos, o domínio deve ser restringido a inteiros não negativos e o modelo de custo precisa fazer sentido no contexto.",
+        "bncc": [
+          "EF09MA06"
+        ],
+        "atividadeOrigem": "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao#construcao_do_grafico_de_uma_funcao.investigacao"
+      },
+      {
+        "titulo": "Função Quadrática",
+        "enunciado": "Faça tabela e gráfico de h(x)=x²+1 para cinco entradas simétricas. Compare com f(x)=x²−4, identificando zeros reais e mínimos.",
+        "gabarito": "Para−2,−1,0,1,2, h produz 5,2,1,2,5. Não há zeros reais e o mínimo é 1 em 0. Em relação a f, o gráfico está cinco unidades acima.",
+        "bncc": [
+          "EF09MA06"
+        ],
+        "atividadeOrigem": "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica#funcao_quadratica.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        294,
+        295,
+        300
+      ],
+      "paginasImpressas": "297, 298, 303",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        298,
+        300
+      ],
+      "paginasImpressas": "300, 301, 303",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        307,
+        308,
+        309
+      ],
+      "paginasImpressas": "310, 311, 312",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

@@ -5,33 +5,118 @@
   "ordem": 3,
   "unidade": "Números, dos Naturais aos Racionais, e Sequências",
   "titulo": "Radiciação",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA02"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Relacionar raízes a potências de expoentes fracionários e resolver problemas."
+    ],
+    "resumo": "Relacionar raízes a potências de expoentes fracionários e resolver problemas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Radiciação</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de raízes exatas e técnicas de aproximação para raízes não exatas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧊 Geometria:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Identificamos <strong>Quadrados Perfeitos</strong> (áreas de quadrados) e <strong>Cubos Perfeitos</strong> (volumes de cubos).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Radiciação</h2><h3>O que vamos aprender</h3><p>Relacionar raízes a potências de expoentes fracionários e resolver problemas.</p><h3>Ideias e relações</h3><p>A radiciação desfaz uma potência sob condições de domínio. Para a base positiva a e inteiros positivos m e n, usamos a^(m/n) como a raiz de índice n de aᵐ. A restrição de base positiva mantém simples as regras desta aula; raízes pares de negativos não são reais. A raiz quadrada principal é não negativa. Nem toda raiz é inteira, e uma aproximação decimal não substitui o valor exato quando a pergunta pede uma expressão exata.</p><h3>Exemplo resolvido</h3><p>16^(3/4)=(raiz quarta de 16)³=2³=8. Já 64^(1/3)=4, pois 4³=64.</p><h3>Atenção ao raciocínio</h3><p>√(a+b) não é, em geral, √a+√b: para 9 e 16, os resultados são 5 e 7.</p><h3>Investigue e produza</h3><p>Represente a raiz cúbica de 125 como potência fracionária e calcule 27^(2/3). Crie um problema para um dos resultados.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "radiciacao",
+      "potenciacao"
+    ],
+    "errosComuns": [
+      "√(a+b) não é, em geral, √a+√b: para 9 e 16, os resultados são 5 e 7."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "radiciacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto vale 16^(3/4)?",
+      "alternativas": [
+        "12",
+        "4",
+        "6",
+        "8"
+      ],
+      "correta": 3,
+      "explicacao": "A raiz quarta de 16 é 2;2³=8."
+    },
+    {
+      "id": "radiciacao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Represente a raiz cúbica de 125 como potência fracionária e calcule 27^(2/3). Crie um problema para um dos resultados.",
+      "gabarito": "125^(1/3)=5;27^(2/3)=3²=9. O problema deve respeitar o significado da potência e explicitar as unidades se houver medida.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "125^(1/3)=5;27^(2/3)=3²=9. O problema deve respeitar o significado da potência e explicitar as unidades se houver medida.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "radiciacao",
+    "potenciacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        45,
+        262,
+        263
+      ],
+      "paginasImpressas": "48, 265, 266",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao"
+  ],
+  "proximosPassos": [
+    "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

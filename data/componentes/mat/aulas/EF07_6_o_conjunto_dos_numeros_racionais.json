@@ -2,36 +2,119 @@
   "id": "mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 6,
+  "ordem": 8,
   "unidade": "Números Racionais",
   "titulo": "O Conjunto dos Números Racionais",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA10"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Relacionar frações, decimais e posições na reta, incluindo valores negativos."
+    ],
+    "resumo": "Relacionar frações, decimais e posições na reta, incluindo valores negativos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números Racionais (Q)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definição: todo número que pode ser escrito como fração. Isso inclui inteiros, decimais exatos e dízimas periódicas, agora também negativos.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🗺️ Na Reta:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Entre dois inteiros (ex: 1 e 2) existem infinitos números racionais.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>O Conjunto dos Números Racionais</h2><h3>O que vamos aprender</h3><p>Relacionar frações, decimais e posições na reta, incluindo valores negativos.</p><h3>Ideias e relações</h3><p>Um racional pode ser representado por uma fração de inteiros com denominador não nulo. Inteiros também são racionais: −3 = −3/1. Frações equivalentes e decimais equivalentes indicam o mesmo ponto na reta. Para comparar negativos, use sua posição: −0,5 &gt; −0,8 porque está mais à direita. A escrita decimal de um racional é finita ou infinita periódica. A representação deve manter o sinal e a unidade de referência; o denominador pode ser escolhido positivo para facilitar a leitura.</p><h3>Exemplo resolvido</h3><p>−3/4 = −0,75. Ele fica entre −1 e −0,5. Já 2/5 = 0,4 fica à direita de zero.</p><h3>Atenção ao raciocínio</h3><p>O maior módulo não determina o maior número quando os sinais são negativos.</p><h3>Investigue e produza</h3><p>Ordene −3/2, 0, −0,25 e 2/3 e localize-os em uma reta com escala indicada. Explique duas conversões utilizadas.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "numeros_racionais",
+      "conjuntos_numericos"
+    ],
+    "errosComuns": [
+      "O maior módulo não determina o maior número quando os sinais são negativos."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "o_conjunto_dos_numeros_racionais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual número é maior?",
+      "alternativas": [
+        "−0,8",
+        "−0,5",
+        "−1",
+        "−3/4"
+      ],
+      "correta": 1,
+      "explicacao": "−0,5 está mais à direita que −0,75, −0,8 e −1."
+    },
+    {
+      "id": "o_conjunto_dos_numeros_racionais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Ordene −3/2, 0, −0,25 e 2/3 e localize-os em uma reta com escala indicada. Explique duas conversões utilizadas.",
+      "gabarito": "−3/2 = −1,5 < −0,25 < 0 < 2/3. 2/3 fica aproximadamente em 0,667, sem ser igual a essa aproximação.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "−3/2 = −1,5 < −0,25 < 0 < 2/3. 2/3 fica aproximadamente em 0,667, sem ser igual a essa aproximação.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "numeros_racionais",
+    "conjuntos_numericos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        140,
+        141,
+        95
+      ],
+      "paginasImpressas": "143, 144, 98",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

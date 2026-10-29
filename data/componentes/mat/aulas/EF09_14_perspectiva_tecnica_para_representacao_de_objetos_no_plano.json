@@ -2,36 +2,111 @@
   "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 14,
+  "ordem": 25,
   "unidade": "Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
-  "titulo": "Perspectiva - Técnica Para Representação de Objetos no Plano",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Perspectiva Técnica no Plano",
+  "bncc": [
+    "EF09MA17"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Relacionar vistas ortogonais e desenho em perspectiva de objetos espaciais."
+    ],
+    "resumo": "Relacionar vistas ortogonais e desenho em perspectiva de objetos espaciais.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Vistas Ortogonais</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Como representar o 3D no papel 2D. Interpretação de vistas frontal, lateral e superior.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🏗️ Engenharia:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Essencial para leitura de projetos arquitetônicos e peças mecânicas.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Perspectiva Técnica no Plano</h2><h3>O que vamos aprender</h3><p>Relacionar vistas ortogonais e desenho em perspectiva de objetos espaciais.</p><h3>Ideias e relações</h3><p>Uma perspectiva representa três direções espaciais em um desenho; vistas ortogonais mostram o objeto a partir de direções específicas, como superior, frontal e lateral. Uma vista pode ocultar cubos ou detalhes que aparecem em outra. Defina quais direções são frente e fundo antes de comparar. Use as vistas em conjunto e considere que elas nem sempre determinam um único objeto sem informações adicionais. O desenho deve conservar as posições relativas, embora os comprimentos aparentes na perspectiva não sejam medidas diretas.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Objeto de quatro cubos unitários: base nas posições (0,0),(1,0),(1,1), com um cubo extra sobre (1,0). Vista superior em L; frontal com alturas um e dois; lateral com alturas dois e um.\" style=\"max-width:100%;color:inherit\"><title>Objeto de quatro cubos unitários: base nas posições (0,0),(1,0),(1,1), com um cubo extra sobre (1,0). Vista superior em L; frontal com alturas um e dois; lateral com alturas dois e um.</title><g fill=\"#93c5fd\" stroke=\"currentColor\"><rect x=\"80\" y=\"70\" width=\"30\" height=\"30\"/><rect x=\"50\" y=\"100\" width=\"30\" height=\"30\"/><rect x=\"80\" y=\"100\" width=\"30\" height=\"30\"/><rect x=\"190\" y=\"120\" width=\"30\" height=\"30\"/><rect x=\"220\" y=\"90\" width=\"30\" height=\"30\"/><rect x=\"220\" y=\"120\" width=\"30\" height=\"30\"/><rect x=\"325\" y=\"90\" width=\"30\" height=\"30\"/><rect x=\"325\" y=\"120\" width=\"30\" height=\"30\"/><rect x=\"355\" y=\"120\" width=\"30\" height=\"30\"/></g><g fill=\"currentColor\" font-size=\"13\"><text x=\"40\" y=\"45\">Superior</text><text x=\"183\" y=\"45\">Frontal</text><text x=\"320\" y=\"45\">Lateral</text><text x=\"25\" y=\"195\">Base: x cresce à direita; y cresce para o fundo.</text><text x=\"25\" y=\"218\">Na frontal: colunas por x. Na lateral: colunas por y.</text></g></svg><h3>Exemplo resolvido</h3><p>No modelo ilustrado, há três posições ocupadas na base e um cubo sobre a posição frontal direita. A vista superior mostra três quadrados, enquanto a frente tem colunas de alturas 1 e 2.</p><h3>Atenção ao raciocínio</h3><p>Contar somente quadrados na vista superior não informa necessariamente o número de cubos do sólido.</p><h3>Investigue e produza</h3><p>Monte o objeto descrito com quatro cubos, desenhe suas três vistas e uma perspectiva. Explique a orientação adotada e quais cubos ficam ocultos em cada vista.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "perspectiva",
+      "representacao"
+    ],
+    "errosComuns": [
+      "Contar somente quadrados na vista superior não informa necessariamente o número de cubos do sólido."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "perspectiva_tecnica_para_representacao_de_objetos_no_plano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No objeto ilustrado, três posições da base estão ocupadas e há um cubo sobre uma delas. O total é:",
+      "alternativas": [
+        "4 cubos",
+        "5 cubos",
+        "6 cubos",
+        "3 cubos"
+      ],
+      "correta": 0,
+      "explicacao": "São três cubos na camada inferior e um adicional."
+    },
+    {
+      "id": "perspectiva_tecnica_para_representacao_de_objetos_no_plano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Monte o objeto descrito com quatro cubos, desenhe suas três vistas e uma perspectiva. Explique a orientação adotada e quais cubos ficam ocultos em cada vista.",
+      "gabarito": "Base em(0,0),(1,0),(1,1), mais um cubo sobre(1,0). As vistas devem concordar com as alturas e a orientação explicitadas. Aceitar perspectivas coerentes, sem inferir volume apenas de uma projeção.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Base em(0,0),(1,0),(1,1), mais um cubo sobre(1,0). As vistas devem concordar com as alturas e a orientação explicitadas. Aceitar perspectivas coerentes, sem inferir volume apenas de uma projeção.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "perspectiva",
+    "representacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras"
+  ],
+  "proximosPassos": [
+    "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.angulos_em_retas_paralelas_cortadas_por_transversal"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

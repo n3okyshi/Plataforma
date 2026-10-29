@@ -2,36 +2,118 @@
   "id": "mat.ef09.relacoes_metricas_no_triangulo_retangulo.uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 19,
+  "ordem": 18,
   "unidade": "Relações Métricas no Triângulo Retângulo",
-  "titulo": "Uma Grande Descoberta que Envolve Medidas de Área - O Teorema de Pitágoras",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "O Teorema de Pitágoras",
+  "bncc": [
+    "EF09MA13"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Demonstrar o teorema de Pitágoras por áreas e reconhecer suas hipóteses."
+    ],
+    "resumo": "Demonstrar o teorema de Pitágoras por áreas e reconhecer suas hipóteses.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Teorema de Pitágoras</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A relação mais famosa da matemática: $a^2 = b^2 + c^2$.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🟥 Visualização:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A área do quadrado construído sobre a hipotenusa é igual à soma das áreas dos quadrados sobre os catetos.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>O Teorema de Pitágoras</h2><h3>O que vamos aprender</h3><p>Demonstrar o teorema de Pitágoras por áreas e reconhecer suas hipóteses.</p><h3>Ideias e relações</h3><p>Em um triângulo retângulo, se a é a hipotenusa e b,c são os catetos, então a²=b²+c². Uma demonstração organiza quatro cópias do triângulo em um quadrado de lado b+c, deixando no centro um quadrado de lado a. A área restante é(b+c)²−4×bc/2=b²+c², logo corresponde a a². A relação usa o ângulo reto; não deve ser aplicada a qualquer triângulo apenas por haver três lados.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Triângulo ABC retângulo em C, com altitude CD à hipotenusa AB.\" style=\"max-width:100%;color:inherit\"><title>Triângulo ABC retângulo em C, com altitude CD à hipotenusa AB.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M70 210 178 66 370 210Z\"/><path d=\"M178 66V210\" stroke-dasharray=\"5 4\"/><path d=\"M178 196H192V210\"/></g><g fill=\"currentColor\" font-size=\"16\"><text x=\"52\" y=\"230\">A</text><text x=\"375\" y=\"230\">B</text><text x=\"171\" y=\"54\">C</text><text x=\"162\" y=\"230\">D</text><text x=\"92\" y=\"131\">b</text><text x=\"285\" y=\"125\">c</text><text x=\"213\" y=\"245\">a</text><text x=\"155\" y=\"145\">h</text></g></svg><h3>Exemplo resolvido</h3><p>Com catetos 6 e 8, a²=36+64=100; a=10, pois comprimento é positivo.</p><h3>Atenção ao raciocínio</h3><p>A hipotenusa fica oposta ao ângulo reto e é o maior lado; identifique-a antes de escrever a relação.</p><h3>Investigue e produza</h3><p>Recorte quatro triângulos retângulos iguais e organize a demonstração por áreas. Registre as áreas do quadrado externo, dos triângulos e do quadrado interno.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "teorema_de_pitagoras",
+      "area"
+    ],
+    "errosComuns": [
+      "A hipotenusa fica oposta ao ângulo reto e é o maior lado; identifique-a antes de escrever a relação."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um triângulo retângulo com catetos 6 e 8 tem hipotenusa:",
+      "alternativas": [
+        "14",
+        "48",
+        "2",
+        "10"
+      ],
+      "correta": 3,
+      "explicacao": "a²=6²+8²=100, portanto a=10."
+    },
+    {
+      "id": "uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Recorte quatro triângulos retângulos iguais e organize a demonstração por áreas. Registre as áreas do quadrado externo, dos triângulos e do quadrado interno.",
+      "gabarito": "Externo(b+c)²; quatro triângulos totalizam 2bc; restante b²+c²=a². A montagem deve justificar que a região interna é um quadrado de lado a.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Externo(b+c)²; quatro triângulos totalizam 2bc; restante b²+c²=a². A montagem deve justificar que a região interna é um quadrado de lado a.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "teorema_de_pitagoras",
+    "area"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        372,
+        373
+      ],
+      "paginasImpressas": "375, 376",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef09.relacoes_metricas_no_triangulo_retangulo.os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

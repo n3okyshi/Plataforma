@@ -2,36 +2,120 @@
   "id": "mat.ef07.geometria_angulos_e_triangulos.triangulos",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 17,
+  "ordem": 27,
   "unidade": "Geometria: Ângulos e Triângulos",
   "titulo": "Triângulos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA24"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construir triângulos por três lados e verificar a existência e a soma dos ângulos internos."
+    ],
+    "resumo": "Construir triângulos por três lados e verificar a existência e a soma dos ângulos internos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Triângulos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A figura mais rígida da geometria. Classificação quanto aos lados (equilátero, isósceles, escaleno) e ângulos.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 Lei Universal:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A soma dos ângulos internos de qualquer triângulo é sempre <strong>180º</strong>.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Triângulos</h2><h3>O que vamos aprender</h3><p>Construir triângulos por três lados e verificar a existência e a soma dos ângulos internos.</p><h3>Ideias e relações</h3><p>Três comprimentos positivos formam um triângulo quando o maior é menor que a soma dos outros dois. Se forem iguais, os segmentos ficam alinhados e não formam um triângulo. Para construir, trace um lado AB; faça arcos centrados em A e B com os outros dois comprimentos e una uma intersecção a A e B. Podemos verificar a soma dos ângulos internos recortando seus três cantos e reunindo-os para formar um ângulo raso de 180°.</p><h3>Exemplo resolvido</h3><p>Os lados 3,4,5 formam triângulo porque 5&lt;3+4. Já 2,3,5 não formam: a igualdade produz alinhamento. Num triângulo com ângulos 45° e 65°, o terceiro mede 70°.</p><h3>Atenção ao raciocínio</h3><p>As três medidas precisam ser possíveis antes de iniciar o desenho.</p><h3>Investigue e produza</h3><p>Construa um triângulo equilátero de lado 5 com régua e compasso. Meça ou recorte os ângulos e explique a soma de suas medidas.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "triangulos",
+      "condicao_de_existencia"
+    ],
+    "errosComuns": [
+      "As três medidas precisam ser possíveis antes de iniciar o desenho."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "triangulos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quais comprimentos formam um triângulo?",
+      "alternativas": [
+        "1,2,4",
+        "2,3,5",
+        "2,3,6",
+        "3,4,5"
+      ],
+      "correta": 3,
+      "explicacao": "Somente no conjunto 3,4,5 o maior lado é menor que a soma dos outros dois."
+    },
+    {
+      "id": "triangulos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa um triângulo equilátero de lado 5 com régua e compasso. Meça ou recorte os ângulos e explique a soma de suas medidas.",
+      "gabarito": "Traçar AB=5, arcos de raio 5 com centros A e B e escolher uma intersecção C. Os três ângulos medem 60° no modelo e somam 180°. Registrar a precisão das medições.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Traçar AB=5, arcos de raio 5 com centros A e B e escolher uma intersecção C. Os três ângulos medem 60° no modelo e somam 180°. Registrar a precisão das medições.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "triangulos",
+    "condicao_de_existencia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344,
+        345
+      ],
+      "paginasImpressas": "347, 348",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.geometria_angulos_e_triangulos.angulos"
+  ],
+  "proximosPassos": [
+    "mat.ef07.geometria_angulos_e_triangulos.rigidez_geometrica"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

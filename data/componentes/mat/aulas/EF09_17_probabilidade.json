@@ -2,36 +2,111 @@
   "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 17,
+  "ordem": 33,
   "unidade": "Estatística, Combinatória e Probabilidade",
   "titulo": "Probabilidade",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA20"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Distinguir eventos independentes e dependentes e calcular probabilidades sucessivas."
+    ],
+    "resumo": "Distinguir eventos independentes e dependentes e calcular probabilidades sucessivas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Probabilidade Condicional</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de chances em cenários complexos. Probabilidade da união, intersecção e a Distribuição Binomial.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎲 Dado que...</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Na probabilidade condicional, o nosso \"universo\" (espaço amostral) diminui baseada em uma informação prévia.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Probabilidade</h2><h3>O que vamos aprender</h3><p>Distinguir eventos independentes e dependentes e calcular probabilidades sucessivas.</p><h3>Ideias e relações</h3><p>Eventos são independentes quando saber que um ocorreu não altera a probabilidade do outro. Nesse caso, a chance conjunta é o produto das probabilidades. Em eventos dependentes, a chance da segunda etapa deve ser calculada sob a condição produzida pela primeira. Reposição ou ausência dela pode mudar o modelo, mas analise os eventos concretos em vez de apenas decorar palavras. Uma árvore com probabilidades em cada ramo ajuda a manter os totais e as condições corretos.</p><h3>Exemplo resolvido</h3><p>Com 2 bolas vermelhas e 3 azuis iguais fora da cor, a chance de duas vermelhas em dois sorteios com reposição é(2/5)²=4/25. Sem reposição, é(2/5)×(1/4)=1/10.</p><h3>Atenção ao raciocínio</h3><p>Na segunda retirada sem reposição, quantidade total e quantidade favorável podem ter mudado.</p><h3>Investigue e produza</h3><p>Desenhe árvores para dois sorteios de um conjunto com 3 fichas claras e 2 escuras, com e sem reposição. Calcule a chance de duas claras e compare.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "probabilidade",
+      "eventos"
+    ],
+    "errosComuns": [
+      "Na segunda retirada sem reposição, quantidade total e quantidade favorável podem ter mudado."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "probabilidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No exemplo 2 vermelhas e 3 azuis, duas vermelhas sem reposição têm chance:",
+      "alternativas": [
+        "1/10",
+        "2/5",
+        "1/5",
+        "4/25"
+      ],
+      "correta": 0,
+      "explicacao": "Primeiro 2/5; após uma vermelha, resta 1 entre 4: produto 1/10."
+    },
+    {
+      "id": "probabilidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe árvores para dois sorteios de um conjunto com 3 fichas claras e 2 escuras, com e sem reposição. Calcule a chance de duas claras e compare.",
+      "gabarito": "Com reposição:3/5× 3/5=9/25. Sem:3/5× 2/4=3/10. Explicar por que a probabilidade da segunda etapa muda no segundo modelo.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Com reposição:3/5× 3/5=9/25. Sem:3/5× 2/4=3/10. Explicar por que a probabilidade da segunda etapa muda no segundo modelo.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "probabilidade",
+    "eventos"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade"
+  ],
+  "proximosPassos": [
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.escolha_e_construcao_de_graficos"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

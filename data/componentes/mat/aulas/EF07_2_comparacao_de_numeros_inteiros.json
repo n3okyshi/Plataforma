@@ -4,34 +4,116 @@
   "nivel": "EF07",
   "ordem": 2,
   "unidade": "Números Inteiros",
-  "titulo": "Comparação de números inteiros",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Comparação de Números Inteiros",
+  "bncc": [
+    "EF07MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Comparar inteiros e relacionar módulo, oposto e posição na reta."
+    ],
+    "resumo": "Comparar inteiros e relacionar módulo, oposto e posição na reta.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Quem é maior?</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estabelecimento de ordem em Z. A regra de ouro na reta numérica é: qualquer número <strong>à direita</strong> é maior que qualquer número à esquerda.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💡 Pense em Dinheiro:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Dever R$ 2,00 (-2) é uma situação \"maior\" (melhor) do que dever R$ 5,00 (-5). Logo, -2 > -5.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Comparação de Números Inteiros</h2><h3>O que vamos aprender</h3><p>Comparar inteiros e relacionar módulo, oposto e posição na reta.</p><h3>Ideias e relações</h3><p>Entre inteiros, o que está mais à direita na reta é maior. Qualquer negativo é menor que zero e que qualquer positivo. Entre dois negativos, o de menor distância ao zero é maior: −2 &gt; −7. O módulo expressa uma distância e nunca é negativo. Números opostos têm a mesma distância ao zero e sinais contrários; o oposto de zero é o próprio zero. Essas ideias ajudam a interpretar comparações em contextos sem confundir valor com distância.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Reta numérica dos inteiros de menos quatro a quatro, com intervalos iguais.\" style=\"max-width:100%;color:inherit\"><title>Reta numérica dos inteiros de menos quatro a quatro, com intervalos iguais.</title><path d=\"M35 110H410\" stroke=\"currentColor\"/><path d=\"M60 103V117\" stroke=\"currentColor\"/><text x=\"60\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-4</text><path d=\"M100 103V117\" stroke=\"currentColor\"/><text x=\"100\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-3</text><path d=\"M140 103V117\" stroke=\"currentColor\"/><text x=\"140\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-2</text><path d=\"M180 103V117\" stroke=\"currentColor\"/><text x=\"180\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-1</text><path d=\"M220 103V117\" stroke=\"currentColor\"/><text x=\"220\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">0</text><path d=\"M260 103V117\" stroke=\"currentColor\"/><text x=\"260\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">1</text><path d=\"M300 103V117\" stroke=\"currentColor\"/><text x=\"300\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">2</text><path d=\"M340 103V117\" stroke=\"currentColor\"/><text x=\"340\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">3</text><path d=\"M380 103V117\" stroke=\"currentColor\"/><text x=\"380\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">4</text><text x=\"75\" y=\"205\" fill=\"currentColor\" font-size=\"16\">Aumentam para a direita.</text></svg><h3>Exemplo resolvido</h3><p>−8 tem módulo 8 e oposto 8. Embora 8 seja maior que 3 em distância ao zero, −8 &lt; −3 na ordenação dos números.</p><h3>Atenção ao raciocínio</h3><p>Comparar módulos não é o mesmo que comparar os números com seus sinais.</p><h3>Investigue e produza</h3><p>Ordene −5, 2, −1, 0 e −8. Identifique o maior módulo e explique por que ele não pertence ao maior número da lista.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "numeros_inteiros",
+      "comparacao"
+    ],
+    "errosComuns": [
+      "Comparar módulos não é o mesmo que comparar os números com seus sinais."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "comparacao_de_numeros_inteiros.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual comparação é correta?",
+      "alternativas": [
+        "−3 > −8",
+        "0 < −3",
+        "−8 > −3",
+        "−8 = 8"
+      ],
+      "correta": 0,
+      "explicacao": "−3 está à direita de −8 na reta."
+    },
+    {
+      "id": "comparacao_de_numeros_inteiros.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Ordene −5, 2, −1, 0 e −8. Identifique o maior módulo e explique por que ele não pertence ao maior número da lista.",
+      "gabarito": "Ordem crescente: −8, −5, −1, 0, 2. O maior módulo é 8, de −8; o maior número é 2. Distância e ordenação são relações diferentes.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Ordem crescente: −8, −5, −1, 0, 2. O maior módulo é 8, de −8; o maior número é 2. Distância e ordenação são relações diferentes.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "numeros_inteiros",
+    "comparacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        131,
+        132
+      ],
+      "paginasImpressas": "134, 135",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

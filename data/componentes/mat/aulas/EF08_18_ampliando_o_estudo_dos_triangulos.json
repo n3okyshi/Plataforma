@@ -2,36 +2,119 @@
   "id": "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 18,
+  "ordem": 14,
   "unidade": "Triângulos e Quadriláteros",
   "titulo": "Ampliando o Estudo dos Triângulos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA14"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Usar critérios de congruência para sustentar demonstrações geométricas."
+    ],
+    "resumo": "Usar critérios de congruência para sustentar demonstrações geométricas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Triângulos: Congruência e Pontos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo rigoroso dos casos de congruência (LAL, LLL, ALA).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 Pontos Notáveis:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Baricentro (gravidade), Incentro, Circuncentro e Ortocentro. O \"BICO\" do triângulo.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Ampliando o Estudo dos Triângulos</h2><h3>O que vamos aprender</h3><p>Usar critérios de congruência para sustentar demonstrações geométricas.</p><h3>Ideias e relações</h3><p>Triângulos congruentes têm lados e ângulos correspondentes iguais, podendo ser sobrepostos por isometrias. Critérios como LLL, LAL e ALA permitem concluir a congruência a partir de informações suficientes. Em LAL, o ângulo informado deve estar entre os lados comparados. Três ângulos iguais garantem a mesma forma, mas não o mesmo tamanho. Identifique a correspondência entre vértices antes de transportar medidas. A congruência é uma ferramenta de prova, inclusive para propriedades de quadriláteros.</p><h3>Exemplo resolvido</h3><p>Dois triângulos com lados 3,4,5 são congruentes por LLL. Se um for ampliado para 6,8,10, mantém os ângulos, mas deixa de ser congruente ao primeiro.</p><h3>Atenção ao raciocínio</h3><p>AAA não é critério de congruência; comparar desenhos pela aparência também não é prova.</p><h3>Investigue e produza</h3><p>Desenhe um retângulo e trace uma diagonal. Identifique os dois triângulos, justifique sua congruência e explique uma propriedade que pode ser concluída.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "triangulos",
+      "congruencia"
+    ],
+    "errosComuns": [
+      "AAA não é critério de congruência; comparar desenhos pela aparência também não é prova."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "ampliando_o_estudo_dos_triangulos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual informação garante congruência por LLL?",
+      "alternativas": [
+        "Somente um lado igual.",
+        "Somente perímetros iguais.",
+        "Três ângulos iguais.",
+        "Três lados correspondentes iguais."
+      ],
+      "correta": 3,
+      "explicacao": "As três medidas de lados determinam o triângulo, até isometrias."
+    },
+    {
+      "id": "ampliando_o_estudo_dos_triangulos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe um retângulo e trace uma diagonal. Identifique os dois triângulos, justifique sua congruência e explique uma propriedade que pode ser concluída.",
+      "gabarito": "Os triângulos têm lados opostos iguais do retângulo e diagonal comum, permitindo LLL, ou ALA com paralelismo. A conclusão deve respeitar a correspondência, como igualdade dos ângulos opostos.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Os triângulos têm lados opostos iguais do retângulo e diagonal comum, permitindo LLL, ou ALA com paralelismo. A conclusão deve respeitar a correspondência, como igualdade dos ângulos opostos.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "triangulos",
+    "congruencia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        352,
+        353,
+        364
+      ],
+      "paginasImpressas": "355, 356, 367",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

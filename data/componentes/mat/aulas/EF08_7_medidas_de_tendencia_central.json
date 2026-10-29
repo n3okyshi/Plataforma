@@ -2,36 +2,122 @@
   "id": "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 7,
+  "ordem": 26,
   "unidade": "Estatística e Probabilidade",
   "titulo": "Medidas de Tendência Central",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA25"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Calcular média, moda, mediana e amplitude e discutir seus significados."
+    ],
+    "resumo": "Calcular média, moda, mediana e amplitude e discutir seus significados.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Estatística: O Centro</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resumindo um monte de dados em um único número representativo.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📊 O Trio:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Média:</strong> Soma tudo e divide pela quantidade.</li>\n                <li><strong>Mediana:</strong> O valor central (após ordenar).</li>\n                <li><strong>Moda:</strong> O que mais aparece (está na moda).</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Medidas de Tendência Central</h2><h3>O que vamos aprender</h3><p>Calcular média, moda, mediana e amplitude e discutir seus significados.</p><h3>Ideias e relações</h3><p>A média redistribui igualmente a soma; a mediana ocupa o centro dos dados ordenados e, quando há quantidade par, é a média dos dois centrais. Moda é o valor ou os valores de maior frequência; pode não haver um único destaque. A amplitude é máximo menos mínimo. Essas medidas respondem perguntas diferentes e não devem ser escolhidas apenas pelo cálculo mais fácil. Valores muito afastados podem alterar bastante a média, enquanto a mediana depende das posições centrais.</p><h3>Exemplo resolvido</h3><p>Para 2,3,3,4,8, a média é 4, a mediana 3, a moda 3 e a amplitude 6. A média 4 não elimina a existência do valor 8 nem a concentração em 3.</p><h3>Atenção ao raciocínio</h3><p>A mediana exige ordenar os dados; a posição central da lista digitada não basta.</p><h3>Investigue e produza</h3><p>Calcule as quatro medidas para 1,2,2,5,10. Explique uma informação que a média sozinha esconderia.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "media",
+      "moda",
+      "mediana"
+    ],
+    "errosComuns": [
+      "A mediana exige ordenar os dados; a posição central da lista digitada não basta."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "medidas_de_tendencia_central.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A mediana de 2,3,3,4,8 é:",
+      "alternativas": [
+        "4",
+        "6",
+        "2",
+        "3"
+      ],
+      "correta": 3,
+      "explicacao": "O terceiro valor da lista ordenada é 3."
+    },
+    {
+      "id": "medidas_de_tendencia_central.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Calcule as quatro medidas para 1,2,2,5,10. Explique uma informação que a média sozinha esconderia.",
+      "gabarito": "Média 4, mediana 2, moda 2, amplitude 9. A média esconde a concentração dos valores baixos e a influência do extremo 10.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Média 4, mediana 2, moda 2, amplitude 9. A média esconde a concentração dos valores baixos e a influência do extremo 10.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "media",
+    "moda",
+    "mediana"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        180,
+        181
+      ],
+      "paginasImpressas": "183, 184",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.estatistica_e_probabilidade.probabilidade"
+  ],
+  "proximosPassos": [
+    "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

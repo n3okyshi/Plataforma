@@ -1,0 +1,860 @@
+{
+  "nivel": "EF07",
+  "estado": "piloto_integral",
+  "aulas": 36,
+  "unidades": 13,
+  "habilidades": [
+    {
+      "codigo": "EF07MA01",
+      "aulas": [
+        "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores",
+        "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas"
+      ],
+      "atividades": [
+        "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores#problemas_com_multiplos_e_divisores.aplicacao",
+        "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores#problemas_com_multiplos_e_divisores.investigacao",
+        "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas#mdc_e_mmc_em_problemas.aplicacao",
+        "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas#mdc_e_mmc_em_problemas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.multiplos_divisores_e_mdc.treino.01",
+        "mat.ef07.multiplos_divisores_e_mdc.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef07.multiplos_divisores_e_mdc.prova.01",
+        "mat.ef07.multiplos_divisores_e_mdc.prova.02",
+        "mat.ef07.multiplos_divisores_e_mdc.prova.03",
+        "mat.ef07.multiplos_divisores_e_mdc.prova.04",
+        "mat.ef07.multiplos_divisores_e_mdc.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.multiplos_divisores_e_mdc.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA02",
+      "aulas": [
+        "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples"
+      ],
+      "atividades": [
+        "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples#porcentagem_e_juros_simples.aplicacao",
+        "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples#porcentagem_e_juros_simples.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.grandezas_proporcionais.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef07.grandezas_proporcionais.prova.04",
+        "mat.ef07.grandezas_proporcionais.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.grandezas_proporcionais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA03",
+      "aulas": [
+        "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica",
+        "mat.ef07.numeros_inteiros.comparacao_de_numeros_inteiros",
+        "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros"
+      ],
+      "atividades": [
+        "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica#numeros_inteiros_e_reta_numerica.aplicacao",
+        "mat.ef07.numeros_inteiros.numeros_inteiros_e_reta_numerica#numeros_inteiros_e_reta_numerica.investigacao",
+        "mat.ef07.numeros_inteiros.comparacao_de_numeros_inteiros#comparacao_de_numeros_inteiros.aplicacao",
+        "mat.ef07.numeros_inteiros.comparacao_de_numeros_inteiros#comparacao_de_numeros_inteiros.investigacao",
+        "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros#adicao_e_subtracao_de_inteiros.aplicacao",
+        "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros#adicao_e_subtracao_de_inteiros.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.numeros_inteiros.treino.01",
+        "mat.ef07.numeros_inteiros.treino.02",
+        "mat.ef07.operacoes_com_numeros_inteiros.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef07.numeros_inteiros.prova.01",
+        "mat.ef07.numeros_inteiros.prova.02",
+        "mat.ef07.numeros_inteiros.prova.03",
+        "mat.ef07.numeros_inteiros.prova.04",
+        "mat.ef07.numeros_inteiros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.numeros_inteiros.pratica",
+        "mat.ef07.operacoes_com_numeros_inteiros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA04",
+      "aulas": [
+        "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros",
+        "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros",
+        "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros"
+      ],
+      "atividades": [
+        "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros#adicao_e_subtracao_de_inteiros.aplicacao",
+        "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros#adicao_e_subtracao_de_inteiros.investigacao",
+        "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros#multiplicacao_e_divisao_de_inteiros.aplicacao",
+        "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros#multiplicacao_e_divisao_de_inteiros.investigacao",
+        "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros#potenciacao_e_raiz_quadrada_de_inteiros.aplicacao",
+        "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros#potenciacao_e_raiz_quadrada_de_inteiros.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.operacoes_com_numeros_inteiros.treino.01",
+        "mat.ef07.operacoes_com_numeros_inteiros.treino.02",
+        "mat.ef07.operacoes_com_numeros_inteiros.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef07.operacoes_com_numeros_inteiros.prova.01",
+        "mat.ef07.operacoes_com_numeros_inteiros.prova.02",
+        "mat.ef07.operacoes_com_numeros_inteiros.prova.03",
+        "mat.ef07.operacoes_com_numeros_inteiros.prova.04",
+        "mat.ef07.operacoes_com_numeros_inteiros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.operacoes_com_numeros_inteiros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA05",
+      "aulas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas"
+      ],
+      "atividades": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas#algoritmos_e_fluxogramas_de_problemas.aplicacao",
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas#algoritmos_e_fluxogramas_de_problemas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.treino.05"
+      ],
+      "questoesProva": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA06",
+      "aulas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas"
+      ],
+      "atividades": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas#algoritmos_e_fluxogramas_de_problemas.aplicacao",
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas#algoritmos_e_fluxogramas_de_problemas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.treino.05"
+      ],
+      "questoesProva": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA07",
+      "aulas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas"
+      ],
+      "atividades": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas#algoritmos_e_fluxogramas_de_problemas.aplicacao",
+        "mat.ef07.expressoes_algebricas_e_equacoes.algoritmos_e_fluxogramas_de_problemas#algoritmos_e_fluxogramas_de_problemas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.treino.05"
+      ],
+      "questoesProva": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA08",
+      "aulas": [
+        "mat.ef07.numeros_racionais.fracoes_e_razao"
+      ],
+      "atividades": [
+        "mat.ef07.numeros_racionais.fracoes_e_razao#fracoes_e_razao.aplicacao",
+        "mat.ef07.numeros_racionais.fracoes_e_razao#fracoes_e_razao.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.numeros_racionais.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef07.numeros_racionais.prova.03",
+        "mat.ef07.numeros_racionais.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.numeros_racionais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA09",
+      "aulas": [
+        "mat.ef07.numeros_racionais.fracoes_e_razao",
+        "mat.ef07.grandezas_proporcionais.razao_e_proporcao"
+      ],
+      "atividades": [
+        "mat.ef07.numeros_racionais.fracoes_e_razao#fracoes_e_razao.aplicacao",
+        "mat.ef07.numeros_racionais.fracoes_e_razao#fracoes_e_razao.investigacao",
+        "mat.ef07.grandezas_proporcionais.razao_e_proporcao#razao_e_proporcao.aplicacao",
+        "mat.ef07.grandezas_proporcionais.razao_e_proporcao#razao_e_proporcao.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.numeros_racionais.treino.03",
+        "mat.ef07.grandezas_proporcionais.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef07.numeros_racionais.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.numeros_racionais.pratica",
+        "mat.ef07.grandezas_proporcionais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA10",
+      "aulas": [
+        "mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais"
+      ],
+      "atividades": [
+        "mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais#o_conjunto_dos_numeros_racionais.aplicacao",
+        "mat.ef07.numeros_racionais.o_conjunto_dos_numeros_racionais#o_conjunto_dos_numeros_racionais.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.numeros_racionais.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef07.numeros_racionais.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.numeros_racionais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA11",
+      "aulas": [
+        "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais"
+      ],
+      "atividades": [
+        "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais#operacoes_com_numeros_racionais.aplicacao",
+        "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais#operacoes_com_numeros_racionais.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.numeros_racionais.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef07.numeros_racionais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.numeros_racionais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA12",
+      "aulas": [
+        "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais"
+      ],
+      "atividades": [
+        "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais#operacoes_com_numeros_racionais.aplicacao",
+        "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais#operacoes_com_numeros_racionais.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.numeros_racionais.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef07.numeros_racionais.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.numeros_racionais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA13",
+      "aulas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas"
+      ],
+      "atividades": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas#expressoes_algebricas.aplicacao",
+        "mat.ef07.expressoes_algebricas_e_equacoes.expressoes_algebricas#expressoes_algebricas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA14",
+      "aulas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica"
+      ],
+      "atividades": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica#sequencias_e_linguagem_algebrica.aplicacao",
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica#sequencias_e_linguagem_algebrica.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA15",
+      "aulas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica"
+      ],
+      "atividades": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica#sequencias_e_linguagem_algebrica.aplicacao",
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica#sequencias_e_linguagem_algebrica.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA16",
+      "aulas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica"
+      ],
+      "atividades": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica#sequencias_e_linguagem_algebrica.aplicacao",
+        "mat.ef07.expressoes_algebricas_e_equacoes.sequencias_e_linguagem_algebrica#sequencias_e_linguagem_algebrica.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA17",
+      "aulas": [
+        "mat.ef07.grandezas_proporcionais.razao_e_proporcao",
+        "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais",
+        "mat.ef07.grandezas_proporcionais.regra_de_tres_simples"
+      ],
+      "atividades": [
+        "mat.ef07.grandezas_proporcionais.razao_e_proporcao#razao_e_proporcao.aplicacao",
+        "mat.ef07.grandezas_proporcionais.razao_e_proporcao#razao_e_proporcao.investigacao",
+        "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais#grandezas_direta_e_inversamente_proporcionais.aplicacao",
+        "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais#grandezas_direta_e_inversamente_proporcionais.investigacao",
+        "mat.ef07.grandezas_proporcionais.regra_de_tres_simples#regra_de_tres_simples.aplicacao",
+        "mat.ef07.grandezas_proporcionais.regra_de_tres_simples#regra_de_tres_simples.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.grandezas_proporcionais.treino.01",
+        "mat.ef07.grandezas_proporcionais.treino.02",
+        "mat.ef07.grandezas_proporcionais.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef07.grandezas_proporcionais.prova.01",
+        "mat.ef07.grandezas_proporcionais.prova.02",
+        "mat.ef07.grandezas_proporcionais.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.grandezas_proporcionais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA18",
+      "aulas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau",
+        "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes"
+      ],
+      "atividades": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau#equacoes_do_1_grau.aplicacao",
+        "mat.ef07.expressoes_algebricas_e_equacoes.equacoes_do_1_grau#equacoes_do_1_grau.investigacao",
+        "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes#resolucao_de_problemas_com_equacoes.aplicacao",
+        "mat.ef07.expressoes_algebricas_e_equacoes.resolucao_de_problemas_com_equacoes#resolucao_de_problemas_com_equacoes.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.treino.02",
+        "mat.ef07.expressoes_algebricas_e_equacoes.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.03",
+        "mat.ef07.expressoes_algebricas_e_equacoes.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.expressoes_algebricas_e_equacoes.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA19",
+      "aulas": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.simetria_no_plano_cartesiano"
+      ],
+      "atividades": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.simetria_no_plano_cartesiano#simetria_no_plano_cartesiano.aplicacao",
+        "mat.ef07.poligonos_e_transformacoes_geometricas.simetria_no_plano_cartesiano#simetria_no_plano_cartesiano.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA20",
+      "aulas": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.simetria_no_plano_cartesiano"
+      ],
+      "atividades": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.simetria_no_plano_cartesiano#simetria_no_plano_cartesiano.aplicacao",
+        "mat.ef07.poligonos_e_transformacoes_geometricas.simetria_no_plano_cartesiano#simetria_no_plano_cartesiano.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA21",
+      "aulas": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.transformacoes_geometricas"
+      ],
+      "atividades": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.transformacoes_geometricas#transformacoes_geometricas.aplicacao",
+        "mat.ef07.poligonos_e_transformacoes_geometricas.transformacoes_geometricas#transformacoes_geometricas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA22",
+      "aulas": [
+        "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico"
+      ],
+      "atividades": [
+        "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico#circunferencia_como_lugar_geometrico.aplicacao",
+        "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico#circunferencia_como_lugar_geometrico.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.circunferencia_e_lugar_geometrico.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef07.circunferencia_e_lugar_geometrico.prova.01",
+        "mat.ef07.circunferencia_e_lugar_geometrico.prova.02",
+        "mat.ef07.circunferencia_e_lugar_geometrico.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.circunferencia_e_lugar_geometrico.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA23",
+      "aulas": [
+        "mat.ef07.geometria_angulos_e_triangulos.angulos"
+      ],
+      "atividades": [
+        "mat.ef07.geometria_angulos_e_triangulos.angulos#angulos.aplicacao",
+        "mat.ef07.geometria_angulos_e_triangulos.angulos#angulos.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.geometria_angulos_e_triangulos.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef07.geometria_angulos_e_triangulos.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.geometria_angulos_e_triangulos.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA24",
+      "aulas": [
+        "mat.ef07.geometria_angulos_e_triangulos.triangulos"
+      ],
+      "atividades": [
+        "mat.ef07.geometria_angulos_e_triangulos.triangulos#triangulos.aplicacao",
+        "mat.ef07.geometria_angulos_e_triangulos.triangulos#triangulos.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.geometria_angulos_e_triangulos.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef07.geometria_angulos_e_triangulos.prova.02",
+        "mat.ef07.geometria_angulos_e_triangulos.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.geometria_angulos_e_triangulos.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA25",
+      "aulas": [
+        "mat.ef07.geometria_angulos_e_triangulos.rigidez_geometrica"
+      ],
+      "atividades": [
+        "mat.ef07.geometria_angulos_e_triangulos.rigidez_geometrica#rigidez_geometrica.aplicacao",
+        "mat.ef07.geometria_angulos_e_triangulos.rigidez_geometrica#rigidez_geometrica.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.geometria_angulos_e_triangulos.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef07.geometria_angulos_e_triangulos.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.geometria_angulos_e_triangulos.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA26",
+      "aulas": [
+        "mat.ef07.geometria_angulos_e_triangulos.rigidez_geometrica"
+      ],
+      "atividades": [
+        "mat.ef07.geometria_angulos_e_triangulos.rigidez_geometrica#rigidez_geometrica.aplicacao",
+        "mat.ef07.geometria_angulos_e_triangulos.rigidez_geometrica#rigidez_geometrica.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.geometria_angulos_e_triangulos.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef07.geometria_angulos_e_triangulos.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.geometria_angulos_e_triangulos.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA27",
+      "aulas": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares"
+      ],
+      "atividades": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares#poligonos_regulares.aplicacao",
+        "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares#poligonos_regulares.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA28",
+      "aulas": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares"
+      ],
+      "atividades": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares#poligonos_regulares.aplicacao",
+        "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares#poligonos_regulares.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.poligonos_e_transformacoes_geometricas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA29",
+      "aulas": [
+        "mat.ef07.medidas_de_volume.problemas_de_medicao"
+      ],
+      "atividades": [
+        "mat.ef07.medidas_de_volume.problemas_de_medicao#problemas_de_medicao.aplicacao",
+        "mat.ef07.medidas_de_volume.problemas_de_medicao#problemas_de_medicao.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.medidas_de_volume.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef07.medidas_de_volume.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.medidas_de_volume.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA30",
+      "aulas": [
+        "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares",
+        "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade"
+      ],
+      "atividades": [
+        "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares#volume_de_blocos_retangulares.aplicacao",
+        "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares#volume_de_blocos_retangulares.investigacao",
+        "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade#relacao_entre_volume_e_capacidade.aplicacao",
+        "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade#relacao_entre_volume_e_capacidade.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.medidas_de_volume.treino.01",
+        "mat.ef07.medidas_de_volume.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef07.medidas_de_volume.prova.01",
+        "mat.ef07.medidas_de_volume.prova.02",
+        "mat.ef07.medidas_de_volume.prova.03",
+        "mat.ef07.medidas_de_volume.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.medidas_de_volume.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA31",
+      "aulas": [
+        "mat.ef07.area_de_figuras_planas.area_de_triangulos"
+      ],
+      "atividades": [
+        "mat.ef07.area_de_figuras_planas.area_de_triangulos#area_de_triangulos.aplicacao",
+        "mat.ef07.area_de_figuras_planas.area_de_triangulos#area_de_triangulos.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.area_de_figuras_planas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef07.area_de_figuras_planas.prova.01",
+        "mat.ef07.area_de_figuras_planas.prova.02",
+        "mat.ef07.area_de_figuras_planas.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.area_de_figuras_planas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA32",
+      "aulas": [
+        "mat.ef07.area_de_figuras_planas.areas_por_decomposicao"
+      ],
+      "atividades": [
+        "mat.ef07.area_de_figuras_planas.areas_por_decomposicao#areas_por_decomposicao.aplicacao",
+        "mat.ef07.area_de_figuras_planas.areas_por_decomposicao#areas_por_decomposicao.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.area_de_figuras_planas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef07.area_de_figuras_planas.prova.04",
+        "mat.ef07.area_de_figuras_planas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.area_de_figuras_planas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA33",
+      "aulas": [
+        "mat.ef07.circunferencia_e_lugar_geometrico.o_numero_pi_e_o_comprimento_da_circunferencia"
+      ],
+      "atividades": [
+        "mat.ef07.circunferencia_e_lugar_geometrico.o_numero_pi_e_o_comprimento_da_circunferencia#o_numero_pi_e_o_comprimento_da_circunferencia.aplicacao",
+        "mat.ef07.circunferencia_e_lugar_geometrico.o_numero_pi_e_o_comprimento_da_circunferencia#o_numero_pi_e_o_comprimento_da_circunferencia.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.circunferencia_e_lugar_geometrico.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef07.circunferencia_e_lugar_geometrico.prova.03",
+        "mat.ef07.circunferencia_e_lugar_geometrico.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.circunferencia_e_lugar_geometrico.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA34",
+      "aulas": [
+        "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade"
+      ],
+      "atividades": [
+        "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade#graficos_e_probabilidade.aplicacao",
+        "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade#graficos_e_probabilidade.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.estatistica_e_probabilidade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef07.estatistica_e_probabilidade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA35",
+      "aulas": [
+        "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central"
+      ],
+      "atividades": [
+        "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central#medidas_de_tendencia_central.aplicacao",
+        "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central#medidas_de_tendencia_central.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.estatistica_e_probabilidade.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef07.estatistica_e_probabilidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA36",
+      "aulas": [
+        "mat.ef07.estatistica_e_probabilidade.pesquisa_amostral_e_censo"
+      ],
+      "atividades": [
+        "mat.ef07.estatistica_e_probabilidade.pesquisa_amostral_e_censo#pesquisa_amostral_e_censo.aplicacao",
+        "mat.ef07.estatistica_e_probabilidade.pesquisa_amostral_e_censo#pesquisa_amostral_e_censo.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.estatistica_e_probabilidade.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef07.estatistica_e_probabilidade.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF07MA37",
+      "aulas": [
+        "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade"
+      ],
+      "atividades": [
+        "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade#graficos_e_probabilidade.aplicacao",
+        "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade#graficos_e_probabilidade.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef07.estatistica_e_probabilidade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef07.estatistica_e_probabilidade.prova.02",
+        "mat.ef07.estatistica_e_probabilidade.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    }
+  ],
+  "pendencias": [
+    "Revisão visual em navegador.",
+    "Aplicação das tarefas e homologação docente.",
+    "Persistência no ambiente Firebase."
+  ]
+}

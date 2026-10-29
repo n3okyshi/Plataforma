@@ -2,36 +2,118 @@
   "id": "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 20,
+  "ordem": 21,
   "unidade": "Medidas de Volume",
   "titulo": "Volume de Blocos Retangulares",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA30"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Calcular volumes de blocos retangulares relacionando dimensões e unidades cúbicas."
+    ],
+    "resumo": "Calcular volumes de blocos retangulares relacionando dimensões e unidades cúbicas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conceito de volume como medida do espaço ocupado. Unidades de medida cúbicas (m³, cm³).\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📦 Fórmula Básica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Para blocos retangulares: <strong>V = Comprimento × Largura × Altura</strong>.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Volume de Blocos Retangulares</h2><h3>O que vamos aprender</h3><p>Calcular volumes de blocos retangulares relacionando dimensões e unidades cúbicas.</p><h3>Ideias e relações</h3><p>Um bloco retangular pode ser contado por camadas de cubos unitários. Uma camada de comprimento a e largura b contém a×b unidades de área; com altura h, o volume é V=abh. A expressão sintetiza a contagem em três direções. Antes de calcular, escreva todas as dimensões na mesma unidade. Se usamos centímetros, o resultado é em cm³; em metros, m³. Converter uma unidade linear envolve também o número de dimensões: 1 m³ contém 100³ cm³.</p><h3>Exemplo resolvido</h3><p>Um bloco de 3 dm por 2 dm por 4 dm tem 3× 2× 4=24 dm³. São quatro camadas com seis cubinhos de 1 dm de aresta.</p><h3>Atenção ao raciocínio</h3><p>Somar os três comprimentos não fornece o volume.</p><h3>Investigue e produza</h3><p>Calcule o volume de uma caixa de 40 cm por 30 cm por 20 cm e expresse o resultado também em dm³. Justifique a conversão.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "volume",
+      "blocos_retangulares"
+    ],
+    "errosComuns": [
+      "Somar os três comprimentos não fornece o volume."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "volume_de_blocos_retangulares.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O volume de um bloco de 3 dm, 2 dm e 4 dm é:",
+      "alternativas": [
+        "12 dm³",
+        "24 dm³",
+        "48 dm³",
+        "9 dm³"
+      ],
+      "correta": 1,
+      "explicacao": "Multiplicamos as três dimensões: 3× 2× 4=24."
+    },
+    {
+      "id": "volume_de_blocos_retangulares.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Calcule o volume de uma caixa de 40 cm por 30 cm por 20 cm e expresse o resultado também em dm³. Justifique a conversão.",
+      "gabarito": "24.000 cm³. Como 1 dm³ contém 1.000 cm³, são 24 dm³. Também se pode converter dimensões para 4 dm,3 dm,2 dm e calcular.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "24.000 cm³. Como 1 dm³ contém 1.000 cm³, são 24 dm³. Também se pode converter dimensões para 4 dm,3 dm,2 dm e calcular.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "volume",
+    "blocos_retangulares"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        118,
+        119
+      ],
+      "paginasImpressas": "121, 122",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

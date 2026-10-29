@@ -1,0 +1,162 @@
+{
+  "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova",
+  "titulo": "Avaliação: Lugares Geométricos e Construções Geométricas",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF08",
+  "unidade": "Lugares Geométricos e Construções Geométricas",
+  "bncc": [
+    "EF08MA15",
+    "EF08MA16",
+    "EF08MA17"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.01",
+    "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.02",
+    "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.03",
+    "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.04",
+    "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF08MA15",
+      "questoes": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.03",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso#construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso.investigacao",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso#mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA16",
+      "questoes": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.04",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso#mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA17",
+      "questoes": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.01",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos#lugares_geometricos.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Lugares Geométricos e Construções Geométricas",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Construa a mediatriz de um segmento e ângulos de 90°,60°,45° e 30°. Identifique quais propriedades garantem cada construção e confira com transferidor. 2. Construa o hexágono de lado 4 cm com compasso e esquadro e produza seu algoritmo escrito e fluxograma, incluindo um contador de seis marcações. 3. Marque duas localidades e uma estrada que cruze a mediatriz do segmento que as une. Encontre, no desenho, uma posição na estrada equidistante das localidades. Explique o papel da intersecção.",
+    "gabarito": "Conferência por tarefa: 1. Usar arcos iguais para a mediatriz, perpendicularidade para 90°, equilátero para 60° e bissetrizes para 45° e 30°. O transferidor é uma conferência, não a justificativa geométrica. 2. Ler a>0; traçar circunferência de raio a; escolher ponto inicial; marcar seis cordas com a mesma abertura, contando as etapas; unir pontos em ordem e fechar. Justificar 60° pelos triângulos equiláteros. 3. A posição procurada é a intersecção entre estrada e mediatriz. Conferir as duas condições: pertencer à estrada e ter distâncias iguais. Discutir se a disposição escolhida dá uma ou mais soluções.",
+    "bncc": [
+      "EF08MA15",
+      "EF08MA16",
+      "EF08MA17"
+    ],
+    "atividadesOrigem": [
+      "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso#construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso.investigacao",
+      "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso#mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso.investigacao",
+      "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos#lugares_geometricos.investigacao"
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Construções com Régua, Esquadro, Transferidor e Compasso",
+        "enunciado": "Construa a mediatriz de um segmento e ângulos de 90°,60°,45° e 30°. Identifique quais propriedades garantem cada construção e confira com transferidor.",
+        "gabarito": "Usar arcos iguais para a mediatriz, perpendicularidade para 90°, equilátero para 60° e bissetrizes para 45° e 30°. O transferidor é uma conferência, não a justificativa geométrica.",
+        "bncc": [
+          "EF08MA15"
+        ],
+        "atividadeOrigem": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso#construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso.investigacao"
+      },
+      {
+        "titulo": "Hexágono Regular: Construção e Algoritmo",
+        "enunciado": "Construa o hexágono de lado 4 cm com compasso e esquadro e produza seu algoritmo escrito e fluxograma, incluindo um contador de seis marcações.",
+        "gabarito": "Ler a>0; traçar circunferência de raio a; escolher ponto inicial; marcar seis cordas com a mesma abertura, contando as etapas; unir pontos em ordem e fechar. Justificar 60° pelos triângulos equiláteros.",
+        "bncc": [
+          "EF08MA15",
+          "EF08MA16"
+        ],
+        "atividadeOrigem": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso#mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso.investigacao"
+      },
+      {
+        "titulo": "Lugares Geométricos",
+        "enunciado": "Marque duas localidades e uma estrada que cruze a mediatriz do segmento que as une. Encontre, no desenho, uma posição na estrada equidistante das localidades. Explique o papel da intersecção.",
+        "gabarito": "A posição procurada é a intersecção entre estrada e mediatriz. Conferir as duas condições: pertencer à estrada e ter distâncias iguais. Discutir se a disposição escolhida dá uma ou mais soluções.",
+        "bncc": [
+          "EF08MA17"
+        ],
+        "atividadeOrigem": "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos#lugares_geometricos.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        329,
+        330,
+        344,
+        355
+      ],
+      "paginasImpressas": "332, 333, 347, 358",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        344,
+        415,
+        416
+      ],
+      "paginasImpressas": "347, 418, 419",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        355,
+        364
+      ],
+      "paginasImpressas": "358, 367",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

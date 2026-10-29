@@ -2,36 +2,121 @@
   "id": "mat.ef07.medidas_de_volume.relacao_entre_volume_e_capacidade",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 21,
+  "ordem": 22,
   "unidade": "Medidas de Volume",
   "titulo": "Relação entre Volume e Capacidade",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA30"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Converter volume interno e capacidade sem confundir dimensões externas e internas."
+    ],
+    "resumo": "Converter volume interno e capacidade sem confundir dimensões externas e internas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume vs Capacidade</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conexão entre o sólido (m³) e o líquido que cabe nele (Litros).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💧 Conversão de Ouro:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">1 decímetro cúbico (dm³) = <strong>1 Litro</strong>.<br>1 metro cúbico (m³) = <strong>1000 Litros</strong>.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Relação entre Volume e Capacidade</h2><h3>O que vamos aprender</h3><p>Converter volume interno e capacidade sem confundir dimensões externas e internas.</p><h3>Ideias e relações</h3><p>Um litro corresponde a um decímetro cúbico e um mililitro a um centímetro cúbico. A capacidade de um recipiente depende de seu volume interno; espessuras das paredes podem tornar inadequado usar medidas externas. Uma caixa retangular interna pode ter sua capacidade calculada pelo produto das dimensões, convertido à unidade pedida. Para comparar recipientes, mantenha a mesma referência e observe se a informação indica capacidade máxima ou quantidade de líquido presente.</p><h3>Exemplo resolvido</h3><p>Um recipiente de dimensões internas 20 cm,10 cm e 15 cm tem volume de 3.000 cm³, ou 3 dm³, e capacidade de 3 L.</p><h3>Atenção ao raciocínio</h3><p>A altura exterior de um recipiente não determina sozinha quanto líquido cabe nele.</p><h3>Investigue e produza</h3><p>Projete duas caixas retangulares de capacidades iguais a 2 L e dimensões internas diferentes. Explique as unidades usadas.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "volume",
+      "capacidade"
+    ],
+    "errosComuns": [
+      "A altura exterior de um recipiente não determina sozinha quanto líquido cabe nele."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "relacao_entre_volume_e_capacidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "3.000 cm³ de volume interno correspondem a:",
+      "alternativas": [
+        "30 L",
+        "3.000 L",
+        "0,3 L",
+        "3 L"
+      ],
+      "correta": 3,
+      "explicacao": "Cada 1.000 cm³ equivale a um litro."
+    },
+    {
+      "id": "relacao_entre_volume_e_capacidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Projete duas caixas retangulares de capacidades iguais a 2 L e dimensões internas diferentes. Explique as unidades usadas.",
+      "gabarito": "Exemplos: 20× 10× 10 cm e 25× 10× 8 cm, ambas com 2.000 cm³. As medidas devem ser internas e o volume convertido corretamente.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Exemplos: 20× 10× 10 cm e 25× 10× 8 cm, ambas com 2.000 cm³. As medidas devem ser internas e o volume convertido corretamente.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "volume",
+    "capacidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        118,
+        120,
+        121
+      ],
+      "paginasImpressas": "121, 123, 124",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.medidas_de_volume.volume_de_blocos_retangulares"
+  ],
+  "proximosPassos": [
+    "mat.ef07.medidas_de_volume.problemas_de_medicao"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

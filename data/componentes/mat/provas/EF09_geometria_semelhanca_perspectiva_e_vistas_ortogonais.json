@@ -1,0 +1,157 @@
+{
+  "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova",
+  "titulo": "Avaliação: Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF09",
+  "unidade": "Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+  "bncc": [
+    "EF09MA10",
+    "EF09MA12",
+    "EF09MA17"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.01",
+    "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.02",
+    "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.03",
+    "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.04",
+    "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF09MA10",
+      "questoes": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.angulos_em_retas_paralelas_cortadas_por_transversal#angulos_em_retas_paralelas_cortadas_por_transversal.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA12",
+      "questoes": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.01",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras#semelhancas_de_figuras.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09MA17",
+      "questoes": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.03",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano#perspectiva_tecnica_para_representacao_de_objetos_no_plano.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Geometria - Semelhança, Perspectiva e Vistas Ortogonais",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Construa dois triângulos semelhantes com fator 3 e justifique por um critério. Compare com dois retângulos de mesmas aberturas angulares, mas proporções diferentes. 2. Monte o objeto descrito com quatro cubos, desenhe suas três vistas e uma perspectiva. Explique a orientação adotada e quais cubos ficam ocultos em cada vista. 3. Desenhe paralelas e uma transversal, nomeie um par de alternos internos e escreva a prova usando um correspondente e um oposto pelo vértice.",
+    "gabarito": "Conferência por tarefa: 1. Os lados dos triângulos devem ter razão 3 e ângulos compatíveis; justificar por AA, LLL proporcional ou LAL proporcional. Retângulos 2× 3 e 2× 4 mostram que ângulos iguais não bastam para polígonos gerais. 2. Base em(0,0),(1,0),(1,1), mais um cubo sobre(1,0). As vistas devem concordar com as alturas e a orientação explicitadas. Aceitar perspectivas coerentes, sem inferir volume apenas de uma projeção. 3. A nomeação deve sustentar a sequência de duas igualdades. Usar explicitamente paralelismo e oposição pelo vértice; não aceitar apenas valores medidos como demonstração geral.",
+    "bncc": [
+      "EF09MA10",
+      "EF09MA12",
+      "EF09MA17"
+    ],
+    "atividadesOrigem": [
+      "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras#semelhancas_de_figuras.investigacao",
+      "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano#perspectiva_tecnica_para_representacao_de_objetos_no_plano.investigacao",
+      "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.angulos_em_retas_paralelas_cortadas_por_transversal#angulos_em_retas_paralelas_cortadas_por_transversal.investigacao"
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Semelhança de Figuras",
+        "enunciado": "Construa dois triângulos semelhantes com fator 3 e justifique por um critério. Compare com dois retângulos de mesmas aberturas angulares, mas proporções diferentes.",
+        "gabarito": "Os lados dos triângulos devem ter razão 3 e ângulos compatíveis; justificar por AA, LLL proporcional ou LAL proporcional. Retângulos 2× 3 e 2× 4 mostram que ângulos iguais não bastam para polígonos gerais.",
+        "bncc": [
+          "EF09MA12"
+        ],
+        "atividadeOrigem": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras#semelhancas_de_figuras.investigacao"
+      },
+      {
+        "titulo": "Perspectiva Técnica no Plano",
+        "enunciado": "Monte o objeto descrito com quatro cubos, desenhe suas três vistas e uma perspectiva. Explique a orientação adotada e quais cubos ficam ocultos em cada vista.",
+        "gabarito": "Base em(0,0),(1,0),(1,1), mais um cubo sobre(1,0). As vistas devem concordar com as alturas e a orientação explicitadas. Aceitar perspectivas coerentes, sem inferir volume apenas de uma projeção.",
+        "bncc": [
+          "EF09MA17"
+        ],
+        "atividadeOrigem": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano#perspectiva_tecnica_para_representacao_de_objetos_no_plano.investigacao"
+      },
+      {
+        "titulo": "Ângulos em Retas Paralelas Cortadas por Transversal",
+        "enunciado": "Desenhe paralelas e uma transversal, nomeie um par de alternos internos e escreva a prova usando um correspondente e um oposto pelo vértice.",
+        "gabarito": "A nomeação deve sustentar a sequência de duas igualdades. Usar explicitamente paralelismo e oposição pelo vértice; não aceitar apenas valores medidos como demonstração geral.",
+        "bncc": [
+          "EF09MA10"
+        ],
+        "atividadeOrigem": "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.angulos_em_retas_paralelas_cortadas_por_transversal#angulos_em_retas_paralelas_cortadas_por_transversal.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        352,
+        370,
+        371
+      ],
+      "paginasImpressas": "355, 373, 374",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        355,
+        356,
+        357
+      ],
+      "paginasImpressas": "358, 359, 360",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

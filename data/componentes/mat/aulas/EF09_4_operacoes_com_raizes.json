@@ -5,33 +5,118 @@
   "ordem": 4,
   "unidade": "Números Reais",
   "titulo": "Operações com Raízes",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Simplificar e operar radicais reais observando domínio e termos semelhantes."
+    ],
+    "resumo": "Simplificar e operar radicais reais observando domínio e termos semelhantes.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Radiciação Avançada</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Simplificação, operações e <strong>Racionalização de Denominadores</strong> (tirar a raiz da parte de baixo da fração).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛠️ Regra Chave:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Só podemos somar raízes se o índice e o radicando forem iguais (ex: 2√3 + 5√3 = 7√3).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Operações com Raízes</h2><h3>O que vamos aprender</h3><p>Simplificar e operar radicais reais observando domínio e termos semelhantes.</p><h3>Ideias e relações</h3><p>Para radicandos não negativos,√a×√b=√(ab); na divisão, o denominador deve ser positivo. Podemos extrair fatores quadrados perfeitos para identificar termos semelhantes. Assim, somar radicais não significa colocar a soma sob uma única raiz. Outra relação importante é√(x²)=|x|, pois a raiz principal é não negativa, mesmo quando x é negativo. Mantenha valores exatos quando a pergunta não exige arredondamento e só aproxime ao final.</p><h3>Exemplo resolvido</h3><p>√12+√27=2√3+3√3=5√3. Já√9+√16=7, enquanto√(9+16)=5.</p><h3>Atenção ao raciocínio</h3><p>A distributiva funciona com radicais semelhantes, mas√a+√b não vira√(a+b) em geral.</p><h3>Investigue e produza</h3><p>Simplifique√50−√8 e√((-7)²). Explique por que o segundo resultado não é−7.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "radiciacao",
+      "operacoes"
+    ],
+    "errosComuns": [
+      "A distributiva funciona com radicais semelhantes, mas√a+√b não vira√(a+b) em geral."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "operacoes_com_raizes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é a simplificação de√12+√27?",
+      "alternativas": [
+        "√39",
+        "5√3",
+        "6√3",
+        "3√5"
+      ],
+      "correta": 1,
+      "explicacao": "Extraímos os fatores 4 e 9 dos radicandos e somamos os coeficientes 2 e 3."
+    },
+    {
+      "id": "operacoes_com_raizes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Simplifique√50−√8 e√((-7)²). Explique por que o segundo resultado não é−7.",
+      "gabarito": "√50−√8=5√2−2√2=3√2.√49=7=|−7|, pois a raiz principal é não negativa.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "√50−√8=5√2−2√2=3√2.√49=7=|−7|, pois a raiz principal é não negativa.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "radiciacao",
+    "operacoes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        262,
+        263,
+        264
+      ],
+      "paginasImpressas": "265, 266, 267",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.numeros_reais.conjunto_dos_numeros_reais"
+  ],
+  "proximosPassos": [
+    "mat.ef09.numeros_reais.potenciacao_com_base_real"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

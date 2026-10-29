@@ -2,36 +2,111 @@
   "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 15,
+  "ordem": 31,
   "unidade": "Estatística, Combinatória e Probabilidade",
   "titulo": "Estatística",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA21"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Analisar elementos de gráficos que podem induzir leituras equivocadas."
+    ],
+    "resumo": "Analisar elementos de gráficos que podem induzir leituras equivocadas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Estatística Crítica</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Análise de histogramas e polígonos de frequência. Introdução a medidas de dispersão (o quão \"espalhados\" estão os dados).\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📊 Amplitude:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Diferença entre o maior e o menor valor da amostra.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Estatística</h2><h3>O que vamos aprender</h3><p>Analisar elementos de gráficos que podem induzir leituras equivocadas.</p><h3>Ideias e relações</h3><p>Antes de aceitar uma mensagem gráfica, confira título, fonte, data, variáveis, unidades, escala, legendas e informações omitidas. Em barras, cortar o eixo pode ampliar muito a diferença aparente entre comprimentos. Em linhas, intervalos de tempo desiguais desenhados igualmente podem distorcer a percepção da evolução. Uma escolha de escala não demonstra sozinha intenção de enganar: descreva seu efeito e o que precisaria ser esclarecido. Compare a conclusão anunciada com o que os dados efetivamente permitem afirmar.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Comparação de barras dos mesmos valores fictícios95 e100: à esquerda eixo iniciado em zero; à direita eixo iniciado em90, ampliando a diferença visual.\" style=\"max-width:100%;color:inherit\"><title>Comparação de barras dos mesmos valores fictícios95 e100: à esquerda eixo iniciado em zero; à direita eixo iniciado em90, ampliando a diferença visual.</title><g stroke=\"currentColor\" fill=\"none\"><path d=\"M60 40V200H210M265 40V200H415\"/></g><g fill=\"#2563eb\"><rect x=\"95\" y=\"67\" width=\"35\" height=\"133\"/><rect x=\"155\" y=\"60\" width=\"35\" height=\"140\"/></g><g fill=\"#d97706\"><rect x=\"300\" y=\"130\" width=\"35\" height=\"70\"/><rect x=\"360\" y=\"60\" width=\"35\" height=\"140\"/></g><g fill=\"currentColor\" font-size=\"13\"><text x=\"44\" y=\"204\">0</text><text x=\"28\" y=\"63\">100</text><text x=\"245\" y=\"204\">90</text><text x=\"237\" y=\"63\">100</text><text x=\"98\" y=\"61\">95</text><text x=\"157\" y=\"54\">100</text><text x=\"302\" y=\"124\">95</text><text x=\"362\" y=\"54\">100</text><text x=\"75\" y=\"25\">Base zero</text><text x=\"285\" y=\"25\">Base90</text><text x=\"25\" y=\"230\">Mesmos dados fictícios; exemplo autoral29/10/2026.</text></g></svg><h3>Exemplo resolvido</h3><p>Os valores fictícios 95 e 100 diferem em 5 unidades. Com eixo de 90 a 100, as alturas visíveis são 5 e 10, sugerindo uma razão visual 2; com base zero, a relação entre valores é 100/95, não 2.</p><h3>Atenção ao raciocínio</h3><p>Não confunda a razão entre alturas cortadas com a razão entre os dados originais.</p><h3>Investigue e produza</h3><p>Selecione um gráfico divulgado pela mídia e analise fonte, data, escala, legenda e conclusão. Refaça uma representação e explique o efeito das escolhas, sem presumir intenção.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "estatistica",
+      "pesquisa"
+    ],
+    "errosComuns": [
+      "Não confunda a razão entre alturas cortadas com a razão entre os dados originais."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "estatistica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Barras de 95 e 100 num eixo iniciado em 90 podem:",
+      "alternativas": [
+        "Eliminar a necessidade de fonte.",
+        "Mudar os valores reais para 5 e 10.",
+        "Ampliar a diferença visual sem alterar os dados.",
+        "Provar intenção de fraude."
+      ],
+      "correta": 2,
+      "explicacao": "O recorte altera a percepção dos comprimentos; os dados continuam 95 e 100."
+    },
+    {
+      "id": "estatistica.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Selecione um gráfico divulgado pela mídia e analise fonte, data, escala, legenda e conclusão. Refaça uma representação e explique o efeito das escolhas, sem presumir intenção.",
+      "gabarito": "Conferir os dados da fonte selecionada e comparar representações coerentes. A análise deve distinguir descrição do efeito visual, omissão verificável e hipótese não comprovada sobre intenções.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Conferir os dados da fonte selecionada e comparar representações coerentes. A análise deve distinguir descrição do efeito visual, omissão verificável e hipótese não comprovada sobre intenções.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "estatistica",
+    "pesquisa"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem"
+  ],
+  "proximosPassos": [
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

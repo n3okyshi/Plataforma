@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.porcentagens_no_cotidiano",
+  "componente": "mat",
+  "nivel": "EF08",
+  "ordem": 11,
+  "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+  "titulo": "Porcentagens no Cotidiano",
+  "bncc": [
+    "EF08MA04"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Resolver e elaborar problemas percentuais e conferir procedimentos em planilha ou calculadora."
+    ],
+    "resumo": "Resolver e elaborar problemas percentuais e conferir procedimentos em planilha ou calculadora.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Porcentagens no Cotidiano</h2><h3>O que vamos aprender</h3><p>Resolver e elaborar problemas percentuais e conferir procedimentos em planilha ou calculadora.</p><h3>Ideias e relações</h3><p>Uma porcentagem sempre toma uma base de referência. Descontos, acréscimos e comparação de preços podem ser resolvidos por decomposição da taxa, fração centesimal ou multiplicador decimal. Ferramentas digitais ajudam a testar valores e comparar estratégias, mas as fórmulas devem traduzir a pergunta. Diferencie o valor da mudança e o valor final. Em uma planilha, mantenha colunas de valor inicial, taxa, variação e resultado e confira pelo menos uma linha mentalmente.</p><h3>Exemplo resolvido</h3><p>Um valor de 250 com desconto de 8% diminui 20 e fica 230. Em uma planilha, para base 250 e taxa 0,08, a variação é 250× 0,08 e o final 250−20.</p><h3>Atenção ao raciocínio</h3><p>Digitar 8 no lugar de 0,08 em uma multiplicação altera a escala da taxa.</p><h3>Investigue e produza</h3><p>Monte uma planilha de descontos de 5%,10% e 15% sobre 120. Apresente variação e preço final e confira por cálculo mental.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "porcentagem",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Digitar 8 no lugar de 0,08 em uma multiplicação altera a escala da taxa."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "porcentagens_no_cotidiano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um desconto de 8% sobre 250 produz preço final:",
+      "alternativas": [
+        "270",
+        "20",
+        "230",
+        "242"
+      ],
+      "correta": 2,
+      "explicacao": "8% de 250 são 20; o preço final é 230."
+    },
+    {
+      "id": "porcentagens_no_cotidiano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Monte uma planilha de descontos de 5%,10% e 15% sobre 120. Apresente variação e preço final e confira por cálculo mental.",
+      "gabarito": "Descontos 6,12,18; preços finais 114,108,102. Identificar a base e explicar por que a taxa decimal é 0,05,0,10 ou 0,15.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Descontos 6,12,18; preços finais 114,108,102. Identificar a base e explicar por que a taxa decimal é 0,05,0,10 ou 0,15.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "porcentagem",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        196,
+        197,
+        198
+      ],
+      "paginasImpressas": "199, 200, 201",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

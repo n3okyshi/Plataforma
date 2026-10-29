@@ -1,0 +1,122 @@
+{
+  "id": "mat.ef07.numeros_racionais.fracoes_e_razao",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 10,
+  "unidade": "Números Racionais",
+  "titulo": "Fração e Razão",
+  "bncc": [
+    "EF07MA08",
+    "EF07MA09"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Interpretar frações como parte, divisão, razão e operador, comparando unidades explícitas."
+    ],
+    "resumo": "Interpretar frações como parte, divisão, razão e operador, comparando unidades explícitas.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Fração e Razão</h2><h3>O que vamos aprender</h3><p>Interpretar frações como parte, divisão, razão e operador, comparando unidades explícitas.</p><h3>Ideias e relações</h3><p>Uma fração pode indicar parte de um inteiro, resultado de divisão, razão entre quantidades ou um operador aplicado a um todo. Os significados dependem da pergunta. Em uma coleção com 8 peças claras e 12 escuras, claras:escuras é 8/12 = 2/3; claras:total é 8/20 = 2/5. Comparar frações exige a mesma referência ou uma conversão justificada. A razão também pode relacionar grandezas diferentes, como dois litros de suco para três litros de água.</p><h3>Exemplo resolvido</h3><p>Dividir dois pães entre três pessoas dá 2/3 de pão por pessoa. Tomar 2/3 de 18 pães dá 12 pães. A escrita é a mesma, mas a relação representada é diferente.</p><h3>Atenção ao raciocínio</h3><p>Não use o total como denominador quando a pergunta compara duas partes.</p><h3>Investigue e produza</h3><p>Compare 3/4 e 5/6 por equivalência. Crie uma situação em que 3/4 seja uma razão parte–parte e outra em que seja um operador.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "fracoes",
+      "razao"
+    ],
+    "errosComuns": [
+      "Não use o total como denominador quando a pergunta compara duas partes."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "fracoes_e_razao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com 8 peças claras e 12 escuras, a razão claras:total é:",
+      "alternativas": [
+        "2/5",
+        "3/5",
+        "2/3",
+        "3/2"
+      ],
+      "correta": 0,
+      "explicacao": "São 20 peças no total; 8/20 = 2/5."
+    },
+    {
+      "id": "fracoes_e_razao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare 3/4 e 5/6 por equivalência. Crie uma situação em que 3/4 seja uma razão parte–parte e outra em que seja um operador.",
+      "gabarito": "3/4 = 9/12 < 10/12 = 5/6. Razão possível: três partes de suco para quatro de água. Operador possível: 3/4 de 20 = 15. Identificar as unidades em cada caso.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "3/4 = 9/12 < 10/12 = 5/6. Razão possível: três partes de suco para quatro de água. Operador possível: 3/4 de 20 = 15. Identificar as unidades em cada caso.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fracoes",
+    "razao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        71,
+        77,
+        82,
+        170
+      ],
+      "paginasImpressas": "74, 80, 85, 173",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.numeros_racionais.operacoes_com_numeros_racionais"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

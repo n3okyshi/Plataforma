@@ -2,36 +2,119 @@
   "id": "mat.ef09.circunferencia_e_circulos.circulo_e_circunferencia",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 28,
+  "ordem": 21,
   "unidade": "Circunferência e Círculos",
   "titulo": "Círculo e Circunferência",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA11"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Relacionar arcos, raios e ângulos centrais distinguindo círculo e circunferência."
+    ],
+    "resumo": "Relacionar arcos, raios e ângulos centrais distinguindo círculo e circunferência.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Círculo vs Circunferência</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Distinção essencial: Circunferência é a linha (borda), Círculo é a região (recheio).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⭕ Elementos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Raio, diâmetro (2x raio), corda (liga dois pontos), arco e flecha.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Círculo e Circunferência</h2><h3>O que vamos aprender</h3><p>Relacionar arcos, raios e ângulos centrais distinguindo círculo e circunferência.</p><h3>Ideias e relações</h3><p>A circunferência é a borda equidistante do centro; o círculo inclui a região interna. Um ângulo central tem vértice no centro, e a medida em graus do arco correspondente é a mesma de sua abertura. Para calcular o comprimento de um arco, use a fração da volta completa que ele representa, aplicada ao comprimento total 2πr. A medida angular de um arco não é seu comprimento: graus e centímetros são grandezas diferentes.</p><h3>Exemplo resolvido</h3><p>Um arco de 120° numa circunferência de raio 3 cm ocupa 1/3 da volta. Seu comprimento é(1/3)× 6π=2π cm.</p><h3>Atenção ao raciocínio</h3><p>120° não significa 120 cm; o comprimento também depende do raio.</p><h3>Investigue e produza</h3><p>Desenhe circunferências de raios 2 e 4 e marque em ambas um ângulo central de 90°. Compare as medidas angulares e os comprimentos dos arcos.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "circunferencia",
+      "circulo"
+    ],
+    "errosComuns": [
+      "120° não significa 120 cm; o comprimento também depende do raio."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "circulo_e_circunferencia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um arco de 120° corresponde a qual fração de uma volta?",
+      "alternativas": [
+        "1/3",
+        "1/4",
+        "2/3",
+        "1/2"
+      ],
+      "correta": 0,
+      "explicacao": "120/360=1/3."
+    },
+    {
+      "id": "circulo_e_circunferencia.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe circunferências de raios 2 e 4 e marque em ambas um ângulo central de 90°. Compare as medidas angulares e os comprimentos dos arcos.",
+      "gabarito": "Ambos os arcos medem 90°; os comprimentos sãoπ e 2π, respectivamente. O raio dobrado dobra o comprimento, mas não altera a abertura.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Ambos os arcos medem 90°; os comprimentos sãoπ e 2π, respectivamente. O raio dobrado dobra o comprimento, mas não altera a abertura.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "circunferencia",
+    "circulo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        405,
+        406,
+        409
+      ],
+      "paginasImpressas": "408, 409, 412",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef09.circunferencia_e_circulos.angulos_em_uma_circunferencia"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

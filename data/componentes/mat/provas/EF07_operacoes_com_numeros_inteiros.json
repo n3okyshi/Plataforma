@@ -1,0 +1,149 @@
+{
+  "id": "mat.ef07.operacoes_com_numeros_inteiros.prova",
+  "titulo": "Avaliação: Operações com números inteiros",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF07",
+  "unidade": "Operações com números inteiros",
+  "bncc": [
+    "EF07MA03",
+    "EF07MA04"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef07.operacoes_com_numeros_inteiros.prova.01",
+    "mat.ef07.operacoes_com_numeros_inteiros.prova.02",
+    "mat.ef07.operacoes_com_numeros_inteiros.prova.03",
+    "mat.ef07.operacoes_com_numeros_inteiros.prova.04",
+    "mat.ef07.operacoes_com_numeros_inteiros.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF07MA03",
+      "questoes": [],
+      "avaliacoesPraticas": [
+        "mat.ef07.operacoes_com_numeros_inteiros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros#adicao_e_subtracao_de_inteiros.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA04",
+      "questoes": [
+        "mat.ef07.operacoes_com_numeros_inteiros.prova.01",
+        "mat.ef07.operacoes_com_numeros_inteiros.prova.02",
+        "mat.ef07.operacoes_com_numeros_inteiros.prova.03",
+        "mat.ef07.operacoes_com_numeros_inteiros.prova.04",
+        "mat.ef07.operacoes_com_numeros_inteiros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.operacoes_com_numeros_inteiros.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros#adicao_e_subtracao_de_inteiros.investigacao",
+        "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros#multiplicacao_e_divisao_de_inteiros.investigacao",
+        "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros#potenciacao_e_raiz_quadrada_de_inteiros.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef07.operacoes_com_numeros_inteiros.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Operações com números inteiros",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Crie um problema de saldo ou temperatura para −12 + 20 − 15. Resolva pela reta e por agrupamento de parcelas. 2. Complete a sequência 2× 3, 2× 2, 2× 1, 2× 0, 2×(−1), 2×(−2). Explique o padrão e confira (−30) ÷ (−5). 3. Compare (−5)² e −5². Depois explique por que √49 = 7 não contradiz (−7)² = 49.",
+    "gabarito": "Conferência por tarefa: 1. O resultado é −7. O contexto deve representar corretamente as três posições ou variações; as duas estratégias devem levar ao mesmo valor. 2. A sequência é 6,4,2,0,−2,−4, diminuindo dois a cada etapa. O quociente é 6 e sua conferência é (−5)× 6 = −30. 3. Os resultados são 25 e −25. √49 designa a raiz principal, não negativa; a equação x² = 49 tem duas soluções reais.",
+    "bncc": [
+      "EF07MA03",
+      "EF07MA04"
+    ],
+    "atividadesOrigem": [
+      "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros#adicao_e_subtracao_de_inteiros.investigacao",
+      "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros#multiplicacao_e_divisao_de_inteiros.investigacao",
+      "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros#potenciacao_e_raiz_quadrada_de_inteiros.investigacao"
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Adição e Subtração de Inteiros",
+        "enunciado": "Crie um problema de saldo ou temperatura para −12 + 20 − 15. Resolva pela reta e por agrupamento de parcelas.",
+        "gabarito": "O resultado é −7. O contexto deve representar corretamente as três posições ou variações; as duas estratégias devem levar ao mesmo valor.",
+        "bncc": [
+          "EF07MA03",
+          "EF07MA04"
+        ],
+        "atividadeOrigem": "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros#adicao_e_subtracao_de_inteiros.investigacao"
+      },
+      {
+        "titulo": "Multiplicação e Divisão de Inteiros",
+        "enunciado": "Complete a sequência 2× 3, 2× 2, 2× 1, 2× 0, 2×(−1), 2×(−2). Explique o padrão e confira (−30) ÷ (−5).",
+        "gabarito": "A sequência é 6,4,2,0,−2,−4, diminuindo dois a cada etapa. O quociente é 6 e sua conferência é (−5)× 6 = −30.",
+        "bncc": [
+          "EF07MA04"
+        ],
+        "atividadeOrigem": "mat.ef07.operacoes_com_numeros_inteiros.multiplicacao_e_divisao_de_inteiros#multiplicacao_e_divisao_de_inteiros.investigacao"
+      },
+      {
+        "titulo": "Potenciação e Raiz Quadrada de Inteiros",
+        "enunciado": "Compare (−5)² e −5². Depois explique por que √49 = 7 não contradiz (−7)² = 49.",
+        "gabarito": "Os resultados são 25 e −25. √49 designa a raiz principal, não negativa; a equação x² = 49 tem duas soluções reais.",
+        "bncc": [
+          "EF07MA04"
+        ],
+        "atividadeOrigem": "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros#potenciacao_e_raiz_quadrada_de_inteiros.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        132,
+        133,
+        134
+      ],
+      "paginasImpressas": "135, 136, 137",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        135,
+        136,
+        137
+      ],
+      "paginasImpressas": "138, 139, 140",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        40,
+        41,
+        45,
+        137
+      ],
+      "paginasImpressas": "43, 44, 48, 140",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

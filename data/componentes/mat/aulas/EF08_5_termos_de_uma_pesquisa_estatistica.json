@@ -2,36 +2,109 @@
   "id": "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 5,
+  "ordem": 23,
   "unidade": "Estatística e Probabilidade",
   "titulo": "Termos de uma Pesquisa Estatística",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF08MA26"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Distinguir população e amostra e justificar técnicas de seleção e razões para amostragem."
+    ],
+    "resumo": "Distinguir população e amostra e justificar técnicas de seleção e razões para amostragem.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Linguagem da Estatística</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Definições fundamentais: População (todos) vs Amostra (parte).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📊 Tipos de Variáveis:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Qualitativas:</strong> Qualidades (Nominais/Ordinais).</li>\n                <li><strong>Quantitativas:</strong> Números (Discretas/Contínuas).</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Termos de uma Pesquisa Estatística</h2><h3>O que vamos aprender</h3><p>Distinguir população e amostra e justificar técnicas de seleção e razões para amostragem.</p><h3>Ideias e relações</h3><p>Uma pesquisa censitária observa toda a população definida; uma amostral observa uma parte. Há razões econômicas, físicas e éticas para amostrar: tempo e custo, testes que danificam um produto ou coleta de informações desnecessárias. Na amostragem aleatória simples, todos os elementos devem ter chance conhecida de seleção; na sistemática, seleciona-se por intervalo após um início sorteado; na estratificada, a população é dividida em grupos relevantes e selecionam-se participantes de cada grupo. A técnica precisa combinar com a pergunta.</p><h3>Exemplo resolvido</h3><p>Para avaliar um lote de lâmpadas por um teste que as desgasta, testar todas impediria vender o lote. Uma amostra bem planejada é mais adequada que uma escolha apenas das lâmpadas mais acessíveis.</p><h3>Atenção ao raciocínio</h3><p>Consultar só quem está próximo não equivale a sortear uma amostra.</p><h3>Investigue e produza</h3><p>Compare um sorteio simples, uma seleção a cada décimo nome após início sorteado e uma amostra por séries. Explique uma vantagem, um limite e uma razão para não fazer censo.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "pesquisa",
+      "amostra"
+    ],
+    "errosComuns": [
+      "Consultar só quem está próximo não equivale a sortear uma amostra."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "termos_de_uma_pesquisa_estatistica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Separar a população por grupos e selecionar participantes de cada grupo é amostragem:",
+      "alternativas": [
+        "Sem população definida",
+        "Censitária",
+        "Estratificada",
+        "Obrigatoriamente por conveniência"
+      ],
+      "correta": 2,
+      "explicacao": "A estratificação procura representar os grupos relevantes definidos no planejamento."
+    },
+    {
+      "id": "termos_de_uma_pesquisa_estatistica.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare um sorteio simples, uma seleção a cada décimo nome após início sorteado e uma amostra por séries. Explique uma vantagem, um limite e uma razão para não fazer censo.",
+      "gabarito": "Identificar aleatória simples, sistemática e estratificada; discutir viés, periodicidade ou representação dos grupos. A justificativa de custo, tempo, ética ou teste destrutivo deve corresponder ao contexto.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Identificar aleatória simples, sistemática e estratificada; discutir viés, periodicidade ou representação dos grupos. A justificativa de custo, tempo, ética ou teste destrutivo deve corresponder ao contexto.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "pesquisa",
+    "amostra"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

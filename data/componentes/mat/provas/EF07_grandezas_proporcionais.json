@@ -1,0 +1,181 @@
+{
+  "id": "mat.ef07.grandezas_proporcionais.prova",
+  "titulo": "Avaliação: Grandezas Proporcionais",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF07",
+  "unidade": "Grandezas Proporcionais",
+  "bncc": [
+    "EF07MA02",
+    "EF07MA09",
+    "EF07MA17"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef07.grandezas_proporcionais.prova.01",
+    "mat.ef07.grandezas_proporcionais.prova.02",
+    "mat.ef07.grandezas_proporcionais.prova.03",
+    "mat.ef07.grandezas_proporcionais.prova.04",
+    "mat.ef07.grandezas_proporcionais.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF07MA02",
+      "questoes": [
+        "mat.ef07.grandezas_proporcionais.prova.04",
+        "mat.ef07.grandezas_proporcionais.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.grandezas_proporcionais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples#porcentagem_e_juros_simples.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA09",
+      "questoes": [],
+      "avaliacoesPraticas": [
+        "mat.ef07.grandezas_proporcionais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.grandezas_proporcionais.razao_e_proporcao#razao_e_proporcao.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA17",
+      "questoes": [
+        "mat.ef07.grandezas_proporcionais.prova.01",
+        "mat.ef07.grandezas_proporcionais.prova.02",
+        "mat.ef07.grandezas_proporcionais.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.grandezas_proporcionais.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.grandezas_proporcionais.razao_e_proporcao#razao_e_proporcao.investigacao",
+        "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais#grandezas_direta_e_inversamente_proporcionais.investigacao",
+        "mat.ef07.grandezas_proporcionais.regra_de_tres_simples#regra_de_tres_simples.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef07.grandezas_proporcionais.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Grandezas Proporcionais",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Compare C=4n e C=4n+6 em uma tabela para n=1,2,3. Explique em qual delas a razão C/n é constante. 2. Um trabalho exige 24 jornadas de uma pessoa. Monte tabela de pessoas e dias para 2,3,4 e 6 pessoas, com produtividade igual, e escreva a relação. 3. Resolva por duas estratégias: quatro trabalhadores igualmente produtivos concluem um trabalho divisível em doze dias. No modelo, quanto tempo levariam seis? Justifique a relação. 4. Calcule o preço final de R$ 180 após aumento de 12% por duas estratégias. Depois explique a hipótese que diferencia o modelo de juros simples de uma atualização sobre o saldo anterior.",
+    "gabarito": "Conferência por tarefa: 1. Primeira tabela: 4,8,12, razão sempre 4. Segunda: 10,14,18, razões 10,7,6. A taxa fixa 6 impede proporcionalidade direta. 2. Dias: 12,8,6,4. Se p é o número de pessoas e d de dias, pd=24 ou d=24/p. Explicitar que o modelo supõe trabalho divisível e produtividade igual. 3. O total é 48 jornadas; com seis trabalhadores, 8 dias. Outra estratégia usa fator 6/4 nas pessoas e fator inverso 4/6 no tempo. As hipóteses devem ser explicitadas. 4. O acréscimo é 21,60 e o preço final 201,60. Pode-se calcular 10%+2% ou multiplicar por 1,12. Juros simples usam a mesma base inicial a cada período.",
+    "bncc": [
+      "EF07MA02",
+      "EF07MA09",
+      "EF07MA17"
+    ],
+    "atividadesOrigem": [
+      "mat.ef07.grandezas_proporcionais.razao_e_proporcao#razao_e_proporcao.investigacao",
+      "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais#grandezas_direta_e_inversamente_proporcionais.investigacao",
+      "mat.ef07.grandezas_proporcionais.regra_de_tres_simples#regra_de_tres_simples.investigacao",
+      "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples#porcentagem_e_juros_simples.investigacao"
+    ],
+    "duracaoMinSugerida": 60,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Razão e Proporção",
+        "enunciado": "Compare C=4n e C=4n+6 em uma tabela para n=1,2,3. Explique em qual delas a razão C/n é constante.",
+        "gabarito": "Primeira tabela: 4,8,12, razão sempre 4. Segunda: 10,14,18, razões 10,7,6. A taxa fixa 6 impede proporcionalidade direta.",
+        "bncc": [
+          "EF07MA09",
+          "EF07MA17"
+        ],
+        "atividadeOrigem": "mat.ef07.grandezas_proporcionais.razao_e_proporcao#razao_e_proporcao.investigacao"
+      },
+      {
+        "titulo": "Grandezas Direta e Inversamente Proporcionais",
+        "enunciado": "Um trabalho exige 24 jornadas de uma pessoa. Monte tabela de pessoas e dias para 2,3,4 e 6 pessoas, com produtividade igual, e escreva a relação.",
+        "gabarito": "Dias: 12,8,6,4. Se p é o número de pessoas e d de dias, pd=24 ou d=24/p. Explicitar que o modelo supõe trabalho divisível e produtividade igual.",
+        "bncc": [
+          "EF07MA17"
+        ],
+        "atividadeOrigem": "mat.ef07.grandezas_proporcionais.grandezas_direta_e_inversamente_proporcionais#grandezas_direta_e_inversamente_proporcionais.investigacao"
+      },
+      {
+        "titulo": "Regra de Três Simples",
+        "enunciado": "Resolva por duas estratégias: quatro trabalhadores igualmente produtivos concluem um trabalho divisível em doze dias. No modelo, quanto tempo levariam seis? Justifique a relação.",
+        "gabarito": "O total é 48 jornadas; com seis trabalhadores, 8 dias. Outra estratégia usa fator 6/4 nas pessoas e fator inverso 4/6 no tempo. As hipóteses devem ser explicitadas.",
+        "bncc": [
+          "EF07MA17"
+        ],
+        "atividadeOrigem": "mat.ef07.grandezas_proporcionais.regra_de_tres_simples#regra_de_tres_simples.investigacao"
+      },
+      {
+        "titulo": "Porcentagem e Juros Simples",
+        "enunciado": "Calcule o preço final de R$ 180 após aumento de 12% por duas estratégias. Depois explique a hipótese que diferencia o modelo de juros simples de uma atualização sobre o saldo anterior.",
+        "gabarito": "O acréscimo é 21,60 e o preço final 201,60. Pode-se calcular 10%+2% ou multiplicar por 1,12. Juros simples usam a mesma base inicial a cada período.",
+        "bncc": [
+          "EF07MA02"
+        ],
+        "atividadeOrigem": "mat.ef07.grandezas_proporcionais.porcentagem_e_juros_simples#porcentagem_e_juros_simples.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        171,
+        174
+      ],
+      "paginasImpressas": "173, 174, 177",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        174,
+        175,
+        176
+      ],
+      "paginasImpressas": "177, 178, 179",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        190,
+        191,
+        192
+      ],
+      "paginasImpressas": "193, 194, 195",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        196,
+        197,
+        199
+      ],
+      "paginasImpressas": "199, 200, 202",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

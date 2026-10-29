@@ -1,0 +1,224 @@
+{
+  "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova",
+  "titulo": "Avaliação: Expressões Algébricas, Equações e Proporcionalidade",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF08",
+  "unidade": "Expressões Algébricas, Equações e Proporcionalidade",
+  "bncc": [
+    "EF08MA04",
+    "EF08MA06",
+    "EF08MA09",
+    "EF08MA12",
+    "EF08MA13"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.01",
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.02",
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.03",
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.04",
+    "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF08MA04",
+      "questoes": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.porcentagens_no_cotidiano#porcentagens_no_cotidiano.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA06",
+      "questoes": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas#expressoes_algebricas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA09",
+      "questoes": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes#equacoes.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA12",
+      "questoes": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas#variacao_de_grandezas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08MA13",
+      "questoes": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade#proporcionalidade.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Expressões Algébricas, Equações e Proporcionalidade",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Verifique por propriedades se 3(x+2)+x e 4x+6 são equivalentes. Calcule ambas para x=−1 e explique o papel do teste. 2. Resolva 3x²=75 e determine o lado de um quadrado de área 75/3. Explique por que as respostas são apresentadas de modo diferente. 3. Resolva uma compra de 7 unidades aR$ 12 cada por duas estratégias. Crie um problema inversamente proporcional e explique suas hipóteses. 4. Construa tabelas e gráficos para y=2x, y=12/x e y=2x+1 usando entradas positivas adequadas. Justifique a classificação de cada relação. 5. Monte uma planilha de descontos de 5%,10% e 15% sobre 120. Apresente variação e preço final e confira por cálculo mental.",
+    "gabarito": "Conferência por tarefa: 1. A distributiva dá 3x+6+x=4x+6. Para−1, ambas valem 2; o teste confirma esse caso, mas a justificativa geral é a transformação algébrica. 2. A equação tem soluções±5. O lado do quadrado é 5 unidades, pois comprimento é positivo. Conferir 3× 25=75. 3. Total 84, por valor unitário ou decomposição 7×(10+2). O problema inverso deve preservar um produto e explicitar as condições do modelo. 4. Direta: razão 2; inversa: produto 12; terceira: razão e produto variáveis. Indicar escalas, eixos e os valores usados, sem ligar a função inversa como se fosse reta. 5. Descontos 6,12,18; preços finais 114,108,102. Identificar a base e explicar por que a taxa decimal é 0,05,0,10 ou 0,15.",
+    "bncc": [
+      "EF08MA04",
+      "EF08MA06",
+      "EF08MA09",
+      "EF08MA12",
+      "EF08MA13"
+    ],
+    "atividadesOrigem": [
+      "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas#expressoes_algebricas.investigacao",
+      "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes#equacoes.investigacao",
+      "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade#proporcionalidade.investigacao",
+      "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas#variacao_de_grandezas.investigacao",
+      "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.porcentagens_no_cotidiano#porcentagens_no_cotidiano.investigacao"
+    ],
+    "duracaoMinSugerida": 75,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Expressões Algébricas",
+        "enunciado": "Verifique por propriedades se 3(x+2)+x e 4x+6 são equivalentes. Calcule ambas para x=−1 e explique o papel do teste.",
+        "gabarito": "A distributiva dá 3x+6+x=4x+6. Para−1, ambas valem 2; o teste confirma esse caso, mas a justificativa geral é a transformação algébrica.",
+        "bncc": [
+          "EF08MA06"
+        ],
+        "atividadeOrigem": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas#expressoes_algebricas.investigacao"
+      },
+      {
+        "titulo": "Equações do Tipo ax²=b",
+        "enunciado": "Resolva 3x²=75 e determine o lado de um quadrado de área 75/3. Explique por que as respostas são apresentadas de modo diferente.",
+        "gabarito": "A equação tem soluções±5. O lado do quadrado é 5 unidades, pois comprimento é positivo. Conferir 3× 25=75.",
+        "bncc": [
+          "EF08MA09"
+        ],
+        "atividadeOrigem": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes#equacoes.investigacao"
+      },
+      {
+        "titulo": "Proporcionalidade",
+        "enunciado": "Resolva uma compra de 7 unidades aR$ 12 cada por duas estratégias. Crie um problema inversamente proporcional e explique suas hipóteses.",
+        "gabarito": "Total 84, por valor unitário ou decomposição 7×(10+2). O problema inverso deve preservar um produto e explicitar as condições do modelo.",
+        "bncc": [
+          "EF08MA13"
+        ],
+        "atividadeOrigem": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade#proporcionalidade.investigacao"
+      },
+      {
+        "titulo": "Variação de Grandezas",
+        "enunciado": "Construa tabelas e gráficos para y=2x, y=12/x e y=2x+1 usando entradas positivas adequadas. Justifique a classificação de cada relação.",
+        "gabarito": "Direta: razão 2; inversa: produto 12; terceira: razão e produto variáveis. Indicar escalas, eixos e os valores usados, sem ligar a função inversa como se fosse reta.",
+        "bncc": [
+          "EF08MA12"
+        ],
+        "atividadeOrigem": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas#variacao_de_grandezas.investigacao"
+      },
+      {
+        "titulo": "Porcentagens no Cotidiano",
+        "enunciado": "Monte uma planilha de descontos de 5%,10% e 15% sobre 120. Apresente variação e preço final e confira por cálculo mental.",
+        "gabarito": "Descontos 6,12,18; preços finais 114,108,102. Identificar a base e explicar por que a taxa decimal é 0,05,0,10 ou 0,15.",
+        "bncc": [
+          "EF08MA04"
+        ],
+        "atividadeOrigem": "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.porcentagens_no_cotidiano#porcentagens_no_cotidiano.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        207,
+        208,
+        211
+      ],
+      "paginasImpressas": "210, 211, 214",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        267,
+        268
+      ],
+      "paginasImpressas": "270, 271",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        174,
+        175,
+        190
+      ],
+      "paginasImpressas": "177, 178, 193",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        174,
+        297,
+        298
+      ],
+      "paginasImpressas": "177, 300, 301",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        196,
+        197,
+        198
+      ],
+      "paginasImpressas": "199, 200, 201",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

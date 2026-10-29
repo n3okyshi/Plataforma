@@ -1,0 +1,120 @@
+{
+  "id": "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 6,
+  "unidade": "Múltiplos, Divisores e MDC",
+  "titulo": "Problemas com Múltiplos e Divisores",
+  "bncc": [
+    "EF07MA01"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Resolver agrupamentos e encontros periódicos usando listagens e relações de divisibilidade."
+    ],
+    "resumo": "Resolver agrupamentos e encontros periódicos usando listagens e relações de divisibilidade.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Problemas com Múltiplos e Divisores</h2><h3>O que vamos aprender</h3><p>Resolver agrupamentos e encontros periódicos usando listagens e relações de divisibilidade.</p><h3>Ideias e relações</h3><p>Problemas de divisores perguntam quais tamanhos de grupos permitem uma divisão exata; problemas de múltiplos podem perguntar quando períodos coincidem. Construa listas, pares de fatores, tabelas ou desenhos e interprete o que o resultado representa. Como retomada, um natural é divisível por 2 quando termina em algarismo par, por 3 quando a soma de seus algarismos é múltipla de 3 e por 5 quando termina em 0 ou 5; confira essas relações em exemplos. Um mesmo número pode funcionar como divisor em uma pergunta e múltiplo em outra. Nesta etapa, priorizamos estratégias diversas, sem substituir a investigação por um algoritmo de fatoração ou uma regra pronta de MDC ou MMC.</p><h3>Exemplo resolvido</h3><p>Para separar 36 peças em grupos iguais sem sobras, tamanhos possíveis são 1,2,3,4,6,9,12,18,36. Para eventos a cada 6 e 9 minutos, o primeiro encontro após o início conjunto é 18 minutos.</p><h3>Atenção ao raciocínio</h3><p>A soma dos períodos não fornece necessariamente o primeiro encontro.</p><h3>Investigue e produza</h3><p>Elabore um problema de grupos com 42 peças e outro de coincidência de períodos de 4 e 10 minutos. Resolva com listas ou desenhos.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "multiplos",
+      "divisores"
+    ],
+    "errosComuns": [
+      "A soma dos períodos não fornece necessariamente o primeiro encontro."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "problemas_com_multiplos_e_divisores.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Dois sinais se repetem a cada 6 e 9 minutos. O primeiro novo encontro será em:",
+      "alternativas": [
+        "18 min",
+        "54 min",
+        "3 min",
+        "15 min"
+      ],
+      "correta": 0,
+      "explicacao": "18 é o primeiro múltiplo positivo que aparece nas duas listas."
+    },
+    {
+      "id": "problemas_com_multiplos_e_divisores.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Elabore um problema de grupos com 42 peças e outro de coincidência de períodos de 4 e 10 minutos. Resolva com listas ou desenhos.",
+      "gabarito": "Divisores de 42: 1,2,3,6,7,14,21,42. O primeiro encontro de períodos 4 e 10 é 20 minutos. O contexto deve justificar o uso de divisor ou múltiplo.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Divisores de 42: 1,2,3,6,7,14,21,42. O primeiro encontro de períodos 4 e 10 é 20 minutos. O contexto deve justificar o uso de divisor ou múltiplo.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "multiplos",
+    "divisores"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        53,
+        54,
+        66
+      ],
+      "paginasImpressas": "56, 57, 69",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

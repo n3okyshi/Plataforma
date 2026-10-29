@@ -1,0 +1,152 @@
+{
+  "id": "mat.ef07.estatistica_e_probabilidade.prova",
+  "titulo": "Avaliação: Estatística e Probabilidade",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF07",
+  "unidade": "Estatística e Probabilidade",
+  "bncc": [
+    "EF07MA34",
+    "EF07MA35",
+    "EF07MA36",
+    "EF07MA37"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef07.estatistica_e_probabilidade.prova.01",
+    "mat.ef07.estatistica_e_probabilidade.prova.02",
+    "mat.ef07.estatistica_e_probabilidade.prova.03",
+    "mat.ef07.estatistica_e_probabilidade.prova.04",
+    "mat.ef07.estatistica_e_probabilidade.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [
+    {
+      "bncc": "EF07MA34",
+      "questoes": [
+        "mat.ef07.estatistica_e_probabilidade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade#graficos_e_probabilidade.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA35",
+      "questoes": [
+        "mat.ef07.estatistica_e_probabilidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central#medidas_de_tendencia_central.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA36",
+      "questoes": [
+        "mat.ef07.estatistica_e_probabilidade.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.pesquisa_amostral_e_censo#pesquisa_amostral_e_censo.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF07MA37",
+      "questoes": [
+        "mat.ef07.estatistica_e_probabilidade.prova.02",
+        "mat.ef07.estatistica_e_probabilidade.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.pratica"
+      ],
+      "atividadesPraticas": [
+        "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade#graficos_e_probabilidade.investigacao"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef07.estatistica_e_probabilidade.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Estatística e Probabilidade",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Analise um gráfico de setores divulgado pela mídia, registrando fonte, data, todo e uma conclusão. Depois planeje trinta lançamentos de moeda e compare a frequência de caras com a chance teórica. 2. Crie duas listas de quatro valores com média 5 e amplitudes diferentes. Explique em qual os valores ficam mais espalhados e o limite dessa comparação. 3. Planeje e realize pesquisa sobre uma prática de leitura, transporte ou sustentabilidade. Defina população, censo ou amostra, coleta e planilha. Produza tabela, gráfico e relatório com limites.",
+    "gabarito": "Conferência por tarefa: 1. No gráfico, verificar partes do mesmo todo, soma 100% e leitura compatível. No experimento, registrar resultados reais; frequência=caras/30, comparada com 1/2. Explicitar diferenças e não inferir certeza sobre o próximo lançamento. 2. Exemplos: 5,5,5,5 e 2,4,6,8, ambas com média 5; amplitudes 0 e 6. A amplitude usa apenas extremos e não descreve toda a distribuição. 3. Avaliar pergunta clara, população delimitada, justificativa da escolha, coleta e registros reais, totais conferidos e conclusão restrita à evidência. Não há um conjunto de resultados esperado previamente.",
+    "bncc": [
+      "EF07MA34",
+      "EF07MA35",
+      "EF07MA36",
+      "EF07MA37"
+    ],
+    "atividadesOrigem": [
+      "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade#graficos_e_probabilidade.investigacao",
+      "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central#medidas_de_tendencia_central.investigacao",
+      "mat.ef07.estatistica_e_probabilidade.pesquisa_amostral_e_censo#pesquisa_amostral_e_censo.investigacao"
+    ],
+    "duracaoMinSugerida": 45,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Gráficos de Setores e Experimentos Aleatórios",
+        "enunciado": "Analise um gráfico de setores divulgado pela mídia, registrando fonte, data, todo e uma conclusão. Depois planeje trinta lançamentos de moeda e compare a frequência de caras com a chance teórica.",
+        "gabarito": "No gráfico, verificar partes do mesmo todo, soma 100% e leitura compatível. No experimento, registrar resultados reais; frequência=caras/30, comparada com 1/2. Explicitar diferenças e não inferir certeza sobre o próximo lançamento.",
+        "bncc": [
+          "EF07MA34",
+          "EF07MA37"
+        ],
+        "atividadeOrigem": "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade#graficos_e_probabilidade.investigacao"
+      },
+      {
+        "titulo": "Medidas de Tendência Central",
+        "enunciado": "Crie duas listas de quatro valores com média 5 e amplitudes diferentes. Explique em qual os valores ficam mais espalhados e o limite dessa comparação.",
+        "gabarito": "Exemplos: 5,5,5,5 e 2,4,6,8, ambas com média 5; amplitudes 0 e 6. A amplitude usa apenas extremos e não descreve toda a distribuição.",
+        "bncc": [
+          "EF07MA35"
+        ],
+        "atividadeOrigem": "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central#medidas_de_tendencia_central.investigacao"
+      },
+      {
+        "titulo": "Pesquisa Amostral e Censitária",
+        "enunciado": "Planeje e realize pesquisa sobre uma prática de leitura, transporte ou sustentabilidade. Defina população, censo ou amostra, coleta e planilha. Produza tabela, gráfico e relatório com limites.",
+        "gabarito": "Avaliar pergunta clara, população delimitada, justificativa da escolha, coleta e registros reais, totais conferidos e conclusão restrita à evidência. Não há um conjunto de resultados esperado previamente.",
+        "bncc": [
+          "EF07MA36"
+        ],
+        "atividadeOrigem": "mat.ef07.estatistica_e_probabilidade.pesquisa_amostral_e_censo#pesquisa_amostral_e_censo.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        313
+      ],
+      "paginasImpressas": "311",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        180,
+        181
+      ],
+      "paginasImpressas": "183, 184",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}

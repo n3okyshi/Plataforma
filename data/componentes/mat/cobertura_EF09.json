@@ -1,0 +1,579 @@
+{
+  "nivel": "EF09",
+  "estado": "piloto_integral",
+  "aulas": 34,
+  "unidades": 9,
+  "habilidades": [
+    {
+      "codigo": "EF09MA01",
+      "aulas": [
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais"
+      ],
+      "atividades": [
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais#conjunto_dos_numeros_irracionais.aplicacao",
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais#conjunto_dos_numeros_irracionais.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.numeros_reais.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef09.numeros_reais.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.numeros_reais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA02",
+      "aulas": [
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_racionais",
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais",
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_reais"
+      ],
+      "atividades": [
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_racionais#conjunto_dos_numeros_racionais.aplicacao",
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_racionais#conjunto_dos_numeros_racionais.investigacao",
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais#conjunto_dos_numeros_irracionais.aplicacao",
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_irracionais#conjunto_dos_numeros_irracionais.investigacao",
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_reais#conjunto_dos_numeros_reais.aplicacao",
+        "mat.ef09.numeros_reais.conjunto_dos_numeros_reais#conjunto_dos_numeros_reais.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.numeros_reais.treino.01",
+        "mat.ef09.numeros_reais.treino.02",
+        "mat.ef09.numeros_reais.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef09.numeros_reais.prova.01",
+        "mat.ef09.numeros_reais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.numeros_reais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA03",
+      "aulas": [
+        "mat.ef09.numeros_reais.operacoes_com_raizes",
+        "mat.ef09.numeros_reais.potenciacao_com_base_real"
+      ],
+      "atividades": [
+        "mat.ef09.numeros_reais.operacoes_com_raizes#operacoes_com_raizes.aplicacao",
+        "mat.ef09.numeros_reais.operacoes_com_raizes#operacoes_com_raizes.investigacao",
+        "mat.ef09.numeros_reais.potenciacao_com_base_real#potenciacao_com_base_real.aplicacao",
+        "mat.ef09.numeros_reais.potenciacao_com_base_real#potenciacao_com_base_real.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.numeros_reais.treino.04",
+        "mat.ef09.numeros_reais.treino.05"
+      ],
+      "questoesProva": [
+        "mat.ef09.numeros_reais.prova.03",
+        "mat.ef09.numeros_reais.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.numeros_reais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA04",
+      "aulas": [
+        "mat.ef09.numeros_reais.notacao_cientifica_e_ordem_de_grandeza"
+      ],
+      "atividades": [
+        "mat.ef09.numeros_reais.notacao_cientifica_e_ordem_de_grandeza#notacao_cientifica_e_ordem_de_grandeza.aplicacao",
+        "mat.ef09.numeros_reais.notacao_cientifica_e_ordem_de_grandeza#notacao_cientifica_e_ordem_de_grandeza.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.numeros_reais.treino.06"
+      ],
+      "questoesProva": [
+        "mat.ef09.numeros_reais.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.numeros_reais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA05",
+      "aulas": [
+        "mat.ef09.proporcionalidade_e_juros.juros"
+      ],
+      "atividades": [
+        "mat.ef09.proporcionalidade_e_juros.juros#juros.aplicacao",
+        "mat.ef09.proporcionalidade_e_juros.juros#juros.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.proporcionalidade_e_juros.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef09.proporcionalidade_e_juros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA06",
+      "aulas": [
+        "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao",
+        "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao",
+        "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica"
+      ],
+      "atividades": [
+        "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao#a_ideia_de_funcao.aplicacao",
+        "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao#a_ideia_de_funcao.investigacao",
+        "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao#construcao_do_grafico_de_uma_funcao.aplicacao",
+        "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao#construcao_do_grafico_de_uma_funcao.investigacao",
+        "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica#funcao_quadratica.aplicacao",
+        "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica#funcao_quadratica.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.explorando_a_ideia_de_funcao.treino.01",
+        "mat.ef09.explorando_a_ideia_de_funcao.treino.02",
+        "mat.ef09.explorando_a_ideia_de_funcao.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef09.explorando_a_ideia_de_funcao.prova.01",
+        "mat.ef09.explorando_a_ideia_de_funcao.prova.02",
+        "mat.ef09.explorando_a_ideia_de_funcao.prova.03",
+        "mat.ef09.explorando_a_ideia_de_funcao.prova.04",
+        "mat.ef09.explorando_a_ideia_de_funcao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.explorando_a_ideia_de_funcao.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA07",
+      "aulas": [
+        "mat.ef09.proporcionalidade_e_juros.razao_entre_grandezas_diferentes"
+      ],
+      "atividades": [
+        "mat.ef09.proporcionalidade_e_juros.razao_entre_grandezas_diferentes#razao_entre_grandezas_diferentes.aplicacao",
+        "mat.ef09.proporcionalidade_e_juros.razao_entre_grandezas_diferentes#razao_entre_grandezas_diferentes.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.proporcionalidade_e_juros.treino.05"
+      ],
+      "questoesProva": [
+        "mat.ef09.proporcionalidade_e_juros.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA08",
+      "aulas": [
+        "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao",
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria"
+      ],
+      "atividades": [
+        "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao#retomando_as_ideias_de_razao_e_de_proporcao.aplicacao",
+        "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao#retomando_as_ideias_de_razao_e_de_proporcao.investigacao",
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria#outras_situacoes_que_envolvem_proporcionalidade_em_geometria.aplicacao",
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria#outras_situacoes_que_envolvem_proporcionalidade_em_geometria.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.proporcionalidade_e_juros.treino.01",
+        "mat.ef09.proporcionalidade_e_juros.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef09.proporcionalidade_e_juros.prova.02",
+        "mat.ef09.proporcionalidade_e_juros.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA09",
+      "aulas": [
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita"
+      ],
+      "atividades": [
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis#produtos_notaveis.aplicacao",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis#produtos_notaveis.investigacao",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios#fatoracao_de_polinomios.aplicacao",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios#fatoracao_de_polinomios.investigacao",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita#equacoes_do_2_grau_com_1_incognita.aplicacao",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.equacoes_do_2_grau_com_1_incognita#equacoes_do_2_grau_com_1_incognita.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.treino.01",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.treino.02",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.01",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.02",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.03",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.04",
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA10",
+      "aulas": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.angulos_em_retas_paralelas_cortadas_por_transversal"
+      ],
+      "atividades": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.angulos_em_retas_paralelas_cortadas_por_transversal#angulos_em_retas_paralelas_cortadas_por_transversal.aplicacao",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.angulos_em_retas_paralelas_cortadas_por_transversal#angulos_em_retas_paralelas_cortadas_por_transversal.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA11",
+      "aulas": [
+        "mat.ef09.circunferencia_e_circulos.circulo_e_circunferencia",
+        "mat.ef09.circunferencia_e_circulos.angulos_em_uma_circunferencia"
+      ],
+      "atividades": [
+        "mat.ef09.circunferencia_e_circulos.circulo_e_circunferencia#circulo_e_circunferencia.aplicacao",
+        "mat.ef09.circunferencia_e_circulos.circulo_e_circunferencia#circulo_e_circunferencia.investigacao",
+        "mat.ef09.circunferencia_e_circulos.angulos_em_uma_circunferencia#angulos_em_uma_circunferencia.aplicacao",
+        "mat.ef09.circunferencia_e_circulos.angulos_em_uma_circunferencia#angulos_em_uma_circunferencia.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.circunferencia_e_circulos.treino.01",
+        "mat.ef09.circunferencia_e_circulos.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef09.circunferencia_e_circulos.prova.01",
+        "mat.ef09.circunferencia_e_circulos.prova.02",
+        "mat.ef09.circunferencia_e_circulos.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.circunferencia_e_circulos.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA12",
+      "aulas": [
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras"
+      ],
+      "atividades": [
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria#outras_situacoes_que_envolvem_proporcionalidade_em_geometria.aplicacao",
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria#outras_situacoes_que_envolvem_proporcionalidade_em_geometria.investigacao",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras#semelhancas_de_figuras.aplicacao",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.semelhancas_de_figuras#semelhancas_de_figuras.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.proporcionalidade_e_juros.treino.03",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef09.proporcionalidade_e_juros.prova.04",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.01",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.pratica",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA13",
+      "aulas": [
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo"
+      ],
+      "atividades": [
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras#uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras.aplicacao",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras#uma_grande_descoberta_que_envolve_medidas_de_area_o_teorema_de_pitagoras.investigacao",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo#os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo.aplicacao",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo#os_elementos_e_as_relacoes_metricas_no_triangulo_retangulo.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.treino.01",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.01",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.02",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.03",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA14",
+      "aulas": [
+        "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales",
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.aplicacoes_importantes_do_teorema_de_pitagoras"
+      ],
+      "atividades": [
+        "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales#feixe_de_retas_paralelas_e_o_teorema_de_tales.aplicacao",
+        "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales#feixe_de_retas_paralelas_e_o_teorema_de_tales.investigacao",
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria#outras_situacoes_que_envolvem_proporcionalidade_em_geometria.aplicacao",
+        "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria#outras_situacoes_que_envolvem_proporcionalidade_em_geometria.investigacao",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.aplicacoes_importantes_do_teorema_de_pitagoras#aplicacoes_importantes_do_teorema_de_pitagoras.aplicacao",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.aplicacoes_importantes_do_teorema_de_pitagoras#aplicacoes_importantes_do_teorema_de_pitagoras.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.proporcionalidade_e_juros.treino.02",
+        "mat.ef09.proporcionalidade_e_juros.treino.03",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef09.proporcionalidade_e_juros.prova.03",
+        "mat.ef09.proporcionalidade_e_juros.prova.04",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.proporcionalidade_e_juros.pratica",
+        "mat.ef09.relacoes_metricas_no_triangulo_retangulo.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA15",
+      "aulas": [
+        "mat.ef09.circunferencia_e_circulos.circunferencia_retas_e_poligonos"
+      ],
+      "atividades": [
+        "mat.ef09.circunferencia_e_circulos.circunferencia_retas_e_poligonos#circunferencia_retas_e_poligonos.aplicacao",
+        "mat.ef09.circunferencia_e_circulos.circunferencia_retas_e_poligonos#circunferencia_retas_e_poligonos.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.circunferencia_e_circulos.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef09.circunferencia_e_circulos.prova.04",
+        "mat.ef09.circunferencia_e_circulos.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.circunferencia_e_circulos.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA16",
+      "aulas": [
+        "mat.ef09.grandezas_e_medidas.grandezas_e_medidas_no_plano_cartesiano"
+      ],
+      "atividades": [
+        "mat.ef09.grandezas_e_medidas.grandezas_e_medidas_no_plano_cartesiano#grandezas_e_medidas_no_plano_cartesiano.aplicacao",
+        "mat.ef09.grandezas_e_medidas.grandezas_e_medidas_no_plano_cartesiano#grandezas_e_medidas_no_plano_cartesiano.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.grandezas_e_medidas.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef09.grandezas_e_medidas.prova.04",
+        "mat.ef09.grandezas_e_medidas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA17",
+      "aulas": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano"
+      ],
+      "atividades": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano#perspectiva_tecnica_para_representacao_de_objetos_no_plano.aplicacao",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.perspectiva_tecnica_para_representacao_de_objetos_no_plano#perspectiva_tecnica_para_representacao_de_objetos_no_plano.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.03",
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.geometria_semelhanca_perspectiva_e_vistas_ortogonais.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA18",
+      "aulas": [
+        "mat.ef09.grandezas_e_medidas.unidades_de_medida_de_outras_grandezas"
+      ],
+      "atividades": [
+        "mat.ef09.grandezas_e_medidas.unidades_de_medida_de_outras_grandezas#unidades_de_medida_de_outras_grandezas.aplicacao",
+        "mat.ef09.grandezas_e_medidas.unidades_de_medida_de_outras_grandezas#unidades_de_medida_de_outras_grandezas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.grandezas_e_medidas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef09.grandezas_e_medidas.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA19",
+      "aulas": [
+        "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos"
+      ],
+      "atividades": [
+        "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos#volume_de_solidos_geometricos.aplicacao",
+        "mat.ef09.grandezas_e_medidas.volume_de_solidos_geometricos#volume_de_solidos_geometricos.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.grandezas_e_medidas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef09.grandezas_e_medidas.prova.02",
+        "mat.ef09.grandezas_e_medidas.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.grandezas_e_medidas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA20",
+      "aulas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem",
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade"
+      ],
+      "atividades": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem#combinatoria_metodo_de_contagem.aplicacao",
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.combinatoria_metodo_de_contagem#combinatoria_metodo_de_contagem.investigacao",
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade#probabilidade.aplicacao",
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade#probabilidade.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.treino.01",
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.03",
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA21",
+      "aulas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica"
+      ],
+      "atividades": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica#estatistica.aplicacao",
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica#estatistica.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA22",
+      "aulas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.escolha_e_construcao_de_graficos"
+      ],
+      "atividades": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.escolha_e_construcao_de_graficos#escolha_e_construcao_de_graficos.aplicacao",
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.escolha_e_construcao_de_graficos#escolha_e_construcao_de_graficos.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.treino.05"
+      ],
+      "questoesProva": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF09MA23",
+      "aulas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade"
+      ],
+      "atividades": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade#estatistica_e_probabilidade.aplicacao",
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade#estatistica_e_probabilidade.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef09.estatistica_combinatoria_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    }
+  ],
+  "pendencias": [
+    "Revisão visual em navegador.",
+    "Aplicação das tarefas e homologação docente.",
+    "Persistência no ambiente Firebase."
+  ]
+}

@@ -34,7 +34,9 @@
     },
     {
       "tipo": "curricular",
-      "descricao": "No texto legado do 6º ano há probabilidade condicional/binomial e referências a imagens não implementadas."
+      "descricao": "No texto legado do 6º ano há probabilidade condicional/binomial e referências a imagens não implementadas.",
+      "estado": "corrigido_no_lote_EF06",
+      "observacao": "Texto legado foi substituído no percurso EF06; registro histórico preservado."
     },
     {
       "tipo": "conteudo",
@@ -50,7 +52,9 @@
     },
     {
       "tipo": "avaliacao",
-      "descricao": "Arenas legadas misturam níveis nos fallbacks e a prova reutiliza treino; correção será feita no motor."
+      "descricao": "Arenas legadas misturam níveis nos fallbacks e a prova reutiliza treino; correção será feita no motor.",
+      "estado": "corrigido_no_motor_atual",
+      "observacao": "Seleção estrita e bancos separados implementados; conferência de persistência Firebase pendente."
     }
   ],
   "lotes": {
@@ -65,6 +69,51 @@
       "habilidadesReferenciadas": 34,
       "homologacaoDocente": "pendente",
       "aplicacaoEmTurma": "pendente"
+    },
+    "mat.EF07": {
+      "estado": "piloto_integral",
+      "aulas": 36,
+      "unidades": 13,
+      "atividades": 72,
+      "questoesTreino": 40,
+      "questoesProva": 65,
+      "provas": 13,
+      "etapasPraticas": 13,
+      "habilidadesReferenciadas": 37,
+      "homologacaoDocente": "pendente",
+      "aplicacaoEmTurma": "pendente",
+      "revisaoVisual": "pendente",
+      "persistenciaFirebase": "pendente"
+    },
+    "mat.EF08": {
+      "estado": "piloto_integral",
+      "aulas": 29,
+      "unidades": 8,
+      "atividades": 58,
+      "questoesTreino": 29,
+      "questoesProva": 40,
+      "provas": 8,
+      "etapasPraticas": 8,
+      "habilidadesReferenciadas": 27,
+      "homologacaoDocente": "pendente",
+      "aplicacaoEmTurma": "pendente",
+      "revisaoVisual": "pendente",
+      "persistenciaFirebase": "pendente"
+    },
+    "mat.EF09": {
+      "estado": "piloto_integral",
+      "aulas": 34,
+      "unidades": 9,
+      "atividades": 68,
+      "questoesTreino": 34,
+      "questoesProva": 45,
+      "provas": 9,
+      "etapasPraticas": 9,
+      "habilidadesReferenciadas": 23,
+      "homologacaoDocente": "pendente",
+      "aplicacaoEmTurma": "pendente",
+      "revisaoVisual": "pendente",
+      "persistenciaFirebase": "pendente"
     }
   }
 }

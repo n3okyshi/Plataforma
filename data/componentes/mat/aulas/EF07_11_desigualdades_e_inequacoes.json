@@ -2,36 +2,107 @@
   "id": "mat.ef07.inequacoes_do_1_grau.desigualdades_e_inequacoes",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 11,
+  "ordem": 16,
   "unidade": "Inequações do 1º Grau",
   "titulo": "Desigualdades e Inequações",
   "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver desigualdades simples como aprofundamento complementar."
+    ],
+    "resumo": "Resolver desigualdades simples como aprofundamento complementar.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Inequações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo de sentenças expressas por desigualdades (>, <, ≥, ≤). A resposta não é só um número, mas um conjunto de soluções.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚠️ Perigo:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Ao multiplicar ou dividir a inequação por um número <strong>negativo</strong>, o sinal da desigualdade inverte (o \">\" vira \"<\").</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Desigualdades e Inequações</h2><h3>O que vamos aprender</h3><p>Resolver desigualdades simples como aprofundamento complementar.</p><h3>Ideias e relações</h3><p>Nesta aula complementar, uma inequação procura valores que tornam verdadeira uma desigualdade. Somar a mesma quantidade aos dois membros preserva o sentido da comparação. Multiplicar ou dividir ambos por um número negativo inverte esse sentido, como se pode observar refletindo a reta em relação a zero. Informe o conjunto de valores admitido: x&lt;3 permite muitos racionais, enquanto, nos inteiros, corresponde a …,0,1,2. A solução costuma ser um conjunto, não um único valor.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Reta numérica dos inteiros de menos quatro a quatro, com intervalos iguais.\" style=\"max-width:100%;color:inherit\"><title>Reta numérica dos inteiros de menos quatro a quatro, com intervalos iguais.</title><path d=\"M35 110H410\" stroke=\"currentColor\"/><path d=\"M60 103V117\" stroke=\"currentColor\"/><text x=\"60\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-4</text><path d=\"M100 103V117\" stroke=\"currentColor\"/><text x=\"100\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-3</text><path d=\"M140 103V117\" stroke=\"currentColor\"/><text x=\"140\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-2</text><path d=\"M180 103V117\" stroke=\"currentColor\"/><text x=\"180\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">-1</text><path d=\"M220 103V117\" stroke=\"currentColor\"/><text x=\"220\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">0</text><path d=\"M260 103V117\" stroke=\"currentColor\"/><text x=\"260\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">1</text><path d=\"M300 103V117\" stroke=\"currentColor\"/><text x=\"300\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">2</text><path d=\"M340 103V117\" stroke=\"currentColor\"/><text x=\"340\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">3</text><path d=\"M380 103V117\" stroke=\"currentColor\"/><text x=\"380\" y=\"143\" text-anchor=\"middle\" fill=\"currentColor\" font-size=\"17\">4</text><text x=\"75\" y=\"205\" fill=\"currentColor\" font-size=\"16\">Aumentam para a direita.</text></svg><h3>Exemplo resolvido</h3><p>Em −2x &gt; 6, dividir por −2 inverte o sinal: x &lt; −3. Conferindo x=−4, temos 8&gt;6, verdadeiro; x=0 não satisfaz a inequação.</p><h3>Atenção ao raciocínio</h3><p>Não mantenha o sentido da desigualdade ao dividir por um número negativo.</p><h3>Investigue e produza</h3><p>Resolva 3x+2≤14 e −x&lt;5 e represente os conjuntos numa reta. Explique a inclusão ou exclusão da extremidade.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "inequacoes",
+      "desigualdade"
+    ],
+    "errosComuns": [
+      "Não mantenha o sentido da desigualdade ao dividir por um número negativo."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
+  "atividades": [
+    {
+      "id": "desigualdades_e_inequacoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Nos racionais, −2x > 6 equivale a:",
+      "alternativas": [
+        "x>−3",
+        "x<−3",
+        "x>3",
+        "x<3"
+      ],
+      "correta": 1,
+      "explicacao": "A divisão por −2 exige inverter o sentido."
+    },
+    {
+      "id": "desigualdades_e_inequacoes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Resolva 3x+2≤14 e −x<5 e represente os conjuntos numa reta. Explique a inclusão ou exclusão da extremidade.",
+      "gabarito": "x≤4, com 4 incluído; e x>−5, com −5 excluído. Justificar as transformações e indicar que o domínio adotado é o dos racionais.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "x≤4, com 4 incluído; e x>−5, com −5 excluído. Justificar as transformações e indicar que o domínio adotado é o dos racionais.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "inequacoes",
+    "desigualdade"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        158,
+        159
+      ],
+      "paginasImpressas": "161, 162",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": true,
   "preRequisitos": [],
   "proximosPassos": [],
-  "fontes": [],
-  "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ],
+  "observacaoCurricular": "Retomada ou aprofundamento complementar; não corresponde isoladamente a uma habilidade obrigatória específica deste ano."
 }

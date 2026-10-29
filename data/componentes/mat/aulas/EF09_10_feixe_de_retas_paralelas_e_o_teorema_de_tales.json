@@ -2,36 +2,120 @@
   "id": "mat.ef09.proporcionalidade_e_juros.feixe_de_retas_paralelas_e_o_teorema_de_tales",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 10,
+  "ordem": 14,
   "unidade": "Proporcionalidade e Juros",
   "titulo": "Feixe de Retas Paralelas e o Teorema de Tales",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA14"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver relações proporcionais em paralelas cortadas por secantes."
+    ],
+    "resumo": "Resolver relações proporcionais em paralelas cortadas por secantes.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Teorema de Tales</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A proporcionalidade entre segmentos determinados por um feixe de retas paralelas cortadas por transversais.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 A Regra:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">\"O está para O, assim como O está para O\". A montagem correta das frações é o segredo.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Feixe de Retas Paralelas e o Teorema de Tales</h2><h3>O que vamos aprender</h3><p>Resolver relações proporcionais em paralelas cortadas por secantes.</p><h3>Ideias e relações</h3><p>Quando retas paralelas cortam duas secantes, os segmentos correspondentes determinados nelas são proporcionais, sob as condições geométricas do teorema de Tales. Identifique primeiro quais intervalos correspondem e em qual ordem as retas são encontradas. Razões construídas com partes diferentes ou um total no lugar de uma parte podem produzir equações falsas. Um desenho esquemático orienta a leitura, mas não justifica medir comprimentos aparentes como se o desenho estivesse em escala.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Duas retas paralelas cortadas por duas secantes que partem de O: segmentos AB e CD paralelos.\" style=\"max-width:100%;color:inherit\"><title>Duas retas paralelas cortadas por duas secantes que partem de O: segmentos AB e CD paralelos.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M60 20 140 160M60 20 400 160M70 90H350M30 160H425\"/></g><g fill=\"currentColor\" font-size=\"16\"><text x=\"40\" y=\"20\">O</text><text x=\"85\" y=\"85\">A</text><text x=\"233\" y=\"85\">B</text><text x=\"120\" y=\"183\">C</text><text x=\"402\" y=\"183\">D</text><text x=\"105\" y=\"225\">AB e CD são paralelos.</text></g></svg><h3>Exemplo resolvido</h3><p>Se dois intervalos numa secante medem 4 e 6 e os correspondentes na outra medem 6 e x, temos 4/6=6/x. Portanto 4x=36 e x=9.</p><h3>Atenção ao raciocínio</h3><p>A correspondência deve manter os mesmos pares de retas paralelas.</p><h3>Investigue e produza</h3><p>Desenhe três paralelas cortadas por duas secantes e proponha medidas coerentes para três intervalos conhecidos. Determine o quarto e explique a correspondência.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "teorema_de_tales",
+      "proporcionalidade"
+    ],
+    "errosComuns": [
+      "A correspondência deve manter os mesmos pares de retas paralelas."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "feixe_de_retas_paralelas_e_o_teorema_de_tales.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com segmentos correspondentes 4 e 6 numa secante,6 e x na outra, qual valor satisfaz a proporção?",
+      "alternativas": [
+        "8",
+        "9",
+        "4",
+        "6"
+      ],
+      "correta": 1,
+      "explicacao": "4/6=6/x implica 4x=36 e x=9."
+    },
+    {
+      "id": "feixe_de_retas_paralelas_e_o_teorema_de_tales.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe três paralelas cortadas por duas secantes e proponha medidas coerentes para três intervalos conhecidos. Determine o quarto e explique a correspondência.",
+      "gabarito": "A equação deve comparar os mesmos intervalos entre paralelas. Verificar a igualdade das razões e indicar unidades, em vez de usar apenas a aparência do desenho.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "A equação deve comparar os mesmos intervalos entre paralelas. Verificar a igualdade das razões e indicar unidades, em vez de usar apenas a aparência do desenho.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "teorema_de_tales",
+    "proporcionalidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        370,
+        371
+      ],
+      "paginasImpressas": "373, 374",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.proporcionalidade_e_juros.retomando_as_ideias_de_razao_e_de_proporcao"
+  ],
+  "proximosPassos": [
+    "mat.ef09.proporcionalidade_e_juros.outras_situacoes_que_envolvem_proporcionalidade_em_geometria"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

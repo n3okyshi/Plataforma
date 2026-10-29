@@ -2,36 +2,119 @@
   "id": "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 24,
+  "ordem": 12,
   "unidade": "Explorando a Ideia de Função",
   "titulo": "Função Quadrática",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA06"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Analisar uma dependência quadrática por tabela, gráfico e significado das saídas."
+    ],
+    "resumo": "Analisar uma dependência quadrática por tabela, gráfico e significado das saídas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Função do 2º Grau</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            A função $y = ax^2 + bx + c$. Seu gráfico é uma curva chamada <strong>Parábola</strong>.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🙂 ou ☹️:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Se $a > 0$, concavidade para cima (sorriso). Se $a < 0$, concavidade para baixo (tristeza).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Função Quadrática</h2><h3>O que vamos aprender</h3><p>Analisar uma dependência quadrática por tabela, gráfico e significado das saídas.</p><h3>Ideias e relações</h3><p>Uma regra como f(x)=x²−4 relaciona cada entrada real a uma única saída e não tem taxa de variação constante. Entradas opostas têm a mesma saída nessa regra. Sua representação é uma parábola de concavidade voltada para cima; o menor valor é−4, atingido em x=0. Os zeros são entradas cuja saída vale zero. Aqui usamos o caso para analisar uma relação funcional; o tratamento geral de todas as características das funções quadráticas será aprofundado em etapas posteriores.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Parábola da função f(x)=x ao quadrado menos quatro, com raízes menos dois e dois e vértice (zero,menos quatro).\" style=\"max-width:100%;color:inherit\"><title>Parábola da função f(x)=x ao quadrado menos quatro, com raízes menos dois e dois e vértice (zero,menos quatro).</title><g stroke=\"currentColor\" fill=\"none\"><path d=\"M110 140H340M220 240V15\"/></g><path d=\"M145 40Q220 400 295 40\" stroke=\"#2563eb\" stroke-width=\"3\" fill=\"none\"/><g fill=\"currentColor\" font-size=\"15\"><text x=\"158\" y=\"159\">−2</text><text x=\"264\" y=\"159\">2</text><text x=\"225\" y=\"159\">0</text><text x=\"226\" y=\"235\">(0,−4)</text><text x=\"345\" y=\"145\">x</text><text x=\"224\" y=\"14\">y</text></g></svg><h3>Exemplo resolvido</h3><p>Para x=−2,−1,0,1,2, obtemos 0,−3,−4,−3,0. Assim, os zeros são−2 e 2 e o ponto mínimo é(0,−4).</p><h3>Atenção ao raciocínio</h3><p>Saídas repetidas para entradas diferentes não violam a definição de função.</p><h3>Investigue e produza</h3><p>Faça tabela e gráfico de h(x)=x²+1 para cinco entradas simétricas. Compare com f(x)=x²−4, identificando zeros reais e mínimos.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "funcao_quadratica",
+      "parabola"
+    ],
+    "errosComuns": [
+      "Saídas repetidas para entradas diferentes não violam a definição de função."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "funcao_quadratica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Os zeros de f(x)=x²−4 são:",
+      "alternativas": [
+        "Somente 2",
+        "−2 e 2",
+        "−4 e 4",
+        "0 e 4"
+      ],
+      "correta": 1,
+      "explicacao": "x²=4 admite−2 e 2, ambos produzindo saída zero."
+    },
+    {
+      "id": "funcao_quadratica.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Faça tabela e gráfico de h(x)=x²+1 para cinco entradas simétricas. Compare com f(x)=x²−4, identificando zeros reais e mínimos.",
+      "gabarito": "Para−2,−1,0,1,2, h produz 5,2,1,2,5. Não há zeros reais e o mínimo é 1 em 0. Em relação a f, o gráfico está cinco unidades acima.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Para−2,−1,0,1,2, h produz 5,2,1,2,5. Não há zeros reais e o mínimo é 1 em 0. Em relação a f, o gráfico está cinco unidades acima.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "funcao_quadratica",
+    "parabola"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        307,
+        308,
+        309
+      ],
+      "paginasImpressas": "310, 311, 312",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

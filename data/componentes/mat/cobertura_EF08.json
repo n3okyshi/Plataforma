@@ -1,0 +1,610 @@
+{
+  "nivel": "EF08",
+  "estado": "piloto_integral",
+  "aulas": 29,
+  "unidades": 8,
+  "habilidades": [
+    {
+      "codigo": "EF08MA01",
+      "aulas": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao",
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.notacao_cientifica"
+      ],
+      "atividades": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao#potenciacao.aplicacao",
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.potenciacao#potenciacao.investigacao",
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.notacao_cientifica#notacao_cientifica.aplicacao",
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.notacao_cientifica#notacao_cientifica.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.02",
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.05"
+      ],
+      "questoesProva": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.prova.01",
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA02",
+      "aulas": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.radiciacao"
+      ],
+      "atividades": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.radiciacao#radiciacao.aplicacao",
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.radiciacao#radiciacao.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA03",
+      "aulas": [
+        "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc"
+      ],
+      "atividades": [
+        "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc#principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc.aplicacao",
+        "mat.ef08.estatistica_e_probabilidade.principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc#principio_multiplicativo_ou_principio_fundamental_da_contagem_pfc.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.estatistica_e_probabilidade.treino.05"
+      ],
+      "questoesProva": [
+        "mat.ef08.estatistica_e_probabilidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA04",
+      "aulas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.porcentagens_no_cotidiano"
+      ],
+      "atividades": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.porcentagens_no_cotidiano#porcentagens_no_cotidiano.aplicacao",
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.porcentagens_no_cotidiano#porcentagens_no_cotidiano.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.treino.05"
+      ],
+      "questoesProva": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA05",
+      "aulas": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.dizimas_periodicas_e_fracao_geratriz"
+      ],
+      "atividades": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.dizimas_periodicas_e_fracao_geratriz#dizimas_periodicas_e_fracao_geratriz.aplicacao",
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.dizimas_periodicas_e_fracao_geratriz#dizimas_periodicas_e_fracao_geratriz.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.06"
+      ],
+      "questoesProva": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA06",
+      "aulas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas"
+      ],
+      "atividades": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas#expressoes_algebricas.aplicacao",
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.expressoes_algebricas#expressoes_algebricas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA07",
+      "aulas": [
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas"
+      ],
+      "atividades": [
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas#sistema_de_equacoes_do_1_grau_com_2_incognitas.aplicacao",
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_equacoes_do_1_grau_com_2_incognitas#sistema_de_equacoes_do_1_grau_com_2_incognitas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.prova.01",
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA08",
+      "aulas": [
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas"
+      ],
+      "atividades": [
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas#sistema_de_2_equacoes_do_1_grau_com_2_incognitas.aplicacao",
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.sistema_de_2_equacoes_do_1_grau_com_2_incognitas#sistema_de_2_equacoes_do_1_grau_com_2_incognitas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.prova.02",
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.prova.03",
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.sistema_de_equacoes_do_1_grau_com_2_incognitas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA09",
+      "aulas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes"
+      ],
+      "atividades": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes#equacoes.aplicacao",
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.equacoes#equacoes.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA10",
+      "aulas": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias"
+      ],
+      "atividades": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias#sequencias.aplicacao",
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias#sequencias.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA11",
+      "aulas": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias"
+      ],
+      "atividades": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias#sequencias.aplicacao",
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias#sequencias.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA12",
+      "aulas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas"
+      ],
+      "atividades": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas#variacao_de_grandezas.aplicacao",
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.variacao_de_grandezas#variacao_de_grandezas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA13",
+      "aulas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade"
+      ],
+      "atividades": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade#proporcionalidade.aplicacao",
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.proporcionalidade#proporcionalidade.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.expressoes_algebricas_equacoes_e_proporcionalidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA14",
+      "aulas": [
+        "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos",
+        "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros"
+      ],
+      "atividades": [
+        "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos#ampliando_o_estudo_dos_triangulos.aplicacao",
+        "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_triangulos#ampliando_o_estudo_dos_triangulos.investigacao",
+        "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros#ampliando_o_estudo_dos_quadrilateros.aplicacao",
+        "mat.ef08.triangulos_e_quadrilateros.ampliando_o_estudo_dos_quadrilateros#ampliando_o_estudo_dos_quadrilateros.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.triangulos_e_quadrilateros.treino.01",
+        "mat.ef08.triangulos_e_quadrilateros.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef08.triangulos_e_quadrilateros.prova.01",
+        "mat.ef08.triangulos_e_quadrilateros.prova.02",
+        "mat.ef08.triangulos_e_quadrilateros.prova.03",
+        "mat.ef08.triangulos_e_quadrilateros.prova.04",
+        "mat.ef08.triangulos_e_quadrilateros.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.triangulos_e_quadrilateros.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA15",
+      "aulas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso"
+      ],
+      "atividades": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso#construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso.aplicacao",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso#construcoes_geometricas_com_regua_esquadro_transferidor_e_compasso.investigacao",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso#mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso.aplicacao",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso#mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.treino.01",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.03",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA16",
+      "aulas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso"
+      ],
+      "atividades": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso#mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso.aplicacao",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso#mais_construcoes_geometricas_com_regua_nao_graduada_e_compasso.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.04",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA17",
+      "aulas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos"
+      ],
+      "atividades": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos#lugares_geometricos.aplicacao",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.lugares_geometricos#lugares_geometricos.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.01",
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.lugares_geometricos_e_construcoes_geometricas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA18",
+      "aulas": [
+        "mat.ef08.transformacoes_geometricas.transformacoes_geometricas",
+        "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas"
+      ],
+      "atividades": [
+        "mat.ef08.transformacoes_geometricas.transformacoes_geometricas#transformacoes_geometricas.aplicacao",
+        "mat.ef08.transformacoes_geometricas.transformacoes_geometricas#transformacoes_geometricas.investigacao",
+        "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas#composicao_de_transformacoes_geometricas.aplicacao",
+        "mat.ef08.transformacoes_geometricas.composicao_de_transformacoes_geometricas#composicao_de_transformacoes_geometricas.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.transformacoes_geometricas.treino.01",
+        "mat.ef08.transformacoes_geometricas.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef08.transformacoes_geometricas.prova.01",
+        "mat.ef08.transformacoes_geometricas.prova.02",
+        "mat.ef08.transformacoes_geometricas.prova.03",
+        "mat.ef08.transformacoes_geometricas.prova.04",
+        "mat.ef08.transformacoes_geometricas.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.transformacoes_geometricas.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA19",
+      "aulas": [
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area"
+      ],
+      "atividades": [
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area#retomando_e_aprofundando_o_calculo_de_medida_de_area.aplicacao",
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area#retomando_e_aprofundando_o_calculo_de_medida_de_area.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.area_e_volume.treino.01"
+      ],
+      "questoesProva": [
+        "mat.ef08.area_e_volume.prova.01",
+        "mat.ef08.area_e_volume.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.area_e_volume.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA20",
+      "aulas": [
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade"
+      ],
+      "atividades": [
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade#retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade.aplicacao",
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade#retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.area_e_volume.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef08.area_e_volume.prova.03",
+        "mat.ef08.area_e_volume.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.area_e_volume.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA21",
+      "aulas": [
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade"
+      ],
+      "atividades": [
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade#retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade.aplicacao",
+        "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade#retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.area_e_volume.treino.02"
+      ],
+      "questoesProva": [
+        "mat.ef08.area_e_volume.prova.04",
+        "mat.ef08.area_e_volume.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.area_e_volume.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA22",
+      "aulas": [
+        "mat.ef08.estatistica_e_probabilidade.probabilidade"
+      ],
+      "atividades": [
+        "mat.ef08.estatistica_e_probabilidade.probabilidade#probabilidade.aplicacao",
+        "mat.ef08.estatistica_e_probabilidade.probabilidade#probabilidade.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.estatistica_e_probabilidade.treino.03"
+      ],
+      "questoesProva": [
+        "mat.ef08.estatistica_e_probabilidade.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA23",
+      "aulas": [
+        "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa"
+      ],
+      "atividades": [
+        "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa#representacao_grafica_dos_dados_de_uma_pesquisa.aplicacao",
+        "mat.ef08.estatistica_e_probabilidade.representacao_grafica_dos_dados_de_uma_pesquisa#representacao_grafica_dos_dados_de_uma_pesquisa.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.estatistica_e_probabilidade.treino.02"
+      ],
+      "questoesProva": [],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA24",
+      "aulas": [
+        "mat.ef08.estatistica_e_probabilidade.classes_de_uma_variavel_continua"
+      ],
+      "atividades": [
+        "mat.ef08.estatistica_e_probabilidade.classes_de_uma_variavel_continua#classes_de_uma_variavel_continua.aplicacao",
+        "mat.ef08.estatistica_e_probabilidade.classes_de_uma_variavel_continua#classes_de_uma_variavel_continua.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.estatistica_e_probabilidade.treino.06"
+      ],
+      "questoesProva": [
+        "mat.ef08.estatistica_e_probabilidade.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA25",
+      "aulas": [
+        "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central"
+      ],
+      "atividades": [
+        "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central#medidas_de_tendencia_central.aplicacao",
+        "mat.ef08.estatistica_e_probabilidade.medidas_de_tendencia_central#medidas_de_tendencia_central.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.estatistica_e_probabilidade.treino.04"
+      ],
+      "questoesProva": [
+        "mat.ef08.estatistica_e_probabilidade.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA26",
+      "aulas": [
+        "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica"
+      ],
+      "atividades": [
+        "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica#termos_de_uma_pesquisa_estatistica.aplicacao",
+        "mat.ef08.estatistica_e_probabilidade.termos_de_uma_pesquisa_estatistica#termos_de_uma_pesquisa_estatistica.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.estatistica_e_probabilidade.treino.01"
+      ],
+      "questoesProva": [],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    },
+    {
+      "codigo": "EF08MA27",
+      "aulas": [
+        "mat.ef08.estatistica_e_probabilidade.pesquisa_amostral"
+      ],
+      "atividades": [
+        "mat.ef08.estatistica_e_probabilidade.pesquisa_amostral#pesquisa_amostral.aplicacao",
+        "mat.ef08.estatistica_e_probabilidade.pesquisa_amostral#pesquisa_amostral.investigacao"
+      ],
+      "questoesTreino": [
+        "mat.ef08.estatistica_e_probabilidade.treino.07"
+      ],
+      "questoesProva": [
+        "mat.ef08.estatistica_e_probabilidade.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef08.estatistica_e_probabilidade.pratica"
+      ],
+      "estado": "conteudo_disponivel_para_testes",
+      "observacao": "Evidências planejadas; observar a produção efetiva do estudante e homologar pedagogicamente antes de declarar conclusão."
+    }
+  ],
+  "pendencias": [
+    "Revisão visual em navegador.",
+    "Aplicação das tarefas e homologação docente.",
+    "Persistência no ambiente Firebase."
+  ]
+}

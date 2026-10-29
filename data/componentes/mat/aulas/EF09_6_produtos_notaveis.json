@@ -2,36 +2,119 @@
   "id": "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.produtos_notaveis",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 6,
+  "ordem": 7,
   "unidade": "Produtos Notáveis, Fatoração e Equações do 2º Graus",
   "titulo": "Produtos Notáveis",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA09"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Relacionar produtos notáveis à distributiva e a decomposições de área."
+    ],
+    "resumo": "Relacionar produtos notáveis à distributiva e a decomposições de área.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Produtos Notáveis</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Atalhos para multiplicação algébrica: Quadrado da soma, da diferença e produto da soma pela diferença.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🟥 Geometria:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Interpretamos $(a+b)^2$ como a área de um quadrado grande formado por quadrados menores e retângulos.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Produtos Notáveis</h2><h3>O que vamos aprender</h3><p>Relacionar produtos notáveis à distributiva e a decomposições de área.</p><h3>Ideias e relações</h3><p>Produtos notáveis resumem aplicações da distributiva: (a+b)²=a²+2ab+b² e(a−b)²=a²−2ab+b². A diferença de quadrados pode ser escrita(a+b)(a−b)=a²−b². Uma representação de área, com comprimentos positivos, mostra que o quadrado de lado a+b contém dois retângulos de área ab, além dos quadrados a² e b². A identidade algébrica permanece válida para reais, justificada pela distributiva. Use as relações para calcular, reconhecer estruturas e preparar fatorações.</p><h3>Exemplo resolvido</h3><p>(x+3)²=x²+6x+9. Para x=7, ambos os lados valem 100. O termo 6x vem de dois produtos 3x.</p><h3>Atenção ao raciocínio</h3><p>(a+b)² não é a²+b²: faltariam os dois termos cruzados.</p><h3>Investigue e produza</h3><p>Use um desenho de área para justificar(10+2)² e desenvolva(2x−1)². Explique a origem do termo do meio.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "produtos_notaveis",
+      "algebra"
+    ],
+    "errosComuns": [
+      "(a+b)² não é a²+b²: faltariam os dois termos cruzados."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "produtos_notaveis.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual expressão equivale a(x+3)²?",
+      "alternativas": [
+        "2x+6",
+        "x²+9",
+        "x²+3x+9",
+        "x²+6x+9"
+      ],
+      "correta": 3,
+      "explicacao": "A distributiva produz x²+3x+3x+9."
+    },
+    {
+      "id": "produtos_notaveis.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Use um desenho de área para justificar(10+2)² e desenvolva(2x−1)². Explique a origem do termo do meio.",
+      "gabarito": "144=100+20+20+4. (2x−1)²=4x²−4x+1; o termo do meio é a soma dos dois produtos−2x.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "144=100+20+20+4. (2x−1)²=4x²−4x+1; o termo do meio é a soma dos dois produtos−2x.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "produtos_notaveis",
+    "algebra"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        319
+      ],
+      "paginasImpressas": "317",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        220,
+        221,
+        222
+      ],
+      "paginasImpressas": "223, 224, 225",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef09.produtos_notaveis_fatoracao_e_equacoes_do_2_graus.fatoracao_de_polinomios"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -5,33 +5,118 @@
   "ordem": 4,
   "unidade": "Operações com números inteiros",
   "titulo": "Multiplicação e Divisão de Inteiros",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA04"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Interpretar sinais de produtos e quocientes e conferir resultados por operações inversas."
+    ],
+    "resumo": "Interpretar sinais de produtos e quocientes e conferir resultados por operações inversas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Regra de Sinais (× e ÷)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Diferente da soma, aqui olhamos apenas para a combinação dos sinais.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧠 Memorize:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Amigo do meu amigo é meu amigo (+ com + = +).<br>Inimigo do meu inimigo é meu amigo (- com - = +).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Multiplicação e Divisão de Inteiros</h2><h3>O que vamos aprender</h3><p>Interpretar sinais de produtos e quocientes e conferir resultados por operações inversas.</p><h3>Ideias e relações</h3><p>Produtos e divisões exatas de inteiros seguem relações que mantêm as propriedades das operações. Fatores de sinais iguais produzem resultado positivo; de sinais diferentes, negativo. Podemos justificar um produto por padrões e pela distributiva: como 3×(2 + (−2)) = 0, temos 6 + 3×(−2) = 0, então 3×(−2) = −6. Uma divisão com divisor não nulo pode ser conferida pelo produto entre quociente e divisor.</p><h3>Exemplo resolvido</h3><p>(−24) ÷ 6 = −4 porque 6 × (−4) = −24. Já (−24) ÷ (−6) = 4 porque (−6) × 4 = −24.</p><h3>Atenção ao raciocínio</h3><p>Não existe divisão por zero; e dividir dois inteiros nem sempre produz outro inteiro.</p><h3>Investigue e produza</h3><p>Complete a sequência 2× 3, 2× 2, 2× 1, 2× 0, 2×(−1), 2×(−2). Explique o padrão e confira (−30) ÷ (−5).</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "numeros_inteiros",
+      "multiplicacao"
+    ],
+    "errosComuns": [
+      "Não existe divisão por zero; e dividir dois inteiros nem sempre produz outro inteiro."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "multiplicacao_e_divisao_de_inteiros.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto é (−7) × (−4)?",
+      "alternativas": [
+        "−28",
+        "−11",
+        "11",
+        "28"
+      ],
+      "correta": 3,
+      "explicacao": "Dois fatores negativos têm produto positivo; 7× 4 = 28."
+    },
+    {
+      "id": "multiplicacao_e_divisao_de_inteiros.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Complete a sequência 2× 3, 2× 2, 2× 1, 2× 0, 2×(−1), 2×(−2). Explique o padrão e confira (−30) ÷ (−5).",
+      "gabarito": "A sequência é 6,4,2,0,−2,−4, diminuindo dois a cada etapa. O quociente é 6 e sua conferência é (−5)× 6 = −30.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "A sequência é 6,4,2,0,−2,−4, diminuindo dois a cada etapa. O quociente é 6 e sua conferência é (−5)× 6 = −30.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "numeros_inteiros",
+    "multiplicacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        135,
+        136,
+        137
+      ],
+      "paginasImpressas": "138, 139, 140",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.operacoes_com_numeros_inteiros.adicao_e_subtracao_de_inteiros"
+  ],
+  "proximosPassos": [
+    "mat.ef07.operacoes_com_numeros_inteiros.potenciacao_e_raiz_quadrada_de_inteiros"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

@@ -2,36 +2,120 @@
   "id": "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade",
   "componente": "mat",
   "nivel": "EF08",
-  "ordem": 11,
+  "ordem": 22,
   "unidade": "Área e Volume",
-  "titulo": "Retomando e Aprofundando o Cálculo de Medidas de Volume e Medidas de Capacidade",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Volume e Capacidade: Retomada e Aprofundamento",
+  "bncc": [
+    "EF08MA20",
+    "EF08MA21"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Relacionar litros e unidades cúbicas em problemas de recipientes retangulares."
+    ],
+    "resumo": "Relacionar litros e unidades cúbicas em problemas de recipientes retangulares.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume e Capacidade</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo do volume de prismas retos e cilindros.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🚰 Conversão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Foco na resolução de problemas práticos que exigem converter volume (m³, dm³) em capacidade (Litros).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Volume e Capacidade: Retomada e Aprofundamento</h2><h3>O que vamos aprender</h3><p>Relacionar litros e unidades cúbicas em problemas de recipientes retangulares.</p><h3>Ideias e relações</h3><p>Um bloco retangular tem volume interno V=comprimento×largura×altura. Sua capacidade usa as dimensões internas, não necessariamente as externas. Como 1 dm³=1 L e 1 m=10 dm, um metro cúbico corresponde a 10³ dm³, ou 1.000 L. Um centímetro cúbico corresponde a 1 mL. Converta as dimensões para a mesma unidade antes de multiplicar e confira se o resultado representa capacidade máxima, volume ocupado ou volume que ainda pode ser acrescentado.</p><h3>Exemplo resolvido</h3><p>Um recipiente interno 50× 40× 30 cm possui 60.000 cm³, equivalentes a 60 L. Se já contém 18 L, ainda cabem 42 L no modelo.</p><h3>Atenção ao raciocínio</h3><p>Converter metros cúbicos em litros não usa o mesmo fator da conversão de metros em decímetros.</p><h3>Investigue e produza</h3><p>Calcule a capacidade de uma caixa interna 0,8× 0,5× 0,4 m. Determine quanto falta para enchê-la se contém 75 L e explique duas conversões possíveis.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "volume",
+      "capacidade"
+    ],
+    "errosComuns": [
+      "Converter metros cúbicos em litros não usa o mesmo fator da conversão de metros em decímetros."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um recipiente interno 50× 40× 30 cm tem capacidade de:",
+      "alternativas": [
+        "600 L",
+        "6.000 L",
+        "6 L",
+        "60 L"
+      ],
+      "correta": 3,
+      "explicacao": "O volume é 60.000 cm³; cada 1.000 cm³ corresponde a 1 L."
+    },
+    {
+      "id": "retomando_e_aprofundando_o_calculo_de_medidas_de_volume_e_medidas_de_capacidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Calcule a capacidade de uma caixa interna 0,8× 0,5× 0,4 m. Determine quanto falta para enchê-la se contém 75 L e explique duas conversões possíveis.",
+      "gabarito": "Volume 0,16 m³=160 L. Faltam 85 L. Outra estratégia:8× 5× 4 dm=160 dm³. Justificar as dimensões internas e a unidade cúbica.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Volume 0,16 m³=160 L. Faltam 85 L. Outra estratégia:8× 5× 4 dm=160 dm³. Justificar as dimensões internas e a unidade cúbica.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "volume",
+    "capacidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        317
+      ],
+      "paginasImpressas": "315",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        118,
+        119,
+        120
+      ],
+      "paginasImpressas": "121, 122, 123",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.area_e_volume.retomando_e_aprofundando_o_calculo_de_medida_de_area"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

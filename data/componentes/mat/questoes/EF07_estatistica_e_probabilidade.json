@@ -1,0 +1,309 @@
+[
+  {
+    "id": "mat.ef07.estatistica_e_probabilidade.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade",
+    "bncc": [
+      "EF07MA34",
+      "EF07MA37"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um setor de 25% do total mede:",
+    "opcoes": [
+      "45°",
+      "90°",
+      "180°",
+      "25°"
+    ],
+    "correta": 1,
+    "explicacao": "Um quarto de 360° corresponde a 90°.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          313
+        ],
+        "paginasImpressas": "311",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.estatistica_e_probabilidade.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central",
+    "bncc": [
+      "EF07MA35"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A média dos valores 2,4,6 é:",
+    "opcoes": [
+      "4",
+      "6",
+      "2",
+      "3"
+    ],
+    "correta": 0,
+    "explicacao": "(2+4+6)÷ 3=4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          313
+        ],
+        "paginasImpressas": "311",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          180,
+          181
+        ],
+        "paginasImpressas": "183, 184",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.estatistica_e_probabilidade.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef07.estatistica_e_probabilidade.pesquisa_amostral_e_censo",
+    "bncc": [
+      "EF07MA36"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Entrevistar todos os estudantes de uma turma é:",
+    "opcoes": [
+      "Uma prova de causa e efeito.",
+      "Censo da turma.",
+      "Censo de qualquer escola.",
+      "Sempre uma amostra aleatória da cidade."
+    ],
+    "correta": 1,
+    "explicacao": "A população definida é a própria turma, e todos foram consultados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          313
+        ],
+        "paginasImpressas": "311",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.estatistica_e_probabilidade.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central",
+    "bncc": [
+      "EF07MA35"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A média de 2,4,9 e a amplitude são, respectivamente:",
+    "opcoes": [
+      "5 e 11",
+      "4 e 7",
+      "15 e 7",
+      "5 e 7"
+    ],
+    "correta": 3,
+    "explicacao": "A soma 15 dividida por 3 dá 5;9−2=7.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          313
+        ],
+        "paginasImpressas": "311",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          180,
+          181
+        ],
+        "paginasImpressas": "183, 184",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.estatistica_e_probabilidade.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade",
+    "bncc": [
+      "EF07MA37"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um setor de 40% do todo corresponde a:",
+    "opcoes": [
+      "144°",
+      "180°",
+      "40°",
+      "72°"
+    ],
+    "correta": 0,
+    "explicacao": "0,40× 360°=144°.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          313
+        ],
+        "paginasImpressas": "311",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.estatistica_e_probabilidade.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade",
+    "bncc": [
+      "EF07MA34"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em 20 lançamentos observam-se 13 caras. A frequência de caras é:",
+    "opcoes": [
+      "65%",
+      "13%",
+      "20%",
+      "50%"
+    ],
+    "correta": 0,
+    "explicacao": "13/20=0,65=65%; isso é observação, não alteração automática da chance teórica.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          313
+        ],
+        "paginasImpressas": "311",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.estatistica_e_probabilidade.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef07.estatistica_e_probabilidade.pesquisa_amostral_e_censo",
+    "bncc": [
+      "EF07MA36"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Consultar todos os elementos da população definida caracteriza:",
+    "opcoes": [
+      "Censo.",
+      "Qualquer amostra por conveniência.",
+      "Uma garantia de pergunta sem viés.",
+      "Uma seleção de somente parte do grupo."
+    ],
+    "correta": 0,
+    "explicacao": "Censo refere-se à abrangência de toda a população definida.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          313
+        ],
+        "paginasImpressas": "311",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef07.estatistica_e_probabilidade.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF07",
+    "unidade": "Estatística e Probabilidade",
+    "aulaId": "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade",
+    "bncc": [
+      "EF07MA37"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Setores são mais adequados quando as categorias:",
+    "opcoes": [
+      "Têm escolhas múltiplas e somam 200% sem explicação.",
+      "Não possuem total definido.",
+      "Representam uma série temporal contínua sem categorias.",
+      "Somam partes de um mesmo todo sem sobreposição."
+    ],
+    "correta": 3,
+    "explicacao": "A divisão do círculo pressupõe um todo comum e partes coerentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          313
+        ],
+        "paginasImpressas": "311",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

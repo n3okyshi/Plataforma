@@ -1,0 +1,119 @@
+{
+  "id": "mat.ef07.circunferencia_e_lugar_geometrico.o_numero_pi_e_o_comprimento_da_circunferencia",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 33,
+  "unidade": "Circunferência e Lugar Geométrico",
+  "titulo": "O Número Pi e o Comprimento da Circunferência",
+  "bncc": [
+    "EF07MA33"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Investigar a razão entre comprimento da circunferência e diâmetro e aplicá-la."
+    ],
+    "resumo": "Investigar a razão entre comprimento da circunferência e diâmetro e aplicá-la.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>O Número Pi e o Comprimento da Circunferência</h2><h3>O que vamos aprender</h3><p>Investigar a razão entre comprimento da circunferência e diâmetro e aplicá-la.</p><h3>Ideias e relações</h3><p>Ao comparar objetos circulares, a razão entre o comprimento C da circunferência e seu diâmetro d aproxima-se de um mesmo número, π. No modelo geométrico, C/d=π, então C=πd ou C=2πr. A razão não tem unidade porque os dois comprimentos são expressos na mesma unidade. Medições com barbante e régua produzem aproximações, não um valor decimal exato de π. Diferentes aproximações históricas refletem estratégias de medição e cálculo; π não é exatamente 3,14.</p><h3>Exemplo resolvido</h3><p>Para um diâmetro de 10 cm, C=10π cm. Usando π≈3,14, o comprimento aproximado é 31,4 cm.</p><h3>Atenção ao raciocínio</h3><p>Não multiplique π pelo raio quando estiver usando a expressão C=πd.</p><h3>Investigue e produza</h3><p>Meça com barbante e régua a borda e o diâmetro de três objetos circulares. Calcule C/d e compare resultados, explicando possíveis diferenças.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "pi",
+      "circunferencia"
+    ],
+    "errosComuns": [
+      "Não multiplique π pelo raio quando estiver usando a expressão C=πd."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "o_numero_pi_e_o_comprimento_da_circunferencia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com diâmetro 10 cm e π≈3,14, o comprimento é aproximadamente:",
+      "alternativas": [
+        "20 cm",
+        "31,4 cm",
+        "314 cm",
+        "15,7 cm"
+      ],
+      "correta": 1,
+      "explicacao": "C=πd≈3,14× 10=31,4 cm."
+    },
+    {
+      "id": "o_numero_pi_e_o_comprimento_da_circunferencia.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Meça com barbante e régua a borda e o diâmetro de três objetos circulares. Calcule C/d e compare resultados, explicando possíveis diferenças.",
+      "gabarito": "As razões devem ficar próximas de π, com variações de medição. Registrar unidades iguais, método e limites do instrumento; não substituir dados observados por 3,14.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "As razões devem ficar próximas de π, com variações de medição. Registrar unidades iguais, método e limites do instrumento; não substituir dados observados por 3,14.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "pi",
+    "circunferencia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        405,
+        406
+      ],
+      "paginasImpressas": "408, 409",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.circunferencia_e_lugar_geometrico.circunferencia_como_lugar_geometrico"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

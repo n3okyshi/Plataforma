@@ -15,7 +15,19 @@ A versão integral de **Matemática · 6º ano (EF06)** está disponível como l
 - As **34 habilidades EF06MA01–EF06MA34** têm vínculos com aulas e tarefas em [cobertura EF06](data/componentes/mat/cobertura_EF06.json). A presença dos recursos não certifica domínio do estudante.
 - “A ideia de função” e “Principais corpos redondos” estão sinalizados como complementos opcionais e não bloqueiam a progressão principal.
 
-O estado do material é **piloto**, com aplicação em turma, conferência visual no navegador, persistência Firebase e homologação docente pendentes. As demais séries e disciplinas permanecem em desenvolvimento, seguindo a ordem de serviço. Os IDs anteriores foram preservados.
+O lote de **Matemática · 7º ao 9º ano** também está disponível para testes:
+
+| Ano | Aulas | Unidades/provas | Habilidades | Atividades | Treino | Itens de prova |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| 7º | 36 | 13 | 37 | 72 | 40 | 65 |
+| 8º | 29 | 8 | 27 | 58 | 29 | 40 |
+| 9º | 34 | 9 | 23 | 68 | 34 | 45 |
+
+As 30 provas têm cinco itens próprios e portfólios com tarefas, respostas esperadas, critérios e referências às atividades de origem. A devolutiva do portfólio é docente, por produção. Os 76 IDs que já existiam no percurso desses anos foram preservados. Subtópicos do planejamento foram integrados em aulas completas; os destinos constam nos arquivos `integracoes_EF07.json`, `integracoes_EF08.json` e `integracoes_EF09.json` em `data/componentes/mat`.
+
+As 87 habilidades têm evidências planejadas nos arquivos de cobertura de cada ano. Inequações do 7º ano e a retomada de conjuntos do 8º estão sinalizadas como complementos opcionais. Conteúdo disponível não comprova aprendizagem.
+
+O estado do material é **piloto**, com aplicação em turma, conferência visual no navegador, persistência Firebase e homologação docente pendentes. As demais séries e disciplinas permanecem em desenvolvimento, seguindo a ordem de serviço. O próximo lote de autoria é Matemática do Ensino Médio.
 
 ## Organização
 
@@ -30,7 +42,7 @@ O estado do material é **piloto**, com aplicação em turma, conferência visua
 | `arena` | Questões e provas disponíveis para os motores de interação |
 | `js` | Navegação, registro, atividades, gamificação e interface |
 
-Os PDFs são referenciados por nome e página em [fontes](data/base/fontes.json), sem redistribuição dos arquivos no repositório. Há 69 referências catalogadas. O PDF BNCC de 600 páginas contém Educação Infantil, Ensino Fundamental e Ensino Médio. As aulas EF06 têm referências com páginas impressas e páginas do PDF identificadas; os vínculos recuperados das outras séries continuam pendentes de conferência.
+Os PDFs são referenciados por nome e página em [fontes](data/base/fontes.json), sem redistribuição dos arquivos no repositório. Há 69 referências catalogadas. O PDF BNCC de 600 páginas contém Educação Infantil, Ensino Fundamental e Ensino Médio. As aulas EF06–EF09 têm referências com páginas impressas e páginas do PDF identificadas; os vínculos recuperados das demais séries continuam pendentes de conferência.
 
 ## Contratos e estados
 
@@ -40,7 +52,7 @@ Aulas usam IDs estáveis no formato `componente.nivel.unidade.aula`. Os estados 
 
 O lote mantém seus JSONs e os arquivos de consumo do navegador sincronizados. Ao editar uma aula ou questão, atualize também o respectivo arquivo usado pelo navegador; não existem etapas de construção externas obrigatórias.
 
-Treino e prova têm itens separados. A arena filtra componente, nível, unidade e finalidade. Quando faltam itens, informa a indisponibilidade. No treino, a explicação aparece após cada resposta; na prova, a correção fica para o final. O mapa libera apenas aulas em estado piloto ou publicado e com texto; os demais rascunhos continuam preservados na base.
+Treino e prova têm itens separados. A arena filtra componente, nível, unidade e finalidade. Cada treino de unidade usa até cinco itens disponíveis, sem completar a seleção com outro ano, unidade ou componente. Um banco vazio permanece indisponível. As provas usam exatamente os IDs previstos em seu plano. No treino, a explicação aparece após cada resposta; na prova, a correção fica para o final. O mapa libera apenas aulas em estado piloto ou publicado e com texto; os demais rascunhos continuam preservados na base.
 
 ## Execução local
 

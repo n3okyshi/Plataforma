@@ -2,36 +2,110 @@
   "id": "mat.ef07.estatistica_e_probabilidade.graficos_e_probabilidade",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 23,
+  "ordem": 34,
   "unidade": "Estatística e Probabilidade",
-  "titulo": "Gráficos e Probabilidade",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Gráficos de Setores e Experimentos Aleatórios",
+  "bncc": [
+    "EF07MA34",
+    "EF07MA37"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Interpretar setores divulgados pela mídia e planejar um experimento aleatório."
+    ],
+    "resumo": "Interpretar setores divulgados pela mídia e planejar um experimento aleatório.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Gráficos e Chances</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Interpretação visual de dados (setores/pizza) e cálculo de riscos.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎲 Probabilidade:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">É uma fração: O que eu quero (casos favoráveis) dividido por Tudo que pode acontecer (casos totais).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Gráficos de Setores e Experimentos Aleatórios</h2><h3>O que vamos aprender</h3><p>Interpretar setores divulgados pela mídia e planejar um experimento aleatório.</p><h3>Ideias e relações</h3><p>Um gráfico de setores representa partes de um mesmo todo: as frequências relativas somam 100% e os ângulos dos setores somam 360°. Confira se as categorias são compatíveis com essa divisão e se a fonte informa população e período. Em um experimento aleatório, planeje resultados possíveis e registro antes das tentativas. A frequência observada de um evento é ocorrências/tentativas e pode diferir da probabilidade prevista. Repita e compare sem inventar observações para obter o resultado esperado.</p><svg viewBox=\"0 0 440 250\" role=\"img\" aria-label=\"Exemplo fictício de transporte de vinte estudantes: dez a pé, cinco de bicicleta e cinco de ônibus. Setores de 50%, 25% e 25%.\" style=\"max-width:100%;color:inherit\"><title>Exemplo fictício de transporte de vinte estudantes: dez a pé, cinco de bicicleta e cinco de ônibus. Setores de 50%, 25% e 25%.</title><path d=\"M150 115V35A80 80 0 0 1 150 195Z\" fill=\"#2563eb\"/><path d=\"M150 115V195A80 80 0 0 1 70 115Z\" fill=\"#16a34a\"/><path d=\"M150 115H70A80 80 0 0 1 150 35Z\" fill=\"#eab308\"/><g fill=\"currentColor\" font-size=\"14\"><text x=\"250\" y=\"75\">Azul: a pé — 50%</text><text x=\"250\" y=\"110\">Verde: bicicleta — 25%</text><text x=\"250\" y=\"145\">Amarelo: ônibus — 25%</text><text x=\"25\" y=\"230\">Dados fictícios; exemplo autoral, 29/10/2026.</text></g></svg><h3>Exemplo resolvido</h3><p>No exemplo fictício de vinte respostas únicas, dez a pé representam 50% e um setor de 180°; cinco de bicicleta representam 25% e 90°. Em vinte lançamentos de moeda, a quantidade real de caras pode não ser dez.</p><h3>Atenção ao raciocínio</h3><p>Setores não são adequados quando as partes somadas ultrapassam o mesmo todo, como escolhas múltiplas sem ajuste explícito.</p><h3>Investigue e produza</h3><p>Analise um gráfico de setores divulgado pela mídia, registrando fonte, data, todo e uma conclusão. Depois planeje trinta lançamentos de moeda e compare a frequência de caras com a chance teórica.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "graficos",
+      "probabilidade"
+    ],
+    "errosComuns": [
+      "Setores não são adequados quando as partes somadas ultrapassam o mesmo todo, como escolhas múltiplas sem ajuste explícito."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "graficos_e_probabilidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um setor de 25% do total mede:",
+      "alternativas": [
+        "90°",
+        "180°",
+        "25°",
+        "45°"
+      ],
+      "correta": 0,
+      "explicacao": "Um quarto de 360° corresponde a 90°."
+    },
+    {
+      "id": "graficos_e_probabilidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Analise um gráfico de setores divulgado pela mídia, registrando fonte, data, todo e uma conclusão. Depois planeje trinta lançamentos de moeda e compare a frequência de caras com a chance teórica.",
+      "gabarito": "No gráfico, verificar partes do mesmo todo, soma 100% e leitura compatível. No experimento, registrar resultados reais; frequência=caras/30, comparada com 1/2. Explicitar diferenças e não inferir certeza sobre o próximo lançamento.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "No gráfico, verificar partes do mesmo todo, soma 100% e leitura compatível. No experimento, registrar resultados reais; frequência=caras/30, comparada com 1/2. Explicitar diferenças e não inferir certeza sobre o próximo lançamento.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "graficos",
+    "probabilidade"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        313
+      ],
+      "paginasImpressas": "311",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

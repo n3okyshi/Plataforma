@@ -1,0 +1,121 @@
+{
+  "id": "mat.ef07.multiplos_divisores_e_mdc.mdc_e_mmc_em_problemas",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 7,
+  "unidade": "Múltiplos, Divisores e MDC",
+  "titulo": "MDC e MMC em Problemas",
+  "bncc": [
+    "EF07MA01"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Identificar quando se procura maior divisor comum ou menor múltiplo comum positivo."
+    ],
+    "resumo": "Identificar quando se procura maior divisor comum ou menor múltiplo comum positivo.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>MDC e MMC em Problemas</h2><h3>O que vamos aprender</h3><p>Identificar quando se procura maior divisor comum ou menor múltiplo comum positivo.</p><h3>Ideias e relações</h3><p>O maior divisor comum de dois naturais positivos é o maior tamanho que divide ambos exatamente. O menor múltiplo comum positivo é a primeira quantidade positiva que pertence às duas listas de múltiplos. Não escolha apenas pela presença de “maior” ou “menor” no enunciado: compreenda se a situação envolve repartir ou reunir repetições. Liste divisores ou múltiplos e confira se a solução satisfaz as condições do problema. Evitamos aqui o uso mecânico de algoritmos de fatoração.</p><h3>Exemplo resolvido</h3><p>Para montar kits iguais usando 18 lápis e 24 borrachas sem sobras, o maior número de kits é 6: cada kit terá 3 lápis e 4 borrachas. O divisor comum determina a quantidade de kits.</p><h3>Atenção ao raciocínio</h3><p>MDC e MMC representam relações diferentes; o produto dos números não é automaticamente a resposta de um encontro periódico.</p><h3>Investigue e produza</h3><p>Compare duas perguntas: cortar fitas de 20 e 30 cm em pedaços iguais do maior comprimento possível; e encontrar a primeira coincidência de períodos de 20 e 30 minutos.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "mdc",
+      "mmc"
+    ],
+    "errosComuns": [
+      "MDC e MMC representam relações diferentes; o produto dos números não é automaticamente a resposta de um encontro periódico."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "mdc_e_mmc_em_problemas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é o maior número de kits iguais com 18 lápis e 24 borrachas, sem sobras?",
+      "alternativas": [
+        "12",
+        "3",
+        "4",
+        "6"
+      ],
+      "correta": 3,
+      "explicacao": "Os divisores comuns são 1,2,3,6; o maior é 6."
+    },
+    {
+      "id": "mdc_e_mmc_em_problemas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare duas perguntas: cortar fitas de 20 e 30 cm em pedaços iguais do maior comprimento possível; e encontrar a primeira coincidência de períodos de 20 e 30 minutos.",
+      "gabarito": "O comprimento é 10 cm, maior divisor comum. A coincidência é 60 minutos, menor múltiplo comum positivo. Justificar por listas e interpretar as unidades.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "O comprimento é 10 cm, maior divisor comum. A coincidência é 60 minutos, menor múltiplo comum positivo. Justificar por listas e interpretar as unidades.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "mdc",
+    "mmc"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        309
+      ],
+      "paginasImpressas": "307",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        63,
+        64,
+        66,
+        67
+      ],
+      "paginasImpressas": "66, 67, 69, 70",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.multiplos_divisores_e_mdc.problemas_com_multiplos_e_divisores"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

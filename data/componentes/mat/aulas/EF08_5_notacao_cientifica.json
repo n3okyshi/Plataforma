@@ -1,0 +1,122 @@
+{
+  "id": "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.notacao_cientifica",
+  "componente": "mat",
+  "nivel": "EF08",
+  "ordem": 5,
+  "unidade": "Números, dos Naturais aos Racionais, e Sequências",
+  "titulo": "Notação Científica",
+  "bncc": [
+    "EF08MA01"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Representar números em notação científica e relacionar a escrita a potências de dez."
+    ],
+    "resumo": "Representar números em notação científica e relacionar a escrita a potências de dez.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Notação Científica</h2><h3>O que vamos aprender</h3><p>Representar números em notação científica e relacionar a escrita a potências de dez.</p><h3>Ideias e relações</h3><p>Na notação científica padronizada, escrevemos a× 10ⁿ, com n inteiro e 1≤|a|&lt;10. O expoente indica a escala: valores pequenos positivos podem usar expoentes negativos sem se tornarem negativos. Ao mudar o coeficiente por um fator dez, compense no expoente para conservar o número. Essa escrita permite comparar ordens de tamanho e facilita cálculos. Em uma adição, iguale as potências de dez antes de somar coeficientes; na multiplicação, opere coeficientes e potências e normalize o resultado.</p><h3>Exemplo resolvido</h3><p>0,00072=7,2× 10⁻⁴. Também 72× 10⁻⁵ representa o mesmo número, mas não está na forma científica padronizada porque 72 não está entre 1 e 10.</p><h3>Atenção ao raciocínio</h3><p>Distinguir uma escrita equivalente de uma escrita padronizada evita ambiguidade.</p><h3>Investigue e produza</h3><p>Escreva 5.600.000 e 0,0034 em notação científica. Calcule (2× 10³)×(3× 10⁻²) e normalize.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "notacao_cientifica",
+      "potencias_de_dez"
+    ],
+    "errosComuns": [
+      "Distinguir uma escrita equivalente de uma escrita padronizada evita ambiguidade."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "notacao_cientifica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é a notação científica padronizada de 0,00072?",
+      "alternativas": [
+        "7,2× 10⁻⁴",
+        "72× 10⁻⁵",
+        "0,72× 10⁻³",
+        "7,2× 10⁴"
+      ],
+      "correta": 0,
+      "explicacao": "O coeficiente 7,2 está entre 1 e 10, e a potência 10⁻⁴ conserva o valor."
+    },
+    {
+      "id": "notacao_cientifica.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Escreva 5.600.000 e 0,0034 em notação científica. Calcule (2× 10³)×(3× 10⁻²) e normalize.",
+      "gabarito": "5,6× 10⁶ e 3,4× 10⁻³. O produto é 6× 10¹=60. Justificar cada compensação decimal e cada operação com expoentes.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "5,6× 10⁶ e 3,4× 10⁻³. O produto é 6× 10¹=60. Justificar cada compensação decimal e cada operação com expoentes.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "notacao_cientifica",
+    "potencias_de_dez"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        315
+      ],
+      "paginasImpressas": "313",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        40,
+        41,
+        42
+      ],
+      "paginasImpressas": "43, 44, 45",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.sequencias"
+  ],
+  "proximosPassos": [
+    "mat.ef08.numeros_dos_naturais_aos_racionais_e_sequencias.dizimas_periodicas_e_fracao_geratriz"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

@@ -2,36 +2,121 @@
   "id": "mat.ef07.poligonos_e_transformacoes_geometricas.transformacoes_geometricas",
   "componente": "mat",
   "nivel": "EF07",
-  "ordem": 19,
+  "ordem": 30,
   "unidade": "Polígonos e Transformações Geométricas",
   "titulo": "Transformações Geométricas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF07MA21"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construir translações, rotações e reflexões e identificá-las em composições artísticas."
+    ],
+    "resumo": "Construir translações, rotações e reflexões e identificá-las em composições artísticas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Matrizes e Transformações</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Como mover figuras no plano cartesiano usando matemática. Análise de isometrias (reflexão, translação, rotação).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🎮 Computação Gráfica:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Multiplicar coordenadas por <strong>Matrizes</strong> é a base para rotacionar e redimensionar personagens em jogos 3D.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Transformações Geométricas</h2><h3>O que vamos aprender</h3><p>Construir translações, rotações e reflexões e identificá-las em composições artísticas.</p><h3>Ideias e relações</h3><p>Translação desloca todos os pontos pelo mesmo vetor; rotação gira em torno de um centro por um ângulo e sentido; reflexão produz uma imagem em relação a uma reta. Essas transformações preservam comprimentos e aberturas angulares. Ao construir, informe todos os parâmetros, como direção e distância de uma translação ou centro e sentido de uma rotação. Observe padrões em frisos e mosaicos e produza uma composição própria, explicando qual transformação relaciona cada repetição à figura inicial.</p><h3>Exemplo resolvido</h3><p>Uma translação de três unidades para a direita e duas para cima leva (1,2) a (4,4). A mesma mudança deve ser aplicada a todos os vértices de um polígono.</p><h3>Atenção ao raciocínio</h3><p>Mover só um vértice pode deformar a figura; isso não é uma translação de todo o polígono.</p><h3>Investigue e produza</h3><p>Desenhe um motivo em malha e crie um friso por translações. Acrescente uma reflexão ou rotação e registre seus parâmetros.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "transformacoes_geometricas",
+      "simetria"
+    ],
+    "errosComuns": [
+      "Mover só um vértice pode deformar a figura; isso não é uma translação de todo o polígono."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "transformacoes_geometricas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Transladar (1,2) três unidades à direita e duas acima produz:",
+      "alternativas": [
+        "(2,3)",
+        "(−2,0)",
+        "(3,2)",
+        "(4,4)"
+      ],
+      "correta": 3,
+      "explicacao": "As coordenadas ficam (1+3,2+2)=(4,4)."
+    },
+    {
+      "id": "transformacoes_geometricas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe um motivo em malha e crie um friso por translações. Acrescente uma reflexão ou rotação e registre seus parâmetros.",
+      "gabarito": "Todas as repetições por translação devem usar o mesmo vetor. Na outra transformação, identificar eixo ou centro, ângulo e sentido. Verificar comprimentos e ângulos preservados.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Todas as repetições por translação devem usar o mesmo vetor. Na outra transformação, identificar eixo ou centro, ângulo e sentido. Verificar comprimentos e ângulos preservados.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "transformacoes_geometricas",
+    "simetria"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        311
+      ],
+      "paginasImpressas": "309",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        297,
+        298,
+        322
+      ],
+      "paginasImpressas": "300, 301, 325",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.poligonos_e_transformacoes_geometricas.poligonos_regulares"
+  ],
+  "proximosPassos": [
+    "mat.ef07.poligonos_e_transformacoes_geometricas.simetria_no_plano_cartesiano"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

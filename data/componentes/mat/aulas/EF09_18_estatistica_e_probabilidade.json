@@ -2,36 +2,111 @@
   "id": "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica_e_probabilidade",
   "componente": "mat",
   "nivel": "EF09",
-  "ordem": 18,
+  "ordem": 32,
   "unidade": "Estatística, Combinatória e Probabilidade",
   "titulo": "Estatística e Probabilidade",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF09MA23"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Executar pesquisa amostral e comunicar resultados com medidas, gráficos e limites."
+    ],
+    "resumo": "Executar pesquisa amostral e comunicar resultados com medidas, gráficos e limites.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Previsões</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Integração dos temas: uso da probabilidade para fazer previsões baseadas em frequências estatísticas passadas.\n        </p>\n    </div>\n    "
+        "html": "<h2>Estatística e Probabilidade</h2><h3>O que vamos aprender</h3><p>Executar pesquisa amostral e comunicar resultados com medidas, gráficos e limites.</p><h3>Ideias e relações</h3><p>Uma pesquisa amostral exige uma pergunta sobre a realidade social, uma população definida e uma técnica de seleção adequada. Planeje o registro, execute a coleta e organize uma planilha, preservando a distinção entre observação e opinião ou previsão. Calcule média, mediana, moda e amplitude quando forem adequadas à variável. Escolha gráficos que ajudem a responder à pergunta e escreva um relatório que avalie o alcance das conclusões. Não oculte dados ausentes nem generalize uma amostra de conveniência como se fosse censo.</p><h3>Exemplo resolvido</h3><p>Num estudo de tempo de trajeto, a amostra pode incluir participantes de diferentes turmas. A média e a mediana podem divergir se alguns trajetos forem muito longos; essa diferença deve ser discutida.</p><h3>Atenção ao raciocínio</h3><p>Uma planilha correta não remove vieses criados na escolha dos participantes.</p><h3>Investigue e produza</h3><p>Planeje e execute uma pesquisa sobre transporte, leitura ou sustentabilidade. Use planilha para tabela e medidas, produza gráficos e redija relatório com avaliação da amostra e dos resultados.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "probabilidade",
+      "estatistica"
+    ],
+    "errosComuns": [
+      "Uma planilha correta não remove vieses criados na escolha dos participantes."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "estatistica_e_probabilidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O relatório de uma pesquisa amostral deve apresentar:",
+      "alternativas": [
+        "Somente a média.",
+        "Método, resultados, medidas adequadas e limites.",
+        "Uma conclusão escolhida antes da coleta.",
+        "Dados inventados para parecerem completos."
+      ],
+      "correta": 1,
+      "explicacao": "A comunicação precisa permitir avaliar como os resultados foram obtidos e até onde podem ser usados."
+    },
+    {
+      "id": "estatistica_e_probabilidade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Planeje e execute uma pesquisa sobre transporte, leitura ou sustentabilidade. Use planilha para tabela e medidas, produza gráficos e redija relatório com avaliação da amostra e dos resultados.",
+      "gabarito": "Avaliar população, técnica, registros reais, medidas compatíveis com a variável, amplitude, gráficos identificados e limites da inferência. Os resultados dependem da coleta; não há respostas numéricas previamente fixadas.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Avaliar população, técnica, registros reais, medidas compatíveis com a variável, amplitude, gráficos identificados e limites da inferência. Os resultados dependem da coleta; não há respostas numéricas previamente fixadas.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "probabilidade",
+    "estatistica"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        321
+      ],
+      "paginasImpressas": "319",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.estatistica"
+  ],
+  "proximosPassos": [
+    "mat.ef09.estatistica_combinatoria_e_probabilidade.probabilidade"
+  ],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
 }

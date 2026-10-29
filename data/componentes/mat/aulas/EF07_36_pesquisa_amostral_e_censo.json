@@ -1,0 +1,110 @@
+{
+  "id": "mat.ef07.estatistica_e_probabilidade.pesquisa_amostral_e_censo",
+  "componente": "mat",
+  "nivel": "EF07",
+  "ordem": 36,
+  "unidade": "Estatística e Probabilidade",
+  "titulo": "Pesquisa Amostral e Censitária",
+  "bncc": [
+    "EF07MA36"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Planejar uma pesquisa e justificar censo ou amostra, comunicando resultados com planilha."
+    ],
+    "resumo": "Planejar uma pesquisa e justificar censo ou amostra, comunicando resultados com planilha.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Pesquisa Amostral e Censitária</h2><h3>O que vamos aprender</h3><p>Planejar uma pesquisa e justificar censo ou amostra, comunicando resultados com planilha.</p><h3>Ideias e relações</h3><p>Um censo procura observar todos os elementos da população definida; uma pesquisa amostral observa uma parte para investigar essa população. A decisão depende da pergunta, do tamanho do grupo, do tempo e das condições de coleta. Uma amostra por conveniência pode excluir perfis importantes; descreva como os participantes foram escolhidos e limite as conclusões. Planeje variável, categorias, registro sem duplicação, tabela e gráfico adequados. Uma planilha ajuda a contar e conferir os totais, mas não corrige uma seleção tendenciosa.</p><h3>Exemplo resolvido</h3><p>Consultar todos os estudantes de uma turma é censo dessa turma, não de toda a escola. Consultar apenas essa turma para falar da escola é uma pesquisa amostral com limitações que precisam ser discutidas.</p><h3>Atenção ao raciocínio</h3><p>O nome “amostra” não garante representatividade.</p><h3>Investigue e produza</h3><p>Planeje e realize pesquisa sobre uma prática de leitura, transporte ou sustentabilidade. Defina população, censo ou amostra, coleta e planilha. Produza tabela, gráfico e relatório com limites.</p><p>Registre a resolução, justifique as escolhas e confira seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "pesquisa",
+      "amostra"
+    ],
+    "errosComuns": [
+      "O nome “amostra” não garante representatividade."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pesquisa_amostral_e_censo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Entrevistar todos os estudantes de uma turma é:",
+      "alternativas": [
+        "Censo da turma.",
+        "Censo de qualquer escola.",
+        "Sempre uma amostra aleatória da cidade.",
+        "Uma prova de causa e efeito."
+      ],
+      "correta": 0,
+      "explicacao": "A população definida é a própria turma, e todos foram consultados."
+    },
+    {
+      "id": "pesquisa_amostral_e_censo.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Planeje e realize pesquisa sobre uma prática de leitura, transporte ou sustentabilidade. Defina população, censo ou amostra, coleta e planilha. Produza tabela, gráfico e relatório com limites.",
+      "gabarito": "Avaliar pergunta clara, população delimitada, justificativa da escolha, coleta e registros reais, totais conferidos e conclusão restrita à evidência. Não há um conjunto de resultados esperado previamente.",
+      "rubrica": [
+        "Realizar a tarefa solicitada e apresentar registros verificáveis.",
+        "Avaliar pergunta clara, população delimitada, justificativa da escolha, coleta e registros reais, totais conferidos e conclusão restrita à evidência. Não há um conjunto de resultados esperado previamente.",
+        "Justificar procedimentos, propriedades e unidades; conferir resultados e limites."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "pesquisa",
+    "amostra"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        313
+      ],
+      "paginasImpressas": "311",
+      "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida de exemplos, respostas e correspondência curricular; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [
+    "mat.ef07.estatistica_e_probabilidade.medidas_de_tendencia_central"
+  ],
+  "proximosPassos": [],
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir ideias e exemplo."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Investigar, construir ou elaborar."
+    },
+    {
+      "min": 5,
+      "acao": "Conferir e registrar síntese."
+    }
+  ]
+}

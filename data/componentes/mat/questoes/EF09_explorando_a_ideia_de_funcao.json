@@ -1,0 +1,370 @@
+[
+  {
+    "id": "mat.ef09.explorando_a_ideia_de_funcao.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Explorando a Ideia de Função",
+    "aulaId": "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao",
+    "bncc": [
+      "EF09MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual relação viola a unicidade de saída para uma mesma entrada?",
+    "opcoes": [
+      "1→2 e 1→3",
+      "1→3 e 2→4",
+      "0→6 e 3→18",
+      "1→2 e 2→2"
+    ],
+    "correta": 0,
+    "explicacao": "A entrada 1 foi associada a duas saídas diferentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          294,
+          295,
+          300
+        ],
+        "paginasImpressas": "297, 298, 303",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.explorando_a_ideia_de_funcao.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Explorando a Ideia de Função",
+    "aulaId": "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao",
+    "bncc": [
+      "EF09MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual ponto pertence ao gráfico de f(x)=2x+1?",
+    "opcoes": [
+      "(3,5)",
+      "(0,0)",
+      "(1,2)",
+      "(2,5)"
+    ],
+    "correta": 3,
+    "explicacao": "f(2)=2× 2+1=5.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298,
+          300
+        ],
+        "paginasImpressas": "300, 301, 303",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.explorando_a_ideia_de_funcao.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Explorando a Ideia de Função",
+    "aulaId": "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica",
+    "bncc": [
+      "EF09MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Os zeros de f(x)=x²−4 são:",
+    "opcoes": [
+      "0 e 4",
+      "Somente 2",
+      "−2 e 2",
+      "−4 e 4"
+    ],
+    "correta": 2,
+    "explicacao": "x²=4 admite−2 e 2, ambos produzindo saída zero.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          307,
+          308,
+          309
+        ],
+        "paginasImpressas": "310, 311, 312",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.explorando_a_ideia_de_funcao.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Explorando a Ideia de Função",
+    "aulaId": "mat.ef09.explorando_a_ideia_de_funcao.a_ideia_de_funcao",
+    "bncc": [
+      "EF09MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma regra representa função de x em y quando:",
+    "opcoes": [
+      "Um x possui dois y diferentes",
+      "Não há associação para alguns x do domínio",
+      "Todos os y precisam ser positivos",
+      "Cada x do domínio tem exatamente um y associado"
+    ],
+    "correta": 3,
+    "explicacao": "A existência e a unicidade de saída para cada entrada definem função.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          294,
+          295,
+          300
+        ],
+        "paginasImpressas": "297, 298, 303",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.explorando_a_ideia_de_funcao.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Explorando a Ideia de Função",
+    "aulaId": "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao",
+    "bncc": [
+      "EF09MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na função y = 3x − 2, qual ponto pertence ao gráfico?",
+    "opcoes": [
+      "(0,2)",
+      "(1,2)",
+      "(2,4)",
+      "(2,6)"
+    ],
+    "correta": 2,
+    "explicacao": "Para x=2, y=6−2=4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298,
+          300
+        ],
+        "paginasImpressas": "300, 301, 303",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.explorando_a_ideia_de_funcao.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Explorando a Ideia de Função",
+    "aulaId": "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao",
+    "bncc": [
+      "EF09MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na função y = 2x + 5, aumentar x em 1 muda y em:",
+    "opcoes": [
+      "−2",
+      "+2",
+      "+5",
+      "+7"
+    ],
+    "correta": 1,
+    "explicacao": "A variação é constante e igual ao coeficiente 2.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298,
+          300
+        ],
+        "paginasImpressas": "300, 301, 303",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.explorando_a_ideia_de_funcao.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Explorando a Ideia de Função",
+    "aulaId": "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica",
+    "bncc": [
+      "EF09MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na função y = x² − 9, os valores de x com y=0 são:",
+    "opcoes": [
+      "−3 e 3",
+      "Somente 3",
+      "−9 e 9",
+      "0 e 9"
+    ],
+    "correta": 0,
+    "explicacao": "x²=9; os dois pontos de interseção com o eixo x são (−3,0) e (3,0).",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          307,
+          308,
+          309
+        ],
+        "paginasImpressas": "310, 311, 312",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef09.explorando_a_ideia_de_funcao.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF09",
+    "unidade": "Explorando a Ideia de Função",
+    "aulaId": "mat.ef09.explorando_a_ideia_de_funcao.funcao_quadratica",
+    "bncc": [
+      "EF09MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para y=x², entradas x=−2 e x=2 têm a mesma saída. Isso:",
+    "opcoes": [
+      "Impede que seja função",
+      "Exige que y seja negativo",
+      "Torna o gráfico uma reta",
+      "É permitido: cada entrada ainda tem uma saída única"
+    ],
+    "correta": 3,
+    "explicacao": "Entradas diferentes podem compartilhar a mesma saída sem violar a definição.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          319
+        ],
+        "paginasImpressas": "317",
+        "uso": "Delimitação curricular; explicações, exemplos e itens autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          307,
+          308,
+          309
+        ],
+        "paginasImpressas": "310, 311, 312",
+        "uso": "Referência conceitual; exemplos e atividades não transcritos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

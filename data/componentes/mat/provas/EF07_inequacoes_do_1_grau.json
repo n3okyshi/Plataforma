@@ -1,0 +1,61 @@
+{
+  "id": "mat.ef07.inequacoes_do_1_grau.prova",
+  "titulo": "Avaliação: Inequações do 1º Grau",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF07",
+  "unidade": "Inequações do 1º Grau",
+  "bncc": [],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos de dois pontos; correção ao final. O portfólio é avaliado separadamente pelo professor, com critérios próprios. A nota objetiva não certifica sozinha domínio da unidade.",
+  "questoes": [
+    "mat.ef07.inequacoes_do_1_grau.prova.01",
+    "mat.ef07.inequacoes_do_1_grau.prova.02",
+    "mat.ef07.inequacoes_do_1_grau.prova.03",
+    "mat.ef07.inequacoes_do_1_grau.prova.04",
+    "mat.ef07.inequacoes_do_1_grau.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo correto; portfólio com devolutiva por produção e revisão, sem nota automática.",
+  "matriz": [],
+  "avaliacaoPratica": {
+    "id": "mat.ef07.inequacoes_do_1_grau.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Inequações do 1º Grau",
+    "enunciado": "Reúna ou revise as produções abaixo. Numere os registros e explique as correções feitas após a devolutiva. Pesquisas e experimentos exigem dados realmente coletados; construções e algoritmos exigem os registros de execução. 1. Resolva 3x+2≤14 e −x<5 e represente os conjuntos numa reta. Explique a inclusão ou exclusão da extremidade.",
+    "gabarito": "Conferência por tarefa: 1. x≤4, com 4 incluído; e x>−5, com −5 excluído. Justificar as transformações e indicar que o domínio adotado é o dos racionais.",
+    "bncc": [],
+    "atividadesOrigem": [
+      "mat.ef07.inequacoes_do_1_grau.desigualdades_e_inequacoes#desigualdades_e_inequacoes.investigacao"
+    ],
+    "duracaoMinSugerida": 30,
+    "rubrica": [
+      "Conferir cada produção pelo critério específico da aula de origem; registrar atende, em desenvolvimento ou retomar, com justificativa.",
+      "Verificar a execução real de desenhos, construções, algoritmos, coletas e experimentos solicitados.",
+      "Analisar procedimentos e explicações, além da resposta final.",
+      "Pedir revisão da produção e indicar a habilidade a retomar; não atribuir domínio apenas pela nota objetiva."
+    ],
+    "correcao": "Docente, por tarefa; autoavaliação orientada disponível, sem nota automática.",
+    "tarefas": [
+      {
+        "titulo": "Desigualdades e Inequações",
+        "enunciado": "Resolva 3x+2≤14 e −x<5 e represente os conjuntos numa reta. Explique a inclusão ou exclusão da extremidade.",
+        "gabarito": "x≤4, com 4 incluído; e x>−5, com −5 excluído. Justificar as transformações e indicar que o domínio adotado é o dos racionais.",
+        "bncc": [],
+        "atividadeOrigem": "mat.ef07.inequacoes_do_1_grau.desigualdades_e_inequacoes#desigualdades_e_inequacoes.investigacao"
+      }
+    ]
+  },
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        158,
+        159
+      ],
+      "paginasImpressas": "161, 162",
+      "uso": "Referência conceitual; exemplos e atividades não transcritos."
+    }
+  ]
+}
