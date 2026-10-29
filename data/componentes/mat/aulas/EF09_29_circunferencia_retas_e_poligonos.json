@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef09.circunferencia_e_circulos.circunferencia_retas_e_poligonos",
+  "componente": "mat",
+  "nivel": "EF09",
+  "ordem": 29,
+  "unidade": "Circunferência e Círculos",
+  "titulo": "Circunferência, Retas e Polígonos",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Reta e Circunferência</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Posições relativas (tangente, secante, externa). Estudo de polígonos inscritos e circunscritos.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">👆 Tangente:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A reta tangente toca a circunferência em apenas um ponto e forma <strong>90º</strong> com o raio.</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

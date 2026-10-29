@@ -1,23 +1,6 @@
-/**
- * FIL_CURRICULUM.JS
- * Estrutura curricular de Filosofia.
- * Chave: "Filosofia" (Deve bater com o config.js)
- */
-
-window.registrarCurriculo("Filosofia", {
-    // ============================================
-    // ENSINO MÉDIO (1º ao 3º)
-    // ============================================
-    "1º Ano do EM": {
-        "Primeiros Passos": [
-        ],
-    },
-    "2º Ano do EM": {
-        "Primeiros Passos": [
-        ],
-    },
-    "3º Ano do EM": {
-        "Primeiros Passos": [
-        ],
-    },
+/** Currículo por códigos de nível; aulas em planejamento ficam em data/componentes. */
+registrarCurriculo("Filosofia", {
+  "EM01": {},
+  "EM02": {},
+  "EM03": {}
 });

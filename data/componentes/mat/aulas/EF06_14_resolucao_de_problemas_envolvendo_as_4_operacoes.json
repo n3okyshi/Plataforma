@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 14,
+  "unidade": "Operações com números naturais",
+  "titulo": "Resolução de Problemas Envolvendo as 4 Operações",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Resolução de Problemas Envolvendo as 4 Operações</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: aplicar leitura atenta, modelagem e estratégia de cálculo para resolver problemas que exigem adição, subtração, multiplicação e divisão, isoladamente ou combinadas.</p>\n<div class=\"bg-white dark:bg-brand-darkCard p-4 rounded-lg border border-gray-100 dark:border-gray-700 mb-4\">\n    <strong class=\"block mb-2\">Estratégia em 4 passos</strong>\n    <ol class=\"list-decimal list-inside text-gray-700 dark:text-gray-300 space-y-1\">\n        <li>Leia o enunciado com atenção e identifique os dados e o que se pede.</li>\n        <li>Escolha a representação (frases, figura, tabela ou equação).</li>\n        <li>Responda usando as operações necessárias, verificando unidades e sentido da resposta.</li>\n        <li>Verifique a resposta com estimativas ou operação inversa.</li>\n    </ol>\n</div>\n<div class=\"mt-4\">\n    <label class=\"block font-semibold\">Atividade 1 — Compra em Grupo</label>\n    <p class=\"text-gray-700 dark:text-gray-300\">Um grupo de 7 alunos compra 3 caixas de lápis. Cada caixa tem 12 lápis e custa R$ 8,50. Quanto cada aluno deve pagar para dividir igualmente o custo total?</p>\n    <div class=\"mt-2\">\n        <input id=\"resolucao-atv1\" class=\"w-64 p-2 border rounded\" placeholder=\"Valor por aluno (ex: 4.50)\" />\n        <button class=\"mt-2 btn btn-primary\">Verificar</button>\n    </div>\n</div>\n<div class=\"mt-6\">\n    <label class=\"block font-semibold\">Atividade 2 — Mistura e Proporção</label>\n    <p class=\"text-gray-700 dark:text-gray-300\">Para fazer suco, usamos 3 litros de água para cada 1 litro de concentrado. Quantos litros de água são necessários para 5 litros de concentrado? Se o litro de concentrado custa R$ 6, qual o custo do concentrado usado?</p>\n    <div class=\"mt-2 space-y-2\">\n        <input id=\"resolucao-atv2a\" class=\"w-48 p-2 border rounded\" placeholder=\"Litros de água\" />\n        <input id=\"resolucao-atv2b\" class=\"w-48 p-2 border rounded\" placeholder=\"Custo (R$)\" />\n        <button class=\"mt-2 btn btn-primary\">Verificar</button>\n    </div>\n</div>\n<div class=\"mt-6\">\n    <label class=\"block font-semibold\">Atividade 3 — Expressão e Verificação</label>\n    <p class=\"text-gray-700 dark:text-gray-300\">Resolva e verifique: (120 ÷ 5) × (3 + 2) − 10</p>\n    <div class=\"mt-2\">\n        <input id=\"resolucao-atv3\" class=\"w-40 p-2 border rounded\" />\n        <button class=\"mt-2 btn btn-primary\">Verificar</button>\n    </div>\n</div>\n<div class=\"mt-6\">\n    <label class=\"block font-semibold\">Microquiz</label>\n    <p class=\"text-gray-700 dark:text-gray-300\">Qual operação é geralmente a mais adequada para verificar uma divisão feita por causa de um erro de cálculo?</p>\n    <div class=\"mt-2\">\n        <button class=\"btn\">Multiplicação</button>\n        <button class=\"btn\">Soma</button>\n        <button class=\"btn\">Subtração</button>\n    </div>\n</div>\n<div class=\"mt-6 p-4 bg-gray-50 dark:bg-gray-900 rounded\">\n    <strong>Dica do Professor:</strong>\n    <p class=\"text-gray-700 dark:text-gray-300\">Ao criar enunciados, destaque as unidades (R$, L, km) e incentive os alunos a estimarem a resposta antes de calcular — isso ajuda a identificar resultados absurdos.</p>\n</div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

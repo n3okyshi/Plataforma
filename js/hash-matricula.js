@@ -5,13 +5,8 @@
  * O cliente envia ao Firestore APENAS o SHA-256 (hex) da matrícula
  * normalizada (§5.10). O browser não tem `require('crypto')`, então este
  * arquivo usa Web Crypto (`crypto.subtle.digest`) — por isso `hashMatricula`
- * é ASSÍNCRONO (devolve Promise) aqui, enquanto a cópia Node
- * (tools/lib/hashMatricula.js) é síncrona.
- *
- * A normalização é DUPLICADA VERBATIM de tools/lib/hashMatricula.js (D1
- * aceita: o formato de matrícula é congelado). RISCO CONHECIDO: alterar a
- * regra em um só lado quebra a paridade — tools/testes/teste-hashMatricula.js
- * compara os dois caminhos. Mantenha as duas `normalizarMatricula` idênticas.
+ * é ASSÍNCRONO e devolve uma Promise. A normalização remove pontos,
+ * hífens, barras e espaços e converte letras para maiúsculas.
  *
  * Carregado por <script> no index.html ANTES do loader (que carrega app.js e
  * as views). O guard `module` existe para o teste Node poder fazer `require`.

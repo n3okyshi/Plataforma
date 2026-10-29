@@ -1,23 +1,23 @@
 /**
- * SERVICE WORKER (PWA) - MATHLINGO v3.5
+ * SERVICE WORKER (PWA) - MATHLINGO v3.6
  * Estratégia: Stale-While-Revalidate para Assets + Network-First para APIs
  */
 
-const CACHE_NAME = 'mathlingo-v3.5-static';
-const DATA_CACHE_NAME = 'mathlingo-v3.5-data';
+const CACHE_NAME = 'mathlingo-v3.6-static';
+const DATA_CACHE_NAME = 'mathlingo-v3.6-data';
 
 const FILES_TO_CACHE = [
   './',
   './index.html',
   './manifest.json',
-  
+
   // --- CSS TOKENS & DESIGN SYSTEM ---
   './css/variables.css',
   './css/base.css',
   './css/layout.css',
   './css/components.css',
   './css/style.css',
-  
+
   // --- JS INFRAESTRUTURA & ESTADO REATIVO ---
   './js/loader.js',
   './js/config.js',
@@ -28,14 +28,14 @@ const FILES_TO_CACHE = [
   './js/hash-matricula.js',
   './js/pratica.js',
   './js/fila-resultados.js',
-  
+
   // --- JS MÓDULOS PRINCIPAIS ---
   './js/app.js',
-  './js/ui.js',    
-  './js/game.js',  
+  './js/ui.js',
+  './js/game.js',
   './js/audio.js',
   './js/auth.js',
-  './js/arena.js',   
+  './js/arena.js',
   './js/teacher.js',
 
   // --- JS VIEWS ---
@@ -60,13 +60,13 @@ self.addEventListener('install', event => {
     caches.open(CACHE_NAME)
       .then(cache => {
         console.log('[ServiceWorker] Pre-caching offline pages');
-        return cache.addAll(FILES_TO_CACHE); 
+        return cache.addAll(FILES_TO_CACHE);
       })
   );
-  self.skipWaiting(); 
+  self.skipWaiting();
 });
 
-// ATIVAÇÃO 
+// ATIVAÇÃO
 self.addEventListener('activate', (evt) => {
   console.log('[ServiceWorker] Ativando e limpando caches antigos...');
   evt.waitUntil(

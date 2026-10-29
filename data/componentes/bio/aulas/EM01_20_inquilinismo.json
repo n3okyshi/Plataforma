@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ecologia.inquilinismo",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 20,
+  "unidade": "Introdução à Ecologia",
+  "titulo": "Inquilinismo",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">Inquilinismo</h2>\n            <p class=\"mb-4\">\n                O inquilinismo é uma relação ecológica interespecífica harmônica e ocorre quando um organismo obtém abrigo e proteção no corpo do outro, que não é prejudicado. \n            </p>\n            \n            <p class=\"mb-4\">\n                Um exemplo de inquilinismo pode ser observado nas plantas epífitas, como algumas espécies de orquídeas e bromélias, que vivem sobre outras plantas sem prejudicá-las, conseguindo obter mais luminosidade. \n            </p>\n\n            \n\n            <div class=\"bg-blue-50 dark:bg-blue-900/20 p-6 rounded-3xl border-l-8 border-brand-blue my-6 text-sm italic\">\n                <p>O epifitismo é uma variante de inquilinismo que ocorre quando uma planta ou alga vive sobre outra. É muito comum em florestas tropicais.</p>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

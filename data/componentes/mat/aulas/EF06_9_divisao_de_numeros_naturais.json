@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 9,
+  "unidade": "Operações com números naturais",
+  "titulo": "Divisão de Números Naturais",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Divisão de Números Naturais</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: entender a divisão como repartição e como operação inversa da multiplicação; praticar a divisão exata e com resto.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Ao dividir, perguntamos quantas vezes o divisor cabe no dividendo. Quando não cabe um número inteiro de vezes, obtemos resto.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Calcule</label>\n  <p>Calcule 1.245 ÷ 5 = ?</p>\n  <input id=\"atividade-divisao-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se 7 × ? = 329, qual é o inteiro mais próximo e qual será o resto?</p>\n  <div>\n    <button class=\"btn\">47</button>\n    <button class=\"btn\">46</button>\n    <button class=\"btn\">48</button>\n  </div>\n</div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

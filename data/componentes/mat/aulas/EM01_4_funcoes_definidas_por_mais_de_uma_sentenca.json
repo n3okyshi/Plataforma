@@ -1,0 +1,37 @@
+{
+  "id": "mat.em01.conjuntos_e_funcao_afim.funcoes_definidas_por_mais_de_uma_sentenca",
+  "componente": "mat",
+  "nivel": "EM01",
+  "ordem": 4,
+  "unidade": "Conjuntos e Função Afim",
+  "titulo": "Funções Definidas por Mais de uma Sentença",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Funções por Partes e Modular</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Funções que mudam de comportamento dependendo do intervalo. Introdução à <strong>Função Modular</strong> ($|x|$).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📐 Formato em V:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A função modular básica $f(x) = |x|$ reflete a parte negativa para cima, criando um gráfico em forma de \"V\".</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

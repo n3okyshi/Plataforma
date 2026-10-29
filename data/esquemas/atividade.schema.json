@@ -1,0 +1,112 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "atividade.schema.json",
+  "title": "atividade",
+  "type": "object",
+  "required": [
+    "id",
+    "tipo",
+    "enunciado"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tipo": {
+      "enum": [
+        "multipla_escolha",
+        "numerica",
+        "discursiva"
+      ]
+    },
+    "enunciado": {
+      "type": "string",
+      "minLength": 1
+    },
+    "alternativas": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "correta": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "resposta": {
+      "type": "number"
+    },
+    "tolerancia": {
+      "type": "number",
+      "minimum": 0
+    },
+    "explicacao": {
+      "type": "string",
+      "minLength": 1
+    },
+    "gabarito": {
+      "type": "string",
+      "minLength": 1
+    },
+    "rubrica": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "tipo": {
+            "const": "multipla_escolha"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "alternativas",
+          "correta",
+          "explicacao"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "tipo": {
+            "const": "numerica"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "resposta",
+          "tolerancia",
+          "explicacao"
+        ]
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "tipo": {
+            "const": "discursiva"
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "gabarito",
+          "rubrica"
+        ]
+      }
+    }
+  ]
+}

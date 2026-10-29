@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_de_numeros_naturais",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 8,
+  "unidade": "Operações com números naturais",
+  "titulo": "Multiplicação de Números Naturais",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Multiplicação de Números Naturais</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: aplicar a tabuada, algoritmo da multiplicação e usar multiplicação em problemas reais.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Algoritmo: multiplique por cada algarismo e some deslocando de acordo com as casas (multiplicação em coluna).</p>\n<div class=\"mt-4 p-4 bg-white dark:bg-gray-800 rounded shadow\">\n  <strong>Exemplo:</strong>\n  <p>  213\n  <br>×  14\n  <br>=  213 × 10 + 213 × 4 = 2130 + 852 = 2982</p>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade 5 — Calcule</label>\n  <p>Calcule 124 × 6 = ?</p>\n  <input id=\"atividade-multiplicacao-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Qual é 25 × 12?</p>\n  <div>\n    <button class=\"btn\">300</button>\n    <button class=\"btn\">250</button>\n    <button class=\"btn\">320</button>\n  </div>\n</div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

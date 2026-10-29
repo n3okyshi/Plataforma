@@ -31,7 +31,7 @@ var ui = {
         // 1. GARANTIA DE VISIBILIDADE
         // Se NÃO estiver em login/loading, o header DEVE aparecer
         const isSystemView = app.state.currentView && ['login', 'loading'].includes(app.state.currentView);
-        
+
         if (els.header) {
             if (isSystemView) {
                 els.header.classList.add('hidden');
@@ -294,6 +294,18 @@ var ui = {
         },
         'arena-answer': function (indice, _arg2, el) {
             if (window.app) app.handleArenaAnswer(el, Number(indice));
+        },
+        'arena-unit-answer': function (indice) {
+            if (window.arena) arena.responder(Number(indice));
+        },
+        'arena-unit-next': function () {
+            if (window.arena) arena.proximaQuestao();
+        },
+        'arena-global-next': function () {
+            if (!app.state.arena.answered) return;
+            app.state.arena.answered = false;
+            app.state.arena.currentIndex++;
+            app.navigate('arena_play');
         },
         desafio: function (disciplina, nivel, _el, extras) {
             if (window.arena) arena.comecarDesafio(disciplina, nivel, extras[0], extras[1]);

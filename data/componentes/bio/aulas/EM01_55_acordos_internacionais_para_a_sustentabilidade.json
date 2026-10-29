@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.humanidade_e_ambiente.acordos_internacionais_para_a_sustentabilidade",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 55,
+  "unidade": "Humanidade e ambiente",
+  "titulo": "Acordos internacionais para a sustentabilidade",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Acordos internacionais para a sustentabilidade</h2>\n            <p class=\"mb-4\">\n                O conceito de sustentabilidade começou a ser discutido em 1972, em Estocolmo, na Suécia, na Conferência das Nações Unidas sobre o Meio Ambiente Humano. Esse encontro ficou conhecido como Conferência de Estocolmo.\n            </p>\n            <p class=\"mb-4 text-sm\">\n                Desde então, já foram realizadas várias conferências ambientais para definir ações e estabelecer acordos internacionais. Dentre as reuniões internacionais, destacam-se:\n            </p>\n        </section>\n\n        <div class=\"space-y-4 my-8\">\n            <div class=\"p-4 bg-blue-50 dark:bg-blue-900/10 rounded-2xl border-l-4 border-brand-blue text-xs\">\n                <p class=\"font-black\">Rio-92 ou Eco-92 (Rio de Janeiro, 1992)</p>\n                <p>Tornou-se um marco nas discussões sobre desenvolvimento sustentável.</p>\n            </div>\n            <div class=\"p-4 bg-blue-50 dark:bg-blue-900/10 rounded-2xl border-l-4 border-brand-blue text-xs\">\n                <p class=\"font-black\">Protocolo de Kyoto (Japão, 1997)</p>\n                <p>Estabeleceu metas rígidas para os países reduzirem a emissão de gases de efeito estufa.</p>\n            </div>\n            <div class=\"p-4 bg-blue-50 dark:bg-blue-900/10 rounded-2xl border-l-4 border-brand-blue text-xs\">\n                <p class=\"font-black\">Acordo de Paris (COP21, 2015)</p>\n                <p>Firmou metas para reduzir a emissão de gases do efeito estufa com foco na sustentabilidade.</p>\n            </div>\n        </div>\n\n        <section class=\"bg-brand-green/10 p-6 rounded-3xl border-2 border-dashed border-brand-green my-8\">\n            <h4 class=\"font-black text-brand-green mb-2 uppercase text-sm flex items-center gap-2\">\n                <i class=\"fas fa-globe\"></i> É sobre isso...\n            </h4>\n            <p class=\"text-sm italic text-gray-700 dark:text-gray-300\">\n                Dirigentes brasileiros de diferentes épocas participaram de encontros ambientais e assinaram acordos internacionais. Converse com os colegas sobre quais são os desafios do Brasil atualmente para alcançar a sustentabilidade.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

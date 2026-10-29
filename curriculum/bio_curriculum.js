@@ -1,7 +1,4 @@
-/** GERADO por tools/gerar.js — NÃO EDITAR. hash: 311ce62592d51d1967820ab0eca166ab852a8807cb3065dff9afced9ef7a03df */
-'use strict';
-
-// Currículo de Biologia — gerado a partir de data/componentes (R14/R17).
+/** Currículo por códigos de nível; aulas em planejamento ficam em data/componentes. */
 registrarCurriculo("Biologia", {
   "EM01": {
     "Introdução à ciência da vida": [

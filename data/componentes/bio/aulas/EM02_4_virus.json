@@ -1,0 +1,37 @@
+{
+  "id": "bio.em02.virus_bacterias_protozoarios_algas_e_fungos.virus",
+  "componente": "bio",
+  "nivel": "EM02",
+  "ordem": 4,
+  "unidade": "Vírus, bactérias, protozoários, algas e fungos",
+  "titulo": "Vírus",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6\">\n        <p>Os vírus são seres acelulares, compostos basicamente por material genético (DNA ou RNA) envolto por uma cápsula proteica chamada <b>capsídeo</b>. Eles são parasitas intracelulares obrigatórios.</p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-6 rounded-2xl border-l-4 border-blue-500\">\n            <h4 class=\"font-black text-blue-700 dark:text-blue-300 mb-2\">Por que são parasitas obrigatórios?</h4>\n            <p class=\"text-sm\">Os vírus não possuem metabolismo próprio (ribossomos ou enzimas para produção de energia). Para se reproduzirem, eles precisam \"sequestrar\" a maquinaria de uma célula viva.</p>\n        </div>\n\n        <h3 class=\"text-2xl font-black text-brand-green mt-8\">Estrutura Viral</h3>\n        <ul class=\"list-disc list-inside space-y-2\">\n            <li><b>Material Genético:</b> Pode ser DNA ou RNA (exclusividade biológica: alguns vírus possuem RNA de fita dupla).</li>\n            <li><b>Capsídeo:</b> Envoltório de proteínas que protege o ácido nucleico.</li>\n            <li><b>Envelope:</b> Alguns vírus (como o HIV e o Influenza) possuem uma camada externa de lipídios derivada da membrana da célula hospedeira.</li>\n        </ul>\n\n        <h3 class=\"text-2xl font-black text-brand-green mt-8\">Ciclos de Replicação</h3>\n        <div class=\"grid md:grid-cols-2 gap-4\">\n            <div class=\"p-4 glass-child rounded-xl border border-gray-200 dark:border-gray-700\">\n                <h5 class=\"font-bold text-red-500 mb-2\">Ciclo Lítico</h5>\n                <p class=\"text-sm\">O vírus invade a célula, se multiplica rapidamente e causa a <b>lise</b> (rompimento) da célula hospedeira para liberar novos vírus.</p>\n            </div>\n            <div class=\"p-4 glass-child rounded-xl border border-gray-200 dark:border-gray-700\">\n                <h5 class=\"font-bold text-blue-500 mb-2\">Ciclo Lisogênico</h5>\n                <p class=\"text-sm\">O material genético viral se integra ao DNA da célula e permanece \"adormecido\", sendo replicado toda vez que a célula se divide.</p>\n            </div>\n        </div>\n    </div>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.materia_e_energia_nos_ecossistemas.ciclo_do_carbono",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 32,
+  "unidade": "Matéria e energia nos ecossistemas",
+  "titulo": "Ciclo do carbono",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Ciclo do carbono</h2>\n            <p class=\"mb-4\">\n                O carbono é um dos elementos químicos encontrados em maior quantidade na natureza. Ele é essencial para os seres vivos e está presente na maioria dos compostos orgânicos, como as proteínas, os lipídeos, os carboidratos e os ácidos nucleicos. Além disso, esse elemento forma compostos minerais, como os carbonatos, e orgânicos, que originam o carvão, o petróleo e o gás natural. \n            </p>\n            <p class=\"mb-4\">\n                Na atmosfera e misturado na água, o carbono está presente principalmente sob a forma de <b>gás carbônico ($CO_2$)</b>. Esse gás é absorvido pelas algas, cianobactérias e plantas durante a fotossíntese, originando moléculas orgânicas. Esse processo é chamado de <b>fixação ou sequestro de carbono</b>. Por meio da respiração celular e da decomposição da matéria orgânica, parte do carbono retorna para a atmosfera e para a hidrosfera.\n            </p>\n            <p class=\"mb-4 text-sm italic\">\n                Em condições específicas de temperatura e pressão, parte da matéria depositada no solo pode ser transformada em combustíveis fósseis. Quando queimados, esses combustíveis liberam $CO_2$ na atmosfera.\n            </p>\n        </section>\n\n        <section class=\"bg-blue-50 dark:bg-blue-900/20 p-6 rounded-3xl border-l-8 border-brand-blue my-6 text-xs italic\">\n            <p class=\"mb-2\"><b>cianobactérias:</b> procariontes fotossintetizantes que vivem em ambientes úmidos e aquáticos.</p>\n            <p><b>decomposição:</b> transformação da matéria orgânica em compostos minerais pela ação de microrganismos como fungos e bactérias.</p>\n        </section>\n\n        <section class=\"my-8\">\n            <div class=\"glass-panel p-4 rounded-3xl border-2 border-brand-blue/30 shadow-inner bg-white\">\n                [Image: Ciclo do carbono detalhando reservatórios, fotossíntese, respiração e queima de combustíveis fósseis]\n                <p class=\"text-[10px] text-center mt-2 text-gray-500 uppercase font-black\">Esquema da quantidade estimada de carbono em bilhões de toneladas (t)</p>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

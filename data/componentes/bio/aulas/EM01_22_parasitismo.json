@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ecologia.parasitismo",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 22,
+  "unidade": "Introdução à Ecologia",
+  "titulo": "Parasitismo",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-red mb-4\">Parasitismo</h2>\n            <p class=\"mb-4\">\n                Nesta interação, uma espécie chamada <b>parasita</b> retira nutrientes do organismo de outra espécie, conhecida por <b>hospedeiro</b>. \n            </p>\n\n            \n\n            <p class=\"mb-4\">\n                Quando o parasita se localiza no interior do corpo do hospedeiro, ela é chamada de <b>endoparasita</b>, como alguns vermes parasitas, por exemplo, a tênia, a lombriga e o esquistossomo. \n            </p>\n            \n            <p class=\"mb-4\">\n                Se o parasitismo ocorre na superfície do corpo, o parasita é chamado de <b>ectoparasita</b>, como o piolho, a pulga e o carrapatos.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700 text-center\">\n            <button class=\"w-full bg-brand-red text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.da_populacao_ao_bioma.dinamica_de_populacoes",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 38,
+  "unidade": "Da população ao bioma",
+  "titulo": "Dinâmica de populações",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n        <h2 class=\"text-2xl font-black text-brand-green mb-4\">CAPÍTULO 5 - Da população ao bioma</h2>\n            <p class=\"mb-4\">\n                Podemos encontrar pelo planeta populações e comunidades de seres vivos específicas em cada região. Elas relacionam-se de diversas maneiras por meio de variadas interações ecológicas. Assim, as espécies lutam por sua sobrevivência, por abrigos, por alimentos e outros tipos de recurso. \n            </p>\n            <p class=\"mb-4\">\n                O ambiente também influencia esses processos, favorecendo ou prejudicando as espécies. Viver em hábitats naturais é fundamental para que as espécies possam interagir adequadamente com o ambiente e com outros indivíduos, de forma a manter o constante equilíbrio dos ecossistemas. Neste capítulo, vamos estudar a dinâmica das populações, as sucessões ecológicas e os principais biomas do mundo, incluindo os do Brasil.\n            </p>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Dinâmica de populações</h2>\n            <p class=\"mb-4\">\n                Em Ecologia, <b>população</b> consiste em um grupo de indivíduos de uma espécie que vive e se reproduz em uma área geográfica e em determinado período de tempo. Já uma <b>comunidade</b> abrange um conjunto de populações de diferentes espécies que vivem juntas no mesmo espaço e momento.\n            </p>\n            <p class=\"mb-4\">\n                Estudar a dinâmica das populações significa observar as alterações nos padrões de mudança populacional no espaço e no tempo. Basicamente, o tamanho das populações muda em função de quatro fatores fundamentais:\n            </p>\n            \n            <div class=\"grid grid-cols-2 gap-4 my-6\">\n                <div class=\"p-4 bg-green-50 rounded-2xl border-2 border-green-200 text-center text-xs font-bold\">Natalidade (+)</div>\n                <div class=\"p-4 bg-green-50 rounded-2xl border-2 border-green-200 text-center text-xs font-bold\">Imigração (+)</div>\n                <div class=\"p-4 bg-red-50 rounded-2xl border-2 border-red-200 text-center text-xs font-bold\">Mortalidade (-)</div>\n                <div class=\"p-4 bg-red-50 rounded-2xl border-2 border-red-200 text-center text-xs font-bold\">Emigração (-)</div>\n            </div>\n\n            \n\n            <p class=\"text-sm\">\n                Todas as populações apresentam flutuações em seu tamanho ao longo do tempo por fatores como disponibilidade de alimentos, moradia, competição, predação, doenças e clima.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

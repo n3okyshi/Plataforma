@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.pensamento_cientifico.o_que_e_a_ciencia",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 5,
+  "unidade": "Pensamento científico",
+  "titulo": "O que é a ciência?",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <p class=\"mb-4\">\n                O que a ciência significa para você? Embora essa pergunta pareça simples, a resposta a ela pode ser complexa. Os produtos da ciência e o pensamento científico estão tão integrados ao nosso cotidiano que raramente refletimos sobre sua origem, como chegam até nós e quem está por trás do seu desenvolvimento. Compreender a importância da produção científica é crucial, pois a falta dela pode influenciar diretamente nossas escolhas e impactar significativamente a vida de todos nós. Neste capítulo, vamos explorar o pensamento científico e abordar como a ciência é realizada detalhando seus processos e métodos.\n            </p>\n        </section>\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">O que é a ciência?</h2>\n            <p class=\"mb-4\">\n                Questionar e buscar compreender as estruturas, os fenômenos e os processos da natureza são práticas que fazem parte da história da humanidade. Foi essa curiosidade que deu ao ser humano a possibilidade de sobreviver na natureza ao longo do tempo. A observação da natureza permite a identificação de padrões e suas consequências. Podemos citar como exemplo a observação da mudança sazonal dos ventos e da umidade do ar, entre tantas outras, que possibilita a previsão e a interpretação de fenômenos importantes.\n            </p>\n            <p class=\"mb-4\">\n                A ciência se consolidou a partir das práticas de reflexão dos seres humanos sobre o meio em que vivem e da motivação em entender e descrever o mundo. Essas reflexões acontecem de forma sistematizada, utilizando procedimentos científicos em pesquisas para alcançar conclusões e explicações.\n            </p>\n        </section>\n        <section class=\"bg-blue-50 dark:bg-blue-900/20 p-6 rounded-3xl border-l-8 border-brand-blue my-6\">\n            <p class=\"text-sm italic\">\n                Pesquisas científicas seguem procedimentos científicos rigorosos e, geralmente, são revisadas por outros cientistas, para que os procedimentos estabelecidos e as conclusões obtidas estejam em conformidade com normas do campo científico.\n            </p>\n        </section>\n        <section>\n            <p class=\"mb-4\">\n                Desse modo, a ciência apresenta características próprias. Os cientistas podem estudar, fazer observações e principalmente formular explicações chamadas de <b>hipóteses</b>, que devem ser passíveis de ser testadas. Isso está ligado a um princípio da ciência chamado de <b>falseabilidade</b>, em que uma hipótese deve ser constantemente testada para verificar se é possível prová-la falsa. Enquanto resistir à falseabilidade, mostrando-se coerente para explicar o que se propõe, a hipótese é considerada comprovada. Por isso, a partir do momento em que deixa de ser suficiente para explicar um fenômeno, ela pode ser reformulada ou substituída por outra hipótese, que também será testada.\n            </p>\n            <p class=\"mb-4\">\n                Isso também acontece com as <b>teorias</b>, que são constituídas de várias hipóteses testadas. Devido ao fato de serem constantemente testadas, não é possível provar que as hipóteses e teorias científicas são verdadeiras. Quanto mais testes são feitos, mais forte e validada a teoria é. Em alguns casos, ela pode se tornar um consenso entre os cientistas, como acontece com a teoria sintética da evolução, que será estudada na unidade 7 deste volume.\n            </p>\n            <p class=\"mb-4\">\n                A Biologia é considerada uma ciência por compartilhar dessas características: estudar a vida e seus fenômenos por meio de procedimentos científicos e, dessa forma, construir hipóteses e teorias para ser constantemente postas à prova, o que faz com que sejam confiáveis.\n            </p>\n        </section>\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

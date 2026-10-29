@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.humanidade_e_ambiente.poluicao_da_agua",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 51,
+  "unidade": "Humanidade e ambiente",
+  "titulo": "Poluição da água",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-blue-500 mb-4\">Poluição da água</h2>\n            <p class=\"mb-4\">\n                A poluição da água resulta da degradação de sua qualidade devido a mudanças em suas características físicas e químicas ocasionadas pela alta concentração de substâncias que alteram suas propriedades, sua cor, seu cheiro ou seu sabor.\n            </p>\n            \n            \n\n            <p class=\"mb-4\">\n                Isso ocorre, principalmente, por causa do despejo de substâncias decorrentes da atividade humana, como detergentes, esgoto doméstico ou industrial, agrotóxicos, fertilizantes, resíduos de atividades como mineração, vazamento de combustíveis, decomposição de plásticos, entre outros.\n            </p>\n        </section>\n\n        <section class=\"bg-blue-50 dark:bg-blue-900/20 p-6 rounded-3xl border-l-8 border-blue-500 my-6\">\n            <h4 class=\"font-black text-blue-700 dark:text-blue-400 mb-2 uppercase text-xs\">Eutrofização</h4>\n            <p class=\"text-xs\">Processo em que ecossistemas aquáticos recebem uma grande quantidade de matéria orgânica. O aumento de nutrientes gera a proliferação de algas que formam um filme na superfície, impedindo a fotossíntese submersa e consumindo o oxigênio dissolvido durante a decomposição, causando a morte de espécies.</p>\n        </section>\n\n        <section class=\"bg-red-50 dark:bg-red-900/20 p-6 rounded-3xl border-l-8 border-brand-red my-6\">\n            <h4 class=\"font-black text-brand-red mb-2 uppercase text-xs\">Maré vermelha</h4>\n            <p class=\"text-xs\">Algumas espécies de algas marinhas podem liberar na água altas concentrações de toxinas. O excesso dessas toxinas pode levar à morte outras espécies de seres vivos ou torná-los impróprios para o consumo humano.</p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-blue-500 text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

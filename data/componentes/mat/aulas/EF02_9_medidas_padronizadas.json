@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef02.grandezas_e_suas_medidas.medidas_padronizadas",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 9,
+  "unidade": "Grandezas e suas medidas",
+  "titulo": "Medidas Padronizadas",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Usando a Régua</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Começamos a usar unidades de verdade: Centímetros (cm) e Metros (m) para tamanho; Quilo (kg) para peso; Litro (L) para líquidos.\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Do Zero:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Para medir certo com a régua, temos que começar colocando o objeto no tracinho do <strong>Zero</strong>, não no começo da régua!</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef04.multiplicacao_com_numeros_naturais.algoritmo_e_propriedades",
+  "componente": "mat",
+  "nivel": "EF04",
+  "ordem": 6,
+  "unidade": "Multiplicação com Números Naturais",
+  "titulo": "Algoritmo e Propriedades",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Multiplicação por 2 Algarismos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            O desafio aumenta! Multiplicar por números como 12, 25 ou 30.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚠️ Pulo do Gato:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Quando for multiplicar a dezena (o segundo número), não esqueça de colocar o <strong>Zero</strong> ou deixar um espaço vazio na linha de baixo!</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

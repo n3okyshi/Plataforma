@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ecologia.relacoes_ecologicas_intraespecificas",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 25,
+  "unidade": "Introdução à Ecologia",
+  "titulo": "Relações ecológicas intraespecíficas",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">Relações ecológicas intraespecíficas</h2>\n            <p class=\"mb-4 text-lg\">\n                Nas relações que ocorrem entre indivíduos da mesma espécie, há aquelas harmônicas ou positivas, como as <b>colônias</b> e as <b>sociedades</b>, e as desarmônicas ou negativas, como a <b>competição intraespecífica</b> e o <b>canibalismo</b>.\n            </p>\n        </section>\n\n        \n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Introdução <i class=\"fas fa-arrow-right ml-2\"></i>\n            </button>\n        </div>\n    </div>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

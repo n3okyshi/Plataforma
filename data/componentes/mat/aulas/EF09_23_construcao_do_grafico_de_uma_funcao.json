@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef09.explorando_a_ideia_de_funcao.construcao_do_grafico_de_uma_funcao",
+  "componente": "mat",
+  "nivel": "EF09",
+  "ordem": 23,
+  "unidade": "Explorando a Ideia de Função",
+  "titulo": "Construção do Gráfico de uma Função",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Gráficos de Funções</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Visualizando o comportamento da função no plano cartesiano.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📈 Análise:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Identificamos intervalos de crescimento, decrescimento e os <strong>zeros da função</strong> (onde o gráfico corta o eixo X).</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

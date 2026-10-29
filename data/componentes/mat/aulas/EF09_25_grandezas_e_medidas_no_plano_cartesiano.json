@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef09.grandezas_e_medidas.grandezas_e_medidas_no_plano_cartesiano",
+  "componente": "mat",
+  "nivel": "EF09",
+  "ordem": 25,
+  "unidade": "Grandezas e Medidas",
+  "titulo": "Grandezas e Medidas no Plano Cartesiano",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Geometria Analítica Básica</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolução de problemas geométricos usando coordenadas (perímetro e área de polígonos no gráfico).\n        </p>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

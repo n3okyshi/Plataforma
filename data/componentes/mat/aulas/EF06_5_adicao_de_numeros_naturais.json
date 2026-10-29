@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.adicao_de_numeros_naturais",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 5,
+  "unidade": "Operações com números naturais",
+  "titulo": "Adição de Números Naturais",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n<h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Adição de Números Naturais</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: executar adições por algoritmo escrito e por estimativa, relacionando com problemas do cotidiano.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Algoritmo: alinhe os algarismos pelas casas, some coluna a coluna e transporte quando necessário.</p>\n<div class=\"mt-4 p-4 bg-white dark:bg-gray-800 rounded shadow\">\n  <strong>Exemplo:</strong>\n  <p>  578\n  <br>+  246\n  <br>=  824</p>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade 2 — Calcule</label>\n  <p>Calcule 4.763 + 2.589 = ?</p>\n  <input id=\"atividade-adicao-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se você tem 3.200 e ganha 1.150, quanto terá?</p>\n  <div>\n    <button class=\"btn\">4.250</button>\n    <button class=\"btn\">4.350</button>\n    <button class=\"btn\">4.300</button>\n  </div>\n</div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

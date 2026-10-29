@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.da_populacao_ao_bioma.ambientes_do_mundo",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 42,
+  "unidade": "Da população ao bioma",
+  "titulo": "Ambientes do mundo",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Ambientes do mundo</h2>\n            <p class=\"mb-4\">\n                O planeta Terra tem ambientes muito diversos que abrigam biodiversidade compatível com as condições locais... A zona de vida na Terra, ou a <b>biosfera</b>, está localizada desde o interior da crosta da Terra e em sua superfície até a troposfera, a camada mais baixa da atmosfera.\n            </p>\n            <p class=\"mb-4\">\n                Para compreendermos a distribuição da diversidade da vida terrestre, vamos utilizar o conceito de <b>biomas</b>, que são comunidades biológicas de grande escala, modeladas pelo ambiente físico onde são encontradas. Uma das principais características físicas dos biomas é que eles refletem a variação climática da região.\n            </p>\n            <p class=\"mb-4\">\n                O aquecimento desigual do planeta Terra possibilita a ocorrência das correntes de convecção atmosféricas... Assim como as correntes de ar, as correntes oceânicas distribuem o aquecimento de maneira desigual pelas águas do planeta Terra e, portanto, influenciam a localização dos diferentes climas.\n            </p>\n        </section>\n\n        <section class=\"my-8\">\n            <div class=\"glass-panel p-4 rounded-3xl border-2 border-brand-blue/30 shadow-inner bg-white\">\n                \n                <p class=\"text-[10px] text-center mt-2 text-gray-500 uppercase font-black\">Padrões climáticos do planeta Terra</p>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 2,
+  "unidade": "Números naturais e sistemas de numeração",
+  "titulo": "Números naturais: um pouco de história",
+  "bncc": [
+    "EF06MA02"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Distinguir número, numeral e algarismo.",
+      "Comparar registros de quantidades e identificar características dos sistemas decimal e romano."
+    ],
+    "resumo": "Distinguir número, numeral e algarismo.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n<h2>CONTAR É COMPARAR QUANTIDADES</h2>\n<p>Como descobrir se todos os animais de um rebanho voltaram sem escrever um número? Podemos separar uma pedra para cada animal que sai e devolver uma pedra para cada animal que volta. Essa correspondência um a um permite comparar duas quantidades. Marcas, objetos e gestos são maneiras de registrar contagens usadas por diferentes povos; não houve um único inventor dos números.</p>\n<h3>Número, numeral e algarismo</h3>\n<p><strong>Número</strong> é uma ideia matemática. <strong>Numeral</strong> é uma representação de um número. <strong>Algarismo</strong> é um símbolo usado para escrever numerais em um sistema. No sistema decimal usamos dez algarismos: 0, 1, 2, 3, 4, 5, 6, 7, 8 e 9. O numeral 24 representa o número vinte e quatro e tem dois algarismos.</p>\n<p><strong>Exemplo resolvido:</strong> 12, XII e a expressão “doze” representam o mesmo número. Muda a escrita; a quantidade representada continua igual. XII não é formado por algarismos do sistema decimal.</p>\n<h3>Sistemas de numeração</h3>\n<p>Um sistema de numeração reúne símbolos e regras para representar números. Na escrita romana usual, I vale 1, V vale 5 e X vale 10. XII representa 10 + 1 + 1 = 12. Em IX, o I antes de X indica subtração: 10 − 1 = 9. A escrita romana não utiliza valor posicional decimal nem um símbolo para o zero como o nosso.</p>\n<p>No sistema decimal, o mesmo algarismo muda de valor conforme a posição: em 12 o 1 vale dez; em 21 vale uma unidade. A base dez, o valor posicional e o uso do zero tornam esse sistema apropriado para registrar quantidades e realizar cálculos. Seu desenvolvimento histórico envolveu contribuições indianas e sua circulação pelo mundo árabe, entre outras trocas culturais.</p>\n<h3>Para registrar no caderno</h3><ul><li>Número: ideia; numeral: representação; algarismo: símbolo de escrita.</li><li>Nosso sistema é decimal e posicional.</li><li>Uma mesma quantidade pode ter representações diferentes.</li></ul>\n<p><strong>Investigue:</strong> escolha uma quantidade de até vinte objetos e invente duas maneiras de registrá-la. Explique as regras de cada registro a um colega e veja se ele consegue reconstruir a quantidade.</p>\n"
+      }
+    ],
+    "vocabulario": [
+      "numeral",
+      "algarismo",
+      "valor posicional",
+      "natural"
+    ],
+    "errosComuns": [
+      "Confundir identificação com quantidade.",
+      "Apagar zeros internos e alterar o valor.",
+      "Ignorar a escala da reta numérica."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "historia.mc1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual afirmação está correta?",
+      "alternativas": [
+        "12 e XII representam números diferentes.",
+        "12 e XII representam o mesmo número por escritas diferentes.",
+        "XII é um numeral do sistema decimal.",
+        "O numeral 12 tem doze algarismos."
+      ],
+      "correta": 1,
+      "explicacao": "A quantidade doze pode ser representada por 12 ou por XII. No sistema decimal, 12 tem dois algarismos."
+    },
+    {
+      "id": "historia.num1",
+      "tipo": "numerica",
+      "enunciado": "Quantos algarismos há no numeral 2026?",
+      "resposta": 4,
+      "tolerancia": 0,
+      "explicacao": "As quatro posições são ocupadas por 2, 0, 2 e 6; a repetição de um símbolo também ocupa uma posição."
+    },
+    {
+      "id": "historia.disc1",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que separar uma pedra para cada animal ajuda a conferir se todos voltaram.",
+      "gabarito": "A correspondência um a um associa cada animal a uma pedra. Se, ao devolver uma pedra por animal, sobra uma pedra, falta um animal em relação ao grupo que saiu.",
+      "rubrica": [
+        "Explicar a associação um a um e interpretar a sobra de pedras. Aceitar outras formulações equivalentes."
+      ]
+    }
+  ],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "paginasImpressas": "11-17",
+      "uso": "Referência conceitual; explicações e questões do piloto são autorais."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        302,
+        303
+      ],
+      "paginasImpressas": "300-301",
+      "uso": "Objetos de conhecimento e habilidades EF06MA01/EF06MA02; recorte de números naturais."
+    }
+  ],
+  "metadados": {
+    "versao": 2,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "legado": false,
+    "estado": "piloto",
+    "origem": "componentes.zip",
+    "revisao": "Conceitos, exemplos, respostas e páginas conferidos nesta sessão; homologação docente pendente."
+  },
+  "coberturaBncc": {
+    "EF06MA02": "recorte de números naturais; racionais decimais finitos serão aprofundados na unidade Decimais"
+  }
+}

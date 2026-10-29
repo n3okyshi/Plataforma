@@ -1,0 +1,56 @@
+{
+  "data": "2026-10-29",
+  "baseGit": "eef69e7",
+  "observacao": "Inventário estrutural inicial; não equivale a cobertura pedagógica validada.",
+  "situacaoInicial": {
+    "topicos": 516,
+    "teorias": 516,
+    "aulasCanonicas": 516,
+    "semTeoria": 240,
+    "semAulaCanonica": 0,
+    "semBncc": 516,
+    "semAtividades": 516,
+    "semFontes": 516,
+    "naoRevisadas": 516,
+    "marcadoresImagem": 47,
+    "questoesArena": 0
+  },
+  "importacao": {
+    "origem": "componentes.zip",
+    "arquivosAula": 517,
+    "porComponente": {
+      "bio": 141,
+      "fis": 56,
+      "mat": 215,
+      "qui": 105
+    },
+    "arvores": 8,
+    "estado": "rascunhos recuperados"
+  },
+  "lacunas": [
+    {
+      "tipo": "curricular",
+      "descricao": "Vínculos BNCC e páginas das árvores recuperadas precisam de confronto pedagógico; não são automaticamente aprovados."
+    },
+    {
+      "tipo": "curricular",
+      "descricao": "No texto legado do 6º ano há probabilidade condicional/binomial e referências a imagens não implementadas."
+    },
+    {
+      "tipo": "conteudo",
+      "descricao": "Texto presente não comprova aula completa; exemplos, atividades, respostas e fontes precisam de revisão."
+    },
+    {
+      "tipo": "etapa",
+      "descricao": "Educação Infantil requer campos de experiências e três grupos etários; EI04 é classificação legada sem grupo etário BNCC correspondente."
+    },
+    {
+      "tipo": "componente",
+      "descricao": "Ensino Religioso não consta no cadastro atual; Espanhol e outros recortes complementares exigem identificação própria. Língua Inglesa nos anos iniciais é oferta complementar à organização da BNCC."
+    },
+    {
+      "tipo": "avaliacao",
+      "descricao": "Arenas legadas misturam níveis nos fallbacks e a prova reutiliza treino; correção será feita no motor."
+    }
+  ]
+}

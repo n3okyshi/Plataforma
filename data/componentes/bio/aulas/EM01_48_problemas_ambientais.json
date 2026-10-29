@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.humanidade_e_ambiente.problemas_ambientais",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 48,
+  "unidade": "Humanidade e ambiente",
+  "titulo": "Problemas ambientais",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-red mb-4\">Problemas ambientais</h2>\n            <p class=\"mb-4\">\n                Como estudamos, os seres vivos dependem dos recursos naturais para viver. No entanto, apenas os seres humanos exploram esses recursos de maneira muito intensa, o que compromete o ritmo natural de renovação e também o acesso de outras espécies a eles. \n            </p>\n            <p class=\"mb-4\">\n                Essa ação provoca diversos problemas ambientais, que são definidos como os desequilíbrios que ocorrem nos ciclos e nos processos do planeta, principalmente por causa da exploração dos recursos naturais e de atividades desenvolvidas pelos seres humanos (ações antrópicas).\n            </p>\n        </section>\n\n        <section class=\"border-t-2 border-gray-100 dark:border-gray-800 pt-8\">\n            <h3 class=\"text-xl font-bold text-brand-red mb-4\">Poluição do ar</h3>\n            <p class=\"mb-4\">\n                Poluição é toda degradação do ambiente causada por certas substâncias e agentes físicos chamados de poluentes. O ar pode ser considerado poluído quando apresenta, além de sua composição, uma grande quantidade de outras substâncias que são tóxicas aos seres vivos ou desequilibram a dinâmica da atmosfera.\n            </p>\n            \n            \n\n            <p class=\"mb-4 text-sm\">\n                Os principais gases poluentes são o dióxido de carbono ($CO_2$), o monóxido de carbono ($CO$), o metano ($CH_4$), o óxido nitroso ($N_2O$), os óxidos de enxofre, os hidrocarbonetos e as partículas sólidas (poeira, carvão, metais e fuligem).\n            </p>\n        </section>\n\n        <section class=\"bg-red-50 dark:bg-red-900/20 p-6 rounded-3xl border-2 border-brand-red/30 my-6\">\n            <p class=\"text-xs mb-3\">\n                <b>A chuva ácida</b> ocorre quando determinados gases poluentes (como o dióxido de enxofre) reagem com o oxigênio e a água na atmosfera, formando ácidos que são levados pela chuva até a superfície do planeta.\n            </p>\n            <p class=\"text-xs\">\n                <b>A inversão térmica</b> é um fenômeno natural em que uma camada de ar frio fica retida perto da superfície, bloqueada por uma camada de ar quente. Com isso, os poluentes lançados no ar não se dissipam e se acumulam.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-red text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -216,7 +216,7 @@ var teacher = {
         }
 
         const tbody = document.getElementById('teacher-table-body');
-        
+
         // SEGURANÇA: Delegamos a criação das linhas para a VIEW
         // A View deve conter a proteção do .substring()
         if (tbody && window.views && views._generateStudentRows) {
@@ -232,9 +232,9 @@ var teacher = {
     updateStats: function (data = this.mockStudents, disciplina = this.state.filterDisciplina) {
         // Se a disciplina vier indefinida por algum motivo, garante um fallback
         const discAlvo = disciplina || this.state.filterDisciplina || "Matemática";
-        
+
         const total = data.length;
-        
+
         // Calcula a soma das notas apenas da disciplina selecionada
         const soma = data.reduce((acc, curr) => {
             const nota = (curr.notas && curr.notas[discAlvo]) ? parseFloat(curr.notas[discAlvo]) : 0;
@@ -246,7 +246,7 @@ var teacher = {
         // Atualiza os elementos na tela
         this._setStat('stat-alunos', total);
         this._setStat('stat-media', media);
-        
+
         const mediaEl = document.getElementById('stat-media');
         if (mediaEl) {
             mediaEl.classList.remove('text-green-500', 'text-yellow-500', 'text-red-500');
@@ -277,7 +277,7 @@ var teacher = {
         if (container && views.renderTeacherDashboard) {
             // Primeiro renderiza a "casca" do painel
             container.innerHTML = views.renderTeacherDashboard(this.mockStudents);
-            
+
             // Depois sincroniza os dados (pode ser mock ou Firebase)
             this.carregarDadosReais("Todas");
         }
@@ -295,7 +295,7 @@ var teacher = {
      * a forma antiga (string) continua aceita por tolerância.
      *
      * §5.10 enumera `aluno|professor|gestor|secretario|ministro`. `admin` NÃO
-     * existe nesse enum, `firestore.rules` o exclui e `tools/papeis.js` nunca
+     * existe nesse enum, `firestore.rules` o exclui e `a política de perfis` nunca
      * o emite — por isso foi removido (não há emissor no repo).
      */
     papeisComPainel: ["professor", "gestor", "secretario", "ministro"],

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ecologia.competicao_intraespecifica",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 28,
+  "unidade": "Introdução à Ecologia",
+  "titulo": "Competição intraespecífica",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-red mb-4\">Competição intraespecífica</h2>\n            <p class=\"mb-4\">\n                Nas relações desarmônicas entre indivíduos da mesma espécie, podemos observar a competição, pois, ao habitarem os mesmos locais e apresentarem o mesmo nicho ecológico, eles vão competir pelos recursos desse meio. \n            </p>\n\n            \n\n            <p class=\"mb-4\">\n                Uma competição bem conhecida é a disputa por parceiros sexuais entre indivíduos de algumas espécies de mamíferos e aves.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-red text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

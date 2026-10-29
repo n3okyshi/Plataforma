@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.pensamento_cientifico.historia_e_filosofia_da_ciencia",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 6,
+  "unidade": "Pensamento científico",
+  "titulo": "História e filosofia da ciência",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">História e filosofia da ciência</h2>\n            <p class=\"mb-4\">\n                Falar sobre a história da ciência é algo complexo e abrangente, e para isso é preciso ter em mente que a busca pela compreensão do mundo e da natureza é universal. Além disso, nem sempre a ciência recebeu essa denominação e foi compreendida como é atualmente. As mais diversas civilizações em todo o mundo ‒ a Mesopotâmia, o Egito, outras culturas africanas, a China, a Índia, os países árabes, outros locais da Ásia, a Europa e as culturas ameríndias ‒ tiveram curiosidade em relação à natureza e geraram conhecimentos importantes acerca dela. Isso nos leva a identificar que a produção de conhecimento, que mais tarde foi reconhecida como ciência, não tem uma origem única em um momento ou lugar específico da história humana. A produção de conhecimento foi gradualmente acontecendo em diferentes culturas com o passar do tempo. A Matemática, a Astronomia e a Medicina são exemplos de áreas científicas que foram desenvolvidas dessa maneira, nas mais diferentes civilizações.\n            </p>\n        </section>\n\n        <section>\n            <p class=\"mb-4\">\n                No entanto, de modo geral, considera-se que a origem da ciência mais próxima de como a compreendemos atualmente remonta à Grécia no século V. Nessa época, a filosofia estava em pleno desenvolvimento e outros segmentos estavam surgindo. Um deles foi a filosofia natural, que consistia na busca pela sabedoria racional, lógica e crítica dos fenômenos da natureza. Posteriormente essa área formou a base do pensamento científico e passou a se chamar, no século XIX, de ciência. Um dos filósofos naturais gregos mais importantes dessa época era Aristóteles (384 a.C.-322 a.C.), que se interessava por observar e descrever animais e plantas e buscava explicações lógicas para fenômenos naturais dentro das limitações do contexto histórico em que estava inserido. Nesse momento, a produção de conhecimento não se utilizava de experimentos ou instrumentos de observação, era baseada somente no raciocínio indutivo e no dedutivo.\n            </p>\n            <p class=\"mb-4\">\n                A ciência, embora fosse influenciada pelos filósofos gregos, não invalidava todo o conhecimento gerado pelas demais civilizações. O pensamento científico não entra em conflito com a sabedoria acumulada de outras culturas. Esse pensamento muitas vezes se baseia em sabedorias ancestrais, detidas por povos originários e tradicionais, e desenvolve explicações lógicas e críticas a partir desses conhecimentos.\n            </p>\n        </section>\n\n        <section class=\"bg-amber-50 dark:bg-amber-900/20 p-6 rounded-3xl border-l-8 border-amber-400 my-6\">\n            <p class=\"text-sm italic text-gray-700 dark:text-gray-300\">\n                O intercâmbio de conhecimentos científicos entre civilizações antigas é estudado pelos pesquisadores até hoje. A partir de análises, pode-se ter um panorama da complexidade do processo histórico da ciência, não somente em relação a sua origem, mas também a sua consolidação.\n            </p>\n        </section>\n\n        <section>\n            <p class=\"mb-4\">\n                A ciência, até chegar aos tempos atuais, passou por vários períodos de estagnação, retrocesso e avanços, que variaram no decorrer do tempo e das civilizações. No período da Idade Média, a produção de conhecimentos científicos estagnou, principalmente na Europa, devido a um grande atrelamento dessas questões a fatores religiosos. Por exemplo: a transmissão de doenças em grandes epidemias da época era associada a castigos divinos, e não a fatores biológicos.\n            </p>\n            \n            \n\n            <p class=\"mb-4\">\n                Com o fim da Idade Média, o pensamento científico como o entendemos hoje começou a ser esboçado e no século XVII se solidificou, principalmente a partir dos trabalhos de Galileu Galilei (1564-1642), Isaac Newton (1643-1727), Francesco Redi (1626-1697), entre outros. Essa época marca o início da chamada ciência moderna, e esse acontecimento foi tão importante para a história da ciência que é conhecido como Revolução Científica. As mudanças promovidas pela Revolução Científica não aconteceram de forma automática, mas foram se consolidando no decorrer de aproximadamente 200 anos. \n            </p>\n            <p class=\"mb-4\">\n                Foi um movimento que se iniciou na Europa e, depois, se espalhou pelo mundo, dissociando a ciência da visão religiosa e promovendo maior associação com a criticidade, a racionalidade e a investigação. Além disso, o uso de instrumentos tecnológicos e da matemática para testar hipóteses e basear teorias passou a compor gradativamente o saber científico.\n            </p>\n            <p class=\"mb-4\">\n                Dessa forma, novas tecnologias permitiram novos campos de investigação e novos conhecimentos foram desenvolvidos, ao mesmo tempo que teorias antigas foram superadas e os procedimentos científicos foram se desenvolvendo. Atualmente, a ciência é universal, é composta de diversas áreas, é desenvolvida a partir de todo o conhecimento acumulado pela humanidade e está em constante transformação.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700 text-center\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

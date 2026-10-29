@@ -8,7 +8,7 @@ var game = {
     // Helper: Pega a data de hoje formatada (AAAA-MM-DD)
     // Usa "en-CA" pois segue o padrão ISO 8601 (2024-12-31) que ordena corretamente
     _getToday: function () {
-        return new Date().toLocaleDateString('en-CA'); 
+        return new Date().toLocaleDateString('en-CA');
     },
 
     // ========================================================================
@@ -43,13 +43,13 @@ var game = {
         const diffDias = diffTempo / (1000 * 60 * 60 * 24);
 
         // Se passou mais de 1 dia (ex: estudou dia 1, hoje é dia 3), perdeu.
-        // Math.floor garante que 1.5 dias ainda conta como "ontem" dependendo do fuso, 
+        // Math.floor garante que 1.5 dias ainda conta como "ontem" dependendo do fuso,
         // mas aqui arredondamos para ser rigoroso: > 1.9 dia já é perigoso.
         // Vamos usar > 1.5 para dar uma margem de segurança.
         if (diffDias > 1.5) {
             console.log("🔥 [Game] Ofensiva perdida! (Dias ausente: " + diffDias.toFixed(1) + ")");
             user.streak = 0;
-            
+
             // Só salva se realmente mudou algo
             if (window.app && app.saveProgress) app.saveProgress();
             if (window.ui && ui.updateHeader) ui.updateHeader();
@@ -145,7 +145,7 @@ var game = {
     updateStreak: function () {
         // [Proteção] Garante que app e user existem
         if (!window.app || !app.state || !app.state.userProgress) return;
-        
+
         const user = app.state.userProgress;
         const hoje = this._getToday();
         const ultima = user.lastActivity;
@@ -209,7 +209,7 @@ var game = {
         if (window.badges) {
             const disciplina = app.state.currentSubject;
             const nivel = app.state.currentLevel;
-            
+
             // Verifica badges de trilha
             badges.checkTrilhaBadges(disciplina, nivel, app.state.userProgress);
             // Verifica badges de milestone
@@ -223,17 +223,17 @@ var game = {
             ui.showToast("Aula Concluída! +50 XP", "success");
             setTimeout(() => app.navigate('map'), 1500);
         } else {
-            alert("Aula concluída! 🎉"); 
+            alert("Aula concluída! 🎉");
             app.navigate('map');
         }
     },
 
     addXP: function (amount) {
         if (!app.state.userProgress) return;
-        
+
         const currentXP = parseInt(app.state.userProgress.xp) || 0;
         app.state.userProgress.xp = currentXP + amount;
-        
+
         if (app.saveProgress) app.saveProgress();
         if (window.ui) ui.updateHeader();
     },
@@ -243,35 +243,15 @@ var game = {
     // ========================================================================
 
     startArena: function () {
-        const allQ = window.PLATAFORMA_QUESTOES || [];
-        // [Melhoria] Tenta buscar do Registry novo se disponível
-        const questions = (window.Registry && Registry.getQuestoes) 
-            ? Registry.getQuestoes(app.state.currentLevel, app.state.currentCourse || app.state.currentSubject)
-            : allQ; // Fallback para o modo antigo se Registry falhar
-
-        // Se mesmo com fallback não tiver filtro ou questions estiver vazio:
-        if (!questions || !questions.length) {
-            // Tenta o método antigo bruto de filtrar manualmente
-            const theme = app.state.currentCourse || app.state.currentSubject;
-            const level = app.state.currentLevel;
-            const filteredOld = allQ.filter(q => {
-                // `nivel` é código canônico (q.nivel); `ano` não existe mais.
-                const matchNivel = level ? q.nivel === level : true;
-                const matchTema = q.tema === theme;
-                return matchTema && matchNivel;
-            });
-            
-            if (!filteredOld.length) {
-                if(window.ui) ui.showToast("Sem questões para este nível.", "warning");
-                else alert("Sem questões cadastradas.");
-                return;
-            }
-            // Usa o filtro manual
-            app.state.arena.activeQuestions = [...filteredOld].sort(() => 0.5 - Math.random()).slice(0, 5);
-        } else {
-             // Usa o filtro do Registry
-             app.state.arena.activeQuestions = [...questions].sort(() => 0.5 - Math.random()).slice(0, 5);
+        const theme = app.state.currentCourse || app.state.currentSubject;
+        const level = app.state.currentLevel;
+        const questions = window.Registry ? Registry.getQuestoes(level, theme, null, 'treino') : [];
+        if (!questions.length) {
+            if (window.ui) ui.showToast("Sem questões revisadas para este nível e componente.", "info");
+            return;
         }
+        app.state.arena.activeQuestions = arena.embaralhar(questions).slice(0, 5);
+        app.state.arena.answered = false;
 
         // Inicializa estado da Arena
         app.state.arena.currentIndex = 0;
@@ -281,13 +261,14 @@ var game = {
 
     handleAnswer: function (btn, idx) {
         const q = app.state.arena.activeQuestions[app.state.arena.currentIndex];
-        
+
         // [Proteção] Se a questão não existir (erro de índice), sai
-        if (!q) return;
+        if (!q || app.state.arena.answered) return;
+        app.state.arena.answered = true;
 
         const isCorrect = idx === q.correta;
         const grid = document.getElementById('options-grid');
-        
+
         // Bloqueia cliques múltiplos
         if (grid) grid.classList.add('pointer-events-none');
 
@@ -299,11 +280,17 @@ var game = {
             if (window.ui && ui.fx) ui.fx.error(btn);
         }
 
-        // Avança automaticamente
-        setTimeout(() => {
-            app.state.arena.currentIndex++;
-            app.navigate('arena_play');
-        }, 1500);
+        const feedback = document.createElement('div');
+        feedback.className = 'max-w-3xl mx-auto p-6';
+        const texto = document.createElement('p');
+        texto.textContent = q.explicacao;
+        feedback.appendChild(texto);
+        const avancar = document.createElement('button');
+        avancar.textContent = 'Continuar';
+        avancar.dataset.action = 'arena-global-next';
+        avancar.className = 'mt-4 px-6 py-3 rounded-xl bg-brand-blue text-white';
+        feedback.appendChild(avancar);
+        if (grid) grid.parentNode.appendChild(feedback);
     },
 
     finishArena: function () {
@@ -313,9 +300,9 @@ var game = {
         }
 
         if (window.ui && ui.fx) ui.fx.playSuccess();
-        
+
         const msg = `Fim do Quiz! Você acertou ${app.state.arena.score} de ${app.state.arena.activeQuestions.length}`;
-        
+
         if (window.ui && ui.showModal) {
             ui.showModal("Resultado", `<div class='text-center text-4xl mb-4'>🏆</div><p>${msg}</p>`, [
                 { label: "Voltar ao Mapa", onclick: () => app.navigate('home'), class: "bg-brand-blue text-white" }
@@ -333,8 +320,8 @@ var game = {
     registrarNota: function (unidade, tipo, nota) {
         if (!app.state.userProgress) return;
         if (!app.state.userProgress.desempenho) app.state.userProgress.desempenho = {};
-        
-        const key = `${unidade}_${tipo}`;
+
+        const key = `${app.state.currentSubject}|${app.state.currentLevel}|${unidade}|${tipo}`;
         const reg = app.state.userProgress.desempenho[key] || { nota: 0, tentativas: 0 };
 
         if (tipo === 'prova') {
@@ -358,7 +345,7 @@ var game = {
     },
 
     getNota: function (unidade, tipo) {
-        return app.state.userProgress?.desempenho?.[`${unidade}_${tipo}`]?.nota || null;
+        return app.state.userProgress?.desempenho?.[`${app.state.currentSubject}|${app.state.currentLevel}|${unidade}|${tipo}`]?.nota ?? null;
     },
 
     // ========================================================================
@@ -369,7 +356,7 @@ var game = {
     verificarAtividade: function (id, resp) {
         const inp = document.getElementById(id);
         if (!inp) return;
-        
+
         const val = inp.value.trim().toLowerCase();
         const gabarito = resp.toString().toLowerCase();
 
@@ -387,7 +374,7 @@ var game = {
     verificarQuiz: function (elementoBotao, isCorreto, idFeedback) {
         const feedbackEl = document.getElementById(idFeedback);
         const pai = elementoBotao.parentElement;
-        
+
         // Reseta estilos dos irmãos
         Array.from(pai.children).forEach(btn => {
             // Remove classes de sucesso/erro
@@ -406,7 +393,7 @@ var game = {
         if (isCorreto) {
             elementoBotao.classList.add('bg-green-500/20', 'border-green-500', 'text-green-700', 'dark:text-green-300', 'border-2', 'animate-success');
             if (window.audioManager) audioManager.play('success');
-            
+
             if (feedbackEl) {
                 feedbackEl.classList.remove('hidden');
                 feedbackEl.classList.add('animate-fade-in');
@@ -415,7 +402,7 @@ var game = {
             elementoBotao.classList.add('bg-red-500/20', 'border-red-500', 'text-red-700', 'dark:text-red-300', 'border-2', 'animate-shake');
             if (window.audioManager) audioManager.play('error');
             if (navigator.vibrate) navigator.vibrate(200);
-            
+
             if (feedbackEl) feedbackEl.classList.add('hidden');
         }
     },

@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef02.numeros_ate_1000.sistema_de_numeracao_decimal_ate_1000",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 7,
+  "unidade": "Números até 1000",
+  "titulo": "Sistema de Numeração Decimal (até 1000)",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Até o Mil!</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Caminhando na reta numérica até chegar no 1000. Quem vem antes (antecessor) e quem vem depois (sucessor)?\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 Valor Posicional:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">O número 5 vale 5 na unidade, 50 na dezena e 500 na centena. O lugar onde ele senta muda tudo!</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ecologia.canibalismo",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 29,
+  "unidade": "Introdução à Ecologia",
+  "titulo": "Canibalismo",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-red mb-4\">Canibalismo</h2>\n            <p class=\"mb-4\">\n                Relação desarmônica na qual um indivíduo se alimenta de outro da mesma espécie. Ocorre principalmente em situações nas quais o corpo do outro indivíduo pode se tornar uma fonte valiosa de nutrientes. \n            </p>\n\n            \n\n            <div class=\"bg-red-50 dark:bg-red-900/20 p-6 rounded-3xl border-l-8 border-brand-red my-6 text-sm italic\">\n                <p>O canibalismo é um comportamento frequentemente observado em algumas espécies em cativeiro ou em outras situações de estresse.</p>\n            </div>\n        </section>\n\n        <section class=\"bg-blue-50 dark:bg-blue-900/20 p-6 rounded-3xl border-2 border-blue-500/30 my-6\">\n            <h4 class=\"font-black text-brand-blue dark:text-blue-400 mb-2 uppercase text-sm flex items-center gap-2\">\n                <i class=\"fab fa-youtube\"></i> Se liga só!\n            </h4>\n            <p class=\"text-sm font-bold mb-3\">Relações ecológicas</p>\n            <p class=\"text-xs mb-4\">Vídeo do Canal Futura que apresenta as principais relações ecológicas por meio de um mapa mental.</p>\n            <a href=\"https://www.youtube.com/watch?v=Esuj70_CoEw\" target=\"_blank\" class=\"inline-flex items-center gap-2 bg-brand-blue text-white px-4 py-2 rounded-xl text-xs font-black uppercase hover:bg-blue-700 transition-colors\">\n                Assistir Vídeo <i class=\"fas fa-external-link-alt\"></i>\n            </a>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700 text-center\">\n            <button class=\"w-full bg-brand-red text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

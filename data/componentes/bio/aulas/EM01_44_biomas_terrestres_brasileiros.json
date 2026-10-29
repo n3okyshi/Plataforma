@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.da_populacao_ao_bioma.biomas_terrestres_brasileiros",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 44,
+  "unidade": "Da população ao bioma",
+  "titulo": "Biomas terrestres brasileiros",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">Biomas terrestres brasileiros</h2>\n            <p class=\"mb-4\">\n                No Brasil podemos encontrar seis tipos de bioma: o <b>Cerrado</b> e a <b>Caatinga</b>, como Florestas Sazonais Tropicais; a <b>Amazônia</b> e a <b>Mata Atlântica</b>, como Florestas Pluviais Tropicais; o <b>Pampa</b>, como Campo Temperado; e o <b>Pantanal</b>, a maior planície de inundação contínua de todo o planeta.\n            </p>\n            \n            \n\n            <div class=\"bg-orange-50 dark:bg-orange-900/20 p-6 rounded-3xl border-2 border-orange-200 my-6\">\n                <p class=\"text-sm font-bold\">Hotspots de biodiversidade:</p>\n                <p class=\"text-sm mt-2\">No Brasil, a <b>Mata Atlântica</b> e o <b>Cerrado</b> estão entre os 36 hotspots mundiais, sendo o Cerrado a única savana do mundo nesta categoria.</p>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

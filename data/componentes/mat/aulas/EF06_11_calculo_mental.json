@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.calculo_mental",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 11,
+  "unidade": "Operações com números naturais",
+  "titulo": "Calculo Mental",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Cálculo Mental</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: desenvolver estratégias de cálculo ágil (dobrar, dividir por 2, aproximações, fatoração mental) para estimar e calcular sem papel.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Exemplos de estratégias: usar a decomposição (35×6 = 30×6 + 5×6), dobrar/duplicar para multiplicações por 2, e dividir por 10 para calcular 10%.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Mental</label>\n  <p>Calcule de cabeça: 49 × 5 = ?</p>\n  <input id=\"atividade-mental-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Qual é a forma mais rápida para calcular 25 × 16?</p>\n  <div>\n    <button class=\"btn\">Usar fatoração por 4</button>\n    <button class=\"btn\">Somar 25 repetidamente</button>\n    <button class=\"btn\">Multiplicar 2×5 e 1×6</button>\n  </div>\n</div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

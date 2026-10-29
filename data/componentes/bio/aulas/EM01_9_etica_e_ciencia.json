@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.pensamento_cientifico.etica_e_ciencia",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 9,
+  "unidade": "Pensamento científico",
+  "titulo": "Ética e ciência",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-blue mb-4\">Ética e ciência</h2>\n            <p class=\"mb-4\">\n                Já estudamos que a ciência se constrói de forma coletiva, que está em constante teste e que é feita seguindo um rigor e sob a influência do contexto em que os cientistas estão inseridos. Além disso, a ciência segue um conjunto de regras éticas, para garantir o bem-estar dos seres vivos e da humanidade. \n            </p>\n            <p class=\"mb-4\">\n                Essas regras são regulamentadas por <b>Comitês de Ética em Pesquisas (CEP)</b>, formados por pesquisadores que analisam projetos de pesquisa. A análise geralmente é feita para avaliar se a participação de animais ou seres humanos é realmente necessária em cada caso e como isso deve ser feito. Isso é importante porque, eventualmente, o uso de animais é a única possibilidade para uma pesquisa científica. \n            </p>\n            \n            <div class=\"bg-blue-50 dark:bg-blue-900/20 p-6 rounded-3xl border-l-8 border-brand-blue my-6 text-sm italic\">\n                Pesquisadores e instituições devem definir condutas específicas para minimizar o sofrimento animal e incentivar a busca por alternativas que substituam o uso de animais em pesquisas.\n            </div>\n\n            <p class=\"mb-4\">\n                O mesmo vale para pesquisas em que é necessário envolver pessoas em grupos de testes. Isso ocorre em etapas avançadas de pesquisas relacionadas a medicamentos e a vacinas. No Brasil, as pessoas precisam se voluntariar e receber todas as informações sobre o que e como será feito, além dos riscos presentes na pesquisa. Os voluntários podem desistir em qualquer etapa do processo.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700 text-center\">\n            <button class=\"w-full bg-brand-blue text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

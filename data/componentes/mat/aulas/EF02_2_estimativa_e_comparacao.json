@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef02.numeros_ate_199.estimativa_e_comparacao",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 2,
+  "unidade": "Números até 199",
+  "titulo": "Estimativa e Comparação",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Maior ou Menor?</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Adivinhar \"quantos têm\" sem contar um por um e usar os sinais de comparação: <strong>></strong> (maior) e <strong><</strong> (menor).\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🐊 O Jacaré Comilão:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Dica: A boca do jacaré sempre abre para o lado do número <strong>maior</strong> (ele quer comer mais!). Ex: 5 < 9.</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

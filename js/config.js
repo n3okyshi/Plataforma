@@ -30,7 +30,7 @@ if (typeof firebase !== 'undefined') {
 // 2. CONFIGURAÇÃO DAS DISCIPLINAS (CORES, ÍCONES E NÍVEIS)
 // SUBJECT_CONFIG e LEVEL_THEMES agora são derivados da base canônica e
 // definidos por js/gerado.js, carregado antes deste arquivo no index.html.
-// Para mudar cores/ícones edite tools/lib/temas.js e rode `node tools/gerar.js`.
+// Cores, ícones e temas estão definidos em js/gerado.js.
 
 // 3. CONFIGURAÇÕES GERAIS
 const APP_CONFIG = {

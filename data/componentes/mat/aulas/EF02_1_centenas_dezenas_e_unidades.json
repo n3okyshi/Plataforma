@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef02.numeros_ate_199.centenas_dezenas_e_unidades",
+  "componente": "mat",
+  "nivel": "EF02",
+  "ordem": 1,
+  "unidade": "Números até 199",
+  "titulo": "Centenas, Dezenas e Unidades",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">A Casa das Centenas</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conhecendo números maiores! Usamos o <strong>Material Dourado</strong> para entender que 10 barrinhas formam uma placa (100).\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧱 O Jogo da Troca:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Juntou 10 cubinhos? Troca por uma barrinha. Juntou 10 barrinhas? Troca por uma placa (Centena)!</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 15,
+  "unidade": "Operações com números naturais",
+  "titulo": "Potenciação de Números Naturais",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Potenciação de Números Naturais</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: entender potenciação como multiplicação repetida e aprender notação de potência (base e expoente).</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Exemplo: 3³ = 3 × 3 × 3 = 27. O expoente indica quantas vezes multiplicamos a base por si mesma.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Calcule</label>\n  <p>Calcule 4³ e 2⁵.</p>\n  <input id=\"atividade-pot-1\" class=\"w-40 mt-2 p-2 border rounded\" placeholder=\"4^3 =\" />\n  <input id=\"atividade-pot-2\" class=\"w-40 mt-2 p-2 border rounded\" placeholder=\"2^5 =\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Qual é 5²?</p>\n  <div>\n    <button class=\"btn\">15</button>\n    <button class=\"btn\">25</button>\n    <button class=\"btn\">10</button>\n  </div>\n</div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

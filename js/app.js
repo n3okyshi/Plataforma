@@ -221,10 +221,12 @@ var app = {
                 case "lesson":
                     // `data` é o ID canônico da lição (não mais o título).
                     const lessonId = data;
-                    const content = (window.Registry && Registry.getTeoria)
+                    let content = (window.Registry && Registry.getTeoria)
                         ? Registry.getTeoria(lessonId)
                         : (window.PLATAFORMA_TEORIA ? window.PLATAFORMA_TEORIA[lessonId] : null);
 
+                    const aulaDaLicao = window.Registry ? Registry.getAula(lessonId) : null;
+                    if (!['piloto', 'publicado'].includes(aulaDaLicao?.metadados?.estado)) content = null;
                     html = views.renderLesson
                         ? views.renderLesson(this._getLessonTitle(lessonId), content, lessonId)
                         : "Erro na view Lesson";
@@ -509,7 +511,21 @@ var app = {
             this.state.currentLevel = null;
             return views.renderLevelSelector(this.state.currentSubject, subjData);
         }
-        return views.renderMap(this.state.currentSubject, this.state.currentLevel, unidades);
+        // O planejamento conserva as aulas pendentes, mas o mapa não oferece páginas vazias.
+        const disponiveis = {};
+        Object.entries(unidades).forEach(([nome, licoes]) => {
+            const comTexto = licoes.filter(licao => {
+                const html = window.Registry ? Registry.getTeoria(licao.id) : null;
+                const aula = window.Registry ? Registry.getAula(licao.id) : null;
+                return typeof html === 'string' && html.trim().length > 0
+                    && ['piloto', 'publicado'].includes(aula?.metadados?.estado);
+            });
+            if (comTexto.length) disponiveis[nome] = comTexto;
+        });
+        if (!Object.keys(disponiveis).length) {
+            return '<section class="max-w-3xl mx-auto p-8"><h1 class="text-2xl font-bold">Conteúdo em preparação</h1><p>As aulas desta série e componente ainda estão sendo preparadas.</p><button data-action="nav" data-arg="home" class="mt-4 text-brand-blue font-bold">Voltar ao início</button></section>';
+        }
+        return views.renderMap(this.state.currentSubject, this.state.currentLevel, disponiveis);
     },
 
     _resetDeepNavigation: function () {
@@ -767,6 +783,12 @@ var app = {
     },
 
     finishLesson: function (id) {
+        const teoria = window.Registry ? Registry.getTeoria(id) : null;
+        const aula = window.Registry ? Registry.getAula(id) : null;
+        if (typeof teoria !== 'string' || !teoria.trim() || !['piloto', 'publicado'].includes(aula?.metadados?.estado)) {
+            if (window.ui) ui.showToast('Esta aula ainda está em preparação.', 'info');
+            return;
+        }
         if (window.game) game.finishLesson(id);
     },
 

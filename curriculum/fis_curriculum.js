@@ -1,7 +1,4 @@
-/** GERADO por tools/gerar.js — NÃO EDITAR. hash: a86f0dcd1065f56f83827ad5e6d11fbd7b07c277bcfbac06b9c1505c036b0be3 */
-'use strict';
-
-// Currículo de Física — gerado a partir de data/componentes (R14/R17).
+/** Currículo por códigos de nível; aulas em planejamento ficam em data/componentes. */
 registrarCurriculo("Física", {
   "EM01": {
     "Grandezas e unidades de medida": [

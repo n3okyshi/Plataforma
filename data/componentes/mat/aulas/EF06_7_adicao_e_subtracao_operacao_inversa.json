@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 7,
+  "unidade": "Operações com números naturais",
+  "titulo": "Adição e Subtração - Operação Inversa",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Adição e Subtração — Operação Inversa</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: relacionar adição e subtração como operações inversas para checar resultados e resolver problemas com incógnitas simples.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Se a + b = c então c − b = a. Usamos essa propriedade para verificar contas e encontrar valores desconhecidos.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade 4 — Complete</label>\n  <p>Complete:  ? + 478 = 1.003</p>\n  <input id=\"atividade-inversa-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Se 260 + x = 725, então x = ?</p>\n  <div>\n    <button class=\"btn\">435</button>\n    <button class=\"btn\">465</button>\n    <button class=\"btn\">455</button>\n  </div>\n</div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

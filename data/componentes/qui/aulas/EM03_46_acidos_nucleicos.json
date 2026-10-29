@@ -1,0 +1,37 @@
+{
+  "id": "qui.em03.bioquimica.acidos_nucleicos",
+  "componente": "qui",
+  "nivel": "EM03",
+  "ordem": 46,
+  "unidade": "Bioquímica",
+  "titulo": "Ácidos nucleicos",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-purple-600 mb-4\">Ácidos nucleicos</h2>\n            <p class=\"mb-4\">\n                DNA e RNA são polímeros cujos monômeros são os <b>nucleotídeos</b> (Grupo fosfato + Pentose + Base nitrogenada).\n            </p>\n\n            <div class=\"grid grid-cols-1 md:grid-cols-2 gap-6\">\n                <div class=\"p-6 bg-purple-50 dark:bg-purple-900/10 rounded-3xl border border-purple-200\">\n                    <p class=\"font-black text-purple-700 mb-2\">RNA (Ácido ribonucleico)</p>\n                    <p class=\"text-xs\">Fita única. Pentose: Ribose. Bases: A, G, C e <b>Uracila (U)</b>. Transmite informações do DNA para a síntese proteica.</p>\n                </div>\n                <div class=\"p-6 bg-purple-50 dark:bg-purple-900/10 rounded-3xl border border-purple-200\">\n                    <p class=\"font-black text-purple-700 mb-2\">DNA (Ácido desoxirribonucleico)</p>\n                    <p class=\"text-xs\">Dupla hélice. Pentose: Desoxirribose. Bases: A, G, C e <b>Timina (T)</b>. Pareamento: A-T e G-C.</p>\n                </div>\n            </div>\n\n            \n\n        </section>\n\n        <section class=\"bg-gray-100 dark:bg-gray-800 p-8 rounded-[2.5rem] border-2 border-purple-400\">\n            <h4 class=\"font-black text-purple-700 uppercase text-xs mb-2\">Foco na história</h4>\n            <p class=\"text-xs font-bold\">Rosalind Franklin e o segundo lugar</p>\n            <p class=\"text-xs italic\">A química britânica Rosalind Franklin descobriu, via cristalografia de raios X, que o DNA era uma dupla hélice com fosfatos externos, dados essenciais usados por Watson e Crick para o modelo final.</p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-purple-600 text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Finalizar Unidade <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

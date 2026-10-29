@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ciencia_da_vida.niveis_de_organizacao_biologica",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 4,
+  "unidade": "Introdução à ciência da vida",
+  "titulo": "Níveis de organização biológica",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-purple mb-4\">Níveis de organização biológica</h2>\n            <p class=\"mb-4\">\n                A partir da definição de suas características gerais, os seres vivos são identificados e estudados pela Biologia. Esse estudo é realizado desde a escala microscópica, na qual são estudadas moléculas e células, até as escalas maiores, que possibilitam o estudo dos seres vivos maiores e do meio ambiente. O estudo nessas diferentes escalas é importante para a compreensão de todas as interações realizadas pelos seres vivos e como elas interferem na sua sobrevivência. Para facilitar esse estudo, foram definidos níveis de organização biológica. Acompanhe no esquema a seguir um exemplo dos diferentes níveis de organização biológica.\n            </p>\n            \n            \n\n            <div class=\"grid gap-4 mt-6\">\n                <div class=\"p-4 glass-child rounded-xl border-l-4 border-brand-purple\">\n                    <p class=\"mb-2\"><b>1. Átomo</b></p>\n                    <p class=\"mb-2\"><b>2. Molécula e macromolécula:</b> molécula é a estrutura química formada por dois ou mais átomos. As macromoléculas são formadas por uma grande quantidade de átomos, resultando em grandes estruturas tridimensionais.</p>\n                    <p class=\"mb-2\"><b>3. Organela celular:</b> estrutura interna das células, responsável por desempenhar diferentes funções.</p>\n                    <p class=\"mb-2\"><b>4. Célula:</b> a célula é a unidade fundamental de estrutura e função da vida. Existem diferentes tipos de célula no organismo dos seres vivos multicelulares, geralmente especializado sem diferentes funções.</p>\n                    <p class=\"mb-2\"><b>5. Tecido:</b> os tecidos representam o nível de organização biológica de um grupo de células iguais e que realizam a mesma função especializada.</p>\n                    <p class=\"mb-2\"><b>6. Órgão:</b> um órgão é definido pelo conjunto de diferentes tecidos que atuam para uma função específica do corpo.</p>\n                    <p class=\"mb-2\"><b>7. Sistema:</b> corresponde a um grupo de órgãos que atuam para uma função específica do corpo.</p>\n                    <p class=\"mb-2\"><b>8. Organismo:</b> um organismo é determinado por uma estrutura que delimita seu interior e o exterior, que é o ambiente. Isso ocorre por meio de uma membrana (no caso dos indivíduos unicelulares) ou de outras estruturas (no caso dos multicelulares).</p>\n                </div>\n\n                <div class=\"p-4 glass-child rounded-xl border-l-4 border-orange-500\">\n                    <p class=\"mb-2\"><b>9. População:</b> uma população corresponde a um grupo de indivíduos de uma mesma espécie que vivem numa mesma área.</p>\n                    <p class=\"mb-2\"><b>10. Comunidade:</b> a comunidade é definida como o conjunto de todas as populações de diversas espécies que vivem numa mesma área.</p>\n                    <p class=\"mb-2\"><b>11. Ecossistema:</b> o ecossistema corresponde ao conjunto de várias comunidades que interagem entre si (fatores bióticos) e comas condições ambientais (fatores abióticos), ocorrendo fluxo de energia e ciclo da matéria entre elas.</p>\n                    <p class=\"mb-2\"><b>12. Biosfera:</b> corresponde ao nível mais alto dos níveis de organização biológica, incluindo todos os ecossistemas da Terra, ou seja, todos os ambientes onde a vida é encontrada.</p>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"bg-gray-100 dark:bg-gray-800 p-8 rounded-3xl border-2 border-brand-purple mt-8\">\n            <h4 class=\"font-black text-xl mb-4 uppercase flex items-center gap-2 text-brand-purple\">\n                <i class=\"fas fa-edit\"></i> Atividade\n            </h4>\n            <div class=\"space-y-6 font-bold text-sm\">\n                <p>1. Existem diferentes níveis de organização biológica que auxiliam o estudo da vida. Cite o nível hierárquico que define o limite do ser vivo para o ambiente e descreva como esse nível se relaciona com os outros níveis hierárquicos da vida.</p>\n                \n                <p>2. Tendo como referência uma árvore típica da Amazônia, faça um esquema dos níveis de organização biológica com base nela. Se for necessário, pesquise uma espécie de árvore amazônica; quais são os órgãos, os tecidos e os tipos de célula que uma planta como a árvore pode ter; e outras espécies que constituem uma comunidade na Floresta Amazônica.</p>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-purple text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.materia_e_energia_nos_ecossistemas.ciclo_do_fosforo",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 34,
+  "unidade": "Matéria e energia nos ecossistemas",
+  "titulo": "Ciclo do fósforo",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-orange-600 mb-4 text-center\">Ciclo do fósforo</h2>\n            <p class=\"mb-4\">\n                O fósforo é um elemento químico presente tanto na água como no solo. No solo, é absorvido pelas plantas na forma de <b>íons de fosfato ($PO_4^{3-}$)</b>, enquanto os animais o absorvem pela alimentação. \n            </p>\n            <p class=\"mb-4\">\n                O retorno do fósforo ao ambiente ocorre pela decomposição da matéria orgânica e pelas excretas de animais. Esse material é carregado pela chuva para rios e mares, sendo incorporado às rochas por processos muito lentos.\n            </p>\n        </section>\n\n        <section class=\"my-6\">\n            <div class=\"p-4 rounded-3xl bg-orange-50 dark:bg-orange-900/20 border-2 border-orange-200\">\n                [Image: Representação esquemática do ciclo do fósforo evidenciando intemperismo e sedimentação]\n            </div>\n        </section>\n\n        <section class=\"bg-gray-100 dark:bg-gray-800 p-6 rounded-3xl text-xs italic\">\n            <p class=\"mb-2\"><b>intemperismo:</b> processo de desintegração natural de rochas e solos por processos físicos, químicos ou biológicos.</p>\n            <p><b>erosão:</b> ação de remoção da camada superficial do solo ou das rochas, causando desgaste.</p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-orange-600 text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Ciclos <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

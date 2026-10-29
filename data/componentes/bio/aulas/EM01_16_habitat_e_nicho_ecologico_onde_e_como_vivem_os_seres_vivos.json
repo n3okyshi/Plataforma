@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ecologia.habitat_e_nicho_ecologico_onde_e_como_vivem_os_seres_vivos",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 16,
+  "unidade": "Introdução à Ecologia",
+  "titulo": "Hábitat e nicho ecológico: onde e como vivem os seres vivos",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<div class=\"space-y-6 animate-fade-in text-justify pb-10\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">Hábitat e nicho ecológico: onde e como vivem os seres vivos</h2>\n            <p class=\"mb-4\">\n                Você estudou os componentes abióticos do ambiente que são caracterizados pelos fatores físico-químicos de um meio que, associados, influenciam a sobrevivência dos seres vivos ali encontrados. Ou seja, uma espécie será encontrada em um local apenas se as condições nesse ambiente possibilitarem sua sobrevivência e reprodução. \n            </p>\n            <p class=\"mb-4\">\n                O lugar onde um organismo vive é chamado de <b>hábitat</b>, isto é, o ambiente onde ele pode ser encontrado. Existem vários tipos e tamanhos de hábitats, como florestas, desertos, córregos, lagos, poças de água, etc. \n            </p>\n            \n            \n\n            <p class=\"mb-4\">\n                A maneira como o organismo vive em seu hábitat consiste em seu <b>nicho ecológico</b>, caracterizado pelas condições físicas e biológicas de que o organismo necessita para crescer, sobreviver e se reproduzir. O nicho ecológico de uma espécie é composto dos recursos bióticos e abióticos utilizados por ela.\n            </p>\n        </section>\n\n        <section class=\"bg-gray-100 dark:bg-gray-800 p-8 rounded-3xl border-2 border-brand-green mt-8\">\n            <h4 class=\"font-black text-xl mb-4 uppercase flex items-center gap-2 text-brand-green\">\n                <i class=\"fas fa-pause-circle\"></i> Ponto de parada\n            </h4>\n            <div class=\"space-y-6 font-bold text-sm\">\n                <p>1. Escolha um ambiente da região onde você vive e cite exemplos de componentes abióticos e bióticos que compõem esse local.</p>\n                \n                <p>2. Diferencie hábitat de nicho ecológico. Utilize um exemplo para ilustrar essa diferença, considerando a fauna e a flora da região onde você vive.</p>\n                \n                <div class=\"p-4 bg-white dark:bg-gray-700 rounded-2xl shadow-sm border border-gray-200 dark:border-gray-600\">\n                    <p class=\"mb-4\">\n                        3. (UEA-AM) A cutia (Dasyprocta spp.) é um roedor silvestre, encontrado no sul do México, no sul da América Central e em regiões tropicais da América do Sul, principalmente nas regiões norte, nordeste e sudeste do Brasil. As cutias vivem, em média, entre oito e dez anos, tendo como moradia tocas subterrâneas, locais com vegetação densa e próximos à água. São animais de hábitos estritamente diurnos. (Revista Científica Eletrônica de Medicina Veterinária, 2013. Adaptado.)\n                    </p>\n                    <p class=\"mb-4\">No excerto, as informações sobre a cutia referem-se aos conceitos:</p>\n                    <div class=\"grid gap-2\">\n                        <button class=\"p-3 border rounded-xl text-left text-xs hover:bg-gray-50\">a) de crescimento populacional e de sucessão ecológica.</button>\n                        <button class=\"p-3 border rounded-xl text-left text-xs hover:bg-gray-50\">b) de comportamento biológico e de especiação.</button>\n                        <button class=\"p-3 border rounded-xl text-left text-xs hover:bg-gray-50\">c) de dinâmica populacional e de isolamento geográfico.</button>\n                        <button class=\"p-3 border rounded-xl text-left text-xs hover:bg-gray-50\">d) de endemismo e de seleção natural.</button>\n                        <button class=\"p-3 border rounded-xl text-left text-xs hover:bg-gray-50 font-black\">e) de hábitat e de nicho ecológico.</button>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

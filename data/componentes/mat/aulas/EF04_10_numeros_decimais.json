@@ -1,0 +1,37 @@
+{
+  "id": "mat.ef04.fracoes_e_decimais.numeros_decimais",
+  "componente": "mat",
+  "nivel": "EF04",
+  "ordem": 10,
+  "unidade": "Frações e Decimais",
+  "titulo": "Números Decimais",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números com Vírgula</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Introdução aos Décimos (0,1) e Centésimos (0,01). A melhor forma de entender é usando dinheiro!\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💰 Moedinhas:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">1 Real é o inteiro. 10 centavos é um décimo (0,10). 1 centavo é um centésimo (0,01).</p>\n        </div>\n    </div>\n    "
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}

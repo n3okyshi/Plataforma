@@ -1,0 +1,37 @@
+{
+  "id": "bio.em01.introducao_a_ciencia_da_vida.o_estudo_da_vida",
+  "componente": "bio",
+  "nivel": "EM01",
+  "ordem": 1,
+  "unidade": "Introdução à ciência da vida",
+  "titulo": "O estudo da vida",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "\n    <div class=\"space-y-6 animate-fade-in text-justify\">\n        <section>\n            <h2 class=\"text-2xl font-black text-brand-green mb-4\">O estudo da vida</h2>\n            <p class=\"mb-4\">\n                A Biologia é a ciência que estuda a vida e, por meio dela, podemos compreender os seres vivos e seus processos relacionados. Observe a imagem de abertura deste capítulo. Muitas perguntas podem ser feitas com base na observação de animais como esse: Que relações esses animais estabelecem com outros seres vivos? Eles podem ser encontrados no Brasil? De que se alimentam? Eles estão ameaçados de extinção? É com base nesses e em outros questionamentos que muitas pesquisas na área da Biologia são desenvolvidas, contribuindo para a construção do conhecimento científico. Neste capítulo, vamos entender como a Biologia se estabeleceu como ciência e como ela se relaciona diretamente com a compreensão da vida.\n            </p>\n            <p class=\"mb-4\">\n                O estudo da vida se iniciou a partir da curiosidade dos seres humanos. A observação das plantas, dos animais, do corpo humano, dos fenômenos da natureza, entre outros elementos, contribuiu diretamente para o desenvolvimento da Biologia como ciência no decorrer do tempo e da história humana. \n            </p>\n            <p class=\"mb-4\">\n                Pessoas em todo o mundo e de diferentes culturas classificaram seres vivos, desenvolveram técnicas medicinais, domesticaram animais e cultivaram plantas. Todas essas práticas estão relacionadas com a Biologia, antes mesmo de ser considerada uma ciência, o que só ocorreu no século XIX, e sua denominação vem da junção dos termos gregos <b>bios</b>, que significa “vida”, e <b>logia</b>, que significa “ciência de” ou “conhecimento de”. \n            </p>\n            <p class=\"mb-4\">\n                O termo “Biologia” passou a ser usado por obras produzidas pelos naturalistas. Os naturalistas viajavam o mundo com o objetivo de observar, recolher amostras e registrar, por meio de desenhos e anotações, informações sobre a natureza nas regiões visitadas.\n            </p>\n        </section>\n\n        <section class=\"bg-amber-50 dark:bg-amber-900/20 p-6 rounded-3xl border-l-8 border-amber-400\">\n            <p class=\"mb-4\">\n                <b>Naturalistas</b> é como chamamos as pessoas que estudavam os fenômenos da vida e as ciências naturais ou a história natural no século XIX.\n            </p>\n            <p class=\"mb-4\">\n                Um dos naturalistas mais conhecidos foi o alemão <b>Alexander von Humboldt (1769-1859)</b>, que viajou muito para a região das Américas, fez diversos registros e desenvolveu vários conceitos que são utilizados em Biologia até hoje. Os relatos de suas viagens inspiraram outros naturalistas, como <b>Charles Darwin (1809-1882)</b> e <b>Jean Baptiste Lamarck (1744-1829)</b>, este último a quem muitas vezes se atribui a maior popularização do termo \"Biologia”. \n            </p>\n            <p class=\"mb-4\">\n                A base do trabalho dos naturalistas era a observação, a descrição e a troca de informações com outros naturalistas, o que foi fortalecendo o estudo da vida.\n            </p>\n        </section>\n\n        <section>\n            <p class=\"mb-4\">\n                Com a consolidação da ciência de diferentes áreas para entender o Universo e seus processos, o termo <b>\"cientista\"</b> surgiu em 1833, sendo atribuído a <b>William Whewell (1794-1866)</b>, e passou a ser usado para os naturalistas, que ficaram conhecidos como cientistas que estudam a vida. \n            </p>\n            <p class=\"mb-4\">\n                O termo “cientista” foi se popularizando gradualmente e hoje é como denominamos quem faz pesquisas em diversas áreas, inclusive na Biologia. Vamos nos aprofundar no conceito de ciência e nos processos envolvidos nas pesquisas científicas no próximo capítulo.\n            </p>\n        </section>\n\n        <div class=\"pt-6 border-t border-gray-200 dark:border-gray-700\">\n            <button class=\"w-full bg-brand-green text-white font-black py-4 rounded-2xl shadow-lg hover:scale-[1.02] transition-transform uppercase tracking-wider\">\n                Concluir Leitura <i class=\"fas fa-check-circle ml-2\"></i>\n            </button>\n        </div>\n    </div>\n"
+      }
+    ],
+    "vocabulario": [],
+    "errosComuns": []
+  },
+  "atividades": [],
+  "areas": [],
+  "tags": [],
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "fontes": [],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "migracao:legado",
+    "legado": true,
+    "estado": "rascunho",
+    "origem": "componentes.zip"
+  }
+}
