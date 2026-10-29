@@ -1,0 +1,96 @@
+{
+  "id": "lip.ef06.morfologia.prefixos_de_negacao",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 8,
+  "unidade": "Morfologia",
+  "titulo": "Prefixos de negação e antônimos",
+  "bncc": [
+    "EF67LP34"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Forme antônimos por prefixação para feliz, possível, leal e regular. Use dois pares em frases que evidenciem a oposição. Compare com quente/frio e explique por que nem todo antônimo resulta de prefixação."
+    ],
+    "resumo": "Prefixos de negação e antônimos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Prefixos de negação e antônimos</h2><p>Prefixos podem expressar negação e formar antônimos: feliz/infeliz, possível/impossível e leal/desleal. Em impossível, im- é uma forma do prefixo negativo in-, ajustada ao som seguinte. A escolha depende do uso: não se pode acrescentar qualquer prefixo a toda palavra. Nem todo des- expressa apenas negação; em desfazer, pode indicar reversão. Nem toda palavra iniciada pelas letras in contém um prefixo negativo. É preciso observar a base e o sentido.</p><h3>Exemplo comentado</h3><p>Em “A solução é possível”, afirma-se a viabilidade. Em “A solução é impossível”, essa viabilidade é negada. O antônimo usual de leal por prefixação é desleal. Quente/frio é outro tipo de oposição, sem acréscimo de prefixo.</p><h3>Produza e revise</h3><p>Forme antônimos por prefixação para feliz, possível, leal e regular. Use dois pares em frases que evidenciem a oposição. Compare com quente/frio e explique por que nem todo antônimo resulta de prefixação.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "prefixos_de_negacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual antônimo de possível se forma por prefixação?",
+      "alternativas": [
+        "Possibilidade",
+        "Possivelmente",
+        "Impossível",
+        "Possíveis"
+      ],
+      "correta": 2,
+      "explicacao": "Em “A solução é possível”, afirma-se a viabilidade. Em “A solução é impossível”, essa viabilidade é negada. O antônimo usual de leal por prefixação é desleal. Quente/frio é outro tipo de oposição, sem acréscimo de prefixo.",
+      "bncc": [
+        "EF67LP34"
+      ]
+    },
+    {
+      "id": "prefixos_de_negacao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Forme antônimos por prefixação para feliz, possível, leal e regular. Use dois pares em frases que evidenciem a oposição. Compare com quente/frio e explique por que nem todo antônimo resulta de prefixação.",
+      "gabarito": "Infeliz, impossível, desleal e irregular. As frases devem evidenciar oposição coerente. Quente/frio tem bases distintas e não é formado pelo acréscimo de um prefixo a quente.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Infeliz, impossível, desleal e irregular. As frases devem evidenciar oposição coerente. Quente/frio tem bases distintas e não é formado pelo acréscimo de um prefixo a quente.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP34"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        173
+      ],
+      "paginasImpressas": "171",
+      "uso": "Delimitação de EF06LP03, EF67LP34 e EF67LP35; páginas conferidas no lote original."
+    },
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        66,
+        67,
+        69,
+        70
+      ],
+      "paginasImpressas": "69–70, 72–73",
+      "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes. Lote recuperado após limpeza automática do ambiente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

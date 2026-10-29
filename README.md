@@ -63,3 +63,7 @@ Sirva a raiz por HTTP, por exemplo `python -m http.server 8000`, e abra `http://
 ## Língua Portuguesa: unidade piloto EF06
 
 Língua, Texto e Contexto: quatro aulas curriculares, um apoio complementar opcional, dez atividades, quatro questões de treino e quatro itens próprios de prova. Portfólio de comparação jornalística, relação entre gêneros, variação linguística e revisão escrita com apresentação oral. EF06LP01, EF06LP02, EF69LP55 e EF69LP56 têm tarefas explícitas; não há alegação de cobertura integral do ano. O apoio de comunicação não recebe vínculo BNCC artificial nem bloqueia o percurso. O placeholder foi removido. Demais unidades seguem em planejamento. Homologação docente, aplicação, revisão visual/acessibilidade e Firebase/cache reais permanecem pendentes.
+
+## Ampliação de Português EF06: Morfologia
+
+Cinco aulas, dez atividades, cinco questões de treino e cinco itens próprios de prova, com portfólio. EF06LP03, EF67LP34 e EF67LP35 têm tarefas específicas; criação de palavras foi realocada para EF67LP35. Acumulado: dez aulas (uma complementar), vinte atividades e nove itens em cada banco, em duas unidades. Demais unidades continuam pendentes, assim como homologação docente, revisão visual/acessibilidade e Firebase/cache reais.

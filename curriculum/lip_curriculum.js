@@ -31,6 +31,33 @@ registrarCurriculo("Língua Portuguesa", {
         "titulo": "Comunicação e recursos de linguagem",
         "complementar": true
       }
+    ],
+    "Morfologia": [
+      {
+        "id": "lip.ef06.morfologia.estrutura_das_palavras",
+        "titulo": "Estrutura das palavras e famílias lexicais",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.morfologia.derivacao_e_composicao",
+        "titulo": "Derivação e composição",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.morfologia.prefixos_de_negacao",
+        "titulo": "Prefixos de negação e antônimos",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.morfologia.series_sinonimicas",
+        "titulo": "Sinônimos: diferenças de sentido",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.morfologia.formacao_de_palavras_novas",
+        "titulo": "Criar palavras e explicar seus sentidos",
+        "complementar": false
+      }
     ]
   },
   "EF07": {},
