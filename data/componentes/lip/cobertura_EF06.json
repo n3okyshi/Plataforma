@@ -1,0 +1,77 @@
+{
+  "nivel": "EF06",
+  "estado": "piloto_unidade",
+  "escopo": "Língua, Texto e Contexto",
+  "limites": "Quatro habilidades trabalhadas em recorte; demais unidades ainda em planejamento. Vínculo não representa domínio comprovado.",
+  "habilidades": [
+    {
+      "codigo": "EF06LP01",
+      "aulas": [
+        "lip.ef06.lingua_texto_e_contexto.contexto_de_producao"
+      ],
+      "atividades": [
+        "lip.ef06.lingua_texto_e_contexto.contexto_de_producao#contexto_de_producao.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.lingua_texto_e_contexto.treino.01"
+      ],
+      "questoesProva": [
+        "lip.ef06.lingua_texto_e_contexto.prova.01"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF06LP02",
+      "aulas": [
+        "lip.ef06.lingua_texto_e_contexto.contexto_de_circulacao"
+      ],
+      "atividades": [
+        "lip.ef06.lingua_texto_e_contexto.contexto_de_circulacao#contexto_de_circulacao.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.lingua_texto_e_contexto.treino.02"
+      ],
+      "questoesProva": [
+        "lip.ef06.lingua_texto_e_contexto.prova.02"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF69LP55",
+      "aulas": [
+        "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao"
+      ],
+      "atividades": [
+        "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao#variedades_e_norma_padrao.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.lingua_texto_e_contexto.treino.03"
+      ],
+      "questoesProva": [
+        "lip.ef06.lingua_texto_e_contexto.prova.03"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF69LP56",
+      "aulas": [
+        "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao"
+      ],
+      "atividades": [
+        "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao#usar_a_norma_padrao.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.lingua_texto_e_contexto.treino.04"
+      ],
+      "questoesProva": [
+        "lip.ef06.lingua_texto_e_contexto.prova.04"
+      ],
+      "revisaoDocente": "pendente"
+    }
+  ],
+  "pendencias": [
+    "Homologação docente e aplicação real.",
+    "Revisão visual e acessibilidade.",
+    "Autenticação, Firebase e cache real."
+  ]
+}

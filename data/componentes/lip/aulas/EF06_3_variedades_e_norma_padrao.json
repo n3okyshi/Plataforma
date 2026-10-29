@@ -1,0 +1,98 @@
+{
+  "id": "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 3,
+  "unidade": "Língua, Texto e Contexto",
+  "titulo": "Variedades da língua e preconceito linguístico",
+  "bncc": [
+    "EF69LP55"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise o diálogo de Lia: explique a variedade, identifique a discriminação e escreva uma resposta respeitosa. Depois registre duas maneiras de nomear algo conhecidas na turma, indicando o contexto e sem atribuir um jeito a todos os moradores de uma região."
+    ],
+    "resumo": "Variedades da língua e preconceito linguístico",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Uma língua, muitos usos</h2><p>O português varia entre regiões, gerações, grupos sociais e situações. “Mandioca”, “aipim” e “macaxeira” podem nomear o mesmo alimento em diferentes comunidades. A pronúncia também varia. Nenhum sotaque torna alguém mais inteligente ou mais digno de respeito.</p><p>A norma-padrão é um modelo de referência para certos usos formais; não é a reprodução exata da fala de todas as pessoas escolarizadas. As variedades efetivamente faladas possuem regularidades. Aprender convenções valorizadas socialmente amplia possibilidades de participação, sem exigir abandonar a identidade linguística.</p><h3>Uma situação para analisar</h3><p>Em um diálogo fictício, Lia diz: “Lá em casa chamamos de macaxeira”. Um colega responde: “Então sua família não sabe falar”. O problema não está na palavra de Lia: o colega desqualifica os falantes por sua variedade. Isso é preconceito linguístico.</p><p>Outra coisa é revisar um aviso que exige convenções formais, explicando a escolha sem humilhar ninguém. Adequação depende de interlocutores, finalidade e gênero; não basta classificar toda fala como informal e toda escrita como formal.</p><h3>Exemplo comentado</h3><p>Responder “Na minha região dizemos mandioca; macaxeira também é uma denominação usada em outras comunidades” reconhece a variação e não estabelece uma hierarquia de pessoas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "variedades_e_norma_padrao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual resposta evita o preconceito linguístico?",
+      "alternativas": [
+        "Esse sotaque revela pouca inteligência.",
+        "Só minha região fala corretamente.",
+        "É preciso apagar sua maneira de falar.",
+        "Macaxeira e mandioca são formas usadas em diferentes comunidades."
+      ],
+      "correta": 3,
+      "explicacao": "A resposta reconhece variação sem inferiorizar falantes.",
+      "bncc": [
+        "EF69LP55"
+      ]
+    },
+    {
+      "id": "variedades_e_norma_padrao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Analise o diálogo de Lia: explique a variedade, identifique a discriminação e escreva uma resposta respeitosa. Depois registre duas maneiras de nomear algo conhecidas na turma, indicando o contexto e sem atribuir um jeito a todos os moradores de uma região.",
+      "gabarito": "Macaxeira é uma variante lexical. A desqualificação da família é preconceituosa. Aceitar exemplos reais contextualizados e respostas que valorizem o respeito sem impedir a aprendizagem da norma-padrão.",
+      "rubrica": [
+        "Reconhecer variação e conceito de norma-padrão.",
+        "Identificar a desqualificação de pessoas.",
+        "Contextualizar os exemplos sem estereótipos."
+      ],
+      "bncc": [
+        "EF69LP55"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        163,
+        165
+      ],
+      "paginasImpressas": "161, 163",
+      "uso": "Delimitação curricular das quatro habilidades do piloto."
+    },
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "paginasImpressas": "11–15",
+      "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; homologação docente e aplicação pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

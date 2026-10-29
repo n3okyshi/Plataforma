@@ -85,7 +85,12 @@
     {
       "ordem": 10,
       "trabalho": "Completar uma unidade de Língua Portuguesa do 6º ano em todas as camadas e realizar testes",
-      "estado": "pendente"
+      "estado": "piloto_unidade_para_testes",
+      "pendencias": [
+        "Homologação docente e aplicação real.",
+        "Revisão visual e acessibilidade.",
+        "Autenticação, Firebase e cache real."
+      ]
     },
     {
       "ordem": 11,
@@ -113,7 +118,7 @@
       "estado": "pendente"
     }
   ],
-  "marcoAtual": "Conteúdo de Matemática EF01–EF09 e EM01–EM03 implementado em todas as camadas para testes. Nenhum lote está homologado como concluído; pendências técnicas reais e pedagógicas permanecem. Próxima autoria da ordem: piloto de Língua Portuguesa EF06.",
+  "marcoAtual": "Matemática EF01–EF09 e EM01–EM03 para testes. Piloto de Língua Portuguesa EF06: Língua, Texto e Contexto, quatro aulas curriculares e um apoio complementar. Próxima autoria: demais unidades de Língua Portuguesa EF06. Nenhum lote homologado.",
   "regra": "Rascunhos recuperados e vínculos propostos não equivalem a conteúdos concluídos.",
   "criteriosDeConclusao": [
     "Todas as camadas têm fonte rastreável e conteúdo efetivo.",

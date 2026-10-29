@@ -1,0 +1,98 @@
+{
+  "id": "lip.ef06.lingua_texto_e_contexto.contexto_de_producao",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 1,
+  "unidade": "Língua, Texto e Contexto",
+  "titulo": "Contexto e escolhas no relato de fatos",
+  "bncc": [
+    "EF06LP01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare os relatos A e B: identifique duas escolhas, explique seus efeitos e indique uma informação ainda necessária. Reescreva um título preservando os fatos e explique o recorte que continua existindo."
+    ],
+    "resumo": "Contexto e escolhas no relato de fatos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Quem conta também escolhe</h2><p>Todo texto é produzido em uma situação: alguém se dirige a um público, com uma finalidade, em um suporte. No jornalismo, selecionar o fato, o título, as fontes e a ordem das informações produz efeitos de sentido. Isso impede uma neutralidade absoluta, mas não autoriza inventar informações: apuração, transparência e confronto de fontes continuam necessários.</p><h3>Dois relatos do mesmo acontecimento</h3><p><strong>Simulação autoral: os textos e a escola abaixo são fictícios.</strong> Dados comuns: em 20 de outubro, a Escola Horizonte abriu a biblioteca por mais uma hora; 18 estudantes usaram o período adicional no primeiro dia. Ainda não há levantamento sobre os demais dias.</p><blockquote><strong>A — Biblioteca ganha uma hora e recebe 18 estudantes.</strong> A direção informou que a mudança amplia o acesso aos livros.</blockquote><blockquote><strong>B — Só 18 estudantes usam novo horário da biblioteca.</strong> Uma estudante disse que a divulgação ainda não chegou a todas as turmas.</blockquote><p>Ambos preservam os números, mas “ganha” destaca um benefício e “só” avalia a quantidade como pequena. A privilegia a direção; B, uma estudante. As falas não se anulam e os dados não permitem declarar sucesso ou fracasso definitivo.</p><h3>Exemplo comentado</h3><p>Retirar “só” torna o título B menos avaliativo, mas não elimina o recorte: o texto ainda escolhe o primeiro dia. Para avaliar a medida, investigaríamos a divulgação e o uso ao longo de mais dias, ouvindo diferentes envolvidos.</p><h3>No caderno</h3><p>Identificar autor, público, finalidade, suporte, fontes e escolhas de palavras ajuda a ler criticamente. Uma notícia pode ser rigorosa sem ser absolutamente neutra.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "contexto_de_producao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No relato B, qual palavra avalia a quantidade de participantes?",
+      "alternativas": [
+        "Biblioteca",
+        "Horário",
+        "Só",
+        "Estudantes"
+      ],
+      "correta": 2,
+      "explicacao": "“Só” apresenta 18 como pouco, sem alterar o número.",
+      "bncc": [
+        "EF06LP01"
+      ]
+    },
+    {
+      "id": "contexto_de_producao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Compare os relatos A e B: identifique duas escolhas, explique seus efeitos e indique uma informação ainda necessária. Reescreva um título preservando os fatos e explique o recorte que continua existindo.",
+      "gabarito": "Espera-se analisar “ganha”/“só”, a seleção de fontes ou a ênfase no primeiro dia; propor investigar uso em outros dias ou divulgação. Título possível: “Biblioteca amplia horário; 18 estudantes usam período no primeiro dia”. O recorte continua limitado ao primeiro dia.",
+      "rubrica": [
+        "Citar duas escolhas presentes nos relatos.",
+        "Explicar os efeitos sem confundir seleção com mentira.",
+        "Preservar os dados na reescrita e reconhecer seu limite."
+      ],
+      "bncc": [
+        "EF06LP01"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        163,
+        165
+      ],
+      "paginasImpressas": "161, 163",
+      "uso": "Delimitação curricular das quatro habilidades do piloto."
+    },
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "paginasImpressas": "11–15",
+      "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; homologação docente e aplicação pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

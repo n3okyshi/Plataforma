@@ -1,0 +1,394 @@
+[
+  {
+    "id": "lip.ef06.lingua_texto_e_contexto.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Língua, Texto e Contexto",
+    "aulaId": "lip.ef06.lingua_texto_e_contexto.contexto_de_producao",
+    "bncc": [
+      "EF06LP01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No relato B, qual palavra avalia a quantidade de participantes?",
+    "opcoes": [
+      "Biblioteca",
+      "Horário",
+      "Só",
+      "Estudantes"
+    ],
+    "correta": 2,
+    "explicacao": "“Só” apresenta 18 como pouco, sem alterar o número.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          163,
+          165
+        ],
+        "paginasImpressas": "161, 163",
+        "uso": "Delimitação curricular das quatro habilidades do piloto."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "paginasImpressas": "11–15",
+        "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.lingua_texto_e_contexto.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Língua, Texto e Contexto",
+    "aulaId": "lip.ef06.lingua_texto_e_contexto.contexto_de_producao",
+    "bncc": [
+      "EF06LP01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma notícia informa “Apenas 12 moradores foram à reunião”. O que “apenas” faz?",
+    "opcoes": [
+      "Comprova que ninguém se interessou.",
+      "Apresenta 12 como quantidade pequena.",
+      "Prova que o número é falso.",
+      "Elimina a perspectiva do autor."
+    ],
+    "correta": 1,
+    "explicacao": "A palavra avalia o número. Não prova desinteresse, falsidade ou neutralidade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          163,
+          165
+        ],
+        "paginasImpressas": "161, 163",
+        "uso": "Delimitação curricular das quatro habilidades do piloto."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "paginasImpressas": "11–15",
+        "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.lingua_texto_e_contexto.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Língua, Texto e Contexto",
+    "aulaId": "lip.ef06.lingua_texto_e_contexto.contexto_de_circulacao",
+    "bncc": [
+      "EF06LP02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual texto aprofunda a notícia ao investigar barreiras de acesso?",
+    "opcoes": [
+      "A reportagem",
+      "O código de entrada",
+      "O título isolado",
+      "A lista de presença"
+    ],
+    "correta": 0,
+    "explicacao": "A reportagem acrescenta entrevistas, contexto e dados ao acontecimento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          163,
+          165
+        ],
+        "paginasImpressas": "161, 163",
+        "uso": "Delimitação curricular das quatro habilidades do piloto."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "paginasImpressas": "11–15",
+        "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.lingua_texto_e_contexto.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Língua, Texto e Contexto",
+    "aulaId": "lip.ef06.lingua_texto_e_contexto.contexto_de_circulacao",
+    "bncc": [
+      "EF06LP02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma notícia sobre uma praça gera entrevistas sobre o bairro e um artigo defendendo mais árvores. Qual relação está correta?",
+    "opcoes": [
+      "Os três textos são necessariamente editoriais.",
+      "O artigo transforma sua tese em fato comprovado.",
+      "A reportagem aprofunda o fato e o artigo assume uma posição sobre ele.",
+      "Publicar na internet torna todos os textos notícias."
+    ],
+    "correta": 2,
+    "explicacao": "O mesmo fato pode originar gêneros com finalidades diferentes. O suporte não determina o gênero.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          163,
+          165
+        ],
+        "paginasImpressas": "161, 163",
+        "uso": "Delimitação curricular das quatro habilidades do piloto."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "paginasImpressas": "11–15",
+        "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.lingua_texto_e_contexto.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Língua, Texto e Contexto",
+    "aulaId": "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao",
+    "bncc": [
+      "EF69LP55"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual resposta evita o preconceito linguístico?",
+    "opcoes": [
+      "Esse sotaque revela pouca inteligência.",
+      "Só minha região fala corretamente.",
+      "É preciso apagar sua maneira de falar.",
+      "Macaxeira e mandioca são formas usadas em diferentes comunidades."
+    ],
+    "correta": 3,
+    "explicacao": "A resposta reconhece variação sem inferiorizar falantes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          163,
+          165
+        ],
+        "paginasImpressas": "161, 163",
+        "uso": "Delimitação curricular das quatro habilidades do piloto."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "paginasImpressas": "11–15",
+        "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.lingua_texto_e_contexto.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Língua, Texto e Contexto",
+    "aulaId": "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao",
+    "bncc": [
+      "EF69LP55"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma aluna é ridicularizada por seu sotaque. Qual intervenção é adequada?",
+    "opcoes": [
+      "Impedir que ela participe.",
+      "Dizer que sotaques não medem inteligência e discutir respeito às variedades.",
+      "Trocar sua fala por silêncio.",
+      "Afirmar que apenas uma região tem língua legítima."
+    ],
+    "correta": 1,
+    "explicacao": "A intervenção combate a discriminação e permite discutir variação e convenções de uso.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          163,
+          165
+        ],
+        "paginasImpressas": "161, 163",
+        "uso": "Delimitação curricular das quatro habilidades do piloto."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "paginasImpressas": "11–15",
+        "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.lingua_texto_e_contexto.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Língua, Texto e Contexto",
+    "aulaId": "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao",
+    "bncc": [
+      "EF69LP56"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual revisão mantém o sentido e segue a concordância padrão?",
+    "opcoes": [
+      "Os alunos precisa de livros.",
+      "Os aluno precisam de livros.",
+      "Os alunos precisam de livros.",
+      "O alunos precisa de livros."
+    ],
+    "correta": 2,
+    "explicacao": "O artigo, o substantivo e o verbo concordam em número.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          163,
+          165
+        ],
+        "paginasImpressas": "161, 163",
+        "uso": "Delimitação curricular das quatro habilidades do piloto."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "paginasImpressas": "11–15",
+        "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.lingua_texto_e_contexto.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Língua, Texto e Contexto",
+    "aulaId": "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao",
+    "bncc": [
+      "EF69LP56"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Ao revisar “A gente pede uma reunião”, qual análise é adequada?",
+    "opcoes": [
+      "Pede concorda com a gente; solicitamos pode ser uma escolha de registro.",
+      "A gente pede nunca pertence à norma-padrão.",
+      "A frase obriga a mudar o prazo da reunião.",
+      "A forma exige que o falante abandone seu sotaque."
+    ],
+    "correta": 0,
+    "explicacao": "A gente pede tem concordância padrão. Revisão de registro não exige alterar fatos ou sotaques.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          163,
+          165
+        ],
+        "paginasImpressas": "161, 163",
+        "uso": "Delimitação curricular das quatro habilidades do piloto."
+      },
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "paginasImpressas": "11–15",
+        "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

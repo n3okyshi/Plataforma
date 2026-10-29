@@ -1,14 +1,14 @@
 {
   "componente": "lip",
   "meta": {
-  "fase": 1,
-  "fonte": "bncc+mc",
-  "data": "2026-10-28",
-  "autor": "agente:lip-fase1",
-  "estado": "planejamento",
-  "revisaoPedagogica": "pendente",
-  "origem": "componentes.zip"
-},
+    "fase": 1,
+    "fonte": "bncc+mc",
+    "data": "2026-10-28",
+    "autor": "agente:lip-fase1",
+    "estado": "planejamento",
+    "revisaoPedagogica": "pendente",
+    "origem": "componentes.zip"
+  },
   "niveis": {
     "EF01": {
       "unidades": [
@@ -7076,7 +7076,7 @@
           "aulas": [
             {
               "id": "lip.ef06.lingua_texto_e_contexto.contexto_de_producao",
-              "titulo": "O Contexto de Produção do Texto",
+              "titulo": "Contexto e escolhas no relato de fatos",
               "bncc": [
                 "EF06LP01"
               ],
@@ -7090,16 +7090,35 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    163,
+                    165
+                  ],
+                  "paginasImpressas": "161, 163",
+                  "uso": "Delimitação curricular das quatro habilidades do piloto."
+                },
+                {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "paginasPdf": [
+                    8,
+                    9,
+                    10,
+                    11,
+                    12
+                  ],
+                  "paginasImpressas": "11–15",
+                  "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Relacionar o texto com quem o produziu, para quem, com que finalidade e onde circula."
+              "resumo": "Relacionar o texto com quem o produziu, para quem, com que finalidade e onde circula.",
+              "complementar": false,
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.lingua_texto_e_contexto.contexto_de_circulacao",
-              "titulo": "Circulação e Recepção dos Textos",
+              "titulo": "Notícia, reportagem e opinião em circulação",
               "bncc": [
                 "EF06LP02"
               ],
@@ -7113,16 +7132,35 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    163,
+                    165
+                  ],
+                  "paginasImpressas": "161, 163",
+                  "uso": "Delimitação curricular das quatro habilidades do piloto."
+                },
+                {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "paginasPdf": [
+                    8,
+                    9,
+                    10,
+                    11,
+                    12
+                  ],
+                  "paginasImpressas": "11–15",
+                  "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer como suporte e circulação afetam a forma e o sentido do texto."
+              "resumo": "Reconhecer como suporte e circulação afetam a forma e o sentido do texto.",
+              "complementar": false,
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao",
-              "titulo": "Variedades da Língua e Norma-Padrão",
+              "titulo": "Variedades da língua e preconceito linguístico",
               "bncc": [
                 "EF69LP55"
               ],
@@ -7136,16 +7174,35 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    163,
+                    165
+                  ],
+                  "paginasImpressas": "161, 163",
+                  "uso": "Delimitação curricular das quatro habilidades do piloto."
+                },
+                {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "paginasPdf": [
+                    8,
+                    9,
+                    10,
+                    11,
+                    12
+                  ],
+                  "paginasImpressas": "11–15",
+                  "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer variedades da língua falada, o conceito de norma-padrão e o preconceito linguístico."
+              "resumo": "Reconhecer variedades da língua falada, o conceito de norma-padrão e o preconceito linguístico.",
+              "complementar": false,
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao",
-              "titulo": "Usar a Norma-Padrão com Consciência",
+              "titulo": "Revisão consciente em situações formais",
               "bncc": [
                 "EF69LP56"
               ],
@@ -7159,19 +7216,36 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    163,
+                    165
+                  ],
+                  "paginasImpressas": "161, 163",
+                  "uso": "Delimitação curricular das quatro habilidades do piloto."
+                },
+                {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "paginasPdf": [
+                    8,
+                    9,
+                    10,
+                    11,
+                    12
+                  ],
+                  "paginasImpressas": "11–15",
+                  "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Fazer uso consciente das regras da norma-padrão em situações que a exigem."
+              "resumo": "Fazer uso consciente das regras da norma-padrão em situações que a exigem.",
+              "complementar": false,
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.lingua_texto_e_contexto.comunicacao_e_linguagem",
-              "titulo": "Comunicação, Linguagem e Língua",
-              "bncc": [
-                "EF06LP01"
-              ],
+              "titulo": "Comunicação e recursos de linguagem",
+              "bncc": [],
               "areas": [
                 "linguagens",
                 "lingua_portuguesa"
@@ -7182,12 +7256,31 @@
               ],
               "fontes": [
                 {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    163,
+                    165
+                  ],
+                  "paginasImpressas": "161, 163",
+                  "uso": "Delimitação curricular das quatro habilidades do piloto."
+                },
+                {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "paginasPdf": [
+                    8,
+                    9,
+                    10,
+                    11,
+                    12
+                  ],
+                  "paginasImpressas": "11–15",
+                  "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Distinguir linguagem verbal e não verbal e o papel da língua na comunicação."
+              "resumo": "Distinguir linguagem verbal e não verbal e o papel da língua na comunicação.",
+              "complementar": true,
+              "estado": "piloto"
             }
           ]
         },

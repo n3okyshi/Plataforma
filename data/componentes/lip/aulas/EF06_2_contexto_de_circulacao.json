@@ -1,0 +1,98 @@
+{
+  "id": "lip.ef06.lingua_texto_e_contexto.contexto_de_circulacao",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 2,
+  "unidade": "Língua, Texto e Contexto",
+  "titulo": "Notícia, reportagem e opinião em circulação",
+  "bncc": [
+    "EF06LP02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Monte um quadro com finalidade, informação e relação com o fato para os três textos do dossiê. Proponha uma pergunta de reportagem e uma tese de artigo sobre a notícia, sem apresentar opinião como dado apurado."
+    ],
+    "resumo": "Notícia, reportagem e opinião em circulação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Um fato, diferentes gêneros</h2><p>A notícia apresenta um acontecimento relevante para um público e procura informar o que ocorreu, quem se envolveu, onde e quando, com fontes verificáveis. Uma reportagem pode partir desse fato e aprofundá-lo com contexto, entrevistas e dados. Um artigo de opinião defende uma posição por argumentos; um editorial expressa a posição editorial do veículo. Notícias também têm escolhas, mas não se confundem com textos que assumem como propósito principal defender uma tese.</p><h3>Dossiê fictício da biblioteca</h3><p><strong>Notícia:</strong> “Escola Horizonte amplia horário da biblioteca. No primeiro dia, 18 estudantes utilizaram a hora extra, segundo o registro de entrada.”</p><p><strong>Reportagem:</strong> “Quem consegue usar a biblioteca? A equipe ouviu estudantes dos dois turnos, comparou horários e consultou registros de quatro semanas para investigar barreiras de acesso.”</p><p><strong>Artigo de opinião:</strong> “Defendo ampliar também a divulgação: um novo horário só ajuda quando as turmas sabem que ele existe.”</p><p>A notícia é central nesse conjunto porque apresenta o acontecimento que dá origem ao aprofundamento e ao debate. A reportagem não é apenas uma notícia maior: sua investigação amplia o contexto. O artigo propõe uma posição sobre o fato.</p><h3>Suporte e recepção</h3><p>Os três podem circular em jornal impresso ou digital. O suporte não define sozinho o gênero. Ao receber uma captura de tela, procure autoria, data, veículo e publicação completa; cortes podem retirar contexto. Uma chamada de rede social não substitui a leitura da notícia.</p><h3>Exemplo comentado</h3><p>Para saber o que mudou na biblioteca, comece pela notícia; para investigar o acesso de diferentes grupos, procure a reportagem; para conhecer uma defesa de mudança, leia o artigo. Depois confronte as informações.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "contexto_de_circulacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual texto aprofunda a notícia ao investigar barreiras de acesso?",
+      "alternativas": [
+        "A reportagem",
+        "O código de entrada",
+        "O título isolado",
+        "A lista de presença"
+      ],
+      "correta": 0,
+      "explicacao": "A reportagem acrescenta entrevistas, contexto e dados ao acontecimento.",
+      "bncc": [
+        "EF06LP02"
+      ]
+    },
+    {
+      "id": "contexto_de_circulacao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Monte um quadro com finalidade, informação e relação com o fato para os três textos do dossiê. Proponha uma pergunta de reportagem e uma tese de artigo sobre a notícia, sem apresentar opinião como dado apurado.",
+      "gabarito": "Notícia informa ampliação e uso; reportagem investiga acesso com fontes e período maior; artigo defende divulgação. Pergunta possível: quais horários atendem aos dois turnos? Tese possível: a divulgação precisa alcançar todas as turmas.",
+      "rubrica": [
+        "Distinguir informar, aprofundar e argumentar.",
+        "Relacionar os três gêneros ao mesmo acontecimento.",
+        "Diferenciar proposta opinativa de informação apurada."
+      ],
+      "bncc": [
+        "EF06LP02"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        163,
+        165
+      ],
+      "paginasImpressas": "161, 163",
+      "uso": "Delimitação curricular das quatro habilidades do piloto."
+    },
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "paginasImpressas": "11–15",
+      "uso": "Referência sobre comunicação e variação; abordagem autoral distingue norma-padrão de variedades e não hierarquiza falantes. Textos jornalísticos são simulações autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; homologação docente e aplicação pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}
