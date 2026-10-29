@@ -5,33 +5,119 @@
   "ordem": 8,
   "unidade": "Operações com números naturais",
   "titulo": "Multiplicação de Números Naturais",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver situações de grupos iguais e arranjos retangulares com estratégias distributivas.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Resolver situações de grupos iguais e arranjos retangulares com estratégias distributivas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Multiplicação de Números Naturais</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: aplicar a tabuada, algoritmo da multiplicação e usar multiplicação em problemas reais.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Algoritmo: multiplique por cada algarismo e some deslocando de acordo com as casas (multiplicação em coluna).</p>\n<div class=\"mt-4 p-4 bg-white dark:bg-gray-800 rounded shadow\">\n  <strong>Exemplo:</strong>\n  <p>  213\n  <br>×  14\n  <br>=  213 × 10 + 213 × 4 = 2130 + 852 = 2982</p>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade 5 — Calcule</label>\n  <p>Calcule 124 × 6 = ?</p>\n  <input id=\"atividade-multiplicacao-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Qual é 25 × 12?</p>\n  <div>\n    <button class=\"btn\">300</button>\n    <button class=\"btn\">250</button>\n    <button class=\"btn\">320</button>\n  </div>\n</div>\n    "
+        "html": "<h2>Multiplicação de Números Naturais</h2><h3>O que vamos aprender</h3><p>Resolver situações de grupos iguais e arranjos retangulares com estratégias distributivas.</p><h3>Ideias e relações</h3><p>A multiplicação relaciona grupos de mesmo tamanho, disposições em linhas e colunas e algumas contagens de possibilidades. Em 6 × 24, os fatores são 6 e 24, e o produto é 144. A propriedade distributiva permite decompor um fator: 6 × (20 + 4) = 6 × 20 + 6 × 4. Nos naturais, trocar a ordem dos fatores conserva o produto; multiplicar por 1 conserva o número e por zero produz zero. É importante identificar o que representa cada fator no contexto.</p><h3>Exemplo resolvido</h3><p>Seis caixas com 24 canetas têm 6 × 24 = 6 × 20 + 6 × 4 = 120 + 24 = 144 canetas. Outra representação é desenhar seis linhas com 24 posições.</p><h3>Atenção ao raciocínio</h3><p>Grupos de tamanhos diferentes não podem ser representados por uma única multiplicação sem outra organização.</p><h3>Investigue, construa ou elabore</h3><p>Uma sala tem 8 fileiras de 15 cadeiras. Represente a organização e calcule sem usar o algoritmo tradicional.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "multiplicacao",
+      "algoritmo"
+    ],
+    "errosComuns": [
+      "Grupos de tamanhos diferentes não podem ser representados por uma única multiplicação sem outra organização."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "multiplicacao_de_numeros_naturais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Seis caixas com 24 canetas cada contêm quantas canetas?",
+      "alternativas": [
+        "30",
+        "124",
+        "144",
+        "164"
+      ],
+      "correta": 2,
+      "explicacao": "A distributiva fornece 6 × 20 + 6 × 4 = 144."
+    },
+    {
+      "id": "multiplicacao_de_numeros_naturais.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Uma sala tem 8 fileiras de 15 cadeiras. Represente a organização e calcule sem usar o algoritmo tradicional.",
+      "gabarito": "8 × 15 = 8 × (10 + 5) = 80 + 40 = 120 cadeiras. O desenho deve manter oito grupos iguais de quinze.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "8 × 15 = 8 × (10 + 5) = 80 + 40 = 120 cadeiras. O desenho deve manter oito grupos iguais de quinze.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "multiplicacao",
+    "algoritmo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34,
+        35,
+        36
+      ],
+      "paginasImpressas": "37, 38, 39",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa"
+  ],
+  "proximosPassos": [
+    "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais"
+  ]
 }

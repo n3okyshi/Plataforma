@@ -4739,7 +4739,8 @@
               "id": "mat.ef06.ponto_de_partida.diagnostico_e_retomada",
               "titulo": "Diagnóstico e Retomada",
               "bncc": [
-                "EF06MA01"
+                "EF06MA01",
+                "EF06MA03"
               ],
               "areas": [
                 "matematica",
@@ -4751,26 +4752,128 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "11-19"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "10-26"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    14,
+                    29,
+                    32
+                  ],
+                  "paginasImpressas": "17, 32, 35",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Retomar leitura, escrita e comparação de números antes de avançar no 6º ano."
+              "resumo": "Retomar leitura, escrita e comparação de números antes de avançar no 6º ano.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao",
-          "titulo": "Números Naturais e Sistemas de Numeração",
+          "titulo": "Números naturais e sistemas de numeração",
           "aulas": [
             {
+              "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia",
+              "titulo": "Números naturais: um pouco de história",
+              "bncc": [
+                "EF06MA02"
+              ],
+              "areas": [
+                "matematica",
+                "numeros_e_operacoes"
+              ],
+              "tags": [
+                "sistema_decimal",
+                "historia_da_matematica"
+              ],
+              "fontes": [
+                {
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                  ],
+                  "paginasImpressas": "11-17",
+                  "uso": "Referência conceitual; explicações e questões do piloto são autorais."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    302,
+                    303
+                  ],
+                  "paginasImpressas": "300-301",
+                  "uso": "Objetos de conhecimento e habilidades EF06MA01/EF06MA02; recorte de números naturais."
+                }
+              ],
+              "legado": true,
+              "resumo": "Comparar o sistema decimal com outros sistemas de numeração e sua história.",
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais",
+              "titulo": "Onde usamos os números naturais",
+              "bncc": [
+                "EF06MA01"
+              ],
+              "areas": [
+                "matematica",
+                "numeros_e_operacoes"
+              ],
+              "tags": [
+                "numeros_naturais",
+                "cotidiano"
+              ],
+              "fontes": [
+                {
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                  ],
+                  "paginasImpressas": "11-17",
+                  "uso": "Referência conceitual; explicações e questões do piloto são autorais."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    302,
+                    303
+                  ],
+                  "paginasImpressas": "300-301",
+                  "uso": "Objetos de conhecimento e habilidades EF06MA01/EF06MA02; recorte de números naturais."
+                }
+              ],
+              "legado": true,
+              "resumo": "Reconhecer os números naturais em contextos de contagem, medida, código e ordem.",
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
               "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
-              "titulo": "Números Naturais e Sistema Decimal",
+              "titulo": "Números naturais e sistema decimal",
               "bncc": [
                 "EF06MA01",
                 "EF06MA02"
@@ -4786,80 +4889,40 @@
               "fontes": [
                 {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "11-19"
+                  "paginasPdf": [
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                  ],
+                  "paginasImpressas": "11-17",
+                  "uso": "Referência conceitual; explicações e questões do piloto são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "27-35"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    302,
+                    303
+                  ],
+                  "paginasImpressas": "300-301",
+                  "uso": "Objetos de conhecimento e habilidades EF06MA01/EF06MA02; recorte de números naturais."
                 }
               ],
               "legado": true,
               "resumo": "Comparar, ordenar e ler números naturais e decimais finitos usando a reta numérica.",
-              "estado": "piloto"
-            },
-            {
-              "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia",
-              "titulo": "Números Naturais: um Pouco de História",
-              "bncc": [
-                "EF06MA02"
-              ],
-              "areas": [
-                "matematica",
-                "numeros_e_operacoes"
-              ],
-              "tags": [
-                "sistema_decimal",
-                "historia_da_matematica"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "11-14"
-                },
-                {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "27-30"
-                }
-              ],
-              "legado": true,
-              "resumo": "Comparar o sistema decimal com outros sistemas de numeração e sua história.",
-              "estado": "piloto"
-            },
-            {
-              "id": "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais",
-              "titulo": "Onde Usamos os Números Naturais",
-              "bncc": [
-                "EF06MA01"
-              ],
-              "areas": [
-                "matematica",
-                "numeros_e_operacoes"
-              ],
-              "tags": [
-                "numeros_naturais",
-                "cotidiano"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "11-19"
-                },
-                {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "35-41"
-                }
-              ],
-              "legado": true,
-              "resumo": "Reconhecer os números naturais em contextos de contagem, medida, código e ordem.",
-              "estado": "piloto"
+              "estado": "piloto",
+              "complementar": false
             }
           ],
           "estado": "piloto",
-          "cobertura": "Recorte de naturais; a parte de decimais finitos das habilidades permanece na unidade Decimais."
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.operacoes_com_numeros_naturais",
-          "titulo": "Operações com Números Naturais",
+          "titulo": "Operações com números naturais",
           "aulas": [
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.adicao_de_numeros_naturais",
@@ -4877,16 +4940,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-35"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "46-49"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    29,
+                    30
+                  ],
+                  "paginasImpressas": "32, 33",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Resolver adições com números naturais usando cálculo mental, estimativa e algoritmo."
+              "resumo": "Resolver adições com números naturais usando cálculo mental, estimativa e algoritmo.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.subtracao_de_numeros_naturais",
@@ -4904,16 +4978,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "35-37"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "49-51"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    32,
+                    33
+                  ],
+                  "paginasImpressas": "35, 36",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Resolver subtrações com números naturais e conferir resultados por estimativa."
+              "resumo": "Resolver subtrações com números naturais e conferir resultados por estimativa.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa",
@@ -4931,16 +5016,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-37"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "51-52"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    29,
+                    32
+                  ],
+                  "paginasImpressas": "32, 35",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Usar a relação inversa entre adição e subtração para resolver e conferir cálculos."
+              "resumo": "Usar a relação inversa entre adição e subtração para resolver e conferir cálculos.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_de_numeros_naturais",
@@ -4958,16 +5054,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "37-40"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "54-57"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    34,
+                    35,
+                    36
+                  ],
+                  "paginasImpressas": "37, 38, 39",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Resolver multiplicações com fatores de vários algarismos e estimar produtos."
+              "resumo": "Resolver multiplicações com fatores de vários algarismos e estimar produtos.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais",
@@ -4985,16 +5093,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "40-43"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "59-63"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    37,
+                    38,
+                    39
+                  ],
+                  "paginasImpressas": "40, 41, 42",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Resolver divisões exatas e não exatas e interpretar quociente e resto."
+              "resumo": "Resolver divisões exatas e não exatas e interpretar quociente e resto.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_e_divisao_operacao_inversa",
@@ -5012,16 +5132,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "37-43"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "62-63"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    37,
+                    38
+                  ],
+                  "paginasImpressas": "40, 41",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Usar a multiplicação para conferir divisões e completar igualdades."
+              "resumo": "Usar a multiplicação para conferir divisões e completar igualdades.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais",
@@ -5039,16 +5170,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "43-48"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "63-67"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    40,
+                    41,
+                    42
+                  ],
+                  "paginasImpressas": "43, 44, 45",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Escrever multiplicações de fatores iguais como potências e calcular seus valores."
+              "resumo": "Escrever multiplicações de fatores iguais como potências e calcular seus valores.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.calculo_mental",
@@ -5066,16 +5209,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-52"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "68-70"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    29,
+                    32,
+                    34
+                  ],
+                  "paginasImpressas": "32, 35, 37",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Desenvolver estratégias de cálculo mental com as quatro operações."
+              "resumo": "Desenvolver estratégias de cálculo mental com as quatro operações.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado",
@@ -5093,16 +5248,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "17-19"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "68-70"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    14,
+                    29
+                  ],
+                  "paginasImpressas": "17, 32",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Aproximar números para múltiplos de potências de 10 e avaliar se um resultado é razoável."
+              "resumo": "Aproximar números para múltiplos de potências de 10 e avaliar se um resultado é razoável.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao",
@@ -5120,16 +5286,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "49-52"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "67-68"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    46,
+                    47,
+                    48
+                  ],
+                  "paginasImpressas": "49, 50, 51",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Calcular expressões respeitando a ordem das operações, parênteses e potências."
+              "resumo": "Calcular expressões respeitando a ordem das operações, parênteses e potências.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes",
@@ -5147,16 +5325,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "32-52"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "70-71"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    37,
+                    46
+                  ],
+                  "paginasImpressas": "40, 49",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Resolver e elaborar problemas com números naturais escolhendo estratégias adequadas."
+              "resumo": "Resolver e elaborar problemas com números naturais escolhendo estratégias adequadas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades",
@@ -5174,23 +5363,32 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "151-156"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "88-93"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    148,
+                    154
+                  ],
+                  "paginasImpressas": "151, 157",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Reconhecer que a igualdade e a desigualdade se mantêm ao operar os dois membros."
+              "resumo": "Reconhecer que a igualdade e a desigualdade se mantêm ao operar os dois membros.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.operacoes_com_numeros_naturais.a_ideia_de_funcao",
               "titulo": "A Ideia de Função",
-              "bncc": [
-                "EF06MA14"
-              ],
+              "bncc": [],
               "areas": [
                 "matematica",
                 "algebra"
@@ -5202,21 +5400,26 @@
               "fontes": [
                 {
                   "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "297-303"
-                },
-                {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "88-90"
+                  "paginasPdf": [
+                    294,
+                    295
+                  ],
+                  "paginasImpressas": "297, 298",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Perceber relações de dependência entre duas grandezas em situações simples."
+              "resumo": "Perceber relações de dependência entre duas grandezas em situações simples.",
+              "estado": "piloto",
+              "complementar": true
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.multiplos_e_divisores",
-          "titulo": "Múltiplos e Divisores",
+          "titulo": "Múltiplos e divisores",
           "aulas": [
             {
               "id": "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
@@ -5235,22 +5438,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "56-60"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "56-58"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    53,
+                    54
+                  ],
+                  "paginasImpressas": "56, 57",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Relacionar as expressões é múltiplo de e é divisor de em situações numéricas."
+              "resumo": "Relacionar as expressões é múltiplo de e é divisor de em situações numéricas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
               "titulo": "Múltiplos de um Número Natural",
               "bncc": [
-                "EF06MA05"
+                "EF06MA05",
+                "EF06MA06"
               ],
               "areas": [
                 "matematica",
@@ -5262,21 +5477,33 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "56-57"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "56-58"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    66,
+                    67
+                  ],
+                  "paginasImpressas": "69, 70",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Gerar e reconhecer múltiplos de um número natural e suas regularidades."
+              "resumo": "Gerar e reconhecer múltiplos de um número natural e suas regularidades.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
               "titulo": "Divisores de um Número Natural",
               "bncc": [
+                "EF06MA05",
                 "EF06MA06"
               ],
               "areas": [
@@ -5289,16 +5516,30 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "56-61"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "56-60"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    53,
+                    54,
+                    55,
+                    56,
+                    57
+                  ],
+                  "paginasImpressas": "56, 57, 58, 59, 60",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Encontrar todos os divisores de um número e usar critérios de divisibilidade."
+              "resumo": "Encontrar todos os divisores de um número e usar critérios de divisibilidade.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.multiplos_e_divisores.numero_primo",
@@ -5316,22 +5557,36 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "61-66"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "58-60"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    58,
+                    59,
+                    60
+                  ],
+                  "paginasImpressas": "61, 62, 63",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Classificar números naturais em primos e compostos justificando pela quantidade de divisores."
+              "resumo": "Classificar números naturais em primos e compostos justificando pela quantidade de divisores.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.decimais",
-          "titulo": "Números Decimais",
+          "titulo": "Decimais",
           "aulas": [
             {
               "id": "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
@@ -5350,22 +5605,36 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "98-109"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "27-33"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    95,
+                    96,
+                    97
+                  ],
+                  "paginasImpressas": "98, 99, 100",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Compreender como as regras do sistema decimal se estendem aos números decimais."
+              "resumo": "Compreender como as regras do sistema decimal se estendem aos números decimais.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.decimais.decimo_centesimo_e_milesimo",
               "titulo": "Décimo, Centésimo e Milésimo",
               "bncc": [
-                "EF06MA01"
+                "EF06MA01",
+                "EF06MA02",
+                "EF06MA08"
               ],
               "areas": [
                 "matematica",
@@ -5377,16 +5646,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "98-109"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "30-33"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    95,
+                    96,
+                    97
+                  ],
+                  "paginasImpressas": "98, 99, 100",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Identificar o valor de cada casa decimal e ler números com até três casas."
+              "resumo": "Identificar o valor de cada casa decimal e ler números com até três casas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.decimais.comparacao_entre_decimais",
@@ -5404,16 +5685,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "98-109"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "40-41"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    95,
+                    96,
+                    97
+                  ],
+                  "paginasImpressas": "98, 99, 100",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Comparar e ordenar decimais com apoio da reta numérica e do valor posicional."
+              "resumo": "Comparar e ordenar decimais com apoio da reta numérica e do valor posicional.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.decimais.operacoes_com_decimais",
@@ -5431,22 +5724,38 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "98-109"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "59-67"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    97,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102
+                  ],
+                  "paginasImpressas": "100, 101, 102, 103, 104, 105",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Resolver as quatro operações e a potenciação com números racionais na forma decimal."
+              "resumo": "Resolver as quatro operações e a potenciação com números racionais na forma decimal.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes",
               "titulo": "Outras Situações com Decimais e Operações",
               "bncc": [
-                "EF06MA11"
+                "EF06MA11",
+                "EF06MA12"
               ],
               "areas": [
                 "matematica",
@@ -5458,22 +5767,35 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "98-109"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "68-70"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    97,
+                    98,
+                    99
+                  ],
+                  "paginasImpressas": "100, 101, 102",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Resolver e elaborar problemas com decimais em contextos de medida e dinheiro."
+              "resumo": "Resolver e elaborar problemas com decimais em contextos de medida e dinheiro.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.decimais.porcentagem_na_forma_decimal",
               "titulo": "Porcentagem na Forma Decimal",
               "bncc": [
-                "EF06MA13"
+                "EF06MA13",
+                "EF06MA08"
               ],
               "areas": [
                 "matematica",
@@ -5485,22 +5807,36 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "199-206"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "31-32"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    196,
+                    197,
+                    198
+                  ],
+                  "paginasImpressas": "199, 200, 201",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Relacionar porcentagens a decimais e calcular percentuais sem regra de três."
+              "resumo": "Relacionar porcentagens a decimais e calcular percentuais sem regra de três.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.fracoes_e_porcentagem",
-          "titulo": "Frações e Porcentagem",
+          "titulo": "Frações e porcentagem",
           "aulas": [
             {
               "id": "mat.ef06.fracoes_e_porcentagem.ideias_associadas_a_fracao",
@@ -5518,16 +5854,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "74-84"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "74-80"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    71,
+                    72,
+                    73
+                  ],
+                  "paginasImpressas": "74, 75, 76",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Compreender a fração como parte de um inteiro e como resultado de uma divisão."
+              "resumo": "Compreender a fração como parte de um inteiro e como resultado de uma divisão.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.fracoes_e_porcentagem.fracoes_equivalentes",
@@ -5545,16 +5893,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "85-89"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "80-84"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    74,
+                    75,
+                    76
+                  ],
+                  "paginasImpressas": "77, 78, 79",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Identificar e construir frações equivalentes por ampliação e simplificação."
+              "resumo": "Identificar e construir frações equivalentes por ampliação e simplificação.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.fracoes_e_porcentagem.comparando_fracoes",
@@ -5572,16 +5932,31 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "85-89"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "84-85"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    77,
+                    78,
+                    79,
+                    80,
+                    81,
+                    82
+                  ],
+                  "paginasImpressas": "80, 81, 82, 83, 84, 85",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Comparar e ordenar frações com mesmo denominador, mesmo numerador ou por equivalência."
+              "resumo": "Comparar e ordenar frações com mesmo denominador, mesmo numerador ou por equivalência.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.fracoes_e_porcentagem.adicao_e_subtracao_de_fracoes",
@@ -5600,16 +5975,29 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "85-95"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "85-92"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    82,
+                    83,
+                    84,
+                    85
+                  ],
+                  "paginasImpressas": "85, 86, 87, 88",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Somar e subtrair frações com denominadores iguais e com denominadores diferentes."
+              "resumo": "Somar e subtrair frações com denominadores iguais e com denominadores diferentes.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.fracoes_e_porcentagem.fracao_de_uma_quantidade",
@@ -5627,22 +6015,35 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "92-95"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "85-88"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    71,
+                    72,
+                    89
+                  ],
+                  "paginasImpressas": "74, 75, 92",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": false,
-              "resumo": "Calcular a fração de uma quantidade com resultado natural, com e sem calculadora."
+              "resumo": "Calcular a fração de uma quantidade com resultado natural, com e sem calculadora.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal",
               "titulo": "Formas Fracionária e Decimal",
               "bncc": [
-                "EF06MA08"
+                "EF06MA08",
+                "EF06MA01"
               ],
               "areas": [
                 "matematica",
@@ -5654,16 +6055,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "74-84"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "74-80"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    95,
+                    96,
+                    97
+                  ],
+                  "paginasImpressas": "98, 99, 100",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": false,
-              "resumo": "Passar da representação fracionária para a decimal e vice-versa em números racionais positivos."
+              "resumo": "Passar da representação fracionária para a decimal e vice-versa em números racionais positivos.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.fracoes_e_porcentagem.fracao_em_ampliacao_e_reducao_de_figuras_planas",
@@ -5681,16 +6094,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "342-347"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-84"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    170,
+                    171
+                  ],
+                  "paginasImpressas": "173, 174",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Usar frações para descrever a razão entre lados de figuras ampliadas ou reduzidas."
+              "resumo": "Usar frações para descrever a razão entre lados de figuras ampliadas ou reduzidas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.fracoes_e_porcentagem.porcentagem",
@@ -5708,22 +6132,36 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "199-206"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "31-32"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    196,
+                    197,
+                    198
+                  ],
+                  "paginasImpressas": "199, 200, 201",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Resolver problemas de porcentagem com estratégias variadas, sem regra de três."
+              "resumo": "Resolver problemas de porcentagem com estratégias variadas, sem regra de três.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.angulos_e_poligonos",
-          "titulo": "Ângulos e Polígonos",
+          "titulo": "Ângulos e polígonos",
           "aulas": [
             {
               "id": "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano",
@@ -5741,16 +6179,30 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-331"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "67-70"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    322,
+                    323,
+                    324,
+                    325,
+                    326
+                  ],
+                  "paginasImpressas": "325, 326, 327, 328, 329",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Reconhecer ponto, reta e plano como entes geométricos e suas representações."
+              "resumo": "Reconhecer ponto, reta e plano como entes geométricos e suas representações.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes",
@@ -5768,16 +6220,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "358-359"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "68-70"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    329,
+                    355
+                  ],
+                  "paginasImpressas": "332, 358",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Identificar posições relativas entre retas e construir paralelas e perpendiculares."
+              "resumo": "Identificar posições relativas entre retas e construir paralelas e perpendiculares.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.angulos_e_poligonos.angulos",
@@ -5795,16 +6258,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "331-336"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "72-76"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    328,
+                    330,
+                    333
+                  ],
+                  "paginasImpressas": "331, 333, 336",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Reconhecer a abertura do ângulo como grandeza associada às figuras geométricas."
+              "resumo": "Reconhecer a abertura do ângulo como grandeza associada às figuras geométricas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.angulos_e_poligonos.poligonos",
@@ -5822,22 +6297,35 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "342-347"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-84"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    339,
+                    340,
+                    341
+                  ],
+                  "paginasImpressas": "342, 343, 344",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Nomear e comparar polígonos por lados, vértices e ângulos, classificando em regulares e não regulares."
+              "resumo": "Nomear e comparar polígonos por lados, vértices e ângulos, classificando em regulares e não regulares.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno",
               "titulo": "Região Plana e Contorno",
               "bncc": [
-                "EF06MA18"
+                "EF06MA18",
+                "EF06MA24"
               ],
               "areas": [
                 "matematica",
@@ -5849,16 +6337,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "342-347"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-84"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    112,
+                    113
+                  ],
+                  "paginasImpressas": "115, 116",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Distinguir a região plana do seu contorno e usar isso na classificação de polígonos."
+              "resumo": "Distinguir a região plana do seu contorno e usar isso na classificação de polígonos.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.angulos_e_poligonos.plano_cartesiano",
@@ -5876,16 +6375,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "300-303"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "41-42"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    297,
+                    298
+                  ],
+                  "paginasImpressas": "300, 301",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Associar pares ordenados a pontos do 1º quadrante, como vértices de polígonos."
+              "resumo": "Associar pares ordenados a pontos do 1º quadrante, como vértices de polígonos.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas",
@@ -5903,18 +6413,31 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "342-347"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-84"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    170,
+                    171
+                  ],
+                  "paginasImpressas": "173, 174",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Construir figuras semelhantes em malhas quadriculadas, no plano cartesiano ou com tecnologia."
+              "resumo": "Construir figuras semelhantes em malhas quadriculadas, no plano cartesiano ou com tecnologia.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.figuras_planas_e_construcoes",
@@ -5936,22 +6459,35 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "347-355"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "76-80"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    344,
+                    345,
+                    346
+                  ],
+                  "paginasImpressas": "347, 348, 349",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": false,
-              "resumo": "Classificar triângulos pelas medidas dos lados e pela abertura dos ângulos."
+              "resumo": "Classificar triângulos pelas medidas dos lados e pela abertura dos ângulos.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes",
               "titulo": "Quadriláteros e suas Classes",
               "bncc": [
-                "EF06MA20"
+                "EF06MA20",
+                "EF06MA22"
               ],
               "areas": [
                 "matematica",
@@ -5963,16 +6499,29 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "367-372"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "80-84"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    364,
+                    365,
+                    366,
+                    367
+                  ],
+                  "paginasImpressas": "367, 368, 369, 370",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": false,
-              "resumo": "Classificar quadriláteros por lados e ângulos e reconhecer inclusões entre as classes."
+              "resumo": "Classificar quadriláteros por lados e ângulos e reconhecer inclusões entre as classes.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.figuras_planas_e_construcoes.angulos_com_transferidor",
@@ -5990,16 +6539,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "333-336"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "72-76"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    330,
+                    331,
+                    333
+                  ],
+                  "paginasImpressas": "333, 334, 336",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": false,
-              "resumo": "Medir aberturas de ângulos com transferidor e com recursos digitais."
+              "resumo": "Medir aberturas de ângulos com transferidor e com recursos digitais.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.figuras_planas_e_construcoes.angulo_de_visao_e_contextos",
@@ -6017,22 +6578,36 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "331-336"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "72-76"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    328,
+                    330,
+                    333
+                  ],
+                  "paginasImpressas": "331, 333, 336",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": false,
-              "resumo": "Resolver problemas com a noção de ângulo em contextos como ângulo de visão."
+              "resumo": "Resolver problemas com a noção de ângulo em contextos como ângulo de visão.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.solidos_geometricos",
-          "titulo": "Sólidos Geométricos",
+          "titulo": "Sólidos geométricos",
           "aulas": [
             {
               "id": "mat.ef06.solidos_geometricos.solidos_geometricos",
@@ -6050,16 +6625,26 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-76"
+                  "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+                  "paginasPdf": [
+                    66,
+                    67
+                  ],
+                  "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
                 }
               ],
               "legado": true,
-              "resumo": "Reconhecer e nomear sólidos geométricos e seus elementos principais."
+              "resumo": "Reconhecer e nomear sólidos geométricos e seus elementos principais.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.solidos_geometricos.prismas_e_piramides",
@@ -6077,23 +6662,31 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-76"
+                  "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+                  "paginasPdf": [
+                    66,
+                    67
+                  ],
+                  "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
                 }
               ],
               "legado": true,
-              "resumo": "Relacionar vértices, faces e arestas de prismas e pirâmides com o polígono da base."
+              "resumo": "Relacionar vértices, faces e arestas de prismas e pirâmides com o polígono da base.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.solidos_geometricos.principais_corpos_redondos",
               "titulo": "Principais Corpos Redondos",
-              "bncc": [
-                "EF06MA17"
-              ],
+              "bncc": [],
               "areas": [
                 "matematica",
                 "geometria"
@@ -6104,22 +6697,26 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "325-330"
-                },
-                {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-76"
+                  "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+                  "paginasPdf": [
+                    66,
+                    67
+                  ],
+                  "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
                 }
               ],
               "legado": true,
-              "resumo": "Reconhecer cilindro, cone e esfera e comparar suas superfícies com as dos poliedros."
+              "resumo": "Reconhecer cilindro, cone e esfera e comparar suas superfícies com as dos poliedros.",
+              "estado": "piloto",
+              "complementar": true
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.grandezas_geometricas",
-          "titulo": "Grandezas Geométricas",
+          "titulo": "Grandezas geométricas",
           "aulas": [
             {
               "id": "mat.ef06.grandezas_geometricas.grandeza_comprimento",
@@ -6137,16 +6734,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "112-115"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-76"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    109,
+                    110,
+                    111
+                  ],
+                  "paginasImpressas": "112, 113, 114",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Medir comprimentos e converter unidades em problemas do cotidiano."
+              "resumo": "Medir comprimentos e converter unidades em problemas do cotidiano.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.grandezas_geometricas.grandeza_perimetro",
@@ -6165,16 +6774,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "115-121"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-76"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    112,
+                    113
+                  ],
+                  "paginasImpressas": "115, 116",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Calcular perímetros e analisar como variam quando o lado do quadrado muda."
+              "resumo": "Calcular perímetros e analisar como variam quando o lado do quadrado muda.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.grandezas_geometricas.grandeza_area",
@@ -6193,23 +6813,35 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "115-121"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-76"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    112,
+                    113,
+                    114
+                  ],
+                  "paginasImpressas": "115, 116, 117",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Calcular áreas de retângulos e triângulos e comparar com o perímetro."
+              "resumo": "Calcular áreas de retângulos e triângulos e comparar com o perímetro.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas",
               "titulo": "Perímetro e Área em Vistas Aéreas e Plantas Baixas",
               "bncc": [
                 "EF06MA28",
-                "EF06MA29"
+                "EF06MA24"
               ],
               "areas": [
                 "matematica",
@@ -6222,22 +6854,35 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "115-121"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-76"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    109,
+                    112
+                  ],
+                  "paginasImpressas": "112, 115",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Interpretar e desenhar plantas baixas simples usando perímetro e área."
+              "resumo": "Interpretar e desenhar plantas baixas simples usando perímetro e área.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.outras_grandezas_e_medidas",
-          "titulo": "Outras Grandezas e Medidas",
+          "titulo": "Outras grandezas e medidas",
           "aulas": [
             {
               "id": "mat.ef06.outras_grandezas_e_medidas.grandeza_massa",
@@ -6255,16 +6900,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "126-129"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-76"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    123,
+                    124,
+                    125
+                  ],
+                  "paginasImpressas": "126, 127, 128",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Medir massas, converter gramas e quilogramas e resolver problemas."
+              "resumo": "Medir massas, converter gramas e quilogramas e resolver problemas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade",
@@ -6282,16 +6939,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "121-126"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-76"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    120,
+                    121,
+                    122
+                  ],
+                  "paginasImpressas": "123, 124, 125",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Comparar capacidades em litros e mililitros e resolver problemas de medida."
+              "resumo": "Comparar capacidades em litros e mililitros e resolver problemas de medida.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.outras_grandezas_e_medidas.grandeza_volume",
@@ -6309,16 +6978,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "121-126"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-76"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    118,
+                    119
+                  ],
+                  "paginasImpressas": "121, 122",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Reconhecer o volume de sólidos e medi-lo por contagem de cubos unitários."
+              "resumo": "Reconhecer o volume de sólidos e medi-lo por contagem de cubos unitários.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.outras_grandezas_e_medidas.mais_grandezas",
@@ -6336,18 +7016,31 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "112-129"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "75-76"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    109,
+                    110
+                  ],
+                  "paginasImpressas": "112, 113",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": true,
-              "resumo": "Resolver problemas com tempo e temperatura e converter suas unidades."
+              "resumo": "Resolver problemas com tempo e temperatura e converter suas unidades.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.proporcionalidade_e_partilha",
@@ -6369,16 +7062,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "186-192"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "90-93"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    183,
+                    184
+                  ],
+                  "paginasImpressas": "186, 187",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": false,
-              "resumo": "Dividir uma quantidade em duas partes desiguais com relações aditivas e multiplicativas."
+              "resumo": "Dividir uma quantidade em duas partes desiguais com relações aditivas e multiplicativas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.proporcionalidade_e_partilha.razao_e_proporcao_no_cotidiano",
@@ -6396,16 +7100,29 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "173-182"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "90-93"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    170,
+                    171,
+                    172,
+                    183
+                  ],
+                  "paginasImpressas": "173, 174, 175, 186",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": false,
-              "resumo": "Usar razões para comparar quantidades em receitas, mapas e situações de compra."
+              "resumo": "Usar razões para comparar quantidades em receitas, mapas e situações de compra.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.proporcionalidade_e_partilha.problemas_de_partilha_e_razao",
@@ -6423,22 +7140,36 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "186-192"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 },
                 {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "90-93"
+                  "documento": "MC_MATEM_EF.pdf",
+                  "paginasPdf": [
+                    148,
+                    170,
+                    183
+                  ],
+                  "paginasImpressas": "151, 173, 186",
+                  "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
                 }
               ],
               "legado": false,
-              "resumo": "Resolver e elaborar problemas de repartição com razões dadas entre as partes."
+              "resumo": "Resolver e elaborar problemas de repartição com razões dadas entre as partes.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.probabilidade_e_pesquisa_estatistica",
-          "titulo": "Probabilidade e Pesquisa Estatística",
+          "titulo": "Probabilidade e pesquisa estatística",
           "aulas": [
             {
               "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica",
@@ -6456,16 +7187,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "183-186"
-                },
-                {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "38-41"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    307
+                  ],
+                  "paginasImpressas": "305",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 }
               ],
               "legado": true,
-              "resumo": "Planejar e coletar dados de uma pesquisa e registrá-los em planilha eletrônica."
+              "resumo": "Planejar e coletar dados de uma pesquisa e registrá-los em planilha eletrônica.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade",
@@ -6483,16 +7216,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "183-186"
-                },
-                {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "38-41"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    307
+                  ],
+                  "paginasImpressas": "305",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 }
               ],
               "legado": true,
-              "resumo": "Calcular probabilidade como razão entre casos favoráveis e possíveis nas três formas."
+              "resumo": "Calcular probabilidade como razão entre casos favoráveis e possíveis nas três formas.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos",
@@ -6510,22 +7245,25 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "183-186"
-                },
-                {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "38-41"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    307
+                  ],
+                  "paginasImpressas": "305",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Identificar variáveis, frequências, título, eixos, legendas e fontes em gráficos."
+              "resumo": "Identificar variáveis, frequências, título, eixos, legendas e fontes em gráficos.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano",
               "titulo": "Interpretação de Dados do Cotidiano",
               "bncc": [
-                "EF06MA32"
+                "EF06MA32",
+                "EF06MA31"
               ],
               "areas": [
                 "matematica",
@@ -6537,18 +7275,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "183-186"
-                },
-                {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "38-41"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    307
+                  ],
+                  "paginasImpressas": "305",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Interpretar dados sobre ambiente, consumo e trânsito em tabelas e gráficos."
+              "resumo": "Interpretar dados sobre ambiente, consumo e trânsito em tabelas e gráficos.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         },
         {
           "id": "mat.ef06.fluxogramas_e_algoritmos",
@@ -6570,16 +7312,18 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "56-60"
-                },
-                {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "36-37"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    303
+                  ],
+                  "paginasImpressas": "301",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Construir um fluxograma que decide se um número natural é par ou ímpar."
+              "resumo": "Construir um fluxograma que decide se um número natural é par ou ímpar.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano",
@@ -6597,22 +7341,25 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "183-186"
-                },
-                {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "36-37"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    307
+                  ],
+                  "paginasImpressas": "305",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Interpretar fluxogramas simples e as relações entre os objetos representados."
+              "resumo": "Interpretar fluxogramas simples e as relações entre os objetos representados.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento",
               "titulo": "Algoritmo de Deslocamento no Plano",
               "bncc": [
-                "EF06MA23"
+                "EF06MA23",
+                "EF06MA16"
               ],
               "areas": [
                 "matematica",
@@ -6624,18 +7371,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_MATEM_EF.pdf",
-                  "pagina": "300-303"
-                },
-                {
-                  "documento": "EDIT-Desafios-da-matematica-Matematica-6-ano.pdf",
-                  "pagina": "41-42"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    305
+                  ],
+                  "paginasImpressas": "303",
+                  "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
                 }
               ],
               "legado": false,
-              "resumo": "Escrever um algoritmo passo a passo para deslocar um objeto no plano cartesiano."
+              "resumo": "Escrever um algoritmo passo a passo para deslocar um objeto no plano cartesiano.",
+              "estado": "piloto",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "piloto",
+          "cobertura": "Conteúdo e avaliações disponíveis em lote para testes; domínio das habilidades exige observar as produções e construções do estudante."
         }
       ]
     },

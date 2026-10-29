@@ -2,36 +2,121 @@
   "id": "mat.ef06.outras_grandezas_e_medidas.grandeza_volume",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 49,
+  "ordem": 56,
   "unidade": "Outras grandezas e medidas",
   "titulo": "Grandeza Volume",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA24"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Determinar volumes de blocos por contagem de cubos unitários e composição de camadas.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Determinar volumes de blocos por contagem de cubos unitários e composição de camadas.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Volume</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Noção de volume como o <strong>espaço ocupado</strong> por um corpo tridimensional.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧊 Cubinhos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Introdução intuitiva através da contagem de cubinhos empilhados (unidades cúbicas).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Grandeza Volume</h2><h3>O que vamos aprender</h3><p>Determinar volumes de blocos por contagem de cubos unitários e composição de camadas.</p><h3>Ideias e relações</h3><p>Volume mede o espaço ocupado por um corpo. Escolhendo um cubinho como unidade, podemos contar quantos cubinhos formam um sólido sem sobreposição ou lacunas. Um bloco retangular pode ser organizado em camadas iguais; a contagem de uma camada e do número de camadas permite contar o todo. Também podemos decompor um sólido em blocos menores e somar as contagens, desde que as partes não se sobreponham. A unidade de volume é cúbica, diferente da unidade quadrada usada para área.</p><h3>Exemplo resolvido</h3><p>Uma camada tem três fileiras com quatro cubinhos, totalizando 12. Se o bloco possui duas camadas iguais, ele tem 24 cubinhos. Um cubinho de aresta 1 cm ocupa 1 cm³; nesse caso o volume é 24 cm³.</p><h3>Atenção ao raciocínio</h3><p>Contar apenas os cubos visíveis pode deixar cubos internos de fora. Descreva também as camadas ocultas.</p><h3>Investigue, construa ou elabore</h3><p>Desenhe ou monte um sólido com duas partes sem sobreposição: um bloco de 2×2×2 cubinhos e outro de 3×1×2. Conte por camadas e explique a soma.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "volume",
+      "unidades_de_medida"
+    ],
+    "errosComuns": [
+      "Contar apenas os cubos visíveis pode deixar cubos internos de fora. Descreva também as camadas ocultas."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "grandeza_volume.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Duas camadas iguais, cada uma com 3 fileiras de 4 cubinhos, têm ao todo:",
+      "alternativas": [
+        "9 cubinhos",
+        "12 cubinhos",
+        "18 cubinhos",
+        "24 cubinhos"
+      ],
+      "correta": 3,
+      "explicacao": "Cada camada tem 12 cubinhos; duas camadas somam 24."
+    },
+    {
+      "id": "grandeza_volume.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe ou monte um sólido com duas partes sem sobreposição: um bloco de 2×2×2 cubinhos e outro de 3×1×2. Conte por camadas e explique a soma.",
+      "gabarito": "A primeira parte tem 8 cubinhos, a segunda tem 6 e o conjunto tem 14. A justificativa deve explicitar as camadas e a ausência de sobreposição.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "A primeira parte tem 8 cubinhos, a segunda tem 6 e o conjunto tem 14. A justificativa deve explicitar as camadas e a ausência de sobreposição.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "volume",
+    "unidades_de_medida"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        118,
+        119
+      ],
+      "paginasImpressas": "121, 122",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade"
+  ],
+  "proximosPassos": [
+    "mat.ef06.outras_grandezas_e_medidas.mais_grandezas"
+  ]
 }

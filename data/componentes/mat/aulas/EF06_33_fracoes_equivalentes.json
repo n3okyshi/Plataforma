@@ -2,36 +2,122 @@
   "id": "mat.ef06.fracoes_e_porcentagem.fracoes_equivalentes",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 33,
+  "ordem": 29,
   "unidade": "Frações e porcentagem",
   "titulo": "Frações Equivalentes",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA07"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construir frações equivalentes mantendo a mesma quantidade representada.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Construir frações equivalentes mantendo a mesma quantidade representada.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Frações Equivalentes</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Compreensão de que frações escritas com números diferentes podem representar a <strong>mesma quantidade</strong>.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🛠️ Como obter?</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Multiplicando ou dividindo tanto o numerador quanto o denominador pelo mesmo número.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Frações Equivalentes</h2><h3>O que vamos aprender</h3><p>Construir frações equivalentes mantendo a mesma quantidade representada.</p><h3>Ideias e relações</h3><p>Frações equivalentes representam o mesmo número, embora usem numeradores e denominadores diferentes. Se subdividirmos cada metade de uma unidade em três partes iguais, a metade passa a ocupar três das seis partes: 1/2 = 3/6. Multiplicar numerador e denominador pelo mesmo inteiro positivo mantém a fração; dividi-los por um divisor comum positivo também mantém. Simplificar não é alterar a quantidade: é escolher outra escrita. Uma fração está irredutível quando numerador e denominador não têm divisor comum maior que 1.</p><h3>Exemplo resolvido</h3><p>12/18 pode ser simplificada dividindo ambos os termos por 6: 12/18 = 2/3. A correspondência pode ser conferida multiplicando 2 e 3 por 6.</p><h3>Atenção ao raciocínio</h3><p>Somar o mesmo número aos dois termos não garante equivalência: 1/2 é diferente de 2/3.</p><h3>Investigue, construa ou elabore</h3><p>Represente 2/3 e 4/6 em retângulos iguais e explique a equivalência. Simplifique 15/25 e justifique a divisão escolhida.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "fracoes",
+      "equivalencia"
+    ],
+    "errosComuns": [
+      "Somar o mesmo número aos dois termos não garante equivalência: 1/2 é diferente de 2/3."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "fracoes_equivalentes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual fração é equivalente a 3/4?",
+      "alternativas": [
+        "6/7",
+        "6/8",
+        "4/5",
+        "3/8"
+      ],
+      "correta": 1,
+      "explicacao": "Multiplicar numerador e denominador por 2 dá 6/8."
+    },
+    {
+      "id": "fracoes_equivalentes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Represente 2/3 e 4/6 em retângulos iguais e explique a equivalência. Simplifique 15/25 e justifique a divisão escolhida.",
+      "gabarito": "Os desenhos devem ocupar a mesma parte da unidade. 15/25 = 3/5 ao dividir numerador e denominador por 5.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Os desenhos devem ocupar a mesma parte da unidade. 15/25 = 3/5 ao dividir numerador e denominador por 5.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fracoes",
+    "equivalencia"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        74,
+        75,
+        76
+      ],
+      "paginasImpressas": "77, 78, 79",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.fracoes_e_porcentagem.ideias_associadas_a_fracao"
+  ],
+  "proximosPassos": [
+    "mat.ef06.fracoes_e_porcentagem.comparando_fracoes"
+  ]
 }

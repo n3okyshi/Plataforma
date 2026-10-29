@@ -2,36 +2,121 @@
   "id": "mat.ef06.decimais.porcentagem_na_forma_decimal",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 43,
+  "ordem": 27,
   "unidade": "Decimais",
   "titulo": "Porcentagem na Forma Decimal",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA13",
+    "EF06MA08"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Converter porcentagens em frações centesimais e decimais para calcular partes de um todo.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Converter porcentagens em frações centesimais e decimais para calcular partes de um todo.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Porcentagem e Decimais</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Cálculo de porcentagens utilizando a forma decimal.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">💡 Truque:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Calcular 20% de algo é o mesmo que multiplicar esse algo por <strong>0,20</strong>. Isso facilita o uso de calculadoras.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Porcentagem na Forma Decimal</h2><h3>O que vamos aprender</h3><p>Converter porcentagens em frações centesimais e decimais para calcular partes de um todo.</p><h3>Ideias e relações</h3><p>Porcentagem indica uma razão com referência a cem: 25% = 25/100 = 0,25. Para calcular 25% de uma quantidade, podemos dividir o todo em quatro partes iguais ou multiplicar por 0,25. As representações são diferentes formas de expressar a mesma parte do todo. Descontos e aumentos devem indicar sua base de cálculo. Calcular o valor de um desconto não é o mesmo que descobrir o preço final: depois de encontrar o desconto, subtraia-o do preço inicial.</p><h3>Exemplo resolvido</h3><p>Um livro de R$ 80,00 tem desconto de 15%. Dez por cento são R$ 8,00 e cinco por cento são R$ 4,00. O desconto é R$ 12,00 e o preço final é R$ 68,00. Em decimal: 80 × 0,15 = 12.</p><h3>Atenção ao raciocínio</h3><p>15% corresponde a 0,15, e não a 15 ou a 1,5. Sempre identifique o todo de referência.</p><h3>Investigue, construa ou elabore</h3><p>Um produto de R$ 120,00 recebe aumento de 10%. Calcule mentalmente o aumento e o preço final. Expresse 10% como fração e decimal.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "porcentagem",
+      "decimais"
+    ],
+    "errosComuns": [
+      "15% corresponde a 0,15, e não a 15 ou a 1,5. Sempre identifique o todo de referência."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "porcentagem_na_forma_decimal.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é o preço final de um produto de R$ 80,00 com desconto de 15%?",
+      "alternativas": [
+        "R$ 12,00",
+        "R$ 65,00",
+        "R$ 68,00",
+        "R$ 92,00"
+      ],
+      "correta": 2,
+      "explicacao": "15% de 80 são 12; 80 − 12 = 68."
+    },
+    {
+      "id": "porcentagem_na_forma_decimal.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Um produto de R$ 120,00 recebe aumento de 10%. Calcule mentalmente o aumento e o preço final. Expresse 10% como fração e decimal.",
+      "gabarito": "10% = 10/100 = 0,10. O aumento é R$ 12,00 e o preço final é R$ 132,00. O aumento deve ser somado ao preço inicial.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "10% = 10/100 = 0,10. O aumento é R$ 12,00 e o preço final é R$ 132,00. O aumento deve ser somado ao preço inicial.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "porcentagem",
+    "decimais"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        196,
+        197,
+        198
+      ],
+      "paginasImpressas": "199, 200, 201",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes"
+  ],
+  "proximosPassos": []
 }

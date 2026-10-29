@@ -1,0 +1,121 @@
+{
+  "id": "mat.ef06.figuras_planas_e_construcoes.angulo_de_visao_e_contextos",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 46,
+  "unidade": "Figuras Planas e Construções",
+  "titulo": "Ângulos em Situações Reais",
+  "bncc": [
+    "EF06MA26"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Resolver situações de giro e de abertura angular em contextos reais.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Resolver situações de giro e de abertura angular em contextos reais.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Ângulos em Situações Reais</h2><h3>O que vamos aprender</h3><p>Resolver situações de giro e de abertura angular em contextos reais.</p><h3>Ideias e relações</h3><p>Ângulos aparecem em giros de direção, abertura de portas e campos de visão. Uma volta completa corresponde a 360°, meia volta a 180° e um quarto de volta a 90°. Para resolver uma situação, identifique a posição inicial, o sentido do giro e a abertura percorrida. O ângulo de visão pode ser representado pela abertura entre duas direções de observação a partir de um mesmo ponto. Mover o observador pode alterar essa abertura; aumentar apenas o comprimento dos traços desenhados não a altera.</p><h3>Exemplo resolvido</h3><p>Uma pessoa inicialmente voltada para o norte gira 90° no sentido horário e passa a olhar para leste. Se girar mais 90° no mesmo sentido, estará voltada para sul, totalizando 180°.</p><h3>Atenção ao raciocínio</h3><p>Informar somente “90°” pode ser insuficiente para descrever uma mudança de direção: o sentido do giro também importa.</p><h3>Investigue, construa ou elabore</h3><p>Descreva dois giros que levem uma pessoa voltada para leste a olhar para oeste. Compare sentidos e medidas.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "angulos",
+      "problemas"
+    ],
+    "errosComuns": [
+      "Informar somente “90°” pode ser insuficiente para descrever uma mudança de direção: o sentido do giro também importa."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "angulo_de_visao_e_contextos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um quarto de volta corresponde a:",
+      "alternativas": [
+        "45°",
+        "90°",
+        "180°",
+        "360°"
+      ],
+      "correta": 1,
+      "explicacao": "360° divididos em quatro partes iguais resultam em 90°."
+    },
+    {
+      "id": "angulo_de_visao_e_contextos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Descreva dois giros que levem uma pessoa voltada para leste a olhar para oeste. Compare sentidos e medidas.",
+      "gabarito": "Uma meia volta de 180° no sentido horário ou anti-horário produz a mesma orientação final. Também são possíveis sequências equivalentes explicitadas corretamente.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Uma meia volta de 180° no sentido horário ou anti-horário produz a mesma orientação final. Também são possíveis sequências equivalentes explicitadas corretamente.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "angulos",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        328,
+        330,
+        333
+      ],
+      "paginasImpressas": "331, 333, 336",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.figuras_planas_e_construcoes.angulos_com_transferidor"
+  ],
+  "proximosPassos": []
+}

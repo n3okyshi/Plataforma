@@ -100,7 +100,10 @@ const arena = {
             const r = s.respostasUsuario[i];
             return `<li class="my-5 p-4 rounded-xl border"><h2 class="font-bold">${i + 1}. ${views.escapeHTML(q.pergunta)}</h2><p>Sua resposta: ${views.escapeHTML(q.opcoes[r.respostaDada])} — ${r.acertou ? 'correta' : 'rever'}</p><p>Resposta esperada: ${views.escapeHTML(q.opcoes[q.correta])}</p><p>${views.escapeHTML(q.explicacao)}</p></li>`;
         }).join('');
-        container.innerHTML = `<section class="max-w-3xl mx-auto p-6"><h1 class="text-3xl font-bold">Resultado: ${nota.toFixed(1)}</h1><p>${s.acertos} de ${total} respostas corretas.</p><h2 class="text-xl font-bold mt-6">Correção comentada</h2><ol>${revisao}</ol><button data-action="nav" data-arg="map" class="px-6 py-3 rounded-xl bg-brand-blue text-white">Voltar à trilha</button></section>`;
+        const pratica = s.tipo === 'prova' ? s.prova?.avaliacaoPratica : null;
+        const etapaPratica = pratica ? `<section class="my-8 p-5 rounded-xl border"><h2 class="text-2xl font-bold">Etapa prática: ${views.escapeHTML(pratica.titulo)}</h2><p class="my-3">${views.escapeHTML(pratica.enunciado)}</p><h3 class="font-bold">Critérios para observar sua produção</h3><ul class="list-disc pl-5">${pratica.rubrica.map(c => `<li>${views.escapeHTML(c)}</li>`).join('')}</ul><p class="my-3">A nota acima considera os itens objetivos. Esta etapa precisa da sua produção e da avaliação do professor; não recebe nota automática.</p><details><summary class="font-bold cursor-pointer">Orientações para autoavaliação</summary><p>${views.escapeHTML(pratica.gabarito)}</p></details></section>` : '';
+        const tituloResultado = pratica ? 'Resultado da parte objetiva' : 'Resultado';
+        container.innerHTML = `<section class="max-w-3xl mx-auto p-6"><h1 class="text-3xl font-bold">${tituloResultado}: ${nota.toFixed(1)}</h1><p>${s.acertos} de ${total} respostas corretas.</p><h2 class="text-xl font-bold mt-6">Correção comentada</h2><ol>${revisao}</ol>${etapaPratica}<button data-action="nav" data-arg="map" class="px-6 py-3 rounded-xl bg-brand-blue text-white">Voltar à trilha</button></section>`;
         window.scrollTo(0, 0);
     }
 };

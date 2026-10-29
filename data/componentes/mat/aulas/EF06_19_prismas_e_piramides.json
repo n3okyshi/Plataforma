@@ -2,36 +2,120 @@
   "id": "mat.ef06.solidos_geometricos.prismas_e_piramides",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 19,
+  "ordem": 48,
   "unidade": "Sólidos geométricos",
   "titulo": "Prismas e Pirâmides",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA17"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Relacionar quantidades de faces, vértices e arestas ao número de lados da base.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Relacionar quantidades de faces, vértices e arestas ao número de lados da base.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Prismas e Pirâmides</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Estudo detalhado dos poliedros, incluindo a contagem de faces, vértices e arestas.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔍 Como identificar:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Prismas:</strong> Duas bases iguais e faces laterais retangulares.</li>\n                <li><strong>Pirâmides:</strong> Uma base e faces laterais triangulares que convergem para um vértice.</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Prismas e Pirâmides</h2><h3>O que vamos aprender</h3><p>Relacionar quantidades de faces, vértices e arestas ao número de lados da base.</p><h3>Ideias e relações</h3><p>Um prisma tem duas bases poligonais congruentes e paralelas; suas faces laterais são paralelogramos. Uma pirâmide tem uma base poligonal e faces laterais triangulares que se encontram em um vértice fora do plano da base. Se a base tem n lados, podemos contar em um prisma: 2n vértices, 3n arestas e n + 2 faces. Em uma pirâmide: n + 1 vértices, 2n arestas e n + 1 faces. Essas relações devem ser reconstruídas observando bases e ligações, não apenas decoradas.</p><svg viewBox=\"0 0 440 240\" role=\"img\" aria-label=\"Prisma de base quadrangular: oito vértices, doze arestas e seis faces.\" style=\"max-width:100%;color:inherit\"><title>Prisma de base quadrangular: oito vértices, doze arestas e seis faces.</title><g fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><path d=\"M100 90H260V200H100ZM100 90 165 40H325V150L260 200M260 90 325 40\"/><path d=\"M100 200 165 150H325M165 40V150\" stroke-dasharray=\"5 5\"/></g><g fill=\"currentColor\" font-size=\"15\"><text x=\"85\" y=\"225\">As linhas tracejadas indicam arestas ocultas.</text></g></svg><h3>Exemplo resolvido</h3><p>Para um prisma de base pentagonal, cada base tem cinco vértices e cinco arestas. São 10 vértices, 10 arestas nas bases e 5 laterais, totalizando 15 arestas; as faces são 5 laterais e 2 bases, total 7.</p><h3>Atenção ao raciocínio</h3><p>A pirâmide de base quadrada não tem quatro faces no total: são quatro laterais e uma base.</p><h3>Investigue, construa ou elabore</h3><p>Monte uma tabela para prismas e pirâmides de bases triangular, quadrangular e pentagonal. Explique os padrões encontrados.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "figuras_espaciais",
+      "prismas"
+    ],
+    "errosComuns": [
+      "A pirâmide de base quadrada não tem quatro faces no total: são quatro laterais e uma base."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "prismas_e_piramides.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um prisma de base pentagonal possui quantas arestas?",
+      "alternativas": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correta": 2,
+      "explicacao": "São dez arestas das duas bases e cinco ligando os vértices correspondentes: quinze."
+    },
+    {
+      "id": "prismas_e_piramides.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Monte uma tabela para prismas e pirâmides de bases triangular, quadrangular e pentagonal. Explique os padrões encontrados.",
+      "gabarito": "Prismas: (V,A,F) = (6,9,5), (8,12,6), (10,15,7). Pirâmides: (4,6,4), (5,8,5), (6,10,6). Justificar as contagens pelas partes do sólido.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Prismas: (V,A,F) = (6,9,5), (8,12,6), (10,15,7). Pirâmides: (4,6,4), (5,8,5), (6,10,6). Justificar as contagens pelas partes do sólido.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "figuras_espaciais",
+    "prismas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "Material-do-prof.-6o-ano-EF-MAT-2o-tri-2026.pdf",
+      "paginasPdf": [
+        66,
+        67
+      ],
+      "uso": "Padrões de contagem dos elementos de prismas e pirâmides; distinção do aprofundamento sobre corpos redondos."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.solidos_geometricos.solidos_geometricos"
+  ],
+  "proximosPassos": [
+    "mat.ef06.solidos_geometricos.principais_corpos_redondos"
+  ]
 }

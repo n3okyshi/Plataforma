@@ -2,36 +2,122 @@
   "id": "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 16,
+  "ordem": 14,
   "unidade": "Operações com números naturais",
-  "titulo": "Expressões Numéricas envolvendo as 4 operações e Potenciação",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Expressões Numéricas com as Quatro Operações e Potenciação",
+  "bncc": [
+    "EF06MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver expressões respeitando agrupamentos e a prioridade das operações.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Resolver expressões respeitando agrupamentos e a prioridade das operações.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Expressões Numéricas</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: aplicar prioridade das operações (parênteses, expoentes, multiplicação/divisão, adição/subtração) para calcular expressões corretamente.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Lembre: primeiro resolvemos parênteses, depois expoentes, depois multiplicação/divisão (esquerda→direita), finalmente adição/subtração.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Resolva</label>\n  <p>Calcule: 2 + 3 × (4 + 1) − 2²</p>\n  <input id=\"atividade-expr-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n    "
+        "html": "<h2>Expressões Numéricas com as Quatro Operações e Potenciação</h2><h3>O que vamos aprender</h3><p>Resolver expressões respeitando agrupamentos e a prioridade das operações.</p><h3>Ideias e relações</h3><p>Uma expressão registra várias operações em uma só escrita. Resolva os agrupamentos de dentro para fora. Dentro de cada agrupamento, faça primeiro as potências; depois multiplicações e divisões na ordem em que aparecem, da esquerda para a direita; por último, adições e subtrações também da esquerda para a direita. Multiplicação não tem prioridade sobre divisão, nem adição sobre subtração. Parênteses podem mudar a situação representada e, portanto, mudar o resultado.</p><h3>Exemplo resolvido</h3><p>Em 24 ÷ 3 × 2 + 2³, calculamos a potência: 24 ÷ 3 × 2 + 8. Depois, da esquerda para a direita: 8 × 2 + 8 = 16 + 8 = 24.</p><h3>Atenção ao raciocínio</h3><p>Não calcule 3 × 2 antes de 24 ÷ 3 nesse exemplo; as duas operações têm a mesma prioridade.</p><h3>Investigue, construa ou elabore</h3><p>Calcule 30 − 12 ÷ 3 + 2² e descreva a sequência de operações. Crie outra expressão que tenha o mesmo resultado.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "expressoes_numericas",
+      "potenciacao"
+    ],
+    "errosComuns": [
+      "Não calcule 3 × 2 antes de 24 ÷ 3 nesse exemplo; as duas operações têm a mesma prioridade."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto vale 18 − 2 × (3 + 4)?",
+      "alternativas": [
+        "112",
+        "4",
+        "11",
+        "16"
+      ],
+      "correta": 1,
+      "explicacao": "Primeiro 3 + 4 = 7; depois 2 × 7 = 14; por fim, 18 − 14 = 4."
+    },
+    {
+      "id": "expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Calcule 30 − 12 ÷ 3 + 2² e descreva a sequência de operações. Crie outra expressão que tenha o mesmo resultado.",
+      "gabarito": "2² = 4 e 12 ÷ 3 = 4; então 30 − 4 + 4 = 30. A expressão criada deve ser diferente e resultar em 30.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "2² = 4 e 12 ÷ 3 = 4; então 30 − 4 + 4 = 30. A expressão criada deve ser diferente e resultar em 30.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "expressoes_numericas",
+    "potenciacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        46,
+        47,
+        48
+      ],
+      "paginasImpressas": "49, 50, 51",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado"
+  ],
+  "proximosPassos": [
+    "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes"
+  ]
 }

@@ -135,6 +135,9 @@
         "piloto",
         "publicado"
       ]
+    },
+    "avaliacaoPratica": {
+      "$ref": "atividade.schema.json"
     }
   }
 }

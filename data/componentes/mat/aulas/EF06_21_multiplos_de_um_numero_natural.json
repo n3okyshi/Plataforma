@@ -2,36 +2,122 @@
   "id": "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 21,
+  "ordem": 19,
   "unidade": "Múltiplos e divisores",
-  "titulo": "Múltiplos de um número natural",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Múltiplos de um Número Natural",
+  "bncc": [
+    "EF06MA05",
+    "EF06MA06"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construir sequências de múltiplos e resolver encontros periódicos por listagem.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Construir sequências de múltiplos e resolver encontros periódicos por listagem.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Múltiplos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conceito de múltiplo como o resultado da multiplicação de um número natural por outro.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">♾️ Infinito:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Trabalhamos a ideia de sequências infinitas. Exemplo M(3): {0, 3, 6, 9, ...}.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Múltiplos de um Número Natural</h2><h3>O que vamos aprender</h3><p>Construir sequências de múltiplos e resolver encontros periódicos por listagem.</p><h3>Ideias e relações</h3><p>Obtemos múltiplos de um natural multiplicando-o por 0, 1, 2, 3 e assim por diante. Os múltiplos de 6 começam por 0, 6, 12, 18, 24, 30, …; não existe último múltiplo de um natural positivo. Para encontrar múltiplos comuns, podemos comparar listas. Em problemas de acontecimentos periódicos, o primeiro encontro futuro corresponde ao menor múltiplo comum positivo dos intervalos, desde que os eventos partam juntos. Não é necessário começar por uma regra mecânica de fatoração.</p><h3>Exemplo resolvido</h3><p>Uma luz pisca a cada 4 segundos e outra a cada 6. Partindo juntas, as listas 4, 8, 12 e 6, 12 mostram que voltarão a piscar juntas após 12 segundos.</p><h3>Atenção ao raciocínio</h3><p>O zero é múltiplo de qualquer natural, mas representa o instante inicial nesse problema, não um novo encontro futuro.</p><h3>Investigue, construa ou elabore</h3><p>Dois ônibus partem juntos e retornam ao ponto a cada 8 e 12 minutos. Use listas para descobrir o primeiro retorno conjunto.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "multiplos",
+      "sequencias"
+    ],
+    "errosComuns": [
+      "O zero é múltiplo de qualquer natural, mas representa o instante inicial nesse problema, não um novo encontro futuro."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "multiplos_de_um_numero_natural.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Duas luzes piscam a cada 4 e 6 segundos. Após o início conjunto, o primeiro encontro ocorre em:",
+      "alternativas": [
+        "2 s",
+        "10 s",
+        "12 s",
+        "24 s"
+      ],
+      "correta": 2,
+      "explicacao": "12 é o primeiro múltiplo comum positivo de 4 e 6."
+    },
+    {
+      "id": "multiplos_de_um_numero_natural.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Dois ônibus partem juntos e retornam ao ponto a cada 8 e 12 minutos. Use listas para descobrir o primeiro retorno conjunto.",
+      "gabarito": "Múltiplos positivos de 8: 8, 16, 24; de 12: 12, 24. O primeiro retorno conjunto acontece em 24 minutos.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Múltiplos positivos de 8: 8, 16, 24; de 12: 12, 24. O primeiro retorno conjunto acontece em 24 minutos.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "multiplos",
+    "sequencias"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        66,
+        67
+      ],
+      "paginasImpressas": "69, 70",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural"
+  ],
+  "proximosPassos": [
+    "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural"
+  ]
 }

@@ -2,36 +2,119 @@
   "id": "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 31,
+  "ordem": 42,
   "unidade": "Ângulos e polígonos",
   "titulo": "Ampliação e Redução de Figuras Planas",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA21"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Construir figuras semelhantes em malha ou plano cartesiano mantendo razões entre comprimentos.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Construir figuras semelhantes em malha ou plano cartesiano mantendo razões entre comprimentos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Ampliação e Redução</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Uso de malhas quadriculadas para desenhar figuras em tamanhos diferentes.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔍 O que muda?</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Observamos a <strong>conservação da forma e dos ângulos</strong>, enquanto as medidas dos lados sofrem alteração proporcional.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Ampliação e Redução de Figuras Planas</h2><h3>O que vamos aprender</h3><p>Construir figuras semelhantes em malha ou plano cartesiano mantendo razões entre comprimentos.</p><h3>Ideias e relações</h3><p>Para ampliar uma figura sem deformá-la, multiplique todos os comprimentos correspondentes pelo mesmo fator positivo e preserve os ângulos. Em uma malha, podemos contar segmentos para construir a nova figura. Uma ampliação de fator 2 transforma um retângulo de 3 por 2 em outro de 6 por 4. A área não é multiplicada apenas pelo mesmo fator dos comprimentos: a contagem de quadradinhos passa de 6 para 24. Para coordenadas ampliadas em relação à origem, multiplicar x e y pelo mesmo fator produz a construção desejada.</p><h3>Exemplo resolvido</h3><p>O triângulo com vértices (1,1), (3,1) e (1,2), ampliado por fator 2 em relação à origem, passa a ter vértices (2,2), (6,2) e (2,4).</p><h3>Atenção ao raciocínio</h3><p>Aumentar somente a largura de uma figura não garante semelhança.</p><h3>Investigue, construa ou elabore</h3><p>Desenhe em malha uma figura em L, indique seus vértices e faça uma ampliação de fator 2. Confira os comprimentos e os ângulos correspondentes.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "ampliacao",
+      "malhas"
+    ],
+    "errosComuns": [
+      "Aumentar somente a largura de uma figura não garante semelhança."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "ampliacao_e_reducao_de_figuras_planas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um retângulo 3 por 2 é ampliado pelo fator 2. Suas medidas ficam:",
+      "alternativas": [
+        "5 e 4",
+        "6 e 2",
+        "6 e 4",
+        "3 e 4"
+      ],
+      "correta": 2,
+      "explicacao": "Os dois comprimentos são multiplicados pelo mesmo fator: 3×2 = 6 e 2×2 = 4."
+    },
+    {
+      "id": "ampliacao_e_reducao_de_figuras_planas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe em malha uma figura em L, indique seus vértices e faça uma ampliação de fator 2. Confira os comprimentos e os ângulos correspondentes.",
+      "gabarito": "A construção deve dobrar todos os comprimentos, inclusive os segmentos do recorte do L, e preservar seus ângulos. Aceitar diferentes figuras iniciais corretamente ampliadas.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "A construção deve dobrar todos os comprimentos, inclusive os segmentos do recorte do L, e preservar seus ângulos. Aceitar diferentes figuras iniciais corretamente ampliadas.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "ampliacao",
+    "malhas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        171
+      ],
+      "paginasImpressas": "173, 174",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.angulos_e_poligonos.plano_cartesiano"
+  ],
+  "proximosPassos": []
 }

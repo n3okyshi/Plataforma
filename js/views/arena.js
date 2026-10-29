@@ -39,6 +39,7 @@ views.extend({
                         <h2 class="text-2xl md:text-3xl font-black text-gray-800 dark:text-white leading-tight drop-shadow-sm">
                             ${safePergunta}
                         </h2>
+                        ${questao.complementar ? '<p class="mt-3 text-sm font-bold">Conteúdo complementar</p>' : ''}
                     </div>
 
                     <div id="options-grid" class="grid grid-cols-1 md:grid-cols-2 gap-5">

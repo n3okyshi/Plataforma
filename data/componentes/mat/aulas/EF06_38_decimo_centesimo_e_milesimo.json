@@ -2,36 +2,124 @@
   "id": "mat.ef06.decimais.decimo_centesimo_e_milesimo",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 38,
+  "ordem": 23,
   "unidade": "Decimais",
   "titulo": "Décimo, Centésimo e Milésimo",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA01",
+    "EF06MA02",
+    "EF06MA08"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Relacionar décimos, centésimos e milésimos a frações de denominador dez, cem e mil.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Relacionar décimos, centésimos e milésimos a frações de denominador dez, cem e mil.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Números Decimais</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Expansão do sistema de numeração para ordens menores que a unidade.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📏 Após a vírgula:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Compreensão do valor posicional: décimo (0,1), centésimo (0,01) e milésimo (0,001).</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Décimo, Centésimo e Milésimo</h2><h3>O que vamos aprender</h3><p>Relacionar décimos, centésimos e milésimos a frações de denominador dez, cem e mil.</p><h3>Ideias e relações</h3><p>Os nomes das ordens indicam quantas partes iguais formam a unidade: 1/10 = 0,1, 1/100 = 0,01 e 1/1.000 = 0,001. Dez centésimos formam um décimo, e cem milésimos formam um décimo. Ao ler 0,27 como vinte e sete centésimos, estamos contando 27 partes de tamanho 1/100. Uma malha de cem quadradinhos iguais representa uma unidade; cada quadradinho corresponde a um centésimo. É preciso manter a mesma unidade ao comparar representações.</p><h3>Exemplo resolvido</h3><p>0,375 corresponde a 375/1.000. Também pode ser decomposto em 3 décimos, 7 centésimos e 5 milésimos. Isso não significa 3 + 7 + 5 unidades.</p><h3>Atenção ao raciocínio</h3><p>0,03 são três centésimos, não três décimos. A posição determina o tamanho de cada parte.</p><h3>Investigue, construa ou elabore</h3><p>Represente 0,4, 0,04 e 0,004 como frações e explique qual é o maior, mantendo a mesma unidade.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "decimais",
+      "valor_posicional"
+    ],
+    "errosComuns": [
+      "0,03 são três centésimos, não três décimos. A posição determina o tamanho de cada parte."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "decimo_centesimo_e_milesimo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Trinta e cinco centésimos correspondem a:",
+      "alternativas": [
+        "3,5",
+        "0,35",
+        "0,035",
+        "35,0"
+      ],
+      "correta": 1,
+      "explicacao": "35/100 = 0,35: três décimos e cinco centésimos."
+    },
+    {
+      "id": "decimo_centesimo_e_milesimo.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Represente 0,4, 0,04 e 0,004 como frações e explique qual é o maior, mantendo a mesma unidade.",
+      "gabarito": "São 4/10, 4/100 e 4/1.000. O maior é 0,4: cada décimo tem dez centésimos ou cem milésimos.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "São 4/10, 4/100 e 4/1.000. O maior é 0,4: cada décimo tem dez centésimos ou cem milésimos.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "decimais",
+    "valor_posicional"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        96,
+        97
+      ],
+      "paginasImpressas": "98, 99, 100",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal"
+  ],
+  "proximosPassos": [
+    "mat.ef06.decimais.comparacao_entre_decimais"
+  ]
 }

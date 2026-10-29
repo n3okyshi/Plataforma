@@ -1523,20 +1523,44 @@
     {
       "componente": "mat",
       "nivel": "EF06",
-      "estado": "em_analise",
+      "estado": "lote_integral_para_testes",
       "observacao": "Planejamento recuperado; códigos presentes não comprovam alinhamento semântico.",
       "habilidades": [
         {
           "codigo": "EF06MA14",
           "descricao": "Reconhecer que a relação de igualdade matemática não se altera ao adicionar, subtrair, multiplicar ou dividir os seus dois membros por um mesmo número e utilizar essa noção para determinar valores desconhecidos na resolução de problemas.",
           "aulasPlanejadas": [
-            "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades",
-            "mat.ef06.operacoes_com_numeros_naturais.a_ideia_de_funcao"
+            "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA14",
+            "aulas": [
+              "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades"
+            ],
+            "atividades": [
+              "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades#igualdade_e_propriedades_das_desigualdades.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades#igualdade_e_propriedades_das_desigualdades.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.operacoes_com_numeros_naturais.treino.12"
+            ],
+            "questoesProva": [
+              "mat.ef06.operacoes_com_numeros_naturais.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.operacoes_com_numeros_naturais.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA15",
@@ -1546,34 +1570,145 @@
             "mat.ef06.proporcionalidade_e_partilha.razao_e_proporcao_no_cotidiano",
             "mat.ef06.proporcionalidade_e_partilha.problemas_de_partilha_e_razao"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.proporcionalidade_e_partilha.partilha_em_duas_partes_desiguais",
+            "mat.ef06.proporcionalidade_e_partilha.razao_e_proporcao_no_cotidiano",
+            "mat.ef06.proporcionalidade_e_partilha.problemas_de_partilha_e_razao"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.proporcionalidade_e_partilha.partilha_em_duas_partes_desiguais",
+            "mat.ef06.proporcionalidade_e_partilha.razao_e_proporcao_no_cotidiano",
+            "mat.ef06.proporcionalidade_e_partilha.problemas_de_partilha_e_razao"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA15",
+            "aulas": [
+              "mat.ef06.proporcionalidade_e_partilha.partilha_em_duas_partes_desiguais",
+              "mat.ef06.proporcionalidade_e_partilha.razao_e_proporcao_no_cotidiano",
+              "mat.ef06.proporcionalidade_e_partilha.problemas_de_partilha_e_razao"
+            ],
+            "atividades": [
+              "mat.ef06.proporcionalidade_e_partilha.partilha_em_duas_partes_desiguais#partilha_em_duas_partes_desiguais.aplicacao",
+              "mat.ef06.proporcionalidade_e_partilha.partilha_em_duas_partes_desiguais#partilha_em_duas_partes_desiguais.investigacao",
+              "mat.ef06.proporcionalidade_e_partilha.razao_e_proporcao_no_cotidiano#razao_e_proporcao_no_cotidiano.aplicacao",
+              "mat.ef06.proporcionalidade_e_partilha.razao_e_proporcao_no_cotidiano#razao_e_proporcao_no_cotidiano.investigacao",
+              "mat.ef06.proporcionalidade_e_partilha.problemas_de_partilha_e_razao#problemas_de_partilha_e_razao.aplicacao",
+              "mat.ef06.proporcionalidade_e_partilha.problemas_de_partilha_e_razao#problemas_de_partilha_e_razao.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.proporcionalidade_e_partilha.treino.01",
+              "mat.ef06.proporcionalidade_e_partilha.treino.02",
+              "mat.ef06.proporcionalidade_e_partilha.treino.03",
+              "mat.ef06.proporcionalidade_e_partilha.treino.04",
+              "mat.ef06.proporcionalidade_e_partilha.treino.05"
+            ],
+            "questoesProva": [
+              "mat.ef06.proporcionalidade_e_partilha.prova.01",
+              "mat.ef06.proporcionalidade_e_partilha.prova.02",
+              "mat.ef06.proporcionalidade_e_partilha.prova.03",
+              "mat.ef06.proporcionalidade_e_partilha.prova.04",
+              "mat.ef06.proporcionalidade_e_partilha.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.proporcionalidade_e_partilha.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA16",
           "descricao": "Associar pares ordenados de números a pontos do plano cartesiano do 1º quadrante, em situações como a localização dos vértices de um polígono.",
           "aulasPlanejadas": [
-            "mat.ef06.angulos_e_poligonos.plano_cartesiano"
+            "mat.ef06.angulos_e_poligonos.plano_cartesiano",
+            "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.angulos_e_poligonos.plano_cartesiano",
+            "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.angulos_e_poligonos.plano_cartesiano",
+            "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA16",
+            "aulas": [
+              "mat.ef06.angulos_e_poligonos.plano_cartesiano",
+              "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento"
+            ],
+            "atividades": [
+              "mat.ef06.angulos_e_poligonos.plano_cartesiano#plano_cartesiano.aplicacao",
+              "mat.ef06.angulos_e_poligonos.plano_cartesiano#plano_cartesiano.investigacao",
+              "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento#algoritmo_de_deslocamento.aplicacao",
+              "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento#algoritmo_de_deslocamento.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.angulos_e_poligonos.treino.06",
+              "mat.ef06.fluxogramas_e_algoritmos.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef06.angulos_e_poligonos.prova.02"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.angulos_e_poligonos.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA17",
           "descricao": "Quantificar e estabelecer relações entre o número de vértices, faces e arestas de prismas e pirâmides, em função do seu polígono da base, para resolver problemas e desenvolver a percepção espacial.",
           "aulasPlanejadas": [
             "mat.ef06.solidos_geometricos.solidos_geometricos",
-            "mat.ef06.solidos_geometricos.prismas_e_piramides",
-            "mat.ef06.solidos_geometricos.principais_corpos_redondos"
+            "mat.ef06.solidos_geometricos.prismas_e_piramides"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.solidos_geometricos.solidos_geometricos",
+            "mat.ef06.solidos_geometricos.prismas_e_piramides"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.solidos_geometricos.solidos_geometricos",
+            "mat.ef06.solidos_geometricos.prismas_e_piramides"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA17",
+            "aulas": [
+              "mat.ef06.solidos_geometricos.solidos_geometricos",
+              "mat.ef06.solidos_geometricos.prismas_e_piramides"
+            ],
+            "atividades": [
+              "mat.ef06.solidos_geometricos.solidos_geometricos#solidos_geometricos.aplicacao",
+              "mat.ef06.solidos_geometricos.solidos_geometricos#solidos_geometricos.investigacao",
+              "mat.ef06.solidos_geometricos.prismas_e_piramides#prismas_e_piramides.aplicacao",
+              "mat.ef06.solidos_geometricos.prismas_e_piramides#prismas_e_piramides.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.solidos_geometricos.treino.01",
+              "mat.ef06.solidos_geometricos.treino.02",
+              "mat.ef06.solidos_geometricos.treino.04",
+              "mat.ef06.solidos_geometricos.treino.05"
+            ],
+            "questoesProva": [
+              "mat.ef06.solidos_geometricos.prova.01",
+              "mat.ef06.solidos_geometricos.prova.02",
+              "mat.ef06.solidos_geometricos.prova.03",
+              "mat.ef06.solidos_geometricos.prova.04",
+              "mat.ef06.solidos_geometricos.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.solidos_geometricos.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA18",
@@ -1582,10 +1717,41 @@
             "mat.ef06.angulos_e_poligonos.poligonos",
             "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.angulos_e_poligonos.poligonos",
+            "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.angulos_e_poligonos.poligonos",
+            "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA18",
+            "aulas": [
+              "mat.ef06.angulos_e_poligonos.poligonos",
+              "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno"
+            ],
+            "atividades": [
+              "mat.ef06.angulos_e_poligonos.poligonos#poligonos.aplicacao",
+              "mat.ef06.angulos_e_poligonos.poligonos#poligonos.investigacao",
+              "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno#regiao_plana_e_contorno.aplicacao",
+              "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno#regiao_plana_e_contorno.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.angulos_e_poligonos.treino.04",
+              "mat.ef06.angulos_e_poligonos.treino.05"
+            ],
+            "questoesProva": [
+              "mat.ef06.angulos_e_poligonos.prova.01"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.angulos_e_poligonos.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA19",
@@ -1593,10 +1759,36 @@
           "aulasPlanejadas": [
             "mat.ef06.figuras_planas_e_construcoes.triangulos_e_sua_classificacao"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.figuras_planas_e_construcoes.triangulos_e_sua_classificacao"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.figuras_planas_e_construcoes.triangulos_e_sua_classificacao"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA19",
+            "aulas": [
+              "mat.ef06.figuras_planas_e_construcoes.triangulos_e_sua_classificacao"
+            ],
+            "atividades": [
+              "mat.ef06.figuras_planas_e_construcoes.triangulos_e_sua_classificacao#triangulos_e_sua_classificacao.aplicacao",
+              "mat.ef06.figuras_planas_e_construcoes.triangulos_e_sua_classificacao#triangulos_e_sua_classificacao.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.figuras_planas_e_construcoes.treino.01",
+              "mat.ef06.figuras_planas_e_construcoes.treino.05"
+            ],
+            "questoesProva": [
+              "mat.ef06.figuras_planas_e_construcoes.prova.01"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.figuras_planas_e_construcoes.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA20",
@@ -1604,10 +1796,35 @@
           "aulasPlanejadas": [
             "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA20",
+            "aulas": [
+              "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes"
+            ],
+            "atividades": [
+              "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes#quadrilateros_e_suas_classes.aplicacao",
+              "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes#quadrilateros_e_suas_classes.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.figuras_planas_e_construcoes.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef06.figuras_planas_e_construcoes.prova.02"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.figuras_planas_e_construcoes.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA21",
@@ -1616,22 +1833,94 @@
             "mat.ef06.fracoes_e_porcentagem.fracao_em_ampliacao_e_reducao_de_figuras_planas",
             "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.fracoes_e_porcentagem.fracao_em_ampliacao_e_reducao_de_figuras_planas",
+            "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.fracoes_e_porcentagem.fracao_em_ampliacao_e_reducao_de_figuras_planas",
+            "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA21",
+            "aulas": [
+              "mat.ef06.fracoes_e_porcentagem.fracao_em_ampliacao_e_reducao_de_figuras_planas",
+              "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas"
+            ],
+            "atividades": [
+              "mat.ef06.fracoes_e_porcentagem.fracao_em_ampliacao_e_reducao_de_figuras_planas#fracao_em_ampliacao_e_reducao_de_figuras_planas.aplicacao",
+              "mat.ef06.fracoes_e_porcentagem.fracao_em_ampliacao_e_reducao_de_figuras_planas#fracao_em_ampliacao_e_reducao_de_figuras_planas.investigacao",
+              "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas#ampliacao_e_reducao_de_figuras_planas.aplicacao",
+              "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas#ampliacao_e_reducao_de_figuras_planas.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.fracoes_e_porcentagem.treino.07",
+              "mat.ef06.angulos_e_poligonos.treino.07"
+            ],
+            "questoesProva": [
+              "mat.ef06.angulos_e_poligonos.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.fracoes_e_porcentagem.pratica",
+              "mat.ef06.angulos_e_poligonos.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA22",
           "descricao": "Utilizar instrumentos, como réguas e esquadros, ou softwares para representações de retas paralelas e perpendiculares e construção de quadriláteros, entre outros.",
           "aulasPlanejadas": [
             "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano",
-            "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes"
+            "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes",
+            "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano",
+            "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes",
+            "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano",
+            "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes",
+            "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA22",
+            "aulas": [
+              "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano",
+              "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes",
+              "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes"
+            ],
+            "atividades": [
+              "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano#ponto_reta_e_plano.aplicacao",
+              "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano#ponto_reta_e_plano.investigacao",
+              "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes#retas_paralelas_e_retas_concorrentes.aplicacao",
+              "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes#retas_paralelas_e_retas_concorrentes.investigacao",
+              "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes#quadrilateros_e_suas_classes.aplicacao",
+              "mat.ef06.figuras_planas_e_construcoes.quadrilateros_e_suas_classes#quadrilateros_e_suas_classes.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.angulos_e_poligonos.treino.01",
+              "mat.ef06.angulos_e_poligonos.treino.02",
+              "mat.ef06.figuras_planas_e_construcoes.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef06.angulos_e_poligonos.prova.03",
+              "mat.ef06.figuras_planas_e_construcoes.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.angulos_e_poligonos.pratica",
+              "mat.ef06.figuras_planas_e_construcoes.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA23",
@@ -1639,27 +1928,136 @@
           "aulasPlanejadas": [
             "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA23",
+            "aulas": [
+              "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento"
+            ],
+            "atividades": [
+              "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento#algoritmo_de_deslocamento.aplicacao",
+              "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento#algoritmo_de_deslocamento.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.fluxogramas_e_algoritmos.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef06.fluxogramas_e_algoritmos.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.fluxogramas_e_algoritmos.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA24",
           "descricao": "Resolver e elaborar problemas que envolvam as grandezas comprimento, massa, tempo, temperatura, área (triângulos e retângulos), capacidade e volume (sólidos formados por blocos retangulares), sem uso de fórmulas, inseridos, sempre que possível, em contextos oriundos de situações reais e/ou relacionadas às outras áreas do conhecimento.",
           "aulasPlanejadas": [
+            "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno",
             "mat.ef06.grandezas_geometricas.grandeza_comprimento",
             "mat.ef06.grandezas_geometricas.grandeza_perimetro",
             "mat.ef06.grandezas_geometricas.grandeza_area",
+            "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas",
             "mat.ef06.outras_grandezas_e_medidas.grandeza_massa",
             "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade",
             "mat.ef06.outras_grandezas_e_medidas.grandeza_volume",
             "mat.ef06.outras_grandezas_e_medidas.mais_grandezas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno",
+            "mat.ef06.grandezas_geometricas.grandeza_comprimento",
+            "mat.ef06.grandezas_geometricas.grandeza_perimetro",
+            "mat.ef06.grandezas_geometricas.grandeza_area",
+            "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas",
+            "mat.ef06.outras_grandezas_e_medidas.grandeza_massa",
+            "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade",
+            "mat.ef06.outras_grandezas_e_medidas.grandeza_volume",
+            "mat.ef06.outras_grandezas_e_medidas.mais_grandezas"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno",
+            "mat.ef06.grandezas_geometricas.grandeza_comprimento",
+            "mat.ef06.grandezas_geometricas.grandeza_perimetro",
+            "mat.ef06.grandezas_geometricas.grandeza_area",
+            "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas",
+            "mat.ef06.outras_grandezas_e_medidas.grandeza_massa",
+            "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade",
+            "mat.ef06.outras_grandezas_e_medidas.grandeza_volume",
+            "mat.ef06.outras_grandezas_e_medidas.mais_grandezas"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA24",
+            "aulas": [
+              "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno",
+              "mat.ef06.grandezas_geometricas.grandeza_comprimento",
+              "mat.ef06.grandezas_geometricas.grandeza_perimetro",
+              "mat.ef06.grandezas_geometricas.grandeza_area",
+              "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas",
+              "mat.ef06.outras_grandezas_e_medidas.grandeza_massa",
+              "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade",
+              "mat.ef06.outras_grandezas_e_medidas.grandeza_volume",
+              "mat.ef06.outras_grandezas_e_medidas.mais_grandezas"
+            ],
+            "atividades": [
+              "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno#regiao_plana_e_contorno.aplicacao",
+              "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno#regiao_plana_e_contorno.investigacao",
+              "mat.ef06.grandezas_geometricas.grandeza_comprimento#grandeza_comprimento.aplicacao",
+              "mat.ef06.grandezas_geometricas.grandeza_comprimento#grandeza_comprimento.investigacao",
+              "mat.ef06.grandezas_geometricas.grandeza_perimetro#grandeza_perimetro.aplicacao",
+              "mat.ef06.grandezas_geometricas.grandeza_perimetro#grandeza_perimetro.investigacao",
+              "mat.ef06.grandezas_geometricas.grandeza_area#grandeza_area.aplicacao",
+              "mat.ef06.grandezas_geometricas.grandeza_area#grandeza_area.investigacao",
+              "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas#as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas.aplicacao",
+              "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas#as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas.investigacao",
+              "mat.ef06.outras_grandezas_e_medidas.grandeza_massa#grandeza_massa.aplicacao",
+              "mat.ef06.outras_grandezas_e_medidas.grandeza_massa#grandeza_massa.investigacao",
+              "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade#grandeza_capacidade.aplicacao",
+              "mat.ef06.outras_grandezas_e_medidas.grandeza_capacidade#grandeza_capacidade.investigacao",
+              "mat.ef06.outras_grandezas_e_medidas.grandeza_volume#grandeza_volume.aplicacao",
+              "mat.ef06.outras_grandezas_e_medidas.grandeza_volume#grandeza_volume.investigacao",
+              "mat.ef06.outras_grandezas_e_medidas.mais_grandezas#mais_grandezas.aplicacao",
+              "mat.ef06.outras_grandezas_e_medidas.mais_grandezas#mais_grandezas.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.angulos_e_poligonos.treino.05",
+              "mat.ef06.grandezas_geometricas.treino.01",
+              "mat.ef06.grandezas_geometricas.treino.02",
+              "mat.ef06.grandezas_geometricas.treino.03",
+              "mat.ef06.grandezas_geometricas.treino.04",
+              "mat.ef06.grandezas_geometricas.treino.05",
+              "mat.ef06.outras_grandezas_e_medidas.treino.01",
+              "mat.ef06.outras_grandezas_e_medidas.treino.02",
+              "mat.ef06.outras_grandezas_e_medidas.treino.03",
+              "mat.ef06.outras_grandezas_e_medidas.treino.04",
+              "mat.ef06.outras_grandezas_e_medidas.treino.05"
+            ],
+            "questoesProva": [
+              "mat.ef06.grandezas_geometricas.prova.03",
+              "mat.ef06.grandezas_geometricas.prova.05",
+              "mat.ef06.outras_grandezas_e_medidas.prova.01",
+              "mat.ef06.outras_grandezas_e_medidas.prova.02",
+              "mat.ef06.outras_grandezas_e_medidas.prova.03",
+              "mat.ef06.outras_grandezas_e_medidas.prova.04",
+              "mat.ef06.outras_grandezas_e_medidas.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.grandezas_geometricas.pratica",
+              "mat.ef06.outras_grandezas_e_medidas.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA25",
@@ -1667,10 +2065,35 @@
           "aulasPlanejadas": [
             "mat.ef06.angulos_e_poligonos.angulos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.angulos_e_poligonos.angulos"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.angulos_e_poligonos.angulos"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA25",
+            "aulas": [
+              "mat.ef06.angulos_e_poligonos.angulos"
+            ],
+            "atividades": [
+              "mat.ef06.angulos_e_poligonos.angulos#angulos.aplicacao",
+              "mat.ef06.angulos_e_poligonos.angulos#angulos.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.angulos_e_poligonos.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef06.angulos_e_poligonos.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.angulos_e_poligonos.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA26",
@@ -1678,10 +2101,35 @@
           "aulasPlanejadas": [
             "mat.ef06.figuras_planas_e_construcoes.angulo_de_visao_e_contextos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.figuras_planas_e_construcoes.angulo_de_visao_e_contextos"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.figuras_planas_e_construcoes.angulo_de_visao_e_contextos"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA26",
+            "aulas": [
+              "mat.ef06.figuras_planas_e_construcoes.angulo_de_visao_e_contextos"
+            ],
+            "atividades": [
+              "mat.ef06.figuras_planas_e_construcoes.angulo_de_visao_e_contextos#angulo_de_visao_e_contextos.aplicacao",
+              "mat.ef06.figuras_planas_e_construcoes.angulo_de_visao_e_contextos#angulo_de_visao_e_contextos.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.figuras_planas_e_construcoes.treino.04"
+            ],
+            "questoesProva": [
+              "mat.ef06.figuras_planas_e_construcoes.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.figuras_planas_e_construcoes.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA27",
@@ -1689,10 +2137,35 @@
           "aulasPlanejadas": [
             "mat.ef06.figuras_planas_e_construcoes.angulos_com_transferidor"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.figuras_planas_e_construcoes.angulos_com_transferidor"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.figuras_planas_e_construcoes.angulos_com_transferidor"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA27",
+            "aulas": [
+              "mat.ef06.figuras_planas_e_construcoes.angulos_com_transferidor"
+            ],
+            "atividades": [
+              "mat.ef06.figuras_planas_e_construcoes.angulos_com_transferidor#angulos_com_transferidor.aplicacao",
+              "mat.ef06.figuras_planas_e_construcoes.angulos_com_transferidor#angulos_com_transferidor.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.figuras_planas_e_construcoes.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef06.figuras_planas_e_construcoes.prova.03"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.figuras_planas_e_construcoes.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA28",
@@ -1700,69 +2173,250 @@
           "aulasPlanejadas": [
             "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA28",
+            "aulas": [
+              "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas"
+            ],
+            "atividades": [
+              "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas#as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas.aplicacao",
+              "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas#as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.grandezas_geometricas.treino.04"
+            ],
+            "questoesProva": [
+              "mat.ef06.grandezas_geometricas.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.grandezas_geometricas.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA29",
           "descricao": "Analisar e descrever mudanças que ocorrem no perímetro e na área de um quadrado ao se ampliarem ou reduzirem, igualmente, as medidas de seus lados, para compreender que o perímetro é proporcional à medida do lado, o que não ocorre com a área.",
           "aulasPlanejadas": [
             "mat.ef06.grandezas_geometricas.grandeza_perimetro",
-            "mat.ef06.grandezas_geometricas.grandeza_area",
-            "mat.ef06.grandezas_geometricas.as_grandeza_perimetro_e_area_em_vistas_aerea_e_plantas_baixas"
+            "mat.ef06.grandezas_geometricas.grandeza_area"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.grandezas_geometricas.grandeza_perimetro",
+            "mat.ef06.grandezas_geometricas.grandeza_area"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.grandezas_geometricas.grandeza_perimetro",
+            "mat.ef06.grandezas_geometricas.grandeza_area"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA29",
+            "aulas": [
+              "mat.ef06.grandezas_geometricas.grandeza_perimetro",
+              "mat.ef06.grandezas_geometricas.grandeza_area"
+            ],
+            "atividades": [
+              "mat.ef06.grandezas_geometricas.grandeza_perimetro#grandeza_perimetro.aplicacao",
+              "mat.ef06.grandezas_geometricas.grandeza_perimetro#grandeza_perimetro.investigacao",
+              "mat.ef06.grandezas_geometricas.grandeza_area#grandeza_area.aplicacao",
+              "mat.ef06.grandezas_geometricas.grandeza_area#grandeza_area.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.grandezas_geometricas.treino.02",
+              "mat.ef06.grandezas_geometricas.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef06.grandezas_geometricas.prova.01",
+              "mat.ef06.grandezas_geometricas.prova.02"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.grandezas_geometricas.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA01",
           "descricao": "Comparar, ordenar, ler e escrever números naturais e números racionais cuja representação decimal é finita, fazendo uso da reta numérica.",
           "aulasPlanejadas": [
             "mat.ef06.ponto_de_partida.diagnostico_e_retomada",
-            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
             "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais",
+            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
             "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
             "mat.ef06.decimais.decimo_centesimo_e_milesimo",
-            "mat.ef06.decimais.comparacao_entre_decimais"
+            "mat.ef06.decimais.comparacao_entre_decimais",
+            "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal"
           ],
           "aulasComVinculo": [
+            "mat.ef06.ponto_de_partida.diagnostico_e_retomada",
             "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais",
-            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal"
+            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
+            "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
+            "mat.ef06.decimais.decimo_centesimo_e_milesimo",
+            "mat.ef06.decimais.comparacao_entre_decimais",
+            "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal"
           ],
           "aulasPiloto": [
+            "mat.ef06.ponto_de_partida.diagnostico_e_retomada",
             "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais",
-            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal"
+            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
+            "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
+            "mat.ef06.decimais.decimo_centesimo_e_milesimo",
+            "mat.ef06.decimais.comparacao_entre_decimais",
+            "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal"
           ],
-          "cobertura": "parcial_em_piloto",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA01",
+            "aulas": [
+              "mat.ef06.ponto_de_partida.diagnostico_e_retomada",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
+              "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
+              "mat.ef06.decimais.decimo_centesimo_e_milesimo",
+              "mat.ef06.decimais.comparacao_entre_decimais",
+              "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal"
+            ],
+            "atividades": [
+              "mat.ef06.ponto_de_partida.diagnostico_e_retomada#diagnostico_e_retomada.aplicacao",
+              "mat.ef06.ponto_de_partida.diagnostico_e_retomada#diagnostico_e_retomada.investigacao",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais#usos.mc1",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais#usos.num1",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.onde_usamos_os_numeros_naturais#usos.disc1",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal#decimal.mc1",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal#decimal.num1",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal#decimal.disc1",
+              "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal#decimais_e_sistema_de_numeracao_decimal.aplicacao",
+              "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal#decimais_e_sistema_de_numeracao_decimal.investigacao",
+              "mat.ef06.decimais.decimo_centesimo_e_milesimo#decimo_centesimo_e_milesimo.aplicacao",
+              "mat.ef06.decimais.decimo_centesimo_e_milesimo#decimo_centesimo_e_milesimo.investigacao",
+              "mat.ef06.decimais.comparacao_entre_decimais#comparacao_entre_decimais.aplicacao",
+              "mat.ef06.decimais.comparacao_entre_decimais#comparacao_entre_decimais.investigacao",
+              "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal#formas_fracionaria_e_decimal.aplicacao",
+              "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal#formas_fracionaria_e_decimal.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.numeracao.treino.05",
+              "mat.ef06.numeracao.treino.06",
+              "mat.ef06.numeracao.treino.07",
+              "mat.ef06.numeracao.treino.08",
+              "mat.ef06.numeracao.treino.12",
+              "mat.ef06.numeracao.treino.13",
+              "mat.ef06.numeracao.treino.15",
+              "mat.ef06.ponto_de_partida.treino.01",
+              "mat.ef06.ponto_de_partida.treino.02",
+              "mat.ef06.ponto_de_partida.treino.03",
+              "mat.ef06.decimais.treino.01",
+              "mat.ef06.decimais.treino.02",
+              "mat.ef06.decimais.treino.03",
+              "mat.ef06.fracoes_e_porcentagem.treino.06"
+            ],
+            "questoesProva": [
+              "mat.ef06.numeracao.prova.02",
+              "mat.ef06.numeracao.prova.03",
+              "mat.ef06.numeracao.prova.04",
+              "mat.ef06.numeracao.prova.05",
+              "mat.ef06.numeracao.prova.08",
+              "mat.ef06.ponto_de_partida.prova.01",
+              "mat.ef06.ponto_de_partida.prova.02",
+              "mat.ef06.decimais.prova.01"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.ponto_de_partida.pratica",
+              "mat.ef06.decimais.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA02",
           "descricao": "Reconhecer o sistema de numeração decimal, como o que prevaleceu no mundo ocidental, e destacar semelhanças e diferenças com outros sistemas, de modo a sistematizar suas principais características (base, valor posicional e função do zero), utilizando, inclusive, a composição e decomposição de números naturais e números racionais em sua representação decimal.",
           "aulasPlanejadas": [
-            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
             "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia",
-            "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal"
+            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
+            "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
+            "mat.ef06.decimais.decimo_centesimo_e_milesimo"
           ],
           "aulasComVinculo": [
             "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia",
-            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal"
+            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
+            "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
+            "mat.ef06.decimais.decimo_centesimo_e_milesimo"
           ],
           "aulasPiloto": [
             "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia",
-            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal"
+            "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
+            "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
+            "mat.ef06.decimais.decimo_centesimo_e_milesimo"
           ],
-          "cobertura": "parcial_em_piloto",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA02",
+            "aulas": [
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal",
+              "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal",
+              "mat.ef06.decimais.decimo_centesimo_e_milesimo"
+            ],
+            "atividades": [
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia#historia.mc1",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia#historia.num1",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_um_pouco_de_historia#historia.disc1",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal#decimal.mc1",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal#decimal.num1",
+              "mat.ef06.numeros_naturais_e_sistemas_de_numeracao.numeros_naturais_e_sistema_decimal#decimal.disc1",
+              "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal#decimais_e_sistema_de_numeracao_decimal.aplicacao",
+              "mat.ef06.decimais.decimais_e_sistema_de_numeracao_decimal#decimais_e_sistema_de_numeracao_decimal.investigacao",
+              "mat.ef06.decimais.decimo_centesimo_e_milesimo#decimo_centesimo_e_milesimo.aplicacao",
+              "mat.ef06.decimais.decimo_centesimo_e_milesimo#decimo_centesimo_e_milesimo.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.numeracao.treino.01",
+              "mat.ef06.numeracao.treino.02",
+              "mat.ef06.numeracao.treino.03",
+              "mat.ef06.numeracao.treino.04",
+              "mat.ef06.numeracao.treino.09",
+              "mat.ef06.numeracao.treino.10",
+              "mat.ef06.numeracao.treino.11",
+              "mat.ef06.numeracao.treino.14",
+              "mat.ef06.decimais.treino.01",
+              "mat.ef06.decimais.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef06.numeracao.prova.01",
+              "mat.ef06.numeracao.prova.06",
+              "mat.ef06.numeracao.prova.07",
+              "mat.ef06.numeracao.prova.09",
+              "mat.ef06.numeracao.prova.10",
+              "mat.ef06.decimais.prova.01"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.decimais.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA03",
           "descricao": "Resolver e elaborar problemas que envolvam cálculos (mentais ou escritos, exatos ou aproximados) com números naturais, por meio de estratégias variadas, com compreensão dos processos neles envolvidos com e sem uso de calculadora.",
           "aulasPlanejadas": [
+            "mat.ef06.ponto_de_partida.diagnostico_e_retomada",
             "mat.ef06.operacoes_com_numeros_naturais.adicao_de_numeros_naturais",
             "mat.ef06.operacoes_com_numeros_naturais.subtracao_de_numeros_naturais",
             "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa",
@@ -1774,10 +2428,103 @@
             "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao",
             "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.ponto_de_partida.diagnostico_e_retomada",
+            "mat.ef06.operacoes_com_numeros_naturais.adicao_de_numeros_naturais",
+            "mat.ef06.operacoes_com_numeros_naturais.subtracao_de_numeros_naturais",
+            "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa",
+            "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_de_numeros_naturais",
+            "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais",
+            "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_e_divisao_operacao_inversa",
+            "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais",
+            "mat.ef06.operacoes_com_numeros_naturais.calculo_mental",
+            "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao",
+            "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.ponto_de_partida.diagnostico_e_retomada",
+            "mat.ef06.operacoes_com_numeros_naturais.adicao_de_numeros_naturais",
+            "mat.ef06.operacoes_com_numeros_naturais.subtracao_de_numeros_naturais",
+            "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa",
+            "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_de_numeros_naturais",
+            "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais",
+            "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_e_divisao_operacao_inversa",
+            "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais",
+            "mat.ef06.operacoes_com_numeros_naturais.calculo_mental",
+            "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao",
+            "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA03",
+            "aulas": [
+              "mat.ef06.ponto_de_partida.diagnostico_e_retomada",
+              "mat.ef06.operacoes_com_numeros_naturais.adicao_de_numeros_naturais",
+              "mat.ef06.operacoes_com_numeros_naturais.subtracao_de_numeros_naturais",
+              "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa",
+              "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_de_numeros_naturais",
+              "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais",
+              "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_e_divisao_operacao_inversa",
+              "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais",
+              "mat.ef06.operacoes_com_numeros_naturais.calculo_mental",
+              "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao",
+              "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes"
+            ],
+            "atividades": [
+              "mat.ef06.ponto_de_partida.diagnostico_e_retomada#diagnostico_e_retomada.aplicacao",
+              "mat.ef06.ponto_de_partida.diagnostico_e_retomada#diagnostico_e_retomada.investigacao",
+              "mat.ef06.operacoes_com_numeros_naturais.adicao_de_numeros_naturais#adicao_de_numeros_naturais.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.adicao_de_numeros_naturais#adicao_de_numeros_naturais.investigacao",
+              "mat.ef06.operacoes_com_numeros_naturais.subtracao_de_numeros_naturais#subtracao_de_numeros_naturais.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.subtracao_de_numeros_naturais#subtracao_de_numeros_naturais.investigacao",
+              "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa#adicao_e_subtracao_operacao_inversa.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.adicao_e_subtracao_operacao_inversa#adicao_e_subtracao_operacao_inversa.investigacao",
+              "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_de_numeros_naturais#multiplicacao_de_numeros_naturais.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_de_numeros_naturais#multiplicacao_de_numeros_naturais.investigacao",
+              "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais#divisao_de_numeros_naturais.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.divisao_de_numeros_naturais#divisao_de_numeros_naturais.investigacao",
+              "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_e_divisao_operacao_inversa#multiplicacao_e_divisao_operacao_inversa.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.multiplicacao_e_divisao_operacao_inversa#multiplicacao_e_divisao_operacao_inversa.investigacao",
+              "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais#potenciacao_de_numeros_naturais.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais#potenciacao_de_numeros_naturais.investigacao",
+              "mat.ef06.operacoes_com_numeros_naturais.calculo_mental#calculo_mental.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.calculo_mental#calculo_mental.investigacao",
+              "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao#expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao#expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao.investigacao",
+              "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes#resolucao_de_problemas_envolvendo_as_4_operacoes.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes#resolucao_de_problemas_envolvendo_as_4_operacoes.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.ponto_de_partida.treino.01",
+              "mat.ef06.ponto_de_partida.treino.04",
+              "mat.ef06.ponto_de_partida.treino.05",
+              "mat.ef06.operacoes_com_numeros_naturais.treino.01",
+              "mat.ef06.operacoes_com_numeros_naturais.treino.02",
+              "mat.ef06.operacoes_com_numeros_naturais.treino.03",
+              "mat.ef06.operacoes_com_numeros_naturais.treino.04",
+              "mat.ef06.operacoes_com_numeros_naturais.treino.05",
+              "mat.ef06.operacoes_com_numeros_naturais.treino.06",
+              "mat.ef06.operacoes_com_numeros_naturais.treino.07",
+              "mat.ef06.operacoes_com_numeros_naturais.treino.08",
+              "mat.ef06.operacoes_com_numeros_naturais.treino.10",
+              "mat.ef06.operacoes_com_numeros_naturais.treino.11"
+            ],
+            "questoesProva": [
+              "mat.ef06.ponto_de_partida.prova.03",
+              "mat.ef06.ponto_de_partida.prova.04",
+              "mat.ef06.ponto_de_partida.prova.05",
+              "mat.ef06.operacoes_com_numeros_naturais.prova.01",
+              "mat.ef06.operacoes_com_numeros_naturais.prova.02",
+              "mat.ef06.operacoes_com_numeros_naturais.prova.03"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.ponto_de_partida.pratica",
+              "mat.ef06.operacoes_com_numeros_naturais.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA04",
@@ -1785,10 +2532,37 @@
           "aulasPlanejadas": [
             "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA04",
+            "aulas": [
+              "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma"
+            ],
+            "atividades": [
+              "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma#paridade_e_fluxograma.aplicacao",
+              "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma#paridade_e_fluxograma.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.fluxogramas_e_algoritmos.treino.01",
+              "mat.ef06.fluxogramas_e_algoritmos.treino.05"
+            ],
+            "questoesProva": [
+              "mat.ef06.fluxogramas_e_algoritmos.prova.01",
+              "mat.ef06.fluxogramas_e_algoritmos.prova.02"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.fluxogramas_e_algoritmos.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA05",
@@ -1796,24 +2570,110 @@
           "aulasPlanejadas": [
             "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
             "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
             "mat.ef06.multiplos_e_divisores.numero_primo"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.numero_primo"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.numero_primo"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA05",
+            "aulas": [
+              "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
+              "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
+              "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
+              "mat.ef06.multiplos_e_divisores.numero_primo"
+            ],
+            "atividades": [
+              "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural#multiplo_e_divisor_de_um_numero_natural.aplicacao",
+              "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural#multiplo_e_divisor_de_um_numero_natural.investigacao",
+              "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural#multiplos_de_um_numero_natural.aplicacao",
+              "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural#multiplos_de_um_numero_natural.investigacao",
+              "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural#divisores_de_um_numero_natural.aplicacao",
+              "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural#divisores_de_um_numero_natural.investigacao",
+              "mat.ef06.multiplos_e_divisores.numero_primo#numero_primo.aplicacao",
+              "mat.ef06.multiplos_e_divisores.numero_primo#numero_primo.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.multiplos_e_divisores.treino.01",
+              "mat.ef06.multiplos_e_divisores.treino.02",
+              "mat.ef06.multiplos_e_divisores.treino.03",
+              "mat.ef06.multiplos_e_divisores.treino.04"
+            ],
+            "questoesProva": [
+              "mat.ef06.multiplos_e_divisores.prova.01",
+              "mat.ef06.multiplos_e_divisores.prova.02",
+              "mat.ef06.multiplos_e_divisores.prova.03"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.multiplos_e_divisores.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA06",
           "descricao": "Resolver e elaborar problemas que envolvam as ideias de múltiplo e de divisor.",
           "aulasPlanejadas": [
             "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
             "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
+            "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA06",
+            "aulas": [
+              "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
+              "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
+              "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural"
+            ],
+            "atividades": [
+              "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural#multiplo_e_divisor_de_um_numero_natural.aplicacao",
+              "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural#multiplo_e_divisor_de_um_numero_natural.investigacao",
+              "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural#multiplos_de_um_numero_natural.aplicacao",
+              "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural#multiplos_de_um_numero_natural.investigacao",
+              "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural#divisores_de_um_numero_natural.aplicacao",
+              "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural#divisores_de_um_numero_natural.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.multiplos_e_divisores.treino.01",
+              "mat.ef06.multiplos_e_divisores.treino.02",
+              "mat.ef06.multiplos_e_divisores.treino.03",
+              "mat.ef06.multiplos_e_divisores.treino.05"
+            ],
+            "questoesProva": [
+              "mat.ef06.multiplos_e_divisores.prova.04",
+              "mat.ef06.multiplos_e_divisores.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.multiplos_e_divisores.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA07",
@@ -1823,21 +2683,99 @@
             "mat.ef06.fracoes_e_porcentagem.fracoes_equivalentes",
             "mat.ef06.fracoes_e_porcentagem.comparando_fracoes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.fracoes_e_porcentagem.ideias_associadas_a_fracao",
+            "mat.ef06.fracoes_e_porcentagem.fracoes_equivalentes",
+            "mat.ef06.fracoes_e_porcentagem.comparando_fracoes"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.fracoes_e_porcentagem.ideias_associadas_a_fracao",
+            "mat.ef06.fracoes_e_porcentagem.fracoes_equivalentes",
+            "mat.ef06.fracoes_e_porcentagem.comparando_fracoes"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA07",
+            "aulas": [
+              "mat.ef06.fracoes_e_porcentagem.ideias_associadas_a_fracao",
+              "mat.ef06.fracoes_e_porcentagem.fracoes_equivalentes",
+              "mat.ef06.fracoes_e_porcentagem.comparando_fracoes"
+            ],
+            "atividades": [
+              "mat.ef06.fracoes_e_porcentagem.ideias_associadas_a_fracao#ideias_associadas_a_fracao.aplicacao",
+              "mat.ef06.fracoes_e_porcentagem.ideias_associadas_a_fracao#ideias_associadas_a_fracao.investigacao",
+              "mat.ef06.fracoes_e_porcentagem.fracoes_equivalentes#fracoes_equivalentes.aplicacao",
+              "mat.ef06.fracoes_e_porcentagem.fracoes_equivalentes#fracoes_equivalentes.investigacao",
+              "mat.ef06.fracoes_e_porcentagem.comparando_fracoes#comparando_fracoes.aplicacao",
+              "mat.ef06.fracoes_e_porcentagem.comparando_fracoes#comparando_fracoes.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.fracoes_e_porcentagem.treino.01",
+              "mat.ef06.fracoes_e_porcentagem.treino.02",
+              "mat.ef06.fracoes_e_porcentagem.treino.03"
+            ],
+            "questoesProva": [
+              "mat.ef06.fracoes_e_porcentagem.prova.01"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.fracoes_e_porcentagem.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA08",
           "descricao": "Reconhecer que os números racionais positivos podem ser expressos nas formas fracionária e decimal, estabelecer relações entre essas representações, passando de uma representação para outra, e relacioná-los a pontos na reta numérica.",
           "aulasPlanejadas": [
+            "mat.ef06.decimais.decimo_centesimo_e_milesimo",
+            "mat.ef06.decimais.porcentagem_na_forma_decimal",
             "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.decimais.decimo_centesimo_e_milesimo",
+            "mat.ef06.decimais.porcentagem_na_forma_decimal",
+            "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.decimais.decimo_centesimo_e_milesimo",
+            "mat.ef06.decimais.porcentagem_na_forma_decimal",
+            "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA08",
+            "aulas": [
+              "mat.ef06.decimais.decimo_centesimo_e_milesimo",
+              "mat.ef06.decimais.porcentagem_na_forma_decimal",
+              "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal"
+            ],
+            "atividades": [
+              "mat.ef06.decimais.decimo_centesimo_e_milesimo#decimo_centesimo_e_milesimo.aplicacao",
+              "mat.ef06.decimais.decimo_centesimo_e_milesimo#decimo_centesimo_e_milesimo.investigacao",
+              "mat.ef06.decimais.porcentagem_na_forma_decimal#porcentagem_na_forma_decimal.aplicacao",
+              "mat.ef06.decimais.porcentagem_na_forma_decimal#porcentagem_na_forma_decimal.investigacao",
+              "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal#formas_fracionaria_e_decimal.aplicacao",
+              "mat.ef06.fracoes_e_porcentagem.formas_fracionaria_e_decimal#formas_fracionaria_e_decimal.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.decimais.treino.02",
+              "mat.ef06.decimais.treino.06",
+              "mat.ef06.fracoes_e_porcentagem.treino.06"
+            ],
+            "questoesProva": [
+              "mat.ef06.decimais.prova.02",
+              "mat.ef06.fracoes_e_porcentagem.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.decimais.pratica",
+              "mat.ef06.fracoes_e_porcentagem.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA09",
@@ -1845,10 +2783,35 @@
           "aulasPlanejadas": [
             "mat.ef06.fracoes_e_porcentagem.fracao_de_uma_quantidade"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.fracoes_e_porcentagem.fracao_de_uma_quantidade"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.fracoes_e_porcentagem.fracao_de_uma_quantidade"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA09",
+            "aulas": [
+              "mat.ef06.fracoes_e_porcentagem.fracao_de_uma_quantidade"
+            ],
+            "atividades": [
+              "mat.ef06.fracoes_e_porcentagem.fracao_de_uma_quantidade#fracao_de_uma_quantidade.aplicacao",
+              "mat.ef06.fracoes_e_porcentagem.fracao_de_uma_quantidade#fracao_de_uma_quantidade.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.fracoes_e_porcentagem.treino.05"
+            ],
+            "questoesProva": [
+              "mat.ef06.fracoes_e_porcentagem.prova.03"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.fracoes_e_porcentagem.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA10",
@@ -1857,11 +2820,34 @@
             "mat.ef06.fracoes_e_porcentagem.adicao_e_subtracao_de_fracoes"
           ],
           "aulasComVinculo": [
-            "mat.ef06.fracoes_e_porcentagem.exercicio_soma_de_fracoes"
+            "mat.ef06.fracoes_e_porcentagem.adicao_e_subtracao_de_fracoes"
           ],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasPiloto": [
+            "mat.ef06.fracoes_e_porcentagem.adicao_e_subtracao_de_fracoes"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA10",
+            "aulas": [
+              "mat.ef06.fracoes_e_porcentagem.adicao_e_subtracao_de_fracoes"
+            ],
+            "atividades": [
+              "mat.ef06.fracoes_e_porcentagem.adicao_e_subtracao_de_fracoes#adicao_e_subtracao_de_fracoes.aplicacao",
+              "mat.ef06.fracoes_e_porcentagem.adicao_e_subtracao_de_fracoes#adicao_e_subtracao_de_fracoes.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.fracoes_e_porcentagem.treino.04"
+            ],
+            "questoesProva": [
+              "mat.ef06.fracoes_e_porcentagem.prova.02"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.fracoes_e_porcentagem.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA11",
@@ -1870,21 +2856,86 @@
             "mat.ef06.decimais.operacoes_com_decimais",
             "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.decimais.operacoes_com_decimais",
+            "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.decimais.operacoes_com_decimais",
+            "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA11",
+            "aulas": [
+              "mat.ef06.decimais.operacoes_com_decimais",
+              "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes"
+            ],
+            "atividades": [
+              "mat.ef06.decimais.operacoes_com_decimais#operacoes_com_decimais.aplicacao",
+              "mat.ef06.decimais.operacoes_com_decimais#operacoes_com_decimais.investigacao",
+              "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes#outras_situacoes_envolvendo_os_decimais_e_as_operacoes.aplicacao",
+              "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes#outras_situacoes_envolvendo_os_decimais_e_as_operacoes.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.decimais.treino.04",
+              "mat.ef06.decimais.treino.05"
+            ],
+            "questoesProva": [
+              "mat.ef06.decimais.prova.03"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.decimais.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA12",
           "descricao": "Fazer estimativas de quantidades e aproximar números para múltiplos da potência de 10 mais próxima.",
           "aulasPlanejadas": [
-            "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado"
+            "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado",
+            "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado",
+            "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado",
+            "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA12",
+            "aulas": [
+              "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado",
+              "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes"
+            ],
+            "atividades": [
+              "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado#arredondamento_e_resultado_aproximado.aplicacao",
+              "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado#arredondamento_e_resultado_aproximado.investigacao",
+              "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes#outras_situacoes_envolvendo_os_decimais_e_as_operacoes.aplicacao",
+              "mat.ef06.decimais.outras_situacoes_envolvendo_os_decimais_e_as_operacoes#outras_situacoes_envolvendo_os_decimais_e_as_operacoes.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.operacoes_com_numeros_naturais.treino.09",
+              "mat.ef06.decimais.treino.05"
+            ],
+            "questoesProva": [
+              "mat.ef06.operacoes_com_numeros_naturais.prova.04",
+              "mat.ef06.decimais.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.operacoes_com_numeros_naturais.pratica",
+              "mat.ef06.decimais.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA13",
@@ -1893,10 +2944,43 @@
             "mat.ef06.decimais.porcentagem_na_forma_decimal",
             "mat.ef06.fracoes_e_porcentagem.porcentagem"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.decimais.porcentagem_na_forma_decimal",
+            "mat.ef06.fracoes_e_porcentagem.porcentagem"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.decimais.porcentagem_na_forma_decimal",
+            "mat.ef06.fracoes_e_porcentagem.porcentagem"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA13",
+            "aulas": [
+              "mat.ef06.decimais.porcentagem_na_forma_decimal",
+              "mat.ef06.fracoes_e_porcentagem.porcentagem"
+            ],
+            "atividades": [
+              "mat.ef06.decimais.porcentagem_na_forma_decimal#porcentagem_na_forma_decimal.aplicacao",
+              "mat.ef06.decimais.porcentagem_na_forma_decimal#porcentagem_na_forma_decimal.investigacao",
+              "mat.ef06.fracoes_e_porcentagem.porcentagem#porcentagem.aplicacao",
+              "mat.ef06.fracoes_e_porcentagem.porcentagem#porcentagem.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.decimais.treino.06",
+              "mat.ef06.fracoes_e_porcentagem.treino.08"
+            ],
+            "questoesProva": [
+              "mat.ef06.decimais.prova.05",
+              "mat.ef06.fracoes_e_porcentagem.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.decimais.pratica",
+              "mat.ef06.fracoes_e_porcentagem.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA30",
@@ -1907,20 +2991,77 @@
           "aulasComVinculo": [
             "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade"
           ],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasPiloto": [
+            "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA30",
+            "aulas": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade"
+            ],
+            "atividades": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade#probabilidade.aplicacao",
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.probabilidade#probabilidade.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.treino.02"
+            ],
+            "questoesProva": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.01",
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.02"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA31",
           "descricao": "Identificar as variáveis e suas frequências e os elementos constitutivos (título, eixos, legendas, fontes e datas) em diferentes tipos de gráfico.",
           "aulasPlanejadas": [
-            "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos"
+            "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos",
+            "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos",
+            "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos",
+            "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA31",
+            "aulas": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos",
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano"
+            ],
+            "atividades": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos#tipos_de_graficos_e_seus_elementos.aplicacao",
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos#tipos_de_graficos_e_seus_elementos.investigacao",
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano#interpretacao_de_dados_do_cotidiano.aplicacao",
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano#interpretacao_de_dados_do_cotidiano.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.treino.03",
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.treino.04",
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.treino.05"
+            ],
+            "questoesProva": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.03"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA32",
@@ -1928,10 +3069,35 @@
           "aulasPlanejadas": [
             "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA32",
+            "aulas": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano"
+            ],
+            "atividades": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano#interpretacao_de_dados_do_cotidiano.aplicacao",
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano#interpretacao_de_dados_do_cotidiano.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.treino.04"
+            ],
+            "questoesProva": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.04"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA33",
@@ -1939,10 +3105,35 @@
           "aulasPlanejadas": [
             "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA33",
+            "aulas": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica"
+            ],
+            "atividades": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica#pesquisa_estatistica.aplicacao",
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.pesquisa_estatistica#pesquisa_estatistica.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.treino.01"
+            ],
+            "questoesProva": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.probabilidade_e_pesquisa_estatistica.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         },
         {
           "codigo": "EF06MA34",
@@ -1950,10 +3141,37 @@
           "aulasPlanejadas": [
             "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano"
+          ],
+          "aulasPiloto": [
+            "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano"
+          ],
+          "cobertura": "conteudo_disponivel_para_testes",
+          "revisaoSemantica": "Relação entre tarefas e habilidade revisada de forma assistida; aplicação e homologação docente pendentes.",
+          "evidencias": {
+            "codigo": "EF06MA34",
+            "aulas": [
+              "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano"
+            ],
+            "atividades": [
+              "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano#fluxogramas_do_cotidiano.aplicacao",
+              "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano#fluxogramas_do_cotidiano.investigacao"
+            ],
+            "questoesTreino": [
+              "mat.ef06.fluxogramas_e_algoritmos.treino.02",
+              "mat.ef06.fluxogramas_e_algoritmos.treino.04"
+            ],
+            "questoesProva": [
+              "mat.ef06.fluxogramas_e_algoritmos.prova.03",
+              "mat.ef06.fluxogramas_e_algoritmos.prova.05"
+            ],
+            "avaliacoesPraticas": [
+              "mat.ef06.fluxogramas_e_algoritmos.pratica"
+            ],
+            "estado": "conteudo_disponivel_para_testes",
+            "observacao": "Presença de evidências planejadas não comprova domínio do estudante; construções, pesquisas e algoritmos exigem observar a produção real."
+          }
         }
       ],
       "vinculosForaDaLista": []

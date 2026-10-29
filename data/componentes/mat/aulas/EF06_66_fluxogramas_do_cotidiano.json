@@ -1,0 +1,113 @@
+{
+  "id": "mat.ef06.fluxogramas_e_algoritmos.fluxogramas_do_cotidiano",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 66,
+  "unidade": "Fluxogramas e Algoritmos",
+  "titulo": "Fluxogramas do Cotidiano",
+  "bncc": [
+    "EF06MA34"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Interpretar e construir diagramas que representem relações entre objetos e níveis de organização.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Interpretar e construir diagramas que representem relações entre objetos e níveis de organização.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Fluxogramas do Cotidiano</h2><h3>O que vamos aprender</h3><p>Interpretar e construir diagramas que representem relações entre objetos e níveis de organização.</p><h3>Ideias e relações</h3><p>Diagramas com caixas e ligações podem representar relações, e não apenas uma sequência temporal. Em uma hierarquia, uma ligação pode indicar a quem um setor responde; em um mapa de cidades, pode indicar uma estrada. Antes de seguir as conexões, leia a legenda e descubra o significado de setas ou linhas. Nem todo caminho é permitido nos dois sentidos. Ao construir um diagrama, escolha os objetos, explicite a relação e mantenha o mesmo significado para ligações equivalentes.</p><svg viewBox=\"0 0 440 240\" role=\"img\" aria-label=\"Mapa fictício: as estradas de dois sentidos ligam A a B, B a C e A a D.\" style=\"max-width:100%;color:inherit\"><title>Mapa fictício: as estradas de dois sentidos ligam A a B, B a C e A a D.</title><g stroke=\"currentColor\" stroke-width=\"2\" fill=\"none\"><path d=\"M95 90H340M95 90V180\"/></g><g fill=\"white\" stroke=\"#2563eb\" stroke-width=\"2\"><circle cx=\"95\" cy=\"90\" r=\"22\"/><circle cx=\"220\" cy=\"90\" r=\"22\"/><circle cx=\"340\" cy=\"90\" r=\"22\"/><circle cx=\"95\" cy=\"180\" r=\"22\"/></g><g fill=\"#1e3a8a\" text-anchor=\"middle\" font-size=\"18\"><text x=\"95\" y=\"96\">A</text><text x=\"220\" y=\"96\">B</text><text x=\"340\" y=\"96\">C</text><text x=\"95\" y=\"186\">D</text></g><text x=\"35\" y=\"230\" fill=\"currentColor\" font-size=\"12\">Legenda: cada linha é uma estrada de dois sentidos.</text></svg><h3>Exemplo resolvido</h3><p>Em um organograma fictício, Direção → Coordenação e Coordenação → Professores. Se a seta significa “supervisiona”, a Direção supervisiona a Coordenação, que supervisiona os Professores. O desenho não diz que uma pessoa se desloca fisicamente entre caixas.</p><h3>Atenção ao raciocínio</h3><p>Uma seta não tem significado universal: ela precisa ser definida no contexto do diagrama.</p><h3>Investigue, construa ou elabore</h3><p>Represente quatro locais e estradas fictícias: A–B, B–C e A–D. Indique que as estradas têm dois sentidos e explique um caminho de C até D.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "fluxograma",
+      "representacao"
+    ],
+    "errosComuns": [
+      "Uma seta não tem significado universal: ela precisa ser definida no contexto do diagrama."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "fluxogramas_do_cotidiano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Num organograma, uma seta definida como “supervisiona” indica:",
+      "alternativas": [
+        "Sempre uma estrada.",
+        "Uma relação de supervisão.",
+        "Obrigatoriamente passagem do tempo.",
+        "Uma soma de quantidades."
+      ],
+      "correta": 1,
+      "explicacao": "A legenda define a relação; neste caso, supervisão, e não deslocamento ou tempo."
+    },
+    {
+      "id": "fluxogramas_do_cotidiano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Represente quatro locais e estradas fictícias: A–B, B–C e A–D. Indique que as estradas têm dois sentidos e explique um caminho de C até D.",
+      "gabarito": "O diagrama deve conter exatamente as ligações informadas e a legenda de dois sentidos. Um caminho é C → B → A → D; não existe ligação direta C–D.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "O diagrama deve conter exatamente as ligações informadas e a legenda de dois sentidos. Um caminho é C → B → A → D; não existe ligação direta C–D.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fluxograma",
+    "representacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        307
+      ],
+      "paginasImpressas": "305",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.fluxogramas_e_algoritmos.paridade_e_fluxograma"
+  ],
+  "proximosPassos": [
+    "mat.ef06.fluxogramas_e_algoritmos.algoritmo_de_deslocamento"
+  ]
+}

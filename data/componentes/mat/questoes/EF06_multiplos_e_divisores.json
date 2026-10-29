@@ -1,0 +1,472 @@
+[
+  {
+    "id": "mat.ef06.multiplos_e_divisores.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Múltiplos e divisores",
+    "aulaId": "mat.ef06.multiplos_e_divisores.multiplo_e_divisor_de_um_numero_natural",
+    "bncc": [
+      "EF06MA05",
+      "EF06MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual afirmação decorre de 7 × 8 = 56?",
+    "opcoes": [
+      "56 é divisor de 7.",
+      "7 é múltiplo de 56.",
+      "8 é divisor de 56.",
+      "8 é múltiplo de 56."
+    ],
+    "correta": 2,
+    "explicacao": "Como 56 ÷ 8 = 7 é exato, 8 é divisor de 56.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          53,
+          54
+        ],
+        "paginasImpressas": "56, 57",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.multiplos_e_divisores.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Múltiplos e divisores",
+    "aulaId": "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
+    "bncc": [
+      "EF06MA05",
+      "EF06MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas luzes piscam a cada 4 e 6 segundos. Após o início conjunto, o primeiro encontro ocorre em:",
+    "opcoes": [
+      "2 s",
+      "10 s",
+      "12 s",
+      "24 s"
+    ],
+    "correta": 2,
+    "explicacao": "12 é o primeiro múltiplo comum positivo de 4 e 6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "paginasImpressas": "69, 70",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.multiplos_e_divisores.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Múltiplos e divisores",
+    "aulaId": "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
+    "bncc": [
+      "EF06MA05",
+      "EF06MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual número é divisível por 6?",
+    "opcoes": [
+      "125",
+      "146",
+      "234",
+      "301"
+    ],
+    "correta": 2,
+    "explicacao": "234 é par e sua soma de algarismos é 9, múltiplo de 3; portanto é divisível por 6.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        "paginasImpressas": "56, 57, 58, 59, 60",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.multiplos_e_divisores.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Múltiplos e divisores",
+    "aulaId": "mat.ef06.multiplos_e_divisores.numero_primo",
+    "bncc": [
+      "EF06MA05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual número é primo?",
+    "opcoes": [
+      "1",
+      "21",
+      "29",
+      "39"
+    ],
+    "correta": 2,
+    "explicacao": "29 tem apenas 1 e 29 como divisores positivos; 1 não é primo e 21 e 39 têm outros fatores.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          58,
+          59,
+          60
+        ],
+        "paginasImpressas": "61, 62, 63",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.multiplos_e_divisores.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Múltiplos e divisores",
+    "aulaId": "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
+    "bncc": [
+      "EF06MA06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual NÃO é divisor de 24?",
+    "opcoes": [
+      "3",
+      "6",
+      "8",
+      "10"
+    ],
+    "correta": 3,
+    "explicacao": "24 pode ser dividido exatamente por 3, 6 e 8; por 10 sobra resto 4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        "paginasImpressas": "56, 57, 58, 59, 60",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.multiplos_e_divisores.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Múltiplos e divisores",
+    "aulaId": "mat.ef06.multiplos_e_divisores.numero_primo",
+    "bncc": [
+      "EF06MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual número é composto?",
+    "opcoes": [
+      "2",
+      "13",
+      "19",
+      "27"
+    ],
+    "correta": 3,
+    "explicacao": "27 possui divisores além de 1 e 27, por exemplo 3 e 9.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          58,
+          59,
+          60
+        ],
+        "paginasImpressas": "61, 62, 63",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.multiplos_e_divisores.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Múltiplos e divisores",
+    "aulaId": "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
+    "bncc": [
+      "EF06MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual número é divisível por 9?",
+    "opcoes": [
+      "124",
+      "234",
+      "431",
+      "502"
+    ],
+    "correta": 1,
+    "explicacao": "A soma 2 + 3 + 4 = 9 é múltiplo de 9; nas outras opções as somas não são.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        "paginasImpressas": "56, 57, 58, 59, 60",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.multiplos_e_divisores.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Múltiplos e divisores",
+    "aulaId": "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
+    "bncc": [
+      "EF06MA05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Entre os números dados, qual é divisível por 1.000?",
+    "opcoes": [
+      "12.100",
+      "12.010",
+      "12.001",
+      "12.000"
+    ],
+    "correta": 3,
+    "explicacao": "12.000 termina em três zeros e equivale a doze grupos de mil.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        "paginasImpressas": "56, 57, 58, 59, 60",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.multiplos_e_divisores.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Múltiplos e divisores",
+    "aulaId": "mat.ef06.multiplos_e_divisores.multiplos_de_um_numero_natural",
+    "bncc": [
+      "EF06MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Dois alarmes soam a cada 6 e 10 minutos. Se começaram juntos, o primeiro novo encontro será em:",
+    "opcoes": [
+      "16 min",
+      "20 min",
+      "30 min",
+      "60 min"
+    ],
+    "correta": 2,
+    "explicacao": "Os primeiros múltiplos comuns positivos aparecem em 30: 6×5 = 10×3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          66,
+          67
+        ],
+        "paginasImpressas": "69, 70",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.multiplos_e_divisores.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Múltiplos e divisores",
+    "aulaId": "mat.ef06.multiplos_e_divisores.divisores_de_um_numero_natural",
+    "bncc": [
+      "EF06MA06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual é a lista completa dos divisores positivos de 18?",
+    "opcoes": [
+      "1, 2, 3, 6, 9, 18",
+      "1, 2, 3, 9, 18",
+      "2, 3, 6, 9",
+      "1, 3, 6, 18"
+    ],
+    "correta": 0,
+    "explicacao": "Os pares são 1×18, 2×9 e 3×6; todos os divisores aparecem na primeira lista.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          303
+        ],
+        "paginasImpressas": "301",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        "paginasImpressas": "56, 57, 58, 59, 60",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

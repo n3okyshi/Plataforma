@@ -1,0 +1,112 @@
+{
+  "id": "mat.ef06.probabilidade_e_pesquisa_estatistica.interpretacao_de_dados_do_cotidiano",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 64,
+  "unidade": "Probabilidade e pesquisa estatística",
+  "titulo": "Interpretação de Dados do Cotidiano",
+  "bncc": [
+    "EF06MA32",
+    "EF06MA31"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Interpretar tabelas e gráficos contextualizados e redigir conclusões que respeitem seus limites.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Interpretar tabelas e gráficos contextualizados e redigir conclusões que respeitem seus limites.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Interpretação de Dados do Cotidiano</h2><h3>O que vamos aprender</h3><p>Interpretar tabelas e gráficos contextualizados e redigir conclusões que respeitem seus limites.</p><h3>Ideias e relações</h3><p>Interpretar dados é relacionar os valores à pergunta e ao contexto. Podemos calcular diferenças, identificar categorias mais frequentes e comparar grupos, mas uma associação em um gráfico não demonstra sua causa. Antes de concluir, confira a fonte, a data, a unidade e quem foi consultado. Dados de uma turma não descrevem automaticamente a cidade inteira. Uma síntese deve apresentar a informação principal, uma comparação numérica e um limite da conclusão. Contextos de consumo e sustentabilidade ajudam a discutir decisões com evidências.</p><h3>Exemplo resolvido</h3><p>Dados fictícios de coleta seletiva: papel, 18 kg; plástico, 12 kg; metal, 6 kg em uma semana. O papel teve a maior massa, e sua diferença para o plástico foi 6 kg. Não se pode concluir apenas daí que a escola desperdiça mais papel do que outra escola.</p><h3>Atenção ao raciocínio</h3><p>“Maior valor” não basta para explicar causas; comparações entre períodos exigem a mesma unidade e condições explicitadas.</p><h3>Investigue, construa ou elabore</h3><p>Escreva uma síntese dos dados fictícios papel=18 kg, plástico=12 kg, metal=6 kg. Inclua total e comparação. Depois selecione um gráfico de consumo ou sustentabilidade divulgado em um jornal, revista ou site, registre título, fonte e data e redija uma conclusão numérica e um limite do que pode ser afirmado.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "leitura_de_dados",
+      "problemas"
+    ],
+    "errosComuns": [
+      "“Maior valor” não basta para explicar causas; comparações entre períodos exigem a mesma unidade e condições explicitadas."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "interpretacao_de_dados_do_cotidiano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na coleta fictícia de 18 kg de papel e 12 kg de plástico, a diferença é:",
+      "alternativas": [
+        "3 kg",
+        "6 kg",
+        "12 kg",
+        "30 kg"
+      ],
+      "correta": 1,
+      "explicacao": "18 − 12 = 6 kg, mantendo a mesma grandeza e unidade."
+    },
+    {
+      "id": "interpretacao_de_dados_do_cotidiano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Escreva uma síntese dos dados fictícios papel=18 kg, plástico=12 kg, metal=6 kg. Inclua total e comparação. Depois selecione um gráfico de consumo ou sustentabilidade divulgado em um jornal, revista ou site, registre título, fonte e data e redija uma conclusão numérica e um limite do que pode ser afirmado.",
+      "gabarito": "Total 36 kg; papel tem 6 kg a mais que plástico ou três vezes a massa do metal. Na análise do gráfico de mídia, conferir os dados da fonte selecionada, a data, as unidades, a comparação numérica e os limites de população ou período. Não afirmar causas sem evidência; o resultado dessa parte depende do gráfico efetivamente consultado.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Total 36 kg; papel tem 6 kg a mais que plástico ou três vezes a massa do metal. Na análise do gráfico de mídia, conferir os dados da fonte selecionada, a data, as unidades, a comparação numérica e os limites de população ou período. Não afirmar causas sem evidência; o resultado dessa parte depende do gráfico efetivamente consultado.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "leitura_de_dados",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        307
+      ],
+      "paginasImpressas": "305",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.probabilidade_e_pesquisa_estatistica.tipos_de_graficos_e_seus_elementos"
+  ],
+  "proximosPassos": []
+}

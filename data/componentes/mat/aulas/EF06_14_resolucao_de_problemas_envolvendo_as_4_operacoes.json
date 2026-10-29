@@ -2,36 +2,121 @@
   "id": "mat.ef06.operacoes_com_numeros_naturais.resolucao_de_problemas_envolvendo_as_4_operacoes",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 14,
+  "ordem": 15,
   "unidade": "Operações com números naturais",
-  "titulo": "Resolução de Problemas Envolvendo as 4 Operações",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Resolução de Problemas com as Quatro Operações",
+  "bncc": [
+    "EF06MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Planejar uma solução com mais de uma etapa e elaborar um problema coerente.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Planejar uma solução com mais de uma etapa e elaborar um problema coerente.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Resolução de Problemas Envolvendo as 4 Operações</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: aplicar leitura atenta, modelagem e estratégia de cálculo para resolver problemas que exigem adição, subtração, multiplicação e divisão, isoladamente ou combinadas.</p>\n<div class=\"bg-white dark:bg-brand-darkCard p-4 rounded-lg border border-gray-100 dark:border-gray-700 mb-4\">\n    <strong class=\"block mb-2\">Estratégia em 4 passos</strong>\n    <ol class=\"list-decimal list-inside text-gray-700 dark:text-gray-300 space-y-1\">\n        <li>Leia o enunciado com atenção e identifique os dados e o que se pede.</li>\n        <li>Escolha a representação (frases, figura, tabela ou equação).</li>\n        <li>Responda usando as operações necessárias, verificando unidades e sentido da resposta.</li>\n        <li>Verifique a resposta com estimativas ou operação inversa.</li>\n    </ol>\n</div>\n<div class=\"mt-4\">\n    <label class=\"block font-semibold\">Atividade 1 — Compra em Grupo</label>\n    <p class=\"text-gray-700 dark:text-gray-300\">Um grupo de 7 alunos compra 3 caixas de lápis. Cada caixa tem 12 lápis e custa R$ 8,50. Quanto cada aluno deve pagar para dividir igualmente o custo total?</p>\n    <div class=\"mt-2\">\n        <input id=\"resolucao-atv1\" class=\"w-64 p-2 border rounded\" placeholder=\"Valor por aluno (ex: 4.50)\" />\n        <button class=\"mt-2 btn btn-primary\">Verificar</button>\n    </div>\n</div>\n<div class=\"mt-6\">\n    <label class=\"block font-semibold\">Atividade 2 — Mistura e Proporção</label>\n    <p class=\"text-gray-700 dark:text-gray-300\">Para fazer suco, usamos 3 litros de água para cada 1 litro de concentrado. Quantos litros de água são necessários para 5 litros de concentrado? Se o litro de concentrado custa R$ 6, qual o custo do concentrado usado?</p>\n    <div class=\"mt-2 space-y-2\">\n        <input id=\"resolucao-atv2a\" class=\"w-48 p-2 border rounded\" placeholder=\"Litros de água\" />\n        <input id=\"resolucao-atv2b\" class=\"w-48 p-2 border rounded\" placeholder=\"Custo (R$)\" />\n        <button class=\"mt-2 btn btn-primary\">Verificar</button>\n    </div>\n</div>\n<div class=\"mt-6\">\n    <label class=\"block font-semibold\">Atividade 3 — Expressão e Verificação</label>\n    <p class=\"text-gray-700 dark:text-gray-300\">Resolva e verifique: (120 ÷ 5) × (3 + 2) − 10</p>\n    <div class=\"mt-2\">\n        <input id=\"resolucao-atv3\" class=\"w-40 p-2 border rounded\" />\n        <button class=\"mt-2 btn btn-primary\">Verificar</button>\n    </div>\n</div>\n<div class=\"mt-6\">\n    <label class=\"block font-semibold\">Microquiz</label>\n    <p class=\"text-gray-700 dark:text-gray-300\">Qual operação é geralmente a mais adequada para verificar uma divisão feita por causa de um erro de cálculo?</p>\n    <div class=\"mt-2\">\n        <button class=\"btn\">Multiplicação</button>\n        <button class=\"btn\">Soma</button>\n        <button class=\"btn\">Subtração</button>\n    </div>\n</div>\n<div class=\"mt-6 p-4 bg-gray-50 dark:bg-gray-900 rounded\">\n    <strong>Dica do Professor:</strong>\n    <p class=\"text-gray-700 dark:text-gray-300\">Ao criar enunciados, destaque as unidades (R$, L, km) e incentive os alunos a estimarem a resposta antes de calcular — isso ajuda a identificar resultados absurdos.</p>\n</div>\n    "
+        "html": "<h2>Resolução de Problemas com as Quatro Operações</h2><h3>O que vamos aprender</h3><p>Planejar uma solução com mais de uma etapa e elaborar um problema coerente.</p><h3>Ideias e relações</h3><p>Resolver um problema exige compreender as relações, não apenas localizar números. Identifique o que é conhecido, o que precisa ser encontrado e quais unidades aparecem. Faça um plano, resolva e verifique a coerência da resposta com a pergunta. Pode ser necessário calcular primeiro um total, retirar uma parte e só depois repartir o que sobrou. Um desenho, uma tabela ou uma expressão pode tornar o plano visível. Ao criar um problema, inclua informações suficientes e confira se a pergunta corresponde à solução.</p><h3>Exemplo resolvido</h3><p>Uma escola comprou 6 pacotes de 24 lápis, reservou 18 e repartiu o restante entre 9 turmas. O total é 144; sobram 126 após a reserva; cada turma recebe 126 ÷ 9 = 14 lápis.</p><h3>Atenção ao raciocínio</h3><p>A resposta deve trazer a unidade e responder à pergunta final; 144 é o total comprado, não a quantidade por turma.</p><h3>Investigue, construa ou elabore</h3><p>Elabore um problema que seja resolvido por (5 × 18 − 10) ÷ 4. Resolva e confira se a repartição pode ser feita em números naturais.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "problemas",
+      "operacoes"
+    ],
+    "errosComuns": [
+      "A resposta deve trazer a unidade e responder à pergunta final; 144 é o total comprado, não a quantidade por turma."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "resolucao_de_problemas_envolvendo_as_4_operacoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Se 6 × 24 lápis são comprados, 18 são reservados e o restante é dividido por 9 turmas, cada turma recebe:",
+      "alternativas": [
+        "14",
+        "16",
+        "18",
+        "126"
+      ],
+      "correta": 0,
+      "explicacao": "(6 × 24 − 18) ÷ 9 = 126 ÷ 9 = 14."
+    },
+    {
+      "id": "resolucao_de_problemas_envolvendo_as_4_operacoes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Elabore um problema que seja resolvido por (5 × 18 − 10) ÷ 4. Resolva e confira se a repartição pode ser feita em números naturais.",
+      "gabarito": "5 × 18 = 90; 90 − 10 = 80; 80 ÷ 4 = 20. O contexto precisa representar cinco grupos de dezoito, retirada de dez e divisão igual em quatro partes.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "5 × 18 = 90; 90 − 10 = 80; 80 ÷ 4 = 20. O contexto precisa representar cinco grupos de dezoito, retirada de dez e divisão igual em quatro partes.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "problemas",
+    "operacoes"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        37,
+        46
+      ],
+      "paginasImpressas": "40, 49",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.operacoes_com_numeros_naturais.expressoes_numericas_envolvendo_as_4_operacoes_e_potenciacao"
+  ],
+  "proximosPassos": [
+    "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades"
+  ]
 }

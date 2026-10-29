@@ -2,36 +2,122 @@
   "id": "mat.ef06.angulos_e_poligonos.poligonos",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 29,
+  "ordem": 39,
   "unidade": "Ângulos e polígonos",
   "titulo": "Polígonos",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA18"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Reconhecer polígonos e comparar seus lados, vértices, ângulos e regularidade.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Reconhecer polígonos e comparar seus lados, vértices, ângulos e regularidade.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Polígonos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Figuras planas fechadas formadas apenas por segmentos de reta que não se cruzam.\n        </p>\n        \n\n\t\t\t\t\t\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔷 Classificação:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Nomeamos de acordo com o número de lados: triângulos (3), quadriláteros (4), pentágonos (5), etc.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Polígonos</h2><h3>O que vamos aprender</h3><p>Reconhecer polígonos e comparar seus lados, vértices, ângulos e regularidade.</p><h3>Ideias e relações</h3><p>Um polígono simples é uma figura plana delimitada por uma linha fechada formada por segmentos de reta que não se cruzam. Os segmentos são lados; os encontros entre lados consecutivos são vértices. Um triângulo tem três lados e vértices, um quadrilátero tem quatro e um pentágono tem cinco. Um polígono regular tem todos os lados de mesma medida e todos os ângulos internos de mesma medida. Ter apenas uma dessas propriedades não é suficiente em geral. Faces de poliedros também podem apresentar formas poligonais.</p><h3>Exemplo resolvido</h3><p>Um retângulo de 6 cm por 3 cm tem quatro ângulos retos, mas não tem os quatro lados iguais; portanto não é regular. Um quadrado reúne as duas condições.</p><h3>Atenção ao raciocínio</h3><p>Uma figura com borda curva, como um círculo, não é polígono; uma linha poligonal aberta também não é.</p><h3>Investigue, construa ou elabore</h3><p>Procure duas faces planas de embalagens, desenhe seus contornos e classifique os polígonos. Investigue se são regulares usando medidas.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "poligonos",
+      "classificacao"
+    ],
+    "errosComuns": [
+      "Uma figura com borda curva, como um círculo, não é polígono; uma linha poligonal aberta também não é."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "poligonos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual condição caracteriza um polígono regular?",
+      "alternativas": [
+        "Somente lados iguais.",
+        "Somente ângulos iguais.",
+        "Lados e ângulos internos todos iguais.",
+        "Ter quatro lados."
+      ],
+      "correta": 2,
+      "explicacao": "Regularidade exige igualdade de todos os lados e de todos os ângulos internos."
+    },
+    {
+      "id": "poligonos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Procure duas faces planas de embalagens, desenhe seus contornos e classifique os polígonos. Investigue se são regulares usando medidas.",
+      "gabarito": "Identificar lados retos, fechamento, número de lados e vértices. A regularidade deve ser justificada por lados e ângulos, sem concluir apenas pelo nome da embalagem.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Identificar lados retos, fechamento, número de lados e vértices. A regularidade deve ser justificada por lados e ângulos, sem concluir apenas pelo nome da embalagem.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "poligonos",
+    "classificacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        339,
+        340,
+        341
+      ],
+      "paginasImpressas": "342, 343, 344",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.angulos_e_poligonos.angulos"
+  ],
+  "proximosPassos": [
+    "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno"
+  ]
 }

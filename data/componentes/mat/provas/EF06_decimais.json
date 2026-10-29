@@ -1,0 +1,158 @@
+{
+  "id": "mat.ef06.decimais.prova",
+  "titulo": "Avaliação: Decimais",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF06",
+  "unidade": "Decimais",
+  "bncc": [
+    "EF06MA01",
+    "EF06MA02",
+    "EF06MA08",
+    "EF06MA11",
+    "EF06MA12",
+    "EF06MA13"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "A parte objetiva tem cinco itens, valendo dois pontos cada. A correção aparece ao final. A etapa prática tem rubrica própria e exige conferência do professor; a nota objetiva não certifica sozinha o domínio da unidade.",
+  "questoes": [
+    "mat.ef06.decimais.prova.01",
+    "mat.ef06.decimais.prova.02",
+    "mat.ef06.decimais.prova.03",
+    "mat.ef06.decimais.prova.04",
+    "mat.ef06.decimais.prova.05"
+  ],
+  "criterios": "Parte objetiva: dois pontos por item correto. Etapa prática: observar a produção real com a rubrica; sem nota automática. O diagnóstico serve para orientar retomadas.",
+  "matriz": [
+    {
+      "bncc": "EF06MA01",
+      "questoes": [
+        "mat.ef06.decimais.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.decimais.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA02",
+      "questoes": [
+        "mat.ef06.decimais.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.decimais.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA08",
+      "questoes": [
+        "mat.ef06.decimais.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.decimais.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA11",
+      "questoes": [
+        "mat.ef06.decimais.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.decimais.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA12",
+      "questoes": [
+        "mat.ef06.decimais.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.decimais.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA13",
+      "questoes": [
+        "mat.ef06.decimais.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.decimais.pratica"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef06.decimais.pratica",
+    "tipo": "discursiva",
+    "titulo": "Compra, representação e conferência",
+    "enunciado": "Uma compra tem 1,2 kg de alimento a R$ 7,50/kg e um item de R$ 2,30. Estime, calcule o total e o troco para R$ 20,00. Escreva 0,75 como fração e represente sua posição numa reta de 0 a 1. Explique como calcular um desconto de 10% sobre o total.",
+    "gabarito": "O alimento custa 9,00; o total é 11,30 e o troco 8,70. 0,75 = 3/4. O desconto é 1,13 e o preço com desconto seria 10,17. Conferir a coerência da estimativa e a escala da reta.",
+    "bncc": [
+      "EF06MA01",
+      "EF06MA02",
+      "EF06MA08",
+      "EF06MA11",
+      "EF06MA12",
+      "EF06MA13"
+    ],
+    "rubrica": [
+      "Realizar a tarefa e apresentar registros verificáveis (texto, desenho, modelo, tabela, gráfico ou fluxograma).",
+      "Explicar os procedimentos, propriedades e unidades utilizadas.",
+      "Conferir o resultado e discutir limites, aproximações ou ambiguidades quando aplicáveis."
+    ],
+    "correcao": "Docente; a interface oferece autoavaliação orientada, não uma nota automática para essa etapa."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        96,
+        97
+      ],
+      "paginasImpressas": "98, 99, 100",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "paginasImpressas": "100, 101, 102, 103, 104, 105",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        97,
+        98,
+        99
+      ],
+      "paginasImpressas": "100, 101, 102",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        196,
+        197,
+        198
+      ],
+      "paginasImpressas": "199, 200, 201",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ]
+}

@@ -2,36 +2,122 @@
   "id": "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 25,
+  "ordem": 36,
   "unidade": "Ângulos e polígonos",
   "titulo": "Ponto, Reta e Plano",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA22"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Utilizar modelos de ponto, reta e plano em representações feitas com instrumentos.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Utilizar modelos de ponto, reta e plano em representações feitas com instrumentos.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Entes Geométricos</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Apresentação intuitiva dos conceitos primitivos da geometria.\n        </p>\n        \n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">📍 Definições Básicas:</p>\n            <ul class=\"list-disc list-inside text-gray-700 dark:text-gray-300 mt-2\">\n                <li><strong>Ponto:</strong> Uma localização.</li>\n                <li><strong>Reta:</strong> Uma direção infinita.</li>\n                <li><strong>Plano:</strong> Uma superfície infinita.</li>\n            </ul>\n        </div>\n    </div>\n    "
+        "html": "<h2>Ponto, Reta e Plano</h2><h3>O que vamos aprender</h3><p>Utilizar modelos de ponto, reta e plano em representações feitas com instrumentos.</p><h3>Ideias e relações</h3><p>Ponto, reta e plano são ideias geométricas. Um ponto indica uma posição e não tem dimensão; uma reta é ilimitada nos dois sentidos; um plano é uma superfície ideal sem espessura e ilimitada. Os traços no papel são representações, não os objetos ideais. Dois pontos distintos determinam uma reta. Um segmento é a parte da reta limitada por dois pontos; uma semirreta tem origem e se prolonga em um sentido. Usar uma régua para unir marcas ajuda a representar segmentos com precisão.</p><h3>Exemplo resolvido</h3><p>Marque A e B na folha e trace com régua o segmento AB. Para representar a reta que passa por eles, prolongue o traço nos dois sentidos e use setas. A medida de AB depende apenas das duas extremidades.</p><h3>Atenção ao raciocínio</h3><p>Não confunda a medida de um segmento com o comprimento de uma reta: a reta não tem extremidades.</p><h3>Investigue, construa ou elabore</h3><p>Com régua, desenhe um segmento de 5 cm e represente uma reta que o contém. Descreva a diferença entre as duas representações.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "ponto_reta_plano",
+      "geometria"
+    ],
+    "errosComuns": [
+      "Não confunda a medida de um segmento com o comprimento de uma reta: a reta não tem extremidades."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "ponto_reta_e_plano.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual objeto é limitado por dois pontos extremos?",
+      "alternativas": [
+        "Reta",
+        "Plano",
+        "Segmento de reta",
+        "Semirreta"
+      ],
+      "correta": 2,
+      "explicacao": "Um segmento tem duas extremidades; retas e planos são ilimitados, e semirretas têm uma origem."
+    },
+    {
+      "id": "ponto_reta_e_plano.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com régua, desenhe um segmento de 5 cm e represente uma reta que o contém. Descreva a diferença entre as duas representações.",
+      "gabarito": "O segmento deve ter extremidades separadas por 5 cm; o desenho da reta deve indicar prolongamento nos dois sentidos. O traço finito apenas representa a reta ideal.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "O segmento deve ter extremidades separadas por 5 cm; o desenho da reta deve indicar prolongamento nos dois sentidos. O traço finito apenas representa a reta ideal.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "ponto_reta_plano",
+    "geometria"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        322,
+        323,
+        324,
+        325,
+        326
+      ],
+      "paginasImpressas": "325, 326, 327, 328, 329",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes"
+  ]
 }

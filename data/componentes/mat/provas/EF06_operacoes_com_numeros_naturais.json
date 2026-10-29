@@ -1,0 +1,214 @@
+{
+  "id": "mat.ef06.operacoes_com_numeros_naturais.prova",
+  "titulo": "Avaliação: Operações com números naturais",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF06",
+  "unidade": "Operações com números naturais",
+  "bncc": [
+    "EF06MA03",
+    "EF06MA12",
+    "EF06MA14"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "A parte objetiva tem cinco itens, valendo dois pontos cada. A correção aparece ao final. A etapa prática tem rubrica própria e exige conferência do professor; a nota objetiva não certifica sozinha o domínio da unidade.",
+  "questoes": [
+    "mat.ef06.operacoes_com_numeros_naturais.prova.01",
+    "mat.ef06.operacoes_com_numeros_naturais.prova.02",
+    "mat.ef06.operacoes_com_numeros_naturais.prova.03",
+    "mat.ef06.operacoes_com_numeros_naturais.prova.04",
+    "mat.ef06.operacoes_com_numeros_naturais.prova.05"
+  ],
+  "criterios": "Parte objetiva: dois pontos por item correto. Etapa prática: observar a produção real com a rubrica; sem nota automática. O diagnóstico serve para orientar retomadas.",
+  "matriz": [
+    {
+      "bncc": "EF06MA03",
+      "questoes": [
+        "mat.ef06.operacoes_com_numeros_naturais.prova.01",
+        "mat.ef06.operacoes_com_numeros_naturais.prova.02",
+        "mat.ef06.operacoes_com_numeros_naturais.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.operacoes_com_numeros_naturais.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA12",
+      "questoes": [
+        "mat.ef06.operacoes_com_numeros_naturais.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.operacoes_com_numeros_naturais.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA14",
+      "questoes": [
+        "mat.ef06.operacoes_com_numeros_naturais.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.operacoes_com_numeros_naturais.pratica"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef06.operacoes_com_numeros_naturais.pratica",
+    "tipo": "discursiva",
+    "titulo": "Elaboração de problema e equilíbrio da igualdade",
+    "enunciado": "Crie um problema com pelo menos duas operações e resultado natural. Resolva por duas estratégias, produza uma estimativa e resolva 4 × □ + 8 = 52 explicando as operações nos dois membros.",
+    "gabarito": "O problema deve ter dados suficientes e solução consistente. A igualdade tem □ = 11: subtrair 8 dos dois membros e dividir ambos por 4. Comparar a estimativa com a solução.",
+    "bncc": [
+      "EF06MA03",
+      "EF06MA12",
+      "EF06MA14"
+    ],
+    "rubrica": [
+      "Realizar a tarefa e apresentar registros verificáveis (texto, desenho, modelo, tabela, gráfico ou fluxograma).",
+      "Explicar os procedimentos, propriedades e unidades utilizadas.",
+      "Conferir o resultado e discutir limites, aproximações ou ambiguidades quando aplicáveis."
+    ],
+    "correcao": "Docente; a interface oferece autoavaliação orientada, não uma nota automática para essa etapa."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        30
+      ],
+      "paginasImpressas": "32, 33",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        32,
+        33
+      ],
+      "paginasImpressas": "35, 36",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        32
+      ],
+      "paginasImpressas": "32, 35",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        34,
+        35,
+        36
+      ],
+      "paginasImpressas": "37, 38, 39",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        37,
+        38,
+        39
+      ],
+      "paginasImpressas": "40, 41, 42",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        37,
+        38
+      ],
+      "paginasImpressas": "40, 41",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        40,
+        41,
+        42
+      ],
+      "paginasImpressas": "43, 44, 45",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        32,
+        34
+      ],
+      "paginasImpressas": "32, 35, 37",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        14,
+        29
+      ],
+      "paginasImpressas": "17, 32",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        46,
+        47,
+        48
+      ],
+      "paginasImpressas": "49, 50, 51",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        37,
+        46
+      ],
+      "paginasImpressas": "40, 49",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        148,
+        154
+      ],
+      "paginasImpressas": "151, 157",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        294,
+        295
+      ],
+      "paginasImpressas": "297, 298",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ]
+}

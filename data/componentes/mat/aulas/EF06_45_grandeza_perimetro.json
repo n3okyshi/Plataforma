@@ -2,36 +2,122 @@
   "id": "mat.ef06.grandezas_geometricas.grandeza_perimetro",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 45,
+  "ordem": 51,
   "unidade": "Grandezas geométricas",
   "titulo": "Grandeza Perímetro",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA24",
+    "EF06MA29"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Calcular perímetros por contagem ou soma e investigar sua relação com o lado de quadrados.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Calcular perímetros por contagem ou soma e investigar sua relação com o lado de quadrados.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Perímetro</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Conceito de perímetro como a medida do comprimento do <strong>contorno</strong> de uma figura plana.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🧱 Exemplos:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Cálculo de cercas para terrenos, molduras de quadros e voltas completas em pistas.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Grandeza Perímetro</h2><h3>O que vamos aprender</h3><p>Calcular perímetros por contagem ou soma e investigar sua relação com o lado de quadrados.</p><h3>Ideias e relações</h3><p>Perímetro é o comprimento de uma linha fechada que contorna uma figura. Podemos medi-lo com um fio ou somar os comprimentos de todos os lados. Em uma malha, conte os segmentos da borda e observe quanto mede cada segmento. Figuras com a mesma área podem ter perímetros diferentes. Em um quadrado, os quatro lados são iguais: se cada lado dobra, todos os quatro segmentos dobram e o perímetro também dobra. Essa relação deve ser observada por desenhos e contagens, sem confundir comprimento e área.</p><svg viewBox=\"0 0 440 240\" role=\"img\" aria-label=\"Quadrados em malha de lado 2 e de lado 4: quatro e dezesseis quadradinhos de área.\" style=\"max-width:100%;color:inherit\"><title>Quadrados em malha de lado 2 e de lado 4: quatro e dezesseis quadradinhos de área.</title><g fill=\"none\" stroke=\"currentColor\"><rect x=\"35\" y=\"80\" width=\"30\" height=\"30\"/><rect x=\"35\" y=\"110\" width=\"30\" height=\"30\"/><rect x=\"65\" y=\"80\" width=\"30\" height=\"30\"/><rect x=\"65\" y=\"110\" width=\"30\" height=\"30\"/><rect x=\"230\" y=\"50\" width=\"30\" height=\"30\"/><rect x=\"230\" y=\"80\" width=\"30\" height=\"30\"/><rect x=\"230\" y=\"110\" width=\"30\" height=\"30\"/><rect x=\"230\" y=\"140\" width=\"30\" height=\"30\"/><rect x=\"260\" y=\"50\" width=\"30\" height=\"30\"/><rect x=\"260\" y=\"80\" width=\"30\" height=\"30\"/><rect x=\"260\" y=\"110\" width=\"30\" height=\"30\"/><rect x=\"260\" y=\"140\" width=\"30\" height=\"30\"/><rect x=\"290\" y=\"50\" width=\"30\" height=\"30\"/><rect x=\"290\" y=\"80\" width=\"30\" height=\"30\"/><rect x=\"290\" y=\"110\" width=\"30\" height=\"30\"/><rect x=\"290\" y=\"140\" width=\"30\" height=\"30\"/><rect x=\"320\" y=\"50\" width=\"30\" height=\"30\"/><rect x=\"320\" y=\"80\" width=\"30\" height=\"30\"/><rect x=\"320\" y=\"110\" width=\"30\" height=\"30\"/><rect x=\"320\" y=\"140\" width=\"30\" height=\"30\"/></g><g fill=\"currentColor\" font-size=\"16\"><text x=\"30\" y=\"200\">Lado 2: área 4</text><text x=\"220\" y=\"200\">Lado 4: área 16</text></g></svg><h3>Exemplo resolvido</h3><p>Um retângulo de lados 7 cm e 4 cm tem contorno de 7 + 4 + 7 + 4 = 22 cm. Um quadrado de lado 2 tem perímetro 8; com lado 4, seu perímetro passa a 16.</p><h3>Atenção ao raciocínio</h3><p>Não some apenas dois lados de um retângulo; o contorno percorre os quatro.</p><h3>Investigue, construa ou elabore</h3><p>Construa em malha quadrados de lados 1, 2, 3 e 4 unidades. Conte seus perímetros e explique o que acontece ao dobrar um lado de 2 para 4.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "perimetro",
+      "grandezas"
+    ],
+    "errosComuns": [
+      "Não some apenas dois lados de um retângulo; o contorno percorre os quatro."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "grandeza_perimetro.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um retângulo de lados 7 cm e 4 cm tem perímetro de:",
+      "alternativas": [
+        "11 cm",
+        "18 cm",
+        "22 cm",
+        "28 cm"
+      ],
+      "correta": 2,
+      "explicacao": "Somamos os quatro lados: 7 + 4 + 7 + 4 = 22 cm."
+    },
+    {
+      "id": "grandeza_perimetro.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa em malha quadrados de lados 1, 2, 3 e 4 unidades. Conte seus perímetros e explique o que acontece ao dobrar um lado de 2 para 4.",
+      "gabarito": "Perímetros: 4, 8, 12 e 16. Dobrar a medida do lado dobra o perímetro porque todos os quatro lados são multiplicados por 2.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Perímetros: 4, 8, 12 e 16. Dobrar a medida do lado dobra o perímetro porque todos os quatro lados são multiplicados por 2.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "perimetro",
+    "grandezas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        112,
+        113
+      ],
+      "paginasImpressas": "115, 116",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.grandezas_geometricas.grandeza_comprimento"
+  ],
+  "proximosPassos": [
+    "mat.ef06.grandezas_geometricas.grandeza_area"
+  ]
 }

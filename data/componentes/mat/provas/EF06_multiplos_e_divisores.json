@@ -1,0 +1,114 @@
+{
+  "id": "mat.ef06.multiplos_e_divisores.prova",
+  "titulo": "Avaliação: Múltiplos e divisores",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF06",
+  "unidade": "Múltiplos e divisores",
+  "bncc": [
+    "EF06MA05",
+    "EF06MA06"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "A parte objetiva tem cinco itens, valendo dois pontos cada. A correção aparece ao final. A etapa prática tem rubrica própria e exige conferência do professor; a nota objetiva não certifica sozinha o domínio da unidade.",
+  "questoes": [
+    "mat.ef06.multiplos_e_divisores.prova.01",
+    "mat.ef06.multiplos_e_divisores.prova.02",
+    "mat.ef06.multiplos_e_divisores.prova.03",
+    "mat.ef06.multiplos_e_divisores.prova.04",
+    "mat.ef06.multiplos_e_divisores.prova.05"
+  ],
+  "criterios": "Parte objetiva: dois pontos por item correto. Etapa prática: observar a produção real com a rubrica; sem nota automática. O diagnóstico serve para orientar retomadas.",
+  "matriz": [
+    {
+      "bncc": "EF06MA05",
+      "questoes": [
+        "mat.ef06.multiplos_e_divisores.prova.01",
+        "mat.ef06.multiplos_e_divisores.prova.02",
+        "mat.ef06.multiplos_e_divisores.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.multiplos_e_divisores.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA06",
+      "questoes": [
+        "mat.ef06.multiplos_e_divisores.prova.04",
+        "mat.ef06.multiplos_e_divisores.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.multiplos_e_divisores.pratica"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef06.multiplos_e_divisores.pratica",
+    "tipo": "discursiva",
+    "titulo": "Investigar divisibilidade e agrupamentos",
+    "enunciado": "Investigue quais dos números 2,3,4,5,6,8,9,10,100 e 1.000 dividem 24.000. Explique os critérios e elabore um problema de agrupamentos ou encontros periódicos.",
+    "gabarito": "24.000 é divisível por 2,3,4,5,6,8,10,100 e 1.000; não é divisível por 9, pois a soma dos algarismos é 6. O problema criado precisa exigir e justificar relações de múltiplo ou divisor.",
+    "bncc": [
+      "EF06MA05",
+      "EF06MA06"
+    ],
+    "rubrica": [
+      "Realizar a tarefa e apresentar registros verificáveis (texto, desenho, modelo, tabela, gráfico ou fluxograma).",
+      "Explicar os procedimentos, propriedades e unidades utilizadas.",
+      "Conferir o resultado e discutir limites, aproximações ou ambiguidades quando aplicáveis."
+    ],
+    "correcao": "Docente; a interface oferece autoavaliação orientada, não uma nota automática para essa etapa."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        53,
+        54
+      ],
+      "paginasImpressas": "56, 57",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        66,
+        67
+      ],
+      "paginasImpressas": "69, 70",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "paginasImpressas": "56, 57, 58, 59, 60",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        58,
+        59,
+        60
+      ],
+      "paginasImpressas": "61, 62, 63",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ]
+}

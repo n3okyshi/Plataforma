@@ -2,36 +2,122 @@
   "id": "mat.ef06.operacoes_com_numeros_naturais.calculo_mental",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 11,
+  "ordem": 12,
   "unidade": "Operações com números naturais",
-  "titulo": "Calculo Mental",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Cálculo Mental",
+  "bncc": [
+    "EF06MA03"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Escolher e explicar decomposições e compensações para calcular mentalmente.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Escolher e explicar decomposições e compensações para calcular mentalmente.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Cálculo Mental</h3>\n<p class=\"text-gray-700 dark:text-gray-300\">Objetivo: desenvolver estratégias de cálculo ágil (dobrar, dividir por 2, aproximações, fatoração mental) para estimar e calcular sem papel.</p>\n<p class=\"text-gray-700 dark:text-gray-300\">Exemplos de estratégias: usar a decomposição (35×6 = 30×6 + 5×6), dobrar/duplicar para multiplicações por 2, e dividir por 10 para calcular 10%.</p>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Atividade — Mental</label>\n  <p>Calcule de cabeça: 49 × 5 = ?</p>\n  <input id=\"atividade-mental-1\" class=\"w-40 mt-2 p-2 border rounded\" />\n  <button class=\"mt-2 btn btn-primary\">Verificar</button>\n</div>\n<div class=\"mt-4\">\n  <label class=\"block font-semibold\">Microquiz</label>\n  <p>Qual é a forma mais rápida para calcular 25 × 16?</p>\n  <div>\n    <button class=\"btn\">Usar fatoração por 4</button>\n    <button class=\"btn\">Somar 25 repetidamente</button>\n    <button class=\"btn\">Multiplicar 2×5 e 1×6</button>\n  </div>\n</div>\n    "
+        "html": "<h2>Cálculo Mental</h2><h3>O que vamos aprender</h3><p>Escolher e explicar decomposições e compensações para calcular mentalmente.</p><h3>Ideias e relações</h3><p>Cálculo mental não é adivinhar nem fazer toda a conta escrita na cabeça. É escolher relações entre números que tornem a operação mais simples. Podemos decompor, completar uma dezena ou centena e compensar uma alteração. Na adição, 398 + 57 pode virar 400 + 55: acrescentamos dois à primeira parcela e retiramos dois da segunda, conservando a soma. Na subtração, acrescentar a mesma quantidade aos dois termos conserva a diferença. Registre a transformação para justificar que o resultado não mudou.</p><h3>Exemplo resolvido</h3><p>Para 25 × 16, podemos pensar em 25 × 4 × 4 = 100 × 4 = 400. A estratégia usa que quatro grupos de 25 formam 100.</p><h3>Atenção ao raciocínio</h3><p>Na soma, aumentar as duas parcelas aumenta o resultado; para conservar a soma, uma compensação deve equilibrar a outra.</p><h3>Investigue, construa ou elabore</h3><p>Calcule 999 + 146 e 600 − 298 mentalmente. Escreva uma transformação válida para cada cálculo.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "calculo_mental",
+      "estimativa"
+    ],
+    "errosComuns": [
+      "Na soma, aumentar as duas parcelas aumenta o resultado; para conservar a soma, uma compensação deve equilibrar a outra."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "calculo_mental.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual transformação conserva o resultado de 398 + 57?",
+      "alternativas": [
+        "400 + 57",
+        "400 + 55",
+        "400 + 59",
+        "398 + 55"
+      ],
+      "correta": 1,
+      "explicacao": "Somar 2 a 398 e subtrair 2 de 57 conserva a soma: 455."
+    },
+    {
+      "id": "calculo_mental.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Calcule 999 + 146 e 600 − 298 mentalmente. Escreva uma transformação válida para cada cálculo.",
+      "gabarito": "999 + 146 = 1.000 + 145 = 1.145. 600 − 298 = 602 − 300 = 302. Aceitar decomposições equivalentes justificadas.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "999 + 146 = 1.000 + 145 = 1.145. 600 − 298 = 602 − 300 = 302. Aceitar decomposições equivalentes justificadas.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "calculo_mental",
+    "estimativa"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        29,
+        32,
+        34
+      ],
+      "paginasImpressas": "32, 35, 37",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.operacoes_com_numeros_naturais.potenciacao_de_numeros_naturais"
+  ],
+  "proximosPassos": [
+    "mat.ef06.operacoes_com_numeros_naturais.arredondamento_e_resultado_aproximado"
+  ]
 }

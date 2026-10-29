@@ -2,36 +2,120 @@
   "id": "mat.ef06.fracoes_e_porcentagem.ideias_associadas_a_fracao",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 32,
+  "ordem": 28,
   "unidade": "Frações e porcentagem",
-  "titulo": "Ideias associadas à fração",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "titulo": "Ideias Associadas à Fração",
+  "bncc": [
+    "EF06MA07"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Interpretar frações como partes iguais de um todo e como resultado de uma divisão.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Interpretar frações como partes iguais de um todo e como resultado de uma divisão.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Conceito de Fração</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Leitura, representação gráfica e identificação de <strong>numerador</strong> e <strong>denominador</strong>.\n        </p>\n        \n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🍕 Significados:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">A fração não é apenas \"parte de um todo\", mas também o resultado de uma <strong>divisão</strong> e uma <strong>razão</strong>.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Ideias Associadas à Fração</h2><h3>O que vamos aprender</h3><p>Interpretar frações como partes iguais de um todo e como resultado de uma divisão.</p><h3>Ideias e relações</h3><p>Uma fração a/b, com b diferente de zero, pode representar partes de um todo dividido em b partes iguais ou o resultado de dividir a por b. O denominador informa em quantas partes iguais a unidade foi dividida; o numerador informa quantas dessas partes consideramos. A unidade precisa ser conhecida: metade de uma pizza grande não tem necessariamente a mesma quantidade que metade de uma pizza pequena. Frações também podem ultrapassar uma unidade: 5/4 são cinco partes de tamanho um quarto.</p><h3>Exemplo resolvido</h3><p>Três pães repartidos igualmente entre quatro pessoas dão 3 ÷ 4 = 3/4 de pão para cada pessoa. Podemos cortar cada pão em quatro quartos; cada pessoa recebe três desses quartos.</p><h3>Atenção ao raciocínio</h3><p>Partes com tamanhos diferentes não representam frações iguais do mesmo todo apenas porque têm a mesma quantidade de pedaços.</p><h3>Investigue, construa ou elabore</h3><p>Desenhe duas unidades iguais e represente 5/4. Explique por que essa fração é maior que 1.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "fracoes",
+      "parte_de_um_todo"
+    ],
+    "errosComuns": [
+      "Partes com tamanhos diferentes não representam frações iguais do mesmo todo apenas porque têm a mesma quantidade de pedaços."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "ideias_associadas_a_fracao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Três pães são repartidos igualmente entre quatro pessoas. Cada pessoa recebe:",
+      "alternativas": [
+        "4/3 de pão",
+        "3/4 de pão",
+        "1/4 de pão",
+        "3 pães"
+      ],
+      "correta": 1,
+      "explicacao": "A quantidade por pessoa é o total dividido pelo número de pessoas: 3 ÷ 4 = 3/4."
+    },
+    {
+      "id": "ideias_associadas_a_fracao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe duas unidades iguais e represente 5/4. Explique por que essa fração é maior que 1.",
+      "gabarito": "Dividir cada unidade em quatro partes iguais e marcar cinco quartos: uma unidade inteira e mais um quarto. Como 5/4 = 4/4 + 1/4, supera 1.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Dividir cada unidade em quatro partes iguais e marcar cinco quartos: uma unidade inteira e mais um quarto. Como 5/4 = 4/4 + 1/4, supera 1.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fracoes",
+    "parte_de_um_todo"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        71,
+        72,
+        73
+      ],
+      "paginasImpressas": "74, 75, 76",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [],
+  "proximosPassos": [
+    "mat.ef06.fracoes_e_porcentagem.fracoes_equivalentes"
+  ]
 }

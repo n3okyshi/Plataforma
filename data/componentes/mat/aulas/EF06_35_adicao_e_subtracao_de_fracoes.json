@@ -2,36 +2,125 @@
   "id": "mat.ef06.fracoes_e_porcentagem.adicao_e_subtracao_de_fracoes",
   "componente": "mat",
   "nivel": "EF06",
-  "ordem": 35,
+  "ordem": 31,
   "unidade": "Frações e porcentagem",
   "titulo": "Adição e Subtração de Frações",
-  "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "bncc": [
+    "EF06MA10"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Resolver e elaborar problemas de adição e subtração de racionais positivos na forma fracionária.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Resolver e elaborar problemas de adição e subtração de racionais positivos na forma fracionária.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">Operações com Frações (+ e -)</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Resolução de operações de soma e subtração.\n        </p>\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">⚠️ Atenção:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">Se os denominadores forem iguais, conserva-se a base. Se forem diferentes, precisamos encontrar <strong>frações equivalentes (MMC)</strong> antes de somar.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>Adição e Subtração de Frações</h2><h3>O que vamos aprender</h3><p>Resolver e elaborar problemas de adição e subtração de racionais positivos na forma fracionária.</p><h3>Ideias e relações</h3><p>Somar ou subtrair frações exige que as partes tenham o mesmo tamanho. Com denominadores iguais, operamos os numeradores e conservamos o denominador. Com denominadores diferentes, primeiro buscamos frações equivalentes com um denominador comum; ele não precisa ser o menor possível, desde que as equivalências estejam corretas. Ao terminar, podemos simplificar o resultado. Em um problema, identifique se estamos juntando partes ou calculando uma diferença e mantenha a mesma unidade de referência.</p><h3>Exemplo resolvido</h3><p>Para 2/3 + 1/4, usamos doze partes: 8/12 + 3/12 = 11/12. Para 3/4 − 1/6, usamos 9/12 − 2/12 = 7/12.</p><h3>Atenção ao raciocínio</h3><p>2/3 + 1/4 não é 3/7: somar os denominadores muda o tamanho das partes e não representa a soma.</p><h3>Investigue, construa ou elabore</h3><p>Uma jarra recebeu 3/5 de litro e depois mais 1/4 de litro. Quanto recebeu ao todo? Elabore uma pergunta de subtração usando essas mesmas quantidades e resolva.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "fracoes",
+      "adicao",
+      "subtracao"
+    ],
+    "errosComuns": [
+      "2/3 + 1/4 não é 3/7: somar os denominadores muda o tamanho das partes e não representa a soma."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "adicao_e_subtracao_de_fracoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Quanto é 2/3 + 1/4?",
+      "alternativas": [
+        "3/7",
+        "3/12",
+        "11/12",
+        "9/12"
+      ],
+      "correta": 2,
+      "explicacao": "2/3 = 8/12 e 1/4 = 3/12; a soma é 11/12."
+    },
+    {
+      "id": "adicao_e_subtracao_de_fracoes.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Uma jarra recebeu 3/5 de litro e depois mais 1/4 de litro. Quanto recebeu ao todo? Elabore uma pergunta de subtração usando essas mesmas quantidades e resolva.",
+      "gabarito": "3/5 + 1/4 = 12/20 + 5/20 = 17/20 de litro. Uma diferença possível é 3/5 − 1/4 = 7/20 de litro; aceitar outra situação coerente.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "3/5 + 1/4 = 12/20 + 5/20 = 17/20 de litro. Uma diferença possível é 3/5 − 1/4 = 7/20 de litro; aceitar outra situação coerente.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "fracoes",
+    "adicao",
+    "subtracao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "paginasImpressas": "85, 86, 87, 88",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.fracoes_e_porcentagem.comparando_fracoes"
+  ],
+  "proximosPassos": [
+    "mat.ef06.fracoes_e_porcentagem.fracao_de_uma_quantidade"
+  ]
 }

@@ -1,0 +1,550 @@
+[
+  {
+    "id": "mat.ef06.angulos_e_poligonos.treino.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.ponto_reta_e_plano",
+    "bncc": [
+      "EF06MA22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual objeto é limitado por dois pontos extremos?",
+    "opcoes": [
+      "Reta",
+      "Plano",
+      "Segmento de reta",
+      "Semirreta"
+    ],
+    "correta": 2,
+    "explicacao": "Um segmento tem duas extremidades; retas e planos são ilimitados, e semirretas têm uma origem.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          322,
+          323,
+          324,
+          325,
+          326
+        ],
+        "paginasImpressas": "325, 326, 327, 328, 329",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.angulos_e_poligonos.treino.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes",
+    "bncc": [
+      "EF06MA22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas retas perpendiculares formam ângulos de:",
+    "opcoes": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correta": 3,
+    "explicacao": "A perpendicularidade corresponde à formação de ângulos retos, de 90°.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          329,
+          355
+        ],
+        "paginasImpressas": "332, 358",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.angulos_e_poligonos.treino.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.angulos",
+    "bncc": [
+      "EF06MA25"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um ângulo de 120° é:",
+    "opcoes": [
+      "Agudo",
+      "Reto",
+      "Obtuso",
+      "Raso"
+    ],
+    "correta": 2,
+    "explicacao": "120° é maior que 90° e menor que 180°, portanto é obtuso.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          328,
+          330,
+          333
+        ],
+        "paginasImpressas": "331, 333, 336",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.angulos_e_poligonos.treino.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.poligonos",
+    "bncc": [
+      "EF06MA18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual condição caracteriza um polígono regular?",
+    "opcoes": [
+      "Somente lados iguais.",
+      "Somente ângulos iguais.",
+      "Lados e ângulos internos todos iguais.",
+      "Ter quatro lados."
+    ],
+    "correta": 2,
+    "explicacao": "Regularidade exige igualdade de todos os lados e de todos os ângulos internos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          339,
+          340,
+          341
+        ],
+        "paginasImpressas": "342, 343, 344",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.angulos_e_poligonos.treino.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.regiao_plana_e_contorno",
+    "bncc": [
+      "EF06MA18",
+      "EF06MA24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O retângulo de 4 por 3 ocupa quantos quadradinhos unitários?",
+    "opcoes": [
+      "7",
+      "12",
+      "14",
+      "16"
+    ],
+    "correta": 1,
+    "explicacao": "São três fileiras com quatro quadradinhos, totalizando 12 unidades de área.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          112,
+          113
+        ],
+        "paginasImpressas": "115, 116",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.angulos_e_poligonos.treino.06",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.plano_cartesiano",
+    "bncc": [
+      "EF06MA16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No par (3,5), a coordenada horizontal é:",
+    "opcoes": [
+      "0",
+      "2",
+      "3",
+      "5"
+    ],
+    "correta": 2,
+    "explicacao": "A primeira coordenada informa a posição horizontal: x = 3.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298
+        ],
+        "paginasImpressas": "300, 301",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.angulos_e_poligonos.treino.07",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas",
+    "bncc": [
+      "EF06MA21"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um retângulo 3 por 2 é ampliado pelo fator 2. Suas medidas ficam:",
+    "opcoes": [
+      "5 e 4",
+      "6 e 2",
+      "6 e 4",
+      "3 e 4"
+    ],
+    "correta": 2,
+    "explicacao": "Os dois comprimentos são multiplicados pelo mesmo fator: 3×2 = 6 e 2×2 = 4.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          171
+        ],
+        "paginasImpressas": "173, 174",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.angulos_e_poligonos.prova.01",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.poligonos",
+    "bncc": [
+      "EF06MA18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual figura é um polígono regular?",
+    "opcoes": [
+      "Retângulo de lados 2 e 5.",
+      "Quadrado.",
+      "Círculo.",
+      "Triângulo de lados 3, 4 e 5."
+    ],
+    "correta": 1,
+    "explicacao": "O quadrado possui todos os lados e ângulos internos iguais; círculo não é polígono.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          339,
+          340,
+          341
+        ],
+        "paginasImpressas": "342, 343, 344",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.angulos_e_poligonos.prova.02",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.plano_cartesiano",
+    "bncc": [
+      "EF06MA16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No ponto (4,2), o deslocamento vertical a partir da origem é de:",
+    "opcoes": [
+      "2 unidades",
+      "4 unidades",
+      "6 unidades",
+      "8 unidades"
+    ],
+    "correta": 0,
+    "explicacao": "A segunda coordenada fornece a posição vertical y = 2.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          297,
+          298
+        ],
+        "paginasImpressas": "300, 301",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.angulos_e_poligonos.prova.03",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.retas_paralelas_e_retas_concorrentes",
+    "bncc": [
+      "EF06MA22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas retas coplanares distintas que não se encontram são:",
+    "opcoes": [
+      "Sempre perpendiculares.",
+      "Paralelas.",
+      "Sempre concorrentes.",
+      "Segmentos iguais."
+    ],
+    "correta": 1,
+    "explicacao": "Paralelas distintas, no mesmo plano, não têm ponto em comum.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          329,
+          355
+        ],
+        "paginasImpressas": "332, 358",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.angulos_e_poligonos.prova.04",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.ampliacao_e_reducao_de_figuras_planas",
+    "bncc": [
+      "EF06MA21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um retângulo de 5 por 3 é ampliado com fator 3. As novas medidas são:",
+    "opcoes": [
+      "8 e 6",
+      "15 e 3",
+      "15 e 9",
+      "10 e 6"
+    ],
+    "correta": 2,
+    "explicacao": "Os dois comprimentos são multiplicados pelo mesmo fator: 15 e 9.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          170,
+          171
+        ],
+        "paginasImpressas": "173, 174",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "mat.ef06.angulos_e_poligonos.prova.05",
+    "componente": "mat",
+    "tema": "Matemática",
+    "nivel": "EF06",
+    "unidade": "Ângulos e polígonos",
+    "aulaId": "mat.ef06.angulos_e_poligonos.angulos",
+    "bncc": [
+      "EF06MA25"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Prolongar os traços dos lados de um ângulo, sem girá-los, faz a abertura:",
+    "opcoes": [
+      "Dobrar.",
+      "Diminuir pela metade.",
+      "Aumentar conforme o comprimento.",
+      "Permanecer a mesma."
+    ],
+    "correta": 3,
+    "explicacao": "A abertura depende das direções das semirretas, não do tamanho dos traços.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          305
+        ],
+        "paginasImpressas": "303",
+        "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+      },
+      {
+        "documento": "MC_MATEM_EF.pdf",
+        "paginasPdf": [
+          328,
+          330,
+          333
+        ],
+        "paginasImpressas": "331, 333, 336",
+        "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

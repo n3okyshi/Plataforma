@@ -1,0 +1,210 @@
+{
+  "id": "mat.ef06.fracoes_e_porcentagem.prova",
+  "titulo": "Avaliação: Frações e porcentagem",
+  "componente": "mat",
+  "tema": "Matemática",
+  "nivel": "EF06",
+  "unidade": "Frações e porcentagem",
+  "bncc": [
+    "EF06MA01",
+    "EF06MA07",
+    "EF06MA08",
+    "EF06MA09",
+    "EF06MA10",
+    "EF06MA13",
+    "EF06MA21"
+  ],
+  "duracaoMin": 25,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "A parte objetiva tem cinco itens, valendo dois pontos cada. A correção aparece ao final. A etapa prática tem rubrica própria e exige conferência do professor; a nota objetiva não certifica sozinha o domínio da unidade.",
+  "questoes": [
+    "mat.ef06.fracoes_e_porcentagem.prova.01",
+    "mat.ef06.fracoes_e_porcentagem.prova.02",
+    "mat.ef06.fracoes_e_porcentagem.prova.03",
+    "mat.ef06.fracoes_e_porcentagem.prova.04",
+    "mat.ef06.fracoes_e_porcentagem.prova.05"
+  ],
+  "criterios": "Parte objetiva: dois pontos por item correto. Etapa prática: observar a produção real com a rubrica; sem nota automática. O diagnóstico serve para orientar retomadas.",
+  "matriz": [
+    {
+      "bncc": "EF06MA01",
+      "questoes": [],
+      "avaliacoesPraticas": []
+    },
+    {
+      "bncc": "EF06MA07",
+      "questoes": [
+        "mat.ef06.fracoes_e_porcentagem.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.fracoes_e_porcentagem.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA08",
+      "questoes": [
+        "mat.ef06.fracoes_e_porcentagem.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.fracoes_e_porcentagem.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA09",
+      "questoes": [
+        "mat.ef06.fracoes_e_porcentagem.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.fracoes_e_porcentagem.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA10",
+      "questoes": [
+        "mat.ef06.fracoes_e_porcentagem.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.fracoes_e_porcentagem.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA13",
+      "questoes": [
+        "mat.ef06.fracoes_e_porcentagem.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "mat.ef06.fracoes_e_porcentagem.pratica"
+      ]
+    },
+    {
+      "bncc": "EF06MA21",
+      "questoes": [],
+      "avaliacoesPraticas": [
+        "mat.ef06.fracoes_e_porcentagem.pratica"
+      ]
+    }
+  ],
+  "avaliacaoPratica": {
+    "id": "mat.ef06.fracoes_e_porcentagem.pratica",
+    "tipo": "discursiva",
+    "titulo": "Resolver, representar e construir uma redução",
+    "enunciado": "Resolva 3/4 − 1/5, encontre 3/5 de 30 e 25% de 160. Represente 3/4 como decimal e em reta. Em malha, reduza um retângulo de 10 por 6 pelo fator 1/2 e justifique a semelhança.",
+    "gabarito": "3/4 − 1/5 = 11/20; 3/5 de 30 = 18; 25% de 160 = 40; 3/4 = 0,75. A redução mede 5 por 3; os comprimentos têm razão 1/2 e os ângulos permanecem retos.",
+    "bncc": [
+      "EF06MA07",
+      "EF06MA08",
+      "EF06MA09",
+      "EF06MA10",
+      "EF06MA13",
+      "EF06MA21"
+    ],
+    "rubrica": [
+      "Realizar a tarefa e apresentar registros verificáveis (texto, desenho, modelo, tabela, gráfico ou fluxograma).",
+      "Explicar os procedimentos, propriedades e unidades utilizadas.",
+      "Conferir o resultado e discutir limites, aproximações ou ambiguidades quando aplicáveis."
+    ],
+    "correcao": "Docente; a interface oferece autoavaliação orientada, não uma nota automática para essa etapa."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        303
+      ],
+      "paginasImpressas": "301",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        71,
+        72,
+        73
+      ],
+      "paginasImpressas": "74, 75, 76",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        74,
+        75,
+        76
+      ],
+      "paginasImpressas": "77, 78, 79",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "paginasImpressas": "80, 81, 82, 83, 84, 85",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "paginasImpressas": "85, 86, 87, 88",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        71,
+        72,
+        89
+      ],
+      "paginasImpressas": "74, 75, 92",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        95,
+        96,
+        97
+      ],
+      "paginasImpressas": "98, 99, 100",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        170,
+        171
+      ],
+      "paginasImpressas": "173, 174",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        196,
+        197,
+        198
+      ],
+      "paginasImpressas": "199, 200, 201",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ]
+}

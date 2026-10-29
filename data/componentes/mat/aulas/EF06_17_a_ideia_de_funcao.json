@@ -6,32 +6,106 @@
   "unidade": "Operações com números naturais",
   "titulo": "A Ideia de Função",
   "bncc": [],
-  "duracaoMin": 50,
-  "dificuldade": 1,
+  "duracaoMin": 45,
+  "dificuldade": 2,
   "conteudo": {
-    "objetivos": [],
-    "resumo": "",
+    "objetivos": [
+      "Descrever uma regra de correspondência em uma tabela simples como aprofundamento complementar.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Descrever uma regra de correspondência em uma tabela simples como aprofundamento complementar.",
     "blocos": [
       {
         "tipo": "html",
-        "html": "\n    <h3 class=\"text-2xl font-bold text-brand-blue mb-4\">O Que é Função?</h3>\n    <div class=\"bg-white dark:bg-brand-darkCard p-6 rounded-2xl border-2 border-gray-100 dark:border-gray-700 shadow-sm space-y-4\">\n        <p class=\"text-lg leading-relaxed text-gray-600 dark:text-gray-300\">\n            Formalização da relação entre grandezas. Definição rigorosa de Domínio (entrada), Contradomínio (possíveis saídas) e Imagem (saídas reais).\n        </p>\n        \n\n\n\n        <div class=\"bg-blue-50 dark:bg-blue-900/20 p-4 rounded-xl border-l-4 border-brand-blue\">\n            <p class=\"font-bold text-brand-blue dark:text-blue-300\">🔍 Teste da Reta Vertical:</p>\n            <p class=\"text-gray-700 dark:text-gray-300\">No gráfico, se você traçar uma linha vertical e ela cortar a curva em mais de um ponto, <strong>não é função</strong>.</p>\n        </div>\n    </div>\n    "
+        "html": "<h2>A Ideia de Função</h2><h3>O que vamos aprender</h3><p>Descrever uma regra de correspondência em uma tabela simples como aprofundamento complementar.</p><h3>Ideias e relações</h3><p>Nesta exploração complementar, vamos descrever regras de correspondência entre números. Uma regra pode associar um valor de entrada a um valor de saída. Ao organizar pares em uma tabela, podemos observar o que permanece igual e prever outras saídas, desde que a regra esteja explícita. Apenas olhar poucos pares nem sempre revela uma regra única: por isso, não devemos tratar qualquer palpite como uma conclusão. Aqui trabalhamos somente com regras dadas por operações com naturais, sem antecipar o estudo formal de funções do Ensino Médio.</p><h3>Exemplo resolvido</h3><p>A regra “multiplicar por 3 e acrescentar 2” transforma 1 em 5, 2 em 8 e 4 em 14. Para a entrada 6, a saída é 3 × 6 + 2 = 20.</p><h3>Atenção ao raciocínio</h3><p>A regra completa importa: “somar 2 e depois multiplicar por 3” é outra transformação.</p><h3>Investigue, construa ou elabore</h3><p>Crie uma regra em duas etapas, produza três pares entrada–saída e explique por que a ordem das etapas importa.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
       }
     ],
-    "vocabulario": [],
-    "errosComuns": []
+    "vocabulario": [
+      "funcao",
+      "variavel"
+    ],
+    "errosComuns": [
+      "A regra completa importa: “somar 2 e depois multiplicar por 3” é outra transformação."
+    ]
   },
-  "atividades": [],
-  "areas": [],
-  "tags": [],
-  "preRequisitos": [],
-  "proximosPassos": [],
-  "fontes": [],
+  "atividades": [
+    {
+      "id": "a_ideia_de_funcao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Pela regra “multiplicar por 3 e acrescentar 2”, a entrada 6 produz:",
+      "alternativas": [
+        "11",
+        "18",
+        "20",
+        "24"
+      ],
+      "correta": 2,
+      "explicacao": "A saída é 3 × 6 + 2 = 20."
+    },
+    {
+      "id": "a_ideia_de_funcao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Crie uma regra em duas etapas, produza três pares entrada–saída e explique por que a ordem das etapas importa.",
+      "gabarito": "Exemplo: multiplicar por 2 e somar 5 produz 1→7, 2→9, 3→11. Inverter as etapas produziria outras saídas. Aceitar tabelas consistentes com a regra informada.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Exemplo: multiplicar por 2 e somar 5 produz 1→7, 2→9, 3→11. Inverter as etapas produziria outras saídas. Aceitar tabelas consistentes com a regra informada.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "funcao",
+    "variavel"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        294,
+        295
+      ],
+      "paginasImpressas": "297, 298",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
   "metadados": {
-    "versao": 1,
-    "revisado": false,
-    "autor": "migracao:legado",
-    "legado": true,
-    "estado": "rascunho",
-    "origem": "componentes.zip"
-  }
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": true,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "observacaoCurricular": "Aprofundamento complementar; não representa uma habilidade específica obrigatória de função ou de corpos redondos para o 6º ano.",
+  "preRequisitos": [
+    "mat.ef06.operacoes_com_numeros_naturais.igualdade_e_propriedades_das_desigualdades"
+  ],
+  "proximosPassos": []
 }

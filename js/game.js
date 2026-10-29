@@ -323,6 +323,10 @@ var game = {
 
         const key = `${app.state.currentSubject}|${app.state.currentLevel}|${unidade}|${tipo}`;
         const reg = app.state.userProgress.desempenho[key] || { nota: 0, tentativas: 0 };
+        if (tipo === 'prova') {
+            reg.escopo = 'parte_objetiva';
+            reg.etapaPraticaPendente = !!(window.Registry && Registry.getProva(app.state.currentLevel, app.state.currentSubject, unidade)?.avaliacaoPratica);
+        }
 
         if (tipo === 'prova') {
             // Regra da Prova: Máximo 3 tentativas, salva a maior nota

@@ -1,0 +1,121 @@
+{
+  "id": "mat.ef06.proporcionalidade_e_partilha.problemas_de_partilha_e_razao",
+  "componente": "mat",
+  "nivel": "EF06",
+  "ordem": 60,
+  "unidade": "Proporcionalidade e Partilha",
+  "titulo": "Problemas de Partilha e Razão",
+  "bncc": [
+    "EF06MA15"
+  ],
+  "duracaoMin": 45,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Distinguir relações aditivas e multiplicativas em partilhas desiguais e elaborar problemas.",
+      "Justificar a solução e revisar uma resposta com base em uma conferência."
+    ],
+    "resumo": "Distinguir relações aditivas e multiplicativas em partilhas desiguais e elaborar problemas.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Problemas de Partilha e Razão</h2><h3>O que vamos aprender</h3><p>Distinguir relações aditivas e multiplicativas em partilhas desiguais e elaborar problemas.</p><h3>Ideias e relações</h3><p>Dizer que uma pessoa recebe “dez a mais” é uma relação aditiva; dizer “o dobro” é multiplicativa. Para uma partilha com diferença fixa, podemos retirar a diferença do total e dividir igualmente o restante, devolvendo depois essa diferença à maior parte. Para uma partilha com razão, contamos as partes de referência indicadas pela relação. Um desenho de barras ajuda a decidir qual estratégia corresponde ao problema. Confira sempre o total e a diferença ou razão exigida.</p><h3>Exemplo resolvido</h3><p>Duas equipes repartem 70 pontos, e a primeira recebe 10 a mais. Retiramos os 10 extras: 70 − 10 = 60. Cada parte básica vale 30; as equipes recebem 40 e 30.</p><h3>Atenção ao raciocínio</h3><p>“Dez a mais” não significa “dez vezes”. Interpretar a relação é mais importante que escolher uma conta pela palavra “dividir”.</p><h3>Investigue, construa ou elabore</h3><p>Crie dois problemas com total 96: um com diferença de 16 entre as partes e outro com razão 1:3. Resolva e compare.</p><p><strong>Registre no caderno:</strong> uma ideia central, a resolução justificada e uma forma de conferir seu resultado.</p>"
+      }
+    ],
+    "vocabulario": [
+      "partilha",
+      "problemas"
+    ],
+    "errosComuns": [
+      "“Dez a mais” não significa “dez vezes”. Interpretar a relação é mais importante que escolher uma conta pela palavra “dividir”."
+    ]
+  },
+  "atividades": [
+    {
+      "id": "problemas_de_partilha_e_razao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Duas partes somam 70 e a maior supera a menor em 10. Elas são:",
+      "alternativas": [
+        "35 e 35",
+        "45 e 25",
+        "40 e 30",
+        "60 e 10"
+      ],
+      "correta": 2,
+      "explicacao": "Retirando a diferença, 60 é repartido igualmente; depois os 10 extras voltam à maior parte."
+    },
+    {
+      "id": "problemas_de_partilha_e_razao.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Crie dois problemas com total 96: um com diferença de 16 entre as partes e outro com razão 1:3. Resolva e compare.",
+      "gabarito": "Na diferença de 16: (96 − 16) ÷ 2 = 40 e 56. Na razão 1:3: 96 ÷ 4 = 24, dando 24 e 72. Contextos e conferências devem corresponder às relações.",
+      "rubrica": [
+        "Responder ao problema ou realizar a construção solicitada.",
+        "Na diferença de 16: (96 − 16) ÷ 2 = 40 e 56. Na razão 1:3: 96 ÷ 4 = 24, dando 24 e 72. Contextos e conferências devem corresponder às relações.",
+        "Explicitar o raciocínio, as unidades ou as propriedades e uma forma de conferência."
+      ]
+    }
+  ],
+  "areas": [
+    "matematica"
+  ],
+  "tags": [
+    "partilha",
+    "problemas"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        305
+      ],
+      "paginasImpressas": "303",
+      "uso": "Delimitação das habilidades. Explicações, exemplos e questões são autorais."
+    },
+    {
+      "documento": "MC_MATEM_EF.pdf",
+      "paginasPdf": [
+        148,
+        170,
+        183
+      ],
+      "paginasImpressas": "151, 173, 186",
+      "uso": "Referência conceitual e localização de seção; exemplos e itens não transcritos do livro."
+    }
+  ],
+  "metadados": {
+    "versao": 3,
+    "revisado": true,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "legado": false,
+    "revisao": "Revisão conceitual assistida, com conferência de exemplos e respostas; aplicação em turma, revisão visual e homologação docente pendentes."
+  },
+  "complementar": false,
+  "roteiroDocente": [
+    {
+      "min": 5,
+      "acao": "Levantar estratégias e conhecimentos prévios."
+    },
+    {
+      "min": 10,
+      "acao": "Discutir as ideias e o exemplo resolvido."
+    },
+    {
+      "min": 10,
+      "acao": "Responder e justificar a aplicação."
+    },
+    {
+      "min": 15,
+      "acao": "Realizar a investigação, construção ou elaboração."
+    },
+    {
+      "min": 5,
+      "acao": "Comparar soluções e registrar a síntese."
+    }
+  ],
+  "preRequisitos": [
+    "mat.ef06.proporcionalidade_e_partilha.razao_e_proporcao_no_cotidiano"
+  ],
+  "proximosPassos": []
+}
