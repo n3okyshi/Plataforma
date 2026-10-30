@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 2,
+  "unidade": "Misturas do Dia a Dia",
+  "titulo": "Misturas Heterogêneas",
+  "bncc": [
+    "EF04CI01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Observe com adulto água/areia ou o caso descrito de água/óleo. Faça dois registros, indicando componentes e tempo de repouso.",
+      "Compare com água e pouco sal dissolvido. Explique diferença de aspecto sem dizer que o componente invisível deixou de existir."
+    ],
+    "resumo": "Misturas heterogêneas apresentam regiões de aspectos diferentes na escala observada.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas\">Misturas Homogêneas</button></p><h2>Misturas Heterogêneas</h2><h3>Para compreender</h3><p>Misturas heterogêneas apresentam regiões de aspectos diferentes na escala observada. Água e areia podem deixar grãos visíveis; água e óleo podem formar camadas depois de repousar. Agitar pode dispersar gotas temporariamente, sem tornar todos os materiais dissolvidos. O aspecto depende de tempo e modo de observação. Descrever camadas, partículas e repouso ajuda mais que dizer apenas diferente. Nenhuma amostra didática é usada para alimentação.</p><h3>Exemplo comentado</h3><p>Em um exemplo, água e óleo são agitados e depois repousam. Registrar os dois momentos permite perceber a separação de regiões.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Observe com adulto água/areia ou o caso descrito de água/óleo. Faça dois registros, indicando componentes e tempo de repouso.</p><h4>Proposta 2</h4><p>Compare com água e pouco sal dissolvido. Explique diferença de aspecto sem dizer que o componente invisível deixou de existir.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — Why Does Water Dissolve Salt?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "misturas_heterogeneas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Água e areia com grãos visíveis são exemplo de:",
+      "alternativas": [
+        "Material puro porque é natural.",
+        "Mistura heterogênea na observação.",
+        "Água sem outro componente."
+      ],
+      "correta": 1,
+      "explicacao": "Há regiões/partículas distinguíveis.",
+      "bncc": [
+        "EF04CI01"
+      ]
+    },
+    {
+      "id": "misturas_heterogeneas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Observe com adulto água/areia ou o caso descrito de água/óleo. Faça dois registros, indicando componentes e tempo de repouso.",
+      "gabarito": "Regiões/grãos e origem real ou caso explicitados; sem atribuir dissolução só à agitação.",
+      "rubrica": [
+        "Regiões/grãos e origem real ou caso explicitados; sem atribuir dissolução só à agitação.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI01"
+      ]
+    },
+    {
+      "id": "misturas_heterogeneas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare com água e pouco sal dissolvido. Explique diferença de aspecto sem dizer que o componente invisível deixou de existir.",
+      "gabarito": "Heterogeneidade versus uniformidade na escala observada; composição em ambos.",
+      "rubrica": [
+        "Heterogeneidade versus uniformidade na escala observada; composição em ambos.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+      "consulta": "2026-10-30",
+      "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas"
+  ],
+  "proximosPassos": [
+    "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Misturas do Dia a Dia",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "titulo": "Misturas Heterogêneas"
+  }
+}

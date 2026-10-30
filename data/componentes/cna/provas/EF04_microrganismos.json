@@ -1,0 +1,148 @@
+{
+  "id": "cna.ef04.microrganismos.prova",
+  "titulo": "Avaliação: Microrganismos",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Microrganismos",
+  "bncc": [
+    "EF04CI06",
+    "EF04CI07"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef04.microrganismos.decomposicao.prova.1",
+    "cna.ef04.microrganismos.importancia_ambiental.prova.1",
+    "cna.ef04.microrganismos.fermentacao.prova.1",
+    "cna.ef04.microrganismos.medicamentos_e_combustiveis.prova.1",
+    "cna.ef04.microrganismos.microrganismos_uteis.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.microrganismos.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Microrganismos",
+    "enunciado": "Compare decomposição, pão, iogurte, etanol e obtenção de penicilina em quadro com organismo/processo/produto ou efeito. Explique importância ambiental e diferença entre produção controlada e alimento estragado. Responda ao personagem que quer usar mofo como remédio ou produzir combustível na escola.",
+    "gabarito": "Fungos/bactérias decompositores; leveduras em pão/etanol, bactérias selecionadas no iogurte e fungo/substância/purificação na penicilina; sem generalização, cultivo de desconhecidos, automedicação ou fabricação infantil.",
+    "rubrica": [
+      "Fungos/bactérias decompositores; leveduras em pão/etanol, bactérias selecionadas no iogurte e fungo/substância/purificação na penicilina; sem generalização, cultivo de desconhecidos, automedicação ou fabricação infantil.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF04CI06",
+      "EF04CI07"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef04.microrganismos.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Microrganismos",
+        "enunciado": "Compare decomposição, pão, iogurte, etanol e obtenção de penicilina em quadro com organismo/processo/produto ou efeito. Explique importância ambiental e diferença entre produção controlada e alimento estragado. Responda ao personagem que quer usar mofo como remédio ou produzir combustível na escola.",
+        "gabarito": "Fungos/bactérias decompositores; leveduras em pão/etanol, bactérias selecionadas no iogurte e fungo/substância/purificação na penicilina; sem generalização, cultivo de desconhecidos, automedicação ou fabricação infantil.",
+        "rubrica": [
+          "Fungos/bactérias decompositores; leveduras em pão/etanol, bactérias selecionadas no iogurte e fungo/substância/purificação na penicilina; sem generalização, cultivo de desconhecidos, automedicação ou fabricação infantil.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF04CI06",
+          "EF04CI07"
+        ],
+        "aulasReferencia": [
+          "cna.ef04.microrganismos.decomposicao",
+          "cna.ef04.microrganismos.importancia_ambiental",
+          "cna.ef04.microrganismos.fermentacao",
+          "cna.ef04.microrganismos.medicamentos_e_combustiveis",
+          "cna.ef04.microrganismos.microrganismos_uteis"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef04.microrganismos.decomposicao#decomposicao.producao1",
+      "cna.ef04.microrganismos.decomposicao#decomposicao.producao2",
+      "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao1",
+      "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao2",
+      "cna.ef04.microrganismos.fermentacao#fermentacao.producao1",
+      "cna.ef04.microrganismos.fermentacao#fermentacao.producao2",
+      "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao1",
+      "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao2",
+      "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao1",
+      "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "NOAA Education — Aquatic food webs",
+      "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+      "consulta": "2026-10-30",
+      "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+    },
+    {
+      "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+      "url": "https://afdc.energy.gov/fuels/ethanol-production",
+      "consulta": "2026-10-30",
+      "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+    },
+    {
+      "documento": "American Chemical Society — Discovery and Development of Penicillin",
+      "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI06",
+      "questoes": [
+        "cna.ef04.microrganismos.decomposicao.prova.1",
+        "cna.ef04.microrganismos.importancia_ambiental.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.microrganismos.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef04.microrganismos.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.microrganismos.decomposicao#decomposicao.producao1",
+        "cna.ef04.microrganismos.decomposicao#decomposicao.producao2",
+        "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao1",
+        "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao2"
+      ]
+    },
+    {
+      "bncc": "EF04CI07",
+      "questoes": [
+        "cna.ef04.microrganismos.fermentacao.prova.1",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis.prova.1",
+        "cna.ef04.microrganismos.microrganismos_uteis.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.microrganismos.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef04.microrganismos.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.microrganismos.fermentacao#fermentacao.producao1",
+        "cna.ef04.microrganismos.fermentacao#fermentacao.producao2",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao1",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao2",
+        "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao1",
+        "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao2"
+      ]
+    }
+  ]
+}

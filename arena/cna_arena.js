@@ -21586,6 +21586,3890 @@ registrarQuestoes([
     "estado": "piloto",
     "complementar": false,
     "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "O sal dissolvido deixou de existir porque não vemos os grãos?",
+    "opcoes": [
+      "Não, permanece na mistura.",
+      "Sim, ficou sem matéria.",
+      "Sim, toda mistura transparente é água pura."
+    ],
+    "correta": 0,
+    "explicacao": "Dissolver não significa eliminar o componente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um copo transparente sem identificação permite afirmar que contém água pura?",
+    "opcoes": [
+      "Não; aparência não identifica todos os componentes.",
+      "Sim, se não houver cheiro.",
+      "Sim, transparência basta."
+    ],
+    "correta": 0,
+    "explicacao": "Aspecto uniforme não certifica composição ou potabilidade.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Água e areia com grãos visíveis são exemplo de:",
+    "opcoes": [
+      "Mistura heterogênea na observação.",
+      "Água sem outro componente.",
+      "Material puro porque é natural."
+    ],
+    "correta": 0,
+    "explicacao": "Há regiões/partículas distinguíveis.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Água e óleo agitados parecem mais dispersos e depois formam camadas. O relato deve:",
+    "opcoes": [
+      "Informar os momentos e a formação de camadas.",
+      "Chamar de solução estável apenas pelo primeiro instante.",
+      "Apagar a observação posterior."
+    ],
+    "correta": 0,
+    "explicacao": "O tempo de observação integra a descrição da mistura.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma solução uniforme pode ter mais de um componente?",
+    "opcoes": [
+      "Não, se for transparente.",
+      "Sim, como água e sal dissolvido.",
+      "Não, uniformidade significa material puro."
+    ],
+    "correta": 1,
+    "explicacao": "Componente é material presente, mesmo sem região visível própria.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Duas camadas visíveis permitem conhecer todos os ingredientes de qualquer mistura?",
+    "opcoes": [
+      "Sim, um ingrediente por camada sempre.",
+      "Não; pode haver mais componentes do que regiões visíveis.",
+      "Sim, sem informações sobre preparo."
+    ],
+    "correta": 1,
+    "explicacao": "Regiões observáveis não enumeram necessariamente todas as substâncias.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual comparação está adequada?",
+    "opcoes": [
+      "Salmoura não tem sal porque é transparente.",
+      "Salada em pedaços e salmoura podem ter aspectos distintos e vários componentes.",
+      "Todo líquido de cozinha é material puro."
+    ],
+    "correta": 1,
+    "explicacao": "Aspecto e composição são descritos separadamente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma receita informa sal que não está visível no caldo. Devemos:",
+    "opcoes": [
+      "Provar o caldo da investigação.",
+      "Conservar a informação de composição com a fonte indicada.",
+      "Retirar sal da lista por não enxergá-lo."
+    ],
+    "correta": 1,
+    "explicacao": "Um ingrediente dissolvido pode não ser distinguido a olho nu.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.separando_componentes.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.separando_componentes",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Peneirar areia e pedrinhas aproveita principalmente:",
+    "opcoes": [
+      "A temperatura de fervura.",
+      "A presença obrigatória de microrganismos.",
+      "O tamanho diferente dos sólidos."
+    ],
+    "correta": 2,
+    "explicacao": "A abertura permite passar certas partículas e reter outras.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.separando_componentes.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.separando_componentes",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um filtro de papel deixou passar água com sal dissolvido. Isso significa:",
+    "opcoes": [
+      "Que a água está pronta para beber.",
+      "Que todo sal ficou no filtro.",
+      "Que o método não separa necessariamente o sal dissolvido."
+    ],
+    "correta": 2,
+    "explicacao": "Filtrar partículas e remover material dissolvido são problemas distintos.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para investigar luz, é melhor comparar:",
+    "opcoes": [
+      "Somente fotos sem data.",
+      "Materiais de tipos e umidades diferentes.",
+      "Mesmo material e condições semelhantes, mudando a exposição à luz."
+    ],
+    "correta": 2,
+    "explicacao": "Mudar vários fatores dificulta atribuir o efeito à luz.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não houve alteração visível no prazo observado. O relato correto é:",
+    "opcoes": [
+      "Declarar mudança para confirmar a previsão.",
+      "Concluir que luz nunca altera material algum.",
+      "Registrar o resultado e o limite de material, tempo e método."
+    ],
+    "correta": 2,
+    "explicacao": "Resultados negativos ou inconclusivos também precisam ser preservados.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.observando_mudancas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma transformação deve ser descrita com base em:",
+    "opcoes": [
+      "Registros antes/depois e condições.",
+      "Apenas a expectativa do observador.",
+      "Somente o nome do material."
+    ],
+    "correta": 0,
+    "explicacao": "A comparação permite identificar qual propriedade mudou.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.observando_mudancas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Papel secou ondulado. Isso basta para dizer qual substância nova se formou?",
+    "opcoes": [
+      "Não; mudança observável não identifica sozinha nova substância.",
+      "Sim, sem qualquer informação adicional.",
+      "Sim, toda mudança de forma é química."
+    ],
+    "correta": 0,
+    "explicacao": "Forma é evidência descritiva, não diagnóstico universal de composição.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "O que fazer quando uma medida não foi realizada?",
+    "opcoes": [
+      "Copiar outra amostra como real.",
+      "Registrar a lacuna e planejar nova observação.",
+      "Estimar sem avisar."
+    ],
+    "correta": 1,
+    "explicacao": "Completude visual de tabela não justifica fabricar dados.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para outra pessoa compreender um teste, ajuda registrar:",
+    "opcoes": [
+      "Somente a conclusão esperada.",
+      "Pergunta, condições, método, tempo e resultados.",
+      "Apenas se o aluno gostou."
+    ],
+    "correta": 1,
+    "explicacao": "Rastreabilidade sustenta interpretação e revisão do teste.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para comparar rapidez de mudança, precisamos considerar:",
+    "opcoes": [
+      "Apenas a última fotografia sem data.",
+      "Somente qual amostra ficou mais bonita.",
+      "Duração, material e condições do teste."
+    ],
+    "correta": 2,
+    "explicacao": "Mudanças ao longo do tempo exigem referências comparáveis.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não mudou em cinco minutos. Podemos concluir que nunca mudará?",
+    "opcoes": [
+      "Sim, todo processo termina nesse prazo.",
+      "Sim, se o material for papel.",
+      "Não; o intervalo pode ser insuficiente para aquele processo."
+    ],
+    "correta": 2,
+    "explicacao": "A duração observada limita a conclusão.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.comparando_condicoes",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Mudar vários fatores ao mesmo tempo:",
+    "opcoes": [
+      "Sempre prova qual fator foi responsável.",
+      "Dispensa registrar o método.",
+      "Dificulta isolar a causa de uma diferença."
+    ],
+    "correta": 2,
+    "explicacao": "Podem existir explicações concorrentes para o resultado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.comparando_condicoes",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual plano compara melhor umidade?",
+    "opcoes": [
+      "Papel seco à sombra e tecido molhado ao sol.",
+      "Duas fotos de materiais desconhecidos.",
+      "Mesmo papel e local, com uma amostra seca e outra com água registrada."
+    ],
+    "correta": 2,
+    "explicacao": "Condições semelhantes tornam a pergunta mais delimitada.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "aulaId": "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Esfriar um ovo cozido normalmente o torna cru?",
+    "opcoes": [
+      "Sim, basta ficar frio.",
+      "Sim, se a casca for retirada.",
+      "Não, ele permanece cozido."
+    ],
+    "correta": 2,
+    "explicacao": "A inversão de temperatura não desfaz o cozimento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "aulaId": "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual comparação distingue dois tipos de mudança?",
+    "opcoes": [
+      "Toda mudança térmica é idêntica.",
+      "Ovo e água voltam sempre ao início só por esfriar.",
+      "Água pode mudar de estado reversivelmente; cozimento do ovo não se desfaz só por resfriar."
+    ],
+    "correta": 2,
+    "explicacao": "A conclusão depende do material e do processo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.reversivel_ou_nao.queima_de_papel.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "aulaId": "cna.ef04.reversivel_ou_nao.queima_de_papel",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Pouca cinza após a queima significa que toda a matéria sumiu?",
+    "opcoes": [
+      "Sim, porque não vemos o ar.",
+      "Sim, cinza é tudo que existe depois.",
+      "Não; gases e outros produtos também foram formados."
+    ],
+    "correta": 2,
+    "explicacao": "O que deixa o recipiente não deixa de existir.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.reversivel_ou_nao.queima_de_papel.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "aulaId": "cna.ef04.reversivel_ou_nao.queima_de_papel",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para estudar queima de papel nesta aula, deve-se:",
+    "opcoes": [
+      "Acender pequena folha para confirmar.",
+      "Pedir à criança que sinta a fumaça.",
+      "Analisar a sequência descrita sem fogo ou resíduos reais."
+    ],
+    "correta": 2,
+    "explicacao": "A representação permite discutir o fenômeno com segurança.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "aulaId": "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Gelo derreteu. Para recuperar gelo é necessário:",
+    "opcoes": [
+      "Apenas mudar o nome da amostra.",
+      "Deixar em qualquer temperatura ambiente.",
+      "Fornecer condições adequadas de resfriamento."
+    ],
+    "correta": 2,
+    "explicacao": "Reversibilidade exige condições e não acontece só por desejo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "aulaId": "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Água líquida fria é necessariamente gelo?",
+    "opcoes": [
+      "Sim, qualquer água fria é sólida.",
+      "Sim, se estiver transparente.",
+      "Não; frio e estado sólido não são equivalentes."
+    ],
+    "correta": 2,
+    "explicacao": "Estado físico precisa ser observado, não inferido só pela palavra frio.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "aulaId": "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual afirmação é adequada?",
+    "opcoes": [
+      "A reversão depende do processo; esfriar cinza não refaz a folha.",
+      "Todo papel rasgado demonstra reação química.",
+      "Todo material frio voltou ao estado inicial."
+    ],
+    "correta": 0,
+    "explicacao": "A conclusão deve corresponder ao fenômeno descrito.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "aulaId": "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Dificuldade de desfazer uma mudança basta para identificar substância nova?",
+    "opcoes": [
+      "Não; é necessário analisar evidências e o que mudou.",
+      "Sim, em todos os casos.",
+      "Sim, sem observar o processo."
+    ],
+    "correta": 0,
+    "explicacao": "Irreversibilidade cotidiana não é teste universal de reação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "aulaId": "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Bolhas numa água aquecida provam, sozinhas, criação de uma nova substância?",
+    "opcoes": [
+      "Sim, porque toda água desaparece.",
+      "Não; podem acompanhar mudança de estado.",
+      "Sim, qualquer bolha prova reação."
+    ],
+    "correta": 1,
+    "explicacao": "Um sinal deve ser interpretado no contexto do processo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "aulaId": "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma boa conclusão sobre mudança deve:",
+    "opcoes": [
+      "Repetir a previsão mesmo se os dados discordarem.",
+      "Relacionar afirmação, registros e limites do método.",
+      "Ignorar condições e tempo."
+    ],
+    "correta": 1,
+    "explicacao": "Evidência e alcance da conclusão precisam combinar.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.consumidores.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.consumidores",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Na cadeia capim → gafanhoto → sapo, o gafanhoto:",
+    "opcoes": [
+      "É produtor porque vive no capim.",
+      "É consumidor que se alimenta do produtor.",
+      "Recebe alimento diretamente do Sol."
+    ],
+    "correta": 1,
+    "explicacao": "Posição depende de quem fornece alimento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.consumidores.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.consumidores",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "As setas adotadas nesta unidade indicam:",
+    "opcoes": [
+      "A posição geográfica dos animais.",
+      "Transferência do alimento para quem o consome.",
+      "Quem persegue quem obrigatoriamente."
+    ],
+    "correta": 1,
+    "explicacao": "A convenção precisa ser lida de modo consistente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.decompositores.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.decompositores",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Decompositores podem atuar sobre restos de:",
+    "opcoes": [
+      "Somente o último predador.",
+      "Apenas pedras sem matéria orgânica.",
+      "Produtores e consumidores."
+    ],
+    "correta": 2,
+    "explicacao": "Restos são produzidos em diferentes partes da rede alimentar.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.decompositores.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.decompositores",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual afirmação está correta?",
+    "opcoes": [
+      "Todo fungo causa doença.",
+      "Decompositores devolvem toda energia ao Sol.",
+      "Muitos fungos e bactérias transformam restos e participam da circulação de nutrientes."
+    ],
+    "correta": 2,
+    "explicacao": "Função ambiental e diversidade precisam ser consideradas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.montando_uma_cadeia.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.montando_uma_cadeia",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual cadeia corresponde aos cartões?",
+    "opcoes": [
+      "Capim → gafanhoto → sapo.",
+      "Sapo → capim → gafanhoto.",
+      "Capim → sapo → gafanhoto."
+    ],
+    "correta": 0,
+    "explicacao": "A sequência acompanha as relações alimentares informadas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.montando_uma_cadeia.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.montando_uma_cadeia",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Dois animais no mesmo lugar formam obrigatoriamente uma relação alimentar?",
+    "opcoes": [
+      "Não; é preciso evidência ou fonte sobre a relação.",
+      "Sim, proximidade basta.",
+      "Sim, o maior sempre come o menor."
+    ],
+    "correta": 0,
+    "explicacao": "Tamanho e proximidade não demonstram alimentação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "No modelo fotossintetizante, o Sol fornece principalmente:",
+    "opcoes": [
+      "Energia luminosa para a produção de alimento.",
+      "Folhas prontas para o produtor.",
+      "Minerais que substituem toda a água."
+    ],
+    "correta": 0,
+    "explicacao": "Luz fornece energia; matéria e alimento têm outros caminhos.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "O Sol deve ser classificado como produtor vivo da cadeia?",
+    "opcoes": [
+      "Não; é fonte de energia para os produtores do modelo.",
+      "Sim, porque consumidores o ingerem.",
+      "Sim, ele é uma planta."
+    ],
+    "correta": 0,
+    "explicacao": "Fonte de energia e organismo produtor não são equivalentes.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.teias_alimentares.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.teias_alimentares",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma teia alimentar representa:",
+    "opcoes": [
+      "Múltiplas relações que podem compartilhar organismos.",
+      "Apenas animais do mesmo tamanho.",
+      "Só uma sequência sem ligações."
+    ],
+    "correta": 0,
+    "explicacao": "Uma cadeia é um recorte de relações mais amplas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.teias_alimentares.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.teias_alimentares",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Reduzir um alimento numa teia permite prever com certeza todo resultado?",
+    "opcoes": [
+      "Não; há outros alimentos e condições a investigar.",
+      "Sim, sem considerar outras fontes.",
+      "Sim, todos desaparecem."
+    ],
+    "correta": 0,
+    "explicacao": "Modelos apoiam hipóteses, não garantem todos os efeitos.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Equilíbrio ecológico significa:",
+    "opcoes": [
+      "Relações dinâmicas, com mudanças e dependências entre seres e ambiente.",
+      "Quantidades idênticas de todos os seres para sempre.",
+      "Nenhuma alteração em qualquer estação."
+    ],
+    "correta": 0,
+    "explicacao": "Ecossistemas não são sistemas de números imutáveis.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "aulaId": "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Depois de retirar vegetação, caiu o número de avistamentos. Devemos:",
+    "opcoes": [
+      "Investigar condições e método antes de atribuir uma única causa.",
+      "Concluir sem registros que todos morreram.",
+      "Introduzir animais para corrigir rapidamente."
+    ],
+    "correta": 0,
+    "explicacao": "Avistamento, população e causalidade não são a mesma medida.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "aulaId": "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Na circulação de matéria, uma folha morta:",
+    "opcoes": [
+      "Pode ser transformada na decomposição, com materiais retornando ao ambiente.",
+      "Volta intacta à mesma árvore obrigatoriamente.",
+      "Deixa de existir sem outro destino."
+    ],
+    "correta": 0,
+    "explicacao": "Há transformação e diferentes destinos, não retorno automático do objeto.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "aulaId": "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Matéria só circula entre seres vivos?",
+    "opcoes": [
+      "Não; componentes não vivos também entram nos caminhos.",
+      "Sim, decompositores não se relacionam ao ambiente.",
+      "Sim, água e ar não participam."
+    ],
+    "correta": 0,
+    "explicacao": "Ambiente e seres participam de processos conectados.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "aulaId": "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Toda energia de um produtor fica disponível ao consumidor seguinte?",
+    "opcoes": [
+      "Não; parte é usada e se dispersa como calor.",
+      "Sim, quando há decompositores.",
+      "Sim, sem nenhuma transformação."
+    ],
+    "correta": 0,
+    "explicacao": "A transferência alimentar não conserva toda a energia numa única etapa disponível.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "aulaId": "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Decompositores fecham um ciclo que devolve energia ao Sol?",
+    "opcoes": [
+      "Não; energia não percorre o mesmo ciclo da matéria.",
+      "Sim, como fazem com todos os nutrientes.",
+      "Sim, por consumir restos."
+    ],
+    "correta": 0,
+    "explicacao": "Confundir reciclagem de nutrientes com energia é um erro do modelo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "aulaId": "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma lista de árvore, solo e insetos mostra sozinha todas as relações?",
+    "opcoes": [
+      "Sim, sem data ou contexto.",
+      "Não; é necessário descrever ou investigar as conexões.",
+      "Sim, nomes já provam alimentação."
+    ],
+    "correta": 1,
+    "explicacao": "O estudo de ecossistema inclui relações e condições.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "aulaId": "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Ver formigas perto de folhas mortas prova que elas realizaram toda decomposição?",
+    "opcoes": [
+      "Sim, proximidade é prova suficiente.",
+      "Não; função e processo precisam de evidências adicionais.",
+      "Sim, fungos e bactérias não participam."
+    ],
+    "correta": 1,
+    "explicacao": "Presença, comportamento e papel ecológico precisam ser distinguidos.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "aulaId": "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual comparação está correta?",
+    "opcoes": [
+      "Matéria e energia são sempre a mesma coisa.",
+      "Matéria circula entre componentes; energia se transforma e se dispersa.",
+      "Energia volta ao Sol pela decomposição."
+    ],
+    "correta": 1,
+    "explicacao": "Os modelos precisam mostrar diferenças além das semelhanças.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "aulaId": "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Por que usar setas nomeadas em vez de um único círculo?",
+    "opcoes": [
+      "Para dispensar explicações.",
+      "Para distinguir processos e evitar confusão entre matéria e energia.",
+      "Para provar que tudo tem o mesmo caminho."
+    ],
+    "correta": 1,
+    "explicacao": "Rótulos tornam o alcance da representação compreensível.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "aulaId": "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um animal ao comer recebe:",
+    "opcoes": [
+      "Somente matéria que nunca muda.",
+      "Matéria e energia química, com destinos distintos.",
+      "Apenas energia, sem matéria."
+    ],
+    "correta": 1,
+    "explicacao": "Alimento participa de transferências de matéria e de energia.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "aulaId": "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não medir as quantidades autoriza preencher números para o esquema parecer completo?",
+    "opcoes": [
+      "Sim, se forem chamados reais.",
+      "Não; o modelo pode ser qualitativo e declarar esse limite.",
+      "Sim, se os números forem redondos."
+    ],
+    "correta": 1,
+    "explicacao": "Um esquema qualitativo não equivale a resultado quantitativo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.decomposicao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.decomposicao",
+    "bncc": [
+      "EF04CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Decomposição significa que restos:",
+    "opcoes": [
+      "Só mudam quando um animal os leva.",
+      "São transformados, participando da circulação de materiais.",
+      "Somem sem qualquer produto."
+    ],
+    "correta": 1,
+    "explicacao": "Fungos e bactérias têm participação importante no processo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.decomposicao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.decomposicao",
+    "bncc": [
+      "EF04CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Podemos identificar a espécie de microrganismo só pela cor do mofo?",
+    "opcoes": [
+      "Sim, sempre.",
+      "Não; aparência não é identificação suficiente e não se manipula o material.",
+      "Sim, se cheirarmos de perto."
+    ],
+    "correta": 1,
+    "explicacao": "Identificação exige métodos apropriados, fora da prática infantil.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.importancia_ambiental.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.importancia_ambiental",
+    "bncc": [
+      "EF04CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Valorizar decompositores significa comer alimentos mofados?",
+    "opcoes": [
+      "Sim, todo fungo útil pode ser ingerido.",
+      "Não; função ambiental e segurança alimentar são questões distintas.",
+      "Sim, se removermos a parte colorida."
+    ],
+    "correta": 1,
+    "explicacao": "Papel ecológico não autoriza consumo de material deteriorado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.importancia_ambiental.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.importancia_ambiental",
+    "bncc": [
+      "EF04CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual papel está relacionado à importância da decomposição?",
+    "opcoes": [
+      "Manter todos os restos sempre na mesma forma.",
+      "Transformar restos e disponibilizar materiais no ambiente.",
+      "Devolver toda a energia ao Sol."
+    ],
+    "correta": 1,
+    "explicacao": "A função envolve relações e transformações, não desaparecimento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.fermentacao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.fermentacao",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Leveduras na massa de pão podem contribuir por:",
+    "opcoes": [
+      "Atuar somente como ar misturado, sem produzir substâncias.",
+      "Produzir gás que ajuda a massa a crescer.",
+      "Aquecer a massa sem transformar açúcares."
+    ],
+    "correta": 1,
+    "explicacao": "A atividade do microrganismo produz mudanças no processo controlado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.fermentacao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.fermentacao",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Deixar leite desconhecido estragar equivale a produzir iogurte com controle?",
+    "opcoes": [
+      "Sim, basta mudar o nome.",
+      "Não; microrganismos e condições selecionados importam.",
+      "Sim, qualquer bactéria produz o mesmo alimento."
+    ],
+    "correta": 1,
+    "explicacao": "Fermentação tecnológica e deterioração não são práticas equivalentes.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.medicamentos_e_combustiveis.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.medicamentos_e_combustiveis",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual relação está correta?",
+    "opcoes": [
+      "Qualquer bactéria produz qualquer combustível.",
+      "Leveduras podem participar da produção de etanol a partir de açúcares.",
+      "Todo mofo é medicamento pronto."
+    ],
+    "correta": 1,
+    "explicacao": "A aplicação depende de organismo e processo selecionados.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.medicamentos_e_combustiveis.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.medicamentos_e_combustiveis",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "A participação de um fungo na história da penicilina autoriza usar pão mofado como remédio?",
+    "opcoes": [
+      "Sim, são a mesma preparação.",
+      "Não; obtenção e controle de medicamento são processos especializados.",
+      "Sim, se não houver cheiro."
+    ],
+    "correta": 1,
+    "explicacao": "Origem de substância não equivale a preparação segura para tratamento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.microrganismos_uteis.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.microrganismos_uteis",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Todo microrganismo tem a mesma função e causa doença?",
+    "opcoes": [
+      "Sim, não há diversidade.",
+      "Não; funções e relações são variadas.",
+      "Sim, se não for visível a olho nu."
+    ],
+    "correta": 1,
+    "explicacao": "Categorias amplas não determinam um único efeito.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.microrganismos_uteis.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.microrganismos_uteis",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para verificar aplicação de microrganismo, é melhor:",
+    "opcoes": [
+      "Realizar cultivo desconhecido sem orientação.",
+      "Consultar fonte identificada sobre organismo, processo e produto.",
+      "Inferir só pela cor de um alimento deteriorado."
+    ],
+    "correta": 1,
+    "explicacao": "Verificação não depende de práticas inseguras.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.formas_de_transmissao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Toda doença infecciosa tem exatamente a mesma via de transmissão?",
+    "opcoes": [
+      "Sim, basta qualquer medida isolada.",
+      "Sim, só a cor do microrganismo importa.",
+      "Não; a prevenção precisa considerar o agente e a via."
+    ],
+    "correta": 2,
+    "explicacao": "Água/alimentos e vias respiratórias não são o mesmo caminho.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.formas_de_transmissao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um colega adoeceu. Isso prova falta de higiene?",
+    "opcoes": [
+      "Sim, se for criança.",
+      "Sim, sempre.",
+      "Não; há múltiplas condições e causas, e a pessoa precisa de acolhimento."
+    ],
+    "correta": 2,
+    "explicacao": "Não se atribui culpa ou diagnóstico a partir do adoecimento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um cartaz de higiene sem água ou sabão resolve o acesso ao cuidado?",
+    "opcoes": [
+      "Sim, se o cartaz for grande.",
+      "Sim, informação substitui recursos.",
+      "Não; infraestrutura e apoio também são necessários."
+    ],
+    "correta": 2,
+    "explicacao": "A prevenção depende de condições reais de acesso.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual promessa deve ser evitada?",
+    "opcoes": [
+      "Medidas podem reduzir riscos de certas transmissões.",
+      "A prevenção depende da via.",
+      "Uma única ação garante ausência de qualquer doença."
+    ],
+    "correta": 2,
+    "explicacao": "Não há garantia universal por medida isolada.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um alimento com boa aparência está comprovadamente seguro?",
+    "opcoes": [
+      "Não; aparência sozinha não certifica segurança.",
+      "Sim, se não tiver cheiro forte.",
+      "Sim, a cor elimina qualquer risco."
+    ],
+    "correta": 0,
+    "explicacao": "Condições de origem e preparo também importam.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para comparar segurança de água didática, devemos:",
+    "opcoes": [
+      "Não consumir e buscar informação/controle apropriado com adulto.",
+      "Pedir a um colega que teste primeiro.",
+      "Provar pequena quantidade."
+    ],
+    "correta": 0,
+    "explicacao": "O estudo nunca usa ingestão como teste de risco.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Vacina e antibiótico são exatamente a mesma coisa?",
+    "opcoes": [
+      "Sim, dispensam outras medidas.",
+      "Não; têm funções diferentes e uso orientado.",
+      "Sim, ambos tratam qualquer vírus."
+    ],
+    "correta": 1,
+    "explicacao": "Vacinação promove proteção específica; antibióticos não são vacina.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual afirmação é adequada?",
+    "opcoes": [
+      "A turma deve escolher doses para colegas.",
+      "Vacinas podem proteger contra doenças específicas e não substituem todos os cuidados.",
+      "Toda vacina protege contra qualquer infecção."
+    ],
+    "correta": 1,
+    "explicacao": "A orientação individual cabe à equipe de saúde.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.saude_na_comunidade.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.saude_na_comunidade",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma ação coletiva de prevenção pode incluir:",
+    "opcoes": [
+      "Culpar quem adoeceu.",
+      "Expor diagnósticos de alunos.",
+      "Melhorar acesso a água segura e saneamento."
+    ],
+    "correta": 2,
+    "explicacao": "Infraestrutura e acesso influenciam riscos e possibilidades de cuidado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.saude_na_comunidade.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.saude_na_comunidade",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Entregar uma proposta comprova que o problema foi resolvido?",
+    "opcoes": [
+      "Sim, o texto prova execução.",
+      "Sim, se a turma concordar.",
+      "Não; é preciso acompanhar resposta, implementação e efeito."
+    ],
+    "correta": 2,
+    "explicacao": "Propor, executar e verificar são etapas distintas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.orientacao_pelo_sol.gnomon.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Orientação pelo Sol",
+    "aulaId": "cna.ef04.orientacao_pelo_sol.gnomon",
+    "bncc": [
+      "EF04CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "No método de círculo, as duas pontas selecionadas devem:",
+    "opcoes": [
+      "Estar na mesma distância da base da haste, em momentos distintos.",
+      "Ser quaisquer dois pontos sem referência.",
+      "Vir de hastes diferentes movidas livremente."
+    ],
+    "correta": 0,
+    "explicacao": "A condição geométrica sustenta a estimativa de direções.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "University of Massachusetts Amherst — Using shadows to find the four directions",
+        "url": "https://www.umass.edu/sunwheel/pages/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Texto do método de mesmo círculo e comparação com bússola consultado. Adaptação como estimativa; não importa latitude 42°N, sombra sempre norte, musgo em árvore ou horário fixo para Brasil. Figuras originais não foram inspecionadas/reproduzidas; esquema incorporado é autoral."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.orientacao_pelo_sol.gnomon.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Orientação pelo Sol",
+    "aulaId": "cna.ef04.orientacao_pelo_sol.gnomon",
+    "bncc": [
+      "EF04CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para estudar a sombra de um gnômon, deve-se:",
+    "opcoes": [
+      "Manter montagem estável e observar a sombra com adulto.",
+      "Usar lupa apontada para o Sol.",
+      "Olhar fixamente o Sol."
+    ],
+    "correta": 0,
+    "explicacao": "O método é indireto e não exige exposição visual perigosa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "University of Massachusetts Amherst — Using shadows to find the four directions",
+        "url": "https://www.umass.edu/sunwheel/pages/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Texto do método de mesmo círculo e comparação com bússola consultado. Adaptação como estimativa; não importa latitude 42°N, sombra sempre norte, musgo em árvore ou horário fixo para Brasil. Figuras originais não foram inspecionadas/reproduzidas; esquema incorporado é autoral."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.orientacao_pelo_sol.sombra_e_direcao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Orientação pelo Sol",
+    "aulaId": "cna.ef04.orientacao_pelo_sol.sombra_e_direcao",
+    "bncc": [
+      "EF04CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma sombra isolada sem data/local/horário identifica sempre o norte?",
+    "opcoes": [
+      "Não; é preciso método e referências.",
+      "Sim, se a haste for curta.",
+      "Sim, toda sombra aponta norte."
+    ],
+    "correta": 0,
+    "explicacao": "A direção depende da posição relativa da luz e das condições.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "University of Massachusetts Amherst — Using shadows to find the four directions",
+        "url": "https://www.umass.edu/sunwheel/pages/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Texto do método de mesmo círculo e comparação com bússola consultado. Adaptação como estimativa; não importa latitude 42°N, sombra sempre norte, musgo em árvore ou horário fixo para Brasil. Figuras originais não foram inspecionadas/reproduzidas; esquema incorporado é autoral."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.orientacao_pelo_sol.sombra_e_direcao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Orientação pelo Sol",
+    "aulaId": "cna.ef04.orientacao_pelo_sol.sombra_e_direcao",
+    "bncc": [
+      "EF04CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "A menor sombra aparece sempre às 12 h do relógio e no mesmo lado em todo lugar?",
+    "opcoes": [
+      "Não; horário civil, lugar e época precisam ser considerados.",
+      "Sim, sem exceção.",
+      "Sim, inclusive entre hemisférios."
+    ],
+    "correta": 0,
+    "explicacao": "Regras de um local não são universais.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "University of Massachusetts Amherst — Using shadows to find the four directions",
+        "url": "https://www.umass.edu/sunwheel/pages/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Texto do método de mesmo círculo e comparação com bússola consultado. Adaptação como estimativa; não importa latitude 42°N, sombra sempre norte, musgo em árvore ou horário fixo para Brasil. Figuras originais não foram inspecionadas/reproduzidas; esquema incorporado é autoral."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Orientação pelo Sol",
+    "aulaId": "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos",
+    "bncc": [
+      "EF04CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Na rosa convencional com norte acima, oeste fica:",
+    "opcoes": [
+      "Sempre acima do norte.",
+      "À esquerda.",
+      "À direita."
+    ],
+    "correta": 1,
+    "explicacao": "A posição no papel depende da orientação convencional explicitada.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "University of Massachusetts Amherst — Using shadows to find the four directions",
+        "url": "https://www.umass.edu/sunwheel/pages/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Texto do método de mesmo círculo e comparação com bússola consultado. Adaptação como estimativa; não importa latitude 42°N, sombra sempre norte, musgo em árvore ou horário fixo para Brasil. Figuras originais não foram inspecionadas/reproduzidas; esquema incorporado é autoral."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Orientação pelo Sol",
+    "aulaId": "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos",
+    "bncc": [
+      "EF04CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Girar uma folha faz o norte real mudar de direção?",
+    "opcoes": [
+      "Sim, o planeta acompanha a folha.",
+      "Não; é preciso orientar a representação em relação ao lugar.",
+      "Sim, o topo de qualquer folha é norte real."
+    ],
+    "correta": 1,
+    "explicacao": "Direção geográfica não é determinada pelo topo do suporte.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "University of Massachusetts Amherst — Using shadows to find the four directions",
+        "url": "https://www.umass.edu/sunwheel/pages/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Texto do método de mesmo círculo e comparação com bússola consultado. Adaptação como estimativa; não importa latitude 42°N, sombra sempre norte, musgo em árvore ou horário fixo para Brasil. Figuras originais não foram inspecionadas/reproduzidas; esquema incorporado é autoral."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Orientação pelo Sol",
+    "aulaId": "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola",
+    "bncc": [
+      "EF04CI10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Gnômon e bússola precisam indicar exatamente a mesma linha sem nenhuma diferença?",
+    "opcoes": [
+      "Sim, sempre.",
+      "Sim, qualquer diferença deve ser apagada.",
+      "Não; métodos, norte magnético/geográfico e erros de medida influenciam."
+    ],
+    "correta": 2,
+    "explicacao": "Comparar inclui examinar diferenças e condições.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "University of Massachusetts Amherst — Using shadows to find the four directions",
+        "url": "https://www.umass.edu/sunwheel/pages/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Texto do método de mesmo círculo e comparação com bússola consultado. Adaptação como estimativa; não importa latitude 42°N, sombra sempre norte, musgo em árvore ou horário fixo para Brasil. Figuras originais não foram inspecionadas/reproduzidas; esquema incorporado é autoral."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Orientação pelo Sol",
+    "aulaId": "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola",
+    "bncc": [
+      "EF04CI10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual atitude melhora o registro da comparação?",
+    "opcoes": [
+      "Modificar o desenho até coincidir.",
+      "Trocar o dado por uma previsão.",
+      "Anotar a diferença e possíveis fontes de interferência."
+    ],
+    "correta": 2,
+    "explicacao": "Resultado observado não deve ser ajustado para confirmar expectativa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "University of Massachusetts Amherst — Using shadows to find the four directions",
+        "url": "https://www.umass.edu/sunwheel/pages/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Texto do método de mesmo círculo e comparação com bússola consultado. Adaptação como estimativa; não importa latitude 42°N, sombra sempre norte, musgo em árvore ou horário fixo para Brasil. Figuras originais não foram inspecionadas/reproduzidas; esquema incorporado é autoral."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.calendarios_e_ciclos.movimento_da_terra.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Calendários e Ciclos",
+    "aulaId": "cna.ef04.calendarios_e_ciclos.movimento_da_terra",
+    "bncc": [
+      "EF04CI11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual associação é adequada?",
+    "opcoes": [
+      "Dia se relaciona à rotação e ano à translação da Terra.",
+      "Todo mês gregoriano é uma lunação exata.",
+      "Ano corresponde à rotação de uma hora."
+    ],
+    "correta": 0,
+    "explicacao": "Movimentos distintos sustentam referências temporais distintas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "U.S. Naval Observatory — Introduction to Calendars",
+        "url": "https://aa.usno.navy.mil/faq/calendars",
+        "consulta": "2026-10-30",
+        "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.calendarios_e_ciclos.movimento_da_terra.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Calendários e Ciclos",
+    "aulaId": "cna.ef04.calendarios_e_ciclos.movimento_da_terra",
+    "bncc": [
+      "EF04CI11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um modelo com esfera e luz é:",
+    "opcoes": [
+      "Representação simplificada que ajuda a explicar certos ciclos.",
+      "Filmagem em escala real do planeta.",
+      "Prova de todas as datas culturais."
+    ],
+    "correta": 0,
+    "explicacao": "Modelos têm alcance e limites.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "U.S. Naval Observatory — Introduction to Calendars",
+        "url": "https://aa.usno.navy.mil/faq/calendars",
+        "consulta": "2026-10-30",
+        "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.calendarios_e_ciclos.calendarios_culturais.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Calendários e Ciclos",
+    "aulaId": "cna.ef04.calendarios_e_ciclos.calendarios_culturais",
+    "bncc": [
+      "EF04CI11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um calendário lunissolar procura relacionar:",
+    "opcoes": [
+      "Meses lunares e ano solar, usando regras de ajuste.",
+      "Apenas números de dias escolhidos sem ciclos.",
+      "Somente horas de uma escola."
+    ],
+    "correta": 0,
+    "explicacao": "As durações dos ciclos não coincidem exatamente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "U.S. Naval Observatory — Introduction to Calendars",
+        "url": "https://aa.usno.navy.mil/faq/calendars",
+        "consulta": "2026-10-30",
+        "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.calendarios_e_ciclos.calendarios_culturais.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Calendários e Ciclos",
+    "aulaId": "cna.ef04.calendarios_e_ciclos.calendarios_culturais",
+    "bncc": [
+      "EF04CI11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Pessoas de uma tradição podem usar calendário civil e outro para certos eventos?",
+    "opcoes": [
+      "Sim; diferentes usos podem coexistir.",
+      "Não, toda cultura usa apenas um para tudo.",
+      "Não, um sempre prova que o outro está errado."
+    ],
+    "correta": 0,
+    "explicacao": "Uso social não se reduz a uma correspondência única entre pessoa e calendário.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "U.S. Naval Observatory — Introduction to Calendars",
+        "url": "https://aa.usno.navy.mil/faq/calendars",
+        "consulta": "2026-10-30",
+        "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.calendarios_e_ciclos.ciclos_naturais.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Calendários e Ciclos",
+    "aulaId": "cna.ef04.calendarios_e_ciclos.ciclos_naturais",
+    "bncc": [
+      "EF04CI11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Doze ciclos de 29,5 dias correspondem aproximadamente a:",
+    "opcoes": [
+      "354 dias.",
+      "365 dias exatos.",
+      "29,5 dias no total."
+    ],
+    "correta": 0,
+    "explicacao": "12 × 29,5 = 354; ciclos e ano solar não encaixam exatamente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "U.S. Naval Observatory — Introduction to Calendars",
+        "url": "https://aa.usno.navy.mil/faq/calendars",
+        "consulta": "2026-10-30",
+        "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.calendarios_e_ciclos.ciclos_naturais.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Calendários e Ciclos",
+    "aulaId": "cna.ef04.calendarios_e_ciclos.ciclos_naturais",
+    "bncc": [
+      "EF04CI11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Todos os meses civis começam na mesma fase da Lua?",
+    "opcoes": [
+      "Não; depende das regras do calendário, e o gregoriano não fixa essa correspondência.",
+      "Sim, em qualquer cultura e ano.",
+      "Sim, necessariamente."
+    ],
+    "correta": 0,
+    "explicacao": "Meses civis não são universalmente sinônimos de lunação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "U.S. Naval Observatory — Introduction to Calendars",
+        "url": "https://aa.usno.navy.mil/faq/calendars",
+        "consulta": "2026-10-30",
+        "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.calendarios_e_ciclos.tempo_e_cultura.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Calendários e Ciclos",
+    "aulaId": "cna.ef04.calendarios_e_ciclos.tempo_e_cultura",
+    "bncc": [
+      "EF04CI11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Criar calendário didático significa:",
+    "opcoes": [
+      "Explicar regras, finalidade e limites do recurso criado.",
+      "Escolher datas reais de festas sem fonte.",
+      "Representar obrigatoriamente toda tradição cultural."
+    ],
+    "correta": 0,
+    "explicacao": "Um projeto escolar tem escopo declarado, não autoridade sobre todas as práticas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "U.S. Naval Observatory — Introduction to Calendars",
+        "url": "https://aa.usno.navy.mil/faq/calendars",
+        "consulta": "2026-10-30",
+        "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.calendarios_e_ciclos.tempo_e_cultura.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Calendários e Ciclos",
+    "aulaId": "cna.ef04.calendarios_e_ciclos.tempo_e_cultura",
+    "bncc": [
+      "EF04CI11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para informar a data de uma celebração específica, é preciso:",
+    "opcoes": [
+      "Consultar fonte pertinente ao ano e à prática, reconhecendo variantes.",
+      "Adivinhar pela estação.",
+      "Copiar qualquer data de outro ano."
+    ],
+    "correta": 0,
+    "explicacao": "Regra geral de ciclo não substitui informação específica rastreável.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "U.S. Naval Observatory — Introduction to Calendars",
+        "url": "https://aa.usno.navy.mil/faq/calendars",
+        "consulta": "2026-10-30",
+        "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
   }
 ]);
 registrarProvas({
@@ -31147,6 +35031,1141 @@ registrarProvas({
         "atividadesPraticas": [
           "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao1",
           "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo#uso_consciente_do_solo.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef04.misturas_do_dia_a_dia.prova": {
+    "id": "cna.ef04.misturas_do_dia_a_dia.prova",
+    "titulo": "Avaliação: Misturas do Dia a Dia",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.prova.1",
+      "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.prova.1",
+      "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.prova.1",
+      "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.prova.1",
+      "cna.ef04.misturas_do_dia_a_dia.separando_componentes.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef04.misturas_do_dia_a_dia.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Misturas do Dia a Dia",
+      "enunciado": "Três fichas fictícias descrevem água com pouco sal dissolvido, água com areia e água com óleo após repouso. Identifique componentes e aspectos, explique por que invisibilidade não significa desaparecimento e proponha separação em dois casos, com limites do filtro e cuidado de não beber as amostras.",
+      "gabarito": "Composição e uniformidade/regiões diferenciadas; sal permanece, filtro pode reter areia mas não necessariamente sal dissolvido; justificar método por propriedade e não certificar potabilidade.",
+      "rubrica": [
+        "Composição e uniformidade/regiões diferenciadas; sal permanece, filtro pode reter areia mas não necessariamente sal dissolvido; justificar método por propriedade e não certificar potabilidade.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF04CI01"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef04.misturas_do_dia_a_dia.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Misturas do Dia a Dia",
+          "enunciado": "Três fichas fictícias descrevem água com pouco sal dissolvido, água com areia e água com óleo após repouso. Identifique componentes e aspectos, explique por que invisibilidade não significa desaparecimento e proponha separação em dois casos, com limites do filtro e cuidado de não beber as amostras.",
+          "gabarito": "Composição e uniformidade/regiões diferenciadas; sal permanece, filtro pode reter areia mas não necessariamente sal dissolvido; justificar método por propriedade e não certificar potabilidade.",
+          "rubrica": [
+            "Composição e uniformidade/regiões diferenciadas; sal permanece, filtro pode reter areia mas não necessariamente sal dissolvido; justificar método por propriedade e não certificar potabilidade.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF04CI01"
+          ],
+          "aulasReferencia": [
+            "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+            "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+            "cna.ef04.misturas_do_dia_a_dia.separando_componentes"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF04CI01",
+        "questoes": [
+          "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.prova.1",
+          "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.prova.1",
+          "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.prova.1",
+          "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.prova.1",
+          "cna.ef04.misturas_do_dia_a_dia.separando_componentes.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef04.misturas_do_dia_a_dia.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef04.misturas_do_dia_a_dia.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao1",
+          "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao2",
+          "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao1",
+          "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao2",
+          "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao1",
+          "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao2",
+          "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao1",
+          "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao2",
+          "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao1",
+          "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef04.transformacoes_dos_materiais.prova": {
+    "id": "cna.ef04.transformacoes_dos_materiais.prova",
+    "titulo": "Avaliação: Transformações dos Materiais",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.prova.1",
+      "cna.ef04.transformacoes_dos_materiais.observando_mudancas.prova.1",
+      "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.prova.1",
+      "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.prova.1",
+      "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef04.transformacoes_dos_materiais.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Transformações dos Materiais",
+      "enunciado": "Uma ficha fictícia compara papel seco à sombra com outro tipo de papel molhado ao sol e conclui que só a luz causou a diferença. Critique e redesenhe testes separados de luz e umidade, com estado inicial, três registros datados, controles e critério de relato. Relacione também aquecimento/resfriamento ao núcleo anterior, sem executar fogo ou produtos.",
+      "gabarito": "Múltiplos fatores identificados; uma variável principal por comparação, controles/tempo e resultados reais distintos de previsões; luz/umidade/aquecimento/resfriamento considerados com manejo seguro e limites.",
+      "rubrica": [
+        "Múltiplos fatores identificados; uma variável principal por comparação, controles/tempo e resultados reais distintos de previsões; luz/umidade/aquecimento/resfriamento considerados com manejo seguro e limites.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF04CI02"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef04.transformacoes_dos_materiais.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Transformações dos Materiais",
+          "enunciado": "Uma ficha fictícia compara papel seco à sombra com outro tipo de papel molhado ao sol e conclui que só a luz causou a diferença. Critique e redesenhe testes separados de luz e umidade, com estado inicial, três registros datados, controles e critério de relato. Relacione também aquecimento/resfriamento ao núcleo anterior, sem executar fogo ou produtos.",
+          "gabarito": "Múltiplos fatores identificados; uma variável principal por comparação, controles/tempo e resultados reais distintos de previsões; luz/umidade/aquecimento/resfriamento considerados com manejo seguro e limites.",
+          "rubrica": [
+            "Múltiplos fatores identificados; uma variável principal por comparação, controles/tempo e resultados reais distintos de previsões; luz/umidade/aquecimento/resfriamento considerados com manejo seguro e limites.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF04CI02"
+          ],
+          "aulasReferencia": [
+            "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+            "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+            "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+            "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
+            "cna.ef04.transformacoes_dos_materiais.comparando_condicoes"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao1",
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao2",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao1",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao2",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao1",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao2",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao1",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao2",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao1",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF04CI02",
+        "questoes": [
+          "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.prova.1",
+          "cna.ef04.transformacoes_dos_materiais.observando_mudancas.prova.1",
+          "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.prova.1",
+          "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.prova.1",
+          "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef04.transformacoes_dos_materiais.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef04.transformacoes_dos_materiais.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao1",
+          "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao2",
+          "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao1",
+          "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao2",
+          "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao1",
+          "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao2",
+          "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao1",
+          "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao2",
+          "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao1",
+          "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef04.reversivel_ou_nao.prova": {
+    "id": "cna.ef04.reversivel_ou_nao.prova",
+    "titulo": "Avaliação: Transformações Reversíveis e Não Reversíveis",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos.prova.1",
+      "cna.ef04.reversivel_ou_nao.queima_de_papel.prova.1",
+      "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis.prova.1",
+      "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis.prova.1",
+      "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef04.reversivel_ou_nao.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Transformações Reversíveis e Não Reversíveis",
+      "enunciado": "Compare três sequências: gelo/água/gelo em condições adequadas; ovo cru/cozido/resfriado; papel/queima/resíduos frios. Conclua o que volta ou não pelo caminho térmico indicado. Explique por que gases não são desaparecimento de matéria e por que cor, bolha ou dificuldade de desfazer sozinhas não classificam todas as mudanças.",
+      "gabarito": "Reversibilidade da água, ausência de retorno de ovo/papel por simples resfriamento; produtos gasosos e limites das evidências; casos textuais sem prática de queima/cozimento infantil.",
+      "rubrica": [
+        "Reversibilidade da água, ausência de retorno de ovo/papel por simples resfriamento; produtos gasosos e limites das evidências; casos textuais sem prática de queima/cozimento infantil.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef04.reversivel_ou_nao.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Transformações Reversíveis e Não Reversíveis",
+          "enunciado": "Compare três sequências: gelo/água/gelo em condições adequadas; ovo cru/cozido/resfriado; papel/queima/resíduos frios. Conclua o que volta ou não pelo caminho térmico indicado. Explique por que gases não são desaparecimento de matéria e por que cor, bolha ou dificuldade de desfazer sozinhas não classificam todas as mudanças.",
+          "gabarito": "Reversibilidade da água, ausência de retorno de ovo/papel por simples resfriamento; produtos gasosos e limites das evidências; casos textuais sem prática de queima/cozimento infantil.",
+          "rubrica": [
+            "Reversibilidade da água, ausência de retorno de ovo/papel por simples resfriamento; produtos gasosos e limites das evidências; casos textuais sem prática de queima/cozimento infantil.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF04CI03"
+          ],
+          "aulasReferencia": [
+            "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+            "cna.ef04.reversivel_ou_nao.queima_de_papel",
+            "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis",
+            "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
+            "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao1",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao2",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao1",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao2",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao2",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao2",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao1",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF04CI03",
+        "questoes": [
+          "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos.prova.1",
+          "cna.ef04.reversivel_ou_nao.queima_de_papel.prova.1",
+          "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis.prova.1",
+          "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis.prova.1",
+          "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef04.reversivel_ou_nao.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef04.reversivel_ou_nao.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao1",
+          "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao2",
+          "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao1",
+          "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao2",
+          "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao1",
+          "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao2",
+          "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao1",
+          "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao2",
+          "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao1",
+          "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef04.cadeias_alimentares.prova": {
+    "id": "cna.ef04.cadeias_alimentares.prova",
+    "titulo": "Avaliação: Cadeias Alimentares",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Cadeias Alimentares",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "6 itens próprios de prova, com leitura mediada. Objetiva: acertos/6 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef04.cadeias_alimentares.consumidores.prova.1",
+      "cna.ef04.cadeias_alimentares.decompositores.prova.1",
+      "cna.ef04.cadeias_alimentares.montando_uma_cadeia.prova.1",
+      "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia.prova.1",
+      "cna.ef04.cadeias_alimentares.teias_alimentares.prova.1",
+      "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef04.cadeias_alimentares.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Cadeias Alimentares",
+      "enunciado": "Use os cartões: capim alimenta gafanhoto e coelho; gafanhoto pode alimentar sapo e ave insetívora; coelho pode alimentar raposa. Construa teia e duas cadeias, indique posições e sentido das setas, Sol e decompositores de restos de todos os níveis. Preveja efeito possível de reduzir capim e indique por que não é resultado garantido.",
+      "gabarito": "Relações fornecidas, produtor/consumidores corretos e seta alimento→consumidor; luz no produtor, restos de vários níveis, hipótese e rede dinâmica sem quantidades/extinções inventadas.",
+      "rubrica": [
+        "Relações fornecidas, produtor/consumidores corretos e seta alimento→consumidor; luz no produtor, restos de vários níveis, hipótese e rede dinâmica sem quantidades/extinções inventadas.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF04CI04"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef04.cadeias_alimentares.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Cadeias Alimentares",
+          "enunciado": "Use os cartões: capim alimenta gafanhoto e coelho; gafanhoto pode alimentar sapo e ave insetívora; coelho pode alimentar raposa. Construa teia e duas cadeias, indique posições e sentido das setas, Sol e decompositores de restos de todos os níveis. Preveja efeito possível de reduzir capim e indique por que não é resultado garantido.",
+          "gabarito": "Relações fornecidas, produtor/consumidores corretos e seta alimento→consumidor; luz no produtor, restos de vários níveis, hipótese e rede dinâmica sem quantidades/extinções inventadas.",
+          "rubrica": [
+            "Relações fornecidas, produtor/consumidores corretos e seta alimento→consumidor; luz no produtor, restos de vários níveis, hipótese e rede dinâmica sem quantidades/extinções inventadas.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF04CI04"
+          ],
+          "aulasReferencia": [
+            "cna.ef04.cadeias_alimentares.consumidores",
+            "cna.ef04.cadeias_alimentares.decompositores",
+            "cna.ef04.cadeias_alimentares.montando_uma_cadeia",
+            "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia",
+            "cna.ef04.cadeias_alimentares.teias_alimentares",
+            "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao1",
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao2",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao1",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao2",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao1",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao2",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao1",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao2",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao1",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao2",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao1",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF04CI04",
+        "questoes": [
+          "cna.ef04.cadeias_alimentares.consumidores.prova.1",
+          "cna.ef04.cadeias_alimentares.decompositores.prova.1",
+          "cna.ef04.cadeias_alimentares.montando_uma_cadeia.prova.1",
+          "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia.prova.1",
+          "cna.ef04.cadeias_alimentares.teias_alimentares.prova.1",
+          "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef04.cadeias_alimentares.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef04.cadeias_alimentares.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao1",
+          "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao2",
+          "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao1",
+          "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao2",
+          "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao1",
+          "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao2",
+          "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao1",
+          "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao2",
+          "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao1",
+          "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao2",
+          "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao1",
+          "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef04.ciclo_da_materia_e_energia.prova": {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.prova",
+    "titulo": "Avaliação: Ciclo da Matéria e Fluxo de Energia",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia.prova.1",
+      "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia.prova.1",
+      "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local.prova.1",
+      "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos.prova.1",
+      "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef04.ciclo_da_materia_e_energia.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Ciclo da Matéria e Fluxo de Energia",
+      "enunciado": "Desenhe um modelo de jardim com planta, consumidor, decompositores, água, ar, solo e luz. Mostre três processos de matéria e entrada/transformação/dispersão da energia. Faça duas semelhanças e duas diferenças e corrija a ideia de que decompositores devolvem toda energia ao Sol. Indique uma observação local ainda necessária.",
+      "gabarito": "Componentes vivos/não vivos, alimentação/absorção/respiração/excreção/decomposição pertinentes; matéria circula, energia se transforma e se dispersa como calor; modelo qualitativo e lacuna de evidência explícitos.",
+      "rubrica": [
+        "Componentes vivos/não vivos, alimentação/absorção/respiração/excreção/decomposição pertinentes; matéria circula, energia se transforma e se dispersa como calor; modelo qualitativo e lacuna de evidência explícitos.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF04CI05"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef04.ciclo_da_materia_e_energia.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Ciclo da Matéria e Fluxo de Energia",
+          "enunciado": "Desenhe um modelo de jardim com planta, consumidor, decompositores, água, ar, solo e luz. Mostre três processos de matéria e entrada/transformação/dispersão da energia. Faça duas semelhanças e duas diferenças e corrija a ideia de que decompositores devolvem toda energia ao Sol. Indique uma observação local ainda necessária.",
+          "gabarito": "Componentes vivos/não vivos, alimentação/absorção/respiração/excreção/decomposição pertinentes; matéria circula, energia se transforma e se dispersa como calor; modelo qualitativo e lacuna de evidência explícitos.",
+          "rubrica": [
+            "Componentes vivos/não vivos, alimentação/absorção/respiração/excreção/decomposição pertinentes; matéria circula, energia se transforma e se dispersa como calor; modelo qualitativo e lacuna de evidência explícitos.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF04CI05"
+          ],
+          "aulasReferencia": [
+            "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia",
+            "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia",
+            "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local",
+            "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos",
+            "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF04CI05",
+        "questoes": [
+          "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia.prova.1",
+          "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia.prova.1",
+          "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local.prova.1",
+          "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos.prova.1",
+          "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef04.ciclo_da_materia_e_energia.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef04.ciclo_da_materia_e_energia.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao1",
+          "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao2",
+          "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao1",
+          "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao2",
+          "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao1",
+          "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao2",
+          "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao1",
+          "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao2",
+          "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao1",
+          "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef04.microrganismos.prova": {
+    "id": "cna.ef04.microrganismos.prova",
+    "titulo": "Avaliação: Microrganismos",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "bncc": [
+      "EF04CI06",
+      "EF04CI07"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef04.microrganismos.decomposicao.prova.1",
+      "cna.ef04.microrganismos.importancia_ambiental.prova.1",
+      "cna.ef04.microrganismos.fermentacao.prova.1",
+      "cna.ef04.microrganismos.medicamentos_e_combustiveis.prova.1",
+      "cna.ef04.microrganismos.microrganismos_uteis.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef04.microrganismos.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Microrganismos",
+      "enunciado": "Compare decomposição, pão, iogurte, etanol e obtenção de penicilina em quadro com organismo/processo/produto ou efeito. Explique importância ambiental e diferença entre produção controlada e alimento estragado. Responda ao personagem que quer usar mofo como remédio ou produzir combustível na escola.",
+      "gabarito": "Fungos/bactérias decompositores; leveduras em pão/etanol, bactérias selecionadas no iogurte e fungo/substância/purificação na penicilina; sem generalização, cultivo de desconhecidos, automedicação ou fabricação infantil.",
+      "rubrica": [
+        "Fungos/bactérias decompositores; leveduras em pão/etanol, bactérias selecionadas no iogurte e fungo/substância/purificação na penicilina; sem generalização, cultivo de desconhecidos, automedicação ou fabricação infantil.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF04CI06",
+        "EF04CI07"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef04.microrganismos.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Microrganismos",
+          "enunciado": "Compare decomposição, pão, iogurte, etanol e obtenção de penicilina em quadro com organismo/processo/produto ou efeito. Explique importância ambiental e diferença entre produção controlada e alimento estragado. Responda ao personagem que quer usar mofo como remédio ou produzir combustível na escola.",
+          "gabarito": "Fungos/bactérias decompositores; leveduras em pão/etanol, bactérias selecionadas no iogurte e fungo/substância/purificação na penicilina; sem generalização, cultivo de desconhecidos, automedicação ou fabricação infantil.",
+          "rubrica": [
+            "Fungos/bactérias decompositores; leveduras em pão/etanol, bactérias selecionadas no iogurte e fungo/substância/purificação na penicilina; sem generalização, cultivo de desconhecidos, automedicação ou fabricação infantil.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF04CI06",
+            "EF04CI07"
+          ],
+          "aulasReferencia": [
+            "cna.ef04.microrganismos.decomposicao",
+            "cna.ef04.microrganismos.importancia_ambiental",
+            "cna.ef04.microrganismos.fermentacao",
+            "cna.ef04.microrganismos.medicamentos_e_combustiveis",
+            "cna.ef04.microrganismos.microrganismos_uteis"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef04.microrganismos.decomposicao#decomposicao.producao1",
+        "cna.ef04.microrganismos.decomposicao#decomposicao.producao2",
+        "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao1",
+        "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao2",
+        "cna.ef04.microrganismos.fermentacao#fermentacao.producao1",
+        "cna.ef04.microrganismos.fermentacao#fermentacao.producao2",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao1",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao2",
+        "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao1",
+        "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF04CI06",
+        "questoes": [
+          "cna.ef04.microrganismos.decomposicao.prova.1",
+          "cna.ef04.microrganismos.importancia_ambiental.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef04.microrganismos.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef04.microrganismos.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef04.microrganismos.decomposicao#decomposicao.producao1",
+          "cna.ef04.microrganismos.decomposicao#decomposicao.producao2",
+          "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao1",
+          "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao2"
+        ]
+      },
+      {
+        "bncc": "EF04CI07",
+        "questoes": [
+          "cna.ef04.microrganismos.fermentacao.prova.1",
+          "cna.ef04.microrganismos.medicamentos_e_combustiveis.prova.1",
+          "cna.ef04.microrganismos.microrganismos_uteis.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef04.microrganismos.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef04.microrganismos.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef04.microrganismos.fermentacao#fermentacao.producao1",
+          "cna.ef04.microrganismos.fermentacao#fermentacao.producao2",
+          "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao1",
+          "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao2",
+          "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao1",
+          "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef04.saude_e_microrganismos.prova": {
+    "id": "cna.ef04.saude_e_microrganismos.prova",
+    "titulo": "Avaliação: Saúde e Microrganismos",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef04.saude_e_microrganismos.formas_de_transmissao.prova.1",
+      "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.prova.1",
+      "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.prova.1",
+      "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.prova.1",
+      "cna.ef04.saude_e_microrganismos.saude_na_comunidade.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef04.saude_e_microrganismos.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Saúde e Microrganismos",
+      "enunciado": "Numa comunidade fictícia faltam água segura e sabão e há descarte inadequado. Desenhe uma via possível de transmissão por água/alimentos, associe medidas a pontos do caminho e diferencie ações individuais/coletivas. Inclua proteção específica de vacinas, privacidade, acolhimento e modo de verificar a implementação, sem diagnosticar pessoas ou prescrever tratamento.",
+      "gabarito": "Vias e medidas coerentes com agentes virais/bacterianos/protozoários, recursos e saneamento, vacina específica não universal, sem culpa/receita clínica e separação plano/realização/efeito.",
+      "rubrica": [
+        "Vias e medidas coerentes com agentes virais/bacterianos/protozoários, recursos e saneamento, vacina específica não universal, sem culpa/receita clínica e separação plano/realização/efeito.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF04CI08"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef04.saude_e_microrganismos.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Saúde e Microrganismos",
+          "enunciado": "Numa comunidade fictícia faltam água segura e sabão e há descarte inadequado. Desenhe uma via possível de transmissão por água/alimentos, associe medidas a pontos do caminho e diferencie ações individuais/coletivas. Inclua proteção específica de vacinas, privacidade, acolhimento e modo de verificar a implementação, sem diagnosticar pessoas ou prescrever tratamento.",
+          "gabarito": "Vias e medidas coerentes com agentes virais/bacterianos/protozoários, recursos e saneamento, vacina específica não universal, sem culpa/receita clínica e separação plano/realização/efeito.",
+          "rubrica": [
+            "Vias e medidas coerentes com agentes virais/bacterianos/protozoários, recursos e saneamento, vacina específica não universal, sem culpa/receita clínica e separação plano/realização/efeito.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF04CI08"
+          ],
+          "aulasReferencia": [
+            "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+            "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+            "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+            "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+            "cna.ef04.saude_e_microrganismos.saude_na_comunidade"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao1",
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao2",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao1",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao2",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao1",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao2",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao1",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao2",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao1",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF04CI08",
+        "questoes": [
+          "cna.ef04.saude_e_microrganismos.formas_de_transmissao.prova.1",
+          "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.prova.1",
+          "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.prova.1",
+          "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.prova.1",
+          "cna.ef04.saude_e_microrganismos.saude_na_comunidade.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef04.saude_e_microrganismos.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef04.saude_e_microrganismos.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao1",
+          "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao2",
+          "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao1",
+          "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao2",
+          "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao1",
+          "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao2",
+          "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao1",
+          "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao2",
+          "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao1",
+          "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef04.orientacao_pelo_sol.prova": {
+    "id": "cna.ef04.orientacao_pelo_sol.prova",
+    "titulo": "Avaliação: Orientação pelo Sol",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Orientação pelo Sol",
+    "bncc": [
+      "EF04CI09",
+      "EF04CI10"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens próprios de prova, com leitura mediada. Objetiva: acertos/4 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef04.orientacao_pelo_sol.gnomon.prova.1",
+      "cna.ef04.orientacao_pelo_sol.sombra_e_direcao.prova.1",
+      "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos.prova.1",
+      "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef04.orientacao_pelo_sol.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Orientação pelo Sol",
+      "enunciado": "Planeje registros de gnômon imóvel pelo método de círculo e comparação com bússola no mesmo local. Use o esquema para marcar leste/oeste e norte/sul, organize rosa e explique por que duas pontas arbitrárias, 12 h como regra universal ou coincidência forçada com agulha prejudicam o estudo. Se executar com adulto, apresente dados reais; caso contrário, mantenha observação pendente.",
+      "gabarito": "Verticalidade/base fixa, duas pontas no mesmo círculo antes/depois do mínimo, direção estimada e perpendicular, magnético/geográfico e interferências; método aproximado sem olhar o Sol, sem dados fabricados.",
+      "rubrica": [
+        "Verticalidade/base fixa, duas pontas no mesmo círculo antes/depois do mínimo, direção estimada e perpendicular, magnético/geográfico e interferências; método aproximado sem olhar o Sol, sem dados fabricados.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF04CI09",
+        "EF04CI10"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef04.orientacao_pelo_sol.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Orientação pelo Sol",
+          "enunciado": "Planeje registros de gnômon imóvel pelo método de círculo e comparação com bússola no mesmo local. Use o esquema para marcar leste/oeste e norte/sul, organize rosa e explique por que duas pontas arbitrárias, 12 h como regra universal ou coincidência forçada com agulha prejudicam o estudo. Se executar com adulto, apresente dados reais; caso contrário, mantenha observação pendente.",
+          "gabarito": "Verticalidade/base fixa, duas pontas no mesmo círculo antes/depois do mínimo, direção estimada e perpendicular, magnético/geográfico e interferências; método aproximado sem olhar o Sol, sem dados fabricados.",
+          "rubrica": [
+            "Verticalidade/base fixa, duas pontas no mesmo círculo antes/depois do mínimo, direção estimada e perpendicular, magnético/geográfico e interferências; método aproximado sem olhar o Sol, sem dados fabricados.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF04CI09",
+            "EF04CI10"
+          ],
+          "aulasReferencia": [
+            "cna.ef04.orientacao_pelo_sol.gnomon",
+            "cna.ef04.orientacao_pelo_sol.sombra_e_direcao",
+            "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos",
+            "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao1",
+        "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao2",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao1",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao2",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao1",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao2",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao1",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "University of Massachusetts Amherst — Using shadows to find the four directions",
+        "url": "https://www.umass.edu/sunwheel/pages/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Texto do método de mesmo círculo e comparação com bússola consultado. Adaptação como estimativa; não importa latitude 42°N, sombra sempre norte, musgo em árvore ou horário fixo para Brasil. Figuras originais não foram inspecionadas/reproduzidas; esquema incorporado é autoral."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF04CI09",
+        "questoes": [
+          "cna.ef04.orientacao_pelo_sol.gnomon.prova.1",
+          "cna.ef04.orientacao_pelo_sol.sombra_e_direcao.prova.1",
+          "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef04.orientacao_pelo_sol.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef04.orientacao_pelo_sol.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao1",
+          "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao2",
+          "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao1",
+          "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao2",
+          "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao1",
+          "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao2"
+        ]
+      },
+      {
+        "bncc": "EF04CI10",
+        "questoes": [
+          "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef04.orientacao_pelo_sol.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef04.orientacao_pelo_sol.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao1",
+          "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef04.calendarios_e_ciclos.prova": {
+    "id": "cna.ef04.calendarios_e_ciclos.prova",
+    "titulo": "Avaliação: Calendários e Ciclos",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Calendários e Ciclos",
+    "bncc": [
+      "EF04CI11"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens próprios de prova, com leitura mediada. Objetiva: acertos/4 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+    "questoes": [
+      "cna.ef04.calendarios_e_ciclos.movimento_da_terra.prova.1",
+      "cna.ef04.calendarios_e_ciclos.calendarios_culturais.prova.1",
+      "cna.ef04.calendarios_e_ciclos.ciclos_naturais.prova.1",
+      "cna.ef04.calendarios_e_ciclos.tempo_e_cultura.prova.1"
+    ],
+    "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+    "avaliacaoPratica": {
+      "id": "cna.ef04.calendarios_e_ciclos.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Calendários e Ciclos",
+      "enunciado": "Compare gregoriano, islâmico e um exemplo lunissolar do quadro. Relacione dia/ano/ciclo lunar a movimentos e períodos aproximados; use 12×29,5 para explicar diferença em relação a 365 dias. Crie calendário didático com regra, finalidade e legenda, sem inventar festa real ou observação. Explique convivência de usos e necessidade de fonte para data específica.",
+      "gabarito": "Rotação/dia, translação/ano, ciclo de fases lunar; 354 dias aproximados e diferença de cerca de 11; solar/lunar/lunissolar e ajustes, diversidade respeitada, calendário com regra e limites de uso.",
+      "rubrica": [
+        "Rotação/dia, translação/ano, ciclo de fases lunar; 354 dias aproximados e diferença de cerca de 11; solar/lunar/lunissolar e ajustes, diversidade respeitada, calendário com regra e limites de uso.",
+        "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+      ],
+      "bncc": [
+        "EF04CI11"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef04.calendarios_e_ciclos.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Calendários e Ciclos",
+          "enunciado": "Compare gregoriano, islâmico e um exemplo lunissolar do quadro. Relacione dia/ano/ciclo lunar a movimentos e períodos aproximados; use 12×29,5 para explicar diferença em relação a 365 dias. Crie calendário didático com regra, finalidade e legenda, sem inventar festa real ou observação. Explique convivência de usos e necessidade de fonte para data específica.",
+          "gabarito": "Rotação/dia, translação/ano, ciclo de fases lunar; 354 dias aproximados e diferença de cerca de 11; solar/lunar/lunissolar e ajustes, diversidade respeitada, calendário com regra e limites de uso.",
+          "rubrica": [
+            "Rotação/dia, translação/ano, ciclo de fases lunar; 354 dias aproximados e diferença de cerca de 11; solar/lunar/lunissolar e ajustes, diversidade respeitada, calendário com regra e limites de uso.",
+            "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+          ],
+          "bncc": [
+            "EF04CI11"
+          ],
+          "aulasReferencia": [
+            "cna.ef04.calendarios_e_ciclos.movimento_da_terra",
+            "cna.ef04.calendarios_e_ciclos.calendarios_culturais",
+            "cna.ef04.calendarios_e_ciclos.ciclos_naturais",
+            "cna.ef04.calendarios_e_ciclos.tempo_e_cultura"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao1",
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao2",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao1",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao2",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao1",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao2",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao1",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao2"
+      ],
+      "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "U.S. Naval Observatory — Introduction to Calendars",
+        "url": "https://aa.usno.navy.mil/faq/calendars",
+        "consulta": "2026-10-30",
+        "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+      },
+      {
+        "documento": "NOAA JetStream — The Shadow Knows I",
+        "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+        "consulta": "2026-10-30",
+        "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF04CI11",
+        "questoes": [
+          "cna.ef04.calendarios_e_ciclos.movimento_da_terra.prova.1",
+          "cna.ef04.calendarios_e_ciclos.calendarios_culturais.prova.1",
+          "cna.ef04.calendarios_e_ciclos.ciclos_naturais.prova.1",
+          "cna.ef04.calendarios_e_ciclos.tempo_e_cultura.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef04.calendarios_e_ciclos.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef04.calendarios_e_ciclos.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao1",
+          "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao2",
+          "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao1",
+          "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao2",
+          "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao1",
+          "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao2",
+          "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao1",
+          "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao2"
         ]
       }
     ]

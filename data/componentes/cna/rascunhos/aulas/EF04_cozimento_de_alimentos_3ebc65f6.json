@@ -1,1 +1,45 @@
-{"id":"cna.ef04.reversivel_ou_nao.cozimento_de_alimentos","componente":"cna","nivel":"EF04","ordem":1,"unidade":"Transformações Reversíveis e Não Reversíveis","titulo":"Cozimento de Alimentos","bncc":["EF04CI03"],"conteudo":{"objetivos":[],"resumo":"","blocos":[]},"atividades":[],"fontes":[],"metadados":{"estado":"rascunho","revisado":false,"versao":1,"estadoDoEscopo":"planejado"},"publicacao":{"permitida":false,"motivo":"Estrutura sem autoria e validação; não importar para a interface."},"planejamento":{"unidade":"data/componentes/cna/rascunhos/unidades/EF04_transformacoes_reversiveis_e_nao_reversiveis_bddd23.json","catalogoCurricular":"data/planejamento-basica/referencias-curriculares.json","codigosOriginais":["EF04CI03"],"codigosAConferir":[],"origem":"data/componentes/cna/arvore.json","prerequisitos":"a_identificar_e_validar","politica":"data/planejamento-basica/politica.json"},"complementar":false,"preRequisitos":[],"proximosPassos":[]}
+{
+  "id": "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 1,
+  "unidade": "Transformações Reversíveis e Não Reversíveis",
+  "titulo": "Cozimento de Alimentos",
+  "bncc": [
+    "EF04CI03"
+  ],
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": []
+  },
+  "atividades": [],
+  "fontes": [],
+  "metadados": {
+    "estado": "rascunho",
+    "revisado": false,
+    "versao": 1,
+    "estadoDoEscopo": "planejado"
+  },
+  "publicacao": {
+    "permitida": false,
+    "motivo": "Estrutura sem autoria e validação; não importar para a interface."
+  },
+  "planejamento": {
+    "unidade": "data/componentes/cna/rascunhos/unidades/EF04_transformacoes_reversiveis_e_nao_reversiveis_bddd23.json",
+    "catalogoCurricular": "data/planejamento-basica/referencias-curriculares.json",
+    "codigosOriginais": [
+      "EF04CI03"
+    ],
+    "codigosAConferir": [],
+    "origem": "data/componentes/cna/arvore.json",
+    "prerequisitos": "a_identificar_e_validar",
+    "politica": "data/planejamento-basica/politica.json",
+    "implementacaoCanonica": "data/componentes/cna/aulas/EF04_EF04CI03_cozimento_de_alimentos.json",
+    "estadoDaAutoria": "implementado_para_testes",
+    "limite": "Rascunho original arquivado/bloqueado; autoria canônica indicada, sem homologação."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

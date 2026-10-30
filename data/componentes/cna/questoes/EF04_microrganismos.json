@@ -1,0 +1,532 @@
+[
+  {
+    "id": "cna.ef04.microrganismos.decomposicao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.decomposicao",
+    "bncc": [
+      "EF04CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Decomposição significa que restos:",
+    "opcoes": [
+      "Só mudam quando um animal os leva.",
+      "São transformados, participando da circulação de materiais.",
+      "Somem sem qualquer produto."
+    ],
+    "correta": 1,
+    "explicacao": "Fungos e bactérias têm participação importante no processo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.decomposicao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.decomposicao",
+    "bncc": [
+      "EF04CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Podemos identificar a espécie de microrganismo só pela cor do mofo?",
+    "opcoes": [
+      "Sim, sempre.",
+      "Não; aparência não é identificação suficiente e não se manipula o material.",
+      "Sim, se cheirarmos de perto."
+    ],
+    "correta": 1,
+    "explicacao": "Identificação exige métodos apropriados, fora da prática infantil.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.importancia_ambiental.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.importancia_ambiental",
+    "bncc": [
+      "EF04CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Valorizar decompositores significa comer alimentos mofados?",
+    "opcoes": [
+      "Sim, todo fungo útil pode ser ingerido.",
+      "Não; função ambiental e segurança alimentar são questões distintas.",
+      "Sim, se removermos a parte colorida."
+    ],
+    "correta": 1,
+    "explicacao": "Papel ecológico não autoriza consumo de material deteriorado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.importancia_ambiental.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.importancia_ambiental",
+    "bncc": [
+      "EF04CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual papel está relacionado à importância da decomposição?",
+    "opcoes": [
+      "Manter todos os restos sempre na mesma forma.",
+      "Transformar restos e disponibilizar materiais no ambiente.",
+      "Devolver toda a energia ao Sol."
+    ],
+    "correta": 1,
+    "explicacao": "A função envolve relações e transformações, não desaparecimento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.fermentacao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.fermentacao",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Leveduras na massa de pão podem contribuir por:",
+    "opcoes": [
+      "Atuar somente como ar misturado, sem produzir substâncias.",
+      "Produzir gás que ajuda a massa a crescer.",
+      "Aquecer a massa sem transformar açúcares."
+    ],
+    "correta": 1,
+    "explicacao": "A atividade do microrganismo produz mudanças no processo controlado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.fermentacao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.fermentacao",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Deixar leite desconhecido estragar equivale a produzir iogurte com controle?",
+    "opcoes": [
+      "Sim, basta mudar o nome.",
+      "Não; microrganismos e condições selecionados importam.",
+      "Sim, qualquer bactéria produz o mesmo alimento."
+    ],
+    "correta": 1,
+    "explicacao": "Fermentação tecnológica e deterioração não são práticas equivalentes.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.medicamentos_e_combustiveis.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.medicamentos_e_combustiveis",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual relação está correta?",
+    "opcoes": [
+      "Qualquer bactéria produz qualquer combustível.",
+      "Leveduras podem participar da produção de etanol a partir de açúcares.",
+      "Todo mofo é medicamento pronto."
+    ],
+    "correta": 1,
+    "explicacao": "A aplicação depende de organismo e processo selecionados.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.medicamentos_e_combustiveis.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.medicamentos_e_combustiveis",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "A participação de um fungo na história da penicilina autoriza usar pão mofado como remédio?",
+    "opcoes": [
+      "Sim, são a mesma preparação.",
+      "Não; obtenção e controle de medicamento são processos especializados.",
+      "Sim, se não houver cheiro."
+    ],
+    "correta": 1,
+    "explicacao": "Origem de substância não equivale a preparação segura para tratamento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.microrganismos_uteis.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.microrganismos_uteis",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Todo microrganismo tem a mesma função e causa doença?",
+    "opcoes": [
+      "Sim, não há diversidade.",
+      "Não; funções e relações são variadas.",
+      "Sim, se não for visível a olho nu."
+    ],
+    "correta": 1,
+    "explicacao": "Categorias amplas não determinam um único efeito.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.microrganismos.microrganismos_uteis.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Microrganismos",
+    "aulaId": "cna.ef04.microrganismos.microrganismos_uteis",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para verificar aplicação de microrganismo, é melhor:",
+    "opcoes": [
+      "Realizar cultivo desconhecido sem orientação.",
+      "Consultar fonte identificada sobre organismo, processo e produto.",
+      "Inferir só pela cor de um alimento deteriorado."
+    ],
+    "correta": 1,
+    "explicacao": "Verificação não depende de práticas inseguras.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "NOAA Education — Aquatic food webs",
+        "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+        "consulta": "2026-10-30",
+        "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+      },
+      {
+        "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+        "url": "https://afdc.energy.gov/fuels/ethanol-production",
+        "consulta": "2026-10-30",
+        "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+      },
+      {
+        "documento": "American Chemical Society — Discovery and Development of Penicillin",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

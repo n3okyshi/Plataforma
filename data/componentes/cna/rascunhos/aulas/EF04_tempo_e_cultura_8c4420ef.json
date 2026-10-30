@@ -1,1 +1,45 @@
-{"id":"cna.ef04.calendarios_e_ciclos.tempo_e_cultura","componente":"cna","nivel":"EF04","ordem":4,"unidade":"Calendários e Ciclos","titulo":"Tempo e Cultura","bncc":["EF04CI11"],"conteudo":{"objetivos":[],"resumo":"","blocos":[]},"atividades":[],"fontes":[],"metadados":{"estado":"rascunho","revisado":false,"versao":1,"estadoDoEscopo":"planejado"},"publicacao":{"permitida":false,"motivo":"Estrutura sem autoria e validação; não importar para a interface."},"planejamento":{"unidade":"data/componentes/cna/rascunhos/unidades/EF04_calendarios_e_ciclos_7659b1.json","catalogoCurricular":"data/planejamento-basica/referencias-curriculares.json","codigosOriginais":["EF04CI11"],"codigosAConferir":[],"origem":"data/componentes/cna/arvore.json","prerequisitos":"a_identificar_e_validar","politica":"data/planejamento-basica/politica.json"},"complementar":false,"preRequisitos":[],"proximosPassos":[]}
+{
+  "id": "cna.ef04.calendarios_e_ciclos.tempo_e_cultura",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 4,
+  "unidade": "Calendários e Ciclos",
+  "titulo": "Tempo e Cultura",
+  "bncc": [
+    "EF04CI11"
+  ],
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": []
+  },
+  "atividades": [],
+  "fontes": [],
+  "metadados": {
+    "estado": "rascunho",
+    "revisado": false,
+    "versao": 1,
+    "estadoDoEscopo": "planejado"
+  },
+  "publicacao": {
+    "permitida": false,
+    "motivo": "Estrutura sem autoria e validação; não importar para a interface."
+  },
+  "planejamento": {
+    "unidade": "data/componentes/cna/rascunhos/unidades/EF04_calendarios_e_ciclos_7659b1.json",
+    "catalogoCurricular": "data/planejamento-basica/referencias-curriculares.json",
+    "codigosOriginais": [
+      "EF04CI11"
+    ],
+    "codigosAConferir": [],
+    "origem": "data/componentes/cna/arvore.json",
+    "prerequisitos": "a_identificar_e_validar",
+    "politica": "data/planejamento-basica/politica.json",
+    "implementacaoCanonica": "data/componentes/cna/aulas/EF04_EF04CI11_tempo_e_cultura.json",
+    "estadoDaAutoria": "implementado_para_testes",
+    "limite": "Rascunho original arquivado/bloqueado; autoria canônica indicada, sem homologação."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

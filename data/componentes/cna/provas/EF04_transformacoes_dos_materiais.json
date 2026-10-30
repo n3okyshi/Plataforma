@@ -1,0 +1,120 @@
+{
+  "id": "cna.ef04.transformacoes_dos_materiais.prova",
+  "titulo": "Avaliação: Transformações dos Materiais",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Transformações dos Materiais",
+  "bncc": [
+    "EF04CI02"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.prova.1",
+    "cna.ef04.transformacoes_dos_materiais.observando_mudancas.prova.1",
+    "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.prova.1",
+    "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.prova.1",
+    "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.transformacoes_dos_materiais.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Transformações dos Materiais",
+    "enunciado": "Uma ficha fictícia compara papel seco à sombra com outro tipo de papel molhado ao sol e conclui que só a luz causou a diferença. Critique e redesenhe testes separados de luz e umidade, com estado inicial, três registros datados, controles e critério de relato. Relacione também aquecimento/resfriamento ao núcleo anterior, sem executar fogo ou produtos.",
+    "gabarito": "Múltiplos fatores identificados; uma variável principal por comparação, controles/tempo e resultados reais distintos de previsões; luz/umidade/aquecimento/resfriamento considerados com manejo seguro e limites.",
+    "rubrica": [
+      "Múltiplos fatores identificados; uma variável principal por comparação, controles/tempo e resultados reais distintos de previsões; luz/umidade/aquecimento/resfriamento considerados com manejo seguro e limites.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef04.transformacoes_dos_materiais.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Transformações dos Materiais",
+        "enunciado": "Uma ficha fictícia compara papel seco à sombra com outro tipo de papel molhado ao sol e conclui que só a luz causou a diferença. Critique e redesenhe testes separados de luz e umidade, com estado inicial, três registros datados, controles e critério de relato. Relacione também aquecimento/resfriamento ao núcleo anterior, sem executar fogo ou produtos.",
+        "gabarito": "Múltiplos fatores identificados; uma variável principal por comparação, controles/tempo e resultados reais distintos de previsões; luz/umidade/aquecimento/resfriamento considerados com manejo seguro e limites.",
+        "rubrica": [
+          "Múltiplos fatores identificados; uma variável principal por comparação, controles/tempo e resultados reais distintos de previsões; luz/umidade/aquecimento/resfriamento considerados com manejo seguro e limites.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF04CI02"
+        ],
+        "aulasReferencia": [
+          "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+          "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+          "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+          "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
+          "cna.ef04.transformacoes_dos_materiais.comparando_condicoes"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao1",
+      "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao2",
+      "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao1",
+      "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao2",
+      "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao1",
+      "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao2",
+      "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao1",
+      "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao2",
+      "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao1",
+      "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — What is a Chemical Reaction?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI02",
+      "questoes": [
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.prova.1",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas.prova.1",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.prova.1",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.prova.1",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.transformacoes_dos_materiais.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef04.transformacoes_dos_materiais.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao1",
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao2",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao1",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao2",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao1",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao2",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao1",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao2",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao1",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao2"
+      ]
+    }
+  ]
+}

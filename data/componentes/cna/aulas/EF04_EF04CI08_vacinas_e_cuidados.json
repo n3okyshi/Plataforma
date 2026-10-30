@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 35,
+  "unidade": "Saúde e Microrganismos",
+  "titulo": "Vacinas e Cuidados",
+  "bncc": [
+    "EF04CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escreva resposta ao personagem, explicando proteção específica e dois cuidados que continuam relevantes.",
+      "Crie roteiro de perguntas que um responsável pode levar a profissional, sem preencher doses ou dados reais de aluno."
+    ],
+    "resumo": "Vacinas ajudam o sistema de defesa a reconhecer alvos e reduzir riscos de doenças específicas e suas complicações.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.saude_e_microrganismos.higiene_e_alimentos\">Higiene e Alimentos</button></p><h2>Vacinas e Cuidados</h2><h3>Para compreender</h3><p>Vacinas ajudam o sistema de defesa a reconhecer alvos e reduzir riscos de doenças específicas e suas complicações. Não são antibióticos nem proteção universal contra todo agente. Existem tecnologias diferentes de vacinas; não se deve dizer que todas contêm microrganismos inteiros enfraquecidos. Profissionais orientam indicações e esquema conforme o contexto, e a família busca informações em fontes oficiais. A aula não confere carteira de colegas, expõe histórico de saúde ou escolhe doses. Dúvidas são acolhidas sem julgamento pessoal.</p><h3>Exemplo comentado</h3><p>Um personagem pensa que tomar uma vacina elimina a necessidade de água segura e higiene. A ideia confunde proteção específica e outras vias de prevenção.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Escreva resposta ao personagem, explicando proteção específica e dois cuidados que continuam relevantes.</p><h4>Proposta 2</h4><p>Crie roteiro de perguntas que um responsável pode levar a profissional, sem preencher doses ou dados reais de aluno.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Diarrhoeal disease</a></li><li><a href=\"https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Vaccines and immunization: What is vaccination?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "vacinas_e_cuidados.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Vacina e antibiótico são exatamente a mesma coisa?",
+      "alternativas": [
+        "Sim, ambos tratam qualquer vírus.",
+        "Sim, dispensam outras medidas.",
+        "Não; têm funções diferentes e uso orientado."
+      ],
+      "correta": 2,
+      "explicacao": "Vacinação promove proteção específica; antibióticos não são vacina.",
+      "bncc": [
+        "EF04CI08"
+      ]
+    },
+    {
+      "id": "vacinas_e_cuidados.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Escreva resposta ao personagem, explicando proteção específica e dois cuidados que continuam relevantes.",
+      "gabarito": "Não universalizar imunidade; distinguir prevenção por vias e medidas.",
+      "rubrica": [
+        "Não universalizar imunidade; distinguir prevenção por vias e medidas.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI08"
+      ]
+    },
+    {
+      "id": "vacinas_e_cuidados.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Crie roteiro de perguntas que um responsável pode levar a profissional, sem preencher doses ou dados reais de aluno.",
+      "gabarito": "Buscar fonte e orientação apropriadas, privacidade e ausência de prescrição escolar.",
+      "rubrica": [
+        "Buscar fonte e orientação apropriadas, privacidade e ausência de prescrição escolar.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "WHO — Diarrhoeal disease",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+      "consulta": "2026-10-30",
+      "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+    },
+    {
+      "documento": "WHO — Vaccines and immunization: What is vaccination?",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+      "consulta": "2026-10-30",
+      "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.saude_e_microrganismos.higiene_e_alimentos"
+  ],
+  "proximosPassos": [
+    "cna.ef04.saude_e_microrganismos.saude_na_comunidade"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Saúde e Microrganismos",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "titulo": "Vacinas e Cuidados"
+  }
+}

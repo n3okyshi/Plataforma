@@ -1,1 +1,45 @@
-{"id":"cna.ef04.saude_e_microrganismos.higiene_e_alimentos","componente":"cna","nivel":"EF04","ordem":3,"unidade":"Saúde e Microrganismos","titulo":"Higiene e Alimentos","bncc":["EF04CI08"],"conteudo":{"objetivos":[],"resumo":"","blocos":[]},"atividades":[],"fontes":[],"metadados":{"estado":"rascunho","revisado":false,"versao":1,"estadoDoEscopo":"planejado"},"publicacao":{"permitida":false,"motivo":"Estrutura sem autoria e validação; não importar para a interface."},"planejamento":{"unidade":"data/componentes/cna/rascunhos/unidades/EF04_saude_e_microrganismos_28b2ef.json","catalogoCurricular":"data/planejamento-basica/referencias-curriculares.json","codigosOriginais":["EF04CI08"],"codigosAConferir":[],"origem":"data/componentes/cna/arvore.json","prerequisitos":"a_identificar_e_validar","politica":"data/planejamento-basica/politica.json"},"complementar":false,"preRequisitos":[],"proximosPassos":[]}
+{
+  "id": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 3,
+  "unidade": "Saúde e Microrganismos",
+  "titulo": "Higiene e Alimentos",
+  "bncc": [
+    "EF04CI08"
+  ],
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": []
+  },
+  "atividades": [],
+  "fontes": [],
+  "metadados": {
+    "estado": "rascunho",
+    "revisado": false,
+    "versao": 1,
+    "estadoDoEscopo": "planejado"
+  },
+  "publicacao": {
+    "permitida": false,
+    "motivo": "Estrutura sem autoria e validação; não importar para a interface."
+  },
+  "planejamento": {
+    "unidade": "data/componentes/cna/rascunhos/unidades/EF04_saude_e_microrganismos_28b2ef.json",
+    "catalogoCurricular": "data/planejamento-basica/referencias-curriculares.json",
+    "codigosOriginais": [
+      "EF04CI08"
+    ],
+    "codigosAConferir": [],
+    "origem": "data/componentes/cna/arvore.json",
+    "prerequisitos": "a_identificar_e_validar",
+    "politica": "data/planejamento-basica/politica.json",
+    "implementacaoCanonica": "data/componentes/cna/aulas/EF04_EF04CI08_higiene_e_alimentos.json",
+    "estadoDaAutoria": "implementado_para_testes",
+    "limite": "Rascunho original arquivado/bloqueado; autoria canônica indicada, sem homologação."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

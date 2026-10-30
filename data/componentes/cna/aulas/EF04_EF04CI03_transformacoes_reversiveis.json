@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 13,
+  "unidade": "Transformações Reversíveis e Não Reversíveis",
+  "titulo": "Transformações Reversíveis",
+  "bncc": [
+    "EF04CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe um ciclo água líquida/gelo e explique as condições de cada direção, sem exigir valores de temperatura não medidos.",
+      "Compare com ovo cozido resfriado e diga por que ambos ficarem frios não significa recuperação do início."
+    ],
+    "resumo": "Uma mudança é reversível no processo considerado quando podemos recuperar a condição inicial por um caminho adequado.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.reversivel_ou_nao.queima_de_papel\">Queima de Papel</button></p><h2>Transformações Reversíveis</h2><h3>Para compreender</h3><p>Uma mudança é reversível no processo considerado quando podemos recuperar a condição inicial por um caminho adequado. Água pode congelar, derreter e voltar a congelar. É preciso distinguir temperatura de estado físico: água pode estar fria e ainda líquida. Nem toda mudança visual é reversível nas mesmas condições. Neste nível, compare processos e evidências, sem definir toda mudança química apenas por irreversibilidade. O adulto pode acompanhar água e gelo sem superfícies quentes, recipientes frágeis ou ingestão.</p><h3>Exemplo comentado</h3><p>Gelo que derrete não virou outra substância; com resfriamento adequado, pode congelar outra vez. O formato pode depender do recipiente, sem alterar essa conclusão.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Desenhe um ciclo água líquida/gelo e explique as condições de cada direção, sem exigir valores de temperatura não medidos.</p><h4>Proposta 2</h4><p>Compare com ovo cozido resfriado e diga por que ambos ficarem frios não significa recuperação do início.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — What is a Chemical Reaction?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "transformacoes_reversiveis.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Gelo derreteu. Para recuperar gelo é necessário:",
+      "alternativas": [
+        "Apenas mudar o nome da amostra.",
+        "Deixar em qualquer temperatura ambiente.",
+        "Fornecer condições adequadas de resfriamento."
+      ],
+      "correta": 2,
+      "explicacao": "Reversibilidade exige condições e não acontece só por desejo.",
+      "bncc": [
+        "EF04CI03"
+      ]
+    },
+    {
+      "id": "transformacoes_reversiveis.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe um ciclo água líquida/gelo e explique as condições de cada direção, sem exigir valores de temperatura não medidos.",
+      "gabarito": "Aquecimento/resfriamento e estado coerentes; distinguir forma do recipiente e substância.",
+      "rubrica": [
+        "Aquecimento/resfriamento e estado coerentes; distinguir forma do recipiente e substância.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ]
+    },
+    {
+      "id": "transformacoes_reversiveis.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare com ovo cozido resfriado e diga por que ambos ficarem frios não significa recuperação do início.",
+      "gabarito": "Processos distintos; não impor regra única pela sensação térmica.",
+      "rubrica": [
+        "Processos distintos; não impor regra única pela sensação térmica.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — What is a Chemical Reaction?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.reversivel_ou_nao.queima_de_papel"
+  ],
+  "proximosPassos": [
+    "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "titulo": "Transformações Reversíveis"
+  }
+}

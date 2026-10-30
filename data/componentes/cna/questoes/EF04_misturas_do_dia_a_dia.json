@@ -1,0 +1,412 @@
+[
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "O sal dissolvido deixou de existir porque não vemos os grãos?",
+    "opcoes": [
+      "Não, permanece na mistura.",
+      "Sim, ficou sem matéria.",
+      "Sim, toda mistura transparente é água pura."
+    ],
+    "correta": 0,
+    "explicacao": "Dissolver não significa eliminar o componente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um copo transparente sem identificação permite afirmar que contém água pura?",
+    "opcoes": [
+      "Não; aparência não identifica todos os componentes.",
+      "Sim, se não houver cheiro.",
+      "Sim, transparência basta."
+    ],
+    "correta": 0,
+    "explicacao": "Aspecto uniforme não certifica composição ou potabilidade.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Água e areia com grãos visíveis são exemplo de:",
+    "opcoes": [
+      "Mistura heterogênea na observação.",
+      "Água sem outro componente.",
+      "Material puro porque é natural."
+    ],
+    "correta": 0,
+    "explicacao": "Há regiões/partículas distinguíveis.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Água e óleo agitados parecem mais dispersos e depois formam camadas. O relato deve:",
+    "opcoes": [
+      "Informar os momentos e a formação de camadas.",
+      "Chamar de solução estável apenas pelo primeiro instante.",
+      "Apagar a observação posterior."
+    ],
+    "correta": 0,
+    "explicacao": "O tempo de observação integra a descrição da mistura.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma solução uniforme pode ter mais de um componente?",
+    "opcoes": [
+      "Não, se for transparente.",
+      "Sim, como água e sal dissolvido.",
+      "Não, uniformidade significa material puro."
+    ],
+    "correta": 1,
+    "explicacao": "Componente é material presente, mesmo sem região visível própria.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Duas camadas visíveis permitem conhecer todos os ingredientes de qualquer mistura?",
+    "opcoes": [
+      "Sim, um ingrediente por camada sempre.",
+      "Não; pode haver mais componentes do que regiões visíveis.",
+      "Sim, sem informações sobre preparo."
+    ],
+    "correta": 1,
+    "explicacao": "Regiões observáveis não enumeram necessariamente todas as substâncias.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual comparação está adequada?",
+    "opcoes": [
+      "Salmoura não tem sal porque é transparente.",
+      "Salada em pedaços e salmoura podem ter aspectos distintos e vários componentes.",
+      "Todo líquido de cozinha é material puro."
+    ],
+    "correta": 1,
+    "explicacao": "Aspecto e composição são descritos separadamente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma receita informa sal que não está visível no caldo. Devemos:",
+    "opcoes": [
+      "Provar o caldo da investigação.",
+      "Conservar a informação de composição com a fonte indicada.",
+      "Retirar sal da lista por não enxergá-lo."
+    ],
+    "correta": 1,
+    "explicacao": "Um ingrediente dissolvido pode não ser distinguido a olho nu.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.separando_componentes.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.separando_componentes",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Peneirar areia e pedrinhas aproveita principalmente:",
+    "opcoes": [
+      "A temperatura de fervura.",
+      "A presença obrigatória de microrganismos.",
+      "O tamanho diferente dos sólidos."
+    ],
+    "correta": 2,
+    "explicacao": "A abertura permite passar certas partículas e reter outras.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.misturas_do_dia_a_dia.separando_componentes.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Misturas do Dia a Dia",
+    "aulaId": "cna.ef04.misturas_do_dia_a_dia.separando_componentes",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um filtro de papel deixou passar água com sal dissolvido. Isso significa:",
+    "opcoes": [
+      "Que a água está pronta para beber.",
+      "Que todo sal ficou no filtro.",
+      "Que o método não separa necessariamente o sal dissolvido."
+    ],
+    "correta": 2,
+    "explicacao": "Filtrar partículas e remover material dissolvido são problemas distintos.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+        "consulta": "2026-10-30",
+        "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "id": "cna.ef04.microrganismos.microrganismos_uteis",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 31,
+  "unidade": "Microrganismos",
+  "titulo": "Microrganismos Úteis",
+  "bncc": [
+    "EF04CI07"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Organize os cartões por aplicação e indique o papel dos microrganismos em três exemplos.",
+      "Explique um cuidado ao comunicar que um microrganismo é útil, evitando recomendação de consumo ou tratamento por conta própria."
+    ],
+    "resumo": "Microrganismos são diversos e podem participar de decomposição, alimentos, combustíveis e medicamentos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.microrganismos.medicamentos_e_combustiveis\">Medicamentos e Combustíveis</button></p><h2>Microrganismos Úteis</h2><h3>Para compreender</h3><p>Microrganismos são diversos e podem participar de decomposição, alimentos, combustíveis e medicamentos. Útil descreve uma relação ou aplicação, não uma garantia de que qualquer organismo possa ser tocado ou ingerido. Uma mesma categoria ampla, como fungos ou bactérias, inclui espécies e funções diferentes. Verificar uma aplicação exige fonte sobre o organismo e o processo; nome genérico ou aparência não basta. Os cartões reúnem exemplos conhecidos e não são resultados de cultivo escolar.</p><h3>Exemplo comentado</h3><p>Quadro: fungos/bactérias em decomposição; leveduras em pão e etanol; bactérias selecionadas em iogurte; fungos em obtenção industrial de certas substâncias.</p><svg style=\"display:block;width:100%;max-width:650px;background:#fff\" viewBox=\"0 0 650 330\" role=\"img\" aria-label=\"Modelo autoral sem escala: Sol fornece luz ao capim; capim é alimento do gafanhoto; gafanhoto do sapo. Restos dos três podem ir à decomposição por muitos fungos e bactérias, que devolve materiais ao ambiente. Setas de alimentação não indicam ataque; não há retorno de energia ao Sol.\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g fill=\"#eef4e8\" stroke=\"#32502d\"><rect x=\"15\" y=\"95\" width=\"130\" height=\"50\" rx=\"8\"/><rect x=\"235\" y=\"95\" width=\"140\" height=\"50\" rx=\"8\"/><rect x=\"470\" y=\"95\" width=\"130\" height=\"50\" rx=\"8\"/><rect x=\"120\" y=\"230\" width=\"330\" height=\"45\" rx=\"8\"/></g><g fill=\"#111\" font-size=\"17\"><text x=\"25\" y=\"30\">Sol</text><text x=\"30\" y=\"125\">Capim</text><text x=\"250\" y=\"125\">Gafanhoto</text><text x=\"495\" y=\"125\">Sapo</text><text x=\"130\" y=\"258\">Muitos fungos e bactérias</text><text x=\"80\" y=\"60\">energia luminosa</text><text x=\"150\" y=\"90\">alimento</text><text x=\"385\" y=\"90\">alimento</text><text x=\"320\" y=\"194\">restos de todos</text><text x=\"30\" y=\"315\">Materiais retornam ao ambiente; energia se dispersa como calor.</text></g><g stroke=\"#344b36\" stroke-width=\"3\" fill=\"none\"><path d=\"M80 40v48m-5-8 5 8 5-8M150 120h75m-9-5 9 5-9 5M380 120h80m-9-5 9 5-9 5M80 150v45l150 30M305 150v74M535 150v45l-150 30\"/></g></svg><table><caption>Comparação qualitativa: sem medidas de quantidades ou observação da turma</caption><thead><tr><th scope=\"col\">Aspecto</th><th scope=\"col\">Matéria</th><th scope=\"col\">Energia</th></tr></thead><tbody><tr><td>Entrada em produtores</td><td>Água, gás carbônico e minerais participam</td><td>Luz fornece energia no modelo fotossintetizante</td></tr><tr><td>Alimentação</td><td>Materiais transferidos</td><td>Energia química transferida</td></tr><tr><td>Decomposição/atividades</td><td>Materiais transformados e devolvidos a diferentes partes do ambiente</td><td>Energia transformada e parte dispersa como calor</td></tr><tr><td>Diferença central</td><td>Pode circular entre componentes vivos/não vivos</td><td>Não faz o mesmo ciclo nem retorna ao Sol pelos decompositores</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Organize os cartões por aplicação e indique o papel dos microrganismos em três exemplos.</p><h4>Proposta 2</h4><p>Explique um cuidado ao comunicar que um microrganismo é útil, evitando recomendação de consumo ou tratamento por conta própria.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA Education — Aquatic food webs</a></li><li><a href=\"https://afdc.energy.gov/fuels/ethanol-production\" target=\"_blank\" rel=\"noopener noreferrer\">U.S. Department of Energy / AFDC — Ethanol Production and Distribution</a></li><li><a href=\"https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — Discovery and Development of Penicillin</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "microrganismos_uteis.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Todo microrganismo tem a mesma função e causa doença?",
+      "alternativas": [
+        "Sim, não há diversidade.",
+        "Não; funções e relações são variadas.",
+        "Sim, se não for visível a olho nu."
+      ],
+      "correta": 1,
+      "explicacao": "Categorias amplas não determinam um único efeito.",
+      "bncc": [
+        "EF04CI07"
+      ]
+    },
+    {
+      "id": "microrganismos_uteis.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Organize os cartões por aplicação e indique o papel dos microrganismos em três exemplos.",
+      "gabarito": "Processos e produtos coerentes, diversidade e origem das informações indicadas.",
+      "rubrica": [
+        "Processos e produtos coerentes, diversidade e origem das informações indicadas.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI07"
+      ]
+    },
+    {
+      "id": "microrganismos_uteis.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique um cuidado ao comunicar que um microrganismo é útil, evitando recomendação de consumo ou tratamento por conta própria.",
+      "gabarito": "Contexto e controle importam; não tornar utilidade uma certificação de segurança.",
+      "rubrica": [
+        "Contexto e controle importam; não tornar utilidade uma certificação de segurança.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI07"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "NOAA Education — Aquatic food webs",
+      "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+      "consulta": "2026-10-30",
+      "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+    },
+    {
+      "documento": "U.S. Department of Energy / AFDC — Ethanol Production and Distribution",
+      "url": "https://afdc.energy.gov/fuels/ethanol-production",
+      "consulta": "2026-10-30",
+      "uso": "Seção de produção por fermentação de açúcares consultada. Não transfere percentuais/dados dos EUA para Brasil, não fornece receita de combustível ou manipulação de álcool."
+    },
+    {
+      "documento": "American Chemical Society — Discovery and Development of Penicillin",
+      "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos históricos de fungo, substância e desenvolvimento/purificação industrial consultados. Sem reprodução de experimento, tratamento ou generalização de que todo antibiótico seria um fungo/derivado natural."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.microrganismos.medicamentos_e_combustiveis"
+  ],
+  "proximosPassos": [],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Microrganismos",
+    "bncc": [
+      "EF04CI07"
+    ],
+    "titulo": "Microrganismos Úteis"
+  }
+}

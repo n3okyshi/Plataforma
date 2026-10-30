@@ -1,0 +1,127 @@
+{
+  "id": "cna.ef04.cadeias_alimentares.prova",
+  "titulo": "Avaliação: Cadeias Alimentares",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Cadeias Alimentares",
+  "bncc": [
+    "EF04CI04"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "6 itens próprios de prova, com leitura mediada. Objetiva: acertos/6 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef04.cadeias_alimentares.consumidores.prova.1",
+    "cna.ef04.cadeias_alimentares.decompositores.prova.1",
+    "cna.ef04.cadeias_alimentares.montando_uma_cadeia.prova.1",
+    "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia.prova.1",
+    "cna.ef04.cadeias_alimentares.teias_alimentares.prova.1",
+    "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.cadeias_alimentares.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Cadeias Alimentares",
+    "enunciado": "Use os cartões: capim alimenta gafanhoto e coelho; gafanhoto pode alimentar sapo e ave insetívora; coelho pode alimentar raposa. Construa teia e duas cadeias, indique posições e sentido das setas, Sol e decompositores de restos de todos os níveis. Preveja efeito possível de reduzir capim e indique por que não é resultado garantido.",
+    "gabarito": "Relações fornecidas, produtor/consumidores corretos e seta alimento→consumidor; luz no produtor, restos de vários níveis, hipótese e rede dinâmica sem quantidades/extinções inventadas.",
+    "rubrica": [
+      "Relações fornecidas, produtor/consumidores corretos e seta alimento→consumidor; luz no produtor, restos de vários níveis, hipótese e rede dinâmica sem quantidades/extinções inventadas.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF04CI04"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef04.cadeias_alimentares.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Cadeias Alimentares",
+        "enunciado": "Use os cartões: capim alimenta gafanhoto e coelho; gafanhoto pode alimentar sapo e ave insetívora; coelho pode alimentar raposa. Construa teia e duas cadeias, indique posições e sentido das setas, Sol e decompositores de restos de todos os níveis. Preveja efeito possível de reduzir capim e indique por que não é resultado garantido.",
+        "gabarito": "Relações fornecidas, produtor/consumidores corretos e seta alimento→consumidor; luz no produtor, restos de vários níveis, hipótese e rede dinâmica sem quantidades/extinções inventadas.",
+        "rubrica": [
+          "Relações fornecidas, produtor/consumidores corretos e seta alimento→consumidor; luz no produtor, restos de vários níveis, hipótese e rede dinâmica sem quantidades/extinções inventadas.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF04CI04"
+        ],
+        "aulasReferencia": [
+          "cna.ef04.cadeias_alimentares.consumidores",
+          "cna.ef04.cadeias_alimentares.decompositores",
+          "cna.ef04.cadeias_alimentares.montando_uma_cadeia",
+          "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia",
+          "cna.ef04.cadeias_alimentares.teias_alimentares",
+          "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao1",
+      "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao2",
+      "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao1",
+      "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao2",
+      "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao1",
+      "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao2",
+      "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao1",
+      "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao2",
+      "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao1",
+      "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao2",
+      "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao1",
+      "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "NOAA Education — Aquatic food webs",
+      "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+      "consulta": "2026-10-30",
+      "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI04",
+      "questoes": [
+        "cna.ef04.cadeias_alimentares.consumidores.prova.1",
+        "cna.ef04.cadeias_alimentares.decompositores.prova.1",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia.prova.1",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia.prova.1",
+        "cna.ef04.cadeias_alimentares.teias_alimentares.prova.1",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.cadeias_alimentares.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef04.cadeias_alimentares.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao1",
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao2",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao1",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao2",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao1",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao2",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao1",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao2",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao1",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao2",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao1",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 3,
+  "unidade": "Misturas do Dia a Dia",
+  "titulo": "Componentes das Misturas",
+  "bncc": [
+    "EF04CI01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça quadro dos dois cartões com composição conhecida, aspecto e informação que a aparência sozinha não revela.",
+      "Uma amostra parece água, mas não tem identificação. Explique o que registrar e por que não consumi-la."
+    ],
+    "resumo": "Identificar componentes exige conhecer o preparo ou consultar uma fonte; olhar nem sempre basta.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas\">Misturas Heterogêneas</button></p><h2>Componentes das Misturas</h2><h3>Para compreender</h3><p>Identificar componentes exige conhecer o preparo ou consultar uma fonte; olhar nem sempre basta. A água pode conter substâncias dissolvidas, e um alimento pode reunir vários ingredientes. Componente não é a mesma coisa que camada: uma solução uniforme pode ter água e sal. Escreva quais materiais foram reunidos e quais propriedades são observáveis. Misturas desconhecidas não são provadas ou cheiradas para investigação. Nas fichas, desconhecido é uma informação válida quando faltam evidências.</p><h3>Exemplo comentado</h3><p>Cartões: água + sal, uma região visível; água + óleo, duas camadas em repouso. Duas composições diferentes, sem equivalência automática entre número de componentes e camadas.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça quadro dos dois cartões com composição conhecida, aspecto e informação que a aparência sozinha não revela.</p><h4>Proposta 2</h4><p>Uma amostra parece água, mas não tem identificação. Explique o que registrar e por que não consumi-la.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — Why Does Water Dissolve Salt?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "componentes_das_misturas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma solução uniforme pode ter mais de um componente?",
+      "alternativas": [
+        "Sim, como água e sal dissolvido.",
+        "Não, uniformidade significa material puro.",
+        "Não, se for transparente."
+      ],
+      "correta": 0,
+      "explicacao": "Componente é material presente, mesmo sem região visível própria.",
+      "bncc": [
+        "EF04CI01"
+      ]
+    },
+    {
+      "id": "componentes_das_misturas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça quadro dos dois cartões com composição conhecida, aspecto e informação que a aparência sozinha não revela.",
+      "gabarito": "Água/sal e água/óleo identificados; distinguir composição e regiões observadas.",
+      "rubrica": [
+        "Água/sal e água/óleo identificados; distinguir composição e regiões observadas.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI01"
+      ]
+    },
+    {
+      "id": "componentes_das_misturas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Uma amostra parece água, mas não tem identificação. Explique o que registrar e por que não consumi-la.",
+      "gabarito": "Composição desconhecida, origem a conferir com adulto; não usar sentidos como teste de segurança.",
+      "rubrica": [
+        "Composição desconhecida, origem a conferir com adulto; não usar sentidos como teste de segurança.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+      "consulta": "2026-10-30",
+      "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas"
+  ],
+  "proximosPassos": [
+    "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Misturas do Dia a Dia",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "titulo": "Componentes das Misturas"
+  }
+}

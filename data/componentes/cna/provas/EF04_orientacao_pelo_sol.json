@@ -1,0 +1,135 @@
+{
+  "id": "cna.ef04.orientacao_pelo_sol.prova",
+  "titulo": "Avaliação: Orientação pelo Sol",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Orientação pelo Sol",
+  "bncc": [
+    "EF04CI09",
+    "EF04CI10"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens próprios de prova, com leitura mediada. Objetiva: acertos/4 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef04.orientacao_pelo_sol.gnomon.prova.1",
+    "cna.ef04.orientacao_pelo_sol.sombra_e_direcao.prova.1",
+    "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos.prova.1",
+    "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.orientacao_pelo_sol.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Orientação pelo Sol",
+    "enunciado": "Planeje registros de gnômon imóvel pelo método de círculo e comparação com bússola no mesmo local. Use o esquema para marcar leste/oeste e norte/sul, organize rosa e explique por que duas pontas arbitrárias, 12 h como regra universal ou coincidência forçada com agulha prejudicam o estudo. Se executar com adulto, apresente dados reais; caso contrário, mantenha observação pendente.",
+    "gabarito": "Verticalidade/base fixa, duas pontas no mesmo círculo antes/depois do mínimo, direção estimada e perpendicular, magnético/geográfico e interferências; método aproximado sem olhar o Sol, sem dados fabricados.",
+    "rubrica": [
+      "Verticalidade/base fixa, duas pontas no mesmo círculo antes/depois do mínimo, direção estimada e perpendicular, magnético/geográfico e interferências; método aproximado sem olhar o Sol, sem dados fabricados.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF04CI09",
+      "EF04CI10"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef04.orientacao_pelo_sol.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Orientação pelo Sol",
+        "enunciado": "Planeje registros de gnômon imóvel pelo método de círculo e comparação com bússola no mesmo local. Use o esquema para marcar leste/oeste e norte/sul, organize rosa e explique por que duas pontas arbitrárias, 12 h como regra universal ou coincidência forçada com agulha prejudicam o estudo. Se executar com adulto, apresente dados reais; caso contrário, mantenha observação pendente.",
+        "gabarito": "Verticalidade/base fixa, duas pontas no mesmo círculo antes/depois do mínimo, direção estimada e perpendicular, magnético/geográfico e interferências; método aproximado sem olhar o Sol, sem dados fabricados.",
+        "rubrica": [
+          "Verticalidade/base fixa, duas pontas no mesmo círculo antes/depois do mínimo, direção estimada e perpendicular, magnético/geográfico e interferências; método aproximado sem olhar o Sol, sem dados fabricados.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF04CI09",
+          "EF04CI10"
+        ],
+        "aulasReferencia": [
+          "cna.ef04.orientacao_pelo_sol.gnomon",
+          "cna.ef04.orientacao_pelo_sol.sombra_e_direcao",
+          "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos",
+          "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao1",
+      "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao2",
+      "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao1",
+      "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao2",
+      "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao1",
+      "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao2",
+      "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao1",
+      "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "University of Massachusetts Amherst — Using shadows to find the four directions",
+      "url": "https://www.umass.edu/sunwheel/pages/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Texto do método de mesmo círculo e comparação com bússola consultado. Adaptação como estimativa; não importa latitude 42°N, sombra sempre norte, musgo em árvore ou horário fixo para Brasil. Figuras originais não foram inspecionadas/reproduzidas; esquema incorporado é autoral."
+    },
+    {
+      "documento": "NOAA JetStream — The Shadow Knows I",
+      "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+      "consulta": "2026-10-30",
+      "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI09",
+      "questoes": [
+        "cna.ef04.orientacao_pelo_sol.gnomon.prova.1",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao.prova.1",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.orientacao_pelo_sol.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef04.orientacao_pelo_sol.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao1",
+        "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao2",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao1",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao2",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao1",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao2"
+      ]
+    },
+    {
+      "bncc": "EF04CI10",
+      "questoes": [
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.orientacao_pelo_sol.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef04.orientacao_pelo_sol.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao1",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao2"
+      ]
+    }
+  ]
+}

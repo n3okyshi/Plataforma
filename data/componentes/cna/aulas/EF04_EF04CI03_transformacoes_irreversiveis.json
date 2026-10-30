@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 14,
+  "unidade": "Transformações Reversíveis e Não Reversíveis",
+  "titulo": "Transformações Não Reversíveis",
+  "bncc": [
+    "EF04CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Organize cartões: gelo derretido, ovo cozido e papel queimado. Explique em cada caso se inverter a condição térmica recupera o início.",
+      "Critique a frase: se é difícil voltar atrás, houve obrigatoriamente nova substância."
+    ],
+    "resumo": "Algumas mudanças não retornam à condição inicial simplesmente invertendo o aquecimento ou resfriamento.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.reversivel_ou_nao.transformacoes_reversiveis\">Transformações Reversíveis</button></p><h2>Transformações Não Reversíveis</h2><h3>Para compreender</h3><p>Algumas mudanças não retornam à condição inicial simplesmente invertendo o aquecimento ou resfriamento. Cozinhar ovo e queimar papel são exemplos do escopo estudado. Não significa que toda mudança difícil de desfazer seja a mesma coisa: rasgar papel, por exemplo, muda forma sem servir como prova suficiente de nova substância. Use evidências e descreva o caminho considerado. Não classifique automaticamente por cor ou por ser possível colar partes. Os exemplos de queima e cozinha são estudados sem execução infantil.</p><h3>Exemplo comentado</h3><p>Um ovo cozido pode ser cortado e resfriado, mas não volta cru. Colar papel rasgado não reverte uma queima, e são situações diferentes.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Organize cartões: gelo derretido, ovo cozido e papel queimado. Explique em cada caso se inverter a condição térmica recupera o início.</p><h4>Proposta 2</h4><p>Critique a frase: se é difícil voltar atrás, houve obrigatoriamente nova substância.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — What is a Chemical Reaction?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "transformacoes_irreversiveis.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual afirmação é adequada?",
+      "alternativas": [
+        "Todo material frio voltou ao estado inicial.",
+        "A reversão depende do processo; esfriar cinza não refaz a folha.",
+        "Todo papel rasgado demonstra reação química."
+      ],
+      "correta": 1,
+      "explicacao": "A conclusão deve corresponder ao fenômeno descrito.",
+      "bncc": [
+        "EF04CI03"
+      ]
+    },
+    {
+      "id": "transformacoes_irreversiveis.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Organize cartões: gelo derretido, ovo cozido e papel queimado. Explique em cada caso se inverter a condição térmica recupera o início.",
+      "gabarito": "Água reversível em condições adequadas; ovo/queima não por simples resfriamento; comparar processo.",
+      "rubrica": [
+        "Água reversível em condições adequadas; ovo/queima não por simples resfriamento; comparar processo.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ]
+    },
+    {
+      "id": "transformacoes_irreversiveis.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Critique a frase: se é difícil voltar atrás, houve obrigatoriamente nova substância.",
+      "gabarito": "Reconhecer que dificuldade de reversão sozinha não define composição ou tipo de transformação.",
+      "rubrica": [
+        "Reconhecer que dificuldade de reversão sozinha não define composição ou tipo de transformação.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — What is a Chemical Reaction?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis"
+  ],
+  "proximosPassos": [
+    "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "titulo": "Transformações Não Reversíveis"
+  }
+}

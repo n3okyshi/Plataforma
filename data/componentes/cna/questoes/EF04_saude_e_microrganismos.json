@@ -1,0 +1,472 @@
+[
+  {
+    "id": "cna.ef04.saude_e_microrganismos.formas_de_transmissao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Toda doença infecciosa tem exatamente a mesma via de transmissão?",
+    "opcoes": [
+      "Sim, basta qualquer medida isolada.",
+      "Sim, só a cor do microrganismo importa.",
+      "Não; a prevenção precisa considerar o agente e a via."
+    ],
+    "correta": 2,
+    "explicacao": "Água/alimentos e vias respiratórias não são o mesmo caminho.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.formas_de_transmissao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um colega adoeceu. Isso prova falta de higiene?",
+    "opcoes": [
+      "Sim, se for criança.",
+      "Sim, sempre.",
+      "Não; há múltiplas condições e causas, e a pessoa precisa de acolhimento."
+    ],
+    "correta": 2,
+    "explicacao": "Não se atribui culpa ou diagnóstico a partir do adoecimento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um cartaz de higiene sem água ou sabão resolve o acesso ao cuidado?",
+    "opcoes": [
+      "Sim, se o cartaz for grande.",
+      "Sim, informação substitui recursos.",
+      "Não; infraestrutura e apoio também são necessários."
+    ],
+    "correta": 2,
+    "explicacao": "A prevenção depende de condições reais de acesso.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual promessa deve ser evitada?",
+    "opcoes": [
+      "Medidas podem reduzir riscos de certas transmissões.",
+      "A prevenção depende da via.",
+      "Uma única ação garante ausência de qualquer doença."
+    ],
+    "correta": 2,
+    "explicacao": "Não há garantia universal por medida isolada.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um alimento com boa aparência está comprovadamente seguro?",
+    "opcoes": [
+      "Não; aparência sozinha não certifica segurança.",
+      "Sim, se não tiver cheiro forte.",
+      "Sim, a cor elimina qualquer risco."
+    ],
+    "correta": 0,
+    "explicacao": "Condições de origem e preparo também importam.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para comparar segurança de água didática, devemos:",
+    "opcoes": [
+      "Não consumir e buscar informação/controle apropriado com adulto.",
+      "Pedir a um colega que teste primeiro.",
+      "Provar pequena quantidade."
+    ],
+    "correta": 0,
+    "explicacao": "O estudo nunca usa ingestão como teste de risco.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Vacina e antibiótico são exatamente a mesma coisa?",
+    "opcoes": [
+      "Sim, dispensam outras medidas.",
+      "Não; têm funções diferentes e uso orientado.",
+      "Sim, ambos tratam qualquer vírus."
+    ],
+    "correta": 1,
+    "explicacao": "Vacinação promove proteção específica; antibióticos não são vacina.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual afirmação é adequada?",
+    "opcoes": [
+      "A turma deve escolher doses para colegas.",
+      "Vacinas podem proteger contra doenças específicas e não substituem todos os cuidados.",
+      "Toda vacina protege contra qualquer infecção."
+    ],
+    "correta": 1,
+    "explicacao": "A orientação individual cabe à equipe de saúde.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.saude_na_comunidade.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.saude_na_comunidade",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma ação coletiva de prevenção pode incluir:",
+    "opcoes": [
+      "Culpar quem adoeceu.",
+      "Expor diagnósticos de alunos.",
+      "Melhorar acesso a água segura e saneamento."
+    ],
+    "correta": 2,
+    "explicacao": "Infraestrutura e acesso influenciam riscos e possibilidades de cuidado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.saude_e_microrganismos.saude_na_comunidade.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Saúde e Microrganismos",
+    "aulaId": "cna.ef04.saude_e_microrganismos.saude_na_comunidade",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Entregar uma proposta comprova que o problema foi resolvido?",
+    "opcoes": [
+      "Sim, o texto prova execução.",
+      "Sim, se a turma concordar.",
+      "Não; é preciso acompanhar resposta, implementação e efeito."
+    ],
+    "correta": 2,
+    "explicacao": "Propor, executar e verificar são etapas distintas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "WHO — Diarrhoeal disease",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+      },
+      {
+        "documento": "WHO — Vaccines and immunization: What is vaccination?",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+        "consulta": "2026-10-30",
+        "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

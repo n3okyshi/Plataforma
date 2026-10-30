@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 4,
+  "unidade": "Misturas do Dia a Dia",
+  "titulo": "Misturas na Cozinha",
+  "bncc": [
+    "EF04CI01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escolha dois cartões, salmoura e salada de pedaços, e compare componentes e propriedades observáveis.",
+      "Explique o que muda entre consultar receita e observar a amostra; indique um cuidado para não confundir material didático e alimento de consumo."
+    ],
+    "resumo": "Na cozinha há misturas como salmoura, salada e água com óleo.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas\">Componentes das Misturas</button></p><h2>Misturas na Cozinha</h2><h3>Para compreender</h3><p>Na cozinha há misturas como salmoura, salada e água com óleo. Ingredientes e propriedades permitem descrevê-las: aspecto uniforme, pedaços, camadas ou partículas. Cozinhar pode transformar ingredientes; portanto mistura e transformação não são palavras equivalentes. Para esta aula, use cartões de alimentos e preparo simples autorizado, sem facas, fogo ou degustação de amostras. Composição por rótulo ou receita é uma fonte; aparência é outro tipo de informação.</p><h3>Exemplo comentado</h3><p>Uma receita fictícia usa água, sal e legumes. Mesmo que o sal não apareça como grão, continua entre os ingredientes conhecidos.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Escolha dois cartões, salmoura e salada de pedaços, e compare componentes e propriedades observáveis.</p><h4>Proposta 2</h4><p>Explique o que muda entre consultar receita e observar a amostra; indique um cuidado para não confundir material didático e alimento de consumo.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — Why Does Water Dissolve Salt?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "misturas_na_cozinha.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual comparação está adequada?",
+      "alternativas": [
+        "Salmoura não tem sal porque é transparente.",
+        "Salada em pedaços e salmoura podem ter aspectos distintos e vários componentes.",
+        "Todo líquido de cozinha é material puro."
+      ],
+      "correta": 1,
+      "explicacao": "Aspecto e composição são descritos separadamente.",
+      "bncc": [
+        "EF04CI01"
+      ]
+    },
+    {
+      "id": "misturas_na_cozinha.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Escolha dois cartões, salmoura e salada de pedaços, e compare componentes e propriedades observáveis.",
+      "gabarito": "Composição e aspectos corretos; não generalizar que todo alimento é homogêneo ou todo líquido é puro.",
+      "rubrica": [
+        "Composição e aspectos corretos; não generalizar que todo alimento é homogêneo ou todo líquido é puro.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI01"
+      ]
+    },
+    {
+      "id": "misturas_na_cozinha.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique o que muda entre consultar receita e observar a amostra; indique um cuidado para não confundir material didático e alimento de consumo.",
+      "gabarito": "Fontes complementares e identificação sem ingestão ou corte.",
+      "rubrica": [
+        "Fontes complementares e identificação sem ingestão ou corte.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+      "consulta": "2026-10-30",
+      "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas"
+  ],
+  "proximosPassos": [
+    "cna.ef04.misturas_do_dia_a_dia.separando_componentes"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Misturas do Dia a Dia",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "titulo": "Misturas na Cozinha"
+  }
+}

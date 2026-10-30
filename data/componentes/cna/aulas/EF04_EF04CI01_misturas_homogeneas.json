@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 1,
+  "unidade": "Misturas do Dia a Dia",
+  "titulo": "Misturas Homogêneas",
+  "bncc": [
+    "EF04CI01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com adulto, observe água e pequena quantidade de sal em recipiente limpo de uso didático, sem consumo. Registre componentes, preparo e aspecto.",
+      "Explique por que não ver sal não significa que desapareceu nem que a água é pura."
+    ],
+    "resumo": "Uma mistura reúne materiais.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura\">Misturas no cotidiano e sua composição</button></p><h2>Misturas Homogêneas</h2><h3>Para compreender</h3><p>Uma mistura reúne materiais. Quando apresenta aspecto uniforme na escala de observação, chamamos homogênea. Uma pequena quantidade de sal dissolvida em água pode formar uma solução transparente; o sal continua presente, embora seus grãos não sejam vistos. Transparente não significa puro nem seguro para beber. Quantidade, temperatura e tempo de mistura influenciam o resultado: sal em excesso pode permanecer no fundo. Usamos amostras selecionadas pelo adulto, sem provar líquidos para identificar componentes.</p><h3>Exemplo comentado</h3><p>Exemplo: água e pouco sal bem misturados, sem grãos visíveis. A aparência uniforme não apaga a composição conhecida pelo preparo.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Com adulto, observe água e pequena quantidade de sal em recipiente limpo de uso didático, sem consumo. Registre componentes, preparo e aspecto.</p><h4>Proposta 2</h4><p>Explique por que não ver sal não significa que desapareceu nem que a água é pura.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — Why Does Water Dissolve Salt?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "misturas_homogeneas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O sal dissolvido deixou de existir porque não vemos os grãos?",
+      "alternativas": [
+        "Não, permanece na mistura.",
+        "Sim, ficou sem matéria.",
+        "Sim, toda mistura transparente é água pura."
+      ],
+      "correta": 0,
+      "explicacao": "Dissolver não significa eliminar o componente.",
+      "bncc": [
+        "EF04CI01"
+      ]
+    },
+    {
+      "id": "misturas_homogeneas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, observe água e pequena quantidade de sal em recipiente limpo de uso didático, sem consumo. Registre componentes, preparo e aspecto.",
+      "gabarito": "Registrar composição e aspecto uniforme quando ocorrer; se restarem grãos, relatar, não apagar o resultado.",
+      "rubrica": [
+        "Registrar composição e aspecto uniforme quando ocorrer; se restarem grãos, relatar, não apagar o resultado.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI01"
+      ]
+    },
+    {
+      "id": "misturas_homogeneas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que não ver sal não significa que desapareceu nem que a água é pura.",
+      "gabarito": "Distinguir visibilidade e presença; composição conhecida, sem prova por ingestão.",
+      "rubrica": [
+        "Distinguir visibilidade e presença; composição conhecida, sem prova por ingestão.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+      "consulta": "2026-10-30",
+      "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura"
+  ],
+  "proximosPassos": [
+    "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Misturas do Dia a Dia",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "titulo": "Misturas Homogêneas"
+  }
+}

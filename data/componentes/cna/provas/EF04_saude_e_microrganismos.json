@@ -1,0 +1,126 @@
+{
+  "id": "cna.ef04.saude_e_microrganismos.prova",
+  "titulo": "Avaliação: Saúde e Microrganismos",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Saúde e Microrganismos",
+  "bncc": [
+    "EF04CI08"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef04.saude_e_microrganismos.formas_de_transmissao.prova.1",
+    "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.prova.1",
+    "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.prova.1",
+    "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.prova.1",
+    "cna.ef04.saude_e_microrganismos.saude_na_comunidade.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.saude_e_microrganismos.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Saúde e Microrganismos",
+    "enunciado": "Numa comunidade fictícia faltam água segura e sabão e há descarte inadequado. Desenhe uma via possível de transmissão por água/alimentos, associe medidas a pontos do caminho e diferencie ações individuais/coletivas. Inclua proteção específica de vacinas, privacidade, acolhimento e modo de verificar a implementação, sem diagnosticar pessoas ou prescrever tratamento.",
+    "gabarito": "Vias e medidas coerentes com agentes virais/bacterianos/protozoários, recursos e saneamento, vacina específica não universal, sem culpa/receita clínica e separação plano/realização/efeito.",
+    "rubrica": [
+      "Vias e medidas coerentes com agentes virais/bacterianos/protozoários, recursos e saneamento, vacina específica não universal, sem culpa/receita clínica e separação plano/realização/efeito.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF04CI08"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef04.saude_e_microrganismos.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Saúde e Microrganismos",
+        "enunciado": "Numa comunidade fictícia faltam água segura e sabão e há descarte inadequado. Desenhe uma via possível de transmissão por água/alimentos, associe medidas a pontos do caminho e diferencie ações individuais/coletivas. Inclua proteção específica de vacinas, privacidade, acolhimento e modo de verificar a implementação, sem diagnosticar pessoas ou prescrever tratamento.",
+        "gabarito": "Vias e medidas coerentes com agentes virais/bacterianos/protozoários, recursos e saneamento, vacina específica não universal, sem culpa/receita clínica e separação plano/realização/efeito.",
+        "rubrica": [
+          "Vias e medidas coerentes com agentes virais/bacterianos/protozoários, recursos e saneamento, vacina específica não universal, sem culpa/receita clínica e separação plano/realização/efeito.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF04CI08"
+        ],
+        "aulasReferencia": [
+          "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+          "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+          "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+          "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+          "cna.ef04.saude_e_microrganismos.saude_na_comunidade"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao1",
+      "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao2",
+      "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao1",
+      "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao2",
+      "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao1",
+      "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao2",
+      "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao1",
+      "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao2",
+      "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao1",
+      "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "WHO — Diarrhoeal disease",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+      "consulta": "2026-10-30",
+      "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+    },
+    {
+      "documento": "WHO — Vaccines and immunization: What is vaccination?",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+      "consulta": "2026-10-30",
+      "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI08",
+      "questoes": [
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao.prova.1",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.prova.1",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.prova.1",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.prova.1",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.saude_e_microrganismos.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef04.saude_e_microrganismos.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao1",
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao2",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao1",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao2",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao1",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao2",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao1",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao2",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao1",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao2"
+      ]
+    }
+  ]
+}

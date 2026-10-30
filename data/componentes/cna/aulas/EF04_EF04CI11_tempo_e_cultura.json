@@ -1,0 +1,126 @@
+{
+  "id": "cna.ef04.calendarios_e_ciclos.tempo_e_cultura",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 44,
+  "unidade": "Calendários e Ciclos",
+  "titulo": "Tempo e Cultura",
+  "bncc": [
+    "EF04CI11"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Crie calendário didático com regra declarada, período, legenda e campos de observação; diferencie data civil e ciclo natural.",
+      "Compare seu calendário com um exemplo do quadro cultural e explique limites e uma revisão após leitura do adulto, ou registre revisão pendente."
+    ],
+    "resumo": "Organizar o tempo envolve ciclos naturais, observações e decisões humanas.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.calendarios_e_ciclos.ciclos_naturais\">Ciclos Naturais</button></p><h2>Tempo e Cultura</h2><h3>Para compreender</h3><p>Organizar o tempo envolve ciclos naturais, observações e decisões humanas. Um calendário ajuda a combinar atividades, marcar memórias e situar eventos; sua função depende do uso e da comunidade. Compare referências sem supor que toda festa tem origem numa fase lunar ou que todas as culturas usam o mesmo início de ano. Datas de celebrações específicas exigem fonte e ano, não são inventadas pelo modelo. Respeite práticas e privacidade. Produzir calendário didático é explicar regras escolhidas, não representar toda cultura.</p><h3>Exemplo comentado</h3><p>Projeto fictício: calendário de observação da turma marca datas civis e campos para Lua/condições do céu. O campo em branco não pode ser preenchido como observação realizada.</p><table><caption>Comparação de referências; não é conversor de datas nem descrição de todas as práticas individuais</caption><thead><tr><th scope=\"col\">Exemplo</th><th scope=\"col\">Referência predominante</th><th scope=\"col\">Relação com ciclos</th></tr></thead><tbody><tr><td>Gregoriano</td><td>Solar</td><td>Ano relacionado ao ciclo solar; meses não sincronizam sempre com fases</td></tr><tr><td>Islâmico</td><td>Lunar</td><td>Meses acompanham ciclos lunares; critérios de início podem variar</td></tr><tr><td>Hebraico</td><td>Lunissolar</td><td>Relaciona meses lunares e ano solar com ajustes</td></tr><tr><td>Chinês tradicional</td><td>Lunissolar</td><td>Relaciona meses lunares e ano solar; usos civis podem coexistir</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Crie calendário didático com regra declarada, período, legenda e campos de observação; diferencie data civil e ciclo natural.</p><h4>Proposta 2</h4><p>Compare seu calendário com um exemplo do quadro cultural e explique limites e uma revisão após leitura do adulto, ou registre revisão pendente.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://aa.usno.navy.mil/faq/calendars\" target=\"_blank\" rel=\"noopener noreferrer\">U.S. Naval Observatory — Introduction to Calendars</a></li><li><a href=\"https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA JetStream — The Shadow Knows I</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "tempo_e_cultura.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Criar calendário didático significa:",
+      "alternativas": [
+        "Representar obrigatoriamente toda tradição cultural.",
+        "Explicar regras, finalidade e limites do recurso criado.",
+        "Escolher datas reais de festas sem fonte."
+      ],
+      "correta": 1,
+      "explicacao": "Um projeto escolar tem escopo declarado, não autoridade sobre todas as práticas.",
+      "bncc": [
+        "EF04CI11"
+      ]
+    },
+    {
+      "id": "tempo_e_cultura.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Crie calendário didático com regra declarada, período, legenda e campos de observação; diferencie data civil e ciclo natural.",
+      "gabarito": "Regras coerentes e uso explícito, sem observações ou festas inventadas como reais.",
+      "rubrica": [
+        "Regras coerentes e uso explícito, sem observações ou festas inventadas como reais.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI11"
+      ]
+    },
+    {
+      "id": "tempo_e_cultura.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare seu calendário com um exemplo do quadro cultural e explique limites e uma revisão após leitura do adulto, ou registre revisão pendente.",
+      "gabarito": "Comparação respeitosa por referência/uso, evidência de devolutiva real ou pendente.",
+      "rubrica": [
+        "Comparação respeitosa por referência/uso, evidência de devolutiva real ou pendente.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI11"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "U.S. Naval Observatory — Introduction to Calendars",
+      "url": "https://aa.usno.navy.mil/faq/calendars",
+      "consulta": "2026-10-30",
+      "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+    },
+    {
+      "documento": "NOAA JetStream — The Shadow Knows I",
+      "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+      "consulta": "2026-10-30",
+      "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.calendarios_e_ciclos.ciclos_naturais"
+  ],
+  "proximosPassos": [],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Calendários e Ciclos",
+    "bncc": [
+      "EF04CI11"
+    ],
+    "titulo": "Tempo e Cultura"
+  }
+}

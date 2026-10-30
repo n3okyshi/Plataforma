@@ -1,0 +1,127 @@
+{
+  "id": "cna.ef04.misturas_do_dia_a_dia.separando_componentes",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 5,
+  "unidade": "Misturas do Dia a Dia",
+  "titulo": "Separando Componentes",
+  "bncc": [
+    "EF04CI01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Proponha métodos para areia/pedrinhas e água/areia, justificando a propriedade usada. Teste só montagem segura autorizada ou registre plano.",
+      "Explique por que filtrar água com sal e aparência clara não demonstra purificação nem potabilidade."
+    ],
+    "resumo": "Métodos de separação aproveitam propriedades diferentes dos componentes.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha\">Misturas na Cozinha</button></p><h2>Separando Componentes</h2><p><strong>Aprofundamento:</strong> este tópico amplia o estudo das propriedades e relações; as atividades centrais da unidade continuam necessárias.</p><h3>Para compreender</h3><p>Métodos de separação aproveitam propriedades diferentes dos componentes. Peneirar pode separar sólidos de tamanhos diferentes; filtrar pode reter areia da água; decantar pode aproveitar repouso e separação de regiões. Um filtro comum não retira sal dissolvido nem torna água segura para beber. A escolha depende da mistura, não de um método universal. O adulto prepara materiais limpos e montagem sem pontas, aquecimento ou consumo. Separação pode ser incompleta, e isso deve ser registrado.</p><h3>Exemplo comentado</h3><p>Água com areia passa por filtro adequado; parte dos grãos fica retida. Em água com sal dissolvido, esse filtro não recupera o sal como grãos.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Proponha métodos para areia/pedrinhas e água/areia, justificando a propriedade usada. Teste só montagem segura autorizada ou registre plano.</p><h4>Proposta 2</h4><p>Explique por que filtrar água com sal e aparência clara não demonstra purificação nem potabilidade.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — Why Does Water Dissolve Salt?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "separando_componentes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Peneirar areia e pedrinhas aproveita principalmente:",
+      "alternativas": [
+        "O tamanho diferente dos sólidos.",
+        "A temperatura de fervura.",
+        "A presença obrigatória de microrganismos."
+      ],
+      "correta": 0,
+      "explicacao": "A abertura permite passar certas partículas e reter outras.",
+      "bncc": [
+        "EF04CI01"
+      ]
+    },
+    {
+      "id": "separando_componentes.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Proponha métodos para areia/pedrinhas e água/areia, justificando a propriedade usada. Teste só montagem segura autorizada ou registre plano.",
+      "gabarito": "Tamanho para peneira, partículas retidas para filtro; evidência de execução distinta do plano.",
+      "rubrica": [
+        "Tamanho para peneira, partículas retidas para filtro; evidência de execução distinta do plano.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI01"
+      ]
+    },
+    {
+      "id": "separando_componentes.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que filtrar água com sal e aparência clara não demonstra purificação nem potabilidade.",
+      "gabarito": "Sal pode atravessar dissolvido e agentes podem permanecer; não beber filtrado.",
+      "rubrica": [
+        "Sal pode atravessar dissolvido e agentes podem permanecer; não beber filtrado.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+      "consulta": "2026-10-30",
+      "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha"
+  ],
+  "proximosPassos": [],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Misturas do Dia a Dia",
+    "bncc": [
+      "EF04CI01"
+    ],
+    "titulo": "Separando Componentes"
+  },
+  "conteudosComplementares": [
+    {
+      "tipo": "aprofundamento",
+      "descricao": "Métodos de separação aprofundam a identificação das misturas e as propriedades observáveis; não são requisito literal adicional de EF04CI01.",
+      "mantemEscopoOriginal": true
+    }
+  ]
+}

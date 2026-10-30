@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 7,
+  "unidade": "Transformações dos Materiais",
+  "titulo": "Observando Mudanças",
+  "bncc": [
+    "EF04CI02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com adulto, acompanhe papel de mesmo tipo seco e levemente umedecido, em bandeja limpa. Registre antes e depois, sem guardar material mofado.",
+      "Compare uma previsão sua com o resultado ou indique teste pendente. Explique uma limitação."
+    ],
+    "resumo": "Para observar transformação, descreva o estado inicial e compare com registros posteriores.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.transformacoes_dos_materiais.luz_e_umidade\">Luz e Umidade</button></p><h2>Observando Mudanças</h2><h3>Para compreender</h3><p>Para observar transformação, descreva o estado inicial e compare com registros posteriores. Cor, forma, textura e estado físico são pistas, mas uma alteração isolada nem sempre identifica sua causa. Umidade, luz, aquecimento e resfriamento podem agir de modos distintos. Testes seguros precisam de pergunta, condições registradas e apoio adulto. Nesta aula, compare papel que recebeu água com um controle seco, sem mofo, fogo, produtos ou ingestão. Não confunda mudança esperada com resultado efetivamente obtido.</p><h3>Exemplo comentado</h3><p>Um papel molhado ficou ondulado depois de secar. Isso registra forma e tempo; não prova que todo papel reage igual ou que houve formação de nova substância.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Com adulto, acompanhe papel de mesmo tipo seco e levemente umedecido, em bandeja limpa. Registre antes e depois, sem guardar material mofado.</p><h4>Proposta 2</h4><p>Compare uma previsão sua com o resultado ou indique teste pendente. Explique uma limitação.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — What is a Chemical Reaction?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "observando_mudancas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma transformação deve ser descrita com base em:",
+      "alternativas": [
+        "Registros antes/depois e condições.",
+        "Apenas a expectativa do observador.",
+        "Somente o nome do material."
+      ],
+      "correta": 0,
+      "explicacao": "A comparação permite identificar qual propriedade mudou.",
+      "bncc": [
+        "EF04CI02"
+      ]
+    },
+    {
+      "id": "observando_mudancas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, acompanhe papel de mesmo tipo seco e levemente umedecido, em bandeja limpa. Registre antes e depois, sem guardar material mofado.",
+      "gabarito": "Registros datados, controle, descrição fiel e descarte orientado; sem conclusão química só pela forma.",
+      "rubrica": [
+        "Registros datados, controle, descrição fiel e descarte orientado; sem conclusão química só pela forma.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI02"
+      ]
+    },
+    {
+      "id": "observando_mudancas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare uma previsão sua com o resultado ou indique teste pendente. Explique uma limitação.",
+      "gabarito": "Separar hipótese e evidência, considerar tipo/quantidade de água/tempo.",
+      "rubrica": [
+        "Separar hipótese e evidência, considerar tipo/quantidade de água/tempo.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — What is a Chemical Reaction?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.transformacoes_dos_materiais.luz_e_umidade"
+  ],
+  "proximosPassos": [
+    "cna.ef04.transformacoes_dos_materiais.registrando_experimentos"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Transformações dos Materiais",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "titulo": "Observando Mudanças"
+  }
+}

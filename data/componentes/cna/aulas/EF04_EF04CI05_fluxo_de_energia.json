@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 23,
+  "unidade": "Ciclo da Matéria e Fluxo de Energia",
+  "titulo": "Fluxo de Energia",
+  "bncc": [
+    "EF04CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça esquema com entrada de luz e saídas de calor em produtor, consumidor e decompositores.",
+      "Compare com o esquema de matéria, explicando uma semelhança e uma diferença."
+    ],
+    "resumo": "Energia entra em muitos ecossistemas como luz, é transformada pelos produtores e transferida na alimentação.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia\">Ciclo da Matéria</button></p><h2>Fluxo de Energia</h2><h3>Para compreender</h3><p>Energia entra em muitos ecossistemas como luz, é transformada pelos produtores e transferida na alimentação. Seres vivos usam energia em suas atividades e liberam parte como calor; por isso não fica toda disponível ao próximo consumidor. A energia não faz o mesmo ciclo dos nutrientes e não é devolvida ao Sol pelos decompositores. No esquema, luz, alimento e calor recebem rótulos distintos. Não se aplica porcentagem fixa a toda cadeia sem dados: o objetivo é reconhecer direção e diferença em relação à matéria.</p><h3>Exemplo comentado</h3><p>Planta → gafanhoto → sapo transfere energia no alimento. Em cada etapa há uso e dispersão; o modelo não afirma que toda energia chega ao sapo.</p><svg style=\"display:block;width:100%;max-width:650px;background:#fff\" viewBox=\"0 0 650 330\" role=\"img\" aria-label=\"Modelo autoral sem escala: Sol fornece luz ao capim; capim é alimento do gafanhoto; gafanhoto do sapo. Restos dos três podem ir à decomposição por muitos fungos e bactérias, que devolve materiais ao ambiente. Setas de alimentação não indicam ataque; não há retorno de energia ao Sol.\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g fill=\"#eef4e8\" stroke=\"#32502d\"><rect x=\"15\" y=\"95\" width=\"130\" height=\"50\" rx=\"8\"/><rect x=\"235\" y=\"95\" width=\"140\" height=\"50\" rx=\"8\"/><rect x=\"470\" y=\"95\" width=\"130\" height=\"50\" rx=\"8\"/><rect x=\"120\" y=\"230\" width=\"330\" height=\"45\" rx=\"8\"/></g><g fill=\"#111\" font-size=\"17\"><text x=\"25\" y=\"30\">Sol</text><text x=\"30\" y=\"125\">Capim</text><text x=\"250\" y=\"125\">Gafanhoto</text><text x=\"495\" y=\"125\">Sapo</text><text x=\"130\" y=\"258\">Muitos fungos e bactérias</text><text x=\"80\" y=\"60\">energia luminosa</text><text x=\"150\" y=\"90\">alimento</text><text x=\"385\" y=\"90\">alimento</text><text x=\"320\" y=\"194\">restos de todos</text><text x=\"30\" y=\"315\">Materiais retornam ao ambiente; energia se dispersa como calor.</text></g><g stroke=\"#344b36\" stroke-width=\"3\" fill=\"none\"><path d=\"M80 40v48m-5-8 5 8 5-8M150 120h75m-9-5 9 5-9 5M380 120h80m-9-5 9 5-9 5M80 150v45l150 30M305 150v74M535 150v45l-150 30\"/></g></svg><table><caption>Comparação qualitativa: sem medidas de quantidades ou observação da turma</caption><thead><tr><th scope=\"col\">Aspecto</th><th scope=\"col\">Matéria</th><th scope=\"col\">Energia</th></tr></thead><tbody><tr><td>Entrada em produtores</td><td>Água, gás carbônico e minerais participam</td><td>Luz fornece energia no modelo fotossintetizante</td></tr><tr><td>Alimentação</td><td>Materiais transferidos</td><td>Energia química transferida</td></tr><tr><td>Decomposição/atividades</td><td>Materiais transformados e devolvidos a diferentes partes do ambiente</td><td>Energia transformada e parte dispersa como calor</td></tr><tr><td>Diferença central</td><td>Pode circular entre componentes vivos/não vivos</td><td>Não faz o mesmo ciclo nem retorna ao Sol pelos decompositores</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça esquema com entrada de luz e saídas de calor em produtor, consumidor e decompositores.</p><h4>Proposta 2</h4><p>Compare com o esquema de matéria, explicando uma semelhança e uma diferença.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA Education — Aquatic food webs</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "fluxo_de_energia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Toda energia de um produtor fica disponível ao consumidor seguinte?",
+      "alternativas": [
+        "Sim, sem nenhuma transformação.",
+        "Não; parte é usada e se dispersa como calor.",
+        "Sim, quando há decompositores."
+      ],
+      "correta": 1,
+      "explicacao": "A transferência alimentar não conserva toda a energia numa única etapa disponível.",
+      "bncc": [
+        "EF04CI05"
+      ]
+    },
+    {
+      "id": "fluxo_de_energia.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça esquema com entrada de luz e saídas de calor em produtor, consumidor e decompositores.",
+      "gabarito": "Fluxo e transformação claros, sem retorno de calor ao Sol como ciclo biológico.",
+      "rubrica": [
+        "Fluxo e transformação claros, sem retorno de calor ao Sol como ciclo biológico.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI05"
+      ]
+    },
+    {
+      "id": "fluxo_de_energia.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare com o esquema de matéria, explicando uma semelhança e uma diferença.",
+      "gabarito": "Ambos conectam seres/ambiente; matéria circula, energia se transforma e se dispersa necessitando entradas.",
+      "rubrica": [
+        "Ambos conectam seres/ambiente; matéria circula, energia se transforma e se dispersa necessitando entradas.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "NOAA Education — Aquatic food webs",
+      "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+      "consulta": "2026-10-30",
+      "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia"
+  ],
+  "proximosPassos": [
+    "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Ciclo da Matéria e Fluxo de Energia",
+    "bncc": [
+      "EF04CI05"
+    ],
+    "titulo": "Fluxo de Energia"
+  }
+}

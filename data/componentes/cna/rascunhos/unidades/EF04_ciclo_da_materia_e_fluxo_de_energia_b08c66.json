@@ -1,1 +1,124 @@
-{"id":"cna.ef04.plano.ciclo_da_materia_e_fluxo_de_energia.b08c66","componente":"cna","nivel":"EF04","titulo":"Ciclo da Matéria e Fluxo de Energia","estado":"planejado","complementar":false,"publicacao":{"permitida":false},"aulas":["cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia","cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia","cna.ef04.ciclo_da_materia_e_energia.ecossistema_local","cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos","cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente"],"bnccCandidata":["EF04CI05"],"camadas":{"teoria":{"estado":"planejado","aulas":["data/componentes/cna/rascunhos/aulas/EF04_ciclo_da_materia_a74c37ba.json","data/componentes/cna/rascunhos/aulas/EF04_fluxo_de_energia_dfdfa859.json","data/componentes/cna/rascunhos/aulas/EF04_ecossistema_local_fb0feea1.json","data/componentes/cna/rascunhos/aulas/EF04_comparando_ciclos_d15320d1.json","data/componentes/cna/rascunhos/aulas/EF04_materia_e_energia_no_ambiente_51708d97.json"]},"atividades":{"estado":"planejado","criterio":"Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."},"questoes":{"estado":"planejado","itens":[]},"prova":{"estado":"planejado","questoes":[],"matriz":[{"bncc":"EF04CI05","evidencias":[]}]},"arena":{"estado":"planejado","selecao":{"componente":"cna","nivel":"EF04","unidade":"Ciclo da Matéria e Fluxo de Energia"},"itens":[]},"rastreabilidade":{"estado":"parcial","catalogo":"data/planejamento-basica/referencias-curriculares.json","revisaoPedagogica":"pendente"}},"conteudosExistentesPreservados":[],"observacao":"Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.","avaliacao":{"tipo":"objetiva_e_producoes_conforme_objetivos","registros":[],"devolutiva":"Docente com critérios a desenvolver; nenhuma observação realizada."},"pendencias":["Confrontar tópico e todas as dimensões do objetivo.","Escrever e revisar conteúdo, recursos e avaliações.","Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."]}
+{
+  "id": "cna.ef04.plano.ciclo_da_materia_e_fluxo_de_energia.b08c66",
+  "componente": "cna",
+  "nivel": "EF04",
+  "titulo": "Ciclo da Matéria e Fluxo de Energia",
+  "estado": "planejado",
+  "complementar": false,
+  "publicacao": {
+    "permitida": false
+  },
+  "aulas": [
+    "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia",
+    "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia",
+    "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local",
+    "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos",
+    "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente"
+  ],
+  "bnccCandidata": [
+    "EF04CI05"
+  ],
+  "camadas": {
+    "teoria": {
+      "estado": "planejado",
+      "aulas": [
+        "data/componentes/cna/rascunhos/aulas/EF04_ciclo_da_materia_a74c37ba.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_fluxo_de_energia_dfdfa859.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_ecossistema_local_fb0feea1.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_comparando_ciclos_d15320d1.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_materia_e_energia_no_ambiente_51708d97.json"
+      ]
+    },
+    "atividades": {
+      "estado": "planejado",
+      "criterio": "Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."
+    },
+    "questoes": {
+      "estado": "planejado",
+      "itens": []
+    },
+    "prova": {
+      "estado": "planejado",
+      "questoes": [],
+      "matriz": [
+        {
+          "bncc": "EF04CI05",
+          "evidencias": []
+        }
+      ]
+    },
+    "arena": {
+      "estado": "planejado",
+      "selecao": {
+        "componente": "cna",
+        "nivel": "EF04",
+        "unidade": "Ciclo da Matéria e Fluxo de Energia"
+      },
+      "itens": []
+    },
+    "rastreabilidade": {
+      "estado": "parcial",
+      "catalogo": "data/planejamento-basica/referencias-curriculares.json",
+      "revisaoPedagogica": "pendente"
+    }
+  },
+  "conteudosExistentesPreservados": [],
+  "observacao": "Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.",
+  "avaliacao": {
+    "tipo": "objetiva_e_producoes_conforme_objetivos",
+    "registros": [],
+    "devolutiva": "Docente com critérios a desenvolver; nenhuma observação realizada."
+  },
+  "pendencias": [
+    "Confrontar tópico e todas as dimensões do objetivo.",
+    "Escrever e revisar conteúdo, recursos e avaliações.",
+    "Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."
+  ],
+  "implementacao": {
+    "estado": "pronto_para_testes",
+    "aulas": [
+      "data/componentes/cna/aulas/EF04_EF04CI05_ciclo_da_materia.json",
+      "data/componentes/cna/aulas/EF04_EF04CI05_fluxo_de_energia.json",
+      "data/componentes/cna/aulas/EF04_EF04CI05_ecossistema_local.json",
+      "data/componentes/cna/aulas/EF04_EF04CI05_comparando_ciclos.json",
+      "data/componentes/cna/aulas/EF04_EF04CI05_materia_e_energia_no_ambiente.json"
+    ],
+    "registro": "data/componentes/cna/lote_EF04_temas_restantes.json",
+    "limites": "Plano original preservado; aplicação/homologação pendentes.",
+    "camadas": {
+      "teoria": [
+        "data/componentes/cna/aulas/EF04_EF04CI05_ciclo_da_materia.json",
+        "data/componentes/cna/aulas/EF04_EF04CI05_fluxo_de_energia.json",
+        "data/componentes/cna/aulas/EF04_EF04CI05_ecossistema_local.json",
+        "data/componentes/cna/aulas/EF04_EF04CI05_comparando_ciclos.json",
+        "data/componentes/cna/aulas/EF04_EF04CI05_materia_e_energia_no_ambiente.json"
+      ],
+      "atividades": [
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao2"
+      ],
+      "questoes": "data/componentes/cna/questoes/EF04_ciclo_da_materia_e_energia.json",
+      "prova": "data/componentes/cna/provas/EF04_ciclo_da_materia_e_energia.json",
+      "arena": {
+        "arquivo": "arena/cna_arena.js",
+        "nivel": "EF04",
+        "unidade": "Ciclo da Matéria e Fluxo de Energia",
+        "componente": "cna"
+      },
+      "rastreabilidade": "data/componentes/cna/lote_EF04_temas_restantes.json"
+    }
+  }
+}

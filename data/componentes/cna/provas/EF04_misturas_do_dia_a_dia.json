@@ -1,0 +1,120 @@
+{
+  "id": "cna.ef04.misturas_do_dia_a_dia.prova",
+  "titulo": "Avaliação: Misturas do Dia a Dia",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Misturas do Dia a Dia",
+  "bncc": [
+    "EF04CI01"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.prova.1",
+    "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.prova.1",
+    "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.prova.1",
+    "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.prova.1",
+    "cna.ef04.misturas_do_dia_a_dia.separando_componentes.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.misturas_do_dia_a_dia.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Misturas do Dia a Dia",
+    "enunciado": "Três fichas fictícias descrevem água com pouco sal dissolvido, água com areia e água com óleo após repouso. Identifique componentes e aspectos, explique por que invisibilidade não significa desaparecimento e proponha separação em dois casos, com limites do filtro e cuidado de não beber as amostras.",
+    "gabarito": "Composição e uniformidade/regiões diferenciadas; sal permanece, filtro pode reter areia mas não necessariamente sal dissolvido; justificar método por propriedade e não certificar potabilidade.",
+    "rubrica": [
+      "Composição e uniformidade/regiões diferenciadas; sal permanece, filtro pode reter areia mas não necessariamente sal dissolvido; justificar método por propriedade e não certificar potabilidade.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF04CI01"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef04.misturas_do_dia_a_dia.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Misturas do Dia a Dia",
+        "enunciado": "Três fichas fictícias descrevem água com pouco sal dissolvido, água com areia e água com óleo após repouso. Identifique componentes e aspectos, explique por que invisibilidade não significa desaparecimento e proponha separação em dois casos, com limites do filtro e cuidado de não beber as amostras.",
+        "gabarito": "Composição e uniformidade/regiões diferenciadas; sal permanece, filtro pode reter areia mas não necessariamente sal dissolvido; justificar método por propriedade e não certificar potabilidade.",
+        "rubrica": [
+          "Composição e uniformidade/regiões diferenciadas; sal permanece, filtro pode reter areia mas não necessariamente sal dissolvido; justificar método por propriedade e não certificar potabilidade.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF04CI01"
+        ],
+        "aulasReferencia": [
+          "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+          "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+          "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+          "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+          "cna.ef04.misturas_do_dia_a_dia.separando_componentes"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao1",
+      "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao2",
+      "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao1",
+      "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao2",
+      "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao1",
+      "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao2",
+      "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao1",
+      "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao2",
+      "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao1",
+      "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — Why Does Water Dissolve Salt?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter5/lesson3.html",
+      "consulta": "2026-10-30",
+      "uso": "Conceitos textuais de dissolução e composição consultados. Adaptação ao EF04 sem modelo molecular obrigatório, álcool, degustação ou reprodução de experimentos/mídias da fonte."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI01",
+      "questoes": [
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.prova.1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.prova.1",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.prova.1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.prova.1",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.misturas_do_dia_a_dia.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef04.misturas_do_dia_a_dia.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "cna.ef04.saude_e_microrganismos.saude_na_comunidade",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 36,
+  "unidade": "Saúde e Microrganismos",
+  "titulo": "Saúde na Comunidade",
+  "bncc": [
+    "EF04CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Elabore proposta para o caso, indicando problema, relação com prevenção, recursos e responsável.",
+      "Defina como verificar encaminhamento e resultado, usando apenas registros públicos/autorizados sem dados pessoais de saúde."
+    ],
+    "resumo": "Saúde coletiva depende de condições como água segura, saneamento, manejo de resíduos, informação e acesso a serviços.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.saude_e_microrganismos.vacinas_e_cuidados\">Vacinas e Cuidados</button></p><h2>Saúde na Comunidade</h2><h3>Para compreender</h3><p>Saúde coletiva depende de condições como água segura, saneamento, manejo de resíduos, informação e acesso a serviços. Ações individuais se relacionam a essas condições, mas não as substituem. Para propor melhoria, descreva problema autorizado, via ou fator envolvido, responsável e evidência necessária para acompanhar. Não colete dados de saúde de colegas, entre em esgoto ou manipule resíduos para demonstrar risco. Uma proposta entregue ainda não é uma melhoria realizada. A prevenção deve acolher pessoas, sem associar doença a culpa.</p><h3>Exemplo comentado</h3><p>Caso fictício: um local não tem ponto de água acessível para higiene. A proposta envolve comunicar à gestão e acompanhar a resposta, não culpar usuários.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Elabore proposta para o caso, indicando problema, relação com prevenção, recursos e responsável.</p><h4>Proposta 2</h4><p>Defina como verificar encaminhamento e resultado, usando apenas registros públicos/autorizados sem dados pessoais de saúde.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Diarrhoeal disease</a></li><li><a href=\"https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Vaccines and immunization: What is vaccination?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "saude_na_comunidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma ação coletiva de prevenção pode incluir:",
+      "alternativas": [
+        "Expor diagnósticos de alunos.",
+        "Melhorar acesso a água segura e saneamento.",
+        "Culpar quem adoeceu."
+      ],
+      "correta": 1,
+      "explicacao": "Infraestrutura e acesso influenciam riscos e possibilidades de cuidado.",
+      "bncc": [
+        "EF04CI08"
+      ]
+    },
+    {
+      "id": "saude_na_comunidade.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Elabore proposta para o caso, indicando problema, relação com prevenção, recursos e responsável.",
+      "gabarito": "Condição coletiva e medida pertinente; não prometer obra ou serviço já feito.",
+      "rubrica": [
+        "Condição coletiva e medida pertinente; não prometer obra ou serviço já feito.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI08"
+      ]
+    },
+    {
+      "id": "saude_na_comunidade.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Defina como verificar encaminhamento e resultado, usando apenas registros públicos/autorizados sem dados pessoais de saúde.",
+      "gabarito": "Plano e execução separados, evidência rastreável, privacidade.",
+      "rubrica": [
+        "Plano e execução separados, evidência rastreável, privacidade.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "WHO — Diarrhoeal disease",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+      "consulta": "2026-10-30",
+      "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+    },
+    {
+      "documento": "WHO — Vaccines and immunization: What is vaccination?",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+      "consulta": "2026-10-30",
+      "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados"
+  ],
+  "proximosPassos": [],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Saúde e Microrganismos",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "titulo": "Saúde na Comunidade"
+  }
+}

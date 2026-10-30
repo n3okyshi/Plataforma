@@ -1,1 +1,124 @@
-{"id":"cna.ef04.plano.transformacoes_reversiveis_e_nao_reversiveis.bddd23","componente":"cna","nivel":"EF04","titulo":"Transformações Reversíveis e Não Reversíveis","estado":"planejado","complementar":false,"publicacao":{"permitida":false},"aulas":["cna.ef04.reversivel_ou_nao.cozimento_de_alimentos","cna.ef04.reversivel_ou_nao.queima_de_papel","cna.ef04.reversivel_ou_nao.transformacoes_reversiveis","cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis","cna.ef04.reversivel_ou_nao.evidencias_de_mudanca"],"bnccCandidata":["EF04CI03"],"camadas":{"teoria":{"estado":"planejado","aulas":["data/componentes/cna/rascunhos/aulas/EF04_cozimento_de_alimentos_3ebc65f6.json","data/componentes/cna/rascunhos/aulas/EF04_queima_de_papel_c9e69aec.json","data/componentes/cna/rascunhos/aulas/EF04_transformacoes_reversiveis_4d495f7c.json","data/componentes/cna/rascunhos/aulas/EF04_transformacoes_irreversiveis_0522b088.json","data/componentes/cna/rascunhos/aulas/EF04_evidencias_de_mudanca_d4723f48.json"]},"atividades":{"estado":"planejado","criterio":"Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."},"questoes":{"estado":"planejado","itens":[]},"prova":{"estado":"planejado","questoes":[],"matriz":[{"bncc":"EF04CI03","evidencias":[]}]},"arena":{"estado":"planejado","selecao":{"componente":"cna","nivel":"EF04","unidade":"Transformações Reversíveis e Não Reversíveis"},"itens":[]},"rastreabilidade":{"estado":"parcial","catalogo":"data/planejamento-basica/referencias-curriculares.json","revisaoPedagogica":"pendente"}},"conteudosExistentesPreservados":[],"observacao":"Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.","avaliacao":{"tipo":"objetiva_e_producoes_conforme_objetivos","registros":[],"devolutiva":"Docente com critérios a desenvolver; nenhuma observação realizada."},"pendencias":["Confrontar tópico e todas as dimensões do objetivo.","Escrever e revisar conteúdo, recursos e avaliações.","Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."]}
+{
+  "id": "cna.ef04.plano.transformacoes_reversiveis_e_nao_reversiveis.bddd23",
+  "componente": "cna",
+  "nivel": "EF04",
+  "titulo": "Transformações Reversíveis e Não Reversíveis",
+  "estado": "planejado",
+  "complementar": false,
+  "publicacao": {
+    "permitida": false
+  },
+  "aulas": [
+    "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+    "cna.ef04.reversivel_ou_nao.queima_de_papel",
+    "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis",
+    "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
+    "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca"
+  ],
+  "bnccCandidata": [
+    "EF04CI03"
+  ],
+  "camadas": {
+    "teoria": {
+      "estado": "planejado",
+      "aulas": [
+        "data/componentes/cna/rascunhos/aulas/EF04_cozimento_de_alimentos_3ebc65f6.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_queima_de_papel_c9e69aec.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_transformacoes_reversiveis_4d495f7c.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_transformacoes_irreversiveis_0522b088.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_evidencias_de_mudanca_d4723f48.json"
+      ]
+    },
+    "atividades": {
+      "estado": "planejado",
+      "criterio": "Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."
+    },
+    "questoes": {
+      "estado": "planejado",
+      "itens": []
+    },
+    "prova": {
+      "estado": "planejado",
+      "questoes": [],
+      "matriz": [
+        {
+          "bncc": "EF04CI03",
+          "evidencias": []
+        }
+      ]
+    },
+    "arena": {
+      "estado": "planejado",
+      "selecao": {
+        "componente": "cna",
+        "nivel": "EF04",
+        "unidade": "Transformações Reversíveis e Não Reversíveis"
+      },
+      "itens": []
+    },
+    "rastreabilidade": {
+      "estado": "parcial",
+      "catalogo": "data/planejamento-basica/referencias-curriculares.json",
+      "revisaoPedagogica": "pendente"
+    }
+  },
+  "conteudosExistentesPreservados": [],
+  "observacao": "Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.",
+  "avaliacao": {
+    "tipo": "objetiva_e_producoes_conforme_objetivos",
+    "registros": [],
+    "devolutiva": "Docente com critérios a desenvolver; nenhuma observação realizada."
+  },
+  "pendencias": [
+    "Confrontar tópico e todas as dimensões do objetivo.",
+    "Escrever e revisar conteúdo, recursos e avaliações.",
+    "Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."
+  ],
+  "implementacao": {
+    "estado": "pronto_para_testes",
+    "aulas": [
+      "data/componentes/cna/aulas/EF04_EF04CI03_cozimento_de_alimentos.json",
+      "data/componentes/cna/aulas/EF04_EF04CI03_queima_de_papel.json",
+      "data/componentes/cna/aulas/EF04_EF04CI03_transformacoes_reversiveis.json",
+      "data/componentes/cna/aulas/EF04_EF04CI03_transformacoes_irreversiveis.json",
+      "data/componentes/cna/aulas/EF04_EF04CI03_evidencias_de_mudanca.json"
+    ],
+    "registro": "data/componentes/cna/lote_EF04_temas_restantes.json",
+    "limites": "Plano original preservado; aplicação/homologação pendentes.",
+    "camadas": {
+      "teoria": [
+        "data/componentes/cna/aulas/EF04_EF04CI03_cozimento_de_alimentos.json",
+        "data/componentes/cna/aulas/EF04_EF04CI03_queima_de_papel.json",
+        "data/componentes/cna/aulas/EF04_EF04CI03_transformacoes_reversiveis.json",
+        "data/componentes/cna/aulas/EF04_EF04CI03_transformacoes_irreversiveis.json",
+        "data/componentes/cna/aulas/EF04_EF04CI03_evidencias_de_mudanca.json"
+      ],
+      "atividades": [
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.aplicacao",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao1",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao2",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.aplicacao",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao1",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao2",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.aplicacao",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao2",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.aplicacao",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao2",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.aplicacao",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao1",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao2"
+      ],
+      "questoes": "data/componentes/cna/questoes/EF04_reversivel_ou_nao.json",
+      "prova": "data/componentes/cna/provas/EF04_reversivel_ou_nao.json",
+      "arena": {
+        "arquivo": "arena/cna_arena.js",
+        "nivel": "EF04",
+        "unidade": "Transformações Reversíveis e Não Reversíveis",
+        "componente": "cna"
+      },
+      "rastreabilidade": "data/componentes/cna/lote_EF04_temas_restantes.json"
+    }
+  }
+}
