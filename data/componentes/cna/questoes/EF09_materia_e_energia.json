@@ -1,0 +1,610 @@
+[
+  {
+    "id": "cna.ef09.materia_e_energia.treino.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.estados_e_modelos.modelo_submicroscopico",
+    "bncc": [
+      "EF09CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quando gelo puro derrete, no modelo molecular:",
+    "opcoes": [
+      "Toda molécula vira oxigênio puro.",
+      "As moléculas se tornam planetas.",
+      "A identidade das moléculas de água se mantém."
+    ],
+    "correta": 2,
+    "explicacao": "Gelo derretendo continua sendo água; as moléculas não viram moléculas de ar. Evaporação ocorre pela superfície em várias temperaturas, enquanto ebulição envolve formação de vapor no interior do líquido em condições específicas de pressão. O desenho de bolinhas é modelo, não fotografia de moléculas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78
+        ],
+        "paginasImpressas": "72–78",
+        "uso": "Estados e transformações consultados criticamente. Corrige simplificações: líquido tem volume aproximadamente definido, sólidos amorfos são sólidos e evaporação não se distingue de ebulição apenas por rapidez."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.estados_e_modelos.modelo_submicroscopico",
+    "bncc": [
+      "EF09CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Evaporação e ebulição se diferenciam porque:",
+    "opcoes": [
+      "Ambas sempre alteram a composição química da água.",
+      "Evaporação só existe a 100 °C.",
+      "Evaporação é superficial e pode ocorrer em várias temperaturas; ebulição forma vapor no interior nas condições adequadas."
+    ],
+    "correta": 2,
+    "explicacao": "Mudança de estado não exige uma transformação química, e ebulição depende também da pressão.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78
+        ],
+        "paginasImpressas": "72–78",
+        "uso": "Estados e transformações consultados criticamente. Corrige simplificações: líquido tem volume aproximadamente definido, sólidos amorfos são sólidos e evaporação não se distingue de ebulição apenas por rapidez."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos",
+    "bncc": [
+      "EF09CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No modelo 3 g + 2 g → 5 g, ao dobrar reagentes na mesma proporção obtém-se:",
+    "opcoes": [
+      "1 g de produto.",
+      "10 g de produto.",
+      "5 g obrigatoriamente."
+    ],
+    "correta": 1,
+    "explicacao": "Conjunto didático simulado: 3 g de magnésio reagem com 2 g de oxigênio formando 5 g de óxido de magnésio. Mantidas as condições e sem excesso, 6 g de magnésio exigem 4 g de oxigênio e formam 10 g de produto. Os números são simplificados para cálculo, não instruções de combustão em aula.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos",
+    "bncc": [
+      "EF09CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com 6 g de magnésio e 5 g de oxigênio no mesmo modelo, espera-se:",
+    "opcoes": [
+      "11 g de produto sem sobra.",
+      "10 g de produto e 1 g de oxigênio sem reagir.",
+      "Desaparecimento de 1 g."
+    ],
+    "correta": 1,
+    "explicacao": "A proporção pede 4 g de oxigênio para 6 g de magnésio; o grama excedente permanece.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.estrutura_da_materia.atomos",
+    "bncc": [
+      "EF09CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "H₂O representa, por molécula:",
+    "opcoes": [
+      "Dois átomos de hidrogênio e um de oxigênio.",
+      "Duas moléculas de oxigênio e nenhuma de hidrogênio.",
+      "Três elementos diferentes."
+    ],
+    "correta": 0,
+    "explicacao": "Uma molécula de água é representada por H₂O: dois átomos de hidrogênio e um de oxigênio, não dois de água. O núcleo contém prótons e, em geral, nêutrons; elétrons compõem a região eletrônica. Bolas de cores são convenções e não demonstram escala real ou cor dos átomos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          72,
+          73
+        ],
+        "paginasImpressas": "72–73",
+        "uso": "Átomos e moléculas como apoio inicial; não universaliza estrutura molecular a todo material."
+      },
+      {
+        "documento": "RSC — The atom detectives",
+        "url": "https://edu.rsc.org/resources/the-atom-detectives/1332.article",
+        "consulta": "2026-10-30",
+        "uso": "Descrição institucional recuperada por busca sobre desenvolvimento de modelos; abertura direta retornou 405. Sem afirmar leitura integral, inspeção de ilustrações ou anexos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.estrutura_da_materia.atomos",
+    "bncc": [
+      "EF09CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A evolução dos modelos atômicos mostra:",
+    "opcoes": [
+      "Revisões para explicar observações, com alcance e limites de cada modelo.",
+      "Que o último desenho é fotografia ampliada do átomo.",
+      "Que evidências nunca importam."
+    ],
+    "correta": 0,
+    "explicacao": "Modelos são representações explicativas sujeitas a revisão, não retratos literais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          72,
+          73
+        ],
+        "paginasImpressas": "72–73",
+        "uso": "Átomos e moléculas como apoio inicial; não universaliza estrutura molecular a todo material."
+      },
+      {
+        "documento": "RSC — The atom detectives",
+        "url": "https://edu.rsc.org/resources/the-atom-detectives/1332.article",
+        "consulta": "2026-10-30",
+        "uso": "Descrição institucional recuperada por busca sobre desenvolvimento de modelos; abertura direta retornou 405. Sem afirmar leitura integral, inspeção de ilustrações ou anexos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.luz_e_cores.decomposicao_da_luz",
+    "bncc": [
+      "EF09CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na síntese aditiva escolar, luz vermelha mais verde pode produzir percepção:",
+    "opcoes": [
+      "Preta obrigatoriamente.",
+      "De tinta azul necessariamente.",
+      "Amarela."
+    ],
+    "correta": 2,
+    "explicacao": "Projetar luz vermelha e verde sobre mesma região de superfície clara pode produzir percepção amarela; somar azul em intensidade adequada pode aproximar branco. Papel que parece vermelho sob luz branca tende a refletir mais faixas vermelhas; sob luz verde pode parecer escuro, dependendo do material e das fontes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.luz_e_cores.decomposicao_da_luz",
+    "bncc": [
+      "EF09CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um objeto tem sempre a mesma aparência sob qualquer luz?",
+    "opcoes": [
+      "Sim, a cor depende apenas do nome do objeto.",
+      "Sim, iluminação não importa.",
+      "Não; luz incidente e propriedades do material influenciam a aparência."
+    ],
+    "correta": 2,
+    "explicacao": "A cor percebida depende do que ilumina o objeto e do que chega ao observador.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.imagem_e_som.ondas",
+    "bncc": [
+      "EF09CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um microfone participa de qual etapa?",
+    "opcoes": [
+      "Eliminação de qualquer meio de transmissão.",
+      "Captação/conversão do som em sinal.",
+      "Criação direta de estrelas."
+    ],
+    "correta": 1,
+    "explicacao": "Em uma chamada, microfone → codificação → transmissão por rede → decodificação → alto-falante é esquema possível, com etapas adicionais reais. Redes podem usar ondas de rádio e luz em fibras. Atraso, compressão e interferências ajudam a explicar limites sem dizer que todo sinal é perfeito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.imagem_e_som.ondas",
+    "bncc": [
+      "EF09CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A reconstrução de uma imagem digital depende:",
+    "opcoes": [
+      "De adivinhar sem código.",
+      "De código compartilhado, transmissão dos dados e interpretação pelo receptor.",
+      "De som se propagar no vácuo."
+    ],
+    "correta": 1,
+    "explicacao": "Representação e comunicação precisam de convenções e suporte físico de sinal.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico",
+    "bncc": [
+      "EF09CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual não é uma onda eletromagnética?",
+    "opcoes": [
+      "Ultrassom.",
+      "Infravermelho.",
+      "Luz visível."
+    ],
+    "correta": 0,
+    "explicacao": "Controle remoto pode usar infravermelho; celular usa radiofrequências; forno de micro-ondas aquece materiais por interação de campo eletromagnético, não torna a comida radioativa. Raios X são ionizantes. Fotocélulas convertem energia luminosa em efeito elétrico. Ultrassom não pertence a esse espectro: é onda mecânica.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico",
+    "bncc": [
+      "EF09CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No vácuo, quando a frequência eletromagnética aumenta:",
+    "opcoes": [
+      "O comprimento de onda diminui.",
+      "Toda onda passa a ser som.",
+      "O comprimento de onda aumenta obrigatoriamente."
+    ],
+    "correta": 0,
+    "explicacao": "A velocidade de propagação no vácuo relaciona frequência e comprimento de modo inverso.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem",
+    "bncc": [
+      "EF09CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ultrassonografia utiliza principalmente:",
+    "opcoes": [
+      "Raios X em todas as imagens.",
+      "Fissão nuclear.",
+      "Ondas sonoras e seus ecos."
+    ],
+    "correta": 2,
+    "explicacao": "Ultrassom permite imagem por ecos, enquanto uma radiografia registra interação de raios X com tecidos. A ressonância requer avaliação de implantes e objetos metálicos por equipe habilitada. Desenvolvimento tecnológico pode melhorar qualidade e direcionamento, mas indicação clínica pondera benefício, risco e acesso; aula não decide qual exame uma pessoa precisa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NIBIB — Magnetic Resonance Imaging",
+        "url": "https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+        "consulta": "2026-10-30",
+        "uso": "Campo magnético/radiofrequência e mecanismo geral, sem confundir ausência de raios X com ausência de cuidados."
+      },
+      {
+        "documento": "NIBIB — Ultrasound",
+        "url": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound",
+        "consulta": "2026-10-30",
+        "uso": "Ondas sonoras, ecos e limites de segurança; distinção de radiação eletromagnética."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem",
+    "bncc": [
+      "EF09CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ressonância magnética e radiografia:",
+    "opcoes": [
+      "Dispensam toda avaliação de segurança.",
+      "São o mesmo mecanismo com nomes diferentes.",
+      "Usam mecanismos distintos; ressonância não utiliza raios X ionizantes."
+    ],
+    "correta": 2,
+    "explicacao": "Ressonância usa campos magnéticos e radiofrequência; radiografia usa raios X.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NIBIB — Magnetic Resonance Imaging",
+        "url": "https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+        "consulta": "2026-10-30",
+        "uso": "Campo magnético/radiofrequência e mecanismo geral, sem confundir ausência de raios X com ausência de cuidados."
+      },
+      {
+        "documento": "NIBIB — Ultrasound",
+        "url": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound",
+        "consulta": "2026-10-30",
+        "uso": "Ondas sonoras, ecos e limites de segurança; distinção de radiação eletromagnética."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

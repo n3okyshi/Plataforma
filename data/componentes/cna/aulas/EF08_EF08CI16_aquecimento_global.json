@@ -1,0 +1,94 @@
+{
+  "id": "cna.ef08.mudancas_climaticas.aquecimento_global",
+  "componente": "cna",
+  "nivel": "EF08",
+  "ordem": 16,
+  "unidade": "Terra e Universo",
+  "titulo": "Mudanças climáticas: diagnóstico e ação",
+  "bncc": [
+    "EF08CI16"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Use fonte climática institucional para identificar uma alteração global e uma questão regional com período e limites. Faça matriz de duas ações de mitigação e duas de adaptação, responsáveis, viabilidade e grupos atendidos. Execute uma ação escolar autorizada e registre indicador, resultado e pendências, sem converter ação em toneladas de carbono sem método."
+    ],
+    "resumo": "Mudanças climáticas: diagnóstico e ação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Mudanças climáticas: diagnóstico e ação</h2><h3>Ideias para investigar</h3><p>Atividades humanas alteram o sistema climático por emissões de gases de efeito estufa, mudanças no uso da terra e outros processos. Mitigação busca limitar causas; adaptação reduz vulnerabilidades e danos. Efeitos regionais dependem do contexto. Um evento isolado não quantifica sozinho a contribuição humana; atribuição e tendências exigem estudos e séries. Propostas devem relacionar mecanismo, escala e justiça social.</p><h3>Exemplo comentado</h3><p>Reduzir desperdício energético pode contribuir para mitigação quando afeta emissões; ampliar sombra e planejar proteção em ondas de calor pode ser adaptação. Plantar qualquer espécie em qualquer lugar não é solução automática. Evitar emissões não substitui medidas para pessoas já expostas a riscos.</p><h3>Observe, registre e explique</h3><p>Use fonte climática institucional para identificar uma alteração global e uma questão regional com período e limites. Faça matriz de duas ações de mitigação e duas de adaptação, responsáveis, viabilidade e grupos atendidos. Execute uma ação escolar autorizada e registre indicador, resultado e pendências, sem converter ação em toneladas de carbono sem método.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "aquecimento_global.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Adaptação climática busca principalmente:",
+      "alternativas": [
+        "Reduzir vulnerabilidades e danos diante de condições climáticas.",
+        "Apagar toda história climática.",
+        "Substituir todo conhecimento por opinião."
+      ],
+      "correta": 0,
+      "explicacao": "Reduzir desperdício energético pode contribuir para mitigação quando afeta emissões; ampliar sombra e planejar proteção em ondas de calor pode ser adaptação. Plantar qualquer espécie em qualquer lugar não é solução automática. Evitar emissões não substitui medidas para pessoas já expostas a riscos.",
+      "bncc": [
+        "EF08CI16"
+      ]
+    },
+    {
+      "id": "aquecimento_global.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Use fonte climática institucional para identificar uma alteração global e uma questão regional com período e limites. Faça matriz de duas ações de mitigação e duas de adaptação, responsáveis, viabilidade e grupos atendidos. Execute uma ação escolar autorizada e registre indicador, resultado e pendências, sem converter ação em toneladas de carbono sem método.",
+      "gabarito": "Exigir vínculo causa/ação, distinção mitigação/adaptação, fonte e avaliação da execução. Não garantir restauração total de equilíbrio por ação única nem atribuir toda enchente automaticamente a uma causa exclusiva.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir vínculo causa/ação, distinção mitigação/adaptação, fonte e avaliação da execução. Não garantir restauração total de equilíbrio por ação única nem atribuir toda enchente automaticamente a uma causa exclusiva.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF08CI16"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        351
+      ],
+      "paginasImpressas": "349",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NASA — What is the greenhouse effect?",
+      "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+      "consulta": "2026-10-30",
+      "uso": "Mecanismo e intensificação antrópica previamente consultados; projetos autorais sem equivalências de carbono inventadas."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Mudanças Climáticas",
+    "titulo": "Aquecimento Global"
+  }
+}

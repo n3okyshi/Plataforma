@@ -1,0 +1,424 @@
+[
+  {
+    "id": "cna.ef08.vida_e_evolucao.treino.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada",
+    "bncc": [
+      "EF08CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual evento caracteriza reprodução sexuada no modelo estudado?",
+    "opcoes": [
+      "Fusão de gametas.",
+      "Existência obrigatória de flores em todo animal.",
+      "Ausência universal de material genético."
+    ],
+    "correta": 0,
+    "explicacao": "Uma muda obtida por propagação vegetativa tende a conservar características genéticas da planta de origem, salvo mudanças como mutações. Sementes produzidas por fecundação podem reunir combinações diferentes. Em animais, brotamento em hidras e reprodução sexuada ilustram diversidade sem dizer que todos usam o mesmo mecanismo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.prova.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada",
+    "bncc": [
+      "EF08CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Polinização e fecundação são:",
+    "opcoes": [
+      "Etapas distintas: transporte de pólen e união de gametas, respectivamente.",
+      "Processos sem relação com reprodução vegetal.",
+      "Exatamente o mesmo processo em qualquer organismo."
+    ],
+    "correta": 0,
+    "explicacao": "Transportar pólen pode anteceder a fecundação, mas não equivale a ela.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.treino.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade",
+    "bncc": [
+      "EF08CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O sistema nervoso e os hormônios na puberdade:",
+    "opcoes": [
+      "Atuam sem qualquer relação.",
+      "Determinam o valor social de uma pessoa.",
+      "Participam de regulação integrada."
+    ],
+    "correta": 2,
+    "explicacao": "Um esquema hipotálamo → hipófise → gônadas simplifica a comunicação hormonal e suas retroações. Hormônios circulam e atuam em células com receptores; não são comandos conscientes nem exclusivos de um único grupo de pessoas. Mudanças corporais não autorizam constrangimento ou comparação pública.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NICHD — Causes of puberty",
+        "url": "https://www.nichd.nih.gov/health/topics/puberty/conditioninfo/causes",
+        "consulta": "2026-10-30",
+        "uso": "Regulação hipotálamo/hipófise/gônadas; não transforma modelo em diagnóstico ou faixa etária universal."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.prova.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade",
+    "bncc": [
+      "EF08CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas pessoas podem apresentar ritmos distintos de mudanças puberais?",
+    "opcoes": [
+      "Não, aparência basta para diagnóstico.",
+      "Não, toda mudança deve acontecer no mesmo dia.",
+      "Sim; diversidade de ritmo não autoriza comparação constrangedora ou diagnóstico escolar."
+    ],
+    "correta": 2,
+    "explicacao": "Explicações gerais não permitem avaliar clinicamente o desenvolvimento individual.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NICHD — Causes of puberty",
+        "url": "https://www.nichd.nih.gov/health/topics/puberty/conditioninfo/causes",
+        "consulta": "2026-10-30",
+        "uso": "Regulação hipotálamo/hipófise/gônadas; não transforma modelo em diagnóstico ou faixa etária universal."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.treino.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos",
+    "bncc": [
+      "EF08CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Pílula ou DIU substituem preservativo na proteção contra IST?",
+    "opcoes": [
+      "Sim, qualquer método tem a mesma função.",
+      "Não; eficácia contra gravidez não implica proteção contra IST.",
+      "Sim, ambos impedem toda IST."
+    ],
+    "correta": 1,
+    "explicacao": "Na tabela da OMS consultada, por 100 usuárias em um ano, estimam-se 2 gravidezes com preservativo externo em uso correto/consistente e 13 em uso habitual; pílula combinada: 0,3 e 7; DIU de cobre: 0,6 e 0,8. São estimativas da fonte, não resultado da turma. Menos gravidezes nessa medida indica maior eficácia contraceptiva, sem medir proteção contra IST.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "WHO — Mechanisms of action and effectiveness of contraceptive methods",
+        "url": "https://cdn.who.int/media/docs/default-source/reproductive-health/contraception-family-planning/mechanisms-of-action-and-effectiveness-of-contraception-methods.pdf?sfvrsn=e39",
+        "consulta": "2026-10-30",
+        "uso": "Tabela consultada, página PDF 1: três métodos e estimativas anuais por 100 usuárias, separando uso correto e habitual. Não é prescrição ou taxa por relação."
+      },
+      {
+        "documento": "WHO — Family planning/contraception methods",
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/family-planning-contraception",
+        "consulta": "2026-10-30",
+        "uso": "Direito à informação e distinção de contracepção e prevenção de IST, sem indicação individual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.prova.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos",
+    "bncc": [
+      "EF08CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na tabela, 13 gravidezes por 100 usuárias em um ano refere-se:",
+    "opcoes": [
+      "A 13 gravidezes obrigatórias em cada pessoa.",
+      "A estimativa populacional anual de uso habitual do preservativo externo.",
+      "A uma garantia individual por relação."
+    ],
+    "correta": 1,
+    "explicacao": "O denominador e o período precisam acompanhar a interpretação da eficácia.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "WHO — Mechanisms of action and effectiveness of contraceptive methods",
+        "url": "https://cdn.who.int/media/docs/default-source/reproductive-health/contraception-family-planning/mechanisms-of-action-and-effectiveness-of-contraception-methods.pdf?sfvrsn=e39",
+        "consulta": "2026-10-30",
+        "uso": "Tabela consultada, página PDF 1: três métodos e estimativas anuais por 100 usuárias, separando uso correto e habitual. Não é prescrição ou taxa por relação."
+      },
+      {
+        "documento": "WHO — Family planning/contraception methods",
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/family-planning-contraception",
+        "consulta": "2026-10-30",
+        "uso": "Direito à informação e distinção de contracepção e prevenção de IST, sem indicação individual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.treino.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.dst_e_prevencao.o_que_sao_dst",
+    "bncc": [
+      "EF08CI10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma pessoa sem sintomas pode ter uma IST?",
+    "opcoes": [
+      "Sim; ausência de sinais não substitui testagem e avaliação.",
+      "Não, todas são visíveis.",
+      "Não, aparência prova ausência."
+    ],
+    "correta": 0,
+    "explicacao": "HIV pode ter fase sem sinais ou sintomas inespecíficos, como febre; na evolução sem tratamento pode haver perda de peso e infecções oportunistas. Sífilis pode apresentar ferida e lesões na pele ou ficar sem sintomas; HPV pode causar verrugas ou não ter sinais. Antirretrovirais controlam HIV e não constituem cura; sífilis requer tratamento antibiótico profissional; lesões por HPV têm manejo clínico. Preservativos reduzem risco, sem eliminar toda transmissão por áreas não cobertas; vacinação contra HPV integra prevenção conforme orientação de saúde.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "WHO — HIV and AIDS",
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/hiv-aids",
+        "consulta": "2026-10-30",
+        "uso": "Infecção/estágio avançado, transmissão, ausência de transmissão pelo convívio e tratamento geral; não usa estatísticas atuais ou doses."
+      },
+      {
+        "documento": "WHO — Syphilis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/syphilis",
+        "consulta": "2026-10-30",
+        "uso": "Sintomas/ausência deles, vias, prevenção e tratamento antibiótico geral, sem diagnóstico ou prescrição."
+      },
+      {
+        "documento": "WHO — Human papillomavirus and cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer/",
+        "consulta": "2026-10-30",
+        "uso": "Infecção frequentemente sem sinais, verrugas, prevenção e tratamento de lesões; não transpõe calendário internacional."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.prova.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.dst_e_prevencao.o_que_sao_dst",
+    "bncc": [
+      "EF08CI10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual afirmação sobre HIV é correta?",
+    "opcoes": [
+      "Antirretrovirais controlam a infecção; convívio escolar não transmite o vírus.",
+      "Aids é o nome de toda infecção leve por qualquer vírus.",
+      "Abraçar transmite HIV."
+    ],
+    "correta": 0,
+    "explicacao": "HIV e aids se distinguem, e mitos de convívio alimentam discriminação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "WHO — HIV and AIDS",
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/hiv-aids",
+        "consulta": "2026-10-30",
+        "uso": "Infecção/estágio avançado, transmissão, ausência de transmissão pelo convívio e tratamento geral; não usa estatísticas atuais ou doses."
+      },
+      {
+        "documento": "WHO — Syphilis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/syphilis",
+        "consulta": "2026-10-30",
+        "uso": "Sintomas/ausência deles, vias, prevenção e tratamento antibiótico geral, sem diagnóstico ou prescrição."
+      },
+      {
+        "documento": "WHO — Human papillomavirus and cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer/",
+        "consulta": "2026-10-30",
+        "uso": "Infecção frequentemente sem sinais, verrugas, prevenção e tratamento de lesões; não transpõe calendário internacional."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.treino.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade",
+    "bncc": [
+      "EF08CI11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A análise da sexualidade deve considerar:",
+    "opcoes": [
+      "Somente reprodução.",
+      "A obrigação de contar intimidades.",
+      "Dimensões biológicas, afetivas, sociais e éticas."
+    ],
+    "correta": 2,
+    "explicacao": "Em caso fictício, compartilhar uma mensagem privada para pressionar alguém envolve privacidade, relações de poder e ética, não apenas biologia. Respeitar uma recusa e buscar apoio de adulto de confiança são ações possíveis. Ninguém precisa revelar orientação, vivências ou informações sobre o próprio corpo na atividade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.prova.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade",
+    "bncc": [
+      "EF08CI11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O silêncio de uma pessoa permite presumir consentimento livre?",
+    "opcoes": [
+      "Sim, se outras pessoas concordarem.",
+      "Sim, sempre.",
+      "Não; pressão ou ausência de resposta não equivalem a consentimento."
+    ],
+    "correta": 2,
+    "explicacao": "A análise ética respeita vontade, privacidade e possibilidade de recusa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

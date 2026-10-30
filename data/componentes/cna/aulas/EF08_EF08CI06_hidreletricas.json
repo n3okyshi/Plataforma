@@ -1,0 +1,88 @@
+{
+  "id": "cna.ef08.usinas_e_impactos.hidreletricas",
+  "componente": "cna",
+  "nivel": "EF08",
+  "ordem": 6,
+  "unidade": "Matéria e Energia",
+  "titulo": "Usinas e caminhos da eletricidade",
+  "bncc": [
+    "EF08CI06"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Compare hidrelétrica, termelétrica, eólica e fotovoltaica em matriz: transformação, disponibilidade e impactos. Com fonte da distribuidora/operador, desenhe o caminho geral até a comunidade e identifique o que é rede interligada e o que não foi confirmado localmente. Argumente uma escolha considerando moradores e ambiente, sem visitar instalações energizadas."
+    ],
+    "resumo": "Usinas e caminhos da eletricidade",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Usinas e caminhos da eletricidade</h2><h3>Ideias para investigar</h3><p>Usinas convertem outras formas de energia em elétrica. Hidrelétricas usam movimento da água; eólicas, do ar; termelétricas usam fonte térmica para acionar processos de geração; painéis fotovoltaicos convertem radiação solar diretamente. A rede interliga geração, transmissão e distribuição; a tomada não identifica sozinha uma usina. Fontes diferem em regularidade, emissões, território e impactos sociais.</p><h3>Exemplo comentado</h3><p>Um reservatório pode alterar habitats e deslocar comunidades; combustível fóssil em termelétrica gera emissões; eólicas exigem avaliação de localização e efeitos sobre fauna e moradores. Solar depende de radiação e também envolve materiais, área e descarte. Nenhuma comparação se resolve apenas pelo nome renovável.</p><h3>Observe, registre e explique</h3><p>Compare hidrelétrica, termelétrica, eólica e fotovoltaica em matriz: transformação, disponibilidade e impactos. Com fonte da distribuidora/operador, desenhe o caminho geral até a comunidade e identifique o que é rede interligada e o que não foi confirmado localmente. Argumente uma escolha considerando moradores e ambiente, sem visitar instalações energizadas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "hidreletricas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Painéis fotovoltaicos convertem principalmente:",
+      "alternativas": [
+        "Radiação solar em energia elétrica.",
+        "Vento em petróleo.",
+        "Som em carvão."
+      ],
+      "correta": 0,
+      "explicacao": "Um reservatório pode alterar habitats e deslocar comunidades; combustível fóssil em termelétrica gera emissões; eólicas exigem avaliação de localização e efeitos sobre fauna e moradores. Solar depende de radiação e também envolve materiais, área e descarte. Nenhuma comparação se resolve apenas pelo nome renovável.",
+      "bncc": [
+        "EF08CI06"
+      ]
+    },
+    {
+      "id": "hidreletricas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare hidrelétrica, termelétrica, eólica e fotovoltaica em matriz: transformação, disponibilidade e impactos. Com fonte da distribuidora/operador, desenhe o caminho geral até a comunidade e identifique o que é rede interligada e o que não foi confirmado localmente. Argumente uma escolha considerando moradores e ambiente, sem visitar instalações energizadas.",
+      "gabarito": "Exigir quatro comparações e fonte para o percurso local; não atribuir toda energia de uma cidade à usina mais próxima. Diferenciar geração por turbina de conversão fotovoltaica.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir quatro comparações e fonte para o percurso local; não atribuir toda energia de uma cidade à usina mais próxima. Diferenciar geração por turbina de conversão fotovoltaica.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF08CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        351
+      ],
+      "paginasImpressas": "349",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Usinas e Impactos",
+    "titulo": "Hidrelétricas"
+  }
+}

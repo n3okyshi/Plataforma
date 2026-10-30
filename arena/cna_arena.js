@@ -5880,6 +5880,2716 @@ registrarQuestoes([
     "autoria": "produção autoral assistida",
     "estado": "piloto",
     "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.treino.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.fontes_de_energia.renovaveis",
+    "bncc": [
+      "EF08CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em uma usina eólica, qual é a fonte considerada?",
+    "opcoes": [
+      "O vento.",
+      "A palavra elétrica impressa no aparelho.",
+      "O plástico da tomada, necessariamente."
+    ],
+    "correta": 0,
+    "explicacao": "Vento move pás de uma usina eólica: há energia cinética transformada em elétrica. Uma pilha transforma energia química em elétrica; ela não é uma fonte renovável só por poder alimentar um aparelho. Eletricidade é um meio de transferência que pode ter diferentes origens.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.prova.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.fontes_de_energia.renovaveis",
+    "bncc": [
+      "EF08CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma fonte renovável pode causar impactos ambientais?",
+    "opcoes": [
+      "Sim; renovabilidade e ausência de impacto são critérios diferentes.",
+      "Somente se deixar de existir energia.",
+      "Não, por definição."
+    ],
+    "correta": 0,
+    "explicacao": "Renovação do recurso não elimina efeitos de implantação, materiais e operação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.treino.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.circuitos_eletricos.pilhas_e_baterias",
+    "bncc": [
+      "EF08CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Abrir o único caminho de um circuito simples tende a:",
+    "opcoes": [
+      "Criar uma segunda pilha.",
+      "Aumentar sempre o brilho.",
+      "Interromper a corrente nesse caminho."
+    ],
+    "correta": 2,
+    "explicacao": "No circuito de pilha, lâmpada compatível e fios, uma interrupção impede corrente pelo caminho. Em dois ramos paralelos, abrir um ramo pode deixar o outro funcionando. Isso permite comparar independência de cargas sem conectar o modelo à rede residencial.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.prova.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.circuitos_eletricos.pilhas_e_baterias",
+    "bncc": [
+      "EF08CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A comparação com circuitos residenciais permite concluir que:",
+    "opcoes": [
+      "Toda casa tem apenas um caminho em série.",
+      "Um modelo de pilha autoriza mexer na tomada.",
+      "Ramos podem permitir funcionamento independente, mas tensão e proteção reais exigem profissionais."
+    ],
+    "correta": 2,
+    "explicacao": "O modelo representa conexões; não reproduz os riscos e requisitos de uma instalação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.treino.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica",
+    "bncc": [
+      "EF08CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No ventilador, um efeito útil da transformação elétrica é:",
+    "opcoes": [
+      "Desaparecimento da energia.",
+      "Movimento do ar.",
+      "Criação de matéria do nada."
+    ],
+    "correta": 1,
+    "explicacao": "Chuveiro elétrico tem aquecimento como efeito útil principal; ventilador produz movimento do ar; rádio produz som. Geladeira transfere energia do interior para o ambiente com trabalho elétrico: não cria frio nem converte toda energia em resfriamento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.prova.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica",
+    "bncc": [
+      "EF08CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma lâmpada pode transformar energia elétrica em:",
+    "opcoes": [
+      "Somente luz, sem qualquer outro efeito.",
+      "Luz e aquecimento, em proporções dependentes do dispositivo.",
+      "Apenas massa nuclear em qualquer uso."
+    ],
+    "correta": 1,
+    "explicacao": "Transformações reais podem envolver mais de uma forma e efeito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.treino.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.consumo_de_energia.potencia",
+    "bncc": [
+      "EF08CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um aparelho de 1000 W ligado por 2 h transfere aproximadamente:",
+    "opcoes": [
+      "2 kWh.",
+      "2000 kWh.",
+      "0,002 kWh."
+    ],
+    "correta": 0,
+    "explicacao": "Exemplo didático: aparelho de 1200 W por 0,5 h ao dia durante 30 dias: 1,2 × 0,5 × 30 = 18 kWh. Outro de 60 W por 5 h diárias: 0,06 × 5 × 30 = 9 kWh. Menor potência pode ou não significar menor consumo, pois tempo também importa. Não há tarifa real neste cálculo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "EIA — Measuring electricity",
+        "url": "https://www.eia.gov/energyexplained/electricity/measuring-electricity.php",
+        "consulta": "2026-10-30",
+        "uso": "Potência versus energia e conversão W/kW/Wh/kWh; cálculos autorais, sem tarifas ou estatísticas estrangeiras transpostas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.prova.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.consumo_de_energia.potencia",
+    "bncc": [
+      "EF08CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No exemplo de 1200 W por meia hora diária em 30 dias, o consumo é:",
+    "opcoes": [
+      "18 kWh.",
+      "0,6 kWh no mês.",
+      "18000 kWh."
+    ],
+    "correta": 0,
+    "explicacao": "1,2 kW × 0,5 h/dia × 30 dias = 18 kWh.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "EIA — Measuring electricity",
+        "url": "https://www.eia.gov/energyexplained/electricity/measuring-electricity.php",
+        "consulta": "2026-10-30",
+        "uso": "Potência versus energia e conversão W/kW/Wh/kWh; cálculos autorais, sem tarifas ou estatísticas estrangeiras transpostas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.treino.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.uso_consciente_de_energia.eficiencia_energetica",
+    "bncc": [
+      "EF08CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual comparação permite avaliar melhor duas lâmpadas?",
+    "opcoes": [
+      "Apenas cor da embalagem.",
+      "Somente preço sem função.",
+      "Mesma função luminosa, consumo e condições de uso."
+    ],
+    "correta": 2,
+    "explicacao": "Comparar duas lâmpadas que fornecem iluminação equivalente permite discutir potência e tempo. Apagar iluminação de sala vazia pode reduzir uso, mas escurecer área de circulação em uso prejudica segurança. Um plano pode combinar hábitos e seleção com critérios públicos de eficiência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.prova.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.uso_consciente_de_energia.eficiencia_energetica",
+    "bncc": [
+      "EF08CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Sem medir ou estimar energia com método, o grupo deve:",
+    "opcoes": [
+      "Declarar economia total.",
+      "Inventar uma redução em kWh.",
+      "Registrar a ação e seu indicador observado, deixando a economia energética sem confirmação."
+    ],
+    "correta": 2,
+    "explicacao": "Um resultado comportamental não é automaticamente uma medida de energia.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.treino.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.usinas_e_impactos.hidreletricas",
+    "bncc": [
+      "EF08CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Painéis fotovoltaicos convertem principalmente:",
+    "opcoes": [
+      "Som em carvão.",
+      "Radiação solar em energia elétrica.",
+      "Vento em petróleo."
+    ],
+    "correta": 1,
+    "explicacao": "Um reservatório pode alterar habitats e deslocar comunidades; combustível fóssil em termelétrica gera emissões; eólicas exigem avaliação de localização e efeitos sobre fauna e moradores. Solar depende de radiação e também envolve materiais, área e descarte. Nenhuma comparação se resolve apenas pelo nome renovável.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.materia_e_energia.prova.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef08.usinas_e_impactos.hidreletricas",
+    "bncc": [
+      "EF08CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para avaliar uma hidrelétrica, deve-se considerar:",
+    "opcoes": [
+      "Somente que água existe.",
+      "Geração, regularidade e impactos ecológicos e sociais, entre outros critérios.",
+      "Que renovável garante impacto zero."
+    ],
+    "correta": 1,
+    "explicacao": "A escolha tecnológica requer múltiplos critérios e contexto territorial.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.treino.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua",
+    "bncc": [
+      "EF08CI12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "As fases comuns da Lua resultam principalmente:",
+    "opcoes": [
+      "De luz produzida pela própria Lua.",
+      "Da porção iluminada que vemos conforme posições relativas.",
+      "Da sombra terrestre toda semana."
+    ],
+    "correta": 1,
+    "explicacao": "Lua cheia mostra grande parte da face iluminada voltada para nós; lua nova tem a face iluminada voltada principalmente para o lado oposto. Um modelo com lanterna e bolas permite diferenciar perspectiva e sombra, mas tamanhos, distâncias e inclinação precisam de legenda. Não se deve generalizar o lado direito iluminado em imagens do hemisfério norte para toda observação no Brasil.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Moon Phases",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Iluminação, perspectiva e inclinação; lado iluminado em referência do hemisfério norte não é regra visual universal. Modelo e diário autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.prova.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua",
+    "bncc": [
+      "EF08CI12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Por que nem toda lua nova produz eclipse solar?",
+    "opcoes": [
+      "Porque a Lua não existe nessa fase.",
+      "A inclinação da órbita e o alinhamento necessário importam.",
+      "Porque fases não dependem de posição."
+    ],
+    "correta": 1,
+    "explicacao": "Estar na fase nova não garante alinhamento que produza eclipse para um observador.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Moon Phases",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Iluminação, perspectiva e inclinação; lado iluminado em referência do hemisfério norte não é regra visual universal. Modelo e diário autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.treino.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao",
+    "bncc": [
+      "EF08CI13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "As estações opostas entre hemisférios se relacionam principalmente:",
+    "opcoes": [
+      "À inclinação do eixo combinada à translação.",
+      "A toda Terra ficar mais próxima do Sol no verão de cada lugar.",
+      "À Lua apagar parte do Sol por meses."
+    ],
+    "correta": 0,
+    "explicacao": "Quando o hemisfério sul recebe iluminação mais direta e dias mais longos, ocorre seu verão, enquanto o norte tem inverno. A região equatorial apresenta menor variação anual na duração do dia; características locais não se reduzem a quatro paisagens de clima temperado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.prova.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao",
+    "bncc": [
+      "EF08CI13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No modelo anual, o eixo deve:",
+    "opcoes": [
+      "Manter aproximadamente a mesma orientação enquanto a Terra percorre a órbita.",
+      "Desaparecer no inverno.",
+      "Mudar livremente de direção em cada posição."
+    ],
+    "correta": 0,
+    "explicacao": "A manutenção da orientação permite comparar incidência e duração do dia entre posições.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.treino.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.clima_e_tempo.clima_x_tempo",
+    "bncc": [
+      "EF08CI14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Correntes oceânicas participam do clima porque:",
+    "opcoes": [
+      "Impedem qualquer troca de energia.",
+      "Definem sozinhas todo evento diário.",
+      "Redistribuem energia e interagem com a atmosfera."
+    ],
+    "correta": 2,
+    "explicacao": "Uma corrente oceânica pode transportar energia entre regiões; o ar não se move apenas em uma linha do equador ao polo. Modelos de células e correntes simplificam trajetórias que interagem com continentes. Comparar duas cidades requer séries e contexto, não uma única leitura de termômetro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NOAA — Ocean currents",
+        "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+        "consulta": "2026-10-30",
+        "uso": "Ventos e densidade por temperatura/salinidade na circulação; transporte energético e influência climática, sem inferência de clima local sem séries."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.prova.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.clima_e_tempo.clima_x_tempo",
+    "bncc": [
+      "EF08CI14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para caracterizar um clima regional é melhor usar:",
+    "opcoes": [
+      "A cor escolhida em um desenho.",
+      "Uma única tarde quente.",
+      "Registros de período amplo e fatores como latitude, relevo e oceano."
+    ],
+    "correta": 2,
+    "explicacao": "Clima envolve padrões e variabilidade ao longo de períodos, além de condições geográficas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NOAA — Ocean currents",
+        "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+        "consulta": "2026-10-30",
+        "uso": "Ventos e densidade por temperatura/salinidade na circulação; transporte energético e influência climática, sem inferência de clima local sem séries."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.treino.15",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.clima_e_tempo.previsao_do_tempo",
+    "bncc": [
+      "EF08CI15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual par variável/unidade é adequado?",
+    "opcoes": [
+      "Vento em litros de tinta.",
+      "Precipitação em milímetros.",
+      "Temperatura do ar em quilogramas."
+    ],
+    "correta": 1,
+    "explicacao": "Em uma estação didática, temperatura em °C, precipitação em mm e vento por direção/velocidade são registros distintos. Um pluviômetro improvisado só permite estimativa se geometria, escala e posição forem consideradas. Não ter instrumento para pressão não autoriza preencher a coluna com números inventados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.prova.15",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.clima_e_tempo.previsao_do_tempo",
+    "bncc": [
+      "EF08CI15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se a turma não mediu pressão atmosférica, deve:",
+    "opcoes": [
+      "Inventar números para completar tabela.",
+      "Marcar ausência ou usar dado institucional identificado como consulta.",
+      "Copiar temperatura e chamar de pressão."
+    ],
+    "correta": 1,
+    "explicacao": "Origem do registro é parte da qualidade da evidência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.treino.16",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.mudancas_climaticas.aquecimento_global",
+    "bncc": [
+      "EF08CI16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Adaptação climática busca principalmente:",
+    "opcoes": [
+      "Reduzir vulnerabilidades e danos diante de condições climáticas.",
+      "Apagar toda história climática.",
+      "Substituir todo conhecimento por opinião."
+    ],
+    "correta": 0,
+    "explicacao": "Reduzir desperdício energético pode contribuir para mitigação quando afeta emissões; ampliar sombra e planejar proteção em ondas de calor pode ser adaptação. Plantar qualquer espécie em qualquer lugar não é solução automática. Evitar emissões não substitui medidas para pessoas já expostas a riscos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — What is the greenhouse effect?",
+        "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+        "consulta": "2026-10-30",
+        "uso": "Mecanismo e intensificação antrópica previamente consultados; projetos autorais sem equivalências de carbono inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.prova.16",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.mudancas_climaticas.aquecimento_global",
+    "bncc": [
+      "EF08CI16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual proposta tem avaliação verificável?",
+    "opcoes": [
+      "Ação com responsável, indicador, resultado e limites.",
+      "Slogan sem relação com mecanismo.",
+      "Promessa de resolver o clima sem registro."
+    ],
+    "correta": 0,
+    "explicacao": "Uma proposta precisa de implementação e evidência compatível com o alcance declarado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — What is the greenhouse effect?",
+        "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+        "consulta": "2026-10-30",
+        "uso": "Mecanismo e intensificação antrópica previamente consultados; projetos autorais sem equivalências de carbono inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.treino.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada",
+    "bncc": [
+      "EF08CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual evento caracteriza reprodução sexuada no modelo estudado?",
+    "opcoes": [
+      "Fusão de gametas.",
+      "Existência obrigatória de flores em todo animal.",
+      "Ausência universal de material genético."
+    ],
+    "correta": 0,
+    "explicacao": "Uma muda obtida por propagação vegetativa tende a conservar características genéticas da planta de origem, salvo mudanças como mutações. Sementes produzidas por fecundação podem reunir combinações diferentes. Em animais, brotamento em hidras e reprodução sexuada ilustram diversidade sem dizer que todos usam o mesmo mecanismo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.prova.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada",
+    "bncc": [
+      "EF08CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Polinização e fecundação são:",
+    "opcoes": [
+      "Etapas distintas: transporte de pólen e união de gametas, respectivamente.",
+      "Processos sem relação com reprodução vegetal.",
+      "Exatamente o mesmo processo em qualquer organismo."
+    ],
+    "correta": 0,
+    "explicacao": "Transportar pólen pode anteceder a fecundação, mas não equivale a ela.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.treino.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade",
+    "bncc": [
+      "EF08CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O sistema nervoso e os hormônios na puberdade:",
+    "opcoes": [
+      "Atuam sem qualquer relação.",
+      "Determinam o valor social de uma pessoa.",
+      "Participam de regulação integrada."
+    ],
+    "correta": 2,
+    "explicacao": "Um esquema hipotálamo → hipófise → gônadas simplifica a comunicação hormonal e suas retroações. Hormônios circulam e atuam em células com receptores; não são comandos conscientes nem exclusivos de um único grupo de pessoas. Mudanças corporais não autorizam constrangimento ou comparação pública.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NICHD — Causes of puberty",
+        "url": "https://www.nichd.nih.gov/health/topics/puberty/conditioninfo/causes",
+        "consulta": "2026-10-30",
+        "uso": "Regulação hipotálamo/hipófise/gônadas; não transforma modelo em diagnóstico ou faixa etária universal."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.prova.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade",
+    "bncc": [
+      "EF08CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Duas pessoas podem apresentar ritmos distintos de mudanças puberais?",
+    "opcoes": [
+      "Não, aparência basta para diagnóstico.",
+      "Não, toda mudança deve acontecer no mesmo dia.",
+      "Sim; diversidade de ritmo não autoriza comparação constrangedora ou diagnóstico escolar."
+    ],
+    "correta": 2,
+    "explicacao": "Explicações gerais não permitem avaliar clinicamente o desenvolvimento individual.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NICHD — Causes of puberty",
+        "url": "https://www.nichd.nih.gov/health/topics/puberty/conditioninfo/causes",
+        "consulta": "2026-10-30",
+        "uso": "Regulação hipotálamo/hipófise/gônadas; não transforma modelo em diagnóstico ou faixa etária universal."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.treino.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos",
+    "bncc": [
+      "EF08CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Pílula ou DIU substituem preservativo na proteção contra IST?",
+    "opcoes": [
+      "Sim, qualquer método tem a mesma função.",
+      "Não; eficácia contra gravidez não implica proteção contra IST.",
+      "Sim, ambos impedem toda IST."
+    ],
+    "correta": 1,
+    "explicacao": "Na tabela da OMS consultada, por 100 usuárias em um ano, estimam-se 2 gravidezes com preservativo externo em uso correto/consistente e 13 em uso habitual; pílula combinada: 0,3 e 7; DIU de cobre: 0,6 e 0,8. São estimativas da fonte, não resultado da turma. Menos gravidezes nessa medida indica maior eficácia contraceptiva, sem medir proteção contra IST.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "WHO — Mechanisms of action and effectiveness of contraceptive methods",
+        "url": "https://cdn.who.int/media/docs/default-source/reproductive-health/contraception-family-planning/mechanisms-of-action-and-effectiveness-of-contraception-methods.pdf?sfvrsn=e39",
+        "consulta": "2026-10-30",
+        "uso": "Tabela consultada, página PDF 1: três métodos e estimativas anuais por 100 usuárias, separando uso correto e habitual. Não é prescrição ou taxa por relação."
+      },
+      {
+        "documento": "WHO — Family planning/contraception methods",
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/family-planning-contraception",
+        "consulta": "2026-10-30",
+        "uso": "Direito à informação e distinção de contracepção e prevenção de IST, sem indicação individual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.prova.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos",
+    "bncc": [
+      "EF08CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na tabela, 13 gravidezes por 100 usuárias em um ano refere-se:",
+    "opcoes": [
+      "A 13 gravidezes obrigatórias em cada pessoa.",
+      "A estimativa populacional anual de uso habitual do preservativo externo.",
+      "A uma garantia individual por relação."
+    ],
+    "correta": 1,
+    "explicacao": "O denominador e o período precisam acompanhar a interpretação da eficácia.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "WHO — Mechanisms of action and effectiveness of contraceptive methods",
+        "url": "https://cdn.who.int/media/docs/default-source/reproductive-health/contraception-family-planning/mechanisms-of-action-and-effectiveness-of-contraception-methods.pdf?sfvrsn=e39",
+        "consulta": "2026-10-30",
+        "uso": "Tabela consultada, página PDF 1: três métodos e estimativas anuais por 100 usuárias, separando uso correto e habitual. Não é prescrição ou taxa por relação."
+      },
+      {
+        "documento": "WHO — Family planning/contraception methods",
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/family-planning-contraception",
+        "consulta": "2026-10-30",
+        "uso": "Direito à informação e distinção de contracepção e prevenção de IST, sem indicação individual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.treino.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.dst_e_prevencao.o_que_sao_dst",
+    "bncc": [
+      "EF08CI10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma pessoa sem sintomas pode ter uma IST?",
+    "opcoes": [
+      "Sim; ausência de sinais não substitui testagem e avaliação.",
+      "Não, todas são visíveis.",
+      "Não, aparência prova ausência."
+    ],
+    "correta": 0,
+    "explicacao": "HIV pode ter fase sem sinais ou sintomas inespecíficos, como febre; na evolução sem tratamento pode haver perda de peso e infecções oportunistas. Sífilis pode apresentar ferida e lesões na pele ou ficar sem sintomas; HPV pode causar verrugas ou não ter sinais. Antirretrovirais controlam HIV e não constituem cura; sífilis requer tratamento antibiótico profissional; lesões por HPV têm manejo clínico. Preservativos reduzem risco, sem eliminar toda transmissão por áreas não cobertas; vacinação contra HPV integra prevenção conforme orientação de saúde.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "WHO — HIV and AIDS",
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/hiv-aids",
+        "consulta": "2026-10-30",
+        "uso": "Infecção/estágio avançado, transmissão, ausência de transmissão pelo convívio e tratamento geral; não usa estatísticas atuais ou doses."
+      },
+      {
+        "documento": "WHO — Syphilis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/syphilis",
+        "consulta": "2026-10-30",
+        "uso": "Sintomas/ausência deles, vias, prevenção e tratamento antibiótico geral, sem diagnóstico ou prescrição."
+      },
+      {
+        "documento": "WHO — Human papillomavirus and cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer/",
+        "consulta": "2026-10-30",
+        "uso": "Infecção frequentemente sem sinais, verrugas, prevenção e tratamento de lesões; não transpõe calendário internacional."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.prova.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.dst_e_prevencao.o_que_sao_dst",
+    "bncc": [
+      "EF08CI10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual afirmação sobre HIV é correta?",
+    "opcoes": [
+      "Antirretrovirais controlam a infecção; convívio escolar não transmite o vírus.",
+      "Aids é o nome de toda infecção leve por qualquer vírus.",
+      "Abraçar transmite HIV."
+    ],
+    "correta": 0,
+    "explicacao": "HIV e aids se distinguem, e mitos de convívio alimentam discriminação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "WHO — HIV and AIDS",
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/hiv-aids",
+        "consulta": "2026-10-30",
+        "uso": "Infecção/estágio avançado, transmissão, ausência de transmissão pelo convívio e tratamento geral; não usa estatísticas atuais ou doses."
+      },
+      {
+        "documento": "WHO — Syphilis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/syphilis",
+        "consulta": "2026-10-30",
+        "uso": "Sintomas/ausência deles, vias, prevenção e tratamento antibiótico geral, sem diagnóstico ou prescrição."
+      },
+      {
+        "documento": "WHO — Human papillomavirus and cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer/",
+        "consulta": "2026-10-30",
+        "uso": "Infecção frequentemente sem sinais, verrugas, prevenção e tratamento de lesões; não transpõe calendário internacional."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.treino.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade",
+    "bncc": [
+      "EF08CI11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A análise da sexualidade deve considerar:",
+    "opcoes": [
+      "Somente reprodução.",
+      "A obrigação de contar intimidades.",
+      "Dimensões biológicas, afetivas, sociais e éticas."
+    ],
+    "correta": 2,
+    "explicacao": "Em caso fictício, compartilhar uma mensagem privada para pressionar alguém envolve privacidade, relações de poder e ética, não apenas biologia. Respeitar uma recusa e buscar apoio de adulto de confiança são ações possíveis. Ninguém precisa revelar orientação, vivências ou informações sobre o próprio corpo na atividade.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.vida_e_evolucao.prova.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade",
+    "bncc": [
+      "EF08CI11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O silêncio de uma pessoa permite presumir consentimento livre?",
+    "opcoes": [
+      "Sim, se outras pessoas concordarem.",
+      "Sim, sempre.",
+      "Não; pressão ou ausência de resposta não equivalem a consentimento."
+    ],
+    "correta": 2,
+    "explicacao": "A análise ética respeita vontade, privacidade e possibilidade de recusa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.estados_e_modelos.modelo_submicroscopico",
+    "bncc": [
+      "EF09CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Quando gelo puro derrete, no modelo molecular:",
+    "opcoes": [
+      "Toda molécula vira oxigênio puro.",
+      "As moléculas se tornam planetas.",
+      "A identidade das moléculas de água se mantém."
+    ],
+    "correta": 2,
+    "explicacao": "Gelo derretendo continua sendo água; as moléculas não viram moléculas de ar. Evaporação ocorre pela superfície em várias temperaturas, enquanto ebulição envolve formação de vapor no interior do líquido em condições específicas de pressão. O desenho de bolinhas é modelo, não fotografia de moléculas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78
+        ],
+        "paginasImpressas": "72–78",
+        "uso": "Estados e transformações consultados criticamente. Corrige simplificações: líquido tem volume aproximadamente definido, sólidos amorfos são sólidos e evaporação não se distingue de ebulição apenas por rapidez."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.estados_e_modelos.modelo_submicroscopico",
+    "bncc": [
+      "EF09CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Evaporação e ebulição se diferenciam porque:",
+    "opcoes": [
+      "Ambas sempre alteram a composição química da água.",
+      "Evaporação só existe a 100 °C.",
+      "Evaporação é superficial e pode ocorrer em várias temperaturas; ebulição forma vapor no interior nas condições adequadas."
+    ],
+    "correta": 2,
+    "explicacao": "Mudança de estado não exige uma transformação química, e ebulição depende também da pressão.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78
+        ],
+        "paginasImpressas": "72–78",
+        "uso": "Estados e transformações consultados criticamente. Corrige simplificações: líquido tem volume aproximadamente definido, sólidos amorfos são sólidos e evaporação não se distingue de ebulição apenas por rapidez."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos",
+    "bncc": [
+      "EF09CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No modelo 3 g + 2 g → 5 g, ao dobrar reagentes na mesma proporção obtém-se:",
+    "opcoes": [
+      "1 g de produto.",
+      "10 g de produto.",
+      "5 g obrigatoriamente."
+    ],
+    "correta": 1,
+    "explicacao": "Conjunto didático simulado: 3 g de magnésio reagem com 2 g de oxigênio formando 5 g de óxido de magnésio. Mantidas as condições e sem excesso, 6 g de magnésio exigem 4 g de oxigênio e formam 10 g de produto. Os números são simplificados para cálculo, não instruções de combustão em aula.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos",
+    "bncc": [
+      "EF09CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Com 6 g de magnésio e 5 g de oxigênio no mesmo modelo, espera-se:",
+    "opcoes": [
+      "11 g de produto sem sobra.",
+      "10 g de produto e 1 g de oxigênio sem reagir.",
+      "Desaparecimento de 1 g."
+    ],
+    "correta": 1,
+    "explicacao": "A proporção pede 4 g de oxigênio para 6 g de magnésio; o grama excedente permanece.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.estrutura_da_materia.atomos",
+    "bncc": [
+      "EF09CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "H₂O representa, por molécula:",
+    "opcoes": [
+      "Dois átomos de hidrogênio e um de oxigênio.",
+      "Duas moléculas de oxigênio e nenhuma de hidrogênio.",
+      "Três elementos diferentes."
+    ],
+    "correta": 0,
+    "explicacao": "Uma molécula de água é representada por H₂O: dois átomos de hidrogênio e um de oxigênio, não dois de água. O núcleo contém prótons e, em geral, nêutrons; elétrons compõem a região eletrônica. Bolas de cores são convenções e não demonstram escala real ou cor dos átomos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          72,
+          73
+        ],
+        "paginasImpressas": "72–73",
+        "uso": "Átomos e moléculas como apoio inicial; não universaliza estrutura molecular a todo material."
+      },
+      {
+        "documento": "RSC — The atom detectives",
+        "url": "https://edu.rsc.org/resources/the-atom-detectives/1332.article",
+        "consulta": "2026-10-30",
+        "uso": "Descrição institucional recuperada por busca sobre desenvolvimento de modelos; abertura direta retornou 405. Sem afirmar leitura integral, inspeção de ilustrações ou anexos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.estrutura_da_materia.atomos",
+    "bncc": [
+      "EF09CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A evolução dos modelos atômicos mostra:",
+    "opcoes": [
+      "Revisões para explicar observações, com alcance e limites de cada modelo.",
+      "Que o último desenho é fotografia ampliada do átomo.",
+      "Que evidências nunca importam."
+    ],
+    "correta": 0,
+    "explicacao": "Modelos são representações explicativas sujeitas a revisão, não retratos literais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          72,
+          73
+        ],
+        "paginasImpressas": "72–73",
+        "uso": "Átomos e moléculas como apoio inicial; não universaliza estrutura molecular a todo material."
+      },
+      {
+        "documento": "RSC — The atom detectives",
+        "url": "https://edu.rsc.org/resources/the-atom-detectives/1332.article",
+        "consulta": "2026-10-30",
+        "uso": "Descrição institucional recuperada por busca sobre desenvolvimento de modelos; abertura direta retornou 405. Sem afirmar leitura integral, inspeção de ilustrações ou anexos."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.luz_e_cores.decomposicao_da_luz",
+    "bncc": [
+      "EF09CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Na síntese aditiva escolar, luz vermelha mais verde pode produzir percepção:",
+    "opcoes": [
+      "Preta obrigatoriamente.",
+      "De tinta azul necessariamente.",
+      "Amarela."
+    ],
+    "correta": 2,
+    "explicacao": "Projetar luz vermelha e verde sobre mesma região de superfície clara pode produzir percepção amarela; somar azul em intensidade adequada pode aproximar branco. Papel que parece vermelho sob luz branca tende a refletir mais faixas vermelhas; sob luz verde pode parecer escuro, dependendo do material e das fontes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.luz_e_cores.decomposicao_da_luz",
+    "bncc": [
+      "EF09CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um objeto tem sempre a mesma aparência sob qualquer luz?",
+    "opcoes": [
+      "Sim, a cor depende apenas do nome do objeto.",
+      "Sim, iluminação não importa.",
+      "Não; luz incidente e propriedades do material influenciam a aparência."
+    ],
+    "correta": 2,
+    "explicacao": "A cor percebida depende do que ilumina o objeto e do que chega ao observador.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.imagem_e_som.ondas",
+    "bncc": [
+      "EF09CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um microfone participa de qual etapa?",
+    "opcoes": [
+      "Eliminação de qualquer meio de transmissão.",
+      "Captação/conversão do som em sinal.",
+      "Criação direta de estrelas."
+    ],
+    "correta": 1,
+    "explicacao": "Em uma chamada, microfone → codificação → transmissão por rede → decodificação → alto-falante é esquema possível, com etapas adicionais reais. Redes podem usar ondas de rádio e luz em fibras. Atraso, compressão e interferências ajudam a explicar limites sem dizer que todo sinal é perfeito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.imagem_e_som.ondas",
+    "bncc": [
+      "EF09CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A reconstrução de uma imagem digital depende:",
+    "opcoes": [
+      "De adivinhar sem código.",
+      "De código compartilhado, transmissão dos dados e interpretação pelo receptor.",
+      "De som se propagar no vácuo."
+    ],
+    "correta": 1,
+    "explicacao": "Representação e comunicação precisam de convenções e suporte físico de sinal.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico",
+    "bncc": [
+      "EF09CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual não é uma onda eletromagnética?",
+    "opcoes": [
+      "Ultrassom.",
+      "Infravermelho.",
+      "Luz visível."
+    ],
+    "correta": 0,
+    "explicacao": "Controle remoto pode usar infravermelho; celular usa radiofrequências; forno de micro-ondas aquece materiais por interação de campo eletromagnético, não torna a comida radioativa. Raios X são ionizantes. Fotocélulas convertem energia luminosa em efeito elétrico. Ultrassom não pertence a esse espectro: é onda mecânica.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico",
+    "bncc": [
+      "EF09CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No vácuo, quando a frequência eletromagnética aumenta:",
+    "opcoes": [
+      "O comprimento de onda diminui.",
+      "Toda onda passa a ser som.",
+      "O comprimento de onda aumenta obrigatoriamente."
+    ],
+    "correta": 0,
+    "explicacao": "A velocidade de propagação no vácuo relaciona frequência e comprimento de modo inverso.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.treino.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem",
+    "bncc": [
+      "EF09CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ultrassonografia utiliza principalmente:",
+    "opcoes": [
+      "Raios X em todas as imagens.",
+      "Fissão nuclear.",
+      "Ondas sonoras e seus ecos."
+    ],
+    "correta": 2,
+    "explicacao": "Ultrassom permite imagem por ecos, enquanto uma radiografia registra interação de raios X com tecidos. A ressonância requer avaliação de implantes e objetos metálicos por equipe habilitada. Desenvolvimento tecnológico pode melhorar qualidade e direcionamento, mas indicação clínica pondera benefício, risco e acesso; aula não decide qual exame uma pessoa precisa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NIBIB — Magnetic Resonance Imaging",
+        "url": "https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+        "consulta": "2026-10-30",
+        "uso": "Campo magnético/radiofrequência e mecanismo geral, sem confundir ausência de raios X com ausência de cuidados."
+      },
+      {
+        "documento": "NIBIB — Ultrasound",
+        "url": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound",
+        "consulta": "2026-10-30",
+        "uso": "Ondas sonoras, ecos e limites de segurança; distinção de radiação eletromagnética."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.materia_e_energia.prova.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem",
+    "bncc": [
+      "EF09CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Ressonância magnética e radiografia:",
+    "opcoes": [
+      "Dispensam toda avaliação de segurança.",
+      "São o mesmo mecanismo com nomes diferentes.",
+      "Usam mecanismos distintos; ressonância não utiliza raios X ionizantes."
+    ],
+    "correta": 2,
+    "explicacao": "Ressonância usa campos magnéticos e radiofrequência; radiografia usa raios X.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NIBIB — Magnetic Resonance Imaging",
+        "url": "https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+        "consulta": "2026-10-30",
+        "uso": "Campo magnético/radiofrequência e mecanismo geral, sem confundir ausência de raios X com ausência de cuidados."
+      },
+      {
+        "documento": "NIBIB — Ultrasound",
+        "url": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound",
+        "consulta": "2026-10-30",
+        "uso": "Ondas sonoras, ecos e limites de segurança; distinção de radiação eletromagnética."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.terra_e_universo.treino.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef09.sistema_solar.sol",
+    "bncc": [
+      "EF09CI14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A Via Láctea é:",
+    "opcoes": [
+      "Outro nome apenas da Lua.",
+      "A galáxia que contém o Sistema Solar.",
+      "Um planeta rochoso."
+    ],
+    "correta": 1,
+    "explicacao": "Uma sequência de cartões por distância média ao Sol não representa distâncias iguais. Um ano-luz é unidade de distância, não tempo de viagem de uma nave. O Sol é uma estrela da Via Láctea, e o sistema não ocupa o centro da galáxia. Desenhos com planetas grandes e próximos precisam declarar escala alterada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Solar System Facts",
+        "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+        "consulta": "2026-10-30",
+        "uso": "Composição e pertencimento galáctico, rochosos/gigantes gasosos/gigantes de gelo; sem contagens mutáveis de satélites."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.terra_e_universo.prova.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef09.sistema_solar.sol",
+    "bncc": [
+      "EF09CI14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Urano e Netuno podem ser classificados mais especificamente como:",
+    "opcoes": [
+      "Estrelas amarelas.",
+      "Gigantes de gelo, distinguindo-os dos gigantes gasosos Júpiter e Saturno.",
+      "Satélites da Terra."
+    ],
+    "correta": 1,
+    "explicacao": "A classificação escolar pode detalhar diferenças entre os quatro planetas gigantes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Solar System Facts",
+        "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+        "consulta": "2026-10-30",
+        "uso": "Composição e pertencimento galáctico, rochosos/gigantes gasosos/gigantes de gelo; sem contagens mutáveis de satélites."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.terra_e_universo.treino.15",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef09.astronomia_e_cultura.leituras_do_ceu",
+    "bncc": [
+      "EF09CI15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para atribuir uma narrativa celeste a um povo, é necessário:",
+    "opcoes": [
+      "Fonte identificada e contexto cultural específico.",
+      "Inventar um nome que pareça antigo.",
+      "Dizer que todos os povos pensam igual."
+    ],
+    "correta": 0,
+    "explicacao": "Um agrupamento de estrelas pode integrar narrativas e calendários distintos em tradições diferentes. O mesmo céu aparente também muda com latitude, época e horário. Um desenho inventado pela turma não é evidência de uma tradição de povo nomeado, e uma descrição sem autor/contexto não deve ser atribuída a ele.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "Museu da Vida/Fiocruz — Constelações indígenas: o céu Tupi-Guarani",
+        "url": "https://invivo.fiocruz.br/cienciaetecnologia/ceu-tupi-guarani/",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre interpretações Guarani e relações com sazonalidade; não generaliza a família linguística como povo único nem reproduz pôsteres."
+      },
+      {
+        "documento": "MAST — No Abril Indígena, conheça a interpretação do céu",
+        "url": "https://www.gov.br/mast/pt-br/assuntos/noticias/2023/abril/no-abril-indigena-conheca-a-interpretacao-tikuna-do-ceu",
+        "consulta": "2026-10-30",
+        "uso": "Artigo consultado sobre pesquisa com Tikuna, asterismos e sazonalidade. Vídeos/gravuras vinculados não foram inspecionados; não se declara consulta à entrevista de 2024 restrita por 401."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.terra_e_universo.prova.15",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef09.astronomia_e_cultura.leituras_do_ceu",
+    "bncc": [
+      "EF09CI15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Comparar leituras do céu envolve:",
+    "opcoes": [
+      "Examinar fontes, contexto e necessidades de cada tradição, distinguindo critérios de explicação.",
+      "Afirmar que existe uma única cultura indígena.",
+      "Reduzir toda narrativa a erro sem função social."
+    ],
+    "correta": 0,
+    "explicacao": "A análise relaciona observação, vida social e diversidade de tradições documentadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "Museu da Vida/Fiocruz — Constelações indígenas: o céu Tupi-Guarani",
+        "url": "https://invivo.fiocruz.br/cienciaetecnologia/ceu-tupi-guarani/",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre interpretações Guarani e relações com sazonalidade; não generaliza a família linguística como povo único nem reproduz pôsteres."
+      },
+      {
+        "documento": "MAST — No Abril Indígena, conheça a interpretação do céu",
+        "url": "https://www.gov.br/mast/pt-br/assuntos/noticias/2023/abril/no-abril-indigena-conheca-a-interpretacao-tikuna-do-ceu",
+        "consulta": "2026-10-30",
+        "uso": "Artigo consultado sobre pesquisa com Tikuna, asterismos e sazonalidade. Vídeos/gravuras vinculados não foram inspecionados; não se declara consulta à entrevista de 2024 restrita por 401."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.terra_e_universo.treino.16",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida",
+    "bncc": [
+      "EF09CI16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A presença de água em um destino prova vida humana sem suporte?",
+    "opcoes": [
+      "Sim, água basta para toda condição.",
+      "Sim, distância deixa de importar.",
+      "Não; outras condições e suporte precisam ser avaliados."
+    ],
+    "correta": 2,
+    "explicacao": "Cálculo idealizado e fictício: percorrer 6 milhões de quilômetros a 20 mil km/h constantes levaria 300 h, ou 12,5 dias. Não é duração de missão real: ignora trajetórias, aceleração e posição dos astros. Para distâncias interestelares medidas em anos-luz, o problema de escala é muito maior.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Solar System Facts",
+        "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+        "consulta": "2026-10-30",
+        "uso": "Composição e pertencimento galáctico, rochosos/gigantes gasosos/gigantes de gelo; sem contagens mutáveis de satélites."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.terra_e_universo.prova.16",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida",
+    "bncc": [
+      "EF09CI16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No cálculo fictício, 6000000 km ÷ 20000 km/h resulta em:",
+    "opcoes": [
+      "300000 h.",
+      "30 h.",
+      "300 h."
+    ],
+    "correta": 2,
+    "explicacao": "Distância dividida por velocidade fornece tempo: 300 h, sem modelar uma missão real.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Solar System Facts",
+        "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+        "consulta": "2026-10-30",
+        "uso": "Composição e pertencimento galáctico, rochosos/gigantes gasosos/gigantes de gelo; sem contagens mutáveis de satélites."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.terra_e_universo.treino.17",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas",
+    "bncc": [
+      "EF09CI17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "O remanescente esperado para o Sol é:",
+    "opcoes": [
+      "Um planeta gasoso novo.",
+      "Anã branca.",
+      "Buraco negro por seu colapso isolado obrigatório."
+    ],
+    "correta": 1,
+    "explicacao": "Estrelas muito mais massivas podem evoluir rapidamente e produzir remanescentes como estrelas de nêutrons ou buracos negros, dependendo de condições. O Sol está em escala de bilhões de anos, não de um calendário escolar. Sua evolução altera a energia recebida e as condições da Terra antes mesmo do estágio final; não é preciso afirmar destino orbital exato do planeta para discutir inviabilidade futura.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Sun Facts",
+        "url": "https://science.nasa.gov/sun/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Formação, fusão, evolução futura e posição galáctica; sem previsões orbitais exatas para a Terra."
+      },
+      {
+        "documento": "NASA — Star Types",
+        "url": "https://science.nasa.gov/universe/stars/types/",
+        "consulta": "2026-10-30",
+        "uso": "Diferenças de massa e evolução; Sol termina como anã branca, não supernova ou buraco negro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.terra_e_universo.prova.17",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas",
+    "bncc": [
+      "EF09CI17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Por que comparar massas iniciais de estrelas?",
+    "opcoes": [
+      "Todas têm exatamente o mesmo destino e tempo.",
+      "Massa influencia evolução, tempo de vida e destinos possíveis.",
+      "Massa não se relaciona à gravidade."
+    ],
+    "correta": 1,
+    "explicacao": "Diferentes massas conduzem a trajetórias evolutivas e escalas distintas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Sun Facts",
+        "url": "https://science.nasa.gov/sun/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Formação, fusão, evolução futura e posição galáctica; sem previsões orbitais exatas para a Terra."
+      },
+      {
+        "documento": "NASA — Star Types",
+        "url": "https://science.nasa.gov/universe/stars/types/",
+        "consulta": "2026-10-30",
+        "uso": "Diferenças de massa e evolução; Sol termina como anã branca, não supernova ou buraco negro."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.hereditariedade.gametas",
+    "bncc": [
+      "EF09CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No modelo 2n=4, gametas formados por meiose têm:",
+    "opcoes": [
+      "Nenhum material genético.",
+      "2 cromossomos.",
+      "8 cromossomos obrigatoriamente."
+    ],
+    "correta": 1,
+    "explicacao": "Em organismo fictício com quatro cromossomos em células diploides, gametas têm dois e o zigoto volta a quatro após fecundação. O modelo não descreve todos os ciclos de vida e não autoriza inferir número de cromossomos de espécie desconhecida. Traços aprendidos, como idioma, não são transmitidos como um alelo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          317,
+          318,
+          319,
+          320,
+          321,
+          322
+        ],
+        "paginasImpressas": "317–322",
+        "uso": "Leitura crítica da herança: não reduz todas as características a genes únicos ou exclui ambiente. Não utiliza afirmação universal de mendelismo do manual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.hereditariedade.gametas",
+    "bncc": [
+      "EF09CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A variabilidade entre descendentes pode relacionar-se:",
+    "opcoes": [
+      "A cada gameta conter um organismo pronto.",
+      "Às combinações de informação genética e outros processos, com efeitos também do ambiente.",
+      "A todo traço aprendido passar por alelo único."
+    ],
+    "correta": 1,
+    "explicacao": "Herança e desenvolvimento não se reduzem a copiar uma aparência ou hábito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          317,
+          318,
+          319,
+          320,
+          321,
+          322
+        ],
+        "paginasImpressas": "317–322",
+        "uso": "Leitura crítica da herança: não reduz todas as características a genes únicos ou exclui ambiente. Não utiliza afirmação universal de mendelismo do manual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.genetica_de_mendel.fatores_hereditarios",
+    "bncc": [
+      "EF09CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em Aa × Aa sob o modelo indicado, a probabilidade de aa é:",
+    "opcoes": [
+      "25%.",
+      "100%.",
+      "0%."
+    ],
+    "correta": 0,
+    "explicacao": "No cruzamento Aa × Aa, cada genitor pode formar gametas A e a. Combinações equiprováveis no modelo: AA, Aa, aA e aa. Genótipos esperados 1:2:1; com dominância completa, fenótipos 3:1. São probabilidades em muitos eventos, não promessa de exatamente três descendentes de um tipo a cada quatro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NHGRI — Mendel, Johann (Gregor)",
+        "url": "https://www.genome.gov/genetics-glossary/Gregor-Johann-Mendel",
+        "consulta": "2026-10-30",
+        "uso": "Importância e limites da herança mendeliana; cruzamentos e sorteios autorais com hipóteses explícitas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.genetica_de_mendel.fatores_hereditarios",
+    "bncc": [
+      "EF09CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No cruzamento Aa × aa, os genótipos esperados são:",
+    "opcoes": [
+      "50% Aa e 50% aa.",
+      "25% AA e 75% Aa.",
+      "100% AA."
+    ],
+    "correta": 0,
+    "explicacao": "O primeiro genitor forma A/a e o segundo apenas a; duas combinações equiprováveis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NHGRI — Mendel, Johann (Gregor)",
+        "url": "https://www.genome.gov/genetics-glossary/Gregor-Johann-Mendel",
+        "consulta": "2026-10-30",
+        "uso": "Importância e limites da herança mendeliana; cruzamentos e sorteios autorais com hipóteses explícitas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.evolucao.lamarck",
+    "bncc": [
+      "EF09CI10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma diferença central da seleção natural é enfatizar:",
+    "opcoes": [
+      "Esforço consciente que cria qualquer traço necessário.",
+      "Imutabilidade absoluta das populações.",
+      "Reprodução diferencial associada a variações herdáveis."
+    ],
+    "correta": 2,
+    "explicacao": "Um argumento de alongamento por esforço seguido de herança difere de outro em que variantes já presentes deixam descendentes em frequências diferentes. Esse contraste é recurso didático, não citação literal nem história completa das obras. Mudança muscular por exercício não comprova herança genética desse músculo aumentado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          167,
+          168,
+          169,
+          170
+        ],
+        "paginasImpressas": "167–170",
+        "uso": "Comparação de mecanismos históricos, corrigindo cronologias simplificadas e sem atribuir genética moderna a Darwin; tarefa com obras originais permanece aprofundamento a documentar."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.evolucao.lamarck",
+    "bncc": [
+      "EF09CI10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Darwin já usava DNA na sua explicação original?",
+    "opcoes": [
+      "Sim, por testes laboratoriais de sequenciamento.",
+      "Sim, como modelo molecular moderno.",
+      "Não; a integração com genética ocorreu posteriormente."
+    ],
+    "correta": 2,
+    "explicacao": "A comparação precisa respeitar o conhecimento disponível no contexto histórico.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          167,
+          168,
+          169,
+          170
+        ],
+        "paginasImpressas": "167–170",
+        "uso": "Comparação de mecanismos históricos, corrigindo cronologias simplificadas e sem atribuir genética moderna a Darwin; tarefa com obras originais permanece aprofundamento a documentar."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.evolucao.selecao_natural",
+    "bncc": [
+      "EF09CI11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A seleção natural atua sobre:",
+    "opcoes": [
+      "Somente objetos sem herança.",
+      "Variações existentes, com efeitos no sucesso reprodutivo conforme contexto.",
+      "O desejo de todos mudarem do mesmo modo."
+    ],
+    "correta": 1,
+    "explicacao": "Em modelo de sementes claras/escuras sobre dois fundos, detectabilidade pode alterar sobrevivência simulada. Se características são herdáveis e sobreviventes contribuem à geração seguinte, frequências podem mudar. Retirar cartões uma vez não prova evolução real; o modelo precisa incluir reprodução e suas regras.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          169,
+          170
+        ],
+        "paginasImpressas": "169–170",
+        "uso": "Variação e seleção em gerações; não apresenta seleção como único processo evolutivo, teleologia ou escala de superioridade."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.evolucao.selecao_natural",
+    "bncc": [
+      "EF09CI11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para representar evolução no modelo, é necessário considerar:",
+    "opcoes": [
+      "Só a retirada de um cartão sem outras regras.",
+      "Herança e gerações, além de sobrevivência/reprodução diferencial.",
+      "Mudança instantânea de todos os indivíduos por vontade."
+    ],
+    "correta": 1,
+    "explicacao": "Mudanças nas frequências populacionais precisam de transmissão entre gerações.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          169,
+          170
+        ],
+        "paginasImpressas": "169–170",
+        "uso": "Variação e seleção em gerações; não apresenta seleção como único processo evolutivo, teleologia ou escala de superioridade."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.biodiversidade.unidades_de_conservacao",
+    "bncc": [
+      "EF09CI12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um parque nacional integra qual grupo?",
+    "opcoes": [
+      "Proteção Integral.",
+      "Uso industrial irrestrito.",
+      "Categoria sem qualquer proteção."
+    ],
+    "correta": 0,
+    "explicacao": "Parque pode admitir visitação conforme regras, enquanto uma reserva extrativista articula proteção e modos de vida de populações tradicionais dentro de suas normas. Não se deve confundir conservação com permitir qualquer exploração ou proibir automaticamente toda presença humana. Quantidade de unidades varia e não é usada como número fixo nesta aula.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "ICMBio — Unidades de Conservação",
+        "url": "https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao",
+        "consulta": "2026-10-30",
+        "uso": "Grupos e categorias consultados; não utiliza quantidade atual como dado fixo nem afirma regras de unidade local sem plano de manejo."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.biodiversidade.unidades_de_conservacao",
+    "bncc": [
+      "EF09CI12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para afirmar uso permitido em uma unidade específica, é preciso:",
+    "opcoes": [
+      "Consultar categoria e regras aplicáveis, incluindo plano de manejo quando pertinente.",
+      "Supor que todas têm regras idênticas.",
+      "Apenas olhar o nome reserva."
+    ],
+    "correta": 0,
+    "explicacao": "Objetivos gerais se articulam a instrumentos e condições locais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "ICMBio — Unidades de Conservação",
+        "url": "https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao",
+        "consulta": "2026-10-30",
+        "uso": "Grupos e categorias consultados; não utiliza quantidade atual como dado fixo nem afirma regras de unidade local sem plano de manejo."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.sustentabilidade.problemas_ambientais_locais",
+    "bncc": [
+      "EF09CI13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual elemento torna um projeto avaliável?",
+    "opcoes": [
+      "Somente um cartaz bonito.",
+      "Promessa sem diagnóstico.",
+      "Indicador definido e registros comparáveis de execução."
+    ],
+    "correta": 2,
+    "explicacao": "Campanha para reduzir desperdício de papel pode acompanhar folhas efetivamente usadas antes/depois em períodos comparáveis. Não se pode converter número de folhas em árvores salvas sem método e limites. Coleta seletiva só funciona como proposta quando há destino confirmado e materiais aceitos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.sustentabilidade.problemas_ambientais_locais",
+    "bncc": [
+      "EF09CI13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um caso bem-sucedido em outra cidade:",
+    "opcoes": [
+      "Dispensa verificar destino dos resíduos.",
+      "Garante resultado idêntico em qualquer escola.",
+      "Pode orientar escolhas, mas precisa de adaptação e avaliação local."
+    ],
+    "correta": 2,
+    "explicacao": "Contexto, recursos e participação condicionam resultados de uma intervenção.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
   }
 ]);
 registrarProvas({
@@ -9263,6 +11973,1421 @@ registrarProvas({
         ],
         "atividadesPraticas": [
           "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia#historia_da_tecnologia.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef08.materia_e_energia.prova": {
+    "id": "cna.ef08.materia_e_energia.prova",
+    "titulo": "Avaliação: Matéria e Energia",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Matéria e Energia",
+    "bncc": [
+      "EF08CI01",
+      "EF08CI02",
+      "EF08CI03",
+      "EF08CI04",
+      "EF08CI05",
+      "EF08CI06"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "6 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 6, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef08.materia_e_energia.prova.01",
+      "cna.ef08.materia_e_energia.prova.02",
+      "cna.ef08.materia_e_energia.prova.03",
+      "cna.ef08.materia_e_energia.prova.04",
+      "cna.ef08.materia_e_energia.prova.05",
+      "cna.ef08.materia_e_energia.prova.06"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef08.materia_e_energia.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Matéria e Energia",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF08CI01",
+        "EF08CI02",
+        "EF08CI03",
+        "EF08CI04",
+        "EF08CI05",
+        "EF08CI06"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Fontes e formas de energia na comunidade",
+          "enunciado": "Inventarie cinco usos de energia na escola ou comunidade sem expor endereços ou contas pessoais. Para cada um, diferencie fonte conhecida, forma de energia e transformação. Consulte a origem do fornecimento em fonte institucional e registre o que não pôde confirmar; compare renovabilidade, disponibilidade e um impacto.",
+          "gabarito": "Exigir cinco relações justificadas, fonte rastreável e distinção entre recurso e forma. Não inferir a origem de toda eletricidade apenas olhando a tomada nem classificar toda biomassa como automaticamente sustentável.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir cinco relações justificadas, fonte rastreável e distinção entre recurso e forma. Não inferir a origem de toda eletricidade apenas olhando a tomada nem classificar toda biomassa como automaticamente sustentável.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI01"
+          ],
+          "atividadeOrigem": "cna.ef08.fontes_de_energia.renovaveis#renovaveis.investigacao"
+        },
+        {
+          "titulo": "Circuitos: continuidade e caminhos da corrente",
+          "enunciado": "Com professor e suporte próprio, monte circuito de uma ou duas pilhas AA de 1,5 V e lâmpada compatível, fios isolados e interruptor. Desligue antes de alterar; não conecte polos diretamente, não use pilha danificada, bateria de lítio ou tomada. Registre previsão, desenho das conexões e resultado aberto/fechado; compare série/paralelo por segundo modelo seguro ou simulação identificada e explique o limite residencial.",
+          "gabarito": "Exigir construção efetiva ou registrar simulação como alternativa, esquema de caminho fechado e comparação com ramos residenciais. Não tratar desenho como execução nem manipular instalação elétrica. Professor interrompe qualquer aquecimento do suporte.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir construção efetiva ou registrar simulação como alternativa, esquema de caminho fechado e comparação com ramos residenciais. Não tratar desenho como execução nem manipular instalação elétrica. Professor interrompe qualquer aquecimento do suporte.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI02"
+          ],
+          "atividadeOrigem": "cna.ef08.circuitos_eletricos.pilhas_e_baterias#pilhas_e_baterias.investigacao"
+        },
+        {
+          "titulo": "Equipamentos e transformações de energia",
+          "enunciado": "Examine etiquetas ou registros de seis equipamentos, sem desmontar ou ligar aparelhos para o teste. Monte fluxogramas de entrada elétrica, efeito útil e efeitos adicionais. Compare dois equipamentos com funções diferentes e justifique a classificação; para geladeira, represente energia retirada do interior e liberada ao ambiente.",
+          "gabarito": "Exigir seis classificações coerentes, fluxos e efeitos adicionais. Não dizer que energia é consumida no sentido de destruída nem que todo calor gerado é sempre função útil.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir seis classificações coerentes, fluxos e efeitos adicionais. Não dizer que energia é consumida no sentido de destruída nem que todo calor gerado é sempre função útil.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI03"
+          ],
+          "atividadeOrigem": "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica#energia_eletrica_em_termica.investigacao"
+        },
+        {
+          "titulo": "Potência, tempo e consumo em kWh",
+          "enunciado": "Use dados fictícios explícitos de 1200 W/0,5 h e 60 W/5 h por dia, em 30 dias, e calcule os consumos e a soma. Depois analise uma etiqueta fotografada pelo adulto ou documento público de equipamento sem expor conta doméstica; estime tempo, declare hipóteses e discuta ciclos. Não mexa em fiação ou medidor.",
+          "gabarito": "Esperado: 18 e 9 kWh; total 27 kWh. Exigir conversão W/kW e minutos/horas quando necessária, unidade e limites da estimativa. Não confundir kW com kWh nem multiplicar potência máxima da geladeira por todas as horas sem hipótese explícita.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Esperado: 18 e 9 kWh; total 27 kWh. Exigir conversão W/kW e minutos/horas quando necessária, unidade e limites da estimativa. Não confundir kW com kWh nem multiplicar potência máxima da geladeira por todas as horas sem hipótese explícita.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI04"
+          ],
+          "atividadeOrigem": "cna.ef08.consumo_de_energia.potencia#potencia.investigacao"
+        },
+        {
+          "titulo": "Plano coletivo de uso responsável da energia",
+          "enunciado": "Em grupo, faça diagnóstico de um espaço escolar autorizado: função, horários, uso e evidências. Compare duas opções de equipamento por iluminação ou outra função equivalente e dados de eficiência; proponha hábito viável. Execute ação autorizada e registre antes/depois com o mesmo critério, participantes e limites. Sem acesso ao medidor, relate mudança de hábito sem inventar kWh economizados.",
+          "gabarito": "Exigir diagnóstico, critérios de equivalência, plano coletivo e registro da execução ou pendência. Não substituir instalação, desligar equipamento essencial ou prometer economia quantitativa sem método.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir diagnóstico, critérios de equivalência, plano coletivo e registro da execução ou pendência. Não substituir instalação, desligar equipamento essencial ou prometer economia quantitativa sem método.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI05"
+          ],
+          "atividadeOrigem": "cna.ef08.uso_consciente_de_energia.eficiencia_energetica#eficiencia_energetica.investigacao"
+        },
+        {
+          "titulo": "Usinas e caminhos da eletricidade",
+          "enunciado": "Compare hidrelétrica, termelétrica, eólica e fotovoltaica em matriz: transformação, disponibilidade e impactos. Com fonte da distribuidora/operador, desenhe o caminho geral até a comunidade e identifique o que é rede interligada e o que não foi confirmado localmente. Argumente uma escolha considerando moradores e ambiente, sem visitar instalações energizadas.",
+          "gabarito": "Exigir quatro comparações e fonte para o percurso local; não atribuir toda energia de uma cidade à usina mais próxima. Diferenciar geração por turbina de conversão fotovoltaica.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir quatro comparações e fonte para o percurso local; não atribuir toda energia de uma cidade à usina mais próxima. Diferenciar geração por turbina de conversão fotovoltaica.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI06"
+          ],
+          "atividadeOrigem": "cna.ef08.usinas_e_impactos.hidreletricas#hidreletricas.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "EIA — Measuring electricity",
+        "url": "https://www.eia.gov/energyexplained/electricity/measuring-electricity.php",
+        "consulta": "2026-10-30",
+        "uso": "Potência versus energia e conversão W/kW/Wh/kWh; cálculos autorais, sem tarifas ou estatísticas estrangeiras transpostas."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF08CI01",
+        "questoes": [
+          "cna.ef08.materia_e_energia.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.fontes_de_energia.renovaveis#renovaveis.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI02",
+        "questoes": [
+          "cna.ef08.materia_e_energia.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.circuitos_eletricos.pilhas_e_baterias#pilhas_e_baterias.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI03",
+        "questoes": [
+          "cna.ef08.materia_e_energia.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica#energia_eletrica_em_termica.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI04",
+        "questoes": [
+          "cna.ef08.materia_e_energia.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.consumo_de_energia.potencia#potencia.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI05",
+        "questoes": [
+          "cna.ef08.materia_e_energia.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.uso_consciente_de_energia.eficiencia_energetica#eficiencia_energetica.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI06",
+        "questoes": [
+          "cna.ef08.materia_e_energia.prova.06"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.usinas_e_impactos.hidreletricas#hidreletricas.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef08.terra_e_universo.prova": {
+    "id": "cna.ef08.terra_e_universo.prova",
+    "titulo": "Avaliação: Terra e Universo",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "bncc": [
+      "EF08CI12",
+      "EF08CI13",
+      "EF08CI14",
+      "EF08CI15",
+      "EF08CI16"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 5, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef08.terra_e_universo.prova.12",
+      "cna.ef08.terra_e_universo.prova.13",
+      "cna.ef08.terra_e_universo.prova.14",
+      "cna.ef08.terra_e_universo.prova.15",
+      "cna.ef08.terra_e_universo.prova.16"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef08.terra_e_universo.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Terra e Universo",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF08CI12",
+        "EF08CI13",
+        "EF08CI14",
+        "EF08CI15",
+        "EF08CI16"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Fases da Lua e eclipses: luz e posições",
+          "enunciado": "Construa modelo tridimensional de Sol/Terra/Lua com lanterna comum e bolas, sem luz nos olhos. Registre posições em quatro fases e dois tipos de eclipse, com limites de escala. Observe a Lua de local seguro em datas e horários registrados ao longo de um ciclo, com adulto quando necessário, ou use diário institucional identificado; diferencie registros próprios e de fonte. Nunca observe diretamente o Sol nem tente fotografá-lo para o modelo.",
+          "gabarito": "Exigir modelo, relações de iluminação/sombra, inclinação e diário datado ou pendência explícita. Não transformar simulação em observação do céu nem concluir fases como eclipses recorrentes. Nuvens ou Lua não visível são condições a registrar.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir modelo, relações de iluminação/sombra, inclinação e diário datado ou pendência explícita. Não transformar simulação em observação do céu nem concluir fases como eclipses recorrentes. Nuvens ou Lua não visível são condições a registrar.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI12"
+          ],
+          "atividadeOrigem": "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua#movimentos_da_lua.investigacao"
+        },
+        {
+          "titulo": "Estações: inclinação do eixo e translação",
+          "enunciado": "Use globo ou bola com eixo inclinado e lanterna em posição fixa; mantenha direção do eixo ao representar quatro posições orbitais. Registre hemisfério mais iluminado, duração relativa do dia e estação. Compare com caso sem inclinação e explique por que aproximar toda a bola da lanterna não explica estações opostas. Marque modelo fora de escala.",
+          "gabarito": "Exigir modelo tridimensional com direção coerente do eixo e distinção rotação/translação. Não inclinar eixo ora para o Sol ora contra ele para produzir artificialmente o resultado. Reconhecer diversidade climática brasileira.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir modelo tridimensional com direção coerente do eixo e distinção rotação/translação. Não inclinar eixo ora para o Sol ora contra ele para produzir artificialmente o resultado. Reconhecer diversidade climática brasileira.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI13"
+          ],
+          "atividadeOrigem": "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao#rotacao_e_translacao.investigacao"
+        },
+        {
+          "titulo": "Climas e circulação de ar e oceanos",
+          "enunciado": "Produza esquema ligando incidência desigual, diferenças de pressão, ventos e transporte oceânico. Compare duas regiões com fonte climática de período identificado, incluindo latitude, relevo e influência marítima. Formule explicação com pelo menos três fatores e indique limites dos dados; não invente medições locais nem tente reproduzir circulação planetária com chama.",
+          "gabarito": "Exigir cadeia causal, correntes e três fatores regionais com fonte/período. Não reduzir clima à latitude isolada nem declarar que todo movimento oceânico depende apenas da temperatura.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir cadeia causal, correntes e três fatores regionais com fonte/período. Não reduzir clima à latitude isolada nem declarar que todo movimento oceânico depende apenas da temperatura.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI14"
+          ],
+          "atividadeOrigem": "cna.ef08.clima_e_tempo.clima_x_tempo#clima_x_tempo.investigacao"
+        },
+        {
+          "titulo": "Previsão do tempo: variáveis e medições",
+          "enunciado": "Planeje uma estação segura e simule fichas de coleta para cinco variáveis, com instrumento e unidade apropriados. Com professor, registre ao menos temperatura e condições do céu em horários comparáveis por vários dias; use dados institucionais identificados para variáveis não medidas. Compare previsão arquivada com observação, distinguindo simulado, medido e consultado; descreva incertezas.",
+          "gabarito": "Exigir plano, registros datados e confronto previsão/observação com limitações. Não usar vidro cortante, mercúrio ou instalar instrumentos em telhados; não misturar dado de outra estação com medida própria.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir plano, registros datados e confronto previsão/observação com limitações. Não usar vidro cortante, mercúrio ou instalar instrumentos em telhados; não misturar dado de outra estação com medida própria.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI15"
+          ],
+          "atividadeOrigem": "cna.ef08.clima_e_tempo.previsao_do_tempo#previsao_do_tempo.investigacao"
+        },
+        {
+          "titulo": "Mudanças climáticas: diagnóstico e ação",
+          "enunciado": "Use fonte climática institucional para identificar uma alteração global e uma questão regional com período e limites. Faça matriz de duas ações de mitigação e duas de adaptação, responsáveis, viabilidade e grupos atendidos. Execute uma ação escolar autorizada e registre indicador, resultado e pendências, sem converter ação em toneladas de carbono sem método.",
+          "gabarito": "Exigir vínculo causa/ação, distinção mitigação/adaptação, fonte e avaliação da execução. Não garantir restauração total de equilíbrio por ação única nem atribuir toda enchente automaticamente a uma causa exclusiva.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir vínculo causa/ação, distinção mitigação/adaptação, fonte e avaliação da execução. Não garantir restauração total de equilíbrio por ação única nem atribuir toda enchente automaticamente a uma causa exclusiva.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI16"
+          ],
+          "atividadeOrigem": "cna.ef08.mudancas_climaticas.aquecimento_global#aquecimento_global.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Moon Phases",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Iluminação, perspectiva e inclinação; lado iluminado em referência do hemisfério norte não é regra visual universal. Modelo e diário autorais."
+      },
+      {
+        "documento": "NASA — What is the greenhouse effect?",
+        "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+        "consulta": "2026-10-30",
+        "uso": "Mecanismo e intensificação antrópica previamente consultados; projetos autorais sem equivalências de carbono inventadas."
+      },
+      {
+        "documento": "NOAA — Ocean currents",
+        "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+        "consulta": "2026-10-30",
+        "uso": "Ventos e densidade por temperatura/salinidade na circulação; transporte energético e influência climática, sem inferência de clima local sem séries."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF08CI12",
+        "questoes": [
+          "cna.ef08.terra_e_universo.prova.12"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua#movimentos_da_lua.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI13",
+        "questoes": [
+          "cna.ef08.terra_e_universo.prova.13"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao#rotacao_e_translacao.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI14",
+        "questoes": [
+          "cna.ef08.terra_e_universo.prova.14"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.clima_e_tempo.clima_x_tempo#clima_x_tempo.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI15",
+        "questoes": [
+          "cna.ef08.terra_e_universo.prova.15"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.clima_e_tempo.previsao_do_tempo#previsao_do_tempo.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI16",
+        "questoes": [
+          "cna.ef08.terra_e_universo.prova.16"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.mudancas_climaticas.aquecimento_global#aquecimento_global.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef08.vida_e_evolucao.prova": {
+    "id": "cna.ef08.vida_e_evolucao.prova",
+    "titulo": "Avaliação: Vida e Evolução",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Vida e Evolução",
+    "bncc": [
+      "EF08CI07",
+      "EF08CI08",
+      "EF08CI09",
+      "EF08CI10",
+      "EF08CI11"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 5, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef08.vida_e_evolucao.prova.07",
+      "cna.ef08.vida_e_evolucao.prova.08",
+      "cna.ef08.vida_e_evolucao.prova.09",
+      "cna.ef08.vida_e_evolucao.prova.10",
+      "cna.ef08.vida_e_evolucao.prova.11"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef08.vida_e_evolucao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Vida e Evolução",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF08CI07",
+        "EF08CI08",
+        "EF08CI09",
+        "EF08CI10",
+        "EF08CI11"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Reprodução e diversidade: comparar estratégias",
+          "enunciado": "Construa quadro de propagação vegetativa, reprodução por sementes em planta com flor e dois processos de animais estudados em fonte. Compare gametas, descendentes, rapidez contextual e possíveis vantagens/limites diante de ambiente que muda. Use sequências desenhadas com legenda, sem coleta ou criação de animais.",
+          "gabarito": "Exigir mecanismos de plantas e animais e relação contextual com variabilidade/adaptação. Não afirmar que todo descendente sexuado é necessariamente melhor ou que assexuados nunca apresentam variação.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir mecanismos de plantas e animais e relação contextual com variabilidade/adaptação. Não afirmar que todo descendente sexuado é necessariamente melhor ou que assexuados nunca apresentam variação.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI07"
+          ],
+          "atividadeOrigem": "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada#reproducao_sexuada.investigacao"
+        },
+        {
+          "titulo": "Puberdade: sinais hormonais e diversidade dos corpos",
+          "enunciado": "Produza esquema de regulação e relacione três mudanças da puberdade aos sinais hormonais em termos gerais. Analise um caso fictício de colegas com ritmos diferentes e escreva resposta respeitosa que separe explicação biológica de julgamento. Use perguntas anônimas mediadas; não solicite medidas, fotos, relatos íntimos ou diagnóstico de colegas.",
+          "gabarito": "Exigir integração nervoso/endócrino, três mudanças e reconhecimento da variação. Não atribuir tudo a um hormônio isolado nem declarar atraso clínico a partir do caso fictício.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir integração nervoso/endócrino, três mudanças e reconhecimento da variação. Não atribuir tudo a um hormônio isolado nem declarar atraso clínico a partir do caso fictício.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI08"
+          ],
+          "atividadeOrigem": "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade#mudancas_na_puberdade.investigacao"
+        },
+        {
+          "titulo": "Contracepção: mecanismos, eficácia e responsabilidade",
+          "enunciado": "Leia a comparação incorporada e faça tabela com mecanismo, estimativas e proteção contra IST dos três métodos. Explique denominador/período, por que uso habitual difere do correto e por que prevenção não pode recair em uma só pessoa. Analise decisão de personagens fictícios com acesso a informação e serviço de saúde; não prescreva método, doses ou exponha experiências pessoais.",
+          "gabarito": "Exigir comparação dos três métodos, unidades das estimativas, distinção gravidez/IST e responsabilidade compartilhada. Não somar percentuais para inventar proteção combinada, nem interpretar taxa anual como risco em cada relação. Registrar fonte OMS e limite de indicação individual.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir comparação dos três métodos, unidades das estimativas, distinção gravidez/IST e responsabilidade compartilhada. Não somar percentuais para inventar proteção combinada, nem interpretar taxa anual como risco em cada relação. Registrar fonte OMS e limite de indicação individual.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI09"
+          ],
+          "atividadeOrigem": "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos#metodos_contraceptivos.investigacao"
+        },
+        {
+          "titulo": "IST, HIV e prevenção sem estigma",
+          "enunciado": "Crie quadro de HIV, sífilis e HPV: possíveis sinais/ausência deles, vias e limites de transmissão, prevenção e tratamento geral com fonte institucional. Corrija dois mitos de um caso fictício, incluindo discriminação por convívio. Justifique procurar serviço para testagem e cuidado em vez de diagnosticar por aparência. Não use histórias íntimas, imagens de lesões ou demonstrações corporais.",
+          "gabarito": "Exigir três infecções, prevenção e distinção HIV/aids, ausência de transmissão pelo convívio e limite dos sintomas. Verificar fonte atual para sífilis/HPV; não indicar fármaco ou dose. Sem dado confirmado, registrar pesquisa pendente, nunca preencher com suposição.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir três infecções, prevenção e distinção HIV/aids, ausência de transmissão pelo convívio e limite dos sintomas. Verificar fonte atual para sífilis/HPV; não indicar fármaco ou dose. Sem dado confirmado, registrar pesquisa pendente, nunca preencher com suposição.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI10"
+          ],
+          "atividadeOrigem": "cna.ef08.dst_e_prevencao.o_que_sao_dst#o_que_sao_dst.investigacao"
+        },
+        {
+          "titulo": "Sexualidade: dimensões e respeito",
+          "enunciado": "Analise três casos inteiramente fictícios: pressão para expor mensagem, estereótipo sobre quem deve cuidar da prevenção e desrespeito a uma recusa. Identifique dimensões biológica quando pertinente, social, afetiva e ética; defenda uma resposta com respeito, responsabilidade e privacidade. Produza acordo de discussão sem nomes reais e sem relatos íntimos.",
+          "gabarito": "Exigir argumentos contextualizados em múltiplas dimensões e identificação de pressão/estereótipo. Não premiar exposição pessoal nem avaliar identidade ou crença individual. Distinguir discordar de ideia e discriminar pessoa.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir argumentos contextualizados em múltiplas dimensões e identificação de pressão/estereótipo. Não premiar exposição pessoal nem avaliar identidade ou crença individual. Distinguir discordar de ideia e discriminar pessoa.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF08CI11"
+          ],
+          "atividadeOrigem": "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade#dimensoes_da_sexualidade.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NICHD — Causes of puberty",
+        "url": "https://www.nichd.nih.gov/health/topics/puberty/conditioninfo/causes",
+        "consulta": "2026-10-30",
+        "uso": "Regulação hipotálamo/hipófise/gônadas; não transforma modelo em diagnóstico ou faixa etária universal."
+      },
+      {
+        "documento": "WHO — HIV and AIDS",
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/hiv-aids",
+        "consulta": "2026-10-30",
+        "uso": "Infecção/estágio avançado, transmissão, ausência de transmissão pelo convívio e tratamento geral; não usa estatísticas atuais ou doses."
+      },
+      {
+        "documento": "WHO — Syphilis",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/syphilis",
+        "consulta": "2026-10-30",
+        "uso": "Sintomas/ausência deles, vias, prevenção e tratamento antibiótico geral, sem diagnóstico ou prescrição."
+      },
+      {
+        "documento": "WHO — Human papillomavirus and cancer",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer/",
+        "consulta": "2026-10-30",
+        "uso": "Infecção frequentemente sem sinais, verrugas, prevenção e tratamento de lesões; não transpõe calendário internacional."
+      },
+      {
+        "documento": "WHO — Mechanisms of action and effectiveness of contraceptive methods",
+        "url": "https://cdn.who.int/media/docs/default-source/reproductive-health/contraception-family-planning/mechanisms-of-action-and-effectiveness-of-contraception-methods.pdf?sfvrsn=e39",
+        "consulta": "2026-10-30",
+        "uso": "Tabela consultada, página PDF 1: três métodos e estimativas anuais por 100 usuárias, separando uso correto e habitual. Não é prescrição ou taxa por relação."
+      },
+      {
+        "documento": "WHO — Family planning/contraception methods",
+        "url": "https://www.who.int/en/news-room/fact-sheets/detail/family-planning-contraception",
+        "consulta": "2026-10-30",
+        "uso": "Direito à informação e distinção de contracepção e prevenção de IST, sem indicação individual."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF08CI07",
+        "questoes": [
+          "cna.ef08.vida_e_evolucao.prova.07"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada#reproducao_sexuada.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI08",
+        "questoes": [
+          "cna.ef08.vida_e_evolucao.prova.08"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade#mudancas_na_puberdade.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI09",
+        "questoes": [
+          "cna.ef08.vida_e_evolucao.prova.09"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos#metodos_contraceptivos.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI10",
+        "questoes": [
+          "cna.ef08.vida_e_evolucao.prova.10"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.dst_e_prevencao.o_que_sao_dst#o_que_sao_dst.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF08CI11",
+        "questoes": [
+          "cna.ef08.vida_e_evolucao.prova.11"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef08.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade#dimensoes_da_sexualidade.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef09.materia_e_energia.prova": {
+    "id": "cna.ef09.materia_e_energia.prova",
+    "titulo": "Avaliação: Matéria e Energia",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Matéria e Energia",
+    "bncc": [
+      "EF09CI01",
+      "EF09CI02",
+      "EF09CI03",
+      "EF09CI04",
+      "EF09CI05",
+      "EF09CI06",
+      "EF09CI07"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "7 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 7, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef09.materia_e_energia.prova.01",
+      "cna.ef09.materia_e_energia.prova.02",
+      "cna.ef09.materia_e_energia.prova.03",
+      "cna.ef09.materia_e_energia.prova.04",
+      "cna.ef09.materia_e_energia.prova.05",
+      "cna.ef09.materia_e_energia.prova.06",
+      "cna.ef09.materia_e_energia.prova.07"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef09.materia_e_energia.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Matéria e Energia",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF09CI01",
+        "EF09CI02",
+        "EF09CI03",
+        "EF09CI04",
+        "EF09CI05",
+        "EF09CI06",
+        "EF09CI07"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Estados físicos em modelos de partículas",
+          "enunciado": "Observe fusão de gelo em recipiente seguro sem aquecimento direto, registrando condições e tempos. Represente antes/depois por partículas de mesmo tamanho e identidade e explique energia/interações. Compare com registro identificado de ebulição, distinguindo da evaporação. Se não medir temperatura, não desenhe curva experimental fictícia; uma curva hipotética deve ser rotulada.",
+          "gabarito": "Exigir observação real ou fonte identificada, identidade preservada e modelo coerente. Não dizer que partícula sólida para completamente nem que todo material funde na mesma temperatura.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir observação real ou fonte identificada, identidade preservada e modelo coerente. Não dizer que partícula sólida para completamente nem que todo material funde na mesma temperatura.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI01"
+          ],
+          "atividadeOrigem": "cna.ef09.estados_e_modelos.modelo_submicroscopico#modelo_submicroscopico.investigacao"
+        },
+        {
+          "titulo": "Massas em reações: conservação e proporção",
+          "enunciado": "Analise os dados simulados 3:2:5 e construa tabela para o dobro e a metade, indicando unidades, sistema e hipótese de reação completa. Em segundo caso, há 6 g de magnésio e 5 g de oxigênio: determine produto e sobra. Compare com sistema aberto que libera gás, usando descrição/modelo, sem fogo, reagentes metálicos ou frascos fechados.",
+          "gabarito": "Esperado: dobro 6+4=10 g; metade 1,5+1=2,5 g; no segundo caso 10 g de produto e 1 g de oxigênio restante, total 11 g. Exigir conservação e proporção, distinguindo sobra de produto. Não tratar dados simulados como medições.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Esperado: dobro 6+4=10 g; metade 1,5+1=2,5 g; no segundo caso 10 g de produto e 1 g de oxigênio restante, total 11 g. Exigir conservação e proporção, distinguindo sobra de produto. Não tratar dados simulados como medições.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI02"
+          ],
+          "atividadeOrigem": "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos#reagentes_e_produtos.investigacao"
+        },
+        {
+          "titulo": "Átomos, moléculas e história dos modelos",
+          "enunciado": "Crie linha de modelos Dalton/Thomson/Rutherford/Bohr com mudança principal e evidência ou problema que motivou revisão, usando fonte identificada. Monte representações de H₂O e O₂ e conte átomos/elementos. Acrescente aviso sobre escala e limites das órbitas desenhadas, comparando modelo histórico com descrição atual qualitativa.",
+          "gabarito": "Exigir quatro modelos contextualizados, distinção átomo/molécula e contagem 3 átomos/2 elementos para H₂O, 2 átomos/1 elemento para O₂. Não chamar modelos antigos de fotografias falsas nem Bohr de descrição universal final.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir quatro modelos contextualizados, distinção átomo/molécula e contagem 3 átomos/2 elementos para H₂O, 2 átomos/1 elemento para O₂. Não chamar modelos antigos de fotografias falsas nem Bohr de descrição universal final.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI03"
+          ],
+          "atividadeOrigem": "cna.ef09.estrutura_da_materia.atomos#atomos.investigacao"
+        },
+        {
+          "titulo": "Cores da luz e cor dos objetos",
+          "enunciado": "Planeje e execute com professor sobreposição de três lanternas/LEDs didáticos de baixa intensidade em superfície clara, sem laser ou luz nos olhos; registre intensidades, áreas e cores percebidas. Compare objeto sob iluminação branca, vermelha e verde. Se usar tela RGB ou simulação por falta de material, identifique essa execução e não a chame de teste físico do papel. Explique diferença de tintas e limites da gama.",
+          "gabarito": "Exigir plano, execução registrada, comparação luz/objeto e síntese aditiva. Não prometer todas as cores espectrais pelo RGB nem usar mistura de pigmentos como resultado equivalente. Aceitar descrição e instrumentos acessíveis sem avaliar estudante pela percepção cromática individual.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir plano, execução registrada, comparação luz/objeto e síntese aditiva. Não prometer todas as cores espectrais pelo RGB nem usar mistura de pigmentos como resultado equivalente. Aceitar descrição e instrumentos acessíveis sem avaliar estudante pela percepção cromática individual.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI04"
+          ],
+          "atividadeOrigem": "cna.ef09.luz_e_cores.decomposicao_da_luz#decomposicao_da_luz.investigacao"
+        },
+        {
+          "titulo": "Do som e imagem ao sinal de comunicação",
+          "enunciado": "Desenhe cadeias de captação, codificação, transmissão e recepção para áudio e imagem, comparando rádio analógico e chamada digital por fonte. Simule codificação de imagem em grade de 4×4 com valores combinados, transmita por cartões e reconstrua sem ver o original. Compare erros e resolução; não grave colegas nem compartilhe dados pessoais.",
+          "gabarito": "Exigir cadeias com transformações nas duas extremidades, meio de transmissão e simulação com registro. Não confundir som no ar com onda eletromagnética ou código digital com objeto físico que dispensa suporte.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir cadeias com transformações nas duas extremidades, meio de transmissão e simulação com registro. Não confundir som no ar com onda eletromagnética ou código digital com objeto físico que dispensa suporte.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI05"
+          ],
+          "atividadeOrigem": "cna.ef09.imagem_e_som.ondas#ondas.investigacao"
+        },
+        {
+          "titulo": "Espectro eletromagnético e aplicações",
+          "enunciado": "Monte faixa ordenada com frequência relativa, fonte e aplicação para sete regiões. Compare controle remoto, telefone, forno e radiografia: benefício, tipo e cuidado de uso conforme fonte. Explique a posição do visível e por que ultrassom fica fora do mapa; use apenas descrição/modelo, sem desmontar ou testar exposição.",
+          "gabarito": "Exigir ordem coerente, aplicações e avaliação contextual de riscos. Não afirmar que toda radiação é nuclear ou que micro-ondas irradiam alimento de modo a torná-lo radioativo. Não operar emissor aberto ou fonte UV/X.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir ordem coerente, aplicações e avaliação contextual de riscos. Não afirmar que toda radiação é nuclear ou que micro-ondas irradiam alimento de modo a torná-lo radioativo. Não operar emissor aberto ou fonte UV/X.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI06"
+          ],
+          "atividadeOrigem": "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico#espectro_eletromagnetico.investigacao"
+        },
+        {
+          "titulo": "Tecnologia na saúde: imagens e tratamentos",
+          "enunciado": "Faça quadro de radiografia, ultrassom, ressonância e radioterapia com energia/onda, mecanismo geral e finalidade. Relacione uma melhoria tecnológica a benefício e limite, consultando fonte institucional. Analise caso fictício em que se confundem exame e tratamento e corrija a explicação sem prescrever procedimentos nem usar imagens clínicas de colegas.",
+          "gabarito": "Exigir distinção sonora/eletromagnética, ionizante/não ionizante e diagnóstico/tratamento. Não afirmar que toda técnica citada pela BNCC usa radiação eletromagnética, pois ultrassom é mecânico. Segurança deve permanecer decisão profissional.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir distinção sonora/eletromagnética, ionizante/não ionizante e diagnóstico/tratamento. Não afirmar que toda técnica citada pela BNCC usa radiação eletromagnética, pois ultrassom é mecânico. Segurança deve permanecer decisão profissional.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI07"
+          ],
+          "atividadeOrigem": "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem#diagnostico_por_imagem.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78
+        ],
+        "paginasImpressas": "72–78",
+        "uso": "Estados e transformações consultados criticamente. Corrige simplificações: líquido tem volume aproximadamente definido, sólidos amorfos são sólidos e evaporação não se distingue de ebulição apenas por rapidez."
+      },
+      {
+        "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+        "url": "https://science.nasa.gov/ems/01_intro/",
+        "consulta": "2026-10-30",
+        "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+      },
+      {
+        "documento": "NIBIB — Magnetic Resonance Imaging",
+        "url": "https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+        "consulta": "2026-10-30",
+        "uso": "Campo magnético/radiofrequência e mecanismo geral, sem confundir ausência de raios X com ausência de cuidados."
+      },
+      {
+        "documento": "NIBIB — Ultrasound",
+        "url": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound",
+        "consulta": "2026-10-30",
+        "uso": "Ondas sonoras, ecos e limites de segurança; distinção de radiação eletromagnética."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          72,
+          73
+        ],
+        "paginasImpressas": "72–73",
+        "uso": "Átomos e moléculas como apoio inicial; não universaliza estrutura molecular a todo material."
+      },
+      {
+        "documento": "RSC — The atom detectives",
+        "url": "https://edu.rsc.org/resources/the-atom-detectives/1332.article",
+        "consulta": "2026-10-30",
+        "uso": "Descrição institucional recuperada por busca sobre desenvolvimento de modelos; abertura direta retornou 405. Sem afirmar leitura integral, inspeção de ilustrações ou anexos."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF09CI01",
+        "questoes": [
+          "cna.ef09.materia_e_energia.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.estados_e_modelos.modelo_submicroscopico#modelo_submicroscopico.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI02",
+        "questoes": [
+          "cna.ef09.materia_e_energia.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos#reagentes_e_produtos.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI03",
+        "questoes": [
+          "cna.ef09.materia_e_energia.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.estrutura_da_materia.atomos#atomos.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI04",
+        "questoes": [
+          "cna.ef09.materia_e_energia.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.luz_e_cores.decomposicao_da_luz#decomposicao_da_luz.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI05",
+        "questoes": [
+          "cna.ef09.materia_e_energia.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.imagem_e_som.ondas#ondas.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI06",
+        "questoes": [
+          "cna.ef09.materia_e_energia.prova.06"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico#espectro_eletromagnetico.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI07",
+        "questoes": [
+          "cna.ef09.materia_e_energia.prova.07"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.materia_e_energia.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem#diagnostico_por_imagem.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef09.terra_e_universo.prova": {
+    "id": "cna.ef09.terra_e_universo.prova",
+    "titulo": "Avaliação: Terra e Universo",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Terra e Universo",
+    "bncc": [
+      "EF09CI14",
+      "EF09CI15",
+      "EF09CI16",
+      "EF09CI17"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 4, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef09.terra_e_universo.prova.14",
+      "cna.ef09.terra_e_universo.prova.15",
+      "cna.ef09.terra_e_universo.prova.16",
+      "cna.ef09.terra_e_universo.prova.17"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef09.terra_e_universo.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Terra e Universo",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF09CI14",
+        "EF09CI15",
+        "EF09CI16",
+        "EF09CI17"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Sistema Solar em escalas do Universo",
+          "enunciado": "Organize os oito planetas por ordem e grupo, inclua dois tipos de corpos menores e construa mapa de pertencimento Terra/Sistema Solar/Via Láctea/Universo. Faça um modelo de distâncias com valores de fonte NASA, declarando escala e impossibilidade de usar a mesma escala de tamanhos no espaço disponível. Não apresentar modelo sem dados como mapa medido.",
+          "gabarito": "Exigir ordem Mercúrio,Vênus,Terra,Marte,Júpiter,Saturno,Urano,Netuno, grupos, corpos menores e pertencimento. Não reduzir galáxia ao Sistema Solar nem enumerar planetas anões como lista fechada de três do manual antigo.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir ordem Mercúrio,Vênus,Terra,Marte,Júpiter,Saturno,Urano,Netuno, grupos, corpos menores e pertencimento. Não reduzir galáxia ao Sistema Solar nem enumerar planetas anões como lista fechada de três do manual antigo.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI14"
+          ],
+          "atividadeOrigem": "cna.ef09.sistema_solar.sol#sol.investigacao"
+        },
+        {
+          "titulo": "Céu, culturas e modos de orientar a vida",
+          "enunciado": "Compare os dois recortes documentados Guarani e Tikuna incorporados à teoria, conferindo os artigos identificados nas fontes. Registre nomes, relação com períodos sazonais e atividades, autoria institucional e limites territoriais. Amplie com uma narrativa sobre origem ou orientação de fonte identificada, distinguindo essa investigação do que já foi fornecido. Acrescente explicação astronômica do movimento aparente; não invente tradição nem trate família linguística como povo único.",
+          "gabarito": "Exigir dois recortes identificados corretamente e relações sazonais. A investigação adicional sobre origem/orientação precisa de fonte e permanece pendente sem ela. Não atribuir nomes de uma tradição à outra nem universalizar para todos os territórios.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir dois recortes identificados corretamente e relações sazonais. A investigação adicional sobre origem/orientação precisa de fonte e permanece pendente sem ela. Não atribuir nomes de uma tradição à outra nem universalizar para todos os territórios.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI15"
+          ],
+          "atividadeOrigem": "cna.ef09.astronomia_e_cultura.leituras_do_ceu#leituras_do_ceu.investigacao"
+        },
+        {
+          "titulo": "Vida humana fora da Terra: condições e escalas",
+          "enunciado": "Monte matriz de necessidades humanas, condições de dois destinos estudados em fonte NASA e tecnologia de suporte necessária. Resolva o cálculo idealizado dado e explique três limites para viagem real. Compare interplanetário/interestelar e defenda viabilidade condicionada por evidências, sem anunciar missão futura como fato ou confundir indício de água com vida comprovada.",
+          "gabarito": "Esperado 300 h=12,5 dias sob hipóteses fictícias; exigir cinco necessidades e limites de suporte/logística. Não usar distância variável entre planetas como constante universal nem alegar vida detectada sem fonte explícita.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Esperado 300 h=12,5 dias sob hipóteses fictícias; exigir cinco necessidades e limites de suporte/logística. Não usar distância variável entre planetas como constante universal nem alegar vida detectada sem fonte explícita.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI16"
+          ],
+          "atividadeOrigem": "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida#condicoes_para_a_vida.investigacao"
+        },
+        {
+          "titulo": "História do Sol e destinos estelares",
+          "enunciado": "Construa duas linhas evolutivas qualitativas: estrela de massa solar e estrela muito mais massiva, indicando formação, sequência principal e destinos possíveis. Explique papel de gravidade/fusão e compare tempos qualitativamente. Escreva argumento sobre efeitos da evolução solar na habitabilidade terrestre com fonte, distinguindo projeção de evento observado e sem observar o Sol.",
+          "gabarito": "Exigir linha solar gigante vermelha/perda de camadas/anã branca e comparação condicional de estrela massiva. Não chamar anã branca de estrela de nêutrons, prever supernova solar ou usar fogueira como mecanismo nuclear. Escalas são geológicas/astronômicas.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir linha solar gigante vermelha/perda de camadas/anã branca e comparação condicional de estrela massiva. Não chamar anã branca de estrela de nêutrons, prever supernova solar ou usar fogueira como mecanismo nuclear. Escalas são geológicas/astronômicas.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI17"
+          ],
+          "atividadeOrigem": "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas#nascimento_e_morte_de_estrelas.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Solar System Facts",
+        "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+        "consulta": "2026-10-30",
+        "uso": "Composição e pertencimento galáctico, rochosos/gigantes gasosos/gigantes de gelo; sem contagens mutáveis de satélites."
+      },
+      {
+        "documento": "NASA — Sun Facts",
+        "url": "https://science.nasa.gov/sun/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Formação, fusão, evolução futura e posição galáctica; sem previsões orbitais exatas para a Terra."
+      },
+      {
+        "documento": "NASA — Star Types",
+        "url": "https://science.nasa.gov/universe/stars/types/",
+        "consulta": "2026-10-30",
+        "uso": "Diferenças de massa e evolução; Sol termina como anã branca, não supernova ou buraco negro."
+      },
+      {
+        "documento": "Museu da Vida/Fiocruz — Constelações indígenas: o céu Tupi-Guarani",
+        "url": "https://invivo.fiocruz.br/cienciaetecnologia/ceu-tupi-guarani/",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre interpretações Guarani e relações com sazonalidade; não generaliza a família linguística como povo único nem reproduz pôsteres."
+      },
+      {
+        "documento": "MAST — No Abril Indígena, conheça a interpretação do céu",
+        "url": "https://www.gov.br/mast/pt-br/assuntos/noticias/2023/abril/no-abril-indigena-conheca-a-interpretacao-tikuna-do-ceu",
+        "consulta": "2026-10-30",
+        "uso": "Artigo consultado sobre pesquisa com Tikuna, asterismos e sazonalidade. Vídeos/gravuras vinculados não foram inspecionados; não se declara consulta à entrevista de 2024 restrita por 401."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF09CI14",
+        "questoes": [
+          "cna.ef09.terra_e_universo.prova.14"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.sistema_solar.sol#sol.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI15",
+        "questoes": [
+          "cna.ef09.terra_e_universo.prova.15"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.astronomia_e_cultura.leituras_do_ceu#leituras_do_ceu.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI16",
+        "questoes": [
+          "cna.ef09.terra_e_universo.prova.16"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida#condicoes_para_a_vida.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI17",
+        "questoes": [
+          "cna.ef09.terra_e_universo.prova.17"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.terra_e_universo.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas#nascimento_e_morte_de_estrelas.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef09.vida_e_evolucao.prova": {
+    "id": "cna.ef09.vida_e_evolucao.prova",
+    "titulo": "Avaliação: Vida e Evolução",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "bncc": [
+      "EF09CI08",
+      "EF09CI09",
+      "EF09CI10",
+      "EF09CI11",
+      "EF09CI12",
+      "EF09CI13"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "6 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 6, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+    "questoes": [
+      "cna.ef09.vida_e_evolucao.prova.08",
+      "cna.ef09.vida_e_evolucao.prova.09",
+      "cna.ef09.vida_e_evolucao.prova.10",
+      "cna.ef09.vida_e_evolucao.prova.11",
+      "cna.ef09.vida_e_evolucao.prova.12",
+      "cna.ef09.vida_e_evolucao.prova.13"
+    ],
+    "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+    "avaliacaoPratica": {
+      "id": "cna.ef09.vida_e_evolucao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de investigação: Vida e Evolução",
+      "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+      "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+      "bncc": [
+        "EF09CI08",
+        "EF09CI09",
+        "EF09CI10",
+        "EF09CI11",
+        "EF09CI12",
+        "EF09CI13"
+      ],
+      "rubrica": [
+        "Atende: apresenta registro verificável e explicação coerente.",
+        "Em desenvolvimento: registro parcial com revisão orientada.",
+        "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+      ],
+      "tarefas": [
+        {
+          "titulo": "Gametas e transmissão hereditária",
+          "enunciado": "Use cartões para representar organismo fictício 2n=4, formação de gametas e fecundação. Monte duas combinações possíveis e explique transmissão/variação entre ancestrais e descendentes. Distinga traço hereditário e aprendizagem; trabalhe apenas com genealogia fictícia, sem exigir árvore familiar, teste genético ou análise de colegas.",
+          "gabarito": "Exigir gametas n=2/zigoto 2n=4 no modelo e papel na transmissão. Não tratar toda característica como gene único ou aparência como prova de parentesco. Declarar limites dos cartões.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir gametas n=2/zigoto 2n=4 no modelo e papel na transmissão. Não tratar toda característica como gene único ou aparência como prova de parentesco. Declarar limites dos cartões.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI08"
+          ],
+          "atividadeOrigem": "cna.ef09.hereditariedade.gametas#gametas.investigacao"
+        },
+        {
+          "titulo": "Mendel: segregação e probabilidades",
+          "enunciado": "Construa quadro de Aa × Aa e de Aa × aa para organismos fictícios, com gametas, genótipos e fenótipos sob dominância completa. Compare resultados esperados e frequências de sorteio de cartões em várias rodadas. Relacione aos experimentos históricos de Mendel com ervilhas e discuta limites; não use traços de colegas como teste de herança.",
+          "gabarito": "Esperado Aa×Aa: 25% AA,50% Aa,25% aa e 75% fenótipo dominante; Aa×aa:50% Aa,50% aa, fenótipos1:1. Exigir segregação, probabilidade e distinção de amostra. Não generalizar independência de todos os genes nem dominância completa a todo traço.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Esperado Aa×Aa: 25% AA,50% Aa,25% aa e 75% fenótipo dominante; Aa×aa:50% Aa,50% aa, fenótipos1:1. Exigir segregação, probabilidade e distinção de amostra. Não generalizar independência de todos os genes nem dominância completa a todo traço.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI09"
+          ],
+          "atividadeOrigem": "cna.ef09.genetica_de_mendel.fatores_hereditarios#fatores_hereditarios.investigacao"
+        },
+        {
+          "titulo": "Lamarck e Darwin: comparação histórica",
+          "enunciado": "Leia a síntese incorporada e compare dois argumentos autorais: um atribui mudança herdada ao uso durante a vida; outro à reprodução diferencial de variantes. Faça quadro de semelhanças, diferenças, papel do ambiente e contexto histórico. Consulte trecho de obra histórica identificado para aprofundar, distinguindo paráfrase e citação, e registre a referência ou pendência.",
+          "gabarito": "Exigir transformação como ponto comum, mecanismos diferentes e contexto histórico. Não dizer que Lamarck defendia apenas vontade consciente nem atribuir genes e DNA à explicação original de Darwin. Trecho histórico não fornecido permanece pesquisa pendente, não leitura fingida.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir transformação como ponto comum, mecanismos diferentes e contexto histórico. Não dizer que Lamarck defendia apenas vontade consciente nem atribuir genes e DNA à explicação original de Darwin. Trecho histórico não fornecido permanece pesquisa pendente, não leitura fingida.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI10"
+          ],
+          "atividadeOrigem": "cna.ef09.evolucao.lamarck#lamarck.investigacao"
+        },
+        {
+          "titulo": "Seleção natural em populações variáveis",
+          "enunciado": "Simule três gerações com cartões de duas variantes, fundo definido, regra explícita de retirada e reprodução, anotando quantidades iniciais e finais. Repita com outro fundo ou discuta previsão. Explique variação, herança e reprodução diferencial; diferencie dados da simulação e populações naturais. Não use seres vivos ou selecione estudantes por características corporais.",
+          "gabarito": "Exigir três gerações, regras, contagens e cadeia variação/herança/reprodução. Não dizer que fundo cria intencionalmente variante ou que uma amostra pequena confirma lei universal. Reconhecer limites do modelo e possibilidade de acaso.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir três gerações, regras, contagens e cadeia variação/herança/reprodução. Não dizer que fundo cria intencionalmente variante ou que uma amostra pequena confirma lei universal. Reconhecer limites do modelo e possibilidade de acaso.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI11"
+          ],
+          "atividadeOrigem": "cna.ef09.evolucao.selecao_natural#selecao_natural.investigacao"
+        },
+        {
+          "titulo": "Conservação: categorias, territórios e pessoas",
+          "enunciado": "Compare parque nacional, floresta nacional e reserva extrativista com fonte ICMBio e um plano de manejo real identificado. Registre grupo, objetivo, exemplo de atividade permitida/condicionada e relação com moradores. Justifique proteção de espécies, água e patrimônio cultural; a ausência de consulta ao plano impede afirmar regra local específica. Não coletar organismos ou organizar visita sem autorização.",
+          "gabarito": "Exigir três categorias/grupos, fonte e distinção entre regra geral e local. Não tratar toda reserva como categoria única nem falar por comunidade sem fonte. Atividade local precisa de confirmação documental.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir três categorias/grupos, fonte e distinção entre regra geral e local. Não tratar toda reserva como categoria única nem falar por comunidade sem fonte. Atividade local precisa de confirmação documental.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI12"
+          ],
+          "atividadeOrigem": "cna.ef09.biodiversidade.unidades_de_conservacao#unidades_de_conservacao.investigacao"
+        },
+        {
+          "titulo": "Projeto ambiental com diagnóstico e avaliação",
+          "enunciado": "Escolha problema escolar seguro e consulte um caso de iniciativa com fonte, indicador e resultado identificados. Faça diagnóstico local sem dados pessoais, proponha duas alternativas e selecione uma com custo, responsáveis e destino dos materiais confirmado. Execute lote piloto autorizado e compare indicador antes/depois, registrando limites e revisão. Sem execução, marque projeto pendente.",
+          "gabarito": "Exigir caso rastreável, diagnóstico, escolha justificada e resultado real ou pendência. Não manusear lixo contaminado, atribuir sucesso por slogan ou inventar equivalências de água/carbono/árvores.",
+          "rubrica": [
+            "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+            "Exigir caso rastreável, diagnóstico, escolha justificada e resultado real ou pendência. Não manusear lixo contaminado, atribuir sucesso por slogan ou inventar equivalências de água/carbono/árvores.",
+            "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+          ],
+          "bncc": [
+            "EF09CI13"
+          ],
+          "atividadeOrigem": "cna.ef09.sustentabilidade.problemas_ambientais_locais#problemas_ambientais_locais.investigacao"
+        }
+      ],
+      "correcao": "Docente por tarefa; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          317,
+          318,
+          319,
+          320,
+          321,
+          322
+        ],
+        "paginasImpressas": "317–322",
+        "uso": "Leitura crítica da herança: não reduz todas as características a genes únicos ou exclui ambiente. Não utiliza afirmação universal de mendelismo do manual."
+      },
+      {
+        "documento": "NHGRI — Mendel, Johann (Gregor)",
+        "url": "https://www.genome.gov/genetics-glossary/Gregor-Johann-Mendel",
+        "consulta": "2026-10-30",
+        "uso": "Importância e limites da herança mendeliana; cruzamentos e sorteios autorais com hipóteses explícitas."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          169,
+          170
+        ],
+        "paginasImpressas": "169–170",
+        "uso": "Variação e seleção em gerações; não apresenta seleção como único processo evolutivo, teleologia ou escala de superioridade."
+      },
+      {
+        "documento": "ICMBio — Unidades de Conservação",
+        "url": "https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao",
+        "consulta": "2026-10-30",
+        "uso": "Grupos e categorias consultados; não utiliza quantidade atual como dado fixo nem afirma regras de unidade local sem plano de manejo."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          167,
+          168,
+          169,
+          170
+        ],
+        "paginasImpressas": "167–170",
+        "uso": "Comparação de mecanismos históricos, corrigindo cronologias simplificadas e sem atribuir genética moderna a Darwin; tarefa com obras originais permanece aprofundamento a documentar."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF09CI08",
+        "questoes": [
+          "cna.ef09.vida_e_evolucao.prova.08"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.hereditariedade.gametas#gametas.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI09",
+        "questoes": [
+          "cna.ef09.vida_e_evolucao.prova.09"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.genetica_de_mendel.fatores_hereditarios#fatores_hereditarios.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI10",
+        "questoes": [
+          "cna.ef09.vida_e_evolucao.prova.10"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.evolucao.lamarck#lamarck.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI11",
+        "questoes": [
+          "cna.ef09.vida_e_evolucao.prova.11"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.evolucao.selecao_natural#selecao_natural.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI12",
+        "questoes": [
+          "cna.ef09.vida_e_evolucao.prova.12"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.biodiversidade.unidades_de_conservacao#unidades_de_conservacao.investigacao"
+        ]
+      },
+      {
+        "bncc": "EF09CI13",
+        "questoes": [
+          "cna.ef09.vida_e_evolucao.prova.13"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef09.vida_e_evolucao.pratica"
+        ],
+        "atividadesPraticas": [
+          "cna.ef09.sustentabilidade.problemas_ambientais_locais#problemas_ambientais_locais.investigacao"
         ]
       }
     ]

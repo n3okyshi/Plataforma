@@ -1,0 +1,88 @@
+{
+  "id": "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos",
+  "componente": "cna",
+  "nivel": "EF09",
+  "ordem": 2,
+  "unidade": "Matéria e Energia",
+  "titulo": "Massas em reações: conservação e proporção",
+  "bncc": [
+    "EF09CI02"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Analise os dados simulados 3:2:5 e construa tabela para o dobro e a metade, indicando unidades, sistema e hipótese de reação completa. Em segundo caso, há 6 g de magnésio e 5 g de oxigênio: determine produto e sobra. Compare com sistema aberto que libera gás, usando descrição/modelo, sem fogo, reagentes metálicos ou frascos fechados."
+    ],
+    "resumo": "Massas em reações: conservação e proporção",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Massas em reações: conservação e proporção</h2><h3>Ideias para investigar</h3><p>Em reação química ordinária, a massa total se conserva quando se considera o sistema e todas as entradas/saídas. Substâncias reagem em proporções definidas para uma reação dada; excesso de reagente pode permanecer. Sistema aberto pode perder gás e aparentar perda de massa na parte pesada, sem destruição de matéria. Não se deve fechar reação que libera gás para testar conservação.</p><h3>Exemplo comentado</h3><p>Conjunto didático simulado: 3 g de magnésio reagem com 2 g de oxigênio formando 5 g de óxido de magnésio. Mantidas as condições e sem excesso, 6 g de magnésio exigem 4 g de oxigênio e formam 10 g de produto. Os números são simplificados para cálculo, não instruções de combustão em aula.</p><h3>Observe, registre e explique</h3><p>Analise os dados simulados 3:2:5 e construa tabela para o dobro e a metade, indicando unidades, sistema e hipótese de reação completa. Em segundo caso, há 6 g de magnésio e 5 g de oxigênio: determine produto e sobra. Compare com sistema aberto que libera gás, usando descrição/modelo, sem fogo, reagentes metálicos ou frascos fechados.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "reagentes_e_produtos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No modelo 3 g + 2 g → 5 g, ao dobrar reagentes na mesma proporção obtém-se:",
+      "alternativas": [
+        "10 g de produto.",
+        "5 g obrigatoriamente.",
+        "1 g de produto."
+      ],
+      "correta": 0,
+      "explicacao": "Conjunto didático simulado: 3 g de magnésio reagem com 2 g de oxigênio formando 5 g de óxido de magnésio. Mantidas as condições e sem excesso, 6 g de magnésio exigem 4 g de oxigênio e formam 10 g de produto. Os números são simplificados para cálculo, não instruções de combustão em aula.",
+      "bncc": [
+        "EF09CI02"
+      ]
+    },
+    {
+      "id": "reagentes_e_produtos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Analise os dados simulados 3:2:5 e construa tabela para o dobro e a metade, indicando unidades, sistema e hipótese de reação completa. Em segundo caso, há 6 g de magnésio e 5 g de oxigênio: determine produto e sobra. Compare com sistema aberto que libera gás, usando descrição/modelo, sem fogo, reagentes metálicos ou frascos fechados.",
+      "gabarito": "Esperado: dobro 6+4=10 g; metade 1,5+1=2,5 g; no segundo caso 10 g de produto e 1 g de oxigênio restante, total 11 g. Exigir conservação e proporção, distinguindo sobra de produto. Não tratar dados simulados como medições.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Esperado: dobro 6+4=10 g; metade 1,5+1=2,5 g; no segundo caso 10 g de produto e 1 g de oxigênio restante, total 11 g. Exigir conservação e proporção, distinguindo sobra de produto. Não tratar dados simulados como medições.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF09CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        353
+      ],
+      "paginasImpressas": "351",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Transformações Químicas Quantitativas",
+    "titulo": "Reagentes e Produtos"
+  }
+}

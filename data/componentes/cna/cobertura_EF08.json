@@ -1,0 +1,263 @@
+{
+  "nivel": "EF08",
+  "estado": "piloto_nucleo",
+  "limites": "Recortes em sequências amplas; demais tópicos e dimensões exigem revisão/autoria e execução real. Vínculo não comprova domínio.",
+  "habilidades": [
+    {
+      "codigo": "EF08CI01",
+      "aulas": [
+        "cna.ef08.fontes_de_energia.renovaveis"
+      ],
+      "atividades": [
+        "cna.ef08.fontes_de_energia.renovaveis#renovaveis.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.materia_e_energia.treino.01"
+      ],
+      "questoesProva": [
+        "cna.ef08.materia_e_energia.prova.01"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI02",
+      "aulas": [
+        "cna.ef08.circuitos_eletricos.pilhas_e_baterias"
+      ],
+      "atividades": [
+        "cna.ef08.circuitos_eletricos.pilhas_e_baterias#pilhas_e_baterias.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.materia_e_energia.treino.02"
+      ],
+      "questoesProva": [
+        "cna.ef08.materia_e_energia.prova.02"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI03",
+      "aulas": [
+        "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica"
+      ],
+      "atividades": [
+        "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica#energia_eletrica_em_termica.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.materia_e_energia.treino.03"
+      ],
+      "questoesProva": [
+        "cna.ef08.materia_e_energia.prova.03"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI04",
+      "aulas": [
+        "cna.ef08.consumo_de_energia.potencia"
+      ],
+      "atividades": [
+        "cna.ef08.consumo_de_energia.potencia#potencia.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.materia_e_energia.treino.04"
+      ],
+      "questoesProva": [
+        "cna.ef08.materia_e_energia.prova.04"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI05",
+      "aulas": [
+        "cna.ef08.uso_consciente_de_energia.eficiencia_energetica"
+      ],
+      "atividades": [
+        "cna.ef08.uso_consciente_de_energia.eficiencia_energetica#eficiencia_energetica.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.materia_e_energia.treino.05"
+      ],
+      "questoesProva": [
+        "cna.ef08.materia_e_energia.prova.05"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI06",
+      "aulas": [
+        "cna.ef08.usinas_e_impactos.hidreletricas"
+      ],
+      "atividades": [
+        "cna.ef08.usinas_e_impactos.hidreletricas#hidreletricas.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.materia_e_energia.treino.06"
+      ],
+      "questoesProva": [
+        "cna.ef08.materia_e_energia.prova.06"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI07",
+      "aulas": [
+        "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada"
+      ],
+      "atividades": [
+        "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada#reproducao_sexuada.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.vida_e_evolucao.treino.07"
+      ],
+      "questoesProva": [
+        "cna.ef08.vida_e_evolucao.prova.07"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI08",
+      "aulas": [
+        "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade"
+      ],
+      "atividades": [
+        "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade#mudancas_na_puberdade.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.vida_e_evolucao.treino.08"
+      ],
+      "questoesProva": [
+        "cna.ef08.vida_e_evolucao.prova.08"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI09",
+      "aulas": [
+        "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos"
+      ],
+      "atividades": [
+        "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos#metodos_contraceptivos.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.vida_e_evolucao.treino.09"
+      ],
+      "questoesProva": [
+        "cna.ef08.vida_e_evolucao.prova.09"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI10",
+      "aulas": [
+        "cna.ef08.dst_e_prevencao.o_que_sao_dst"
+      ],
+      "atividades": [
+        "cna.ef08.dst_e_prevencao.o_que_sao_dst#o_que_sao_dst.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.vida_e_evolucao.treino.10"
+      ],
+      "questoesProva": [
+        "cna.ef08.vida_e_evolucao.prova.10"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI11",
+      "aulas": [
+        "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade"
+      ],
+      "atividades": [
+        "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade#dimensoes_da_sexualidade.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.vida_e_evolucao.treino.11"
+      ],
+      "questoesProva": [
+        "cna.ef08.vida_e_evolucao.prova.11"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI12",
+      "aulas": [
+        "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua"
+      ],
+      "atividades": [
+        "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua#movimentos_da_lua.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.terra_e_universo.treino.12"
+      ],
+      "questoesProva": [
+        "cna.ef08.terra_e_universo.prova.12"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI13",
+      "aulas": [
+        "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao"
+      ],
+      "atividades": [
+        "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao#rotacao_e_translacao.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.terra_e_universo.treino.13"
+      ],
+      "questoesProva": [
+        "cna.ef08.terra_e_universo.prova.13"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI14",
+      "aulas": [
+        "cna.ef08.clima_e_tempo.clima_x_tempo"
+      ],
+      "atividades": [
+        "cna.ef08.clima_e_tempo.clima_x_tempo#clima_x_tempo.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.terra_e_universo.treino.14"
+      ],
+      "questoesProva": [
+        "cna.ef08.terra_e_universo.prova.14"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI15",
+      "aulas": [
+        "cna.ef08.clima_e_tempo.previsao_do_tempo"
+      ],
+      "atividades": [
+        "cna.ef08.clima_e_tempo.previsao_do_tempo#previsao_do_tempo.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.terra_e_universo.treino.15"
+      ],
+      "questoesProva": [
+        "cna.ef08.terra_e_universo.prova.15"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF08CI16",
+      "aulas": [
+        "cna.ef08.mudancas_climaticas.aquecimento_global"
+      ],
+      "atividades": [
+        "cna.ef08.mudancas_climaticas.aquecimento_global#aquecimento_global.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef08.terra_e_universo.treino.16"
+      ],
+      "questoesProva": [
+        "cna.ef08.terra_e_universo.prova.16"
+      ],
+      "homologacaoDocente": "pendente"
+    }
+  ]
+}

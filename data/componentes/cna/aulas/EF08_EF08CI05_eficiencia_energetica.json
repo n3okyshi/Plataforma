@@ -1,0 +1,88 @@
+{
+  "id": "cna.ef08.uso_consciente_de_energia.eficiencia_energetica",
+  "componente": "cna",
+  "nivel": "EF08",
+  "ordem": 5,
+  "unidade": "Matéria e Energia",
+  "titulo": "Plano coletivo de uso responsável da energia",
+  "bncc": [
+    "EF08CI05"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Em grupo, faça diagnóstico de um espaço escolar autorizado: função, horários, uso e evidências. Compare duas opções de equipamento por iluminação ou outra função equivalente e dados de eficiência; proponha hábito viável. Execute ação autorizada e registre antes/depois com o mesmo critério, participantes e limites. Sem acesso ao medidor, relate mudança de hábito sem inventar kWh economizados."
+    ],
+    "resumo": "Plano coletivo de uso responsável da energia",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Plano coletivo de uso responsável da energia</h2><h3>Ideias para investigar</h3><p>Uma ação de economia precisa de diagnóstico, comparação de equipamentos com função equivalente, execução e acompanhamento. Eficiência relaciona efeito útil e energia utilizada; potência menor, isoladamente, não prova melhor eficiência. Conforto, acessibilidade, ventilação e segurança também entram na decisão.</p><h3>Exemplo comentado</h3><p>Comparar duas lâmpadas que fornecem iluminação equivalente permite discutir potência e tempo. Apagar iluminação de sala vazia pode reduzir uso, mas escurecer área de circulação em uso prejudica segurança. Um plano pode combinar hábitos e seleção com critérios públicos de eficiência.</p><h3>Observe, registre e explique</h3><p>Em grupo, faça diagnóstico de um espaço escolar autorizado: função, horários, uso e evidências. Compare duas opções de equipamento por iluminação ou outra função equivalente e dados de eficiência; proponha hábito viável. Execute ação autorizada e registre antes/depois com o mesmo critério, participantes e limites. Sem acesso ao medidor, relate mudança de hábito sem inventar kWh economizados.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "eficiencia_energetica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual comparação permite avaliar melhor duas lâmpadas?",
+      "alternativas": [
+        "Mesma função luminosa, consumo e condições de uso.",
+        "Apenas cor da embalagem.",
+        "Somente preço sem função."
+      ],
+      "correta": 0,
+      "explicacao": "Comparar duas lâmpadas que fornecem iluminação equivalente permite discutir potência e tempo. Apagar iluminação de sala vazia pode reduzir uso, mas escurecer área de circulação em uso prejudica segurança. Um plano pode combinar hábitos e seleção com critérios públicos de eficiência.",
+      "bncc": [
+        "EF08CI05"
+      ]
+    },
+    {
+      "id": "eficiencia_energetica.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Em grupo, faça diagnóstico de um espaço escolar autorizado: função, horários, uso e evidências. Compare duas opções de equipamento por iluminação ou outra função equivalente e dados de eficiência; proponha hábito viável. Execute ação autorizada e registre antes/depois com o mesmo critério, participantes e limites. Sem acesso ao medidor, relate mudança de hábito sem inventar kWh economizados.",
+      "gabarito": "Exigir diagnóstico, critérios de equivalência, plano coletivo e registro da execução ou pendência. Não substituir instalação, desligar equipamento essencial ou prometer economia quantitativa sem método.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir diagnóstico, critérios de equivalência, plano coletivo e registro da execução ou pendência. Não substituir instalação, desligar equipamento essencial ou prometer economia quantitativa sem método.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF08CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        351
+      ],
+      "paginasImpressas": "349",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Uso Consciente de Energia",
+    "titulo": "Eficiência Energética"
+  }
+}

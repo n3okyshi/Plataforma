@@ -1,0 +1,227 @@
+{
+  "id": "cna.ef08.vida_e_evolucao.prova",
+  "titulo": "Avaliação: Vida e Evolução",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF08",
+  "unidade": "Vida e Evolução",
+  "bncc": [
+    "EF08CI07",
+    "EF08CI08",
+    "EF08CI09",
+    "EF08CI10",
+    "EF08CI11"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 5, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef08.vida_e_evolucao.prova.07",
+    "cna.ef08.vida_e_evolucao.prova.08",
+    "cna.ef08.vida_e_evolucao.prova.09",
+    "cna.ef08.vida_e_evolucao.prova.10",
+    "cna.ef08.vida_e_evolucao.prova.11"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef08.vida_e_evolucao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Vida e Evolução",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF08CI07",
+      "EF08CI08",
+      "EF08CI09",
+      "EF08CI10",
+      "EF08CI11"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Reprodução e diversidade: comparar estratégias",
+        "enunciado": "Construa quadro de propagação vegetativa, reprodução por sementes em planta com flor e dois processos de animais estudados em fonte. Compare gametas, descendentes, rapidez contextual e possíveis vantagens/limites diante de ambiente que muda. Use sequências desenhadas com legenda, sem coleta ou criação de animais.",
+        "gabarito": "Exigir mecanismos de plantas e animais e relação contextual com variabilidade/adaptação. Não afirmar que todo descendente sexuado é necessariamente melhor ou que assexuados nunca apresentam variação.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir mecanismos de plantas e animais e relação contextual com variabilidade/adaptação. Não afirmar que todo descendente sexuado é necessariamente melhor ou que assexuados nunca apresentam variação.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF08CI07"
+        ],
+        "atividadeOrigem": "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada#reproducao_sexuada.investigacao"
+      },
+      {
+        "titulo": "Puberdade: sinais hormonais e diversidade dos corpos",
+        "enunciado": "Produza esquema de regulação e relacione três mudanças da puberdade aos sinais hormonais em termos gerais. Analise um caso fictício de colegas com ritmos diferentes e escreva resposta respeitosa que separe explicação biológica de julgamento. Use perguntas anônimas mediadas; não solicite medidas, fotos, relatos íntimos ou diagnóstico de colegas.",
+        "gabarito": "Exigir integração nervoso/endócrino, três mudanças e reconhecimento da variação. Não atribuir tudo a um hormônio isolado nem declarar atraso clínico a partir do caso fictício.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir integração nervoso/endócrino, três mudanças e reconhecimento da variação. Não atribuir tudo a um hormônio isolado nem declarar atraso clínico a partir do caso fictício.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF08CI08"
+        ],
+        "atividadeOrigem": "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade#mudancas_na_puberdade.investigacao"
+      },
+      {
+        "titulo": "Contracepção: mecanismos, eficácia e responsabilidade",
+        "enunciado": "Leia a comparação incorporada e faça tabela com mecanismo, estimativas e proteção contra IST dos três métodos. Explique denominador/período, por que uso habitual difere do correto e por que prevenção não pode recair em uma só pessoa. Analise decisão de personagens fictícios com acesso a informação e serviço de saúde; não prescreva método, doses ou exponha experiências pessoais.",
+        "gabarito": "Exigir comparação dos três métodos, unidades das estimativas, distinção gravidez/IST e responsabilidade compartilhada. Não somar percentuais para inventar proteção combinada, nem interpretar taxa anual como risco em cada relação. Registrar fonte OMS e limite de indicação individual.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir comparação dos três métodos, unidades das estimativas, distinção gravidez/IST e responsabilidade compartilhada. Não somar percentuais para inventar proteção combinada, nem interpretar taxa anual como risco em cada relação. Registrar fonte OMS e limite de indicação individual.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF08CI09"
+        ],
+        "atividadeOrigem": "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos#metodos_contraceptivos.investigacao"
+      },
+      {
+        "titulo": "IST, HIV e prevenção sem estigma",
+        "enunciado": "Crie quadro de HIV, sífilis e HPV: possíveis sinais/ausência deles, vias e limites de transmissão, prevenção e tratamento geral com fonte institucional. Corrija dois mitos de um caso fictício, incluindo discriminação por convívio. Justifique procurar serviço para testagem e cuidado em vez de diagnosticar por aparência. Não use histórias íntimas, imagens de lesões ou demonstrações corporais.",
+        "gabarito": "Exigir três infecções, prevenção e distinção HIV/aids, ausência de transmissão pelo convívio e limite dos sintomas. Verificar fonte atual para sífilis/HPV; não indicar fármaco ou dose. Sem dado confirmado, registrar pesquisa pendente, nunca preencher com suposição.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir três infecções, prevenção e distinção HIV/aids, ausência de transmissão pelo convívio e limite dos sintomas. Verificar fonte atual para sífilis/HPV; não indicar fármaco ou dose. Sem dado confirmado, registrar pesquisa pendente, nunca preencher com suposição.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF08CI10"
+        ],
+        "atividadeOrigem": "cna.ef08.dst_e_prevencao.o_que_sao_dst#o_que_sao_dst.investigacao"
+      },
+      {
+        "titulo": "Sexualidade: dimensões e respeito",
+        "enunciado": "Analise três casos inteiramente fictícios: pressão para expor mensagem, estereótipo sobre quem deve cuidar da prevenção e desrespeito a uma recusa. Identifique dimensões biológica quando pertinente, social, afetiva e ética; defenda uma resposta com respeito, responsabilidade e privacidade. Produza acordo de discussão sem nomes reais e sem relatos íntimos.",
+        "gabarito": "Exigir argumentos contextualizados em múltiplas dimensões e identificação de pressão/estereótipo. Não premiar exposição pessoal nem avaliar identidade ou crença individual. Distinguir discordar de ideia e discriminar pessoa.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir argumentos contextualizados em múltiplas dimensões e identificação de pressão/estereótipo. Não premiar exposição pessoal nem avaliar identidade ou crença individual. Distinguir discordar de ideia e discriminar pessoa.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF08CI11"
+        ],
+        "atividadeOrigem": "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade#dimensoes_da_sexualidade.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        351
+      ],
+      "paginasImpressas": "349",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NICHD — Causes of puberty",
+      "url": "https://www.nichd.nih.gov/health/topics/puberty/conditioninfo/causes",
+      "consulta": "2026-10-30",
+      "uso": "Regulação hipotálamo/hipófise/gônadas; não transforma modelo em diagnóstico ou faixa etária universal."
+    },
+    {
+      "documento": "WHO — HIV and AIDS",
+      "url": "https://www.who.int/en/news-room/fact-sheets/detail/hiv-aids",
+      "consulta": "2026-10-30",
+      "uso": "Infecção/estágio avançado, transmissão, ausência de transmissão pelo convívio e tratamento geral; não usa estatísticas atuais ou doses."
+    },
+    {
+      "documento": "WHO — Syphilis",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/syphilis",
+      "consulta": "2026-10-30",
+      "uso": "Sintomas/ausência deles, vias, prevenção e tratamento antibiótico geral, sem diagnóstico ou prescrição."
+    },
+    {
+      "documento": "WHO — Human papillomavirus and cancer",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer/",
+      "consulta": "2026-10-30",
+      "uso": "Infecção frequentemente sem sinais, verrugas, prevenção e tratamento de lesões; não transpõe calendário internacional."
+    },
+    {
+      "documento": "WHO — Mechanisms of action and effectiveness of contraceptive methods",
+      "url": "https://cdn.who.int/media/docs/default-source/reproductive-health/contraception-family-planning/mechanisms-of-action-and-effectiveness-of-contraception-methods.pdf?sfvrsn=e39",
+      "consulta": "2026-10-30",
+      "uso": "Tabela consultada, página PDF 1: três métodos e estimativas anuais por 100 usuárias, separando uso correto e habitual. Não é prescrição ou taxa por relação."
+    },
+    {
+      "documento": "WHO — Family planning/contraception methods",
+      "url": "https://www.who.int/en/news-room/fact-sheets/detail/family-planning-contraception",
+      "consulta": "2026-10-30",
+      "uso": "Direito à informação e distinção de contracepção e prevenção de IST, sem indicação individual."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF08CI07",
+      "questoes": [
+        "cna.ef08.vida_e_evolucao.prova.07"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef08.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada#reproducao_sexuada.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08CI08",
+      "questoes": [
+        "cna.ef08.vida_e_evolucao.prova.08"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef08.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade#mudancas_na_puberdade.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08CI09",
+      "questoes": [
+        "cna.ef08.vida_e_evolucao.prova.09"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef08.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos#metodos_contraceptivos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08CI10",
+      "questoes": [
+        "cna.ef08.vida_e_evolucao.prova.10"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef08.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef08.dst_e_prevencao.o_que_sao_dst#o_que_sao_dst.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08CI11",
+      "questoes": [
+        "cna.ef08.vida_e_evolucao.prova.11"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef08.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade#dimensoes_da_sexualidade.investigacao"
+      ]
+    }
+  ]
+}

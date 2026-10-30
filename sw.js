@@ -1,10 +1,10 @@
 /**
- * SERVICE WORKER (PWA) - MATHLINGO v3.22
+ * SERVICE WORKER (PWA) - MATHLINGO v3.23
  * Estratégia: Stale-While-Revalidate para Assets + Network-First para APIs
  */
 
-const CACHE_NAME = 'mathlingo-v3.22-static';
-const DATA_CACHE_NAME = 'mathlingo-v3.22-data';
+const CACHE_NAME = 'mathlingo-v3.23-static';
+const DATA_CACHE_NAME = 'mathlingo-v3.23-data';
 
 const FILES_TO_CACHE = [
   './',

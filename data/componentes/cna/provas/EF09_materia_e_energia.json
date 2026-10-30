@@ -1,0 +1,296 @@
+{
+  "id": "cna.ef09.materia_e_energia.prova",
+  "titulo": "Avaliação: Matéria e Energia",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF09",
+  "unidade": "Matéria e Energia",
+  "bncc": [
+    "EF09CI01",
+    "EF09CI02",
+    "EF09CI03",
+    "EF09CI04",
+    "EF09CI05",
+    "EF09CI06",
+    "EF09CI07"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "7 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 7, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef09.materia_e_energia.prova.01",
+    "cna.ef09.materia_e_energia.prova.02",
+    "cna.ef09.materia_e_energia.prova.03",
+    "cna.ef09.materia_e_energia.prova.04",
+    "cna.ef09.materia_e_energia.prova.05",
+    "cna.ef09.materia_e_energia.prova.06",
+    "cna.ef09.materia_e_energia.prova.07"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef09.materia_e_energia.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Matéria e Energia",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF09CI01",
+      "EF09CI02",
+      "EF09CI03",
+      "EF09CI04",
+      "EF09CI05",
+      "EF09CI06",
+      "EF09CI07"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Estados físicos em modelos de partículas",
+        "enunciado": "Observe fusão de gelo em recipiente seguro sem aquecimento direto, registrando condições e tempos. Represente antes/depois por partículas de mesmo tamanho e identidade e explique energia/interações. Compare com registro identificado de ebulição, distinguindo da evaporação. Se não medir temperatura, não desenhe curva experimental fictícia; uma curva hipotética deve ser rotulada.",
+        "gabarito": "Exigir observação real ou fonte identificada, identidade preservada e modelo coerente. Não dizer que partícula sólida para completamente nem que todo material funde na mesma temperatura.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir observação real ou fonte identificada, identidade preservada e modelo coerente. Não dizer que partícula sólida para completamente nem que todo material funde na mesma temperatura.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI01"
+        ],
+        "atividadeOrigem": "cna.ef09.estados_e_modelos.modelo_submicroscopico#modelo_submicroscopico.investigacao"
+      },
+      {
+        "titulo": "Massas em reações: conservação e proporção",
+        "enunciado": "Analise os dados simulados 3:2:5 e construa tabela para o dobro e a metade, indicando unidades, sistema e hipótese de reação completa. Em segundo caso, há 6 g de magnésio e 5 g de oxigênio: determine produto e sobra. Compare com sistema aberto que libera gás, usando descrição/modelo, sem fogo, reagentes metálicos ou frascos fechados.",
+        "gabarito": "Esperado: dobro 6+4=10 g; metade 1,5+1=2,5 g; no segundo caso 10 g de produto e 1 g de oxigênio restante, total 11 g. Exigir conservação e proporção, distinguindo sobra de produto. Não tratar dados simulados como medições.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Esperado: dobro 6+4=10 g; metade 1,5+1=2,5 g; no segundo caso 10 g de produto e 1 g de oxigênio restante, total 11 g. Exigir conservação e proporção, distinguindo sobra de produto. Não tratar dados simulados como medições.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI02"
+        ],
+        "atividadeOrigem": "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos#reagentes_e_produtos.investigacao"
+      },
+      {
+        "titulo": "Átomos, moléculas e história dos modelos",
+        "enunciado": "Crie linha de modelos Dalton/Thomson/Rutherford/Bohr com mudança principal e evidência ou problema que motivou revisão, usando fonte identificada. Monte representações de H₂O e O₂ e conte átomos/elementos. Acrescente aviso sobre escala e limites das órbitas desenhadas, comparando modelo histórico com descrição atual qualitativa.",
+        "gabarito": "Exigir quatro modelos contextualizados, distinção átomo/molécula e contagem 3 átomos/2 elementos para H₂O, 2 átomos/1 elemento para O₂. Não chamar modelos antigos de fotografias falsas nem Bohr de descrição universal final.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir quatro modelos contextualizados, distinção átomo/molécula e contagem 3 átomos/2 elementos para H₂O, 2 átomos/1 elemento para O₂. Não chamar modelos antigos de fotografias falsas nem Bohr de descrição universal final.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI03"
+        ],
+        "atividadeOrigem": "cna.ef09.estrutura_da_materia.atomos#atomos.investigacao"
+      },
+      {
+        "titulo": "Cores da luz e cor dos objetos",
+        "enunciado": "Planeje e execute com professor sobreposição de três lanternas/LEDs didáticos de baixa intensidade em superfície clara, sem laser ou luz nos olhos; registre intensidades, áreas e cores percebidas. Compare objeto sob iluminação branca, vermelha e verde. Se usar tela RGB ou simulação por falta de material, identifique essa execução e não a chame de teste físico do papel. Explique diferença de tintas e limites da gama.",
+        "gabarito": "Exigir plano, execução registrada, comparação luz/objeto e síntese aditiva. Não prometer todas as cores espectrais pelo RGB nem usar mistura de pigmentos como resultado equivalente. Aceitar descrição e instrumentos acessíveis sem avaliar estudante pela percepção cromática individual.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir plano, execução registrada, comparação luz/objeto e síntese aditiva. Não prometer todas as cores espectrais pelo RGB nem usar mistura de pigmentos como resultado equivalente. Aceitar descrição e instrumentos acessíveis sem avaliar estudante pela percepção cromática individual.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI04"
+        ],
+        "atividadeOrigem": "cna.ef09.luz_e_cores.decomposicao_da_luz#decomposicao_da_luz.investigacao"
+      },
+      {
+        "titulo": "Do som e imagem ao sinal de comunicação",
+        "enunciado": "Desenhe cadeias de captação, codificação, transmissão e recepção para áudio e imagem, comparando rádio analógico e chamada digital por fonte. Simule codificação de imagem em grade de 4×4 com valores combinados, transmita por cartões e reconstrua sem ver o original. Compare erros e resolução; não grave colegas nem compartilhe dados pessoais.",
+        "gabarito": "Exigir cadeias com transformações nas duas extremidades, meio de transmissão e simulação com registro. Não confundir som no ar com onda eletromagnética ou código digital com objeto físico que dispensa suporte.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir cadeias com transformações nas duas extremidades, meio de transmissão e simulação com registro. Não confundir som no ar com onda eletromagnética ou código digital com objeto físico que dispensa suporte.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI05"
+        ],
+        "atividadeOrigem": "cna.ef09.imagem_e_som.ondas#ondas.investigacao"
+      },
+      {
+        "titulo": "Espectro eletromagnético e aplicações",
+        "enunciado": "Monte faixa ordenada com frequência relativa, fonte e aplicação para sete regiões. Compare controle remoto, telefone, forno e radiografia: benefício, tipo e cuidado de uso conforme fonte. Explique a posição do visível e por que ultrassom fica fora do mapa; use apenas descrição/modelo, sem desmontar ou testar exposição.",
+        "gabarito": "Exigir ordem coerente, aplicações e avaliação contextual de riscos. Não afirmar que toda radiação é nuclear ou que micro-ondas irradiam alimento de modo a torná-lo radioativo. Não operar emissor aberto ou fonte UV/X.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir ordem coerente, aplicações e avaliação contextual de riscos. Não afirmar que toda radiação é nuclear ou que micro-ondas irradiam alimento de modo a torná-lo radioativo. Não operar emissor aberto ou fonte UV/X.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI06"
+        ],
+        "atividadeOrigem": "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico#espectro_eletromagnetico.investigacao"
+      },
+      {
+        "titulo": "Tecnologia na saúde: imagens e tratamentos",
+        "enunciado": "Faça quadro de radiografia, ultrassom, ressonância e radioterapia com energia/onda, mecanismo geral e finalidade. Relacione uma melhoria tecnológica a benefício e limite, consultando fonte institucional. Analise caso fictício em que se confundem exame e tratamento e corrija a explicação sem prescrever procedimentos nem usar imagens clínicas de colegas.",
+        "gabarito": "Exigir distinção sonora/eletromagnética, ionizante/não ionizante e diagnóstico/tratamento. Não afirmar que toda técnica citada pela BNCC usa radiação eletromagnética, pois ultrassom é mecânico. Segurança deve permanecer decisão profissional.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir distinção sonora/eletromagnética, ionizante/não ionizante e diagnóstico/tratamento. Não afirmar que toda técnica citada pela BNCC usa radiação eletromagnética, pois ultrassom é mecânico. Segurança deve permanecer decisão profissional.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI07"
+        ],
+        "atividadeOrigem": "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem#diagnostico_por_imagem.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        353
+      ],
+      "paginasImpressas": "351",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "paginasImpressas": "72–78",
+      "uso": "Estados e transformações consultados criticamente. Corrige simplificações: líquido tem volume aproximadamente definido, sólidos amorfos são sólidos e evaporação não se distingue de ebulição apenas por rapidez."
+    },
+    {
+      "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+      "url": "https://science.nasa.gov/ems/01_intro/",
+      "consulta": "2026-10-30",
+      "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+    },
+    {
+      "documento": "NIBIB — Magnetic Resonance Imaging",
+      "url": "https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+      "consulta": "2026-10-30",
+      "uso": "Campo magnético/radiofrequência e mecanismo geral, sem confundir ausência de raios X com ausência de cuidados."
+    },
+    {
+      "documento": "NIBIB — Ultrasound",
+      "url": "https://www.nibib.nih.gov/science-education/science-topics/ultrasound",
+      "consulta": "2026-10-30",
+      "uso": "Ondas sonoras, ecos e limites de segurança; distinção de radiação eletromagnética."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        72,
+        73
+      ],
+      "paginasImpressas": "72–73",
+      "uso": "Átomos e moléculas como apoio inicial; não universaliza estrutura molecular a todo material."
+    },
+    {
+      "documento": "RSC — The atom detectives",
+      "url": "https://edu.rsc.org/resources/the-atom-detectives/1332.article",
+      "consulta": "2026-10-30",
+      "uso": "Descrição institucional recuperada por busca sobre desenvolvimento de modelos; abertura direta retornou 405. Sem afirmar leitura integral, inspeção de ilustrações ou anexos."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF09CI01",
+      "questoes": [
+        "cna.ef09.materia_e_energia.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.estados_e_modelos.modelo_submicroscopico#modelo_submicroscopico.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI02",
+      "questoes": [
+        "cna.ef09.materia_e_energia.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos#reagentes_e_produtos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI03",
+      "questoes": [
+        "cna.ef09.materia_e_energia.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.estrutura_da_materia.atomos#atomos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI04",
+      "questoes": [
+        "cna.ef09.materia_e_energia.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.luz_e_cores.decomposicao_da_luz#decomposicao_da_luz.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI05",
+      "questoes": [
+        "cna.ef09.materia_e_energia.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.imagem_e_som.ondas#ondas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI06",
+      "questoes": [
+        "cna.ef09.materia_e_energia.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico#espectro_eletromagnetico.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI07",
+      "questoes": [
+        "cna.ef09.materia_e_energia.prova.07"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem#diagnostico_por_imagem.investigacao"
+      ]
+    }
+  ]
+}

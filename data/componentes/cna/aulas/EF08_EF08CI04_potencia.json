@@ -1,0 +1,94 @@
+{
+  "id": "cna.ef08.consumo_de_energia.potencia",
+  "componente": "cna",
+  "nivel": "EF08",
+  "ordem": 4,
+  "unidade": "Matéria e Energia",
+  "titulo": "Potência, tempo e consumo em kWh",
+  "bncc": [
+    "EF08CI04"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Use dados fictícios explícitos de 1200 W/0,5 h e 60 W/5 h por dia, em 30 dias, e calcule os consumos e a soma. Depois analise uma etiqueta fotografada pelo adulto ou documento público de equipamento sem expor conta doméstica; estime tempo, declare hipóteses e discuta ciclos. Não mexa em fiação ou medidor."
+    ],
+    "resumo": "Potência, tempo e consumo em kWh",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Potência, tempo e consumo em kWh</h2><h3>Ideias para investigar</h3><p>Potência indica taxa de transferência de energia. Para potência aproximadamente constante, E em kWh = P em W dividida por 1000, vezes tempo em horas. Para estimativa mensal, some os tempos de uso e as energias dos equipamentos. Potência nominal e tempo estimado têm limites: aparelhos com ciclos, como geladeiras, não ficam na potência máxima o mês inteiro.</p><h3>Exemplo comentado</h3><p>Exemplo didático: aparelho de 1200 W por 0,5 h ao dia durante 30 dias: 1,2 × 0,5 × 30 = 18 kWh. Outro de 60 W por 5 h diárias: 0,06 × 5 × 30 = 9 kWh. Menor potência pode ou não significar menor consumo, pois tempo também importa. Não há tarifa real neste cálculo.</p><h3>Observe, registre e explique</h3><p>Use dados fictícios explícitos de 1200 W/0,5 h e 60 W/5 h por dia, em 30 dias, e calcule os consumos e a soma. Depois analise uma etiqueta fotografada pelo adulto ou documento público de equipamento sem expor conta doméstica; estime tempo, declare hipóteses e discuta ciclos. Não mexa em fiação ou medidor.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "potencia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um aparelho de 1000 W ligado por 2 h transfere aproximadamente:",
+      "alternativas": [
+        "2 kWh.",
+        "2000 kWh.",
+        "0,002 kWh."
+      ],
+      "correta": 0,
+      "explicacao": "Exemplo didático: aparelho de 1200 W por 0,5 h ao dia durante 30 dias: 1,2 × 0,5 × 30 = 18 kWh. Outro de 60 W por 5 h diárias: 0,06 × 5 × 30 = 9 kWh. Menor potência pode ou não significar menor consumo, pois tempo também importa. Não há tarifa real neste cálculo.",
+      "bncc": [
+        "EF08CI04"
+      ]
+    },
+    {
+      "id": "potencia.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Use dados fictícios explícitos de 1200 W/0,5 h e 60 W/5 h por dia, em 30 dias, e calcule os consumos e a soma. Depois analise uma etiqueta fotografada pelo adulto ou documento público de equipamento sem expor conta doméstica; estime tempo, declare hipóteses e discuta ciclos. Não mexa em fiação ou medidor.",
+      "gabarito": "Esperado: 18 e 9 kWh; total 27 kWh. Exigir conversão W/kW e minutos/horas quando necessária, unidade e limites da estimativa. Não confundir kW com kWh nem multiplicar potência máxima da geladeira por todas as horas sem hipótese explícita.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Esperado: 18 e 9 kWh; total 27 kWh. Exigir conversão W/kW e minutos/horas quando necessária, unidade e limites da estimativa. Não confundir kW com kWh nem multiplicar potência máxima da geladeira por todas as horas sem hipótese explícita.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF08CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        351
+      ],
+      "paginasImpressas": "349",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "EIA — Measuring electricity",
+      "url": "https://www.eia.gov/energyexplained/electricity/measuring-electricity.php",
+      "consulta": "2026-10-30",
+      "uso": "Potência versus energia e conversão W/kW/Wh/kWh; cálculos autorais, sem tarifas ou estatísticas estrangeiras transpostas."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Consumo de Energia",
+    "titulo": "Potência"
+  }
+}

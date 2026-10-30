@@ -1,0 +1,94 @@
+{
+  "id": "cna.ef09.sistema_solar.sol",
+  "componente": "cna",
+  "nivel": "EF09",
+  "ordem": 14,
+  "unidade": "Terra e Universo",
+  "titulo": "Sistema Solar em escalas do Universo",
+  "bncc": [
+    "EF09CI14"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Organize os oito planetas por ordem e grupo, inclua dois tipos de corpos menores e construa mapa de pertencimento Terra/Sistema Solar/Via Láctea/Universo. Faça um modelo de distâncias com valores de fonte NASA, declarando escala e impossibilidade de usar a mesma escala de tamanhos no espaço disponível. Não apresentar modelo sem dados como mapa medido."
+    ],
+    "resumo": "Sistema Solar em escalas do Universo",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Sistema Solar em escalas do Universo</h2><h3>Ideias para investigar</h3><p>O Sistema Solar inclui o Sol, oito planetas e seus satélites, planetas anões e corpos menores como asteroides e cometas. Mercúrio, Vênus, Terra e Marte são rochosos; Júpiter e Saturno são gigantes gasosos; Urano e Netuno são frequentemente distinguidos como gigantes de gelo. O sistema está na Via Láctea, que é uma galáxia entre muitas. Planeta, estrela e galáxia são categorias distintas.</p><h3>Exemplo comentado</h3><p>Uma sequência de cartões por distância média ao Sol não representa distâncias iguais. Um ano-luz é unidade de distância, não tempo de viagem de uma nave. O Sol é uma estrela da Via Láctea, e o sistema não ocupa o centro da galáxia. Desenhos com planetas grandes e próximos precisam declarar escala alterada.</p><h3>Observe, registre e explique</h3><p>Organize os oito planetas por ordem e grupo, inclua dois tipos de corpos menores e construa mapa de pertencimento Terra/Sistema Solar/Via Láctea/Universo. Faça um modelo de distâncias com valores de fonte NASA, declarando escala e impossibilidade de usar a mesma escala de tamanhos no espaço disponível. Não apresentar modelo sem dados como mapa medido.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sol.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A Via Láctea é:",
+      "alternativas": [
+        "A galáxia que contém o Sistema Solar.",
+        "Um planeta rochoso.",
+        "Outro nome apenas da Lua."
+      ],
+      "correta": 0,
+      "explicacao": "Uma sequência de cartões por distância média ao Sol não representa distâncias iguais. Um ano-luz é unidade de distância, não tempo de viagem de uma nave. O Sol é uma estrela da Via Láctea, e o sistema não ocupa o centro da galáxia. Desenhos com planetas grandes e próximos precisam declarar escala alterada.",
+      "bncc": [
+        "EF09CI14"
+      ]
+    },
+    {
+      "id": "sol.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Organize os oito planetas por ordem e grupo, inclua dois tipos de corpos menores e construa mapa de pertencimento Terra/Sistema Solar/Via Láctea/Universo. Faça um modelo de distâncias com valores de fonte NASA, declarando escala e impossibilidade de usar a mesma escala de tamanhos no espaço disponível. Não apresentar modelo sem dados como mapa medido.",
+      "gabarito": "Exigir ordem Mercúrio,Vênus,Terra,Marte,Júpiter,Saturno,Urano,Netuno, grupos, corpos menores e pertencimento. Não reduzir galáxia ao Sistema Solar nem enumerar planetas anões como lista fechada de três do manual antigo.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir ordem Mercúrio,Vênus,Terra,Marte,Júpiter,Saturno,Urano,Netuno, grupos, corpos menores e pertencimento. Não reduzir galáxia ao Sistema Solar nem enumerar planetas anões como lista fechada de três do manual antigo.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF09CI14"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        353
+      ],
+      "paginasImpressas": "351",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NASA — Solar System Facts",
+      "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+      "consulta": "2026-10-30",
+      "uso": "Composição e pertencimento galáctico, rochosos/gigantes gasosos/gigantes de gelo; sem contagens mutáveis de satélites."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Sistema Solar e Universo",
+    "titulo": "O Sol"
+  }
+}

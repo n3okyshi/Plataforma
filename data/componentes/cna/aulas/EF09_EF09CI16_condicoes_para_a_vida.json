@@ -1,0 +1,94 @@
+{
+  "id": "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida",
+  "componente": "cna",
+  "nivel": "EF09",
+  "ordem": 16,
+  "unidade": "Terra e Universo",
+  "titulo": "Vida humana fora da Terra: condições e escalas",
+  "bncc": [
+    "EF09CI16"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Monte matriz de necessidades humanas, condições de dois destinos estudados em fonte NASA e tecnologia de suporte necessária. Resolva o cálculo idealizado dado e explique três limites para viagem real. Compare interplanetário/interestelar e defenda viabilidade condicionada por evidências, sem anunciar missão futura como fato ou confundir indício de água com vida comprovada."
+    ],
+    "resumo": "Vida humana fora da Terra: condições e escalas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Vida humana fora da Terra: condições e escalas</h2><h3>Ideias para investigar</h3><p>Sobrevivência humana exige atmosfera respirável ou suporte que a substitua, água, alimentação, temperatura/pressão adequadas, energia e proteção contra radiação. Encontrar água ou moléculas orgânicas não prova vida nem habitabilidade humana imediata. Viagens interplanetárias e interestelares envolvem distâncias, tempos, recursos e riscos muito diferentes; uma experiência em estação orbital não equivale a colonização autossuficiente.</p><h3>Exemplo comentado</h3><p>Cálculo idealizado e fictício: percorrer 6 milhões de quilômetros a 20 mil km/h constantes levaria 300 h, ou 12,5 dias. Não é duração de missão real: ignora trajetórias, aceleração e posição dos astros. Para distâncias interestelares medidas em anos-luz, o problema de escala é muito maior.</p><h3>Observe, registre e explique</h3><p>Monte matriz de necessidades humanas, condições de dois destinos estudados em fonte NASA e tecnologia de suporte necessária. Resolva o cálculo idealizado dado e explique três limites para viagem real. Compare interplanetário/interestelar e defenda viabilidade condicionada por evidências, sem anunciar missão futura como fato ou confundir indício de água com vida comprovada.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "condicoes_para_a_vida.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A presença de água em um destino prova vida humana sem suporte?",
+      "alternativas": [
+        "Não; outras condições e suporte precisam ser avaliados.",
+        "Sim, água basta para toda condição.",
+        "Sim, distância deixa de importar."
+      ],
+      "correta": 0,
+      "explicacao": "Cálculo idealizado e fictício: percorrer 6 milhões de quilômetros a 20 mil km/h constantes levaria 300 h, ou 12,5 dias. Não é duração de missão real: ignora trajetórias, aceleração e posição dos astros. Para distâncias interestelares medidas em anos-luz, o problema de escala é muito maior.",
+      "bncc": [
+        "EF09CI16"
+      ]
+    },
+    {
+      "id": "condicoes_para_a_vida.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Monte matriz de necessidades humanas, condições de dois destinos estudados em fonte NASA e tecnologia de suporte necessária. Resolva o cálculo idealizado dado e explique três limites para viagem real. Compare interplanetário/interestelar e defenda viabilidade condicionada por evidências, sem anunciar missão futura como fato ou confundir indício de água com vida comprovada.",
+      "gabarito": "Esperado 300 h=12,5 dias sob hipóteses fictícias; exigir cinco necessidades e limites de suporte/logística. Não usar distância variável entre planetas como constante universal nem alegar vida detectada sem fonte explícita.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Esperado 300 h=12,5 dias sob hipóteses fictícias; exigir cinco necessidades e limites de suporte/logística. Não usar distância variável entre planetas como constante universal nem alegar vida detectada sem fonte explícita.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF09CI16"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        353
+      ],
+      "paginasImpressas": "351",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NASA — Solar System Facts",
+      "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+      "consulta": "2026-10-30",
+      "uso": "Composição e pertencimento galáctico, rochosos/gigantes gasosos/gigantes de gelo; sem contagens mutáveis de satélites."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Vida Fora da Terra e Evolução Estelar",
+    "titulo": "Condições para a Vida"
+  }
+}

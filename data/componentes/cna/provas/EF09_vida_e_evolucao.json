@@ -1,0 +1,265 @@
+{
+  "id": "cna.ef09.vida_e_evolucao.prova",
+  "titulo": "Avaliação: Vida e Evolução",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF09",
+  "unidade": "Vida e Evolução",
+  "bncc": [
+    "EF09CI08",
+    "EF09CI09",
+    "EF09CI10",
+    "EF09CI11",
+    "EF09CI12",
+    "EF09CI13"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "6 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 6, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef09.vida_e_evolucao.prova.08",
+    "cna.ef09.vida_e_evolucao.prova.09",
+    "cna.ef09.vida_e_evolucao.prova.10",
+    "cna.ef09.vida_e_evolucao.prova.11",
+    "cna.ef09.vida_e_evolucao.prova.12",
+    "cna.ef09.vida_e_evolucao.prova.13"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef09.vida_e_evolucao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Vida e Evolução",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF09CI08",
+      "EF09CI09",
+      "EF09CI10",
+      "EF09CI11",
+      "EF09CI12",
+      "EF09CI13"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Gametas e transmissão hereditária",
+        "enunciado": "Use cartões para representar organismo fictício 2n=4, formação de gametas e fecundação. Monte duas combinações possíveis e explique transmissão/variação entre ancestrais e descendentes. Distinga traço hereditário e aprendizagem; trabalhe apenas com genealogia fictícia, sem exigir árvore familiar, teste genético ou análise de colegas.",
+        "gabarito": "Exigir gametas n=2/zigoto 2n=4 no modelo e papel na transmissão. Não tratar toda característica como gene único ou aparência como prova de parentesco. Declarar limites dos cartões.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir gametas n=2/zigoto 2n=4 no modelo e papel na transmissão. Não tratar toda característica como gene único ou aparência como prova de parentesco. Declarar limites dos cartões.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI08"
+        ],
+        "atividadeOrigem": "cna.ef09.hereditariedade.gametas#gametas.investigacao"
+      },
+      {
+        "titulo": "Mendel: segregação e probabilidades",
+        "enunciado": "Construa quadro de Aa × Aa e de Aa × aa para organismos fictícios, com gametas, genótipos e fenótipos sob dominância completa. Compare resultados esperados e frequências de sorteio de cartões em várias rodadas. Relacione aos experimentos históricos de Mendel com ervilhas e discuta limites; não use traços de colegas como teste de herança.",
+        "gabarito": "Esperado Aa×Aa: 25% AA,50% Aa,25% aa e 75% fenótipo dominante; Aa×aa:50% Aa,50% aa, fenótipos1:1. Exigir segregação, probabilidade e distinção de amostra. Não generalizar independência de todos os genes nem dominância completa a todo traço.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Esperado Aa×Aa: 25% AA,50% Aa,25% aa e 75% fenótipo dominante; Aa×aa:50% Aa,50% aa, fenótipos1:1. Exigir segregação, probabilidade e distinção de amostra. Não generalizar independência de todos os genes nem dominância completa a todo traço.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI09"
+        ],
+        "atividadeOrigem": "cna.ef09.genetica_de_mendel.fatores_hereditarios#fatores_hereditarios.investigacao"
+      },
+      {
+        "titulo": "Lamarck e Darwin: comparação histórica",
+        "enunciado": "Leia a síntese incorporada e compare dois argumentos autorais: um atribui mudança herdada ao uso durante a vida; outro à reprodução diferencial de variantes. Faça quadro de semelhanças, diferenças, papel do ambiente e contexto histórico. Consulte trecho de obra histórica identificado para aprofundar, distinguindo paráfrase e citação, e registre a referência ou pendência.",
+        "gabarito": "Exigir transformação como ponto comum, mecanismos diferentes e contexto histórico. Não dizer que Lamarck defendia apenas vontade consciente nem atribuir genes e DNA à explicação original de Darwin. Trecho histórico não fornecido permanece pesquisa pendente, não leitura fingida.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir transformação como ponto comum, mecanismos diferentes e contexto histórico. Não dizer que Lamarck defendia apenas vontade consciente nem atribuir genes e DNA à explicação original de Darwin. Trecho histórico não fornecido permanece pesquisa pendente, não leitura fingida.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI10"
+        ],
+        "atividadeOrigem": "cna.ef09.evolucao.lamarck#lamarck.investigacao"
+      },
+      {
+        "titulo": "Seleção natural em populações variáveis",
+        "enunciado": "Simule três gerações com cartões de duas variantes, fundo definido, regra explícita de retirada e reprodução, anotando quantidades iniciais e finais. Repita com outro fundo ou discuta previsão. Explique variação, herança e reprodução diferencial; diferencie dados da simulação e populações naturais. Não use seres vivos ou selecione estudantes por características corporais.",
+        "gabarito": "Exigir três gerações, regras, contagens e cadeia variação/herança/reprodução. Não dizer que fundo cria intencionalmente variante ou que uma amostra pequena confirma lei universal. Reconhecer limites do modelo e possibilidade de acaso.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir três gerações, regras, contagens e cadeia variação/herança/reprodução. Não dizer que fundo cria intencionalmente variante ou que uma amostra pequena confirma lei universal. Reconhecer limites do modelo e possibilidade de acaso.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI11"
+        ],
+        "atividadeOrigem": "cna.ef09.evolucao.selecao_natural#selecao_natural.investigacao"
+      },
+      {
+        "titulo": "Conservação: categorias, territórios e pessoas",
+        "enunciado": "Compare parque nacional, floresta nacional e reserva extrativista com fonte ICMBio e um plano de manejo real identificado. Registre grupo, objetivo, exemplo de atividade permitida/condicionada e relação com moradores. Justifique proteção de espécies, água e patrimônio cultural; a ausência de consulta ao plano impede afirmar regra local específica. Não coletar organismos ou organizar visita sem autorização.",
+        "gabarito": "Exigir três categorias/grupos, fonte e distinção entre regra geral e local. Não tratar toda reserva como categoria única nem falar por comunidade sem fonte. Atividade local precisa de confirmação documental.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir três categorias/grupos, fonte e distinção entre regra geral e local. Não tratar toda reserva como categoria única nem falar por comunidade sem fonte. Atividade local precisa de confirmação documental.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI12"
+        ],
+        "atividadeOrigem": "cna.ef09.biodiversidade.unidades_de_conservacao#unidades_de_conservacao.investigacao"
+      },
+      {
+        "titulo": "Projeto ambiental com diagnóstico e avaliação",
+        "enunciado": "Escolha problema escolar seguro e consulte um caso de iniciativa com fonte, indicador e resultado identificados. Faça diagnóstico local sem dados pessoais, proponha duas alternativas e selecione uma com custo, responsáveis e destino dos materiais confirmado. Execute lote piloto autorizado e compare indicador antes/depois, registrando limites e revisão. Sem execução, marque projeto pendente.",
+        "gabarito": "Exigir caso rastreável, diagnóstico, escolha justificada e resultado real ou pendência. Não manusear lixo contaminado, atribuir sucesso por slogan ou inventar equivalências de água/carbono/árvores.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir caso rastreável, diagnóstico, escolha justificada e resultado real ou pendência. Não manusear lixo contaminado, atribuir sucesso por slogan ou inventar equivalências de água/carbono/árvores.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI13"
+        ],
+        "atividadeOrigem": "cna.ef09.sustentabilidade.problemas_ambientais_locais#problemas_ambientais_locais.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        353
+      ],
+      "paginasImpressas": "351",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        317,
+        318,
+        319,
+        320,
+        321,
+        322
+      ],
+      "paginasImpressas": "317–322",
+      "uso": "Leitura crítica da herança: não reduz todas as características a genes únicos ou exclui ambiente. Não utiliza afirmação universal de mendelismo do manual."
+    },
+    {
+      "documento": "NHGRI — Mendel, Johann (Gregor)",
+      "url": "https://www.genome.gov/genetics-glossary/Gregor-Johann-Mendel",
+      "consulta": "2026-10-30",
+      "uso": "Importância e limites da herança mendeliana; cruzamentos e sorteios autorais com hipóteses explícitas."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        169,
+        170
+      ],
+      "paginasImpressas": "169–170",
+      "uso": "Variação e seleção em gerações; não apresenta seleção como único processo evolutivo, teleologia ou escala de superioridade."
+    },
+    {
+      "documento": "ICMBio — Unidades de Conservação",
+      "url": "https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao",
+      "consulta": "2026-10-30",
+      "uso": "Grupos e categorias consultados; não utiliza quantidade atual como dado fixo nem afirma regras de unidade local sem plano de manejo."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        167,
+        168,
+        169,
+        170
+      ],
+      "paginasImpressas": "167–170",
+      "uso": "Comparação de mecanismos históricos, corrigindo cronologias simplificadas e sem atribuir genética moderna a Darwin; tarefa com obras originais permanece aprofundamento a documentar."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF09CI08",
+      "questoes": [
+        "cna.ef09.vida_e_evolucao.prova.08"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.hereditariedade.gametas#gametas.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI09",
+      "questoes": [
+        "cna.ef09.vida_e_evolucao.prova.09"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.genetica_de_mendel.fatores_hereditarios#fatores_hereditarios.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI10",
+      "questoes": [
+        "cna.ef09.vida_e_evolucao.prova.10"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.evolucao.lamarck#lamarck.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI11",
+      "questoes": [
+        "cna.ef09.vida_e_evolucao.prova.11"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.evolucao.selecao_natural#selecao_natural.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI12",
+      "questoes": [
+        "cna.ef09.vida_e_evolucao.prova.12"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.biodiversidade.unidades_de_conservacao#unidades_de_conservacao.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI13",
+      "questoes": [
+        "cna.ef09.vida_e_evolucao.prova.13"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.sustentabilidade.problemas_ambientais_locais#problemas_ambientais_locais.investigacao"
+      ]
+    }
+  ]
+}

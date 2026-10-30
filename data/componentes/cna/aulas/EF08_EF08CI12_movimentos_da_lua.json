@@ -1,0 +1,94 @@
+{
+  "id": "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua",
+  "componente": "cna",
+  "nivel": "EF08",
+  "ordem": 12,
+  "unidade": "Terra e Universo",
+  "titulo": "Fases da Lua e eclipses: luz e posições",
+  "bncc": [
+    "EF08CI12"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Construa modelo tridimensional de Sol/Terra/Lua com lanterna comum e bolas, sem luz nos olhos. Registre posições em quatro fases e dois tipos de eclipse, com limites de escala. Observe a Lua de local seguro em datas e horários registrados ao longo de um ciclo, com adulto quando necessário, ou use diário institucional identificado; diferencie registros próprios e de fonte. Nunca observe diretamente o Sol nem tente fotografá-lo para o modelo."
+    ],
+    "resumo": "Fases da Lua e eclipses: luz e posições",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Fases da Lua e eclipses: luz e posições</h2><h3>Ideias para investigar</h3><p>A Lua reflete luz solar. As fases resultam da fração iluminada visível da Terra conforme posições relativas no sistema; não são a sombra da Terra cobrindo a Lua a cada semana. Eclipse lunar envolve sombra terrestre sobre a Lua; solar envolve alinhamento com a Lua entre Sol e observador. Inclinação orbital explica por que não ocorre eclipse a cada lua nova ou cheia.</p><h3>Exemplo comentado</h3><p>Lua cheia mostra grande parte da face iluminada voltada para nós; lua nova tem a face iluminada voltada principalmente para o lado oposto. Um modelo com lanterna e bolas permite diferenciar perspectiva e sombra, mas tamanhos, distâncias e inclinação precisam de legenda. Não se deve generalizar o lado direito iluminado em imagens do hemisfério norte para toda observação no Brasil.</p><h3>Observe, registre e explique</h3><p>Construa modelo tridimensional de Sol/Terra/Lua com lanterna comum e bolas, sem luz nos olhos. Registre posições em quatro fases e dois tipos de eclipse, com limites de escala. Observe a Lua de local seguro em datas e horários registrados ao longo de um ciclo, com adulto quando necessário, ou use diário institucional identificado; diferencie registros próprios e de fonte. Nunca observe diretamente o Sol nem tente fotografá-lo para o modelo.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "movimentos_da_lua.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "As fases comuns da Lua resultam principalmente:",
+      "alternativas": [
+        "Da porção iluminada que vemos conforme posições relativas.",
+        "Da sombra terrestre toda semana.",
+        "De luz produzida pela própria Lua."
+      ],
+      "correta": 0,
+      "explicacao": "Lua cheia mostra grande parte da face iluminada voltada para nós; lua nova tem a face iluminada voltada principalmente para o lado oposto. Um modelo com lanterna e bolas permite diferenciar perspectiva e sombra, mas tamanhos, distâncias e inclinação precisam de legenda. Não se deve generalizar o lado direito iluminado em imagens do hemisfério norte para toda observação no Brasil.",
+      "bncc": [
+        "EF08CI12"
+      ]
+    },
+    {
+      "id": "movimentos_da_lua.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa modelo tridimensional de Sol/Terra/Lua com lanterna comum e bolas, sem luz nos olhos. Registre posições em quatro fases e dois tipos de eclipse, com limites de escala. Observe a Lua de local seguro em datas e horários registrados ao longo de um ciclo, com adulto quando necessário, ou use diário institucional identificado; diferencie registros próprios e de fonte. Nunca observe diretamente o Sol nem tente fotografá-lo para o modelo.",
+      "gabarito": "Exigir modelo, relações de iluminação/sombra, inclinação e diário datado ou pendência explícita. Não transformar simulação em observação do céu nem concluir fases como eclipses recorrentes. Nuvens ou Lua não visível são condições a registrar.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir modelo, relações de iluminação/sombra, inclinação e diário datado ou pendência explícita. Não transformar simulação em observação do céu nem concluir fases como eclipses recorrentes. Nuvens ou Lua não visível são condições a registrar.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF08CI12"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        351
+      ],
+      "paginasImpressas": "349",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NASA — Moon Phases",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "consulta": "2026-10-30",
+      "uso": "Iluminação, perspectiva e inclinação; lado iluminado em referência do hemisfério norte não é regra visual universal. Modelo e diário autorais."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Sistema Sol, Terra e Lua",
+    "titulo": "Movimentos da Lua"
+  }
+}

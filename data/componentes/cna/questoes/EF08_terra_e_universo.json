@@ -1,0 +1,388 @@
+[
+  {
+    "id": "cna.ef08.terra_e_universo.treino.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua",
+    "bncc": [
+      "EF08CI12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "As fases comuns da Lua resultam principalmente:",
+    "opcoes": [
+      "De luz produzida pela própria Lua.",
+      "Da porção iluminada que vemos conforme posições relativas.",
+      "Da sombra terrestre toda semana."
+    ],
+    "correta": 1,
+    "explicacao": "Lua cheia mostra grande parte da face iluminada voltada para nós; lua nova tem a face iluminada voltada principalmente para o lado oposto. Um modelo com lanterna e bolas permite diferenciar perspectiva e sombra, mas tamanhos, distâncias e inclinação precisam de legenda. Não se deve generalizar o lado direito iluminado em imagens do hemisfério norte para toda observação no Brasil.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Moon Phases",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Iluminação, perspectiva e inclinação; lado iluminado em referência do hemisfério norte não é regra visual universal. Modelo e diário autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.prova.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua",
+    "bncc": [
+      "EF08CI12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Por que nem toda lua nova produz eclipse solar?",
+    "opcoes": [
+      "Porque a Lua não existe nessa fase.",
+      "A inclinação da órbita e o alinhamento necessário importam.",
+      "Porque fases não dependem de posição."
+    ],
+    "correta": 1,
+    "explicacao": "Estar na fase nova não garante alinhamento que produza eclipse para um observador.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — Moon Phases",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Iluminação, perspectiva e inclinação; lado iluminado em referência do hemisfério norte não é regra visual universal. Modelo e diário autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.treino.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao",
+    "bncc": [
+      "EF08CI13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "As estações opostas entre hemisférios se relacionam principalmente:",
+    "opcoes": [
+      "À inclinação do eixo combinada à translação.",
+      "A toda Terra ficar mais próxima do Sol no verão de cada lugar.",
+      "À Lua apagar parte do Sol por meses."
+    ],
+    "correta": 0,
+    "explicacao": "Quando o hemisfério sul recebe iluminação mais direta e dias mais longos, ocorre seu verão, enquanto o norte tem inverno. A região equatorial apresenta menor variação anual na duração do dia; características locais não se reduzem a quatro paisagens de clima temperado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.prova.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao",
+    "bncc": [
+      "EF08CI13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No modelo anual, o eixo deve:",
+    "opcoes": [
+      "Manter aproximadamente a mesma orientação enquanto a Terra percorre a órbita.",
+      "Desaparecer no inverno.",
+      "Mudar livremente de direção em cada posição."
+    ],
+    "correta": 0,
+    "explicacao": "A manutenção da orientação permite comparar incidência e duração do dia entre posições.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.treino.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.clima_e_tempo.clima_x_tempo",
+    "bncc": [
+      "EF08CI14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Correntes oceânicas participam do clima porque:",
+    "opcoes": [
+      "Impedem qualquer troca de energia.",
+      "Definem sozinhas todo evento diário.",
+      "Redistribuem energia e interagem com a atmosfera."
+    ],
+    "correta": 2,
+    "explicacao": "Uma corrente oceânica pode transportar energia entre regiões; o ar não se move apenas em uma linha do equador ao polo. Modelos de células e correntes simplificam trajetórias que interagem com continentes. Comparar duas cidades requer séries e contexto, não uma única leitura de termômetro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NOAA — Ocean currents",
+        "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+        "consulta": "2026-10-30",
+        "uso": "Ventos e densidade por temperatura/salinidade na circulação; transporte energético e influência climática, sem inferência de clima local sem séries."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.prova.14",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.clima_e_tempo.clima_x_tempo",
+    "bncc": [
+      "EF08CI14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para caracterizar um clima regional é melhor usar:",
+    "opcoes": [
+      "A cor escolhida em um desenho.",
+      "Uma única tarde quente.",
+      "Registros de período amplo e fatores como latitude, relevo e oceano."
+    ],
+    "correta": 2,
+    "explicacao": "Clima envolve padrões e variabilidade ao longo de períodos, além de condições geográficas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NOAA — Ocean currents",
+        "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+        "consulta": "2026-10-30",
+        "uso": "Ventos e densidade por temperatura/salinidade na circulação; transporte energético e influência climática, sem inferência de clima local sem séries."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.treino.15",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.clima_e_tempo.previsao_do_tempo",
+    "bncc": [
+      "EF08CI15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual par variável/unidade é adequado?",
+    "opcoes": [
+      "Vento em litros de tinta.",
+      "Precipitação em milímetros.",
+      "Temperatura do ar em quilogramas."
+    ],
+    "correta": 1,
+    "explicacao": "Em uma estação didática, temperatura em °C, precipitação em mm e vento por direção/velocidade são registros distintos. Um pluviômetro improvisado só permite estimativa se geometria, escala e posição forem consideradas. Não ter instrumento para pressão não autoriza preencher a coluna com números inventados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.prova.15",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.clima_e_tempo.previsao_do_tempo",
+    "bncc": [
+      "EF08CI15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Se a turma não mediu pressão atmosférica, deve:",
+    "opcoes": [
+      "Inventar números para completar tabela.",
+      "Marcar ausência ou usar dado institucional identificado como consulta.",
+      "Copiar temperatura e chamar de pressão."
+    ],
+    "correta": 1,
+    "explicacao": "Origem do registro é parte da qualidade da evidência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.treino.16",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.mudancas_climaticas.aquecimento_global",
+    "bncc": [
+      "EF08CI16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Adaptação climática busca principalmente:",
+    "opcoes": [
+      "Reduzir vulnerabilidades e danos diante de condições climáticas.",
+      "Apagar toda história climática.",
+      "Substituir todo conhecimento por opinião."
+    ],
+    "correta": 0,
+    "explicacao": "Reduzir desperdício energético pode contribuir para mitigação quando afeta emissões; ampliar sombra e planejar proteção em ondas de calor pode ser adaptação. Plantar qualquer espécie em qualquer lugar não é solução automática. Evitar emissões não substitui medidas para pessoas já expostas a riscos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — What is the greenhouse effect?",
+        "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+        "consulta": "2026-10-30",
+        "uso": "Mecanismo e intensificação antrópica previamente consultados; projetos autorais sem equivalências de carbono inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef08.terra_e_universo.prova.16",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF08",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef08.mudancas_climaticas.aquecimento_global",
+    "bncc": [
+      "EF08CI16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual proposta tem avaliação verificável?",
+    "opcoes": [
+      "Ação com responsável, indicador, resultado e limites.",
+      "Slogan sem relação com mecanismo.",
+      "Promessa de resolver o clima sem registro."
+    ],
+    "correta": 0,
+    "explicacao": "Uma proposta precisa de implementação e evidência compatível com o alcance declarado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          351
+        ],
+        "paginasImpressas": "349",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NASA — What is the greenhouse effect?",
+        "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+        "consulta": "2026-10-30",
+        "uso": "Mecanismo e intensificação antrópica previamente consultados; projetos autorais sem equivalências de carbono inventadas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]
