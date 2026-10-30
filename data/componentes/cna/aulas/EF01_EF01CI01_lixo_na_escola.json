@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 29,
+  "unidade": "Cuidar do Ambiente Próximo",
+  "titulo": "Resíduos da escola: observar sem manusear riscos",
+  "bncc": [
+    "EF01CI01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça um mapa simples dos pontos de descarte de um espaço autorizado, sem abrir recipientes ou fotografar pessoas. Registre sinalização e uma dúvida sobre destino de papel.",
+      "Com adulto, confirme um encaminhamento de material seguro e proponha uma melhoria de informação ou redução de uso. Registre o que foi confirmado e o que está pendente."
+    ],
+    "resumo": "Resíduos da escola: observar sem manusear riscos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.materiais_do_cotidiano.descarte_de_materiais\">Depois do uso: separar e conferir o destino</button></p><h2>Resíduos da escola: observar sem manusear riscos</h2><h3>Para compreender</h3><p>Depois do uso, objetos podem continuar úteis, ser separados para encaminhamento ou exigir descarte específico. A origem do material e a coleta disponível importam. Crianças não precisam abrir sacos ou tocar resíduos para estudar o tema. Podemos observar recipientes autorizados à distância e usar cartões de materiais limpos. Uma lixeira colorida sem orientação não confirma o destino. Reutilizar e reciclar são ações diferentes e dependem do estado do objeto.</p><h3>Exemplo comentado</h3><p>Uma folha limpa usada de um lado pode ir para rascunho, e uma caixa íntegra pode guardar materiais. Pilhas, objetos cortantes ou materiais de banheiro não são amostras da aula. A equipe responsável pode informar o destino, sem expor quem descartou algo.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Faça um mapa simples dos pontos de descarte de um espaço autorizado, sem abrir recipientes ou fotografar pessoas. Registre sinalização e uma dúvida sobre destino de papel.</p><h4>Explique e aplique</h4><p>Com adulto, confirme um encaminhamento de material seguro e proponha uma melhoria de informação ou redução de uso. Registre o que foi confirmado e o que está pendente.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/\" target=\"_blank\" rel=\"noopener noreferrer\">MMA — Política dos 5Rs</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "lixo_na_escola.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma lixeira identificada para papel prova que todo papel ali será reciclado?",
+      "alternativas": [
+        "Sim, a cor encerra o processo.",
+        "Sim, em qualquer condição.",
+        "Não; encaminhamento e processamento também importam."
+      ],
+      "correta": 2,
+      "explicacao": "Uma folha limpa usada de um lado pode ir para rascunho, e uma caixa íntegra pode guardar materiais. Pilhas, objetos cortantes ou materiais de banheiro não são amostras da aula. A equipe responsável pode informar o destino, sem expor quem descartou algo.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "lixo_na_escola.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça um mapa simples dos pontos de descarte de um espaço autorizado, sem abrir recipientes ou fotografar pessoas. Registre sinalização e uma dúvida sobre destino de papel.",
+      "gabarito": "Exigir observação segura e pergunta real; não declarar que todo resíduo foi identificado ou reciclado.",
+      "rubrica": [
+        "Exigir observação segura e pergunta real; não declarar que todo resíduo foi identificado ou reciclado.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "lixo_na_escola.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, confirme um encaminhamento de material seguro e proponha uma melhoria de informação ou redução de uso. Registre o que foi confirmado e o que está pendente.",
+      "gabarito": "Relacionar ação a material/coleta e não inventar resultado ambiental ou quantidade poupada.",
+      "rubrica": [
+        "Relacionar ação a material/coleta e não inventar resultado ambiental ou quantidade poupada.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "MMA — Política dos 5Rs",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.materiais_do_cotidiano.descarte_de_materiais"
+  ],
+  "proximosPassos": [
+    "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Cuidar do Ambiente Próximo",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "titulo": "O Lixo na Escola"
+  }
+}

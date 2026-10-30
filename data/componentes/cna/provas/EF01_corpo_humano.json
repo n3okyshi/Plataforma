@@ -1,0 +1,225 @@
+{
+  "id": "cna.ef01.corpo_humano.prova",
+  "titulo": "Avaliação: Corpo Humano",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Corpo Humano",
+  "bncc": [
+    "EF01CI02"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/5 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+  "questoes": [
+    "cna.ef01.corpo_humano.cabeca_tronco_e_membros.prova.1",
+    "cna.ef01.corpo_humano.orgaos_dos_sentidos.prova.1",
+    "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo.prova.1",
+    "cna.ef01.corpo_humano.desenhando_o_corpo.prova.1",
+    "cna.ef01.corpo_humano.corpo_em_movimento.prova.1"
+  ],
+  "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.corpo_humano.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Corpo Humano",
+    "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+    "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+    "rubrica": [
+      "Atende: produção verificável e explicação coerente.",
+      "Em desenvolvimento: evidência parcial com revisão.",
+      "Retomar: produção ou relação ainda precisa ser desenvolvida."
+    ],
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Cabeça, tronco e membros: localizar no desenho — producao1",
+        "enunciado": "Observe o esquema incorporado e faça uma figura vestida ou organize cartões. Localize cabeça, tronco e membros, escrevendo ou ditando os nomes.",
+        "gabarito": "Exigir localização coerente e pelo menos quatro indicações; aceitar desenho, cartões, descrição ou execução mediada, sem avaliar semelhança estética.",
+        "rubrica": [
+          "Exigir localização coerente e pelo menos quatro indicações; aceitar desenho, cartões, descrição ou execução mediada, sem avaliar semelhança estética.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.corpo_humano.cabeca_tronco_e_membros#cabeca_tronco_e_membros.producao1"
+      },
+      {
+        "titulo": "Cabeça, tronco e membros: localizar no desenho — producao2",
+        "enunciado": "Explique onde ficam mão e pé em relação aos membros e compare duas representações sem julgar qual corpo é melhor.",
+        "gabarito": "Relacionar mão a membro superior e pé a inferior; respeitar representações diversas e não exigir um padrão corporal.",
+        "rubrica": [
+          "Relacionar mão a membro superior e pé a inferior; respeitar representações diversas e não exigir um padrão corporal.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.corpo_humano.cabeca_tronco_e_membros#cabeca_tronco_e_membros.producao2"
+      },
+      {
+        "titulo": "Sentidos: perceber de diferentes maneiras — producao1",
+        "enunciado": "Em figura vestida, marque olhos, orelhas, nariz, língua representada em cartão e pele. Relacione quatro deles a informações percebidas. Use somente objeto limpo e seguro para observar textura, se desejar.",
+        "gabarito": "Exigir localização e função, lembrando pele além da mão; aceitar descrição mediada, sem pontuar capacidade sensorial.",
+        "rubrica": [
+          "Exigir localização e função, lembrando pele além da mão; aceitar descrição mediada, sem pontuar capacidade sensorial.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.corpo_humano.orgaos_dos_sentidos#orgaos_dos_sentidos.producao1"
+      },
+      {
+        "titulo": "Sentidos: perceber de diferentes maneiras — producao2",
+        "enunciado": "Um personagem não consegue ler a placa pequena. Proponha dois apoios para receber a informação sem diagnosticar a causa.",
+        "gabarito": "Aceitar letra maior, leitura em voz, aproximação segura ou suporte acessível; não escolher óculos ou tratamento.",
+        "rubrica": [
+          "Aceitar letra maior, leitura em voz, aproximação segura ou suporte acessível; não escolher óculos ou tratamento.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.corpo_humano.orgaos_dos_sentidos#orgaos_dos_sentidos.producao2"
+      },
+      {
+        "titulo": "Partes do corpo trabalhando juntas — producao1",
+        "enunciado": "Escolha duas ações cotidianas seguras, como acessar um livro e guardar um cartão. Represente partes que podem participar e descreva uma função de cada.",
+        "gabarito": "Exigir pelo menos duas partes/funções por ação, sem exigir execução corporal ou atribuir toda ação a uma parte isolada.",
+        "rubrica": [
+          "Exigir pelo menos duas partes/funções por ação, sem exigir execução corporal ou atribuir toda ação a uma parte isolada.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo#funcoes_das_partes_do_corpo.producao1"
+      },
+      {
+        "titulo": "Partes do corpo trabalhando juntas — producao2",
+        "enunciado": "Imagine que o livro não fica aberto na mesa. Proponha adaptação que facilite a participação e explique o que ela resolve.",
+        "gabarito": "Aceitar suporte, livro digital ou ajuda combinada; relacionar recurso à tarefa, respeitando autonomia.",
+        "rubrica": [
+          "Aceitar suporte, livro digital ou ajuda combinada; relacionar recurso à tarefa, respeitando autonomia.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo#funcoes_das_partes_do_corpo.producao2"
+      },
+      {
+        "titulo": "Representar o corpo: nomes, posições e legendas — producao1",
+        "enunciado": "Produza figura vestida com cabeça, tronco e membros ou componha uma representação acessível. Faça quatro legendas e explique uma função ligada a cada região.",
+        "gabarito": "Conferir correspondência legenda/localização e função coerente; não penalizar estilo, habilidade motora ou proporção não medida.",
+        "rubrica": [
+          "Conferir correspondência legenda/localização e função coerente; não penalizar estilo, habilidade motora ou proporção não medida.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.corpo_humano.desenhando_o_corpo#desenhando_o_corpo.producao1"
+      },
+      {
+        "titulo": "Representar o corpo: nomes, posições e legendas — producao2",
+        "enunciado": "Peça a um adulto para interpretar as legendas sem adivinhar sua intenção. Revise uma indicação que ficou ambígua e registre a mudança.",
+        "gabarito": "Exigir troca de interpretação e revisão real ou registrar que ainda falta; não inventar avaliação de outra pessoa.",
+        "rubrica": [
+          "Exigir troca de interpretação e revisão real ou registrar que ainda falta; não inventar avaliação de outra pessoa.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.corpo_humano.desenhando_o_corpo#desenhando_o_corpo.producao2"
+      },
+      {
+        "titulo": "Movimentos e diferentes formas de participar — producao1",
+        "enunciado": "Com cartões ou figura articulada montada pelo adulto, mostre duas posições confortáveis do braço ou tronco. Nomeie as partes e descreva o que mudou. Não faça teste de amplitude ou força.",
+        "gabarito": "Relacionar parte e mudança de posição; aceitar manipulação assistida ou descrição de imagem, sem medir desempenho pessoal.",
+        "rubrica": [
+          "Relacionar parte e mudança de posição; aceitar manipulação assistida ou descrição de imagem, sem medir desempenho pessoal.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.corpo_humano.corpo_em_movimento#corpo_em_movimento.producao1"
+      },
+      {
+        "titulo": "Movimentos e diferentes formas de participar — producao2",
+        "enunciado": "Um objeto ficou fora do alcance de um personagem. Proponha duas mudanças no ambiente para que ele participe sem esforço desconfortável.",
+        "gabarito": "Aceitar aproximar material, ajustar altura da mesa ou oferecer recurso combinado; não responsabilizar o corpo pela barreira.",
+        "rubrica": [
+          "Aceitar aproximar material, ajustar altura da mesa ou oferecer recurso combinado; não responsabilizar o corpo pela barreira.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.corpo_humano.corpo_em_movimento#corpo_em_movimento.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF01CI02",
+      "questoes": [
+        "cna.ef01.corpo_humano.cabeca_tronco_e_membros.prova.1",
+        "cna.ef01.corpo_humano.orgaos_dos_sentidos.prova.1",
+        "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo.prova.1",
+        "cna.ef01.corpo_humano.desenhando_o_corpo.prova.1",
+        "cna.ef01.corpo_humano.corpo_em_movimento.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.corpo_humano.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.corpo_humano.cabeca_tronco_e_membros#cabeca_tronco_e_membros.producao1",
+        "cna.ef01.corpo_humano.cabeca_tronco_e_membros#cabeca_tronco_e_membros.producao2",
+        "cna.ef01.corpo_humano.orgaos_dos_sentidos#orgaos_dos_sentidos.producao1",
+        "cna.ef01.corpo_humano.orgaos_dos_sentidos#orgaos_dos_sentidos.producao2",
+        "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo#funcoes_das_partes_do_corpo.producao1",
+        "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo#funcoes_das_partes_do_corpo.producao2",
+        "cna.ef01.corpo_humano.desenhando_o_corpo#desenhando_o_corpo.producao1",
+        "cna.ef01.corpo_humano.desenhando_o_corpo#desenhando_o_corpo.producao2",
+        "cna.ef01.corpo_humano.corpo_em_movimento#corpo_em_movimento.producao1",
+        "cna.ef01.corpo_humano.corpo_em_movimento#corpo_em_movimento.producao2"
+      ]
+    }
+  ]
+}

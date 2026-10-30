@@ -1,19 +1,27 @@
 {
   "nivel": "EF01",
-  "estado": "piloto_nucleo",
-  "limites": "Evidências planejadas acumuladas; há unidades específicas implementadas e tópicos ainda sem autoria. Código vinculado não comprova produção observada ou integralidade do ano.",
+  "estado": "pronto_para_testes",
+  "limites": "Todos os 49 tópicos planejados de EF01 têm autoria, incluindo 8 extensões sinalizadas. Estado refere-se à implementação; produção observada, revisão independente, visual/acessibilidade e ambiente real pendentes. Não equivale à conclusão homologada.",
   "habilidades": [
     {
       "codigo": "EF01CI01",
       "aulas": [
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
         "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais",
         "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
         "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
         "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
-        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
-        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais"
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais",
+        "cna.ef01.observar_e_registrar.o_que_e_observar",
+        "cna.ef01.observar_e_registrar.lupa_e_instrumentos",
+        "cna.ef01.observar_e_registrar.comparar_e_descrever",
+        "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola"
       ],
       "atividades": [
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.aplicacao1",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.aplicacao2",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao1",
+        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao2",
         "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais#o_que_sao_materiais.aplicacao",
         "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais#o_que_sao_materiais.investigacao",
         "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.aplicacao1",
@@ -28,16 +36,25 @@
         "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.aplicacao2",
         "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao1",
         "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao2",
-        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.aplicacao1",
-        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.aplicacao2",
-        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao1",
-        "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao2",
         "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.aplicacao1",
         "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.aplicacao2",
         "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao1",
-        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao2"
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao2",
+        "cna.ef01.observar_e_registrar.o_que_e_observar#o_que_e_observar.aplicacao",
+        "cna.ef01.observar_e_registrar.o_que_e_observar#o_que_e_observar.producao1",
+        "cna.ef01.observar_e_registrar.o_que_e_observar#o_que_e_observar.producao2",
+        "cna.ef01.observar_e_registrar.lupa_e_instrumentos#lupa_e_instrumentos.aplicacao",
+        "cna.ef01.observar_e_registrar.lupa_e_instrumentos#lupa_e_instrumentos.producao1",
+        "cna.ef01.observar_e_registrar.lupa_e_instrumentos#lupa_e_instrumentos.producao2",
+        "cna.ef01.observar_e_registrar.comparar_e_descrever#comparar_e_descrever.aplicacao",
+        "cna.ef01.observar_e_registrar.comparar_e_descrever#comparar_e_descrever.producao1",
+        "cna.ef01.observar_e_registrar.comparar_e_descrever#comparar_e_descrever.producao2",
+        "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola#lixo_na_escola.aplicacao",
+        "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola#lixo_na_escola.producao1",
+        "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola#lixo_na_escola.producao2"
       ],
       "questoesTreino": [
+        "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola.treino.1",
         "cna.ef01.materia_e_energia.treino.01",
         "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.treino.1",
         "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.treino.2",
@@ -48,9 +65,13 @@
         "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.treino.1",
         "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.treino.2",
         "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.treino.1",
-        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.treino.2"
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.treino.2",
+        "cna.ef01.observar_e_registrar.o_que_e_observar.treino.1",
+        "cna.ef01.observar_e_registrar.lupa_e_instrumentos.treino.1",
+        "cna.ef01.observar_e_registrar.comparar_e_descrever.treino.1"
       ],
       "questoesProva": [
+        "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola.prova.1",
         "cna.ef01.materia_e_energia.prova.01",
         "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.1",
         "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.2",
@@ -61,23 +82,62 @@
         "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.1",
         "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.2",
         "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.1",
-        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.2"
+        "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.2",
+        "cna.ef01.observar_e_registrar.o_que_e_observar.prova.1",
+        "cna.ef01.observar_e_registrar.lupa_e_instrumentos.prova.1",
+        "cna.ef01.observar_e_registrar.comparar_e_descrever.prova.1"
       ],
       "homologacaoDocente": "pendente"
     },
     {
       "codigo": "EF01CI02",
       "aulas": [
-        "cna.ef01.corpo_humano.partes_do_corpo"
+        "cna.ef01.corpo_humano.partes_do_corpo",
+        "cna.ef01.corpo_humano.cabeca_tronco_e_membros",
+        "cna.ef01.corpo_humano.orgaos_dos_sentidos",
+        "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo",
+        "cna.ef01.corpo_humano.desenhando_o_corpo",
+        "cna.ef01.corpo_humano.corpo_em_movimento",
+        "cna.ef01.observar_e_registrar.desenho_como_registro"
       ],
       "atividades": [
         "cna.ef01.corpo_humano.partes_do_corpo#partes_do_corpo.aplicacao",
-        "cna.ef01.corpo_humano.partes_do_corpo#partes_do_corpo.investigacao"
+        "cna.ef01.corpo_humano.partes_do_corpo#partes_do_corpo.investigacao",
+        "cna.ef01.corpo_humano.cabeca_tronco_e_membros#cabeca_tronco_e_membros.aplicacao",
+        "cna.ef01.corpo_humano.cabeca_tronco_e_membros#cabeca_tronco_e_membros.producao1",
+        "cna.ef01.corpo_humano.cabeca_tronco_e_membros#cabeca_tronco_e_membros.producao2",
+        "cna.ef01.corpo_humano.orgaos_dos_sentidos#orgaos_dos_sentidos.aplicacao",
+        "cna.ef01.corpo_humano.orgaos_dos_sentidos#orgaos_dos_sentidos.producao1",
+        "cna.ef01.corpo_humano.orgaos_dos_sentidos#orgaos_dos_sentidos.producao2",
+        "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo#funcoes_das_partes_do_corpo.aplicacao",
+        "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo#funcoes_das_partes_do_corpo.producao1",
+        "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo#funcoes_das_partes_do_corpo.producao2",
+        "cna.ef01.corpo_humano.desenhando_o_corpo#desenhando_o_corpo.aplicacao",
+        "cna.ef01.corpo_humano.desenhando_o_corpo#desenhando_o_corpo.producao1",
+        "cna.ef01.corpo_humano.desenhando_o_corpo#desenhando_o_corpo.producao2",
+        "cna.ef01.corpo_humano.corpo_em_movimento#corpo_em_movimento.aplicacao",
+        "cna.ef01.corpo_humano.corpo_em_movimento#corpo_em_movimento.producao1",
+        "cna.ef01.corpo_humano.corpo_em_movimento#corpo_em_movimento.producao2",
+        "cna.ef01.observar_e_registrar.desenho_como_registro#desenho_como_registro.aplicacao",
+        "cna.ef01.observar_e_registrar.desenho_como_registro#desenho_como_registro.producao1",
+        "cna.ef01.observar_e_registrar.desenho_como_registro#desenho_como_registro.producao2"
       ],
       "questoesTreino": [
+        "cna.ef01.corpo_humano.cabeca_tronco_e_membros.treino.1",
+        "cna.ef01.corpo_humano.orgaos_dos_sentidos.treino.1",
+        "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo.treino.1",
+        "cna.ef01.corpo_humano.desenhando_o_corpo.treino.1",
+        "cna.ef01.corpo_humano.corpo_em_movimento.treino.1",
+        "cna.ef01.observar_e_registrar.desenho_como_registro.treino.1",
         "cna.ef01.vida_e_evolucao.treino.02"
       ],
       "questoesProva": [
+        "cna.ef01.corpo_humano.cabeca_tronco_e_membros.prova.1",
+        "cna.ef01.corpo_humano.orgaos_dos_sentidos.prova.1",
+        "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo.prova.1",
+        "cna.ef01.corpo_humano.desenhando_o_corpo.prova.1",
+        "cna.ef01.corpo_humano.corpo_em_movimento.prova.1",
+        "cna.ef01.observar_e_registrar.desenho_como_registro.prova.1",
         "cna.ef01.vida_e_evolucao.prova.02"
       ],
       "homologacaoDocente": "pendente"
@@ -85,16 +145,46 @@
     {
       "codigo": "EF01CI03",
       "aulas": [
-        "cna.ef01.higiene_e_saude.lavar_as_maos"
+        "cna.ef01.higiene_e_saude.lavar_as_maos",
+        "cna.ef01.higiene_e_saude.escovar_os_dentes",
+        "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas",
+        "cna.ef01.higiene_e_saude.higiene_antes_de_comer",
+        "cna.ef01.higiene_e_saude.higiene_e_doencas",
+        "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola"
       ],
       "atividades": [
         "cna.ef01.higiene_e_saude.lavar_as_maos#lavar_as_maos.aplicacao",
-        "cna.ef01.higiene_e_saude.lavar_as_maos#lavar_as_maos.investigacao"
+        "cna.ef01.higiene_e_saude.lavar_as_maos#lavar_as_maos.investigacao",
+        "cna.ef01.higiene_e_saude.escovar_os_dentes#escovar_os_dentes.aplicacao",
+        "cna.ef01.higiene_e_saude.escovar_os_dentes#escovar_os_dentes.producao1",
+        "cna.ef01.higiene_e_saude.escovar_os_dentes#escovar_os_dentes.producao2",
+        "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas#olhos_nariz_e_orelhas.aplicacao",
+        "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas#olhos_nariz_e_orelhas.producao1",
+        "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas#olhos_nariz_e_orelhas.producao2",
+        "cna.ef01.higiene_e_saude.higiene_antes_de_comer#higiene_antes_de_comer.aplicacao",
+        "cna.ef01.higiene_e_saude.higiene_antes_de_comer#higiene_antes_de_comer.producao1",
+        "cna.ef01.higiene_e_saude.higiene_antes_de_comer#higiene_antes_de_comer.producao2",
+        "cna.ef01.higiene_e_saude.higiene_e_doencas#higiene_e_doencas.aplicacao",
+        "cna.ef01.higiene_e_saude.higiene_e_doencas#higiene_e_doencas.producao1",
+        "cna.ef01.higiene_e_saude.higiene_e_doencas#higiene_e_doencas.producao2",
+        "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola#rotina_de_higiene_na_escola.aplicacao",
+        "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola#rotina_de_higiene_na_escola.producao1",
+        "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola#rotina_de_higiene_na_escola.producao2"
       ],
       "questoesTreino": [
+        "cna.ef01.higiene_e_saude.escovar_os_dentes.treino.1",
+        "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas.treino.1",
+        "cna.ef01.higiene_e_saude.higiene_antes_de_comer.treino.1",
+        "cna.ef01.higiene_e_saude.higiene_e_doencas.treino.1",
+        "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola.treino.1",
         "cna.ef01.vida_e_evolucao.treino.03"
       ],
       "questoesProva": [
+        "cna.ef01.higiene_e_saude.escovar_os_dentes.prova.1",
+        "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas.prova.1",
+        "cna.ef01.higiene_e_saude.higiene_antes_de_comer.prova.1",
+        "cna.ef01.higiene_e_saude.higiene_e_doencas.prova.1",
+        "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola.prova.1",
         "cna.ef01.vida_e_evolucao.prova.03"
       ],
       "homologacaoDocente": "pendente"
@@ -102,16 +192,40 @@
     {
       "codigo": "EF01CI04",
       "aulas": [
-        "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas"
+        "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas",
+        "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas",
+        "cna.ef01.diversidade_e_respeito.respeito_as_diferencas",
+        "cna.ef01.diversidade_e_respeito.acolhimento_na_escola",
+        "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam"
       ],
       "atividades": [
         "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas#caracteristicas_fisicas_dos_colegas.aplicacao",
-        "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas#caracteristicas_fisicas_dos_colegas.investigacao"
+        "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas#caracteristicas_fisicas_dos_colegas.investigacao",
+        "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas#semelhancas_e_diferencas.aplicacao",
+        "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas#semelhancas_e_diferencas.producao1",
+        "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas#semelhancas_e_diferencas.producao2",
+        "cna.ef01.diversidade_e_respeito.respeito_as_diferencas#respeito_as_diferencas.aplicacao",
+        "cna.ef01.diversidade_e_respeito.respeito_as_diferencas#respeito_as_diferencas.producao1",
+        "cna.ef01.diversidade_e_respeito.respeito_as_diferencas#respeito_as_diferencas.producao2",
+        "cna.ef01.diversidade_e_respeito.acolhimento_na_escola#acolhimento_na_escola.aplicacao",
+        "cna.ef01.diversidade_e_respeito.acolhimento_na_escola#acolhimento_na_escola.producao1",
+        "cna.ef01.diversidade_e_respeito.acolhimento_na_escola#acolhimento_na_escola.producao2",
+        "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam#todos_os_corpos_importam.aplicacao",
+        "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam#todos_os_corpos_importam.producao1",
+        "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam#todos_os_corpos_importam.producao2"
       ],
       "questoesTreino": [
+        "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas.treino.1",
+        "cna.ef01.diversidade_e_respeito.respeito_as_diferencas.treino.1",
+        "cna.ef01.diversidade_e_respeito.acolhimento_na_escola.treino.1",
+        "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam.treino.1",
         "cna.ef01.vida_e_evolucao.treino.04"
       ],
       "questoesProva": [
+        "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas.prova.1",
+        "cna.ef01.diversidade_e_respeito.respeito_as_diferencas.prova.1",
+        "cna.ef01.diversidade_e_respeito.acolhimento_na_escola.prova.1",
+        "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam.prova.1",
         "cna.ef01.vida_e_evolucao.prova.04"
       ],
       "homologacaoDocente": "pendente"
@@ -119,16 +233,46 @@
     {
       "codigo": "EF01CI05",
       "aulas": [
-        "cna.ef01.tempo_e_rotina.manha_tarde_e_noite"
+        "cna.ef01.tempo_e_rotina.manha_tarde_e_noite",
+        "cna.ef01.tempo_e_rotina.dias_da_semana",
+        "cna.ef01.tempo_e_rotina.semanas_meses_e_anos",
+        "cna.ef01.tempo_e_rotina.o_calendario_escolar",
+        "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha",
+        "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo"
       ],
       "atividades": [
         "cna.ef01.tempo_e_rotina.manha_tarde_e_noite#manha_tarde_e_noite.aplicacao",
-        "cna.ef01.tempo_e_rotina.manha_tarde_e_noite#manha_tarde_e_noite.investigacao"
+        "cna.ef01.tempo_e_rotina.manha_tarde_e_noite#manha_tarde_e_noite.investigacao",
+        "cna.ef01.tempo_e_rotina.dias_da_semana#dias_da_semana.aplicacao",
+        "cna.ef01.tempo_e_rotina.dias_da_semana#dias_da_semana.producao1",
+        "cna.ef01.tempo_e_rotina.dias_da_semana#dias_da_semana.producao2",
+        "cna.ef01.tempo_e_rotina.semanas_meses_e_anos#semanas_meses_e_anos.aplicacao",
+        "cna.ef01.tempo_e_rotina.semanas_meses_e_anos#semanas_meses_e_anos.producao1",
+        "cna.ef01.tempo_e_rotina.semanas_meses_e_anos#semanas_meses_e_anos.producao2",
+        "cna.ef01.tempo_e_rotina.o_calendario_escolar#o_calendario_escolar.aplicacao",
+        "cna.ef01.tempo_e_rotina.o_calendario_escolar#o_calendario_escolar.producao1",
+        "cna.ef01.tempo_e_rotina.o_calendario_escolar#o_calendario_escolar.producao2",
+        "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha#ontem_hoje_e_amanha.aplicacao",
+        "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha#ontem_hoje_e_amanha.producao1",
+        "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha#ontem_hoje_e_amanha.producao2",
+        "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo#instrumentos_para_medir_o_tempo.aplicacao",
+        "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo#instrumentos_para_medir_o_tempo.producao1",
+        "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo#instrumentos_para_medir_o_tempo.producao2"
       ],
       "questoesTreino": [
+        "cna.ef01.tempo_e_rotina.dias_da_semana.treino.1",
+        "cna.ef01.tempo_e_rotina.semanas_meses_e_anos.treino.1",
+        "cna.ef01.tempo_e_rotina.o_calendario_escolar.treino.1",
+        "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha.treino.1",
+        "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo.treino.1",
         "cna.ef01.terra_e_universo.treino.05"
       ],
       "questoesProva": [
+        "cna.ef01.tempo_e_rotina.dias_da_semana.prova.1",
+        "cna.ef01.tempo_e_rotina.semanas_meses_e_anos.prova.1",
+        "cna.ef01.tempo_e_rotina.o_calendario_escolar.prova.1",
+        "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha.prova.1",
+        "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo.prova.1",
         "cna.ef01.terra_e_universo.prova.05"
       ],
       "homologacaoDocente": "pendente"
@@ -136,16 +280,52 @@
     {
       "codigo": "EF01CI06",
       "aulas": [
-        "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu"
+        "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu",
+        "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais",
+        "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas",
+        "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia",
+        "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar",
+        "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno",
+        "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta"
       ],
       "atividades": [
         "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu#sol_e_lua_no_ceu.aplicacao",
-        "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu#sol_e_lua_no_ceu.investigacao"
+        "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu#sol_e_lua_no_ceu.investigacao",
+        "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais#ritmo_dos_animais.aplicacao",
+        "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais#ritmo_dos_animais.producao1",
+        "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais#ritmo_dos_animais.producao2",
+        "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas#rotina_das_pessoas.aplicacao",
+        "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas#rotina_das_pessoas.producao1",
+        "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas#rotina_das_pessoas.producao2",
+        "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia#plantas_e_o_dia.aplicacao",
+        "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia#plantas_e_o_dia.producao1",
+        "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia#plantas_e_o_dia.producao2",
+        "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar#dormir_e_acordar.aplicacao",
+        "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar#dormir_e_acordar.producao1",
+        "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar#dormir_e_acordar.producao2",
+        "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno#animais_do_entorno.aplicacao",
+        "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno#animais_do_entorno.producao1",
+        "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno#animais_do_entorno.producao2",
+        "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta#habitos_saudaveis_no_planeta.aplicacao",
+        "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta#habitos_saudaveis_no_planeta.producao1",
+        "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta#habitos_saudaveis_no_planeta.producao2"
       ],
       "questoesTreino": [
+        "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno.treino.1",
+        "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais.treino.1",
+        "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas.treino.1",
+        "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia.treino.1",
+        "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar.treino.1",
+        "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta.treino.1",
         "cna.ef01.terra_e_universo.treino.06"
       ],
       "questoesProva": [
+        "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno.prova.1",
+        "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais.prova.1",
+        "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas.prova.1",
+        "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia.prova.1",
+        "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar.prova.1",
+        "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta.prova.1",
         "cna.ef01.terra_e_universo.prova.06"
       ],
       "homologacaoDocente": "pendente"

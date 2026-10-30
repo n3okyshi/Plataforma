@@ -1,0 +1,330 @@
+[
+  {
+    "pergunta": "Um registro de um animal à tarde permite concluir que ele só age à tarde?",
+    "opcoes": [
+      "Não; mostra aquele momento e exige mais informação.",
+      "Sim, se estiver perto da escola.",
+      "Sim, uma observação basta para toda rotina."
+    ],
+    "correta": 0,
+    "explicacao": "Um caso didático descreve uma ave observada alimentando-se de manhã e um morcego em voo ao anoitecer. São descrições para comparar períodos, não identificação de todas as espécies ou prova de rotina completa. A conclusão precisa dizer em que registros se apoia.",
+    "id": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "A sucessão de dia e noite:",
+    "opcoes": [
+      "Pode orientar ritmos diferentes conforme espécie e condições.",
+      "Determina que todos os animais tenham rotina idêntica.",
+      "Não se relaciona a atividades de seres vivos."
+    ],
+    "correta": 0,
+    "explicacao": "Exemplos e séries de observação precisam respeitar a diversidade de ritmos.",
+    "id": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Todas as pessoas estudam e trabalham nos mesmos períodos?",
+    "opcoes": [
+      "Sim, em qualquer lugar.",
+      "Não; rotinas podem variar.",
+      "Sim, por definição de dia."
+    ],
+    "correta": 1,
+    "explicacao": "Um personagem estuda pela manhã e outro à tarde; um adulto pode trabalhar à noite. Não concluímos que a noite deixou de existir nem que uma pessoa vale menos por sua organização. Descanso e acesso a cuidados continuam importantes, com orientação individual quando necessária.",
+    "id": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Um responsável trabalha à noite. Isso permite concluir:",
+    "opcoes": [
+      "Que a família tem menos valor.",
+      "Apenas uma informação de rotina, sem julgamento sobre a família.",
+      "Que ninguém precisa descansar."
+    ],
+    "correta": 1,
+    "explicacao": "Comparar rotina não autoriza julgamento moral nem elimina necessidades de cuidado.",
+    "id": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "À noite, uma planta:",
+    "opcoes": [
+      "Sempre deixa de respirar.",
+      "Realiza apenas fotossíntese, sem respirar.",
+      "Continua respirando."
+    ],
+    "correta": 2,
+    "explicacao": "Um diário de determinada planta pode mostrar flor mais aberta em um horário e menos em outro. Antes de atribuir a mudança só à luz, é preciso considerar espécie, temperatura, água e outros fatores. Uma observação isolada não prova que todas as flores abrem de manhã.",
+    "id": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma flor mudou de aparência entre horários. O registro permite:",
+    "opcoes": [
+      "Concluir que toda flor tem horário idêntico.",
+      "Afirmar que a planta ficou sem vida no escuro.",
+      "Descrever o caso e investigar condições, sem generalizar todas as espécies."
+    ],
+    "correta": 2,
+    "explicacao": "Ritmos e respostas variam; observação precisa de contexto e limites.",
+    "id": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Ficar sem dormir para testar resistência é uma atividade adequada?",
+    "opcoes": [
+      "Sim, se for competição.",
+      "Sim, sempre melhora aprendizagem.",
+      "Não; o estudo usa registros e casos seguros."
+    ],
+    "correta": 2,
+    "explicacao": "Um personagem tenta descansar em ambiente muito iluminado e barulhento. A turma pode discutir reduzir estímulos e pedir ajuda ao adulto. Não é necessário testar privação de sono, ficar acordado até tarde ou comparar quem consegue dormir menos.",
+    "id": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "A luz e a escuridão podem:",
+    "opcoes": [
+      "Substituir toda necessidade de descanso.",
+      "Definir exatamente o mesmo horário para todas as pessoas.",
+      "Participar da sincronização de ritmos, junto com outras condições."
+    ],
+    "correta": 2,
+    "explicacao": "A relação com o ciclo diário não elimina diversidade nem condições de vida.",
+    "id": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

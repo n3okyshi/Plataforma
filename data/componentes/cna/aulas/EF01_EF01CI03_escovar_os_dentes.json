@@ -1,0 +1,123 @@
+{
+  "id": "cna.ef01.higiene_e_saude.escovar_os_dentes",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 6,
+  "unidade": "Higiene e Saúde",
+  "titulo": "Escovação: cuidar dos dentes com apoio",
+  "bncc": [
+    "EF01CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com modelo ou desenho, indique partes que precisam de escovação e explique por que escova e pasta não são brinquedos. Organize sequência de cuidado com adulto, sem escovação coletiva compartilhada.",
+      "Um personagem pensa que dentes de leite não precisam de cuidado. Escreva ou dite uma resposta e indique a quem pedir ajuda para aprender a escovar."
+    ],
+    "resumo": "Escovação: cuidar dos dentes com apoio",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.higiene_e_saude.lavar_as_maos\">Higiene: compreender o cuidado</button></p><h2>Escovação: cuidar dos dentes com apoio</h2><h3>Para compreender</h3><p>Restos de alimentos e placa podem permanecer nos dentes. Bactérias da boca utilizam açúcares e podem produzir ácidos que contribuem para cárie. Escovar ajuda a remover placa, e creme dental com flúor contribui para proteção. Crianças precisam de orientação e supervisão adulta, com escova macia e quantidade apropriada de pasta definida com o responsável e a equipe de saúde. Escova é de uso individual. Não se engole pasta nem se examina a boca de colegas na aula.</p><h3>Exemplo comentado</h3><p>Um desenho de dentes pode mostrar superfícies da frente, de trás e de mastigação para o adulto explicar o cuidado. Dentes de leite também precisam de higiene. Dor não é condição para cuidar, e um dente sem dor não prova ausência de problema.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Com modelo ou desenho, indique partes que precisam de escovação e explique por que escova e pasta não são brinquedos. Organize sequência de cuidado com adulto, sem escovação coletiva compartilhada.</p><h4>Explique e aplique</h4><p>Um personagem pensa que dentes de leite não precisam de cuidado. Escreva ou dite uma resposta e indique a quem pedir ajuda para aprender a escovar.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia/saude-bucal\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Saúde Bucal</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "escovar_os_dentes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma escova de dentes deve ser:",
+      "alternativas": [
+        "Compartilhada entre colegas após o uso.",
+        "Usada apenas se houver dor.",
+        "De uso individual, com cuidado orientado."
+      ],
+      "correta": 2,
+      "explicacao": "Um desenho de dentes pode mostrar superfícies da frente, de trás e de mastigação para o adulto explicar o cuidado. Dentes de leite também precisam de higiene. Dor não é condição para cuidar, e um dente sem dor não prova ausência de problema.",
+      "bncc": [
+        "EF01CI03"
+      ]
+    },
+    {
+      "id": "escovar_os_dentes.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Com modelo ou desenho, indique partes que precisam de escovação e explique por que escova e pasta não são brinquedos. Organize sequência de cuidado com adulto, sem escovação coletiva compartilhada.",
+      "gabarito": "Relacionar higiene, remoção de placa e proteção; reconhecer supervisão, uso individual e não ingestão. Não exigir relato de saúde ou prescrever quantidade individual.",
+      "rubrica": [
+        "Relacionar higiene, remoção de placa e proteção; reconhecer supervisão, uso individual e não ingestão. Não exigir relato de saúde ou prescrever quantidade individual.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI03"
+      ]
+    },
+    {
+      "id": "escovar_os_dentes.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Um personagem pensa que dentes de leite não precisam de cuidado. Escreva ou dite uma resposta e indique a quem pedir ajuda para aprender a escovar.",
+      "gabarito": "Corrigir a ideia e apontar responsável/profissional; não diagnosticar cárie nem prometer que escovar elimina todo risco.",
+      "rubrica": [
+        "Corrigir a ideia e apontar responsável/profissional; não diagnosticar cárie nem prometer que escovar elimina todo risco.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    },
+    {
+      "documento": "Ministério da Saúde — Saúde Bucal",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia/saude-bucal",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados sobre dentes de leite, higiene, cárie, escova individual, flúor e supervisão. Não transpõe faixas/quantidades ou calendário clínico como regra individual."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.higiene_e_saude.lavar_as_maos"
+  ],
+  "proximosPassos": [
+    "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Higiene e Saúde",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "titulo": "Escovar os Dentes"
+  }
+}

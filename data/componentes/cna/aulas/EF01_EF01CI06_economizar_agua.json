@@ -1,0 +1,110 @@
+{
+  "id": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 30,
+  "unidade": "Cuidar do Ambiente Próximo — Complementar",
+  "titulo": "Água: usar o necessário e garantir acesso",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise dois casos fictícios: deixar água correr sem uso e faltar água para higiene. Explique por que exigem respostas diferentes e indique a quem comunicar.",
+      "Proponha ação escolar autorizada de cuidado, com recurso e responsável. Se for executada, registre ação observada; sem medida, não invente litros economizados."
+    ],
+    "resumo": "Água: usar o necessário e garantir acesso",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Complementar · opcional:</strong> Uso responsável da água; não equivale à relação entre ciclo diário e atividades exigida em EF01CI06.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.materiais_do_cotidiano.descarte_de_materiais\">Depois do uso: separar e conferir o destino</button></p><h2>Água: usar o necessário e garantir acesso</h2><h3>Para compreender</h3><p>Esta aula é complementar: uso responsável da água amplia o percurso, mas não é por si evidência de ritmos diários de EF01CI06. Água atende alimentação, higiene e outras necessidades. Usar com responsabilidade não significa deixar de beber ou de lavar as mãos. Podemos fechar torneira quando não é necessária e avisar sobre vazamentos. Crianças não consertam encanamentos ou entram em locais técnicos. Direito de acesso e conservação precisam caminhar juntos.</p><h3>Exemplo comentado</h3><p>Enquanto ensaboamos as mãos, uma torneira que pode ser fechada com segurança não precisa continuar aberta. O cuidado deve manter a lavagem adequada e o apoio de quem precisa. Ver uma torneira pingar não permite calcular litros desperdiçados sem medida e método.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Analise dois casos fictícios: deixar água correr sem uso e faltar água para higiene. Explique por que exigem respostas diferentes e indique a quem comunicar.</p><h4>Explique e aplique</h4><p>Proponha ação escolar autorizada de cuidado, com recurso e responsável. Se for executada, registre ação observada; sem medida, não invente litros economizados.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/\" target=\"_blank\" rel=\"noopener noreferrer\">MMA — Política dos 5Rs</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "economizar_agua.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Economizar água deve incluir:",
+      "alternativas": [
+        "Impedir que todos lavem as mãos.",
+        "Usar o necessário e evitar uso sem finalidade.",
+        "Deixar de beber durante a aula."
+      ],
+      "correta": 1,
+      "explicacao": "Enquanto ensaboamos as mãos, uma torneira que pode ser fechada com segurança não precisa continuar aberta. O cuidado deve manter a lavagem adequada e o apoio de quem precisa. Ver uma torneira pingar não permite calcular litros desperdiçados sem medida e método.",
+      "bncc": []
+    },
+    {
+      "id": "economizar_agua.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Analise dois casos fictícios: deixar água correr sem uso e faltar água para higiene. Explique por que exigem respostas diferentes e indique a quem comunicar.",
+      "gabarito": "Distinguir desperdício e falta de acesso; não reduzir consumo essencial ou responsabilizar crianças por infraestrutura.",
+      "rubrica": [
+        "Distinguir desperdício e falta de acesso; não reduzir consumo essencial ou responsabilizar crianças por infraestrutura.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    },
+    {
+      "id": "economizar_agua.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Proponha ação escolar autorizada de cuidado, com recurso e responsável. Se for executada, registre ação observada; sem medida, não invente litros economizados.",
+      "gabarito": "Exigir plano específico e distinção execução/estimativa; manutenção fica com equipe adulta.",
+      "rubrica": [
+        "Exigir plano específico e distinção execução/estimativa; manutenção fica com equipe adulta.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+    },
+    {
+      "documento": "MMA — Política dos 5Rs",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+    }
+  ],
+  "complementar": true,
+  "preRequisitos": [
+    "cna.ef01.materiais_do_cotidiano.descarte_de_materiais"
+  ],
+  "proximosPassos": [
+    "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Cuidar do Ambiente Próximo",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "titulo": "Economizar Água"
+  },
+  "justificativaComplementar": "Uso responsável da água; não equivale à relação entre ciclo diário e atividades exigida em EF01CI06."
+}

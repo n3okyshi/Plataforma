@@ -1,0 +1,108 @@
+{
+  "id": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 33,
+  "unidade": "Cuidar do Ambiente Próximo — Complementar",
+  "titulo": "Terra: água e diferentes representações",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare globo disponível e desenho esquemático ou descrições mediadas. Localize legenda de água e terra, indicando o que é modelo e o que não foi observado diretamente.",
+      "Explique por que muita cor azul num desenho não prova que aquela água é própria para beber nem mede a quantidade no planeta."
+    ],
+    "resumo": "Terra: água e diferentes representações",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Complementar · opcional:</strong> Representações da Terra e água como extensão; tema não atribuído como cobertura de EF01CI06.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola\">Plantas da escola: observar e cuidar sem generalizar</button></p><h2>Terra: água e diferentes representações</h2><h3>Para compreender</h3><p>Esta é uma extensão introdutória de representações do planeta, tema aprofundado no 3º ano. Mapas, globos e desenhos representam a Terra com convenções; não são o planeta real. Em muitos modelos, azul indica água, mas precisamos de legenda. A existência de muita água não significa que toda ela pode ser bebida. Há oceanos salgados, gelo e outras formas de distribuição. Não usamos a cor de uma imagem como teste de potabilidade.</p><h3>Exemplo comentado</h3><p>O esquema desta aula é autoral e simplificado, não fotografia de satélite nem mapa com áreas medidas. Um globo preserva forma esférica geral; uma folha é plana. Comparar representações ajuda a fazer perguntas, mas não permite medir a proporção exata de água só contando cores num desenho decorativo.</p><svg viewBox=\"0 0 260 250\" role=\"img\" aria-label=\"Desenho esquemático autoral da Terra: círculo azul com manchas verdes convencionais. Não é mapa, fotografia, medida da água nem representação em escala.\"><circle cx=\"130\" cy=\"105\" r=\"80\" fill=\"#4c8ed9\" stroke=\"#233\"/><path d=\"m80 55 40 10 10 25-25 30 5 25-25 15-15-40zm90 35 25 10-10 30-30-15z\" fill=\"#78ad6c\"/><text x=\"18\" y=\"220\" fill=\"#111\" font-size=\"14\">Esquema; água/terra por convenção.</text></svg><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Compare globo disponível e desenho esquemático ou descrições mediadas. Localize legenda de água e terra, indicando o que é modelo e o que não foi observado diretamente.</p><h4>Explique e aplique</h4><p>Explique por que muita cor azul num desenho não prova que aquela água é própria para beber nem mede a quantidade no planeta.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber\" target=\"_blank\" rel=\"noopener noreferrer\">Funasa — Água transparente é sempre segura para beber?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "nosso_planeta_azul.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em um mapa, a cor azul deve ser interpretada com:",
+      "alternativas": [
+        "A legenda e o propósito da representação.",
+        "A regra de que todo azul pode ser bebido.",
+        "A certeza de que é fotografia real."
+      ],
+      "correta": 0,
+      "explicacao": "O esquema desta aula é autoral e simplificado, não fotografia de satélite nem mapa com áreas medidas. Um globo preserva forma esférica geral; uma folha é plana. Comparar representações ajuda a fazer perguntas, mas não permite medir a proporção exata de água só contando cores num desenho decorativo.",
+      "bncc": []
+    },
+    {
+      "id": "nosso_planeta_azul.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Compare globo disponível e desenho esquemático ou descrições mediadas. Localize legenda de água e terra, indicando o que é modelo e o que não foi observado diretamente.",
+      "gabarito": "Exigir distinção representação/realidade, sem exigir recurso ausente; registrar se houve apenas descrição.",
+      "rubrica": [
+        "Exigir distinção representação/realidade, sem exigir recurso ausente; registrar se houve apenas descrição.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    },
+    {
+      "id": "nosso_planeta_azul.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que muita cor azul num desenho não prova que aquela água é própria para beber nem mede a quantidade no planeta.",
+      "gabarito": "Distinguir convenção e medida; potabilidade exige controle e informação apropriados.",
+      "rubrica": [
+        "Distinguir convenção e medida; potabilidade exige controle e informação apropriados.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+    },
+    {
+      "documento": "Funasa — Água transparente é sempre segura para beber?",
+      "url": "https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre aparência e controle de potabilidade. Sem parâmetros normativos, doses de tratamento, teste por consumo ou redistribuição de imagens."
+    }
+  ],
+  "complementar": true,
+  "preRequisitos": [
+    "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Cuidar do Ambiente Próximo",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "titulo": "Nosso Planeta Azul"
+  },
+  "justificativaComplementar": "Representações da Terra e água como extensão; tema não atribuído como cobertura de EF01CI06."
+}

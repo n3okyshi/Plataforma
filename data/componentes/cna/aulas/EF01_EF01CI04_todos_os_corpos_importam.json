@@ -1,0 +1,115 @@
+{
+  "id": "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 14,
+  "unidade": "Diversidade e Respeito",
+  "titulo": "Todos os corpos têm lugar e direitos",
+  "bncc": [
+    "EF01CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Produza cartaz ou narrativa curta com três personagens diversos participando da mesma atividade por caminhos diferentes. Evite associar aparência a caráter ou capacidade.",
+      "Revise a produção: alguém ficou reduzido ao recurso que usa? Acrescente interesse, escolha ou fala própria e explique a alteração."
+    ],
+    "resumo": "Todos os corpos têm lugar e direitos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.diversidade_e_respeito.acolhimento_na_escola\">Acolher é garantir participação</button></p><h2>Todos os corpos têm lugar e direitos</h2><h3>Para compreender</h3><p>Corpos têm diferentes formas, ritmos, características e modos de agir. Todos merecem cuidado, respeito e acesso às atividades. Um corpo não perde valor porque usa prótese, cadeira de rodas, óculos ou outra ajuda. Não se exige demonstrar força, ouvir, enxergar ou mover-se de uma forma única para pertencer. Desenhos e histórias podem representar essa diversidade sem transformar uma pessoa em exemplo de pena ou superação obrigatória.</p><h3>Exemplo comentado</h3><p>Uma história mostra personagens que acessam a leitura de modos diferentes. Eles podem ser autores, leitores, colegas e pessoas com muitos interesses. O recurso de apoio é parte da situação, não sua única característica. O ambiente pode ser reorganizado para que todos participem.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Produza cartaz ou narrativa curta com três personagens diversos participando da mesma atividade por caminhos diferentes. Evite associar aparência a caráter ou capacidade.</p><h4>Explique e aplique</h4><p>Revise a produção: alguém ficou reduzido ao recurso que usa? Acrescente interesse, escolha ou fala própria e explique a alteração.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.unicef.org/brazil/inclusao-escolar\" target=\"_blank\" rel=\"noopener noreferrer\">UNICEF — Inclusão escolar</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "todos_os_corpos_importam.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Usar cadeira de rodas ou óculos:",
+      "alternativas": [
+        "Não diminui o valor nem o direito de participar.",
+        "Define todos os interesses da pessoa.",
+        "Impede qualquer papel ativo na turma."
+      ],
+      "correta": 0,
+      "explicacao": "Uma história mostra personagens que acessam a leitura de modos diferentes. Eles podem ser autores, leitores, colegas e pessoas com muitos interesses. O recurso de apoio é parte da situação, não sua única característica. O ambiente pode ser reorganizado para que todos participem.",
+      "bncc": [
+        "EF01CI04"
+      ]
+    },
+    {
+      "id": "todos_os_corpos_importam.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Produza cartaz ou narrativa curta com três personagens diversos participando da mesma atividade por caminhos diferentes. Evite associar aparência a caráter ou capacidade.",
+      "gabarito": "Exigir diversidade e participação com papéis ativos; aceitar texto ditado, desenhos ou cartões, sem avaliar estética.",
+      "rubrica": [
+        "Exigir diversidade e participação com papéis ativos; aceitar texto ditado, desenhos ou cartões, sem avaliar estética.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI04"
+      ]
+    },
+    {
+      "id": "todos_os_corpos_importam.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Revise a produção: alguém ficou reduzido ao recurso que usa? Acrescente interesse, escolha ou fala própria e explique a alteração.",
+      "gabarito": "Reconhecer representação respeitosa e revisão; não exigir que personagem seja herói para merecer respeito.",
+      "rubrica": [
+        "Reconhecer representação respeitosa e revisão; não exigir que personagem seja herói para merecer respeito.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "UNICEF — Inclusão escolar",
+      "url": "https://www.unicef.org/brazil/inclusao-escolar",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.diversidade_e_respeito.acolhimento_na_escola"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Diversidade e Respeito",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "titulo": "Todos os Corpos Importam"
+  }
+}

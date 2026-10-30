@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.observar_e_registrar.o_que_e_observar",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 24,
+  "unidade": "Observar e Registrar",
+  "titulo": "Observar é registrar com atenção",
+  "bncc": [
+    "EF01CI01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Observe dois objetos limpos e seguros e registre três características, com fala, desenho ou apoio. Separe uma informação observada de uma opinião ou hipótese.",
+      "Compare uma característica dos dois objetos e diga como procuraria resposta para algo que ficou incerto."
+    ],
+    "resumo": "Observar é registrar com atenção",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.materiais_do_cotidiano.o_que_sao_materiais\">Materiais: comparar, usar e descartar</button></p><h2>Observar é registrar com atenção</h2><h3>Para compreender</h3><p>Observar é prestar atenção a características de algo por meios adequados e seguros. Podemos olhar, explorar textura de material limpo quando possível ou receber descrição mediada. Não é necessário usar todos os sentidos. Opinião e hipótese podem acompanhar o registro, mas precisam ser distinguidas: acho bonito não é a mesma informação que é flexível. A comparação pede indicar amostras e critério. Dúvida não deve ser preenchida por invenção.</p><h3>Exemplo comentado</h3><p>Uma tampa foi descrita como azul e rígida num teste leve; dizer que deve ser de metal por brilhar é hipótese de identificação. O adulto pode conferir a composição por informação do objeto. Sem confirmação, registramos que não sabemos.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Observe dois objetos limpos e seguros e registre três características, com fala, desenho ou apoio. Separe uma informação observada de uma opinião ou hipótese.</p><h4>Explique e aplique</h4><p>Compare uma característica dos dois objetos e diga como procuraria resposta para algo que ficou incerto.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "o_que_e_observar.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual frase distingue melhor observação e hipótese?",
+      "alternativas": [
+        "Brilha, então é metal com certeza.",
+        "Observei brilho; o material ainda precisa de confirmação.",
+        "É bonito, portanto é flexível."
+      ],
+      "correta": 1,
+      "explicacao": "Uma tampa foi descrita como azul e rígida num teste leve; dizer que deve ser de metal por brilhar é hipótese de identificação. O adulto pode conferir a composição por informação do objeto. Sem confirmação, registramos que não sabemos.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "o_que_e_observar.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Observe dois objetos limpos e seguros e registre três características, com fala, desenho ou apoio. Separe uma informação observada de uma opinião ou hipótese.",
+      "gabarito": "Exigir objetos identificados e características reais; aceitar mediação sem transformar hipótese em material confirmado.",
+      "rubrica": [
+        "Exigir objetos identificados e características reais; aceitar mediação sem transformar hipótese em material confirmado.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "o_que_e_observar.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare uma característica dos dois objetos e diga como procuraria resposta para algo que ficou incerto.",
+      "gabarito": "Exigir critério comum e caminho de consulta/teste seguro; não testar por gosto, cheiro ou destruição.",
+      "rubrica": [
+        "Exigir critério comum e caminho de consulta/teste seguro; não testar por gosto, cheiro ou destruição.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais"
+  ],
+  "proximosPassos": [
+    "cna.ef01.observar_e_registrar.lupa_e_instrumentos"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Observar e Registrar",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "titulo": "O Que É Observar"
+  }
+}

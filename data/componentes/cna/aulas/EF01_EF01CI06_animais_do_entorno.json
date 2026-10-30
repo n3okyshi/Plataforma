@@ -1,0 +1,115 @@
+{
+  "id": "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 32,
+  "unidade": "Cuidar do Ambiente Próximo",
+  "titulo": "Registrar atividades dos animais em horários seguros",
+  "bncc": [
+    "EF01CI06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com adulto, observe de lugar seguro em dois horários permitidos ou consulte registros de fonte identificada. Anote período e atividade, ou não visto, sem expor endereço.",
+      "Compare os registros e explique o que sugerem sobre atividade e período e o que não permitem concluir."
+    ],
+    "resumo": "Registrar atividades dos animais em horários seguros",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola\">Resíduos da escola: observar sem manusear riscos</button></p><h2>Registrar atividades dos animais em horários seguros</h2><h3>Para compreender</h3><p>Observar animais do entorno pode fornecer exemplos de atividades ao longo do dia. Horário, data, local geral e condição ajudam a interpretar. Um animal não visto não está necessariamente ausente: pode estar abrigado ou em outro lugar. Para relacionar comportamento a períodos, precisamos de mais de um registro ou fonte. Não se deve capturar, alimentar, tocar ninhos ou visitar locais à noite para completar a tarefa.</p><h3>Exemplo comentado</h3><p>Um diário pode registrar ave ciscando de manhã e nenhuma ave vista em outro momento. Isso não prova que todas as aves só se alimentam pela manhã. O resultado registra o esforço de observação e seu limite, sem transformar ausência de visão em ausência definitiva.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Com adulto, observe de lugar seguro em dois horários permitidos ou consulte registros de fonte identificada. Anote período e atividade, ou não visto, sem expor endereço.</p><h4>Explique e aplique</h4><p>Compare os registros e explique o que sugerem sobre atividade e período e o que não permitem concluir.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms\" target=\"_blank\" rel=\"noopener noreferrer\">NIGMS — Circadian Rhythms</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "animais_do_entorno.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Não ver um animal no horário do registro significa:",
+      "alternativas": [
+        "Que a espécie desapareceu para sempre.",
+        "Que não foi visto naquele esforço de observação.",
+        "Que ele nunca esteve naquele ambiente."
+      ],
+      "correta": 1,
+      "explicacao": "Um diário pode registrar ave ciscando de manhã e nenhuma ave vista em outro momento. Isso não prova que todas as aves só se alimentam pela manhã. O resultado registra o esforço de observação e seu limite, sem transformar ausência de visão em ausência definitiva.",
+      "bncc": [
+        "EF01CI06"
+      ]
+    },
+    {
+      "id": "animais_do_entorno.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, observe de lugar seguro em dois horários permitidos ou consulte registros de fonte identificada. Anote período e atividade, ou não visto, sem expor endereço.",
+      "gabarito": "Exigir origem, horário e comportamento/ausência de observação; sem exigir fotografia ou identificação de espécie desconhecida.",
+      "rubrica": [
+        "Exigir origem, horário e comportamento/ausência de observação; sem exigir fotografia ou identificação de espécie desconhecida.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI06"
+      ]
+    },
+    {
+      "id": "animais_do_entorno.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare os registros e explique o que sugerem sobre atividade e período e o que não permitem concluir.",
+      "gabarito": "Relacionar ao ciclo diário com limite e necessidade de mais dados, evitando regra para todo grupo.",
+      "rubrica": [
+        "Relacionar ao ciclo diário com limite e necessidade de mais dados, evitando regra para todo grupo.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "NIGMS — Circadian Rhythms",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+      "consulta": "2026-10-30",
+      "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Cuidar do Ambiente Próximo",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "titulo": "Animais do Entorno"
+  }
+}

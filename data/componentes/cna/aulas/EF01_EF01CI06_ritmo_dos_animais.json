@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 20,
+  "unidade": "Dia e Noite na Vida dos Seres Vivos",
+  "titulo": "Animais: atividades em diferentes períodos",
+  "bncc": [
+    "EF01CI06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Organize cartões do caso em manhã, tarde, noite ou transição. Para cada animal, diferencie o que o registro mostra e o que seria preciso observar para conhecer sua rotina.",
+      "Com adulto, observe um animal do entorno à distância em horário seguro ou consulte registro identificado. Anote espécie se conhecida, comportamento, data e período, sem alimentar, tocar, capturar ou visitar abrigo."
+    ],
+    "resumo": "Animais: atividades em diferentes períodos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu\">Dia, noite e atividades dos seres vivos</button></p><h2>Animais: atividades em diferentes períodos</h2><h3>Para compreender</h3><p>A sucessão de dias e noites se relaciona aos ritmos de muitos seres vivos. Há animais mais ativos durante o dia, outros à noite e outros em períodos de transição. Isso varia entre espécies e condições; não significa que toda ave é diurna ou que todo animal noturno dorme a noite inteira. Observar um indivíduo em um instante não revela sozinho sua rotina. Podemos analisar registros de fonte sem sair à noite ou perturbar animais.</p><h3>Exemplo comentado</h3><p>Um caso didático descreve uma ave observada alimentando-se de manhã e um morcego em voo ao anoitecer. São descrições para comparar períodos, não identificação de todas as espécies ou prova de rotina completa. A conclusão precisa dizer em que registros se apoia.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Organize cartões do caso em manhã, tarde, noite ou transição. Para cada animal, diferencie o que o registro mostra e o que seria preciso observar para conhecer sua rotina.</p><h4>Explique e aplique</h4><p>Com adulto, observe um animal do entorno à distância em horário seguro ou consulte registro identificado. Anote espécie se conhecida, comportamento, data e período, sem alimentar, tocar, capturar ou visitar abrigo.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms\" target=\"_blank\" rel=\"noopener noreferrer\">NIGMS — Circadian Rhythms</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "ritmo_dos_animais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um registro de um animal à tarde permite concluir que ele só age à tarde?",
+      "alternativas": [
+        "Sim, uma observação basta para toda rotina.",
+        "Não; mostra aquele momento e exige mais informação.",
+        "Sim, se estiver perto da escola."
+      ],
+      "correta": 1,
+      "explicacao": "Um caso didático descreve uma ave observada alimentando-se de manhã e um morcego em voo ao anoitecer. São descrições para comparar períodos, não identificação de todas as espécies ou prova de rotina completa. A conclusão precisa dizer em que registros se apoia.",
+      "bncc": [
+        "EF01CI06"
+      ]
+    },
+    {
+      "id": "ritmo_dos_animais.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Organize cartões do caso em manhã, tarde, noite ou transição. Para cada animal, diferencie o que o registro mostra e o que seria preciso observar para conhecer sua rotina.",
+      "gabarito": "Exigir período e limite de inferência; não universalizar todos os animais de um grupo.",
+      "rubrica": [
+        "Exigir período e limite de inferência; não universalizar todos os animais de um grupo.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI06"
+      ]
+    },
+    {
+      "id": "ritmo_dos_animais.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, observe um animal do entorno à distância em horário seguro ou consulte registro identificado. Anote espécie se conhecida, comportamento, data e período, sem alimentar, tocar, capturar ou visitar abrigo.",
+      "gabarito": "Exigir observação ou consulta real com origem; animal não visto também pode ser registrado sem inventar presença.",
+      "rubrica": [
+        "Exigir observação ou consulta real com origem; animal não visto também pode ser registrado sem inventar presença.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "NIGMS — Circadian Rhythms",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+      "consulta": "2026-10-30",
+      "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu"
+  ],
+  "proximosPassos": [
+    "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "titulo": "O Ritmo dos Animais"
+  }
+}

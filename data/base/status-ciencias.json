@@ -5,8 +5,8 @@
   "niveis": [
     {
       "nivel": "EF01",
-      "aulas": 11,
-      "atividades": 32,
+      "aulas": 49,
+      "atividades": 146,
       "habilidadesComRecortes": [
         "EF01CI01",
         "EF01CI02",
@@ -15,50 +15,12 @@
         "EF01CI05",
         "EF01CI06"
       ],
-      "questoesTreino": 16,
-      "itensProva": 16,
-      "provas": 4,
-      "topicosPlanejadosSemAutoria": [
-        "cna.ef01.corpo_humano.cabeca_tronco_e_membros",
-        "cna.ef01.corpo_humano.orgaos_dos_sentidos",
-        "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo",
-        "cna.ef01.corpo_humano.desenhando_o_corpo",
-        "cna.ef01.corpo_humano.corpo_em_movimento",
-        "cna.ef01.higiene_e_saude.escovar_os_dentes",
-        "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas",
-        "cna.ef01.higiene_e_saude.higiene_antes_de_comer",
-        "cna.ef01.higiene_e_saude.higiene_e_doencas",
-        "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola",
-        "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas",
-        "cna.ef01.diversidade_e_respeito.respeito_as_diferencas",
-        "cna.ef01.diversidade_e_respeito.acolhimento_na_escola",
-        "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam",
-        "cna.ef01.tempo_e_rotina.dias_da_semana",
-        "cna.ef01.tempo_e_rotina.semanas_meses_e_anos",
-        "cna.ef01.tempo_e_rotina.o_calendario_escolar",
-        "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha",
-        "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo",
-        "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais",
-        "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas",
-        "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia",
-        "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar",
-        "cna.ef01.observar_e_registrar.o_que_e_observar",
-        "cna.ef01.observar_e_registrar.lupa_e_instrumentos",
-        "cna.ef01.observar_e_registrar.desenho_como_registro",
-        "cna.ef01.observar_e_registrar.comparar_e_descrever",
-        "cna.ef01.observar_e_registrar.cuidado_ao_experimentar",
-        "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola",
-        "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua",
-        "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola",
-        "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno",
-        "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul",
-        "cna.ef01.saude_e_ambiente.ar_que_respiramos",
-        "cna.ef01.saude_e_ambiente.agua_limpa_para_todos",
-        "cna.ef01.saude_e_ambiente.som_e_barulho",
-        "cna.ef01.saude_e_ambiente.luz_e_saude",
-        "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta"
-      ],
-      "estado": "parcial"
+      "questoesTreino": 54,
+      "itensProva": 54,
+      "provas": 15,
+      "topicosPlanejadosSemAutoria": [],
+      "estado": "pronto_para_testes",
+      "limiteDoEstado": "Implementação dos tópicos planejados, incluindo complementares. Aplicação e homologação pendentes."
     },
     {
       "nivel": "EF02",
@@ -603,6 +565,6 @@
     "Revisão visual e acessibilidade.",
     "Autenticação, Firebase e cache reais."
   ],
-  "limites": "130 sequências e 32 avaliações acumuladas. Quatro unidades específicas e um módulo complementar implementados para testes, além dos núcleos anuais. Demais tópicos, produção observada e homologação pendentes; nenhum ano concluído.",
-  "ultimoLote": "data/componentes/cna/lote_materiais_som_luz.json"
+  "limites": "EF01: 49 tópicos com autoria, 8 complementares, implementação para testes; sem homologação. Ciências EF02–EF09 continua parcial, com 328 tópicos sem autoria. Acumulado: 168 aulas, 412 atividades, 187 itens por banco, 43 avaliações.",
+  "ultimoLote": "data/componentes/cna/lote_EF01_temas_restantes.json"
 }

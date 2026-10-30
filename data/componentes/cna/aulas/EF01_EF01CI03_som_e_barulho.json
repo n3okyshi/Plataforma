@@ -1,0 +1,110 @@
+{
+  "id": "cna.ef01.saude_e_ambiente.som_e_barulho",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 36,
+  "unidade": "Saúde e Ambiente — Complementar",
+  "titulo": "Sons do ambiente e conforto",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "No caso fictício do jogo, identifique função do aviso e duas alternativas para comunicar sem intensidade desconfortável. Use desenhos ou cartões, sem reproduzir ruído alto.",
+      "Com adulto, faça mapa qualitativo de sons de um espaço em horário autorizado. Registre fonte e condição, sem usar aplicativo como medição clínica ou inventar decibéis."
+    ],
+    "resumo": "Sons do ambiente e conforto",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Complementar · opcional:</strong> Cuidado auditivo e ambiente; extensão relacionada a tema posterior, sem atribuir cobertura de EF01CI03 por código legado.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.saude_e_ambiente.agua_limpa_para_todos\">Água segura: aparência não é garantia</button></p><h2>Sons do ambiente e conforto</h2><h3>Para compreender</h3><p>Esta extensão antecipa hábitos de cuidado auditivo, aprofundados em anos posteriores. Sons podem informar, comunicar ou incomodar conforme intensidade, duração, contexto e percepção. O mesmo ambiente pode afetar pessoas de formas diferentes. Não avaliamos audição de colegas nem fazemos competição de gritos. Podemos combinar volume confortável e sinal visual, reduzir fontes desnecessárias e pedir apoio ao adulto. Não é necessário expor alguém ao ruído para justificar cuidado.</p><h3>Exemplo comentado</h3><p>Um jogo usa aviso muito forte para chamar atenção. A turma pode propor sinal visual ou sonoro mais suave, mantendo a função. Silêncio completo nem sempre é possível ou necessário; o objetivo é favorecer comunicação e conforto sem excluir quem precisa de outro suporte.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>No caso fictício do jogo, identifique função do aviso e duas alternativas para comunicar sem intensidade desconfortável. Use desenhos ou cartões, sem reproduzir ruído alto.</p><h4>Explique e aplique</h4><p>Com adulto, faça mapa qualitativo de sons de um espaço em horário autorizado. Registre fonte e condição, sem usar aplicativo como medição clínica ou inventar decibéis.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "som_e_barulho.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para chamar atenção sem desconforto, pode-se:",
+      "alternativas": [
+        "Usar sinal combinado e acessível em volume confortável.",
+        "Aumentar até todos reclamarem.",
+        "Exigir que ninguém relate incômodo."
+      ],
+      "correta": 0,
+      "explicacao": "Um jogo usa aviso muito forte para chamar atenção. A turma pode propor sinal visual ou sonoro mais suave, mantendo a função. Silêncio completo nem sempre é possível ou necessário; o objetivo é favorecer comunicação e conforto sem excluir quem precisa de outro suporte.",
+      "bncc": []
+    },
+    {
+      "id": "som_e_barulho.producao1",
+      "tipo": "discursiva",
+      "enunciado": "No caso fictício do jogo, identifique função do aviso e duas alternativas para comunicar sem intensidade desconfortável. Use desenhos ou cartões, sem reproduzir ruído alto.",
+      "gabarito": "Relacionar alternativa à função e acessibilidade; não exigir tolerância igual de todos.",
+      "rubrica": [
+        "Relacionar alternativa à função e acessibilidade; não exigir tolerância igual de todos.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    },
+    {
+      "id": "som_e_barulho.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, faça mapa qualitativo de sons de um espaço em horário autorizado. Registre fonte e condição, sem usar aplicativo como medição clínica ou inventar decibéis.",
+      "gabarito": "Exigir observação ou caso identificado, reconhecimento de percepção diversa e ausência de medida inventada.",
+      "rubrica": [
+        "Exigir observação ou caso identificado, reconhecimento de percepção diversa e ausência de medida inventada.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    }
+  ],
+  "complementar": true,
+  "preRequisitos": [
+    "cna.ef01.saude_e_ambiente.agua_limpa_para_todos"
+  ],
+  "proximosPassos": [
+    "cna.ef01.saude_e_ambiente.luz_e_saude"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Saúde e Ambiente",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "titulo": "Som e Barulho"
+  },
+  "justificativaComplementar": "Cuidado auditivo e ambiente; extensão relacionada a tema posterior, sem atribuir cobertura de EF01CI03 por código legado."
+}

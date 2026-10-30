@@ -1,0 +1,80 @@
+[
+  {
+    "pergunta": "Para identificar um plástico desconhecido, a turma deve:",
+    "opcoes": [
+      "Queimá-lo para observar fumaça.",
+      "Consultar informações com adulto e usar comparação segura.",
+      "Provar um pedaço."
+    ],
+    "correta": 1,
+    "explicacao": "Para comparar materiais, cartões e amostras limpas podem atender. Não precisamos queimar um plástico para descobrir seu nome. Interromper diante de risco faz parte de investigar, não é falha. O adulto decide manejo de ferramentas e organização do espaço.",
+    "id": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar — Complementar",
+    "aulaId": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Se a atividade não pode ser feita com segurança:",
+    "opcoes": [
+      "É preciso fazer mesmo assim.",
+      "Deve-se declarar execução sem realizá-la.",
+      "É possível usar modelo identificado ou adiar a execução."
+    ],
+    "correta": 2,
+    "explicacao": "Limites e alternativas precisam aparecer no registro.",
+    "id": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar — Complementar",
+    "aulaId": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  }
+]

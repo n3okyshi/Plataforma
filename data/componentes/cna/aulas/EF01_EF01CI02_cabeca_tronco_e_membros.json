@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.corpo_humano.cabeca_tronco_e_membros",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 1,
+  "unidade": "Corpo Humano",
+  "titulo": "Cabeça, tronco e membros: localizar no desenho",
+  "bncc": [
+    "EF01CI02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Observe o esquema incorporado e faça uma figura vestida ou organize cartões. Localize cabeça, tronco e membros, escrevendo ou ditando os nomes.",
+      "Explique onde ficam mão e pé em relação aos membros e compare duas representações sem julgar qual corpo é melhor."
+    ],
+    "resumo": "Cabeça, tronco e membros: localizar no desenho",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.corpo_humano.partes_do_corpo\">Partes do corpo e diferentes formas de agir</button></p><h2>Cabeça, tronco e membros: localizar no desenho</h2><h3>Para compreender</h3><p>Podemos localizar e nomear regiões do corpo. A cabeça inclui rosto e outras partes; o tronco reúne tórax e abdome; braços e pernas são membros. Mão faz parte do membro superior e pé, do inferior. O pescoço liga cabeça e tronco. Esses nomes ajudam a conversar e representar, mas os corpos têm formas e possibilidades diversas. Um desenho com duas mãos e dois pés é um exemplo, não uma exigência para reconhecer alguém como pessoa.</p><h3>Exemplo comentado</h3><p>Em uma figura vestida, podemos apontar cabeça, tronco, braço e perna. Não é preciso tocar o corpo de colegas, tirar roupa ou comparar tamanhos. Quem usa comunicação alternativa pode escolher cartões; o adulto pode registrar a indicação.</p><svg viewBox=\"0 0 620 390\" role=\"img\" aria-label=\"Esquema autoral de pessoa vestida com cabeça, pescoço, tronco e membros. As mãos ficam nos membros superiores e pés nos inferiores. Modelo simplificado, sem escala, que não representa todas as formas corporais.\"><g fill=\"#dceaf5\" stroke=\"#243b53\" stroke-width=\"3\"><circle cx=\"230\" cy=\"55\" r=\"28\"/><path d=\"M217 83v20h26V83\"/><rect x=\"190\" y=\"103\" width=\"80\" height=\"126\" rx=\"10\"/><path d=\"m190 115-62 70 18 16 52-58m72-28 62 70-18 16-52-58M198 229l-12 117h26l18-100 18 100h26l-12-117\"/><ellipse cx=\"130\" cy=\"202\" rx=\"15\" ry=\"13\"/><ellipse cx=\"330\" cy=\"202\" rx=\"15\" ry=\"13\"/><path d=\"M186 346h26v18h-38v-9zm62 0h26l12 9v9h-38z\"/></g><g fill=\"#111\" font-size=\"16\"><text x=\"300\" y=\"55\">Cabeça</text><text x=\"290\" y=\"99\">Pescoço</text><text x=\"290\" y=\"155\">Tronco</text><text x=\"360\" y=\"200\">Membro superior / mão</text><text x=\"310\" y=\"300\">Membro inferior</text><text x=\"310\" y=\"365\">Pé</text></g><g stroke=\"#243b53\"><path d=\"M260 55h30M244 92h36M270 150h10M344 200h8M266 295h34M282 360h18\"/></g></svg><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Observe o esquema incorporado e faça uma figura vestida ou organize cartões. Localize cabeça, tronco e membros, escrevendo ou ditando os nomes.</p><h4>Explique e aplique</h4><p>Explique onde ficam mão e pé em relação aos membros e compare duas representações sem julgar qual corpo é melhor.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "cabeca_tronco_e_membros.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No esquema, a mão é parte de qual região?",
+      "alternativas": [
+        "Membro superior.",
+        "Tronco.",
+        "Cabeça."
+      ],
+      "correta": 0,
+      "explicacao": "Em uma figura vestida, podemos apontar cabeça, tronco, braço e perna. Não é preciso tocar o corpo de colegas, tirar roupa ou comparar tamanhos. Quem usa comunicação alternativa pode escolher cartões; o adulto pode registrar a indicação.",
+      "bncc": [
+        "EF01CI02"
+      ]
+    },
+    {
+      "id": "cabeca_tronco_e_membros.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Observe o esquema incorporado e faça uma figura vestida ou organize cartões. Localize cabeça, tronco e membros, escrevendo ou ditando os nomes.",
+      "gabarito": "Exigir localização coerente e pelo menos quatro indicações; aceitar desenho, cartões, descrição ou execução mediada, sem avaliar semelhança estética.",
+      "rubrica": [
+        "Exigir localização coerente e pelo menos quatro indicações; aceitar desenho, cartões, descrição ou execução mediada, sem avaliar semelhança estética.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI02"
+      ]
+    },
+    {
+      "id": "cabeca_tronco_e_membros.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique onde ficam mão e pé em relação aos membros e compare duas representações sem julgar qual corpo é melhor.",
+      "gabarito": "Relacionar mão a membro superior e pé a inferior; respeitar representações diversas e não exigir um padrão corporal.",
+      "rubrica": [
+        "Relacionar mão a membro superior e pé a inferior; respeitar representações diversas e não exigir um padrão corporal.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.corpo_humano.partes_do_corpo"
+  ],
+  "proximosPassos": [
+    "cna.ef01.corpo_humano.orgaos_dos_sentidos"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Corpo Humano",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "titulo": "Cabeça, Tronco e Membros"
+  }
+}

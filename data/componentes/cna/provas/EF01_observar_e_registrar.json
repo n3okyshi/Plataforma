@@ -1,0 +1,205 @@
+{
+  "id": "cna.ef01.observar_e_registrar.prova",
+  "titulo": "Avaliação: Observar e Registrar",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Observar e Registrar",
+  "bncc": [
+    "EF01CI01",
+    "EF01CI02"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/4 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+  "questoes": [
+    "cna.ef01.observar_e_registrar.o_que_e_observar.prova.1",
+    "cna.ef01.observar_e_registrar.lupa_e_instrumentos.prova.1",
+    "cna.ef01.observar_e_registrar.desenho_como_registro.prova.1",
+    "cna.ef01.observar_e_registrar.comparar_e_descrever.prova.1"
+  ],
+  "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.observar_e_registrar.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Observar e Registrar",
+    "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+    "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+    "rubrica": [
+      "Atende: produção verificável e explicação coerente.",
+      "Em desenvolvimento: evidência parcial com revisão.",
+      "Retomar: produção ou relação ainda precisa ser desenvolvida."
+    ],
+    "bncc": [
+      "EF01CI01",
+      "EF01CI02"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Observar é registrar com atenção — producao1",
+        "enunciado": "Observe dois objetos limpos e seguros e registre três características, com fala, desenho ou apoio. Separe uma informação observada de uma opinião ou hipótese.",
+        "gabarito": "Exigir objetos identificados e características reais; aceitar mediação sem transformar hipótese em material confirmado.",
+        "rubrica": [
+          "Exigir objetos identificados e características reais; aceitar mediação sem transformar hipótese em material confirmado.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.observar_e_registrar.o_que_e_observar#o_que_e_observar.producao1"
+      },
+      {
+        "titulo": "Observar é registrar com atenção — producao2",
+        "enunciado": "Compare uma característica dos dois objetos e diga como procuraria resposta para algo que ficou incerto.",
+        "gabarito": "Exigir critério comum e caminho de consulta/teste seguro; não testar por gosto, cheiro ou destruição.",
+        "rubrica": [
+          "Exigir critério comum e caminho de consulta/teste seguro; não testar por gosto, cheiro ou destruição.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.observar_e_registrar.o_que_e_observar#o_que_e_observar.producao2"
+      },
+      {
+        "titulo": "Instrumentos ajudam, mas têm limites — producao1",
+        "enunciado": "Com adulto, observe papel limpo a olho nu ou por descrição e depois com lupa didática segura, se disponível. Registre detalhe visto e o que não pôde confirmar. Sem lupa, registre análise de modelo.",
+        "gabarito": "Exigir origem da informação e limite; não inventar fibras vistas nem confundir ampliação aparente com crescimento real.",
+        "rubrica": [
+          "Exigir origem da informação e limite; não inventar fibras vistas nem confundir ampliação aparente com crescimento real.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.observar_e_registrar.lupa_e_instrumentos#lupa_e_instrumentos.producao1"
+      },
+      {
+        "titulo": "Instrumentos ajudam, mas têm limites — producao2",
+        "enunciado": "Associe uma pergunta de comprimento à régua e uma de detalhes à lupa. Explique por que nenhum desses usos confirma sozinho o destino de reciclagem.",
+        "gabarito": "Relacionar instrumento à pergunta; encaminhamento depende de material e serviço, não só aparência.",
+        "rubrica": [
+          "Relacionar instrumento à pergunta; encaminhamento depende de material e serviço, não só aparência.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.observar_e_registrar.lupa_e_instrumentos#lupa_e_instrumentos.producao2"
+      },
+      {
+        "titulo": "Desenhar para comunicar uma observação do corpo — producao1",
+        "enunciado": "Faça registro de uma figura vestida ou modelo do corpo apresentado, indicando que se trata de representação. Nomeie três partes e relacione-as a funções.",
+        "gabarito": "Conferir correspondência e função; aceitar apoio motor/comunicacional, sem avaliar proporções reais ou expor o corpo.",
+        "rubrica": [
+          "Conferir correspondência e função; aceitar apoio motor/comunicacional, sem avaliar proporções reais ou expor o corpo.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.observar_e_registrar.desenho_como_registro#desenho_como_registro.producao1"
+      },
+      {
+        "titulo": "Desenhar para comunicar uma observação do corpo — producao2",
+        "enunciado": "Compare seu registro com a descrição feita por um adulto. Marque uma informação que ficou clara e uma que precisa de legenda ou revisão.",
+        "gabarito": "Exigir revisão documentada ou pendência; diferenciar interpretação do desenho e evidência do corpo real.",
+        "rubrica": [
+          "Exigir revisão documentada ou pendência; diferenciar interpretação do desenho e evidência do corpo real.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.observar_e_registrar.desenho_como_registro#desenho_como_registro.producao2"
+      },
+      {
+        "titulo": "Comparar com um critério compartilhado — producao1",
+        "enunciado": "Compare três amostras limpas por duas características. Faça tabela ou cartões, dizendo qual foi apenas observada e qual foi testada com adulto, sem forçar materiais.",
+        "gabarito": "Exigir critérios aplicados às três amostras e condições reais; não apresentar preferência como propriedade medida.",
+        "rubrica": [
+          "Exigir critérios aplicados às três amostras e condições reais; não apresentar preferência como propriedade medida.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.observar_e_registrar.comparar_e_descrever#comparar_e_descrever.producao1"
+      },
+      {
+        "titulo": "Comparar com um critério compartilhado — producao2",
+        "enunciado": "Reagrupe por um dos critérios e escolha material para uma função simples. Explique a escolha e uma informação que ainda precisaria verificar.",
+        "gabarito": "Relacionar propriedade e função e reconhecer limites; aceitar decisões diferentes sustentadas pelas evidências.",
+        "rubrica": [
+          "Relacionar propriedade e função e reconhecer limites; aceitar decisões diferentes sustentadas pelas evidências.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.observar_e_registrar.comparar_e_descrever#comparar_e_descrever.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF01CI01",
+      "questoes": [
+        "cna.ef01.observar_e_registrar.o_que_e_observar.prova.1",
+        "cna.ef01.observar_e_registrar.lupa_e_instrumentos.prova.1",
+        "cna.ef01.observar_e_registrar.comparar_e_descrever.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.observar_e_registrar.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.observar_e_registrar.o_que_e_observar#o_que_e_observar.producao1",
+        "cna.ef01.observar_e_registrar.o_que_e_observar#o_que_e_observar.producao2",
+        "cna.ef01.observar_e_registrar.lupa_e_instrumentos#lupa_e_instrumentos.producao1",
+        "cna.ef01.observar_e_registrar.lupa_e_instrumentos#lupa_e_instrumentos.producao2",
+        "cna.ef01.observar_e_registrar.comparar_e_descrever#comparar_e_descrever.producao1",
+        "cna.ef01.observar_e_registrar.comparar_e_descrever#comparar_e_descrever.producao2"
+      ]
+    },
+    {
+      "bncc": "EF01CI02",
+      "questoes": [
+        "cna.ef01.observar_e_registrar.desenho_como_registro.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.observar_e_registrar.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.observar_e_registrar.desenho_como_registro#desenho_como_registro.producao1",
+        "cna.ef01.observar_e_registrar.desenho_como_registro#desenho_como_registro.producao2"
+      ]
+    }
+  ]
+}

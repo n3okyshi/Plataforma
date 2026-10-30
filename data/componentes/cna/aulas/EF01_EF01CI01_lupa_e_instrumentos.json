@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.observar_e_registrar.lupa_e_instrumentos",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 25,
+  "unidade": "Observar e Registrar",
+  "titulo": "Instrumentos ajudam, mas têm limites",
+  "bncc": [
+    "EF01CI01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com adulto, observe papel limpo a olho nu ou por descrição e depois com lupa didática segura, se disponível. Registre detalhe visto e o que não pôde confirmar. Sem lupa, registre análise de modelo.",
+      "Associe uma pergunta de comprimento à régua e uma de detalhes à lupa. Explique por que nenhum desses usos confirma sozinho o destino de reciclagem."
+    ],
+    "resumo": "Instrumentos ajudam, mas têm limites",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.observar_e_registrar.o_que_e_observar\">Observar é registrar com atenção</button></p><h2>Instrumentos ajudam, mas têm limites</h2><h3>Para compreender</h3><p>Lupa pode ampliar a aparência de detalhes de materiais em certas posições. Régua ajuda a comparar comprimentos e balança, massas. Instrumento precisa corresponder à pergunta e ser usado com adulto. Ele não revela toda informação: lupa não identifica automaticamente composição, microrganismos ou origem. O objeto não cresce porque parece maior. Não usamos lupa para olhar o Sol, focalizar luz, examinar corpo de colega ou manipular vidro danificado.</p><h3>Exemplo comentado</h3><p>Papel pode parecer liso de longe e mostrar fibras ou irregularidades com ampliação. O que aparece depende do papel e da lupa. Medir comprimento não informa sozinho qual material compõe a amostra; forma e material são aspectos distintos.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Com adulto, observe papel limpo a olho nu ou por descrição e depois com lupa didática segura, se disponível. Registre detalhe visto e o que não pôde confirmar. Sem lupa, registre análise de modelo.</p><h4>Explique e aplique</h4><p>Associe uma pergunta de comprimento à régua e uma de detalhes à lupa. Explique por que nenhum desses usos confirma sozinho o destino de reciclagem.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "lupa_e_instrumentos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A lupa muda:",
+      "alternativas": [
+        "O tamanho físico do papel obrigatoriamente.",
+        "A data de fabricação do objeto.",
+        "A aparência de detalhes em condições adequadas."
+      ],
+      "correta": 2,
+      "explicacao": "Papel pode parecer liso de longe e mostrar fibras ou irregularidades com ampliação. O que aparece depende do papel e da lupa. Medir comprimento não informa sozinho qual material compõe a amostra; forma e material são aspectos distintos.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "lupa_e_instrumentos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, observe papel limpo a olho nu ou por descrição e depois com lupa didática segura, se disponível. Registre detalhe visto e o que não pôde confirmar. Sem lupa, registre análise de modelo.",
+      "gabarito": "Exigir origem da informação e limite; não inventar fibras vistas nem confundir ampliação aparente com crescimento real.",
+      "rubrica": [
+        "Exigir origem da informação e limite; não inventar fibras vistas nem confundir ampliação aparente com crescimento real.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "lupa_e_instrumentos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Associe uma pergunta de comprimento à régua e uma de detalhes à lupa. Explique por que nenhum desses usos confirma sozinho o destino de reciclagem.",
+      "gabarito": "Relacionar instrumento à pergunta; encaminhamento depende de material e serviço, não só aparência.",
+      "rubrica": [
+        "Relacionar instrumento à pergunta; encaminhamento depende de material e serviço, não só aparência.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.observar_e_registrar.o_que_e_observar"
+  ],
+  "proximosPassos": [
+    "cna.ef01.observar_e_registrar.desenho_como_registro"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Observar e Registrar",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "titulo": "Lupa e Outros Instrumentos"
+  }
+}

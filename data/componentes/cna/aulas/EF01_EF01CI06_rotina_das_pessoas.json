@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 21,
+  "unidade": "Dia e Noite na Vida dos Seres Vivos",
+  "titulo": "Rotinas das pessoas e períodos diários",
+  "bncc": [
+    "EF01CI06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Monte duas rotinas fictícias em manhã/tarde/noite com atividades de estudo, cuidado e descanso. Compare uma semelhança e uma diferença.",
+      "Explique como uma atividade pode mudar de horário sem mudar o nome dos períodos diários. Indique uma necessidade de apoio para o descanso de um personagem."
+    ],
+    "resumo": "Rotinas das pessoas e períodos diários",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais\">Animais: atividades em diferentes períodos</button></p><h2>Rotinas das pessoas e períodos diários</h2><h3>Para compreender</h3><p>Manhã, tarde e noite ajudam a organizar atividades, mas as rotinas das pessoas não são todas iguais. Trabalho, escola, cuidados familiares e condições de vida influenciam horários. A luz e a alternância diária também participam dos ritmos do organismo. Descrever não significa julgar uma família. Não precisamos revelar endereços, horários de responsáveis ou detalhes da casa para comparar rotinas: usamos casos fictícios.</p><h3>Exemplo comentado</h3><p>Um personagem estuda pela manhã e outro à tarde; um adulto pode trabalhar à noite. Não concluímos que a noite deixou de existir nem que uma pessoa vale menos por sua organização. Descanso e acesso a cuidados continuam importantes, com orientação individual quando necessária.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Monte duas rotinas fictícias em manhã/tarde/noite com atividades de estudo, cuidado e descanso. Compare uma semelhança e uma diferença.</p><h4>Explique e aplique</h4><p>Explique como uma atividade pode mudar de horário sem mudar o nome dos períodos diários. Indique uma necessidade de apoio para o descanso de um personagem.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms\" target=\"_blank\" rel=\"noopener noreferrer\">NIGMS — Circadian Rhythms</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "rotina_das_pessoas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Todas as pessoas estudam e trabalham nos mesmos períodos?",
+      "alternativas": [
+        "Não; rotinas podem variar.",
+        "Sim, por definição de dia.",
+        "Sim, em qualquer lugar."
+      ],
+      "correta": 0,
+      "explicacao": "Um personagem estuda pela manhã e outro à tarde; um adulto pode trabalhar à noite. Não concluímos que a noite deixou de existir nem que uma pessoa vale menos por sua organização. Descanso e acesso a cuidados continuam importantes, com orientação individual quando necessária.",
+      "bncc": [
+        "EF01CI06"
+      ]
+    },
+    {
+      "id": "rotina_das_pessoas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Monte duas rotinas fictícias em manhã/tarde/noite com atividades de estudo, cuidado e descanso. Compare uma semelhança e uma diferença.",
+      "gabarito": "Exigir organização temporal coerente e comparação, sem impor horário real a famílias ou exigir dados pessoais.",
+      "rubrica": [
+        "Exigir organização temporal coerente e comparação, sem impor horário real a famílias ou exigir dados pessoais.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI06"
+      ]
+    },
+    {
+      "id": "rotina_das_pessoas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique como uma atividade pode mudar de horário sem mudar o nome dos períodos diários. Indique uma necessidade de apoio para o descanso de um personagem.",
+      "gabarito": "Distinguir período e atividade, reconhecer diversidade e evitar diagnóstico ou recomendação individual de horas.",
+      "rubrica": [
+        "Distinguir período e atividade, reconhecer diversidade e evitar diagnóstico ou recomendação individual de horas.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "NIGMS — Circadian Rhythms",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+      "consulta": "2026-10-30",
+      "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais"
+  ],
+  "proximosPassos": [
+    "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "titulo": "A Rotina das Pessoas"
+  }
+}

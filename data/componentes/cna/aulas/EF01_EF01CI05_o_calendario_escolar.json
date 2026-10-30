@@ -1,0 +1,111 @@
+{
+  "id": "cna.ef01.tempo_e_rotina.o_calendario_escolar",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 17,
+  "unidade": "Tempo e Rotina",
+  "titulo": "Ler datas e planejar sem inventar eventos",
+  "bncc": [
+    "EF01CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Use o calendário incorporado para localizar 5 e 12 de outubro de 2026. Faça legenda própria para duas atividades fictícias e marque claramente simulação.",
+      "Com adulto, consulte um evento realmente divulgado pela escola. Registre data e fonte, ou anote que a consulta está pendente. Compare com o exemplo fictício."
+    ],
+    "resumo": "Ler datas e planejar sem inventar eventos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.tempo_e_rotina.semanas_meses_e_anos\">Dias, semanas, meses e anos</button></p><h2>Ler datas e planejar sem inventar eventos</h2><h3>Para compreender</h3><p>Calendário organiza datas e pode registrar acontecimentos. Para ler, conferimos mês, ano, nomes dos dias e números. Calendário escolar acrescenta aulas, reuniões e outros eventos definidos pela escola. Uma marca ou cor precisa de legenda; sem ela, não sabemos seu significado. O calendário de referência desta aula tem datas reais, mas não traz agenda real de nenhuma escola. Eventos criados pela turma devem ser rotulados como simulação.</p><h3>Exemplo comentado</h3><p>Podemos combinar no exemplo fictício observar uma planta em 5 e 12 de outubro de 2026. Isso não significa que a escola marcou essas atividades. Se um feriado ou mudança interfere, é preciso consultar o calendário oficial local, não adivinhar por uma cor.</p><table><caption>Outubro de 2026 — referência de datas, sem agenda escolar real</caption><thead><tr><th scope=\"col\">Seg</th><th scope=\"col\">Ter</th><th scope=\"col\">Qua</th><th scope=\"col\">Qui</th><th scope=\"col\">Sex</th><th scope=\"col\">Sáb</th><th scope=\"col\">Dom</th></tr></thead><tbody><tr><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr><tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr><tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr><tr><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td aria-label=\"Fora do mês\">—</td></tr></tbody></table><table><caption>Novembro de 2026 — referência de datas, sem agenda escolar real</caption><thead><tr><th scope=\"col\">Seg</th><th scope=\"col\">Ter</th><th scope=\"col\">Qua</th><th scope=\"col\">Qui</th><th scope=\"col\">Sex</th><th scope=\"col\">Sáb</th><th scope=\"col\">Dom</th></tr></thead><tbody><tr><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td>1</td></tr><tr><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr><tr><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td></tr><tr><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td></tr><tr><td>30</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Use o calendário incorporado para localizar 5 e 12 de outubro de 2026. Faça legenda própria para duas atividades fictícias e marque claramente simulação.</p><h4>Explique e aplique</h4><p>Com adulto, consulte um evento realmente divulgado pela escola. Registre data e fonte, ou anote que a consulta está pendente. Compare com o exemplo fictício.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "o_calendario_escolar.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma cor sem legenda no calendário permite saber o evento?",
+      "alternativas": [
+        "Sim, toda cor tem significado universal.",
+        "Não; precisamos da legenda ou informação da fonte.",
+        "Sim, se for vermelha."
+      ],
+      "correta": 1,
+      "explicacao": "Podemos combinar no exemplo fictício observar uma planta em 5 e 12 de outubro de 2026. Isso não significa que a escola marcou essas atividades. Se um feriado ou mudança interfere, é preciso consultar o calendário oficial local, não adivinhar por uma cor.",
+      "bncc": [
+        "EF01CI05"
+      ]
+    },
+    {
+      "id": "o_calendario_escolar.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Use o calendário incorporado para localizar 5 e 12 de outubro de 2026. Faça legenda própria para duas atividades fictícias e marque claramente simulação.",
+      "gabarito": "Localizar nas posições corretas e identificar datas/legenda. Não tratar marcações fictícias como agenda escolar confirmada.",
+      "rubrica": [
+        "Localizar nas posições corretas e identificar datas/legenda. Não tratar marcações fictícias como agenda escolar confirmada.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI05"
+      ]
+    },
+    {
+      "id": "o_calendario_escolar.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, consulte um evento realmente divulgado pela escola. Registre data e fonte, ou anote que a consulta está pendente. Compare com o exemplo fictício.",
+      "gabarito": "Exigir fonte real sem expor nomes ou contatos; distinguir informação verificada e planejamento.",
+      "rubrica": [
+        "Exigir fonte real sem expor nomes ou contatos; distinguir informação verificada e planejamento.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.tempo_e_rotina.semanas_meses_e_anos"
+  ],
+  "proximosPassos": [
+    "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Tempo e Rotina",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "titulo": "O Calendário Escolar"
+  }
+}

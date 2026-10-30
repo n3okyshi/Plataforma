@@ -1,0 +1,123 @@
+{
+  "id": "cna.ef01.higiene_e_saude.higiene_antes_de_comer",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 8,
+  "unidade": "Higiene e Saúde",
+  "titulo": "Mãos limpas antes da alimentação",
+  "bncc": [
+    "EF01CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com adulto, organize cartões da lavagem e explique por que palmas, dorsos, entre os dedos e outras regiões precisam de atenção. Se houver condição adequada, registre uma prática supervisionada; caso contrário, registre apenas o modelo.",
+      "Observe a disponibilidade de água e sabão em local autorizado da escola, sem fotografar pessoas. Dite ao adulto um pedido se algo estiver faltando."
+    ],
+    "resumo": "Mãos limpas antes da alimentação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas\">Cuidados com olhos, nariz e orelhas</button></p><h2>Mãos limpas antes da alimentação</h2><h3>Para compreender</h3><p>As mãos tocam objetos, superfícies e diferentes partes do corpo. Nem toda sujeira ou microrganismo pode ser visto. Lavar com água e sabão antes de comer e após usar o banheiro ajuda a reduzir a transmissão de agentes que causam doenças. A lavagem envolve molhar, ensaboar e esfregar diferentes regiões, enxaguar e secar de modo adequado. Esse cuidado precisa de água, sabão e condições de acesso; falta de recurso é problema a comunicar, não motivo para culpar uma criança.</p><h3>Exemplo comentado</h3><p>Uma mão pode parecer limpa depois de brincar e ainda precisar de lavagem antes da refeição. Passar rapidamente na água não é a mesma ação que usar água e sabão com fricção. A atividade não cultiva microrganismos nem usa tinta ou pó como se fossem germes reais.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Com adulto, organize cartões da lavagem e explique por que palmas, dorsos, entre os dedos e outras regiões precisam de atenção. Se houver condição adequada, registre uma prática supervisionada; caso contrário, registre apenas o modelo.</p><h4>Explique e aplique</h4><p>Observe a disponibilidade de água e sabão em local autorizado da escola, sem fotografar pessoas. Dite ao adulto um pedido se algo estiver faltando.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li><li><a href=\"https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos\" target=\"_blank\" rel=\"noopener noreferrer\">UNICEF — Lavagem de mãos na comunidade escolar</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "higiene_antes_de_comer.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Mãos que parecem limpas antes de comer:",
+      "alternativas": [
+        "Podem precisar de lavagem com água e sabão.",
+        "Nunca carregam nada invisível.",
+        "Precisam apenas de perfume."
+      ],
+      "correta": 0,
+      "explicacao": "Uma mão pode parecer limpa depois de brincar e ainda precisar de lavagem antes da refeição. Passar rapidamente na água não é a mesma ação que usar água e sabão com fricção. A atividade não cultiva microrganismos nem usa tinta ou pó como se fossem germes reais.",
+      "bncc": [
+        "EF01CI03"
+      ]
+    },
+    {
+      "id": "higiene_antes_de_comer.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, organize cartões da lavagem e explique por que palmas, dorsos, entre os dedos e outras regiões precisam de atenção. Se houver condição adequada, registre uma prática supervisionada; caso contrário, registre apenas o modelo.",
+      "gabarito": "Exigir sequência coerente, água/sabão/fricção/enxágue/secagem e distinção entre prática real e cartões. Não fingir medição de microrganismos.",
+      "rubrica": [
+        "Exigir sequência coerente, água/sabão/fricção/enxágue/secagem e distinção entre prática real e cartões. Não fingir medição de microrganismos.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI03"
+      ]
+    },
+    {
+      "id": "higiene_antes_de_comer.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Observe a disponibilidade de água e sabão em local autorizado da escola, sem fotografar pessoas. Dite ao adulto um pedido se algo estiver faltando.",
+      "gabarito": "Registrar recurso observado e necessidade de acesso; não responsabilizar colegas nem expor dados pessoais.",
+      "rubrica": [
+        "Registrar recurso observado e necessidade de acesso; não responsabilizar colegas nem expor dados pessoais.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    },
+    {
+      "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+      "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+      "consulta": "2026-10-30",
+      "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas"
+  ],
+  "proximosPassos": [
+    "cna.ef01.higiene_e_saude.higiene_e_doencas"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Higiene e Saúde",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "titulo": "Higiene e Alimentação"
+  }
+}

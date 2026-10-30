@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 11,
+  "unidade": "Diversidade e Respeito",
+  "titulo": "Semelhanças e diferenças sem classificação de valor",
+  "bncc": [
+    "EF01CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Crie três personagens em cartões com descrições respeitosas. Indique duas semelhanças e duas diferenças de aparência, sem usar melhor/pior.",
+      "Reagrupe os cartões por outro critério e explique por que os grupos mudam. Diga algo que a aparência não permite concluir."
+    ],
+    "resumo": "Semelhanças e diferenças sem classificação de valor",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas\">Diversidade física e acolhimento</button></p><h2>Semelhanças e diferenças sem classificação de valor</h2><h3>Para compreender</h3><p>Pessoas podem compartilhar características e também diferir em cabelo, tom de pele, estatura e outras formas do corpo. Nenhuma dessas características define inteligência, bondade ou direito de pertencer à turma. Comparar exige critério respeitoso e consentimento. Não precisamos medir corpos, tocar cabelo ou pele, adivinhar origem familiar ou pedir exposição. A observação pode ser feita com personagens fictícios e autorrepresentação voluntária.</p><h3>Exemplo comentado</h3><p>Dois personagens podem ter cabelo curto e tons de pele distintos. Outro pode usar óculos. O grupo muda quando o critério muda; isso não cria categorias de pessoas melhores ou piores. Uma característica visível não conta toda a história de alguém.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Crie três personagens em cartões com descrições respeitosas. Indique duas semelhanças e duas diferenças de aparência, sem usar melhor/pior.</p><h4>Explique e aplique</h4><p>Reagrupe os cartões por outro critério e explique por que os grupos mudam. Diga algo que a aparência não permite concluir.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.unicef.org/brazil/inclusao-escolar\" target=\"_blank\" rel=\"noopener noreferrer\">UNICEF — Inclusão escolar</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "semelhancas_e_diferencas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A aparência permite decidir quem é mais inteligente?",
+      "alternativas": [
+        "Sim, pelo cabelo.",
+        "Não; essa conclusão não decorre de aparência.",
+        "Sim, pela estatura."
+      ],
+      "correta": 1,
+      "explicacao": "Dois personagens podem ter cabelo curto e tons de pele distintos. Outro pode usar óculos. O grupo muda quando o critério muda; isso não cria categorias de pessoas melhores ou piores. Uma característica visível não conta toda a história de alguém.",
+      "bncc": [
+        "EF01CI04"
+      ]
+    },
+    {
+      "id": "semelhancas_e_diferencas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Crie três personagens em cartões com descrições respeitosas. Indique duas semelhanças e duas diferenças de aparência, sem usar melhor/pior.",
+      "gabarito": "Exigir comparação explícita por critério, sem estereótipos. Não exigir retratar colegas ou declarar características pessoais.",
+      "rubrica": [
+        "Exigir comparação explícita por critério, sem estereótipos. Não exigir retratar colegas ou declarar características pessoais.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI04"
+      ]
+    },
+    {
+      "id": "semelhancas_e_diferencas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Reagrupe os cartões por outro critério e explique por que os grupos mudam. Diga algo que a aparência não permite concluir.",
+      "gabarito": "Reconhecer dependência do critério e limites de inferência, como interesses, capacidades e valor da pessoa.",
+      "rubrica": [
+        "Reconhecer dependência do critério e limites de inferência, como interesses, capacidades e valor da pessoa.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "UNICEF — Inclusão escolar",
+      "url": "https://www.unicef.org/brazil/inclusao-escolar",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas"
+  ],
+  "proximosPassos": [
+    "cna.ef01.diversidade_e_respeito.respeito_as_diferencas"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Diversidade e Respeito",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "titulo": "Semelhanças e Diferenças"
+  }
+}

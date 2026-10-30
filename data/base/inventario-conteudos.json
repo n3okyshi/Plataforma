@@ -285,5 +285,22 @@
       "Revisão visual e acessibilidade.",
       "Firebase e cache em ambiente real."
     ]
+  },
+  "atualizacaoCiencias": {
+    "data": "2026-10-30",
+    "registro": "data/base/status-ciencias.json",
+    "aulas": 168,
+    "atividades": 412,
+    "questoesTreino": 187,
+    "itensProva": 187,
+    "provas": 43,
+    "EF01": {
+      "topicosComAutoria": 49,
+      "complementares": 8,
+      "topicosSemAutoria": 0,
+      "estado": "pronto_para_testes"
+    },
+    "topicosSemAutoriaEF02aEF09": 328,
+    "limite": "Preserva situação inicial como histórico; contagem não é certificado de alinhamento ou homologação."
   }
 }

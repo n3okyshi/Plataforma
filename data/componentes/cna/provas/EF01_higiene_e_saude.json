@@ -1,0 +1,243 @@
+{
+  "id": "cna.ef01.higiene_e_saude.prova",
+  "titulo": "Avaliação: Higiene e Saúde",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Higiene e Saúde",
+  "bncc": [
+    "EF01CI03"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/5 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+  "questoes": [
+    "cna.ef01.higiene_e_saude.escovar_os_dentes.prova.1",
+    "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas.prova.1",
+    "cna.ef01.higiene_e_saude.higiene_antes_de_comer.prova.1",
+    "cna.ef01.higiene_e_saude.higiene_e_doencas.prova.1",
+    "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola.prova.1"
+  ],
+  "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.higiene_e_saude.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Higiene e Saúde",
+    "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+    "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+    "rubrica": [
+      "Atende: produção verificável e explicação coerente.",
+      "Em desenvolvimento: evidência parcial com revisão.",
+      "Retomar: produção ou relação ainda precisa ser desenvolvida."
+    ],
+    "bncc": [
+      "EF01CI03"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Escovação: cuidar dos dentes com apoio — producao1",
+        "enunciado": "Com modelo ou desenho, indique partes que precisam de escovação e explique por que escova e pasta não são brinquedos. Organize sequência de cuidado com adulto, sem escovação coletiva compartilhada.",
+        "gabarito": "Relacionar higiene, remoção de placa e proteção; reconhecer supervisão, uso individual e não ingestão. Não exigir relato de saúde ou prescrever quantidade individual.",
+        "rubrica": [
+          "Relacionar higiene, remoção de placa e proteção; reconhecer supervisão, uso individual e não ingestão. Não exigir relato de saúde ou prescrever quantidade individual.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI03"
+        ],
+        "atividadeOrigem": "cna.ef01.higiene_e_saude.escovar_os_dentes#escovar_os_dentes.producao1"
+      },
+      {
+        "titulo": "Escovação: cuidar dos dentes com apoio — producao2",
+        "enunciado": "Um personagem pensa que dentes de leite não precisam de cuidado. Escreva ou dite uma resposta e indique a quem pedir ajuda para aprender a escovar.",
+        "gabarito": "Corrigir a ideia e apontar responsável/profissional; não diagnosticar cárie nem prometer que escovar elimina todo risco.",
+        "rubrica": [
+          "Corrigir a ideia e apontar responsável/profissional; não diagnosticar cárie nem prometer que escovar elimina todo risco.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI03"
+        ],
+        "atividadeOrigem": "cna.ef01.higiene_e_saude.escovar_os_dentes#escovar_os_dentes.producao2"
+      },
+      {
+        "titulo": "Cuidados com olhos, nariz e orelhas — producao1",
+        "enunciado": "Classifique cartões com situações: mãos limpas antes de tocar o rosto; objeto no ouvido; lenço usado deixado na mesa; comunicar dor ao responsável. Explique duas escolhas de cuidado.",
+        "gabarito": "Aprovar higiene e busca de ajuda; recusar introdução de objetos e descarte inadequado. Não ensinar procedimento interno ou remoção de corpo estranho.",
+        "rubrica": [
+          "Aprovar higiene e busca de ajuda; recusar introdução de objetos e descarte inadequado. Não ensinar procedimento interno ou remoção de corpo estranho.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI03"
+        ],
+        "atividadeOrigem": "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas#olhos_nariz_e_orelhas.producao1"
+      },
+      {
+        "titulo": "Cuidados com olhos, nariz e orelhas — producao2",
+        "enunciado": "Escreva mensagem para o personagem do palito, indicando o que evitar e a quem recorrer.",
+        "gabarito": "Exigir orientação clara sem remédio ou instrumento substituto; responsável procura profissional quando necessário.",
+        "rubrica": [
+          "Exigir orientação clara sem remédio ou instrumento substituto; responsável procura profissional quando necessário.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI03"
+        ],
+        "atividadeOrigem": "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas#olhos_nariz_e_orelhas.producao2"
+      },
+      {
+        "titulo": "Mãos limpas antes da alimentação — producao1",
+        "enunciado": "Com adulto, organize cartões da lavagem e explique por que palmas, dorsos, entre os dedos e outras regiões precisam de atenção. Se houver condição adequada, registre uma prática supervisionada; caso contrário, registre apenas o modelo.",
+        "gabarito": "Exigir sequência coerente, água/sabão/fricção/enxágue/secagem e distinção entre prática real e cartões. Não fingir medição de microrganismos.",
+        "rubrica": [
+          "Exigir sequência coerente, água/sabão/fricção/enxágue/secagem e distinção entre prática real e cartões. Não fingir medição de microrganismos.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI03"
+        ],
+        "atividadeOrigem": "cna.ef01.higiene_e_saude.higiene_antes_de_comer#higiene_antes_de_comer.producao1"
+      },
+      {
+        "titulo": "Mãos limpas antes da alimentação — producao2",
+        "enunciado": "Observe a disponibilidade de água e sabão em local autorizado da escola, sem fotografar pessoas. Dite ao adulto um pedido se algo estiver faltando.",
+        "gabarito": "Registrar recurso observado e necessidade de acesso; não responsabilizar colegas nem expor dados pessoais.",
+        "rubrica": [
+          "Registrar recurso observado e necessidade de acesso; não responsabilizar colegas nem expor dados pessoais.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI03"
+        ],
+        "atividadeOrigem": "cna.ef01.higiene_e_saude.higiene_antes_de_comer#higiene_antes_de_comer.producao2"
+      },
+      {
+        "titulo": "Higiene reduz riscos, sem culpar pessoas — producao1",
+        "enunciado": "Desenhe um caminho possível entre mãos, alimento e boca usando cartões. Inclua uma ação de higiene e explique o que ela pretende reduzir. Não use amostras biológicas, cultivo ou toque no rosto de alguém.",
+        "gabarito": "Exigir relação causal simples e limite: redução de risco, não garantia. Diferenciar desenho de observação de transmissão real.",
+        "rubrica": [
+          "Exigir relação causal simples e limite: redução de risco, não garantia. Diferenciar desenho de observação de transmissão real.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI03"
+        ],
+        "atividadeOrigem": "cna.ef01.higiene_e_saude.higiene_e_doencas#higiene_e_doencas.producao1"
+      },
+      {
+        "titulo": "Higiene reduz riscos, sem culpar pessoas — producao2",
+        "enunciado": "Um personagem ficou doente e foi acusado de não se cuidar. Explique por que essa conclusão não é justa e proponha acolhimento.",
+        "gabarito": "Reconhecer múltiplas causas e apoio; não diagnosticar nem relacionar doença a valor moral.",
+        "rubrica": [
+          "Reconhecer múltiplas causas e apoio; não diagnosticar nem relacionar doença a valor moral.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI03"
+        ],
+        "atividadeOrigem": "cna.ef01.higiene_e_saude.higiene_e_doencas#higiene_e_doencas.producao2"
+      },
+      {
+        "titulo": "Organizar o cuidado na escola — producao1",
+        "enunciado": "Faça uma rotina ilustrada para dois momentos escolares, indicando ação, recurso e adulto a quem pedir apoio. Use situações fictícias, não nomes de colegas.",
+        "gabarito": "Exigir ligação momento/ação/recurso; incluir acesso e apoio, sem exposição de hábitos pessoais.",
+        "rubrica": [
+          "Exigir ligação momento/ação/recurso; incluir acesso e apoio, sem exposição de hábitos pessoais.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI03"
+        ],
+        "atividadeOrigem": "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola#rotina_de_higiene_na_escola.producao1"
+      },
+      {
+        "titulo": "Organizar o cuidado na escola — producao2",
+        "enunciado": "Em espaço autorizado, verifique com adulto se os recursos da rotina existem. Escolha uma melhoria e registre encaminhamento e o que continua pendente.",
+        "gabarito": "Distinguir plano e execução; não declarar conserto ou compra realizados sem confirmação.",
+        "rubrica": [
+          "Distinguir plano e execução; não declarar conserto ou compra realizados sem confirmação.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI03"
+        ],
+        "atividadeOrigem": "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola#rotina_de_higiene_na_escola.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    },
+    {
+      "documento": "Ministério da Saúde — Saúde Bucal",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia/saude-bucal",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados sobre dentes de leite, higiene, cárie, escova individual, flúor e supervisão. Não transpõe faixas/quantidades ou calendário clínico como regra individual."
+    },
+    {
+      "documento": "WHO — Deafness and hearing loss: Ear care",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+      "consulta": "2026-10-30",
+      "uso": "Fonte consultada: não introduzir objetos/fluidos no ouvido, cuidado externo e avaliação profissional para problemas. Sem diagnóstico ou tratamento na aula."
+    },
+    {
+      "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+      "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+      "consulta": "2026-10-30",
+      "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF01CI03",
+      "questoes": [
+        "cna.ef01.higiene_e_saude.escovar_os_dentes.prova.1",
+        "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas.prova.1",
+        "cna.ef01.higiene_e_saude.higiene_antes_de_comer.prova.1",
+        "cna.ef01.higiene_e_saude.higiene_e_doencas.prova.1",
+        "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.higiene_e_saude.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.higiene_e_saude.escovar_os_dentes#escovar_os_dentes.producao1",
+        "cna.ef01.higiene_e_saude.escovar_os_dentes#escovar_os_dentes.producao2",
+        "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas#olhos_nariz_e_orelhas.producao1",
+        "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas#olhos_nariz_e_orelhas.producao2",
+        "cna.ef01.higiene_e_saude.higiene_antes_de_comer#higiene_antes_de_comer.producao1",
+        "cna.ef01.higiene_e_saude.higiene_antes_de_comer#higiene_antes_de_comer.producao2",
+        "cna.ef01.higiene_e_saude.higiene_e_doencas#higiene_e_doencas.producao1",
+        "cna.ef01.higiene_e_saude.higiene_e_doencas#higiene_e_doencas.producao2",
+        "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola#rotina_de_higiene_na_escola.producao1",
+        "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola#rotina_de_higiene_na_escola.producao2"
+      ]
+    }
+  ]
+}

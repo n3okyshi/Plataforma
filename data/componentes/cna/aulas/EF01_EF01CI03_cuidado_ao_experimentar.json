@@ -1,0 +1,108 @@
+{
+  "id": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 28,
+  "unidade": "Observar e Registrar — Complementar",
+  "titulo": "Investigar com cuidado e pedir ajuda",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise cartões de situações: comparar papel e tecido; abrir produto desconhecido; usar desenho de vidro quebrado. Classifique o que pode ser estudado com adulto e o que precisa ser evitado.",
+      "Produza um combinado com três cuidados para uma investigação de materiais e uma forma de pedir ajuda. Explique o que faria se faltasse condição adequada."
+    ],
+    "resumo": "Investigar com cuidado e pedir ajuda",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Complementar · opcional:</strong> Procedimentos de investigação e prevenção de acidentes; vínculo legado EF01CI03 preservado apenas no histórico, sem atribuir cobertura de higiene.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.materiais_do_cotidiano.o_que_sao_materiais\">Materiais: comparar, usar e descartar</button></p><h2>Investigar com cuidado e pedir ajuda</h2><h3>Para compreender</h3><p>Esta é uma extensão de procedimentos de investigação e prevenção; não substitui a habilidade de explicar higiene do corpo. Antes de uma atividade, adulto e turma verificam materiais, espaço e forma de participação. Não provamos, cheiramos de perto ou misturamos substâncias desconhecidas. Vidro quebrado, fogo, tomadas, medicamentos e produtos de limpeza ficam fora da manipulação infantil. Uma previsão pode ser estudada por modelo quando não há condição segura de executar.</p><h3>Exemplo comentado</h3><p>Para comparar materiais, cartões e amostras limpas podem atender. Não precisamos queimar um plástico para descobrir seu nome. Interromper diante de risco faz parte de investigar, não é falha. O adulto decide manejo de ferramentas e organização do espaço.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Analise cartões de situações: comparar papel e tecido; abrir produto desconhecido; usar desenho de vidro quebrado. Classifique o que pode ser estudado com adulto e o que precisa ser evitado.</p><h4>Explique e aplique</h4><p>Produza um combinado com três cuidados para uma investigação de materiais e uma forma de pedir ajuda. Explique o que faria se faltasse condição adequada.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "cuidado_ao_experimentar.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para identificar um plástico desconhecido, a turma deve:",
+      "alternativas": [
+        "Queimá-lo para observar fumaça.",
+        "Consultar informações com adulto e usar comparação segura.",
+        "Provar um pedaço."
+      ],
+      "correta": 1,
+      "explicacao": "Para comparar materiais, cartões e amostras limpas podem atender. Não precisamos queimar um plástico para descobrir seu nome. Interromper diante de risco faz parte de investigar, não é falha. O adulto decide manejo de ferramentas e organização do espaço.",
+      "bncc": []
+    },
+    {
+      "id": "cuidado_ao_experimentar.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Analise cartões de situações: comparar papel e tecido; abrir produto desconhecido; usar desenho de vidro quebrado. Classifique o que pode ser estudado com adulto e o que precisa ser evitado.",
+      "gabarito": "Exigir justificativa e escolha de alternativa segura; não realizar a situação de risco para confirmar.",
+      "rubrica": [
+        "Exigir justificativa e escolha de alternativa segura; não realizar a situação de risco para confirmar.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    },
+    {
+      "id": "cuidado_ao_experimentar.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Produza um combinado com três cuidados para uma investigação de materiais e uma forma de pedir ajuda. Explique o que faria se faltasse condição adequada.",
+      "gabarito": "Relacionar cuidado ao risco específico, registrar adaptação ou adiamento sem inventar execução.",
+      "rubrica": [
+        "Relacionar cuidado ao risco específico, registrar adaptação ou adiamento sem inventar execução.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    }
+  ],
+  "complementar": true,
+  "preRequisitos": [
+    "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Observar e Registrar",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "titulo": "Cuidado ao Experimentar"
+  },
+  "justificativaComplementar": "Procedimentos de investigação e prevenção de acidentes; vínculo legado EF01CI03 preservado apenas no histórico, sem atribuir cobertura de higiene."
+}

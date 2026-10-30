@@ -1,0 +1,121 @@
+{
+  "id": "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 10,
+  "unidade": "Higiene e Saúde",
+  "titulo": "Organizar o cuidado na escola",
+  "bncc": [
+    "EF01CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça uma rotina ilustrada para dois momentos escolares, indicando ação, recurso e adulto a quem pedir apoio. Use situações fictícias, não nomes de colegas.",
+      "Em espaço autorizado, verifique com adulto se os recursos da rotina existem. Escolha uma melhoria e registre encaminhamento e o que continua pendente."
+    ],
+    "resumo": "Organizar o cuidado na escola",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.higiene_e_saude.higiene_e_doencas\">Higiene reduz riscos, sem culpar pessoas</button></p><h2>Organizar o cuidado na escola</h2><h3>Para compreender</h3><p>Uma rotina ajuda a lembrar ações em momentos importantes: lavar mãos antes da refeição e após banheiro, cuidar dos materiais pessoais e descartar lenços de forma adequada. Rotina não é lista de castigos. A escola precisa oferecer acesso a recursos e ajuda. Algumas pessoas precisam de mais tempo, apoio ou adaptação; isso não diminui seu direito de participar. Nem toda ação pode ser realizada sozinha e nenhum colega deve fiscalizar o corpo do outro.</p><h3>Exemplo comentado</h3><p>Cartões próximos à pia podem lembrar etapas. Se a pia está alta, o adulto deve buscar solução segura de acesso, e não improvisar apoio instável. Escovas e toalhas pessoais precisam de identificação e cuidado conforme orientação, sem compartilhamento.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Faça uma rotina ilustrada para dois momentos escolares, indicando ação, recurso e adulto a quem pedir apoio. Use situações fictícias, não nomes de colegas.</p><h4>Explique e aplique</h4><p>Em espaço autorizado, verifique com adulto se os recursos da rotina existem. Escolha uma melhoria e registre encaminhamento e o que continua pendente.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li><li><a href=\"https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos\" target=\"_blank\" rel=\"noopener noreferrer\">UNICEF — Lavagem de mãos na comunidade escolar</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "rotina_de_higiene_na_escola.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma rotina de higiene precisa considerar:",
+      "alternativas": [
+        "Somente regras sem recursos.",
+        "Ação, recursos e apoio acessível.",
+        "Competição entre colegas."
+      ],
+      "correta": 1,
+      "explicacao": "Cartões próximos à pia podem lembrar etapas. Se a pia está alta, o adulto deve buscar solução segura de acesso, e não improvisar apoio instável. Escovas e toalhas pessoais precisam de identificação e cuidado conforme orientação, sem compartilhamento.",
+      "bncc": [
+        "EF01CI03"
+      ]
+    },
+    {
+      "id": "rotina_de_higiene_na_escola.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça uma rotina ilustrada para dois momentos escolares, indicando ação, recurso e adulto a quem pedir apoio. Use situações fictícias, não nomes de colegas.",
+      "gabarito": "Exigir ligação momento/ação/recurso; incluir acesso e apoio, sem exposição de hábitos pessoais.",
+      "rubrica": [
+        "Exigir ligação momento/ação/recurso; incluir acesso e apoio, sem exposição de hábitos pessoais.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI03"
+      ]
+    },
+    {
+      "id": "rotina_de_higiene_na_escola.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Em espaço autorizado, verifique com adulto se os recursos da rotina existem. Escolha uma melhoria e registre encaminhamento e o que continua pendente.",
+      "gabarito": "Distinguir plano e execução; não declarar conserto ou compra realizados sem confirmação.",
+      "rubrica": [
+        "Distinguir plano e execução; não declarar conserto ou compra realizados sem confirmação.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    },
+    {
+      "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+      "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+      "consulta": "2026-10-30",
+      "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.higiene_e_saude.higiene_e_doencas"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Higiene e Saúde",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "titulo": "Rotina de Higiene na Escola"
+  }
+}

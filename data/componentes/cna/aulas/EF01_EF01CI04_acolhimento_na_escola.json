@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.diversidade_e_respeito.acolhimento_na_escola",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 13,
+  "unidade": "Diversidade e Respeito",
+  "titulo": "Acolher é garantir participação",
+  "bncc": [
+    "EF01CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise o jogo fictício descrito. Identifique duas barreiras e proponha duas adaptações com relação ao objetivo. Não peça que colegas simulem uma deficiência.",
+      "Construa um convite acessível para nova pessoa entrar numa atividade, oferecendo pelo menos duas formas de responder e perguntando sobre apoio."
+    ],
+    "resumo": "Acolher é garantir participação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.diversidade_e_respeito.respeito_as_diferencas\">Respeitar em palavras e atitudes</button></p><h2>Acolher é garantir participação</h2><h3>Para compreender</h3><p>Acolhimento é fazer alguém pertencer e participar, com respeito a diferenças. Não basta dizer que todos podem entrar se instruções, espaços ou materiais criam barreiras. Podemos oferecer fala, desenho, apontamento, tempo e apoio combinados. Perguntar qual ajuda a pessoa quer é diferente de fazer tudo por ela. Nem todo apoio serve para todos. A turma pode avaliar uma atividade, sem avaliar corpos ou capacidades de colegas.</p><h3>Exemplo comentado</h3><p>Um jogo exige ler letras pequenas rapidamente. Há maneiras de mudar o material: letras maiores, leitura mediada, cartões táteis ou outro modo combinado. O objetivo é participar do jogo e aprender, não selecionar quem lê ou se move mais rápido.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Analise o jogo fictício descrito. Identifique duas barreiras e proponha duas adaptações com relação ao objetivo. Não peça que colegas simulem uma deficiência.</p><h4>Explique e aplique</h4><p>Construa um convite acessível para nova pessoa entrar numa atividade, oferecendo pelo menos duas formas de responder e perguntando sobre apoio.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.unicef.org/brazil/inclusao-escolar\" target=\"_blank\" rel=\"noopener noreferrer\">UNICEF — Inclusão escolar</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "acolhimento_na_escola.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Acolher alguém numa atividade significa:",
+      "alternativas": [
+        "Deixar entrar sem alterar qualquer barreira.",
+        "Buscar condições para participar com autonomia e apoio.",
+        "Decidir tudo sem perguntar."
+      ],
+      "correta": 1,
+      "explicacao": "Um jogo exige ler letras pequenas rapidamente. Há maneiras de mudar o material: letras maiores, leitura mediada, cartões táteis ou outro modo combinado. O objetivo é participar do jogo e aprender, não selecionar quem lê ou se move mais rápido.",
+      "bncc": [
+        "EF01CI04"
+      ]
+    },
+    {
+      "id": "acolhimento_na_escola.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Analise o jogo fictício descrito. Identifique duas barreiras e proponha duas adaptações com relação ao objetivo. Não peça que colegas simulem uma deficiência.",
+      "gabarito": "Relacionar recurso à barreira, aceitar múltiplas soluções e manter papel ativo do participante.",
+      "rubrica": [
+        "Relacionar recurso à barreira, aceitar múltiplas soluções e manter papel ativo do participante.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI04"
+      ]
+    },
+    {
+      "id": "acolhimento_na_escola.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Construa um convite acessível para nova pessoa entrar numa atividade, oferecendo pelo menos duas formas de responder e perguntando sobre apoio.",
+      "gabarito": "Exigir convite e opções reais, sem presumir necessidade pelo aspecto de alguém.",
+      "rubrica": [
+        "Exigir convite e opções reais, sem presumir necessidade pelo aspecto de alguém.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "UNICEF — Inclusão escolar",
+      "url": "https://www.unicef.org/brazil/inclusao-escolar",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.diversidade_e_respeito.respeito_as_diferencas"
+  ],
+  "proximosPassos": [
+    "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Diversidade e Respeito",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "titulo": "Acolhimento na Escola"
+  }
+}

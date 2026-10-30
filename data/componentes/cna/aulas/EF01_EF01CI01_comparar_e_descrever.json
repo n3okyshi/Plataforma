@@ -1,0 +1,115 @@
+{
+  "id": "cna.ef01.observar_e_registrar.comparar_e_descrever",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 27,
+  "unidade": "Observar e Registrar",
+  "titulo": "Comparar com um critério compartilhado",
+  "bncc": [
+    "EF01CI01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare três amostras limpas por duas características. Faça tabela ou cartões, dizendo qual foi apenas observada e qual foi testada com adulto, sem forçar materiais.",
+      "Reagrupe por um dos critérios e escolha material para uma função simples. Explique a escolha e uma informação que ainda precisaria verificar."
+    ],
+    "resumo": "Comparar com um critério compartilhado",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.observar_e_registrar.desenho_como_registro\">Desenhar para comunicar uma observação do corpo</button></p><h2>Comparar com um critério compartilhado</h2><h3>Para compreender</h3><p>Comparar é procurar semelhanças e diferenças segundo um critério. Ao estudar materiais, podemos comparar flexibilidade, textura ou passagem de luz de amostras seguras. Mais de um critério pode levar a agrupamentos diferentes. Não se conclui que um material é melhor para tudo. Testes precisam de condições semelhantes e resultados registrados; tamanho e forma do objeto também podem influenciar o que acontece.</p><h3>Exemplo comentado</h3><p>Dois retalhos podem ser flexíveis e ter texturas diferentes. Uma tampa plástica e um saquinho podem diferir em rigidez mesmo sob o nome plástico. Se mudamos muito a força em cada teste, não sabemos se a diferença veio da amostra ou da ação.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Compare três amostras limpas por duas características. Faça tabela ou cartões, dizendo qual foi apenas observada e qual foi testada com adulto, sem forçar materiais.</p><h4>Explique e aplique</h4><p>Reagrupe por um dos critérios e escolha material para uma função simples. Explique a escolha e uma informação que ainda precisaria verificar.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "comparar_e_descrever.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Agrupar materiais pela textura e depois pela flexibilidade:",
+      "alternativas": [
+        "Precisa gerar sempre grupos idênticos.",
+        "Pode gerar grupos diferentes.",
+        "Determina qual pessoa é melhor observadora."
+      ],
+      "correta": 1,
+      "explicacao": "Dois retalhos podem ser flexíveis e ter texturas diferentes. Uma tampa plástica e um saquinho podem diferir em rigidez mesmo sob o nome plástico. Se mudamos muito a força em cada teste, não sabemos se a diferença veio da amostra ou da ação.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "comparar_e_descrever.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Compare três amostras limpas por duas características. Faça tabela ou cartões, dizendo qual foi apenas observada e qual foi testada com adulto, sem forçar materiais.",
+      "gabarito": "Exigir critérios aplicados às três amostras e condições reais; não apresentar preferência como propriedade medida.",
+      "rubrica": [
+        "Exigir critérios aplicados às três amostras e condições reais; não apresentar preferência como propriedade medida.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "comparar_e_descrever.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Reagrupe por um dos critérios e escolha material para uma função simples. Explique a escolha e uma informação que ainda precisaria verificar.",
+      "gabarito": "Relacionar propriedade e função e reconhecer limites; aceitar decisões diferentes sustentadas pelas evidências.",
+      "rubrica": [
+        "Relacionar propriedade e função e reconhecer limites; aceitar decisões diferentes sustentadas pelas evidências.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.observar_e_registrar.desenho_como_registro"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Observar e Registrar",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "titulo": "Comparar e Descrever"
+  }
+}

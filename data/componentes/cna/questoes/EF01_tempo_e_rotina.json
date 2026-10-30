@@ -1,0 +1,352 @@
+[
+  {
+    "pergunta": "Depois de domingo vem:",
+    "opcoes": [
+      "Quarta-feira.",
+      "Segunda-feira.",
+      "Sábado."
+    ],
+    "correta": 1,
+    "explicacao": "Em sete cartões, podemos montar uma roda: ao chegar a domingo, voltamos a segunda. O número 12 pode ser uma data do mês e não significa que a semana tem doze dias. Nem todo dia da semana corresponde a aula; isso depende do calendário escolar.",
+    "id": "cna.ef01.tempo_e_rotina.dias_da_semana.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.dias_da_semana",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Duas segundas no mesmo mês:",
+    "opcoes": [
+      "Têm sempre o mesmo número de data.",
+      "Podem ter datas diferentes.",
+      "Provam que a semana mudou de tamanho."
+    ],
+    "correta": 1,
+    "explicacao": "O nome do dia se repete; a data avança no mês.",
+    "id": "cna.ef01.tempo_e_rotina.dias_da_semana.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.dias_da_semana",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma semana tem:",
+    "opcoes": [
+      "Doze dias.",
+      "Sete dias.",
+      "Trinta dias."
+    ],
+    "correta": 1,
+    "explicacao": "Outubro de 2026, mostrado na tabela de referência, tem 31 dias. Depois do último dia, começa novembro, cujo primeiro dia recebe número 1. Não reiniciamos o nome do dia da semana só porque mudou o mês: a sequência semanal continua.",
+    "id": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Qual afirmação está correta?",
+    "opcoes": [
+      "Todo mês tem 31 dias.",
+      "Meses podem ter durações diferentes.",
+      "Todo mês tem exatamente quatro semanas."
+    ],
+    "correta": 1,
+    "explicacao": "Sete dias definem a semana; meses não têm todos a mesma duração.",
+    "id": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma cor sem legenda no calendário permite saber o evento?",
+    "opcoes": [
+      "Não; precisamos da legenda ou informação da fonte.",
+      "Sim, se for vermelha.",
+      "Sim, toda cor tem significado universal."
+    ],
+    "correta": 0,
+    "explicacao": "Podemos combinar no exemplo fictício observar uma planta em 5 e 12 de outubro de 2026. Isso não significa que a escola marcou essas atividades. Se um feriado ou mudança interfere, é preciso consultar o calendário oficial local, não adivinhar por uma cor.",
+    "id": "cna.ef01.tempo_e_rotina.o_calendario_escolar.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.o_calendario_escolar",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para afirmar que a escola terá uma reunião, é preciso:",
+    "opcoes": [
+      "Copiar qualquer calendário de outro lugar.",
+      "Confirmar em comunicação ou calendário oficial da escola.",
+      "Inventar uma marca de cor."
+    ],
+    "correta": 1,
+    "explicacao": "Datas do calendário não confirmam, sozinhas, eventos locais.",
+    "id": "cna.ef01.tempo_e_rotina.o_calendario_escolar.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.o_calendario_escolar",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "No exemplo, hoje é dia 10. Amanhã será:",
+    "opcoes": [
+      "11.",
+      "9.",
+      "10."
+    ],
+    "correta": 0,
+    "explicacao": "No caso fictício, o personagem chama 10 de outubro de 2026 de hoje. Então ontem é 9 e amanhã, 11. Se a referência passa a 11, ontem passa a ser 10. São relações do exemplo, não uma afirmação de qual dia está acontecendo durante sua leitura.",
+    "id": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Quando muda o dia chamado de hoje:",
+    "opcoes": [
+      "As referências de ontem e amanhã também podem mudar.",
+      "Ontem fica sempre na mesma data.",
+      "A ordem dos dias deixa de existir."
+    ],
+    "correta": 0,
+    "explicacao": "As palavras são relativas ao dia de referência, enquanto a data identifica o registro.",
+    "id": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para organizar datas de um mês, o instrumento mais adequado é:",
+    "opcoes": [
+      "Calendário.",
+      "Balança.",
+      "Régua."
+    ],
+    "correta": 0,
+    "explicacao": "Um cronômetro pode registrar o tempo de organizar dez cartões. Isso não revela o mês ou o ano. A atividade não é competição de rapidez: repetir a organização pode mudar a duração, e apoio ou pausas devem ser registrados. Quem precisar pode acompanhar a medida feita pelo adulto.",
+    "id": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "O cronômetro marcou a duração de uma ação. Isso informa sozinho:",
+    "opcoes": [
+      "O intervalo medido, com a unidade registrada.",
+      "A data da próxima reunião.",
+      "O ano da ação."
+    ],
+    "correta": 0,
+    "explicacao": "Instrumento e escala precisam corresponder à pergunta.",
+    "id": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

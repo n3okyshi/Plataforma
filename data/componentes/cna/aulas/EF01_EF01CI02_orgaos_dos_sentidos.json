@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.corpo_humano.orgaos_dos_sentidos",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 2,
+  "unidade": "Corpo Humano",
+  "titulo": "Sentidos: perceber de diferentes maneiras",
+  "bncc": [
+    "EF01CI02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Em figura vestida, marque olhos, orelhas, nariz, língua representada em cartão e pele. Relacione quatro deles a informações percebidas. Use somente objeto limpo e seguro para observar textura, se desejar.",
+      "Um personagem não consegue ler a placa pequena. Proponha dois apoios para receber a informação sem diagnosticar a causa."
+    ],
+    "resumo": "Sentidos: perceber de diferentes maneiras",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.corpo_humano.cabeca_tronco_e_membros\">Cabeça, tronco e membros: localizar no desenho</button></p><h2>Sentidos: perceber de diferentes maneiras</h2><h3>Para compreender</h3><p>Olhos participam da visão, orelhas e estruturas internas do ouvido da audição, nariz do olfato, língua do paladar e pele do tato. Perceber envolve também o sistema nervoso e a experiência. A pele está em muitas regiões, não só nas mãos. Essas associações ajudam a localizar funções; não significam que todo mundo percebe do mesmo modo ou que só existem cinco tipos de informação corporal. Óculos, aparelhos e outros suportes podem ajudar na participação.</p><h3>Exemplo comentado</h3><p>Um objeto pode ser descrito por sua forma vista, textura tocada com cuidado ou descrição lida por adulto. A pessoa não precisa usar todos esses caminhos. Para investigar não é necessário vendar olhos, provar alimento, cheirar substância desconhecida ou testar a audição de colegas.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Em figura vestida, marque olhos, orelhas, nariz, língua representada em cartão e pele. Relacione quatro deles a informações percebidas. Use somente objeto limpo e seguro para observar textura, se desejar.</p><h4>Explique e aplique</h4><p>Um personagem não consegue ler a placa pequena. Proponha dois apoios para receber a informação sem diagnosticar a causa.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "orgaos_dos_sentidos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A pele participa principalmente de informações de:",
+      "alternativas": [
+        "Audição apenas.",
+        "Tato em diferentes regiões.",
+        "Visão apenas."
+      ],
+      "correta": 1,
+      "explicacao": "Um objeto pode ser descrito por sua forma vista, textura tocada com cuidado ou descrição lida por adulto. A pessoa não precisa usar todos esses caminhos. Para investigar não é necessário vendar olhos, provar alimento, cheirar substância desconhecida ou testar a audição de colegas.",
+      "bncc": [
+        "EF01CI02"
+      ]
+    },
+    {
+      "id": "orgaos_dos_sentidos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Em figura vestida, marque olhos, orelhas, nariz, língua representada em cartão e pele. Relacione quatro deles a informações percebidas. Use somente objeto limpo e seguro para observar textura, se desejar.",
+      "gabarito": "Exigir localização e função, lembrando pele além da mão; aceitar descrição mediada, sem pontuar capacidade sensorial.",
+      "rubrica": [
+        "Exigir localização e função, lembrando pele além da mão; aceitar descrição mediada, sem pontuar capacidade sensorial.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI02"
+      ]
+    },
+    {
+      "id": "orgaos_dos_sentidos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Um personagem não consegue ler a placa pequena. Proponha dois apoios para receber a informação sem diagnosticar a causa.",
+      "gabarito": "Aceitar letra maior, leitura em voz, aproximação segura ou suporte acessível; não escolher óculos ou tratamento.",
+      "rubrica": [
+        "Aceitar letra maior, leitura em voz, aproximação segura ou suporte acessível; não escolher óculos ou tratamento.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.corpo_humano.cabeca_tronco_e_membros"
+  ],
+  "proximosPassos": [
+    "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Corpo Humano",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "titulo": "Órgãos dos Sentidos"
+  }
+}

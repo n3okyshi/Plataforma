@@ -1,0 +1,110 @@
+{
+  "id": "cna.ef01.saude_e_ambiente.ar_que_respiramos",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 34,
+  "unidade": "Saúde e Ambiente — Complementar",
+  "titulo": "Ar e ambiente: cuidado sem experimentos de exposição",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe uma situação fictícia de ambiente ventilado e outra com fonte de fumaça. Indique o que comunicar e qual exposição evitar, sem produzir fumaça real.",
+      "Produza mensagem ao adulto para relatar uma condição ambiental observada em espaço autorizado ou no caso fictício. Separe observação e hipótese."
+    ],
+    "resumo": "Ar e ambiente: cuidado sem experimentos de exposição",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Complementar · opcional:</strong> Qualidade do ar e cuidado ambiental; extensão sem equivalência automática à habilidade de higiene EF01CI03.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu\">Dia, noite e atividades dos seres vivos</button></p><h2>Ar e ambiente: cuidado sem experimentos de exposição</h2><h3>Para compreender</h3><p>Esta extensão relaciona ambiente e cuidado. Respirar envolve entrada e saída de ar; ele é uma mistura e não apenas oxigênio. Fumaça e poeira podem afetar condições do ambiente. Crianças não devem cheirar fumaça, levantar poeira ou prender a respiração para testar efeitos. Um espaço abafado ou com cheiro forte precisa de avaliação adulta; abrir janelas depende de condições e segurança. Aparência transparente não garante ar sem contaminantes.</p><h3>Exemplo comentado</h3><p>Em caso fictício, há fumaça próxima à janela. Não basta dizer que abrir sempre é melhor: o adulto precisa avaliar a fonte e o local seguro. A turma pode relatar o que percebe sem diagnosticar pessoas ou medir poluição por opinião.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Desenhe uma situação fictícia de ambiente ventilado e outra com fonte de fumaça. Indique o que comunicar e qual exposição evitar, sem produzir fumaça real.</p><h4>Explique e aplique</h4><p>Produza mensagem ao adulto para relatar uma condição ambiental observada em espaço autorizado ou no caso fictício. Separe observação e hipótese.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "ar_que_respiramos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para investigar efeito de fumaça, a turma deve:",
+      "alternativas": [
+        "Aproximar o rosto para cheirar.",
+        "Usar casos e fontes sem criar exposição.",
+        "Prender a respiração por competição."
+      ],
+      "correta": 1,
+      "explicacao": "Em caso fictício, há fumaça próxima à janela. Não basta dizer que abrir sempre é melhor: o adulto precisa avaliar a fonte e o local seguro. A turma pode relatar o que percebe sem diagnosticar pessoas ou medir poluição por opinião.",
+      "bncc": []
+    },
+    {
+      "id": "ar_que_respiramos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe uma situação fictícia de ambiente ventilado e outra com fonte de fumaça. Indique o que comunicar e qual exposição evitar, sem produzir fumaça real.",
+      "gabarito": "Reconhecer necessidade de avaliação do ambiente e ausência de teste por exposição; não afirmar concentração ou diagnóstico.",
+      "rubrica": [
+        "Reconhecer necessidade de avaliação do ambiente e ausência de teste por exposição; não afirmar concentração ou diagnóstico.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    },
+    {
+      "id": "ar_que_respiramos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Produza mensagem ao adulto para relatar uma condição ambiental observada em espaço autorizado ou no caso fictício. Separe observação e hipótese.",
+      "gabarito": "Exigir descrição sem dados pessoais e encaminhamento; não solicitar remédio ou limpeza química infantil.",
+      "rubrica": [
+        "Exigir descrição sem dados pessoais e encaminhamento; não solicitar remédio ou limpeza química infantil.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    }
+  ],
+  "complementar": true,
+  "preRequisitos": [
+    "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu"
+  ],
+  "proximosPassos": [
+    "cna.ef01.saude_e_ambiente.agua_limpa_para_todos"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Saúde e Ambiente",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "titulo": "O Ar que Respiramos"
+  },
+  "justificativaComplementar": "Qualidade do ar e cuidado ambiental; extensão sem equivalência automática à habilidade de higiene EF01CI03."
+}
