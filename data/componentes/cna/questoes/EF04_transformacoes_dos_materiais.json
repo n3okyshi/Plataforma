@@ -1,0 +1,412 @@
+[
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para investigar luz, é melhor comparar:",
+    "opcoes": [
+      "Somente fotos sem data.",
+      "Materiais de tipos e umidades diferentes.",
+      "Mesmo material e condições semelhantes, mudando a exposição à luz."
+    ],
+    "correta": 2,
+    "explicacao": "Mudar vários fatores dificulta atribuir o efeito à luz.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não houve alteração visível no prazo observado. O relato correto é:",
+    "opcoes": [
+      "Declarar mudança para confirmar a previsão.",
+      "Concluir que luz nunca altera material algum.",
+      "Registrar o resultado e o limite de material, tempo e método."
+    ],
+    "correta": 2,
+    "explicacao": "Resultados negativos ou inconclusivos também precisam ser preservados.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.observando_mudancas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma transformação deve ser descrita com base em:",
+    "opcoes": [
+      "Registros antes/depois e condições.",
+      "Apenas a expectativa do observador.",
+      "Somente o nome do material."
+    ],
+    "correta": 0,
+    "explicacao": "A comparação permite identificar qual propriedade mudou.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.observando_mudancas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Papel secou ondulado. Isso basta para dizer qual substância nova se formou?",
+    "opcoes": [
+      "Não; mudança observável não identifica sozinha nova substância.",
+      "Sim, sem qualquer informação adicional.",
+      "Sim, toda mudança de forma é química."
+    ],
+    "correta": 0,
+    "explicacao": "Forma é evidência descritiva, não diagnóstico universal de composição.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "O que fazer quando uma medida não foi realizada?",
+    "opcoes": [
+      "Copiar outra amostra como real.",
+      "Registrar a lacuna e planejar nova observação.",
+      "Estimar sem avisar."
+    ],
+    "correta": 1,
+    "explicacao": "Completude visual de tabela não justifica fabricar dados.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para outra pessoa compreender um teste, ajuda registrar:",
+    "opcoes": [
+      "Somente a conclusão esperada.",
+      "Pergunta, condições, método, tempo e resultados.",
+      "Apenas se o aluno gostou."
+    ],
+    "correta": 1,
+    "explicacao": "Rastreabilidade sustenta interpretação e revisão do teste.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para comparar rapidez de mudança, precisamos considerar:",
+    "opcoes": [
+      "Apenas a última fotografia sem data.",
+      "Somente qual amostra ficou mais bonita.",
+      "Duração, material e condições do teste."
+    ],
+    "correta": 2,
+    "explicacao": "Mudanças ao longo do tempo exigem referências comparáveis.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não mudou em cinco minutos. Podemos concluir que nunca mudará?",
+    "opcoes": [
+      "Sim, todo processo termina nesse prazo.",
+      "Sim, se o material for papel.",
+      "Não; o intervalo pode ser insuficiente para aquele processo."
+    ],
+    "correta": 2,
+    "explicacao": "A duração observada limita a conclusão.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.comparando_condicoes",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Mudar vários fatores ao mesmo tempo:",
+    "opcoes": [
+      "Sempre prova qual fator foi responsável.",
+      "Dispensa registrar o método.",
+      "Dificulta isolar a causa de uma diferença."
+    ],
+    "correta": 2,
+    "explicacao": "Podem existir explicações concorrentes para o resultado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF04",
+    "unidade": "Transformações dos Materiais",
+    "aulaId": "cna.ef04.transformacoes_dos_materiais.comparando_condicoes",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual plano compara melhor umidade?",
+    "opcoes": [
+      "Papel seco à sombra e tecido molhado ao sol.",
+      "Duas fotos de materiais desconhecidos.",
+      "Mesmo papel e local, com uma amostra seca e outra com água registrada."
+    ],
+    "correta": 2,
+    "explicacao": "Condições semelhantes tornam a pergunta mais delimitada.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          341
+        ],
+        "paginasImpressas": "339",
+        "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+      },
+      {
+        "documento": "American Chemical Society — What is a Chemical Reaction?",
+        "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

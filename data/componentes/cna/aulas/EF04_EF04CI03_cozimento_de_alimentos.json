@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 11,
+  "unidade": "Transformações Reversíveis e Não Reversíveis",
+  "titulo": "Cozimento de Alimentos",
+  "bncc": [
+    "EF04CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare as duas sequências e indique o que é recuperado ou não ao inverter aquecimento/resfriamento.",
+      "Explique por que o caso é evidência sobre o processo descrito, sem usar aparência como regra para toda transformação."
+    ],
+    "resumo": "Cozimento pode alterar cor, consistência e propriedades dos alimentos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua\">Mudanças reversíveis e não reversíveis</button></p><h2>Cozimento de Alimentos</h2><h3>Para compreender</h3><p>Cozimento pode alterar cor, consistência e propriedades dos alimentos. No ovo, aquecer transforma estruturas de seus componentes; esfriar o ovo cozido não o faz voltar a ser cru. Isso difere de gelo que derrete e pode congelar novamente. Não basta todo material estar frio para recuperar o estado anterior. Estudamos cartões e descrição do processo; criança não aquece, corta ou prova alimentos da investigação. Preparo e higiene são responsabilidade adulta.</p><h3>Exemplo comentado</h3><p>Quadro: ovo cru → cozido → resfriado. O último continua cozido. Já água líquida pode congelar quando recebe condições adequadas de resfriamento.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Compare as duas sequências e indique o que é recuperado ou não ao inverter aquecimento/resfriamento.</p><h4>Proposta 2</h4><p>Explique por que o caso é evidência sobre o processo descrito, sem usar aparência como regra para toda transformação.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — What is a Chemical Reaction?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "cozimento_de_alimentos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Esfriar um ovo cozido normalmente o torna cru?",
+      "alternativas": [
+        "Não, ele permanece cozido.",
+        "Sim, basta ficar frio.",
+        "Sim, se a casca for retirada."
+      ],
+      "correta": 0,
+      "explicacao": "A inversão de temperatura não desfaz o cozimento.",
+      "bncc": [
+        "EF04CI03"
+      ]
+    },
+    {
+      "id": "cozimento_de_alimentos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Compare as duas sequências e indique o que é recuperado ou não ao inverter aquecimento/resfriamento.",
+      "gabarito": "Distinguir estado físico da água e alterações do ovo, sem dizer que resfriar desfaz todo aquecimento.",
+      "rubrica": [
+        "Distinguir estado físico da água e alterações do ovo, sem dizer que resfriar desfaz todo aquecimento.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ]
+    },
+    {
+      "id": "cozimento_de_alimentos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que o caso é evidência sobre o processo descrito, sem usar aparência como regra para toda transformação.",
+      "gabarito": "Conclusão específica, nenhuma experiência com ovo cru ou fogo pela criança.",
+      "rubrica": [
+        "Conclusão específica, nenhuma experiência com ovo cru ou fogo pela criança.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — What is a Chemical Reaction?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua"
+  ],
+  "proximosPassos": [
+    "cna.ef04.reversivel_ou_nao.queima_de_papel"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "titulo": "Cozimento de Alimentos"
+  }
+}

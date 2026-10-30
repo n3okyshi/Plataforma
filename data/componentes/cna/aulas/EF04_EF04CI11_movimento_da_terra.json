@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef04.calendarios_e_ciclos.movimento_da_terra",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 41,
+  "unidade": "Calendários e Ciclos",
+  "titulo": "Movimentos da Terra",
+  "bncc": [
+    "EF04CI11"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Represente rotação e translação por desenho ou modelo com adulto e relacione cada uma a uma unidade de tempo.",
+      "Explique por que um calendário pode precisar de ajuste e por que datas civis não fixam sempre a mesma fase lunar."
+    ],
+    "resumo": "A rotação da Terra se relaciona à sucessão de dia e noite; sua translação ao redor do Sol se relaciona ao ano.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.calendarios_e_ciclos.fases_da_lua\">Ciclos e calendários em diferentes culturas</button></p><h2>Movimentos da Terra</h2><h3>Para compreender</h3><p>A rotação da Terra se relaciona à sucessão de dia e noite; sua translação ao redor do Sol se relaciona ao ano. A duração do ano não corresponde a um número inteiro exato de dias, por isso calendários adotam regras de ajuste. Meses do calendário gregoriano não seguem obrigatoriamente as fases da Lua. Um modelo de esfera e luz ajuda a distinguir movimentos, mas não reproduz escalas e não informa sozinho datas de festas. Culturas podem usar ciclos e regras diferentes para organizar o tempo.</p><h3>Exemplo comentado</h3><p>Dar uma volta sobre si e percorrer um caminho ao redor de uma luz são movimentos diferentes no modelo. Não se afirma que o Sol apaga a cada noite.</p><table><caption>Comparação de referências; não é conversor de datas nem descrição de todas as práticas individuais</caption><thead><tr><th scope=\"col\">Exemplo</th><th scope=\"col\">Referência predominante</th><th scope=\"col\">Relação com ciclos</th></tr></thead><tbody><tr><td>Gregoriano</td><td>Solar</td><td>Ano relacionado ao ciclo solar; meses não sincronizam sempre com fases</td></tr><tr><td>Islâmico</td><td>Lunar</td><td>Meses acompanham ciclos lunares; critérios de início podem variar</td></tr><tr><td>Hebraico</td><td>Lunissolar</td><td>Relaciona meses lunares e ano solar com ajustes</td></tr><tr><td>Chinês tradicional</td><td>Lunissolar</td><td>Relaciona meses lunares e ano solar; usos civis podem coexistir</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Represente rotação e translação por desenho ou modelo com adulto e relacione cada uma a uma unidade de tempo.</p><h4>Proposta 2</h4><p>Explique por que um calendário pode precisar de ajuste e por que datas civis não fixam sempre a mesma fase lunar.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://aa.usno.navy.mil/faq/calendars\" target=\"_blank\" rel=\"noopener noreferrer\">U.S. Naval Observatory — Introduction to Calendars</a></li><li><a href=\"https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA JetStream — The Shadow Knows I</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "movimento_da_terra.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual associação é adequada?",
+      "alternativas": [
+        "Ano corresponde à rotação de uma hora.",
+        "Dia se relaciona à rotação e ano à translação da Terra.",
+        "Todo mês gregoriano é uma lunação exata."
+      ],
+      "correta": 1,
+      "explicacao": "Movimentos distintos sustentam referências temporais distintas.",
+      "bncc": [
+        "EF04CI11"
+      ]
+    },
+    {
+      "id": "movimento_da_terra.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Represente rotação e translação por desenho ou modelo com adulto e relacione cada uma a uma unidade de tempo.",
+      "gabarito": "Dia/rotação e ano/translação, modelo sem escala; não confundir ciclo lunar e mês civil.",
+      "rubrica": [
+        "Dia/rotação e ano/translação, modelo sem escala; não confundir ciclo lunar e mês civil.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI11"
+      ]
+    },
+    {
+      "id": "movimento_da_terra.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que um calendário pode precisar de ajuste e por que datas civis não fixam sempre a mesma fase lunar.",
+      "gabarito": "Ciclos não encaixam em números inteiros; calendário segue convenções definidas.",
+      "rubrica": [
+        "Ciclos não encaixam em números inteiros; calendário segue convenções definidas.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI11"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "U.S. Naval Observatory — Introduction to Calendars",
+      "url": "https://aa.usno.navy.mil/faq/calendars",
+      "consulta": "2026-10-30",
+      "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+    },
+    {
+      "documento": "NOAA JetStream — The Shadow Knows I",
+      "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+      "consulta": "2026-10-30",
+      "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.calendarios_e_ciclos.fases_da_lua"
+  ],
+  "proximosPassos": [
+    "cna.ef04.calendarios_e_ciclos.calendarios_culturais"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Calendários e Ciclos",
+    "bncc": [
+      "EF04CI11"
+    ],
+    "titulo": "Movimentos da Terra"
+  }
+}

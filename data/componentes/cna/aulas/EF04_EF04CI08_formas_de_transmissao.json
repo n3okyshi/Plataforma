@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 32,
+  "unidade": "Saúde e Microrganismos",
+  "titulo": "Formas de Transmissão",
+  "bncc": [
+    "EF04CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Construa esquema de uma via por água/alimentos e associe dois pontos de prevenção, incluindo condição coletiva.",
+      "Compare essa via a uma transmissão respiratória descrita pelo adulto e explique por que uma única medida não resolve todos os casos."
+    ],
+    "resumo": "Alguns agentes causadores de doenças podem ser transmitidos por água/alimentos contaminados, contato ou ar, conforme o agente e a situação.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios\">Transmissão e prevenção: relacionar medidas</button></p><h2>Formas de Transmissão</h2><h3>Para compreender</h3><p>Alguns agentes causadores de doenças podem ser transmitidos por água/alimentos contaminados, contato ou ar, conforme o agente e a situação. Vírus não são células; bactérias e protozoários têm características distintas, e nem todos causam doença. Exemplos de infecções intestinais incluem agentes virais, bacterianos e protozoários; a prevenção deve corresponder à via. Saúde depende também de saneamento, água segura e acesso a cuidados. Adoecer não prova falta de higiene ou valor pessoal. Não se identificam doenças em colegas.</p><h3>Exemplo comentado</h3><p>No modelo, um caminho possível liga contaminação fecal, água/alimento e ingestão. É uma possibilidade de transmissão, não observação de pessoas reais.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Construa esquema de uma via por água/alimentos e associe dois pontos de prevenção, incluindo condição coletiva.</p><h4>Proposta 2</h4><p>Compare essa via a uma transmissão respiratória descrita pelo adulto e explique por que uma única medida não resolve todos os casos.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Diarrhoeal disease</a></li><li><a href=\"https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Vaccines and immunization: What is vaccination?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "formas_de_transmissao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Toda doença infecciosa tem exatamente a mesma via de transmissão?",
+      "alternativas": [
+        "Não; a prevenção precisa considerar o agente e a via.",
+        "Sim, basta qualquer medida isolada.",
+        "Sim, só a cor do microrganismo importa."
+      ],
+      "correta": 0,
+      "explicacao": "Água/alimentos e vias respiratórias não são o mesmo caminho.",
+      "bncc": [
+        "EF04CI08"
+      ]
+    },
+    {
+      "id": "formas_de_transmissao.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Construa esquema de uma via por água/alimentos e associe dois pontos de prevenção, incluindo condição coletiva.",
+      "gabarito": "Água segura, saneamento, higiene/preparo orientado; redução de risco, sem diagnóstico ou teste por consumo.",
+      "rubrica": [
+        "Água segura, saneamento, higiene/preparo orientado; redução de risco, sem diagnóstico ou teste por consumo.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI08"
+      ]
+    },
+    {
+      "id": "formas_de_transmissao.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare essa via a uma transmissão respiratória descrita pelo adulto e explique por que uma única medida não resolve todos os casos.",
+      "gabarito": "Vias distintas exigem medidas pertinentes; não dar receita terapêutica nem culpar pessoas.",
+      "rubrica": [
+        "Vias distintas exigem medidas pertinentes; não dar receita terapêutica nem culpar pessoas.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "WHO — Diarrhoeal disease",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+      "consulta": "2026-10-30",
+      "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+    },
+    {
+      "documento": "WHO — Vaccines and immunization: What is vaccination?",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+      "consulta": "2026-10-30",
+      "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios"
+  ],
+  "proximosPassos": [
+    "cna.ef04.saude_e_microrganismos.prevencao_de_doencas"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Saúde e Microrganismos",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "titulo": "Formas de Transmissão"
+  }
+}

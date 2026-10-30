@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.reversivel_ou_nao.queima_de_papel",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 12,
+  "unidade": "Transformações Reversíveis e Não Reversíveis",
+  "titulo": "Queima de Papel",
+  "bncc": [
+    "EF04CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Represente a sequência com palavras e explique por que esfriar o resíduo não devolve o papel.",
+      "Compare queima e derretimento do gelo, indicando uma diferença e por que fumaça não deve ser produzida para a atividade."
+    ],
+    "resumo": "Na queima, papel reage com componentes do ar e gera outros materiais, incluindo gases e resíduos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.reversivel_ou_nao.cozimento_de_alimentos\">Cozimento de Alimentos</button></p><h2>Queima de Papel</h2><h3>Para compreender</h3><p>Na queima, papel reage com componentes do ar e gera outros materiais, incluindo gases e resíduos. Parte sai para o ar, portanto não se conclui que a matéria desapareceu só porque restou pouca cinza. Esfriar cinzas não reconstrói a folha original. A aula usa descrição e cartões textuais, sem acender papel, produzir fumaça ou recolher resíduos de queima. Estudar um fenômeno não exige reproduzir um risco. Compare com mudança de estado da água para delimitar a reversibilidade.</p><h3>Exemplo comentado</h3><p>Sequência conceitual: papel antes; combustão com transformação e liberação de gases; resíduos após. É modelo textual, não experimento realizado pela turma.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Represente a sequência com palavras e explique por que esfriar o resíduo não devolve o papel.</p><h4>Proposta 2</h4><p>Compare queima e derretimento do gelo, indicando uma diferença e por que fumaça não deve ser produzida para a atividade.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — What is a Chemical Reaction?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "queima_de_papel.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Pouca cinza após a queima significa que toda a matéria sumiu?",
+      "alternativas": [
+        "Sim, cinza é tudo que existe depois.",
+        "Não; gases e outros produtos também foram formados.",
+        "Sim, porque não vemos o ar."
+      ],
+      "correta": 1,
+      "explicacao": "O que deixa o recipiente não deixa de existir.",
+      "bncc": [
+        "EF04CI03"
+      ]
+    },
+    {
+      "id": "queima_de_papel.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Represente a sequência com palavras e explique por que esfriar o resíduo não devolve o papel.",
+      "gabarito": "Transformação produz outros materiais; reversão por resfriamento não ocorre, sem teste com fogo.",
+      "rubrica": [
+        "Transformação produz outros materiais; reversão por resfriamento não ocorre, sem teste com fogo.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ]
+    },
+    {
+      "id": "queima_de_papel.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare queima e derretimento do gelo, indicando uma diferença e por que fumaça não deve ser produzida para a atividade.",
+      "gabarito": "Reversibilidade da água em condições adequadas versus queima, risco e modelo separado de execução.",
+      "rubrica": [
+        "Reversibilidade da água em condições adequadas versus queima, risco e modelo separado de execução.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — What is a Chemical Reaction?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos"
+  ],
+  "proximosPassos": [
+    "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "titulo": "Queima de Papel"
+  }
+}

@@ -1,1 +1,45 @@
-{"id":"cna.ef04.transformacoes_dos_materiais.registrando_experimentos","componente":"cna","nivel":"EF04","ordem":3,"unidade":"Transformações dos Materiais","titulo":"Registrando Experimentos","bncc":["EF04CI02"],"conteudo":{"objetivos":[],"resumo":"","blocos":[]},"atividades":[],"fontes":[],"metadados":{"estado":"rascunho","revisado":false,"versao":1,"estadoDoEscopo":"planejado"},"publicacao":{"permitida":false,"motivo":"Estrutura sem autoria e validação; não importar para a interface."},"planejamento":{"unidade":"data/componentes/cna/rascunhos/unidades/EF04_transformacoes_dos_materiais_a5e459.json","catalogoCurricular":"data/planejamento-basica/referencias-curriculares.json","codigosOriginais":["EF04CI02"],"codigosAConferir":[],"origem":"data/componentes/cna/arvore.json","prerequisitos":"a_identificar_e_validar","politica":"data/planejamento-basica/politica.json"},"complementar":false,"preRequisitos":[],"proximosPassos":[]}
+{
+  "id": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 3,
+  "unidade": "Transformações dos Materiais",
+  "titulo": "Registrando Experimentos",
+  "bncc": [
+    "EF04CI02"
+  ],
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": []
+  },
+  "atividades": [],
+  "fontes": [],
+  "metadados": {
+    "estado": "rascunho",
+    "revisado": false,
+    "versao": 1,
+    "estadoDoEscopo": "planejado"
+  },
+  "publicacao": {
+    "permitida": false,
+    "motivo": "Estrutura sem autoria e validação; não importar para a interface."
+  },
+  "planejamento": {
+    "unidade": "data/componentes/cna/rascunhos/unidades/EF04_transformacoes_dos_materiais_a5e459.json",
+    "catalogoCurricular": "data/planejamento-basica/referencias-curriculares.json",
+    "codigosOriginais": [
+      "EF04CI02"
+    ],
+    "codigosAConferir": [],
+    "origem": "data/componentes/cna/arvore.json",
+    "prerequisitos": "a_identificar_e_validar",
+    "politica": "data/planejamento-basica/politica.json",
+    "implementacaoCanonica": "data/componentes/cna/aulas/EF04_EF04CI02_registrando_experimentos.json",
+    "estadoDaAutoria": "implementado_para_testes",
+    "limite": "Rascunho original arquivado/bloqueado; autoria canônica indicada, sem homologação."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

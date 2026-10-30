@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 33,
+  "unidade": "Saúde e Microrganismos",
+  "titulo": "Prevenção de Doenças",
+  "bncc": [
+    "EF04CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça quadro com duas vias, duas medidas e recurso necessário, explicando a relação entre elas.",
+      "Analise o caso do sabão e proponha encaminhamento, incluindo como verificar se o recurso foi disponibilizado."
+    ],
+    "resumo": "Prevenir envolve reduzir oportunidades de transmissão e proteger pessoas com medidas adequadas ao contexto.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.saude_e_microrganismos.formas_de_transmissao\">Formas de Transmissão</button></p><h2>Prevenção de Doenças</h2><h3>Para compreender</h3><p>Prevenir envolve reduzir oportunidades de transmissão e proteger pessoas com medidas adequadas ao contexto. Água segura, saneamento, higiene de mãos e cuidados no preparo de alimentos ajudam a reduzir certas infecções intestinais. Ventilação e cuidados orientados podem ser pertinentes a vias respiratórias. Vacinas protegem contra doenças específicas, não todas. Escolha medidas explicando que caminho pretendem interromper, sem prometer risco zero. Tratamento e recomendações individuais cabem a profissionais; a aula não prescreve medicamentos.</p><h3>Exemplo comentado</h3><p>Caso fictício: falta sabão perto do local de alimentação. Um cartaz de lavagem não basta sem acesso ao recurso; a turma pode comunicar a necessidade ao responsável.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça quadro com duas vias, duas medidas e recurso necessário, explicando a relação entre elas.</p><h4>Proposta 2</h4><p>Analise o caso do sabão e proponha encaminhamento, incluindo como verificar se o recurso foi disponibilizado.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Diarrhoeal disease</a></li><li><a href=\"https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Vaccines and immunization: What is vaccination?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "prevencao_de_doencas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um cartaz de higiene sem água ou sabão resolve o acesso ao cuidado?",
+      "alternativas": [
+        "Sim, informação substitui recursos.",
+        "Não; infraestrutura e apoio também são necessários.",
+        "Sim, se o cartaz for grande."
+      ],
+      "correta": 1,
+      "explicacao": "A prevenção depende de condições reais de acesso.",
+      "bncc": [
+        "EF04CI08"
+      ]
+    },
+    {
+      "id": "prevencao_de_doencas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça quadro com duas vias, duas medidas e recurso necessário, explicando a relação entre elas.",
+      "gabarito": "Medida pertinente à via, ação individual/coletiva e limites.",
+      "rubrica": [
+        "Medida pertinente à via, ação individual/coletiva e limites.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI08"
+      ]
+    },
+    {
+      "id": "prevencao_de_doencas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Analise o caso do sabão e proponha encaminhamento, incluindo como verificar se o recurso foi disponibilizado.",
+      "gabarito": "Não culpar aluno; plano, responsabilidade e evidência de execução separados.",
+      "rubrica": [
+        "Não culpar aluno; plano, responsabilidade e evidência de execução separados.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "WHO — Diarrhoeal disease",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+      "consulta": "2026-10-30",
+      "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+    },
+    {
+      "documento": "WHO — Vaccines and immunization: What is vaccination?",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+      "consulta": "2026-10-30",
+      "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.saude_e_microrganismos.formas_de_transmissao"
+  ],
+  "proximosPassos": [
+    "cna.ef04.saude_e_microrganismos.higiene_e_alimentos"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Saúde e Microrganismos",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "titulo": "Prevenção de Doenças"
+  }
+}

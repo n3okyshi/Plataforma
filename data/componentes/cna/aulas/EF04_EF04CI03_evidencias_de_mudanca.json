@@ -1,0 +1,120 @@
+{
+  "id": "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 15,
+  "unidade": "Transformações Reversíveis e Não Reversíveis",
+  "titulo": "Evidências de Mudança",
+  "bncc": [
+    "EF04CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escolha dois cartões e escreva afirmação, evidência que a apoia e informação que falta para uma conclusão mais ampla.",
+      "Explique por que bolhas ou cor diferente não provam sozinhas qualquer reação química."
+    ],
+    "resumo": "Evidências são registros que sustentam uma afirmação.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis\">Transformações Não Reversíveis</button></p><h2>Evidências de Mudança</h2><h3>Para compreender</h3><p>Evidências são registros que sustentam uma afirmação. Mudança de cor, formação de gás, alteração de estado ou de consistência ajudam a descrever um processo, mas cada sinal tem mais de uma explicação possível. Bolhas podem aparecer na fervura sem que a água vire uma substância diferente. Compare início, condições e resultado e delimite o que foi concluído. Nesta aula, analisamos casos registrados, sem aquecer líquidos ou misturar produtos para produzir sinais.</p><h3>Exemplo comentado</h3><p>Cartões: gelo derrete e continua água; ovo cozido não volta cru ao resfriar. A conclusão usa o percurso, não apenas uma cor ou uma fotografia final.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Escolha dois cartões e escreva afirmação, evidência que a apoia e informação que falta para uma conclusão mais ampla.</p><h4>Proposta 2</h4><p>Explique por que bolhas ou cor diferente não provam sozinhas qualquer reação química.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — What is a Chemical Reaction?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "evidencias_de_mudanca.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Bolhas numa água aquecida provam, sozinhas, criação de uma nova substância?",
+      "alternativas": [
+        "Não; podem acompanhar mudança de estado.",
+        "Sim, qualquer bolha prova reação.",
+        "Sim, porque toda água desaparece."
+      ],
+      "correta": 0,
+      "explicacao": "Um sinal deve ser interpretado no contexto do processo.",
+      "bncc": [
+        "EF04CI03"
+      ]
+    },
+    {
+      "id": "evidencias_de_mudanca.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Escolha dois cartões e escreva afirmação, evidência que a apoia e informação que falta para uma conclusão mais ampla.",
+      "gabarito": "Evidência pertinente, limite explícito e distinção entre descrição e interpretação.",
+      "rubrica": [
+        "Evidência pertinente, limite explícito e distinção entre descrição e interpretação.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ]
+    },
+    {
+      "id": "evidencias_de_mudanca.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que bolhas ou cor diferente não provam sozinhas qualquer reação química.",
+      "gabarito": "Sinais podem ter causas distintas; não sugerir teste de fogo ou produtos desconhecidos.",
+      "rubrica": [
+        "Sinais podem ter causas distintas; não sugerir teste de fogo ou produtos desconhecidos.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — What is a Chemical Reaction?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis"
+  ],
+  "proximosPassos": [],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Transformações Reversíveis e Não Reversíveis",
+    "bncc": [
+      "EF04CI03"
+    ],
+    "titulo": "Evidências de Mudança"
+  }
+}

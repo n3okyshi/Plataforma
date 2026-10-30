@@ -874,6 +874,244 @@ registrarCurriculo("Ciências Naturais", {
         "titulo": "Ciclos e calendários em diferentes culturas",
         "complementar": false
       }
+    ],
+    "Misturas do Dia a Dia": [
+      {
+        "id": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+        "titulo": "Misturas Homogêneas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+        "titulo": "Misturas Heterogêneas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+        "titulo": "Componentes das Misturas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+        "titulo": "Misturas na Cozinha",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.misturas_do_dia_a_dia.separando_componentes",
+        "titulo": "Separando Componentes",
+        "complementar": false
+      }
+    ],
+    "Transformações dos Materiais": [
+      {
+        "id": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+        "titulo": "Luz e Umidade",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+        "titulo": "Observando Mudanças",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+        "titulo": "Registrando Experimentos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
+        "titulo": "Tempo e Transformação",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.transformacoes_dos_materiais.comparando_condicoes",
+        "titulo": "Comparando Condições",
+        "complementar": false
+      }
+    ],
+    "Transformações Reversíveis e Não Reversíveis": [
+      {
+        "id": "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+        "titulo": "Cozimento de Alimentos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.reversivel_ou_nao.queima_de_papel",
+        "titulo": "Queima de Papel",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis",
+        "titulo": "Transformações Reversíveis",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
+        "titulo": "Transformações Não Reversíveis",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca",
+        "titulo": "Evidências de Mudança",
+        "complementar": false
+      }
+    ],
+    "Cadeias Alimentares": [
+      {
+        "id": "cna.ef04.cadeias_alimentares.consumidores",
+        "titulo": "Consumidores",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.cadeias_alimentares.decompositores",
+        "titulo": "Decompositores",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.cadeias_alimentares.montando_uma_cadeia",
+        "titulo": "Montando uma Cadeia",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia",
+        "titulo": "O Sol Como Fonte de Energia",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.cadeias_alimentares.teias_alimentares",
+        "titulo": "Teias Alimentares",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia",
+        "titulo": "Equilíbrio da Cadeia",
+        "complementar": false
+      }
+    ],
+    "Ciclo da Matéria e Fluxo de Energia": [
+      {
+        "id": "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia",
+        "titulo": "Ciclo da Matéria",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia",
+        "titulo": "Fluxo de Energia",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local",
+        "titulo": "O Ecossistema Local",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos",
+        "titulo": "Comparando Ciclos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente",
+        "titulo": "Matéria e Energia no Ambiente",
+        "complementar": false
+      }
+    ],
+    "Microrganismos": [
+      {
+        "id": "cna.ef04.microrganismos.decomposicao",
+        "titulo": "Decomposição",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.microrganismos.importancia_ambiental",
+        "titulo": "Importância Ambiental",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.microrganismos.fermentacao",
+        "titulo": "Fermentação",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.microrganismos.medicamentos_e_combustiveis",
+        "titulo": "Medicamentos e Combustíveis",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.microrganismos.microrganismos_uteis",
+        "titulo": "Microrganismos Úteis",
+        "complementar": false
+      }
+    ],
+    "Saúde e Microrganismos": [
+      {
+        "id": "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+        "titulo": "Formas de Transmissão",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+        "titulo": "Prevenção de Doenças",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+        "titulo": "Higiene e Alimentos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+        "titulo": "Vacinas e Cuidados",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.saude_e_microrganismos.saude_na_comunidade",
+        "titulo": "Saúde na Comunidade",
+        "complementar": false
+      }
+    ],
+    "Orientação pelo Sol": [
+      {
+        "id": "cna.ef04.orientacao_pelo_sol.gnomon",
+        "titulo": "O Gnômon",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.orientacao_pelo_sol.sombra_e_direcao",
+        "titulo": "Sombra e Direção",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos",
+        "titulo": "Rosa dos Ventos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola",
+        "titulo": "Gnômon e Bússola",
+        "complementar": false
+      }
+    ],
+    "Calendários e Ciclos": [
+      {
+        "id": "cna.ef04.calendarios_e_ciclos.movimento_da_terra",
+        "titulo": "Movimentos da Terra",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.calendarios_e_ciclos.calendarios_culturais",
+        "titulo": "Calendários Culturais",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.calendarios_e_ciclos.ciclos_naturais",
+        "titulo": "Ciclos Naturais",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef04.calendarios_e_ciclos.tempo_e_cultura",
+        "titulo": "Tempo e Cultura",
+        "complementar": false
+      }
     ]
   },
   "EF05": {

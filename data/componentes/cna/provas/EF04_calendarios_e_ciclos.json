@@ -1,0 +1,119 @@
+{
+  "id": "cna.ef04.calendarios_e_ciclos.prova",
+  "titulo": "Avaliação: Calendários e Ciclos",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Calendários e Ciclos",
+  "bncc": [
+    "EF04CI11"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens próprios de prova, com leitura mediada. Objetiva: acertos/4 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef04.calendarios_e_ciclos.movimento_da_terra.prova.1",
+    "cna.ef04.calendarios_e_ciclos.calendarios_culturais.prova.1",
+    "cna.ef04.calendarios_e_ciclos.ciclos_naturais.prova.1",
+    "cna.ef04.calendarios_e_ciclos.tempo_e_cultura.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.calendarios_e_ciclos.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Calendários e Ciclos",
+    "enunciado": "Compare gregoriano, islâmico e um exemplo lunissolar do quadro. Relacione dia/ano/ciclo lunar a movimentos e períodos aproximados; use 12×29,5 para explicar diferença em relação a 365 dias. Crie calendário didático com regra, finalidade e legenda, sem inventar festa real ou observação. Explique convivência de usos e necessidade de fonte para data específica.",
+    "gabarito": "Rotação/dia, translação/ano, ciclo de fases lunar; 354 dias aproximados e diferença de cerca de 11; solar/lunar/lunissolar e ajustes, diversidade respeitada, calendário com regra e limites de uso.",
+    "rubrica": [
+      "Rotação/dia, translação/ano, ciclo de fases lunar; 354 dias aproximados e diferença de cerca de 11; solar/lunar/lunissolar e ajustes, diversidade respeitada, calendário com regra e limites de uso.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF04CI11"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef04.calendarios_e_ciclos.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Calendários e Ciclos",
+        "enunciado": "Compare gregoriano, islâmico e um exemplo lunissolar do quadro. Relacione dia/ano/ciclo lunar a movimentos e períodos aproximados; use 12×29,5 para explicar diferença em relação a 365 dias. Crie calendário didático com regra, finalidade e legenda, sem inventar festa real ou observação. Explique convivência de usos e necessidade de fonte para data específica.",
+        "gabarito": "Rotação/dia, translação/ano, ciclo de fases lunar; 354 dias aproximados e diferença de cerca de 11; solar/lunar/lunissolar e ajustes, diversidade respeitada, calendário com regra e limites de uso.",
+        "rubrica": [
+          "Rotação/dia, translação/ano, ciclo de fases lunar; 354 dias aproximados e diferença de cerca de 11; solar/lunar/lunissolar e ajustes, diversidade respeitada, calendário com regra e limites de uso.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF04CI11"
+        ],
+        "aulasReferencia": [
+          "cna.ef04.calendarios_e_ciclos.movimento_da_terra",
+          "cna.ef04.calendarios_e_ciclos.calendarios_culturais",
+          "cna.ef04.calendarios_e_ciclos.ciclos_naturais",
+          "cna.ef04.calendarios_e_ciclos.tempo_e_cultura"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao1",
+      "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao2",
+      "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao1",
+      "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao2",
+      "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao1",
+      "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao2",
+      "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao1",
+      "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "U.S. Naval Observatory — Introduction to Calendars",
+      "url": "https://aa.usno.navy.mil/faq/calendars",
+      "consulta": "2026-10-30",
+      "uso": "Introdução e seções solar, lunar e lunissolar consultadas: dia/ano/mês astronômico e regras culturais. Quadro autoral não converte datas, não generaliza práticas individuais, não reproduz todos os detalhes da publicação."
+    },
+    {
+      "documento": "NOAA JetStream — The Shadow Knows I",
+      "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+      "consulta": "2026-10-30",
+      "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI11",
+      "questoes": [
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra.prova.1",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais.prova.1",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais.prova.1",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.calendarios_e_ciclos.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef04.calendarios_e_ciclos.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao1",
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao2",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao1",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao2",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao1",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao2",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao1",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao2"
+      ]
+    }
+  ]
+}

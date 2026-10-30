@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 6,
+  "unidade": "Transformações dos Materiais",
+  "titulo": "Luz e Umidade",
+  "bncc": [
+    "EF04CI02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Planeje comparação de papel seco/molhado ou exposição à luz, com uma mudança principal, registros e prazo. Execute com adulto quando houver condições.",
+      "Relate o que mudou ou não mudou, indicando condições e limite de uma amostra; se não executou, mantenha resultado pendente."
+    ],
+    "resumo": "Luz e umidade são condições que podem alterar materiais.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento\">Investigar transformações em condições diferentes</button></p><h2>Luz e Umidade</h2><h3>Para compreender</h3><p>Luz e umidade são condições que podem alterar materiais. Papel pode mudar de aspecto ao molhar e secar; alguns pigmentos desbotam com exposição à luz ao longo do tempo. O efeito depende do material e das condições, não ocorre igual em tudo. Para comparar só luz, mantenha outras condições semelhantes; para umidade, compare o mesmo tipo de papel com quantidade de água registrada. Não cultive mofo, não aqueça materiais desconhecidos e não use luz concentrada, laser ou substâncias de limpeza.</p><h3>Exemplo comentado</h3><p>Caso fictício: papéis do mesmo tipo ficam em locais iluminado e protegido, sem diferença planejada de água. A comparação precisa registrar duração, cor inicial e posição.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Planeje comparação de papel seco/molhado ou exposição à luz, com uma mudança principal, registros e prazo. Execute com adulto quando houver condições.</p><h4>Proposta 2</h4><p>Relate o que mudou ou não mudou, indicando condições e limite de uma amostra; se não executou, mantenha resultado pendente.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — What is a Chemical Reaction?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "luz_e_umidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para investigar luz, é melhor comparar:",
+      "alternativas": [
+        "Materiais de tipos e umidades diferentes.",
+        "Mesmo material e condições semelhantes, mudando a exposição à luz.",
+        "Somente fotos sem data."
+      ],
+      "correta": 1,
+      "explicacao": "Mudar vários fatores dificulta atribuir o efeito à luz.",
+      "bncc": [
+        "EF04CI02"
+      ]
+    },
+    {
+      "id": "luz_e_umidade.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Planeje comparação de papel seco/molhado ou exposição à luz, com uma mudança principal, registros e prazo. Execute com adulto quando houver condições.",
+      "gabarito": "Variável e controles explícitos, segurança e distinção plano/resultado.",
+      "rubrica": [
+        "Variável e controles explícitos, segurança e distinção plano/resultado.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI02"
+      ]
+    },
+    {
+      "id": "luz_e_umidade.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Relate o que mudou ou não mudou, indicando condições e limite de uma amostra; se não executou, mantenha resultado pendente.",
+      "gabarito": "Não inventar desbotamento; ausência de mudança também é registro válido.",
+      "rubrica": [
+        "Não inventar desbotamento; ausência de mudança também é registro válido.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — What is a Chemical Reaction?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento"
+  ],
+  "proximosPassos": [
+    "cna.ef04.transformacoes_dos_materiais.observando_mudancas"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Transformações dos Materiais",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "titulo": "Luz e Umidade"
+  }
+}

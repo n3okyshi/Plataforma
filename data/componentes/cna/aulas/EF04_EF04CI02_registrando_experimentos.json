@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 8,
+  "unidade": "Transformações dos Materiais",
+  "titulo": "Registrando Experimentos",
+  "bncc": [
+    "EF04CI02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Elabore ficha para comparar luz ou umidade em papel, incluindo pergunta, controles, datas e campo de resultado em branco.",
+      "Use a ficha em teste seguro com adulto ou interprete o caso fictício separadamente. Escreva uma conclusão e uma dúvida."
+    ],
+    "resumo": "Um registro de experimento precisa permitir entender o teste: pergunta, materiais, estado inicial, condição modificada, o que foi mantido, tempo e observações.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.transformacoes_dos_materiais.observando_mudancas\">Observando Mudanças</button></p><h2>Registrando Experimentos</h2><h3>Para compreender</h3><p>Um registro de experimento precisa permitir entender o teste: pergunta, materiais, estado inicial, condição modificada, o que foi mantido, tempo e observações. Use desenhos, fotos autorizadas sem pessoas ou tabelas. Diferencie dado medido, descrição e interpretação. Repita quando possível e registre imprevistos, como mudança de lugar ou perda de amostra. Não complete lacunas com valores inventados. No 4º ano, comparar condições e relatar com clareza vale mais que forçar uma explicação definitiva.</p><h3>Exemplo comentado</h3><p>Dados fictícios: papel A seco permaneceu plano; papel B umedecido secou com ondulações. A ficha precisa dizer mesmo papel, quantidade de água, local e tempo, ou a conclusão fica limitada.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><table><caption>Caso fictício de leitura de registros; não comprova execução</caption><thead><tr><th scope=\"col\">Amostra</th><th scope=\"col\">Início</th><th scope=\"col\">Depois</th><th scope=\"col\">Limite</th></tr></thead><tbody><tr><td>A</td><td>Papel seco/plano</td><td>Plano</td><td>Condições precisam ser registradas</td></tr><tr><td>B</td><td>Mesmo papel umedecido</td><td>Seco/ondulado</td><td>Quantidade de água e duração não informadas</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Elabore ficha para comparar luz ou umidade em papel, incluindo pergunta, controles, datas e campo de resultado em branco.</p><h4>Proposta 2</h4><p>Use a ficha em teste seguro com adulto ou interprete o caso fictício separadamente. Escreva uma conclusão e uma dúvida.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — What is a Chemical Reaction?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "registrando_experimentos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O que fazer quando uma medida não foi realizada?",
+      "alternativas": [
+        "Estimar sem avisar.",
+        "Copiar outra amostra como real.",
+        "Registrar a lacuna e planejar nova observação."
+      ],
+      "correta": 2,
+      "explicacao": "Completude visual de tabela não justifica fabricar dados.",
+      "bncc": [
+        "EF04CI02"
+      ]
+    },
+    {
+      "id": "registrando_experimentos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Elabore ficha para comparar luz ou umidade em papel, incluindo pergunta, controles, datas e campo de resultado em branco.",
+      "gabarito": "Método identificável e resultado não preenchido antes da observação.",
+      "rubrica": [
+        "Método identificável e resultado não preenchido antes da observação.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI02"
+      ]
+    },
+    {
+      "id": "registrando_experimentos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Use a ficha em teste seguro com adulto ou interprete o caso fictício separadamente. Escreva uma conclusão e uma dúvida.",
+      "gabarito": "Origem clara, conclusão proporcional à evidência e lacunas visíveis.",
+      "rubrica": [
+        "Origem clara, conclusão proporcional à evidência e lacunas visíveis.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — What is a Chemical Reaction?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.transformacoes_dos_materiais.observando_mudancas"
+  ],
+  "proximosPassos": [
+    "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Transformações dos Materiais",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "titulo": "Registrando Experimentos"
+  }
+}

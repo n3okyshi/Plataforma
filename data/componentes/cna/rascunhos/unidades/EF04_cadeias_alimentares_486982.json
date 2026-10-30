@@ -1,1 +1,131 @@
-{"id":"cna.ef04.plano.cadeias_alimentares.486982","componente":"cna","nivel":"EF04","titulo":"Cadeias Alimentares","estado":"planejado","complementar":false,"publicacao":{"permitida":false},"aulas":["cna.ef04.cadeias_alimentares.consumidores","cna.ef04.cadeias_alimentares.decompositores","cna.ef04.cadeias_alimentares.montando_uma_cadeia","cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia","cna.ef04.cadeias_alimentares.teias_alimentares","cna.ef04.cadeias_alimentares.equilibrio_da_cadeia"],"bnccCandidata":["EF04CI04"],"camadas":{"teoria":{"estado":"planejado","aulas":["data/componentes/cna/rascunhos/aulas/EF04_consumidores_3a00e8ba.json","data/componentes/cna/rascunhos/aulas/EF04_decompositores_f3077c64.json","data/componentes/cna/rascunhos/aulas/EF04_montando_uma_cadeia_c0e07bb0.json","data/componentes/cna/rascunhos/aulas/EF04_sol_como_fonte_de_energia_91cdc94a.json","data/componentes/cna/rascunhos/aulas/EF04_teias_alimentares_06b8b6bb.json","data/componentes/cna/rascunhos/aulas/EF04_equilibrio_da_cadeia_4b4b7bb4.json"]},"atividades":{"estado":"planejado","criterio":"Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."},"questoes":{"estado":"planejado","itens":[]},"prova":{"estado":"planejado","questoes":[],"matriz":[{"bncc":"EF04CI04","evidencias":[]}]},"arena":{"estado":"planejado","selecao":{"componente":"cna","nivel":"EF04","unidade":"Cadeias Alimentares"},"itens":[]},"rastreabilidade":{"estado":"parcial","catalogo":"data/planejamento-basica/referencias-curriculares.json","revisaoPedagogica":"pendente"}},"conteudosExistentesPreservados":[],"observacao":"Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.","avaliacao":{"tipo":"objetiva_e_producoes_conforme_objetivos","registros":[],"devolutiva":"Docente com critérios a desenvolver; nenhuma observação realizada."},"pendencias":["Confrontar tópico e todas as dimensões do objetivo.","Escrever e revisar conteúdo, recursos e avaliações.","Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."]}
+{
+  "id": "cna.ef04.plano.cadeias_alimentares.486982",
+  "componente": "cna",
+  "nivel": "EF04",
+  "titulo": "Cadeias Alimentares",
+  "estado": "planejado",
+  "complementar": false,
+  "publicacao": {
+    "permitida": false
+  },
+  "aulas": [
+    "cna.ef04.cadeias_alimentares.consumidores",
+    "cna.ef04.cadeias_alimentares.decompositores",
+    "cna.ef04.cadeias_alimentares.montando_uma_cadeia",
+    "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia",
+    "cna.ef04.cadeias_alimentares.teias_alimentares",
+    "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia"
+  ],
+  "bnccCandidata": [
+    "EF04CI04"
+  ],
+  "camadas": {
+    "teoria": {
+      "estado": "planejado",
+      "aulas": [
+        "data/componentes/cna/rascunhos/aulas/EF04_consumidores_3a00e8ba.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_decompositores_f3077c64.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_montando_uma_cadeia_c0e07bb0.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_sol_como_fonte_de_energia_91cdc94a.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_teias_alimentares_06b8b6bb.json",
+        "data/componentes/cna/rascunhos/aulas/EF04_equilibrio_da_cadeia_4b4b7bb4.json"
+      ]
+    },
+    "atividades": {
+      "estado": "planejado",
+      "criterio": "Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."
+    },
+    "questoes": {
+      "estado": "planejado",
+      "itens": []
+    },
+    "prova": {
+      "estado": "planejado",
+      "questoes": [],
+      "matriz": [
+        {
+          "bncc": "EF04CI04",
+          "evidencias": []
+        }
+      ]
+    },
+    "arena": {
+      "estado": "planejado",
+      "selecao": {
+        "componente": "cna",
+        "nivel": "EF04",
+        "unidade": "Cadeias Alimentares"
+      },
+      "itens": []
+    },
+    "rastreabilidade": {
+      "estado": "parcial",
+      "catalogo": "data/planejamento-basica/referencias-curriculares.json",
+      "revisaoPedagogica": "pendente"
+    }
+  },
+  "conteudosExistentesPreservados": [],
+  "observacao": "Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.",
+  "avaliacao": {
+    "tipo": "objetiva_e_producoes_conforme_objetivos",
+    "registros": [],
+    "devolutiva": "Docente com critérios a desenvolver; nenhuma observação realizada."
+  },
+  "pendencias": [
+    "Confrontar tópico e todas as dimensões do objetivo.",
+    "Escrever e revisar conteúdo, recursos e avaliações.",
+    "Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."
+  ],
+  "implementacao": {
+    "estado": "pronto_para_testes",
+    "aulas": [
+      "data/componentes/cna/aulas/EF04_EF04CI04_consumidores.json",
+      "data/componentes/cna/aulas/EF04_EF04CI04_decompositores.json",
+      "data/componentes/cna/aulas/EF04_EF04CI04_montando_uma_cadeia.json",
+      "data/componentes/cna/aulas/EF04_EF04CI04_sol_como_fonte_de_energia.json",
+      "data/componentes/cna/aulas/EF04_EF04CI04_teias_alimentares.json",
+      "data/componentes/cna/aulas/EF04_EF04CI04_equilibrio_da_cadeia.json"
+    ],
+    "registro": "data/componentes/cna/lote_EF04_temas_restantes.json",
+    "limites": "Plano original preservado; aplicação/homologação pendentes.",
+    "camadas": {
+      "teoria": [
+        "data/componentes/cna/aulas/EF04_EF04CI04_consumidores.json",
+        "data/componentes/cna/aulas/EF04_EF04CI04_decompositores.json",
+        "data/componentes/cna/aulas/EF04_EF04CI04_montando_uma_cadeia.json",
+        "data/componentes/cna/aulas/EF04_EF04CI04_sol_como_fonte_de_energia.json",
+        "data/componentes/cna/aulas/EF04_EF04CI04_teias_alimentares.json",
+        "data/componentes/cna/aulas/EF04_EF04CI04_equilibrio_da_cadeia.json"
+      ],
+      "atividades": [
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.aplicacao",
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao1",
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao2",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.aplicacao",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao1",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao2",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.aplicacao",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao1",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao2",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.aplicacao",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao1",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao2",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.aplicacao",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao1",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao2",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.aplicacao",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao1",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao2"
+      ],
+      "questoes": "data/componentes/cna/questoes/EF04_cadeias_alimentares.json",
+      "prova": "data/componentes/cna/provas/EF04_cadeias_alimentares.json",
+      "arena": {
+        "arquivo": "arena/cna_arena.js",
+        "nivel": "EF04",
+        "unidade": "Cadeias Alimentares",
+        "componente": "cna"
+      },
+      "rastreabilidade": "data/componentes/cna/lote_EF04_temas_restantes.json"
+    }
+  }
+}

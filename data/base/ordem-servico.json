@@ -10,15 +10,15 @@
           "niveis": [
             "EF01",
             "EF02",
-            "EF03"
+            "EF03",
+            "EF04"
           ],
           "estado": "pronto_para_testes",
-          "aulas": 146,
+          "aulas": 201,
           "registro": "data/base/status-ciencias.json"
         },
         {
           "niveis": [
-            "EF04",
             "EF05",
             "EF06",
             "EF07",
@@ -26,7 +26,7 @@
             "EF09"
           ],
           "estado": "parcial",
-          "topicosSemAutoria": 263
+          "topicosSemAutoria": 219
         },
         {
           "trabalho": "Produções, observações e homologação independente",
@@ -119,7 +119,7 @@
       "ordem": 11
     }
   ],
-  "marcoAtual": "EF01, EF02 e EF03 com autoria dos tópicos planejados para testes, sem homologação. EF04–EF09: 263 tópicos sem autoria. Acumulado: 233 aulas, 607 atividades, 252 itens por banco, 57 avaliações. Demais componentes EF01–EF05 incluídos no escopo; Português por último.",
+  "marcoAtual": "EF01, EF02, EF03 e EF04 com autoria dos tópicos planejados para testes, sem homologação. EF05–EF09: 219 tópicos sem autoria. Acumulado: 277 aulas, 739 atividades, 296 itens por banco, 66 avaliações. Demais componentes EF01–EF05 incluídos no escopo; Português por último.",
   "regra": "Rascunhos recuperados e vínculos propostos não equivalem a conteúdos concluídos.",
   "criteriosDeConclusao": [
     "Todas as camadas têm fonte rastreável e conteúdo efetivo.",

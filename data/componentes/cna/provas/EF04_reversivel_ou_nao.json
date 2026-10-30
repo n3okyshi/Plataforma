@@ -1,0 +1,120 @@
+{
+  "id": "cna.ef04.reversivel_ou_nao.prova",
+  "titulo": "Avaliação: Transformações Reversíveis e Não Reversíveis",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Transformações Reversíveis e Não Reversíveis",
+  "bncc": [
+    "EF04CI03"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos.prova.1",
+    "cna.ef04.reversivel_ou_nao.queima_de_papel.prova.1",
+    "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis.prova.1",
+    "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis.prova.1",
+    "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.reversivel_ou_nao.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Transformações Reversíveis e Não Reversíveis",
+    "enunciado": "Compare três sequências: gelo/água/gelo em condições adequadas; ovo cru/cozido/resfriado; papel/queima/resíduos frios. Conclua o que volta ou não pelo caminho térmico indicado. Explique por que gases não são desaparecimento de matéria e por que cor, bolha ou dificuldade de desfazer sozinhas não classificam todas as mudanças.",
+    "gabarito": "Reversibilidade da água, ausência de retorno de ovo/papel por simples resfriamento; produtos gasosos e limites das evidências; casos textuais sem prática de queima/cozimento infantil.",
+    "rubrica": [
+      "Reversibilidade da água, ausência de retorno de ovo/papel por simples resfriamento; produtos gasosos e limites das evidências; casos textuais sem prática de queima/cozimento infantil.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF04CI03"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef04.reversivel_ou_nao.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Transformações Reversíveis e Não Reversíveis",
+        "enunciado": "Compare três sequências: gelo/água/gelo em condições adequadas; ovo cru/cozido/resfriado; papel/queima/resíduos frios. Conclua o que volta ou não pelo caminho térmico indicado. Explique por que gases não são desaparecimento de matéria e por que cor, bolha ou dificuldade de desfazer sozinhas não classificam todas as mudanças.",
+        "gabarito": "Reversibilidade da água, ausência de retorno de ovo/papel por simples resfriamento; produtos gasosos e limites das evidências; casos textuais sem prática de queima/cozimento infantil.",
+        "rubrica": [
+          "Reversibilidade da água, ausência de retorno de ovo/papel por simples resfriamento; produtos gasosos e limites das evidências; casos textuais sem prática de queima/cozimento infantil.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF04CI03"
+        ],
+        "aulasReferencia": [
+          "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+          "cna.ef04.reversivel_ou_nao.queima_de_papel",
+          "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis",
+          "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
+          "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao1",
+      "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao2",
+      "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao1",
+      "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao2",
+      "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao1",
+      "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao2",
+      "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao1",
+      "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao2",
+      "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao1",
+      "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — What is a Chemical Reaction?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI03",
+      "questoes": [
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos.prova.1",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel.prova.1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis.prova.1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis.prova.1",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.reversivel_ou_nao.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef04.reversivel_ou_nao.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao1",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao2",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao1",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao2",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao2",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao2",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao1",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao2"
+      ]
+    }
+  ]
+}

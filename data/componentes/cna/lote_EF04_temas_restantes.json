@@ -1,0 +1,1774 @@
+{
+  "data": "2026-10-30",
+  "estado": "pronto_para_testes",
+  "escopo": "44 tópicos restantes EF04 em nove unidades; 55 tópicos planejados do ano com autoria.",
+  "limites": "Estado da implementação. Não certifica testes realizados por estudantes, registros de campo, produções/devolutivas ou homologação independente.",
+  "unidades": [
+    {
+      "nivel": "EF04",
+      "unidade": "Misturas do Dia a Dia",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes"
+      ],
+      "prova": "cna.ef04.misturas_do_dia_a_dia.prova"
+    },
+    {
+      "nivel": "EF04",
+      "unidade": "Transformações dos Materiais",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes"
+      ],
+      "prova": "cna.ef04.transformacoes_dos_materiais.prova"
+    },
+    {
+      "nivel": "EF04",
+      "unidade": "Transformações Reversíveis e Não Reversíveis",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca"
+      ],
+      "prova": "cna.ef04.reversivel_ou_nao.prova"
+    },
+    {
+      "nivel": "EF04",
+      "unidade": "Cadeias Alimentares",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef04.cadeias_alimentares.consumidores",
+        "cna.ef04.cadeias_alimentares.decompositores",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia",
+        "cna.ef04.cadeias_alimentares.teias_alimentares",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia"
+      ],
+      "prova": "cna.ef04.cadeias_alimentares.prova"
+    },
+    {
+      "nivel": "EF04",
+      "unidade": "Ciclo da Matéria e Fluxo de Energia",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente"
+      ],
+      "prova": "cna.ef04.ciclo_da_materia_e_energia.prova"
+    },
+    {
+      "nivel": "EF04",
+      "unidade": "Microrganismos",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef04.microrganismos.decomposicao",
+        "cna.ef04.microrganismos.importancia_ambiental",
+        "cna.ef04.microrganismos.fermentacao",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis",
+        "cna.ef04.microrganismos.microrganismos_uteis"
+      ],
+      "prova": "cna.ef04.microrganismos.prova"
+    },
+    {
+      "nivel": "EF04",
+      "unidade": "Saúde e Microrganismos",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade"
+      ],
+      "prova": "cna.ef04.saude_e_microrganismos.prova"
+    },
+    {
+      "nivel": "EF04",
+      "unidade": "Orientação pelo Sol",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef04.orientacao_pelo_sol.gnomon",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola"
+      ],
+      "prova": "cna.ef04.orientacao_pelo_sol.prova"
+    },
+    {
+      "nivel": "EF04",
+      "unidade": "Calendários e Ciclos",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura"
+      ],
+      "prova": "cna.ef04.calendarios_e_ciclos.prova"
+    }
+  ],
+  "aulas": [
+    {
+      "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+      "nivel": "EF04",
+      "unidade": "Misturas do Dia a Dia",
+      "bncc": [
+        "EF04CI01"
+      ],
+      "bnccPlanejada": [
+        "EF04CI01"
+      ],
+      "dimensoesImplementadas": [
+        "Com adulto, observe água e pequena quantidade de sal em recipiente limpo de uso didático, sem consumo. Registre componentes, preparo e aspecto.",
+        "Explique por que não ver sal não significa que desapareceu nem que a água é pura."
+      ],
+      "atividades": [
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.aplicacao",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI01_misturas_homogeneas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+      "nivel": "EF04",
+      "unidade": "Misturas do Dia a Dia",
+      "bncc": [
+        "EF04CI01"
+      ],
+      "bnccPlanejada": [
+        "EF04CI01"
+      ],
+      "dimensoesImplementadas": [
+        "Observe com adulto água/areia ou o caso descrito de água/óleo. Faça dois registros, indicando componentes e tempo de repouso.",
+        "Compare com água e pouco sal dissolvido. Explique diferença de aspecto sem dizer que o componente invisível deixou de existir."
+      ],
+      "atividades": [
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.aplicacao",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI01_misturas_heterogeneas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+      "nivel": "EF04",
+      "unidade": "Misturas do Dia a Dia",
+      "bncc": [
+        "EF04CI01"
+      ],
+      "bnccPlanejada": [
+        "EF04CI01"
+      ],
+      "dimensoesImplementadas": [
+        "Faça quadro dos dois cartões com composição conhecida, aspecto e informação que a aparência sozinha não revela.",
+        "Uma amostra parece água, mas não tem identificação. Explique o que registrar e por que não consumi-la."
+      ],
+      "atividades": [
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.aplicacao",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI01_componentes_das_misturas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+      "nivel": "EF04",
+      "unidade": "Misturas do Dia a Dia",
+      "bncc": [
+        "EF04CI01"
+      ],
+      "bnccPlanejada": [
+        "EF04CI01"
+      ],
+      "dimensoesImplementadas": [
+        "Escolha dois cartões, salmoura e salada de pedaços, e compare componentes e propriedades observáveis.",
+        "Explique o que muda entre consultar receita e observar a amostra; indique um cuidado para não confundir material didático e alimento de consumo."
+      ],
+      "atividades": [
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.aplicacao",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI01_misturas_na_cozinha.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.misturas_do_dia_a_dia.separando_componentes",
+      "nivel": "EF04",
+      "unidade": "Misturas do Dia a Dia",
+      "bncc": [
+        "EF04CI01"
+      ],
+      "bnccPlanejada": [
+        "EF04CI01"
+      ],
+      "dimensoesImplementadas": [
+        "Proponha métodos para areia/pedrinhas e água/areia, justificando a propriedade usada. Teste só montagem segura autorizada ou registre plano.",
+        "Explique por que filtrar água com sal e aparência clara não demonstra purificação nem potabilidade."
+      ],
+      "atividades": [
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.aplicacao",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI01_separando_componentes.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+      "nivel": "EF04",
+      "unidade": "Transformações dos Materiais",
+      "bncc": [
+        "EF04CI02"
+      ],
+      "bnccPlanejada": [
+        "EF04CI02"
+      ],
+      "dimensoesImplementadas": [
+        "Planeje comparação de papel seco/molhado ou exposição à luz, com uma mudança principal, registros e prazo. Execute com adulto quando houver condições.",
+        "Relate o que mudou ou não mudou, indicando condições e limite de uma amostra; se não executou, mantenha resultado pendente."
+      ],
+      "atividades": [
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.aplicacao",
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao1",
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI02_luz_e_umidade.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+      "nivel": "EF04",
+      "unidade": "Transformações dos Materiais",
+      "bncc": [
+        "EF04CI02"
+      ],
+      "bnccPlanejada": [
+        "EF04CI02"
+      ],
+      "dimensoesImplementadas": [
+        "Com adulto, acompanhe papel de mesmo tipo seco e levemente umedecido, em bandeja limpa. Registre antes e depois, sem guardar material mofado.",
+        "Compare uma previsão sua com o resultado ou indique teste pendente. Explique uma limitação."
+      ],
+      "atividades": [
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.aplicacao",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao1",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI02_observando_mudancas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+      "nivel": "EF04",
+      "unidade": "Transformações dos Materiais",
+      "bncc": [
+        "EF04CI02"
+      ],
+      "bnccPlanejada": [
+        "EF04CI02"
+      ],
+      "dimensoesImplementadas": [
+        "Elabore ficha para comparar luz ou umidade em papel, incluindo pergunta, controles, datas e campo de resultado em branco.",
+        "Use a ficha em teste seguro com adulto ou interprete o caso fictício separadamente. Escreva uma conclusão e uma dúvida."
+      ],
+      "atividades": [
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.aplicacao",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao1",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI02_registrando_experimentos.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
+      "nivel": "EF04",
+      "unidade": "Transformações dos Materiais",
+      "bncc": [
+        "EF04CI02"
+      ],
+      "bnccPlanejada": [
+        "EF04CI02"
+      ],
+      "dimensoesImplementadas": [
+        "Planeje três observações de uma mudança segura em papel e escolha quais propriedades registrar em cada momento.",
+        "Explique por que observar material diferente durante outro intervalo não prova qual muda mais rápido."
+      ],
+      "atividades": [
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.aplicacao",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao1",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI02_tempo_e_transformacao.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.transformacoes_dos_materiais.comparando_condicoes",
+      "nivel": "EF04",
+      "unidade": "Transformações dos Materiais",
+      "bncc": [
+        "EF04CI02"
+      ],
+      "bnccPlanejada": [
+        "EF04CI02"
+      ],
+      "dimensoesImplementadas": [
+        "Redesenhe o caso para investigar apenas umidade, indicando material, luz e tempo semelhantes.",
+        "Execute comparação segura com adulto ou registre plano. Relate diferença, ausência de diferença e limites conforme os dados disponíveis."
+      ],
+      "atividades": [
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.aplicacao",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao1",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI02_comparando_condicoes.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+      "nivel": "EF04",
+      "unidade": "Transformações Reversíveis e Não Reversíveis",
+      "bncc": [
+        "EF04CI03"
+      ],
+      "bnccPlanejada": [
+        "EF04CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Compare as duas sequências e indique o que é recuperado ou não ao inverter aquecimento/resfriamento.",
+        "Explique por que o caso é evidência sobre o processo descrito, sem usar aparência como regra para toda transformação."
+      ],
+      "atividades": [
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.aplicacao",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao1",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI03_cozimento_de_alimentos.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.reversivel_ou_nao.queima_de_papel",
+      "nivel": "EF04",
+      "unidade": "Transformações Reversíveis e Não Reversíveis",
+      "bncc": [
+        "EF04CI03"
+      ],
+      "bnccPlanejada": [
+        "EF04CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Represente a sequência com palavras e explique por que esfriar o resíduo não devolve o papel.",
+        "Compare queima e derretimento do gelo, indicando uma diferença e por que fumaça não deve ser produzida para a atividade."
+      ],
+      "atividades": [
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.aplicacao",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao1",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI03_queima_de_papel.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis",
+      "nivel": "EF04",
+      "unidade": "Transformações Reversíveis e Não Reversíveis",
+      "bncc": [
+        "EF04CI03"
+      ],
+      "bnccPlanejada": [
+        "EF04CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Desenhe um ciclo água líquida/gelo e explique as condições de cada direção, sem exigir valores de temperatura não medidos.",
+        "Compare com ovo cozido resfriado e diga por que ambos ficarem frios não significa recuperação do início."
+      ],
+      "atividades": [
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.aplicacao",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI03_transformacoes_reversiveis.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
+      "nivel": "EF04",
+      "unidade": "Transformações Reversíveis e Não Reversíveis",
+      "bncc": [
+        "EF04CI03"
+      ],
+      "bnccPlanejada": [
+        "EF04CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Organize cartões: gelo derretido, ovo cozido e papel queimado. Explique em cada caso se inverter a condição térmica recupera o início.",
+        "Critique a frase: se é difícil voltar atrás, houve obrigatoriamente nova substância."
+      ],
+      "atividades": [
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.aplicacao",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI03_transformacoes_irreversiveis.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca",
+      "nivel": "EF04",
+      "unidade": "Transformações Reversíveis e Não Reversíveis",
+      "bncc": [
+        "EF04CI03"
+      ],
+      "bnccPlanejada": [
+        "EF04CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Escolha dois cartões e escreva afirmação, evidência que a apoia e informação que falta para uma conclusão mais ampla.",
+        "Explique por que bolhas ou cor diferente não provam sozinhas qualquer reação química."
+      ],
+      "atividades": [
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.aplicacao",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao1",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI03_evidencias_de_mudanca.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.cadeias_alimentares.consumidores",
+      "nivel": "EF04",
+      "unidade": "Cadeias Alimentares",
+      "bncc": [
+        "EF04CI04"
+      ],
+      "bnccPlanejada": [
+        "EF04CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Monte a cadeia do exemplo e nomeie produtor e consumidores, explicando cada seta.",
+        "Explique por que uma pessoa que come vegetais e animais pode aparecer em mais de uma cadeia."
+      ],
+      "atividades": [
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.aplicacao",
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao1",
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI04_consumidores.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.cadeias_alimentares.decompositores",
+      "nivel": "EF04",
+      "unidade": "Cadeias Alimentares",
+      "bncc": [
+        "EF04CI04"
+      ],
+      "bnccPlanejada": [
+        "EF04CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Acrescente decompositores ao modelo da cadeia com setas desde restos de todos os níveis e explique a relação.",
+        "Compare papel dos decompositores com o do gafanhoto e indique uma semelhança e uma diferença."
+      ],
+      "atividades": [
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.aplicacao",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao1",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI04_decompositores.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.cadeias_alimentares.montando_uma_cadeia",
+      "nivel": "EF04",
+      "unidade": "Cadeias Alimentares",
+      "bncc": [
+        "EF04CI04"
+      ],
+      "bnccPlanejada": [
+        "EF04CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Monte duas versões, uma correta e outra com seta invertida, e explique como corrigir a segunda.",
+        "Associe Sol e decompositores sem tratá-los como animais que ocupam apenas a última posição."
+      ],
+      "atividades": [
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.aplicacao",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao1",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI04_montando_uma_cadeia.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia",
+      "nivel": "EF04",
+      "unidade": "Cadeias Alimentares",
+      "bncc": [
+        "EF04CI04"
+      ],
+      "bnccPlanejada": [
+        "EF04CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Acrescente ao esquema setas com rótulos diferentes para luz e alimentação e explique o caminho da energia.",
+        "Critique a frase: a planta come Sol e o sapo devolve energia para ele."
+      ],
+      "atividades": [
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.aplicacao",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao1",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI04_sol_como_fonte_de_energia.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.cadeias_alimentares.teias_alimentares",
+      "nivel": "EF04",
+      "unidade": "Cadeias Alimentares",
+      "bncc": [
+        "EF04CI04"
+      ],
+      "bnccPlanejada": [
+        "EF04CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Use os cartões fornecidos para montar teia e destacar duas cadeias nela, preservando o sentido das setas.",
+        "Preveja uma consequência possível de reduzir gafanhotos e indique informações adicionais necessárias."
+      ],
+      "atividades": [
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.aplicacao",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao1",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI04_teias_alimentares.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia",
+      "nivel": "EF04",
+      "unidade": "Cadeias Alimentares",
+      "bncc": [
+        "EF04CI04"
+      ],
+      "bnccPlanejada": [
+        "EF04CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Analise o caso e faça duas hipóteses para a mudança, indicando registros que ajudariam a diferenciá-las.",
+        "Proponha ação de conservação e como acompanhar, sem retirar predadores ou introduzir animais."
+      ],
+      "atividades": [
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.aplicacao",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao1",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI04_equilibrio_da_cadeia.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia",
+      "nivel": "EF04",
+      "unidade": "Ciclo da Matéria e Fluxo de Energia",
+      "bncc": [
+        "EF04CI05"
+      ],
+      "bnccPlanejada": [
+        "EF04CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Monte esquema com ambiente, planta, consumidor e decompositores. Nomeie três processos de transferência de matéria.",
+        "Explique uma diferença entre circular matéria e reciclar objetos na coleta seletiva."
+      ],
+      "atividades": [
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI05_ciclo_da_materia.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia",
+      "nivel": "EF04",
+      "unidade": "Ciclo da Matéria e Fluxo de Energia",
+      "bncc": [
+        "EF04CI05"
+      ],
+      "bnccPlanejada": [
+        "EF04CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Faça esquema com entrada de luz e saídas de calor em produtor, consumidor e decompositores.",
+        "Compare com o esquema de matéria, explicando uma semelhança e uma diferença."
+      ],
+      "atividades": [
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI05_fluxo_de_energia.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local",
+      "nivel": "EF04",
+      "unidade": "Ciclo da Matéria e Fluxo de Energia",
+      "bncc": [
+        "EF04CI05"
+      ],
+      "bnccPlanejada": [
+        "EF04CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Faça mapa de um espaço autorizado ou fictício com componentes vivos/não vivos e duas relações, marcando origem de cada informação.",
+        "Explique um caminho possível de matéria e um de energia nesse modelo, indicando uma lacuna de evidência."
+      ],
+      "atividades": [
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI05_ecossistema_local.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos",
+      "nivel": "EF04",
+      "unidade": "Ciclo da Matéria e Fluxo de Energia",
+      "bncc": [
+        "EF04CI05"
+      ],
+      "bnccPlanejada": [
+        "EF04CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Produza quadro com duas semelhanças e duas diferenças entre os processos, acompanhado de esquemas rotulados.",
+        "Revise um desenho que manda calor para a planta como se fosse alimento e nutrientes de volta ao ambiente. Explique a parte inadequada."
+      ],
+      "atividades": [
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI05_comparando_ciclos.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente",
+      "nivel": "EF04",
+      "unidade": "Ciclo da Matéria e Fluxo de Energia",
+      "bncc": [
+        "EF04CI05"
+      ],
+      "bnccPlanejada": [
+        "EF04CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Analise o esquema incorporado e escreva um percurso de matéria e um de energia com três etapas.",
+        "Proponha uma pergunta sobre ambiente que exija coleta de dados e descreva quais seriam necessários."
+      ],
+      "atividades": [
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI05_materia_e_energia_no_ambiente.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.microrganismos.decomposicao",
+      "nivel": "EF04",
+      "unidade": "Microrganismos",
+      "bncc": [
+        "EF04CI06"
+      ],
+      "bnccPlanejada": [
+        "EF04CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Faça esquema de folha, decompositores e materiais no ambiente, explicando duas relações.",
+        "Compare fragmentação por um animal e transformação por fungos/bactérias; proponha fonte ou observação indireta segura para investigar."
+      ],
+      "atividades": [
+        "cna.ef04.microrganismos.decomposicao#decomposicao.aplicacao",
+        "cna.ef04.microrganismos.decomposicao#decomposicao.producao1",
+        "cna.ef04.microrganismos.decomposicao#decomposicao.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI06_decomposicao.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.microrganismos.importancia_ambiental",
+      "nivel": "EF04",
+      "unidade": "Microrganismos",
+      "bncc": [
+        "EF04CI06"
+      ],
+      "bnccPlanejada": [
+        "EF04CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Explique duas consequências possíveis de remover toda serapilheira, ligando-as a decomposição e ambiente.",
+        "Produza aviso que valorize função de fungos/bactérias e mantenha cuidado com alimentos deteriorados, sem contradição."
+      ],
+      "atividades": [
+        "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.aplicacao",
+        "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao1",
+        "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI06_importancia_ambiental.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.microrganismos.fermentacao",
+      "nivel": "EF04",
+      "unidade": "Microrganismos",
+      "bncc": [
+        "EF04CI07"
+      ],
+      "bnccPlanejada": [
+        "EF04CI07"
+      ],
+      "dimensoesImplementadas": [
+        "Faça quadro com microrganismo, material transformado e efeito nos dois cartões.",
+        "Explique por que pão mofado não substitui fermento e por que rótulo/fonte é melhor que teste com alimento estragado."
+      ],
+      "atividades": [
+        "cna.ef04.microrganismos.fermentacao#fermentacao.aplicacao",
+        "cna.ef04.microrganismos.fermentacao#fermentacao.producao1",
+        "cna.ef04.microrganismos.fermentacao#fermentacao.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI07_fermentacao.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.microrganismos.medicamentos_e_combustiveis",
+      "nivel": "EF04",
+      "unidade": "Microrganismos",
+      "bncc": [
+        "EF04CI07"
+      ],
+      "bnccPlanejada": [
+        "EF04CI07"
+      ],
+      "dimensoesImplementadas": [
+        "Compare os dois fluxos, identificando microrganismo, transformação e uso final, sem receita de produção.",
+        "Responda ao personagem que propõe usar mofo como antibiótico. Explique por que a proposta é inadequada e quem orienta uso de remédios."
+      ],
+      "atividades": [
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.aplicacao",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao1",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI07_medicamentos_e_combustiveis.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.microrganismos.microrganismos_uteis",
+      "nivel": "EF04",
+      "unidade": "Microrganismos",
+      "bncc": [
+        "EF04CI07"
+      ],
+      "bnccPlanejada": [
+        "EF04CI07"
+      ],
+      "dimensoesImplementadas": [
+        "Organize os cartões por aplicação e indique o papel dos microrganismos em três exemplos.",
+        "Explique um cuidado ao comunicar que um microrganismo é útil, evitando recomendação de consumo ou tratamento por conta própria."
+      ],
+      "atividades": [
+        "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.aplicacao",
+        "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao1",
+        "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI07_microrganismos_uteis.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+      "nivel": "EF04",
+      "unidade": "Saúde e Microrganismos",
+      "bncc": [
+        "EF04CI08"
+      ],
+      "bnccPlanejada": [
+        "EF04CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Construa esquema de uma via por água/alimentos e associe dois pontos de prevenção, incluindo condição coletiva.",
+        "Compare essa via a uma transmissão respiratória descrita pelo adulto e explique por que uma única medida não resolve todos os casos."
+      ],
+      "atividades": [
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.aplicacao",
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao1",
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI08_formas_de_transmissao.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+      "nivel": "EF04",
+      "unidade": "Saúde e Microrganismos",
+      "bncc": [
+        "EF04CI08"
+      ],
+      "bnccPlanejada": [
+        "EF04CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Faça quadro com duas vias, duas medidas e recurso necessário, explicando a relação entre elas.",
+        "Analise o caso do sabão e proponha encaminhamento, incluindo como verificar se o recurso foi disponibilizado."
+      ],
+      "atividades": [
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.aplicacao",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao1",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI08_prevencao_de_doencas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+      "nivel": "EF04",
+      "unidade": "Saúde e Microrganismos",
+      "bncc": [
+        "EF04CI08"
+      ],
+      "bnccPlanejada": [
+        "EF04CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Faça sequência de preparação orientada com mãos, água, utensílios e alimento, indicando dois pontos de prevenção.",
+        "Explique por que aparência e remoção da parte mofada não substituem orientação de segurança dos alimentos."
+      ],
+      "atividades": [
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.aplicacao",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao1",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI08_higiene_e_alimentos.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+      "nivel": "EF04",
+      "unidade": "Saúde e Microrganismos",
+      "bncc": [
+        "EF04CI08"
+      ],
+      "bnccPlanejada": [
+        "EF04CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Escreva resposta ao personagem, explicando proteção específica e dois cuidados que continuam relevantes.",
+        "Crie roteiro de perguntas que um responsável pode levar a profissional, sem preencher doses ou dados reais de aluno."
+      ],
+      "atividades": [
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.aplicacao",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao1",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI08_vacinas_e_cuidados.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.saude_e_microrganismos.saude_na_comunidade",
+      "nivel": "EF04",
+      "unidade": "Saúde e Microrganismos",
+      "bncc": [
+        "EF04CI08"
+      ],
+      "bnccPlanejada": [
+        "EF04CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Elabore proposta para o caso, indicando problema, relação com prevenção, recursos e responsável.",
+        "Defina como verificar encaminhamento e resultado, usando apenas registros públicos/autorizados sem dados pessoais de saúde."
+      ],
+      "atividades": [
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.aplicacao",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao1",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI08_saude_na_comunidade.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.orientacao_pelo_sol.gnomon",
+      "nivel": "EF04",
+      "unidade": "Orientação pelo Sol",
+      "bncc": [
+        "EF04CI09"
+      ],
+      "bnccPlanejada": [
+        "EF04CI09"
+      ],
+      "dimensoesImplementadas": [
+        "Planeje montagem e registros do gnômon com adulto: base, verticalidade, referência, horário e segurança. Execute apenas com condições adequadas.",
+        "Explique por que mover a base ou escolher sombras de comprimentos diferentes prejudica a comparação do método de círculo."
+      ],
+      "atividades": [
+        "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.aplicacao",
+        "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao1",
+        "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI09_gnomon.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.orientacao_pelo_sol.sombra_e_direcao",
+      "nivel": "EF04",
+      "unidade": "Orientação pelo Sol",
+      "bncc": [
+        "EF04CI09"
+      ],
+      "bnccPlanejada": [
+        "EF04CI09"
+      ],
+      "dimensoesImplementadas": [
+        "Use o esquema e nomeie a linha leste/oeste e a perpendicular, explicando ordem dos registros e lados.",
+        "Critique a frase: toda sombra ao meio-dia aponta sempre para o norte."
+      ],
+      "atividades": [
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.aplicacao",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao1",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI09_sombra_e_direcao.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos",
+      "nivel": "EF04",
+      "unidade": "Orientação pelo Sol",
+      "bncc": [
+        "EF04CI09"
+      ],
+      "bnccPlanejada": [
+        "EF04CI09"
+      ],
+      "dimensoesImplementadas": [
+        "Desenhe rosa com quatro cardeais e quatro intermediários, orientando-a pelo esquema de gnômon ou método disponível com adulto.",
+        "Descreva dois objetos de um espaço fictício em relação a um ponto de referência, usando direções e reconhecendo limite da planta."
+      ],
+      "atividades": [
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.aplicacao",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao1",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI09_rosa_dos_ventos.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola",
+      "nivel": "EF04",
+      "unidade": "Orientação pelo Sol",
+      "bncc": [
+        "EF04CI10"
+      ],
+      "bnccPlanejada": [
+        "EF04CI10"
+      ],
+      "dimensoesImplementadas": [
+        "Planeje ou faça com adulto comparação entre linha obtida por sombras e bússola, registrando local, data, método, condições e diferença observada.",
+        "Liste duas explicações para diferença e uma forma segura de conferir cada, sem aproximar ímãs para brincar com a agulha."
+      ],
+      "atividades": [
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.aplicacao",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao1",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI10_comparando_gnomon_e_bussola.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.calendarios_e_ciclos.movimento_da_terra",
+      "nivel": "EF04",
+      "unidade": "Calendários e Ciclos",
+      "bncc": [
+        "EF04CI11"
+      ],
+      "bnccPlanejada": [
+        "EF04CI11"
+      ],
+      "dimensoesImplementadas": [
+        "Represente rotação e translação por desenho ou modelo com adulto e relacione cada uma a uma unidade de tempo.",
+        "Explique por que um calendário pode precisar de ajuste e por que datas civis não fixam sempre a mesma fase lunar."
+      ],
+      "atividades": [
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.aplicacao",
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao1",
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI11_movimento_da_terra.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.calendarios_e_ciclos.calendarios_culturais",
+      "nivel": "EF04",
+      "unidade": "Calendários e Ciclos",
+      "bncc": [
+        "EF04CI11"
+      ],
+      "bnccPlanejada": [
+        "EF04CI11"
+      ],
+      "dimensoesImplementadas": [
+        "Compare dois exemplos do quadro por ciclo usado e necessidade de ajuste, indicando uma semelhança e uma diferença.",
+        "Planeje pergunta respeitosa sobre uso de calendários em fonte ou com adulto voluntário; registre consulta real ou pendência, sem pedir religião de colegas."
+      ],
+      "atividades": [
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.aplicacao",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao1",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI11_calendarios_culturais.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.calendarios_e_ciclos.ciclos_naturais",
+      "nivel": "EF04",
+      "unidade": "Calendários e Ciclos",
+      "bncc": [
+        "EF04CI11"
+      ],
+      "bnccPlanejada": [
+        "EF04CI11"
+      ],
+      "dimensoesImplementadas": [
+        "Organize quadro de ciclo, período aproximado, forma de registro e uso possível em calendário.",
+        "Compare 12 ciclos de 29,5 dias com 365 dias usando cálculo e explique a necessidade de escolhas de calendário."
+      ],
+      "atividades": [
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.aplicacao",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao1",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI11_ciclos_naturais.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef04.calendarios_e_ciclos.tempo_e_cultura",
+      "nivel": "EF04",
+      "unidade": "Calendários e Ciclos",
+      "bncc": [
+        "EF04CI11"
+      ],
+      "bnccPlanejada": [
+        "EF04CI11"
+      ],
+      "dimensoesImplementadas": [
+        "Crie calendário didático com regra declarada, período, legenda e campos de observação; diferencie data civil e ciclo natural.",
+        "Compare seu calendário com um exemplo do quadro cultural e explique limites e uma revisão após leitura do adulto, ou registre revisão pendente."
+      ],
+      "atividades": [
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.aplicacao",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao1",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF04_EF04CI11_tempo_e_cultura.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    }
+  ],
+  "conferenciaPedagogica": {
+    "tipo": "assistida",
+    "resultado": "Conferência conceitual, gabaritos, adequação e correspondência curricular; sem revisão atribuída a docente independente.",
+    "confronto": [
+      {
+        "codigo": "EF04CI01",
+        "dimensoes": [
+          "Identificar misturas cotidianas, componentes e propriedades observáveis",
+          "Distinguir aspecto uniforme/regiões e presença de componente dissolvido",
+          "Separação tratada como aprofundamento ligado às propriedades, não requisito literal do código"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF04CI01",
+          "aulas": [
+            "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+            "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+            "cna.ef04.misturas_do_dia_a_dia.separando_componentes"
+          ],
+          "atividades": [
+            "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura#o_que_e_mistura.aplicacao",
+            "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura#o_que_e_mistura.investigacao",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.aplicacao",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao1",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao2",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.aplicacao",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao1",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao2",
+            "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.aplicacao",
+            "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao1",
+            "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao2",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.aplicacao",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao1",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao2",
+            "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.aplicacao",
+            "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao1",
+            "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef04.materia_e_energia.treino.01",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.treino.1",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.treino.1",
+            "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.treino.1",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.treino.1",
+            "cna.ef04.misturas_do_dia_a_dia.separando_componentes.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef04.materia_e_energia.prova.01",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.prova.1",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.prova.1",
+            "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.prova.1",
+            "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.prova.1",
+            "cna.ef04.misturas_do_dia_a_dia.separando_componentes.prova.1"
+          ],
+          "homologacaoDocente": "pendente",
+          "observacao": "Conferir execução e correspondência semântica na aplicação."
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF04CI02",
+        "dimensoes": [
+          "Testar e relatar condições de aquecimento/resfriamento no núcleo anterior",
+          "Investigar luz e umidade por comparações seguras com controles",
+          "Registrar início, tempo, condições, resultados e limites, sem confundir plano e execução"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF04CI02",
+          "aulas": [
+            "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento",
+            "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+            "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+            "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+            "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
+            "cna.ef04.transformacoes_dos_materiais.comparando_condicoes"
+          ],
+          "atividades": [
+            "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento#aquecimento_e_resfriamento.aplicacao",
+            "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento#aquecimento_e_resfriamento.investigacao",
+            "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.aplicacao",
+            "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao1",
+            "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao2",
+            "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.aplicacao",
+            "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao1",
+            "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao2",
+            "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.aplicacao",
+            "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao1",
+            "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao2",
+            "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.aplicacao",
+            "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao1",
+            "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao2",
+            "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.aplicacao",
+            "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao1",
+            "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef04.materia_e_energia.treino.02",
+            "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.treino.1",
+            "cna.ef04.transformacoes_dos_materiais.observando_mudancas.treino.1",
+            "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.treino.1",
+            "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.treino.1",
+            "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef04.materia_e_energia.prova.02",
+            "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.prova.1",
+            "cna.ef04.transformacoes_dos_materiais.observando_mudancas.prova.1",
+            "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.prova.1",
+            "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.prova.1",
+            "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.prova.1"
+          ],
+          "homologacaoDocente": "pendente",
+          "observacao": "Conferir execução e correspondência semântica na aplicação."
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF04CI03",
+        "dimensoes": [
+          "Comparar reversibilidade de mudança de estado da água e não reversão de cozimento/queima por inversão térmica",
+          "Concluir a partir de casos e evidências, sem queima/cozimento infantil",
+          "Evitar irreversibilidade como definição universal de mudança química"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF04CI03",
+          "aulas": [
+            "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua",
+            "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+            "cna.ef04.reversivel_ou_nao.queima_de_papel",
+            "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis",
+            "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
+            "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca"
+          ],
+          "atividades": [
+            "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua#mudancas_de_estado_da_agua.aplicacao",
+            "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua#mudancas_de_estado_da_agua.investigacao",
+            "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.aplicacao",
+            "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao1",
+            "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao2",
+            "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.aplicacao",
+            "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao1",
+            "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao2",
+            "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.aplicacao",
+            "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao1",
+            "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao2",
+            "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.aplicacao",
+            "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao1",
+            "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao2",
+            "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.aplicacao",
+            "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao1",
+            "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef04.materia_e_energia.treino.03",
+            "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos.treino.1",
+            "cna.ef04.reversivel_ou_nao.queima_de_papel.treino.1",
+            "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis.treino.1",
+            "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis.treino.1",
+            "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef04.materia_e_energia.prova.03",
+            "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos.prova.1",
+            "cna.ef04.reversivel_ou_nao.queima_de_papel.prova.1",
+            "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis.prova.1",
+            "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis.prova.1",
+            "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca.prova.1"
+          ],
+          "homologacaoDocente": "pendente",
+          "observacao": "Conferir execução e correspondência semântica na aplicação."
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF04CI04",
+        "dimensoes": [
+          "Analisar e construir cadeias com relações explicitadas",
+          "Reconhecer posições, sentido de setas e Sol como fonte de energia na produção",
+          "Redes e mudanças ecológicas como aprofundamentos, sem previsões deterministas"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF04CI04",
+          "aulas": [
+            "cna.ef04.cadeias_alimentares.produtores",
+            "cna.ef04.cadeias_alimentares.consumidores",
+            "cna.ef04.cadeias_alimentares.decompositores",
+            "cna.ef04.cadeias_alimentares.montando_uma_cadeia",
+            "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia",
+            "cna.ef04.cadeias_alimentares.teias_alimentares",
+            "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia"
+          ],
+          "atividades": [
+            "cna.ef04.cadeias_alimentares.produtores#produtores.aplicacao",
+            "cna.ef04.cadeias_alimentares.produtores#produtores.investigacao",
+            "cna.ef04.cadeias_alimentares.consumidores#consumidores.aplicacao",
+            "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao1",
+            "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao2",
+            "cna.ef04.cadeias_alimentares.decompositores#decompositores.aplicacao",
+            "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao1",
+            "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao2",
+            "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.aplicacao",
+            "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao1",
+            "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao2",
+            "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.aplicacao",
+            "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao1",
+            "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao2",
+            "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.aplicacao",
+            "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao1",
+            "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao2",
+            "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.aplicacao",
+            "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao1",
+            "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef04.vida_e_evolucao.treino.04",
+            "cna.ef04.cadeias_alimentares.consumidores.treino.1",
+            "cna.ef04.cadeias_alimentares.decompositores.treino.1",
+            "cna.ef04.cadeias_alimentares.montando_uma_cadeia.treino.1",
+            "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia.treino.1",
+            "cna.ef04.cadeias_alimentares.teias_alimentares.treino.1",
+            "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef04.vida_e_evolucao.prova.04",
+            "cna.ef04.cadeias_alimentares.consumidores.prova.1",
+            "cna.ef04.cadeias_alimentares.decompositores.prova.1",
+            "cna.ef04.cadeias_alimentares.montando_uma_cadeia.prova.1",
+            "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia.prova.1",
+            "cna.ef04.cadeias_alimentares.teias_alimentares.prova.1",
+            "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia.prova.1"
+          ],
+          "homologacaoDocente": "pendente",
+          "observacao": "Conferir execução e correspondência semântica na aplicação."
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF04CI05",
+        "dimensoes": [
+          "Descrever ciclo de matéria e fluxo de energia nos componentes vivos/não vivos",
+          "Destacar semelhanças e diferenças",
+          "Distinguir circulação de materiais e dispersão de energia como calor"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF04CI05",
+          "aulas": [
+            "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos",
+            "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia",
+            "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia",
+            "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local",
+            "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos",
+            "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente"
+          ],
+          "atividades": [
+            "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos#componentes_vivos_e_nao_vivos.aplicacao",
+            "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos#componentes_vivos_e_nao_vivos.investigacao",
+            "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.aplicacao",
+            "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao1",
+            "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao2",
+            "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.aplicacao",
+            "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao1",
+            "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao2",
+            "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.aplicacao",
+            "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao1",
+            "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao2",
+            "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.aplicacao",
+            "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao1",
+            "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao2",
+            "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.aplicacao",
+            "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao1",
+            "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef04.vida_e_evolucao.treino.05",
+            "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia.treino.1",
+            "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia.treino.1",
+            "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local.treino.1",
+            "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos.treino.1",
+            "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef04.vida_e_evolucao.prova.05",
+            "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia.prova.1",
+            "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia.prova.1",
+            "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local.prova.1",
+            "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos.prova.1",
+            "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente.prova.1"
+          ],
+          "homologacaoDocente": "pendente",
+          "observacao": "Conferir execução e correspondência semântica na aplicação."
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF04CI06",
+        "dimensoes": [
+          "Relacionar muitos fungos e bactérias à decomposição",
+          "Reconhecer transformação e importância ambiental",
+          "Distinguir função ecológica e segurança sem cultivo de desconhecidos"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF04CI06",
+          "aulas": [
+            "cna.ef04.microrganismos.fungos_e_bacterias",
+            "cna.ef04.microrganismos.decomposicao",
+            "cna.ef04.microrganismos.importancia_ambiental"
+          ],
+          "atividades": [
+            "cna.ef04.microrganismos.fungos_e_bacterias#fungos_e_bacterias.aplicacao",
+            "cna.ef04.microrganismos.fungos_e_bacterias#fungos_e_bacterias.investigacao",
+            "cna.ef04.microrganismos.decomposicao#decomposicao.aplicacao",
+            "cna.ef04.microrganismos.decomposicao#decomposicao.producao1",
+            "cna.ef04.microrganismos.decomposicao#decomposicao.producao2",
+            "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.aplicacao",
+            "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao1",
+            "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef04.vida_e_evolucao.treino.06",
+            "cna.ef04.microrganismos.decomposicao.treino.1",
+            "cna.ef04.microrganismos.importancia_ambiental.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef04.vida_e_evolucao.prova.06",
+            "cna.ef04.microrganismos.decomposicao.prova.1",
+            "cna.ef04.microrganismos.importancia_ambiental.prova.1"
+          ],
+          "homologacaoDocente": "pendente",
+          "observacao": "Conferir execução e correspondência semântica na aplicação."
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF04CI07",
+        "dimensoes": [
+          "Verificar por fontes a participação em alimentos, combustíveis e medicamentos",
+          "Relacionar organismo/processo/produto nos exemplos pão, iogurte, etanol e penicilina",
+          "Reconhecer seleção/controle e não transpor preparo industrial para aula ou tratamento"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF04CI07",
+          "aulas": [
+            "cna.ef04.microrganismos.microrganismos_nos_alimentos",
+            "cna.ef04.microrganismos.fermentacao",
+            "cna.ef04.microrganismos.medicamentos_e_combustiveis",
+            "cna.ef04.microrganismos.microrganismos_uteis"
+          ],
+          "atividades": [
+            "cna.ef04.microrganismos.microrganismos_nos_alimentos#microrganismos_nos_alimentos.aplicacao",
+            "cna.ef04.microrganismos.microrganismos_nos_alimentos#microrganismos_nos_alimentos.investigacao",
+            "cna.ef04.microrganismos.fermentacao#fermentacao.aplicacao",
+            "cna.ef04.microrganismos.fermentacao#fermentacao.producao1",
+            "cna.ef04.microrganismos.fermentacao#fermentacao.producao2",
+            "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.aplicacao",
+            "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao1",
+            "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao2",
+            "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.aplicacao",
+            "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao1",
+            "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef04.vida_e_evolucao.treino.07",
+            "cna.ef04.microrganismos.fermentacao.treino.1",
+            "cna.ef04.microrganismos.medicamentos_e_combustiveis.treino.1",
+            "cna.ef04.microrganismos.microrganismos_uteis.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef04.vida_e_evolucao.prova.07",
+            "cna.ef04.microrganismos.fermentacao.prova.1",
+            "cna.ef04.microrganismos.medicamentos_e_combustiveis.prova.1",
+            "cna.ef04.microrganismos.microrganismos_uteis.prova.1"
+          ],
+          "homologacaoDocente": "pendente",
+          "observacao": "Conferir execução e correspondência semântica na aplicação."
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF04CI08",
+        "dimensoes": [
+          "Conhecer vias de alguns agentes virais/bacterianos/protozoários",
+          "Propor atitudes e medidas correspondentes, com acesso coletivo",
+          "Distinguir prevenção e proteção específica de tratamento, preservando privacidade"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF04CI08",
+          "aulas": [
+            "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios",
+            "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+            "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+            "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+            "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+            "cna.ef04.saude_e_microrganismos.saude_na_comunidade"
+          ],
+          "atividades": [
+            "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios#virus_bacterias_protozoarios.aplicacao",
+            "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios#virus_bacterias_protozoarios.investigacao",
+            "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.aplicacao",
+            "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao1",
+            "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao2",
+            "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.aplicacao",
+            "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao1",
+            "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao2",
+            "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.aplicacao",
+            "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao1",
+            "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao2",
+            "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.aplicacao",
+            "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao1",
+            "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao2",
+            "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.aplicacao",
+            "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao1",
+            "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef04.vida_e_evolucao.treino.08",
+            "cna.ef04.saude_e_microrganismos.formas_de_transmissao.treino.1",
+            "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.treino.1",
+            "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.treino.1",
+            "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.treino.1",
+            "cna.ef04.saude_e_microrganismos.saude_na_comunidade.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef04.vida_e_evolucao.prova.08",
+            "cna.ef04.saude_e_microrganismos.formas_de_transmissao.prova.1",
+            "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.prova.1",
+            "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.prova.1",
+            "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.prova.1",
+            "cna.ef04.saude_e_microrganismos.saude_na_comunidade.prova.1"
+          ],
+          "homologacaoDocente": "pendente",
+          "observacao": "Conferir execução e correspondência semântica na aplicação."
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF04CI09",
+        "dimensoes": [
+          "Registrar diferentes posições de sombras com gnômon estável",
+          "Estimar cardeais por método de círculo e perpendicular",
+          "Reconhecer aproximação, local/data/horário e não importar regras do hemisfério norte"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF04CI09",
+          "aulas": [
+            "cna.ef04.orientacao_pelo_sol.pontos_cardeais",
+            "cna.ef04.orientacao_pelo_sol.gnomon",
+            "cna.ef04.orientacao_pelo_sol.sombra_e_direcao",
+            "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos"
+          ],
+          "atividades": [
+            "cna.ef04.orientacao_pelo_sol.pontos_cardeais#pontos_cardeais.aplicacao",
+            "cna.ef04.orientacao_pelo_sol.pontos_cardeais#pontos_cardeais.investigacao",
+            "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.aplicacao",
+            "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao1",
+            "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao2",
+            "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.aplicacao",
+            "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao1",
+            "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao2",
+            "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.aplicacao",
+            "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao1",
+            "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef04.terra_e_universo.treino.09",
+            "cna.ef04.orientacao_pelo_sol.gnomon.treino.1",
+            "cna.ef04.orientacao_pelo_sol.sombra_e_direcao.treino.1",
+            "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef04.terra_e_universo.prova.09",
+            "cna.ef04.orientacao_pelo_sol.gnomon.prova.1",
+            "cna.ef04.orientacao_pelo_sol.sombra_e_direcao.prova.1",
+            "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos.prova.1"
+          ],
+          "homologacaoDocente": "pendente",
+          "observacao": "Conferir execução e correspondência semântica na aplicação."
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF04CI10",
+        "dimensoes": [
+          "Comparar registros solares e bússola no mesmo local",
+          "Considerar magnético/geográfico, interferências e precisão",
+          "Anotar diferenças sem forçar coincidência e manter aplicação pendente quando não realizada"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF04CI10",
+          "aulas": [
+            "cna.ef04.orientacao_pelo_sol.bussola",
+            "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola"
+          ],
+          "atividades": [
+            "cna.ef04.orientacao_pelo_sol.bussola#bussola.aplicacao",
+            "cna.ef04.orientacao_pelo_sol.bussola#bussola.investigacao",
+            "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.aplicacao",
+            "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao1",
+            "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef04.terra_e_universo.treino.10",
+            "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef04.terra_e_universo.prova.10",
+            "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola.prova.1"
+          ],
+          "homologacaoDocente": "pendente",
+          "observacao": "Conferir execução e correspondência semântica na aplicação."
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF04CI11",
+        "dimensoes": [
+          "Associar rotação/dia, translação/ano e ciclo lunar/períodos",
+          "Comparar calendários solares, lunares e lunissolares em diferentes culturas",
+          "Explicar regras/ajustes, diversidade de usos e limites de calendário didático"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF04CI11",
+          "aulas": [
+            "cna.ef04.calendarios_e_ciclos.fases_da_lua",
+            "cna.ef04.calendarios_e_ciclos.movimento_da_terra",
+            "cna.ef04.calendarios_e_ciclos.calendarios_culturais",
+            "cna.ef04.calendarios_e_ciclos.ciclos_naturais",
+            "cna.ef04.calendarios_e_ciclos.tempo_e_cultura"
+          ],
+          "atividades": [
+            "cna.ef04.calendarios_e_ciclos.fases_da_lua#fases_da_lua.aplicacao",
+            "cna.ef04.calendarios_e_ciclos.fases_da_lua#fases_da_lua.investigacao",
+            "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.aplicacao",
+            "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao1",
+            "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao2",
+            "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.aplicacao",
+            "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao1",
+            "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao2",
+            "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.aplicacao",
+            "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao1",
+            "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao2",
+            "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.aplicacao",
+            "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao1",
+            "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef04.terra_e_universo.treino.11",
+            "cna.ef04.calendarios_e_ciclos.movimento_da_terra.treino.1",
+            "cna.ef04.calendarios_e_ciclos.calendarios_culturais.treino.1",
+            "cna.ef04.calendarios_e_ciclos.ciclos_naturais.treino.1",
+            "cna.ef04.calendarios_e_ciclos.tempo_e_cultura.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef04.terra_e_universo.prova.11",
+            "cna.ef04.calendarios_e_ciclos.movimento_da_terra.prova.1",
+            "cna.ef04.calendarios_e_ciclos.calendarios_culturais.prova.1",
+            "cna.ef04.calendarios_e_ciclos.ciclos_naturais.prova.1",
+            "cna.ef04.calendarios_e_ciclos.tempo_e_cultura.prova.1"
+          ],
+          "homologacaoDocente": "pendente",
+          "observacao": "Conferir execução e correspondência semântica na aplicação."
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      }
+    ]
+  },
+  "recursos": [
+    {
+      "tipo": "svg_autoral_incorporado",
+      "escopo": "Cadeia alimentar, modelo de gnômon/círculo e rosa dos ventos; sem escala ou observação local."
+    },
+    {
+      "tipo": "quadros_html",
+      "escopo": "Casos de materiais, matéria/energia e calendários culturais, com caption e cabeçalhos. Casos fictícios identificados."
+    }
+  ],
+  "verificacaoTecnica": {
+    "estado": "aprovado",
+    "ambiente": "Python JSON Schema draft 2020-12, Node/JSDOM e renderização local CairoSVG dos três modelos autorais.",
+    "resultados": [
+      "277 aulas/739 atividades/592 itens/66 provas conferidos contra os canônicos no Registry.",
+      "44 novos canônicos com três atividades cada e nove provas com desafios de transferência distintos do treino; 88 referências de produções de processo.",
+      "Seleção por componente/ano/unidade/tipo, respostas corretas/incorretas, pontuação 10/0, devolutiva e critérios docentes separados.",
+      "IDs e pré-requisitos existentes sem ciclos; todos os canônicos anteriores de Ciências preservados byte a byte.",
+      "Catálogo de 5603 tópicos, 44 promoções do lote, 109 acumuladas e 219 pendências consistentes; rascunhos bloqueados preservados.",
+      "Três modelos SVG renderizados e inspecionados; fundo explícito, descrições acessíveis e ajuste responsivo; tabelas com caption e cabeçalhos.",
+      "Regressões de bloqueio, 370 aulas ativas de Matemática e Português EF06 aprovadas.",
+      "Sintaxe dos chunks/loader/service worker e git diff --check aprovados."
+    ],
+    "limites": "Não equivale a navegador/leitor de tela, Firebase/autenticação/cache reais, testes e produções de estudantes ou homologação docente independente."
+  },
+  "pendencias": [
+    "Experimentos seguros, registros de gnômon/bússola, produções e devolutivas reais.",
+    "Homologação docente independente.",
+    "Revisão visual em navegador, leitor de tela, autenticação/Firebase/cache reais.",
+    "219 tópicos EF05–EF09 ainda sem autoria."
+  ],
+  "proximoLote": "EF05: 45 tópicos restantes em materiais, água, ambiente, corpo/alimentação e astronomia.",
+  "aprofundamentos": [
+    {
+      "aulaId": "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia",
+      "descricao": "Análise de alterações ecológicas amplia relações alimentares; hipóteses precisam de investigação e não são resultados garantidos.",
+      "escopoOriginalPreservado": true
+    },
+    {
+      "aulaId": "cna.ef04.cadeias_alimentares.teias_alimentares",
+      "descricao": "Redes alimentares ampliam a análise das cadeias simples; não substituem a construção e análise de cadeias.",
+      "escopoOriginalPreservado": true
+    },
+    {
+      "aulaId": "cna.ef04.misturas_do_dia_a_dia.separando_componentes",
+      "descricao": "Métodos de separação aprofundam a identificação das misturas e as propriedades observáveis; não são requisito literal adicional de EF04CI01.",
+      "escopoOriginalPreservado": true
+    }
+  ]
+}

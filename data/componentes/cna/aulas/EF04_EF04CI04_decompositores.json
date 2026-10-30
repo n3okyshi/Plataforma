@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef04.cadeias_alimentares.decompositores",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 17,
+  "unidade": "Cadeias Alimentares",
+  "titulo": "Decompositores",
+  "bncc": [
+    "EF04CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Acrescente decompositores ao modelo da cadeia com setas desde restos de todos os níveis e explique a relação.",
+      "Compare papel dos decompositores com o do gafanhoto e indique uma semelhança e uma diferença."
+    ],
+    "resumo": "Muitos fungos e bactérias participam da decomposição de restos e excretas.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.cadeias_alimentares.consumidores\">Consumidores</button></p><h2>Decompositores</h2><h3>Para compreender</h3><p>Muitos fungos e bactérias participam da decomposição de restos e excretas. Ao obter recursos desses materiais, transformam-nos e disponibilizam nutrientes ao ambiente. Eles não agem apenas depois do último predador: restos de produtores e de consumidores podem ser decompostos. Nem todo fungo ou bactéria tem o mesmo papel. Decompositores também usam energia e liberam parte como calor; não devolvem energia ao Sol. A aula usa modelos, sem cultivar, tocar ou cheirar mofo.</p><h3>Exemplo comentado</h3><p>No esquema, folhas, restos de gafanhoto e de sapo podem seguir para decomposição. Desenhar somente uma seta após o sapo esconderia os outros caminhos.</p><svg style=\"display:block;width:100%;max-width:650px;background:#fff\" viewBox=\"0 0 650 330\" role=\"img\" aria-label=\"Modelo autoral sem escala: Sol fornece luz ao capim; capim é alimento do gafanhoto; gafanhoto do sapo. Restos dos três podem ir à decomposição por muitos fungos e bactérias, que devolve materiais ao ambiente. Setas de alimentação não indicam ataque; não há retorno de energia ao Sol.\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g fill=\"#eef4e8\" stroke=\"#32502d\"><rect x=\"15\" y=\"95\" width=\"130\" height=\"50\" rx=\"8\"/><rect x=\"235\" y=\"95\" width=\"140\" height=\"50\" rx=\"8\"/><rect x=\"470\" y=\"95\" width=\"130\" height=\"50\" rx=\"8\"/><rect x=\"120\" y=\"230\" width=\"330\" height=\"45\" rx=\"8\"/></g><g fill=\"#111\" font-size=\"17\"><text x=\"25\" y=\"30\">Sol</text><text x=\"30\" y=\"125\">Capim</text><text x=\"250\" y=\"125\">Gafanhoto</text><text x=\"495\" y=\"125\">Sapo</text><text x=\"130\" y=\"258\">Muitos fungos e bactérias</text><text x=\"80\" y=\"60\">energia luminosa</text><text x=\"150\" y=\"90\">alimento</text><text x=\"385\" y=\"90\">alimento</text><text x=\"320\" y=\"194\">restos de todos</text><text x=\"30\" y=\"315\">Materiais retornam ao ambiente; energia se dispersa como calor.</text></g><g stroke=\"#344b36\" stroke-width=\"3\" fill=\"none\"><path d=\"M80 40v48m-5-8 5 8 5-8M150 120h75m-9-5 9 5-9 5M380 120h80m-9-5 9 5-9 5M80 150v45l150 30M305 150v74M535 150v45l-150 30\"/></g></svg><table><caption>Comparação qualitativa: sem medidas de quantidades ou observação da turma</caption><thead><tr><th scope=\"col\">Aspecto</th><th scope=\"col\">Matéria</th><th scope=\"col\">Energia</th></tr></thead><tbody><tr><td>Entrada em produtores</td><td>Água, gás carbônico e minerais participam</td><td>Luz fornece energia no modelo fotossintetizante</td></tr><tr><td>Alimentação</td><td>Materiais transferidos</td><td>Energia química transferida</td></tr><tr><td>Decomposição/atividades</td><td>Materiais transformados e devolvidos a diferentes partes do ambiente</td><td>Energia transformada e parte dispersa como calor</td></tr><tr><td>Diferença central</td><td>Pode circular entre componentes vivos/não vivos</td><td>Não faz o mesmo ciclo nem retorna ao Sol pelos decompositores</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Acrescente decompositores ao modelo da cadeia com setas desde restos de todos os níveis e explique a relação.</p><h4>Proposta 2</h4><p>Compare papel dos decompositores com o do gafanhoto e indique uma semelhança e uma diferença.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA Education — Aquatic food webs</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "decompositores.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Decompositores podem atuar sobre restos de:",
+      "alternativas": [
+        "Produtores e consumidores.",
+        "Somente o último predador.",
+        "Apenas pedras sem matéria orgânica."
+      ],
+      "correta": 0,
+      "explicacao": "Restos são produzidos em diferentes partes da rede alimentar.",
+      "bncc": [
+        "EF04CI04"
+      ]
+    },
+    {
+      "id": "decompositores.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Acrescente decompositores ao modelo da cadeia com setas desde restos de todos os níveis e explique a relação.",
+      "gabarito": "Múltiplas origens de restos, transformação e nutrientes; não colocar todos micróbios num único papel.",
+      "rubrica": [
+        "Múltiplas origens de restos, transformação e nutrientes; não colocar todos micróbios num único papel.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI04"
+      ]
+    },
+    {
+      "id": "decompositores.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare papel dos decompositores com o do gafanhoto e indique uma semelhança e uma diferença.",
+      "gabarito": "Ambos obtêm recursos/energia; fontes e efeitos distintos, sem retorno de energia ao Sol.",
+      "rubrica": [
+        "Ambos obtêm recursos/energia; fontes e efeitos distintos, sem retorno de energia ao Sol.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "NOAA Education — Aquatic food webs",
+      "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+      "consulta": "2026-10-30",
+      "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.cadeias_alimentares.consumidores"
+  ],
+  "proximosPassos": [
+    "cna.ef04.cadeias_alimentares.montando_uma_cadeia"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Cadeias Alimentares",
+    "bncc": [
+      "EF04CI04"
+    ],
+    "titulo": "Decompositores"
+  }
+}

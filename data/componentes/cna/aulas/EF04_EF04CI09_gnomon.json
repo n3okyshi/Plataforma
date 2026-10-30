@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef04.orientacao_pelo_sol.gnomon",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 37,
+  "unidade": "Orientação pelo Sol",
+  "titulo": "O Gnômon",
+  "bncc": [
+    "EF04CI09"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Planeje montagem e registros do gnômon com adulto: base, verticalidade, referência, horário e segurança. Execute apenas com condições adequadas.",
+      "Explique por que mover a base ou escolher sombras de comprimentos diferentes prejudica a comparação do método de círculo."
+    ],
+    "resumo": "Gnômon é um objeto vertical cuja sombra permite estudar posições relativas do Sol.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.orientacao_pelo_sol.bussola\">Comparar gnômon e bússola</button></p><h2>O Gnômon</h2><h3>Para compreender</h3><p>Gnômon é um objeto vertical cuja sombra permite estudar posições relativas do Sol. O adulto fixa uma haste sem ponta perigosa em base plana e estável, em lugar autorizado. Registre data, horários e pontas da sombra sem mover base ou haste. Nunca olhe o Sol diretamente ou por lentes. Para estimar leste/oeste, pode-se registrar duas pontas que atinjam a mesma circunferência centrada na base, uma antes e outra depois do período de sombra mínima. O método é aproximado e depende de boas condições e precisão do registro.</p><h3>Exemplo comentado</h3><p>No esquema incorporado, A e B pertencem ao mesmo círculo. A linha entre elas estima oeste/leste; a perpendicular fornece norte/sul. Não se usam dois pontos arbitrários como se fossem equivalentes.</p><svg style=\"display:block;width:100%;max-width:650px;background:#fff\" viewBox=\"0 0 610 400\" role=\"img\" aria-label=\"Esquema geométrico autoral: haste na base central; duas pontas A e B à mesma distância da base em círculo. Linha A B estima oeste leste; perpendicular indica norte sul. Orientação já nomeada no desenho para explicar método, não é observação local ou posição universal das sombras.\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><circle cx=\"260\" cy=\"170\" r=\"130\" fill=\"#eff5f8\" stroke=\"#345\"/><g stroke=\"#234\" stroke-width=\"2\" fill=\"none\"><path d=\"M260 20v335M90 253.07h340\"/><path d=\"M260 170 160 253.07M260 170 360 253.07\" stroke=\"#286180\" stroke-width=\"4\"/></g><g fill=\"#111\"><circle cx=\"260\" cy=\"170\" r=\"5\"/><circle cx=\"160\" cy=\"253.07\" r=\"5\"/><circle cx=\"360\" cy=\"253.07\" r=\"5\"/></g><g font-size=\"17\" fill=\"#111\"><text x=\"245\" y=\"17\">N</text><text x=\"245\" y=\"355\">S</text><text x=\"35\" y=\"258\">Oeste</text><text x=\"438\" y=\"258\">Leste</text><text x=\"275\" y=\"165\">Base da haste</text><text x=\"130\" y=\"285\">A: antes</text><text x=\"340\" y=\"285\">B: depois</text><text x=\"15\" y=\"385\">Mesmo círculo · Estimativa · Desenho autoral, sem escala local</text></g></svg><svg style=\"display:block;width:100%;max-width:650px;background:#fff\" viewBox=\"0 0 400 300\" role=\"img\" aria-label=\"Rosa dos ventos convencional: norte acima, sul abaixo, leste à direita e oeste à esquerda; nordeste, sudeste, sudoeste e noroeste nas diagonais. O desenho precisa ser orientado no local.\"><rect width=\"100%\" height=\"100%\" fill=\"#fff\"/><g stroke=\"#345\" stroke-width=\"3\"><path d=\"M200 50v190M90 145h220M130 75l140 140M130 215 270 75\"/></g><g fill=\"#111\" font-size=\"20\" text-anchor=\"middle\"><text x=\"200\" y=\"35\">N</text><text x=\"200\" y=\"270\">S</text><text x=\"70\" y=\"152\">O</text><text x=\"335\" y=\"152\">L</text><text x=\"110\" y=\"65\">NO</text><text x=\"290\" y=\"65\">NE</text><text x=\"110\" y=\"235\">SO</text><text x=\"290\" y=\"235\">SE</text></g></svg><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Planeje montagem e registros do gnômon com adulto: base, verticalidade, referência, horário e segurança. Execute apenas com condições adequadas.</p><h4>Proposta 2</h4><p>Explique por que mover a base ou escolher sombras de comprimentos diferentes prejudica a comparação do método de círculo.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.umass.edu/sunwheel/pages/lesson1.html\" target=\"_blank\" rel=\"noopener noreferrer\">University of Massachusetts Amherst — Using shadows to find the four directions</a></li><li><a href=\"https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA JetStream — The Shadow Knows I</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "gnomon.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No método de círculo, as duas pontas selecionadas devem:",
+      "alternativas": [
+        "Estar na mesma distância da base da haste, em momentos distintos.",
+        "Ser quaisquer dois pontos sem referência.",
+        "Vir de hastes diferentes movidas livremente."
+      ],
+      "correta": 0,
+      "explicacao": "A condição geométrica sustenta a estimativa de direções.",
+      "bncc": [
+        "EF04CI09"
+      ]
+    },
+    {
+      "id": "gnomon.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Planeje montagem e registros do gnômon com adulto: base, verticalidade, referência, horário e segurança. Execute apenas com condições adequadas.",
+      "gabarito": "Método claro, base imóvel, sombra sem observação direta do Sol; execução pendente quando não realizada.",
+      "rubrica": [
+        "Método claro, base imóvel, sombra sem observação direta do Sol; execução pendente quando não realizada.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI09"
+      ]
+    },
+    {
+      "id": "gnomon.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que mover a base ou escolher sombras de comprimentos diferentes prejudica a comparação do método de círculo.",
+      "gabarito": "Pontos e referência deixam de ser comparáveis; reconhecer aproximação e erro de medida.",
+      "rubrica": [
+        "Pontos e referência deixam de ser comparáveis; reconhecer aproximação e erro de medida.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI09"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "University of Massachusetts Amherst — Using shadows to find the four directions",
+      "url": "https://www.umass.edu/sunwheel/pages/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Texto do método de mesmo círculo e comparação com bússola consultado. Adaptação como estimativa; não importa latitude 42°N, sombra sempre norte, musgo em árvore ou horário fixo para Brasil. Figuras originais não foram inspecionadas/reproduzidas; esquema incorporado é autoral."
+    },
+    {
+      "documento": "NOAA JetStream — The Shadow Knows I",
+      "url": "https://www.noaa.gov/jetstream/global/learning-lesson-shadow-knows-i",
+      "consulta": "2026-10-30",
+      "uso": "Trechos sobre registros de sombra e ciclos anuais consultados. Não transpõe regras sazonais do hemisfério norte nem precisão histórica de medidas como resultado de investigação escolar."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.orientacao_pelo_sol.bussola"
+  ],
+  "proximosPassos": [
+    "cna.ef04.orientacao_pelo_sol.sombra_e_direcao"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Orientação pelo Sol",
+    "bncc": [
+      "EF04CI09"
+    ],
+    "titulo": "O Gnômon"
+  }
+}

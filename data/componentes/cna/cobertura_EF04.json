@@ -1,21 +1,52 @@
 {
   "nivel": "EF04",
-  "estado": "piloto_nucleo",
-  "limites": "Códigos com recortes não comprovam cobertura integral de todas as dimensões nem execução. Demais tópicos recuperados permanecem planejamento.",
+  "estado": "pronto_para_testes",
+  "limites": "Todos os 55 tópicos EF04 com autoria. Testes de materiais, registros de sombras/bússola, produções e devolutivas reais, homologação independente e serviços reais pendentes; propostas e modelos não comprovam aplicação.",
   "habilidades": [
     {
       "codigo": "EF04CI01",
       "aulas": [
-        "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura"
+        "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes"
       ],
       "atividades": [
-        "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura#o_que_e_mistura.investigacao"
+        "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura#o_que_e_mistura.aplicacao",
+        "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura#o_que_e_mistura.investigacao",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.aplicacao",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas#misturas_homogeneas.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.aplicacao",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas#misturas_heterogeneas.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.aplicacao",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas#componentes_das_misturas.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.aplicacao",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha#misturas_na_cozinha.producao2",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.aplicacao",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao1",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes#separando_componentes.producao2"
       ],
       "questoesTreino": [
-        "cna.ef04.materia_e_energia.treino.01"
+        "cna.ef04.materia_e_energia.treino.01",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.treino.1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.treino.1",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.treino.1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.treino.1",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes.treino.1"
       ],
       "questoesProva": [
-        "cna.ef04.materia_e_energia.prova.01"
+        "cna.ef04.materia_e_energia.prova.01",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas.prova.1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_heterogeneas.prova.1",
+        "cna.ef04.misturas_do_dia_a_dia.componentes_das_misturas.prova.1",
+        "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha.prova.1",
+        "cna.ef04.misturas_do_dia_a_dia.separando_componentes.prova.1"
       ],
       "homologacaoDocente": "pendente",
       "observacao": "Conferir execução e correspondência semântica na aplicação."
@@ -23,16 +54,47 @@
     {
       "codigo": "EF04CI02",
       "aulas": [
-        "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento"
+        "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento",
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes"
       ],
       "atividades": [
-        "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento#aquecimento_e_resfriamento.investigacao"
+        "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento#aquecimento_e_resfriamento.aplicacao",
+        "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento#aquecimento_e_resfriamento.investigacao",
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.aplicacao",
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao1",
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade#luz_e_umidade.producao2",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.aplicacao",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao1",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas#observando_mudancas.producao2",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.aplicacao",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao1",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos#registrando_experimentos.producao2",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.aplicacao",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao1",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao#tempo_e_transformacao.producao2",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.aplicacao",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao1",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes#comparando_condicoes.producao2"
       ],
       "questoesTreino": [
-        "cna.ef04.materia_e_energia.treino.02"
+        "cna.ef04.materia_e_energia.treino.02",
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.treino.1",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas.treino.1",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.treino.1",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.treino.1",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.treino.1"
       ],
       "questoesProva": [
-        "cna.ef04.materia_e_energia.prova.02"
+        "cna.ef04.materia_e_energia.prova.02",
+        "cna.ef04.transformacoes_dos_materiais.luz_e_umidade.prova.1",
+        "cna.ef04.transformacoes_dos_materiais.observando_mudancas.prova.1",
+        "cna.ef04.transformacoes_dos_materiais.registrando_experimentos.prova.1",
+        "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao.prova.1",
+        "cna.ef04.transformacoes_dos_materiais.comparando_condicoes.prova.1"
       ],
       "homologacaoDocente": "pendente",
       "observacao": "Conferir execução e correspondência semântica na aplicação."
@@ -40,16 +102,47 @@
     {
       "codigo": "EF04CI03",
       "aulas": [
-        "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua"
+        "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca"
       ],
       "atividades": [
-        "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua#mudancas_de_estado_da_agua.investigacao"
+        "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua#mudancas_de_estado_da_agua.aplicacao",
+        "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua#mudancas_de_estado_da_agua.investigacao",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.aplicacao",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao1",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos#cozimento_de_alimentos.producao2",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.aplicacao",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao1",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel#queima_de_papel.producao2",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.aplicacao",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis#transformacoes_reversiveis.producao2",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.aplicacao",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis#transformacoes_irreversiveis.producao2",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.aplicacao",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao1",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca#evidencias_de_mudanca.producao2"
       ],
       "questoesTreino": [
-        "cna.ef04.materia_e_energia.treino.03"
+        "cna.ef04.materia_e_energia.treino.03",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos.treino.1",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel.treino.1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis.treino.1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis.treino.1",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca.treino.1"
       ],
       "questoesProva": [
-        "cna.ef04.materia_e_energia.prova.03"
+        "cna.ef04.materia_e_energia.prova.03",
+        "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos.prova.1",
+        "cna.ef04.reversivel_ou_nao.queima_de_papel.prova.1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_reversiveis.prova.1",
+        "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis.prova.1",
+        "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca.prova.1"
       ],
       "homologacaoDocente": "pendente",
       "observacao": "Conferir execução e correspondência semântica na aplicação."
@@ -57,16 +150,53 @@
     {
       "codigo": "EF04CI04",
       "aulas": [
-        "cna.ef04.cadeias_alimentares.produtores"
+        "cna.ef04.cadeias_alimentares.produtores",
+        "cna.ef04.cadeias_alimentares.consumidores",
+        "cna.ef04.cadeias_alimentares.decompositores",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia",
+        "cna.ef04.cadeias_alimentares.teias_alimentares",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia"
       ],
       "atividades": [
-        "cna.ef04.cadeias_alimentares.produtores#produtores.investigacao"
+        "cna.ef04.cadeias_alimentares.produtores#produtores.aplicacao",
+        "cna.ef04.cadeias_alimentares.produtores#produtores.investigacao",
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.aplicacao",
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao1",
+        "cna.ef04.cadeias_alimentares.consumidores#consumidores.producao2",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.aplicacao",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao1",
+        "cna.ef04.cadeias_alimentares.decompositores#decompositores.producao2",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.aplicacao",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao1",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia#montando_uma_cadeia.producao2",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.aplicacao",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao1",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia#sol_como_fonte_de_energia.producao2",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.aplicacao",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao1",
+        "cna.ef04.cadeias_alimentares.teias_alimentares#teias_alimentares.producao2",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.aplicacao",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao1",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia#equilibrio_da_cadeia.producao2"
       ],
       "questoesTreino": [
-        "cna.ef04.vida_e_evolucao.treino.04"
+        "cna.ef04.vida_e_evolucao.treino.04",
+        "cna.ef04.cadeias_alimentares.consumidores.treino.1",
+        "cna.ef04.cadeias_alimentares.decompositores.treino.1",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia.treino.1",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia.treino.1",
+        "cna.ef04.cadeias_alimentares.teias_alimentares.treino.1",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia.treino.1"
       ],
       "questoesProva": [
-        "cna.ef04.vida_e_evolucao.prova.04"
+        "cna.ef04.vida_e_evolucao.prova.04",
+        "cna.ef04.cadeias_alimentares.consumidores.prova.1",
+        "cna.ef04.cadeias_alimentares.decompositores.prova.1",
+        "cna.ef04.cadeias_alimentares.montando_uma_cadeia.prova.1",
+        "cna.ef04.cadeias_alimentares.sol_como_fonte_de_energia.prova.1",
+        "cna.ef04.cadeias_alimentares.teias_alimentares.prova.1",
+        "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia.prova.1"
       ],
       "homologacaoDocente": "pendente",
       "observacao": "Conferir execução e correspondência semântica na aplicação."
@@ -74,16 +204,47 @@
     {
       "codigo": "EF04CI05",
       "aulas": [
-        "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos"
+        "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente"
       ],
       "atividades": [
-        "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos#componentes_vivos_e_nao_vivos.investigacao"
+        "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos#componentes_vivos_e_nao_vivos.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos#componentes_vivos_e_nao_vivos.investigacao",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.aplicacao",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao2"
       ],
       "questoesTreino": [
-        "cna.ef04.vida_e_evolucao.treino.05"
+        "cna.ef04.vida_e_evolucao.treino.05",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia.treino.1",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia.treino.1",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local.treino.1",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos.treino.1",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente.treino.1"
       ],
       "questoesProva": [
-        "cna.ef04.vida_e_evolucao.prova.05"
+        "cna.ef04.vida_e_evolucao.prova.05",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia.prova.1",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia.prova.1",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local.prova.1",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos.prova.1",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente.prova.1"
       ],
       "homologacaoDocente": "pendente",
       "observacao": "Conferir execução e correspondência semântica na aplicação."
@@ -91,16 +252,29 @@
     {
       "codigo": "EF04CI06",
       "aulas": [
-        "cna.ef04.microrganismos.fungos_e_bacterias"
+        "cna.ef04.microrganismos.fungos_e_bacterias",
+        "cna.ef04.microrganismos.decomposicao",
+        "cna.ef04.microrganismos.importancia_ambiental"
       ],
       "atividades": [
-        "cna.ef04.microrganismos.fungos_e_bacterias#fungos_e_bacterias.investigacao"
+        "cna.ef04.microrganismos.fungos_e_bacterias#fungos_e_bacterias.aplicacao",
+        "cna.ef04.microrganismos.fungos_e_bacterias#fungos_e_bacterias.investigacao",
+        "cna.ef04.microrganismos.decomposicao#decomposicao.aplicacao",
+        "cna.ef04.microrganismos.decomposicao#decomposicao.producao1",
+        "cna.ef04.microrganismos.decomposicao#decomposicao.producao2",
+        "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.aplicacao",
+        "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao1",
+        "cna.ef04.microrganismos.importancia_ambiental#importancia_ambiental.producao2"
       ],
       "questoesTreino": [
-        "cna.ef04.vida_e_evolucao.treino.06"
+        "cna.ef04.vida_e_evolucao.treino.06",
+        "cna.ef04.microrganismos.decomposicao.treino.1",
+        "cna.ef04.microrganismos.importancia_ambiental.treino.1"
       ],
       "questoesProva": [
-        "cna.ef04.vida_e_evolucao.prova.06"
+        "cna.ef04.vida_e_evolucao.prova.06",
+        "cna.ef04.microrganismos.decomposicao.prova.1",
+        "cna.ef04.microrganismos.importancia_ambiental.prova.1"
       ],
       "homologacaoDocente": "pendente",
       "observacao": "Conferir execução e correspondência semântica na aplicação."
@@ -108,16 +282,35 @@
     {
       "codigo": "EF04CI07",
       "aulas": [
-        "cna.ef04.microrganismos.microrganismos_nos_alimentos"
+        "cna.ef04.microrganismos.microrganismos_nos_alimentos",
+        "cna.ef04.microrganismos.fermentacao",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis",
+        "cna.ef04.microrganismos.microrganismos_uteis"
       ],
       "atividades": [
-        "cna.ef04.microrganismos.microrganismos_nos_alimentos#microrganismos_nos_alimentos.investigacao"
+        "cna.ef04.microrganismos.microrganismos_nos_alimentos#microrganismos_nos_alimentos.aplicacao",
+        "cna.ef04.microrganismos.microrganismos_nos_alimentos#microrganismos_nos_alimentos.investigacao",
+        "cna.ef04.microrganismos.fermentacao#fermentacao.aplicacao",
+        "cna.ef04.microrganismos.fermentacao#fermentacao.producao1",
+        "cna.ef04.microrganismos.fermentacao#fermentacao.producao2",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.aplicacao",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao1",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis#medicamentos_e_combustiveis.producao2",
+        "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.aplicacao",
+        "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao1",
+        "cna.ef04.microrganismos.microrganismos_uteis#microrganismos_uteis.producao2"
       ],
       "questoesTreino": [
-        "cna.ef04.vida_e_evolucao.treino.07"
+        "cna.ef04.vida_e_evolucao.treino.07",
+        "cna.ef04.microrganismos.fermentacao.treino.1",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis.treino.1",
+        "cna.ef04.microrganismos.microrganismos_uteis.treino.1"
       ],
       "questoesProva": [
-        "cna.ef04.vida_e_evolucao.prova.07"
+        "cna.ef04.vida_e_evolucao.prova.07",
+        "cna.ef04.microrganismos.fermentacao.prova.1",
+        "cna.ef04.microrganismos.medicamentos_e_combustiveis.prova.1",
+        "cna.ef04.microrganismos.microrganismos_uteis.prova.1"
       ],
       "homologacaoDocente": "pendente",
       "observacao": "Conferir execução e correspondência semântica na aplicação."
@@ -125,16 +318,47 @@
     {
       "codigo": "EF04CI08",
       "aulas": [
-        "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios"
+        "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios",
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade"
       ],
       "atividades": [
-        "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios#virus_bacterias_protozoarios.investigacao"
+        "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios#virus_bacterias_protozoarios.aplicacao",
+        "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios#virus_bacterias_protozoarios.investigacao",
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.aplicacao",
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao1",
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao#formas_de_transmissao.producao2",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.aplicacao",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao1",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas#prevencao_de_doencas.producao2",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.aplicacao",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao1",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos#higiene_e_alimentos.producao2",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.aplicacao",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao1",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados#vacinas_e_cuidados.producao2",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.aplicacao",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao1",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade#saude_na_comunidade.producao2"
       ],
       "questoesTreino": [
-        "cna.ef04.vida_e_evolucao.treino.08"
+        "cna.ef04.vida_e_evolucao.treino.08",
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao.treino.1",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.treino.1",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.treino.1",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.treino.1",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade.treino.1"
       ],
       "questoesProva": [
-        "cna.ef04.vida_e_evolucao.prova.08"
+        "cna.ef04.vida_e_evolucao.prova.08",
+        "cna.ef04.saude_e_microrganismos.formas_de_transmissao.prova.1",
+        "cna.ef04.saude_e_microrganismos.prevencao_de_doencas.prova.1",
+        "cna.ef04.saude_e_microrganismos.higiene_e_alimentos.prova.1",
+        "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados.prova.1",
+        "cna.ef04.saude_e_microrganismos.saude_na_comunidade.prova.1"
       ],
       "homologacaoDocente": "pendente",
       "observacao": "Conferir execução e correspondência semântica na aplicação."
@@ -142,16 +366,35 @@
     {
       "codigo": "EF04CI09",
       "aulas": [
-        "cna.ef04.orientacao_pelo_sol.pontos_cardeais"
+        "cna.ef04.orientacao_pelo_sol.pontos_cardeais",
+        "cna.ef04.orientacao_pelo_sol.gnomon",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos"
       ],
       "atividades": [
-        "cna.ef04.orientacao_pelo_sol.pontos_cardeais#pontos_cardeais.investigacao"
+        "cna.ef04.orientacao_pelo_sol.pontos_cardeais#pontos_cardeais.aplicacao",
+        "cna.ef04.orientacao_pelo_sol.pontos_cardeais#pontos_cardeais.investigacao",
+        "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.aplicacao",
+        "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao1",
+        "cna.ef04.orientacao_pelo_sol.gnomon#gnomon.producao2",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.aplicacao",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao1",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao#sombra_e_direcao.producao2",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.aplicacao",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao1",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos#rosa_dos_ventos.producao2"
       ],
       "questoesTreino": [
-        "cna.ef04.terra_e_universo.treino.09"
+        "cna.ef04.terra_e_universo.treino.09",
+        "cna.ef04.orientacao_pelo_sol.gnomon.treino.1",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao.treino.1",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos.treino.1"
       ],
       "questoesProva": [
-        "cna.ef04.terra_e_universo.prova.09"
+        "cna.ef04.terra_e_universo.prova.09",
+        "cna.ef04.orientacao_pelo_sol.gnomon.prova.1",
+        "cna.ef04.orientacao_pelo_sol.sombra_e_direcao.prova.1",
+        "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos.prova.1"
       ],
       "homologacaoDocente": "pendente",
       "observacao": "Conferir execução e correspondência semântica na aplicação."
@@ -159,16 +402,23 @@
     {
       "codigo": "EF04CI10",
       "aulas": [
-        "cna.ef04.orientacao_pelo_sol.bussola"
+        "cna.ef04.orientacao_pelo_sol.bussola",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola"
       ],
       "atividades": [
-        "cna.ef04.orientacao_pelo_sol.bussola#bussola.investigacao"
+        "cna.ef04.orientacao_pelo_sol.bussola#bussola.aplicacao",
+        "cna.ef04.orientacao_pelo_sol.bussola#bussola.investigacao",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.aplicacao",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao1",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola#comparando_gnomon_e_bussola.producao2"
       ],
       "questoesTreino": [
-        "cna.ef04.terra_e_universo.treino.10"
+        "cna.ef04.terra_e_universo.treino.10",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola.treino.1"
       ],
       "questoesProva": [
-        "cna.ef04.terra_e_universo.prova.10"
+        "cna.ef04.terra_e_universo.prova.10",
+        "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola.prova.1"
       ],
       "homologacaoDocente": "pendente",
       "observacao": "Conferir execução e correspondência semântica na aplicação."
@@ -176,16 +426,41 @@
     {
       "codigo": "EF04CI11",
       "aulas": [
-        "cna.ef04.calendarios_e_ciclos.fases_da_lua"
+        "cna.ef04.calendarios_e_ciclos.fases_da_lua",
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura"
       ],
       "atividades": [
-        "cna.ef04.calendarios_e_ciclos.fases_da_lua#fases_da_lua.investigacao"
+        "cna.ef04.calendarios_e_ciclos.fases_da_lua#fases_da_lua.aplicacao",
+        "cna.ef04.calendarios_e_ciclos.fases_da_lua#fases_da_lua.investigacao",
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.aplicacao",
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao1",
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra#movimento_da_terra.producao2",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.aplicacao",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao1",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais#calendarios_culturais.producao2",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.aplicacao",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao1",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais#ciclos_naturais.producao2",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.aplicacao",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao1",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura#tempo_e_cultura.producao2"
       ],
       "questoesTreino": [
-        "cna.ef04.terra_e_universo.treino.11"
+        "cna.ef04.terra_e_universo.treino.11",
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra.treino.1",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais.treino.1",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais.treino.1",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura.treino.1"
       ],
       "questoesProva": [
-        "cna.ef04.terra_e_universo.prova.11"
+        "cna.ef04.terra_e_universo.prova.11",
+        "cna.ef04.calendarios_e_ciclos.movimento_da_terra.prova.1",
+        "cna.ef04.calendarios_e_ciclos.calendarios_culturais.prova.1",
+        "cna.ef04.calendarios_e_ciclos.ciclos_naturais.prova.1",
+        "cna.ef04.calendarios_e_ciclos.tempo_e_cultura.prova.1"
       ],
       "homologacaoDocente": "pendente",
       "observacao": "Conferir execução e correspondência semântica na aplicação."

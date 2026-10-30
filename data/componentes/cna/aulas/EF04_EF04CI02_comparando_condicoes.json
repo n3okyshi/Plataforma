@@ -1,0 +1,120 @@
+{
+  "id": "cna.ef04.transformacoes_dos_materiais.comparando_condicoes",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 10,
+  "unidade": "Transformações dos Materiais",
+  "titulo": "Comparando Condições",
+  "bncc": [
+    "EF04CI02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Redesenhe o caso para investigar apenas umidade, indicando material, luz e tempo semelhantes.",
+      "Execute comparação segura com adulto ou registre plano. Relate diferença, ausência de diferença e limites conforme os dados disponíveis."
+    ],
+    "resumo": "Uma comparação procura saber como uma condição influencia um material.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao\">Tempo e Transformação</button></p><h2>Comparando Condições</h2><h3>Para compreender</h3><p>Uma comparação procura saber como uma condição influencia um material. Se mudarmos luz, água, recipiente e tipo de material juntos, fica difícil atribuir a diferença a um único fator. Use amostras semelhantes, uma condição principal distinta e registros de duração e resultados. Não existe controle perfeito na sala: descreva limitações. Aquecimento e resfriamento exigem manejo adulto apropriado; as propostas novas usam água à temperatura ambiente e luz comum, sem fonte intensa ou produtos perigosos.</p><h3>Exemplo comentado</h3><p>Caso fictício: A é papel seco à sombra; B é outro papel molhado ao sol. A diferença final não pode ser atribuída somente à luz.</p><table><caption>Cartões de estudo; casos gerais, não experimento realizado pela turma</caption><thead><tr><th scope=\"col\">Caso</th><th scope=\"col\">Condição/processo</th><th scope=\"col\">Resultado descrito</th></tr></thead><tbody><tr><td>Água e pouco sal</td><td>Mistura com dissolução</td><td>Aspecto uniforme, sal ainda presente</td></tr><tr><td>Água e areia</td><td>Mistura e repouso</td><td>Grãos distinguíveis; filtro pode reter partículas</td></tr><tr><td>Água e óleo</td><td>Mistura e repouso</td><td>Camadas podem reaparecer</td></tr><tr><td>Gelo e água</td><td>Aquecimento/resfriamento adequados</td><td>Mudança de estado reversível</td></tr><tr><td>Ovo cru/cozido</td><td>Cozimento e resfriamento</td><td>Esfriar não devolve condição crua</td></tr><tr><td>Papel/queima</td><td>Combustão — apenas caso textual</td><td>Resfriar resíduos não recompõe folha; gases também são produtos</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Redesenhe o caso para investigar apenas umidade, indicando material, luz e tempo semelhantes.</p><h4>Proposta 2</h4><p>Execute comparação segura com adulto ou registre plano. Relate diferença, ausência de diferença e limites conforme os dados disponíveis.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html\" target=\"_blank\" rel=\"noopener noreferrer\">American Chemical Society — What is a Chemical Reaction?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "comparando_condicoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Mudar vários fatores ao mesmo tempo:",
+      "alternativas": [
+        "Sempre prova qual fator foi responsável.",
+        "Dispensa registrar o método.",
+        "Dificulta isolar a causa de uma diferença."
+      ],
+      "correta": 2,
+      "explicacao": "Podem existir explicações concorrentes para o resultado.",
+      "bncc": [
+        "EF04CI02"
+      ]
+    },
+    {
+      "id": "comparando_condicoes.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Redesenhe o caso para investigar apenas umidade, indicando material, luz e tempo semelhantes.",
+      "gabarito": "Uma variável principal e controles coerentes, sem concluir resultado antecipadamente.",
+      "rubrica": [
+        "Uma variável principal e controles coerentes, sem concluir resultado antecipadamente.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI02"
+      ]
+    },
+    {
+      "id": "comparando_condicoes.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Execute comparação segura com adulto ou registre plano. Relate diferença, ausência de diferença e limites conforme os dados disponíveis.",
+      "gabarito": "Resultado rastreável e não fabricação de efeito para satisfazer previsão.",
+      "rubrica": [
+        "Resultado rastreável e não fabricação de efeito para satisfazer previsão.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "American Chemical Society — What is a Chemical Reaction?",
+      "url": "https://www.acs.org/middleschoolchemistry/lessonplans/chapter6/lesson1.html",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de distinção entre mudança física/química e transformação de materiais consultados. Não transpõe vela, fogo ou reagentes. Reversibilidade cotidiana não é usada como definição universal de transformação química."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao"
+  ],
+  "proximosPassos": [],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Transformações dos Materiais",
+    "bncc": [
+      "EF04CI02"
+    ],
+    "titulo": "Comparando Condições"
+  }
+}

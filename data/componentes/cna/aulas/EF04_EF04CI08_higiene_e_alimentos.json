@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef04.saude_e_microrganismos.higiene_e_alimentos",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 34,
+  "unidade": "Saúde e Microrganismos",
+  "titulo": "Higiene e Alimentos",
+  "bncc": [
+    "EF04CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça sequência de preparação orientada com mãos, água, utensílios e alimento, indicando dois pontos de prevenção.",
+      "Explique por que aparência e remoção da parte mofada não substituem orientação de segurança dos alimentos."
+    ],
+    "resumo": "Agentes não visíveis podem chegar a alimentos por água, mãos, superfícies e preparo inadequado.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef04.saude_e_microrganismos.prevencao_de_doencas\">Prevenção de Doenças</button></p><h2>Higiene e Alimentos</h2><h3>Para compreender</h3><p>Agentes não visíveis podem chegar a alimentos por água, mãos, superfícies e preparo inadequado. Aparência ou cheiro agradáveis não certificam segurança. Lavar mãos e organizar preparo com água segura e responsáveis capacitados são cuidados; separar materiais de aula de alimentos de consumo também importa. Crianças não testam amostras pela boca, não usam produtos de limpeza ou doses de sanitizantes por conta própria. Alimento com mofo não é material de experimento nem vira seguro apenas retirando a parte visível.</p><h3>Exemplo comentado</h3><p>Em história fictícia, o grupo quer provar duas águas para escolher a mais segura. A proposta deve ser recusada: segurança não é avaliada por degustação.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça sequência de preparação orientada com mãos, água, utensílios e alimento, indicando dois pontos de prevenção.</p><h4>Proposta 2</h4><p>Explique por que aparência e remoção da parte mofada não substituem orientação de segurança dos alimentos.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 341</li><li><a href=\"https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Diarrhoeal disease</a></li><li><a href=\"https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Vaccines and immunization: What is vaccination?</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "higiene_e_alimentos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um alimento com boa aparência está comprovadamente seguro?",
+      "alternativas": [
+        "Não; aparência sozinha não certifica segurança.",
+        "Sim, se não tiver cheiro forte.",
+        "Sim, a cor elimina qualquer risco."
+      ],
+      "correta": 0,
+      "explicacao": "Condições de origem e preparo também importam.",
+      "bncc": [
+        "EF04CI08"
+      ]
+    },
+    {
+      "id": "higiene_e_alimentos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça sequência de preparação orientada com mãos, água, utensílios e alimento, indicando dois pontos de prevenção.",
+      "gabarito": "Relacionar recurso e via, responsabilidade adulta, sem receita química de higienização.",
+      "rubrica": [
+        "Relacionar recurso e via, responsabilidade adulta, sem receita química de higienização.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI08"
+      ]
+    },
+    {
+      "id": "higiene_e_alimentos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que aparência e remoção da parte mofada não substituem orientação de segurança dos alimentos.",
+      "gabarito": "Agentes/substâncias podem não ser visíveis; sem degustação ou manipulação de deteriorados.",
+      "rubrica": [
+        "Agentes/substâncias podem não ser visíveis; sem degustação ou manipulação de deteriorados.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF04CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "WHO — Diarrhoeal disease",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease",
+      "consulta": "2026-10-30",
+      "uso": "Seções sobre transmissão por água/alimentos, agentes e prevenção por água segura, saneamento e higiene consultadas. Não reproduz diagnóstico, tratamento, doses ou estatísticas como dados da turma."
+    },
+    {
+      "documento": "WHO — Vaccines and immunization: What is vaccination?",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination",
+      "consulta": "2026-10-30",
+      "uso": "Seções de mecanismo, proteção específica, ingredientes/tecnologias e busca de orientação consultadas. Não adota simplificação inicial da página de que todas vacinas contêm apenas agentes inteiros mortos/enfraquecidos, nem transplanta calendários, doses ou indicação individual."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef04.saude_e_microrganismos.prevencao_de_doencas"
+  ],
+  "proximosPassos": [
+    "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Saúde e Microrganismos",
+    "bncc": [
+      "EF04CI08"
+    ],
+    "titulo": "Higiene e Alimentos"
+  }
+}

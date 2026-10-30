@@ -1,1 +1,45 @@
-{"id":"cna.ef04.microrganismos.decomposicao","componente":"cna","nivel":"EF04","ordem":1,"unidade":"Microrganismos","titulo":"Decomposição","bncc":["EF04CI06"],"conteudo":{"objetivos":[],"resumo":"","blocos":[]},"atividades":[],"fontes":[],"metadados":{"estado":"rascunho","revisado":false,"versao":1,"estadoDoEscopo":"planejado"},"publicacao":{"permitida":false,"motivo":"Estrutura sem autoria e validação; não importar para a interface."},"planejamento":{"unidade":"data/componentes/cna/rascunhos/unidades/EF04_microrganismos_6e6e4c.json","catalogoCurricular":"data/planejamento-basica/referencias-curriculares.json","codigosOriginais":["EF04CI06"],"codigosAConferir":[],"origem":"data/componentes/cna/arvore.json","prerequisitos":"a_identificar_e_validar","politica":"data/planejamento-basica/politica.json"},"complementar":false,"preRequisitos":[],"proximosPassos":[]}
+{
+  "id": "cna.ef04.microrganismos.decomposicao",
+  "componente": "cna",
+  "nivel": "EF04",
+  "ordem": 1,
+  "unidade": "Microrganismos",
+  "titulo": "Decomposição",
+  "bncc": [
+    "EF04CI06"
+  ],
+  "conteudo": {
+    "objetivos": [],
+    "resumo": "",
+    "blocos": []
+  },
+  "atividades": [],
+  "fontes": [],
+  "metadados": {
+    "estado": "rascunho",
+    "revisado": false,
+    "versao": 1,
+    "estadoDoEscopo": "planejado"
+  },
+  "publicacao": {
+    "permitida": false,
+    "motivo": "Estrutura sem autoria e validação; não importar para a interface."
+  },
+  "planejamento": {
+    "unidade": "data/componentes/cna/rascunhos/unidades/EF04_microrganismos_6e6e4c.json",
+    "catalogoCurricular": "data/planejamento-basica/referencias-curriculares.json",
+    "codigosOriginais": [
+      "EF04CI06"
+    ],
+    "codigosAConferir": [],
+    "origem": "data/componentes/cna/arvore.json",
+    "prerequisitos": "a_identificar_e_validar",
+    "politica": "data/planejamento-basica/politica.json",
+    "implementacaoCanonica": "data/componentes/cna/aulas/EF04_EF04CI06_decomposicao.json",
+    "estadoDaAutoria": "implementado_para_testes",
+    "limite": "Rascunho original arquivado/bloqueado; autoria canônica indicada, sem homologação."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

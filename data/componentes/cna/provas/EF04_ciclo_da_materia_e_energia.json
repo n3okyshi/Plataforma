@@ -1,0 +1,120 @@
+{
+  "id": "cna.ef04.ciclo_da_materia_e_energia.prova",
+  "titulo": "Avaliação: Ciclo da Matéria e Fluxo de Energia",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Ciclo da Matéria e Fluxo de Energia",
+  "bncc": [
+    "EF04CI05"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia.prova.1",
+    "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia.prova.1",
+    "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local.prova.1",
+    "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos.prova.1",
+    "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.ciclo_da_materia_e_energia.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Ciclo da Matéria e Fluxo de Energia",
+    "enunciado": "Desenhe um modelo de jardim com planta, consumidor, decompositores, água, ar, solo e luz. Mostre três processos de matéria e entrada/transformação/dispersão da energia. Faça duas semelhanças e duas diferenças e corrija a ideia de que decompositores devolvem toda energia ao Sol. Indique uma observação local ainda necessária.",
+    "gabarito": "Componentes vivos/não vivos, alimentação/absorção/respiração/excreção/decomposição pertinentes; matéria circula, energia se transforma e se dispersa como calor; modelo qualitativo e lacuna de evidência explícitos.",
+    "rubrica": [
+      "Componentes vivos/não vivos, alimentação/absorção/respiração/excreção/decomposição pertinentes; matéria circula, energia se transforma e se dispersa como calor; modelo qualitativo e lacuna de evidência explícitos.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF04CI05"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef04.ciclo_da_materia_e_energia.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Ciclo da Matéria e Fluxo de Energia",
+        "enunciado": "Desenhe um modelo de jardim com planta, consumidor, decompositores, água, ar, solo e luz. Mostre três processos de matéria e entrada/transformação/dispersão da energia. Faça duas semelhanças e duas diferenças e corrija a ideia de que decompositores devolvem toda energia ao Sol. Indique uma observação local ainda necessária.",
+        "gabarito": "Componentes vivos/não vivos, alimentação/absorção/respiração/excreção/decomposição pertinentes; matéria circula, energia se transforma e se dispersa como calor; modelo qualitativo e lacuna de evidência explícitos.",
+        "rubrica": [
+          "Componentes vivos/não vivos, alimentação/absorção/respiração/excreção/decomposição pertinentes; matéria circula, energia se transforma e se dispersa como calor; modelo qualitativo e lacuna de evidência explícitos.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF04CI05"
+        ],
+        "aulasReferencia": [
+          "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia",
+          "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia",
+          "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local",
+          "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos",
+          "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao1",
+      "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao2",
+      "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao1",
+      "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao2",
+      "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao1",
+      "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao2",
+      "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao1",
+      "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao2",
+      "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao1",
+      "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Texto das onze habilidades do 4º ano consultado diretamente; confronto por dimensões no lote, sem homologação independente."
+    },
+    {
+      "documento": "NOAA Education — Aquatic food webs",
+      "url": "https://www.noaa.gov/education/resource-collections/marine-life/aquatic-food-webs",
+      "consulta": "2026-10-30",
+      "uso": "Texto e glossário sobre produtores, consumidores, decompositores, cadeias e redes consultados; exemplos terrestres autorais com relações explicitadas, sem alegar observação local ou transpor dados de fauna aquática."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI05",
+      "questoes": [
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia.prova.1",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia.prova.1",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local.prova.1",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos.prova.1",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.ciclo_da_materia_e_energia.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef04.ciclo_da_materia_e_energia.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia#ciclo_da_materia.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.fluxo_de_energia#fluxo_de_energia.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.ecossistema_local#ecossistema_local.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos#comparando_ciclos.producao2",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao1",
+        "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente#materia_e_energia_no_ambiente.producao2"
+      ]
+    }
+  ]
+}
