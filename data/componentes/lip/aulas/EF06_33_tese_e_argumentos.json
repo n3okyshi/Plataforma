@@ -1,0 +1,89 @@
+{
+  "id": "lip.ef06.leitura_e_generos.tese_e_argumentos",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 33,
+  "unidade": "Leitura e Gêneros",
+  "titulo": "Tese, razões e resposta argumentada",
+  "bncc": [
+    "EF67LP05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Identifique a tese e duas partes que a sustentam ou desenvolvem. Avalie o alcance da experiência citada. Escreva uma resposta de seis a oito linhas concordando, discordando ou concordando parcialmente, com duas razões e uma pergunta de verificação. Revise para retirar ataques pessoais e generalizações sem apoio."
+    ],
+    "resumo": "Tese, razões e resposta argumentada",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Tese, razões e resposta argumentada</h2><p>Tese é a posição defendida; argumentos são razões que procuram sustentá-la. Uma razão pode ser pertinente ou insuficiente, e precisa ser examinada. Identificar a tese não obriga a concordar. Ao responder, explique o ponto de concordância ou discordância e avalie as razões. Ataques pessoais e repetição da tese não substituem argumentos.</p><h3>Exemplo comentado</h3><p><strong>Carta autoral fictícia.</strong> “Defendo divulgar melhor o horário da biblioteca. Minha turma soube da mudança depois de uma semana e pode haver outras na mesma situação. Um aviso nos dois turnos e nos canais escolares ajudaria a orientar o acesso.” A tese é melhorar a divulgação. A experiência da turma é uma razão, mas não comprova que todas as turmas desconheciam o horário. A proposta oferece um caminho de ação que ainda pode ser avaliado.</p><h3>Produza e revise</h3><p>Identifique a tese e duas partes que a sustentam ou desenvolvem. Avalie o alcance da experiência citada. Escreva uma resposta de seis a oito linhas concordando, discordando ou concordando parcialmente, com duas razões e uma pergunta de verificação. Revise para retirar ataques pessoais e generalizações sem apoio.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "tese_e_argumentos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é a tese da carta apresentada?",
+      "alternativas": [
+        "Todas as turmas desconheciam o horário, com certeza.",
+        "A divulgação do horário deve melhorar.",
+        "A biblioteca deve fechar.",
+        "A escola já publicou uma pesquisa completa."
+      ],
+      "correta": 1,
+      "explicacao": "<strong>Carta autoral fictícia.</strong> “Defendo divulgar melhor o horário da biblioteca. Minha turma soube da mudança depois de uma semana e pode haver outras na mesma situação. Um aviso nos dois turnos e nos canais escolares ajudaria a orientar o acesso.” A tese é melhorar a divulgação. A experiência da turma é uma razão, mas não comprova que todas as turmas desconheciam o horário. A proposta oferece um caminho de ação que ainda pode ser avaliado.",
+      "bncc": [
+        "EF67LP05"
+      ]
+    },
+    {
+      "id": "tese_e_argumentos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Identifique a tese e duas partes que a sustentam ou desenvolvem. Avalie o alcance da experiência citada. Escreva uma resposta de seis a oito linhas concordando, discordando ou concordando parcialmente, com duas razões e uma pergunta de verificação. Revise para retirar ataques pessoais e generalizações sem apoio.",
+      "gabarito": "Tese: ampliar divulgação; experiência da turma e utilidade de avisos são razões/proposta. A experiência é limitada a um grupo e não pode ser generalizada automaticamente. Exigir resposta com posição explícita, duas razões pertinentes e pergunta verificável, aceitando posições distintas bem justificadas.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Tese: ampliar divulgação; experiência da turma e utilidade de avisos são razões/proposta. A experiência é limitada a um grupo e não pode ser generalizada automaticamente. Exigir resposta com posição explícita, duas razões pertinentes e pergunta verificável, aceitando posições distintas bem justificadas.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP05"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165
+      ],
+      "paginasImpressas": "163",
+      "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+    },
+    {
+      "documento": "Textos autorais da unidade Leitura e Gêneros",
+      "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

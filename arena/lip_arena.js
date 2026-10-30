@@ -886,6 +886,566 @@ registrarQuestoes([
     "complementar": true
   },
   {
+    "id": "lip.ef06.leitura_e_generos.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.contexto_do_jornalismo",
+    "bncc": [
+      "EF67LP01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual é a função do texto-âncora de um hiperlink?",
+    "opcoes": [
+      "Substituir toda verificação.",
+      "Indicar ao leitor o conteúdo ou destino associado ao trecho clicável.",
+      "Garantir que o destino é verdadeiro.",
+      "Impedir a navegação."
+    ],
+    "correta": 1,
+    "explicacao": "<strong>Miniportal autoral fictício, para teste.</strong> Notícia: “A Escola Horizonte abriu uma hora extra de biblioteca. Veja o <a href=\"#leitura-registro\">registro de entrada</a> e o <a href=\"#leitura-contexto\">contexto da mudança</a>.” <h4 id=\"leitura-registro\">Registro de entrada — simulação</h4><p>No primeiro dia, 18 estudantes usaram a hora adicional. Não há dados de outros dias.</p><h4 id=\"leitura-contexto\">Contexto — simulação</h4><p>O horário adicional atende a um pedido do conselho de estudantes. Ainda será avaliado após quatro semanas.</p><p>Os dois links são internos e reais: levam a trechos desta aula. A rede pública também possui links para outros sites, que exigem verificar domínio e procedência. Aqui não há documento externo nem dado coletado de verdade.</p>",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.contexto_do_jornalismo",
+    "bncc": [
+      "EF67LP01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma notícia oferece o link “registro de entrada”. Qual procedimento permite avaliar sua pertinência?",
+    "opcoes": [
+      "Confiar sem abrir porque há um link.",
+      "Concluir que todo link é publicidade.",
+      "Verificar o destino e se o registro sustenta a informação citada.",
+      "Ignorar autoria e data do documento."
+    ],
+    "correta": 2,
+    "explicacao": "A análise considera o destino e a relação entre fonte e afirmação; a presença do link não garante a evidência.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.o_espaco_do_leitor",
+    "bncc": [
+      "EF67LP02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual comentário participa eticamente do debate?",
+    "opcoes": [
+      "Todos que discordam são incapazes.",
+      "Apoio a ampliação e proponho divulgar o horário nos dois turnos.",
+      "Vou expor o endereço de quem discorda.",
+      "Não preciso ler a notícia para atacar o autor."
+    ],
+    "correta": 1,
+    "explicacao": "<strong>Mural fictício da turma.</strong> Regra da seção: “Contribuições sobre o cotidiano escolar, até 80 palavras, sem nomes completos de estudantes; informar o texto respondido.” Notícia-base: “A biblioteca abriu por uma hora adicional.” Comentário A: “Quem discorda não entende nada.” Comentário B: “Apoio a mudança, mas proponho divulgar o horário nos dois turnos; minha turma ainda tinha dúvidas.” B apresenta posição e razão sem desqualificar pessoas. Isso não torna sua experiência prova sobre toda a escola.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.o_espaco_do_leitor",
+    "bncc": [
+      "EF67LP02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual evidência distingue nota preparada de nota publicada em espaço escolar?",
+    "opcoes": [
+      "Só existir um arquivo no caderno.",
+      "Ter recebido nota objetiva alta.",
+      "Conter um título em letras grandes.",
+      "Haver registro da circulação autorizada e da revisão realizada."
+    ],
+    "correta": 3,
+    "explicacao": "A publicação exige circulação real e registro; produzir o rascunho não demonstra essa etapa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.comparar_veiculos",
+    "bncc": [
+      "EF67LP03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual dado de A limita a comparação com a postagem B?",
+    "opcoes": [
+      "A usa somente o primeiro dia; B afirma uma frequência diária.",
+      "Ambos comprovam 80 diariamente.",
+      "Uma assinatura dispensa evidências.",
+      "A postagem sem data é necessariamente mais atual."
+    ],
+    "correta": 0,
+    "explicacao": "<strong>Dois boletins fictícios.</strong> A, assinado pela equipe escolar e datado de 21/10: “O novo horário começou em 20/10; o registro indica 18 estudantes no primeiro dia.” B, postagem sem assinatura nem data: “Biblioteca recebe 80 alunos todo dia no novo horário!” A informa origem e período; B não fornece evidência para seu número nem para a frequência diária. Isso justifica maior cautela com B, não a certeza automática de que todo texto assinado é verdadeiro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.comparar_veiculos",
+    "bncc": [
+      "EF67LP03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Dois sites repetem o mesmo comunicado sem apuração adicional. O que se pode concluir?",
+    "opcoes": [
+      "São obrigatoriamente duas confirmações independentes.",
+      "É preciso considerar a dependência da fonte comum.",
+      "Todo comunicado é falso.",
+      "A repetição substitui a consulta ao documento."
+    ],
+    "correta": 1,
+    "explicacao": "A repetição pode resultar de uma única fonte; quantidade de publicações não equivale a confirmações independentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.fato_e_opiniao",
+    "bncc": [
+      "EF67LP04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual trecho exprime avaliação pessoal?",
+    "opcoes": [
+      "O registro anotou 18 participantes.",
+      "A biblioteca abriu às 14h.",
+      "Para mim, foi o melhor projeto do ano.",
+      "O evento ocorreu na terça-feira."
+    ],
+    "correta": 2,
+    "explicacao": "<strong>Texto autoral fictício.</strong> Trecho 1: “A escola abriu a biblioteca por mais uma hora.” Trecho 2: “O registro do primeiro dia anotou 18 participantes.” Trecho 3: “Para mim, esse foi o melhor projeto do ano.” Os dois primeiros apresentam afirmações factuais no universo da simulação; o terceiro avalia o projeto. Melhor não é uma medida definida nesse comentário. A opinião pode ser debatida com razões, sem se tornar um número de registro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.fato_e_opiniao",
+    "bncc": [
+      "EF67LP04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma frase apresenta um número e uma data. Isso garante sua verdade?",
+    "opcoes": [
+      "Sim, números nunca podem estar errados.",
+      "Sim, datas substituem fontes.",
+      "Não; é uma afirmação verificável que ainda pode exigir conferência.",
+      "Não existe nenhuma diferença entre fato e opinião."
+    ],
+    "correta": 2,
+    "explicacao": "Uma afirmação factual pode ser conferida e também pode ser falsa; sua forma não dispensa evidências.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.treino.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.tese_e_argumentos",
+    "bncc": [
+      "EF67LP05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual é a tese da carta apresentada?",
+    "opcoes": [
+      "Todas as turmas desconheciam o horário, com certeza.",
+      "A divulgação do horário deve melhorar.",
+      "A biblioteca deve fechar.",
+      "A escola já publicou uma pesquisa completa."
+    ],
+    "correta": 1,
+    "explicacao": "<strong>Carta autoral fictícia.</strong> “Defendo divulgar melhor o horário da biblioteca. Minha turma soube da mudança depois de uma semana e pode haver outras na mesma situação. Um aviso nos dois turnos e nos canais escolares ajudaria a orientar o acesso.” A tese é melhorar a divulgação. A experiência da turma é uma razão, mas não comprova que todas as turmas desconheciam o horário. A proposta oferece um caminho de ação que ainda pode ser avaliado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.prova.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.tese_e_argumentos",
+    "bncc": [
+      "EF67LP05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma carta usa a experiência de uma turma como razão. Qual avaliação é mais rigorosa?",
+    "opcoes": [
+      "A experiência prova a situação de toda a escola.",
+      "Experiência pessoal jamais pode ser mencionada.",
+      "A experiência é um indício limitado e pode exigir outras verificações.",
+      "Basta atacar o autor para refutar a tese."
+    ],
+    "correta": 2,
+    "explicacao": "O argumento pode ser relevante, mas seu alcance precisa ser delimitado; não autoriza generalização automática.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.treino.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.noticia_fato_central",
+    "bncc": [
+      "EF69LP03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual é o fato central da notícia?",
+    "opcoes": [
+      "A avaliação já provou sucesso por quatro semanas.",
+      "A escola iniciou uma hora adicional de biblioteca.",
+      "Todos os estudantes passaram a frequentar a biblioteca.",
+      "A biblioteca deixou de registrar entradas."
+    ],
+    "correta": 1,
+    "explicacao": "<strong>Notícia autoral fictícia.</strong> “Escola Horizonte abre hora extra de biblioteca. Na segunda-feira, 20 de outubro, a escola iniciou uma hora adicional de atendimento no turno da tarde. Dezoito estudantes usaram o serviço no primeiro dia, segundo o registro de entrada. A equipe anunciou que avaliará a experiência após quatro semanas. Por enquanto, não há dados dos demais dias.” Fato central: início do horário adicional. O uso por 18 estudantes é uma decorrência relatada; a avaliação em quatro semanas é ação futura anunciada, não resultado já observado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.prova.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.noticia_fato_central",
+    "bncc": [
+      "EF69LP03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual informação é uma decorrência relatada, e não um resultado futuro presumido?",
+    "opcoes": [
+      "Dezoito estudantes usaram a hora extra no primeiro dia.",
+      "O projeto terá sucesso durante anos.",
+      "Todos os turnos serão atendidos no próximo mês.",
+      "A avaliação futura já foi concluída."
+    ],
+    "correta": 0,
+    "explicacao": "O texto informa o uso no primeiro dia; os demais resultados não foram registrados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.treino.07",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.sequencias_textuais",
+    "bncc": [
+      "EF67LP37"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual trecho organiza eventos no tempo?",
+    "opcoes": [
+      "A sala é ampla.",
+      "Primeiro abrimos o catálogo; depois localizamos o livro.",
+      "Devolva o livro amanhã.",
+      "A sala foi fechada porque estava em manutenção."
+    ],
+    "correta": 1,
+    "explicacao": "<strong>Conjunto autoral.</strong> A: “Registre o empréstimo e devolva o livro na data indicada.” orienta conduta. B: “A sala é clara, ampla e silenciosa.” caracteriza espaço. C: “O catálogo organiza informações de autoria e título; assim, permite localizar obras.” explica uma função. D: “Primeiro abrimos o catálogo; depois localizamos o livro.” ordena eventos. E: “A leitura foi transferida porque a sala estava em manutenção.” apresenta uma razão. Cada recurso guia uma compreensão diferente, mesmo quando todos aparecem no mesmo boletim.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.leitura_e_generos.prova.07",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "aulaId": "lip.ef06.leitura_e_generos.sequencias_textuais",
+    "bncc": [
+      "EF67LP37"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual análise relaciona recurso e efeito de sentido?",
+    "opcoes": [
+      "“Devolva o livro” apenas descreve uma cor.",
+      "“A sala é clara” organiza três eventos passados.",
+      "“Primeiro... depois...” sinaliza a ordenação temporal de ações.",
+      "“Porque” garante automaticamente que qualquer causa é verdadeira."
+    ],
+    "correta": 2,
+    "explicacao": "Os marcadores organizam a sequência; explicar causalidade não equivale a provar a relação causal.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
     "id": "lip.ef06.lingua_texto_e_contexto.treino.01",
     "componente": "lip",
     "tema": "Língua Portuguesa",
@@ -3252,6 +3812,259 @@ registrarProvas({
     ],
     "matriz": [],
     "complementar": true
+  },
+  "lip.ef06.leitura_e_generos.prova": {
+    "id": "lip.ef06.leitura_e_generos.prova",
+    "titulo": "Avaliação: Leitura e Gêneros",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Leitura e Gêneros",
+    "bncc": [
+      "EF67LP01",
+      "EF67LP02",
+      "EF67LP03",
+      "EF67LP04",
+      "EF67LP05",
+      "EF67LP37",
+      "EF69LP03"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Sete itens objetivos; nota proporcional a acertos divididos por sete, vezes dez, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+    "questoes": [
+      "lip.ef06.leitura_e_generos.prova.01",
+      "lip.ef06.leitura_e_generos.prova.02",
+      "lip.ef06.leitura_e_generos.prova.03",
+      "lip.ef06.leitura_e_generos.prova.04",
+      "lip.ef06.leitura_e_generos.prova.05",
+      "lip.ef06.leitura_e_generos.prova.06",
+      "lip.ef06.leitura_e_generos.prova.07"
+    ],
+    "criterios": "Nota objetiva proporcional aos sete itens; portfólio com devolutiva por tarefa.",
+    "avaliacaoPratica": {
+      "id": "lip.ef06.leitura_e_generos.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de leitura crítica e participação",
+      "enunciado": "Reúna as sete produções. Registre a navegação, a comparação real e a circulação autorizada quando solicitadas; ensaio não comprova publicação.",
+      "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+      "rubrica": [
+        "Atende: apresenta evidência e explica escolhas.",
+        "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+        "Retomar: precisa produzir ou corrigir a evidência."
+      ],
+      "bncc": [
+        "EF67LP01",
+        "EF67LP02",
+        "EF67LP03",
+        "EF67LP04",
+        "EF67LP05",
+        "EF67LP37",
+        "EF69LP03"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Hiperlinks no texto noticioso",
+          "enunciado": "Acione os dois links e registre o texto-âncora, o destino e a informação acrescentada à notícia. Explique por que o registro do primeiro dia não basta para avaliar quatro semanas. Planeje no papel uma notícia com três links: indique seus destinos e justifique a ordem de leitura escolhida.",
+          "gabarito": "Os links levam ao registro e ao contexto desta aula. O primeiro informa 18 participantes no primeiro dia; o segundo, motivação e avaliação futura. Exigir navegação real e registro, além de plano hipertextual com três âncoras claras e destinos descritos. Não apresentar a simulação como fonte independente ou apuração real.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Os links levam ao registro e ao contexto desta aula. O primeiro informa 18 participantes no primeiro dia; o segundo, motivação e avaliação futura. Exigir navegação real e registro, além de plano hipertextual com três âncoras claras e destinos descritos. Não apresentar a simulação como fonte independente ou apuração real.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP01"
+          ],
+          "atividadeOrigem": "lip.ef06.leitura_e_generos.contexto_do_jornalismo#contexto_do_jornalismo.producao"
+        },
+        {
+          "titulo": "Participação ética no espaço do leitor",
+          "enunciado": "Analise os comentários e a regra. Produza uma nota sobre um acontecimento escolar realmente verificado, indicando quando ocorreu e como foi conferido; se usar ficção, sinalize e mantenha-a apenas como ensaio. Prepare também um comentário respeitoso sobre a notícia da biblioteca. Com revisão docente, faça a nota real circular em mural ou espaço escolar autorizado e registre a devolutiva, sem dados pessoais desnecessários.",
+          "gabarito": "Exigir posição respeitosa e vínculo ao texto respondido. Na nota, verificar fontes, data, fato e revisão. A circulação real no espaço autorizado e seu registro são evidências necessárias para avaliar publicação; um rascunho ou ensaio fictício não encerra essa dimensão de EF67LP02. A plataforma não publica automaticamente a produção.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir posição respeitosa e vínculo ao texto respondido. Na nota, verificar fontes, data, fato e revisão. A circulação real no espaço autorizado e seu registro são evidências necessárias para avaliar publicação; um rascunho ou ensaio fictício não encerra essa dimensão de EF67LP02. A plataforma não publica automaticamente a produção.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP02"
+          ],
+          "atividadeOrigem": "lip.ef06.leitura_e_generos.o_espaco_do_leitor#o_espaco_do_leitor.producao"
+        },
+        {
+          "titulo": "Comparar informações e confiabilidade",
+          "enunciado": "Compare A e B em uma tabela: fato, número, período, autoria, fonte e o que precisa ser verificado. Depois escolha com o professor dois relatos reais sobre o mesmo fato em veículos distintos. Registre título, data, endereço ou referência impressa e origem das informações. Identifique convergências, divergências e eventual dependência entre as fontes.",
+          "gabarito": "A: 18 no primeiro dia, data e fonte declaradas; B: 80 todo dia sem fonte verificável no material. Não inventar um terceiro número. Na comparação real, exigir referências efetivas e explicar como avaliar a confiabilidade, inclusive quando os dois textos derivam da mesma fonte. A simulação não comprova sozinha execução dessa tarefa.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "A: 18 no primeiro dia, data e fonte declaradas; B: 80 todo dia sem fonte verificável no material. Não inventar um terceiro número. Na comparação real, exigir referências efetivas e explicar como avaliar a confiabilidade, inclusive quando os dois textos derivam da mesma fonte. A simulação não comprova sozinha execução dessa tarefa.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP03"
+          ],
+          "atividadeOrigem": "lip.ef06.leitura_e_generos.comparar_veiculos#comparar_veiculos.producao"
+        },
+        {
+          "titulo": "Fato, afirmação verificável e opinião",
+          "enunciado": "Localize uma afirmação factual e uma opinião em partes diferentes do texto. Explique a relação entre elas e como verificar a afirmação. Acrescente uma avaliação pessoal com razão explícita, sem apresentá-la como dado coletado. Depois encontre em uma notícia selecionada com o professor uma fala opinativa citada e identifique quem a enunciou.",
+          "gabarito": "Conferir a classificação contextual: abertura e número de participantes são verificáveis por horários e registros; melhor projeto é avaliação pessoal. A opinião deve ser atribuída à voz que a expressa, sem transferi-la automaticamente ao repórter. Na tarefa real, exigir referência ao trecho e à notícia.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Conferir a classificação contextual: abertura e número de participantes são verificáveis por horários e registros; melhor projeto é avaliação pessoal. A opinião deve ser atribuída à voz que a expressa, sem transferi-la automaticamente ao repórter. Na tarefa real, exigir referência ao trecho e à notícia.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP04"
+          ],
+          "atividadeOrigem": "lip.ef06.leitura_e_generos.fato_e_opiniao#fato_e_opiniao.producao"
+        },
+        {
+          "titulo": "Tese, razões e resposta argumentada",
+          "enunciado": "Identifique a tese e duas partes que a sustentam ou desenvolvem. Avalie o alcance da experiência citada. Escreva uma resposta de seis a oito linhas concordando, discordando ou concordando parcialmente, com duas razões e uma pergunta de verificação. Revise para retirar ataques pessoais e generalizações sem apoio.",
+          "gabarito": "Tese: ampliar divulgação; experiência da turma e utilidade de avisos são razões/proposta. A experiência é limitada a um grupo e não pode ser generalizada automaticamente. Exigir resposta com posição explícita, duas razões pertinentes e pergunta verificável, aceitando posições distintas bem justificadas.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Tese: ampliar divulgação; experiência da turma e utilidade de avisos são razões/proposta. A experiência é limitada a um grupo e não pode ser generalizada automaticamente. Exigir resposta com posição explícita, duas razões pertinentes e pergunta verificável, aceitando posições distintas bem justificadas.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP05"
+          ],
+          "atividadeOrigem": "lip.ef06.leitura_e_generos.tese_e_argumentos#tese_e_argumentos.producao"
+        },
+        {
+          "titulo": "Fato central, circunstâncias e decorrências",
+          "enunciado": "Escreva um resumo de duas frases com fato central, circunstâncias informadas e uma decorrência. Faça uma lista de duas perguntas que a notícia não responde. Marque no texto o que já ocorreu e o que é apenas anunciado para o futuro. Não acrescente dados inexistentes.",
+          "gabarito": "Resumo deve informar abertura da hora extra no turno da tarde e os 18 participantes do primeiro dia, com contexto temporal e fonte quando pertinente. Pode perguntar sobre outros dias, duração exata do atendimento ou critérios de avaliação. Distinguir anúncio futuro de resultado efetivo. Não inferir sucesso em longo prazo.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Resumo deve informar abertura da hora extra no turno da tarde e os 18 participantes do primeiro dia, com contexto temporal e fonte quando pertinente. Pode perguntar sobre outros dias, duração exata do atendimento ou critérios de avaliação. Distinguir anúncio futuro de resultado efetivo. Não inferir sucesso em longo prazo.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF69LP03"
+          ],
+          "atividadeOrigem": "lip.ef06.leitura_e_generos.noticia_fato_central#noticia_fato_central.producao"
+        },
+        {
+          "titulo": "Prescrição, causa, descrição, exposição e ordenação",
+          "enunciado": "Compare A–E: identifique a função de cada trecho e cite o recurso que produz o efeito. Reescreva D invertendo os eventos e explique a mudança. Produza um pequeno boletim que combine uma orientação, uma descrição e uma explicação causal coerente. Indique quais causas são dadas como ficção, sem inventar apuração.",
+          "gabarito": "A: prescrição, verbos de orientação; B: descrição, adjetivos; C: exposição, explicação da função; D: ordenação temporal, primeiro/depois; E: causalidade, porque e relação entre manutenção e mudança. Inverter D muda a sequência narrada e pode exigir reformulação para coerência. Conferir boletim real com as três funções e justificativas, não apenas rótulos.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "A: prescrição, verbos de orientação; B: descrição, adjetivos; C: exposição, explicação da função; D: ordenação temporal, primeiro/depois; E: causalidade, porque e relação entre manutenção e mudança. Inverter D muda a sequência narrada e pode exigir reformulação para coerência. Conferir boletim real com as três funções e justificativas, não apenas rótulos.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP37"
+          ],
+          "atividadeOrigem": "lip.ef06.leitura_e_generos.sequencias_textuais#sequencias_textuais.producao"
+        }
+      ],
+      "correcao": "Docente com devolutiva individual; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF67LP01",
+        "questoes": [
+          "lip.ef06.leitura_e_generos.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.leitura_e_generos.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.leitura_e_generos.contexto_do_jornalismo#contexto_do_jornalismo.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP02",
+        "questoes": [
+          "lip.ef06.leitura_e_generos.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.leitura_e_generos.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.leitura_e_generos.o_espaco_do_leitor#o_espaco_do_leitor.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP03",
+        "questoes": [
+          "lip.ef06.leitura_e_generos.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.leitura_e_generos.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.leitura_e_generos.comparar_veiculos#comparar_veiculos.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP04",
+        "questoes": [
+          "lip.ef06.leitura_e_generos.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.leitura_e_generos.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.leitura_e_generos.fato_e_opiniao#fato_e_opiniao.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP05",
+        "questoes": [
+          "lip.ef06.leitura_e_generos.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.leitura_e_generos.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.leitura_e_generos.tese_e_argumentos#tese_e_argumentos.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP37",
+        "questoes": [
+          "lip.ef06.leitura_e_generos.prova.07"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.leitura_e_generos.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.leitura_e_generos.sequencias_textuais#sequencias_textuais.producao"
+        ]
+      },
+      {
+        "bncc": "EF69LP03",
+        "questoes": [
+          "lip.ef06.leitura_e_generos.prova.06"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.leitura_e_generos.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.leitura_e_generos.noticia_fato_central#noticia_fato_central.producao"
+        ]
+      }
+    ]
   },
   "lip.ef06.lingua_texto_e_contexto.prova": {
     "id": "lip.ef06.lingua_texto_e_contexto.prova",

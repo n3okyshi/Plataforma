@@ -19,7 +19,14 @@ registrarTeoria({
   "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica": "<h2>Acentuação: tonicidade e regras</h2><p>Sílaba tônica é a pronunciada com maior destaque. Toda palavra com mais de uma sílaba tem uma posição de tonicidade na pronúncia, mas nem toda palavra recebe acento gráfico. Oxítonas têm a última sílaba tônica; paroxítonas, a penúltima; proparoxítonas, a antepenúltima. Neste recorte: todas as proparoxítonas são acentuadas; acentuam-se oxítonas terminadas em a, e, o, com ou sem s, e em em/ens; entre as paroxítonas, estudaremos as terminadas em l, r, x, i/is e um/uns. Há outras regras, a consultar conforme a dúvida.</p><h3>Exemplo comentado</h3><p>Café é oxítona terminada em e; também, oxítona terminada em em; fácil, paroxítona terminada em l; lápis, paroxítona terminada em is; música, proparoxítona. Livro é paroxítona e não recebe acento gráfico por essa terminação. Ideia e heroico não têm acento nos ditongos abertos ei/oi de palavras paroxítonas; herói conserva o acento como oxítona com ditongo aberto. A tonicidade e a terminação precisam ser observadas juntas.</p><h3>Produza e revise</h3><p>Revise “No sabado, a turma ouviu musica e tomou cafe. Depois, usou um lapis para registrar uma ideia”. Marque a sílaba tônica de sábado, música, café, lápis e ideia; justifique os acentos presentes ou ausentes. Escreva duas novas frases empregando uma oxítona e uma proparoxítona acentuadas.</p>",
   "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen": "<h2>Hífen: padrões e consulta</h2><p>O hífen participa da grafia de algumas palavras e ligações. Não é o mesmo sinal que o travessão de diálogo. Nem toda palavra composta tem hífen: guarda-chuva tem, passatempo não. Para algumas formações com prefixos terminados em vogal, o encontro com a mesma vogal pede hífen, como micro-ondas. Com vogais diferentes, ocorre junção em autoescola. Antes de r ou s, esses prefixos podem exigir duplicação da consoante: antirracista e minissaia. Essas orientações não cobrem todos os prefixos; consulte a palavra quando houver dúvida.</p><h3>Exemplo comentado</h3><p>Anti-higiênico mantém hífen antes de h; micro-ondas separa vogais iguais; autoescola junta vogais diferentes. Minissaia duplica s. Ex-aluno tem hífen; fim de semana não. Não generalize a regra de vogais iguais para todos os casos: cooperar é escrito junto. Nesta aula, a avaliação se limita a exemplos e padrões explicitamente estudados.</p><h3>Produza e revise</h3><p>Organize micro-ondas, autoescola, minissaia, anti-higiênico, ex-aluno e fim de semana em uma tabela: grafia, explicação e frase autoral. Compare micro-ondas com cooperar e explique por que uma regra parcial não elimina a necessidade de consulta. Revise a tabela após a devolutiva.</p>",
   "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas": "<h2>Palavras parecidas: escolha pelo contexto</h2><p>Parônimas são palavras parecidas na forma e na pronúncia, mas com sentidos diferentes, como comprimento (extensão) e cumprimento (saudação ou realização de algo). Homônimas têm coincidência de som e/ou escrita com sentidos diferentes: acento/assento soam da mesma maneira em muitas variedades do português, mas indicam coisas distintas. A classificação não substitui a leitura: as duas formas podem existir no dicionário e no corretor, mas só uma ser adequada à frase. Este recorte trabalha escrita contextualizada, não a habilidade de comparar séries de sinônimos.</p><h3>Exemplo comentado</h3><p>“Medi o comprimento da mesa” trata de extensão. “Enviei um cumprimento à colega” trata de saudação. “A palavra tem acento” refere-se a sinal gráfico; “O assento está livre” refere-se a lugar para sentar. Retificar é corrigir; ratificar é confirmar. Uma troca entre palavras existentes pode alterar o sentido sem produzir uma sequência de letras inexistente.</p><h3>Produza e revise</h3><p>Escreva um pequeno relato com comprimento/cumprimento e acento/assento, usando cada palavra em sentido adequado. Depois revise “O assento da palavra está errado” e “Medi o cumprimento do corredor”, explicando por que um corretor automático poderia não detectar o problema.</p>",
+  "lip.ef06.leitura_e_generos.contexto_do_jornalismo": "<h2>Hiperlinks no texto noticioso</h2><p>Um hiperlink relaciona um trecho clicável, chamado texto-âncora, a um destino. Em notícias digitais, pode levar a um documento, contexto ou outra notícia. O leitor não precisa seguir uma ordem única, mas deve verificar o destino e voltar à notícia. Um link não prova sozinho a confiabilidade: também pode levar a publicidade ou a um documento que não sustenta a afirmação. Antes de abrir, observe a indicação de destino. Textos-âncora informativos ajudam mais que um genérico “clique aqui”.</p><h3>Exemplo comentado</h3><p><strong>Miniportal autoral fictício, para teste.</strong> Notícia: “A Escola Horizonte abriu uma hora extra de biblioteca. Veja o <a href=\"#leitura-registro\">registro de entrada</a> e o <a href=\"#leitura-contexto\">contexto da mudança</a>.” <h4 id=\"leitura-registro\">Registro de entrada — simulação</h4><p>No primeiro dia, 18 estudantes usaram a hora adicional. Não há dados de outros dias.</p><h4 id=\"leitura-contexto\">Contexto — simulação</h4><p>O horário adicional atende a um pedido do conselho de estudantes. Ainda será avaliado após quatro semanas.</p><p>Os dois links são internos e reais: levam a trechos desta aula. A rede pública também possui links para outros sites, que exigem verificar domínio e procedência. Aqui não há documento externo nem dado coletado de verdade.</p></p><h3>Produza e revise</h3><p>Acione os dois links e registre o texto-âncora, o destino e a informação acrescentada à notícia. Explique por que o registro do primeiro dia não basta para avaliar quatro semanas. Planeje no papel uma notícia com três links: indique seus destinos e justifique a ordem de leitura escolhida.</p>",
   "lip.ef06.lingua_texto_e_contexto.contexto_de_circulacao": "<h2>Um fato, diferentes gêneros</h2><p>A notícia apresenta um acontecimento relevante para um público e procura informar o que ocorreu, quem se envolveu, onde e quando, com fontes verificáveis. Uma reportagem pode partir desse fato e aprofundá-lo com contexto, entrevistas e dados. Um artigo de opinião defende uma posição por argumentos; um editorial expressa a posição editorial do veículo. Notícias também têm escolhas, mas não se confundem com textos que assumem como propósito principal defender uma tese.</p><h3>Dossiê fictício da biblioteca</h3><p><strong>Notícia:</strong> “Escola Horizonte amplia horário da biblioteca. No primeiro dia, 18 estudantes utilizaram a hora extra, segundo o registro de entrada.”</p><p><strong>Reportagem:</strong> “Quem consegue usar a biblioteca? A equipe ouviu estudantes dos dois turnos, comparou horários e consultou registros de quatro semanas para investigar barreiras de acesso.”</p><p><strong>Artigo de opinião:</strong> “Defendo ampliar também a divulgação: um novo horário só ajuda quando as turmas sabem que ele existe.”</p><p>A notícia é central nesse conjunto porque apresenta o acontecimento que dá origem ao aprofundamento e ao debate. A reportagem não é apenas uma notícia maior: sua investigação amplia o contexto. O artigo propõe uma posição sobre o fato.</p><h3>Suporte e recepção</h3><p>Os três podem circular em jornal impresso ou digital. O suporte não define sozinho o gênero. Ao receber uma captura de tela, procure autoria, data, veículo e publicação completa; cortes podem retirar contexto. Uma chamada de rede social não substitui a leitura da notícia.</p><h3>Exemplo comentado</h3><p>Para saber o que mudou na biblioteca, comece pela notícia; para investigar o acesso de diferentes grupos, procure a reportagem; para conhecer uma defesa de mudança, leia o artigo. Depois confronte as informações.</p>",
+  "lip.ef06.leitura_e_generos.o_espaco_do_leitor": "<h2>Participação ética no espaço do leitor</h2><p>Cartas, comentários e contribuições permitem que leitores participem do debate. Antes de escrever, identifique o texto ao qual responde, a finalidade da seção e suas regras. Discordar de uma ideia não autoriza atacar a pessoa. É preciso distinguir informação apurada, opinião e dúvida. Evite expor dados pessoais de colegas. Publicar exige um espaço de circulação definido e revisão; preparar um texto não equivale a publicá-lo.</p><h3>Exemplo comentado</h3><p><strong>Mural fictício da turma.</strong> Regra da seção: “Contribuições sobre o cotidiano escolar, até 80 palavras, sem nomes completos de estudantes; informar o texto respondido.” Notícia-base: “A biblioteca abriu por uma hora adicional.” Comentário A: “Quem discorda não entende nada.” Comentário B: “Apoio a mudança, mas proponho divulgar o horário nos dois turnos; minha turma ainda tinha dúvidas.” B apresenta posição e razão sem desqualificar pessoas. Isso não torna sua experiência prova sobre toda a escola.</p><h3>Produza e revise</h3><p>Analise os comentários e a regra. Produza uma nota sobre um acontecimento escolar realmente verificado, indicando quando ocorreu e como foi conferido; se usar ficção, sinalize e mantenha-a apenas como ensaio. Prepare também um comentário respeitoso sobre a notícia da biblioteca. Com revisão docente, faça a nota real circular em mural ou espaço escolar autorizado e registre a devolutiva, sem dados pessoais desnecessários.</p>",
+  "lip.ef06.leitura_e_generos.comparar_veiculos": "<h2>Comparar informações e confiabilidade</h2><p>Comparar fontes exige identificar o mesmo fato, datas, autoria, documentos e limites. Dois textos parecidos não são necessariamente duas confirmações: um pode apenas copiar o outro. Separe divergência factual de diferença de recorte. Ausência de informação não autoriza preencher lacunas por suposição. Uma simulação ensina procedimentos, mas não substitui a comparação de veículos reais na avaliação completa.</p><h3>Exemplo comentado</h3><p><strong>Dois boletins fictícios.</strong> A, assinado pela equipe escolar e datado de 21/10: “O novo horário começou em 20/10; o registro indica 18 estudantes no primeiro dia.” B, postagem sem assinatura nem data: “Biblioteca recebe 80 alunos todo dia no novo horário!” A informa origem e período; B não fornece evidência para seu número nem para a frequência diária. Isso justifica maior cautela com B, não a certeza automática de que todo texto assinado é verdadeiro.</p><h3>Produza e revise</h3><p>Compare A e B em uma tabela: fato, número, período, autoria, fonte e o que precisa ser verificado. Depois escolha com o professor dois relatos reais sobre o mesmo fato em veículos distintos. Registre título, data, endereço ou referência impressa e origem das informações. Identifique convergências, divergências e eventual dependência entre as fontes.</p>",
+  "lip.ef06.leitura_e_generos.fato_e_opiniao": "<h2>Fato, afirmação verificável e opinião</h2><p>Uma afirmação factual pode ser confrontada com registros e evidências, mas pode estar incorreta. Opinião expressa avaliação, preferência ou posição. Não confunda “é verificável” com “foi comprovado”. Um texto pode misturar relato de fatos e avaliações em trechos distantes; precisamos reler, relacionando a opinião ao fato a que se refere.</p><h3>Exemplo comentado</h3><p><strong>Texto autoral fictício.</strong> Trecho 1: “A escola abriu a biblioteca por mais uma hora.” Trecho 2: “O registro do primeiro dia anotou 18 participantes.” Trecho 3: “Para mim, esse foi o melhor projeto do ano.” Os dois primeiros apresentam afirmações factuais no universo da simulação; o terceiro avalia o projeto. Melhor não é uma medida definida nesse comentário. A opinião pode ser debatida com razões, sem se tornar um número de registro.</p><h3>Produza e revise</h3><p>Localize uma afirmação factual e uma opinião em partes diferentes do texto. Explique a relação entre elas e como verificar a afirmação. Acrescente uma avaliação pessoal com razão explícita, sem apresentá-la como dado coletado. Depois encontre em uma notícia selecionada com o professor uma fala opinativa citada e identifique quem a enunciou.</p>",
+  "lip.ef06.leitura_e_generos.tese_e_argumentos": "<h2>Tese, razões e resposta argumentada</h2><p>Tese é a posição defendida; argumentos são razões que procuram sustentá-la. Uma razão pode ser pertinente ou insuficiente, e precisa ser examinada. Identificar a tese não obriga a concordar. Ao responder, explique o ponto de concordância ou discordância e avalie as razões. Ataques pessoais e repetição da tese não substituem argumentos.</p><h3>Exemplo comentado</h3><p><strong>Carta autoral fictícia.</strong> “Defendo divulgar melhor o horário da biblioteca. Minha turma soube da mudança depois de uma semana e pode haver outras na mesma situação. Um aviso nos dois turnos e nos canais escolares ajudaria a orientar o acesso.” A tese é melhorar a divulgação. A experiência da turma é uma razão, mas não comprova que todas as turmas desconheciam o horário. A proposta oferece um caminho de ação que ainda pode ser avaliado.</p><h3>Produza e revise</h3><p>Identifique a tese e duas partes que a sustentam ou desenvolvem. Avalie o alcance da experiência citada. Escreva uma resposta de seis a oito linhas concordando, discordando ou concordando parcialmente, com duas razões e uma pergunta de verificação. Revise para retirar ataques pessoais e generalizações sem apoio.</p>",
+  "lip.ef06.leitura_e_generos.noticia_fato_central": "<h2>Fato central, circunstâncias e decorrências</h2><p>Identificar o fato central de uma notícia exige distinguir o acontecimento principal de detalhes, avaliações e consequências. Pergunte o que ocorreu, quem participou, quando e onde. Nem toda notícia informa todas as circunstâncias; registre o que falta. Separe uma decorrência efetivamente relatada de uma previsão. Este é o recorte noticioso da habilidade, que também abrange outros gêneros a trabalhar em unidades posteriores.</p><h3>Exemplo comentado</h3><p><strong>Notícia autoral fictícia.</strong> “Escola Horizonte abre hora extra de biblioteca. Na segunda-feira, 20 de outubro, a escola iniciou uma hora adicional de atendimento no turno da tarde. Dezoito estudantes usaram o serviço no primeiro dia, segundo o registro de entrada. A equipe anunciou que avaliará a experiência após quatro semanas. Por enquanto, não há dados dos demais dias.” Fato central: início do horário adicional. O uso por 18 estudantes é uma decorrência relatada; a avaliação em quatro semanas é ação futura anunciada, não resultado já observado.</p><h3>Produza e revise</h3><p>Escreva um resumo de duas frases com fato central, circunstâncias informadas e uma decorrência. Faça uma lista de duas perguntas que a notícia não responde. Marque no texto o que já ocorreu e o que é apenas anunciado para o futuro. Não acrescente dados inexistentes.</p>",
+  "lip.ef06.leitura_e_generos.sequencias_textuais": "<h2>Prescrição, causa, descrição, exposição e ordenação</h2><p>Um gênero pode combinar sequências com funções diferentes. Prescrição orienta ações e pode usar imperativos; descrição caracteriza; exposição apresenta informações e explicações; ordenação de eventos organiza uma sequência temporal. Relações de causalidade associam razões e consequências, mas um conectivo não prova que a causa seja real. Analise o efeito no texto, em vez de classificar tudo por uma palavra isolada.</p><h3>Exemplo comentado</h3><p><strong>Conjunto autoral.</strong> A: “Registre o empréstimo e devolva o livro na data indicada.” orienta conduta. B: “A sala é clara, ampla e silenciosa.” caracteriza espaço. C: “O catálogo organiza informações de autoria e título; assim, permite localizar obras.” explica uma função. D: “Primeiro abrimos o catálogo; depois localizamos o livro.” ordena eventos. E: “A leitura foi transferida porque a sala estava em manutenção.” apresenta uma razão. Cada recurso guia uma compreensão diferente, mesmo quando todos aparecem no mesmo boletim.</p><h3>Produza e revise</h3><p>Compare A–E: identifique a função de cada trecho e cite o recurso que produz o efeito. Reescreva D invertendo os eventos e explique a mudança. Produza um pequeno boletim que combine uma orientação, uma descrição e uma explicação causal coerente. Indique quais causas são dadas como ficção, sem inventar apuração.</p>",
   "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao": "<h2>Uma língua, muitos usos</h2><p>O português varia entre regiões, gerações, grupos sociais e situações. “Mandioca”, “aipim” e “macaxeira” podem nomear o mesmo alimento em diferentes comunidades. A pronúncia também varia. Nenhum sotaque torna alguém mais inteligente ou mais digno de respeito.</p><p>A norma-padrão é um modelo de referência para certos usos formais; não é a reprodução exata da fala de todas as pessoas escolarizadas. As variedades efetivamente faladas possuem regularidades. Aprender convenções valorizadas socialmente amplia possibilidades de participação, sem exigir abandonar a identidade linguística.</p><h3>Uma situação para analisar</h3><p>Em um diálogo fictício, Lia diz: “Lá em casa chamamos de macaxeira”. Um colega responde: “Então sua família não sabe falar”. O problema não está na palavra de Lia: o colega desqualifica os falantes por sua variedade. Isso é preconceito linguístico.</p><p>Outra coisa é revisar um aviso que exige convenções formais, explicando a escolha sem humilhar ninguém. Adequação depende de interlocutores, finalidade e gênero; não basta classificar toda fala como informal e toda escrita como formal.</p><h3>Exemplo comentado</h3><p>Responder “Na minha região dizemos mandioca; macaxeira também é uma denominação usada em outras comunidades” reconhece a variação e não estabelece uma hierarquia de pessoas.</p>",
   "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao": "<h2>Revisar com finalidade</h2><p>Para escrever um pedido à direção, precisamos tornar claros o destinatário, a solicitação e seus motivos. Quando o gênero e a situação pedem norma-padrão, podemos revisar concordância, pontuação e grafia, sem desqualificar quem produziu a primeira versão.</p><h3>Da conversa ao pedido</h3><p><strong>Mensagem fictícia entre colegas:</strong> “A gente quer mais livros. As turma vai mandar os pedido amanhã.”</p><p><strong>Versão para a direção:</strong> “À direção: solicitamos a ampliação do acervo da biblioteca. As turmas enviarão os pedidos amanhã. Agradecemos a atenção.”</p><p>“A gente quer” tem concordância compatível com a norma-padrão; sua troca por “solicitamos” foi uma escolha de registro, não uma correção obrigatória. Em “as turma vai”, a revisão formal estabelece “as turmas vão”; “os pedido” passa a “os pedidos”. A forma “enviarão” também explicita uma ação futura. Não altere a data, a solicitação ou o responsável ao revisar.</p><h3>Procedimento</h3><ol><li>Identifique destinatário e finalidade.</li><li>Confira se as informações estão completas.</li><li>Revise concordância, grafia e pontuação.</li><li>Explique duas escolhas e compare o sentido com o original.</li></ol><p>A fala também pode ser planejada e formal, como em uma apresentação ao conselho escolar. Uma mensagem escrita a um amigo pode admitir outro registro.</p>",
   "lip.ef06.lingua_texto_e_contexto.comunicacao_e_linguagem": "<h2>Comunicar com palavras e outros recursos</h2><p>Esta aula é um apoio complementar de conceitos; não recebe artificialmente um código BNCC jornalístico. Linguagem verbal utiliza palavras; recursos não verbais podem envolver cores, imagens e gestos. Um cartaz pode combinar palavras e imagens. Línguas de sinais são línguas com estrutura própria: não devem ser reduzidas a gestos avulsos.</p><h3>Exemplo autoral</h3><p>Um aviso escrito “Biblioteca aberta até 17h” informa um horário. Um desenho de livro pode ajudar a localizar o serviço, mas sozinho não informa que o fechamento será às 17h. Ao combinar o desenho e a frase, os recursos se complementam.</p><p>Para planejar uma mensagem, defina quem a produz, quem precisa recebê-la, qual informação é necessária e em que suporte circulará. Contraste e tamanho da letra influenciam a leitura; não dependa só da cor para transmitir a informação.</p><h3>No caderno</h3><p>Recursos distintos podem atuar juntos. Interpretá-los requer contexto; uma mesma cor não tem significado universal em toda situação.</p>",
@@ -2146,6 +2153,95 @@ registrarAula({
     "preRequisitos": [],
     "proximosPassos": []
   },
+  "lip.ef06.leitura_e_generos.contexto_do_jornalismo": {
+    "id": "lip.ef06.leitura_e_generos.contexto_do_jornalismo",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 29,
+    "unidade": "Leitura e Gêneros",
+    "titulo": "Hiperlinks no texto noticioso",
+    "bncc": [
+      "EF67LP01"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Acione os dois links e registre o texto-âncora, o destino e a informação acrescentada à notícia. Explique por que o registro do primeiro dia não basta para avaliar quatro semanas. Planeje no papel uma notícia com três links: indique seus destinos e justifique a ordem de leitura escolhida."
+      ],
+      "resumo": "Hiperlinks no texto noticioso",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Hiperlinks no texto noticioso</h2><p>Um hiperlink relaciona um trecho clicável, chamado texto-âncora, a um destino. Em notícias digitais, pode levar a um documento, contexto ou outra notícia. O leitor não precisa seguir uma ordem única, mas deve verificar o destino e voltar à notícia. Um link não prova sozinho a confiabilidade: também pode levar a publicidade ou a um documento que não sustenta a afirmação. Antes de abrir, observe a indicação de destino. Textos-âncora informativos ajudam mais que um genérico “clique aqui”.</p><h3>Exemplo comentado</h3><p><strong>Miniportal autoral fictício, para teste.</strong> Notícia: “A Escola Horizonte abriu uma hora extra de biblioteca. Veja o <a href=\"#leitura-registro\">registro de entrada</a> e o <a href=\"#leitura-contexto\">contexto da mudança</a>.” <h4 id=\"leitura-registro\">Registro de entrada — simulação</h4><p>No primeiro dia, 18 estudantes usaram a hora adicional. Não há dados de outros dias.</p><h4 id=\"leitura-contexto\">Contexto — simulação</h4><p>O horário adicional atende a um pedido do conselho de estudantes. Ainda será avaliado após quatro semanas.</p><p>Os dois links são internos e reais: levam a trechos desta aula. A rede pública também possui links para outros sites, que exigem verificar domínio e procedência. Aqui não há documento externo nem dado coletado de verdade.</p></p><h3>Produza e revise</h3><p>Acione os dois links e registre o texto-âncora, o destino e a informação acrescentada à notícia. Explique por que o registro do primeiro dia não basta para avaliar quatro semanas. Planeje no papel uma notícia com três links: indique seus destinos e justifique a ordem de leitura escolhida.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "contexto_do_jornalismo.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual é a função do texto-âncora de um hiperlink?",
+        "alternativas": [
+          "Substituir toda verificação.",
+          "Indicar ao leitor o conteúdo ou destino associado ao trecho clicável.",
+          "Garantir que o destino é verdadeiro.",
+          "Impedir a navegação."
+        ],
+        "correta": 1,
+        "explicacao": "<strong>Miniportal autoral fictício, para teste.</strong> Notícia: “A Escola Horizonte abriu uma hora extra de biblioteca. Veja o <a href=\"#leitura-registro\">registro de entrada</a> e o <a href=\"#leitura-contexto\">contexto da mudança</a>.” <h4 id=\"leitura-registro\">Registro de entrada — simulação</h4><p>No primeiro dia, 18 estudantes usaram a hora adicional. Não há dados de outros dias.</p><h4 id=\"leitura-contexto\">Contexto — simulação</h4><p>O horário adicional atende a um pedido do conselho de estudantes. Ainda será avaliado após quatro semanas.</p><p>Os dois links são internos e reais: levam a trechos desta aula. A rede pública também possui links para outros sites, que exigem verificar domínio e procedência. Aqui não há documento externo nem dado coletado de verdade.</p>",
+        "bncc": [
+          "EF67LP01"
+        ]
+      },
+      {
+        "id": "contexto_do_jornalismo.producao",
+        "tipo": "discursiva",
+        "enunciado": "Acione os dois links e registre o texto-âncora, o destino e a informação acrescentada à notícia. Explique por que o registro do primeiro dia não basta para avaliar quatro semanas. Planeje no papel uma notícia com três links: indique seus destinos e justifique a ordem de leitura escolhida.",
+        "gabarito": "Os links levam ao registro e ao contexto desta aula. O primeiro informa 18 participantes no primeiro dia; o segundo, motivação e avaliação futura. Exigir navegação real e registro, além de plano hipertextual com três âncoras claras e destinos descritos. Não apresentar a simulação como fonte independente ou apuração real.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Os links levam ao registro e ao contexto desta aula. O primeiro informa 18 participantes no primeiro dia; o segundo, motivação e avaliação futura. Exigir navegação real e registro, além de plano hipertextual com três âncoras claras e destinos descritos. Não apresentar a simulação como fonte independente ou apuração real.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP01"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
   "lip.ef06.lingua_texto_e_contexto.contexto_de_circulacao": {
     "id": "lip.ef06.lingua_texto_e_contexto.contexto_de_circulacao",
     "componente": "lip",
@@ -2239,6 +2335,540 @@ registrarAula({
       "autor": "produção autoral assistida",
       "estado": "piloto",
       "revisao": "Conferência conceitual assistida; homologação docente e aplicação pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.leitura_e_generos.o_espaco_do_leitor": {
+    "id": "lip.ef06.leitura_e_generos.o_espaco_do_leitor",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 30,
+    "unidade": "Leitura e Gêneros",
+    "titulo": "Participação ética no espaço do leitor",
+    "bncc": [
+      "EF67LP02"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Analise os comentários e a regra. Produza uma nota sobre um acontecimento escolar realmente verificado, indicando quando ocorreu e como foi conferido; se usar ficção, sinalize e mantenha-a apenas como ensaio. Prepare também um comentário respeitoso sobre a notícia da biblioteca. Com revisão docente, faça a nota real circular em mural ou espaço escolar autorizado e registre a devolutiva, sem dados pessoais desnecessários."
+      ],
+      "resumo": "Participação ética no espaço do leitor",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Participação ética no espaço do leitor</h2><p>Cartas, comentários e contribuições permitem que leitores participem do debate. Antes de escrever, identifique o texto ao qual responde, a finalidade da seção e suas regras. Discordar de uma ideia não autoriza atacar a pessoa. É preciso distinguir informação apurada, opinião e dúvida. Evite expor dados pessoais de colegas. Publicar exige um espaço de circulação definido e revisão; preparar um texto não equivale a publicá-lo.</p><h3>Exemplo comentado</h3><p><strong>Mural fictício da turma.</strong> Regra da seção: “Contribuições sobre o cotidiano escolar, até 80 palavras, sem nomes completos de estudantes; informar o texto respondido.” Notícia-base: “A biblioteca abriu por uma hora adicional.” Comentário A: “Quem discorda não entende nada.” Comentário B: “Apoio a mudança, mas proponho divulgar o horário nos dois turnos; minha turma ainda tinha dúvidas.” B apresenta posição e razão sem desqualificar pessoas. Isso não torna sua experiência prova sobre toda a escola.</p><h3>Produza e revise</h3><p>Analise os comentários e a regra. Produza uma nota sobre um acontecimento escolar realmente verificado, indicando quando ocorreu e como foi conferido; se usar ficção, sinalize e mantenha-a apenas como ensaio. Prepare também um comentário respeitoso sobre a notícia da biblioteca. Com revisão docente, faça a nota real circular em mural ou espaço escolar autorizado e registre a devolutiva, sem dados pessoais desnecessários.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "o_espaco_do_leitor.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual comentário participa eticamente do debate?",
+        "alternativas": [
+          "Todos que discordam são incapazes.",
+          "Apoio a ampliação e proponho divulgar o horário nos dois turnos.",
+          "Vou expor o endereço de quem discorda.",
+          "Não preciso ler a notícia para atacar o autor."
+        ],
+        "correta": 1,
+        "explicacao": "<strong>Mural fictício da turma.</strong> Regra da seção: “Contribuições sobre o cotidiano escolar, até 80 palavras, sem nomes completos de estudantes; informar o texto respondido.” Notícia-base: “A biblioteca abriu por uma hora adicional.” Comentário A: “Quem discorda não entende nada.” Comentário B: “Apoio a mudança, mas proponho divulgar o horário nos dois turnos; minha turma ainda tinha dúvidas.” B apresenta posição e razão sem desqualificar pessoas. Isso não torna sua experiência prova sobre toda a escola.",
+        "bncc": [
+          "EF67LP02"
+        ]
+      },
+      {
+        "id": "o_espaco_do_leitor.producao",
+        "tipo": "discursiva",
+        "enunciado": "Analise os comentários e a regra. Produza uma nota sobre um acontecimento escolar realmente verificado, indicando quando ocorreu e como foi conferido; se usar ficção, sinalize e mantenha-a apenas como ensaio. Prepare também um comentário respeitoso sobre a notícia da biblioteca. Com revisão docente, faça a nota real circular em mural ou espaço escolar autorizado e registre a devolutiva, sem dados pessoais desnecessários.",
+        "gabarito": "Exigir posição respeitosa e vínculo ao texto respondido. Na nota, verificar fontes, data, fato e revisão. A circulação real no espaço autorizado e seu registro são evidências necessárias para avaliar publicação; um rascunho ou ensaio fictício não encerra essa dimensão de EF67LP02. A plataforma não publica automaticamente a produção.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir posição respeitosa e vínculo ao texto respondido. Na nota, verificar fontes, data, fato e revisão. A circulação real no espaço autorizado e seu registro são evidências necessárias para avaliar publicação; um rascunho ou ensaio fictício não encerra essa dimensão de EF67LP02. A plataforma não publica automaticamente a produção.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP02"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.leitura_e_generos.comparar_veiculos": {
+    "id": "lip.ef06.leitura_e_generos.comparar_veiculos",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 31,
+    "unidade": "Leitura e Gêneros",
+    "titulo": "Comparar informações e confiabilidade",
+    "bncc": [
+      "EF67LP03"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Compare A e B em uma tabela: fato, número, período, autoria, fonte e o que precisa ser verificado. Depois escolha com o professor dois relatos reais sobre o mesmo fato em veículos distintos. Registre título, data, endereço ou referência impressa e origem das informações. Identifique convergências, divergências e eventual dependência entre as fontes."
+      ],
+      "resumo": "Comparar informações e confiabilidade",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Comparar informações e confiabilidade</h2><p>Comparar fontes exige identificar o mesmo fato, datas, autoria, documentos e limites. Dois textos parecidos não são necessariamente duas confirmações: um pode apenas copiar o outro. Separe divergência factual de diferença de recorte. Ausência de informação não autoriza preencher lacunas por suposição. Uma simulação ensina procedimentos, mas não substitui a comparação de veículos reais na avaliação completa.</p><h3>Exemplo comentado</h3><p><strong>Dois boletins fictícios.</strong> A, assinado pela equipe escolar e datado de 21/10: “O novo horário começou em 20/10; o registro indica 18 estudantes no primeiro dia.” B, postagem sem assinatura nem data: “Biblioteca recebe 80 alunos todo dia no novo horário!” A informa origem e período; B não fornece evidência para seu número nem para a frequência diária. Isso justifica maior cautela com B, não a certeza automática de que todo texto assinado é verdadeiro.</p><h3>Produza e revise</h3><p>Compare A e B em uma tabela: fato, número, período, autoria, fonte e o que precisa ser verificado. Depois escolha com o professor dois relatos reais sobre o mesmo fato em veículos distintos. Registre título, data, endereço ou referência impressa e origem das informações. Identifique convergências, divergências e eventual dependência entre as fontes.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "comparar_veiculos.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual dado de A limita a comparação com a postagem B?",
+        "alternativas": [
+          "A usa somente o primeiro dia; B afirma uma frequência diária.",
+          "Ambos comprovam 80 diariamente.",
+          "Uma assinatura dispensa evidências.",
+          "A postagem sem data é necessariamente mais atual."
+        ],
+        "correta": 0,
+        "explicacao": "<strong>Dois boletins fictícios.</strong> A, assinado pela equipe escolar e datado de 21/10: “O novo horário começou em 20/10; o registro indica 18 estudantes no primeiro dia.” B, postagem sem assinatura nem data: “Biblioteca recebe 80 alunos todo dia no novo horário!” A informa origem e período; B não fornece evidência para seu número nem para a frequência diária. Isso justifica maior cautela com B, não a certeza automática de que todo texto assinado é verdadeiro.",
+        "bncc": [
+          "EF67LP03"
+        ]
+      },
+      {
+        "id": "comparar_veiculos.producao",
+        "tipo": "discursiva",
+        "enunciado": "Compare A e B em uma tabela: fato, número, período, autoria, fonte e o que precisa ser verificado. Depois escolha com o professor dois relatos reais sobre o mesmo fato em veículos distintos. Registre título, data, endereço ou referência impressa e origem das informações. Identifique convergências, divergências e eventual dependência entre as fontes.",
+        "gabarito": "A: 18 no primeiro dia, data e fonte declaradas; B: 80 todo dia sem fonte verificável no material. Não inventar um terceiro número. Na comparação real, exigir referências efetivas e explicar como avaliar a confiabilidade, inclusive quando os dois textos derivam da mesma fonte. A simulação não comprova sozinha execução dessa tarefa.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "A: 18 no primeiro dia, data e fonte declaradas; B: 80 todo dia sem fonte verificável no material. Não inventar um terceiro número. Na comparação real, exigir referências efetivas e explicar como avaliar a confiabilidade, inclusive quando os dois textos derivam da mesma fonte. A simulação não comprova sozinha execução dessa tarefa.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP03"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.leitura_e_generos.fato_e_opiniao": {
+    "id": "lip.ef06.leitura_e_generos.fato_e_opiniao",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 32,
+    "unidade": "Leitura e Gêneros",
+    "titulo": "Fato, afirmação verificável e opinião",
+    "bncc": [
+      "EF67LP04"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Localize uma afirmação factual e uma opinião em partes diferentes do texto. Explique a relação entre elas e como verificar a afirmação. Acrescente uma avaliação pessoal com razão explícita, sem apresentá-la como dado coletado. Depois encontre em uma notícia selecionada com o professor uma fala opinativa citada e identifique quem a enunciou."
+      ],
+      "resumo": "Fato, afirmação verificável e opinião",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Fato, afirmação verificável e opinião</h2><p>Uma afirmação factual pode ser confrontada com registros e evidências, mas pode estar incorreta. Opinião expressa avaliação, preferência ou posição. Não confunda “é verificável” com “foi comprovado”. Um texto pode misturar relato de fatos e avaliações em trechos distantes; precisamos reler, relacionando a opinião ao fato a que se refere.</p><h3>Exemplo comentado</h3><p><strong>Texto autoral fictício.</strong> Trecho 1: “A escola abriu a biblioteca por mais uma hora.” Trecho 2: “O registro do primeiro dia anotou 18 participantes.” Trecho 3: “Para mim, esse foi o melhor projeto do ano.” Os dois primeiros apresentam afirmações factuais no universo da simulação; o terceiro avalia o projeto. Melhor não é uma medida definida nesse comentário. A opinião pode ser debatida com razões, sem se tornar um número de registro.</p><h3>Produza e revise</h3><p>Localize uma afirmação factual e uma opinião em partes diferentes do texto. Explique a relação entre elas e como verificar a afirmação. Acrescente uma avaliação pessoal com razão explícita, sem apresentá-la como dado coletado. Depois encontre em uma notícia selecionada com o professor uma fala opinativa citada e identifique quem a enunciou.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "fato_e_opiniao.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual trecho exprime avaliação pessoal?",
+        "alternativas": [
+          "O registro anotou 18 participantes.",
+          "A biblioteca abriu às 14h.",
+          "Para mim, foi o melhor projeto do ano.",
+          "O evento ocorreu na terça-feira."
+        ],
+        "correta": 2,
+        "explicacao": "<strong>Texto autoral fictício.</strong> Trecho 1: “A escola abriu a biblioteca por mais uma hora.” Trecho 2: “O registro do primeiro dia anotou 18 participantes.” Trecho 3: “Para mim, esse foi o melhor projeto do ano.” Os dois primeiros apresentam afirmações factuais no universo da simulação; o terceiro avalia o projeto. Melhor não é uma medida definida nesse comentário. A opinião pode ser debatida com razões, sem se tornar um número de registro.",
+        "bncc": [
+          "EF67LP04"
+        ]
+      },
+      {
+        "id": "fato_e_opiniao.producao",
+        "tipo": "discursiva",
+        "enunciado": "Localize uma afirmação factual e uma opinião em partes diferentes do texto. Explique a relação entre elas e como verificar a afirmação. Acrescente uma avaliação pessoal com razão explícita, sem apresentá-la como dado coletado. Depois encontre em uma notícia selecionada com o professor uma fala opinativa citada e identifique quem a enunciou.",
+        "gabarito": "Conferir a classificação contextual: abertura e número de participantes são verificáveis por horários e registros; melhor projeto é avaliação pessoal. A opinião deve ser atribuída à voz que a expressa, sem transferi-la automaticamente ao repórter. Na tarefa real, exigir referência ao trecho e à notícia.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir a classificação contextual: abertura e número de participantes são verificáveis por horários e registros; melhor projeto é avaliação pessoal. A opinião deve ser atribuída à voz que a expressa, sem transferi-la automaticamente ao repórter. Na tarefa real, exigir referência ao trecho e à notícia.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP04"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.leitura_e_generos.tese_e_argumentos": {
+    "id": "lip.ef06.leitura_e_generos.tese_e_argumentos",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 33,
+    "unidade": "Leitura e Gêneros",
+    "titulo": "Tese, razões e resposta argumentada",
+    "bncc": [
+      "EF67LP05"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Identifique a tese e duas partes que a sustentam ou desenvolvem. Avalie o alcance da experiência citada. Escreva uma resposta de seis a oito linhas concordando, discordando ou concordando parcialmente, com duas razões e uma pergunta de verificação. Revise para retirar ataques pessoais e generalizações sem apoio."
+      ],
+      "resumo": "Tese, razões e resposta argumentada",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Tese, razões e resposta argumentada</h2><p>Tese é a posição defendida; argumentos são razões que procuram sustentá-la. Uma razão pode ser pertinente ou insuficiente, e precisa ser examinada. Identificar a tese não obriga a concordar. Ao responder, explique o ponto de concordância ou discordância e avalie as razões. Ataques pessoais e repetição da tese não substituem argumentos.</p><h3>Exemplo comentado</h3><p><strong>Carta autoral fictícia.</strong> “Defendo divulgar melhor o horário da biblioteca. Minha turma soube da mudança depois de uma semana e pode haver outras na mesma situação. Um aviso nos dois turnos e nos canais escolares ajudaria a orientar o acesso.” A tese é melhorar a divulgação. A experiência da turma é uma razão, mas não comprova que todas as turmas desconheciam o horário. A proposta oferece um caminho de ação que ainda pode ser avaliado.</p><h3>Produza e revise</h3><p>Identifique a tese e duas partes que a sustentam ou desenvolvem. Avalie o alcance da experiência citada. Escreva uma resposta de seis a oito linhas concordando, discordando ou concordando parcialmente, com duas razões e uma pergunta de verificação. Revise para retirar ataques pessoais e generalizações sem apoio.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "tese_e_argumentos.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual é a tese da carta apresentada?",
+        "alternativas": [
+          "Todas as turmas desconheciam o horário, com certeza.",
+          "A divulgação do horário deve melhorar.",
+          "A biblioteca deve fechar.",
+          "A escola já publicou uma pesquisa completa."
+        ],
+        "correta": 1,
+        "explicacao": "<strong>Carta autoral fictícia.</strong> “Defendo divulgar melhor o horário da biblioteca. Minha turma soube da mudança depois de uma semana e pode haver outras na mesma situação. Um aviso nos dois turnos e nos canais escolares ajudaria a orientar o acesso.” A tese é melhorar a divulgação. A experiência da turma é uma razão, mas não comprova que todas as turmas desconheciam o horário. A proposta oferece um caminho de ação que ainda pode ser avaliado.",
+        "bncc": [
+          "EF67LP05"
+        ]
+      },
+      {
+        "id": "tese_e_argumentos.producao",
+        "tipo": "discursiva",
+        "enunciado": "Identifique a tese e duas partes que a sustentam ou desenvolvem. Avalie o alcance da experiência citada. Escreva uma resposta de seis a oito linhas concordando, discordando ou concordando parcialmente, com duas razões e uma pergunta de verificação. Revise para retirar ataques pessoais e generalizações sem apoio.",
+        "gabarito": "Tese: ampliar divulgação; experiência da turma e utilidade de avisos são razões/proposta. A experiência é limitada a um grupo e não pode ser generalizada automaticamente. Exigir resposta com posição explícita, duas razões pertinentes e pergunta verificável, aceitando posições distintas bem justificadas.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Tese: ampliar divulgação; experiência da turma e utilidade de avisos são razões/proposta. A experiência é limitada a um grupo e não pode ser generalizada automaticamente. Exigir resposta com posição explícita, duas razões pertinentes e pergunta verificável, aceitando posições distintas bem justificadas.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP05"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.leitura_e_generos.noticia_fato_central": {
+    "id": "lip.ef06.leitura_e_generos.noticia_fato_central",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 34,
+    "unidade": "Leitura e Gêneros",
+    "titulo": "Fato central, circunstâncias e decorrências",
+    "bncc": [
+      "EF69LP03"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Escreva um resumo de duas frases com fato central, circunstâncias informadas e uma decorrência. Faça uma lista de duas perguntas que a notícia não responde. Marque no texto o que já ocorreu e o que é apenas anunciado para o futuro. Não acrescente dados inexistentes."
+      ],
+      "resumo": "Fato central, circunstâncias e decorrências",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Fato central, circunstâncias e decorrências</h2><p>Identificar o fato central de uma notícia exige distinguir o acontecimento principal de detalhes, avaliações e consequências. Pergunte o que ocorreu, quem participou, quando e onde. Nem toda notícia informa todas as circunstâncias; registre o que falta. Separe uma decorrência efetivamente relatada de uma previsão. Este é o recorte noticioso da habilidade, que também abrange outros gêneros a trabalhar em unidades posteriores.</p><h3>Exemplo comentado</h3><p><strong>Notícia autoral fictícia.</strong> “Escola Horizonte abre hora extra de biblioteca. Na segunda-feira, 20 de outubro, a escola iniciou uma hora adicional de atendimento no turno da tarde. Dezoito estudantes usaram o serviço no primeiro dia, segundo o registro de entrada. A equipe anunciou que avaliará a experiência após quatro semanas. Por enquanto, não há dados dos demais dias.” Fato central: início do horário adicional. O uso por 18 estudantes é uma decorrência relatada; a avaliação em quatro semanas é ação futura anunciada, não resultado já observado.</p><h3>Produza e revise</h3><p>Escreva um resumo de duas frases com fato central, circunstâncias informadas e uma decorrência. Faça uma lista de duas perguntas que a notícia não responde. Marque no texto o que já ocorreu e o que é apenas anunciado para o futuro. Não acrescente dados inexistentes.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "noticia_fato_central.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual é o fato central da notícia?",
+        "alternativas": [
+          "A avaliação já provou sucesso por quatro semanas.",
+          "A escola iniciou uma hora adicional de biblioteca.",
+          "Todos os estudantes passaram a frequentar a biblioteca.",
+          "A biblioteca deixou de registrar entradas."
+        ],
+        "correta": 1,
+        "explicacao": "<strong>Notícia autoral fictícia.</strong> “Escola Horizonte abre hora extra de biblioteca. Na segunda-feira, 20 de outubro, a escola iniciou uma hora adicional de atendimento no turno da tarde. Dezoito estudantes usaram o serviço no primeiro dia, segundo o registro de entrada. A equipe anunciou que avaliará a experiência após quatro semanas. Por enquanto, não há dados dos demais dias.” Fato central: início do horário adicional. O uso por 18 estudantes é uma decorrência relatada; a avaliação em quatro semanas é ação futura anunciada, não resultado já observado.",
+        "bncc": [
+          "EF69LP03"
+        ]
+      },
+      {
+        "id": "noticia_fato_central.producao",
+        "tipo": "discursiva",
+        "enunciado": "Escreva um resumo de duas frases com fato central, circunstâncias informadas e uma decorrência. Faça uma lista de duas perguntas que a notícia não responde. Marque no texto o que já ocorreu e o que é apenas anunciado para o futuro. Não acrescente dados inexistentes.",
+        "gabarito": "Resumo deve informar abertura da hora extra no turno da tarde e os 18 participantes do primeiro dia, com contexto temporal e fonte quando pertinente. Pode perguntar sobre outros dias, duração exata do atendimento ou critérios de avaliação. Distinguir anúncio futuro de resultado efetivo. Não inferir sucesso em longo prazo.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Resumo deve informar abertura da hora extra no turno da tarde e os 18 participantes do primeiro dia, com contexto temporal e fonte quando pertinente. Pode perguntar sobre outros dias, duração exata do atendimento ou critérios de avaliação. Distinguir anúncio futuro de resultado efetivo. Não inferir sucesso em longo prazo.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP03"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.leitura_e_generos.sequencias_textuais": {
+    "id": "lip.ef06.leitura_e_generos.sequencias_textuais",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 35,
+    "unidade": "Leitura e Gêneros",
+    "titulo": "Prescrição, causa, descrição, exposição e ordenação",
+    "bncc": [
+      "EF67LP37"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Compare A–E: identifique a função de cada trecho e cite o recurso que produz o efeito. Reescreva D invertendo os eventos e explique a mudança. Produza um pequeno boletim que combine uma orientação, uma descrição e uma explicação causal coerente. Indique quais causas são dadas como ficção, sem inventar apuração."
+      ],
+      "resumo": "Prescrição, causa, descrição, exposição e ordenação",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Prescrição, causa, descrição, exposição e ordenação</h2><p>Um gênero pode combinar sequências com funções diferentes. Prescrição orienta ações e pode usar imperativos; descrição caracteriza; exposição apresenta informações e explicações; ordenação de eventos organiza uma sequência temporal. Relações de causalidade associam razões e consequências, mas um conectivo não prova que a causa seja real. Analise o efeito no texto, em vez de classificar tudo por uma palavra isolada.</p><h3>Exemplo comentado</h3><p><strong>Conjunto autoral.</strong> A: “Registre o empréstimo e devolva o livro na data indicada.” orienta conduta. B: “A sala é clara, ampla e silenciosa.” caracteriza espaço. C: “O catálogo organiza informações de autoria e título; assim, permite localizar obras.” explica uma função. D: “Primeiro abrimos o catálogo; depois localizamos o livro.” ordena eventos. E: “A leitura foi transferida porque a sala estava em manutenção.” apresenta uma razão. Cada recurso guia uma compreensão diferente, mesmo quando todos aparecem no mesmo boletim.</p><h3>Produza e revise</h3><p>Compare A–E: identifique a função de cada trecho e cite o recurso que produz o efeito. Reescreva D invertendo os eventos e explique a mudança. Produza um pequeno boletim que combine uma orientação, uma descrição e uma explicação causal coerente. Indique quais causas são dadas como ficção, sem inventar apuração.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "sequencias_textuais.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual trecho organiza eventos no tempo?",
+        "alternativas": [
+          "A sala é ampla.",
+          "Primeiro abrimos o catálogo; depois localizamos o livro.",
+          "Devolva o livro amanhã.",
+          "A sala foi fechada porque estava em manutenção."
+        ],
+        "correta": 1,
+        "explicacao": "<strong>Conjunto autoral.</strong> A: “Registre o empréstimo e devolva o livro na data indicada.” orienta conduta. B: “A sala é clara, ampla e silenciosa.” caracteriza espaço. C: “O catálogo organiza informações de autoria e título; assim, permite localizar obras.” explica uma função. D: “Primeiro abrimos o catálogo; depois localizamos o livro.” ordena eventos. E: “A leitura foi transferida porque a sala estava em manutenção.” apresenta uma razão. Cada recurso guia uma compreensão diferente, mesmo quando todos aparecem no mesmo boletim.",
+        "bncc": [
+          "EF67LP37"
+        ]
+      },
+      {
+        "id": "sequencias_textuais.producao",
+        "tipo": "discursiva",
+        "enunciado": "Compare A–E: identifique a função de cada trecho e cite o recurso que produz o efeito. Reescreva D invertendo os eventos e explique a mudança. Produza um pequeno boletim que combine uma orientação, uma descrição e uma explicação causal coerente. Indique quais causas são dadas como ficção, sem inventar apuração.",
+        "gabarito": "A: prescrição, verbos de orientação; B: descrição, adjetivos; C: exposição, explicação da função; D: ordenação temporal, primeiro/depois; E: causalidade, porque e relação entre manutenção e mudança. Inverter D muda a sequência narrada e pode exigir reformulação para coerência. Conferir boletim real com as três funções e justificativas, não apenas rótulos.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "A: prescrição, verbos de orientação; B: descrição, adjetivos; C: exposição, explicação da função; D: ordenação temporal, primeiro/depois; E: causalidade, porque e relação entre manutenção e mudança. Inverter D muda a sequência narrada e pode exigir reformulação para coerência. Conferir boletim real com as três funções e justificativas, não apenas rótulos.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP37"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165
+        ],
+        "paginasImpressas": "163",
+        "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+      },
+      {
+        "documento": "Textos autorais da unidade Leitura e Gêneros",
+        "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
     },
     "complementar": false,
     "preRequisitos": [],

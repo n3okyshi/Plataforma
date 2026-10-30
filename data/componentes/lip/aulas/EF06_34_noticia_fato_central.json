@@ -1,0 +1,89 @@
+{
+  "id": "lip.ef06.leitura_e_generos.noticia_fato_central",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 34,
+  "unidade": "Leitura e Gêneros",
+  "titulo": "Fato central, circunstâncias e decorrências",
+  "bncc": [
+    "EF69LP03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escreva um resumo de duas frases com fato central, circunstâncias informadas e uma decorrência. Faça uma lista de duas perguntas que a notícia não responde. Marque no texto o que já ocorreu e o que é apenas anunciado para o futuro. Não acrescente dados inexistentes."
+    ],
+    "resumo": "Fato central, circunstâncias e decorrências",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Fato central, circunstâncias e decorrências</h2><p>Identificar o fato central de uma notícia exige distinguir o acontecimento principal de detalhes, avaliações e consequências. Pergunte o que ocorreu, quem participou, quando e onde. Nem toda notícia informa todas as circunstâncias; registre o que falta. Separe uma decorrência efetivamente relatada de uma previsão. Este é o recorte noticioso da habilidade, que também abrange outros gêneros a trabalhar em unidades posteriores.</p><h3>Exemplo comentado</h3><p><strong>Notícia autoral fictícia.</strong> “Escola Horizonte abre hora extra de biblioteca. Na segunda-feira, 20 de outubro, a escola iniciou uma hora adicional de atendimento no turno da tarde. Dezoito estudantes usaram o serviço no primeiro dia, segundo o registro de entrada. A equipe anunciou que avaliará a experiência após quatro semanas. Por enquanto, não há dados dos demais dias.” Fato central: início do horário adicional. O uso por 18 estudantes é uma decorrência relatada; a avaliação em quatro semanas é ação futura anunciada, não resultado já observado.</p><h3>Produza e revise</h3><p>Escreva um resumo de duas frases com fato central, circunstâncias informadas e uma decorrência. Faça uma lista de duas perguntas que a notícia não responde. Marque no texto o que já ocorreu e o que é apenas anunciado para o futuro. Não acrescente dados inexistentes.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "noticia_fato_central.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é o fato central da notícia?",
+      "alternativas": [
+        "A avaliação já provou sucesso por quatro semanas.",
+        "A escola iniciou uma hora adicional de biblioteca.",
+        "Todos os estudantes passaram a frequentar a biblioteca.",
+        "A biblioteca deixou de registrar entradas."
+      ],
+      "correta": 1,
+      "explicacao": "<strong>Notícia autoral fictícia.</strong> “Escola Horizonte abre hora extra de biblioteca. Na segunda-feira, 20 de outubro, a escola iniciou uma hora adicional de atendimento no turno da tarde. Dezoito estudantes usaram o serviço no primeiro dia, segundo o registro de entrada. A equipe anunciou que avaliará a experiência após quatro semanas. Por enquanto, não há dados dos demais dias.” Fato central: início do horário adicional. O uso por 18 estudantes é uma decorrência relatada; a avaliação em quatro semanas é ação futura anunciada, não resultado já observado.",
+      "bncc": [
+        "EF69LP03"
+      ]
+    },
+    {
+      "id": "noticia_fato_central.producao",
+      "tipo": "discursiva",
+      "enunciado": "Escreva um resumo de duas frases com fato central, circunstâncias informadas e uma decorrência. Faça uma lista de duas perguntas que a notícia não responde. Marque no texto o que já ocorreu e o que é apenas anunciado para o futuro. Não acrescente dados inexistentes.",
+      "gabarito": "Resumo deve informar abertura da hora extra no turno da tarde e os 18 participantes do primeiro dia, com contexto temporal e fonte quando pertinente. Pode perguntar sobre outros dias, duração exata do atendimento ou critérios de avaliação. Distinguir anúncio futuro de resultado efetivo. Não inferir sucesso em longo prazo.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Resumo deve informar abertura da hora extra no turno da tarde e os 18 participantes do primeiro dia, com contexto temporal e fonte quando pertinente. Pode perguntar sobre outros dias, duração exata do atendimento ou critérios de avaliação. Distinguir anúncio futuro de resultado efetivo. Não inferir sucesso em longo prazo.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF69LP03"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165
+      ],
+      "paginasImpressas": "163",
+      "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+    },
+    {
+      "documento": "Textos autorais da unidade Leitura e Gêneros",
+      "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

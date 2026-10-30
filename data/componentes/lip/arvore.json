@@ -8432,7 +8432,7 @@
           "aulas": [
             {
               "id": "lip.ef06.leitura_e_generos.contexto_do_jornalismo",
-              "titulo": "O Contexto do Texto Jornalístico",
+              "titulo": "Hiperlinks no texto noticioso",
               "bncc": [
                 "EF67LP01"
               ],
@@ -8446,16 +8446,25 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    165
+                  ],
+                  "paginasImpressas": "163",
+                  "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+                },
+                {
+                  "documento": "Textos autorais da unidade Leitura e Gêneros",
+                  "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
                 }
               ],
               "legado": false,
-              "resumo": "Reconstruir as condições de produção e circulação de textos jornalísticos."
+              "resumo": "Reconstruir as condições de produção e circulação de textos jornalísticos.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.leitura_e_generos.o_espaco_do_leitor",
-              "titulo": "O Espaço do Leitor nos Jornais",
+              "titulo": "Participação ética no espaço do leitor",
               "bncc": [
                 "EF67LP02"
               ],
@@ -8469,16 +8478,25 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    165
+                  ],
+                  "paginasImpressas": "163",
+                  "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+                },
+                {
+                  "documento": "Textos autorais da unidade Leitura e Gêneros",
+                  "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
                 }
               ],
               "legado": false,
-              "resumo": "Explorar seções de cartas, comentários e espaços reservados ao leitor."
+              "resumo": "Explorar seções de cartas, comentários e espaços reservados ao leitor.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.leitura_e_generos.comparar_veiculos",
-              "titulo": "Comparar o Mesmo Fato em Veículos Diferentes",
+              "titulo": "Comparar informações e confiabilidade",
               "bncc": [
                 "EF67LP03"
               ],
@@ -8492,16 +8510,25 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    165
+                  ],
+                  "paginasImpressas": "163",
+                  "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+                },
+                {
+                  "documento": "Textos autorais da unidade Leitura e Gêneros",
+                  "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
                 }
               ],
               "legado": false,
-              "resumo": "Comparar informações sobre um fato em diferentes veículos e avaliar a confiabilidade."
+              "resumo": "Comparar informações sobre um fato em diferentes veículos e avaliar a confiabilidade.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.leitura_e_generos.fato_e_opiniao",
-              "titulo": "Distinguir Fato e Opinião",
+              "titulo": "Fato, afirmação verificável e opinião",
               "bncc": [
                 "EF67LP04"
               ],
@@ -8515,16 +8542,25 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    165
+                  ],
+                  "paginasImpressas": "163",
+                  "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+                },
+                {
+                  "documento": "Textos autorais da unidade Leitura e Gêneros",
+                  "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
                 }
               ],
               "legado": false,
-              "resumo": "Distinguir, em segmentos de texto, o fato da opinião sobre ele."
+              "resumo": "Distinguir, em segmentos de texto, o fato da opinião sobre ele.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.leitura_e_generos.tese_e_argumentos",
-              "titulo": "Identificar Tese e Argumentos",
+              "titulo": "Tese, razões e resposta argumentada",
               "bncc": [
                 "EF67LP05"
               ],
@@ -8538,16 +8574,25 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    165
+                  ],
+                  "paginasImpressas": "163",
+                  "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+                },
+                {
+                  "documento": "Textos autorais da unidade Leitura e Gêneros",
+                  "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
                 }
               ],
               "legado": false,
-              "resumo": "Localizar a tese defendida e os argumentos que a sustentam."
+              "resumo": "Localizar a tese defendida e os argumentos que a sustentam.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.leitura_e_generos.noticia_fato_central",
-              "titulo": "A Notícia e seu Fato Central",
+              "titulo": "Fato central, circunstâncias e decorrências",
               "bncc": [
                 "EF69LP03"
               ],
@@ -8561,16 +8606,25 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    165
+                  ],
+                  "paginasImpressas": "163",
+                  "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+                },
+                {
+                  "documento": "Textos autorais da unidade Leitura e Gêneros",
+                  "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
                 }
               ],
               "legado": false,
-              "resumo": "Identificar o fato central, suas circunstâncias e decorrências em notícias."
+              "resumo": "Identificar o fato central, suas circunstâncias e decorrências em notícias.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.leitura_e_generos.sequencias_textuais",
-              "titulo": "Sequências Narrativas, Descritivas e Argumentativas",
+              "titulo": "Prescrição, causa, descrição, exposição e ordenação",
               "bncc": [
                 "EF67LP37"
               ],
@@ -8584,12 +8638,21 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "11"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    165
+                  ],
+                  "paginasImpressas": "163",
+                  "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+                },
+                {
+                  "documento": "Textos autorais da unidade Leitura e Gêneros",
+                  "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer os recursos linguísticos que caracterizam cada tipo de sequência."
+              "resumo": "Reconhecer os recursos linguísticos que caracterizam cada tipo de sequência.",
+              "estado": "piloto"
             }
           ]
         },

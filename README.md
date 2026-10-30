@@ -79,3 +79,7 @@ Seis aulas e doze atividades adicionais; seis questões de treino e seis itens p
 ## Português EF06: Ortografia e Pontuação
 
 Cinco aulas, dez atividades, cinco questões de treino e cinco itens próprios de prova, com portfólio de escrita/revisão. Parônimas e homônimas passam a EF67LP32 pelo uso ortográfico em contexto, sem vínculo artificial com EF06LP03. EF67LP33 tem produção pontuada e comparação de sentidos. Regras de acentuação e hífen são apresentadas em recorte explícito. Total de Português: 28 aulas, 56 atividades e 27 itens por banco, com seis avaliações (uma complementar). Inventário atualizado; restam 33 entradas planejadas de EF06 sem autoria. Homologação docente, visual/acessibilidade e Firebase/cache reais permanecem pendentes.
+
+## Português EF06: Leitura e Gêneros
+
+Sete aulas, quatorze atividades, sete questões de treino e sete itens próprios de prova, com portfólio. Hiperlinks internos reais e textos fictícios identificados. Publicação e comparação real exigem registros. Acumulado: 35 aulas, 70 atividades, 34 itens por banco e sete avaliações (uma complementar). Restam 26 entradas planejadas de EF06 sem autoria. Homologação docente, aplicação, visual/acessibilidade e Firebase/cache reais continuam pendentes.
