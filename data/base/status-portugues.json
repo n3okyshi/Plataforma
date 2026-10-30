@@ -1,0 +1,1818 @@
+{
+  "componente": "lip",
+  "origem": "Inventário dos JSONs em data/componentes/lip; planejamento não equivale a conteúdo.",
+  "niveis": [
+    {
+      "nivel": "EF01",
+      "aulasImplementadas": 0,
+      "atividades": 0,
+      "questoesTreino": 0,
+      "itensProva": 0,
+      "provas": 0,
+      "unidades": [
+        {
+          "titulo": "Primeiros Passos na Leitura",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.primeiros_passos_na_leitura.como_se_le_um_texto",
+            "lip.ef01.primeiros_passos_na_leitura.para_que_servem_os_textos",
+            "lip.ef01.primeiros_passos_na_leitura.antecipar_sentidos",
+            "lip.ef01.primeiros_passos_na_leitura.encontrar_informacoes",
+            "lip.ef01.primeiros_passos_na_leitura.imagens_que_contam"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "O Alfabeto",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.o_alfabeto.letras_e_outros_sinais",
+            "lip.ef01.o_alfabeto.nome_das_letras",
+            "lip.ef01.o_alfabeto.quatro_formas_de_letrar",
+            "lip.ef01.o_alfabeto.vogais_e_consoantes"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Sons e Sílabas",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.sons_e_silabas.o_que_e_o_sistema_alfabetico",
+            "lip.ef01.sons_e_silabas.bater_palmas_para_silabar",
+            "lip.ef01.sons_e_silabas.fonema_e_letra",
+            "lip.ef01.sons_e_silabas.do_som_para_a_escrita",
+            "lip.ef01.sons_e_silabas.rimas_e_sons_iniciais",
+            "lip.ef01.sons_e_silabas.sons_do_meio_e_do_fim"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Palavras e Espaços",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.palavras_e_espacos.separar_palavras",
+            "lip.ef01.palavras_e_espacos.escrever_do_meu_jeito",
+            "lip.ef01.palavras_e_espacos.comparar_escritas",
+            "lip.ef01.palavras_e_espacos.copiar_sem_perder_o_sentido"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Sinais que Orientam a Leitura",
+          "aulasPlanejadas": 3,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.sinais_que_orientam_a_leitura.ponto_interrogacao_exclamacao",
+            "lip.ef01.sinais_que_orientam_a_leitura.sinonimos_e_antonimos",
+            "lip.ef01.sinais_que_orientam_a_leitura.entonacao_e_sentido"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Gêneros do Cotidiano",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.generos_do_cotidiano.listas_agendas_e_calendarios",
+            "lip.ef01.generos_do_cotidiano.receitas_e_instrucoes",
+            "lip.ef01.generos_do_cotidiano.avisos_convites_e_regras",
+            "lip.ef01.generos_do_cotidiano.enunciados_e_diagramas",
+            "lip.ef01.generos_do_cotidiano.curiosidades_e_entrevistas",
+            "lip.ef01.generos_do_cotidiano.escrever_uma_lista"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Histórias e Poemas",
+          "aulasPlanejadas": 8,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.historias_e_poemas.personagens_enredo_tempo_espaco",
+            "lip.ef01.historias_e_poemas.recontar_uma_historia",
+            "lip.ef01.historias_e_poemas.ler_quadras_e_parlendas",
+            "lip.ef01.historias_e_poemas.rimas_em_cantigas",
+            "lip.ef01.historias_e_poemas.poemas_para_sentir",
+            "lip.ef01.historias_e_poemas.apreciar_poemas",
+            "lip.ef01.historias_e_poemas.poemas_visuais",
+            "lip.ef01.historias_e_poemas.quadrinhos_e_tirinhas"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Ler para Aprender",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.ler_para_aprender.decodificar_palavras_novas",
+            "lip.ef01.ler_para_aprender.escolher_o_que_ler",
+            "lip.ef01.ler_para_aprender.ler_listas_e_receitas",
+            "lip.ef01.ler_para_aprender.noticias_para_criancas",
+            "lip.ef01.ler_para_aprender.anuncios_e_campanhas"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Textos Informativos e Imagens",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.textos_informativos_e_imagens.cartazes_e_regulamentos",
+            "lip.ef01.textos_informativos_e_imagens.textos_de_pesquisa",
+            "lip.ef01.textos_informativos_e_imagens.contos_e_cronicas",
+            "lip.ef01.textos_informativos_e_imagens.texto_e_ilustracao"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Falar e Escutar",
+          "aulasPlanejadas": 8,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.falar_e_escutar.falar_para_ser_compreendido",
+            "lip.ef01.falar_e_escutar.escutar_com_atencao",
+            "lip.ef01.falar_e_escutar.turnos_de_fala",
+            "lip.ef01.falar_e_escutar.gestos_e_entonacao",
+            "lip.ef01.falar_e_escutar.para_que_falamos",
+            "lip.ef01.falar_e_escutar.recitar_parlendas",
+            "lip.ef01.falar_e_escutar.contar_historias_oralmente",
+            "lip.ef01.falar_e_escutar.entrevista_oral"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Escrever Juntos",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.escrever_juntos.planejar_o_texto",
+            "lip.ef01.escrever_juntos.revisar_o_texto",
+            "lip.ef01.escrever_juntos.editar_a_versao_final",
+            "lip.ef01.escrever_juntos.publicar_com_tecnologia"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Primeiras Produções",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.primeiras_producoes.registrar_cantigas",
+            "lip.ef01.primeiras_producoes.recontos_e_poemas_coletivos",
+            "lip.ef01.primeiras_producoes.noticias_curtas",
+            "lip.ef01.primeiras_producoes.slogans_e_anuncios"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Campanhas e Mídias",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef01.campanhas_e_midias.recados_e_convites_orais",
+            "lip.ef01.campanhas_e_midias.campanha_de_conscientizacao",
+            "lip.ef01.campanhas_e_midias.fotolegendas_e_albuns",
+            "lip.ef01.campanhas_e_midias.slogan_publicitario",
+            "lip.ef01.campanhas_e_midias.anuncios_com_imagens"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    },
+    {
+      "nivel": "EF02",
+      "aulasImplementadas": 0,
+      "atividades": 0,
+      "questoesTreino": 0,
+      "itensProva": 0,
+      "provas": 0,
+      "unidades": [
+        {
+          "titulo": "Retomando a Escrita",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef02.retomando_a_escrita.grafia_maiusculas_e_segmentacao",
+            "lip.ef02.retomando_a_escrita.letra_imprensa_e_cursiva",
+            "lip.ef02.retomando_a_escrita.segmentar_palavras_ao_escrever",
+            "lip.ef02.retomando_a_escrita.nome_das_letras_e_sons",
+            "lip.ef02.retomando_a_escrita.silabas_cv_v_cvc_ccv",
+            "lip.ef02.retomando_a_escrita.marcas_de_nasalidade"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Letras e Sons",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef02.letras_e_sons.brincar_com_silabas",
+            "lip.ef02.letras_e_sons.correspondencias_diretas",
+            "lip.ef02.letras_e_sons.c_e_q_no_lugar_certo",
+            "lip.ef02.letras_e_sons.e_e_o_no_final_das_palavras",
+            "lip.ef02.letras_e_sons.vogais_em_toda_silaba",
+            "lip.ef02.letras_e_sons.sons_nasais_na_escrita"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Pontuação",
+          "aulasPlanejadas": 3,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef02.pontuacao.ponto_final_interrogacao_exclamacao",
+            "lip.ef02.pontuacao.pontuacao_e_sentido",
+            "lip.ef02.pontuacao.revisar_a_pontuacao"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Palavras e Sentidos",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef02.palavras_e_sentidos.sinonimos_no_texto",
+            "lip.ef02.palavras_e_sentidos.antonimos_com_in_e_im",
+            "lip.ef02.palavras_e_sentidos.aumentativo_e_diminutivo",
+            "lip.ef02.palavras_e_sentidos.palavras_que_indicam_tempo"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Gêneros do Cotidiano",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef02.generos_do_cotidiano.bilhetes_recados_e_avisos",
+            "lip.ef02.generos_do_cotidiano.cartas_e_emails",
+            "lip.ef02.generos_do_cotidiano.receitas_e_modo_de_fazer",
+            "lip.ef02.generos_do_cotidiano.cartazes_para_divulgar",
+            "lip.ef02.generos_do_cotidiano.ler_cantigas_e_cancoes",
+            "lip.ef02.generos_do_cotidiano.cantar_com_ritmo"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Histórias e Poemas",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef02.historias_e_poemas.conflito_e_resolucao",
+            "lip.ef02.historias_e_poemas.caracterizar_personagens_e_ambientes",
+            "lip.ef02.historias_e_poemas.reescrever_uma_narrativa",
+            "lip.ef02.historias_e_poemas.poemas_visuais",
+            "lip.ef02.historias_e_poemas.ler_literatura_com_autonomia",
+            "lip.ef02.historias_e_poemas.literatura_como_patrimonio"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Pesquisa e Registro",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef02.pesquisa_e_registro.enquetes_e_entrevistas",
+            "lip.ef02.pesquisa_e_registro.pesquisar_na_internet",
+            "lip.ef02.pesquisa_e_registro.relatos_de_experimentos",
+            "lip.ef02.pesquisa_e_registro.registros_de_observacao",
+            "lip.ef02.pesquisa_e_registro.formatar_relatos_e_verbetes"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Escrever para Circular",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef02.escrever_para_circular.produzir_bilhetes_e_cartas",
+            "lip.ef02.escrever_para_circular.relatos_de_experiencias",
+            "lip.ef02.escrever_para_circular.noticia_curta_e_jornal_falado",
+            "lip.ef02.escrever_para_circular.expor_uma_pesquisa"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Ler com Autonomia",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef02.ler_com_autonomia.decodificar_e_memorizar",
+            "lip.ef02.ler_com_autonomia.escolher_textos_para_ler",
+            "lip.ef02.ler_com_autonomia.ler_receitas_e_instrucoes",
+            "lip.ef02.ler_com_autonomia.ler_manchetes_e_noticias",
+            "lip.ef02.ler_com_autonomia.ler_anuncios_e_campanhas",
+            "lip.ef02.ler_com_autonomia.ler_verbetes_e_diagramas"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Falar e Escutar",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef02.falar_e_escutar.falar_com_clareza",
+            "lip.ef02.falar_e_escutar.escutar_e_perguntar",
+            "lip.ef02.falar_e_escutar.conversar_respeitando_turnos",
+            "lip.ef02.falar_e_escutar.gestos_que_falam",
+            "lip.ef02.falar_e_escutar.recontar_e_apresentar",
+            "lip.ef02.falar_e_escutar.gravar_recados_e_convites"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Produzir com a Turma",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef02.produzir_com_a_turma.planejar_em_conjunto",
+            "lip.ef02.produzir_com_a_turma.revisar_com_os_colegas",
+            "lip.ef02.produzir_com_a_turma.editar_e_ilustrar",
+            "lip.ef02.produzir_com_a_turma.publicar_na_escola",
+            "lip.ef02.produzir_com_a_turma.noticias_e_anuncios_da_turma",
+            "lip.ef02.produzir_com_a_turma.campanha_oral_da_turma"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    },
+    {
+      "nivel": "EF03",
+      "aulasImplementadas": 0,
+      "atividades": 0,
+      "questoesTreino": 0,
+      "itensProva": 0,
+      "provas": 0,
+      "unidades": [
+        {
+          "titulo": "Ortografia e Acentuação",
+          "aulasPlanejadas": 7,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.ortografia_e_acentuacao.correspondencias_contextuais",
+            "lip.ef03.ortografia_e_acentuacao.o_e_e_no_fim_da_palavra",
+            "lip.ef03.ortografia_e_acentuacao.silabas_com_duas_vogais",
+            "lip.ef03.ortografia_e_acentuacao.digrafos_lh_nh_ch",
+            "lip.ef03.ortografia_e_acentuacao.acento_em_oxitonas",
+            "lip.ef03.ortografia_e_acentuacao.dicionario_para_escrever",
+            "lip.ef03.ortografia_e_acentuacao.palavras_com_h_inicial"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Sílabas Tônicas",
+          "aulasPlanejadas": 3,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.silabas_tonicas.contar_silabas_e_classificar",
+            "lip.ef03.silabas_tonicas.silaba_tonica",
+            "lip.ef03.silabas_tonicas.oxitonas_paroxitonas_proparoxitonas"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Pontuação e Diálogo",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.pontuacao_e_dialogo.pontuar_o_que_se_diz",
+            "lip.ef03.pontuacao_e_dialogo.dois_pontos_e_travessao",
+            "lip.ef03.pontuacao_e_dialogo.discurso_direto_e_indireto",
+            "lip.ef03.pontuacao_e_dialogo.verbos_de_enunciacao"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Classes de Palavras",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.classes_de_palavras.substantivo_e_verbo",
+            "lip.ef03.classes_de_palavras.adjetivo_atribui_propriedades",
+            "lip.ef03.classes_de_palavras.prefixos_e_sufixos",
+            "lip.ef03.classes_de_palavras.pronomes_que_retomam"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Gêneros Instrucionais",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.generos_instrucionais.ler_receitas_e_instrucoes",
+            "lip.ef03.generos_instrucionais.escrever_instrucoes",
+            "lip.ef03.generos_instrucionais.a_forma_dos_textos_injuntivos",
+            "lip.ef03.generos_instrucionais.receita_em_video"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Cartas e Diários",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.cartas_e_diarios.ler_cartas_e_diarios",
+            "lip.ef03.cartas_e_diarios.escrever_cartas_e_diarios",
+            "lip.ef03.cartas_e_diarios.data_saudacao_despedida",
+            "lip.ef03.cartas_e_diarios.adjetivos_em_cartas_do_leitor"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Jornal e Publicidade",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.jornal_e_publicidade.ler_cartas_de_reclamacao",
+            "lip.ef03.jornal_e_publicidade.persuasao_na_publicidade",
+            "lip.ef03.jornal_e_publicidade.escrever_carta_do_leitor",
+            "lip.ef03.jornal_e_publicidade.criar_anuncio_publicitario",
+            "lip.ef03.jornal_e_publicidade.formatar_noticia_e_manchete",
+            "lip.ef03.jornal_e_publicidade.telejornal_da_turma"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Pesquisa e Relatório",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.pesquisa_e_relatorio.ler_relatos_de_pesquisa",
+            "lip.ef03.pesquisa_e_relatorio.produzir_com_graficos",
+            "lip.ef03.pesquisa_e_relatorio.formatar_relatorios",
+            "lip.ef03.pesquisa_e_relatorio.buscar_informacoes"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Leitura e Compreensão",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.leitura_e_compreensao.ler_em_silencio_e_em_voz_alta",
+            "lip.ef03.leitura_e_compreensao.escolher_livros_na_biblioteca",
+            "lip.ef03.leitura_e_compreensao.ideia_central_do_texto",
+            "lip.ef03.leitura_e_compreensao.inferir_informacoes",
+            "lip.ef03.leitura_e_compreensao.sentido_pelo_contexto",
+            "lip.ef03.leitura_e_compreensao.substituicoes_que_ligam_o_texto"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Literatura",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.literatura.ler_literatura_com_autonomia",
+            "lip.ef03.literatura.dialogos_em_narrativas",
+            "lip.ef03.literatura.apreciar_poemas",
+            "lip.ef03.literatura.o_texto_dramatico",
+            "lip.ef03.literatura.declamar_poemas"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Vozes da Literatura",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.vozes_da_literatura.cordel_e_repentes",
+            "lip.ef03.vozes_da_literatura.narrativas_em_primeira_e_terceira_pessoa",
+            "lip.ef03.vozes_da_literatura.ler_narrativas_ficcionais",
+            "lip.ef03.vozes_da_literatura.ler_textos_em_versos",
+            "lip.ef03.vozes_da_literatura.ritmo_e_sonoridade"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Oralidade",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.oralidade.generos_orais",
+            "lip.ef03.oralidade.variedades_linguisticas",
+            "lip.ef03.oralidade.escutar_apresentacoes",
+            "lip.ef03.oralidade.ideias_principais_de_exposicoes",
+            "lip.ef03.oralidade.expor_com_recursos"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Escrita",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef03.escrita.ortografia_na_producao",
+            "lip.ef03.escrita.referenciacao_no_texto",
+            "lip.ef03.escrita.paragrafos_e_progressao",
+            "lip.ef03.escrita.defender_um_ponto_de_vista",
+            "lip.ef03.escrita.criar_narrativas"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    },
+    {
+      "nivel": "EF04",
+      "aulasImplementadas": 0,
+      "atividades": 0,
+      "questoesTreino": 0,
+      "itensProva": 0,
+      "provas": 0,
+      "unidades": [
+        {
+          "titulo": "Ortografia e Acentuação",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef04.ortografia_e_acentuacao.regras_de_grafia",
+            "lip.ef04.ortografia_e_acentuacao.ditongos_abertos_e_fechados",
+            "lip.ef04.ortografia_e_acentuacao.dicionario_e_polissemia",
+            "lip.ef04.ortografia_e_acentuacao.acento_nas_paroxitonas",
+            "lip.ef04.ortografia_e_acentuacao.sufixos_agem_oso_eza_izar"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Pontuação e Concordância",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef04.pontuacao_e_concordancia.sinais_de_pontuacao",
+            "lip.ef04.pontuacao_e_concordancia.concordancia_verbo_sujeito",
+            "lip.ef04.pontuacao_e_concordancia.concordancia_do_adjetivo",
+            "lip.ef04.pontuacao_e_concordancia.virgula_na_lista_e_no_vocativo",
+            "lip.ef04.pontuacao_e_concordancia.revisar_ortografia_e_concordancia"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Gêneros do Cotidiano",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef04.generos_do_cotidiano.ler_boletos_e_faturas",
+            "lip.ef04.generos_do_cotidiano.ler_cartas_de_reclamacao",
+            "lip.ef04.generos_do_cotidiano.escrever_carta_de_reclamacao",
+            "lip.ef04.generos_do_cotidiano.instrucoes_de_jogos",
+            "lip.ef04.generos_do_cotidiano.video_com_instrucoes"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Jornalismo",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef04.jornalismo.fatos_participantes_tempo_lugar",
+            "lip.ef04.jornalismo.fato_ou_opiniao",
+            "lip.ef04.jornalismo.escrever_noticia_da_escola",
+            "lip.ef04.jornalismo.jornal_radiofonico_e_entrevista",
+            "lip.ef04.jornalismo.entonacao_de_ancoras"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Divulgação Científica",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef04.divulgacao_cientifica.ler_textos_de_divulgacao",
+            "lip.ef04.divulgacao_cientifica.graficos_diagramas_tabelas",
+            "lip.ef04.divulgacao_cientifica.produzir_com_pesquisa",
+            "lip.ef04.divulgacao_cientifica.escrever_verbetes",
+            "lip.ef04.divulgacao_cientifica.formato_de_verbetes",
+            "lip.ef04.divulgacao_cientifica.tabelas_em_relatorios"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Literatura e Teatro",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef04.literatura_e_teatro.poemas_concretos",
+            "lip.ef04.literatura_e_teatro.marcadores_do_texto_dramatico",
+            "lip.ef04.literatura_e_teatro.representar_cenas",
+            "lip.ef04.literatura_e_teatro.narrativas_e_ponto_de_vista",
+            "lip.ef04.literatura_e_teatro.criar_contos"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Leitura",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef04.leitura.fluencia_de_leitura",
+            "lip.ef04.leitura.escolher_livros",
+            "lip.ef04.leitura.ideia_central",
+            "lip.ef04.leitura.inferencias",
+            "lip.ef04.leitura.sentido_de_palavras_novas",
+            "lip.ef04.leitura.retomadas_e_coesao"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Escrita",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef04.escrita.planejar_revisar_editar",
+            "lip.ef04.escrita.referenciacao",
+            "lip.ef04.escrita.paragrafacao",
+            "lip.ef04.escrita.ler_narrativas_ficcionais",
+            "lip.ef04.escrita.ler_textos_em_versos",
+            "lip.ef04.escrita.publicar_com_tecnologia"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Oralidade",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef04.oralidade.generos_orais",
+            "lip.ef04.oralidade.variedades_da_fala",
+            "lip.ef04.oralidade.escutar_colegas",
+            "lip.ef04.oralidade.ideias_principais",
+            "lip.ef04.oralidade.expor_com_apoio",
+            "lip.ef04.oralidade.declamar"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    },
+    {
+      "nivel": "EF05",
+      "aulasImplementadas": 0,
+      "atividades": 0,
+      "questoesTreino": 0,
+      "itensProva": 0,
+      "provas": 0,
+      "unidades": [
+        {
+          "titulo": "Ortografia e Acentuação",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef05.ortografia_e_acentuacao.regras_morfologicas_de_grafia",
+            "lip.ef05.ortografia_e_acentuacao.polissemia_no_contexto",
+            "lip.ef05.ortografia_e_acentuacao.acentuacao_geral",
+            "lip.ef05.ortografia_e_acentuacao.primitivas_derivadas_compostas",
+            "lip.ef05.ortografia_e_acentuacao.prefixo_e_sufixo"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Pontuação e Verbos",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef05.pontuacao_e_verbos.virgula_ponto_e_virgula_dois_pontos",
+            "lip.ef05.pontuacao_e_verbos.presente_passado_futuro",
+            "lip.ef05.pontuacao_e_verbos.flexionar_verbos",
+            "lip.ef05.pontuacao_e_verbos.conjuncoes_e_relacoes",
+            "lip.ef05.pontuacao_e_verbos.revisar_verbos_e_pontuacao"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Gêneros do Cotidiano",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef05.generos_do_cotidiano.regras_de_jogo",
+            "lip.ef05.generos_do_cotidiano.anedotas_piadas_cartuns",
+            "lip.ef05.generos_do_cotidiano.registrar_anedotas",
+            "lip.ef05.generos_do_cotidiano.escrever_regras_de_jogo",
+            "lip.ef05.generos_do_cotidiano.humor_e_ambiguidade"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Resenha e Argumentação",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef05.resenha_e_argumentacao.vlog_de_critica",
+            "lip.ef05.resenha_e_argumentacao.escrever_resenha_critica",
+            "lip.ef05.resenha_e_argumentacao.argumentar_oralmente",
+            "lip.ef05.resenha_e_argumentacao.forca_dos_argumentos",
+            "lip.ef05.resenha_e_argumentacao.entonacao_e_registro"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Jornalismo e Mídia",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef05.jornalismo_e_midia.noticias_reportagens_vlogs",
+            "lip.ef05.jornalismo_e_midia.comparar_midias",
+            "lip.ef05.jornalismo_e_midia.roteiro_de_reportagem",
+            "lip.ef05.jornalismo_e_midia.vlog_argumentativo",
+            "lip.ef05.jornalismo_e_midia.formatar_noticia"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Verbete e Pesquisa",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef05.verbete_e_pesquisa.ler_verbetes_de_dicionario",
+            "lip.ef05.verbete_e_pesquisa.comparar_graficos_e_tabelas",
+            "lip.ef05.verbete_e_pesquisa.organizar_resultados_de_pesquisa",
+            "lip.ef05.verbete_e_pesquisa.produzir_verbetes",
+            "lip.ef05.verbete_e_pesquisa.ciberpoemas_e_minicontos"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Escrita",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef05.escrita.coesao_pronominal",
+            "lip.ef05.escrita.paragrafacao",
+            "lip.ef05.escrita.defender_ponto_de_vista",
+            "lip.ef05.escrita.criar_narrativas",
+            "lip.ef05.escrita.planejar_e_revisar",
+            "lip.ef05.escrita.editar_e_publicar"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Leitura",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef05.leitura.fluencia",
+            "lip.ef05.leitura.escolher_livros",
+            "lip.ef05.leitura.ideia_central",
+            "lip.ef05.leitura.inferencias",
+            "lip.ef05.leitura.sentido_pelo_contexto",
+            "lip.ef05.leitura.coesao_no_texto"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Literatura",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef05.literatura.ler_literatura",
+            "lip.ef05.literatura.apreciar_poemas",
+            "lip.ef05.literatura.texto_dramatico",
+            "lip.ef05.literatura.narrativas_ficcionais",
+            "lip.ef05.literatura.textos_em_versos",
+            "lip.ef05.literatura.ritmo_e_metafora"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Oralidade",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef05.oralidade.generos_orais",
+            "lip.ef05.oralidade.variedades_linguisticas",
+            "lip.ef05.oralidade.escutar_e_perguntar",
+            "lip.ef05.oralidade.ideias_principais",
+            "lip.ef05.oralidade.expor_pesquisa",
+            "lip.ef05.oralidade.declamar"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    },
+    {
+      "nivel": "EF06",
+      "aulasImplementadas": 23,
+      "atividades": 46,
+      "questoesTreino": 22,
+      "itensProva": 22,
+      "provas": 5,
+      "unidades": [
+        {
+          "titulo": "Língua, Texto e Contexto",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 5,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
+        },
+        {
+          "titulo": "Morfologia",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 5,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
+        },
+        {
+          "titulo": "Classes Gramaticais",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 4,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
+        },
+        {
+          "titulo": "Classes Gramaticais — complementos",
+          "aulasPlanejadas": 3,
+          "aulasImplementadas": 3,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
+        },
+        {
+          "titulo": "Sintaxe da Oração",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 6,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
+        },
+        {
+          "titulo": "Ortografia e Pontuação",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes",
+            "lip.ef06.ortografia_e_pontuacao.pontuar_textos",
+            "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica",
+            "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen",
+            "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Leitura e Gêneros",
+          "aulasPlanejadas": 7,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef06.leitura_e_generos.contexto_do_jornalismo",
+            "lip.ef06.leitura_e_generos.o_espaco_do_leitor",
+            "lip.ef06.leitura_e_generos.comparar_veiculos",
+            "lip.ef06.leitura_e_generos.fato_e_opiniao",
+            "lip.ef06.leitura_e_generos.tese_e_argumentos",
+            "lip.ef06.leitura_e_generos.noticia_fato_central",
+            "lip.ef06.leitura_e_generos.sequencias_textuais"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Mídia e Efeitos de Sentido",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef06.midia_e_efeitos_de_sentido.selecao_lexical",
+            "lip.ef06.midia_e_efeitos_de_sentido.recursos_persuasivos",
+            "lip.ef06.midia_e_efeitos_de_sentido.imagens_e_sentido",
+            "lip.ef06.midia_e_efeitos_de_sentido.persuasao_publicitaria",
+            "lip.ef06.midia_e_efeitos_de_sentido.humor_ironia_e_memes"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Produção de Textos",
+          "aulasPlanejadas": 7,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef06.producao_de_textos.planejar_noticia",
+            "lip.ef06.producao_de_textos.textualizar_noticia",
+            "lip.ef06.producao_de_textos.planejar_resenha",
+            "lip.ef06.producao_de_textos.produzir_resenha",
+            "lip.ef06.producao_de_textos.produzir_publicidade",
+            "lip.ef06.producao_de_textos.coesao_referencial_na_producao",
+            "lip.ef06.producao_de_textos.resumo_e_parafrase"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Oralidade",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef06.oralidade.turnos_de_fala",
+            "lip.ef06.oralidade.tomar_nota",
+            "lip.ef06.oralidade.entrevista_oral",
+            "lip.ef06.oralidade.discutir_temas_controversos",
+            "lip.ef06.oralidade.apresentacao_oral"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Literatura",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef06.literatura.literatura_e_outras_artes",
+            "lip.ef06.literatura.ler_literatura",
+            "lip.ef06.literatura.criar_narrativas",
+            "lip.ef06.literatura.criar_poemas",
+            "lip.ef06.literatura.praticas_de_leitura_literaria",
+            "lip.ef06.literatura.recursos_dos_generos_literarios"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Cidadania e Textos Normativos",
+          "aulasPlanejadas": 3,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais",
+            "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao",
+            "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    },
+    {
+      "nivel": "EF07",
+      "aulasImplementadas": 0,
+      "atividades": 0,
+      "questoesTreino": 0,
+      "itensProva": 0,
+      "provas": 0,
+      "unidades": [
+        {
+          "titulo": "Texto e Contexto",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef07.texto_e_contexto.contexto_de_producao",
+            "lip.ef07.texto_e_contexto.esferas_de_circulacao",
+            "lip.ef07.texto_e_contexto.apreciacao_e_replica",
+            "lip.ef07.texto_e_contexto.comparar_interpretacoes",
+            "lip.ef07.texto_e_contexto.intertextualidade_e_citacao"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Formação de Palavras",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef07.formacao_de_palavras.prefixos_e_sufixos_produtivos",
+            "lip.ef07.formacao_de_palavras.radicais_e_familias_de_palavras",
+            "lip.ef07.formacao_de_palavras.derivacao_ou_composicao",
+            "lip.ef07.formacao_de_palavras.prefixos_de_negacao"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Verbos e Predicação",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef07.verbos_e_predicacao.verbo_nucleo_da_oracao",
+            "lip.ef07.verbos_e_predicacao.predicacao_completa_e_incompleta",
+            "lip.ef07.verbos_e_predicacao.concordancia_verbal_e_nominal",
+            "lip.ef07.verbos_e_predicacao.modos_e_tempos_verbais",
+            "lip.ef07.verbos_e_predicacao.adjetivos_que_ampliam",
+            "lip.ef07.verbos_e_predicacao.adverbios_e_locucoes"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Sintaxe da Oração",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef07.sintaxe_da_oracao.sujeito_predicado_complementos",
+            "lip.ef07.sintaxe_da_oracao.periodo_composto_por_coordenacao",
+            "lip.ef07.sintaxe_da_oracao.composicao_dos_generos_jornalisticos",
+            "lip.ef07.sintaxe_da_oracao.estilo_dos_generos_jornalisticos",
+            "lip.ef07.sintaxe_da_oracao.articuladores_na_argumentacao"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Coesão e Modalização",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef07.coesao_e_modalizacao.coesao_referencial",
+            "lip.ef07.coesao_e_modalizacao.retomadas_e_progressao",
+            "lip.ef07.coesao_e_modalizacao.modalizacao_e_argumentatividade",
+            "lip.ef07.coesao_e_modalizacao.modalizacao_na_fala",
+            "lip.ef07.coesao_e_modalizacao.coesao_sequencial"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Ortografia e Pontuação",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef07.ortografia_e_pontuacao.ortografia_na_escrita",
+            "lip.ef07.ortografia_e_pontuacao.pontuacao_e_sentido",
+            "lip.ef07.ortografia_e_pontuacao.acentuacao_das_paroxitonas",
+            "lip.ef07.ortografia_e_pontuacao.pontuar_dialogos"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Leitura e Mídia",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef07.leitura_e_midia.cartas_de_solicitacao",
+            "lip.ef07.leitura_e_midia.objeto_da_reclamacao",
+            "lip.ef07.leitura_e_midia.textos_normativos_escolares",
+            "lip.ef07.leitura_e_midia.participacao_social",
+            "lip.ef07.leitura_e_midia.discussao_oral_de_casos",
+            "lip.ef07.leitura_e_midia.posicionar_se_com_sustentacao"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Produção de Textos",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef07.producao_de_textos.planejar_texto_reivindicatorio",
+            "lip.ef07.producao_de_textos.divulgar_pesquisas",
+            "lip.ef07.producao_de_textos.produzir_noticia_e_reportagem",
+            "lip.ef07.producao_de_textos.textualizar_generos",
+            "lip.ef07.producao_de_textos.revisar_texto_informativo",
+            "lip.ef07.producao_de_textos.planejar_campanha_social"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Oralidade",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef07.oralidade.organizacao_topica",
+            "lip.ef07.oralidade.hipertexto",
+            "lip.ef07.oralidade.registrar_discussoes",
+            "lip.ef07.oralidade.entrevista_e_roteiro",
+            "lip.ef07.oralidade.elementos_paralinguisticos"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Literatura",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef07.literatura.textualidade_literaria",
+            "lip.ef07.literatura.figuras_de_linguagem",
+            "lip.ef07.literatura.ferramentas_de_apresentacao",
+            "lip.ef07.literatura.composicao_da_divulgacao_cientifica",
+            "lip.ef07.literatura.adaptar_para_teatro",
+            "lip.ef07.literatura.ler_em_voz_alta_textos_literarios"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Cidadania e Textos Normativos",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef07.cidadania_e_textos_normativos.textos_reivindicatorios",
+            "lip.ef07.cidadania_e_textos_normativos.escrever_textos_normativos",
+            "lip.ef07.cidadania_e_textos_normativos.forma_dos_textos_juridicos",
+            "lip.ef07.cidadania_e_textos_normativos.modalidades_deonticas"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    },
+    {
+      "nivel": "EF08",
+      "aulasImplementadas": 0,
+      "atividades": 0,
+      "questoesTreino": 0,
+      "itensProva": 0,
+      "provas": 0,
+      "unidades": [
+        {
+          "titulo": "Texto e Contexto",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.texto_e_contexto.contexto_de_producao",
+            "lip.ef08.texto_e_contexto.relacao_entre_textos",
+            "lip.ef08.texto_e_contexto.condicoes_da_divulgacao_cientifica",
+            "lip.ef08.texto_e_contexto.comparar_fontes",
+            "lip.ef08.texto_e_contexto.pistas_linguisticas"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Período Composto",
+          "aulasPlanejadas": 7,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.periodo_composto.termos_da_oracao",
+            "lip.ef08.periodo_composto.complementos_verbais",
+            "lip.ef08.periodo_composto.vozes_verbais",
+            "lip.ef08.periodo_composto.adjuntos_adnominais",
+            "lip.ef08.periodo_composto.adjuntos_adverbiais",
+            "lip.ef08.periodo_composto.coordenacao_e_subordinacao",
+            "lip.ef08.periodo_composto.oracoes_subordinadas"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Coesão e Modalização",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.coesao_e_modalizacao.coesao_sequencial",
+            "lip.ef08.coesao_e_modalizacao.coesao_referencial",
+            "lip.ef08.coesao_e_modalizacao.pronome_relativo",
+            "lip.ef08.coesao_e_modalizacao.modalizacao"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Léxico e Ortografia",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.lexico_e_ortografia.composicao_por_aglutinacao",
+            "lip.ef08.lexico_e_ortografia.ortografia_regencia_concordancia",
+            "lip.ef08.lexico_e_ortografia.regras_de_acentuacao",
+            "lip.ef08.lexico_e_ortografia.hifen_e_emprego"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Argumentação",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.argumentacao.artigo_de_opiniao",
+            "lip.ef08.argumentacao.movimentos_argumentativos",
+            "lip.ef08.argumentacao.operadores_argumentativos",
+            "lip.ef08.argumentacao.modalizacao_no_noticiario",
+            "lip.ef08.argumentacao.resenha_com_vozes"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Leitura e Mídia",
+          "aulasPlanejadas": 7,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.leitura_e_midia.contexto_jornalistico",
+            "lip.ef08.leitura_e_midia.projetos_editoriais",
+            "lip.ef08.leitura_e_midia.sentidos_globais",
+            "lip.ef08.leitura_e_midia.hierarquia_da_informacao",
+            "lip.ef08.leitura_e_midia.apropriacao_textual",
+            "lip.ef08.leitura_e_midia.persuasao_argumentativa",
+            "lip.ef08.leitura_e_midia.multissemiose_na_midia"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Produção de Textos",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.producao_de_textos.planejar_reportagem",
+            "lip.ef08.producao_de_textos.textualizar_reportagem",
+            "lip.ef08.producao_de_textos.planejar_artigo_de_opiniao",
+            "lip.ef08.producao_de_textos.produzir_campanha",
+            "lip.ef08.producao_de_textos.divulgar_pesquisa"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Oralidade",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.oralidade.debate_regrado",
+            "lip.ef08.oralidade.entrevista_oral",
+            "lip.ef08.oralidade.escuta_critica",
+            "lip.ef08.oralidade.problematizar_em_aula",
+            "lip.ef08.oralidade.tomar_nota_de_videoaulas"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Divulgação Científica",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.divulgacao_cientifica.ler_graficos_e_infograficos",
+            "lip.ef08.divulgacao_cientifica.verbal_e_visual_na_ciencia",
+            "lip.ef08.divulgacao_cientifica.leitura_de_textos_cientificos",
+            "lip.ef08.divulgacao_cientifica.condicoes_de_producao_cientifica",
+            "lip.ef08.divulgacao_cientifica.escrever_divulgacao_cientifica",
+            "lip.ef08.divulgacao_cientifica.roteiro_de_video_cientifico"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Jornalismo Oral",
+          "aulasPlanejadas": 3,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.jornalismo_oral.noticia_para_radio_e_tv",
+            "lip.ef08.jornalismo_oral.posicionamentos_em_interacoes",
+            "lip.ef08.jornalismo_oral.editar_textos_jornalisticos_orais"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Literatura",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.literatura.intertextualidade_literaria",
+            "lip.ef08.literatura.ler_literatura_autonomia",
+            "lip.ef08.literatura.textualidade_e_recursos",
+            "lip.ef08.literatura.criar_contos_e_cronicas",
+            "lip.ef08.literatura.parodiar_poemas",
+            "lip.ef08.literatura.figuras_de_linguagem"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Cidadania e Textos Normativos",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef08.cidadania_e_textos_normativos.textos_legais_universais",
+            "lip.ef08.cidadania_e_textos_normativos.canais_de_participacao",
+            "lip.ef08.cidadania_e_textos_normativos.caracteristicas_dos_generos_reivindicatorios",
+            "lip.ef08.cidadania_e_textos_normativos.comparar_propostas",
+            "lip.ef08.cidadania_e_textos_normativos.enquetes_de_opiniao"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    },
+    {
+      "nivel": "EF09",
+      "aulasImplementadas": 0,
+      "atividades": 0,
+      "questoesTreino": 0,
+      "itensProva": 0,
+      "provas": 0,
+      "unidades": [
+        {
+          "titulo": "Texto e Contexto",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef09.texto_e_contexto.contexto_de_producao",
+            "lip.ef09.texto_e_contexto.cobertura_da_imprensa",
+            "lip.ef09.texto_e_contexto.curadoria_de_informacao",
+            "lip.ef09.texto_e_contexto.intertextualidade"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Sintaxe do Período",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef09.sintaxe_do_periodo.predicativo_do_sujeito",
+            "lip.ef09.sintaxe_do_periodo.verbos_de_ligacao",
+            "lip.ef09.sintaxe_do_periodo.regencia_verbal_e_nominal",
+            "lip.ef09.sintaxe_do_periodo.conjuncoes_coordenativas",
+            "lip.ef09.sintaxe_do_periodo.oracoes_adjetivas",
+            "lip.ef09.sintaxe_do_periodo.revisar_o_periodo"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Colocação e Coesão",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef09.colocacao_e_coesao.colocacao_pronominal",
+            "lip.ef09.colocacao_e_coesao.coesao_sequencial",
+            "lip.ef09.colocacao_e_coesao.progressao_tematica",
+            "lip.ef09.colocacao_e_coesao.hipertexto_e_hiperlinks"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Norma e Variação",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef09.norma_e_variacao.estrangeirismos",
+            "lip.ef09.norma_e_variacao.norma_padrao_em_textos_complexos",
+            "lip.ef09.norma_e_variacao.modalizacao_epistemica",
+            "lip.ef09.norma_e_variacao.variedades_e_preconceito"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Argumentação",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef09.argumentacao.artigo_de_opiniao",
+            "lip.ef09.argumentacao.movimentos_argumentativos",
+            "lip.ef09.argumentacao.apropriacao_e_parafrase",
+            "lip.ef09.argumentacao.persuasao",
+            "lip.ef09.argumentacao.forca_argumentativa"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Leitura Crítica da Mídia",
+          "aulasPlanejadas": 7,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef09.leitura_critica_da_midia.contexto_do_jornalismo",
+            "lip.ef09.leitura_critica_da_midia.projetos_editoriais",
+            "lip.ef09.leitura_critica_da_midia.sentidos_globais",
+            "lip.ef09.leitura_critica_da_midia.o_que_fica_de_fora",
+            "lip.ef09.leitura_critica_da_midia.multissemiose",
+            "lip.ef09.leitura_critica_da_midia.discutir_temas_controversos",
+            "lip.ef09.leitura_critica_da_midia.argumentar_e_contra_argumentar"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Produção de Textos",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef09.producao_de_textos.planejar_reportagem",
+            "lip.ef09.producao_de_textos.escrever_reportagem",
+            "lip.ef09.producao_de_textos.planejar_artigo",
+            "lip.ef09.producao_de_textos.produzir_campanha",
+            "lip.ef09.producao_de_textos.divulgar_pesquisa",
+            "lip.ef09.producao_de_textos.resenha_com_vozes"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Oralidade",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef09.oralidade.debate_regrado",
+            "lip.ef09.oralidade.entrevista_oral",
+            "lip.ef09.oralidade.escuta_critica",
+            "lip.ef09.oralidade.problematizar",
+            "lip.ef09.oralidade.tomar_nota"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Literatura",
+          "aulasPlanejadas": 7,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef09.literatura.condicoes_de_producao_literaria",
+            "lip.ef09.literatura.literatura_e_contexto_social",
+            "lip.ef09.literatura.fruicao_e_replica",
+            "lip.ef09.literatura.textualidade_literaria",
+            "lip.ef09.literatura.recursos_expressivos",
+            "lip.ef09.literatura.oralidade_literaria",
+            "lip.ef09.literatura.representar_textos_dramaticos"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Cidadania e Textos Normativos",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.ef09.cidadania_e_textos_normativos.textos_normativos",
+            "lip.ef09.cidadania_e_textos_normativos.canais_de_participacao",
+            "lip.ef09.cidadania_e_textos_normativos.generos_reivindicatorios",
+            "lip.ef09.cidadania_e_textos_normativos.comparar_propostas"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    },
+    {
+      "nivel": "EM01",
+      "aulasImplementadas": 0,
+      "atividades": 0,
+      "questoesTreino": 0,
+      "itensProva": 0,
+      "provas": 0,
+      "unidades": [
+        {
+          "titulo": "Língua e Contexto",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em01.lingua_e_contexto.texto_e_condicoes_de_producao",
+            "lip.em01.lingua_e_contexto.coerencia_e_coesao",
+            "lip.em01.lingua_e_contexto.intertextualidade",
+            "lip.em01.lingua_e_contexto.interdiscurso_na_argumentacao",
+            "lip.em01.lingua_e_contexto.efeitos_de_escolha"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Argumentação",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em01.argumentacao.movimentos_argumentativos",
+            "lip.em01.argumentacao.posicao_do_enunciador",
+            "lip.em01.argumentacao.tipos_de_argumento",
+            "lip.em01.argumentacao.forca_argumentativa",
+            "lip.em01.argumentacao.contra_argumento",
+            "lip.em01.argumentacao.falacias_comuns"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Estilo e Efeitos",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em01.estilo_e_efeitos.usos_expressivos_da_linguagem",
+            "lip.em01.estilo_e_efeitos.ironia_e_humor",
+            "lip.em01.estilo_e_efeitos.escolhas_estilisticas",
+            "lip.em01.estilo_e_efeitos.recursos_multissemioticos"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Sintaxe e Gramática",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em01.sintaxe_e_gramatica.ordem_dos_constituintes",
+            "lip.em01.sintaxe_e_gramatica.gramatica_tradicional_e_de_uso",
+            "lip.em01.sintaxe_e_gramatica.concordancia_e_regencia",
+            "lip.em01.sintaxe_e_gramatica.periodo_composto",
+            "lip.em01.sintaxe_e_gramatica.colocacao_pronominal",
+            "lip.em01.sintaxe_e_gramatica.pontuacao_e_sintaxe"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Variação Linguística",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em01.variacao_linguistica.niveis_de_variacao",
+            "lip.em01.variacao_linguistica.variedades_e_norma",
+            "lip.em01.variacao_linguistica.preconceito_linguistico",
+            "lip.em01.variacao_linguistica.adequacao_ao_contexto"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Leitura e Estudo",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em01.leitura_e_estudo.curadoria_de_informacao",
+            "lip.em01.leitura_e_estudo.fontes_confiaveis",
+            "lip.em01.leitura_e_estudo.estrategias_de_estudo",
+            "lip.em01.leitura_e_estudo.ler_divulgacao_cientifica",
+            "lip.em01.leitura_e_estudo.resumir_e_resenhar"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Produção de Textos",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em01.producao_de_textos.planejar_e_revisar",
+            "lip.em01.producao_de_textos.textos_orais",
+            "lip.em01.producao_de_textos.roteiros_de_video",
+            "lip.em01.producao_de_textos.edicao_digital",
+            "lip.em01.producao_de_textos.artigo_de_opiniao",
+            "lip.em01.producao_de_textos.apresentacao_com_slides"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Campo da Vida Pessoal",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em01.vida_pessoal.apresentar_se",
+            "lip.em01.vida_pessoal.compartilhar_interesses",
+            "lip.em01.vida_pessoal.playlists_comentadas",
+            "lip.em01.vida_pessoal.profissoes_e_projetos"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Campo da Vida Pública",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em01.vida_publica.discurso_politico",
+            "lip.em01.vida_publica.participacao_nao_institucional",
+            "lip.em01.vida_publica.reunioes_escolares",
+            "lip.em01.vida_publica.documentos_legais",
+            "lip.em01.vida_publica.engajar_se_na_solucao"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Campo Jornalístico-Midiático",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em01.jornalismo.interesses_do_jornalismo",
+            "lip.em01.jornalismo.projetos_editoriais",
+            "lip.em01.jornalismo.parcialidade_e_imparcialidade",
+            "lip.em01.jornalismo.checagem_de_fatos",
+            "lip.em01.jornalismo.pos_verdade_e_fake_news"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Campo Artístico-Literário",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em01.literatura.compartilhar_leituras",
+            "lip.em01.literatura.literatura_brasileira_e_portuguesa",
+            "lip.em01.literatura.generos_literarios",
+            "lip.em01.literatura.intertextualidade_literaria",
+            "lip.em01.literatura.repertorio_contemporaneo",
+            "lip.em01.literatura.obras_significativas"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    },
+    {
+      "nivel": "EM02",
+      "aulasImplementadas": 0,
+      "atividades": 0,
+      "questoesTreino": 0,
+      "itensProva": 0,
+      "provas": 0,
+      "unidades": [
+        {
+          "titulo": "Leitura Crítica da Mídia",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em02.leitura_critica_da_midia.interesses_do_campo_jornalistico",
+            "lip.em02.leitura_critica_da_midia.projetos_editoriais",
+            "lip.em02.leitura_critica_da_midia.graus_de_parcialidade",
+            "lip.em02.leitura_critica_da_midia.checagem_de_fatos",
+            "lip.em02.leitura_critica_da_midia.pos_verdade",
+            "lip.em02.leitura_critica_da_midia.curadoria_nas_redes"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Publicidade e Consumo",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em02.publicidade_e_consumo.publicidade_digital",
+            "lip.em02.publicidade_e_consumo.influenciadores_e_consumo",
+            "lip.em02.publicidade_e_consumo.comentarios_e_etica",
+            "lip.em02.publicidade_e_consumo.cobertura_de_temas_sociais"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Pesquisa",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em02.pesquisa.tipos_de_pesquisa",
+            "lip.em02.pesquisa.selecionar_dados",
+            "lip.em02.pesquisa.instrumentos_de_coleta",
+            "lip.em02.pesquisa.organizar_estudo",
+            "lip.em02.pesquisa.curadoria_de_informacao",
+            "lip.em02.pesquisa.fontes_confiaveis"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Divulgação Científica",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em02.divulgacao_cientifica.compreender_divulgacao_cientifica",
+            "lip.em02.divulgacao_cientifica.produzir_divulgacao",
+            "lip.em02.divulgacao_cientifica.ferramentas_de_apresentacao",
+            "lip.em02.divulgacao_cientifica.resumo_de_pesquisa",
+            "lip.em02.divulgacao_cientifica.roteiro_de_video_cientifico"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Argumentação",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em02.argumentacao.movimentos_argumentativos",
+            "lip.em02.argumentacao.posicao_do_enunciador",
+            "lip.em02.argumentacao.tipos_de_argumento",
+            "lip.em02.argumentacao.artigo_de_opiniao",
+            "lip.em02.argumentacao.debate_e_texto_oral",
+            "lip.em02.argumentacao.falacias"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Literatura Brasileira",
+          "aulasPlanejadas": 7,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em02.literatura_brasileira.formacao_da_literatura_brasileira",
+            "lip.em02.literatura_brasileira.romantismo_e_realismo",
+            "lip.em02.literatura_brasileira.modernismo",
+            "lip.em02.literatura_brasileira.compartilhar_leituras",
+            "lip.em02.literatura_brasileira.eventos_literarios",
+            "lip.em02.literatura_brasileira.generos_literarios",
+            "lip.em02.literatura_brasileira.repertorio_pessoal"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Campo da Vida Pública",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em02.vida_publica.discurso_politico",
+            "lip.em02.vida_publica.participacao_social",
+            "lip.em02.vida_publica.reunioes_e_colegiados",
+            "lip.em02.vida_publica.documentos_legais",
+            "lip.em02.vida_publica.propor_solucoes"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Língua e Sintaxe",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em02.lingua_e_sintaxe.ordem_dos_constituintes",
+            "lip.em02.lingua_e_sintaxe.gramatica_de_uso",
+            "lip.em02.lingua_e_sintaxe.variacao_linguistica",
+            "lip.em02.lingua_e_sintaxe.coesao_e_coerencia",
+            "lip.em02.lingua_e_sintaxe.estilo_e_escolhas"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Produção Multimídia",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em02.producao_multimidia.planejar_e_revisar",
+            "lip.em02.producao_multimidia.textos_orais",
+            "lip.em02.producao_multimidia.roteiros",
+            "lip.em02.producao_multimidia.edicao_colaborativa"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    },
+    {
+      "nivel": "EM03",
+      "aulasImplementadas": 0,
+      "atividades": 0,
+      "questoesTreino": 0,
+      "itensProva": 0,
+      "provas": 0,
+      "unidades": [
+        {
+          "titulo": "Revisão de Língua",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em03.revisao_de_lingua.coesao_e_coerencia",
+            "lip.em03.revisao_de_lingua.estilo_e_registro",
+            "lip.em03.revisao_de_lingua.ordem_dos_constituintes",
+            "lip.em03.revisao_de_lingua.gramatica_de_uso",
+            "lip.em03.revisao_de_lingua.variacao_e_norma",
+            "lip.em03.revisao_de_lingua.marcas_do_enunciador"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Argumentação e Prova",
+          "aulasPlanejadas": 6,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em03.argumentacao_e_prova.movimentos_argumentativos",
+            "lip.em03.argumentacao_e_prova.tipos_de_argumento",
+            "lip.em03.argumentacao_e_prova.dissertacao_argumentativa",
+            "lip.em03.argumentacao_e_prova.texto_oral_argumentativo",
+            "lip.em03.argumentacao_e_prova.selecionar_evidencias",
+            "lip.em03.argumentacao_e_prova.interdiscurso"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Leitura Crítica",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em03.leitura_critica.parcialidade",
+            "lip.em03.leitura_critica.pos_verdade",
+            "lip.em03.leitura_critica.cobertura_midiatica",
+            "lip.em03.leitura_critica.etica_no_compartilhamento",
+            "lip.em03.leitura_critica.checagem_de_fatos"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Literatura Contemporânea",
+          "aulasPlanejadas": 8,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em03.literatura_contemporanea.compartilhar_leituras",
+            "lip.em03.literatura_contemporanea.eventos_culturais",
+            "lip.em03.literatura_contemporanea.literatura_brasileira_hoje",
+            "lip.em03.literatura_contemporanea.generos_literarios",
+            "lip.em03.literatura_contemporanea.intertextualidade",
+            "lip.em03.literatura_contemporanea.repertorio_contemporaneo",
+            "lip.em03.literatura_contemporanea.obras_significativas",
+            "lip.em03.literatura_contemporanea.critica_apreciativa"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Autoria",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em03.autoria.criar_obras_autorais",
+            "lip.em03.autoria.apropriacao_criativa",
+            "lip.em03.autoria.roteiros_e_edicao",
+            "lip.em03.autoria.ferramentas_colaborativas",
+            "lip.em03.autoria.publicidade_e_consumo"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Pesquisa e Projeto",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em03.pesquisa_e_projeto.organizar_estudo",
+            "lip.em03.pesquisa_e_projeto.tipos_de_pesquisa",
+            "lip.em03.pesquisa_e_projeto.selecionar_dados",
+            "lip.em03.pesquisa_e_projeto.instrumentos_de_coleta",
+            "lip.em03.pesquisa_e_projeto.divulgar_resultados"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Vida Pessoal e Pública",
+          "aulasPlanejadas": 5,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em03.vida_pessoal_e_publica.apresentar_se",
+            "lip.em03.vida_pessoal_e_publica.profissoes",
+            "lip.em03.vida_pessoal_e_publica.reunioes_e_colegiados",
+            "lip.em03.vida_pessoal_e_publica.documentos_legais",
+            "lip.em03.vida_pessoal_e_publica.propor_solucoes"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Mídia e Ética",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em03.midia_e_etica.interesses_jornalisticos",
+            "lip.em03.midia_e_etica.curadoria_algoritmica",
+            "lip.em03.midia_e_etica.etica_na_rede",
+            "lip.em03.midia_e_etica.publicidade_digital"
+          ],
+          "estado": "planejamento"
+        },
+        {
+          "titulo": "Síntese Final",
+          "aulasPlanejadas": 4,
+          "aulasImplementadas": 0,
+          "aulasPendentes": [
+            "lip.em03.sintese_final.texto_e_contexto",
+            "lip.em03.sintese_final.intertextualidade",
+            "lip.em03.sintese_final.curadoria",
+            "lip.em03.sintese_final.apresentacao_final"
+          ],
+          "estado": "planejamento"
+        }
+      ]
+    }
+  ],
+  "errosEstruturais": [],
+  "pendencias": [
+    "Homologação docente e aplicação real.",
+    "Revisão visual e acessibilidade.",
+    "Autenticação, Firebase e cache reais."
+  ],
+  "proximaAutoria": "Ortografia e Pontuação EF06",
+  "limite": "Vínculos BNCC são evidências planejadas de recortes; não comprovam domínio nem cobertura integral."
+}
