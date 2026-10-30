@@ -1,0 +1,147 @@
+{
+  "id": "cna.ef01.cuidar_do_ambiente_proximo.prova",
+  "titulo": "Avaliação: Cuidar do Ambiente Próximo",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Cuidar do Ambiente Próximo",
+  "bncc": [
+    "EF01CI01",
+    "EF01CI06"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "2 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/2 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+  "questoes": [
+    "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola.prova.1",
+    "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno.prova.1"
+  ],
+  "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Cuidar do Ambiente Próximo",
+    "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+    "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+    "rubrica": [
+      "Atende: produção verificável e explicação coerente.",
+      "Em desenvolvimento: evidência parcial com revisão.",
+      "Retomar: produção ou relação ainda precisa ser desenvolvida."
+    ],
+    "bncc": [
+      "EF01CI01",
+      "EF01CI06"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Resíduos da escola: observar sem manusear riscos — producao1",
+        "enunciado": "Faça um mapa simples dos pontos de descarte de um espaço autorizado, sem abrir recipientes ou fotografar pessoas. Registre sinalização e uma dúvida sobre destino de papel.",
+        "gabarito": "Exigir observação segura e pergunta real; não declarar que todo resíduo foi identificado ou reciclado.",
+        "rubrica": [
+          "Exigir observação segura e pergunta real; não declarar que todo resíduo foi identificado ou reciclado.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola#lixo_na_escola.producao1"
+      },
+      {
+        "titulo": "Resíduos da escola: observar sem manusear riscos — producao2",
+        "enunciado": "Com adulto, confirme um encaminhamento de material seguro e proponha uma melhoria de informação ou redução de uso. Registre o que foi confirmado e o que está pendente.",
+        "gabarito": "Relacionar ação a material/coleta e não inventar resultado ambiental ou quantidade poupada.",
+        "rubrica": [
+          "Relacionar ação a material/coleta e não inventar resultado ambiental ou quantidade poupada.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI01"
+        ],
+        "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola#lixo_na_escola.producao2"
+      },
+      {
+        "titulo": "Registrar atividades dos animais em horários seguros — producao1",
+        "enunciado": "Com adulto, observe de lugar seguro em dois horários permitidos ou consulte registros de fonte identificada. Anote período e atividade, ou não visto, sem expor endereço.",
+        "gabarito": "Exigir origem, horário e comportamento/ausência de observação; sem exigir fotografia ou identificação de espécie desconhecida.",
+        "rubrica": [
+          "Exigir origem, horário e comportamento/ausência de observação; sem exigir fotografia ou identificação de espécie desconhecida.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno#animais_do_entorno.producao1"
+      },
+      {
+        "titulo": "Registrar atividades dos animais em horários seguros — producao2",
+        "enunciado": "Compare os registros e explique o que sugerem sobre atividade e período e o que não permitem concluir.",
+        "gabarito": "Relacionar ao ciclo diário com limite e necessidade de mais dados, evitando regra para todo grupo.",
+        "rubrica": [
+          "Relacionar ao ciclo diário com limite e necessidade de mais dados, evitando regra para todo grupo.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno#animais_do_entorno.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "MMA — Política dos 5Rs",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+    },
+    {
+      "documento": "NIGMS — Circadian Rhythms",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+      "consulta": "2026-10-30",
+      "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF01CI01",
+      "questoes": [
+        "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.cuidar_do_ambiente_proximo.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola#lixo_na_escola.producao1",
+        "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola#lixo_na_escola.producao2"
+      ]
+    },
+    {
+      "bncc": "EF01CI06",
+      "questoes": [
+        "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.cuidar_do_ambiente_proximo.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno#animais_do_entorno.producao1",
+        "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno#animais_do_entorno.producao2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "cna.ef01.corpo_humano.corpo_em_movimento",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 5,
+  "unidade": "Corpo Humano",
+  "titulo": "Movimentos e diferentes formas de participar",
+  "bncc": [
+    "EF01CI02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com cartões ou figura articulada montada pelo adulto, mostre duas posições confortáveis do braço ou tronco. Nomeie as partes e descreva o que mudou. Não faça teste de amplitude ou força.",
+      "Um objeto ficou fora do alcance de um personagem. Proponha duas mudanças no ambiente para que ele participe sem esforço desconfortável."
+    ],
+    "resumo": "Movimentos e diferentes formas de participar",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.corpo_humano.desenhando_o_corpo\">Representar o corpo: nomes, posições e legendas</button></p><h2>Movimentos e diferentes formas de participar</h2><h3>Para compreender</h3><p>Mover envolve diferentes partes e coordenação. Dobrar um braço pode mudar a posição da mão; inclinar a cabeça é diferente de dobrar o tronco. Articulações permitem certos movimentos, e seus limites variam. Há pessoas que se deslocam andando, com cadeira de rodas, apoio ou ajuda. Estudar movimento não é competir por força, imitar deficiência ou exigir uma ação dolorosa. Podemos observar figuras, modelos e gestos voluntários confortáveis.</p><h3>Exemplo comentado</h3><p>Para alcançar um cartão, uma pessoa pode aproximá-lo pela mesa ou usar um pegador. Descrever o que mudou de posição ajuda a explicar a ação. Um modelo articulado de papel tem peças móveis, mas não reproduz todos os músculos e estruturas do corpo.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Com cartões ou figura articulada montada pelo adulto, mostre duas posições confortáveis do braço ou tronco. Nomeie as partes e descreva o que mudou. Não faça teste de amplitude ou força.</p><h4>Explique e aplique</h4><p>Um objeto ficou fora do alcance de um personagem. Proponha duas mudanças no ambiente para que ele participe sem esforço desconfortável.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "corpo_em_movimento.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No modelo, dobrar o braço muda principalmente:",
+      "alternativas": [
+        "A posição de suas partes.",
+        "O nome da pessoa.",
+        "O material de que a mesa é feita."
+      ],
+      "correta": 0,
+      "explicacao": "Para alcançar um cartão, uma pessoa pode aproximá-lo pela mesa ou usar um pegador. Descrever o que mudou de posição ajuda a explicar a ação. Um modelo articulado de papel tem peças móveis, mas não reproduz todos os músculos e estruturas do corpo.",
+      "bncc": [
+        "EF01CI02"
+      ]
+    },
+    {
+      "id": "corpo_em_movimento.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Com cartões ou figura articulada montada pelo adulto, mostre duas posições confortáveis do braço ou tronco. Nomeie as partes e descreva o que mudou. Não faça teste de amplitude ou força.",
+      "gabarito": "Relacionar parte e mudança de posição; aceitar manipulação assistida ou descrição de imagem, sem medir desempenho pessoal.",
+      "rubrica": [
+        "Relacionar parte e mudança de posição; aceitar manipulação assistida ou descrição de imagem, sem medir desempenho pessoal.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI02"
+      ]
+    },
+    {
+      "id": "corpo_em_movimento.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Um objeto ficou fora do alcance de um personagem. Proponha duas mudanças no ambiente para que ele participe sem esforço desconfortável.",
+      "gabarito": "Aceitar aproximar material, ajustar altura da mesa ou oferecer recurso combinado; não responsabilizar o corpo pela barreira.",
+      "rubrica": [
+        "Aceitar aproximar material, ajustar altura da mesa ou oferecer recurso combinado; não responsabilizar o corpo pela barreira.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.corpo_humano.desenhando_o_corpo"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Corpo Humano",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "titulo": "Corpo em Movimento"
+  }
+}

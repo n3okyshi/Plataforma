@@ -1,0 +1,193 @@
+{
+  "id": "cna.ef01.dia_e_noite_na_vida.prova",
+  "titulo": "Avaliação: Dia e Noite na Vida dos Seres Vivos",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Dia e Noite na Vida dos Seres Vivos",
+  "bncc": [
+    "EF01CI06"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/4 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+  "questoes": [
+    "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais.prova.1",
+    "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas.prova.1",
+    "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia.prova.1",
+    "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar.prova.1"
+  ],
+  "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.dia_e_noite_na_vida.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Dia e Noite na Vida dos Seres Vivos",
+    "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+    "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+    "rubrica": [
+      "Atende: produção verificável e explicação coerente.",
+      "Em desenvolvimento: evidência parcial com revisão.",
+      "Retomar: produção ou relação ainda precisa ser desenvolvida."
+    ],
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Animais: atividades em diferentes períodos — producao1",
+        "enunciado": "Organize cartões do caso em manhã, tarde, noite ou transição. Para cada animal, diferencie o que o registro mostra e o que seria preciso observar para conhecer sua rotina.",
+        "gabarito": "Exigir período e limite de inferência; não universalizar todos os animais de um grupo.",
+        "rubrica": [
+          "Exigir período e limite de inferência; não universalizar todos os animais de um grupo.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais#ritmo_dos_animais.producao1"
+      },
+      {
+        "titulo": "Animais: atividades em diferentes períodos — producao2",
+        "enunciado": "Com adulto, observe um animal do entorno à distância em horário seguro ou consulte registro identificado. Anote espécie se conhecida, comportamento, data e período, sem alimentar, tocar, capturar ou visitar abrigo.",
+        "gabarito": "Exigir observação ou consulta real com origem; animal não visto também pode ser registrado sem inventar presença.",
+        "rubrica": [
+          "Exigir observação ou consulta real com origem; animal não visto também pode ser registrado sem inventar presença.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais#ritmo_dos_animais.producao2"
+      },
+      {
+        "titulo": "Rotinas das pessoas e períodos diários — producao1",
+        "enunciado": "Monte duas rotinas fictícias em manhã/tarde/noite com atividades de estudo, cuidado e descanso. Compare uma semelhança e uma diferença.",
+        "gabarito": "Exigir organização temporal coerente e comparação, sem impor horário real a famílias ou exigir dados pessoais.",
+        "rubrica": [
+          "Exigir organização temporal coerente e comparação, sem impor horário real a famílias ou exigir dados pessoais.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas#rotina_das_pessoas.producao1"
+      },
+      {
+        "titulo": "Rotinas das pessoas e períodos diários — producao2",
+        "enunciado": "Explique como uma atividade pode mudar de horário sem mudar o nome dos períodos diários. Indique uma necessidade de apoio para o descanso de um personagem.",
+        "gabarito": "Distinguir período e atividade, reconhecer diversidade e evitar diagnóstico ou recomendação individual de horas.",
+        "rubrica": [
+          "Distinguir período e atividade, reconhecer diversidade e evitar diagnóstico ou recomendação individual de horas.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas#rotina_das_pessoas.producao2"
+      },
+      {
+        "titulo": "Plantas e ritmos diários — producao1",
+        "enunciado": "Observe a mesma planta segura em dois horários permitidos por vários dias, sem alterar água ou luz deliberadamente. Registre posição de folhas/flores, data e período; pode não haver mudança visível.",
+        "gabarito": "Exigir diário real ou fonte identificada; ausência de mudança é resultado válido. Não identificar ritmo universal por uma espécie.",
+        "rubrica": [
+          "Exigir diário real ou fonte identificada; ausência de mudança é resultado válido. Não identificar ritmo universal por uma espécie.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia#plantas_e_o_dia.producao1"
+      },
+      {
+        "titulo": "Plantas e ritmos diários — producao2",
+        "enunciado": "Explique por que não podemos dizer que planta deixa de respirar à noite. Compare o que foi visto no diário com o que ainda não foi investigado.",
+        "gabarito": "Distinguir respiração contínua e processos dependentes de luz; não exigir experimento de gases ou cultivo em privação.",
+        "rubrica": [
+          "Distinguir respiração contínua e processos dependentes de luz; não exigir experimento de gases ou cultivo em privação.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia#plantas_e_o_dia.producao2"
+      },
+      {
+        "titulo": "Sono, vigília e sinais do ambiente — producao1",
+        "enunciado": "Organize um ciclo fictício com períodos de atividade e descanso. Relacione um sinal do ambiente à organização da rotina e indique um limite da representação.",
+        "gabarito": "Exigir relação com ciclo diário e reconhecimento da diversidade; não confundir desenho com observação do sono de alguém.",
+        "rubrica": [
+          "Exigir relação com ciclo diário e reconhecimento da diversidade; não confundir desenho com observação do sono de alguém.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar#dormir_e_acordar.producao1"
+      },
+      {
+        "titulo": "Sono, vigília e sinais do ambiente — producao2",
+        "enunciado": "No caso de luz e barulho, proponha duas mudanças possíveis com adulto e explique como verificar conforto sem diagnosticar insônia.",
+        "gabarito": "Aceitar ajuste de iluminação, redução de ruído e apoio; não recomendar medicamento, horas rígidas ou teste de privação.",
+        "rubrica": [
+          "Aceitar ajuste de iluminação, redução de ruído e apoio; não recomendar medicamento, horas rígidas ou teste de privação.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar#dormir_e_acordar.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "NIGMS — Circadian Rhythms",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+      "consulta": "2026-10-30",
+      "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF01CI06",
+      "questoes": [
+        "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais.prova.1",
+        "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas.prova.1",
+        "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia.prova.1",
+        "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.dia_e_noite_na_vida.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais#ritmo_dos_animais.producao1",
+        "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais#ritmo_dos_animais.producao2",
+        "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas#rotina_das_pessoas.producao1",
+        "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas#rotina_das_pessoas.producao2",
+        "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia#plantas_e_o_dia.producao1",
+        "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia#plantas_e_o_dia.producao2",
+        "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar#dormir_e_acordar.producao1",
+        "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar#dormir_e_acordar.producao2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "cna.ef01.tempo_e_rotina.prova",
+  "titulo": "Avaliação: Tempo e Rotina",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Tempo e Rotina",
+  "bncc": [
+    "EF01CI05"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/5 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+  "questoes": [
+    "cna.ef01.tempo_e_rotina.dias_da_semana.prova.1",
+    "cna.ef01.tempo_e_rotina.semanas_meses_e_anos.prova.1",
+    "cna.ef01.tempo_e_rotina.o_calendario_escolar.prova.1",
+    "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha.prova.1",
+    "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo.prova.1"
+  ],
+  "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.tempo_e_rotina.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Tempo e Rotina",
+    "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+    "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+    "rubrica": [
+      "Atende: produção verificável e explicação coerente.",
+      "Em desenvolvimento: evidência parcial com revisão.",
+      "Retomar: produção ou relação ainda precisa ser desenvolvida."
+    ],
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tarefas": [
+      {
+        "titulo": "A sequência dos dias da semana — producao1",
+        "enunciado": "Monte a roda dos sete dias com cartões, fala ou apontamento. Escolha dois pontos de partida e continue a sequência sem pular dias.",
+        "gabarito": "Exigir sete nomes em ordem cíclica; permitir leitura mediada e apoio visual, sem exigir escrita autônoma.",
+        "rubrica": [
+          "Exigir sete nomes em ordem cíclica; permitir leitura mediada e apoio visual, sem exigir escrita autônoma.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI05"
+        ],
+        "atividadeOrigem": "cna.ef01.tempo_e_rotina.dias_da_semana#dias_da_semana.producao1"
+      },
+      {
+        "titulo": "A sequência dos dias da semana — producao2",
+        "enunciado": "No calendário incorporado, encontre dois dias com o mesmo nome e números diferentes. Explique nome do dia e data.",
+        "gabarito": "Identificar repetição semanal e datas distintas, usando colunas corretas; não afirmar que toda segunda é dia de aula.",
+        "rubrica": [
+          "Identificar repetição semanal e datas distintas, usando colunas corretas; não afirmar que toda segunda é dia de aula.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI05"
+        ],
+        "atividadeOrigem": "cna.ef01.tempo_e_rotina.dias_da_semana#dias_da_semana.producao2"
+      },
+      {
+        "titulo": "Dias, semanas, meses e anos — producao1",
+        "enunciado": "Agrupe cartões com exemplos: um dia de registro, uma semana de sete cartões, uma página de mês e um conjunto de doze meses. Organize do intervalo menor ao maior.",
+        "gabarito": "Esperar dia, semana, mês e ano; usar calendário como apoio sem exigir cálculos de todos os dias do ano.",
+        "rubrica": [
+          "Esperar dia, semana, mês e ano; usar calendário como apoio sem exigir cálculos de todos os dias do ano.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI05"
+        ],
+        "atividadeOrigem": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos#semanas_meses_e_anos.producao1"
+      },
+      {
+        "titulo": "Dias, semanas, meses e anos — producao2",
+        "enunciado": "Compare outubro e novembro de 2026 nas tabelas incorporadas. Mostre a mudança de data no fim de outubro e a continuidade do dia da semana.",
+        "gabarito": "Reconhecer 31 de outubro seguido de 1º de novembro, sábado/domingo nessa referência. Distinguir resultado do calendário e regra geral de continuidade.",
+        "rubrica": [
+          "Reconhecer 31 de outubro seguido de 1º de novembro, sábado/domingo nessa referência. Distinguir resultado do calendário e regra geral de continuidade.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI05"
+        ],
+        "atividadeOrigem": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos#semanas_meses_e_anos.producao2"
+      },
+      {
+        "titulo": "Ler datas e planejar sem inventar eventos — producao1",
+        "enunciado": "Use o calendário incorporado para localizar 5 e 12 de outubro de 2026. Faça legenda própria para duas atividades fictícias e marque claramente simulação.",
+        "gabarito": "Localizar nas posições corretas e identificar datas/legenda. Não tratar marcações fictícias como agenda escolar confirmada.",
+        "rubrica": [
+          "Localizar nas posições corretas e identificar datas/legenda. Não tratar marcações fictícias como agenda escolar confirmada.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI05"
+        ],
+        "atividadeOrigem": "cna.ef01.tempo_e_rotina.o_calendario_escolar#o_calendario_escolar.producao1"
+      },
+      {
+        "titulo": "Ler datas e planejar sem inventar eventos — producao2",
+        "enunciado": "Com adulto, consulte um evento realmente divulgado pela escola. Registre data e fonte, ou anote que a consulta está pendente. Compare com o exemplo fictício.",
+        "gabarito": "Exigir fonte real sem expor nomes ou contatos; distinguir informação verificada e planejamento.",
+        "rubrica": [
+          "Exigir fonte real sem expor nomes ou contatos; distinguir informação verificada e planejamento.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI05"
+        ],
+        "atividadeOrigem": "cna.ef01.tempo_e_rotina.o_calendario_escolar#o_calendario_escolar.producao2"
+      },
+      {
+        "titulo": "Ontem, hoje e amanhã dependem da referência — producao1",
+        "enunciado": "Escolha o dia 10 de outubro na tabela. Localize anterior e seguinte, desenhando setas e usando ontem/hoje/amanhã para esse caso fictício.",
+        "gabarito": "Esperar 9/10/11, com referência explícita; aceitar leitura mediada.",
+        "rubrica": [
+          "Esperar 9/10/11, com referência explícita; aceitar leitura mediada.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI05"
+        ],
+        "atividadeOrigem": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha#ontem_hoje_e_amanha.producao1"
+      },
+      {
+        "titulo": "Ontem, hoje e amanhã dependem da referência — producao2",
+        "enunciado": "Mude a referência para 1º de novembro de 2026. Mostre o dia anterior no outro mês e o seguinte. Explique por que a data ajuda o registro.",
+        "gabarito": "Esperar 31 de outubro e 2 de novembro; reconhecer travessia de mês sem reiniciar a sequência temporal.",
+        "rubrica": [
+          "Esperar 31 de outubro e 2 de novembro; reconhecer travessia de mês sem reiniciar a sequência temporal.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI05"
+        ],
+        "atividadeOrigem": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha#ontem_hoje_e_amanha.producao2"
+      },
+      {
+        "titulo": "Instrumentos e escalas de tempo — producao1",
+        "enunciado": "Associe três perguntas a instrumentos: em que data ocorrerá o encontro; quanto durou organizar cartões; em que horário está combinado o início. Justifique as escolhas.",
+        "gabarito": "Relacionar calendário, cronômetro e relógio aos usos; aceitar outras soluções coerentes que identifiquem escala.",
+        "rubrica": [
+          "Relacionar calendário, cronômetro e relógio aos usos; aceitar outras soluções coerentes que identifiquem escala.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI05"
+        ],
+        "atividadeOrigem": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo#instrumentos_para_medir_o_tempo.producao1"
+      },
+      {
+        "titulo": "Instrumentos e escalas de tempo — producao2",
+        "enunciado": "Com adulto, acompanhe uma medida curta de intervalo com cronômetro, sem apressar pessoas. Registre ação, início/fim e unidade lida, ou indique que apenas analisou o modelo.",
+        "gabarito": "Exigir medida real ou alternativa explicitada, sem comparar desempenho de crianças; não confundir leitura de horário com duração.",
+        "rubrica": [
+          "Exigir medida real ou alternativa explicitada, sem comparar desempenho de crianças; não confundir leitura de horário com duração.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI05"
+        ],
+        "atividadeOrigem": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo#instrumentos_para_medir_o_tempo.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF01CI05",
+      "questoes": [
+        "cna.ef01.tempo_e_rotina.dias_da_semana.prova.1",
+        "cna.ef01.tempo_e_rotina.semanas_meses_e_anos.prova.1",
+        "cna.ef01.tempo_e_rotina.o_calendario_escolar.prova.1",
+        "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha.prova.1",
+        "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.tempo_e_rotina.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.tempo_e_rotina.dias_da_semana#dias_da_semana.producao1",
+        "cna.ef01.tempo_e_rotina.dias_da_semana#dias_da_semana.producao2",
+        "cna.ef01.tempo_e_rotina.semanas_meses_e_anos#semanas_meses_e_anos.producao1",
+        "cna.ef01.tempo_e_rotina.semanas_meses_e_anos#semanas_meses_e_anos.producao2",
+        "cna.ef01.tempo_e_rotina.o_calendario_escolar#o_calendario_escolar.producao1",
+        "cna.ef01.tempo_e_rotina.o_calendario_escolar#o_calendario_escolar.producao2",
+        "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha#ontem_hoje_e_amanha.producao1",
+        "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha#ontem_hoje_e_amanha.producao2",
+        "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo#instrumentos_para_medir_o_tempo.producao1",
+        "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo#instrumentos_para_medir_o_tempo.producao2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "cna.ef01.observar_e_registrar_complementar.prova",
+  "titulo": "Avaliação: Observar e Registrar — Complementar",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Observar e Registrar — Complementar",
+  "bncc": [],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": true,
+  "pontuacaoTotal": 10,
+  "instrucoes": "1 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/1 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+  "questoes": [
+    "cna.ef01.observar_e_registrar.cuidado_ao_experimentar.prova.1"
+  ],
+  "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.observar_e_registrar_complementar.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Observar e Registrar — Complementar",
+    "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+    "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+    "rubrica": [
+      "Atende: produção verificável e explicação coerente.",
+      "Em desenvolvimento: evidência parcial com revisão.",
+      "Retomar: produção ou relação ainda precisa ser desenvolvida."
+    ],
+    "bncc": [],
+    "tarefas": [
+      {
+        "titulo": "Investigar com cuidado e pedir ajuda — producao1",
+        "enunciado": "Analise cartões de situações: comparar papel e tecido; abrir produto desconhecido; usar desenho de vidro quebrado. Classifique o que pode ser estudado com adulto e o que precisa ser evitado.",
+        "gabarito": "Exigir justificativa e escolha de alternativa segura; não realizar a situação de risco para confirmar.",
+        "rubrica": [
+          "Exigir justificativa e escolha de alternativa segura; não realizar a situação de risco para confirmar.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [],
+        "atividadeOrigem": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar#cuidado_ao_experimentar.producao1"
+      },
+      {
+        "titulo": "Investigar com cuidado e pedir ajuda — producao2",
+        "enunciado": "Produza um combinado com três cuidados para uma investigação de materiais e uma forma de pedir ajuda. Explique o que faria se faltasse condição adequada.",
+        "gabarito": "Relacionar cuidado ao risco específico, registrar adaptação ou adiamento sem inventar execução.",
+        "rubrica": [
+          "Relacionar cuidado ao risco específico, registrar adaptação ou adiamento sem inventar execução.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [],
+        "atividadeOrigem": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar#cuidado_ao_experimentar.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    }
+  ],
+  "matriz": []
+}

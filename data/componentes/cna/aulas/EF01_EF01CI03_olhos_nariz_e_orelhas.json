@@ -1,0 +1,123 @@
+{
+  "id": "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 7,
+  "unidade": "Higiene e Saúde",
+  "titulo": "Cuidados com olhos, nariz e orelhas",
+  "bncc": [
+    "EF01CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Classifique cartões com situações: mãos limpas antes de tocar o rosto; objeto no ouvido; lenço usado deixado na mesa; comunicar dor ao responsável. Explique duas escolhas de cuidado.",
+      "Escreva mensagem para o personagem do palito, indicando o que evitar e a quem recorrer."
+    ],
+    "resumo": "Cuidados com olhos, nariz e orelhas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.higiene_e_saude.escovar_os_dentes\">Escovação: cuidar dos dentes com apoio</button></p><h2>Cuidados com olhos, nariz e orelhas</h2><h3>Para compreender</h3><p>Olhos, nariz e orelhas precisam de cuidado sem introduzir objetos em seus interiores. Mãos limpas ajudam a evitar levar sujeira ao rosto. Ao precisar limpar o nariz, use material limpo com orientação e descarte adequado, lavando as mãos depois. A parte interna do ouvido tem mecanismos de proteção; não se coloca cotonete, óleo ou remédio caseiro. Dor, secreção ou dificuldade para ver ou ouvir devem ser comunicadas ao adulto e avaliadas por profissional.</p><h3>Exemplo comentado</h3><p>Um personagem quer usar um palito para retirar algo do ouvido. A resposta é interromper essa ideia e pedir ajuda, sem testar no próprio corpo. Na aula, representamos situações em cartões; ninguém limpa os olhos ou os ouvidos de colegas.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Classifique cartões com situações: mãos limpas antes de tocar o rosto; objeto no ouvido; lenço usado deixado na mesa; comunicar dor ao responsável. Explique duas escolhas de cuidado.</p><h4>Explique e aplique</h4><p>Escreva mensagem para o personagem do palito, indicando o que evitar e a quem recorrer.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li><li><a href=\"https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care\" target=\"_blank\" rel=\"noopener noreferrer\">WHO — Deafness and hearing loss: Ear care</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "olhos_nariz_e_orelhas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para a parte interna do ouvido, a aula orienta:",
+      "alternativas": [
+        "Introduzir cotonete para alcançar mais fundo.",
+        "Não introduzir objetos e buscar orientação se houver problema.",
+        "Usar óleo por conta própria."
+      ],
+      "correta": 1,
+      "explicacao": "Um personagem quer usar um palito para retirar algo do ouvido. A resposta é interromper essa ideia e pedir ajuda, sem testar no próprio corpo. Na aula, representamos situações em cartões; ninguém limpa os olhos ou os ouvidos de colegas.",
+      "bncc": [
+        "EF01CI03"
+      ]
+    },
+    {
+      "id": "olhos_nariz_e_orelhas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Classifique cartões com situações: mãos limpas antes de tocar o rosto; objeto no ouvido; lenço usado deixado na mesa; comunicar dor ao responsável. Explique duas escolhas de cuidado.",
+      "gabarito": "Aprovar higiene e busca de ajuda; recusar introdução de objetos e descarte inadequado. Não ensinar procedimento interno ou remoção de corpo estranho.",
+      "rubrica": [
+        "Aprovar higiene e busca de ajuda; recusar introdução de objetos e descarte inadequado. Não ensinar procedimento interno ou remoção de corpo estranho.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI03"
+      ]
+    },
+    {
+      "id": "olhos_nariz_e_orelhas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Escreva mensagem para o personagem do palito, indicando o que evitar e a quem recorrer.",
+      "gabarito": "Exigir orientação clara sem remédio ou instrumento substituto; responsável procura profissional quando necessário.",
+      "rubrica": [
+        "Exigir orientação clara sem remédio ou instrumento substituto; responsável procura profissional quando necessário.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    },
+    {
+      "documento": "WHO — Deafness and hearing loss: Ear care",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+      "consulta": "2026-10-30",
+      "uso": "Fonte consultada: não introduzir objetos/fluidos no ouvido, cuidado externo e avaliação profissional para problemas. Sem diagnóstico ou tratamento na aula."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.higiene_e_saude.escovar_os_dentes"
+  ],
+  "proximosPassos": [
+    "cna.ef01.higiene_e_saude.higiene_antes_de_comer"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Higiene e Saúde",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "titulo": "Olhos, Nariz e Orelhas"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "cna.ef01.cuidar_do_ambiente_proximo_complementar.prova",
+  "titulo": "Avaliação: Cuidar do Ambiente Próximo — Complementar",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Cuidar do Ambiente Próximo — Complementar",
+  "bncc": [],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": true,
+  "pontuacaoTotal": 10,
+  "instrucoes": "3 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/3 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+  "questoes": [
+    "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua.prova.1",
+    "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola.prova.1",
+    "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul.prova.1"
+  ],
+  "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.cuidar_do_ambiente_proximo_complementar.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Cuidar do Ambiente Próximo — Complementar",
+    "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+    "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+    "rubrica": [
+      "Atende: produção verificável e explicação coerente.",
+      "Em desenvolvimento: evidência parcial com revisão.",
+      "Retomar: produção ou relação ainda precisa ser desenvolvida."
+    ],
+    "bncc": [],
+    "tarefas": [
+      {
+        "titulo": "Água: usar o necessário e garantir acesso — producao1",
+        "enunciado": "Analise dois casos fictícios: deixar água correr sem uso e faltar água para higiene. Explique por que exigem respostas diferentes e indique a quem comunicar.",
+        "gabarito": "Distinguir desperdício e falta de acesso; não reduzir consumo essencial ou responsabilizar crianças por infraestrutura.",
+        "rubrica": [
+          "Distinguir desperdício e falta de acesso; não reduzir consumo essencial ou responsabilizar crianças por infraestrutura.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [],
+        "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua#economizar_agua.producao1"
+      },
+      {
+        "titulo": "Água: usar o necessário e garantir acesso — producao2",
+        "enunciado": "Proponha ação escolar autorizada de cuidado, com recurso e responsável. Se for executada, registre ação observada; sem medida, não invente litros economizados.",
+        "gabarito": "Exigir plano específico e distinção execução/estimativa; manutenção fica com equipe adulta.",
+        "rubrica": [
+          "Exigir plano específico e distinção execução/estimativa; manutenção fica com equipe adulta.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [],
+        "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua#economizar_agua.producao2"
+      },
+      {
+        "titulo": "Plantas da escola: observar e cuidar sem generalizar — producao1",
+        "enunciado": "Escolha com adulto uma planta segura do espaço autorizado. Desenhe características visíveis e registre local e data; não toque se não houver orientação.",
+        "gabarito": "Exigir registro real ou fonte identificada, sem inventar espécie ou necessidade; usar planta conhecida pelo adulto.",
+        "rubrica": [
+          "Exigir registro real ou fonte identificada, sem inventar espécie ou necessidade; usar planta conhecida pelo adulto.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [],
+        "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola#plantas_da_escola.producao1"
+      },
+      {
+        "titulo": "Plantas da escola: observar e cuidar sem generalizar — producao2",
+        "enunciado": "Consulte quem cuida sobre uma necessidade e proponha cuidado compatível. Registre se foi autorizado e realizado, ou deixe pendente.",
+        "gabarito": "Conferir fonte e ação específica; não tratar qualquer rega como benefício nem medir crescimento sem comparação.",
+        "rubrica": [
+          "Conferir fonte e ação específica; não tratar qualquer rega como benefício nem medir crescimento sem comparação.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [],
+        "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola#plantas_da_escola.producao2"
+      },
+      {
+        "titulo": "Terra: água e diferentes representações — producao1",
+        "enunciado": "Compare globo disponível e desenho esquemático ou descrições mediadas. Localize legenda de água e terra, indicando o que é modelo e o que não foi observado diretamente.",
+        "gabarito": "Exigir distinção representação/realidade, sem exigir recurso ausente; registrar se houve apenas descrição.",
+        "rubrica": [
+          "Exigir distinção representação/realidade, sem exigir recurso ausente; registrar se houve apenas descrição.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [],
+        "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul#nosso_planeta_azul.producao1"
+      },
+      {
+        "titulo": "Terra: água e diferentes representações — producao2",
+        "enunciado": "Explique por que muita cor azul num desenho não prova que aquela água é própria para beber nem mede a quantidade no planeta.",
+        "gabarito": "Distinguir convenção e medida; potabilidade exige controle e informação apropriados.",
+        "rubrica": [
+          "Distinguir convenção e medida; potabilidade exige controle e informação apropriados.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [],
+        "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul#nosso_planeta_azul.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+    },
+    {
+      "documento": "MMA — Política dos 5Rs",
+      "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+    },
+    {
+      "documento": "NIGMS — Circadian Rhythms",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+      "consulta": "2026-10-30",
+      "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+    },
+    {
+      "documento": "Funasa — Água transparente é sempre segura para beber?",
+      "url": "https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre aparência e controle de potabilidade. Sem parâmetros normativos, doses de tratamento, teste por consumo ou redistribuição de imagens."
+    }
+  ],
+  "matriz": []
+}

@@ -1,5 +1,1939 @@
 registrarQuestoes([
   {
+    "pergunta": "No esquema, a mão é parte de qual região?",
+    "opcoes": [
+      "Membro superior.",
+      "Tronco.",
+      "Cabeça."
+    ],
+    "correta": 0,
+    "explicacao": "Em uma figura vestida, podemos apontar cabeça, tronco, braço e perna. Não é preciso tocar o corpo de colegas, tirar roupa ou comparar tamanhos. Quem usa comunicação alternativa pode escolher cartões; o adulto pode registrar a indicação.",
+    "id": "cna.ef01.corpo_humano.cabeca_tronco_e_membros.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Corpo Humano",
+    "aulaId": "cna.ef01.corpo_humano.cabeca_tronco_e_membros",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma figura tem formas corporais diferentes das suas. O estudo deve:",
+    "opcoes": [
+      "Localizar as partes representadas e respeitar as diferenças.",
+      "Usar o desenho para decidir o valor da pessoa.",
+      "Exigir que seja redesenhada igual a todos."
+    ],
+    "correta": 0,
+    "explicacao": "Nomear regiões não autoriza hierarquizar corpos.",
+    "id": "cna.ef01.corpo_humano.cabeca_tronco_e_membros.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Corpo Humano",
+    "aulaId": "cna.ef01.corpo_humano.cabeca_tronco_e_membros",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "A pele participa principalmente de informações de:",
+    "opcoes": [
+      "Tato em diferentes regiões.",
+      "Visão apenas.",
+      "Audição apenas."
+    ],
+    "correta": 0,
+    "explicacao": "Um objeto pode ser descrito por sua forma vista, textura tocada com cuidado ou descrição lida por adulto. A pessoa não precisa usar todos esses caminhos. Para investigar não é necessário vendar olhos, provar alimento, cheirar substância desconhecida ou testar a audição de colegas.",
+    "id": "cna.ef01.corpo_humano.orgaos_dos_sentidos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Corpo Humano",
+    "aulaId": "cna.ef01.corpo_humano.orgaos_dos_sentidos",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Qual afirmação está adequada?",
+    "opcoes": [
+      "Informações podem chegar por diferentes suportes acessíveis.",
+      "Quem não percebe por um sentido não pode aprender.",
+      "Toda percepção precisa ser idêntica."
+    ],
+    "correta": 0,
+    "explicacao": "A tarefa avalia relações e explicações, não desempenho sensorial individual.",
+    "id": "cna.ef01.corpo_humano.orgaos_dos_sentidos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Corpo Humano",
+    "aulaId": "cna.ef01.corpo_humano.orgaos_dos_sentidos",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para realizar uma ação cotidiana, as partes do corpo:",
+    "opcoes": [
+      "Têm uma única função fixa.",
+      "Podem trabalhar em conjunto.",
+      "Agem sempre sem relação."
+    ],
+    "correta": 1,
+    "explicacao": "Para folhear um livro, uma pessoa pode usar mãos, apoio de mesa, leitor de tela, suporte ou ajuda. O objetivo de acessar a história pode ser compartilhado, embora os movimentos sejam diferentes. O desenho de uma ação não conta tudo o que participa dela.",
+    "id": "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Corpo Humano",
+    "aulaId": "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Usar um suporte para ler um livro significa:",
+    "opcoes": [
+      "Que a pessoa não está participando.",
+      "Uma possível forma de ampliar o acesso à atividade.",
+      "Que todos devem usar o mesmo suporte."
+    ],
+    "correta": 1,
+    "explicacao": "Recursos podem apoiar uma função sem diminuir a participação.",
+    "id": "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Corpo Humano",
+    "aulaId": "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma legenda serve para:",
+    "opcoes": [
+      "Medir obrigatoriamente a altura real.",
+      "Explicar o que uma indicação representa.",
+      "Transformar desenho em fotografia."
+    ],
+    "correta": 1,
+    "explicacao": "Uma seta escrita mão deve chegar à mão representada, e não ao tronco. Podemos usar dois cartões para mostrar uma parte e sua função. Uma descrição ditada ao adulto também pode acompanhar figura feita com peças ou recursos táteis.",
+    "id": "cna.ef01.corpo_humano.desenhando_o_corpo.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Corpo Humano",
+    "aulaId": "cna.ef01.corpo_humano.desenhando_o_corpo",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "A seta mão aponta para o tronco. O passo adequado é:",
+    "opcoes": [
+      "Trocar o nome da pessoa.",
+      "Rever seta ou legenda para comunicar a localização.",
+      "Manter porque a primeira versão nunca muda."
+    ],
+    "correta": 1,
+    "explicacao": "O registro pode ser revisado para ficar compreensível.",
+    "id": "cna.ef01.corpo_humano.desenhando_o_corpo.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Corpo Humano",
+    "aulaId": "cna.ef01.corpo_humano.desenhando_o_corpo",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "No modelo, dobrar o braço muda principalmente:",
+    "opcoes": [
+      "O nome da pessoa.",
+      "O material de que a mesa é feita.",
+      "A posição de suas partes."
+    ],
+    "correta": 2,
+    "explicacao": "Para alcançar um cartão, uma pessoa pode aproximá-lo pela mesa ou usar um pegador. Descrever o que mudou de posição ajuda a explicar a ação. Um modelo articulado de papel tem peças móveis, mas não reproduz todos os músculos e estruturas do corpo.",
+    "id": "cna.ef01.corpo_humano.corpo_em_movimento.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Corpo Humano",
+    "aulaId": "cna.ef01.corpo_humano.corpo_em_movimento",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma atividade de movimento inclusiva deve:",
+    "opcoes": [
+      "Classificar corpos pela força.",
+      "Exigir a mesma execução de todos.",
+      "Oferecer formas de participar e respeitar limites."
+    ],
+    "correta": 2,
+    "explicacao": "O objetivo é compreender e representar, com participação acessível.",
+    "id": "cna.ef01.corpo_humano.corpo_em_movimento.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Corpo Humano",
+    "aulaId": "cna.ef01.corpo_humano.corpo_em_movimento",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma lixeira identificada para papel prova que todo papel ali será reciclado?",
+    "opcoes": [
+      "Sim, em qualquer condição.",
+      "Não; encaminhamento e processamento também importam.",
+      "Sim, a cor encerra o processo."
+    ],
+    "correta": 1,
+    "explicacao": "Uma folha limpa usada de um lado pode ir para rascunho, e uma caixa íntegra pode guardar materiais. Pilhas, objetos cortantes ou materiais de banheiro não são amostras da aula. A equipe responsável pode informar o destino, sem expor quem descartou algo.",
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo",
+    "aulaId": "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para estudar resíduos da escola, a criança pode:",
+    "opcoes": [
+      "Recolher vidro quebrado como amostra.",
+      "Usar observação autorizada e cartões de materiais limpos.",
+      "Abrir todos os sacos."
+    ],
+    "correta": 1,
+    "explicacao": "O estudo não exige contato com resíduos perigosos.",
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo",
+    "aulaId": "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Não ver um animal no horário do registro significa:",
+    "opcoes": [
+      "Que não foi visto naquele esforço de observação.",
+      "Que ele nunca esteve naquele ambiente.",
+      "Que a espécie desapareceu para sempre."
+    ],
+    "correta": 0,
+    "explicacao": "Um diário pode registrar ave ciscando de manhã e nenhuma ave vista em outro momento. Isso não prova que todas as aves só se alimentam pela manhã. O resultado registra o esforço de observação e seu limite, sem transformar ausência de visão em ausência definitiva.",
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo",
+    "aulaId": "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para relacionar animal e período do dia, é melhor:",
+    "opcoes": [
+      "Usar registros contextualizados e reconhecer seus limites.",
+      "Inventar comportamento esperado.",
+      "Capturar para manter acordado."
+    ],
+    "correta": 0,
+    "explicacao": "A investigação observa sem perturbar animais nem forçar resultados.",
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo",
+    "aulaId": "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Economizar água deve incluir:",
+    "opcoes": [
+      "Deixar de beber durante a aula.",
+      "Impedir que todos lavem as mãos.",
+      "Usar o necessário e evitar uso sem finalidade."
+    ],
+    "correta": 2,
+    "explicacao": "Enquanto ensaboamos as mãos, uma torneira que pode ser fechada com segurança não precisa continuar aberta. O cuidado deve manter a lavagem adequada e o apoio de quem precisa. Ver uma torneira pingar não permite calcular litros desperdiçados sem medida e método.",
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo — Complementar",
+    "aulaId": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Sem medir um vazamento, podemos afirmar:",
+    "opcoes": [
+      "Uma quantidade exata de litros por dia.",
+      "Que não há problema.",
+      "Que foi observado gotejamento e precisa de avaliação adulta."
+    ],
+    "correta": 2,
+    "explicacao": "Observação qualitativa não é medida quantitativa.",
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo — Complementar",
+    "aulaId": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Todas as plantas da escola precisam da mesma quantidade de água?",
+    "opcoes": [
+      "Não; espécie, local e condições importam.",
+      "Sim, em qualquer situação.",
+      "Sim, se estiverem no mesmo bairro."
+    ],
+    "correta": 0,
+    "explicacao": "Duas plantas em locais diferentes podem receber luz e água de modos distintos. Regar todas com a mesma quantidade, sem conhecer condições, não é regra de bom cuidado. O diário identifica amostra, data e condição, sem fingir mudança de crescimento em um único encontro.",
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo — Complementar",
+    "aulaId": "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Não reconhecer a espécie de uma planta exige:",
+    "opcoes": [
+      "Registrar a dúvida e consultar uma fonte ou adulto.",
+      "Provar a folha para identificar.",
+      "Inventar um nome."
+    ],
+    "correta": 0,
+    "explicacao": "Identificação não deve ser inventada ou testada por consumo.",
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo — Complementar",
+    "aulaId": "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Em um mapa, a cor azul deve ser interpretada com:",
+    "opcoes": [
+      "A certeza de que é fotografia real.",
+      "A legenda e o propósito da representação.",
+      "A regra de que todo azul pode ser bebido."
+    ],
+    "correta": 1,
+    "explicacao": "O esquema desta aula é autoral e simplificado, não fotografia de satélite nem mapa com áreas medidas. Um globo preserva forma esférica geral; uma folha é plana. Comparar representações ajuda a fazer perguntas, mas não permite medir a proporção exata de água só contando cores num desenho decorativo.",
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo — Complementar",
+    "aulaId": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "Funasa — Água transparente é sempre segura para beber?",
+        "url": "https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre aparência e controle de potabilidade. Sem parâmetros normativos, doses de tratamento, teste por consumo ou redistribuição de imagens."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Um desenho decorativo permite medir exatamente a água da Terra?",
+    "opcoes": [
+      "Sim, qualquer desenho mantém área correta.",
+      "Não; seria necessário modelo e dados adequados.",
+      "Sim, se usar lápis azul."
+    ],
+    "correta": 1,
+    "explicacao": "Representação sem escala ou método não produz medida exata.",
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo — Complementar",
+    "aulaId": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "Funasa — Água transparente é sempre segura para beber?",
+        "url": "https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre aparência e controle de potabilidade. Sem parâmetros normativos, doses de tratamento, teste por consumo ou redistribuição de imagens."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Um registro de um animal à tarde permite concluir que ele só age à tarde?",
+    "opcoes": [
+      "Não; mostra aquele momento e exige mais informação.",
+      "Sim, se estiver perto da escola.",
+      "Sim, uma observação basta para toda rotina."
+    ],
+    "correta": 0,
+    "explicacao": "Um caso didático descreve uma ave observada alimentando-se de manhã e um morcego em voo ao anoitecer. São descrições para comparar períodos, não identificação de todas as espécies ou prova de rotina completa. A conclusão precisa dizer em que registros se apoia.",
+    "id": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "A sucessão de dia e noite:",
+    "opcoes": [
+      "Pode orientar ritmos diferentes conforme espécie e condições.",
+      "Determina que todos os animais tenham rotina idêntica.",
+      "Não se relaciona a atividades de seres vivos."
+    ],
+    "correta": 0,
+    "explicacao": "Exemplos e séries de observação precisam respeitar a diversidade de ritmos.",
+    "id": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Todas as pessoas estudam e trabalham nos mesmos períodos?",
+    "opcoes": [
+      "Sim, em qualquer lugar.",
+      "Não; rotinas podem variar.",
+      "Sim, por definição de dia."
+    ],
+    "correta": 1,
+    "explicacao": "Um personagem estuda pela manhã e outro à tarde; um adulto pode trabalhar à noite. Não concluímos que a noite deixou de existir nem que uma pessoa vale menos por sua organização. Descanso e acesso a cuidados continuam importantes, com orientação individual quando necessária.",
+    "id": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Um responsável trabalha à noite. Isso permite concluir:",
+    "opcoes": [
+      "Que a família tem menos valor.",
+      "Apenas uma informação de rotina, sem julgamento sobre a família.",
+      "Que ninguém precisa descansar."
+    ],
+    "correta": 1,
+    "explicacao": "Comparar rotina não autoriza julgamento moral nem elimina necessidades de cuidado.",
+    "id": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "À noite, uma planta:",
+    "opcoes": [
+      "Sempre deixa de respirar.",
+      "Realiza apenas fotossíntese, sem respirar.",
+      "Continua respirando."
+    ],
+    "correta": 2,
+    "explicacao": "Um diário de determinada planta pode mostrar flor mais aberta em um horário e menos em outro. Antes de atribuir a mudança só à luz, é preciso considerar espécie, temperatura, água e outros fatores. Uma observação isolada não prova que todas as flores abrem de manhã.",
+    "id": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma flor mudou de aparência entre horários. O registro permite:",
+    "opcoes": [
+      "Concluir que toda flor tem horário idêntico.",
+      "Afirmar que a planta ficou sem vida no escuro.",
+      "Descrever o caso e investigar condições, sem generalizar todas as espécies."
+    ],
+    "correta": 2,
+    "explicacao": "Ritmos e respostas variam; observação precisa de contexto e limites.",
+    "id": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Ficar sem dormir para testar resistência é uma atividade adequada?",
+    "opcoes": [
+      "Sim, se for competição.",
+      "Sim, sempre melhora aprendizagem.",
+      "Não; o estudo usa registros e casos seguros."
+    ],
+    "correta": 2,
+    "explicacao": "Um personagem tenta descansar em ambiente muito iluminado e barulhento. A turma pode discutir reduzir estímulos e pedir ajuda ao adulto. Não é necessário testar privação de sono, ficar acordado até tarde ou comparar quem consegue dormir menos.",
+    "id": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "A luz e a escuridão podem:",
+    "opcoes": [
+      "Substituir toda necessidade de descanso.",
+      "Definir exatamente o mesmo horário para todas as pessoas.",
+      "Participar da sincronização de ritmos, junto com outras condições."
+    ],
+    "correta": 2,
+    "explicacao": "A relação com o ciclo diário não elimina diversidade nem condições de vida.",
+    "id": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "aulaId": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "A aparência permite decidir quem é mais inteligente?",
+    "opcoes": [
+      "Não; essa conclusão não decorre de aparência.",
+      "Sim, pela estatura.",
+      "Sim, pelo cabelo."
+    ],
+    "correta": 0,
+    "explicacao": "Dois personagens podem ter cabelo curto e tons de pele distintos. Outro pode usar óculos. O grupo muda quando o critério muda; isso não cria categorias de pessoas melhores ou piores. Uma característica visível não conta toda a história de alguém.",
+    "id": "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Diversidade e Respeito",
+    "aulaId": "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "UNICEF — Inclusão escolar",
+        "url": "https://www.unicef.org/brazil/inclusao-escolar",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Ao mudar o critério de agrupamento dos personagens:",
+    "opcoes": [
+      "É preciso escolher um corpo como padrão ideal.",
+      "Os grupos podem mudar sem hierarquizar pessoas.",
+      "A pessoa muda de valor."
+    ],
+    "correta": 1,
+    "explicacao": "Critérios de comparação não determinam dignidade ou capacidade.",
+    "id": "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Diversidade e Respeito",
+    "aulaId": "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "UNICEF — Inclusão escolar",
+        "url": "https://www.unicef.org/brazil/inclusao-escolar",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Um personagem pede para parar um apelido sobre seu corpo. O adequado é:",
+    "opcoes": [
+      "Parar, ouvir e respeitar o limite.",
+      "Continuar porque era brincadeira.",
+      "Pedir que ele esconda o corpo."
+    ],
+    "correta": 0,
+    "explicacao": "Um personagem pede que parem um apelido sobre seu cabelo. Respeitar é interromper, ouvir e reparar a atitude, sem exigir que ele aceite. Quem presencia pode apoiar e procurar adulto de confiança, sem transformar o episódio em apresentação pública.",
+    "id": "cna.ef01.diversidade_e_respeito.respeito_as_diferencas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Diversidade e Respeito",
+    "aulaId": "cna.ef01.diversidade_e_respeito.respeito_as_diferencas",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "UNICEF — Inclusão escolar",
+        "url": "https://www.unicef.org/brazil/inclusao-escolar",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Quem presencia uma ofensa pode:",
+    "opcoes": [
+      "Apoiar a pessoa e procurar adulto de confiança.",
+      "Repetir para toda a turma.",
+      "Exigir que a vítima resolva sozinha."
+    ],
+    "correta": 0,
+    "explicacao": "Acolhimento e intervenção responsável ajudam a enfrentar exclusão.",
+    "id": "cna.ef01.diversidade_e_respeito.respeito_as_diferencas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Diversidade e Respeito",
+    "aulaId": "cna.ef01.diversidade_e_respeito.respeito_as_diferencas",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "UNICEF — Inclusão escolar",
+        "url": "https://www.unicef.org/brazil/inclusao-escolar",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Acolher alguém numa atividade significa:",
+    "opcoes": [
+      "Deixar entrar sem alterar qualquer barreira.",
+      "Buscar condições para participar com autonomia e apoio.",
+      "Decidir tudo sem perguntar."
+    ],
+    "correta": 1,
+    "explicacao": "Um jogo exige ler letras pequenas rapidamente. Há maneiras de mudar o material: letras maiores, leitura mediada, cartões táteis ou outro modo combinado. O objetivo é participar do jogo e aprender, não selecionar quem lê ou se move mais rápido.",
+    "id": "cna.ef01.diversidade_e_respeito.acolhimento_na_escola.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Diversidade e Respeito",
+    "aulaId": "cna.ef01.diversidade_e_respeito.acolhimento_na_escola",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "UNICEF — Inclusão escolar",
+        "url": "https://www.unicef.org/brazil/inclusao-escolar",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Antes de oferecer ajuda, é adequado:",
+    "opcoes": [
+      "Fazer a tarefa inteira pela pessoa.",
+      "Perguntar e combinar o apoio desejado.",
+      "Presumir que todos precisam da mesma coisa."
+    ],
+    "correta": 1,
+    "explicacao": "Apoio respeita escolhas e participação ativa.",
+    "id": "cna.ef01.diversidade_e_respeito.acolhimento_na_escola.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Diversidade e Respeito",
+    "aulaId": "cna.ef01.diversidade_e_respeito.acolhimento_na_escola",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "UNICEF — Inclusão escolar",
+        "url": "https://www.unicef.org/brazil/inclusao-escolar",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Usar cadeira de rodas ou óculos:",
+    "opcoes": [
+      "Define todos os interesses da pessoa.",
+      "Impede qualquer papel ativo na turma.",
+      "Não diminui o valor nem o direito de participar."
+    ],
+    "correta": 2,
+    "explicacao": "Uma história mostra personagens que acessam a leitura de modos diferentes. Eles podem ser autores, leitores, colegas e pessoas com muitos interesses. O recurso de apoio é parte da situação, não sua única característica. O ambiente pode ser reorganizado para que todos participem.",
+    "id": "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Diversidade e Respeito",
+    "aulaId": "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "UNICEF — Inclusão escolar",
+        "url": "https://www.unicef.org/brazil/inclusao-escolar",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma representação respeitosa deve:",
+    "opcoes": [
+      "Exigir que todos pareçam iguais.",
+      "Mostrar apenas a dificuldade do personagem.",
+      "Incluir escolhas e papéis ativos, sem hierarquizar corpos."
+    ],
+    "correta": 2,
+    "explicacao": "Diversidade e dignidade devem aparecer nas ações e possibilidades dos personagens.",
+    "id": "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Diversidade e Respeito",
+    "aulaId": "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "UNICEF — Inclusão escolar",
+        "url": "https://www.unicef.org/brazil/inclusao-escolar",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma escova de dentes deve ser:",
+    "opcoes": [
+      "De uso individual, com cuidado orientado.",
+      "Compartilhada entre colegas após o uso.",
+      "Usada apenas se houver dor."
+    ],
+    "correta": 0,
+    "explicacao": "Um desenho de dentes pode mostrar superfícies da frente, de trás e de mastigação para o adulto explicar o cuidado. Dentes de leite também precisam de higiene. Dor não é condição para cuidar, e um dente sem dor não prova ausência de problema.",
+    "id": "cna.ef01.higiene_e_saude.escovar_os_dentes.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Higiene e Saúde",
+    "aulaId": "cna.ef01.higiene_e_saude.escovar_os_dentes",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "Ministério da Saúde — Saúde Bucal",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia/saude-bucal",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados sobre dentes de leite, higiene, cárie, escova individual, flúor e supervisão. Não transpõe faixas/quantidades ou calendário clínico como regra individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Por que cuidar também dos dentes de leite?",
+    "opcoes": [
+      "Eles também precisam de higiene e proteção.",
+      "Eles não acumulam placa.",
+      "A dor sempre aparece antes de qualquer problema."
+    ],
+    "correta": 0,
+    "explicacao": "O cuidado preventivo não depende de dor nem de o dente ser permanente.",
+    "id": "cna.ef01.higiene_e_saude.escovar_os_dentes.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Higiene e Saúde",
+    "aulaId": "cna.ef01.higiene_e_saude.escovar_os_dentes",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "Ministério da Saúde — Saúde Bucal",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia/saude-bucal",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados sobre dentes de leite, higiene, cárie, escova individual, flúor e supervisão. Não transpõe faixas/quantidades ou calendário clínico como regra individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para a parte interna do ouvido, a aula orienta:",
+    "opcoes": [
+      "Introduzir cotonete para alcançar mais fundo.",
+      "Não introduzir objetos e buscar orientação se houver problema.",
+      "Usar óleo por conta própria."
+    ],
+    "correta": 1,
+    "explicacao": "Um personagem quer usar um palito para retirar algo do ouvido. A resposta é interromper essa ideia e pedir ajuda, sem testar no próprio corpo. Na aula, representamos situações em cartões; ninguém limpa os olhos ou os ouvidos de colegas.",
+    "id": "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Higiene e Saúde",
+    "aulaId": "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Fonte consultada: não introduzir objetos/fluidos no ouvido, cuidado externo e avaliação profissional para problemas. Sem diagnóstico ou tratamento na aula."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma criança relata dor no ouvido. O adequado é:",
+    "opcoes": [
+      "Pedir ao colega que examine.",
+      "Avisar ao responsável e buscar avaliação de saúde.",
+      "Testar um objeto para limpar."
+    ],
+    "correta": 1,
+    "explicacao": "Problemas não são diagnosticados ou tratados na atividade escolar.",
+    "id": "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Higiene e Saúde",
+    "aulaId": "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Fonte consultada: não introduzir objetos/fluidos no ouvido, cuidado externo e avaliação profissional para problemas. Sem diagnóstico ou tratamento na aula."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Mãos que parecem limpas antes de comer:",
+    "opcoes": [
+      "Nunca carregam nada invisível.",
+      "Precisam apenas de perfume.",
+      "Podem precisar de lavagem com água e sabão."
+    ],
+    "correta": 2,
+    "explicacao": "Uma mão pode parecer limpa depois de brincar e ainda precisar de lavagem antes da refeição. Passar rapidamente na água não é a mesma ação que usar água e sabão com fricção. A atividade não cultiva microrganismos nem usa tinta ou pó como se fossem germes reais.",
+    "id": "cna.ef01.higiene_e_saude.higiene_antes_de_comer.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Higiene e Saúde",
+    "aulaId": "cna.ef01.higiene_e_saude.higiene_antes_de_comer",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+        "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+        "consulta": "2026-10-30",
+        "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Se falta sabão na escola, a turma deve:",
+    "opcoes": [
+      "Concluir que água e sabão são desnecessários.",
+      "Culpar quem não lavou.",
+      "Comunicar a necessidade ao adulto responsável."
+    ],
+    "correta": 2,
+    "explicacao": "Cuidado individual e infraestrutura precisam caminhar juntos.",
+    "id": "cna.ef01.higiene_e_saude.higiene_antes_de_comer.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Higiene e Saúde",
+    "aulaId": "cna.ef01.higiene_e_saude.higiene_antes_de_comer",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+        "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+        "consulta": "2026-10-30",
+        "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma ação de higiene pode:",
+    "opcoes": [
+      "Eliminar a necessidade de água segura.",
+      "Garantir ausência de qualquer doença.",
+      "Reduzir alguns riscos de transmissão."
+    ],
+    "correta": 2,
+    "explicacao": "No modelo, um cartão representa mão que toca superfície e depois alimento. Lavar as mãos antes de comer pode interromper parte desse caminho. As setas são uma representação de possibilidade, não prova de que toda superfície esteja contaminada ou de que o personagem adoeceu.",
+    "id": "cna.ef01.higiene_e_saude.higiene_e_doencas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Higiene e Saúde",
+    "aulaId": "cna.ef01.higiene_e_saude.higiene_e_doencas",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+        "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+        "consulta": "2026-10-30",
+        "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma pessoa adoeceu. Isso prova falta de higiene?",
+    "opcoes": [
+      "Sim, em todos os casos.",
+      "Sim, se for criança.",
+      "Não; saúde envolve diferentes condições e causas."
+    ],
+    "correta": 2,
+    "explicacao": "Não se deduz causa ou responsabilidade moral apenas pelo adoecimento.",
+    "id": "cna.ef01.higiene_e_saude.higiene_e_doencas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Higiene e Saúde",
+    "aulaId": "cna.ef01.higiene_e_saude.higiene_e_doencas",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+        "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+        "consulta": "2026-10-30",
+        "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma rotina de higiene precisa considerar:",
+    "opcoes": [
+      "Somente regras sem recursos.",
+      "Ação, recursos e apoio acessível.",
+      "Competição entre colegas."
+    ],
+    "correta": 1,
+    "explicacao": "Cartões próximos à pia podem lembrar etapas. Se a pia está alta, o adulto deve buscar solução segura de acesso, e não improvisar apoio instável. Escovas e toalhas pessoais precisam de identificação e cuidado conforme orientação, sem compartilhamento.",
+    "id": "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Higiene e Saúde",
+    "aulaId": "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+        "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+        "consulta": "2026-10-30",
+        "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "A pia não está acessível a um personagem. O caminho é:",
+    "opcoes": [
+      "Exigir que ele suba em apoio instável.",
+      "Excluir o personagem da refeição.",
+      "Pedir solução segura ao adulto responsável."
+    ],
+    "correta": 2,
+    "explicacao": "A barreira precisa ser enfrentada com apoio e condições de acesso.",
+    "id": "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Higiene e Saúde",
+    "aulaId": "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+        "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+        "consulta": "2026-10-30",
+        "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
     "id": "cna.ef01.materia_e_energia.treino.01",
     "componente": "cna",
     "tema": "Ciências Naturais",
@@ -1080,6 +3014,1192 @@ registrarQuestoes([
     "autoria": "produção autoral assistida",
     "estado": "piloto",
     "complementar": false
+  },
+  {
+    "pergunta": "Qual frase distingue melhor observação e hipótese?",
+    "opcoes": [
+      "É bonito, portanto é flexível.",
+      "Brilha, então é metal com certeza.",
+      "Observei brilho; o material ainda precisa de confirmação."
+    ],
+    "correta": 2,
+    "explicacao": "Uma tampa foi descrita como azul e rígida num teste leve; dizer que deve ser de metal por brilhar é hipótese de identificação. O adulto pode conferir a composição por informação do objeto. Sem confirmação, registramos que não sabemos.",
+    "id": "cna.ef01.observar_e_registrar.o_que_e_observar.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar",
+    "aulaId": "cna.ef01.observar_e_registrar.o_que_e_observar",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para comparar dois materiais, precisamos:",
+    "opcoes": [
+      "Usar um critério e registrar as amostras e condições.",
+      "Escolher apenas o preferido.",
+      "Inventar características que não pudemos verificar."
+    ],
+    "correta": 0,
+    "explicacao": "Critério e condições tornam a comparação compreensível.",
+    "id": "cna.ef01.observar_e_registrar.o_que_e_observar.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar",
+    "aulaId": "cna.ef01.observar_e_registrar.o_que_e_observar",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "A lupa muda:",
+    "opcoes": [
+      "O tamanho físico do papel obrigatoriamente.",
+      "A data de fabricação do objeto.",
+      "A aparência de detalhes em condições adequadas."
+    ],
+    "correta": 2,
+    "explicacao": "Papel pode parecer liso de longe e mostrar fibras ou irregularidades com ampliação. O que aparece depende do papel e da lupa. Medir comprimento não informa sozinho qual material compõe a amostra; forma e material são aspectos distintos.",
+    "id": "cna.ef01.observar_e_registrar.lupa_e_instrumentos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar",
+    "aulaId": "cna.ef01.observar_e_registrar.lupa_e_instrumentos",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Ver um detalhe ampliado prova toda a composição do material?",
+    "opcoes": [
+      "Sim, em qualquer amostra.",
+      "Sim, se o desenho ficar grande.",
+      "Não; identificação pode precisar de outras informações."
+    ],
+    "correta": 2,
+    "explicacao": "Instrumentos ampliam possibilidades, mas não respondem a toda pergunta.",
+    "id": "cna.ef01.observar_e_registrar.lupa_e_instrumentos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar",
+    "aulaId": "cna.ef01.observar_e_registrar.lupa_e_instrumentos",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "A seta e a legenda de um desenho devem:",
+    "opcoes": [
+      "Substituir toda explicação.",
+      "Medir o tamanho real sem escala.",
+      "Comunicar a parte que se quer representar."
+    ],
+    "correta": 2,
+    "explicacao": "Um cartão com braço e mão pode acompanhar a frase participa de segurar, reconhecendo outras formas de realizar essa ação. Se a seta ficou ambígua, podemos corrigir sem apagar a história da revisão. É possível ditar, apontar ou compor figura tátil com apoio.",
+    "id": "cna.ef01.observar_e_registrar.desenho_como_registro.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar",
+    "aulaId": "cna.ef01.observar_e_registrar.desenho_como_registro",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Um registro feito de memória deve ser:",
+    "opcoes": [
+      "Usado para medir colegas.",
+      "Apresentado como fotografia real.",
+      "Identificado como representação de memória."
+    ],
+    "correta": 2,
+    "explicacao": "Indicar a origem evita confundir tipos de evidência.",
+    "id": "cna.ef01.observar_e_registrar.desenho_como_registro.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar",
+    "aulaId": "cna.ef01.observar_e_registrar.desenho_como_registro",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Agrupar materiais pela textura e depois pela flexibilidade:",
+    "opcoes": [
+      "Determina qual pessoa é melhor observadora.",
+      "Precisa gerar sempre grupos idênticos.",
+      "Pode gerar grupos diferentes."
+    ],
+    "correta": 2,
+    "explicacao": "Dois retalhos podem ser flexíveis e ter texturas diferentes. Uma tampa plástica e um saquinho podem diferir em rigidez mesmo sob o nome plástico. Se mudamos muito a força em cada teste, não sabemos se a diferença veio da amostra ou da ação.",
+    "id": "cna.ef01.observar_e_registrar.comparar_e_descrever.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar",
+    "aulaId": "cna.ef01.observar_e_registrar.comparar_e_descrever",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Um teste usou forças muito diferentes nas amostras. A conclusão deve:",
+    "opcoes": [
+      "Ignorar a diferença.",
+      "Afirmar que só o material causou tudo.",
+      "Considerar que a forma do teste pode ter influenciado."
+    ],
+    "correta": 2,
+    "explicacao": "Condições comparáveis ajudam a explicar resultados.",
+    "id": "cna.ef01.observar_e_registrar.comparar_e_descrever.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar",
+    "aulaId": "cna.ef01.observar_e_registrar.comparar_e_descrever",
+    "bncc": [
+      "EF01CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para identificar um plástico desconhecido, a turma deve:",
+    "opcoes": [
+      "Queimá-lo para observar fumaça.",
+      "Consultar informações com adulto e usar comparação segura.",
+      "Provar um pedaço."
+    ],
+    "correta": 1,
+    "explicacao": "Para comparar materiais, cartões e amostras limpas podem atender. Não precisamos queimar um plástico para descobrir seu nome. Interromper diante de risco faz parte de investigar, não é falha. O adulto decide manejo de ferramentas e organização do espaço.",
+    "id": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar — Complementar",
+    "aulaId": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Se a atividade não pode ser feita com segurança:",
+    "opcoes": [
+      "É preciso fazer mesmo assim.",
+      "Deve-se declarar execução sem realizá-la.",
+      "É possível usar modelo identificado ou adiar a execução."
+    ],
+    "correta": 2,
+    "explicacao": "Limites e alternativas precisam aparecer no registro.",
+    "id": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar — Complementar",
+    "aulaId": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Ao planejar uma atividade no dia, devemos considerar:",
+    "opcoes": [
+      "Que todas as pessoas suportam as mesmas condições.",
+      "Período, ambiente, recursos e formas de participação.",
+      "Somente cumprir a primeira ideia."
+    ],
+    "correta": 1,
+    "explicacao": "No caso fictício, a turma planeja atividade externa em período muito quente. O adulto pode mudar horário ou local, garantir água e apoio e observar condições. O planejamento não é autorização para exposição ao Sol nem prescrição de exercício. A relação com horário precisa aparecer, não só uma lista de hábitos.",
+    "id": "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente",
+    "aulaId": "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma rotina de cuidado bem explicada:",
+    "opcoes": [
+      "Dispensa descanso se há tarefas.",
+      "Relaciona atividades aos períodos e às condições, com apoio quando necessário.",
+      "É idêntica para toda família."
+    ],
+    "correta": 1,
+    "explicacao": "A sucessão diária orienta atividades, mas não apaga diversidade e condições de vida.",
+    "id": "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente",
+    "aulaId": "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para investigar efeito de fumaça, a turma deve:",
+    "opcoes": [
+      "Aproximar o rosto para cheirar.",
+      "Usar casos e fontes sem criar exposição.",
+      "Prender a respiração por competição."
+    ],
+    "correta": 1,
+    "explicacao": "Em caso fictício, há fumaça próxima à janela. Não basta dizer que abrir sempre é melhor: o adulto precisa avaliar a fonte e o local seguro. A turma pode relatar o que percebe sem diagnosticar pessoas ou medir poluição por opinião.",
+    "id": "cna.ef01.saude_e_ambiente.ar_que_respiramos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente — Complementar",
+    "aulaId": "cna.ef01.saude_e_ambiente.ar_que_respiramos",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Ver ar transparente permite garantir ausência de poluentes?",
+    "opcoes": [
+      "Sim, tudo que faz mal é visível.",
+      "Sim, quando há luz.",
+      "Não; aparência não verifica toda composição."
+    ],
+    "correta": 2,
+    "explicacao": "Composição e qualidade não são determinadas apenas pela visão.",
+    "id": "cna.ef01.saude_e_ambiente.ar_que_respiramos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente — Complementar",
+    "aulaId": "cna.ef01.saude_e_ambiente.ar_que_respiramos",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Água transparente é sempre própria para beber?",
+    "opcoes": [
+      "Sim, qualquer copo limpo garante.",
+      "Não; a segurança não se confirma só pela aparência.",
+      "Sim, se não tiver cheiro."
+    ],
+    "correta": 1,
+    "explicacao": "Dois cartões podem representar copos com água de aparência igual e origens desconhecidas. Não é possível escolher com segurança só olhando. Filtro de papel num experimento pode reter partículas, mas não garante remoção de todo contaminante nem torna a água do teste própria para consumo.",
+    "id": "cna.ef01.saude_e_ambiente.agua_limpa_para_todos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente — Complementar",
+    "aulaId": "cna.ef01.saude_e_ambiente.agua_limpa_para_todos",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "Funasa — Água transparente é sempre segura para beber?",
+        "url": "https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre aparência e controle de potabilidade. Sem parâmetros normativos, doses de tratamento, teste por consumo ou redistribuição de imagens."
+      },
+      {
+        "documento": "Ministério da Saúde — Vigiagua",
+        "url": "https://www.gov.br/saude/pt-br/composicao/svsa/saude-ambiental/vigiagua/vigiagua/",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: vigilância, responsabilidades e controle da água; não declara análise laboratorial da escola."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Filtrar água do experimento com papel permite:",
+    "opcoes": [
+      "Liberar o consumo pela turma.",
+      "Garantir que todo contaminante foi removido.",
+      "Observar retenção de certas partículas, sem garantir potabilidade."
+    ],
+    "correta": 2,
+    "explicacao": "A separação de partículas não certifica segurança para beber.",
+    "id": "cna.ef01.saude_e_ambiente.agua_limpa_para_todos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente — Complementar",
+    "aulaId": "cna.ef01.saude_e_ambiente.agua_limpa_para_todos",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "Funasa — Água transparente é sempre segura para beber?",
+        "url": "https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre aparência e controle de potabilidade. Sem parâmetros normativos, doses de tratamento, teste por consumo ou redistribuição de imagens."
+      },
+      {
+        "documento": "Ministério da Saúde — Vigiagua",
+        "url": "https://www.gov.br/saude/pt-br/composicao/svsa/saude-ambiental/vigiagua/vigiagua/",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: vigilância, responsabilidades e controle da água; não declara análise laboratorial da escola."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para chamar atenção sem desconforto, pode-se:",
+    "opcoes": [
+      "Exigir que ninguém relate incômodo.",
+      "Usar sinal combinado e acessível em volume confortável.",
+      "Aumentar até todos reclamarem."
+    ],
+    "correta": 1,
+    "explicacao": "Um jogo usa aviso muito forte para chamar atenção. A turma pode propor sinal visual ou sonoro mais suave, mantendo a função. Silêncio completo nem sempre é possível ou necessário; o objetivo é favorecer comunicação e conforto sem excluir quem precisa de outro suporte.",
+    "id": "cna.ef01.saude_e_ambiente.som_e_barulho.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente — Complementar",
+    "aulaId": "cna.ef01.saude_e_ambiente.som_e_barulho",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma descrição qualitativa de sons permite afirmar decibéis exatos?",
+    "opcoes": [
+      "Sim, basta escrever forte.",
+      "Não; valores precisam de medição adequada.",
+      "Sim, se toda turma concordar."
+    ],
+    "correta": 1,
+    "explicacao": "Percepção e medida instrumental não são a mesma evidência.",
+    "id": "cna.ef01.saude_e_ambiente.som_e_barulho.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente — Complementar",
+    "aulaId": "cna.ef01.saude_e_ambiente.som_e_barulho",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Olhar diretamente para o Sol é parte do teste?",
+    "opcoes": [
+      "Sim, para comparar brilho.",
+      "Não; usamos iluminação comum e condições seguras.",
+      "Sim, com qualquer lupa."
+    ],
+    "correta": 1,
+    "explicacao": "Um cartão fica ilegível por reflexo de lâmpada. Antes de aumentar a intensidade, podemos mudar posição do cartão, reduzir reflexo e oferecer letra maior ou leitura mediada. Isso não identifica a causa clínica de dificuldade visual de alguém.",
+    "id": "cna.ef01.saude_e_ambiente.luz_e_saude.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente — Complementar",
+    "aulaId": "cna.ef01.saude_e_ambiente.luz_e_saude",
+    "bncc": [],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma mudança de posição melhorou a leitura. Isso prova diagnóstico visual?",
+    "opcoes": [
+      "Sim, basta esse teste.",
+      "Não; mostra efeito da condição estudada, sem diagnóstico.",
+      "Sim, em qualquer pessoa."
+    ],
+    "correta": 1,
+    "explicacao": "Adaptação ambiental não substitui avaliação clínica.",
+    "id": "cna.ef01.saude_e_ambiente.luz_e_saude.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente — Complementar",
+    "aulaId": "cna.ef01.saude_e_ambiente.luz_e_saude",
+    "bncc": [],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": true,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Depois de domingo vem:",
+    "opcoes": [
+      "Quarta-feira.",
+      "Segunda-feira.",
+      "Sábado."
+    ],
+    "correta": 1,
+    "explicacao": "Em sete cartões, podemos montar uma roda: ao chegar a domingo, voltamos a segunda. O número 12 pode ser uma data do mês e não significa que a semana tem doze dias. Nem todo dia da semana corresponde a aula; isso depende do calendário escolar.",
+    "id": "cna.ef01.tempo_e_rotina.dias_da_semana.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.dias_da_semana",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Duas segundas no mesmo mês:",
+    "opcoes": [
+      "Têm sempre o mesmo número de data.",
+      "Podem ter datas diferentes.",
+      "Provam que a semana mudou de tamanho."
+    ],
+    "correta": 1,
+    "explicacao": "O nome do dia se repete; a data avança no mês.",
+    "id": "cna.ef01.tempo_e_rotina.dias_da_semana.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.dias_da_semana",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma semana tem:",
+    "opcoes": [
+      "Doze dias.",
+      "Sete dias.",
+      "Trinta dias."
+    ],
+    "correta": 1,
+    "explicacao": "Outubro de 2026, mostrado na tabela de referência, tem 31 dias. Depois do último dia, começa novembro, cujo primeiro dia recebe número 1. Não reiniciamos o nome do dia da semana só porque mudou o mês: a sequência semanal continua.",
+    "id": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Qual afirmação está correta?",
+    "opcoes": [
+      "Todo mês tem 31 dias.",
+      "Meses podem ter durações diferentes.",
+      "Todo mês tem exatamente quatro semanas."
+    ],
+    "correta": 1,
+    "explicacao": "Sete dias definem a semana; meses não têm todos a mesma duração.",
+    "id": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Uma cor sem legenda no calendário permite saber o evento?",
+    "opcoes": [
+      "Não; precisamos da legenda ou informação da fonte.",
+      "Sim, se for vermelha.",
+      "Sim, toda cor tem significado universal."
+    ],
+    "correta": 0,
+    "explicacao": "Podemos combinar no exemplo fictício observar uma planta em 5 e 12 de outubro de 2026. Isso não significa que a escola marcou essas atividades. Se um feriado ou mudança interfere, é preciso consultar o calendário oficial local, não adivinhar por uma cor.",
+    "id": "cna.ef01.tempo_e_rotina.o_calendario_escolar.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.o_calendario_escolar",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para afirmar que a escola terá uma reunião, é preciso:",
+    "opcoes": [
+      "Copiar qualquer calendário de outro lugar.",
+      "Confirmar em comunicação ou calendário oficial da escola.",
+      "Inventar uma marca de cor."
+    ],
+    "correta": 1,
+    "explicacao": "Datas do calendário não confirmam, sozinhas, eventos locais.",
+    "id": "cna.ef01.tempo_e_rotina.o_calendario_escolar.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.o_calendario_escolar",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "No exemplo, hoje é dia 10. Amanhã será:",
+    "opcoes": [
+      "11.",
+      "9.",
+      "10."
+    ],
+    "correta": 0,
+    "explicacao": "No caso fictício, o personagem chama 10 de outubro de 2026 de hoje. Então ontem é 9 e amanhã, 11. Se a referência passa a 11, ontem passa a ser 10. São relações do exemplo, não uma afirmação de qual dia está acontecendo durante sua leitura.",
+    "id": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Quando muda o dia chamado de hoje:",
+    "opcoes": [
+      "As referências de ontem e amanhã também podem mudar.",
+      "Ontem fica sempre na mesma data.",
+      "A ordem dos dias deixa de existir."
+    ],
+    "correta": 0,
+    "explicacao": "As palavras são relativas ao dia de referência, enquanto a data identifica o registro.",
+    "id": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "Para organizar datas de um mês, o instrumento mais adequado é:",
+    "opcoes": [
+      "Calendário.",
+      "Balança.",
+      "Régua."
+    ],
+    "correta": 0,
+    "explicacao": "Um cronômetro pode registrar o tempo de organizar dez cartões. Isso não revela o mês ou o ano. A atividade não é competição de rapidez: repetir a organização pode mudar a duração, e apoio ou pausas devem ser registrados. Quem precisar pode acompanhar a medida feita pelo adulto.",
+    "id": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "pergunta": "O cronômetro marcou a duração de uma ação. Isso informa sozinho:",
+    "opcoes": [
+      "O intervalo medido, com a unidade registrada.",
+      "A data da próxima reunião.",
+      "O ano da ação."
+    ],
+    "correta": 0,
+    "explicacao": "Instrumento e escala precisam corresponder à pergunta.",
+    "id": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "aulaId": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
   },
   {
     "id": "cna.ef01.terra_e_universo.treino.05",
@@ -12285,6 +15405,1144 @@ registrarQuestoes([
   }
 ]);
 registrarProvas({
+  "cna.ef01.corpo_humano.prova": {
+    "id": "cna.ef01.corpo_humano.prova",
+    "titulo": "Avaliação: Corpo Humano",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Corpo Humano",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/5 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+    "questoes": [
+      "cna.ef01.corpo_humano.cabeca_tronco_e_membros.prova.1",
+      "cna.ef01.corpo_humano.orgaos_dos_sentidos.prova.1",
+      "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo.prova.1",
+      "cna.ef01.corpo_humano.desenhando_o_corpo.prova.1",
+      "cna.ef01.corpo_humano.corpo_em_movimento.prova.1"
+    ],
+    "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.corpo_humano.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Corpo Humano",
+      "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+      "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+      "rubrica": [
+        "Atende: produção verificável e explicação coerente.",
+        "Em desenvolvimento: evidência parcial com revisão.",
+        "Retomar: produção ou relação ainda precisa ser desenvolvida."
+      ],
+      "bncc": [
+        "EF01CI02"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Cabeça, tronco e membros: localizar no desenho — producao1",
+          "enunciado": "Observe o esquema incorporado e faça uma figura vestida ou organize cartões. Localize cabeça, tronco e membros, escrevendo ou ditando os nomes.",
+          "gabarito": "Exigir localização coerente e pelo menos quatro indicações; aceitar desenho, cartões, descrição ou execução mediada, sem avaliar semelhança estética.",
+          "rubrica": [
+            "Exigir localização coerente e pelo menos quatro indicações; aceitar desenho, cartões, descrição ou execução mediada, sem avaliar semelhança estética.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.corpo_humano.cabeca_tronco_e_membros#cabeca_tronco_e_membros.producao1"
+        },
+        {
+          "titulo": "Cabeça, tronco e membros: localizar no desenho — producao2",
+          "enunciado": "Explique onde ficam mão e pé em relação aos membros e compare duas representações sem julgar qual corpo é melhor.",
+          "gabarito": "Relacionar mão a membro superior e pé a inferior; respeitar representações diversas e não exigir um padrão corporal.",
+          "rubrica": [
+            "Relacionar mão a membro superior e pé a inferior; respeitar representações diversas e não exigir um padrão corporal.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.corpo_humano.cabeca_tronco_e_membros#cabeca_tronco_e_membros.producao2"
+        },
+        {
+          "titulo": "Sentidos: perceber de diferentes maneiras — producao1",
+          "enunciado": "Em figura vestida, marque olhos, orelhas, nariz, língua representada em cartão e pele. Relacione quatro deles a informações percebidas. Use somente objeto limpo e seguro para observar textura, se desejar.",
+          "gabarito": "Exigir localização e função, lembrando pele além da mão; aceitar descrição mediada, sem pontuar capacidade sensorial.",
+          "rubrica": [
+            "Exigir localização e função, lembrando pele além da mão; aceitar descrição mediada, sem pontuar capacidade sensorial.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.corpo_humano.orgaos_dos_sentidos#orgaos_dos_sentidos.producao1"
+        },
+        {
+          "titulo": "Sentidos: perceber de diferentes maneiras — producao2",
+          "enunciado": "Um personagem não consegue ler a placa pequena. Proponha dois apoios para receber a informação sem diagnosticar a causa.",
+          "gabarito": "Aceitar letra maior, leitura em voz, aproximação segura ou suporte acessível; não escolher óculos ou tratamento.",
+          "rubrica": [
+            "Aceitar letra maior, leitura em voz, aproximação segura ou suporte acessível; não escolher óculos ou tratamento.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.corpo_humano.orgaos_dos_sentidos#orgaos_dos_sentidos.producao2"
+        },
+        {
+          "titulo": "Partes do corpo trabalhando juntas — producao1",
+          "enunciado": "Escolha duas ações cotidianas seguras, como acessar um livro e guardar um cartão. Represente partes que podem participar e descreva uma função de cada.",
+          "gabarito": "Exigir pelo menos duas partes/funções por ação, sem exigir execução corporal ou atribuir toda ação a uma parte isolada.",
+          "rubrica": [
+            "Exigir pelo menos duas partes/funções por ação, sem exigir execução corporal ou atribuir toda ação a uma parte isolada.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo#funcoes_das_partes_do_corpo.producao1"
+        },
+        {
+          "titulo": "Partes do corpo trabalhando juntas — producao2",
+          "enunciado": "Imagine que o livro não fica aberto na mesa. Proponha adaptação que facilite a participação e explique o que ela resolve.",
+          "gabarito": "Aceitar suporte, livro digital ou ajuda combinada; relacionar recurso à tarefa, respeitando autonomia.",
+          "rubrica": [
+            "Aceitar suporte, livro digital ou ajuda combinada; relacionar recurso à tarefa, respeitando autonomia.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo#funcoes_das_partes_do_corpo.producao2"
+        },
+        {
+          "titulo": "Representar o corpo: nomes, posições e legendas — producao1",
+          "enunciado": "Produza figura vestida com cabeça, tronco e membros ou componha uma representação acessível. Faça quatro legendas e explique uma função ligada a cada região.",
+          "gabarito": "Conferir correspondência legenda/localização e função coerente; não penalizar estilo, habilidade motora ou proporção não medida.",
+          "rubrica": [
+            "Conferir correspondência legenda/localização e função coerente; não penalizar estilo, habilidade motora ou proporção não medida.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.corpo_humano.desenhando_o_corpo#desenhando_o_corpo.producao1"
+        },
+        {
+          "titulo": "Representar o corpo: nomes, posições e legendas — producao2",
+          "enunciado": "Peça a um adulto para interpretar as legendas sem adivinhar sua intenção. Revise uma indicação que ficou ambígua e registre a mudança.",
+          "gabarito": "Exigir troca de interpretação e revisão real ou registrar que ainda falta; não inventar avaliação de outra pessoa.",
+          "rubrica": [
+            "Exigir troca de interpretação e revisão real ou registrar que ainda falta; não inventar avaliação de outra pessoa.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.corpo_humano.desenhando_o_corpo#desenhando_o_corpo.producao2"
+        },
+        {
+          "titulo": "Movimentos e diferentes formas de participar — producao1",
+          "enunciado": "Com cartões ou figura articulada montada pelo adulto, mostre duas posições confortáveis do braço ou tronco. Nomeie as partes e descreva o que mudou. Não faça teste de amplitude ou força.",
+          "gabarito": "Relacionar parte e mudança de posição; aceitar manipulação assistida ou descrição de imagem, sem medir desempenho pessoal.",
+          "rubrica": [
+            "Relacionar parte e mudança de posição; aceitar manipulação assistida ou descrição de imagem, sem medir desempenho pessoal.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.corpo_humano.corpo_em_movimento#corpo_em_movimento.producao1"
+        },
+        {
+          "titulo": "Movimentos e diferentes formas de participar — producao2",
+          "enunciado": "Um objeto ficou fora do alcance de um personagem. Proponha duas mudanças no ambiente para que ele participe sem esforço desconfortável.",
+          "gabarito": "Aceitar aproximar material, ajustar altura da mesa ou oferecer recurso combinado; não responsabilizar o corpo pela barreira.",
+          "rubrica": [
+            "Aceitar aproximar material, ajustar altura da mesa ou oferecer recurso combinado; não responsabilizar o corpo pela barreira.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.corpo_humano.corpo_em_movimento#corpo_em_movimento.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF01CI02",
+        "questoes": [
+          "cna.ef01.corpo_humano.cabeca_tronco_e_membros.prova.1",
+          "cna.ef01.corpo_humano.orgaos_dos_sentidos.prova.1",
+          "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo.prova.1",
+          "cna.ef01.corpo_humano.desenhando_o_corpo.prova.1",
+          "cna.ef01.corpo_humano.corpo_em_movimento.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef01.corpo_humano.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef01.corpo_humano.cabeca_tronco_e_membros#cabeca_tronco_e_membros.producao1",
+          "cna.ef01.corpo_humano.cabeca_tronco_e_membros#cabeca_tronco_e_membros.producao2",
+          "cna.ef01.corpo_humano.orgaos_dos_sentidos#orgaos_dos_sentidos.producao1",
+          "cna.ef01.corpo_humano.orgaos_dos_sentidos#orgaos_dos_sentidos.producao2",
+          "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo#funcoes_das_partes_do_corpo.producao1",
+          "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo#funcoes_das_partes_do_corpo.producao2",
+          "cna.ef01.corpo_humano.desenhando_o_corpo#desenhando_o_corpo.producao1",
+          "cna.ef01.corpo_humano.desenhando_o_corpo#desenhando_o_corpo.producao2",
+          "cna.ef01.corpo_humano.corpo_em_movimento#corpo_em_movimento.producao1",
+          "cna.ef01.corpo_humano.corpo_em_movimento#corpo_em_movimento.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef01.cuidar_do_ambiente_proximo.prova": {
+    "id": "cna.ef01.cuidar_do_ambiente_proximo.prova",
+    "titulo": "Avaliação: Cuidar do Ambiente Próximo",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo",
+    "bncc": [
+      "EF01CI01",
+      "EF01CI06"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "2 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/2 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+    "questoes": [
+      "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola.prova.1",
+      "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno.prova.1"
+    ],
+    "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.cuidar_do_ambiente_proximo.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Cuidar do Ambiente Próximo",
+      "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+      "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+      "rubrica": [
+        "Atende: produção verificável e explicação coerente.",
+        "Em desenvolvimento: evidência parcial com revisão.",
+        "Retomar: produção ou relação ainda precisa ser desenvolvida."
+      ],
+      "bncc": [
+        "EF01CI01",
+        "EF01CI06"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Resíduos da escola: observar sem manusear riscos — producao1",
+          "enunciado": "Faça um mapa simples dos pontos de descarte de um espaço autorizado, sem abrir recipientes ou fotografar pessoas. Registre sinalização e uma dúvida sobre destino de papel.",
+          "gabarito": "Exigir observação segura e pergunta real; não declarar que todo resíduo foi identificado ou reciclado.",
+          "rubrica": [
+            "Exigir observação segura e pergunta real; não declarar que todo resíduo foi identificado ou reciclado.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola#lixo_na_escola.producao1"
+        },
+        {
+          "titulo": "Resíduos da escola: observar sem manusear riscos — producao2",
+          "enunciado": "Com adulto, confirme um encaminhamento de material seguro e proponha uma melhoria de informação ou redução de uso. Registre o que foi confirmado e o que está pendente.",
+          "gabarito": "Relacionar ação a material/coleta e não inventar resultado ambiental ou quantidade poupada.",
+          "rubrica": [
+            "Relacionar ação a material/coleta e não inventar resultado ambiental ou quantidade poupada.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola#lixo_na_escola.producao2"
+        },
+        {
+          "titulo": "Registrar atividades dos animais em horários seguros — producao1",
+          "enunciado": "Com adulto, observe de lugar seguro em dois horários permitidos ou consulte registros de fonte identificada. Anote período e atividade, ou não visto, sem expor endereço.",
+          "gabarito": "Exigir origem, horário e comportamento/ausência de observação; sem exigir fotografia ou identificação de espécie desconhecida.",
+          "rubrica": [
+            "Exigir origem, horário e comportamento/ausência de observação; sem exigir fotografia ou identificação de espécie desconhecida.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno#animais_do_entorno.producao1"
+        },
+        {
+          "titulo": "Registrar atividades dos animais em horários seguros — producao2",
+          "enunciado": "Compare os registros e explique o que sugerem sobre atividade e período e o que não permitem concluir.",
+          "gabarito": "Relacionar ao ciclo diário com limite e necessidade de mais dados, evitando regra para todo grupo.",
+          "rubrica": [
+            "Relacionar ao ciclo diário com limite e necessidade de mais dados, evitando regra para todo grupo.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno#animais_do_entorno.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF01CI01",
+        "questoes": [
+          "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef01.cuidar_do_ambiente_proximo.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola#lixo_na_escola.producao1",
+          "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola#lixo_na_escola.producao2"
+        ]
+      },
+      {
+        "bncc": "EF01CI06",
+        "questoes": [
+          "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef01.cuidar_do_ambiente_proximo.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno#animais_do_entorno.producao1",
+          "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno#animais_do_entorno.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef01.cuidar_do_ambiente_proximo_complementar.prova": {
+    "id": "cna.ef01.cuidar_do_ambiente_proximo_complementar.prova",
+    "titulo": "Avaliação: Cuidar do Ambiente Próximo — Complementar",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Cuidar do Ambiente Próximo — Complementar",
+    "bncc": [],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": true,
+    "pontuacaoTotal": 10,
+    "instrucoes": "3 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/3 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+    "questoes": [
+      "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua.prova.1",
+      "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola.prova.1",
+      "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul.prova.1"
+    ],
+    "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.cuidar_do_ambiente_proximo_complementar.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Cuidar do Ambiente Próximo — Complementar",
+      "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+      "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+      "rubrica": [
+        "Atende: produção verificável e explicação coerente.",
+        "Em desenvolvimento: evidência parcial com revisão.",
+        "Retomar: produção ou relação ainda precisa ser desenvolvida."
+      ],
+      "bncc": [],
+      "tarefas": [
+        {
+          "titulo": "Água: usar o necessário e garantir acesso — producao1",
+          "enunciado": "Analise dois casos fictícios: deixar água correr sem uso e faltar água para higiene. Explique por que exigem respostas diferentes e indique a quem comunicar.",
+          "gabarito": "Distinguir desperdício e falta de acesso; não reduzir consumo essencial ou responsabilizar crianças por infraestrutura.",
+          "rubrica": [
+            "Distinguir desperdício e falta de acesso; não reduzir consumo essencial ou responsabilizar crianças por infraestrutura.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua#economizar_agua.producao1"
+        },
+        {
+          "titulo": "Água: usar o necessário e garantir acesso — producao2",
+          "enunciado": "Proponha ação escolar autorizada de cuidado, com recurso e responsável. Se for executada, registre ação observada; sem medida, não invente litros economizados.",
+          "gabarito": "Exigir plano específico e distinção execução/estimativa; manutenção fica com equipe adulta.",
+          "rubrica": [
+            "Exigir plano específico e distinção execução/estimativa; manutenção fica com equipe adulta.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua#economizar_agua.producao2"
+        },
+        {
+          "titulo": "Plantas da escola: observar e cuidar sem generalizar — producao1",
+          "enunciado": "Escolha com adulto uma planta segura do espaço autorizado. Desenhe características visíveis e registre local e data; não toque se não houver orientação.",
+          "gabarito": "Exigir registro real ou fonte identificada, sem inventar espécie ou necessidade; usar planta conhecida pelo adulto.",
+          "rubrica": [
+            "Exigir registro real ou fonte identificada, sem inventar espécie ou necessidade; usar planta conhecida pelo adulto.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola#plantas_da_escola.producao1"
+        },
+        {
+          "titulo": "Plantas da escola: observar e cuidar sem generalizar — producao2",
+          "enunciado": "Consulte quem cuida sobre uma necessidade e proponha cuidado compatível. Registre se foi autorizado e realizado, ou deixe pendente.",
+          "gabarito": "Conferir fonte e ação específica; não tratar qualquer rega como benefício nem medir crescimento sem comparação.",
+          "rubrica": [
+            "Conferir fonte e ação específica; não tratar qualquer rega como benefício nem medir crescimento sem comparação.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola#plantas_da_escola.producao2"
+        },
+        {
+          "titulo": "Terra: água e diferentes representações — producao1",
+          "enunciado": "Compare globo disponível e desenho esquemático ou descrições mediadas. Localize legenda de água e terra, indicando o que é modelo e o que não foi observado diretamente.",
+          "gabarito": "Exigir distinção representação/realidade, sem exigir recurso ausente; registrar se houve apenas descrição.",
+          "rubrica": [
+            "Exigir distinção representação/realidade, sem exigir recurso ausente; registrar se houve apenas descrição.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul#nosso_planeta_azul.producao1"
+        },
+        {
+          "titulo": "Terra: água e diferentes representações — producao2",
+          "enunciado": "Explique por que muita cor azul num desenho não prova que aquela água é própria para beber nem mede a quantidade no planeta.",
+          "gabarito": "Distinguir convenção e medida; potabilidade exige controle e informação apropriados.",
+          "rubrica": [
+            "Distinguir convenção e medida; potabilidade exige controle e informação apropriados.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul#nosso_planeta_azul.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "MMA — Política dos 5Rs",
+        "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      },
+      {
+        "documento": "Funasa — Água transparente é sempre segura para beber?",
+        "url": "https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre aparência e controle de potabilidade. Sem parâmetros normativos, doses de tratamento, teste por consumo ou redistribuição de imagens."
+      }
+    ],
+    "matriz": []
+  },
+  "cna.ef01.dia_e_noite_na_vida.prova": {
+    "id": "cna.ef01.dia_e_noite_na_vida.prova",
+    "titulo": "Avaliação: Dia e Noite na Vida dos Seres Vivos",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/4 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+    "questoes": [
+      "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais.prova.1",
+      "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas.prova.1",
+      "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia.prova.1",
+      "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar.prova.1"
+    ],
+    "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.dia_e_noite_na_vida.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Dia e Noite na Vida dos Seres Vivos",
+      "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+      "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+      "rubrica": [
+        "Atende: produção verificável e explicação coerente.",
+        "Em desenvolvimento: evidência parcial com revisão.",
+        "Retomar: produção ou relação ainda precisa ser desenvolvida."
+      ],
+      "bncc": [
+        "EF01CI06"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Animais: atividades em diferentes períodos — producao1",
+          "enunciado": "Organize cartões do caso em manhã, tarde, noite ou transição. Para cada animal, diferencie o que o registro mostra e o que seria preciso observar para conhecer sua rotina.",
+          "gabarito": "Exigir período e limite de inferência; não universalizar todos os animais de um grupo.",
+          "rubrica": [
+            "Exigir período e limite de inferência; não universalizar todos os animais de um grupo.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais#ritmo_dos_animais.producao1"
+        },
+        {
+          "titulo": "Animais: atividades em diferentes períodos — producao2",
+          "enunciado": "Com adulto, observe um animal do entorno à distância em horário seguro ou consulte registro identificado. Anote espécie se conhecida, comportamento, data e período, sem alimentar, tocar, capturar ou visitar abrigo.",
+          "gabarito": "Exigir observação ou consulta real com origem; animal não visto também pode ser registrado sem inventar presença.",
+          "rubrica": [
+            "Exigir observação ou consulta real com origem; animal não visto também pode ser registrado sem inventar presença.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais#ritmo_dos_animais.producao2"
+        },
+        {
+          "titulo": "Rotinas das pessoas e períodos diários — producao1",
+          "enunciado": "Monte duas rotinas fictícias em manhã/tarde/noite com atividades de estudo, cuidado e descanso. Compare uma semelhança e uma diferença.",
+          "gabarito": "Exigir organização temporal coerente e comparação, sem impor horário real a famílias ou exigir dados pessoais.",
+          "rubrica": [
+            "Exigir organização temporal coerente e comparação, sem impor horário real a famílias ou exigir dados pessoais.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas#rotina_das_pessoas.producao1"
+        },
+        {
+          "titulo": "Rotinas das pessoas e períodos diários — producao2",
+          "enunciado": "Explique como uma atividade pode mudar de horário sem mudar o nome dos períodos diários. Indique uma necessidade de apoio para o descanso de um personagem.",
+          "gabarito": "Distinguir período e atividade, reconhecer diversidade e evitar diagnóstico ou recomendação individual de horas.",
+          "rubrica": [
+            "Distinguir período e atividade, reconhecer diversidade e evitar diagnóstico ou recomendação individual de horas.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas#rotina_das_pessoas.producao2"
+        },
+        {
+          "titulo": "Plantas e ritmos diários — producao1",
+          "enunciado": "Observe a mesma planta segura em dois horários permitidos por vários dias, sem alterar água ou luz deliberadamente. Registre posição de folhas/flores, data e período; pode não haver mudança visível.",
+          "gabarito": "Exigir diário real ou fonte identificada; ausência de mudança é resultado válido. Não identificar ritmo universal por uma espécie.",
+          "rubrica": [
+            "Exigir diário real ou fonte identificada; ausência de mudança é resultado válido. Não identificar ritmo universal por uma espécie.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia#plantas_e_o_dia.producao1"
+        },
+        {
+          "titulo": "Plantas e ritmos diários — producao2",
+          "enunciado": "Explique por que não podemos dizer que planta deixa de respirar à noite. Compare o que foi visto no diário com o que ainda não foi investigado.",
+          "gabarito": "Distinguir respiração contínua e processos dependentes de luz; não exigir experimento de gases ou cultivo em privação.",
+          "rubrica": [
+            "Distinguir respiração contínua e processos dependentes de luz; não exigir experimento de gases ou cultivo em privação.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia#plantas_e_o_dia.producao2"
+        },
+        {
+          "titulo": "Sono, vigília e sinais do ambiente — producao1",
+          "enunciado": "Organize um ciclo fictício com períodos de atividade e descanso. Relacione um sinal do ambiente à organização da rotina e indique um limite da representação.",
+          "gabarito": "Exigir relação com ciclo diário e reconhecimento da diversidade; não confundir desenho com observação do sono de alguém.",
+          "rubrica": [
+            "Exigir relação com ciclo diário e reconhecimento da diversidade; não confundir desenho com observação do sono de alguém.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar#dormir_e_acordar.producao1"
+        },
+        {
+          "titulo": "Sono, vigília e sinais do ambiente — producao2",
+          "enunciado": "No caso de luz e barulho, proponha duas mudanças possíveis com adulto e explique como verificar conforto sem diagnosticar insônia.",
+          "gabarito": "Aceitar ajuste de iluminação, redução de ruído e apoio; não recomendar medicamento, horas rígidas ou teste de privação.",
+          "rubrica": [
+            "Aceitar ajuste de iluminação, redução de ruído e apoio; não recomendar medicamento, horas rígidas ou teste de privação.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar#dormir_e_acordar.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF01CI06",
+        "questoes": [
+          "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais.prova.1",
+          "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas.prova.1",
+          "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia.prova.1",
+          "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef01.dia_e_noite_na_vida.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais#ritmo_dos_animais.producao1",
+          "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais#ritmo_dos_animais.producao2",
+          "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas#rotina_das_pessoas.producao1",
+          "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas#rotina_das_pessoas.producao2",
+          "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia#plantas_e_o_dia.producao1",
+          "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia#plantas_e_o_dia.producao2",
+          "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar#dormir_e_acordar.producao1",
+          "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar#dormir_e_acordar.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef01.diversidade_e_respeito.prova": {
+    "id": "cna.ef01.diversidade_e_respeito.prova",
+    "titulo": "Avaliação: Diversidade e Respeito",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Diversidade e Respeito",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/4 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+    "questoes": [
+      "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas.prova.1",
+      "cna.ef01.diversidade_e_respeito.respeito_as_diferencas.prova.1",
+      "cna.ef01.diversidade_e_respeito.acolhimento_na_escola.prova.1",
+      "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam.prova.1"
+    ],
+    "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.diversidade_e_respeito.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Diversidade e Respeito",
+      "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+      "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+      "rubrica": [
+        "Atende: produção verificável e explicação coerente.",
+        "Em desenvolvimento: evidência parcial com revisão.",
+        "Retomar: produção ou relação ainda precisa ser desenvolvida."
+      ],
+      "bncc": [
+        "EF01CI04"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Semelhanças e diferenças sem classificação de valor — producao1",
+          "enunciado": "Crie três personagens em cartões com descrições respeitosas. Indique duas semelhanças e duas diferenças de aparência, sem usar melhor/pior.",
+          "gabarito": "Exigir comparação explícita por critério, sem estereótipos. Não exigir retratar colegas ou declarar características pessoais.",
+          "rubrica": [
+            "Exigir comparação explícita por critério, sem estereótipos. Não exigir retratar colegas ou declarar características pessoais.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI04"
+          ],
+          "atividadeOrigem": "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas#semelhancas_e_diferencas.producao1"
+        },
+        {
+          "titulo": "Semelhanças e diferenças sem classificação de valor — producao2",
+          "enunciado": "Reagrupe os cartões por outro critério e explique por que os grupos mudam. Diga algo que a aparência não permite concluir.",
+          "gabarito": "Reconhecer dependência do critério e limites de inferência, como interesses, capacidades e valor da pessoa.",
+          "rubrica": [
+            "Reconhecer dependência do critério e limites de inferência, como interesses, capacidades e valor da pessoa.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI04"
+          ],
+          "atividadeOrigem": "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas#semelhancas_e_diferencas.producao2"
+        },
+        {
+          "titulo": "Respeitar em palavras e atitudes — producao1",
+          "enunciado": "Analise um caso fictício de apelido sobre aparência. Identifique a atitude que exclui e escreva duas falas que interrompam a ofensa e apoiem o personagem.",
+          "gabarito": "Exigir resposta respeitosa e busca de apoio, sem repetir insultos ou responsabilizar a vítima.",
+          "rubrica": [
+            "Exigir resposta respeitosa e busca de apoio, sem repetir insultos ou responsabilizar a vítima.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI04"
+          ],
+          "atividadeOrigem": "cna.ef01.diversidade_e_respeito.respeito_as_diferencas#respeito_as_diferencas.producao1"
+        },
+        {
+          "titulo": "Respeitar em palavras e atitudes — producao2",
+          "enunciado": "Crie um acordo de convivência com ação observável: como chamar alguém, pedir consentimento ou agir ao presenciar ofensa. Explique como revisar um descumprimento.",
+          "gabarito": "Relacionar regra a atitude e reparação; não reduzir a cartaz sem aplicação nem exigir relato pessoal.",
+          "rubrica": [
+            "Relacionar regra a atitude e reparação; não reduzir a cartaz sem aplicação nem exigir relato pessoal.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI04"
+          ],
+          "atividadeOrigem": "cna.ef01.diversidade_e_respeito.respeito_as_diferencas#respeito_as_diferencas.producao2"
+        },
+        {
+          "titulo": "Acolher é garantir participação — producao1",
+          "enunciado": "Analise o jogo fictício descrito. Identifique duas barreiras e proponha duas adaptações com relação ao objetivo. Não peça que colegas simulem uma deficiência.",
+          "gabarito": "Relacionar recurso à barreira, aceitar múltiplas soluções e manter papel ativo do participante.",
+          "rubrica": [
+            "Relacionar recurso à barreira, aceitar múltiplas soluções e manter papel ativo do participante.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI04"
+          ],
+          "atividadeOrigem": "cna.ef01.diversidade_e_respeito.acolhimento_na_escola#acolhimento_na_escola.producao1"
+        },
+        {
+          "titulo": "Acolher é garantir participação — producao2",
+          "enunciado": "Construa um convite acessível para nova pessoa entrar numa atividade, oferecendo pelo menos duas formas de responder e perguntando sobre apoio.",
+          "gabarito": "Exigir convite e opções reais, sem presumir necessidade pelo aspecto de alguém.",
+          "rubrica": [
+            "Exigir convite e opções reais, sem presumir necessidade pelo aspecto de alguém.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI04"
+          ],
+          "atividadeOrigem": "cna.ef01.diversidade_e_respeito.acolhimento_na_escola#acolhimento_na_escola.producao2"
+        },
+        {
+          "titulo": "Todos os corpos têm lugar e direitos — producao1",
+          "enunciado": "Produza cartaz ou narrativa curta com três personagens diversos participando da mesma atividade por caminhos diferentes. Evite associar aparência a caráter ou capacidade.",
+          "gabarito": "Exigir diversidade e participação com papéis ativos; aceitar texto ditado, desenhos ou cartões, sem avaliar estética.",
+          "rubrica": [
+            "Exigir diversidade e participação com papéis ativos; aceitar texto ditado, desenhos ou cartões, sem avaliar estética.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI04"
+          ],
+          "atividadeOrigem": "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam#todos_os_corpos_importam.producao1"
+        },
+        {
+          "titulo": "Todos os corpos têm lugar e direitos — producao2",
+          "enunciado": "Revise a produção: alguém ficou reduzido ao recurso que usa? Acrescente interesse, escolha ou fala própria e explique a alteração.",
+          "gabarito": "Reconhecer representação respeitosa e revisão; não exigir que personagem seja herói para merecer respeito.",
+          "rubrica": [
+            "Reconhecer representação respeitosa e revisão; não exigir que personagem seja herói para merecer respeito.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI04"
+          ],
+          "atividadeOrigem": "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam#todos_os_corpos_importam.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "UNICEF — Inclusão escolar",
+        "url": "https://www.unicef.org/brazil/inclusao-escolar",
+        "consulta": "2026-10-30",
+        "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF01CI04",
+        "questoes": [
+          "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas.prova.1",
+          "cna.ef01.diversidade_e_respeito.respeito_as_diferencas.prova.1",
+          "cna.ef01.diversidade_e_respeito.acolhimento_na_escola.prova.1",
+          "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef01.diversidade_e_respeito.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas#semelhancas_e_diferencas.producao1",
+          "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas#semelhancas_e_diferencas.producao2",
+          "cna.ef01.diversidade_e_respeito.respeito_as_diferencas#respeito_as_diferencas.producao1",
+          "cna.ef01.diversidade_e_respeito.respeito_as_diferencas#respeito_as_diferencas.producao2",
+          "cna.ef01.diversidade_e_respeito.acolhimento_na_escola#acolhimento_na_escola.producao1",
+          "cna.ef01.diversidade_e_respeito.acolhimento_na_escola#acolhimento_na_escola.producao2",
+          "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam#todos_os_corpos_importam.producao1",
+          "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam#todos_os_corpos_importam.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef01.higiene_e_saude.prova": {
+    "id": "cna.ef01.higiene_e_saude.prova",
+    "titulo": "Avaliação: Higiene e Saúde",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Higiene e Saúde",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/5 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+    "questoes": [
+      "cna.ef01.higiene_e_saude.escovar_os_dentes.prova.1",
+      "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas.prova.1",
+      "cna.ef01.higiene_e_saude.higiene_antes_de_comer.prova.1",
+      "cna.ef01.higiene_e_saude.higiene_e_doencas.prova.1",
+      "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola.prova.1"
+    ],
+    "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.higiene_e_saude.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Higiene e Saúde",
+      "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+      "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+      "rubrica": [
+        "Atende: produção verificável e explicação coerente.",
+        "Em desenvolvimento: evidência parcial com revisão.",
+        "Retomar: produção ou relação ainda precisa ser desenvolvida."
+      ],
+      "bncc": [
+        "EF01CI03"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Escovação: cuidar dos dentes com apoio — producao1",
+          "enunciado": "Com modelo ou desenho, indique partes que precisam de escovação e explique por que escova e pasta não são brinquedos. Organize sequência de cuidado com adulto, sem escovação coletiva compartilhada.",
+          "gabarito": "Relacionar higiene, remoção de placa e proteção; reconhecer supervisão, uso individual e não ingestão. Não exigir relato de saúde ou prescrever quantidade individual.",
+          "rubrica": [
+            "Relacionar higiene, remoção de placa e proteção; reconhecer supervisão, uso individual e não ingestão. Não exigir relato de saúde ou prescrever quantidade individual.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI03"
+          ],
+          "atividadeOrigem": "cna.ef01.higiene_e_saude.escovar_os_dentes#escovar_os_dentes.producao1"
+        },
+        {
+          "titulo": "Escovação: cuidar dos dentes com apoio — producao2",
+          "enunciado": "Um personagem pensa que dentes de leite não precisam de cuidado. Escreva ou dite uma resposta e indique a quem pedir ajuda para aprender a escovar.",
+          "gabarito": "Corrigir a ideia e apontar responsável/profissional; não diagnosticar cárie nem prometer que escovar elimina todo risco.",
+          "rubrica": [
+            "Corrigir a ideia e apontar responsável/profissional; não diagnosticar cárie nem prometer que escovar elimina todo risco.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI03"
+          ],
+          "atividadeOrigem": "cna.ef01.higiene_e_saude.escovar_os_dentes#escovar_os_dentes.producao2"
+        },
+        {
+          "titulo": "Cuidados com olhos, nariz e orelhas — producao1",
+          "enunciado": "Classifique cartões com situações: mãos limpas antes de tocar o rosto; objeto no ouvido; lenço usado deixado na mesa; comunicar dor ao responsável. Explique duas escolhas de cuidado.",
+          "gabarito": "Aprovar higiene e busca de ajuda; recusar introdução de objetos e descarte inadequado. Não ensinar procedimento interno ou remoção de corpo estranho.",
+          "rubrica": [
+            "Aprovar higiene e busca de ajuda; recusar introdução de objetos e descarte inadequado. Não ensinar procedimento interno ou remoção de corpo estranho.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI03"
+          ],
+          "atividadeOrigem": "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas#olhos_nariz_e_orelhas.producao1"
+        },
+        {
+          "titulo": "Cuidados com olhos, nariz e orelhas — producao2",
+          "enunciado": "Escreva mensagem para o personagem do palito, indicando o que evitar e a quem recorrer.",
+          "gabarito": "Exigir orientação clara sem remédio ou instrumento substituto; responsável procura profissional quando necessário.",
+          "rubrica": [
+            "Exigir orientação clara sem remédio ou instrumento substituto; responsável procura profissional quando necessário.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI03"
+          ],
+          "atividadeOrigem": "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas#olhos_nariz_e_orelhas.producao2"
+        },
+        {
+          "titulo": "Mãos limpas antes da alimentação — producao1",
+          "enunciado": "Com adulto, organize cartões da lavagem e explique por que palmas, dorsos, entre os dedos e outras regiões precisam de atenção. Se houver condição adequada, registre uma prática supervisionada; caso contrário, registre apenas o modelo.",
+          "gabarito": "Exigir sequência coerente, água/sabão/fricção/enxágue/secagem e distinção entre prática real e cartões. Não fingir medição de microrganismos.",
+          "rubrica": [
+            "Exigir sequência coerente, água/sabão/fricção/enxágue/secagem e distinção entre prática real e cartões. Não fingir medição de microrganismos.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI03"
+          ],
+          "atividadeOrigem": "cna.ef01.higiene_e_saude.higiene_antes_de_comer#higiene_antes_de_comer.producao1"
+        },
+        {
+          "titulo": "Mãos limpas antes da alimentação — producao2",
+          "enunciado": "Observe a disponibilidade de água e sabão em local autorizado da escola, sem fotografar pessoas. Dite ao adulto um pedido se algo estiver faltando.",
+          "gabarito": "Registrar recurso observado e necessidade de acesso; não responsabilizar colegas nem expor dados pessoais.",
+          "rubrica": [
+            "Registrar recurso observado e necessidade de acesso; não responsabilizar colegas nem expor dados pessoais.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI03"
+          ],
+          "atividadeOrigem": "cna.ef01.higiene_e_saude.higiene_antes_de_comer#higiene_antes_de_comer.producao2"
+        },
+        {
+          "titulo": "Higiene reduz riscos, sem culpar pessoas — producao1",
+          "enunciado": "Desenhe um caminho possível entre mãos, alimento e boca usando cartões. Inclua uma ação de higiene e explique o que ela pretende reduzir. Não use amostras biológicas, cultivo ou toque no rosto de alguém.",
+          "gabarito": "Exigir relação causal simples e limite: redução de risco, não garantia. Diferenciar desenho de observação de transmissão real.",
+          "rubrica": [
+            "Exigir relação causal simples e limite: redução de risco, não garantia. Diferenciar desenho de observação de transmissão real.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI03"
+          ],
+          "atividadeOrigem": "cna.ef01.higiene_e_saude.higiene_e_doencas#higiene_e_doencas.producao1"
+        },
+        {
+          "titulo": "Higiene reduz riscos, sem culpar pessoas — producao2",
+          "enunciado": "Um personagem ficou doente e foi acusado de não se cuidar. Explique por que essa conclusão não é justa e proponha acolhimento.",
+          "gabarito": "Reconhecer múltiplas causas e apoio; não diagnosticar nem relacionar doença a valor moral.",
+          "rubrica": [
+            "Reconhecer múltiplas causas e apoio; não diagnosticar nem relacionar doença a valor moral.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI03"
+          ],
+          "atividadeOrigem": "cna.ef01.higiene_e_saude.higiene_e_doencas#higiene_e_doencas.producao2"
+        },
+        {
+          "titulo": "Organizar o cuidado na escola — producao1",
+          "enunciado": "Faça uma rotina ilustrada para dois momentos escolares, indicando ação, recurso e adulto a quem pedir apoio. Use situações fictícias, não nomes de colegas.",
+          "gabarito": "Exigir ligação momento/ação/recurso; incluir acesso e apoio, sem exposição de hábitos pessoais.",
+          "rubrica": [
+            "Exigir ligação momento/ação/recurso; incluir acesso e apoio, sem exposição de hábitos pessoais.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI03"
+          ],
+          "atividadeOrigem": "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola#rotina_de_higiene_na_escola.producao1"
+        },
+        {
+          "titulo": "Organizar o cuidado na escola — producao2",
+          "enunciado": "Em espaço autorizado, verifique com adulto se os recursos da rotina existem. Escolha uma melhoria e registre encaminhamento e o que continua pendente.",
+          "gabarito": "Distinguir plano e execução; não declarar conserto ou compra realizados sem confirmação.",
+          "rubrica": [
+            "Distinguir plano e execução; não declarar conserto ou compra realizados sem confirmação.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI03"
+          ],
+          "atividadeOrigem": "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola#rotina_de_higiene_na_escola.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "Ministério da Saúde — Saúde Bucal",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia/saude-bucal",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados sobre dentes de leite, higiene, cárie, escova individual, flúor e supervisão. Não transpõe faixas/quantidades ou calendário clínico como regra individual."
+      },
+      {
+        "documento": "WHO — Deafness and hearing loss: Ear care",
+        "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+        "consulta": "2026-10-30",
+        "uso": "Fonte consultada: não introduzir objetos/fluidos no ouvido, cuidado externo e avaliação profissional para problemas. Sem diagnóstico ou tratamento na aula."
+      },
+      {
+        "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+        "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+        "consulta": "2026-10-30",
+        "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF01CI03",
+        "questoes": [
+          "cna.ef01.higiene_e_saude.escovar_os_dentes.prova.1",
+          "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas.prova.1",
+          "cna.ef01.higiene_e_saude.higiene_antes_de_comer.prova.1",
+          "cna.ef01.higiene_e_saude.higiene_e_doencas.prova.1",
+          "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef01.higiene_e_saude.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef01.higiene_e_saude.escovar_os_dentes#escovar_os_dentes.producao1",
+          "cna.ef01.higiene_e_saude.escovar_os_dentes#escovar_os_dentes.producao2",
+          "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas#olhos_nariz_e_orelhas.producao1",
+          "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas#olhos_nariz_e_orelhas.producao2",
+          "cna.ef01.higiene_e_saude.higiene_antes_de_comer#higiene_antes_de_comer.producao1",
+          "cna.ef01.higiene_e_saude.higiene_antes_de_comer#higiene_antes_de_comer.producao2",
+          "cna.ef01.higiene_e_saude.higiene_e_doencas#higiene_e_doencas.producao1",
+          "cna.ef01.higiene_e_saude.higiene_e_doencas#higiene_e_doencas.producao2",
+          "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola#rotina_de_higiene_na_escola.producao1",
+          "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola#rotina_de_higiene_na_escola.producao2"
+        ]
+      }
+    ]
+  },
   "cna.ef01.materia_e_energia.prova": {
     "id": "cna.ef01.materia_e_energia.prova",
     "titulo": "Avaliação: Matéria e Energia",
@@ -12603,6 +16861,770 @@ registrarProvas({
           "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao2",
           "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao1",
           "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef01.observar_e_registrar.prova": {
+    "id": "cna.ef01.observar_e_registrar.prova",
+    "titulo": "Avaliação: Observar e Registrar",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar",
+    "bncc": [
+      "EF01CI01",
+      "EF01CI02"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/4 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+    "questoes": [
+      "cna.ef01.observar_e_registrar.o_que_e_observar.prova.1",
+      "cna.ef01.observar_e_registrar.lupa_e_instrumentos.prova.1",
+      "cna.ef01.observar_e_registrar.desenho_como_registro.prova.1",
+      "cna.ef01.observar_e_registrar.comparar_e_descrever.prova.1"
+    ],
+    "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.observar_e_registrar.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Observar e Registrar",
+      "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+      "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+      "rubrica": [
+        "Atende: produção verificável e explicação coerente.",
+        "Em desenvolvimento: evidência parcial com revisão.",
+        "Retomar: produção ou relação ainda precisa ser desenvolvida."
+      ],
+      "bncc": [
+        "EF01CI01",
+        "EF01CI02"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Observar é registrar com atenção — producao1",
+          "enunciado": "Observe dois objetos limpos e seguros e registre três características, com fala, desenho ou apoio. Separe uma informação observada de uma opinião ou hipótese.",
+          "gabarito": "Exigir objetos identificados e características reais; aceitar mediação sem transformar hipótese em material confirmado.",
+          "rubrica": [
+            "Exigir objetos identificados e características reais; aceitar mediação sem transformar hipótese em material confirmado.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.observar_e_registrar.o_que_e_observar#o_que_e_observar.producao1"
+        },
+        {
+          "titulo": "Observar é registrar com atenção — producao2",
+          "enunciado": "Compare uma característica dos dois objetos e diga como procuraria resposta para algo que ficou incerto.",
+          "gabarito": "Exigir critério comum e caminho de consulta/teste seguro; não testar por gosto, cheiro ou destruição.",
+          "rubrica": [
+            "Exigir critério comum e caminho de consulta/teste seguro; não testar por gosto, cheiro ou destruição.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.observar_e_registrar.o_que_e_observar#o_que_e_observar.producao2"
+        },
+        {
+          "titulo": "Instrumentos ajudam, mas têm limites — producao1",
+          "enunciado": "Com adulto, observe papel limpo a olho nu ou por descrição e depois com lupa didática segura, se disponível. Registre detalhe visto e o que não pôde confirmar. Sem lupa, registre análise de modelo.",
+          "gabarito": "Exigir origem da informação e limite; não inventar fibras vistas nem confundir ampliação aparente com crescimento real.",
+          "rubrica": [
+            "Exigir origem da informação e limite; não inventar fibras vistas nem confundir ampliação aparente com crescimento real.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.observar_e_registrar.lupa_e_instrumentos#lupa_e_instrumentos.producao1"
+        },
+        {
+          "titulo": "Instrumentos ajudam, mas têm limites — producao2",
+          "enunciado": "Associe uma pergunta de comprimento à régua e uma de detalhes à lupa. Explique por que nenhum desses usos confirma sozinho o destino de reciclagem.",
+          "gabarito": "Relacionar instrumento à pergunta; encaminhamento depende de material e serviço, não só aparência.",
+          "rubrica": [
+            "Relacionar instrumento à pergunta; encaminhamento depende de material e serviço, não só aparência.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.observar_e_registrar.lupa_e_instrumentos#lupa_e_instrumentos.producao2"
+        },
+        {
+          "titulo": "Desenhar para comunicar uma observação do corpo — producao1",
+          "enunciado": "Faça registro de uma figura vestida ou modelo do corpo apresentado, indicando que se trata de representação. Nomeie três partes e relacione-as a funções.",
+          "gabarito": "Conferir correspondência e função; aceitar apoio motor/comunicacional, sem avaliar proporções reais ou expor o corpo.",
+          "rubrica": [
+            "Conferir correspondência e função; aceitar apoio motor/comunicacional, sem avaliar proporções reais ou expor o corpo.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.observar_e_registrar.desenho_como_registro#desenho_como_registro.producao1"
+        },
+        {
+          "titulo": "Desenhar para comunicar uma observação do corpo — producao2",
+          "enunciado": "Compare seu registro com a descrição feita por um adulto. Marque uma informação que ficou clara e uma que precisa de legenda ou revisão.",
+          "gabarito": "Exigir revisão documentada ou pendência; diferenciar interpretação do desenho e evidência do corpo real.",
+          "rubrica": [
+            "Exigir revisão documentada ou pendência; diferenciar interpretação do desenho e evidência do corpo real.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI02"
+          ],
+          "atividadeOrigem": "cna.ef01.observar_e_registrar.desenho_como_registro#desenho_como_registro.producao2"
+        },
+        {
+          "titulo": "Comparar com um critério compartilhado — producao1",
+          "enunciado": "Compare três amostras limpas por duas características. Faça tabela ou cartões, dizendo qual foi apenas observada e qual foi testada com adulto, sem forçar materiais.",
+          "gabarito": "Exigir critérios aplicados às três amostras e condições reais; não apresentar preferência como propriedade medida.",
+          "rubrica": [
+            "Exigir critérios aplicados às três amostras e condições reais; não apresentar preferência como propriedade medida.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.observar_e_registrar.comparar_e_descrever#comparar_e_descrever.producao1"
+        },
+        {
+          "titulo": "Comparar com um critério compartilhado — producao2",
+          "enunciado": "Reagrupe por um dos critérios e escolha material para uma função simples. Explique a escolha e uma informação que ainda precisaria verificar.",
+          "gabarito": "Relacionar propriedade e função e reconhecer limites; aceitar decisões diferentes sustentadas pelas evidências.",
+          "rubrica": [
+            "Relacionar propriedade e função e reconhecer limites; aceitar decisões diferentes sustentadas pelas evidências.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI01"
+          ],
+          "atividadeOrigem": "cna.ef01.observar_e_registrar.comparar_e_descrever#comparar_e_descrever.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF01CI01",
+        "questoes": [
+          "cna.ef01.observar_e_registrar.o_que_e_observar.prova.1",
+          "cna.ef01.observar_e_registrar.lupa_e_instrumentos.prova.1",
+          "cna.ef01.observar_e_registrar.comparar_e_descrever.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef01.observar_e_registrar.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef01.observar_e_registrar.o_que_e_observar#o_que_e_observar.producao1",
+          "cna.ef01.observar_e_registrar.o_que_e_observar#o_que_e_observar.producao2",
+          "cna.ef01.observar_e_registrar.lupa_e_instrumentos#lupa_e_instrumentos.producao1",
+          "cna.ef01.observar_e_registrar.lupa_e_instrumentos#lupa_e_instrumentos.producao2",
+          "cna.ef01.observar_e_registrar.comparar_e_descrever#comparar_e_descrever.producao1",
+          "cna.ef01.observar_e_registrar.comparar_e_descrever#comparar_e_descrever.producao2"
+        ]
+      },
+      {
+        "bncc": "EF01CI02",
+        "questoes": [
+          "cna.ef01.observar_e_registrar.desenho_como_registro.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef01.observar_e_registrar.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef01.observar_e_registrar.desenho_como_registro#desenho_como_registro.producao1",
+          "cna.ef01.observar_e_registrar.desenho_como_registro#desenho_como_registro.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef01.observar_e_registrar_complementar.prova": {
+    "id": "cna.ef01.observar_e_registrar_complementar.prova",
+    "titulo": "Avaliação: Observar e Registrar — Complementar",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Observar e Registrar — Complementar",
+    "bncc": [],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": true,
+    "pontuacaoTotal": 10,
+    "instrucoes": "1 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/1 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+    "questoes": [
+      "cna.ef01.observar_e_registrar.cuidado_ao_experimentar.prova.1"
+    ],
+    "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.observar_e_registrar_complementar.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Observar e Registrar — Complementar",
+      "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+      "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+      "rubrica": [
+        "Atende: produção verificável e explicação coerente.",
+        "Em desenvolvimento: evidência parcial com revisão.",
+        "Retomar: produção ou relação ainda precisa ser desenvolvida."
+      ],
+      "bncc": [],
+      "tarefas": [
+        {
+          "titulo": "Investigar com cuidado e pedir ajuda — producao1",
+          "enunciado": "Analise cartões de situações: comparar papel e tecido; abrir produto desconhecido; usar desenho de vidro quebrado. Classifique o que pode ser estudado com adulto e o que precisa ser evitado.",
+          "gabarito": "Exigir justificativa e escolha de alternativa segura; não realizar a situação de risco para confirmar.",
+          "rubrica": [
+            "Exigir justificativa e escolha de alternativa segura; não realizar a situação de risco para confirmar.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar#cuidado_ao_experimentar.producao1"
+        },
+        {
+          "titulo": "Investigar com cuidado e pedir ajuda — producao2",
+          "enunciado": "Produza um combinado com três cuidados para uma investigação de materiais e uma forma de pedir ajuda. Explique o que faria se faltasse condição adequada.",
+          "gabarito": "Relacionar cuidado ao risco específico, registrar adaptação ou adiamento sem inventar execução.",
+          "rubrica": [
+            "Relacionar cuidado ao risco específico, registrar adaptação ou adiamento sem inventar execução.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar#cuidado_ao_experimentar.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "University of Waikato — Properties of materials",
+        "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+      }
+    ],
+    "matriz": []
+  },
+  "cna.ef01.saude_e_ambiente.prova": {
+    "id": "cna.ef01.saude_e_ambiente.prova",
+    "titulo": "Avaliação: Saúde e Ambiente",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "1 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/1 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+    "questoes": [
+      "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta.prova.1"
+    ],
+    "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.saude_e_ambiente.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Saúde e Ambiente",
+      "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+      "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+      "rubrica": [
+        "Atende: produção verificável e explicação coerente.",
+        "Em desenvolvimento: evidência parcial com revisão.",
+        "Retomar: produção ou relação ainda precisa ser desenvolvida."
+      ],
+      "bncc": [
+        "EF01CI06"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Dia, cuidado e participação no ambiente — producao1",
+          "enunciado": "Monte uma rotina fictícia com quatro atividades em manhã, tarde e noite, incluindo cuidado e descanso. Explique como uma condição do ambiente pode alterar uma escolha.",
+          "gabarito": "Exigir relação atividade/período/condição, não apenas listar hábitos; respeitar diversidade de rotina.",
+          "rubrica": [
+            "Exigir relação atividade/período/condição, não apenas listar hábitos; respeitar diversidade de rotina.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta#habitos_saudaveis_no_planeta.producao1"
+        },
+        {
+          "titulo": "Dia, cuidado e participação no ambiente — producao2",
+          "enunciado": "Para o caso da atividade externa, proponha adaptação com responsável e recurso. Registre o que seria preciso confirmar antes e como avaliar participação depois.",
+          "gabarito": "Relacionar mudança de horário/local e necessidades de acesso; distinguir plano e execução e evitar prescrição individual.",
+          "rubrica": [
+            "Relacionar mudança de horário/local e necessidades de acesso; distinguir plano e execução e evitar prescrição individual.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI06"
+          ],
+          "atividadeOrigem": "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta#habitos_saudaveis_no_planeta.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "NIGMS — Circadian Rhythms",
+        "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+        "consulta": "2026-10-30",
+        "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF01CI06",
+        "questoes": [
+          "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef01.saude_e_ambiente.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta#habitos_saudaveis_no_planeta.producao1",
+          "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta#habitos_saudaveis_no_planeta.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef01.saude_e_ambiente_complementar.prova": {
+    "id": "cna.ef01.saude_e_ambiente_complementar.prova",
+    "titulo": "Avaliação: Saúde e Ambiente — Complementar",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Saúde e Ambiente — Complementar",
+    "bncc": [],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": true,
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/4 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+    "questoes": [
+      "cna.ef01.saude_e_ambiente.ar_que_respiramos.prova.1",
+      "cna.ef01.saude_e_ambiente.agua_limpa_para_todos.prova.1",
+      "cna.ef01.saude_e_ambiente.som_e_barulho.prova.1",
+      "cna.ef01.saude_e_ambiente.luz_e_saude.prova.1"
+    ],
+    "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.saude_e_ambiente_complementar.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Saúde e Ambiente — Complementar",
+      "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+      "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+      "rubrica": [
+        "Atende: produção verificável e explicação coerente.",
+        "Em desenvolvimento: evidência parcial com revisão.",
+        "Retomar: produção ou relação ainda precisa ser desenvolvida."
+      ],
+      "bncc": [],
+      "tarefas": [
+        {
+          "titulo": "Ar e ambiente: cuidado sem experimentos de exposição — producao1",
+          "enunciado": "Desenhe uma situação fictícia de ambiente ventilado e outra com fonte de fumaça. Indique o que comunicar e qual exposição evitar, sem produzir fumaça real.",
+          "gabarito": "Reconhecer necessidade de avaliação do ambiente e ausência de teste por exposição; não afirmar concentração ou diagnóstico.",
+          "rubrica": [
+            "Reconhecer necessidade de avaliação do ambiente e ausência de teste por exposição; não afirmar concentração ou diagnóstico.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.saude_e_ambiente.ar_que_respiramos#ar_que_respiramos.producao1"
+        },
+        {
+          "titulo": "Ar e ambiente: cuidado sem experimentos de exposição — producao2",
+          "enunciado": "Produza mensagem ao adulto para relatar uma condição ambiental observada em espaço autorizado ou no caso fictício. Separe observação e hipótese.",
+          "gabarito": "Exigir descrição sem dados pessoais e encaminhamento; não solicitar remédio ou limpeza química infantil.",
+          "rubrica": [
+            "Exigir descrição sem dados pessoais e encaminhamento; não solicitar remédio ou limpeza química infantil.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.saude_e_ambiente.ar_que_respiramos#ar_que_respiramos.producao2"
+        },
+        {
+          "titulo": "Água segura: aparência não é garantia — producao1",
+          "enunciado": "Analise os cartões dos dois copos sem usar amostras reais desconhecidas. Diga que informação falta antes de decidir sobre consumo e a quem perguntar.",
+          "gabarito": "Exigir origem/controle confirmado por responsável, sem provar, cheirar ou prescrever tratamento.",
+          "rubrica": [
+            "Exigir origem/controle confirmado por responsável, sem provar, cheirar ou prescrever tratamento.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.saude_e_ambiente.agua_limpa_para_todos#agua_limpa_para_todos.producao1"
+        },
+        {
+          "titulo": "Água segura: aparência não é garantia — producao2",
+          "enunciado": "Com adulto, identifique a fonte autorizada de água na escola e como comunicar falta de acesso. Registre informação real ou pendência, sem coletar água para testar em colegas.",
+          "gabarito": "Distinguir abastecimento autorizado e aparência; reconhecer direito de acesso, sem declarar análise laboratorial inexistente.",
+          "rubrica": [
+            "Distinguir abastecimento autorizado e aparência; reconhecer direito de acesso, sem declarar análise laboratorial inexistente.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.saude_e_ambiente.agua_limpa_para_todos#agua_limpa_para_todos.producao2"
+        },
+        {
+          "titulo": "Sons do ambiente e conforto — producao1",
+          "enunciado": "No caso fictício do jogo, identifique função do aviso e duas alternativas para comunicar sem intensidade desconfortável. Use desenhos ou cartões, sem reproduzir ruído alto.",
+          "gabarito": "Relacionar alternativa à função e acessibilidade; não exigir tolerância igual de todos.",
+          "rubrica": [
+            "Relacionar alternativa à função e acessibilidade; não exigir tolerância igual de todos.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.saude_e_ambiente.som_e_barulho#som_e_barulho.producao1"
+        },
+        {
+          "titulo": "Sons do ambiente e conforto — producao2",
+          "enunciado": "Com adulto, faça mapa qualitativo de sons de um espaço em horário autorizado. Registre fonte e condição, sem usar aplicativo como medição clínica ou inventar decibéis.",
+          "gabarito": "Exigir observação ou caso identificado, reconhecimento de percepção diversa e ausência de medida inventada.",
+          "rubrica": [
+            "Exigir observação ou caso identificado, reconhecimento de percepção diversa e ausência de medida inventada.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.saude_e_ambiente.som_e_barulho#som_e_barulho.producao2"
+        },
+        {
+          "titulo": "Iluminação para participar com conforto — producao1",
+          "enunciado": "Analise o caso fictício do cartão com reflexo. Proponha duas adaptações e explique como ajudam no objetivo de acessar a informação. Não ilumine olhos nem teste colegas.",
+          "gabarito": "Relacionar posição, iluminação e suporte à tarefa, sem diagnóstico ou prescrição.",
+          "rubrica": [
+            "Relacionar posição, iluminação e suporte à tarefa, sem diagnóstico ou prescrição.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.saude_e_ambiente.luz_e_saude#luz_e_saude.producao1"
+        },
+        {
+          "titulo": "Iluminação para participar com conforto — producao2",
+          "enunciado": "Com adulto, observe um material em duas posições sob iluminação comum e confortável. Registre mudança de reflexo ou legibilidade por descrição; pare se houver desconforto.",
+          "gabarito": "Exigir condições e resultado real ou declarar modelo; não tratar preferência como exame de visão.",
+          "rubrica": [
+            "Exigir condições e resultado real ou declarar modelo; não tratar preferência como exame de visão.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [],
+          "atividadeOrigem": "cna.ef01.saude_e_ambiente.luz_e_saude#luz_e_saude.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+      },
+      {
+        "documento": "Ministério da Saúde — Primeira Infância",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+        "consulta": "2026-10-30",
+        "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+      },
+      {
+        "documento": "Funasa — Água transparente é sempre segura para beber?",
+        "url": "https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado sobre aparência e controle de potabilidade. Sem parâmetros normativos, doses de tratamento, teste por consumo ou redistribuição de imagens."
+      },
+      {
+        "documento": "Ministério da Saúde — Vigiagua",
+        "url": "https://www.gov.br/saude/pt-br/composicao/svsa/saude-ambiental/vigiagua/vigiagua/",
+        "consulta": "2026-10-30",
+        "uso": "Página consultada: vigilância, responsabilidades e controle da água; não declara análise laboratorial da escola."
+      }
+    ],
+    "matriz": []
+  },
+  "cna.ef01.tempo_e_rotina.prova": {
+    "id": "cna.ef01.tempo_e_rotina.prova",
+    "titulo": "Avaliação: Tempo e Rotina",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF01",
+    "unidade": "Tempo e Rotina",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/5 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+    "questoes": [
+      "cna.ef01.tempo_e_rotina.dias_da_semana.prova.1",
+      "cna.ef01.tempo_e_rotina.semanas_meses_e_anos.prova.1",
+      "cna.ef01.tempo_e_rotina.o_calendario_escolar.prova.1",
+      "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha.prova.1",
+      "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo.prova.1"
+    ],
+    "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+    "avaliacaoPratica": {
+      "id": "cna.ef01.tempo_e_rotina.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Tempo e Rotina",
+      "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+      "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+      "rubrica": [
+        "Atende: produção verificável e explicação coerente.",
+        "Em desenvolvimento: evidência parcial com revisão.",
+        "Retomar: produção ou relação ainda precisa ser desenvolvida."
+      ],
+      "bncc": [
+        "EF01CI05"
+      ],
+      "tarefas": [
+        {
+          "titulo": "A sequência dos dias da semana — producao1",
+          "enunciado": "Monte a roda dos sete dias com cartões, fala ou apontamento. Escolha dois pontos de partida e continue a sequência sem pular dias.",
+          "gabarito": "Exigir sete nomes em ordem cíclica; permitir leitura mediada e apoio visual, sem exigir escrita autônoma.",
+          "rubrica": [
+            "Exigir sete nomes em ordem cíclica; permitir leitura mediada e apoio visual, sem exigir escrita autônoma.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI05"
+          ],
+          "atividadeOrigem": "cna.ef01.tempo_e_rotina.dias_da_semana#dias_da_semana.producao1"
+        },
+        {
+          "titulo": "A sequência dos dias da semana — producao2",
+          "enunciado": "No calendário incorporado, encontre dois dias com o mesmo nome e números diferentes. Explique nome do dia e data.",
+          "gabarito": "Identificar repetição semanal e datas distintas, usando colunas corretas; não afirmar que toda segunda é dia de aula.",
+          "rubrica": [
+            "Identificar repetição semanal e datas distintas, usando colunas corretas; não afirmar que toda segunda é dia de aula.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI05"
+          ],
+          "atividadeOrigem": "cna.ef01.tempo_e_rotina.dias_da_semana#dias_da_semana.producao2"
+        },
+        {
+          "titulo": "Dias, semanas, meses e anos — producao1",
+          "enunciado": "Agrupe cartões com exemplos: um dia de registro, uma semana de sete cartões, uma página de mês e um conjunto de doze meses. Organize do intervalo menor ao maior.",
+          "gabarito": "Esperar dia, semana, mês e ano; usar calendário como apoio sem exigir cálculos de todos os dias do ano.",
+          "rubrica": [
+            "Esperar dia, semana, mês e ano; usar calendário como apoio sem exigir cálculos de todos os dias do ano.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI05"
+          ],
+          "atividadeOrigem": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos#semanas_meses_e_anos.producao1"
+        },
+        {
+          "titulo": "Dias, semanas, meses e anos — producao2",
+          "enunciado": "Compare outubro e novembro de 2026 nas tabelas incorporadas. Mostre a mudança de data no fim de outubro e a continuidade do dia da semana.",
+          "gabarito": "Reconhecer 31 de outubro seguido de 1º de novembro, sábado/domingo nessa referência. Distinguir resultado do calendário e regra geral de continuidade.",
+          "rubrica": [
+            "Reconhecer 31 de outubro seguido de 1º de novembro, sábado/domingo nessa referência. Distinguir resultado do calendário e regra geral de continuidade.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI05"
+          ],
+          "atividadeOrigem": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos#semanas_meses_e_anos.producao2"
+        },
+        {
+          "titulo": "Ler datas e planejar sem inventar eventos — producao1",
+          "enunciado": "Use o calendário incorporado para localizar 5 e 12 de outubro de 2026. Faça legenda própria para duas atividades fictícias e marque claramente simulação.",
+          "gabarito": "Localizar nas posições corretas e identificar datas/legenda. Não tratar marcações fictícias como agenda escolar confirmada.",
+          "rubrica": [
+            "Localizar nas posições corretas e identificar datas/legenda. Não tratar marcações fictícias como agenda escolar confirmada.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI05"
+          ],
+          "atividadeOrigem": "cna.ef01.tempo_e_rotina.o_calendario_escolar#o_calendario_escolar.producao1"
+        },
+        {
+          "titulo": "Ler datas e planejar sem inventar eventos — producao2",
+          "enunciado": "Com adulto, consulte um evento realmente divulgado pela escola. Registre data e fonte, ou anote que a consulta está pendente. Compare com o exemplo fictício.",
+          "gabarito": "Exigir fonte real sem expor nomes ou contatos; distinguir informação verificada e planejamento.",
+          "rubrica": [
+            "Exigir fonte real sem expor nomes ou contatos; distinguir informação verificada e planejamento.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI05"
+          ],
+          "atividadeOrigem": "cna.ef01.tempo_e_rotina.o_calendario_escolar#o_calendario_escolar.producao2"
+        },
+        {
+          "titulo": "Ontem, hoje e amanhã dependem da referência — producao1",
+          "enunciado": "Escolha o dia 10 de outubro na tabela. Localize anterior e seguinte, desenhando setas e usando ontem/hoje/amanhã para esse caso fictício.",
+          "gabarito": "Esperar 9/10/11, com referência explícita; aceitar leitura mediada.",
+          "rubrica": [
+            "Esperar 9/10/11, com referência explícita; aceitar leitura mediada.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI05"
+          ],
+          "atividadeOrigem": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha#ontem_hoje_e_amanha.producao1"
+        },
+        {
+          "titulo": "Ontem, hoje e amanhã dependem da referência — producao2",
+          "enunciado": "Mude a referência para 1º de novembro de 2026. Mostre o dia anterior no outro mês e o seguinte. Explique por que a data ajuda o registro.",
+          "gabarito": "Esperar 31 de outubro e 2 de novembro; reconhecer travessia de mês sem reiniciar a sequência temporal.",
+          "rubrica": [
+            "Esperar 31 de outubro e 2 de novembro; reconhecer travessia de mês sem reiniciar a sequência temporal.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI05"
+          ],
+          "atividadeOrigem": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha#ontem_hoje_e_amanha.producao2"
+        },
+        {
+          "titulo": "Instrumentos e escalas de tempo — producao1",
+          "enunciado": "Associe três perguntas a instrumentos: em que data ocorrerá o encontro; quanto durou organizar cartões; em que horário está combinado o início. Justifique as escolhas.",
+          "gabarito": "Relacionar calendário, cronômetro e relógio aos usos; aceitar outras soluções coerentes que identifiquem escala.",
+          "rubrica": [
+            "Relacionar calendário, cronômetro e relógio aos usos; aceitar outras soluções coerentes que identifiquem escala.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI05"
+          ],
+          "atividadeOrigem": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo#instrumentos_para_medir_o_tempo.producao1"
+        },
+        {
+          "titulo": "Instrumentos e escalas de tempo — producao2",
+          "enunciado": "Com adulto, acompanhe uma medida curta de intervalo com cronômetro, sem apressar pessoas. Registre ação, início/fim e unidade lida, ou indique que apenas analisou o modelo.",
+          "gabarito": "Exigir medida real ou alternativa explicitada, sem comparar desempenho de crianças; não confundir leitura de horário com duração.",
+          "rubrica": [
+            "Exigir medida real ou alternativa explicitada, sem comparar desempenho de crianças; não confundir leitura de horário com duração.",
+            "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+            "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+          ],
+          "bncc": [
+            "EF01CI05"
+          ],
+          "atividadeOrigem": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo#instrumentos_para_medir_o_tempo.producao2"
+        }
+      ],
+      "correcao": "Docente, separada da nota objetiva."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          335
+        ],
+        "paginasImpressas": "333",
+        "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF01CI05",
+        "questoes": [
+          "cna.ef01.tempo_e_rotina.dias_da_semana.prova.1",
+          "cna.ef01.tempo_e_rotina.semanas_meses_e_anos.prova.1",
+          "cna.ef01.tempo_e_rotina.o_calendario_escolar.prova.1",
+          "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha.prova.1",
+          "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef01.tempo_e_rotina.prova.portfolio"
+        ],
+        "atividadesPraticas": [
+          "cna.ef01.tempo_e_rotina.dias_da_semana#dias_da_semana.producao1",
+          "cna.ef01.tempo_e_rotina.dias_da_semana#dias_da_semana.producao2",
+          "cna.ef01.tempo_e_rotina.semanas_meses_e_anos#semanas_meses_e_anos.producao1",
+          "cna.ef01.tempo_e_rotina.semanas_meses_e_anos#semanas_meses_e_anos.producao2",
+          "cna.ef01.tempo_e_rotina.o_calendario_escolar#o_calendario_escolar.producao1",
+          "cna.ef01.tempo_e_rotina.o_calendario_escolar#o_calendario_escolar.producao2",
+          "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha#ontem_hoje_e_amanha.producao1",
+          "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha#ontem_hoje_e_amanha.producao2",
+          "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo#instrumentos_para_medir_o_tempo.producao1",
+          "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo#instrumentos_para_medir_o_tempo.producao2"
         ]
       }
     ]

@@ -1,0 +1,108 @@
+{
+  "id": "cna.ef01.saude_e_ambiente.luz_e_saude",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 37,
+  "unidade": "Saúde e Ambiente — Complementar",
+  "titulo": "Iluminação para participar com conforto",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise o caso fictício do cartão com reflexo. Proponha duas adaptações e explique como ajudam no objetivo de acessar a informação. Não ilumine olhos nem teste colegas.",
+      "Com adulto, observe um material em duas posições sob iluminação comum e confortável. Registre mudança de reflexo ou legibilidade por descrição; pare se houver desconforto."
+    ],
+    "resumo": "Iluminação para participar com conforto",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Complementar · opcional:</strong> Condições de luz e cuidado visual; extensão sem equivalência a higiene EF01CI03.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.saude_e_ambiente.som_e_barulho\">Sons do ambiente e conforto</button></p><h2>Iluminação para participar com conforto</h2><h3>Para compreender</h3><p>Esta extensão trata de condições de iluminação e cuidado visual, aprofundadas em anos posteriores. Luz suficiente e posição do material ajudam em tarefas, mas necessidades variam. Reflexo muito intenso e fonte dirigida aos olhos podem causar desconforto. Nunca olhamos diretamente para o Sol ou usamos lupa para concentrar luz. Dificuldades ou dor precisam ser comunicadas ao adulto e avaliadas por profissional, sem teste de visão ou troca de óculos na sala.</p><h3>Exemplo comentado</h3><p>Um cartão fica ilegível por reflexo de lâmpada. Antes de aumentar a intensidade, podemos mudar posição do cartão, reduzir reflexo e oferecer letra maior ou leitura mediada. Isso não identifica a causa clínica de dificuldade visual de alguém.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Analise o caso fictício do cartão com reflexo. Proponha duas adaptações e explique como ajudam no objetivo de acessar a informação. Não ilumine olhos nem teste colegas.</p><h4>Explique e aplique</h4><p>Com adulto, observe um material em duas posições sob iluminação comum e confortável. Registre mudança de reflexo ou legibilidade por descrição; pare se houver desconforto.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "luz_e_saude.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Olhar diretamente para o Sol é parte do teste?",
+      "alternativas": [
+        "Sim, para comparar brilho.",
+        "Não; usamos iluminação comum e condições seguras.",
+        "Sim, com qualquer lupa."
+      ],
+      "correta": 1,
+      "explicacao": "Um cartão fica ilegível por reflexo de lâmpada. Antes de aumentar a intensidade, podemos mudar posição do cartão, reduzir reflexo e oferecer letra maior ou leitura mediada. Isso não identifica a causa clínica de dificuldade visual de alguém.",
+      "bncc": []
+    },
+    {
+      "id": "luz_e_saude.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Analise o caso fictício do cartão com reflexo. Proponha duas adaptações e explique como ajudam no objetivo de acessar a informação. Não ilumine olhos nem teste colegas.",
+      "gabarito": "Relacionar posição, iluminação e suporte à tarefa, sem diagnóstico ou prescrição.",
+      "rubrica": [
+        "Relacionar posição, iluminação e suporte à tarefa, sem diagnóstico ou prescrição.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    },
+    {
+      "id": "luz_e_saude.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, observe um material em duas posições sob iluminação comum e confortável. Registre mudança de reflexo ou legibilidade por descrição; pare se houver desconforto.",
+      "gabarito": "Exigir condições e resultado real ou declarar modelo; não tratar preferência como exame de visão.",
+      "rubrica": [
+        "Exigir condições e resultado real ou declarar modelo; não tratar preferência como exame de visão.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    }
+  ],
+  "complementar": true,
+  "preRequisitos": [
+    "cna.ef01.saude_e_ambiente.som_e_barulho"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Saúde e Ambiente",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "titulo": "Luz e Saúde"
+  },
+  "justificativaComplementar": "Condições de luz e cuidado visual; extensão sem equivalência a higiene EF01CI03."
+}

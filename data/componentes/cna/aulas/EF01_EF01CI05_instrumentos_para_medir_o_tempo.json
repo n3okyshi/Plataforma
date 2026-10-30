@@ -1,0 +1,109 @@
+{
+  "id": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 19,
+  "unidade": "Tempo e Rotina",
+  "titulo": "Instrumentos e escalas de tempo",
+  "bncc": [
+    "EF01CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Associe três perguntas a instrumentos: em que data ocorrerá o encontro; quanto durou organizar cartões; em que horário está combinado o início. Justifique as escolhas.",
+      "Com adulto, acompanhe uma medida curta de intervalo com cronômetro, sem apressar pessoas. Registre ação, início/fim e unidade lida, ou indique que apenas analisou o modelo."
+    ],
+    "resumo": "Instrumentos e escalas de tempo",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha\">Ontem, hoje e amanhã dependem da referência</button></p><h2>Instrumentos e escalas de tempo</h2><h3>Para compreender</h3><p>Calendários ajudam a organizar dias, semanas, meses e anos. Relógios indicam horas e minutos; cronômetros medem intervalos; uma ampulheta marca o escoamento de um intervalo conforme seu projeto. Não são instrumentos equivalentes para todas as perguntas. Para saber a data de um evento, usamos calendário; para comparar duração de duas ações, observamos intervalos em condições definidas. Medir exige dizer como foi feito, sem inventar números.</p><h3>Exemplo comentado</h3><p>Um cronômetro pode registrar o tempo de organizar dez cartões. Isso não revela o mês ou o ano. A atividade não é competição de rapidez: repetir a organização pode mudar a duração, e apoio ou pausas devem ser registrados. Quem precisar pode acompanhar a medida feita pelo adulto.</p><table><caption>Outubro de 2026 — referência de datas, sem agenda escolar real</caption><thead><tr><th scope=\"col\">Seg</th><th scope=\"col\">Ter</th><th scope=\"col\">Qua</th><th scope=\"col\">Qui</th><th scope=\"col\">Sex</th><th scope=\"col\">Sáb</th><th scope=\"col\">Dom</th></tr></thead><tbody><tr><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr><tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr><tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr><tr><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td aria-label=\"Fora do mês\">—</td></tr></tbody></table><table><caption>Novembro de 2026 — referência de datas, sem agenda escolar real</caption><thead><tr><th scope=\"col\">Seg</th><th scope=\"col\">Ter</th><th scope=\"col\">Qua</th><th scope=\"col\">Qui</th><th scope=\"col\">Sex</th><th scope=\"col\">Sáb</th><th scope=\"col\">Dom</th></tr></thead><tbody><tr><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td>1</td></tr><tr><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr><tr><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td></tr><tr><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td></tr><tr><td>30</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Associe três perguntas a instrumentos: em que data ocorrerá o encontro; quanto durou organizar cartões; em que horário está combinado o início. Justifique as escolhas.</p><h4>Explique e aplique</h4><p>Com adulto, acompanhe uma medida curta de intervalo com cronômetro, sem apressar pessoas. Registre ação, início/fim e unidade lida, ou indique que apenas analisou o modelo.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "instrumentos_para_medir_o_tempo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para organizar datas de um mês, o instrumento mais adequado é:",
+      "alternativas": [
+        "Calendário.",
+        "Balança.",
+        "Régua."
+      ],
+      "correta": 0,
+      "explicacao": "Um cronômetro pode registrar o tempo de organizar dez cartões. Isso não revela o mês ou o ano. A atividade não é competição de rapidez: repetir a organização pode mudar a duração, e apoio ou pausas devem ser registrados. Quem precisar pode acompanhar a medida feita pelo adulto.",
+      "bncc": [
+        "EF01CI05"
+      ]
+    },
+    {
+      "id": "instrumentos_para_medir_o_tempo.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Associe três perguntas a instrumentos: em que data ocorrerá o encontro; quanto durou organizar cartões; em que horário está combinado o início. Justifique as escolhas.",
+      "gabarito": "Relacionar calendário, cronômetro e relógio aos usos; aceitar outras soluções coerentes que identifiquem escala.",
+      "rubrica": [
+        "Relacionar calendário, cronômetro e relógio aos usos; aceitar outras soluções coerentes que identifiquem escala.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI05"
+      ]
+    },
+    {
+      "id": "instrumentos_para_medir_o_tempo.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, acompanhe uma medida curta de intervalo com cronômetro, sem apressar pessoas. Registre ação, início/fim e unidade lida, ou indique que apenas analisou o modelo.",
+      "gabarito": "Exigir medida real ou alternativa explicitada, sem comparar desempenho de crianças; não confundir leitura de horário com duração.",
+      "rubrica": [
+        "Exigir medida real ou alternativa explicitada, sem comparar desempenho de crianças; não confundir leitura de horário com duração.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Tempo e Rotina",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "titulo": "Instrumentos para Medir o Tempo"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.corpo_humano.desenhando_o_corpo",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 4,
+  "unidade": "Corpo Humano",
+  "titulo": "Representar o corpo: nomes, posições e legendas",
+  "bncc": [
+    "EF01CI02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Produza figura vestida com cabeça, tronco e membros ou componha uma representação acessível. Faça quatro legendas e explique uma função ligada a cada região.",
+      "Peça a um adulto para interpretar as legendas sem adivinhar sua intenção. Revise uma indicação que ficou ambígua e registre a mudança."
+    ],
+    "resumo": "Representar o corpo: nomes, posições e legendas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.corpo_humano.funcoes_das_partes_do_corpo\">Partes do corpo trabalhando juntas</button></p><h2>Representar o corpo: nomes, posições e legendas</h2><h3>Para compreender</h3><p>Desenho é uma forma de registrar ideias e observações. Podemos representar uma pessoa vestida com linhas, formas, palavras e legendas. A legenda mostra o que cada indicação significa. Uma figura simplificada seleciona partes e não é uma fotografia nem uma medida do corpo real. É possível revisar quando uma seta aponta para outra região. O objetivo é comunicar localização e função, sem exigir desenho bonito ou comparar corpos de colegas.</p><h3>Exemplo comentado</h3><p>Uma seta escrita mão deve chegar à mão representada, e não ao tronco. Podemos usar dois cartões para mostrar uma parte e sua função. Uma descrição ditada ao adulto também pode acompanhar figura feita com peças ou recursos táteis.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Produza figura vestida com cabeça, tronco e membros ou componha uma representação acessível. Faça quatro legendas e explique uma função ligada a cada região.</p><h4>Explique e aplique</h4><p>Peça a um adulto para interpretar as legendas sem adivinhar sua intenção. Revise uma indicação que ficou ambígua e registre a mudança.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "desenhando_o_corpo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma legenda serve para:",
+      "alternativas": [
+        "Medir obrigatoriamente a altura real.",
+        "Explicar o que uma indicação representa.",
+        "Transformar desenho em fotografia."
+      ],
+      "correta": 1,
+      "explicacao": "Uma seta escrita mão deve chegar à mão representada, e não ao tronco. Podemos usar dois cartões para mostrar uma parte e sua função. Uma descrição ditada ao adulto também pode acompanhar figura feita com peças ou recursos táteis.",
+      "bncc": [
+        "EF01CI02"
+      ]
+    },
+    {
+      "id": "desenhando_o_corpo.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Produza figura vestida com cabeça, tronco e membros ou componha uma representação acessível. Faça quatro legendas e explique uma função ligada a cada região.",
+      "gabarito": "Conferir correspondência legenda/localização e função coerente; não penalizar estilo, habilidade motora ou proporção não medida.",
+      "rubrica": [
+        "Conferir correspondência legenda/localização e função coerente; não penalizar estilo, habilidade motora ou proporção não medida.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI02"
+      ]
+    },
+    {
+      "id": "desenhando_o_corpo.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Peça a um adulto para interpretar as legendas sem adivinhar sua intenção. Revise uma indicação que ficou ambígua e registre a mudança.",
+      "gabarito": "Exigir troca de interpretação e revisão real ou registrar que ainda falta; não inventar avaliação de outra pessoa.",
+      "rubrica": [
+        "Exigir troca de interpretação e revisão real ou registrar que ainda falta; não inventar avaliação de outra pessoa.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo"
+  ],
+  "proximosPassos": [
+    "cna.ef01.corpo_humano.corpo_em_movimento"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Corpo Humano",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "titulo": "Desenhando o Corpo"
+  }
+}

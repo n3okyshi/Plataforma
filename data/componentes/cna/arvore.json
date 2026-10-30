@@ -18,7 +18,7 @@
           "aulas": [
             {
               "id": "cna.ef01.corpo_humano.cabeca_tronco_e_membros",
-              "titulo": "Cabeça, Tronco e Membros",
+              "titulo": "Cabeça, tronco e membros: localizar no desenho",
               "bncc": [
                 "EF01CI02"
               ],
@@ -31,16 +31,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "245-253"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
                 }
               ],
               "legado": false,
-              "resumo": "Organizar o corpo em três grandes regiões e reconhecer o que há em cada uma."
+              "resumo": "Organizar o corpo em três grandes regiões e reconhecer o que há em cada uma.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.corpo_humano.orgaos_dos_sentidos",
-              "titulo": "Órgãos dos Sentidos",
+              "titulo": "Sentidos: perceber de diferentes maneiras",
               "bncc": [
                 "EF01CI02"
               ],
@@ -54,16 +66,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "289-306"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
                 }
               ],
               "legado": false,
-              "resumo": "Relacionar olhos, ouvidos, nariz, língua e pele às sensações que captam."
+              "resumo": "Relacionar olhos, ouvidos, nariz, língua e pele às sensações que captam.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo",
-              "titulo": "Para Que Serve Cada Parte",
+              "titulo": "Partes do corpo trabalhando juntas",
               "bncc": [
                 "EF01CI02"
               ],
@@ -76,16 +100,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "245-253"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
                 }
               ],
               "legado": false,
-              "resumo": "Explicar a função das principais partes do corpo em ações do dia a dia."
+              "resumo": "Explicar a função das principais partes do corpo em ações do dia a dia.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.corpo_humano.desenhando_o_corpo",
-              "titulo": "Desenhando o Corpo",
+              "titulo": "Representar o corpo: nomes, posições e legendas",
               "bncc": [
                 "EF01CI02"
               ],
@@ -99,16 +135,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "245-253"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
                 }
               ],
               "legado": false,
-              "resumo": "Representar graficamente o corpo humano e identificar as partes desenhadas."
+              "resumo": "Representar graficamente o corpo humano e identificar as partes desenhadas.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.corpo_humano.corpo_em_movimento",
-              "titulo": "Corpo em Movimento",
+              "titulo": "Movimentos e diferentes formas de participar",
               "bncc": [
                 "EF01CI02"
               ],
@@ -122,14 +170,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "251-253"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
                 }
               ],
               "legado": false,
-              "resumo": "Observar como ossos e músculos permitem os movimentos cotidianos."
+              "resumo": "Observar como ossos e músculos permitem os movimentos cotidianos.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef01.higiene_e_saude",
@@ -137,7 +198,7 @@
           "aulas": [
             {
               "id": "cna.ef01.higiene_e_saude.escovar_os_dentes",
-              "titulo": "Escovar os Dentes",
+              "titulo": "Escovação: cuidar dos dentes com apoio",
               "bncc": [
                 "EF01CI03"
               ],
@@ -151,16 +212,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "261-263"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+                },
+                {
+                  "documento": "Ministério da Saúde — Saúde Bucal",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia/saude-bucal",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados sobre dentes de leite, higiene, cárie, escova individual, flúor e supervisão. Não transpõe faixas/quantidades ou calendário clínico como regra individual."
                 }
               ],
               "legado": false,
-              "resumo": "Relacionar a escovação frequente à saúde da boca e dos dentes."
+              "resumo": "Relacionar a escovação frequente à saúde da boca e dos dentes.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas",
-              "titulo": "Olhos, Nariz e Orelhas",
+              "titulo": "Cuidados com olhos, nariz e orelhas",
               "bncc": [
                 "EF01CI03"
               ],
@@ -174,16 +253,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "292-294"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+                },
+                {
+                  "documento": "WHO — Deafness and hearing loss: Ear care",
+                  "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+                  "consulta": "2026-10-30",
+                  "uso": "Fonte consultada: não introduzir objetos/fluidos no ouvido, cuidado externo e avaliação profissional para problemas. Sem diagnóstico ou tratamento na aula."
                 }
               ],
               "legado": false,
-              "resumo": "Explicar por que limpar olhos, nariz e orelhas evita desconfortos e doenças."
+              "resumo": "Explicar por que limpar olhos, nariz e orelhas evita desconfortos e doenças.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.higiene_e_saude.higiene_antes_de_comer",
-              "titulo": "Higiene e Alimentação",
+              "titulo": "Mãos limpas antes da alimentação",
               "bncc": [
                 "EF01CI03"
               ],
@@ -197,16 +294,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "255-258"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+                },
+                {
+                  "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+                  "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
                 }
               ],
               "legado": false,
-              "resumo": "Associar hábitos de higiene aos cuidados com os alimentos que consumimos."
+              "resumo": "Associar hábitos de higiene aos cuidados com os alimentos que consumimos.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.higiene_e_saude.higiene_e_doencas",
-              "titulo": "Higiene e Prevenção de Doenças",
+              "titulo": "Higiene reduz riscos, sem culpar pessoas",
               "bncc": [
                 "EF01CI03"
               ],
@@ -221,16 +336,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "283-286"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+                },
+                {
+                  "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+                  "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
                 }
               ],
               "legado": false,
-              "resumo": "Discutir como hábitos simples de higiene ajudam a evitar doenças comuns."
+              "resumo": "Discutir como hábitos simples de higiene ajudam a evitar doenças comuns.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola",
-              "titulo": "Rotina de Higiene na Escola",
+              "titulo": "Organizar o cuidado na escola",
               "bncc": [
                 "EF01CI03"
               ],
@@ -245,14 +378,33 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "255-263"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+                },
+                {
+                  "documento": "UNICEF — Lavagem de mãos na comunidade escolar",
+                  "url": "https://www.unicef.org/brazil/historias/criancas-e-adolescentes-recebem-orientacoes-sobre-lavagem-de-maos",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta do relato institucional sobre água/sabão, prevenção e acesso a recursos na escola. Sem reproduzir depoimentos ou alegar que a plataforma executou a iniciativa."
                 }
               ],
               "legado": false,
-              "resumo": "Construir coletivamente uma rotina de higiene para a sala de aula."
+              "resumo": "Construir coletivamente uma rotina de higiene para a sala de aula.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef01.diversidade_e_respeito",
@@ -260,7 +412,7 @@
           "aulas": [
             {
               "id": "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas",
-              "titulo": "Semelhanças e Diferenças",
+              "titulo": "Semelhanças e diferenças sem classificação de valor",
               "bncc": [
                 "EF01CI04"
               ],
@@ -274,16 +426,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "245-247"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "UNICEF — Inclusão escolar",
+                  "url": "https://www.unicef.org/brazil/inclusao-escolar",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer o que todos temos em comum e o que nos torna únicos."
+              "resumo": "Reconhecer o que todos temos em comum e o que nos torna únicos.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.diversidade_e_respeito.respeito_as_diferencas",
-              "titulo": "Respeito às Diferenças",
+              "titulo": "Respeitar em palavras e atitudes",
               "bncc": [
                 "EF01CI04"
               ],
@@ -297,16 +461,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "245-247"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "UNICEF — Inclusão escolar",
+                  "url": "https://www.unicef.org/brazil/inclusao-escolar",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
                 }
               ],
               "legado": false,
-              "resumo": "Discutir atitudes de respeito diante das diferenças físicas entre as pessoas."
+              "resumo": "Discutir atitudes de respeito diante das diferenças físicas entre as pessoas.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.diversidade_e_respeito.acolhimento_na_escola",
-              "titulo": "Acolhimento na Escola",
+              "titulo": "Acolher é garantir participação",
               "bncc": [
                 "EF01CI04"
               ],
@@ -321,16 +497,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "245-247"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "UNICEF — Inclusão escolar",
+                  "url": "https://www.unicef.org/brazil/inclusao-escolar",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
                 }
               ],
               "legado": false,
-              "resumo": "Propor ações de acolhimento para que todos se sintam parte da turma."
+              "resumo": "Propor ações de acolhimento para que todos se sintam parte da turma.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam",
-              "titulo": "Todos os Corpos Importam",
+              "titulo": "Todos os corpos têm lugar e direitos",
               "bncc": [
                 "EF01CI04"
               ],
@@ -345,14 +533,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "245-247"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "UNICEF — Inclusão escolar",
+                  "url": "https://www.unicef.org/brazil/inclusao-escolar",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
                 }
               ],
               "legado": false,
-              "resumo": "Valorizar a diversidade dos corpos e combater comentários preconceituosos."
+              "resumo": "Valorizar a diversidade dos corpos e combater comentários preconceituosos.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef01.materiais_do_cotidiano",
@@ -589,7 +790,7 @@
           "aulas": [
             {
               "id": "cna.ef01.tempo_e_rotina.dias_da_semana",
-              "titulo": "Dias da Semana",
+              "titulo": "A sequência dos dias da semana",
               "bncc": [
                 "EF01CI05"
               ],
@@ -603,16 +804,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "83-85"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
                 }
               ],
               "legado": false,
-              "resumo": "Nomear e ordenar os dias da semana e reconhecer sua sucessão."
+              "resumo": "Nomear e ordenar os dias da semana e reconhecer sua sucessão.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos",
-              "titulo": "Semanas, Meses e Anos",
+              "titulo": "Dias, semanas, meses e anos",
               "bncc": [
                 "EF01CI05"
               ],
@@ -626,16 +833,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "83-85"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
                 }
               ],
               "legado": false,
-              "resumo": "Comparar a duração de dias, semanas, meses e anos."
+              "resumo": "Comparar a duração de dias, semanas, meses e anos.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.tempo_e_rotina.o_calendario_escolar",
-              "titulo": "O Calendário Escolar",
+              "titulo": "Ler datas e planejar sem inventar eventos",
               "bncc": [
                 "EF01CI05"
               ],
@@ -650,16 +863,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "83-85"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
                 }
               ],
               "legado": false,
-              "resumo": "Usar o calendário para localizar datas e organizar a rotina da turma."
+              "resumo": "Usar o calendário para localizar datas e organizar a rotina da turma.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha",
-              "titulo": "Ontem, Hoje e Amanhã",
+              "titulo": "Ontem, hoje e amanhã dependem da referência",
               "bncc": [
                 "EF01CI05"
               ],
@@ -672,16 +891,22 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "83-85"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
                 }
               ],
               "legado": false,
-              "resumo": "Situar acontecimentos no passado, no presente e no futuro próximo."
+              "resumo": "Situar acontecimentos no passado, no presente e no futuro próximo.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo",
-              "titulo": "Instrumentos para Medir o Tempo",
+              "titulo": "Instrumentos e escalas de tempo",
               "bncc": [
                 "EF01CI05"
               ],
@@ -695,14 +920,21 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "83-85"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer relógios e calendários como instrumentos de medida do tempo."
+              "resumo": "Reconhecer relógios e calendários como instrumentos de medida do tempo.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef01.dia_e_noite_na_vida",
@@ -710,7 +942,7 @@
           "aulas": [
             {
               "id": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais",
-              "titulo": "O Ritmo dos Animais",
+              "titulo": "Animais: atividades em diferentes períodos",
               "bncc": [
                 "EF01CI06"
               ],
@@ -724,16 +956,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "133-137"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "NIGMS — Circadian Rhythms",
+                  "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+                  "consulta": "2026-10-30",
+                  "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
                 }
               ],
               "legado": false,
-              "resumo": "Identificar animais de hábitos diurnos e noturnos no ambiente próximo."
+              "resumo": "Identificar animais de hábitos diurnos e noturnos no ambiente próximo.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas",
-              "titulo": "A Rotina das Pessoas",
+              "titulo": "Rotinas das pessoas e períodos diários",
               "bncc": [
                 "EF01CI06"
               ],
@@ -747,16 +991,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "11-13"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "NIGMS — Circadian Rhythms",
+                  "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+                  "consulta": "2026-10-30",
+                  "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
                 }
               ],
               "legado": false,
-              "resumo": "Relacionar a sucessão de dias e noites às atividades humanas cotidianas."
+              "resumo": "Relacionar a sucessão de dias e noites às atividades humanas cotidianas.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia",
-              "titulo": "Plantas e o Ciclo do Dia",
+              "titulo": "Plantas e ritmos diários",
               "bncc": [
                 "EF01CI06"
               ],
@@ -770,16 +1026,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "205-208"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "NIGMS — Circadian Rhythms",
+                  "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+                  "consulta": "2026-10-30",
+                  "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
                 }
               ],
               "legado": false,
-              "resumo": "Observar como a luz do dia influencia o comportamento das plantas."
+              "resumo": "Observar como a luz do dia influencia o comportamento das plantas.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar",
-              "titulo": "Dormir e Acordar",
+              "titulo": "Sono, vigília e sinais do ambiente",
               "bncc": [
                 "EF01CI06"
               ],
@@ -793,14 +1061,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "289-291"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "NIGMS — Circadian Rhythms",
+                  "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+                  "consulta": "2026-10-30",
+                  "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
                 }
               ],
               "legado": false,
-              "resumo": "Discutir a importância do sono regular para a saúde e a atenção na escola."
+              "resumo": "Discutir a importância do sono regular para a saúde e a atenção na escola.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef01.observar_e_registrar",
@@ -808,7 +1089,7 @@
           "aulas": [
             {
               "id": "cna.ef01.observar_e_registrar.o_que_e_observar",
-              "titulo": "O Que É Observar",
+              "titulo": "Observar é registrar com atenção",
               "bncc": [
                 "EF01CI01"
               ],
@@ -822,16 +1103,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "69-72"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
                 }
               ],
               "legado": false,
-              "resumo": "Diferenciar olhar rápido de observar com atenção usando os sentidos."
+              "resumo": "Diferenciar olhar rápido de observar com atenção usando os sentidos.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.observar_e_registrar.lupa_e_instrumentos",
-              "titulo": "Lupa e Outros Instrumentos",
+              "titulo": "Instrumentos ajudam, mas têm limites",
               "bncc": [
                 "EF01CI01"
               ],
@@ -845,16 +1138,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "180-182"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
                 }
               ],
               "legado": false,
-              "resumo": "Usar a lupa para ampliar detalhes de materiais e pequenos seres vivos."
+              "resumo": "Usar a lupa para ampliar detalhes de materiais e pequenos seres vivos.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.observar_e_registrar.desenho_como_registro",
-              "titulo": "O Desenho Como Registro",
+              "titulo": "Desenhar para comunicar uma observação do corpo",
               "bncc": [
                 "EF01CI02"
               ],
@@ -868,16 +1173,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "245-247"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
                 }
               ],
               "legado": false,
-              "resumo": "Registrar observações por desenho, indicando as partes que se destacam."
+              "resumo": "Registrar observações por desenho, indicando as partes que se destacam.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.observar_e_registrar.comparar_e_descrever",
-              "titulo": "Comparar e Descrever",
+              "titulo": "Comparar com um critério compartilhado",
               "bncc": [
                 "EF01CI01"
               ],
@@ -891,37 +1208,27 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "77-79"
-                }
-              ],
-              "legado": false,
-              "resumo": "Comparar dois objetos e descrever semelhanças e diferenças com palavras próprias."
-            },
-            {
-              "id": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar",
-              "titulo": "Cuidado ao Experimentar",
-              "bncc": [
-                "EF01CI03"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "seguranca",
-                "experimentacao"
-              ],
-              "fontes": [
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "69-72"
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
                 }
               ],
               "legado": false,
-              "resumo": "Combinar regras de segurança para atividades práticas com materiais e seres vivos."
+              "resumo": "Comparar dois objetos e descrever semelhanças e diferenças com palavras próprias.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef01.cuidar_do_ambiente_proximo",
@@ -929,7 +1236,7 @@
           "aulas": [
             {
               "id": "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola",
-              "titulo": "O Lixo na Escola",
+              "titulo": "Resíduos da escola: observar sem manusear riscos",
               "bncc": [
                 "EF01CI01"
               ],
@@ -943,62 +1250,28 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "120-122"
-                }
-              ],
-              "legado": false,
-              "resumo": "Identificar os resíduos produzidos na escola e propor o descarte correto."
-            },
-            {
-              "id": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua",
-              "titulo": "Economizar Água",
-              "bncc": [
-                "EF01CI06"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "terra_e_universo"
-              ],
-              "tags": [
-                "agua",
-                "consumo_consciente"
-              ],
-              "fontes": [
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "119-121"
+                  "documento": "MMA — Política dos 5Rs",
+                  "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer atitudes simples que evitam o desperdício de água na rotina."
-            },
-            {
-              "id": "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola",
-              "titulo": "As Plantas da Escola",
-              "bncc": [
-                "EF01CI06"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "plantas",
-                "ambiente"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "205-208"
-                }
-              ],
-              "legado": false,
-              "resumo": "Mapear as plantas do pátio e discutir como cuidar delas coletivamente."
+              "resumo": "Identificar os resíduos produzidos na escola e propor o descarte correto.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno",
-              "titulo": "Animais do Entorno",
+              "titulo": "Registrar atividades dos animais em horários seguros",
               "bncc": [
                 "EF01CI06"
               ],
@@ -1012,138 +1285,35 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "219-224"
-                }
-              ],
-              "legado": false,
-              "resumo": "Observar animais que vivem perto de casa ou da escola e seus hábitos."
-            },
-            {
-              "id": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul",
-              "titulo": "Nosso Planeta Azul",
-              "bncc": [
-                "EF01CI06"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "terra_e_universo"
-              ],
-              "tags": [
-                "terra",
-                "agua",
-                "ambiente"
-              ],
-              "fontes": [
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "39-42"
+                  "documento": "NIGMS — Circadian Rhythms",
+                  "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+                  "consulta": "2026-10-30",
+                  "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer a Terra como um planeta com muita água e seres vivos diversos."
+              "resumo": "Observar animais que vivem perto de casa ou da escola e seus hábitos.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef01.saude_e_ambiente",
           "titulo": "Saúde e Ambiente",
           "aulas": [
             {
-              "id": "cna.ef01.saude_e_ambiente.ar_que_respiramos",
-              "titulo": "O Ar que Respiramos",
-              "bncc": [
-                "EF01CI03"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "saude",
-                "ar"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "53-55"
-                }
-              ],
-              "legado": false,
-              "resumo": "Relacionar a qualidade do ar à saúde e ao bem-estar no ambiente escolar."
-            },
-            {
-              "id": "cna.ef01.saude_e_ambiente.agua_limpa_para_todos",
-              "titulo": "Água Limpa para Todos",
-              "bncc": [
-                "EF01CI03"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "saude",
-                "agua"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "119-121"
-                }
-              ],
-              "legado": false,
-              "resumo": "Discutir por que a água tratada é essencial para a saúde da comunidade."
-            },
-            {
-              "id": "cna.ef01.saude_e_ambiente.som_e_barulho",
-              "titulo": "Som e Barulho",
-              "bncc": [
-                "EF01CI03"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "saude",
-                "som"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "292-294"
-                }
-              ],
-              "legado": false,
-              "resumo": "Distinguir sons agradáveis de ruídos intensos e seus efeitos na audição."
-            },
-            {
-              "id": "cna.ef01.saude_e_ambiente.luz_e_saude",
-              "titulo": "Luz e Saúde",
-              "bncc": [
-                "EF01CI03"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "saude",
-                "luz"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "292-294"
-                }
-              ],
-              "legado": false,
-              "resumo": "Avaliar condições de luz adequadas para ler, escrever e descansar os olhos."
-            },
-            {
               "id": "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta",
-              "titulo": "Hábitos Saudáveis no Planeta",
+              "titulo": "Dia, cuidado e participação no ambiente",
               "bncc": [
                 "EF01CI06"
               ],
@@ -1157,19 +1327,38 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "107-112"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+                },
+                {
+                  "documento": "NIGMS — Circadian Rhythms",
+                  "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+                  "consulta": "2026-10-30",
+                  "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
                 }
               ],
               "legado": false,
-              "resumo": "Relacionar hábitos de saúde individual ao cuidado com o ambiente coletivo."
+              "resumo": "Relacionar hábitos de saúde individual ao cuidado com o ambiente coletivo.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef01.materia_e_energia",
           "titulo": "Matéria e Energia",
-          "estado": "piloto_nucleo",
+          "estado": "pronto_para_testes",
           "aulas": [
             {
               "id": "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais",
@@ -1195,7 +1384,7 @@
         {
           "id": "cna.ef01.vida_e_evolucao",
           "titulo": "Vida e Evolução",
-          "estado": "piloto_nucleo",
+          "estado": "pronto_para_testes",
           "aulas": [
             {
               "id": "cna.ef01.corpo_humano.partes_do_corpo",
@@ -1259,7 +1448,7 @@
         {
           "id": "cna.ef01.terra_e_universo",
           "titulo": "Terra e Universo",
-          "estado": "piloto_nucleo",
+          "estado": "pronto_para_testes",
           "aulas": [
             {
               "id": "cna.ef01.tempo_e_rotina.manha_tarde_e_noite",
@@ -1300,6 +1489,331 @@
               "complementar": false
             }
           ]
+        },
+        {
+          "id": "cna.ef01.observar_e_registrar_complementar",
+          "titulo": "Observar e Registrar — Complementar",
+          "complementar": true,
+          "aulas": [
+            {
+              "id": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar",
+              "titulo": "Investigar com cuidado e pedir ajuda",
+              "bncc": [],
+              "areas": [
+                "ciencias_natureza",
+                "seres_vivos"
+              ],
+              "tags": [
+                "seguranca",
+                "experimentacao"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+                }
+              ],
+              "legado": false,
+              "resumo": "Combinar regras de segurança para atividades práticas com materiais e seres vivos.",
+              "bnccPlanejada": [
+                "EF01CI03"
+              ],
+              "estado": "pronto_para_testes",
+              "complementar": true
+            }
+          ],
+          "estado": "pronto_para_testes"
+        },
+        {
+          "id": "cna.ef01.cuidar_do_ambiente_proximo_complementar",
+          "titulo": "Cuidar do Ambiente Próximo — Complementar",
+          "complementar": true,
+          "aulas": [
+            {
+              "id": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua",
+              "titulo": "Água: usar o necessário e garantir acesso",
+              "bncc": [],
+              "areas": [
+                "ciencias_natureza",
+                "terra_e_universo"
+              ],
+              "tags": [
+                "agua",
+                "consumo_consciente"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+                },
+                {
+                  "documento": "MMA — Política dos 5Rs",
+                  "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
+                }
+              ],
+              "legado": false,
+              "resumo": "Reconhecer atitudes simples que evitam o desperdício de água na rotina.",
+              "bnccPlanejada": [
+                "EF01CI06"
+              ],
+              "estado": "pronto_para_testes",
+              "complementar": true
+            },
+            {
+              "id": "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola",
+              "titulo": "Plantas da escola: observar e cuidar sem generalizar",
+              "bncc": [],
+              "areas": [
+                "ciencias_natureza",
+                "seres_vivos"
+              ],
+              "tags": [
+                "plantas",
+                "ambiente"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+                },
+                {
+                  "documento": "NIGMS — Circadian Rhythms",
+                  "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+                  "consulta": "2026-10-30",
+                  "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+                }
+              ],
+              "legado": false,
+              "resumo": "Mapear as plantas do pátio e discutir como cuidar delas coletivamente.",
+              "bnccPlanejada": [
+                "EF01CI06"
+              ],
+              "estado": "pronto_para_testes",
+              "complementar": true
+            },
+            {
+              "id": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul",
+              "titulo": "Terra: água e diferentes representações",
+              "bncc": [],
+              "areas": [
+                "ciencias_natureza",
+                "terra_e_universo"
+              ],
+              "tags": [
+                "terra",
+                "agua",
+                "ambiente"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+                },
+                {
+                  "documento": "Funasa — Água transparente é sempre segura para beber?",
+                  "url": "https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto consultado sobre aparência e controle de potabilidade. Sem parâmetros normativos, doses de tratamento, teste por consumo ou redistribuição de imagens."
+                }
+              ],
+              "legado": false,
+              "resumo": "Reconhecer a Terra como um planeta com muita água e seres vivos diversos.",
+              "bnccPlanejada": [
+                "EF01CI06"
+              ],
+              "estado": "pronto_para_testes",
+              "complementar": true
+            }
+          ],
+          "estado": "pronto_para_testes"
+        },
+        {
+          "id": "cna.ef01.saude_e_ambiente_complementar",
+          "titulo": "Saúde e Ambiente — Complementar",
+          "complementar": true,
+          "aulas": [
+            {
+              "id": "cna.ef01.saude_e_ambiente.ar_que_respiramos",
+              "titulo": "Ar e ambiente: cuidado sem experimentos de exposição",
+              "bncc": [],
+              "areas": [
+                "ciencias_natureza",
+                "seres_vivos"
+              ],
+              "tags": [
+                "saude",
+                "ar"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+                }
+              ],
+              "legado": false,
+              "resumo": "Relacionar a qualidade do ar à saúde e ao bem-estar no ambiente escolar.",
+              "bnccPlanejada": [
+                "EF01CI03"
+              ],
+              "estado": "pronto_para_testes",
+              "complementar": true
+            },
+            {
+              "id": "cna.ef01.saude_e_ambiente.agua_limpa_para_todos",
+              "titulo": "Água segura: aparência não é garantia",
+              "bncc": [],
+              "areas": [
+                "ciencias_natureza",
+                "seres_vivos"
+              ],
+              "tags": [
+                "saude",
+                "agua"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+                },
+                {
+                  "documento": "Funasa — Água transparente é sempre segura para beber?",
+                  "url": "https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto consultado sobre aparência e controle de potabilidade. Sem parâmetros normativos, doses de tratamento, teste por consumo ou redistribuição de imagens."
+                },
+                {
+                  "documento": "Ministério da Saúde — Vigiagua",
+                  "url": "https://www.gov.br/saude/pt-br/composicao/svsa/saude-ambiental/vigiagua/vigiagua/",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: vigilância, responsabilidades e controle da água; não declara análise laboratorial da escola."
+                }
+              ],
+              "legado": false,
+              "resumo": "Discutir por que a água tratada é essencial para a saúde da comunidade.",
+              "bnccPlanejada": [
+                "EF01CI03"
+              ],
+              "estado": "pronto_para_testes",
+              "complementar": true
+            },
+            {
+              "id": "cna.ef01.saude_e_ambiente.som_e_barulho",
+              "titulo": "Sons do ambiente e conforto",
+              "bncc": [],
+              "areas": [
+                "ciencias_natureza",
+                "seres_vivos"
+              ],
+              "tags": [
+                "saude",
+                "som"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+                }
+              ],
+              "legado": false,
+              "resumo": "Distinguir sons agradáveis de ruídos intensos e seus efeitos na audição.",
+              "bnccPlanejada": [
+                "EF01CI03"
+              ],
+              "estado": "pronto_para_testes",
+              "complementar": true
+            },
+            {
+              "id": "cna.ef01.saude_e_ambiente.luz_e_saude",
+              "titulo": "Iluminação para participar com conforto",
+              "bncc": [],
+              "areas": [
+                "ciencias_natureza",
+                "seres_vivos"
+              ],
+              "tags": [
+                "saude",
+                "luz"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+                },
+                {
+                  "documento": "Ministério da Saúde — Primeira Infância",
+                  "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+                  "consulta": "2026-10-30",
+                  "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+                }
+              ],
+              "legado": false,
+              "resumo": "Avaliar condições de luz adequadas para ler, escrever e descansar os olhos.",
+              "bnccPlanejada": [
+                "EF01CI03"
+              ],
+              "estado": "pronto_para_testes",
+              "complementar": true
+            }
+          ],
+          "estado": "pronto_para_testes"
         }
       ]
     },

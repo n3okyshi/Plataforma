@@ -62,6 +62,218 @@ registrarCurriculo("Ciências Naturais", {
         "titulo": "Escolher, cuidar e usar por mais tempo",
         "complementar": false
       }
+    ],
+    "Corpo Humano": [
+      {
+        "id": "cna.ef01.corpo_humano.cabeca_tronco_e_membros",
+        "titulo": "Cabeça, tronco e membros: localizar no desenho",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.corpo_humano.orgaos_dos_sentidos",
+        "titulo": "Sentidos: perceber de diferentes maneiras",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo",
+        "titulo": "Partes do corpo trabalhando juntas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.corpo_humano.desenhando_o_corpo",
+        "titulo": "Representar o corpo: nomes, posições e legendas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.corpo_humano.corpo_em_movimento",
+        "titulo": "Movimentos e diferentes formas de participar",
+        "complementar": false
+      }
+    ],
+    "Higiene e Saúde": [
+      {
+        "id": "cna.ef01.higiene_e_saude.escovar_os_dentes",
+        "titulo": "Escovação: cuidar dos dentes com apoio",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.higiene_e_saude.olhos_nariz_e_orelhas",
+        "titulo": "Cuidados com olhos, nariz e orelhas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.higiene_e_saude.higiene_antes_de_comer",
+        "titulo": "Mãos limpas antes da alimentação",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.higiene_e_saude.higiene_e_doencas",
+        "titulo": "Higiene reduz riscos, sem culpar pessoas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.higiene_e_saude.rotina_de_higiene_na_escola",
+        "titulo": "Organizar o cuidado na escola",
+        "complementar": false
+      }
+    ],
+    "Diversidade e Respeito": [
+      {
+        "id": "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas",
+        "titulo": "Semelhanças e diferenças sem classificação de valor",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.diversidade_e_respeito.respeito_as_diferencas",
+        "titulo": "Respeitar em palavras e atitudes",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.diversidade_e_respeito.acolhimento_na_escola",
+        "titulo": "Acolher é garantir participação",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam",
+        "titulo": "Todos os corpos têm lugar e direitos",
+        "complementar": false
+      }
+    ],
+    "Tempo e Rotina": [
+      {
+        "id": "cna.ef01.tempo_e_rotina.dias_da_semana",
+        "titulo": "A sequência dos dias da semana",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.tempo_e_rotina.semanas_meses_e_anos",
+        "titulo": "Dias, semanas, meses e anos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.tempo_e_rotina.o_calendario_escolar",
+        "titulo": "Ler datas e planejar sem inventar eventos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha",
+        "titulo": "Ontem, hoje e amanhã dependem da referência",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo",
+        "titulo": "Instrumentos e escalas de tempo",
+        "complementar": false
+      }
+    ],
+    "Dia e Noite na Vida dos Seres Vivos": [
+      {
+        "id": "cna.ef01.dia_e_noite_na_vida.ritmo_dos_animais",
+        "titulo": "Animais: atividades em diferentes períodos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.dia_e_noite_na_vida.rotina_das_pessoas",
+        "titulo": "Rotinas das pessoas e períodos diários",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia",
+        "titulo": "Plantas e ritmos diários",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar",
+        "titulo": "Sono, vigília e sinais do ambiente",
+        "complementar": false
+      }
+    ],
+    "Observar e Registrar": [
+      {
+        "id": "cna.ef01.observar_e_registrar.o_que_e_observar",
+        "titulo": "Observar é registrar com atenção",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.observar_e_registrar.lupa_e_instrumentos",
+        "titulo": "Instrumentos ajudam, mas têm limites",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.observar_e_registrar.desenho_como_registro",
+        "titulo": "Desenhar para comunicar uma observação do corpo",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.observar_e_registrar.comparar_e_descrever",
+        "titulo": "Comparar com um critério compartilhado",
+        "complementar": false
+      }
+    ],
+    "Observar e Registrar — Complementar": [
+      {
+        "id": "cna.ef01.observar_e_registrar.cuidado_ao_experimentar",
+        "titulo": "Investigar com cuidado e pedir ajuda",
+        "complementar": true
+      }
+    ],
+    "Cuidar do Ambiente Próximo": [
+      {
+        "id": "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola",
+        "titulo": "Resíduos da escola: observar sem manusear riscos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.cuidar_do_ambiente_proximo.animais_do_entorno",
+        "titulo": "Registrar atividades dos animais em horários seguros",
+        "complementar": false
+      }
+    ],
+    "Cuidar do Ambiente Próximo — Complementar": [
+      {
+        "id": "cna.ef01.cuidar_do_ambiente_proximo.economizar_agua",
+        "titulo": "Água: usar o necessário e garantir acesso",
+        "complementar": true
+      },
+      {
+        "id": "cna.ef01.cuidar_do_ambiente_proximo.plantas_da_escola",
+        "titulo": "Plantas da escola: observar e cuidar sem generalizar",
+        "complementar": true
+      },
+      {
+        "id": "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul",
+        "titulo": "Terra: água e diferentes representações",
+        "complementar": true
+      }
+    ],
+    "Saúde e Ambiente — Complementar": [
+      {
+        "id": "cna.ef01.saude_e_ambiente.ar_que_respiramos",
+        "titulo": "Ar e ambiente: cuidado sem experimentos de exposição",
+        "complementar": true
+      },
+      {
+        "id": "cna.ef01.saude_e_ambiente.agua_limpa_para_todos",
+        "titulo": "Água segura: aparência não é garantia",
+        "complementar": true
+      },
+      {
+        "id": "cna.ef01.saude_e_ambiente.som_e_barulho",
+        "titulo": "Sons do ambiente e conforto",
+        "complementar": true
+      },
+      {
+        "id": "cna.ef01.saude_e_ambiente.luz_e_saude",
+        "titulo": "Iluminação para participar com conforto",
+        "complementar": true
+      }
+    ],
+    "Saúde e Ambiente": [
+      {
+        "id": "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta",
+        "titulo": "Dia, cuidado e participação no ambiente",
+        "complementar": false
+      }
     ]
   },
   "EF02": {

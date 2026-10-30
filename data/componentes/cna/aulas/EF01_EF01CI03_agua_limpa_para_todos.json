@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef01.saude_e_ambiente.agua_limpa_para_todos",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 35,
+  "unidade": "Saúde e Ambiente — Complementar",
+  "titulo": "Água segura: aparência não é garantia",
+  "bncc": [],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise os cartões dos dois copos sem usar amostras reais desconhecidas. Diga que informação falta antes de decidir sobre consumo e a quem perguntar.",
+      "Com adulto, identifique a fonte autorizada de água na escola e como comunicar falta de acesso. Registre informação real ou pendência, sem coletar água para testar em colegas."
+    ],
+    "resumo": "Água segura: aparência não é garantia",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Complementar · opcional:</strong> Potabilidade e acesso à água como extensão; não usada como evidência suficiente de higiene do corpo em EF01CI03.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.saude_e_ambiente.ar_que_respiramos\">Ar e ambiente: cuidado sem experimentos de exposição</button></p><h2>Água segura: aparência não é garantia</h2><h3>Para compreender</h3><p>Esta extensão aborda acesso à água adequada. Água para beber e preparar alimentos precisa atender condições de segurança verificadas pelo sistema de abastecimento e responsáveis. Água transparente pode conter agentes ou substâncias não visíveis; cheiro e aparência não bastam. Na escola, consumimos apenas de fonte indicada como segura pelo adulto. Não fazemos prova de gosto, misturas de produtos ou tratamento doméstico como experimento infantil.</p><h3>Exemplo comentado</h3><p>Dois cartões podem representar copos com água de aparência igual e origens desconhecidas. Não é possível escolher com segurança só olhando. Filtro de papel num experimento pode reter partículas, mas não garante remoção de todo contaminante nem torna a água do teste própria para consumo.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Analise os cartões dos dois copos sem usar amostras reais desconhecidas. Diga que informação falta antes de decidir sobre consumo e a quem perguntar.</p><h4>Explique e aplique</h4><p>Com adulto, identifique a fonte autorizada de água na escola e como comunicar falta de acesso. Registre informação real ou pendência, sem coletar água para testar em colegas.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li><li><a href=\"https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber\" target=\"_blank\" rel=\"noopener noreferrer\">Funasa — Água transparente é sempre segura para beber?</a></li><li><a href=\"https://www.gov.br/saude/pt-br/composicao/svsa/saude-ambiental/vigiagua/vigiagua/\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Vigiagua</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "agua_limpa_para_todos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Água transparente é sempre própria para beber?",
+      "alternativas": [
+        "Sim, se não tiver cheiro.",
+        "Sim, qualquer copo limpo garante.",
+        "Não; a segurança não se confirma só pela aparência."
+      ],
+      "correta": 2,
+      "explicacao": "Dois cartões podem representar copos com água de aparência igual e origens desconhecidas. Não é possível escolher com segurança só olhando. Filtro de papel num experimento pode reter partículas, mas não garante remoção de todo contaminante nem torna a água do teste própria para consumo.",
+      "bncc": []
+    },
+    {
+      "id": "agua_limpa_para_todos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Analise os cartões dos dois copos sem usar amostras reais desconhecidas. Diga que informação falta antes de decidir sobre consumo e a quem perguntar.",
+      "gabarito": "Exigir origem/controle confirmado por responsável, sem provar, cheirar ou prescrever tratamento.",
+      "rubrica": [
+        "Exigir origem/controle confirmado por responsável, sem provar, cheirar ou prescrever tratamento.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    },
+    {
+      "id": "agua_limpa_para_todos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, identifique a fonte autorizada de água na escola e como comunicar falta de acesso. Registre informação real ou pendência, sem coletar água para testar em colegas.",
+      "gabarito": "Distinguir abastecimento autorizado e aparência; reconhecer direito de acesso, sem declarar análise laboratorial inexistente.",
+      "rubrica": [
+        "Distinguir abastecimento autorizado e aparência; reconhecer direito de acesso, sem declarar análise laboratorial inexistente.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": []
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Este tópico é complementar; vínculo legado inadequado é mantido no histórico, não na cobertura obrigatória."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    },
+    {
+      "documento": "Funasa — Água transparente é sempre segura para beber?",
+      "url": "https://www.gov.br/funasa/pt-br/assuntos/noticias/2026/agosto/agua-transparente-e-sempre-segura-para-beber",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre aparência e controle de potabilidade. Sem parâmetros normativos, doses de tratamento, teste por consumo ou redistribuição de imagens."
+    },
+    {
+      "documento": "Ministério da Saúde — Vigiagua",
+      "url": "https://www.gov.br/saude/pt-br/composicao/svsa/saude-ambiental/vigiagua/vigiagua/",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: vigilância, responsabilidades e controle da água; não declara análise laboratorial da escola."
+    }
+  ],
+  "complementar": true,
+  "preRequisitos": [
+    "cna.ef01.saude_e_ambiente.ar_que_respiramos"
+  ],
+  "proximosPassos": [
+    "cna.ef01.saude_e_ambiente.som_e_barulho"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Saúde e Ambiente",
+    "bncc": [
+      "EF01CI03"
+    ],
+    "titulo": "Água Limpa para Todos"
+  },
+  "justificativaComplementar": "Potabilidade e acesso à água como extensão; não usada como evidência suficiente de higiene do corpo em EF01CI03."
+}

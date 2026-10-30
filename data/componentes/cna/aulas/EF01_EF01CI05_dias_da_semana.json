@@ -1,0 +1,111 @@
+{
+  "id": "cna.ef01.tempo_e_rotina.dias_da_semana",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 15,
+  "unidade": "Tempo e Rotina",
+  "titulo": "A sequência dos dias da semana",
+  "bncc": [
+    "EF01CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Monte a roda dos sete dias com cartões, fala ou apontamento. Escolha dois pontos de partida e continue a sequência sem pular dias.",
+      "No calendário incorporado, encontre dois dias com o mesmo nome e números diferentes. Explique nome do dia e data."
+    ],
+    "resumo": "A sequência dos dias da semana",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.tempo_e_rotina.manha_tarde_e_noite\">Manhã, tarde, noite e calendários</button></p><h2>A sequência dos dias da semana</h2><h3>Para compreender</h3><p>No calendário usado aqui, a semana tem sete dias: segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado e domingo. A sequência se repete; depois de domingo vem segunda-feira. Alguns calendários colocam domingo na primeira coluna, outros segunda. Isso muda a organização da página, não a sequência dos dias. Dia da semana não é a mesma coisa que data: há várias segundas em um mês, com números diferentes.</p><h3>Exemplo comentado</h3><p>Em sete cartões, podemos montar uma roda: ao chegar a domingo, voltamos a segunda. O número 12 pode ser uma data do mês e não significa que a semana tem doze dias. Nem todo dia da semana corresponde a aula; isso depende do calendário escolar.</p><table><caption>Outubro de 2026 — referência de datas, sem agenda escolar real</caption><thead><tr><th scope=\"col\">Seg</th><th scope=\"col\">Ter</th><th scope=\"col\">Qua</th><th scope=\"col\">Qui</th><th scope=\"col\">Sex</th><th scope=\"col\">Sáb</th><th scope=\"col\">Dom</th></tr></thead><tbody><tr><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td></tr><tr><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td></tr><tr><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td></tr><tr><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td aria-label=\"Fora do mês\">—</td></tr></tbody></table><table><caption>Novembro de 2026 — referência de datas, sem agenda escolar real</caption><thead><tr><th scope=\"col\">Seg</th><th scope=\"col\">Ter</th><th scope=\"col\">Qua</th><th scope=\"col\">Qui</th><th scope=\"col\">Sex</th><th scope=\"col\">Sáb</th><th scope=\"col\">Dom</th></tr></thead><tbody><tr><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td>1</td></tr><tr><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr><tr><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td></tr><tr><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td></tr><tr><td>30</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td><td aria-label=\"Fora do mês\">—</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Monte a roda dos sete dias com cartões, fala ou apontamento. Escolha dois pontos de partida e continue a sequência sem pular dias.</p><h4>Explique e aplique</h4><p>No calendário incorporado, encontre dois dias com o mesmo nome e números diferentes. Explique nome do dia e data.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "dias_da_semana.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Depois de domingo vem:",
+      "alternativas": [
+        "Segunda-feira.",
+        "Sábado.",
+        "Quarta-feira."
+      ],
+      "correta": 0,
+      "explicacao": "Em sete cartões, podemos montar uma roda: ao chegar a domingo, voltamos a segunda. O número 12 pode ser uma data do mês e não significa que a semana tem doze dias. Nem todo dia da semana corresponde a aula; isso depende do calendário escolar.",
+      "bncc": [
+        "EF01CI05"
+      ]
+    },
+    {
+      "id": "dias_da_semana.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Monte a roda dos sete dias com cartões, fala ou apontamento. Escolha dois pontos de partida e continue a sequência sem pular dias.",
+      "gabarito": "Exigir sete nomes em ordem cíclica; permitir leitura mediada e apoio visual, sem exigir escrita autônoma.",
+      "rubrica": [
+        "Exigir sete nomes em ordem cíclica; permitir leitura mediada e apoio visual, sem exigir escrita autônoma.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI05"
+      ]
+    },
+    {
+      "id": "dias_da_semana.producao2",
+      "tipo": "discursiva",
+      "enunciado": "No calendário incorporado, encontre dois dias com o mesmo nome e números diferentes. Explique nome do dia e data.",
+      "gabarito": "Identificar repetição semanal e datas distintas, usando colunas corretas; não afirmar que toda segunda é dia de aula.",
+      "rubrica": [
+        "Identificar repetição semanal e datas distintas, usando colunas corretas; não afirmar que toda segunda é dia de aula.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.tempo_e_rotina.manha_tarde_e_noite"
+  ],
+  "proximosPassos": [
+    "cna.ef01.tempo_e_rotina.semanas_meses_e_anos"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Tempo e Rotina",
+    "bncc": [
+      "EF01CI05"
+    ],
+    "titulo": "Dias da Semana"
+  }
+}

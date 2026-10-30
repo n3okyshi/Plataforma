@@ -1,0 +1,103 @@
+{
+  "id": "cna.ef01.saude_e_ambiente.prova",
+  "titulo": "Avaliação: Saúde e Ambiente",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Saúde e Ambiente",
+  "bncc": [
+    "EF01CI06"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "1 itens próprios de prova, com leitura mediada. Parte objetiva: acertos/1 × 10, sem certificar domínio. As produções e observações do portfólio exigem revisão docente separada. Módulos complementares são opcionais.",
+  "questoes": [
+    "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta.prova.1"
+  ],
+  "criterios": "Correção objetiva ao final; critérios específicos e devolutiva por produção, com acesso em diferentes suportes.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.saude_e_ambiente.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Saúde e Ambiente",
+    "enunciado": "Reúna produções e registros reais com apoio. Planejamento não comprova execução. Compare com critérios, registre devolutiva e o que falta.",
+    "gabarito": "Conferir evidências por tarefa; sem nota automática para produções.",
+    "rubrica": [
+      "Atende: produção verificável e explicação coerente.",
+      "Em desenvolvimento: evidência parcial com revisão.",
+      "Retomar: produção ou relação ainda precisa ser desenvolvida."
+    ],
+    "bncc": [
+      "EF01CI06"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Dia, cuidado e participação no ambiente — producao1",
+        "enunciado": "Monte uma rotina fictícia com quatro atividades em manhã, tarde e noite, incluindo cuidado e descanso. Explique como uma condição do ambiente pode alterar uma escolha.",
+        "gabarito": "Exigir relação atividade/período/condição, não apenas listar hábitos; respeitar diversidade de rotina.",
+        "rubrica": [
+          "Exigir relação atividade/período/condição, não apenas listar hábitos; respeitar diversidade de rotina.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta#habitos_saudaveis_no_planeta.producao1"
+      },
+      {
+        "titulo": "Dia, cuidado e participação no ambiente — producao2",
+        "enunciado": "Para o caso da atividade externa, proponha adaptação com responsável e recurso. Registre o que seria preciso confirmar antes e como avaliar participação depois.",
+        "gabarito": "Relacionar mudança de horário/local e necessidades de acesso; distinguir plano e execução e evitar prescrição individual.",
+        "rubrica": [
+          "Relacionar mudança de horário/local e necessidades de acesso; distinguir plano e execução e evitar prescrição individual.",
+          "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+          "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF01CI06"
+        ],
+        "atividadeOrigem": "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta#habitos_saudaveis_no_planeta.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    },
+    {
+      "documento": "NIGMS — Circadian Rhythms",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+      "consulta": "2026-10-30",
+      "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF01CI06",
+      "questoes": [
+        "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.saude_e_ambiente.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta#habitos_saudaveis_no_planeta.producao1",
+        "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta#habitos_saudaveis_no_planeta.producao2"
+      ]
+    }
+  ]
+}

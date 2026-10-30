@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.diversidade_e_respeito.respeito_as_diferencas",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 12,
+  "unidade": "Diversidade e Respeito",
+  "titulo": "Respeitar em palavras e atitudes",
+  "bncc": [
+    "EF01CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise um caso fictício de apelido sobre aparência. Identifique a atitude que exclui e escreva duas falas que interrompam a ofensa e apoiem o personagem.",
+      "Crie um acordo de convivência com ação observável: como chamar alguém, pedir consentimento ou agir ao presenciar ofensa. Explique como revisar um descumprimento."
+    ],
+    "resumo": "Respeitar em palavras e atitudes",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas\">Semelhanças e diferenças sem classificação de valor</button></p><h2>Respeitar em palavras e atitudes</h2><h3>Para compreender</h3><p>Respeitar diferenças envolve o que dizemos e fazemos. Apelidos sobre corpo, cabelo, cor da pele ou recursos de apoio podem constranger e excluir. A intenção de brincar não apaga o efeito em quem recebe. Podemos chamar pelo nome escolhido, ouvir limites e pedir ajuda quando há discriminação. Ninguém precisa contar uma experiência dolorosa para participar da aula. Analisamos personagens fictícios e ações concretas.</p><h3>Exemplo comentado</h3><p>Um personagem pede que parem um apelido sobre seu cabelo. Respeitar é interromper, ouvir e reparar a atitude, sem exigir que ele aceite. Quem presencia pode apoiar e procurar adulto de confiança, sem transformar o episódio em apresentação pública.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Analise um caso fictício de apelido sobre aparência. Identifique a atitude que exclui e escreva duas falas que interrompam a ofensa e apoiem o personagem.</p><h4>Explique e aplique</h4><p>Crie um acordo de convivência com ação observável: como chamar alguém, pedir consentimento ou agir ao presenciar ofensa. Explique como revisar um descumprimento.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.unicef.org/brazil/inclusao-escolar\" target=\"_blank\" rel=\"noopener noreferrer\">UNICEF — Inclusão escolar</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "respeito_as_diferencas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um personagem pede para parar um apelido sobre seu corpo. O adequado é:",
+      "alternativas": [
+        "Continuar porque era brincadeira.",
+        "Pedir que ele esconda o corpo.",
+        "Parar, ouvir e respeitar o limite."
+      ],
+      "correta": 2,
+      "explicacao": "Um personagem pede que parem um apelido sobre seu cabelo. Respeitar é interromper, ouvir e reparar a atitude, sem exigir que ele aceite. Quem presencia pode apoiar e procurar adulto de confiança, sem transformar o episódio em apresentação pública.",
+      "bncc": [
+        "EF01CI04"
+      ]
+    },
+    {
+      "id": "respeito_as_diferencas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Analise um caso fictício de apelido sobre aparência. Identifique a atitude que exclui e escreva duas falas que interrompam a ofensa e apoiem o personagem.",
+      "gabarito": "Exigir resposta respeitosa e busca de apoio, sem repetir insultos ou responsabilizar a vítima.",
+      "rubrica": [
+        "Exigir resposta respeitosa e busca de apoio, sem repetir insultos ou responsabilizar a vítima.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI04"
+      ]
+    },
+    {
+      "id": "respeito_as_diferencas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Crie um acordo de convivência com ação observável: como chamar alguém, pedir consentimento ou agir ao presenciar ofensa. Explique como revisar um descumprimento.",
+      "gabarito": "Relacionar regra a atitude e reparação; não reduzir a cartaz sem aplicação nem exigir relato pessoal.",
+      "rubrica": [
+        "Relacionar regra a atitude e reparação; não reduzir a cartaz sem aplicação nem exigir relato pessoal.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "UNICEF — Inclusão escolar",
+      "url": "https://www.unicef.org/brazil/inclusao-escolar",
+      "consulta": "2026-10-30",
+      "uso": "Consulta sobre permanência, aprendizagem e inclusão; sem usar estatísticas datadas como dado atual. Casos e personagens autorais, não relatos de alunos reais."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.diversidade_e_respeito.semelhancas_e_diferencas"
+  ],
+  "proximosPassos": [
+    "cna.ef01.diversidade_e_respeito.acolhimento_na_escola"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Diversidade e Respeito",
+    "bncc": [
+      "EF01CI04"
+    ],
+    "titulo": "Respeito às Diferenças"
+  }
+}

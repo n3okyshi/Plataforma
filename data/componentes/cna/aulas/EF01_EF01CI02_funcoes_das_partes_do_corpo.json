@@ -1,0 +1,117 @@
+{
+  "id": "cna.ef01.corpo_humano.funcoes_das_partes_do_corpo",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 3,
+  "unidade": "Corpo Humano",
+  "titulo": "Partes do corpo trabalhando juntas",
+  "bncc": [
+    "EF01CI02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escolha duas ações cotidianas seguras, como acessar um livro e guardar um cartão. Represente partes que podem participar e descreva uma função de cada.",
+      "Imagine que o livro não fica aberto na mesa. Proponha adaptação que facilite a participação e explique o que ela resolve."
+    ],
+    "resumo": "Partes do corpo trabalhando juntas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.corpo_humano.orgaos_dos_sentidos\">Sentidos: perceber de diferentes maneiras</button></p><h2>Partes do corpo trabalhando juntas</h2><h3>Para compreender</h3><p>Partes do corpo participam de ações em conjunto. A boca participa da alimentação e de formas de comunicação; mãos podem segurar e explorar; pernas e pés podem participar de apoio e deslocamento. Olhos, ouvidos, pele, músculos e outras estruturas se integram. Uma mesma ação pode ser realizada de formas diferentes, com auxílio de pessoa, instrumento ou tecnologia. Não devemos reduzir uma parte a uma única função nem concluir capacidade pela aparência.</p><h3>Exemplo comentado</h3><p>Para folhear um livro, uma pessoa pode usar mãos, apoio de mesa, leitor de tela, suporte ou ajuda. O objetivo de acessar a história pode ser compartilhado, embora os movimentos sejam diferentes. O desenho de uma ação não conta tudo o que participa dela.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Escolha duas ações cotidianas seguras, como acessar um livro e guardar um cartão. Represente partes que podem participar e descreva uma função de cada.</p><h4>Explique e aplique</h4><p>Imagine que o livro não fica aberto na mesa. Proponha adaptação que facilite a participação e explique o que ela resolve.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério da Saúde — Primeira Infância</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "funcoes_das_partes_do_corpo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para realizar uma ação cotidiana, as partes do corpo:",
+      "alternativas": [
+        "Podem trabalhar em conjunto.",
+        "Agem sempre sem relação.",
+        "Têm uma única função fixa."
+      ],
+      "correta": 0,
+      "explicacao": "Para folhear um livro, uma pessoa pode usar mãos, apoio de mesa, leitor de tela, suporte ou ajuda. O objetivo de acessar a história pode ser compartilhado, embora os movimentos sejam diferentes. O desenho de uma ação não conta tudo o que participa dela.",
+      "bncc": [
+        "EF01CI02"
+      ]
+    },
+    {
+      "id": "funcoes_das_partes_do_corpo.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Escolha duas ações cotidianas seguras, como acessar um livro e guardar um cartão. Represente partes que podem participar e descreva uma função de cada.",
+      "gabarito": "Exigir pelo menos duas partes/funções por ação, sem exigir execução corporal ou atribuir toda ação a uma parte isolada.",
+      "rubrica": [
+        "Exigir pelo menos duas partes/funções por ação, sem exigir execução corporal ou atribuir toda ação a uma parte isolada.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI02"
+      ]
+    },
+    {
+      "id": "funcoes_das_partes_do_corpo.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Imagine que o livro não fica aberto na mesa. Proponha adaptação que facilite a participação e explique o que ela resolve.",
+      "gabarito": "Aceitar suporte, livro digital ou ajuda combinada; relacionar recurso à tarefa, respeitando autonomia.",
+      "rubrica": [
+        "Aceitar suporte, livro digital ou ajuda combinada; relacionar recurso à tarefa, respeitando autonomia.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "Ministério da Saúde — Primeira Infância",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia",
+      "consulta": "2026-10-30",
+      "uso": "Trechos consultados de cuidados e saúde ocular/auditiva; sem recomendações de medicamentos, testes clínicos ou contatos telefônicos transpostos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.corpo_humano.orgaos_dos_sentidos"
+  ],
+  "proximosPassos": [
+    "cna.ef01.corpo_humano.desenhando_o_corpo"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Corpo Humano",
+    "bncc": [
+      "EF01CI02"
+    ],
+    "titulo": "Para Que Serve Cada Parte"
+  }
+}

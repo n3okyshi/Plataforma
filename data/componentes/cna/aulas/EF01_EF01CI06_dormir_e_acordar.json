@@ -1,0 +1,115 @@
+{
+  "id": "cna.ef01.dia_e_noite_na_vida.dormir_e_acordar",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 23,
+  "unidade": "Dia e Noite na Vida dos Seres Vivos",
+  "titulo": "Sono, vigília e sinais do ambiente",
+  "bncc": [
+    "EF01CI06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Organize um ciclo fictício com períodos de atividade e descanso. Relacione um sinal do ambiente à organização da rotina e indique um limite da representação.",
+      "No caso de luz e barulho, proponha duas mudanças possíveis com adulto e explique como verificar conforto sem diagnosticar insônia."
+    ],
+    "resumo": "Sono, vigília e sinais do ambiente",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, ajudar a desenhar ou organizar cartões. Não é preciso revelar informações pessoais ou realizar teste corporal para participar.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia\">Plantas e ritmos diários</button></p><h2>Sono, vigília e sinais do ambiente</h2><h3>Para compreender</h3><p>Sono e vigília fazem parte de ritmos do organismo. Alternância de luz e escuridão ajuda a sincronizar ritmos, mas horários também dependem de rotina e condições. Descansar importa; não é prêmio por terminar mais tarefas. Um ambiente confortável e uma rotina combinada com responsáveis podem apoiar descanso. A aula não fixa necessidade clínica igual para todos nem usa questionário íntimo sobre a casa ou remédios.</p><h3>Exemplo comentado</h3><p>Um personagem tenta descansar em ambiente muito iluminado e barulhento. A turma pode discutir reduzir estímulos e pedir ajuda ao adulto. Não é necessário testar privação de sono, ficar acordado até tarde ou comparar quem consegue dormir menos.</p><h3>Investigar e produzir</h3><h4>Observe e represente</h4><p>Organize um ciclo fictício com períodos de atividade e descanso. Relacione um sinal do ambiente à organização da rotina e indique um limite da representação.</p><h4>Explique e aplique</h4><p>No caso de luz e barulho, proponha duas mudanças possíveis com adulto e explique como verificar conforto sem diagnosticar insônia.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms\" target=\"_blank\" rel=\"noopener noreferrer\">NIGMS — Circadian Rhythms</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "dormir_e_acordar.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Ficar sem dormir para testar resistência é uma atividade adequada?",
+      "alternativas": [
+        "Não; o estudo usa registros e casos seguros.",
+        "Sim, se for competição.",
+        "Sim, sempre melhora aprendizagem."
+      ],
+      "correta": 0,
+      "explicacao": "Um personagem tenta descansar em ambiente muito iluminado e barulhento. A turma pode discutir reduzir estímulos e pedir ajuda ao adulto. Não é necessário testar privação de sono, ficar acordado até tarde ou comparar quem consegue dormir menos.",
+      "bncc": [
+        "EF01CI06"
+      ]
+    },
+    {
+      "id": "dormir_e_acordar.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Organize um ciclo fictício com períodos de atividade e descanso. Relacione um sinal do ambiente à organização da rotina e indique um limite da representação.",
+      "gabarito": "Exigir relação com ciclo diário e reconhecimento da diversidade; não confundir desenho com observação do sono de alguém.",
+      "rubrica": [
+        "Exigir relação com ciclo diário e reconhecimento da diversidade; não confundir desenho com observação do sono de alguém.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI06"
+      ]
+    },
+    {
+      "id": "dormir_e_acordar.producao2",
+      "tipo": "discursiva",
+      "enunciado": "No caso de luz e barulho, proponha duas mudanças possíveis com adulto e explique como verificar conforto sem diagnosticar insônia.",
+      "gabarito": "Aceitar ajuste de iluminação, redução de ruído e apoio; não recomendar medicamento, horas rígidas ou teste de privação.",
+      "rubrica": [
+        "Aceitar ajuste de iluminação, redução de ruído e apoio; não recomendar medicamento, horas rígidas ou teste de privação.",
+        "Registrar produção e distinguir observação, fonte, modelo, hipótese e plano.",
+        "Comunicar relação e limites em suporte acessível e revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF01CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades EF01CI01–EF01CI06 diretamente consultadas. Aula com objetivo específico e produções, sem homologação docente independente."
+    },
+    {
+      "documento": "NIGMS — Circadian Rhythms",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms",
+      "consulta": "2026-10-30",
+      "uso": "Seção consultada sobre ciclo diário, luz/escuridão, animais/plantas e outras condições. Linguagem simplificada; não estabelece diagnóstico, prescrição de sono ou número de horas individual."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.dia_e_noite_na_vida.plantas_e_o_dia"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência assistida; execução e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Dia e Noite na Vida dos Seres Vivos",
+    "bncc": [
+      "EF01CI06"
+    ],
+    "titulo": "Dormir e Acordar"
+  }
+}
