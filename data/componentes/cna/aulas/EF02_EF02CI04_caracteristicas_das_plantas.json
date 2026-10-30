@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 5,
+  "unidade": "Plantas no Ambiente",
+  "titulo": "Características das Plantas",
+  "bncc": [
+    "EF02CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Observe duas plantas em local seguro com adulto e descreva três características visíveis de cada, incluindo o local.",
+      "Compare os registros e indique uma semelhança, uma diferença e algo que não foi possível observar."
+    ],
+    "resumo": "Podemos descrever uma planta pelo tamanho aproximado, formato, cor e partes visíveis.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.plantas_no_ambiente.plantas_do_cotidiano\">Seres vivos e ambientes próximos</button></p><h2>Características das Plantas</h2><h3>Para compreender</h3><p>Podemos descrever uma planta pelo tamanho aproximado, formato, cor e partes visíveis. Uma folha pode ser larga, estreita, lisa ou recortada; uma planta pode estar pequena ou já ter flores. O que aparece depende da espécie e da fase da vida. Não ver flor não significa que não seja planta. Descrever é registrar o que se percebe; identificar a espécie exige informação adicional. Observe sem arrancar, provar, cheirar de perto ou tocar em plantas desconhecidas.</p><h3>Exemplo comentado</h3><p>Em um vaso autorizado, a folha observada é longa e estreita. Escrever apenas bonita não comunica essas características. Uma fotografia ou desenho com escala aproximada ajuda a comparar outro registro.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Observe duas plantas em local seguro com adulto e descreva três características visíveis de cada, incluindo o local.</p><h4>Proposta 2</h4><p>Compare os registros e indique uma semelhança, uma diferença e algo que não foi possível observar.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "caracteristicas_das_plantas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual registro descreve uma característica observável?",
+      "alternativas": [
+        "Planta de sorte.",
+        "Folha longa e estreita.",
+        "Planta melhor que todas."
+      ],
+      "correta": 1,
+      "explicacao": "Forma e tamanho permitem comparação; julgamentos não substituem descrição.",
+      "bncc": [
+        "EF02CI04"
+      ]
+    },
+    {
+      "id": "caracteristicas_das_plantas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Observe duas plantas em local seguro com adulto e descreva três características visíveis de cada, incluindo o local.",
+      "gabarito": "Registrar características comparáveis e ambiente; sem exigir identificação da espécie ou contato.",
+      "rubrica": [
+        "Registrar características comparáveis e ambiente; sem exigir identificação da espécie ou contato.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI04"
+      ]
+    },
+    {
+      "id": "caracteristicas_das_plantas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare os registros e indique uma semelhança, uma diferença e algo que não foi possível observar.",
+      "gabarito": "Usar dados dos próprios registros; ausência de informação não equivale a ausência da parte.",
+      "rubrica": [
+        "Usar dados dos próprios registros; ausência de informação não equivale a ausência da parte.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano"
+  ],
+  "proximosPassos": [
+    "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Plantas no Ambiente",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "titulo": "Características das Plantas"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

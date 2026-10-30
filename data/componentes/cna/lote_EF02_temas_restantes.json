@@ -1,0 +1,1430 @@
+{
+  "data": "2026-10-30",
+  "estado": "pronto_para_testes",
+  "escopo": "35 tópicos restantes EF02 em sete unidades; 47 tópicos planejados do ano com autoria.",
+  "limites": "Estado da implementação, sem certificar aplicação, domínio, homologação independente ou integralidade do componente.",
+  "unidades": [
+    {
+      "nivel": "EF02",
+      "unidade": "Prevenção de Acidentes",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados"
+      ],
+      "prova": "cna.ef02.prevencao_de_acidentes.prova"
+    },
+    {
+      "nivel": "EF02",
+      "unidade": "Plantas no Ambiente",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta"
+      ],
+      "prova": "cna.ef02.plantas_no_ambiente.prova"
+    },
+    {
+      "nivel": "EF02",
+      "unidade": "Água, Luz e Vida das Plantas",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua"
+      ],
+      "prova": "cna.ef02.agua_luz_e_vida.prova"
+    },
+    {
+      "nivel": "EF02",
+      "unidade": "Partes das Plantas",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef02.partes_das_plantas.caule",
+        "cna.ef02.partes_das_plantas.folhas",
+        "cna.ef02.partes_das_plantas.flores",
+        "cna.ef02.partes_das_plantas.frutos_e_sementes",
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte",
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres"
+      ],
+      "prova": "cna.ef02.partes_das_plantas.prova"
+    },
+    {
+      "nivel": "EF02",
+      "unidade": "O Sol no Céu",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+        "cna.ef02.sol_no_ceu.medindo_sombras",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+        "cna.ef02.sol_no_ceu.observando_o_ceu"
+      ],
+      "prova": "cna.ef02.sol_no_ceu.prova"
+    },
+    {
+      "nivel": "EF02",
+      "unidade": "Sol e Superfícies",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef02.sol_e_superficies.areia_e_solo",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+        "cna.ef02.sol_e_superficies.superficies_metalicas",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol"
+      ],
+      "prova": "cna.ef02.sol_e_superficies.prova"
+    },
+    {
+      "nivel": "EF02",
+      "unidade": "Horta e Observação",
+      "estado": "pronto_para_testes",
+      "complementar": false,
+      "aulas": [
+        "cna.ef02.horta_e_observacao.montando_uma_horta",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento",
+        "cna.ef02.horta_e_observacao.diario_da_planta",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas"
+      ],
+      "prova": "cna.ef02.horta_e_observacao.prova"
+    }
+  ],
+  "aulas": [
+    {
+      "aulaId": "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
+      "nivel": "EF02",
+      "unidade": "Prevenção de Acidentes",
+      "bncc": [
+        "EF02CI03"
+      ],
+      "bnccPlanejada": [
+        "EF02CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Desenhe uma cozinha fictícia com dois perigos de queimadura e escreva ou dite uma mudança preventiva para cada um.",
+        "Crie um diálogo em que um personagem convida outro a brincar com isqueiro. Explique a recusa e a busca de ajuda."
+      ],
+      "atividades": [
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao1",
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI03_inflamaveis_e_fogo.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
+      "nivel": "EF02",
+      "unidade": "Prevenção de Acidentes",
+      "bncc": [
+        "EF02CI03"
+      ],
+      "bnccPlanejada": [
+        "EF02CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Com cartões de papel, separe situações que exigem aviso ao adulto: fio danificado, aparelho perto da água, objeto na tomada. Explique o risco de duas.",
+        "Escreva uma mensagem sobre um brinquedo elétrico com fio danificado, indicando quem pode avaliar e o que a criança evita."
+      ],
+      "atividades": [
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao1",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI03_eletricidade_com_seguranca.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
+      "nivel": "EF02",
+      "unidade": "Prevenção de Acidentes",
+      "bncc": [
+        "EF02CI03"
+      ],
+      "bnccPlanejada": [
+        "EF02CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Faça dois cartões: produto na embalagem original guardado por adulto; produto em garrafa de bebida ao alcance de crianças. Compare os riscos.",
+        "Crie aviso para uma campanha escolar, explicando por que frascos vazios de limpeza não servem para a horta infantil."
+      ],
+      "atividades": [
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao1",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI03_produtos_de_limpeza.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados",
+      "nivel": "EF02",
+      "unidade": "Prevenção de Acidentes",
+      "bncc": [
+        "EF02CI03"
+      ],
+      "bnccPlanejada": [
+        "EF02CI03"
+      ],
+      "dimensoesImplementadas": [
+        "Escreva um diálogo para recusar medicamento oferecido por colega e pedir ajuda ao responsável.",
+        "Planeje com cartões como adultos podem guardar medicamentos sem confundi-los com alimentos."
+      ],
+      "atividades": [
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao1",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI03_medicamentos_e_cuidados.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+      "nivel": "EF02",
+      "unidade": "Plantas no Ambiente",
+      "bncc": [
+        "EF02CI04"
+      ],
+      "bnccPlanejada": [
+        "EF02CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Observe duas plantas em local seguro com adulto e descreva três características visíveis de cada, incluindo o local.",
+        "Compare os registros e indique uma semelhança, uma diferença e algo que não foi possível observar."
+      ],
+      "atividades": [
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.aplicacao",
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao1",
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI04_caracteristicas_das_plantas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+      "nivel": "EF02",
+      "unidade": "Plantas no Ambiente",
+      "bncc": [
+        "EF02CI04"
+      ],
+      "bnccPlanejada": [
+        "EF02CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Faça mapa simples de dois locais autorizados com plantas. Registre luz aparente, umidade descrita pelo adulto e duas características das plantas.",
+        "Proponha uma pergunta que compare como uma mesma espécie se desenvolve em dois locais. Indique o que precisaria acompanhar."
+      ],
+      "atividades": [
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.aplicacao",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao1",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI04_onde_as_plantas_vivem.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.plantas_no_ambiente.animais_do_entorno",
+      "nivel": "EF02",
+      "unidade": "Plantas no Ambiente",
+      "bncc": [
+        "EF02CI04"
+      ],
+      "bnccPlanejada": [
+        "EF02CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Com adulto, registre dois animais observados de longe, ou use os personagens ave no galho e formiga no caminho como exemplos fictícios. Descreva duas características e o local de cada.",
+        "Explique uma possível relação entre um animal e uma planta e indique o que seria necessário observar para confirmá-la."
+      ],
+      "atividades": [
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.aplicacao",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao1",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI04_animais_do_entorno.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+      "nivel": "EF02",
+      "unidade": "Plantas no Ambiente",
+      "bncc": [
+        "EF02CI04"
+      ],
+      "bnccPlanejada": [
+        "EF02CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Produza desenho de um ambiente autorizado ou fictício, com dois seres vivos e duas condições do lugar. Faça duas relações com legendas.",
+        "Escolha uma mudança possível no lugar e explique uma consequência como hipótese, indicando como acompanhar."
+      ],
+      "atividades": [
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.aplicacao",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao1",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI04_ambiente_e_seres_vivos.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.plantas_no_ambiente.observar_uma_planta",
+      "nivel": "EF02",
+      "unidade": "Plantas no Ambiente",
+      "bncc": [
+        "EF02CI04"
+      ],
+      "bnccPlanejada": [
+        "EF02CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Escolha com adulto uma planta autorizada. Faça ficha com identificação do vaso, data, desenho, duas características e condição do local.",
+        "Planeje uma segunda observação para comparar uma característica. Explique o que deve permanecer igual no método."
+      ],
+      "atividades": [
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.aplicacao",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao1",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI04_observar_uma_planta.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+      "nivel": "EF02",
+      "unidade": "Plantas no Ambiente",
+      "bncc": [
+        "EF02CI04",
+        "EF02CI05"
+      ],
+      "bnccPlanejada": [
+        "EF02CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Com adulto, planeje para uma planta identificada quem cuida, o que observar e quando registrar; não fixe rega igual para toda espécie.",
+        "Use duas observações para revisar o plano, ou registre que a revisão depende de nova visita. Explique a relação entre condição e cuidado."
+      ],
+      "atividades": [
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.aplicacao",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI04_cuidar_de_uma_planta.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
+      "nivel": "EF02",
+      "unidade": "Água, Luz e Vida das Plantas",
+      "bncc": [
+        "EF02CI05"
+      ],
+      "bnccPlanejada": [
+        "EF02CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Planeje comparar mudas da mesma espécie em duas condições seguras de luz, com água e vaso semelhantes. Escolha três características para acompanhar.",
+        "Explique por que adubo e água não tornam desnecessária a luz e por que altura sozinha não define saúde."
+      ],
+      "atividades": [
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.aplicacao",
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao1",
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI05_luz_para_as_plantas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
+      "nivel": "EF02",
+      "unidade": "Água, Luz e Vida das Plantas",
+      "bncc": [
+        "EF02CI05"
+      ],
+      "bnccPlanejada": [
+        "EF02CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Desenhe um plano para investigar água ou luz. Indique pergunta, duas condições, o que manter semelhante, o que registrar e quando interromper.",
+        "Compare o plano com outro que muda água e luz juntas. Explique por que o segundo dificulta a conclusão."
+      ],
+      "atividades": [
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.aplicacao",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao1",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI05_experiencias_com_plantas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
+      "nivel": "EF02",
+      "unidade": "Água, Luz e Vida das Plantas",
+      "bncc": [
+        "EF02CI05"
+      ],
+      "bnccPlanejada": [
+        "EF02CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Represente início e fim desse caso fictício. Identifique o que foi informado e duas informações de método ainda necessárias.",
+        "Explique a diferença entre planta de sombra e planta mantida no escuro. Proponha cuidado orientado sem experimento destrutivo."
+      ],
+      "atividades": [
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.aplicacao",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao1",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI05_plantas_sem_luz.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.agua_luz_e_vida.importancia_da_agua",
+      "nivel": "EF02",
+      "unidade": "Água, Luz e Vida das Plantas",
+      "bncc": [
+        "EF02CI05"
+      ],
+      "bnccPlanejada": [
+        "EF02CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Faça um esquema ligando água do solo, raiz, caule e folhas e explique uma razão para a planta precisar de água.",
+        "Planeje como comparar cuidados de água com mudas semelhantes, incluindo registro e interrupção antes de dano importante."
+      ],
+      "atividades": [
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.aplicacao",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao1",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI05_importancia_da_agua.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.partes_das_plantas.caule",
+      "nivel": "EF02",
+      "unidade": "Partes das Plantas",
+      "bncc": [
+        "EF02CI06"
+      ],
+      "bnccPlanejada": [
+        "EF02CI06"
+      ],
+      "dimensoesImplementadas": [
+        "No esquema incorporado, localize caule, raiz e folhas. Compare depois dois exemplos autorizados sem retirar partes.",
+        "Explique o que um apoio para uma planta de caule flexível pode ajudar a fazer e o que ele não substitui."
+      ],
+      "atividades": [
+        "cna.ef02.partes_das_plantas.caule#caule.aplicacao",
+        "cna.ef02.partes_das_plantas.caule#caule.producao1",
+        "cna.ef02.partes_das_plantas.caule#caule.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI06_caule.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.partes_das_plantas.folhas",
+      "nivel": "EF02",
+      "unidade": "Partes das Plantas",
+      "bncc": [
+        "EF02CI06"
+      ],
+      "bnccPlanejada": [
+        "EF02CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Observe duas folhas de plantas autorizadas sem retirar. Faça desenhos com duas características e indique uma função compartilhada.",
+        "Corrija a frase: a raiz retira todo o alimento pronto do solo. Use água, minerais, folhas e luz na explicação."
+      ],
+      "atividades": [
+        "cna.ef02.partes_das_plantas.folhas#folhas.aplicacao",
+        "cna.ef02.partes_das_plantas.folhas#folhas.producao1",
+        "cna.ef02.partes_das_plantas.folhas#folhas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI06_folhas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.partes_das_plantas.flores",
+      "nivel": "EF02",
+      "unidade": "Partes das Plantas",
+      "bncc": [
+        "EF02CI06"
+      ],
+      "bnccPlanejada": [
+        "EF02CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Organize os cartões textuais planta com flor, formação de fruto e sementes de uma planta como o tomateiro. Explique a função da flor.",
+        "Descreva uma possível relação entre flor e animal visitante; indique como observá-la sem captura."
+      ],
+      "atividades": [
+        "cna.ef02.partes_das_plantas.flores#flores.aplicacao",
+        "cna.ef02.partes_das_plantas.flores#flores.producao1",
+        "cna.ef02.partes_das_plantas.flores#flores.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI06_flores.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.partes_das_plantas.frutos_e_sementes",
+      "nivel": "EF02",
+      "unidade": "Partes das Plantas",
+      "bncc": [
+        "EF02CI06"
+      ],
+      "bnccPlanejada": [
+        "EF02CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Use o esquema e descreva a relação entre flor, fruto e semente. Depois represente um fruto conhecido por desenho ou descrição.",
+        "Explique por que encontrar uma semente não garante que já nasceu uma nova planta."
+      ],
+      "atividades": [
+        "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.aplicacao",
+        "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.producao1",
+        "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI06_frutos_e_sementes.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.partes_das_plantas.funcoes_de_cada_parte",
+      "nivel": "EF02",
+      "unidade": "Partes das Plantas",
+      "bncc": [
+        "EF02CI06"
+      ],
+      "bnccPlanejada": [
+        "EF02CI06"
+      ],
+      "dimensoesImplementadas": [
+        "No esquema incorporado, faça cinco relações parte/função e duas setas mostrando relações entre partes.",
+        "Explique uma limitação desse modelo e uma relação da planta com água, luz ou outro ser vivo."
+      ],
+      "atividades": [
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.aplicacao",
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.producao1",
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI06_funcoes_de_cada_parte.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.partes_das_plantas.plantas_e_outros_seres",
+      "nivel": "EF02",
+      "unidade": "Partes das Plantas",
+      "bncc": [
+        "EF02CI06"
+      ],
+      "bnccPlanejada": [
+        "EF02CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Produza um esquema com planta, animal e pessoa; descreva duas relações possíveis, marcadas como exemplos ou observações conforme a origem.",
+        "Escolha uma relação e indique quais registros adicionais ajudariam a avaliar sua explicação."
+      ],
+      "atividades": [
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.aplicacao",
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.producao1",
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI06_plantas_e_outros_seres.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+      "nivel": "EF02",
+      "unidade": "O Sol no Céu",
+      "bncc": [
+        "EF02CI07"
+      ],
+      "bnccPlanejada": [
+        "EF02CI07"
+      ],
+      "dimensoesImplementadas": [
+        "Com adulto, registre a sombra de um objeto fixo em dois ou três horários, com data e referência do local. Se não houver condições, analise apenas o modelo e marque observação pendente.",
+        "Compare os registros e explique o que mudou e o que ficou igual."
+      ],
+      "atividades": [
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.aplicacao",
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao1",
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI07_sombras_ao_longo_do_dia.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.sol_no_ceu.medindo_sombras",
+      "nivel": "EF02",
+      "unidade": "O Sol no Céu",
+      "bncc": [
+        "EF02CI07"
+      ],
+      "bnccPlanejada": [
+        "EF02CI07"
+      ],
+      "dimensoesImplementadas": [
+        "Prepare tabela com horário, comprimento em centímetros, desenho da direção e condição do céu. Faça medições autorizadas ou identifique a tabela como plano não executado.",
+        "Interprete os números fictícios de 80 cm e 40 cm e explique o que falta para dizer como estava a posição aparente do Sol."
+      ],
+      "atividades": [
+        "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.aplicacao",
+        "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao1",
+        "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI07_medindo_sombras.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+      "nivel": "EF02",
+      "unidade": "O Sol no Céu",
+      "bncc": [
+        "EF02CI08"
+      ],
+      "bnccPlanejada": [
+        "EF02CI07"
+      ],
+      "dimensoesImplementadas": [
+        "Represente dois efeitos da energia solar no cotidiano: iluminação e aquecimento. Indique como observá-los com segurança.",
+        "Planeje comparar uma superfície ao Sol e outra na sombra, mantendo o restante semelhante."
+      ],
+      "atividades": [
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.aplicacao",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao1",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI07_sol_fonte_de_luz_e_calor.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+      "nivel": "EF02",
+      "unidade": "O Sol no Céu",
+      "bncc": [
+        "EF02CI07"
+      ],
+      "bnccPlanejada": [
+        "EF02CI07"
+      ],
+      "dimensoesImplementadas": [
+        "Organize uma série de três registros com horários e sombras do mesmo objeto, reais ou explicitamente fictícios. Indique maior e menor.",
+        "Explique por que uma sombra curta não informa uma hora exata válida para todos os lugares."
+      ],
+      "atividades": [
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.aplicacao",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao1",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI07_sombra_e_horas_do_dia.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.sol_no_ceu.observando_o_ceu",
+      "nivel": "EF02",
+      "unidade": "O Sol no Céu",
+      "bncc": [
+        "EF02CI07"
+      ],
+      "bnccPlanejada": [
+        "EF02CI07"
+      ],
+      "dimensoesImplementadas": [
+        "Prepare uma ficha de céu com data, horário, referências fixas, nuvens e sombra do objeto escolhido com adulto.",
+        "Compare duas fichas. Relacione o horário ao tamanho da sombra ou explique por que não foi possível obter a comparação."
+      ],
+      "atividades": [
+        "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.aplicacao",
+        "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao1",
+        "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI07_observando_o_ceu.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.sol_e_superficies.areia_e_solo",
+      "nivel": "EF02",
+      "unidade": "Sol e Superfícies",
+      "bncc": [
+        "EF02CI08"
+      ],
+      "bnccPlanejada": [
+        "EF02CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Interprete a tabela fictícia e diga qual amostra teve maior aumento. Liste duas condições que precisam ser registradas num teste real.",
+        "Planeje uma comparação segura de areia e solo com adulto. Inclua início, fim e o que manter semelhante."
+      ],
+      "atividades": [
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.aplicacao",
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao1",
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI08_areia_e_solo.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+      "nivel": "EF02",
+      "unidade": "Sol e Superfícies",
+      "bncc": [
+        "EF02CI08"
+      ],
+      "bnccPlanejada": [
+        "EF02CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Compare as variações fictícias e explique por que peças de materiais muito diferentes dificultariam investigar só a cor.",
+        "Planeje um teste com adulto, leitura inicial/final e condições semelhantes; registre previsão separada de resultado."
+      ],
+      "atividades": [
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.aplicacao",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao1",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI08_superficies_claras_e_escuras.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.sol_e_superficies.superficies_metalicas",
+      "nivel": "EF02",
+      "unidade": "Sol e Superfícies",
+      "bncc": [
+        "EF02CI08"
+      ],
+      "bnccPlanejada": [
+        "EF02CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Crie um aviso para um brinquedo metálico ao Sol, explicando por que brilho não garante temperatura segura.",
+        "Planeje comparar peça metálica e outra superfície com o adulto: condições, instrumento adequado e limites."
+      ],
+      "atividades": [
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.aplicacao",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao1",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI08_superficies_metalicas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.sol_e_superficies.reflexao_da_luz",
+      "nivel": "EF02",
+      "unidade": "Sol e Superfícies",
+      "bncc": [
+        "EF02CI08"
+      ],
+      "bnccPlanejada": [
+        "EF02CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Planeje comparação de reflexão entre papéis claros e escuros, com mesma luz e posições, sem olhar para reflexos fortes.",
+        "Explique por que observar reflexão e medir aquecimento respondem perguntas relacionadas, mas diferentes."
+      ],
+      "atividades": [
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.aplicacao",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao1",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI08_reflexao_da_luz.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol",
+      "nivel": "EF02",
+      "unidade": "Sol e Superfícies",
+      "bncc": [
+        "EF02CI08"
+      ],
+      "bnccPlanejada": [
+        "EF02CI08"
+      ],
+      "dimensoesImplementadas": [
+        "Organize os dados fictícios em tabela com início, fim e aumento. Escreva uma comparação e uma limitação.",
+        "Planeje com adulto um ensaio de duas superfícies e um registro de reflexão, distinguindo o que cada procedimento avalia."
+      ],
+      "atividades": [
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.aplicacao",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao1",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI08_comparando_superficies_ao_sol.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.horta_e_observacao.montando_uma_horta",
+      "nivel": "EF02",
+      "unidade": "Horta e Observação",
+      "bncc": [
+        "EF02CI05"
+      ],
+      "bnccPlanejada": [
+        "EF02CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Faça croqui do projeto com planta escolhida com adulto, local de luz, água, acesso e responsáveis por cuidados.",
+        "Inclua uma pergunta sobre água ou luz e um modo de registrar seu efeito sem prejudicar as plantas."
+      ],
+      "atividades": [
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.aplicacao",
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao1",
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI05_montando_uma_horta.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.horta_e_observacao.registrando_o_crescimento",
+      "nivel": "EF02",
+      "unidade": "Horta e Observação",
+      "bncc": [
+        "EF02CI05"
+      ],
+      "bnccPlanejada": [
+        "EF02CI05"
+      ],
+      "dimensoesImplementadas": [
+        "Organize os dados fictícios em tabela e desenho de barras com escala indicada. Compare os dois intervalos.",
+        "Prepare ficha para medições reais com adulto, incluindo luz, rega conhecida, folhas e referência da medida."
+      ],
+      "atividades": [
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.aplicacao",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao1",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI05_registrando_o_crescimento.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.horta_e_observacao.diario_da_planta",
+      "nivel": "EF02",
+      "unidade": "Horta e Observação",
+      "bncc": [
+        "EF02CI04"
+      ],
+      "bnccPlanejada": [
+        "EF02CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Crie uma entrada real com adulto ou uma entrada explicitamente fictícia. Inclua data, identificação, duas características e condição do local.",
+        "Compare duas entradas, indicando uma mudança e uma pergunta ainda sem resposta. Se só há uma, registre a comparação como pendente."
+      ],
+      "atividades": [
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.aplicacao",
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao1",
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI04_diario_da_planta.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.horta_e_observacao.colheita_e_cuidados",
+      "nivel": "EF02",
+      "unidade": "Horta e Observação",
+      "bncc": [
+        "EF02CI06"
+      ],
+      "bnccPlanejada": [
+        "EF02CI06"
+      ],
+      "dimensoesImplementadas": [
+        "Faça quadro com alface/folha, cenoura/raiz e tomate/fruto. Explique uma função de cada parte na planta.",
+        "Planeje uma apresentação sobre colheita orientada: quem identifica, quem usa ferramentas e quem cuida do preparo para consumo."
+      ],
+      "atividades": [
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.aplicacao",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao1",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI06_colheita_e_cuidados.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "aulaId": "cna.ef02.horta_e_observacao.compartilhando_descobertas",
+      "nivel": "EF02",
+      "unidade": "Horta e Observação",
+      "bncc": [
+        "EF02CI04"
+      ],
+      "bnccPlanejada": [
+        "EF02CI04"
+      ],
+      "dimensoesImplementadas": [
+        "Prepare apresentação curta sobre planta e seu ambiente, com pergunta, registros, uma conclusão e uma limitação; use só dados cuja origem consiga explicar.",
+        "Peça devolutiva sobre clareza a um adulto ou colega e revise uma legenda ou conclusão. Se ainda não ocorreu, marque revisão pendente."
+      ],
+      "atividades": [
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.aplicacao",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao1",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao2"
+      ],
+      "arquivo": "data/componentes/cna/aulas/EF02_EF02CI04_compartilhando_descobertas.json",
+      "producaoObservada": "pendente",
+      "homologacaoDocente": "pendente"
+    }
+  ],
+  "conferenciaPedagogica": {
+    "tipo": "assistida",
+    "resultado": "Conferência conceitual, correspondência curricular, gabaritos, segurança e adequação à etapa. Revisão independente não realizada.",
+    "confronto": [
+      {
+        "codigo": "EF02CI01",
+        "dimensoes": [
+          "Identificar materiais e usos cotidianos",
+          "Comparar materiais de objetos do passado usando fontes preservadas do lote anterior"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF02CI01",
+          "aulas": [
+            "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+            "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos",
+            "cna.ef02.materiais_e_objetos.objetos_do_passado",
+            "cna.ef02.materiais_e_objetos.como_usamos_os_objetos"
+          ],
+          "atividades": [
+            "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.aplicacao1",
+            "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.aplicacao2",
+            "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao1",
+            "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao2",
+            "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos#de_que_sao_feitos_os_objetos.aplicacao",
+            "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos#de_que_sao_feitos_os_objetos.investigacao",
+            "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.aplicacao1",
+            "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.aplicacao2",
+            "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao1",
+            "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao2",
+            "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.aplicacao1",
+            "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.aplicacao2",
+            "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao1",
+            "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef02.materia_e_energia.treino.01",
+            "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.treino.1",
+            "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.treino.2",
+            "cna.ef02.materiais_e_objetos.objetos_do_passado.treino.1",
+            "cna.ef02.materiais_e_objetos.objetos_do_passado.treino.2",
+            "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.treino.1",
+            "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.treino.2"
+          ],
+          "questoesProva": [
+            "cna.ef02.materia_e_energia.prova.01",
+            "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.1",
+            "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.2",
+            "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.1",
+            "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.2",
+            "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.1",
+            "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.2"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF02CI02",
+        "dimensoes": [
+          "Propor seleção de material pelas propriedades",
+          "Construir/testar/revisar projeto seguro nas produções do lote anterior"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF02CI02",
+          "aulas": [
+            "cna.ef02.materiais_e_objetos.propriedades_dos_materiais",
+            "cna.ef02.materiais_e_objetos.escolher_o_material_adequado"
+          ],
+          "atividades": [
+            "cna.ef02.materiais_e_objetos.propriedades_dos_materiais#propriedades_dos_materiais.aplicacao",
+            "cna.ef02.materiais_e_objetos.propriedades_dos_materiais#propriedades_dos_materiais.investigacao",
+            "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.aplicacao1",
+            "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.aplicacao2",
+            "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao1",
+            "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef02.materia_e_energia.treino.02",
+            "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.treino.1",
+            "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.treino.2"
+          ],
+          "questoesProva": [
+            "cna.ef02.materia_e_energia.prova.02",
+            "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.1",
+            "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.2"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF02CI03",
+        "dimensoes": [
+          "Discutir riscos de cortantes (núcleo anterior), inflamáveis, eletricidade, limpeza e medicamentos",
+          "Relacionar cada perigo a prevenção e apoio adulto, sem testes de risco"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF02CI03",
+          "aulas": [
+            "cna.ef02.prevencao_de_acidentes.objetos_cortantes",
+            "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
+            "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
+            "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
+            "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados"
+          ],
+          "atividades": [
+            "cna.ef02.prevencao_de_acidentes.objetos_cortantes#objetos_cortantes.aplicacao",
+            "cna.ef02.prevencao_de_acidentes.objetos_cortantes#objetos_cortantes.investigacao",
+            "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.aplicacao",
+            "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao1",
+            "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao2",
+            "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.aplicacao",
+            "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao1",
+            "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao2",
+            "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.aplicacao",
+            "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao1",
+            "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao2",
+            "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.aplicacao",
+            "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao1",
+            "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef02.materia_e_energia.treino.03",
+            "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo.treino.1",
+            "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca.treino.1",
+            "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza.treino.1",
+            "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados.treino.1"
+          ],
+          "questoesProva": [
+            "cna.ef02.materia_e_energia.prova.03",
+            "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo.prova.1",
+            "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca.prova.1",
+            "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza.prova.1",
+            "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados.prova.1"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF02CI04",
+        "dimensoes": [
+          "Descrever tamanho, forma, cor e fase observada de plantas e animais",
+          "Relacionar características ao ambiente próximo",
+          "Distinguir observação, hipótese e limitação temporal"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF02CI04",
+          "aulas": [
+            "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano",
+            "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+            "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+            "cna.ef02.plantas_no_ambiente.animais_do_entorno",
+            "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+            "cna.ef02.plantas_no_ambiente.observar_uma_planta",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+            "cna.ef02.horta_e_observacao.diario_da_planta",
+            "cna.ef02.horta_e_observacao.compartilhando_descobertas"
+          ],
+          "atividades": [
+            "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano#plantas_do_cotidiano.aplicacao",
+            "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano#plantas_do_cotidiano.investigacao",
+            "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.aplicacao",
+            "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao1",
+            "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao2",
+            "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.aplicacao",
+            "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao1",
+            "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao2",
+            "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.aplicacao",
+            "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao1",
+            "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao2",
+            "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.aplicacao",
+            "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao1",
+            "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao2",
+            "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.aplicacao",
+            "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao1",
+            "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao2",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.aplicacao",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2",
+            "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.aplicacao",
+            "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao1",
+            "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao2",
+            "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.aplicacao",
+            "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao1",
+            "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef02.horta_e_observacao.diario_da_planta.treino.1",
+            "cna.ef02.horta_e_observacao.compartilhando_descobertas.treino.1",
+            "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.treino.1",
+            "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.treino.1",
+            "cna.ef02.plantas_no_ambiente.animais_do_entorno.treino.1",
+            "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.treino.1",
+            "cna.ef02.plantas_no_ambiente.observar_uma_planta.treino.1",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.treino.1",
+            "cna.ef02.vida_e_evolucao.treino.04"
+          ],
+          "questoesProva": [
+            "cna.ef02.horta_e_observacao.diario_da_planta.prova.1",
+            "cna.ef02.horta_e_observacao.compartilhando_descobertas.prova.1",
+            "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.prova.1",
+            "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.prova.1",
+            "cna.ef02.plantas_no_ambiente.animais_do_entorno.prova.1",
+            "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.prova.1",
+            "cna.ef02.plantas_no_ambiente.observar_uma_planta.prova.1",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1",
+            "cna.ef02.vida_e_evolucao.prova.04"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF02CI05",
+        "dimensoes": [
+          "Investigar água e luz em comparações separadas",
+          "Controlar condições e acompanhar desenvolvimento além da altura",
+          "Registrar e comunicar evidências, não confundir plano com execução"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF02CI05",
+          "aulas": [
+            "cna.ef02.agua_luz_e_vida.agua_para_as_plantas",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+            "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
+            "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
+            "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
+            "cna.ef02.agua_luz_e_vida.importancia_da_agua",
+            "cna.ef02.horta_e_observacao.montando_uma_horta",
+            "cna.ef02.horta_e_observacao.registrando_o_crescimento"
+          ],
+          "atividades": [
+            "cna.ef02.agua_luz_e_vida.agua_para_as_plantas#agua_para_as_plantas.aplicacao",
+            "cna.ef02.agua_luz_e_vida.agua_para_as_plantas#agua_para_as_plantas.investigacao",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.aplicacao",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2",
+            "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.aplicacao",
+            "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao1",
+            "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao2",
+            "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.aplicacao",
+            "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao1",
+            "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao2",
+            "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.aplicacao",
+            "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao1",
+            "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao2",
+            "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.aplicacao",
+            "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao1",
+            "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao2",
+            "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.aplicacao",
+            "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao1",
+            "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao2",
+            "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.aplicacao",
+            "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao1",
+            "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef02.agua_luz_e_vida.luz_para_as_plantas.treino.1",
+            "cna.ef02.agua_luz_e_vida.experiencias_com_plantas.treino.1",
+            "cna.ef02.agua_luz_e_vida.plantas_sem_luz.treino.1",
+            "cna.ef02.agua_luz_e_vida.importancia_da_agua.treino.1",
+            "cna.ef02.horta_e_observacao.montando_uma_horta.treino.1",
+            "cna.ef02.horta_e_observacao.registrando_o_crescimento.treino.1",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.treino.1",
+            "cna.ef02.vida_e_evolucao.treino.05"
+          ],
+          "questoesProva": [
+            "cna.ef02.agua_luz_e_vida.luz_para_as_plantas.prova.1",
+            "cna.ef02.agua_luz_e_vida.experiencias_com_plantas.prova.1",
+            "cna.ef02.agua_luz_e_vida.plantas_sem_luz.prova.1",
+            "cna.ef02.agua_luz_e_vida.importancia_da_agua.prova.1",
+            "cna.ef02.horta_e_observacao.montando_uma_horta.prova.1",
+            "cna.ef02.horta_e_observacao.registrando_o_crescimento.prova.1",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1",
+            "cna.ef02.vida_e_evolucao.prova.05"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF02CI06",
+        "dimensoes": [
+          "Identificar raiz, caule, folhas, flores e frutos e relacionar funções",
+          "Analisar relações com ambiente e outros seres",
+          "Reconhecer modelo simplificado, fases e diversidade"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF02CI06",
+          "aulas": [
+            "cna.ef02.partes_das_plantas.raiz",
+            "cna.ef02.partes_das_plantas.caule",
+            "cna.ef02.partes_das_plantas.folhas",
+            "cna.ef02.partes_das_plantas.flores",
+            "cna.ef02.partes_das_plantas.frutos_e_sementes",
+            "cna.ef02.partes_das_plantas.funcoes_de_cada_parte",
+            "cna.ef02.partes_das_plantas.plantas_e_outros_seres",
+            "cna.ef02.horta_e_observacao.colheita_e_cuidados"
+          ],
+          "atividades": [
+            "cna.ef02.partes_das_plantas.raiz#raiz.aplicacao",
+            "cna.ef02.partes_das_plantas.raiz#raiz.investigacao",
+            "cna.ef02.partes_das_plantas.caule#caule.aplicacao",
+            "cna.ef02.partes_das_plantas.caule#caule.producao1",
+            "cna.ef02.partes_das_plantas.caule#caule.producao2",
+            "cna.ef02.partes_das_plantas.folhas#folhas.aplicacao",
+            "cna.ef02.partes_das_plantas.folhas#folhas.producao1",
+            "cna.ef02.partes_das_plantas.folhas#folhas.producao2",
+            "cna.ef02.partes_das_plantas.flores#flores.aplicacao",
+            "cna.ef02.partes_das_plantas.flores#flores.producao1",
+            "cna.ef02.partes_das_plantas.flores#flores.producao2",
+            "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.aplicacao",
+            "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.producao1",
+            "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.producao2",
+            "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.aplicacao",
+            "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.producao1",
+            "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.producao2",
+            "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.aplicacao",
+            "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.producao1",
+            "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.producao2",
+            "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.aplicacao",
+            "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao1",
+            "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef02.horta_e_observacao.colheita_e_cuidados.treino.1",
+            "cna.ef02.partes_das_plantas.caule.treino.1",
+            "cna.ef02.partes_das_plantas.folhas.treino.1",
+            "cna.ef02.partes_das_plantas.flores.treino.1",
+            "cna.ef02.partes_das_plantas.frutos_e_sementes.treino.1",
+            "cna.ef02.partes_das_plantas.funcoes_de_cada_parte.treino.1",
+            "cna.ef02.partes_das_plantas.plantas_e_outros_seres.treino.1",
+            "cna.ef02.vida_e_evolucao.treino.06"
+          ],
+          "questoesProva": [
+            "cna.ef02.horta_e_observacao.colheita_e_cuidados.prova.1",
+            "cna.ef02.partes_das_plantas.caule.prova.1",
+            "cna.ef02.partes_das_plantas.folhas.prova.1",
+            "cna.ef02.partes_das_plantas.flores.prova.1",
+            "cna.ef02.partes_das_plantas.frutos_e_sementes.prova.1",
+            "cna.ef02.partes_das_plantas.funcoes_de_cada_parte.prova.1",
+            "cna.ef02.partes_das_plantas.plantas_e_outros_seres.prova.1",
+            "cna.ef02.vida_e_evolucao.prova.06"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF02CI07",
+        "dimensoes": [
+          "Registrar posições aparentes por observação indireta segura",
+          "Associar horários e tamanho das sombras de objeto fixo",
+          "Comparar medidas e reconhecer limites de local/data"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF02CI07",
+          "aulas": [
+            "cna.ef02.sol_no_ceu.posicao_do_sol",
+            "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+            "cna.ef02.sol_no_ceu.medindo_sombras",
+            "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+            "cna.ef02.sol_no_ceu.observando_o_ceu"
+          ],
+          "atividades": [
+            "cna.ef02.sol_no_ceu.posicao_do_sol#posicao_do_sol.aplicacao",
+            "cna.ef02.sol_no_ceu.posicao_do_sol#posicao_do_sol.investigacao",
+            "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.aplicacao",
+            "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao1",
+            "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao2",
+            "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.aplicacao",
+            "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao1",
+            "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao2",
+            "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.aplicacao",
+            "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao1",
+            "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao2",
+            "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.aplicacao",
+            "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao1",
+            "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.treino.1",
+            "cna.ef02.sol_no_ceu.medindo_sombras.treino.1",
+            "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.treino.1",
+            "cna.ef02.sol_no_ceu.observando_o_ceu.treino.1",
+            "cna.ef02.terra_e_universo.treino.07"
+          ],
+          "questoesProva": [
+            "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.prova.1",
+            "cna.ef02.sol_no_ceu.medindo_sombras.prova.1",
+            "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.prova.1",
+            "cna.ef02.sol_no_ceu.observando_o_ceu.prova.1",
+            "cna.ef02.terra_e_universo.prova.07"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      },
+      {
+        "codigo": "EF02CI08",
+        "dimensoes": [
+          "Comparar aquecimento em água, areia, solo e superfícies claras/escuras/metálicas",
+          "Investigar reflexão separadamente de temperatura",
+          "Medir variações e controlar condições sem testar com o corpo"
+        ],
+        "evidenciasPlanejadas": {
+          "codigo": "EF02CI08",
+          "aulas": [
+            "cna.ef02.sol_e_superficies.aquecimento_da_agua",
+            "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+            "cna.ef02.sol_e_superficies.areia_e_solo",
+            "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+            "cna.ef02.sol_e_superficies.superficies_metalicas",
+            "cna.ef02.sol_e_superficies.reflexao_da_luz",
+            "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol"
+          ],
+          "atividades": [
+            "cna.ef02.sol_e_superficies.aquecimento_da_agua#aquecimento_da_agua.aplicacao",
+            "cna.ef02.sol_e_superficies.aquecimento_da_agua#aquecimento_da_agua.investigacao",
+            "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.aplicacao",
+            "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao1",
+            "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao2",
+            "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.aplicacao",
+            "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao1",
+            "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao2",
+            "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.aplicacao",
+            "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao1",
+            "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao2",
+            "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.aplicacao",
+            "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao1",
+            "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao2",
+            "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.aplicacao",
+            "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao1",
+            "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao2",
+            "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.aplicacao",
+            "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao1",
+            "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao2"
+          ],
+          "questoesTreino": [
+            "cna.ef02.sol_e_superficies.areia_e_solo.treino.1",
+            "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.treino.1",
+            "cna.ef02.sol_e_superficies.superficies_metalicas.treino.1",
+            "cna.ef02.sol_e_superficies.reflexao_da_luz.treino.1",
+            "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.treino.1",
+            "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.treino.1",
+            "cna.ef02.terra_e_universo.treino.08"
+          ],
+          "questoesProva": [
+            "cna.ef02.sol_e_superficies.areia_e_solo.prova.1",
+            "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.prova.1",
+            "cna.ef02.sol_e_superficies.superficies_metalicas.prova.1",
+            "cna.ef02.sol_e_superficies.reflexao_da_luz.prova.1",
+            "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.prova.1",
+            "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.prova.1",
+            "cna.ef02.terra_e_universo.prova.08"
+          ],
+          "homologacaoDocente": "pendente"
+        },
+        "producaoObservada": "pendente",
+        "homologacaoDocente": "pendente"
+      }
+    ]
+  },
+  "normalizacoes": [
+    {
+      "aulaId": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+      "bnccPlanejada": [
+        "EF02CI04"
+      ],
+      "bnccAtual": [
+        "EF02CI04",
+        "EF02CI05"
+      ],
+      "motivo": "Vínculo corrigido pelo objetivo efetivamente trabalhado: fonte de luz/calor corresponde a aquecimento/reflexão; cuidado orientado da planta inclui água/luz além de descrição."
+    },
+    {
+      "aulaId": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+      "bnccPlanejada": [
+        "EF02CI07"
+      ],
+      "bnccAtual": [
+        "EF02CI08"
+      ],
+      "motivo": "Vínculo corrigido pelo objetivo efetivamente trabalhado: fonte de luz/calor corresponde a aquecimento/reflexão; cuidado orientado da planta inclui água/luz além de descrição."
+    }
+  ],
+  "verificacaoTecnica": {
+    "estado": "aprovado",
+    "ambiente": "Verificações locais Python/JSON Schema draft 2020-12 e Node/JSDOM; sem navegador real ou serviços externos.",
+    "resultados": [
+      "203 aulas e 444 itens de bancos com canônicos/Registry correspondentes; 517 atividades renderizadas e respostas corretas/incorretas verificadas.",
+      "50 provas com seleção isolada; sete provas novas com desafios de transferência visíveis, nota objetiva separada e critérios docentes.",
+      "35 novos canônicos e rascunhos arquivados com referências; catálogo de 5603 tópicos e 293 tópicos ainda sem autoria consistentes.",
+      "Pré-requisitos existentes e sem ciclos, recursos SVG acessíveis e tabelas incorporadas.",
+      "Schemas das aulas, questões e provas aprovados; esquema exige origem de portfólio ou tarefa de transferência com referências e rubrica. Casos inválidos rejeitados.",
+      "Todo conteúdo canônico anterior de Ciências preservado byte a byte; bloqueio de rascunhos testado nas duas ordens de importação.",
+      "370 aulas ativas de Matemática e Português EF06 (69 aulas/138 atividades) preservados.",
+      "Sintaxe dos chunks, loader e service worker aprovada."
+    ],
+    "limites": "Não certifica revisão semântica independente, visual real, leitor de tela, aplicação, domínio do estudante, Firebase/autenticação/cache reais."
+  },
+  "pendencias": [
+    "Produções, diários, investigações e devolutivas reais.",
+    "Homologação docente independente.",
+    "Inspeção visual/acessibilidade e autenticação/Firebase/cache reais.",
+    "293 tópicos EF03–EF09 sem autoria."
+  ],
+  "proximoLote": "EF03: 30 tópicos restantes, por saúde auditiva/visual, animais, Terra/céu e solo."
+}

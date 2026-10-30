@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 13,
+  "unidade": "Água, Luz e Vida das Plantas",
+  "titulo": "Plantas sem Luz",
+  "bncc": [
+    "EF02CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Represente início e fim desse caso fictício. Identifique o que foi informado e duas informações de método ainda necessárias.",
+      "Explique a diferença entre planta de sombra e planta mantida no escuro. Proponha cuidado orientado sem experimento destrutivo."
+    ],
+    "resumo": "Escuridão prolongada impede que plantas verdes comuns produzam alimento pela luz.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.agua_luz_e_vida.experiencias_com_plantas\">Experiências com Plantas</button></p><h2>Plantas sem Luz</h2><h3>Para compreender</h3><p>Escuridão prolongada impede que plantas verdes comuns produzam alimento pela luz. Elas podem usar reservas por um tempo, apresentar palidez ou alongamento, e depois perder vigor. Nem toda espécie responde na mesma velocidade. Não se avalia necessidade de luz observando apenas um dia. Para esta aula, analise o caso fictício e proponha acompanhamento de mudas em condições adequadas; não mantenha plantas fechadas até morrerem. Uma planta de sombra ainda recebe luz do ambiente.</p><h3>Exemplo comentado</h3><p>Dados fictícios: no início, duas mudas semelhantes tinham folhas verdes; após um período, a de pouca luz ficou mais pálida. Isso é compatível com efeito da luz, mas o relato precisa informar água, espécie e duração para avaliar a comparação.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Represente início e fim desse caso fictício. Identifique o que foi informado e duas informações de método ainda necessárias.</p><h4>Proposta 2</h4><p>Explique a diferença entre planta de sombra e planta mantida no escuro. Proponha cuidado orientado sem experimento destrutivo.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "plantas_sem_luz.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Planta de sombra significa planta que:",
+      "alternativas": [
+        "Não precisa de luz nunca.",
+        "Pode se desenvolver com luz menos intensa, conforme a espécie.",
+        "Vive fechada sem limite."
+      ],
+      "correta": 1,
+      "explicacao": "Sombra não é ausência completa de luz.",
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "plantas_sem_luz.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Represente início e fim desse caso fictício. Identifique o que foi informado e duas informações de método ainda necessárias.",
+      "gabarito": "Distinguir dado fornecido de informação ausente: duração, água e identificação das mudas.",
+      "rubrica": [
+        "Distinguir dado fornecido de informação ausente: duração, água e identificação das mudas.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "plantas_sem_luz.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique a diferença entre planta de sombra e planta mantida no escuro. Proponha cuidado orientado sem experimento destrutivo.",
+      "gabarito": "Sombra iluminada oferece luz; escuro não. Encaminhar localização adequada à espécie.",
+      "rubrica": [
+        "Sombra iluminada oferece luz; escuro não. Encaminhar localização adequada à espécie.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.agua_luz_e_vida.experiencias_com_plantas"
+  ],
+  "proximosPassos": [
+    "cna.ef02.agua_luz_e_vida.importancia_da_agua"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Água, Luz e Vida das Plantas",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "titulo": "Plantas sem Luz"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

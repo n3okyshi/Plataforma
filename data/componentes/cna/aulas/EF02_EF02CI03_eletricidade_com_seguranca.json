@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 2,
+  "unidade": "Prevenção de Acidentes",
+  "titulo": "Eletricidade com Segurança",
+  "bncc": [
+    "EF02CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com cartões de papel, separe situações que exigem aviso ao adulto: fio danificado, aparelho perto da água, objeto na tomada. Explique o risco de duas.",
+      "Escreva uma mensagem sobre um brinquedo elétrico com fio danificado, indicando quem pode avaliar e o que a criança evita."
+    ],
+    "resumo": "A eletricidade permite iluminar ambientes e utilizar aparelhos, mas pode causar choque e queimadura.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo\">Inflamáveis e Fogo</button></p><h2>Eletricidade com Segurança</h2><h3>Para compreender</h3><p>A eletricidade permite iluminar ambientes e utilizar aparelhos, mas pode causar choque e queimadura. Tomadas, fios danificados e aparelhos perto de água exigem cuidado. A criança não toca em fio suspeito, não introduz objetos em tomadas, não abre aparelhos e não tenta consertá-los. Deve se afastar e avisar um adulto. Proteções e reparos são tarefas de responsáveis e profissionais. Não se toca em alguém que esteja em contato com eletricidade; pede-se ajuda de um local seguro.</p><h3>Exemplo comentado</h3><p>Um personagem vê a capa de um fio rompida. Mesmo que o aparelho pareça desligado, ele não sabe se está seguro. A atitude é interromper a aproximação e comunicar; uma aparência não substitui avaliação profissional.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Com cartões de papel, separe situações que exigem aviso ao adulto: fio danificado, aparelho perto da água, objeto na tomada. Explique o risco de duas.</p><h4>Proposta 2</h4><p>Escreva uma mensagem sobre um brinquedo elétrico com fio danificado, indicando quem pode avaliar e o que a criança evita.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos\" target=\"_blank\" rel=\"noopener noreferrer\">Corpo de Bombeiros Militar do Paraná — Acidentes domésticos</a></li><li><a href=\"https://www.gov.br/mme/pt-br/assuntos/noticias/julho-26/saiba-como-evitar-acidentes-eletricos-dentro-de-casa\" target=\"_blank\" rel=\"noopener noreferrer\">Ministério de Minas e Energia — Saiba como evitar acidentes elétricos dentro de casa</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "eletricidade_com_seguranca.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um fio parece danificado. A criança deve:",
+      "alternativas": [
+        "Tocar para saber se dá choque.",
+        "Afastar-se e avisar um adulto.",
+        "Cobrir o fio com a mão."
+      ],
+      "correta": 1,
+      "explicacao": "A avaliação do risco não é feita pelo toque.",
+      "bncc": [
+        "EF02CI03"
+      ]
+    },
+    {
+      "id": "eletricidade_com_seguranca.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Com cartões de papel, separe situações que exigem aviso ao adulto: fio danificado, aparelho perto da água, objeto na tomada. Explique o risco de duas.",
+      "gabarito": "Reconhecer possibilidade de choque e impedir aproximação; nenhum teste em tomada real.",
+      "rubrica": [
+        "Reconhecer possibilidade de choque e impedir aproximação; nenhum teste em tomada real.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI03"
+      ]
+    },
+    {
+      "id": "eletricidade_com_seguranca.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Escreva uma mensagem sobre um brinquedo elétrico com fio danificado, indicando quem pode avaliar e o que a criança evita.",
+      "gabarito": "Comunicar adulto e reparo profissional; não sugerir fita ou desmontagem feita pela criança.",
+      "rubrica": [
+        "Comunicar adulto e reparo profissional; não sugerir fita ou desmontagem feita pela criança.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+      "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+      "consulta": "2026-10-30",
+      "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+    },
+    {
+      "documento": "Ministério de Minas e Energia — Saiba como evitar acidentes elétricos dentro de casa",
+      "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/julho-26/saiba-como-evitar-acidentes-eletricos-dentro-de-casa",
+      "consulta": "2026-10-30",
+      "uso": "Trechos de prevenção consultados: fios, tomadas e água. Adaptados para a criança se afastar e avisar; reparos e acionamentos cabem a adultos/profissionais, sem testes em rede elétrica."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo"
+  ],
+  "proximosPassos": [
+    "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Prevenção de Acidentes",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "titulo": "Eletricidade com Segurança"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

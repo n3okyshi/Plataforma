@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.horta_e_observacao.montando_uma_horta",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 31,
+  "unidade": "Horta e Observação",
+  "titulo": "Montando uma Horta",
+  "bncc": [
+    "EF02CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça croqui do projeto com planta escolhida com adulto, local de luz, água, acesso e responsáveis por cuidados.",
+      "Inclua uma pergunta sobre água ou luz e um modo de registrar seu efeito sem prejudicar as plantas."
+    ],
+    "resumo": "Uma horta escolar é projeto de cuidado e investigação.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.agua_luz_e_vida.agua_para_as_plantas\">Água, luz e investigação com plantas</button></p><h2>Montando uma Horta</h2><h3>Para compreender</h3><p>Uma horta escolar é projeto de cuidado e investigação. Antes de plantar, o adulto verifica espaço autorizado, luz, acesso à água de boa qualidade, drenagem e espécie adequada. Defina quem cuida, inclusive nos dias sem aula. A criança pode planejar, acompanhar e ajudar em tarefas leves orientadas; preparação de solo, cortes e ferramentas são do adulto. Não reutilize frascos de limpeza. Um plano ainda não demonstra que água e luz foram investigadas: são necessários acompanhamento e comparação.</p><h3>Exemplo comentado</h3><p>Um vaso com planta identificada pode iniciar o projeto quando não há canteiro. A escolha precisa permitir observar e cuidar; não se promete colheita em data fixa sem considerar espécie e condições.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça croqui do projeto com planta escolhida com adulto, local de luz, água, acesso e responsáveis por cuidados.</p><h4>Proposta 2</h4><p>Inclua uma pergunta sobre água ou luz e um modo de registrar seu efeito sem prejudicar as plantas.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "montando_uma_horta.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual decisão precisa ser tomada antes do plantio escolar?",
+      "alternativas": [
+        "Quem cuida apenas no dia da festa.",
+        "Local, espécie, água, luz e responsáveis.",
+        "Que toda planta receberá a mesma rega."
+      ],
+      "correta": 1,
+      "explicacao": "O cultivo depende de condições e continuidade do cuidado.",
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "montando_uma_horta.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça croqui do projeto com planta escolhida com adulto, local de luz, água, acesso e responsáveis por cuidados.",
+      "gabarito": "Plano viável e seguro, com orientação local e acesso; distinguir de horta já instalada.",
+      "rubrica": [
+        "Plano viável e seguro, com orientação local e acesso; distinguir de horta já instalada.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "montando_uma_horta.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Inclua uma pergunta sobre água ou luz e um modo de registrar seu efeito sem prejudicar as plantas.",
+      "gabarito": "Comparação coerente e datas; cuidado e produção de evidência além do plantio.",
+      "rubrica": [
+        "Comparação coerente e datas; cuidado e produção de evidência além do plantio.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.agua_luz_e_vida.agua_para_as_plantas"
+  ],
+  "proximosPassos": [
+    "cna.ef02.horta_e_observacao.registrando_o_crescimento"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Horta e Observação",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "titulo": "Montando uma Horta"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

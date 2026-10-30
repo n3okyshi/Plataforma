@@ -1,216 +1,321 @@
 {
   "estado": "estrutura_criada",
-  "conteudoAutoral": "pendente",
+  "conteudoAutoral": "parcial",
   "topicos": [
     {
       "id": "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
       "nivel": "EF02",
       "titulo": "Inflamáveis e Fogo",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_inflamaveis_e_fogo_350d87bb.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_inflamaveis_e_fogo_350d87bb.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI03_inflamaveis_e_fogo.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
       "nivel": "EF02",
       "titulo": "Eletricidade com Segurança",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_eletricidade_com_seguranca_0dac2f0c.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_eletricidade_com_seguranca_0dac2f0c.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI03_eletricidade_com_seguranca.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
       "nivel": "EF02",
       "titulo": "Produtos de Limpeza",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_produtos_de_limpeza_4dfb79be.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_produtos_de_limpeza_4dfb79be.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI03_produtos_de_limpeza.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados",
       "nivel": "EF02",
       "titulo": "Medicamentos e Cuidados",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_medicamentos_e_cuidados_50de6b9a.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_medicamentos_e_cuidados_50de6b9a.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI03_medicamentos_e_cuidados.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
       "nivel": "EF02",
       "titulo": "Características das Plantas",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_caracteristicas_das_plantas_c5589249.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_caracteristicas_das_plantas_c5589249.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI04_caracteristicas_das_plantas.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
       "nivel": "EF02",
       "titulo": "Onde as Plantas Vivem",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_onde_as_plantas_vivem_cf832008.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_onde_as_plantas_vivem_cf832008.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI04_onde_as_plantas_vivem.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.plantas_no_ambiente.animais_do_entorno",
       "nivel": "EF02",
       "titulo": "Animais do Entorno",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_animais_do_entorno_9853568a.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_animais_do_entorno_9853568a.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI04_animais_do_entorno.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
       "nivel": "EF02",
       "titulo": "Ambiente e Seres Vivos",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_ambiente_e_seres_vivos_e5c6030a.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_ambiente_e_seres_vivos_e5c6030a.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI04_ambiente_e_seres_vivos.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.plantas_no_ambiente.observar_uma_planta",
       "nivel": "EF02",
       "titulo": "Observar uma Planta de Perto",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_observar_uma_planta_2f31b2eb.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_observar_uma_planta_2f31b2eb.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI04_observar_uma_planta.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
       "nivel": "EF02",
       "titulo": "Cuidar de uma Planta",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_cuidar_de_uma_planta_f1d3a987.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_cuidar_de_uma_planta_f1d3a987.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI04_cuidar_de_uma_planta.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
       "nivel": "EF02",
       "titulo": "Luz para as Plantas",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_luz_para_as_plantas_e46177c7.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_luz_para_as_plantas_e46177c7.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI05_luz_para_as_plantas.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
       "nivel": "EF02",
       "titulo": "Experiências com Plantas",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_experiencias_com_plantas_ec98d5eb.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_experiencias_com_plantas_ec98d5eb.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI05_experiencias_com_plantas.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
       "nivel": "EF02",
       "titulo": "Plantas sem Luz",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_plantas_sem_luz_ab2c607a.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_plantas_sem_luz_ab2c607a.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI05_plantas_sem_luz.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.agua_luz_e_vida.importancia_da_agua",
       "nivel": "EF02",
       "titulo": "A Importância da Água",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_importancia_da_agua_d982c15b.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_importancia_da_agua_d982c15b.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI05_importancia_da_agua.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.partes_das_plantas.caule",
       "nivel": "EF02",
       "titulo": "O Caule",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_caule_122b5910.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_caule_122b5910.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI06_caule.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.partes_das_plantas.folhas",
       "nivel": "EF02",
       "titulo": "As Folhas",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_folhas_b5ba7156.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_folhas_b5ba7156.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI06_folhas.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.partes_das_plantas.flores",
       "nivel": "EF02",
       "titulo": "As Flores",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_flores_31fd4fbb.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_flores_31fd4fbb.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI06_flores.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.partes_das_plantas.frutos_e_sementes",
       "nivel": "EF02",
       "titulo": "Frutos e Sementes",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_frutos_e_sementes_8d41c3f2.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_frutos_e_sementes_8d41c3f2.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI06_frutos_e_sementes.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.partes_das_plantas.funcoes_de_cada_parte",
       "nivel": "EF02",
       "titulo": "Funções de Cada Parte",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_funcoes_de_cada_parte_13af5f1c.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_funcoes_de_cada_parte_13af5f1c.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI06_funcoes_de_cada_parte.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.partes_das_plantas.plantas_e_outros_seres",
       "nivel": "EF02",
       "titulo": "Plantas e Outros Seres Vivos",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_plantas_e_outros_seres_27ffa005.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_plantas_e_outros_seres_27ffa005.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI06_plantas_e_outros_seres.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
       "nivel": "EF02",
       "titulo": "Sombras ao Longo do Dia",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_sombras_ao_longo_do_dia_3c6bf9fe.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_sombras_ao_longo_do_dia_3c6bf9fe.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI07_sombras_ao_longo_do_dia.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.sol_no_ceu.medindo_sombras",
       "nivel": "EF02",
       "titulo": "Medindo Sombras",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_medindo_sombras_6f947b42.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_medindo_sombras_6f947b42.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI07_medindo_sombras.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
       "nivel": "EF02",
       "titulo": "O Sol Como Fonte de Luz e Calor",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_sol_fonte_de_luz_e_calor_7c16f659.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_sol_fonte_de_luz_e_calor_7c16f659.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI07_sol_fonte_de_luz_e_calor.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
       "nivel": "EF02",
       "titulo": "Sombra e Horas do Dia",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_sombra_e_horas_do_dia_7328f6a9.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_sombra_e_horas_do_dia_7328f6a9.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI07_sombra_e_horas_do_dia.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.sol_no_ceu.observando_o_ceu",
       "nivel": "EF02",
       "titulo": "Observando o Céu",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_observando_o_ceu_85a3db45.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_observando_o_ceu_85a3db45.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI07_observando_o_ceu.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.sol_e_superficies.areia_e_solo",
       "nivel": "EF02",
       "titulo": "Areia e Solo",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_areia_e_solo_16ef9d2a.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_areia_e_solo_16ef9d2a.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI08_areia_e_solo.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
       "nivel": "EF02",
       "titulo": "Superfícies Claras e Escuras",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_superficies_claras_e_escuras_be3045dc.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_superficies_claras_e_escuras_be3045dc.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI08_superficies_claras_e_escuras.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.sol_e_superficies.superficies_metalicas",
       "nivel": "EF02",
       "titulo": "Superfícies Metálicas",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_superficies_metalicas_08293642.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_superficies_metalicas_08293642.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI08_superficies_metalicas.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.sol_e_superficies.reflexao_da_luz",
       "nivel": "EF02",
       "titulo": "Reflexão da Luz",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_reflexao_da_luz_78bb8a63.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_reflexao_da_luz_78bb8a63.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI08_reflexao_da_luz.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol",
       "nivel": "EF02",
       "titulo": "Comparando Superfícies ao Sol",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_comparando_superficies_ao_sol_affaa984.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_comparando_superficies_ao_sol_affaa984.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI08_comparando_superficies_ao_sol.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.horta_e_observacao.montando_uma_horta",
       "nivel": "EF02",
       "titulo": "Montando uma Horta",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_montando_uma_horta_6d33219a.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_montando_uma_horta_6d33219a.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI05_montando_uma_horta.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.horta_e_observacao.registrando_o_crescimento",
       "nivel": "EF02",
       "titulo": "Registrando o Crescimento",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_registrando_o_crescimento_862d749c.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_registrando_o_crescimento_862d749c.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI05_registrando_o_crescimento.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.horta_e_observacao.diario_da_planta",
       "nivel": "EF02",
       "titulo": "Diário da Planta",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_diario_da_planta_ccaf06e2.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_diario_da_planta_ccaf06e2.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI04_diario_da_planta.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.horta_e_observacao.colheita_e_cuidados",
       "nivel": "EF02",
       "titulo": "Colheita e Cuidados",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_colheita_e_cuidados_52c3bd96.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_colheita_e_cuidados_52c3bd96.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI06_colheita_e_cuidados.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef02.horta_e_observacao.compartilhando_descobertas",
       "nivel": "EF02",
       "titulo": "Compartilhando Descobertas",
-      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_compartilhando_descobertas_20e05cde.json"
+      "arquivo": "data/componentes/cna/rascunhos/aulas/EF02_compartilhando_descobertas_20e05cde.json",
+      "estado": "pronto_para_testes",
+      "arquivoCanonico": "data/componentes/cna/aulas/EF02_EF02CI04_compartilhando_descobertas.json",
+      "limite": "Homologação e observação pendentes."
     },
     {
       "id": "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
@@ -1970,5 +2075,8 @@
       "titulo": "O Futuro do Sol",
       "arquivo": "data/componentes/cna/rascunhos/aulas/EF09_futuro_do_sol_fc86bf9a.json"
     }
-  ]
+  ],
+  "topicosImplementadosParaTestes": 35,
+  "topicosAindaSemAutoria": 293,
+  "limite": "Índice histórico dos 328 rascunhos; implementações posteriores apontam para canônicos sem remover o escopo original."
 }

@@ -1,0 +1,134 @@
+{
+  "id": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 23,
+  "unidade": "O Sol no Céu",
+  "titulo": "O Sol Como Fonte de Luz e Calor",
+  "bncc": [
+    "EF02CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Represente dois efeitos da energia solar no cotidiano: iluminação e aquecimento. Indique como observá-los com segurança.",
+      "Planeje comparar uma superfície ao Sol e outra na sombra, mantendo o restante semelhante."
+    ],
+    "resumo": "O Sol é uma estrela que emite energia.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.sol_no_ceu.medindo_sombras\">Medindo Sombras</button></p><h2>O Sol Como Fonte de Luz e Calor</h2><h3>Para compreender</h3><p>O Sol é uma estrela que emite energia. Parte chega à Terra como luz e contribui para aquecer superfícies. Luz ajuda a ver e permite a produção de alimento em muitas plantas; aquecimento pode ser percebido ou medido, mas não se testa temperatura de superfície com pele ou pé. Sombra reduz a chegada direta da luz solar, embora não elimine toda luz do ambiente. Estudar o Sol dispensa olhar diretamente para ele: usamos sombras, termômetros adequados manejados pelo adulto e modelos.</p><h3>Exemplo comentado</h3><p>Um banco ao Sol e outro na sombra podem apresentar temperaturas diferentes. Para comparar, é preciso considerar material, tempo de exposição e condições do lugar, e não usar o corpo como termômetro.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Represente dois efeitos da energia solar no cotidiano: iluminação e aquecimento. Indique como observá-los com segurança.</p><h4>Proposta 2</h4><p>Planeje comparar uma superfície ao Sol e outra na sombra, mantendo o restante semelhante.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://scied.ucar.edu/activity/sunshine-shadows\" target=\"_blank\" rel=\"noopener noreferrer\">UCAR Center for Science Education — Sunshine and Shadows</a></li><li><a href=\"https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">NASA — Sun As A Star: Afterschool Learning Activities</a></li><li><a href=\"https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Explore Albedo Activity</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sol_fonte_de_luz_e_calor.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual comparação investiga aquecimento com mais segurança?",
+      "alternativas": [
+        "Pisar descalço nas superfícies.",
+        "Olhar o Sol por uma lupa.",
+        "Pedir leitura de termômetro adequado ao adulto."
+      ],
+      "correta": 2,
+      "explicacao": "O corpo e a visão direta não são instrumentos seguros para esse teste.",
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "sol_fonte_de_luz_e_calor.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Represente dois efeitos da energia solar no cotidiano: iluminação e aquecimento. Indique como observá-los com segurança.",
+      "gabarito": "Distinguir efeitos, observação indireta e medição adulta, sem olhar o Sol ou tocar superfície quente.",
+      "rubrica": [
+        "Distinguir efeitos, observação indireta e medição adulta, sem olhar o Sol ou tocar superfície quente.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "sol_fonte_de_luz_e_calor.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Planeje comparar uma superfície ao Sol e outra na sombra, mantendo o restante semelhante.",
+      "gabarito": "Mesmo material e duração, leitura instrumental e registro de condições, sem prever valor como dado real.",
+      "rubrica": [
+        "Mesmo material e duração, leitura instrumental e registro de condições, sem prever valor como dado real.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+      "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+      "consulta": "2026-10-30",
+      "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+    },
+    {
+      "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+    },
+    {
+      "documento": "NASA Science — Explore Albedo Activity",
+      "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.sol_no_ceu.medindo_sombras"
+  ],
+  "proximosPassos": [
+    "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "O Sol no Céu",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "titulo": "O Sol Como Fonte de Luz e Calor"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

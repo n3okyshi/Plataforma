@@ -289,19 +289,22 @@
   "atualizacaoCiencias": {
     "data": "2026-10-30",
     "registro": "data/base/status-ciencias.json",
-    "aulas": 168,
-    "atividades": 412,
-    "questoesTreino": 187,
-    "itensProva": 187,
-    "provas": 43,
+    "aulas": 203,
+    "atividades": 517,
+    "questoesTreino": 222,
+    "itensProva": 222,
+    "provas": 50,
     "EF01": {
       "topicosComAutoria": 49,
-      "complementares": 8,
+      "estado": "pronto_para_testes"
+    },
+    "EF02": {
+      "topicosComAutoria": 47,
       "topicosSemAutoria": 0,
       "estado": "pronto_para_testes"
     },
-    "topicosSemAutoriaEF02aEF09": 328,
-    "limite": "Preserva situação inicial como histórico; contagem não é certificado de alinhamento ou homologação."
+    "topicosSemAutoriaEF03aEF09": 293,
+    "limite": "Estado da implementação; sem homologação independente."
   },
   "estruturaEducacaoBasica": {
     "data": "2026-10-30",

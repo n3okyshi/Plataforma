@@ -1,0 +1,126 @@
+{
+  "id": "cna.ef02.agua_luz_e_vida.importancia_da_agua",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 14,
+  "unidade": "Água, Luz e Vida das Plantas",
+  "titulo": "A Importância da Água",
+  "bncc": [
+    "EF02CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça um esquema ligando água do solo, raiz, caule e folhas e explique uma razão para a planta precisar de água.",
+      "Planeje como comparar cuidados de água com mudas semelhantes, incluindo registro e interrupção antes de dano importante."
+    ],
+    "resumo": "Água participa do funcionamento e do crescimento das plantas e do transporte de substâncias.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.agua_luz_e_vida.plantas_sem_luz\">Plantas sem Luz</button></p><h2>A Importância da Água</h2><h3>Para compreender</h3><p>Água participa do funcionamento e do crescimento das plantas e do transporte de substâncias. Muitas a absorvem pelas raízes. Solo seco demais pode limitar essa absorção; excesso de água também pode prejudicar as raízes. As necessidades variam. Para investigar a importância da água, registre condições comparáveis e observações ao longo do tempo. A água usada no cultivo precisa ser escolhida com o adulto; não se usam produtos ou água de limpeza. Criança não prova água nem planta para testar qualidade.</p><h3>Exemplo comentado</h3><p>Caso fictício: duas mudas recebem luz semelhante, mas uma ficou sem cuidado de rega por um período. Diferenças podem orientar investigação; uma única muda de cada grupo não representa todas as plantas.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça um esquema ligando água do solo, raiz, caule e folhas e explique uma razão para a planta precisar de água.</p><h4>Proposta 2</h4><p>Planeje como comparar cuidados de água com mudas semelhantes, incluindo registro e interrupção antes de dano importante.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "importancia_da_agua.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Oferecer água demais é sempre melhor para a planta?",
+      "alternativas": [
+        "Não; o excesso também pode prejudicar.",
+        "Sim, quanto mais melhor.",
+        "Sim, qualquer água serve."
+      ],
+      "correta": 0,
+      "explicacao": "Rega adequada depende das necessidades e das condições.",
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "importancia_da_agua.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça um esquema ligando água do solo, raiz, caule e folhas e explique uma razão para a planta precisar de água.",
+      "gabarito": "Relacionar absorção e circulação; não dizer que água é o único alimento da planta.",
+      "rubrica": [
+        "Relacionar absorção e circulação; não dizer que água é o único alimento da planta.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "importancia_da_agua.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Planeje como comparar cuidados de água com mudas semelhantes, incluindo registro e interrupção antes de dano importante.",
+      "gabarito": "Uma variável principal, acompanhamento, cuidado e limite da conclusão.",
+      "rubrica": [
+        "Uma variável principal, acompanhamento, cuidado e limite da conclusão.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.agua_luz_e_vida.plantas_sem_luz"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Água, Luz e Vida das Plantas",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "titulo": "A Importância da Água"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

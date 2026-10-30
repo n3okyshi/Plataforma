@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.horta_e_observacao.registrando_o_crescimento",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 32,
+  "unidade": "Horta e Observação",
+  "titulo": "Registrando o Crescimento",
+  "bncc": [
+    "EF02CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Organize os dados fictícios em tabela e desenho de barras com escala indicada. Compare os dois intervalos.",
+      "Prepare ficha para medições reais com adulto, incluindo luz, rega conhecida, folhas e referência da medida."
+    ],
+    "resumo": "Crescimento pode ser acompanhado por medidas de altura e registros de folhas, cor e aparência.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.horta_e_observacao.montando_uma_horta\">Montando uma Horta</button></p><h2>Registrando o Crescimento</h2><h3>Para compreender</h3><p>Crescimento pode ser acompanhado por medidas de altura e registros de folhas, cor e aparência. Escolha o mesmo ponto de início na régua e o mesmo indivíduo identificado; anote datas e condições. Plantas podem mudar de ritmo, por isso não se completa tabela com uma sequência inventada. Para relacionar crescimento a água ou luz, é necessário conhecer e comparar essas condições. Ser mais alta não significa sempre estar mais saudável. Um gráfico pode ajudar a comunicar os dados sem substituir o registro original.</p><h3>Exemplo comentado</h3><p>Dados fictícios de uma muda: dia 1, 4 cm; dia 8, 6 cm; dia 15, 7 cm. Cresceu 2 cm no primeiro intervalo e 1 cm no segundo; não manteve aumento igual.</p><table><caption>Alturas fictícias de uma muda</caption><thead><tr><th scope=\"col\">Dia</th><th scope=\"col\">Altura (cm)</th></tr></thead><tbody><tr><td>1</td><td>4</td></tr><tr><td>8</td><td>6</td></tr><tr><td>15</td><td>7</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Organize os dados fictícios em tabela e desenho de barras com escala indicada. Compare os dois intervalos.</p><h4>Proposta 2</h4><p>Prepare ficha para medições reais com adulto, incluindo luz, rega conhecida, folhas e referência da medida.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "registrando_o_crescimento.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "De 4 para 6 cm, o aumento foi:",
+      "alternativas": [
+        "2 cm.",
+        "6 cm.",
+        "10 cm."
+      ],
+      "correta": 0,
+      "explicacao": "Crescimento medido é diferença entre alturas registradas.",
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "registrando_o_crescimento.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Organize os dados fictícios em tabela e desenho de barras com escala indicada. Compare os dois intervalos.",
+      "gabarito": "Valores 4/6/7 cm, aumentos 2 e 1 cm, fonte fictícia explícita.",
+      "rubrica": [
+        "Valores 4/6/7 cm, aumentos 2 e 1 cm, fonte fictícia explícita.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "registrando_o_crescimento.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Prepare ficha para medições reais com adulto, incluindo luz, rega conhecida, folhas e referência da medida.",
+      "gabarito": "Identificação, método repetível, datas e condições; não preencher antecipadamente resultados.",
+      "rubrica": [
+        "Identificação, método repetível, datas e condições; não preencher antecipadamente resultados.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.horta_e_observacao.montando_uma_horta"
+  ],
+  "proximosPassos": [
+    "cna.ef02.horta_e_observacao.diario_da_planta"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Horta e Observação",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "titulo": "Registrando o Crescimento"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

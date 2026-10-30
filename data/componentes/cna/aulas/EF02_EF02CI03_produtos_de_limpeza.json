@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 3,
+  "unidade": "Prevenção de Acidentes",
+  "titulo": "Produtos de Limpeza",
+  "bncc": [
+    "EF02CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça dois cartões: produto na embalagem original guardado por adulto; produto em garrafa de bebida ao alcance de crianças. Compare os riscos.",
+      "Crie aviso para uma campanha escolar, explicando por que frascos vazios de limpeza não servem para a horta infantil."
+    ],
+    "resumo": "Produtos de limpeza têm finalidade e modo de uso próprios.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca\">Eletricidade com Segurança</button></p><h2>Produtos de Limpeza</h2><h3>Para compreender</h3><p>Produtos de limpeza têm finalidade e modo de uso próprios. Podem ferir ou intoxicar quando ingeridos, misturados, cheirados de perto ou usados incorretamente. Cor e cheiro não indicam que um líquido seja bebida. Adultos devem manter esses produtos identificados, em recipientes originais e inacessíveis às crianças. Embalagem usada de produto de limpeza também não vira brinquedo ou vaso da atividade. Crianças não misturam nem transferem produtos; avisam ao adulto diante de situação insegura.</p><h3>Exemplo comentado</h3><p>Em história fictícia, um produto foi colocado em garrafa de refrigerante. Isso facilita confusão. A solução é o adulto organizar o armazenamento adequado, sem pedir à criança que cheire ou prove para identificar.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça dois cartões: produto na embalagem original guardado por adulto; produto em garrafa de bebida ao alcance de crianças. Compare os riscos.</p><h4>Proposta 2</h4><p>Crie aviso para uma campanha escolar, explicando por que frascos vazios de limpeza não servem para a horta infantil.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos\" target=\"_blank\" rel=\"noopener noreferrer\">Corpo de Bombeiros Militar do Paraná — Acidentes domésticos</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "produtos_de_limpeza.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um líquido colorido sem identificação deve ser:",
+      "alternativas": [
+        "Provado em pequena quantidade.",
+        "Cheirado para descobrir.",
+        "Deixado sem manuseio, com aviso ao adulto."
+      ],
+      "correta": 2,
+      "explicacao": "A aparência não permite identificar com segurança.",
+      "bncc": [
+        "EF02CI03"
+      ]
+    },
+    {
+      "id": "produtos_de_limpeza.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça dois cartões: produto na embalagem original guardado por adulto; produto em garrafa de bebida ao alcance de crianças. Compare os riscos.",
+      "gabarito": "Explicar confusão e acesso, não tratar embalagem original como autorização para tocar.",
+      "rubrica": [
+        "Explicar confusão e acesso, não tratar embalagem original como autorização para tocar.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI03"
+      ]
+    },
+    {
+      "id": "produtos_de_limpeza.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Crie aviso para uma campanha escolar, explicando por que frascos vazios de limpeza não servem para a horta infantil.",
+      "gabarito": "Reconhecer resíduos e risco; propor recipiente limpo próprio para cultivo, preparado por adulto.",
+      "rubrica": [
+        "Reconhecer resíduos e risco; propor recipiente limpo próprio para cultivo, preparado por adulto.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+      "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+      "consulta": "2026-10-30",
+      "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca"
+  ],
+  "proximosPassos": [
+    "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Prevenção de Acidentes",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "titulo": "Produtos de Limpeza"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.sol_no_ceu.medindo_sombras",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 22,
+  "unidade": "O Sol no Céu",
+  "titulo": "Medindo Sombras",
+  "bncc": [
+    "EF02CI07"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Prepare tabela com horário, comprimento em centímetros, desenho da direção e condição do céu. Faça medições autorizadas ou identifique a tabela como plano não executado.",
+      "Interprete os números fictícios de 80 cm e 40 cm e explique o que falta para dizer como estava a posição aparente do Sol."
+    ],
+    "resumo": "Para medir uma sombra, escolha um ponto inicial e um final e mantenha o mesmo critério.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia\">Sombras ao Longo do Dia</button></p><h2>Medindo Sombras</h2><h3>Para compreender</h3><p>Para medir uma sombra, escolha um ponto inicial e um final e mantenha o mesmo critério. Em objeto vertical fixo, pode-se medir da base até a extremidade da sombra no chão plano. Use régua ou fita com apoio adulto, sem mover o objeto ou bloquear a luz. Anote unidade, horário, data e condições; borda pouco definida torna a medida aproximada. Nuvens podem dificultar o registro. Não invente número quando a sombra não estiver visível.</p><h3>Exemplo comentado</h3><p>Dados fictícios: às 9 h, 80 cm; às 11 h, 40 cm, no mesmo objeto. A segunda sombra é 40 cm menor. Isso não estabelece valores que devam aparecer em todo local.</p><svg viewBox=\"0 0 600 240\" role=\"img\" aria-label=\"Dois modelos sem escala do mesmo objeto vertical: luz baixa à esquerda forma sombra comprida; luz mais alta à direita forma sombra curta. As linhas representam trajetos simplificados da luz; não indicam horários reais.\"><g stroke=\"#243b53\" stroke-width=\"3\" fill=\"none\"><path d=\"M15 200h270M315 200h270M105 200V120M415 200V120\"/><path d=\"M35 75 229.44 200M435 30 397.22 200\" stroke=\"#b26b00\"/><path d=\"M105 200h124.44M397.22 200h17.78\" stroke=\"#111\" stroke-width=\"8\"/></g><g fill=\"#f4c94d\" stroke=\"#6b5100\"><circle cx=\"35\" cy=\"75\" r=\"18\"/><circle cx=\"435\" cy=\"30\" r=\"18\"/></g><g fill=\"#111\" font-size=\"15\"><text x=\"15\" y=\"35\">Luz mais baixa</text><text x=\"320\" y=\"65\">Luz mais alta</text><text x=\"130\" y=\"228\">Sombra longa</text><text x=\"330\" y=\"228\">Sombra curta</text></g></svg><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Prepare tabela com horário, comprimento em centímetros, desenho da direção e condição do céu. Faça medições autorizadas ou identifique a tabela como plano não executado.</p><h4>Proposta 2</h4><p>Interprete os números fictícios de 80 cm e 40 cm e explique o que falta para dizer como estava a posição aparente do Sol.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://scied.ucar.edu/activity/sunshine-shadows\" target=\"_blank\" rel=\"noopener noreferrer\">UCAR Center for Science Education — Sunshine and Shadows</a></li><li><a href=\"https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">NASA — Sun As A Star: Afterschool Learning Activities</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "medindo_sombras.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Dados fictícios de um objeto: 80 cm e depois 40 cm. A sombra:",
+      "alternativas": [
+        "Aumentou 40 cm.",
+        "Diminuiu 40 cm.",
+        "Ficou igual."
+      ],
+      "correta": 1,
+      "explicacao": "80 menos 40 são 40 cm de diminuição.",
+      "bncc": [
+        "EF02CI07"
+      ]
+    },
+    {
+      "id": "medindo_sombras.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Prepare tabela com horário, comprimento em centímetros, desenho da direção e condição do céu. Faça medições autorizadas ou identifique a tabela como plano não executado.",
+      "gabarito": "Critério fixo, unidade, data e registro de incerteza; sem dados simulados tratados como reais.",
+      "rubrica": [
+        "Critério fixo, unidade, data e registro de incerteza; sem dados simulados tratados como reais.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI07"
+      ]
+    },
+    {
+      "id": "medindo_sombras.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Interprete os números fictícios de 80 cm e 40 cm e explique o que falta para dizer como estava a posição aparente do Sol.",
+      "gabarito": "Comparar corretamente e relacionar menor sombra a luz mais alta, reconhecendo necessidade de condições comparáveis.",
+      "rubrica": [
+        "Comparar corretamente e relacionar menor sombra a luz mais alta, reconhecendo necessidade de condições comparáveis.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI07"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+      "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+      "consulta": "2026-10-30",
+      "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+    },
+    {
+      "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia"
+  ],
+  "proximosPassos": [
+    "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "O Sol no Céu",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "titulo": "Medindo Sombras"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

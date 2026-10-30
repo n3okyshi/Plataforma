@@ -1,0 +1,148 @@
+{
+  "id": "cna.ef02.sol_no_ceu.prova",
+  "titulo": "Avaliação: O Sol no Céu",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF02",
+  "unidade": "O Sol no Céu",
+  "bncc": [
+    "EF02CI07",
+    "EF02CI08"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens inéditos de prova, com leitura mediada. Objetiva: acertos/5 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+  "questoes": [
+    "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.prova.1",
+    "cna.ef02.sol_no_ceu.medindo_sombras.prova.1",
+    "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.prova.1",
+    "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.prova.1",
+    "cna.ef02.sol_no_ceu.observando_o_ceu.prova.1"
+  ],
+  "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+  "avaliacaoPratica": {
+    "id": "cna.ef02.sol_no_ceu.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: O Sol no Céu",
+    "enunciado": "Uma ficha fictícia do mesmo objeto indica 9 h: sombra de 90 cm; 11 h: 50 cm; 15 h: 100 cm. Faça representação comparável, associe tamanhos à posição aparente do Sol e explique por que isso não informa uma hora universal nem comprova desaparecimento às 12 h. Proponha uma coleta segura para conferir no local. Explique também como a energia solar ilumina e aquece superfícies e como comparar Sol/sombra com instrumento apropriado, sem usar o corpo como teste.",
+    "gabarito": "Maior 100 cm, menor 50 cm, luz mais alta associada à menor sombra, limites de local/data/método, mesmo objeto/superfície e nenhuma observação direta do Sol. Relacionar energia solar à iluminação/aquecimento; comparar mesmo material e tempo, medições inicial/final pelo adulto.",
+    "rubrica": [
+      "Maior 100 cm, menor 50 cm, luz mais alta associada à menor sombra, limites de local/data/método, mesmo objeto/superfície e nenhuma observação direta do Sol. Relacionar energia solar à iluminação/aquecimento; comparar mesmo material e tempo, medições inicial/final pelo adulto.",
+      "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+    ],
+    "bncc": [
+      "EF02CI07",
+      "EF02CI08"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef02.sol_no_ceu.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: O Sol no Céu",
+        "enunciado": "Uma ficha fictícia do mesmo objeto indica 9 h: sombra de 90 cm; 11 h: 50 cm; 15 h: 100 cm. Faça representação comparável, associe tamanhos à posição aparente do Sol e explique por que isso não informa uma hora universal nem comprova desaparecimento às 12 h. Proponha uma coleta segura para conferir no local. Explique também como a energia solar ilumina e aquece superfícies e como comparar Sol/sombra com instrumento apropriado, sem usar o corpo como teste.",
+        "gabarito": "Maior 100 cm, menor 50 cm, luz mais alta associada à menor sombra, limites de local/data/método, mesmo objeto/superfície e nenhuma observação direta do Sol. Relacionar energia solar à iluminação/aquecimento; comparar mesmo material e tempo, medições inicial/final pelo adulto.",
+        "rubrica": [
+          "Maior 100 cm, menor 50 cm, luz mais alta associada à menor sombra, limites de local/data/método, mesmo objeto/superfície e nenhuma observação direta do Sol. Relacionar energia solar à iluminação/aquecimento; comparar mesmo material e tempo, medições inicial/final pelo adulto.",
+          "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+        ],
+        "bncc": [
+          "EF02CI07",
+          "EF02CI08"
+        ],
+        "aulasReferencia": [
+          "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+          "cna.ef02.sol_no_ceu.medindo_sombras",
+          "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+          "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+          "cna.ef02.sol_no_ceu.observando_o_ceu"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao1",
+      "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao2",
+      "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao1",
+      "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao2",
+      "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao1",
+      "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao2",
+      "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao1",
+      "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao2",
+      "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao1",
+      "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao2"
+    ],
+    "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+      "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+      "consulta": "2026-10-30",
+      "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+    },
+    {
+      "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+    },
+    {
+      "documento": "NASA Science — Explore Albedo Activity",
+      "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF02CI07",
+      "questoes": [
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.prova.1",
+        "cna.ef02.sol_no_ceu.medindo_sombras.prova.1",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.prova.1",
+        "cna.ef02.sol_no_ceu.observando_o_ceu.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.sol_no_ceu.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef02.sol_no_ceu.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao1",
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao2",
+        "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao1",
+        "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao2",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao1",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao2",
+        "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao1",
+        "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao2"
+      ]
+    },
+    {
+      "bncc": "EF02CI08",
+      "questoes": [
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.sol_no_ceu.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef02.sol_no_ceu.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao1",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao2"
+      ]
+    }
+  ]
+}

@@ -15402,6 +15402,3214 @@ registrarQuestoes([
     "autoria": "produção autoral assistida",
     "estado": "piloto",
     "complementar": false
+  },
+  {
+    "id": "cna.ef02.agua_luz_e_vida.luz_para_as_plantas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Água, Luz e Vida das Plantas",
+    "aulaId": "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma muda alta e muito pálida deve ser considerada saudável apenas pela altura?",
+    "opcoes": [
+      "Não; outras características e condições importam.",
+      "Sim, se o vaso for maior.",
+      "Sim."
+    ],
+    "correta": 0,
+    "explicacao": "Altura não resume o desenvolvimento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.agua_luz_e_vida.luz_para_as_plantas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Água, Luz e Vida das Plantas",
+    "aulaId": "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma semente germinou antes de receber luz. Isso mostra que a planta pode viver sempre no escuro?",
+    "opcoes": [
+      "Não; o início pode usar reservas da semente.",
+      "Sim, sem outra investigação.",
+      "Sim, com qualquer adubo."
+    ],
+    "correta": 0,
+    "explicacao": "Germinação e manutenção da vida da planta não são a mesma etapa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.agua_luz_e_vida.experiencias_com_plantas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Água, Luz e Vida das Plantas",
+    "aulaId": "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para investigar só a luz, qual fator deve permanecer comparável?",
+    "opcoes": [
+      "A condição de água das mudas.",
+      "Apenas o nome do grupo.",
+      "Nenhum."
+    ],
+    "correta": 0,
+    "explicacao": "Mudar vários fatores dificulta relacionar resultado e causa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.agua_luz_e_vida.experiencias_com_plantas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Água, Luz e Vida das Plantas",
+    "aulaId": "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Duas mudas com espécies, vasos e regas diferentes cresceram de formas distintas. O relato deve:",
+    "opcoes": [
+      "Reconhecer que vários fatores impedem isolar uma causa.",
+      "Dizer que só a água explica tudo.",
+      "Apagar as diferenças de método."
+    ],
+    "correta": 0,
+    "explicacao": "Conferir o método ajuda a delimitar a conclusão.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.agua_luz_e_vida.plantas_sem_luz.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Água, Luz e Vida das Plantas",
+    "aulaId": "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Planta de sombra significa planta que:",
+    "opcoes": [
+      "Não precisa de luz nunca.",
+      "Pode se desenvolver com luz menos intensa, conforme a espécie.",
+      "Vive fechada sem limite."
+    ],
+    "correta": 1,
+    "explicacao": "Sombra não é ausência completa de luz.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.agua_luz_e_vida.plantas_sem_luz.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Água, Luz e Vida das Plantas",
+    "aulaId": "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um registro de apenas um dia no escuro autoriza concluir que a luz é desnecessária?",
+    "opcoes": [
+      "Sim, se a muda for verde.",
+      "Não; pode haver reservas e é preciso acompanhar o desenvolvimento.",
+      "Sim, definitivamente."
+    ],
+    "correta": 1,
+    "explicacao": "Um intervalo curto não demonstra manutenção da vida sem luz.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.agua_luz_e_vida.importancia_da_agua.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Água, Luz e Vida das Plantas",
+    "aulaId": "cna.ef02.agua_luz_e_vida.importancia_da_agua",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Oferecer água demais é sempre melhor para a planta?",
+    "opcoes": [
+      "Sim, quanto mais melhor.",
+      "Sim, qualquer água serve.",
+      "Não; o excesso também pode prejudicar."
+    ],
+    "correta": 2,
+    "explicacao": "Rega adequada depende das necessidades e das condições.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.agua_luz_e_vida.importancia_da_agua.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Água, Luz e Vida das Plantas",
+    "aulaId": "cna.ef02.agua_luz_e_vida.importancia_da_agua",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um aluno afirma: água substitui luz. Qual resposta é coerente?",
+    "opcoes": [
+      "Sim, se o vaso estiver cheio.",
+      "Sim, são a mesma coisa.",
+      "Não; água e luz têm funções e ambas precisam ser consideradas."
+    ],
+    "correta": 2,
+    "explicacao": "Água não fornece a energia luminosa usada pela maioria das plantas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.horta_e_observacao.montando_uma_horta.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Horta e Observação",
+    "aulaId": "cna.ef02.horta_e_observacao.montando_uma_horta",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual decisão precisa ser tomada antes do plantio escolar?",
+    "opcoes": [
+      "Quem cuida apenas no dia da festa.",
+      "Local, espécie, água, luz e responsáveis.",
+      "Que toda planta receberá a mesma rega."
+    ],
+    "correta": 1,
+    "explicacao": "O cultivo depende de condições e continuidade do cuidado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.horta_e_observacao.montando_uma_horta.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Horta e Observação",
+    "aulaId": "cna.ef02.horta_e_observacao.montando_uma_horta",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um croqui pronto prova que a importância da água foi investigada?",
+    "opcoes": [
+      "Sim, sem acompanhar plantas.",
+      "Não; é preciso executar e registrar uma investigação adequada.",
+      "Sim, basta desenhar."
+    ],
+    "correta": 1,
+    "explicacao": "Planejamento e evidência de execução são distintos.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.horta_e_observacao.registrando_o_crescimento.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Horta e Observação",
+    "aulaId": "cna.ef02.horta_e_observacao.registrando_o_crescimento",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "De 4 para 6 cm, o aumento foi:",
+    "opcoes": [
+      "6 cm.",
+      "10 cm.",
+      "2 cm."
+    ],
+    "correta": 2,
+    "explicacao": "Crescimento medido é diferença entre alturas registradas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.horta_e_observacao.registrando_o_crescimento.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Horta e Observação",
+    "aulaId": "cna.ef02.horta_e_observacao.registrando_o_crescimento",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Faltou a observação de uma semana. Como preencher o diário?",
+    "opcoes": [
+      "Apagar as datas anteriores.",
+      "Inventar valor entre os outros.",
+      "Registrar que a medida não foi realizada."
+    ],
+    "correta": 2,
+    "explicacao": "Lacunas devem ser visíveis, sem fabricar dados.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.horta_e_observacao.diario_da_planta.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Horta e Observação",
+    "aulaId": "cna.ef02.horta_e_observacao.diario_da_planta",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "No diário, hipótese e observação devem:",
+    "opcoes": [
+      "Ser substituídas por elogios.",
+      "Ser sempre misturadas sem indicação.",
+      "Ficar identificadas para distinguir dado e explicação possível."
+    ],
+    "correta": 2,
+    "explicacao": "Separar os tipos de registro torna o relato verificável.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.horta_e_observacao.diario_da_planta.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Horta e Observação",
+    "aulaId": "cna.ef02.horta_e_observacao.diario_da_planta",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não houve fruto durante o acompanhamento. Deve-se:",
+    "opcoes": [
+      "Desenhar como se tivesse ocorrido.",
+      "Concluir que a planta jamais terá frutos.",
+      "Registrar que frutos não foram observados naquele período."
+    ],
+    "correta": 2,
+    "explicacao": "A duração do diário limita o que se pode afirmar.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.horta_e_observacao.colheita_e_cuidados.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Horta e Observação",
+    "aulaId": "cna.ef02.horta_e_observacao.colheita_e_cuidados",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual associação está correta?",
+    "opcoes": [
+      "Tomate é raiz.",
+      "Alface consumida é sempre semente.",
+      "Cenoura é exemplo de raiz utilizada como alimento."
+    ],
+    "correta": 2,
+    "explicacao": "Identificar a parte ajuda a relacionar alimento e planta.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.horta_e_observacao.colheita_e_cuidados.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Horta e Observação",
+    "aulaId": "cna.ef02.horta_e_observacao.colheita_e_cuidados",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma planta se parece com hortaliça conhecida. A criança pode comer para confirmar?",
+    "opcoes": [
+      "Sim, uma pequena prova resolve.",
+      "Sim, se a folha for verde.",
+      "Não; identificação e preparo cabem a adulto responsável."
+    ],
+    "correta": 2,
+    "explicacao": "Semelhança visual não garante segurança alimentar.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.horta_e_observacao.compartilhando_descobertas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Horta e Observação",
+    "aulaId": "cna.ef02.horta_e_observacao.compartilhando_descobertas",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma boa apresentação deve incluir:",
+    "opcoes": [
+      "Pergunta, registros e limites do que foi observado.",
+      "Dados inventados para completar o cartaz.",
+      "Somente a conclusão esperada."
+    ],
+    "correta": 0,
+    "explicacao": "Comunicar o método e os limites permite avaliar a conclusão.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.horta_e_observacao.compartilhando_descobertas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Horta e Observação",
+    "aulaId": "cna.ef02.horta_e_observacao.compartilhando_descobertas",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "A observação contrariou a previsão da turma. O relato deve:",
+    "opcoes": [
+      "Mostrar resultado e discutir possíveis explicações e limites.",
+      "Esconder o resultado.",
+      "Trocar a medida para combinar."
+    ],
+    "correta": 0,
+    "explicacao": "Investigar exige fidelidade ao que foi registrado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.caule.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.caule",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um caule verde e flexível pode:",
+    "opcoes": [
+      "Existir apenas em árvores.",
+      "Absorver água do solo no lugar das raízes.",
+      "Sustentar folhas e transportar substâncias."
+    ],
+    "correta": 2,
+    "explicacao": "Há diversidade de caules e funções integradas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.caule.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.caule",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual comparação está correta?",
+    "opcoes": [
+      "Somente tronco marrom é caule.",
+      "Caule nunca se liga às folhas.",
+      "Tronco lenhoso e caule verde podem exercer funções de caule."
+    ],
+    "correta": 2,
+    "explicacao": "Cor ou dureza isoladas não definem a parte da planta.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.folhas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.folhas",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Muitas folhas ajudam a planta a:",
+    "opcoes": [
+      "Produzir alimento usando luz.",
+      "Retirar alimento pronto de qualquer pedra.",
+      "Viver sem água sempre."
+    ],
+    "correta": 0,
+    "explicacao": "Fotossíntese utiliza luz, água e gás carbônico.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.folhas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.folhas",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Duas folhas de formatos diferentes podem realizar funções semelhantes?",
+    "opcoes": [
+      "Sim; forma diferente não elimina a função.",
+      "Não, apenas a maior produz alimento.",
+      "Não, só folhas iguais funcionam."
+    ],
+    "correta": 0,
+    "explicacao": "Diversidade de forma não equivale a diferença total de função.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.flores.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.flores",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "A flor de muitas plantas está relacionada principalmente à:",
+    "opcoes": [
+      "Reprodução.",
+      "Substituição permanente das raízes.",
+      "Absorção de toda a água do solo."
+    ],
+    "correta": 0,
+    "explicacao": "Flores são estruturas reprodutivas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.flores.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.flores",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um inseto pousou em uma flor uma vez. O registro permite afirmar:",
+    "opcoes": [
+      "Que houve visita, cuja função exige mais observação.",
+      "Que toda visita poliniza com certeza.",
+      "Que todas as flores precisam daquele inseto."
+    ],
+    "correta": 0,
+    "explicacao": "O dado observado deve ser distinguido da explicação ainda não confirmada.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.frutos_e_sementes.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.frutos_e_sementes",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Em muitos frutos, as sementes ficam:",
+    "opcoes": [
+      "Protegidas pelo fruto.",
+      "Sempre no lugar das folhas.",
+      "Dentro de raízes, obrigatoriamente."
+    ],
+    "correta": 0,
+    "explicacao": "Frutos se relacionam com proteção e dispersão de sementes.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.frutos_e_sementes.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.frutos_e_sementes",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Tomate é servido em uma salada salgada. Botanicamente ele pode ser:",
+    "opcoes": [
+      "Fruto do tomateiro.",
+      "Raiz do tomateiro.",
+      "Caule sem sementes."
+    ],
+    "correta": 0,
+    "explicacao": "O uso culinário não determina a parte da planta.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.funcoes_de_cada_parte.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.funcoes_de_cada_parte",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual relação está adequada?",
+    "opcoes": [
+      "Raiz absorve água; caule participa do transporte.",
+      "Flor absorve toda a água do solo.",
+      "Fruto substitui todas as folhas."
+    ],
+    "correta": 0,
+    "explicacao": "Funções se articulam entre as partes.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.funcoes_de_cada_parte.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.funcoes_de_cada_parte",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um desenho mostra raiz, caule, folhas, flor e fruto juntos. Isso significa que toda planta apresenta tudo assim em qualquer dia?",
+    "opcoes": [
+      "Não; é um modelo simplificado de uma planta com flores.",
+      "Sim, toda planta tem tomate.",
+      "Sim, sem exceção."
+    ],
+    "correta": 0,
+    "explicacao": "Esquemas selecionam características e não representam toda a diversidade.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.plantas_e_outros_seres.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.plantas_e_outros_seres",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Ver um inseto numa folha prova que ele é prejudicial?",
+    "opcoes": [
+      "Não; é preciso observar a relação e possíveis danos.",
+      "Sim, basta sua cor.",
+      "Sim, todo inseto é praga."
+    ],
+    "correta": 0,
+    "explicacao": "Presença e dano não são a mesma informação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.partes_das_plantas.plantas_e_outros_seres.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "aulaId": "cna.ef02.partes_das_plantas.plantas_e_outros_seres",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual exemplo mostra uma relação entre planta e ambiente?",
+    "opcoes": [
+      "Uma planta oferece abrigo e depende de água e luz.",
+      "Toda árvore existe apenas para pessoas.",
+      "Todo fruto é venenoso."
+    ],
+    "correta": 0,
+    "explicacao": "A planta participa de relações e tem necessidades próprias.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual registro descreve uma característica observável?",
+    "opcoes": [
+      "Folha longa e estreita.",
+      "Planta melhor que todas.",
+      "Planta de sorte."
+    ],
+    "correta": 0,
+    "explicacao": "Forma e tamanho permitem comparação; julgamentos não substituem descrição.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não havia flores visíveis em uma observação. O registro correto é:",
+    "opcoes": [
+      "Flores não observadas nesta visita.",
+      "Não é uma planta.",
+      "Nunca terá flores."
+    ],
+    "correta": 0,
+    "explicacao": "Um momento não mostra todas as fases da vida.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Todas as plantas precisam do mesmo local e da mesma quantidade de água?",
+    "opcoes": [
+      "Sim; basta escolher a mais alta.",
+      "Não; as necessidades variam.",
+      "Sim; qualquer local serve."
+    ],
+    "correta": 1,
+    "explicacao": "Há diversidade de necessidades entre espécies.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Duas plantas diferentes vivem em ambientes distintos. Isso prova que só a luz explica suas formas?",
+    "opcoes": [
+      "Sim, sempre.",
+      "Não; espécie e outras condições também diferem.",
+      "Sim, sem nenhum registro."
+    ],
+    "correta": 1,
+    "explicacao": "Comparações têm limites quando várias condições mudam.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.animais_do_entorno.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.animais_do_entorno",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma observação respeitosa de um ninho deve:",
+    "opcoes": [
+      "Abrir para contar filhotes.",
+      "Acontecer de longe, com adulto, sem perturbar.",
+      "Incluir captura dos adultos."
+    ],
+    "correta": 1,
+    "explicacao": "O estudo preserva animais e não expõe crianças.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.animais_do_entorno.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.animais_do_entorno",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não vimos formigas em uma visita. Podemos concluir:",
+    "opcoes": [
+      "Todas morreram.",
+      "Não foram observadas naquele período.",
+      "Nunca existem no local."
+    ],
+    "correta": 1,
+    "explicacao": "Um registro depende do local, horário e condições da visita.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual exemplo relaciona ser vivo e ambiente?",
+    "opcoes": [
+      "Uma árvore é melhor por ser alta.",
+      "Todo inseto causa dano.",
+      "Uma ave usa ramos como apoio."
+    ],
+    "correta": 2,
+    "explicacao": "A relação descreve um uso do ambiente, sem julgamento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma turma previu que haveria menos sombra após retirar árvores. Para relatar que ocorreu, precisa:",
+    "opcoes": [
+      "Inventar uma medida.",
+      "Só repetir a previsão.",
+      "Consultar registros comparáveis da sombra."
+    ],
+    "correta": 2,
+    "explicacao": "Resultado exige evidência além da hipótese.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.observar_uma_planta.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.observar_uma_planta",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para acompanhar uma planta ao longo do tempo, é importante:",
+    "opcoes": [
+      "Apagar o primeiro registro.",
+      "Trocar de planta sem avisar.",
+      "Identificar a mesma planta e as datas."
+    ],
+    "correta": 2,
+    "explicacao": "Identificação e datas sustentam comparação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.observar_uma_planta.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.observar_uma_planta",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma folha não pôde ser contada por estar encoberta. O melhor é:",
+    "opcoes": [
+      "Inventar um número.",
+      "Arrancar folhas ao redor.",
+      "Registrar a limitação sem danificar a planta."
+    ],
+    "correta": 2,
+    "explicacao": "Limites de observação fazem parte da investigação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+    "bncc": [
+      "EF02CI04",
+      "EF02CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma planta está murcha. Isso prova falta de água?",
+    "opcoes": [
+      "Não; é necessário avaliar as condições.",
+      "Sim; deve receber o máximo de água.",
+      "Sim; todas precisam da mesma rega."
+    ],
+    "correta": 0,
+    "explicacao": "Sintomas visíveis podem ter diferentes causas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+    "bncc": [
+      "EF02CI04",
+      "EF02CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual plano de cuidado é mais adequado?",
+    "opcoes": [
+      "Conhecer a espécie e acompanhar água e luz com adulto.",
+      "Testar produto de limpeza no vaso.",
+      "Regar toda planta com o mesmo volume."
+    ],
+    "correta": 0,
+    "explicacao": "Cuidado depende das necessidades e das condições.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Prevenção de Acidentes",
+    "aulaId": "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "O que fazer ao encontrar um frasco inflamável perto de uma chama?",
+    "opcoes": [
+      "Afastar-se e avisar um adulto.",
+      "Abrir o frasco para investigar.",
+      "Testar uma gota no fogo."
+    ],
+    "correta": 0,
+    "explicacao": "Não se experimenta um perigo para reconhecê-lo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+        "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+        "consulta": "2026-10-30",
+        "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Prevenção de Acidentes",
+    "aulaId": "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma turma quer demonstrar perigo do álcool. Qual proposta é adequada?",
+    "opcoes": [
+      "Discutir cartões de situações sem álcool real.",
+      "Passar álcool em um brinquedo.",
+      "Acender pequena quantidade."
+    ],
+    "correta": 0,
+    "explicacao": "Reconhecer riscos não exige reproduzi-los.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+        "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+        "consulta": "2026-10-30",
+        "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Prevenção de Acidentes",
+    "aulaId": "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um fio parece danificado. A criança deve:",
+    "opcoes": [
+      "Afastar-se e avisar um adulto.",
+      "Cobrir o fio com a mão.",
+      "Tocar para saber se dá choque."
+    ],
+    "correta": 0,
+    "explicacao": "A avaliação do risco não é feita pelo toque.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+        "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+        "consulta": "2026-10-30",
+        "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+      },
+      {
+        "documento": "Ministério de Minas e Energia — Saiba como evitar acidentes elétricos dentro de casa",
+        "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/julho-26/saiba-como-evitar-acidentes-eletricos-dentro-de-casa",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de prevenção consultados: fios, tomadas e água. Adaptados para a criança se afastar e avisar; reparos e acionamentos cabem a adultos/profissionais, sem testes em rede elétrica."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Prevenção de Acidentes",
+    "aulaId": "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual plano evita reproduzir o perigo na aula?",
+    "opcoes": [
+      "Analisar situações desenhadas e medidas preventivas.",
+      "Experimentar metal em tomada.",
+      "Abrir carregador."
+    ],
+    "correta": 0,
+    "explicacao": "A discussão ocorre com representações seguras.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+        "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+        "consulta": "2026-10-30",
+        "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+      },
+      {
+        "documento": "Ministério de Minas e Energia — Saiba como evitar acidentes elétricos dentro de casa",
+        "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/julho-26/saiba-como-evitar-acidentes-eletricos-dentro-de-casa",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de prevenção consultados: fios, tomadas e água. Adaptados para a criança se afastar e avisar; reparos e acionamentos cabem a adultos/profissionais, sem testes em rede elétrica."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Prevenção de Acidentes",
+    "aulaId": "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um líquido colorido sem identificação deve ser:",
+    "opcoes": [
+      "Deixado sem manuseio, com aviso ao adulto.",
+      "Provado em pequena quantidade.",
+      "Cheirado para descobrir."
+    ],
+    "correta": 0,
+    "explicacao": "A aparência não permite identificar com segurança.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+        "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+        "consulta": "2026-10-30",
+        "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Prevenção de Acidentes",
+    "aulaId": "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual recipiente é inadequado para um brinquedo de criança?",
+    "opcoes": [
+      "Frasco usado de produto de limpeza.",
+      "Caixa limpa própria para atividade.",
+      "Papelão limpo selecionado pelo adulto."
+    ],
+    "correta": 0,
+    "explicacao": "Resíduos podem permanecer em embalagens usadas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+        "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+        "consulta": "2026-10-30",
+        "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Prevenção de Acidentes",
+    "aulaId": "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Medicamento de um familiar pode ser tomado pela criança porque os sintomas parecem iguais?",
+    "opcoes": [
+      "Não; a escolha precisa de orientação apropriada.",
+      "Sim, se tiver a mesma cor de um doce.",
+      "Sim, se um colega recomendar."
+    ],
+    "correta": 0,
+    "explicacao": "Sintomas e aparência não definem indicação ou dose.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+        "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+        "consulta": "2026-10-30",
+        "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Prevenção de Acidentes",
+    "aulaId": "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "No teatro escolar, como representar um remédio?",
+    "opcoes": [
+      "Com cartão de papel claramente identificado como modelo.",
+      "Com produto retirado de casa sem autorização.",
+      "Com comprimido verdadeiro."
+    ],
+    "correta": 0,
+    "explicacao": "Representar não exige trazer ou usar medicamentos reais.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+        "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+        "consulta": "2026-10-30",
+        "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.areia_e_solo.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.areia_e_solo",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "No exemplo, areia aumentou de 24 °C para 32 °C. O aumento foi:",
+    "opcoes": [
+      "32 °C.",
+      "56 °C.",
+      "8 °C."
+    ],
+    "correta": 2,
+    "explicacao": "A variação é a diferença entre leitura final e inicial.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.areia_e_solo.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.areia_e_solo",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "A areia estava seca e o solo muito úmido. A diferença de aquecimento pode ser atribuída somente ao nome do material?",
+    "opcoes": [
+      "Sim, não é necessário medir.",
+      "Sim, com certeza.",
+      "Não; a umidade também influencia."
+    ],
+    "correta": 2,
+    "explicacao": "Condições diferentes limitam a atribuição de causa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para investigar só a cor, a melhor comparação usa:",
+    "opcoes": [
+      "Uma peça ao Sol e outra no congelador.",
+      "Materiais e tamanhos diferentes.",
+      "Mesmo material e tamanho, cores distintas."
+    ],
+    "correta": 2,
+    "explicacao": "Controlar condições ajuda a investigar o fator cor.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "A peça escura aqueceu mais num ensaio. O relato correto é:",
+    "opcoes": [
+      "Toda superfície escura tem sempre a mesma temperatura.",
+      "Não precisamos informar o método.",
+      "Nestas condições, a peça escura teve maior aumento medido."
+    ],
+    "correta": 2,
+    "explicacao": "A conclusão deve acompanhar o alcance do ensaio.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.superficies_metalicas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.superficies_metalicas",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma peça metálica brilhante ao Sol é sempre fria?",
+    "opcoes": [
+      "Não; brilho não garante temperatura segura.",
+      "Sim, porque reflete luz.",
+      "Sim, basta tocar para conferir."
+    ],
+    "correta": 0,
+    "explicacao": "Refletir parte da luz não impede absorver energia e aquecer.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.superficies_metalicas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.superficies_metalicas",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para avaliar um escorregador muito exposto ao Sol, a criança deve:",
+    "opcoes": [
+      "Pedir avaliação segura ao adulto.",
+      "Encostar o rosto.",
+      "Pisar descalça."
+    ],
+    "correta": 0,
+    "explicacao": "O corpo não é instrumento de teste de superfície possivelmente quente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.reflexao_da_luz.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.reflexao_da_luz",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Refletir luz significa:",
+    "opcoes": [
+      "Devolver parte da luz recebida ao ambiente.",
+      "Eliminar sempre todo aquecimento.",
+      "Deixar toda a luz atravessar a superfície."
+    ],
+    "correta": 0,
+    "explicacao": "Parte da luz pode ser refletida e parte absorvida.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.reflexao_da_luz.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.reflexao_da_luz",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um papel parece mais claro sob a lanterna. Isso permite informar sua temperatura exata?",
+    "opcoes": [
+      "Não; temperatura exige avaliação apropriada.",
+      "Sim, qualquer valor serve.",
+      "Sim, sem instrumento."
+    ],
+    "correta": 0,
+    "explicacao": "Percepção de brilho não fornece uma medida térmica.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Na tabela fictícia, a água passou de 24 para 27 °C. Seu aumento foi:",
+    "opcoes": [
+      "51 °C.",
+      "3 °C.",
+      "27 °C."
+    ],
+    "correta": 1,
+    "explicacao": "A comparação usa a variação entre início e fim.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um grupo mede só temperaturas finais, que começaram diferentes. O que melhora o estudo?",
+    "opcoes": [
+      "Apagar valores inconvenientes.",
+      "Registrar início e fim para comparar aumentos.",
+      "Testar com o pé."
+    ],
+    "correta": 1,
+    "explicacao": "Sem início não se conhece quanto cada superfície aqueceu.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Com o mesmo objeto fixo, Sol mais baixo costuma se associar a sombra:",
+    "opcoes": [
+      "De tamanho sem relação com a luz.",
+      "Mais comprida.",
+      "Mais curta, porque o Sol está mais perto do horizonte."
+    ],
+    "correta": 1,
+    "explicacao": "A inclinação da luz altera a projeção da sombra.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma sombra mudou de tamanho entre manhã e outro horário. Para comparar, precisamos saber:",
+    "opcoes": [
+      "Somente o comprimento final, sem identificar o objeto.",
+      "Se objeto e local foram mantidos e quais horários foram usados.",
+      "Somente uma previsão sem indicar a hora."
+    ],
+    "correta": 1,
+    "explicacao": "Condições e horários tornam o registro interpretável.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.medindo_sombras.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.medindo_sombras",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Dados fictícios de um objeto: 80 cm e depois 40 cm. A sombra:",
+    "opcoes": [
+      "Aumentou 40 cm.",
+      "Diminuiu 40 cm.",
+      "Ficou igual."
+    ],
+    "correta": 1,
+    "explicacao": "80 menos 40 são 40 cm de diminuição.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.medindo_sombras.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.medindo_sombras",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Nuvens impediram identificar o fim da sombra. Deve-se:",
+    "opcoes": [
+      "Mudar o objeto sem registrar.",
+      "Registrar a dificuldade e tentar em outra condição segura.",
+      "Inventar uma medida exata."
+    ],
+    "correta": 1,
+    "explicacao": "Ausência de medida não autoriza fabricar dados.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual comparação investiga aquecimento com mais segurança?",
+    "opcoes": [
+      "Olhar o Sol por uma lupa.",
+      "Pedir leitura de termômetro adequado ao adulto.",
+      "Pisar descalço nas superfícies."
+    ],
+    "correta": 1,
+    "explicacao": "O corpo e a visão direta não são instrumentos seguros para esse teste.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Na sombra, durante o dia, ainda é possível enxergar porque:",
+    "opcoes": [
+      "A luz fica presa para sempre debaixo do objeto.",
+      "Pode haver luz espalhada ou refletida no ambiente.",
+      "Não existe nenhuma luz."
+    ],
+    "correta": 1,
+    "explicacao": "Sombra da luz direta não equivale a escuridão completa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "A menor sombra do dia desaparece sempre exatamente às 12 h?",
+    "opcoes": [
+      "Sim, mesmo sem Sol visível.",
+      "Não; local e data influenciam, e ela pode não desaparecer.",
+      "Sim, em qualquer lugar."
+    ],
+    "correta": 1,
+    "explicacao": "Não há uma regra universal de desaparecimento às 12 h.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um desenho mostra apenas sombra curta, sem local ou data. Podemos concluir:",
+    "opcoes": [
+      "Que são exatamente 12 h.",
+      "Que faltam informações para determinar a hora.",
+      "Que é meia-noite."
+    ],
+    "correta": 1,
+    "explicacao": "Inferência de horário requer referências de observação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.observando_o_ceu.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.observando_o_ceu",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para comparar desenhos do céu, ajuda manter:",
+    "opcoes": [
+      "Só o mesmo lápis.",
+      "Referências fixas e horários registrados.",
+      "A data apagada."
+    ],
+    "correta": 1,
+    "explicacao": "Referências permitem interpretar posições e mudanças.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.observando_o_ceu.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.observando_o_ceu",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "O Sol ficou coberto por nuvens. O registro deve:",
+    "opcoes": [
+      "Inventar sombra bem definida.",
+      "Informar as nuvens e a limitação da observação.",
+      "Dizer que deixou de existir."
+    ],
+    "correta": 1,
+    "explicacao": "Condições do céu integram os dados e os limites do estudo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
   }
 ]);
 registrarProvas({
@@ -23133,6 +26341,955 @@ registrarProvas({
         ],
         "atividadesPraticas": [
           "cna.ef09.sustentabilidade.problemas_ambientais_locais#problemas_ambientais_locais.investigacao"
+        ]
+      }
+    ]
+  },
+  "cna.ef02.sol_no_ceu.prova": {
+    "id": "cna.ef02.sol_no_ceu.prova",
+    "titulo": "Avaliação: O Sol no Céu",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "bncc": [
+      "EF02CI07",
+      "EF02CI08"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens inéditos de prova, com leitura mediada. Objetiva: acertos/5 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+    "questoes": [
+      "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.prova.1",
+      "cna.ef02.sol_no_ceu.medindo_sombras.prova.1",
+      "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.prova.1",
+      "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.prova.1",
+      "cna.ef02.sol_no_ceu.observando_o_ceu.prova.1"
+    ],
+    "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+    "avaliacaoPratica": {
+      "id": "cna.ef02.sol_no_ceu.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: O Sol no Céu",
+      "enunciado": "Uma ficha fictícia do mesmo objeto indica 9 h: sombra de 90 cm; 11 h: 50 cm; 15 h: 100 cm. Faça representação comparável, associe tamanhos à posição aparente do Sol e explique por que isso não informa uma hora universal nem comprova desaparecimento às 12 h. Proponha uma coleta segura para conferir no local. Explique também como a energia solar ilumina e aquece superfícies e como comparar Sol/sombra com instrumento apropriado, sem usar o corpo como teste.",
+      "gabarito": "Maior 100 cm, menor 50 cm, luz mais alta associada à menor sombra, limites de local/data/método, mesmo objeto/superfície e nenhuma observação direta do Sol. Relacionar energia solar à iluminação/aquecimento; comparar mesmo material e tempo, medições inicial/final pelo adulto.",
+      "rubrica": [
+        "Maior 100 cm, menor 50 cm, luz mais alta associada à menor sombra, limites de local/data/método, mesmo objeto/superfície e nenhuma observação direta do Sol. Relacionar energia solar à iluminação/aquecimento; comparar mesmo material e tempo, medições inicial/final pelo adulto.",
+        "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+      ],
+      "bncc": [
+        "EF02CI07",
+        "EF02CI08"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef02.sol_no_ceu.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: O Sol no Céu",
+          "enunciado": "Uma ficha fictícia do mesmo objeto indica 9 h: sombra de 90 cm; 11 h: 50 cm; 15 h: 100 cm. Faça representação comparável, associe tamanhos à posição aparente do Sol e explique por que isso não informa uma hora universal nem comprova desaparecimento às 12 h. Proponha uma coleta segura para conferir no local. Explique também como a energia solar ilumina e aquece superfícies e como comparar Sol/sombra com instrumento apropriado, sem usar o corpo como teste.",
+          "gabarito": "Maior 100 cm, menor 50 cm, luz mais alta associada à menor sombra, limites de local/data/método, mesmo objeto/superfície e nenhuma observação direta do Sol. Relacionar energia solar à iluminação/aquecimento; comparar mesmo material e tempo, medições inicial/final pelo adulto.",
+          "rubrica": [
+            "Maior 100 cm, menor 50 cm, luz mais alta associada à menor sombra, limites de local/data/método, mesmo objeto/superfície e nenhuma observação direta do Sol. Relacionar energia solar à iluminação/aquecimento; comparar mesmo material e tempo, medições inicial/final pelo adulto.",
+            "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+          ],
+          "bncc": [
+            "EF02CI07",
+            "EF02CI08"
+          ],
+          "aulasReferencia": [
+            "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+            "cna.ef02.sol_no_ceu.medindo_sombras",
+            "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+            "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+            "cna.ef02.sol_no_ceu.observando_o_ceu"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao1",
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao2",
+        "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao1",
+        "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao2",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao1",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao2",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao1",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao2",
+        "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao1",
+        "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao2"
+      ],
+      "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF02CI07",
+        "questoes": [
+          "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.prova.1",
+          "cna.ef02.sol_no_ceu.medindo_sombras.prova.1",
+          "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.prova.1",
+          "cna.ef02.sol_no_ceu.observando_o_ceu.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.sol_no_ceu.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef02.sol_no_ceu.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao1",
+          "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao2",
+          "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao1",
+          "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao2",
+          "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao1",
+          "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao2",
+          "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao1",
+          "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao2"
+        ]
+      },
+      {
+        "bncc": "EF02CI08",
+        "questoes": [
+          "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.sol_no_ceu.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef02.sol_no_ceu.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao1",
+          "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef02.agua_luz_e_vida.prova": {
+    "id": "cna.ef02.agua_luz_e_vida.prova",
+    "titulo": "Avaliação: Água, Luz e Vida das Plantas",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Água, Luz e Vida das Plantas",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens inéditos de prova, com leitura mediada. Objetiva: acertos/4 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+    "questoes": [
+      "cna.ef02.agua_luz_e_vida.luz_para_as_plantas.prova.1",
+      "cna.ef02.agua_luz_e_vida.experiencias_com_plantas.prova.1",
+      "cna.ef02.agua_luz_e_vida.plantas_sem_luz.prova.1",
+      "cna.ef02.agua_luz_e_vida.importancia_da_agua.prova.1"
+    ],
+    "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+    "avaliacaoPratica": {
+      "id": "cna.ef02.agua_luz_e_vida.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Água, Luz e Vida das Plantas",
+      "enunciado": "Duas mudas fictícias receberam cuidados diferentes: A ficou com pouca luz e muita água; B, com mais luz e rega orientada. A cresceu mais alta e pálida. Avalie por que altura não basta e por que não se pode apontar uma única causa. Redesenhe o estudo para investigar separadamente água e luz, com três tipos de registro e critério de interrupção.",
+      "gabarito": "Reconhecer múltiplas variáveis e palidez, comparar mesma espécie e condições, variar um fator por estudo, registrar datas/altura/cor/folhas e preservar cuidado; não inventar resultados.",
+      "rubrica": [
+        "Reconhecer múltiplas variáveis e palidez, comparar mesma espécie e condições, variar um fator por estudo, registrar datas/altura/cor/folhas e preservar cuidado; não inventar resultados.",
+        "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef02.agua_luz_e_vida.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Água, Luz e Vida das Plantas",
+          "enunciado": "Duas mudas fictícias receberam cuidados diferentes: A ficou com pouca luz e muita água; B, com mais luz e rega orientada. A cresceu mais alta e pálida. Avalie por que altura não basta e por que não se pode apontar uma única causa. Redesenhe o estudo para investigar separadamente água e luz, com três tipos de registro e critério de interrupção.",
+          "gabarito": "Reconhecer múltiplas variáveis e palidez, comparar mesma espécie e condições, variar um fator por estudo, registrar datas/altura/cor/folhas e preservar cuidado; não inventar resultados.",
+          "rubrica": [
+            "Reconhecer múltiplas variáveis e palidez, comparar mesma espécie e condições, variar um fator por estudo, registrar datas/altura/cor/folhas e preservar cuidado; não inventar resultados.",
+            "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+          ],
+          "bncc": [
+            "EF02CI05"
+          ],
+          "aulasReferencia": [
+            "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
+            "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
+            "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
+            "cna.ef02.agua_luz_e_vida.importancia_da_agua"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao1",
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao2",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao1",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao2",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao1",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao2",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao1",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao2"
+      ],
+      "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF02CI05",
+        "questoes": [
+          "cna.ef02.agua_luz_e_vida.luz_para_as_plantas.prova.1",
+          "cna.ef02.agua_luz_e_vida.experiencias_com_plantas.prova.1",
+          "cna.ef02.agua_luz_e_vida.plantas_sem_luz.prova.1",
+          "cna.ef02.agua_luz_e_vida.importancia_da_agua.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.agua_luz_e_vida.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef02.agua_luz_e_vida.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao1",
+          "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao2",
+          "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao1",
+          "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao2",
+          "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao1",
+          "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao2",
+          "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao1",
+          "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef02.horta_e_observacao.prova": {
+    "id": "cna.ef02.horta_e_observacao.prova",
+    "titulo": "Avaliação: Horta e Observação",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Horta e Observação",
+    "bncc": [
+      "EF02CI04",
+      "EF02CI05",
+      "EF02CI06"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens inéditos de prova, com leitura mediada. Objetiva: acertos/5 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+    "questoes": [
+      "cna.ef02.horta_e_observacao.montando_uma_horta.prova.1",
+      "cna.ef02.horta_e_observacao.registrando_o_crescimento.prova.1",
+      "cna.ef02.horta_e_observacao.diario_da_planta.prova.1",
+      "cna.ef02.horta_e_observacao.colheita_e_cuidados.prova.1",
+      "cna.ef02.horta_e_observacao.compartilhando_descobertas.prova.1"
+    ],
+    "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+    "avaliacaoPratica": {
+      "id": "cna.ef02.horta_e_observacao.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Horta e Observação",
+      "enunciado": "Produza um plano de acompanhamento de horta que permita investigar uma pergunta sobre água ou luz. Preveja identificação, registros em três datas, comparação e responsáveis. Explique que partes de alface, cenoura e tomate são usadas como alimento. Depois apresente registros reais, se disponíveis, e uma conclusão com limite; sem aplicação, declare observação pendente.",
+      "gabarito": "Plano viável, controle de variáveis, dados com origem e método, folha/raiz/fruto e funções, colheita/preparo pelo adulto. Não atribuir execução ao planejamento.",
+      "rubrica": [
+        "Plano viável, controle de variáveis, dados com origem e método, folha/raiz/fruto e funções, colheita/preparo pelo adulto. Não atribuir execução ao planejamento.",
+        "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+      ],
+      "bncc": [
+        "EF02CI04",
+        "EF02CI05",
+        "EF02CI06"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef02.horta_e_observacao.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Horta e Observação",
+          "enunciado": "Produza um plano de acompanhamento de horta que permita investigar uma pergunta sobre água ou luz. Preveja identificação, registros em três datas, comparação e responsáveis. Explique que partes de alface, cenoura e tomate são usadas como alimento. Depois apresente registros reais, se disponíveis, e uma conclusão com limite; sem aplicação, declare observação pendente.",
+          "gabarito": "Plano viável, controle de variáveis, dados com origem e método, folha/raiz/fruto e funções, colheita/preparo pelo adulto. Não atribuir execução ao planejamento.",
+          "rubrica": [
+            "Plano viável, controle de variáveis, dados com origem e método, folha/raiz/fruto e funções, colheita/preparo pelo adulto. Não atribuir execução ao planejamento.",
+            "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+          ],
+          "bncc": [
+            "EF02CI04",
+            "EF02CI05",
+            "EF02CI06"
+          ],
+          "aulasReferencia": [
+            "cna.ef02.horta_e_observacao.montando_uma_horta",
+            "cna.ef02.horta_e_observacao.registrando_o_crescimento",
+            "cna.ef02.horta_e_observacao.diario_da_planta",
+            "cna.ef02.horta_e_observacao.colheita_e_cuidados",
+            "cna.ef02.horta_e_observacao.compartilhando_descobertas"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao1",
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao2",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao1",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao2",
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao1",
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao2",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao1",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao2",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao1",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao2"
+      ],
+      "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF02CI04",
+        "questoes": [
+          "cna.ef02.horta_e_observacao.diario_da_planta.prova.1",
+          "cna.ef02.horta_e_observacao.compartilhando_descobertas.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.horta_e_observacao.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef02.horta_e_observacao.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao1",
+          "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao2",
+          "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao1",
+          "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao2"
+        ]
+      },
+      {
+        "bncc": "EF02CI05",
+        "questoes": [
+          "cna.ef02.horta_e_observacao.montando_uma_horta.prova.1",
+          "cna.ef02.horta_e_observacao.registrando_o_crescimento.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.horta_e_observacao.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef02.horta_e_observacao.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao1",
+          "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao2",
+          "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao1",
+          "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao2"
+        ]
+      },
+      {
+        "bncc": "EF02CI06",
+        "questoes": [
+          "cna.ef02.horta_e_observacao.colheita_e_cuidados.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.horta_e_observacao.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef02.horta_e_observacao.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao1",
+          "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef02.prevencao_de_acidentes.prova": {
+    "id": "cna.ef02.prevencao_de_acidentes.prova",
+    "titulo": "Avaliação: Prevenção de Acidentes",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Prevenção de Acidentes",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "4 itens inéditos de prova, com leitura mediada. Objetiva: acertos/4 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+    "questoes": [
+      "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo.prova.1",
+      "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca.prova.1",
+      "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza.prova.1",
+      "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados.prova.1"
+    ],
+    "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+    "avaliacaoPratica": {
+      "id": "cna.ef02.prevencao_de_acidentes.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Prevenção de Acidentes",
+      "enunciado": "Uma sala fictícia tem carregador com fio danificado, frasco de limpeza em garrafa de bebida e comprimidos sobre uma mesa baixa. Faça um plano para o adulto corrigir cada risco e um recado indicando o que a criança deve fazer sem tocar em nenhum item. Explique por que não se deve testar os perigos.",
+      "gabarito": "Relacionar cada risco à prevenção apropriada, afastamento e aviso ao adulto; sem mistura de produtos, reparos ou uso de medicamento. Distinguir discussão de execução.",
+      "rubrica": [
+        "Relacionar cada risco à prevenção apropriada, afastamento e aviso ao adulto; sem mistura de produtos, reparos ou uso de medicamento. Distinguir discussão de execução.",
+        "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+      ],
+      "bncc": [
+        "EF02CI03"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef02.prevencao_de_acidentes.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Prevenção de Acidentes",
+          "enunciado": "Uma sala fictícia tem carregador com fio danificado, frasco de limpeza em garrafa de bebida e comprimidos sobre uma mesa baixa. Faça um plano para o adulto corrigir cada risco e um recado indicando o que a criança deve fazer sem tocar em nenhum item. Explique por que não se deve testar os perigos.",
+          "gabarito": "Relacionar cada risco à prevenção apropriada, afastamento e aviso ao adulto; sem mistura de produtos, reparos ou uso de medicamento. Distinguir discussão de execução.",
+          "rubrica": [
+            "Relacionar cada risco à prevenção apropriada, afastamento e aviso ao adulto; sem mistura de produtos, reparos ou uso de medicamento. Distinguir discussão de execução.",
+            "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+          ],
+          "bncc": [
+            "EF02CI03"
+          ],
+          "aulasReferencia": [
+            "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
+            "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
+            "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
+            "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao1",
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao2",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao1",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao2",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao1",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao2",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao1",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao2"
+      ],
+      "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+        "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+        "consulta": "2026-10-30",
+        "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+      },
+      {
+        "documento": "Ministério de Minas e Energia — Saiba como evitar acidentes elétricos dentro de casa",
+        "url": "https://www.gov.br/mme/pt-br/assuntos/noticias/julho-26/saiba-como-evitar-acidentes-eletricos-dentro-de-casa",
+        "consulta": "2026-10-30",
+        "uso": "Trechos de prevenção consultados: fios, tomadas e água. Adaptados para a criança se afastar e avisar; reparos e acionamentos cabem a adultos/profissionais, sem testes em rede elétrica."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF02CI03",
+        "questoes": [
+          "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo.prova.1",
+          "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca.prova.1",
+          "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza.prova.1",
+          "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.prevencao_de_acidentes.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef02.prevencao_de_acidentes.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao1",
+          "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao2",
+          "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao1",
+          "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao2",
+          "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao1",
+          "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao2",
+          "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao1",
+          "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef02.sol_e_superficies.prova": {
+    "id": "cna.ef02.sol_e_superficies.prova",
+    "titulo": "Avaliação: Sol e Superfícies",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens inéditos de prova, com leitura mediada. Objetiva: acertos/5 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+    "questoes": [
+      "cna.ef02.sol_e_superficies.areia_e_solo.prova.1",
+      "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.prova.1",
+      "cna.ef02.sol_e_superficies.superficies_metalicas.prova.1",
+      "cna.ef02.sol_e_superficies.reflexao_da_luz.prova.1",
+      "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.prova.1"
+    ],
+    "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+    "avaliacaoPratica": {
+      "id": "cna.ef02.sol_e_superficies.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Sol e Superfícies",
+      "enunciado": "Dados fictícios: água 23→26 °C; areia 24→32 °C; solo úmido 23→28 °C, mesma duração declarada. Calcule aumentos e indique maior. Explique por que não é lei universal e como comparar cor usando mesmo material. Acrescente método seguro para observar reflexão sem confundir brilho com temperatura.",
+      "gabarito": "Aumentos 3/8/5 °C; areia maior neste caso; controlar material/cor/umidade/quantidade/exposição e instrumento apropriado; reflexão e aquecimento distintos; sem toque ou reflexo solar nos olhos.",
+      "rubrica": [
+        "Aumentos 3/8/5 °C; areia maior neste caso; controlar material/cor/umidade/quantidade/exposição e instrumento apropriado; reflexão e aquecimento distintos; sem toque ou reflexo solar nos olhos.",
+        "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef02.sol_e_superficies.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Sol e Superfícies",
+          "enunciado": "Dados fictícios: água 23→26 °C; areia 24→32 °C; solo úmido 23→28 °C, mesma duração declarada. Calcule aumentos e indique maior. Explique por que não é lei universal e como comparar cor usando mesmo material. Acrescente método seguro para observar reflexão sem confundir brilho com temperatura.",
+          "gabarito": "Aumentos 3/8/5 °C; areia maior neste caso; controlar material/cor/umidade/quantidade/exposição e instrumento apropriado; reflexão e aquecimento distintos; sem toque ou reflexo solar nos olhos.",
+          "rubrica": [
+            "Aumentos 3/8/5 °C; areia maior neste caso; controlar material/cor/umidade/quantidade/exposição e instrumento apropriado; reflexão e aquecimento distintos; sem toque ou reflexo solar nos olhos.",
+            "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+          ],
+          "bncc": [
+            "EF02CI08"
+          ],
+          "aulasReferencia": [
+            "cna.ef02.sol_e_superficies.areia_e_solo",
+            "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+            "cna.ef02.sol_e_superficies.superficies_metalicas",
+            "cna.ef02.sol_e_superficies.reflexao_da_luz",
+            "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao1",
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao2",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao1",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao2",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao1",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao2",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao1",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao2",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao1",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao2"
+      ],
+      "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF02CI08",
+        "questoes": [
+          "cna.ef02.sol_e_superficies.areia_e_solo.prova.1",
+          "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.prova.1",
+          "cna.ef02.sol_e_superficies.superficies_metalicas.prova.1",
+          "cna.ef02.sol_e_superficies.reflexao_da_luz.prova.1",
+          "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.sol_e_superficies.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef02.sol_e_superficies.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao1",
+          "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao2",
+          "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao1",
+          "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao2",
+          "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao1",
+          "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao2",
+          "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao1",
+          "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao2",
+          "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao1",
+          "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef02.partes_das_plantas.prova": {
+    "id": "cna.ef02.partes_das_plantas.prova",
+    "titulo": "Avaliação: Partes das Plantas",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Partes das Plantas",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "6 itens inéditos de prova, com leitura mediada. Objetiva: acertos/6 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+    "questoes": [
+      "cna.ef02.partes_das_plantas.caule.prova.1",
+      "cna.ef02.partes_das_plantas.folhas.prova.1",
+      "cna.ef02.partes_das_plantas.flores.prova.1",
+      "cna.ef02.partes_das_plantas.frutos_e_sementes.prova.1",
+      "cna.ef02.partes_das_plantas.funcoes_de_cada_parte.prova.1",
+      "cna.ef02.partes_das_plantas.plantas_e_outros_seres.prova.1"
+    ],
+    "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+    "avaliacaoPratica": {
+      "id": "cna.ef02.partes_das_plantas.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Partes das Plantas",
+      "enunciado": "Crie uma explicação para alguém que pensa que o tomate é raiz porque vem de uma planta. Use o esquema e relacione cinco partes às funções e a água, luz e um animal visitante. Indique uma limitação do modelo e uma relação que exigiria observação.",
+      "gabarito": "Tomate como fruto, raiz/caule/folhas/flor/fruto e funções corretas, integração com ambiente, modelo não universal e visita não prova polinização.",
+      "rubrica": [
+        "Tomate como fruto, raiz/caule/folhas/flor/fruto e funções corretas, integração com ambiente, modelo não universal e visita não prova polinização.",
+        "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+      ],
+      "bncc": [
+        "EF02CI06"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef02.partes_das_plantas.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Partes das Plantas",
+          "enunciado": "Crie uma explicação para alguém que pensa que o tomate é raiz porque vem de uma planta. Use o esquema e relacione cinco partes às funções e a água, luz e um animal visitante. Indique uma limitação do modelo e uma relação que exigiria observação.",
+          "gabarito": "Tomate como fruto, raiz/caule/folhas/flor/fruto e funções corretas, integração com ambiente, modelo não universal e visita não prova polinização.",
+          "rubrica": [
+            "Tomate como fruto, raiz/caule/folhas/flor/fruto e funções corretas, integração com ambiente, modelo não universal e visita não prova polinização.",
+            "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+          ],
+          "bncc": [
+            "EF02CI06"
+          ],
+          "aulasReferencia": [
+            "cna.ef02.partes_das_plantas.caule",
+            "cna.ef02.partes_das_plantas.folhas",
+            "cna.ef02.partes_das_plantas.flores",
+            "cna.ef02.partes_das_plantas.frutos_e_sementes",
+            "cna.ef02.partes_das_plantas.funcoes_de_cada_parte",
+            "cna.ef02.partes_das_plantas.plantas_e_outros_seres"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef02.partes_das_plantas.caule#caule.producao1",
+        "cna.ef02.partes_das_plantas.caule#caule.producao2",
+        "cna.ef02.partes_das_plantas.folhas#folhas.producao1",
+        "cna.ef02.partes_das_plantas.folhas#folhas.producao2",
+        "cna.ef02.partes_das_plantas.flores#flores.producao1",
+        "cna.ef02.partes_das_plantas.flores#flores.producao2",
+        "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.producao1",
+        "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.producao2",
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.producao1",
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.producao2",
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.producao1",
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.producao2"
+      ],
+      "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF02CI06",
+        "questoes": [
+          "cna.ef02.partes_das_plantas.caule.prova.1",
+          "cna.ef02.partes_das_plantas.folhas.prova.1",
+          "cna.ef02.partes_das_plantas.flores.prova.1",
+          "cna.ef02.partes_das_plantas.frutos_e_sementes.prova.1",
+          "cna.ef02.partes_das_plantas.funcoes_de_cada_parte.prova.1",
+          "cna.ef02.partes_das_plantas.plantas_e_outros_seres.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.partes_das_plantas.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef02.partes_das_plantas.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.partes_das_plantas.caule#caule.producao1",
+          "cna.ef02.partes_das_plantas.caule#caule.producao2",
+          "cna.ef02.partes_das_plantas.folhas#folhas.producao1",
+          "cna.ef02.partes_das_plantas.folhas#folhas.producao2",
+          "cna.ef02.partes_das_plantas.flores#flores.producao1",
+          "cna.ef02.partes_das_plantas.flores#flores.producao2",
+          "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.producao1",
+          "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.producao2",
+          "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.producao1",
+          "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.producao2",
+          "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.producao1",
+          "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.producao2"
+        ]
+      }
+    ]
+  },
+  "cna.ef02.plantas_no_ambiente.prova": {
+    "id": "cna.ef02.plantas_no_ambiente.prova",
+    "titulo": "Avaliação: Plantas no Ambiente",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "bncc": [
+      "EF02CI04",
+      "EF02CI05"
+    ],
+    "duracaoMin": 40,
+    "estado": "piloto",
+    "complementar": false,
+    "pontuacaoTotal": 10,
+    "instrucoes": "6 itens inéditos de prova, com leitura mediada. Objetiva: acertos/6 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+    "questoes": [
+      "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.prova.1",
+      "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.prova.1",
+      "cna.ef02.plantas_no_ambiente.animais_do_entorno.prova.1",
+      "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.prova.1",
+      "cna.ef02.plantas_no_ambiente.observar_uma_planta.prova.1",
+      "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1"
+    ],
+    "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+    "avaliacaoPratica": {
+      "id": "cna.ef02.plantas_no_ambiente.prova.portfolio",
+      "tipo": "discursiva",
+      "titulo": "Portfólio e desafio final: Plantas no Ambiente",
+      "enunciado": "Planeje observar duas plantas e um animal em locais autorizados. Se puder executar com adulto, apresente características, condições do lugar e uma relação apoiada no registro; caso contrário, entregue plano identificado como não executado e use exemplos fictícios separadamente. Explique uma relação que ainda precisa ser investigada.",
+      "gabarito": "Características e ambiente ligados a evidências, origem e limites claros; sem captura ou dano. Plano não satisfaz evidência de execução, que permanece pendente.",
+      "rubrica": [
+        "Características e ambiente ligados a evidências, origem e limites claros; sem captura ou dano. Plano não satisfaz evidência de execução, que permanece pendente.",
+        "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+      ],
+      "bncc": [
+        "EF02CI04",
+        "EF02CI05"
+      ],
+      "tarefas": [
+        {
+          "id": "cna.ef02.plantas_no_ambiente.prova.transferencia",
+          "tipo": "transferencia",
+          "titulo": "Desafio final: Plantas no Ambiente",
+          "enunciado": "Planeje observar duas plantas e um animal em locais autorizados. Se puder executar com adulto, apresente características, condições do lugar e uma relação apoiada no registro; caso contrário, entregue plano identificado como não executado e use exemplos fictícios separadamente. Explique uma relação que ainda precisa ser investigada.",
+          "gabarito": "Características e ambiente ligados a evidências, origem e limites claros; sem captura ou dano. Plano não satisfaz evidência de execução, que permanece pendente.",
+          "rubrica": [
+            "Características e ambiente ligados a evidências, origem e limites claros; sem captura ou dano. Plano não satisfaz evidência de execução, que permanece pendente.",
+            "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+          ],
+          "bncc": [
+            "EF02CI04",
+            "EF02CI05"
+          ],
+          "aulasReferencia": [
+            "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+            "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+            "cna.ef02.plantas_no_ambiente.animais_do_entorno",
+            "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+            "cna.ef02.plantas_no_ambiente.observar_uma_planta",
+            "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta"
+          ]
+        }
+      ],
+      "evidenciasDeProcesso": [
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao1",
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao2",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao1",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao2",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao1",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao2",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao1",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao2",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao1",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao2",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2"
+      ],
+      "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF02CI04",
+        "questoes": [
+          "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.prova.1",
+          "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.prova.1",
+          "cna.ef02.plantas_no_ambiente.animais_do_entorno.prova.1",
+          "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.prova.1",
+          "cna.ef02.plantas_no_ambiente.observar_uma_planta.prova.1",
+          "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.plantas_no_ambiente.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef02.plantas_no_ambiente.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao1",
+          "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao2",
+          "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao1",
+          "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao2",
+          "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao1",
+          "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao2",
+          "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao1",
+          "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao2",
+          "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao1",
+          "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao2",
+          "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
+          "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2"
+        ]
+      },
+      {
+        "bncc": "EF02CI05",
+        "questoes": [
+          "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1"
+        ],
+        "avaliacoesPraticas": [
+          "cna.ef02.plantas_no_ambiente.prova.portfolio"
+        ],
+        "tarefasPraticas": [
+          "cna.ef02.plantas_no_ambiente.prova.transferencia"
+        ],
+        "atividadesPraticas": [
+          "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
+          "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2"
         ]
       }
     ]

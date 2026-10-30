@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 21,
+  "unidade": "O Sol no Céu",
+  "titulo": "Sombras ao Longo do Dia",
+  "bncc": [
+    "EF02CI07"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com adulto, registre a sombra de um objeto fixo em dois ou três horários, com data e referência do local. Se não houver condições, analise apenas o modelo e marque observação pendente.",
+      "Compare os registros e explique o que mudou e o que ficou igual."
+    ],
+    "resumo": "Uma sombra aparece quando um objeto opaco impede a chegada de parte da luz a uma superfície.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.sol_no_ceu.posicao_do_sol\">Posição aparente do Sol e sombras</button></p><h2>Sombras ao Longo do Dia</h2><h3>Para compreender</h3><p>Uma sombra aparece quando um objeto opaco impede a chegada de parte da luz a uma superfície. A posição aparente do Sol muda durante o dia; por isso a sombra de um objeto fixo muda de direção e tamanho. Em condições comparáveis, Sol mais baixo se associa a sombra mais comprida e Sol mais alto a sombra mais curta. Horário, data e lugar precisam constar do registro. Não olhe diretamente para o Sol, nem por lentes: observe sombras com adulto em área segura.</p><h3>Exemplo comentado</h3><p>No esquema, o mesmo objeto faz sombra comprida quando a luz está baixa e curta quando está alta. É um modelo sem escala, não uma medição do pátio nem indicação de hora exata.</p><svg viewBox=\"0 0 600 240\" role=\"img\" aria-label=\"Dois modelos sem escala do mesmo objeto vertical: luz baixa à esquerda forma sombra comprida; luz mais alta à direita forma sombra curta. As linhas representam trajetos simplificados da luz; não indicam horários reais.\"><g stroke=\"#243b53\" stroke-width=\"3\" fill=\"none\"><path d=\"M15 200h270M315 200h270M105 200V120M415 200V120\"/><path d=\"M35 75 229.44 200M435 30 397.22 200\" stroke=\"#b26b00\"/><path d=\"M105 200h124.44M397.22 200h17.78\" stroke=\"#111\" stroke-width=\"8\"/></g><g fill=\"#f4c94d\" stroke=\"#6b5100\"><circle cx=\"35\" cy=\"75\" r=\"18\"/><circle cx=\"435\" cy=\"30\" r=\"18\"/></g><g fill=\"#111\" font-size=\"15\"><text x=\"15\" y=\"35\">Luz mais baixa</text><text x=\"320\" y=\"65\">Luz mais alta</text><text x=\"130\" y=\"228\">Sombra longa</text><text x=\"330\" y=\"228\">Sombra curta</text></g></svg><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Com adulto, registre a sombra de um objeto fixo em dois ou três horários, com data e referência do local. Se não houver condições, analise apenas o modelo e marque observação pendente.</p><h4>Proposta 2</h4><p>Compare os registros e explique o que mudou e o que ficou igual.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://scied.ucar.edu/activity/sunshine-shadows\" target=\"_blank\" rel=\"noopener noreferrer\">UCAR Center for Science Education — Sunshine and Shadows</a></li><li><a href=\"https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">NASA — Sun As A Star: Afterschool Learning Activities</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sombras_ao_longo_do_dia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Com o mesmo objeto fixo, Sol mais baixo costuma se associar a sombra:",
+      "alternativas": [
+        "Mais comprida.",
+        "Mais curta, porque o Sol está mais perto do horizonte.",
+        "De tamanho sem relação com a luz."
+      ],
+      "correta": 0,
+      "explicacao": "A inclinação da luz altera a projeção da sombra.",
+      "bncc": [
+        "EF02CI07"
+      ]
+    },
+    {
+      "id": "sombras_ao_longo_do_dia.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, registre a sombra de um objeto fixo em dois ou três horários, com data e referência do local. Se não houver condições, analise apenas o modelo e marque observação pendente.",
+      "gabarito": "Mesmo objeto e superfície; comprimento/direção registrados e vínculo com posição aparente sem olhar o Sol.",
+      "rubrica": [
+        "Mesmo objeto e superfície; comprimento/direção registrados e vínculo com posição aparente sem olhar o Sol.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI07"
+      ]
+    },
+    {
+      "id": "sombras_ao_longo_do_dia.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare os registros e explique o que mudou e o que ficou igual.",
+      "gabarito": "Relacionar sombra e posição aparente; não atribuir mudança a crescimento rápido do objeto.",
+      "rubrica": [
+        "Relacionar sombra e posição aparente; não atribuir mudança a crescimento rápido do objeto.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI07"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+      "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+      "consulta": "2026-10-30",
+      "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+    },
+    {
+      "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.sol_no_ceu.posicao_do_sol"
+  ],
+  "proximosPassos": [
+    "cna.ef02.sol_no_ceu.medindo_sombras"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "O Sol no Céu",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "titulo": "Sombras ao Longo do Dia"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

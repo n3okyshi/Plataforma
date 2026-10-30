@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 11,
+  "unidade": "Água, Luz e Vida das Plantas",
+  "titulo": "Luz para as Plantas",
+  "bncc": [
+    "EF02CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Planeje comparar mudas da mesma espécie em duas condições seguras de luz, com água e vaso semelhantes. Escolha três características para acompanhar.",
+      "Explique por que adubo e água não tornam desnecessária a luz e por que altura sozinha não define saúde."
+    ],
+    "resumo": "A maioria das plantas usa luz para produzir açúcares, seu alimento.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.agua_luz_e_vida.agua_para_as_plantas\">Água, luz e investigação com plantas</button></p><h2>Luz para as Plantas</h2><h3>Para compreender</h3><p>A maioria das plantas usa luz para produzir açúcares, seu alimento. Água e sais minerais também são necessários, mas adubo não substitui a luz. A intensidade adequada varia entre espécies; sombra iluminada não é o mesmo que escuridão. Uma semente pode começar a germinar com suas reservas e isso não significa que a planta em crescimento dispense luz. A investigação deve acompanhar cor, folhas e resistência do caule, além da altura, com cuidado orientado para não danificar a muda.</p><h3>Exemplo comentado</h3><p>Uma muda muito alta e pálida não é necessariamente a mais saudável. Em baixa luz, certas mudas se alongam; medir só altura pode levar a uma conclusão errada.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Planeje comparar mudas da mesma espécie em duas condições seguras de luz, com água e vaso semelhantes. Escolha três características para acompanhar.</p><h4>Proposta 2</h4><p>Explique por que adubo e água não tornam desnecessária a luz e por que altura sozinha não define saúde.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "luz_para_as_plantas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma muda alta e muito pálida deve ser considerada saudável apenas pela altura?",
+      "alternativas": [
+        "Sim.",
+        "Não; outras características e condições importam.",
+        "Sim, se o vaso for maior."
+      ],
+      "correta": 1,
+      "explicacao": "Altura não resume o desenvolvimento.",
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "luz_para_as_plantas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Planeje comparar mudas da mesma espécie em duas condições seguras de luz, com água e vaso semelhantes. Escolha três características para acompanhar.",
+      "gabarito": "Comparação controla outras condições; registrar altura, cor/folhas e aparência, sem escuridão prolongada.",
+      "rubrica": [
+        "Comparação controla outras condições; registrar altura, cor/folhas e aparência, sem escuridão prolongada.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "luz_para_as_plantas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que adubo e água não tornam desnecessária a luz e por que altura sozinha não define saúde.",
+      "gabarito": "Relacionar luz à produção de alimento e citar limite da medida isolada.",
+      "rubrica": [
+        "Relacionar luz à produção de alimento e citar limite da medida isolada.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.agua_luz_e_vida.agua_para_as_plantas"
+  ],
+  "proximosPassos": [
+    "cna.ef02.agua_luz_e_vida.experiencias_com_plantas"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Água, Luz e Vida das Plantas",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "titulo": "Luz para as Plantas"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

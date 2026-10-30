@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 1,
+  "unidade": "Prevenção de Acidentes",
+  "titulo": "Inflamáveis e Fogo",
+  "bncc": [
+    "EF02CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe uma cozinha fictícia com dois perigos de queimadura e escreva ou dite uma mudança preventiva para cada um.",
+      "Crie um diálogo em que um personagem convida outro a brincar com isqueiro. Explique a recusa e a busca de ajuda."
+    ],
+    "resumo": "Alguns materiais pegam fogo com facilidade perto de chama ou calor: são inflamáveis.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.prevencao_de_acidentes.objetos_cortantes\">Prevenir acidentes: reconhecer situações</button></p><h2>Inflamáveis e Fogo</h2><h3>Para compreender</h3><p>Alguns materiais pegam fogo com facilidade perto de chama ou calor: são inflamáveis. Álcool e combustíveis não são materiais de brincadeira. Fogo e objetos aquecidos podem causar queimaduras. Prevenir envolve guardar produtos e isqueiros fora do alcance das crianças e manter atividades infantis longe do fogão. Criança não acende, testa nem tenta apagar fogo; afasta-se do perigo, avisa um adulto e segue a saída segura orientada. A responsabilidade por organizar o ambiente é dos adultos.</p><h3>Exemplo comentado</h3><p>Caso fictício: um frasco de álcool foi deixado perto do fogão. A criança percebe de longe e avisa ao adulto; não pega o frasco para reorganizar a cozinha. Na aula usamos cartões escritos, sem produtos reais.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Desenhe uma cozinha fictícia com dois perigos de queimadura e escreva ou dite uma mudança preventiva para cada um.</p><h4>Proposta 2</h4><p>Crie um diálogo em que um personagem convida outro a brincar com isqueiro. Explique a recusa e a busca de ajuda.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos\" target=\"_blank\" rel=\"noopener noreferrer\">Corpo de Bombeiros Militar do Paraná — Acidentes domésticos</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "inflamaveis_e_fogo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O que fazer ao encontrar um frasco inflamável perto de uma chama?",
+      "alternativas": [
+        "Afastar-se e avisar um adulto.",
+        "Abrir o frasco para investigar.",
+        "Testar uma gota no fogo."
+      ],
+      "correta": 0,
+      "explicacao": "Não se experimenta um perigo para reconhecê-lo.",
+      "bncc": [
+        "EF02CI03"
+      ]
+    },
+    {
+      "id": "inflamaveis_e_fogo.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe uma cozinha fictícia com dois perigos de queimadura e escreva ou dite uma mudança preventiva para cada um.",
+      "gabarito": "Relacionar perigo e prevenção: distância da criança, armazenamento e organização por adulto; sem manuseio ou combate ao fogo.",
+      "rubrica": [
+        "Relacionar perigo e prevenção: distância da criança, armazenamento e organização por adulto; sem manuseio ou combate ao fogo.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI03"
+      ]
+    },
+    {
+      "id": "inflamaveis_e_fogo.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Crie um diálogo em que um personagem convida outro a brincar com isqueiro. Explique a recusa e a busca de ajuda.",
+      "gabarito": "Recusar teste com fogo, afastar-se e avisar adulto; não transformar a criança em responsável pela emergência.",
+      "rubrica": [
+        "Recusar teste com fogo, afastar-se e avisar adulto; não transformar a criança em responsável pela emergência.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+      "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+      "consulta": "2026-10-30",
+      "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.prevencao_de_acidentes.objetos_cortantes"
+  ],
+  "proximosPassos": [
+    "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Prevenção de Acidentes",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "titulo": "Inflamáveis e Fogo"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "cna.ef02.horta_e_observacao.compartilhando_descobertas",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 35,
+  "unidade": "Horta e Observação",
+  "titulo": "Compartilhando Descobertas",
+  "bncc": [
+    "EF02CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Prepare apresentação curta sobre planta e seu ambiente, com pergunta, registros, uma conclusão e uma limitação; use só dados cuja origem consiga explicar.",
+      "Peça devolutiva sobre clareza a um adulto ou colega e revise uma legenda ou conclusão. Se ainda não ocorreu, marque revisão pendente."
+    ],
+    "resumo": "Compartilhar uma investigação é contar pergunta, método, observações e conclusão com seus limites.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.horta_e_observacao.colheita_e_cuidados\">Colheita e Cuidados</button></p><h2>Compartilhando Descobertas</h2><h3>Para compreender</h3><p>Compartilhar uma investigação é contar pergunta, método, observações e conclusão com seus limites. Um cartaz pode reunir desenhos com legendas, tabelas e descrições das plantas, animais e ambientes estudados. Diga se os dados são reais, fictícios ou retirados de fonte; não apresente um plano como experimento realizado. A devolutiva de colegas e adulto ajuda a melhorar clareza e explicações. Um resultado diferente do previsto também deve aparecer. Apresentar não é competir pela planta maior.</p><h3>Exemplo comentado</h3><p>Uma turma fictícia observa folhas e visitantes em duas datas. Pode relatar o que viu; não pode afirmar que todos os visitantes polinizaram flores sem observar evidências dessa relação.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Prepare apresentação curta sobre planta e seu ambiente, com pergunta, registros, uma conclusão e uma limitação; use só dados cuja origem consiga explicar.</p><h4>Proposta 2</h4><p>Peça devolutiva sobre clareza a um adulto ou colega e revise uma legenda ou conclusão. Se ainda não ocorreu, marque revisão pendente.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "compartilhando_descobertas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma boa apresentação deve incluir:",
+      "alternativas": [
+        "Somente a conclusão esperada.",
+        "Pergunta, registros e limites do que foi observado.",
+        "Dados inventados para completar o cartaz."
+      ],
+      "correta": 1,
+      "explicacao": "Comunicar o método e os limites permite avaliar a conclusão.",
+      "bncc": [
+        "EF02CI04"
+      ]
+    },
+    {
+      "id": "compartilhando_descobertas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Prepare apresentação curta sobre planta e seu ambiente, com pergunta, registros, uma conclusão e uma limitação; use só dados cuja origem consiga explicar.",
+      "gabarito": "Características e ambiente relacionados, evidências rastreáveis e origem explícita.",
+      "rubrica": [
+        "Características e ambiente relacionados, evidências rastreáveis e origem explícita.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI04"
+      ]
+    },
+    {
+      "id": "compartilhando_descobertas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Peça devolutiva sobre clareza a um adulto ou colega e revise uma legenda ou conclusão. Se ainda não ocorreu, marque revisão pendente.",
+      "gabarito": "Registrar devolutiva real ou pendência, sem inventar opinião de outra pessoa.",
+      "rubrica": [
+        "Registrar devolutiva real ou pendência, sem inventar opinião de outra pessoa.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.horta_e_observacao.colheita_e_cuidados"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Horta e Observação",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "titulo": "Compartilhando Descobertas"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

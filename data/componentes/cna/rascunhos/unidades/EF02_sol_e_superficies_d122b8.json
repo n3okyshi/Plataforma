@@ -1,1 +1,124 @@
-{"id":"cna.ef02.plano.sol_e_superficies.d122b8","componente":"cna","nivel":"EF02","titulo":"Sol e Superfícies","estado":"planejado","complementar":false,"publicacao":{"permitida":false},"aulas":["cna.ef02.sol_e_superficies.areia_e_solo","cna.ef02.sol_e_superficies.superficies_claras_e_escuras","cna.ef02.sol_e_superficies.superficies_metalicas","cna.ef02.sol_e_superficies.reflexao_da_luz","cna.ef02.sol_e_superficies.comparando_superficies_ao_sol"],"bnccCandidata":["EF02CI08"],"camadas":{"teoria":{"estado":"planejado","aulas":["data/componentes/cna/rascunhos/aulas/EF02_areia_e_solo_16ef9d2a.json","data/componentes/cna/rascunhos/aulas/EF02_superficies_claras_e_escuras_be3045dc.json","data/componentes/cna/rascunhos/aulas/EF02_superficies_metalicas_08293642.json","data/componentes/cna/rascunhos/aulas/EF02_reflexao_da_luz_78bb8a63.json","data/componentes/cna/rascunhos/aulas/EF02_comparando_superficies_ao_sol_affaa984.json"]},"atividades":{"estado":"planejado","criterio":"Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."},"questoes":{"estado":"planejado","itens":[]},"prova":{"estado":"planejado","questoes":[],"matriz":[{"bncc":"EF02CI08","evidencias":[]}]},"arena":{"estado":"planejado","selecao":{"componente":"cna","nivel":"EF02","unidade":"Sol e Superfícies"},"itens":[]},"rastreabilidade":{"estado":"parcial","catalogo":"data/planejamento-basica/referencias-curriculares.json","revisaoPedagogica":"pendente"}},"conteudosExistentesPreservados":[],"observacao":"Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.","avaliacao":{"tipo":"objetiva_e_producoes_conforme_objetivos","registros":[],"devolutiva":"Docente com critérios a desenvolver; nenhuma observação realizada."},"pendencias":["Confrontar tópico e todas as dimensões do objetivo.","Escrever e revisar conteúdo, recursos e avaliações.","Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."]}
+{
+  "id": "cna.ef02.plano.sol_e_superficies.d122b8",
+  "componente": "cna",
+  "nivel": "EF02",
+  "titulo": "Sol e Superfícies",
+  "estado": "planejado",
+  "complementar": false,
+  "publicacao": {
+    "permitida": false
+  },
+  "aulas": [
+    "cna.ef02.sol_e_superficies.areia_e_solo",
+    "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+    "cna.ef02.sol_e_superficies.superficies_metalicas",
+    "cna.ef02.sol_e_superficies.reflexao_da_luz",
+    "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol"
+  ],
+  "bnccCandidata": [
+    "EF02CI08"
+  ],
+  "camadas": {
+    "teoria": {
+      "estado": "planejado",
+      "aulas": [
+        "data/componentes/cna/rascunhos/aulas/EF02_areia_e_solo_16ef9d2a.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_superficies_claras_e_escuras_be3045dc.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_superficies_metalicas_08293642.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_reflexao_da_luz_78bb8a63.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_comparando_superficies_ao_sol_affaa984.json"
+      ]
+    },
+    "atividades": {
+      "estado": "planejado",
+      "criterio": "Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."
+    },
+    "questoes": {
+      "estado": "planejado",
+      "itens": []
+    },
+    "prova": {
+      "estado": "planejado",
+      "questoes": [],
+      "matriz": [
+        {
+          "bncc": "EF02CI08",
+          "evidencias": []
+        }
+      ]
+    },
+    "arena": {
+      "estado": "planejado",
+      "selecao": {
+        "componente": "cna",
+        "nivel": "EF02",
+        "unidade": "Sol e Superfícies"
+      },
+      "itens": []
+    },
+    "rastreabilidade": {
+      "estado": "parcial",
+      "catalogo": "data/planejamento-basica/referencias-curriculares.json",
+      "revisaoPedagogica": "pendente"
+    }
+  },
+  "conteudosExistentesPreservados": [],
+  "observacao": "Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.",
+  "avaliacao": {
+    "tipo": "objetiva_e_producoes_conforme_objetivos",
+    "registros": [],
+    "devolutiva": "Docente com critérios a desenvolver; nenhuma observação realizada."
+  },
+  "pendencias": [
+    "Confrontar tópico e todas as dimensões do objetivo.",
+    "Escrever e revisar conteúdo, recursos e avaliações.",
+    "Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."
+  ],
+  "implementacao": {
+    "estado": "pronto_para_testes",
+    "aulas": [
+      "data/componentes/cna/aulas/EF02_EF02CI08_areia_e_solo.json",
+      "data/componentes/cna/aulas/EF02_EF02CI08_superficies_claras_e_escuras.json",
+      "data/componentes/cna/aulas/EF02_EF02CI08_superficies_metalicas.json",
+      "data/componentes/cna/aulas/EF02_EF02CI08_reflexao_da_luz.json",
+      "data/componentes/cna/aulas/EF02_EF02CI08_comparando_superficies_ao_sol.json"
+    ],
+    "registro": "data/componentes/cna/lote_EF02_temas_restantes.json",
+    "limites": "Plano original preservado; autoria canônica indicada. Aplicação e homologação pendentes.",
+    "camadas": {
+      "teoria": [
+        "data/componentes/cna/aulas/EF02_EF02CI08_areia_e_solo.json",
+        "data/componentes/cna/aulas/EF02_EF02CI08_superficies_claras_e_escuras.json",
+        "data/componentes/cna/aulas/EF02_EF02CI08_superficies_metalicas.json",
+        "data/componentes/cna/aulas/EF02_EF02CI08_reflexao_da_luz.json",
+        "data/componentes/cna/aulas/EF02_EF02CI08_comparando_superficies_ao_sol.json"
+      ],
+      "atividades": [
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.aplicacao",
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao1",
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao2",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.aplicacao",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao1",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao2",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.aplicacao",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao1",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao2",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.aplicacao",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao1",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao2",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.aplicacao",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao1",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao2"
+      ],
+      "questoes": "data/componentes/cna/questoes/EF02_sol_e_superficies.json",
+      "prova": "data/componentes/cna/provas/EF02_sol_e_superficies.json",
+      "arena": {
+        "arquivo": "arena/cna_arena.js",
+        "nivel": "EF02",
+        "unidade": "Sol e Superfícies",
+        "componente": "cna"
+      },
+      "rastreabilidade": "data/componentes/cna/lote_EF02_temas_restantes.json"
+    }
+  }
+}

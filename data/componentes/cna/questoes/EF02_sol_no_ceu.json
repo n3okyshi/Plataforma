@@ -1,0 +1,484 @@
+[
+  {
+    "id": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Com o mesmo objeto fixo, Sol mais baixo costuma se associar a sombra:",
+    "opcoes": [
+      "De tamanho sem relação com a luz.",
+      "Mais comprida.",
+      "Mais curta, porque o Sol está mais perto do horizonte."
+    ],
+    "correta": 1,
+    "explicacao": "A inclinação da luz altera a projeção da sombra.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma sombra mudou de tamanho entre manhã e outro horário. Para comparar, precisamos saber:",
+    "opcoes": [
+      "Somente o comprimento final, sem identificar o objeto.",
+      "Se objeto e local foram mantidos e quais horários foram usados.",
+      "Somente uma previsão sem indicar a hora."
+    ],
+    "correta": 1,
+    "explicacao": "Condições e horários tornam o registro interpretável.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.medindo_sombras.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.medindo_sombras",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Dados fictícios de um objeto: 80 cm e depois 40 cm. A sombra:",
+    "opcoes": [
+      "Aumentou 40 cm.",
+      "Diminuiu 40 cm.",
+      "Ficou igual."
+    ],
+    "correta": 1,
+    "explicacao": "80 menos 40 são 40 cm de diminuição.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.medindo_sombras.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.medindo_sombras",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Nuvens impediram identificar o fim da sombra. Deve-se:",
+    "opcoes": [
+      "Mudar o objeto sem registrar.",
+      "Registrar a dificuldade e tentar em outra condição segura.",
+      "Inventar uma medida exata."
+    ],
+    "correta": 1,
+    "explicacao": "Ausência de medida não autoriza fabricar dados.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual comparação investiga aquecimento com mais segurança?",
+    "opcoes": [
+      "Olhar o Sol por uma lupa.",
+      "Pedir leitura de termômetro adequado ao adulto.",
+      "Pisar descalço nas superfícies."
+    ],
+    "correta": 1,
+    "explicacao": "O corpo e a visão direta não são instrumentos seguros para esse teste.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Na sombra, durante o dia, ainda é possível enxergar porque:",
+    "opcoes": [
+      "A luz fica presa para sempre debaixo do objeto.",
+      "Pode haver luz espalhada ou refletida no ambiente.",
+      "Não existe nenhuma luz."
+    ],
+    "correta": 1,
+    "explicacao": "Sombra da luz direta não equivale a escuridão completa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "A menor sombra do dia desaparece sempre exatamente às 12 h?",
+    "opcoes": [
+      "Sim, mesmo sem Sol visível.",
+      "Não; local e data influenciam, e ela pode não desaparecer.",
+      "Sim, em qualquer lugar."
+    ],
+    "correta": 1,
+    "explicacao": "Não há uma regra universal de desaparecimento às 12 h.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um desenho mostra apenas sombra curta, sem local ou data. Podemos concluir:",
+    "opcoes": [
+      "Que são exatamente 12 h.",
+      "Que faltam informações para determinar a hora.",
+      "Que é meia-noite."
+    ],
+    "correta": 1,
+    "explicacao": "Inferência de horário requer referências de observação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.observando_o_ceu.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.observando_o_ceu",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para comparar desenhos do céu, ajuda manter:",
+    "opcoes": [
+      "Só o mesmo lápis.",
+      "Referências fixas e horários registrados.",
+      "A data apagada."
+    ],
+    "correta": 1,
+    "explicacao": "Referências permitem interpretar posições e mudanças.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_no_ceu.observando_o_ceu.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "O Sol no Céu",
+    "aulaId": "cna.ef02.sol_no_ceu.observando_o_ceu",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "O Sol ficou coberto por nuvens. O registro deve:",
+    "opcoes": [
+      "Inventar sombra bem definida.",
+      "Informar as nuvens e a limitação da observação.",
+      "Dizer que deixou de existir."
+    ],
+    "correta": 1,
+    "explicacao": "Condições do céu integram os dados e os limites do estudo.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+        "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+        "consulta": "2026-10-30",
+        "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+      },
+      {
+        "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+        "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

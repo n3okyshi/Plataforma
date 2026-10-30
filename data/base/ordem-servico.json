@@ -8,16 +8,15 @@
       "subescopos": [
         {
           "niveis": [
-            "EF01"
+            "EF01",
+            "EF02"
           ],
           "estado": "pronto_para_testes",
-          "aulas": 49,
-          "complementares": 8,
-          "registro": "data/componentes/cna/lote_EF01_temas_restantes.json"
+          "aulas": 96,
+          "registro": "data/base/status-ciencias.json"
         },
         {
           "niveis": [
-            "EF02",
             "EF03",
             "EF04",
             "EF05",
@@ -27,10 +26,10 @@
             "EF09"
           ],
           "estado": "parcial",
-          "topicosSemAutoria": 328
+          "topicosSemAutoria": 293
         },
         {
-          "trabalho": "Produção observada e homologação",
+          "trabalho": "Produção observada e homologação independente",
           "estado": "parcial"
         }
       ]
@@ -120,7 +119,7 @@
       "ordem": 11
     }
   ],
-  "marcoAtual": "Ciências: todos os 49 tópicos EF01 com autoria para testes, 8 complementares fora da cobertura obrigatória; homologação pendente. EF02–EF09: 328 tópicos sem autoria. Português continua por último.",
+  "marcoAtual": "EF01 e EF02 com autoria dos tópicos planejados para testes; sem homologação. EF03–EF09: 293 tópicos sem autoria. Acumulado: 203 aulas, 517 atividades, 222 itens por banco, 50 avaliações. Português por último.",
   "regra": "Rascunhos recuperados e vínculos propostos não equivalem a conteúdos concluídos.",
   "criteriosDeConclusao": [
     "Todas as camadas têm fonte rastreável e conteúdo efetivo.",

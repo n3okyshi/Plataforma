@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef02.sol_e_superficies.superficies_metalicas",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 28,
+  "unidade": "Sol e Superfícies",
+  "titulo": "Superfícies Metálicas",
+  "bncc": [
+    "EF02CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Crie um aviso para um brinquedo metálico ao Sol, explicando por que brilho não garante temperatura segura.",
+      "Planeje comparar peça metálica e outra superfície com o adulto: condições, instrumento adequado e limites."
+    ],
+    "resumo": "Metais podem transferir energia térmica com facilidade; a sensação de toque não informa sozinha a temperatura.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.sol_e_superficies.superficies_claras_e_escuras\">Superfícies Claras e Escuras</button></p><h2>Superfícies Metálicas</h2><h3>Para compreender</h3><p>Metais podem transferir energia térmica com facilidade; a sensação de toque não informa sozinha a temperatura. Uma peça metálica pode ficar muito quente ao Sol e causar queimadura. Brilho não significa superfície fria: reflexão e aquecimento não são a mesma propriedade. Material, acabamento, cor e tempo influenciam a comparação. O adulto escolhe instrumento e método apropriados; alguns termômetros sem contato precisam de ajuste para metais brilhantes. Crianças não tocam, pisam ou manipulam peças expostas.</p><h3>Exemplo comentado</h3><p>Um escorregador metálico sob Sol pode estar quente mesmo parecendo brilhante. A decisão segura é pedir avaliação adulta antes do uso, sem fazer um teste com a mão.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Crie um aviso para um brinquedo metálico ao Sol, explicando por que brilho não garante temperatura segura.</p><h4>Proposta 2</h4><p>Planeje comparar peça metálica e outra superfície com o adulto: condições, instrumento adequado e limites.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Explore Albedo Activity</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "superficies_metalicas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma peça metálica brilhante ao Sol é sempre fria?",
+      "alternativas": [
+        "Não; brilho não garante temperatura segura.",
+        "Sim, porque reflete luz.",
+        "Sim, basta tocar para conferir."
+      ],
+      "correta": 0,
+      "explicacao": "Refletir parte da luz não impede absorver energia e aquecer.",
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "superficies_metalicas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Crie um aviso para um brinquedo metálico ao Sol, explicando por que brilho não garante temperatura segura.",
+      "gabarito": "Relacionar exposição e risco, avaliação adulta sem teste pelo corpo.",
+      "rubrica": [
+        "Relacionar exposição e risco, avaliação adulta sem teste pelo corpo.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "superficies_metalicas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Planeje comparar peça metálica e outra superfície com o adulto: condições, instrumento adequado e limites.",
+      "gabarito": "Manter exposição comparável; reconhecer que material e acabamento diferem e evitar conclusão só por toque.",
+      "rubrica": [
+        "Manter exposição comparável; reconhecer que material e acabamento diferem e evitar conclusão só por toque.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Explore Albedo Activity",
+      "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.sol_e_superficies.superficies_claras_e_escuras"
+  ],
+  "proximosPassos": [
+    "cna.ef02.sol_e_superficies.reflexao_da_luz"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Sol e Superfícies",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "titulo": "Superfícies Metálicas"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

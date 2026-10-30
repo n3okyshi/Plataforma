@@ -1,0 +1,152 @@
+{
+  "id": "cna.ef02.plantas_no_ambiente.prova",
+  "titulo": "Avaliação: Plantas no Ambiente",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF02",
+  "unidade": "Plantas no Ambiente",
+  "bncc": [
+    "EF02CI04",
+    "EF02CI05"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "6 itens inéditos de prova, com leitura mediada. Objetiva: acertos/6 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+  "questoes": [
+    "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.prova.1",
+    "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.prova.1",
+    "cna.ef02.plantas_no_ambiente.animais_do_entorno.prova.1",
+    "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.prova.1",
+    "cna.ef02.plantas_no_ambiente.observar_uma_planta.prova.1",
+    "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1"
+  ],
+  "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+  "avaliacaoPratica": {
+    "id": "cna.ef02.plantas_no_ambiente.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Plantas no Ambiente",
+    "enunciado": "Planeje observar duas plantas e um animal em locais autorizados. Se puder executar com adulto, apresente características, condições do lugar e uma relação apoiada no registro; caso contrário, entregue plano identificado como não executado e use exemplos fictícios separadamente. Explique uma relação que ainda precisa ser investigada.",
+    "gabarito": "Características e ambiente ligados a evidências, origem e limites claros; sem captura ou dano. Plano não satisfaz evidência de execução, que permanece pendente.",
+    "rubrica": [
+      "Características e ambiente ligados a evidências, origem e limites claros; sem captura ou dano. Plano não satisfaz evidência de execução, que permanece pendente.",
+      "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+    ],
+    "bncc": [
+      "EF02CI04",
+      "EF02CI05"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef02.plantas_no_ambiente.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Plantas no Ambiente",
+        "enunciado": "Planeje observar duas plantas e um animal em locais autorizados. Se puder executar com adulto, apresente características, condições do lugar e uma relação apoiada no registro; caso contrário, entregue plano identificado como não executado e use exemplos fictícios separadamente. Explique uma relação que ainda precisa ser investigada.",
+        "gabarito": "Características e ambiente ligados a evidências, origem e limites claros; sem captura ou dano. Plano não satisfaz evidência de execução, que permanece pendente.",
+        "rubrica": [
+          "Características e ambiente ligados a evidências, origem e limites claros; sem captura ou dano. Plano não satisfaz evidência de execução, que permanece pendente.",
+          "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+        ],
+        "bncc": [
+          "EF02CI04",
+          "EF02CI05"
+        ],
+        "aulasReferencia": [
+          "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+          "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+          "cna.ef02.plantas_no_ambiente.animais_do_entorno",
+          "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+          "cna.ef02.plantas_no_ambiente.observar_uma_planta",
+          "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao1",
+      "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao2",
+      "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao1",
+      "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao2",
+      "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao1",
+      "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao2",
+      "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao1",
+      "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao2",
+      "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao1",
+      "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao2",
+      "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
+      "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2"
+    ],
+    "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF02CI04",
+      "questoes": [
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.prova.1",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.prova.1",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno.prova.1",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.prova.1",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta.prova.1",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.plantas_no_ambiente.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef02.plantas_no_ambiente.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao1",
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao2",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao1",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao2",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao1",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao2",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao1",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao2",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao1",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao2",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2"
+      ]
+    },
+    {
+      "bncc": "EF02CI05",
+      "questoes": [
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.plantas_no_ambiente.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef02.plantas_no_ambiente.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2"
+      ]
+    }
+  ]
+}

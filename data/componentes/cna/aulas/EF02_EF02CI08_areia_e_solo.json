@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef02.sol_e_superficies.areia_e_solo",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 26,
+  "unidade": "Sol e Superfícies",
+  "titulo": "Areia e Solo",
+  "bncc": [
+    "EF02CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Interprete a tabela fictícia e diga qual amostra teve maior aumento. Liste duas condições que precisam ser registradas num teste real.",
+      "Planeje uma comparação segura de areia e solo com adulto. Inclua início, fim e o que manter semelhante."
+    ],
+    "resumo": "Areia e solo podem aquecer quando recebem energia solar.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.sol_e_superficies.aquecimento_da_agua\">Sol, aquecimento e diferentes superfícies</button></p><h2>Areia e Solo</h2><h3>Para compreender</h3><p>Areia e solo podem aquecer quando recebem energia solar. O efeito depende de umidade, composição, cor, quantidade, recipiente e tempo de exposição. Solo não é sinônimo de um único material uniforme, e não existe temperatura igual para toda areia. Para comparar, o adulto prepara amostras seguras em recipientes semelhantes e usa termômetro adequado, sem que crianças toquem material aquecido. Registre início e fim; não se conclui qual aqueceu mais apenas pela sensação de toque.</p><h3>Exemplo comentado</h3><p>Dados fictícios: areia de 24 °C para 32 °C; solo de 24 °C para 29 °C, sob condições declaradas iguais. Nesse exemplo, aumentaram 8 °C e 5 °C. Não é uma lei para qualquer amostra.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Interprete a tabela fictícia e diga qual amostra teve maior aumento. Liste duas condições que precisam ser registradas num teste real.</p><h4>Proposta 2</h4><p>Planeje uma comparação segura de areia e solo com adulto. Inclua início, fim e o que manter semelhante.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Explore Albedo Activity</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "areia_e_solo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No exemplo, areia aumentou de 24 °C para 32 °C. O aumento foi:",
+      "alternativas": [
+        "8 °C.",
+        "32 °C.",
+        "56 °C."
+      ],
+      "correta": 0,
+      "explicacao": "A variação é a diferença entre leitura final e inicial.",
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "areia_e_solo.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Interprete a tabela fictícia e diga qual amostra teve maior aumento. Liste duas condições que precisam ser registradas num teste real.",
+      "gabarito": "8 e 5 °C; citar umidade, quantidade, recipiente, exposição ou instrumento.",
+      "rubrica": [
+        "8 e 5 °C; citar umidade, quantidade, recipiente, exposição ou instrumento.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "areia_e_solo.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Planeje uma comparação segura de areia e solo com adulto. Inclua início, fim e o que manter semelhante.",
+      "gabarito": "Termômetro apropriado, sem toque, mesmo tempo e quantidades comparáveis, registrar umidade e composição.",
+      "rubrica": [
+        "Termômetro apropriado, sem toque, mesmo tempo e quantidades comparáveis, registrar umidade e composição.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Explore Albedo Activity",
+      "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.sol_e_superficies.aquecimento_da_agua"
+  ],
+  "proximosPassos": [
+    "cna.ef02.sol_e_superficies.superficies_claras_e_escuras"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Sol e Superfícies",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "titulo": "Areia e Solo"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

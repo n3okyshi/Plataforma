@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 27,
+  "unidade": "Sol e Superfícies",
+  "titulo": "Superfícies Claras e Escuras",
+  "bncc": [
+    "EF02CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare as variações fictícias e explique por que peças de materiais muito diferentes dificultariam investigar só a cor.",
+      "Planeje um teste com adulto, leitura inicial/final e condições semelhantes; registre previsão separada de resultado."
+    ],
+    "resumo": "Em condições comparáveis, superfícies escuras costumam absorver mais energia da luz visível, enquanto claras costumam refletir mais.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.sol_e_superficies.areia_e_solo\">Areia e Solo</button></p><h2>Superfícies Claras e Escuras</h2><h3>Para compreender</h3><p>Em condições comparáveis, superfícies escuras costumam absorver mais energia da luz visível, enquanto claras costumam refletir mais. Isso pode produzir diferenças de aquecimento ao Sol. Material, acabamento, umidade, massa e vento também influenciam. Para investigar cor, use superfícies do mesmo material e tamanho com cores distintas, mantendo exposição semelhante. O resultado deve ser medido, não imposto. Nunca teste o aquecimento com pele, pé ou olhando reflexos fortes.</p><h3>Exemplo comentado</h3><p>Caso fictício: duas peças iguais, uma clara e outra escura, começaram em 25 °C; depois ficaram em 29 °C e 34 °C. A escura aqueceu mais nesse ensaio, com os limites das condições informadas.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Compare as variações fictícias e explique por que peças de materiais muito diferentes dificultariam investigar só a cor.</p><h4>Proposta 2</h4><p>Planeje um teste com adulto, leitura inicial/final e condições semelhantes; registre previsão separada de resultado.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Explore Albedo Activity</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "superficies_claras_e_escuras.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para investigar só a cor, a melhor comparação usa:",
+      "alternativas": [
+        "Materiais e tamanhos diferentes.",
+        "Mesmo material e tamanho, cores distintas.",
+        "Uma peça ao Sol e outra no congelador."
+      ],
+      "correta": 1,
+      "explicacao": "Controlar condições ajuda a investigar o fator cor.",
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "superficies_claras_e_escuras.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Compare as variações fictícias e explique por que peças de materiais muito diferentes dificultariam investigar só a cor.",
+      "gabarito": "4 e 9 °C; controlar material, dimensão e exposição; não universalizar valores.",
+      "rubrica": [
+        "4 e 9 °C; controlar material, dimensão e exposição; não universalizar valores.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "superficies_claras_e_escuras.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Planeje um teste com adulto, leitura inicial/final e condições semelhantes; registre previsão separada de resultado.",
+      "gabarito": "Pergunta e método coerentes, medição apropriada e segurança, dados reais somente após executar.",
+      "rubrica": [
+        "Pergunta e método coerentes, medição apropriada e segurança, dados reais somente após executar.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Explore Albedo Activity",
+      "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.sol_e_superficies.areia_e_solo"
+  ],
+  "proximosPassos": [
+    "cna.ef02.sol_e_superficies.superficies_metalicas"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Sol e Superfícies",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "titulo": "Superfícies Claras e Escuras"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

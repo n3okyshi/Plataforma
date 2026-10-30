@@ -1,0 +1,126 @@
+{
+  "id": "cna.ef02.sol_no_ceu.observando_o_ceu",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 25,
+  "unidade": "O Sol no Céu",
+  "titulo": "Observando o Céu",
+  "bncc": [
+    "EF02CI07"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Prepare uma ficha de céu com data, horário, referências fixas, nuvens e sombra do objeto escolhido com adulto.",
+      "Compare duas fichas. Relacione o horário ao tamanho da sombra ou explique por que não foi possível obter a comparação."
+    ],
+    "resumo": "Um registro do céu pode indicar data, horário, nuvens e referências do horizonte, como telhado ou árvore.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.sol_no_ceu.sombra_e_horas_do_dia\">Sombra e Horas do Dia</button></p><h2>Observando o Céu</h2><h3>Para compreender</h3><p>Um registro do céu pode indicar data, horário, nuvens e referências do horizonte, como telhado ou árvore. Para estudar a posição aparente do Sol, use sombra de objeto fixo e orientações do adulto; não procure o disco solar com os olhos. Nuvens podem cobrir o Sol sem impedir a luz do dia. Uma sequência ajuda a relacionar horários e mudanças, mas um desenho isolado não explica por si só o movimento. A atividade pode ser feita com descrição, áudio ou desenho, em lugar protegido.</p><h3>Exemplo comentado</h3><p>Dois registros do mesmo pátio usam o telhado como referência. Se cada desenho muda a orientação da página sem aviso, fica difícil comparar. Marcar a mesma referência facilita a leitura.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Prepare uma ficha de céu com data, horário, referências fixas, nuvens e sombra do objeto escolhido com adulto.</p><h4>Proposta 2</h4><p>Compare duas fichas. Relacione o horário ao tamanho da sombra ou explique por que não foi possível obter a comparação.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://scied.ucar.edu/activity/sunshine-shadows\" target=\"_blank\" rel=\"noopener noreferrer\">UCAR Center for Science Education — Sunshine and Shadows</a></li><li><a href=\"https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">NASA — Sun As A Star: Afterschool Learning Activities</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "observando_o_ceu.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para comparar desenhos do céu, ajuda manter:",
+      "alternativas": [
+        "Só o mesmo lápis.",
+        "Referências fixas e horários registrados.",
+        "A data apagada."
+      ],
+      "correta": 1,
+      "explicacao": "Referências permitem interpretar posições e mudanças.",
+      "bncc": [
+        "EF02CI07"
+      ]
+    },
+    {
+      "id": "observando_o_ceu.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Prepare uma ficha de céu com data, horário, referências fixas, nuvens e sombra do objeto escolhido com adulto.",
+      "gabarito": "Registrar de modo seguro e comparável; posição solar inferida pela sombra, sem olhar diretamente.",
+      "rubrica": [
+        "Registrar de modo seguro e comparável; posição solar inferida pela sombra, sem olhar diretamente.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI07"
+      ]
+    },
+    {
+      "id": "observando_o_ceu.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare duas fichas. Relacione o horário ao tamanho da sombra ou explique por que não foi possível obter a comparação.",
+      "gabarito": "Associação fundamentada nos dados e limitações de nuvens, horário ou instrumento.",
+      "rubrica": [
+        "Associação fundamentada nos dados e limitações de nuvens, horário ou instrumento.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI07"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+      "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+      "consulta": "2026-10-30",
+      "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+    },
+    {
+      "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "O Sol no Céu",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "titulo": "Observando o Céu"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

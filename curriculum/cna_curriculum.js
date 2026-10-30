@@ -344,6 +344,195 @@ registrarCurriculo("Ciências Naturais", {
         "titulo": "Projetar, testar e revisar a escolha de material",
         "complementar": false
       }
+    ],
+    "Prevenção de Acidentes": [
+      {
+        "id": "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
+        "titulo": "Inflamáveis e Fogo",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
+        "titulo": "Eletricidade com Segurança",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
+        "titulo": "Produtos de Limpeza",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados",
+        "titulo": "Medicamentos e Cuidados",
+        "complementar": false
+      }
+    ],
+    "Plantas no Ambiente": [
+      {
+        "id": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+        "titulo": "Características das Plantas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+        "titulo": "Onde as Plantas Vivem",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.plantas_no_ambiente.animais_do_entorno",
+        "titulo": "Animais do Entorno",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+        "titulo": "Ambiente e Seres Vivos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.plantas_no_ambiente.observar_uma_planta",
+        "titulo": "Observar uma Planta de Perto",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+        "titulo": "Cuidar de uma Planta",
+        "complementar": false
+      }
+    ],
+    "Água, Luz e Vida das Plantas": [
+      {
+        "id": "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
+        "titulo": "Luz para as Plantas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
+        "titulo": "Experiências com Plantas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
+        "titulo": "Plantas sem Luz",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.agua_luz_e_vida.importancia_da_agua",
+        "titulo": "A Importância da Água",
+        "complementar": false
+      }
+    ],
+    "Partes das Plantas": [
+      {
+        "id": "cna.ef02.partes_das_plantas.caule",
+        "titulo": "O Caule",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.partes_das_plantas.folhas",
+        "titulo": "As Folhas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.partes_das_plantas.flores",
+        "titulo": "As Flores",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.partes_das_plantas.frutos_e_sementes",
+        "titulo": "Frutos e Sementes",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.partes_das_plantas.funcoes_de_cada_parte",
+        "titulo": "Funções de Cada Parte",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.partes_das_plantas.plantas_e_outros_seres",
+        "titulo": "Plantas e Outros Seres Vivos",
+        "complementar": false
+      }
+    ],
+    "O Sol no Céu": [
+      {
+        "id": "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+        "titulo": "Sombras ao Longo do Dia",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.sol_no_ceu.medindo_sombras",
+        "titulo": "Medindo Sombras",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+        "titulo": "O Sol Como Fonte de Luz e Calor",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+        "titulo": "Sombra e Horas do Dia",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.sol_no_ceu.observando_o_ceu",
+        "titulo": "Observando o Céu",
+        "complementar": false
+      }
+    ],
+    "Sol e Superfícies": [
+      {
+        "id": "cna.ef02.sol_e_superficies.areia_e_solo",
+        "titulo": "Areia e Solo",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+        "titulo": "Superfícies Claras e Escuras",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.sol_e_superficies.superficies_metalicas",
+        "titulo": "Superfícies Metálicas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.sol_e_superficies.reflexao_da_luz",
+        "titulo": "Reflexão da Luz",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol",
+        "titulo": "Comparando Superfícies ao Sol",
+        "complementar": false
+      }
+    ],
+    "Horta e Observação": [
+      {
+        "id": "cna.ef02.horta_e_observacao.montando_uma_horta",
+        "titulo": "Montando uma Horta",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.horta_e_observacao.registrando_o_crescimento",
+        "titulo": "Registrando o Crescimento",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.horta_e_observacao.diario_da_planta",
+        "titulo": "Diário da Planta",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.horta_e_observacao.colheita_e_cuidados",
+        "titulo": "Colheita e Cuidados",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.horta_e_observacao.compartilhando_descobertas",
+        "titulo": "Compartilhando Descobertas",
+        "complementar": false
+      }
     ]
   },
   "EF03": {

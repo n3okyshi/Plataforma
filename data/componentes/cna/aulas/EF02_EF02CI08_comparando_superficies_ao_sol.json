@@ -1,0 +1,120 @@
+{
+  "id": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 30,
+  "unidade": "Sol e Superfícies",
+  "titulo": "Comparando Superfícies ao Sol",
+  "bncc": [
+    "EF02CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Organize os dados fictícios em tabela com início, fim e aumento. Escreva uma comparação e uma limitação.",
+      "Planeje com adulto um ensaio de duas superfícies e um registro de reflexão, distinguindo o que cada procedimento avalia."
+    ],
+    "resumo": "Uma comparação de aquecimento precisa de pergunta, condições e registros.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.sol_e_superficies.reflexao_da_luz\">Reflexão da Luz</button></p><h2>Comparando Superfícies ao Sol</h2><h3>Para compreender</h3><p>Uma comparação de aquecimento precisa de pergunta, condições e registros. Água, areia, solo e outras superfícies podem responder de modos diferentes ao Sol. Use leituras iniciais e finais, duração e instrumento adequado, manejado pelo adulto. Compare variações, não só números finais quando os inícios diferem. Para reflexão, registre observação separada. Repita quando possível e relate limitações, como nuvem, vento, diferença de quantidade ou instrumento. Não faça uma competição para alcançar temperatura perigosa.</p><h3>Exemplo comentado</h3><p>Dados fictícios: água de 24 para 27 °C; areia de 25 para 33 °C; solo de 24 para 29 °C. Aumentos: 3, 8 e 5 °C. A tabela informa esse ensaio, não uma regra fixa para todas as superfícies.</p><table><caption>Dados fictícios para interpretação; não coletados pela turma</caption><thead><tr><th scope=\"col\">Superfície</th><th scope=\"col\">Início (°C)</th><th scope=\"col\">Fim (°C)</th></tr></thead><tbody><tr><td>Água</td><td>24</td><td>27</td></tr><tr><td>Areia</td><td>25</td><td>33</td></tr><tr><td>Solo</td><td>24</td><td>29</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Organize os dados fictícios em tabela com início, fim e aumento. Escreva uma comparação e uma limitação.</p><h4>Proposta 2</h4><p>Planeje com adulto um ensaio de duas superfícies e um registro de reflexão, distinguindo o que cada procedimento avalia.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Explore Albedo Activity</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "comparando_superficies_ao_sol.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na tabela fictícia, a água passou de 24 para 27 °C. Seu aumento foi:",
+      "alternativas": [
+        "3 °C.",
+        "27 °C.",
+        "51 °C."
+      ],
+      "correta": 0,
+      "explicacao": "A comparação usa a variação entre início e fim.",
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "comparando_superficies_ao_sol.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Organize os dados fictícios em tabela com início, fim e aumento. Escreva uma comparação e uma limitação.",
+      "gabarito": "Cálculos 3, 8 e 5 °C, maior aumento da areia neste exemplo; diferença inicial e demais condições explicitadas.",
+      "rubrica": [
+        "Cálculos 3, 8 e 5 °C, maior aumento da areia neste exemplo; diferença inicial e demais condições explicitadas.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "comparando_superficies_ao_sol.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Planeje com adulto um ensaio de duas superfícies e um registro de reflexão, distinguindo o que cada procedimento avalia.",
+      "gabarito": "Condições comparáveis, tempo, instrumento apropriado, sem toque/olhar solar; sem inventar execução.",
+      "rubrica": [
+        "Condições comparáveis, tempo, instrumento apropriado, sem toque/olhar solar; sem inventar execução.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Explore Albedo Activity",
+      "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.sol_e_superficies.reflexao_da_luz"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Sol e Superfícies",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "titulo": "Comparando Superfícies ao Sol"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

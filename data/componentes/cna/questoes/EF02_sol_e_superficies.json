@@ -1,0 +1,412 @@
+[
+  {
+    "id": "cna.ef02.sol_e_superficies.areia_e_solo.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.areia_e_solo",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "No exemplo, areia aumentou de 24 °C para 32 °C. O aumento foi:",
+    "opcoes": [
+      "32 °C.",
+      "56 °C.",
+      "8 °C."
+    ],
+    "correta": 2,
+    "explicacao": "A variação é a diferença entre leitura final e inicial.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.areia_e_solo.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.areia_e_solo",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "A areia estava seca e o solo muito úmido. A diferença de aquecimento pode ser atribuída somente ao nome do material?",
+    "opcoes": [
+      "Sim, não é necessário medir.",
+      "Sim, com certeza.",
+      "Não; a umidade também influencia."
+    ],
+    "correta": 2,
+    "explicacao": "Condições diferentes limitam a atribuição de causa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para investigar só a cor, a melhor comparação usa:",
+    "opcoes": [
+      "Uma peça ao Sol e outra no congelador.",
+      "Materiais e tamanhos diferentes.",
+      "Mesmo material e tamanho, cores distintas."
+    ],
+    "correta": 2,
+    "explicacao": "Controlar condições ajuda a investigar o fator cor.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "A peça escura aqueceu mais num ensaio. O relato correto é:",
+    "opcoes": [
+      "Toda superfície escura tem sempre a mesma temperatura.",
+      "Não precisamos informar o método.",
+      "Nestas condições, a peça escura teve maior aumento medido."
+    ],
+    "correta": 2,
+    "explicacao": "A conclusão deve acompanhar o alcance do ensaio.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.superficies_metalicas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.superficies_metalicas",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma peça metálica brilhante ao Sol é sempre fria?",
+    "opcoes": [
+      "Não; brilho não garante temperatura segura.",
+      "Sim, porque reflete luz.",
+      "Sim, basta tocar para conferir."
+    ],
+    "correta": 0,
+    "explicacao": "Refletir parte da luz não impede absorver energia e aquecer.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.superficies_metalicas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.superficies_metalicas",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Para avaliar um escorregador muito exposto ao Sol, a criança deve:",
+    "opcoes": [
+      "Pedir avaliação segura ao adulto.",
+      "Encostar o rosto.",
+      "Pisar descalça."
+    ],
+    "correta": 0,
+    "explicacao": "O corpo não é instrumento de teste de superfície possivelmente quente.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.reflexao_da_luz.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.reflexao_da_luz",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Refletir luz significa:",
+    "opcoes": [
+      "Devolver parte da luz recebida ao ambiente.",
+      "Eliminar sempre todo aquecimento.",
+      "Deixar toda a luz atravessar a superfície."
+    ],
+    "correta": 0,
+    "explicacao": "Parte da luz pode ser refletida e parte absorvida.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.reflexao_da_luz.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.reflexao_da_luz",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um papel parece mais claro sob a lanterna. Isso permite informar sua temperatura exata?",
+    "opcoes": [
+      "Não; temperatura exige avaliação apropriada.",
+      "Sim, qualquer valor serve.",
+      "Sim, sem instrumento."
+    ],
+    "correta": 0,
+    "explicacao": "Percepção de brilho não fornece uma medida térmica.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Na tabela fictícia, a água passou de 24 para 27 °C. Seu aumento foi:",
+    "opcoes": [
+      "51 °C.",
+      "3 °C.",
+      "27 °C."
+    ],
+    "correta": 1,
+    "explicacao": "A comparação usa a variação entre início e fim.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Sol e Superfícies",
+    "aulaId": "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um grupo mede só temperaturas finais, que começaram diferentes. O que melhora o estudo?",
+    "opcoes": [
+      "Apagar valores inconvenientes.",
+      "Registrar início e fim para comparar aumentos.",
+      "Testar com o pé."
+    ],
+    "correta": 1,
+    "explicacao": "Sem início não se conhece quanto cada superfície aqueceu.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Explore Albedo Activity",
+        "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

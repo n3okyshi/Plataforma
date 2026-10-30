@@ -1040,5 +1040,13 @@
     "data/componentes/lip/rascunhos/unidades/EM03_sintese_final_ba1c2a.json",
     "data/componentes/lip/rascunhos/unidades/EM03_vida_pessoal_e_publica_0b6035.json"
   ],
-  "regra": "Consultar estado e conteúdo real antes de trabalhar; planos que referenciam aulas existentes não autorizam reescrevê-las automaticamente."
+  "regra": "Consultar estado e conteúdo real antes de trabalhar; planos que referenciam aulas existentes não autorizam reescrevê-las automaticamente.",
+  "continuidadeCiencias": {
+    "ultimoLote": "data/componentes/cna/lote_EF02_temas_restantes.json",
+    "EF01": "implementado_para_testes",
+    "EF02": "implementado_para_testes",
+    "topicosSemAutoria": 293,
+    "proximo": "EF03: 30 tópicos restantes",
+    "limite": "Não repetir autoria existente sem lacuna comprovada; homologação pendente."
+  }
 }

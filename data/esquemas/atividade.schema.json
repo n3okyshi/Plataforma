@@ -81,7 +81,6 @@
           "titulo",
           "enunciado",
           "gabarito",
-          "atividadeOrigem",
           "bncc"
         ],
         "properties": {
@@ -108,8 +107,59 @@
               "type": "string",
               "minLength": 1
             }
+          },
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "tipo": {
+            "type": "string"
+          },
+          "aulasReferencia": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "rubrica": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
           }
-        }
+        },
+        "oneOf": [
+          {
+            "required": [
+              "atividadeOrigem"
+            ],
+            "properties": {
+              "tipo": {
+                "not": {
+                  "const": "transferencia"
+                }
+              }
+            }
+          },
+          {
+            "required": [
+              "id",
+              "tipo",
+              "aulasReferencia",
+              "rubrica"
+            ],
+            "properties": {
+              "tipo": {
+                "const": "transferencia"
+              }
+            }
+          }
+        ]
       }
     }
   },

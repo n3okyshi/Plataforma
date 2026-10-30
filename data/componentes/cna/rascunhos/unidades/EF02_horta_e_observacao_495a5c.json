@@ -1,1 +1,134 @@
-{"id":"cna.ef02.plano.horta_e_observacao.495a5c","componente":"cna","nivel":"EF02","titulo":"Horta e Observação","estado":"planejado","complementar":false,"publicacao":{"permitida":false},"aulas":["cna.ef02.horta_e_observacao.montando_uma_horta","cna.ef02.horta_e_observacao.registrando_o_crescimento","cna.ef02.horta_e_observacao.diario_da_planta","cna.ef02.horta_e_observacao.colheita_e_cuidados","cna.ef02.horta_e_observacao.compartilhando_descobertas"],"bnccCandidata":["EF02CI04","EF02CI05","EF02CI06"],"camadas":{"teoria":{"estado":"planejado","aulas":["data/componentes/cna/rascunhos/aulas/EF02_montando_uma_horta_6d33219a.json","data/componentes/cna/rascunhos/aulas/EF02_registrando_o_crescimento_862d749c.json","data/componentes/cna/rascunhos/aulas/EF02_diario_da_planta_ccaf06e2.json","data/componentes/cna/rascunhos/aulas/EF02_colheita_e_cuidados_52c3bd96.json","data/componentes/cna/rascunhos/aulas/EF02_compartilhando_descobertas_20e05cde.json"]},"atividades":{"estado":"planejado","criterio":"Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."},"questoes":{"estado":"planejado","itens":[]},"prova":{"estado":"planejado","questoes":[],"matriz":[{"bncc":"EF02CI04","evidencias":[]},{"bncc":"EF02CI05","evidencias":[]},{"bncc":"EF02CI06","evidencias":[]}]},"arena":{"estado":"planejado","selecao":{"componente":"cna","nivel":"EF02","unidade":"Horta e Observação"},"itens":[]},"rastreabilidade":{"estado":"parcial","catalogo":"data/planejamento-basica/referencias-curriculares.json","revisaoPedagogica":"pendente"}},"conteudosExistentesPreservados":[],"observacao":"Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.","avaliacao":{"tipo":"objetiva_e_producoes_conforme_objetivos","registros":[],"devolutiva":"Docente com critérios a desenvolver; nenhuma observação realizada."},"pendencias":["Confrontar tópico e todas as dimensões do objetivo.","Escrever e revisar conteúdo, recursos e avaliações.","Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."]}
+{
+  "id": "cna.ef02.plano.horta_e_observacao.495a5c",
+  "componente": "cna",
+  "nivel": "EF02",
+  "titulo": "Horta e Observação",
+  "estado": "planejado",
+  "complementar": false,
+  "publicacao": {
+    "permitida": false
+  },
+  "aulas": [
+    "cna.ef02.horta_e_observacao.montando_uma_horta",
+    "cna.ef02.horta_e_observacao.registrando_o_crescimento",
+    "cna.ef02.horta_e_observacao.diario_da_planta",
+    "cna.ef02.horta_e_observacao.colheita_e_cuidados",
+    "cna.ef02.horta_e_observacao.compartilhando_descobertas"
+  ],
+  "bnccCandidata": [
+    "EF02CI04",
+    "EF02CI05",
+    "EF02CI06"
+  ],
+  "camadas": {
+    "teoria": {
+      "estado": "planejado",
+      "aulas": [
+        "data/componentes/cna/rascunhos/aulas/EF02_montando_uma_horta_6d33219a.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_registrando_o_crescimento_862d749c.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_diario_da_planta_ccaf06e2.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_colheita_e_cuidados_52c3bd96.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_compartilhando_descobertas_20e05cde.json"
+      ]
+    },
+    "atividades": {
+      "estado": "planejado",
+      "criterio": "Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."
+    },
+    "questoes": {
+      "estado": "planejado",
+      "itens": []
+    },
+    "prova": {
+      "estado": "planejado",
+      "questoes": [],
+      "matriz": [
+        {
+          "bncc": "EF02CI04",
+          "evidencias": []
+        },
+        {
+          "bncc": "EF02CI05",
+          "evidencias": []
+        },
+        {
+          "bncc": "EF02CI06",
+          "evidencias": []
+        }
+      ]
+    },
+    "arena": {
+      "estado": "planejado",
+      "selecao": {
+        "componente": "cna",
+        "nivel": "EF02",
+        "unidade": "Horta e Observação"
+      },
+      "itens": []
+    },
+    "rastreabilidade": {
+      "estado": "parcial",
+      "catalogo": "data/planejamento-basica/referencias-curriculares.json",
+      "revisaoPedagogica": "pendente"
+    }
+  },
+  "conteudosExistentesPreservados": [],
+  "observacao": "Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.",
+  "avaliacao": {
+    "tipo": "objetiva_e_producoes_conforme_objetivos",
+    "registros": [],
+    "devolutiva": "Docente com critérios a desenvolver; nenhuma observação realizada."
+  },
+  "pendencias": [
+    "Confrontar tópico e todas as dimensões do objetivo.",
+    "Escrever e revisar conteúdo, recursos e avaliações.",
+    "Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."
+  ],
+  "implementacao": {
+    "estado": "pronto_para_testes",
+    "aulas": [
+      "data/componentes/cna/aulas/EF02_EF02CI05_montando_uma_horta.json",
+      "data/componentes/cna/aulas/EF02_EF02CI05_registrando_o_crescimento.json",
+      "data/componentes/cna/aulas/EF02_EF02CI04_diario_da_planta.json",
+      "data/componentes/cna/aulas/EF02_EF02CI06_colheita_e_cuidados.json",
+      "data/componentes/cna/aulas/EF02_EF02CI04_compartilhando_descobertas.json"
+    ],
+    "registro": "data/componentes/cna/lote_EF02_temas_restantes.json",
+    "limites": "Plano original preservado; autoria canônica indicada. Aplicação e homologação pendentes.",
+    "camadas": {
+      "teoria": [
+        "data/componentes/cna/aulas/EF02_EF02CI05_montando_uma_horta.json",
+        "data/componentes/cna/aulas/EF02_EF02CI05_registrando_o_crescimento.json",
+        "data/componentes/cna/aulas/EF02_EF02CI04_diario_da_planta.json",
+        "data/componentes/cna/aulas/EF02_EF02CI06_colheita_e_cuidados.json",
+        "data/componentes/cna/aulas/EF02_EF02CI04_compartilhando_descobertas.json"
+      ],
+      "atividades": [
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.aplicacao",
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao1",
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao2",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.aplicacao",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao1",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao2",
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.aplicacao",
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao1",
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao2",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.aplicacao",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao1",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao2",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.aplicacao",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao1",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao2"
+      ],
+      "questoes": "data/componentes/cna/questoes/EF02_horta_e_observacao.json",
+      "prova": "data/componentes/cna/provas/EF02_horta_e_observacao.json",
+      "arena": {
+        "arquivo": "arena/cna_arena.js",
+        "nivel": "EF02",
+        "unidade": "Horta e Observação",
+        "componente": "cna"
+      },
+      "rastreabilidade": "data/componentes/cna/lote_EF02_temas_restantes.json"
+    }
+  }
+}
