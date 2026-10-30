@@ -75,3 +75,7 @@ Sete aulas adicionais e quatorze atividades. Núcleo curricular: substantivos, a
 ## Português EF06: Sintaxe da Oração
 
 Seis aulas e doze atividades adicionais; seis questões de treino e seis itens próprios de prova, com portfólio. O treino sorteia até cinco itens da unidade; a prova utiliza os seis itens previstos. Trabalha frases/orações/períodos, períodos simples/compostos, sintagmas, coordenação sem conectivo e concordância nominal/verbal. Inclui relato com rascunho, versão revisada e justificativas. Acumulado: vinte e três aulas, quarenta e seis atividades, vinte e duas questões de treino e vinte e dois itens de prova em cinco avaliações (uma complementar). Vínculos EF06LP06–EF06LP11 são recortes com evidências planejadas; revisão docente e uso real continuam pendentes.
+
+## Português EF06: Ortografia e Pontuação
+
+Cinco aulas, dez atividades, cinco questões de treino e cinco itens próprios de prova, com portfólio de escrita/revisão. Parônimas e homônimas passam a EF67LP32 pelo uso ortográfico em contexto, sem vínculo artificial com EF06LP03. EF67LP33 tem produção pontuada e comparação de sentidos. Regras de acentuação e hífen são apresentadas em recorte explícito. Total de Português: 28 aulas, 56 atividades e 27 itens por banco, com seis avaliações (uma complementar). Inventário atualizado; restam 33 entradas planejadas de EF06 sem autoria. Homologação docente, visual/acessibilidade e Firebase/cache reais permanecem pendentes.

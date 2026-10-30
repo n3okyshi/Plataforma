@@ -1,0 +1,107 @@
+{
+  "id": "lip.ef06.ortografia_e_pontuacao.pontuar_textos",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 25,
+  "unidade": "Ortografia e Pontuação",
+  "titulo": "Pontuação e construção de sentidos",
+  "bncc": [
+    "EF67LP33"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Pontue o trecho conforme esta intenção: Lia pergunta se os colegas trouxeram lápis, papel e régua; depois convida a turma a começar. Trecho: “Lia perguntou vocês trouxeram lápis papel e régua vamos começar turma”. Reescreva como pequeno diálogo com fala identificada. Explique três sinais e compare “Não, espere” com “Não espere”."
+    ],
+    "resumo": "Pontuação e construção de sentidos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Pontuação e construção de sentidos</h2><p>A pontuação organiza a escrita e ajuda o leitor a reconhecer relações, limites e vozes. Não é apenas uma transcrição das pausas da respiração. Ponto final pode encerrar uma declaração; interrogação marca pergunta direta; exclamação pode intensificar uma reação. Dois-pontos podem introduzir uma explicação, lista ou fala. Aspas podem delimitar uma fala citada; travessão também pode marcar diálogo. A vírgula separa itens de uma enumeração e isola o chamamento, chamado vocativo. Nos exemplos básicos, não separe sujeito e verbo por vírgula.</p><h3>Exemplo comentado</h3><p>“Vamos ler, turma!” chama a turma para a leitura. Em “A turma leu o conto”, turma é o sujeito, sem vírgula antes de leu. “Trouxe três materiais: papel, lápis e régua” apresenta uma enumeração. Compare “Não, espere” (negação seguida de pedido para esperar) e “Não espere” (pedido para não esperar): a vírgula muda a relação e o sentido.</p><h3>Produza e revise</h3><p>Pontue o trecho conforme esta intenção: Lia pergunta se os colegas trouxeram lápis, papel e régua; depois convida a turma a começar. Trecho: “Lia perguntou vocês trouxeram lápis papel e régua vamos começar turma”. Reescreva como pequeno diálogo com fala identificada. Explique três sinais e compare “Não, espere” com “Não espere”.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pontuar_textos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual frase isola corretamente o vocativo?",
+      "alternativas": [
+        "A turma, começou a leitura.",
+        "Vamos começar, turma!",
+        "Os alunos, trouxeram livros.",
+        "A professora, leu."
+      ],
+      "correta": 1,
+      "explicacao": "“Vamos ler, turma!” chama a turma para a leitura. Em “A turma leu o conto”, turma é o sujeito, sem vírgula antes de leu. “Trouxe três materiais: papel, lápis e régua” apresenta uma enumeração. Compare “Não, espere” (negação seguida de pedido para esperar) e “Não espere” (pedido para não esperar): a vírgula muda a relação e o sentido.",
+      "bncc": [
+        "EF67LP33"
+      ]
+    },
+    {
+      "id": "pontuar_textos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Pontue o trecho conforme esta intenção: Lia pergunta se os colegas trouxeram lápis, papel e régua; depois convida a turma a começar. Trecho: “Lia perguntou vocês trouxeram lápis papel e régua vamos começar turma”. Reescreva como pequeno diálogo com fala identificada. Explique três sinais e compare “Não, espere” com “Não espere”.",
+      "gabarito": "Possibilidade: Lia perguntou: “Vocês trouxeram lápis, papel e régua?” Depois, convidou: “Vamos começar, turma!” Aceitar travessões e outra organização que preserve pergunta, enumeração e convite. Explicar dois-pontos/aspas ou travessão, interrogação, vírgulas e vocativo. A comparação deve distinguir esperar de não esperar.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Possibilidade: Lia perguntou: “Vocês trouxeram lápis, papel e régua?” Depois, convidou: “Vamos começar, turma!” Aceitar travessões e outra organização que preserve pergunta, enumeração e convite. Explicar dois-pontos/aspas ou travessão, interrogação, vírgulas e vocativo. A comparação deve distinguir esperar de não esperar.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP33"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        29,
+        30,
+        31,
+        32,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        233,
+        234,
+        235
+      ],
+      "paginasImpressas": "32–35, 47–58, 236–238",
+      "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

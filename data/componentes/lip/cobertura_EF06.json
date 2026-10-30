@@ -1,13 +1,14 @@
 {
   "nivel": "EF06",
-  "estado": "piloto_quatro_unidades",
+  "estado": "piloto_cinco_unidades",
   "escopo": [
     "Língua, Texto e Contexto",
     "Morfologia",
     "Classes Gramaticais",
-    "Sintaxe da Oração"
+    "Sintaxe da Oração",
+    "Ortografia e Pontuação"
   ],
-  "limites": "Quatro unidades para testes. Restante do ano em planejamento; evidências não comprovam domínio.",
+  "limites": "Cinco unidades para testes. Restante do ano em planejamento; evidências não comprovam domínio.",
   "habilidades": [
     {
       "codigo": "EF06LP01",
@@ -289,6 +290,50 @@
       ],
       "questoesProva": [
         "lip.ef06.sintaxe_da_oracao.prova.06"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF67LP32",
+      "aulas": [
+        "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes",
+        "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica",
+        "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen",
+        "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas"
+      ],
+      "atividades": [
+        "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes#ortografia_e_convencoes.producao",
+        "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica#acentuacao_grafica.producao",
+        "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen#emprego_do_hifen.producao",
+        "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas#paronimas_e_homonimas.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.ortografia_e_pontuacao.treino.01",
+        "lip.ef06.ortografia_e_pontuacao.treino.03",
+        "lip.ef06.ortografia_e_pontuacao.treino.04",
+        "lip.ef06.ortografia_e_pontuacao.treino.05"
+      ],
+      "questoesProva": [
+        "lip.ef06.ortografia_e_pontuacao.prova.01",
+        "lip.ef06.ortografia_e_pontuacao.prova.03",
+        "lip.ef06.ortografia_e_pontuacao.prova.04",
+        "lip.ef06.ortografia_e_pontuacao.prova.05"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF67LP33",
+      "aulas": [
+        "lip.ef06.ortografia_e_pontuacao.pontuar_textos"
+      ],
+      "atividades": [
+        "lip.ef06.ortografia_e_pontuacao.pontuar_textos#pontuar_textos.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.ortografia_e_pontuacao.treino.02"
+      ],
+      "questoesProva": [
+        "lip.ef06.ortografia_e_pontuacao.prova.02"
       ],
       "revisaoDocente": "pendente"
     }

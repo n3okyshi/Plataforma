@@ -1,0 +1,107 @@
+{
+  "id": "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 28,
+  "unidade": "Ortografia e Pontuação",
+  "titulo": "Palavras parecidas: escolha pelo contexto",
+  "bncc": [
+    "EF67LP32"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escreva um pequeno relato com comprimento/cumprimento e acento/assento, usando cada palavra em sentido adequado. Depois revise “O assento da palavra está errado” e “Medi o cumprimento do corredor”, explicando por que um corretor automático poderia não detectar o problema."
+    ],
+    "resumo": "Palavras parecidas: escolha pelo contexto",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Palavras parecidas: escolha pelo contexto</h2><p>Parônimas são palavras parecidas na forma e na pronúncia, mas com sentidos diferentes, como comprimento (extensão) e cumprimento (saudação ou realização de algo). Homônimas têm coincidência de som e/ou escrita com sentidos diferentes: acento/assento soam da mesma maneira em muitas variedades do português, mas indicam coisas distintas. A classificação não substitui a leitura: as duas formas podem existir no dicionário e no corretor, mas só uma ser adequada à frase. Este recorte trabalha escrita contextualizada, não a habilidade de comparar séries de sinônimos.</p><h3>Exemplo comentado</h3><p>“Medi o comprimento da mesa” trata de extensão. “Enviei um cumprimento à colega” trata de saudação. “A palavra tem acento” refere-se a sinal gráfico; “O assento está livre” refere-se a lugar para sentar. Retificar é corrigir; ratificar é confirmar. Uma troca entre palavras existentes pode alterar o sentido sem produzir uma sequência de letras inexistente.</p><h3>Produza e revise</h3><p>Escreva um pequeno relato com comprimento/cumprimento e acento/assento, usando cada palavra em sentido adequado. Depois revise “O assento da palavra está errado” e “Medi o cumprimento do corredor”, explicando por que um corretor automático poderia não detectar o problema.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "paronimas_e_homonimas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual frase usa assento adequadamente?",
+      "alternativas": [
+        "A palavra café tem assento.",
+        "O assento do ônibus está livre.",
+        "Coloque assento agudo na vogal.",
+        "O assento indica a sílaba tônica por um sinal gráfico."
+      ],
+      "correta": 1,
+      "explicacao": "“Medi o comprimento da mesa” trata de extensão. “Enviei um cumprimento à colega” trata de saudação. “A palavra tem acento” refere-se a sinal gráfico; “O assento está livre” refere-se a lugar para sentar. Retificar é corrigir; ratificar é confirmar. Uma troca entre palavras existentes pode alterar o sentido sem produzir uma sequência de letras inexistente.",
+      "bncc": [
+        "EF67LP32"
+      ]
+    },
+    {
+      "id": "paronimas_e_homonimas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Escreva um pequeno relato com comprimento/cumprimento e acento/assento, usando cada palavra em sentido adequado. Depois revise “O assento da palavra está errado” e “Medi o cumprimento do corredor”, explicando por que um corretor automático poderia não detectar o problema.",
+      "gabarito": "Exigir quatro usos coerentes no relato. Revisões: “O acento da palavra está errado” e “Medi o comprimento do corredor”. As palavras originais existem, mas são inadequadas ao sentido pretendido; um corretor que verifique apenas a existência das formas pode não sinalizá-las.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir quatro usos coerentes no relato. Revisões: “O acento da palavra está errado” e “Medi o comprimento do corredor”. As palavras originais existem, mas são inadequadas ao sentido pretendido; um corretor que verifique apenas a existência das formas pode não sinalizá-las.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP32"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        29,
+        30,
+        31,
+        32,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        233,
+        234,
+        235
+      ],
+      "paginasImpressas": "32–35, 47–58, 236–238",
+      "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

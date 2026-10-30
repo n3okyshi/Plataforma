@@ -1,0 +1,107 @@
+{
+  "id": "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 24,
+  "unidade": "Ortografia e Pontuação",
+  "titulo": "Ortografia e revisão orientada",
+  "bncc": [
+    "EF67LP32"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Produza um bilhete de quatro frases sobre uma viagem fictícia, identificada como ficção. Empregue viagem e uma forma do verbo viajar. Sublinhe três palavras cuja grafia você conferiu no dicionário ou no material da aula. Entregue a primeira versão e a revisada, explicando as escolhas."
+    ],
+    "resumo": "Ortografia e revisão orientada",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Ortografia e revisão orientada</h2><p>A ortografia reúne convenções para escrever palavras. A relação entre som e letra nem sempre é única: um som pode ter diferentes grafias e uma letra pode representar diferentes sons. Por isso, escrever apenas como se pronuncia não resolve todas as dúvidas. A variação de pronúncia não torna uma pessoa inferior; aprender a escrita convencional amplia as possibilidades de circulação dos textos. Podemos observar famílias de palavras e consultar dicionários, mas não devemos transformar uma regularidade parcial em regra sem exceções.</p><h3>Exemplo comentado</h3><p>Viagem é substantivo: “A viagem foi tranquila”. Viajem é uma forma do verbo viajar: “Espero que eles viajem amanhã”. O verbo mantém o j nessa forma. Em “A turma pesquisou a história do bairro”, pesquisou e história têm grafias convencionais que precisam ser conferidas quando houver dúvida. Um corretor automático pode sugerir uma palavra existente, mas inadequada ao sentido: a revisão deve ler a frase inteira.</p><h3>Produza e revise</h3><p>Produza um bilhete de quatro frases sobre uma viagem fictícia, identificada como ficção. Empregue viagem e uma forma do verbo viajar. Sublinhe três palavras cuja grafia você conferiu no dicionário ou no material da aula. Entregue a primeira versão e a revisada, explicando as escolhas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "ortografia_e_convencoes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual frase emprega adequadamente viagem e viajem?",
+      "alternativas": [
+        "Espero que eles viagem amanhã.",
+        "A viajem foi tranquila.",
+        "Espero que eles viajem amanhã.",
+        "Nossa viajem terminou."
+      ],
+      "correta": 2,
+      "explicacao": "Viagem é substantivo: “A viagem foi tranquila”. Viajem é uma forma do verbo viajar: “Espero que eles viajem amanhã”. O verbo mantém o j nessa forma. Em “A turma pesquisou a história do bairro”, pesquisou e história têm grafias convencionais que precisam ser conferidas quando houver dúvida. Um corretor automático pode sugerir uma palavra existente, mas inadequada ao sentido: a revisão deve ler a frase inteira.",
+      "bncc": [
+        "EF67LP32"
+      ]
+    },
+    {
+      "id": "ortografia_e_convencoes.producao",
+      "tipo": "discursiva",
+      "enunciado": "Produza um bilhete de quatro frases sobre uma viagem fictícia, identificada como ficção. Empregue viagem e uma forma do verbo viajar. Sublinhe três palavras cuja grafia você conferiu no dicionário ou no material da aula. Entregue a primeira versão e a revisada, explicando as escolhas.",
+      "gabarito": "Exigir bilhete real e versões. Viagem deve nomear o deslocamento; viajar/viajaram/viajem devem funcionar como verbo no contexto. Registrar três conferências com a forma verificada e a fonte usada. Se a primeira versão já estiver correta, justificar a manutenção; não exigir erros inventados.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir bilhete real e versões. Viagem deve nomear o deslocamento; viajar/viajaram/viajem devem funcionar como verbo no contexto. Registrar três conferências com a forma verificada e a fonte usada. Se a primeira versão já estiver correta, justificar a manutenção; não exigir erros inventados.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP32"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        29,
+        30,
+        31,
+        32,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        233,
+        234,
+        235
+      ],
+      "paginasImpressas": "32–35, 47–58, 236–238",
+      "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}
