@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.producao_de_textos.coesao_referencial_na_producao",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 46,
+  "unidade": "Produção de Textos",
+  "titulo": "Coesão Referencial e Sequencial na Produção",
+  "bncc": [
+    "EF06LP12"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escreva um relato fictício curto com duas vozes, nome e pronome com referentes claros, um par de sinônimos, um contraste por antônimos e uma ocorrência de homonímia contextualizada. Inclua fala direta e sua reformulação indireta. Anote cada recurso e revise ambiguidades sem mudar a autoria das falas."
+    ],
+    "resumo": "Coesão Referencial e Sequencial na Produção",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Coesão Referencial e Sequencial na Produção</h2><p>Coesão referencial liga as partes do texto por nomes e pronomes; relações semânticas podem produzir aproximação, contraste ou jogo com palavras iguais. Discurso direto apresenta uma voz citada; indireto relata essa fala com ajustes. Não troque todo nome por pronome: referências ambíguas prejudicam a leitura. Semelhança de sentido não torna toda substituição equivalente.</p><h3>Exemplo comentado</h3><p>“Lia falou: Estou contente. A estudante explicou que estava alegre, mas Rui estava triste.” Lia e a estudante retomam a mesma pessoa; contente/alegre aproximam sentidos e alegre/triste contrastam. Para homonímia, “O banco da praça ficava em frente ao banco da cidade” usa banco com sentidos distintos. A voz relatada deve continuar atribuída, sem alterar o que a personagem disse.</p><h3>Produza e revise</h3><p>Escreva um relato fictício curto com duas vozes, nome e pronome com referentes claros, um par de sinônimos, um contraste por antônimos e uma ocorrência de homonímia contextualizada. Inclua fala direta e sua reformulação indireta. Anote cada recurso e revise ambiguidades sem mudar a autoria das falas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "coesao_referencial_na_producao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual revisão resolve um pronome ambíguo?",
+      "alternativas": [
+        "Repetir sempre ele sem contexto.",
+        "Nomear o referente quando necessário.",
+        "Apagar todas as personagens.",
+        "Trocar qualquer substantivo por seu."
+      ],
+      "correta": 1,
+      "explicacao": "“Lia falou: Estou contente. A estudante explicou que estava alegre, mas Rui estava triste.” Lia e a estudante retomam a mesma pessoa; contente/alegre aproximam sentidos e alegre/triste contrastam. Para homonímia, “O banco da praça ficava em frente ao banco da cidade” usa banco com sentidos distintos. A voz relatada deve continuar atribuída, sem alterar o que a personagem disse.",
+      "bncc": [
+        "EF06LP12"
+      ]
+    },
+    {
+      "id": "coesao_referencial_na_producao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Escreva um relato fictício curto com duas vozes, nome e pronome com referentes claros, um par de sinônimos, um contraste por antônimos e uma ocorrência de homonímia contextualizada. Inclua fala direta e sua reformulação indireta. Anote cada recurso e revise ambiguidades sem mudar a autoria das falas.",
+      "gabarito": "Conferir produção efetiva e identificação de todos os recursos: retomada, sinonímia, antonímia, homonímia e duas formas de representar a voz. Aceitar exemplos diversos justificados. Exigir correspondência de sentido entre fala direta e indireta; a simples marcação de classes não encerra a tarefa.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Conferir produção efetiva e identificação de todos os recursos: retomada, sinonímia, antonímia, homonímia e duas formas de representar a voz. Aceitar exemplos diversos justificados. Exigir correspondência de sentido entre fala direta e indireta; a simples marcação de classes não encerra a tarefa.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF06LP12"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165,
+        167
+      ],
+      "paginasImpressas": "163,165",
+      "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Modelos e ilustrações autorais incorporados",
+      "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

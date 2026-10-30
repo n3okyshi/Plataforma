@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.midia_e_efeitos_de_sentido.humor_ironia_e_memes",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 40,
+  "unidade": "Mídia e Efeitos de Sentido",
+  "titulo": "Humor, Ironia e Memes",
+  "bncc": [
+    "EF69LP05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Explique a crítica citando uma pista verbal e uma visual. Proponha outra legenda que mude o efeito e justifique. Crie uma tirinha de dois quadros sobre um comportamento cotidiano, com crítica ao comportamento e sem identificação de colegas."
+    ],
+    "resumo": "Humor, Ironia e Memes",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Humor, Ironia e Memes</h2><p>Humor e ironia podem surgir da distância entre fala e ação, de duplo sentido ou da relação inesperada entre imagem e legenda. Inferir não é adivinhar sem pista: a interpretação precisa apontar elementos do texto. Uma crítica pode atingir um comportamento, sem humilhar grupos ou expor pessoas.</p><h3>Exemplo comentado</h3><p><svg viewBox=\"0 0 600 220\" role=\"img\" aria-label=\"Tirinha autoral em dois quadros: no primeiro, uma personagem junto a uma torneira diz Eu economizo cada gota. No segundo, olha o celular enquanto a torneira continua aberta e a água escorre.\"><rect x=\"5\" y=\"5\" width=\"285\" height=\"205\" fill=\"#fafafa\" stroke=\"#222\"/><rect x=\"310\" y=\"5\" width=\"285\" height=\"205\" fill=\"#fafafa\" stroke=\"#222\"/><g stroke=\"#222\" fill=\"none\" stroke-width=\"4\"><circle cx=\"80\" cy=\"90\" r=\"20\"/><path d=\"M80 110v60m0-45-30 25m30-25 35 20M200 95h45v25\"/><circle cx=\"385\" cy=\"90\" r=\"20\"/><path d=\"M385 110v60m0-45 35 20m80-50h45v25\"/><rect x=\"420\" y=\"120\" width=\"18\" height=\"30\"/></g><g stroke=\"#197ab0\" stroke-width=\"5\"><path d=\"M245 125v60m300-60v60\"/></g><g fill=\"#111\" font-size=\"14\"><text x=\"15\" y=\"35\">Eu economizo cada gota!</text><text x=\"320\" y=\"35\">Só mais uma mensagem...</text></g></svg><p>A fala de economizar contrasta com a torneira aberta enquanto a personagem olha o celular. A incongruência critica a distância entre discurso e prática. A tirinha é autoral e não retrata uma pessoa real.</p></p><h3>Produza e revise</h3><p>Explique a crítica citando uma pista verbal e uma visual. Proponha outra legenda que mude o efeito e justifique. Crie uma tirinha de dois quadros sobre um comportamento cotidiano, com crítica ao comportamento e sem identificação de colegas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "humor_ironia_e_memes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual relação produz a crítica da tirinha?",
+      "alternativas": [
+        "Concordância perfeita entre fala e ação.",
+        "Ausência de qualquer elemento visual.",
+        "Contraste entre economizar declarado e água desperdiçada.",
+        "Apenas a cor do fundo."
+      ],
+      "correta": 2,
+      "explicacao": "A fala de economizar contrasta com a torneira aberta e o desperdício visual, produzindo crítica à distância entre discurso e prática.",
+      "bncc": [
+        "EF69LP05"
+      ]
+    },
+    {
+      "id": "humor_ironia_e_memes.producao",
+      "tipo": "discursiva",
+      "enunciado": "Explique a crítica citando uma pista verbal e uma visual. Proponha outra legenda que mude o efeito e justifique. Crie uma tirinha de dois quadros sobre um comportamento cotidiano, com crítica ao comportamento e sem identificação de colegas.",
+      "gabarito": "Exigir referência à economia declarada e ao desperdício visual, explicação da incongruência e dois quadros produzidos. Legenda alternativa pode mudar a voz ou intenção; avaliar pelas pistas, sem impor uma única formulação.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir referência à economia declarada e ao desperdício visual, explicação da incongruência e dois quadros produzidos. Legenda alternativa pode mudar a voz ou intenção; avaliar pelas pistas, sem impor uma única formulação.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF69LP05"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165,
+        167
+      ],
+      "paginasImpressas": "163,165",
+      "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Modelos e ilustrações autorais incorporados",
+      "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

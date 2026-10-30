@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.midia_e_efeitos_de_sentido.recursos_persuasivos",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 37,
+  "unidade": "Mídia e Efeitos de Sentido",
+  "titulo": "Recursos Persuasivos no Texto Argumentativo",
+  "bncc": [
+    "EF67LP07"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Identifique título, metáfora e fonte. Explique seus efeitos e o limite do argumento. Reescreva a generalização como afirmação delimitada ou pergunta de pesquisa, preservando a posição defendida."
+    ],
+    "resumo": "Recursos Persuasivos no Texto Argumentativo",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Recursos Persuasivos no Texto Argumentativo</h2><p>Em textos argumentativos, título, metáforas, escolha lexical e fontes podem persuadir. Uma comparação pode tornar uma ideia acessível sem constituir prova. Pergunte se o dado tem origem e se sustenta o alcance da conclusão. A ocultação da fonte dificulta conferir a afirmação.</p><h3>Exemplo comentado</h3><p>Carta fictícia: “Biblioteca: uma porta aberta ao futuro. Defendo ampliar o horário porque o registro do primeiro dia anotou 18 participantes. Todo mundo quer mais tempo!” Porta aberta é metáfora positiva. O número tem fonte declarada, mas não prova todo mundo; a última afirmação generaliza sem levantamento.</p><h3>Produza e revise</h3><p>Identifique título, metáfora e fonte. Explique seus efeitos e o limite do argumento. Reescreva a generalização como afirmação delimitada ou pergunta de pesquisa, preservando a posição defendida.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "recursos_persuasivos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "“Todo mundo quer” sem pesquisa apresenta qual problema?",
+      "alternativas": [
+        "É uma fonte completa.",
+        "Comprova a unanimidade.",
+        "Generaliza além da evidência oferecida.",
+        "É necessariamente uma citação literal."
+      ],
+      "correta": 2,
+      "explicacao": "Carta fictícia: “Biblioteca: uma porta aberta ao futuro. Defendo ampliar o horário porque o registro do primeiro dia anotou 18 participantes. Todo mundo quer mais tempo!” Porta aberta é metáfora positiva. O número tem fonte declarada, mas não prova todo mundo; a última afirmação generaliza sem levantamento.",
+      "bncc": [
+        "EF67LP07"
+      ]
+    },
+    {
+      "id": "recursos_persuasivos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Identifique título, metáfora e fonte. Explique seus efeitos e o limite do argumento. Reescreva a generalização como afirmação delimitada ou pergunta de pesquisa, preservando a posição defendida.",
+      "gabarito": "Esperar metáfora como associação positiva, registro como fonte conferível e crítica a todo mundo. Possível revisão: “Precisamos consultar outras turmas para conhecer a demanda”. Não exigir abandono da tese para reconhecer limites.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Esperar metáfora como associação positiva, registro como fonte conferível e crítica a todo mundo. Possível revisão: “Precisamos consultar outras turmas para conhecer a demanda”. Não exigir abandono da tese para reconhecer limites.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP07"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165,
+        167
+      ],
+      "paginasImpressas": "163,165",
+      "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Modelos e ilustrações autorais incorporados",
+      "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

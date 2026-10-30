@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.producao_de_textos.produzir_publicidade",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 45,
+  "unidade": "Produção de Textos",
+  "titulo": "Produzir e Editar Texto Publicitário",
+  "bncc": [
+    "EF67LP13"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Crie cartaz de campanha de leitura, real autorizada ou explicitamente simulada, com slogan, imagem autoral, público e informações de participação. Produza rascunho e versão editada. Teste a leitura com um colega e registre duas mudanças, explicando a relação entre texto e imagem e evitando promessas não verificadas."
+    ],
+    "resumo": "Produzir e Editar Texto Publicitário",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Produzir e Editar Texto Publicitário</h2><p>Produzir publicidade exige definir objetivo, público e suporte e relacionar elementos verbais e visuais. Slogan chama atenção; informações de serviço precisam ser claras. Convencer não autoriza promessas falsas ou pressão discriminatória. Faça rascunho, teste legibilidade e revise com base na resposta do público.</p><h3>Exemplo comentado</h3><p>Campanha fictícia de troca de livros: “Uma história continua com você”. A imagem pode mostrar livros passando entre mãos, e o texto precisa informar local, data e condições. O slogan sozinho não diz como participar. Se o evento é fictício, o cartaz deve indicar simulação; não divulgue uma data inventada como acontecimento real.</p><h3>Produza e revise</h3><p>Crie cartaz de campanha de leitura, real autorizada ou explicitamente simulada, com slogan, imagem autoral, público e informações de participação. Produza rascunho e versão editada. Teste a leitura com um colega e registre duas mudanças, explicando a relação entre texto e imagem e evitando promessas não verificadas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "produzir_publicidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual informação não pode ser substituída apenas pelo slogan de uma campanha?",
+      "alternativas": [
+        "Cor preferida do autor.",
+        "Condições e local de participação.",
+        "Opinião sobre toda publicidade.",
+        "Promessa de fama."
+      ],
+      "correta": 1,
+      "explicacao": "Campanha fictícia de troca de livros: “Uma história continua com você”. A imagem pode mostrar livros passando entre mãos, e o texto precisa informar local, data e condições. O slogan sozinho não diz como participar. Se o evento é fictício, o cartaz deve indicar simulação; não divulgue uma data inventada como acontecimento real.",
+      "bncc": [
+        "EF67LP13"
+      ]
+    },
+    {
+      "id": "produzir_publicidade.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie cartaz de campanha de leitura, real autorizada ou explicitamente simulada, com slogan, imagem autoral, público e informações de participação. Produza rascunho e versão editada. Teste a leitura com um colega e registre duas mudanças, explicando a relação entre texto e imagem e evitando promessas não verificadas.",
+      "gabarito": "Exigir duas versões, imagem efetiva, texto legível, relação persuasiva explicada e dados de serviço coerentes. Em simulação, sinalização visível. Avaliar teste e revisões; não exigir publicação externa nem avaliar pelo sucesso comercial.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir duas versões, imagem efetiva, texto legível, relação persuasiva explicada e dados de serviço coerentes. Em simulação, sinalização visível. Avaliar teste e revisões; não exigir publicação externa nem avaliar pelo sucesso comercial.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP13"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165,
+        167
+      ],
+      "paginasImpressas": "163,165",
+      "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Modelos e ilustrações autorais incorporados",
+      "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

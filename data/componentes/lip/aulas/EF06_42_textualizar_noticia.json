@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.producao_de_textos.textualizar_noticia",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 42,
+  "unidade": "Produção de Textos",
+  "titulo": "Textualizar a Notícia",
+  "bncc": [
+    "EF67LP10"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com os dados reais apurados na pauta, produza notícia com título, lide e corpo. Marque fontes, confira coesão e informação ainda não disponível. Adapte para roteiro de áudio de um minuto, grave e faça uma edição simples de início/fim se houver recurso disponível. Entregue notícia, roteiro, arquivo e registro das revisões; falta de gravação permanece pendência dessa modalidade."
+    ],
+    "resumo": "Textualizar a Notícia",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Textualizar a Notícia</h2><p>Uma notícia impressa pode apresentar título com verbo no presente, lide com informações centrais e corpo com detalhes em ordem de relevância. A precisão exige datas, quantidades e fontes quando disponíveis. A terceira pessoa produz distanciamento, não neutralidade garantida. Áudio e internet exigem adaptar linguagem e recursos, sem alterar os fatos.</p><h3>Exemplo comentado</h3><p>Modelo fictício: “Escola amplia horário da biblioteca”. Lide: “A Escola Horizonte iniciou na segunda-feira uma hora extra de atendimento à tarde, segundo comunicado escolar”. Corpo: “O registro apontou 18 participantes no primeiro dia; a avaliação de quatro semanas ainda será feita”. Não se pode acrescentar que todos aprovaram.</p><h3>Produza e revise</h3><p>Com os dados reais apurados na pauta, produza notícia com título, lide e corpo. Marque fontes, confira coesão e informação ainda não disponível. Adapte para roteiro de áudio de um minuto, grave e faça uma edição simples de início/fim se houver recurso disponível. Entregue notícia, roteiro, arquivo e registro das revisões; falta de gravação permanece pendência dessa modalidade.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "textualizar_noticia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual título segue o modelo noticioso com verbo no presente?",
+      "alternativas": [
+        "Escola amplia horário da biblioteca.",
+        "A melhor escola de todas, sem dados.",
+        "Biblioteca talvez, ninguém sabe.",
+        "Todos aprovaram, com certeza."
+      ],
+      "correta": 0,
+      "explicacao": "Modelo fictício: “Escola amplia horário da biblioteca”. Lide: “A Escola Horizonte iniciou na segunda-feira uma hora extra de atendimento à tarde, segundo comunicado escolar”. Corpo: “O registro apontou 18 participantes no primeiro dia; a avaliação de quatro semanas ainda será feita”. Não se pode acrescentar que todos aprovaram.",
+      "bncc": [
+        "EF67LP10"
+      ]
+    },
+    {
+      "id": "textualizar_noticia.producao",
+      "tipo": "discursiva",
+      "enunciado": "Com os dados reais apurados na pauta, produza notícia com título, lide e corpo. Marque fontes, confira coesão e informação ainda não disponível. Adapte para roteiro de áudio de um minuto, grave e faça uma edição simples de início/fim se houver recurso disponível. Entregue notícia, roteiro, arquivo e registro das revisões; falta de gravação permanece pendência dessa modalidade.",
+      "gabarito": "Conferir dados com a pauta, hierarquia, título e precisão. Na versão sonora, exigir áudio realmente produzido e registro de edição, não apenas roteiro. Se houver barreira de acesso, admitir trabalho mediado ou outro suporte com registro do limite, sem afirmar a modalidade executada.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Conferir dados com a pauta, hierarquia, título e precisão. Na versão sonora, exigir áudio realmente produzido e registro de edição, não apenas roteiro. Se houver barreira de acesso, admitir trabalho mediado ou outro suporte com registro do limite, sem afirmar a modalidade executada.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP10"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165,
+        167
+      ],
+      "paginasImpressas": "163,165",
+      "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Modelos e ilustrações autorais incorporados",
+      "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

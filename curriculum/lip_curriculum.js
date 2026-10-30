@@ -193,6 +193,70 @@ registrarCurriculo("Língua Portuguesa", {
         "titulo": "Prescrição, causa, descrição, exposição e ordenação",
         "complementar": false
       }
+    ],
+    "Mídia e Efeitos de Sentido": [
+      {
+        "id": "lip.ef06.midia_e_efeitos_de_sentido.selecao_lexical",
+        "titulo": "Seleção Lexical e Hierarquização",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.midia_e_efeitos_de_sentido.recursos_persuasivos",
+        "titulo": "Recursos Persuasivos no Texto Argumentativo",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.midia_e_efeitos_de_sentido.imagens_e_sentido",
+        "titulo": "Imagens, Sequências e Sobreposições",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.midia_e_efeitos_de_sentido.persuasao_publicitaria",
+        "titulo": "Persuasão Publicitária",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.midia_e_efeitos_de_sentido.humor_ironia_e_memes",
+        "titulo": "Humor, Ironia e Memes",
+        "complementar": false
+      }
+    ],
+    "Produção de Textos": [
+      {
+        "id": "lip.ef06.producao_de_textos.planejar_noticia",
+        "titulo": "Planejar uma Notícia",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.producao_de_textos.textualizar_noticia",
+        "titulo": "Textualizar a Notícia",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.producao_de_textos.planejar_resenha",
+        "titulo": "Planejar Resenha e Vlog",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.producao_de_textos.produzir_resenha",
+        "titulo": "Produzir Resenha Crítica",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.producao_de_textos.produzir_publicidade",
+        "titulo": "Produzir e Editar Texto Publicitário",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.producao_de_textos.coesao_referencial_na_producao",
+        "titulo": "Coesão Referencial e Sequencial na Produção",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.producao_de_textos.resumo_e_parafrase",
+        "titulo": "Resumo, Paráfrase e Citação",
+        "complementar": false
+      }
     ]
   },
   "EF07": {},

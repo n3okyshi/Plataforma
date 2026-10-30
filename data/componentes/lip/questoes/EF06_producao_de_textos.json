@@ -1,0 +1,576 @@
+[
+  {
+    "id": "lip.ef06.producao_de_textos.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.planejar_noticia",
+    "bncc": [
+      "EF67LP09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual item indica apuração a realizar, sem fingir conclusão?",
+    "opcoes": [
+      "Inventar uma fala para completar a pauta.",
+      "Listar fonte e pergunta ainda não respondida como pendência.",
+      "Apagar toda dúvida.",
+      "Usar uma foto sem origem."
+    ],
+    "correta": 1,
+    "explicacao": "Plano-modelo fictício: fato, abertura de biblioteca; público, comunidade escolar; fontes a consultar, comunicado de horário e responsável; perguntas, quando começa e quem será atendido; imagem, entrada sem rostos identificáveis; link, comunicado. Um roteiro de rádio transforma informações em falas curtas e indica sons que precisam ser produzidos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.planejar_noticia",
+    "bncc": [
+      "EF67LP09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Antes de escrever uma notícia real, é necessário:",
+    "opcoes": [
+      "Definir a conclusão antes dos dados.",
+      "Transformar hipótese em registro.",
+      "Registrar fontes e separar informação confirmada de pendente.",
+      "Omitir o público."
+    ],
+    "correta": 2,
+    "explicacao": "O planejamento organiza a apuração, sem autorizar preencher lacunas com invenções.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.textualizar_noticia",
+    "bncc": [
+      "EF67LP10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual título segue o modelo noticioso com verbo no presente?",
+    "opcoes": [
+      "Escola amplia horário da biblioteca.",
+      "A melhor escola de todas, sem dados.",
+      "Biblioteca talvez, ninguém sabe.",
+      "Todos aprovaram, com certeza."
+    ],
+    "correta": 0,
+    "explicacao": "Modelo fictício: “Escola amplia horário da biblioteca”. Lide: “A Escola Horizonte iniciou na segunda-feira uma hora extra de atendimento à tarde, segundo comunicado escolar”. Corpo: “O registro apontou 18 participantes no primeiro dia; a avaliação de quatro semanas ainda será feita”. Não se pode acrescentar que todos aprovaram.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.textualizar_noticia",
+    "bncc": [
+      "EF67LP10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na adaptação de notícia para áudio, qual conduta preserva a precisão?",
+    "opcoes": [
+      "Inventar uma entrevista para parecer real.",
+      "Apagar a fonte.",
+      "Manter os fatos e adaptar a linguagem para escuta.",
+      "Tratar roteiro sem gravação como áudio produzido."
+    ],
+    "correta": 2,
+    "explicacao": "A adaptação muda a forma de circulação, não autoriza alterar dados nem simular uma execução inexistente.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.planejar_resenha",
+    "bncc": [
+      "EF67LP11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual escolha melhora o planejamento de resenha?",
+    "opcoes": [
+      "Avaliar sem conhecer a obra.",
+      "Definir critérios e exemplos observados na obra.",
+      "Copiar uma avaliação alheia sem crédito.",
+      "Omitir o público."
+    ],
+    "correta": 1,
+    "explicacao": "Microrrelato autoral para apreciação: “A chave. Lia procurou a chave pela casa. No bolso do casaco, encontrou um bilhete: A chave está na porta. Riu e saiu.” Uma resenha pode discutir a brevidade, a busca e a solução, em vez de apenas dizer gostei. Essa obra curta pode ser usada como apoio, mas não substitui contato com a obra escolhida.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.planejar_resenha",
+    "bncc": [
+      "EF67LP11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No plano de resenha, a síntese deve:",
+    "opcoes": [
+      "Substituir toda avaliação.",
+      "Inventar o final.",
+      "Apresentar aspectos relevantes da obra, diferenciando-os do julgamento.",
+      "Garantir que todos tenham a mesma opinião."
+    ],
+    "correta": 2,
+    "explicacao": "A síntese informa; a apreciação precisa de posição e justificativas próprias.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.produzir_resenha",
+    "bncc": [
+      "EF67LP12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual avaliação apresenta justificativa?",
+    "opcoes": [
+      "É ótima porque sim.",
+      "Não conheço, mas é ruim.",
+      "O final breve acelera a leitura e combina com quem prefere relatos curtos.",
+      "Todo mundo vai amar."
+    ],
+    "correta": 2,
+    "explicacao": "Sobre o microrrelato A chave: “O texto apresenta uma busca resolvida por um bilhete. A brevidade acelera a leitura e o desfecho pode divertir quem aprecia pequenas surpresas; quem espera mistério desenvolvido talvez ache a solução rápida”. A avaliação explicita critérios e admite públicos diferentes, sem afirmar consenso.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.produzir_resenha",
+    "bncc": [
+      "EF67LP12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma resenha crítica deve:",
+    "opcoes": [
+      "Apresentar e avaliar a obra com razões.",
+      "Ser apenas cópia da sinopse.",
+      "Conter elogio obrigatório.",
+      "Garantir unanimidade."
+    ],
+    "correta": 0,
+    "explicacao": "Identificação, síntese e apreciação fundamentada distinguem a resenha de um simples anúncio ou resumo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.treino.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.produzir_publicidade",
+    "bncc": [
+      "EF67LP13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual informação não pode ser substituída apenas pelo slogan de uma campanha?",
+    "opcoes": [
+      "Cor preferida do autor.",
+      "Condições e local de participação.",
+      "Opinião sobre toda publicidade.",
+      "Promessa de fama."
+    ],
+    "correta": 1,
+    "explicacao": "Campanha fictícia de troca de livros: “Uma história continua com você”. A imagem pode mostrar livros passando entre mãos, e o texto precisa informar local, data e condições. O slogan sozinho não diz como participar. Se o evento é fictício, o cartaz deve indicar simulação; não divulgue uma data inventada como acontecimento real.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.prova.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.produzir_publicidade",
+    "bncc": [
+      "EF67LP13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual produção atende melhor à revisão publicitária?",
+    "opcoes": [
+      "Somente título sem imagem prometida.",
+      "Promessa inventada apresentada como comprovada.",
+      "Cartaz com texto e imagem reais, teste de leitura e mudanças justificadas.",
+      "Publicação de dados pessoais para chamar atenção."
+    ],
+    "correta": 2,
+    "explicacao": "A tarefa exige composição multissemiótica efetiva e processo de revisão verificável.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.treino.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.coesao_referencial_na_producao",
+    "bncc": [
+      "EF06LP12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual revisão resolve um pronome ambíguo?",
+    "opcoes": [
+      "Repetir sempre ele sem contexto.",
+      "Nomear o referente quando necessário.",
+      "Apagar todas as personagens.",
+      "Trocar qualquer substantivo por seu."
+    ],
+    "correta": 1,
+    "explicacao": "“Lia falou: Estou contente. A estudante explicou que estava alegre, mas Rui estava triste.” Lia e a estudante retomam a mesma pessoa; contente/alegre aproximam sentidos e alegre/triste contrastam. Para homonímia, “O banco da praça ficava em frente ao banco da cidade” usa banco com sentidos distintos. A voz relatada deve continuar atribuída, sem alterar o que a personagem disse.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.prova.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.coesao_referencial_na_producao",
+    "bncc": [
+      "EF06LP12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "“Lia disse: Estou contente” pode ser relatado, preservando a atribuição, como:",
+    "opcoes": [
+      "Rui garantiu que Lia mentiu.",
+      "Todos disseram que Rui estava triste.",
+      "Lia disse que estava contente.",
+      "Ninguém falou."
+    ],
+    "correta": 2,
+    "explicacao": "O discurso indireto mantém Lia como responsável pela fala e ajusta sua forma de apresentação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.treino.07",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.resumo_e_parafrase",
+    "bncc": [
+      "EF67LP22"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual resumo preserva os limites do texto-base?",
+    "opcoes": [
+      "Todos os dias receberam 18 pessoas.",
+      "A ampliação foi avaliada por anos.",
+      "O primeiro dia teve 18 participantes; os demais ainda não foram levantados.",
+      "Não houve ampliação."
+    ],
+    "correta": 2,
+    "explicacao": "Texto-base autoral fictício: “A biblioteca ampliou o horário por uma hora. No primeiro dia, 18 estudantes usaram o período adicional. O uso nos outros dias ainda não foi levantado.” Notas: ampliação de uma hora; 18 no primeiro dia; demais dias desconhecidos. Resumo possível: “O texto informa a ampliação do atendimento e registra 18 participantes no primeiro dia, sem dados dos demais”.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.producao_de_textos.prova.07",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Produção de Textos",
+    "aulaId": "lip.ef06.producao_de_textos.resumo_e_parafrase",
+    "bncc": [
+      "EF67LP22"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma citação direta precisa:",
+    "opcoes": [
+      "Manter o trecho literal delimitado e indicar sua origem.",
+      "Ser alterada silenciosamente.",
+      "Dispensar referência.",
+      "Substituir todo o resumo por uma cópia."
+    ],
+    "correta": 0,
+    "explicacao": "A citação permite distinguir a voz da fonte da paráfrase do autor do resumo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          165,
+          167
+        ],
+        "paginasImpressas": "163,165",
+        "uso": "EF67LP06–EF67LP13 conferidas no PDF. EF69LP04/05, EF06LP12 e EF67LP22 confrontadas com data/bncc/lip.json. Recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Modelos e ilustrações autorais incorporados",
+        "uso": "Textos, anúncio, enquadramentos e tirinha são simulações autorais, sem dados reais de apuração. Produções e gravações exigem execução e registros."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

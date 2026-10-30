@@ -791,11 +791,11 @@
     },
     {
       "nivel": "EF06",
-      "aulasImplementadas": 35,
-      "atividades": 70,
-      "questoesTreino": 34,
-      "itensProva": 34,
-      "provas": 7,
+      "aulasImplementadas": 47,
+      "atividades": 94,
+      "questoesTreino": 46,
+      "itensProva": 46,
+      "provas": 9,
       "unidades": [
         {
           "titulo": "Língua, Texto e Contexto",
@@ -849,30 +849,16 @@
         {
           "titulo": "Mídia e Efeitos de Sentido",
           "aulasPlanejadas": 5,
-          "aulasImplementadas": 0,
-          "aulasPendentes": [
-            "lip.ef06.midia_e_efeitos_de_sentido.selecao_lexical",
-            "lip.ef06.midia_e_efeitos_de_sentido.recursos_persuasivos",
-            "lip.ef06.midia_e_efeitos_de_sentido.imagens_e_sentido",
-            "lip.ef06.midia_e_efeitos_de_sentido.persuasao_publicitaria",
-            "lip.ef06.midia_e_efeitos_de_sentido.humor_ironia_e_memes"
-          ],
-          "estado": "planejamento"
+          "aulasImplementadas": 5,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
         },
         {
           "titulo": "Produção de Textos",
           "aulasPlanejadas": 7,
-          "aulasImplementadas": 0,
-          "aulasPendentes": [
-            "lip.ef06.producao_de_textos.planejar_noticia",
-            "lip.ef06.producao_de_textos.textualizar_noticia",
-            "lip.ef06.producao_de_textos.planejar_resenha",
-            "lip.ef06.producao_de_textos.produzir_resenha",
-            "lip.ef06.producao_de_textos.produzir_publicidade",
-            "lip.ef06.producao_de_textos.coesao_referencial_na_producao",
-            "lip.ef06.producao_de_textos.resumo_e_parafrase"
-          ],
-          "estado": "planejamento"
+          "aulasImplementadas": 7,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
         },
         {
           "titulo": "Oralidade",
@@ -1799,6 +1785,6 @@
     "Revisão visual e acessibilidade.",
     "Autenticação, Firebase e cache reais."
   ],
-  "proximaAutoria": "Mídia e Efeitos de Sentido EF06",
+  "proximaAutoria": "Oralidade EF06",
   "limite": "Vínculos BNCC são evidências planejadas de recortes; não comprovam domínio nem cobertura integral."
 }
