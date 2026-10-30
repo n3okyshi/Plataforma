@@ -1,0 +1,100 @@
+{
+  "id": "cna.ef09.astronomia_e_cultura.leituras_do_ceu",
+  "componente": "cna",
+  "nivel": "EF09",
+  "ordem": 15,
+  "unidade": "Terra e Universo",
+  "titulo": "Céu, culturas e modos de orientar a vida",
+  "bncc": [
+    "EF09CI15"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Compare os dois recortes documentados Guarani e Tikuna incorporados à teoria, conferindo os artigos identificados nas fontes. Registre nomes, relação com períodos sazonais e atividades, autoria institucional e limites territoriais. Amplie com uma narrativa sobre origem ou orientação de fonte identificada, distinguindo essa investigação do que já foi fornecido. Acrescente explicação astronômica do movimento aparente; não invente tradição nem trate família linguística como povo único."
+    ],
+    "resumo": "Céu, culturas e modos de orientar a vida",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Céu, culturas e modos de orientar a vida</h2><h3>Ideias para investigar</h3><p>Diferentes povos observam e interpretam o céu em relações com tempo, orientação, agricultura, caça, narrativas e valores. Constelações e calendários dependem de histórias, ambiente e práticas; não existe uma única leitura cultural de todo povo indígena ou africano. Comparar conhecimento cultural e explicações científicas pede explicitar perguntas, fontes e critérios, sem hierarquizar a dignidade de grupos ou apresentar mito como registro astronômico literal.</p><h3>Exemplo comentado</h3><p>Um agrupamento de estrelas pode integrar narrativas e calendários distintos em tradições diferentes. O mesmo céu aparente também muda com latitude, época e horário. Um desenho inventado pela turma não é evidência de uma tradição de povo nomeado, e uma descrição sem autor/contexto não deve ser atribuída a ele.</p><h3>Observe, registre e explique</h3><p>Compare duas leituras do céu de culturas identificadas em fontes com autoria/contexto, preferindo participação de seus próprios produtores. Registre agrupamento ou narrativa, localização/época e relação com atividade, origem ou orientação temporal. Acrescente explicação astronômica do movimento aparente, distinguindo funções das explicações. Sem as duas fontes, registre pesquisa pendente; não invente tradição ou generalize povos.</p><h3>Dois recortes documentados</h3><p>O Museu da Vida/Fiocruz apresenta registros Guarani em que ara pyau e ara ymã se relacionam a períodos sazonais e asterismos como Homem Velho e Ema. O MAST documenta pesquisa com Tikuna: a narrativa da Onça e do Tamanduá se articula à estiagem, e a subida de asterismos como Queixada de Jacaré e Perna da Onça anuncia o período chuvoso. São recortes situados, não regras para todos os povos ou territórios. Compare os usos temporais sem trocar nomes entre tradições. Os artigos identificados são pontos de partida; vídeos e gravuras não são declarados assistidos ou reproduzidos aqui.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "leituras_do_ceu.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para atribuir uma narrativa celeste a um povo, é necessário:",
+      "alternativas": [
+        "Fonte identificada e contexto cultural específico.",
+        "Inventar um nome que pareça antigo.",
+        "Dizer que todos os povos pensam igual."
+      ],
+      "correta": 0,
+      "explicacao": "Um agrupamento de estrelas pode integrar narrativas e calendários distintos em tradições diferentes. O mesmo céu aparente também muda com latitude, época e horário. Um desenho inventado pela turma não é evidência de uma tradição de povo nomeado, e uma descrição sem autor/contexto não deve ser atribuída a ele.",
+      "bncc": [
+        "EF09CI15"
+      ]
+    },
+    {
+      "id": "leituras_do_ceu.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare os dois recortes documentados Guarani e Tikuna incorporados à teoria, conferindo os artigos identificados nas fontes. Registre nomes, relação com períodos sazonais e atividades, autoria institucional e limites territoriais. Amplie com uma narrativa sobre origem ou orientação de fonte identificada, distinguindo essa investigação do que já foi fornecido. Acrescente explicação astronômica do movimento aparente; não invente tradição nem trate família linguística como povo único.",
+      "gabarito": "Exigir dois recortes identificados corretamente e relações sazonais. A investigação adicional sobre origem/orientação precisa de fonte e permanece pendente sem ela. Não atribuir nomes de uma tradição à outra nem universalizar para todos os territórios.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir dois recortes identificados corretamente e relações sazonais. A investigação adicional sobre origem/orientação precisa de fonte e permanece pendente sem ela. Não atribuir nomes de uma tradição à outra nem universalizar para todos os territórios.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF09CI15"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        353
+      ],
+      "paginasImpressas": "351",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "Museu da Vida/Fiocruz — Constelações indígenas: o céu Tupi-Guarani",
+      "url": "https://invivo.fiocruz.br/cienciaetecnologia/ceu-tupi-guarani/",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre interpretações Guarani e relações com sazonalidade; não generaliza a família linguística como povo único nem reproduz pôsteres."
+    },
+    {
+      "documento": "MAST — No Abril Indígena, conheça a interpretação do céu",
+      "url": "https://www.gov.br/mast/pt-br/assuntos/noticias/2023/abril/no-abril-indigena-conheca-a-interpretacao-tikuna-do-ceu",
+      "consulta": "2026-10-30",
+      "uso": "Artigo consultado sobre pesquisa com Tikuna, asterismos e sazonalidade. Vídeos/gravuras vinculados não foram inspecionados; não se declara consulta à entrevista de 2024 restrita por 401."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Astronomia e Cultura",
+    "titulo": "Leituras do Céu"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "id": "cna.ef08.terra_e_universo.prova",
+  "titulo": "Avaliação: Terra e Universo",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF08",
+  "unidade": "Terra e Universo",
+  "bncc": [
+    "EF08CI12",
+    "EF08CI13",
+    "EF08CI14",
+    "EF08CI15",
+    "EF08CI16"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 5, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef08.terra_e_universo.prova.12",
+    "cna.ef08.terra_e_universo.prova.13",
+    "cna.ef08.terra_e_universo.prova.14",
+    "cna.ef08.terra_e_universo.prova.15",
+    "cna.ef08.terra_e_universo.prova.16"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef08.terra_e_universo.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Terra e Universo",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF08CI12",
+      "EF08CI13",
+      "EF08CI14",
+      "EF08CI15",
+      "EF08CI16"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Fases da Lua e eclipses: luz e posições",
+        "enunciado": "Construa modelo tridimensional de Sol/Terra/Lua com lanterna comum e bolas, sem luz nos olhos. Registre posições em quatro fases e dois tipos de eclipse, com limites de escala. Observe a Lua de local seguro em datas e horários registrados ao longo de um ciclo, com adulto quando necessário, ou use diário institucional identificado; diferencie registros próprios e de fonte. Nunca observe diretamente o Sol nem tente fotografá-lo para o modelo.",
+        "gabarito": "Exigir modelo, relações de iluminação/sombra, inclinação e diário datado ou pendência explícita. Não transformar simulação em observação do céu nem concluir fases como eclipses recorrentes. Nuvens ou Lua não visível são condições a registrar.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir modelo, relações de iluminação/sombra, inclinação e diário datado ou pendência explícita. Não transformar simulação em observação do céu nem concluir fases como eclipses recorrentes. Nuvens ou Lua não visível são condições a registrar.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF08CI12"
+        ],
+        "atividadeOrigem": "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua#movimentos_da_lua.investigacao"
+      },
+      {
+        "titulo": "Estações: inclinação do eixo e translação",
+        "enunciado": "Use globo ou bola com eixo inclinado e lanterna em posição fixa; mantenha direção do eixo ao representar quatro posições orbitais. Registre hemisfério mais iluminado, duração relativa do dia e estação. Compare com caso sem inclinação e explique por que aproximar toda a bola da lanterna não explica estações opostas. Marque modelo fora de escala.",
+        "gabarito": "Exigir modelo tridimensional com direção coerente do eixo e distinção rotação/translação. Não inclinar eixo ora para o Sol ora contra ele para produzir artificialmente o resultado. Reconhecer diversidade climática brasileira.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir modelo tridimensional com direção coerente do eixo e distinção rotação/translação. Não inclinar eixo ora para o Sol ora contra ele para produzir artificialmente o resultado. Reconhecer diversidade climática brasileira.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF08CI13"
+        ],
+        "atividadeOrigem": "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao#rotacao_e_translacao.investigacao"
+      },
+      {
+        "titulo": "Climas e circulação de ar e oceanos",
+        "enunciado": "Produza esquema ligando incidência desigual, diferenças de pressão, ventos e transporte oceânico. Compare duas regiões com fonte climática de período identificado, incluindo latitude, relevo e influência marítima. Formule explicação com pelo menos três fatores e indique limites dos dados; não invente medições locais nem tente reproduzir circulação planetária com chama.",
+        "gabarito": "Exigir cadeia causal, correntes e três fatores regionais com fonte/período. Não reduzir clima à latitude isolada nem declarar que todo movimento oceânico depende apenas da temperatura.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir cadeia causal, correntes e três fatores regionais com fonte/período. Não reduzir clima à latitude isolada nem declarar que todo movimento oceânico depende apenas da temperatura.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF08CI14"
+        ],
+        "atividadeOrigem": "cna.ef08.clima_e_tempo.clima_x_tempo#clima_x_tempo.investigacao"
+      },
+      {
+        "titulo": "Previsão do tempo: variáveis e medições",
+        "enunciado": "Planeje uma estação segura e simule fichas de coleta para cinco variáveis, com instrumento e unidade apropriados. Com professor, registre ao menos temperatura e condições do céu em horários comparáveis por vários dias; use dados institucionais identificados para variáveis não medidas. Compare previsão arquivada com observação, distinguindo simulado, medido e consultado; descreva incertezas.",
+        "gabarito": "Exigir plano, registros datados e confronto previsão/observação com limitações. Não usar vidro cortante, mercúrio ou instalar instrumentos em telhados; não misturar dado de outra estação com medida própria.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir plano, registros datados e confronto previsão/observação com limitações. Não usar vidro cortante, mercúrio ou instalar instrumentos em telhados; não misturar dado de outra estação com medida própria.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF08CI15"
+        ],
+        "atividadeOrigem": "cna.ef08.clima_e_tempo.previsao_do_tempo#previsao_do_tempo.investigacao"
+      },
+      {
+        "titulo": "Mudanças climáticas: diagnóstico e ação",
+        "enunciado": "Use fonte climática institucional para identificar uma alteração global e uma questão regional com período e limites. Faça matriz de duas ações de mitigação e duas de adaptação, responsáveis, viabilidade e grupos atendidos. Execute uma ação escolar autorizada e registre indicador, resultado e pendências, sem converter ação em toneladas de carbono sem método.",
+        "gabarito": "Exigir vínculo causa/ação, distinção mitigação/adaptação, fonte e avaliação da execução. Não garantir restauração total de equilíbrio por ação única nem atribuir toda enchente automaticamente a uma causa exclusiva.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir vínculo causa/ação, distinção mitigação/adaptação, fonte e avaliação da execução. Não garantir restauração total de equilíbrio por ação única nem atribuir toda enchente automaticamente a uma causa exclusiva.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF08CI16"
+        ],
+        "atividadeOrigem": "cna.ef08.mudancas_climaticas.aquecimento_global#aquecimento_global.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        351
+      ],
+      "paginasImpressas": "349",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NASA — Moon Phases",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "consulta": "2026-10-30",
+      "uso": "Iluminação, perspectiva e inclinação; lado iluminado em referência do hemisfério norte não é regra visual universal. Modelo e diário autorais."
+    },
+    {
+      "documento": "NASA — What is the greenhouse effect?",
+      "url": "https://science.nasa.gov/climate-change/faq/what-is-the-greenhouse-effect/",
+      "consulta": "2026-10-30",
+      "uso": "Mecanismo e intensificação antrópica previamente consultados; projetos autorais sem equivalências de carbono inventadas."
+    },
+    {
+      "documento": "NOAA — Ocean currents",
+      "url": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-currents",
+      "consulta": "2026-10-30",
+      "uso": "Ventos e densidade por temperatura/salinidade na circulação; transporte energético e influência climática, sem inferência de clima local sem séries."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF08CI12",
+      "questoes": [
+        "cna.ef08.terra_e_universo.prova.12"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef08.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua#movimentos_da_lua.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08CI13",
+      "questoes": [
+        "cna.ef08.terra_e_universo.prova.13"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef08.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao#rotacao_e_translacao.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08CI14",
+      "questoes": [
+        "cna.ef08.terra_e_universo.prova.14"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef08.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef08.clima_e_tempo.clima_x_tempo#clima_x_tempo.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08CI15",
+      "questoes": [
+        "cna.ef08.terra_e_universo.prova.15"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef08.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef08.clima_e_tempo.previsao_do_tempo#previsao_do_tempo.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF08CI16",
+      "questoes": [
+        "cna.ef08.terra_e_universo.prova.16"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef08.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef08.mudancas_climaticas.aquecimento_global#aquecimento_global.investigacao"
+      ]
+    }
+  ]
+}

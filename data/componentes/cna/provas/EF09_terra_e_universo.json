@@ -1,0 +1,192 @@
+{
+  "id": "cna.ef09.terra_e_universo.prova",
+  "titulo": "Avaliação: Terra e Universo",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF09",
+  "unidade": "Terra e Universo",
+  "bncc": [
+    "EF09CI14",
+    "EF09CI15",
+    "EF09CI16",
+    "EF09CI17"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 4, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef09.terra_e_universo.prova.14",
+    "cna.ef09.terra_e_universo.prova.15",
+    "cna.ef09.terra_e_universo.prova.16",
+    "cna.ef09.terra_e_universo.prova.17"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef09.terra_e_universo.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Terra e Universo",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF09CI14",
+      "EF09CI15",
+      "EF09CI16",
+      "EF09CI17"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Sistema Solar em escalas do Universo",
+        "enunciado": "Organize os oito planetas por ordem e grupo, inclua dois tipos de corpos menores e construa mapa de pertencimento Terra/Sistema Solar/Via Láctea/Universo. Faça um modelo de distâncias com valores de fonte NASA, declarando escala e impossibilidade de usar a mesma escala de tamanhos no espaço disponível. Não apresentar modelo sem dados como mapa medido.",
+        "gabarito": "Exigir ordem Mercúrio,Vênus,Terra,Marte,Júpiter,Saturno,Urano,Netuno, grupos, corpos menores e pertencimento. Não reduzir galáxia ao Sistema Solar nem enumerar planetas anões como lista fechada de três do manual antigo.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir ordem Mercúrio,Vênus,Terra,Marte,Júpiter,Saturno,Urano,Netuno, grupos, corpos menores e pertencimento. Não reduzir galáxia ao Sistema Solar nem enumerar planetas anões como lista fechada de três do manual antigo.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI14"
+        ],
+        "atividadeOrigem": "cna.ef09.sistema_solar.sol#sol.investigacao"
+      },
+      {
+        "titulo": "Céu, culturas e modos de orientar a vida",
+        "enunciado": "Compare os dois recortes documentados Guarani e Tikuna incorporados à teoria, conferindo os artigos identificados nas fontes. Registre nomes, relação com períodos sazonais e atividades, autoria institucional e limites territoriais. Amplie com uma narrativa sobre origem ou orientação de fonte identificada, distinguindo essa investigação do que já foi fornecido. Acrescente explicação astronômica do movimento aparente; não invente tradição nem trate família linguística como povo único.",
+        "gabarito": "Exigir dois recortes identificados corretamente e relações sazonais. A investigação adicional sobre origem/orientação precisa de fonte e permanece pendente sem ela. Não atribuir nomes de uma tradição à outra nem universalizar para todos os territórios.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir dois recortes identificados corretamente e relações sazonais. A investigação adicional sobre origem/orientação precisa de fonte e permanece pendente sem ela. Não atribuir nomes de uma tradição à outra nem universalizar para todos os territórios.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI15"
+        ],
+        "atividadeOrigem": "cna.ef09.astronomia_e_cultura.leituras_do_ceu#leituras_do_ceu.investigacao"
+      },
+      {
+        "titulo": "Vida humana fora da Terra: condições e escalas",
+        "enunciado": "Monte matriz de necessidades humanas, condições de dois destinos estudados em fonte NASA e tecnologia de suporte necessária. Resolva o cálculo idealizado dado e explique três limites para viagem real. Compare interplanetário/interestelar e defenda viabilidade condicionada por evidências, sem anunciar missão futura como fato ou confundir indício de água com vida comprovada.",
+        "gabarito": "Esperado 300 h=12,5 dias sob hipóteses fictícias; exigir cinco necessidades e limites de suporte/logística. Não usar distância variável entre planetas como constante universal nem alegar vida detectada sem fonte explícita.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Esperado 300 h=12,5 dias sob hipóteses fictícias; exigir cinco necessidades e limites de suporte/logística. Não usar distância variável entre planetas como constante universal nem alegar vida detectada sem fonte explícita.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI16"
+        ],
+        "atividadeOrigem": "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida#condicoes_para_a_vida.investigacao"
+      },
+      {
+        "titulo": "História do Sol e destinos estelares",
+        "enunciado": "Construa duas linhas evolutivas qualitativas: estrela de massa solar e estrela muito mais massiva, indicando formação, sequência principal e destinos possíveis. Explique papel de gravidade/fusão e compare tempos qualitativamente. Escreva argumento sobre efeitos da evolução solar na habitabilidade terrestre com fonte, distinguindo projeção de evento observado e sem observar o Sol.",
+        "gabarito": "Exigir linha solar gigante vermelha/perda de camadas/anã branca e comparação condicional de estrela massiva. Não chamar anã branca de estrela de nêutrons, prever supernova solar ou usar fogueira como mecanismo nuclear. Escalas são geológicas/astronômicas.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir linha solar gigante vermelha/perda de camadas/anã branca e comparação condicional de estrela massiva. Não chamar anã branca de estrela de nêutrons, prever supernova solar ou usar fogueira como mecanismo nuclear. Escalas são geológicas/astronômicas.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF09CI17"
+        ],
+        "atividadeOrigem": "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas#nascimento_e_morte_de_estrelas.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        353
+      ],
+      "paginasImpressas": "351",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NASA — Solar System Facts",
+      "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+      "consulta": "2026-10-30",
+      "uso": "Composição e pertencimento galáctico, rochosos/gigantes gasosos/gigantes de gelo; sem contagens mutáveis de satélites."
+    },
+    {
+      "documento": "NASA — Sun Facts",
+      "url": "https://science.nasa.gov/sun/facts/",
+      "consulta": "2026-10-30",
+      "uso": "Formação, fusão, evolução futura e posição galáctica; sem previsões orbitais exatas para a Terra."
+    },
+    {
+      "documento": "NASA — Star Types",
+      "url": "https://science.nasa.gov/universe/stars/types/",
+      "consulta": "2026-10-30",
+      "uso": "Diferenças de massa e evolução; Sol termina como anã branca, não supernova ou buraco negro."
+    },
+    {
+      "documento": "Museu da Vida/Fiocruz — Constelações indígenas: o céu Tupi-Guarani",
+      "url": "https://invivo.fiocruz.br/cienciaetecnologia/ceu-tupi-guarani/",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre interpretações Guarani e relações com sazonalidade; não generaliza a família linguística como povo único nem reproduz pôsteres."
+    },
+    {
+      "documento": "MAST — No Abril Indígena, conheça a interpretação do céu",
+      "url": "https://www.gov.br/mast/pt-br/assuntos/noticias/2023/abril/no-abril-indigena-conheca-a-interpretacao-tikuna-do-ceu",
+      "consulta": "2026-10-30",
+      "uso": "Artigo consultado sobre pesquisa com Tikuna, asterismos e sazonalidade. Vídeos/gravuras vinculados não foram inspecionados; não se declara consulta à entrevista de 2024 restrita por 401."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF09CI14",
+      "questoes": [
+        "cna.ef09.terra_e_universo.prova.14"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.sistema_solar.sol#sol.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI15",
+      "questoes": [
+        "cna.ef09.terra_e_universo.prova.15"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.astronomia_e_cultura.leituras_do_ceu#leituras_do_ceu.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI16",
+      "questoes": [
+        "cna.ef09.terra_e_universo.prova.16"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida#condicoes_para_a_vida.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF09CI17",
+      "questoes": [
+        "cna.ef09.terra_e_universo.prova.17"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef09.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas#nascimento_e_morte_de_estrelas.investigacao"
+      ]
+    }
+  ]
+}

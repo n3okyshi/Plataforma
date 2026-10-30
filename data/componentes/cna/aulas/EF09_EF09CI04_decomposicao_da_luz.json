@@ -1,0 +1,88 @@
+{
+  "id": "cna.ef09.luz_e_cores.decomposicao_da_luz",
+  "componente": "cna",
+  "nivel": "EF09",
+  "ordem": 4,
+  "unidade": "Matéria e Energia",
+  "titulo": "Cores da luz e cor dos objetos",
+  "bncc": [
+    "EF09CI04"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Planeje e execute com professor sobreposição de três lanternas/LEDs didáticos de baixa intensidade em superfície clara, sem laser ou luz nos olhos; registre intensidades, áreas e cores percebidas. Compare objeto sob iluminação branca, vermelha e verde. Se usar tela RGB ou simulação por falta de material, identifique essa execução e não a chame de teste físico do papel. Explique diferença de tintas e limites da gama."
+    ],
+    "resumo": "Cores da luz e cor dos objetos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Cores da luz e cor dos objetos</h2><h3>Ideias para investigar</h3><p>Na síntese aditiva, combinações de luz vermelha, verde e azul podem produzir ampla gama de cores percebidas; intensidades adequadas podem produzir percepção de branco. Isso é diferente de misturar tintas. Um objeto recebe luz e reflete parte dela; sua aparência depende da iluminação, de suas propriedades e do observador. O modelo RGB escolar tem limites: não reproduz literalmente todo espectro ou toda cor perceptível.</p><h3>Exemplo comentado</h3><p>Projetar luz vermelha e verde sobre mesma região de superfície clara pode produzir percepção amarela; somar azul em intensidade adequada pode aproximar branco. Papel que parece vermelho sob luz branca tende a refletir mais faixas vermelhas; sob luz verde pode parecer escuro, dependendo do material e das fontes.</p><h3>Observe, registre e explique</h3><p>Planeje e execute com professor sobreposição de três lanternas/LEDs didáticos de baixa intensidade em superfície clara, sem laser ou luz nos olhos; registre intensidades, áreas e cores percebidas. Compare objeto sob iluminação branca, vermelha e verde. Se usar tela RGB ou simulação por falta de material, identifique essa execução e não a chame de teste físico do papel. Explique diferença de tintas e limites da gama.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "decomposicao_da_luz.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na síntese aditiva escolar, luz vermelha mais verde pode produzir percepção:",
+      "alternativas": [
+        "Amarela.",
+        "Preta obrigatoriamente.",
+        "De tinta azul necessariamente."
+      ],
+      "correta": 0,
+      "explicacao": "Projetar luz vermelha e verde sobre mesma região de superfície clara pode produzir percepção amarela; somar azul em intensidade adequada pode aproximar branco. Papel que parece vermelho sob luz branca tende a refletir mais faixas vermelhas; sob luz verde pode parecer escuro, dependendo do material e das fontes.",
+      "bncc": [
+        "EF09CI04"
+      ]
+    },
+    {
+      "id": "decomposicao_da_luz.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Planeje e execute com professor sobreposição de três lanternas/LEDs didáticos de baixa intensidade em superfície clara, sem laser ou luz nos olhos; registre intensidades, áreas e cores percebidas. Compare objeto sob iluminação branca, vermelha e verde. Se usar tela RGB ou simulação por falta de material, identifique essa execução e não a chame de teste físico do papel. Explique diferença de tintas e limites da gama.",
+      "gabarito": "Exigir plano, execução registrada, comparação luz/objeto e síntese aditiva. Não prometer todas as cores espectrais pelo RGB nem usar mistura de pigmentos como resultado equivalente. Aceitar descrição e instrumentos acessíveis sem avaliar estudante pela percepção cromática individual.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir plano, execução registrada, comparação luz/objeto e síntese aditiva. Não prometer todas as cores espectrais pelo RGB nem usar mistura de pigmentos como resultado equivalente. Aceitar descrição e instrumentos acessíveis sem avaliar estudante pela percepção cromática individual.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF09CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        353
+      ],
+      "paginasImpressas": "351",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Luz e Cores",
+    "titulo": "Decomposição da Luz"
+  }
+}

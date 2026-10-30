@@ -1,0 +1,512 @@
+[
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.hereditariedade.gametas",
+    "bncc": [
+      "EF09CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No modelo 2n=4, gametas formados por meiose têm:",
+    "opcoes": [
+      "Nenhum material genético.",
+      "2 cromossomos.",
+      "8 cromossomos obrigatoriamente."
+    ],
+    "correta": 1,
+    "explicacao": "Em organismo fictício com quatro cromossomos em células diploides, gametas têm dois e o zigoto volta a quatro após fecundação. O modelo não descreve todos os ciclos de vida e não autoriza inferir número de cromossomos de espécie desconhecida. Traços aprendidos, como idioma, não são transmitidos como um alelo.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          317,
+          318,
+          319,
+          320,
+          321,
+          322
+        ],
+        "paginasImpressas": "317–322",
+        "uso": "Leitura crítica da herança: não reduz todas as características a genes únicos ou exclui ambiente. Não utiliza afirmação universal de mendelismo do manual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.hereditariedade.gametas",
+    "bncc": [
+      "EF09CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A variabilidade entre descendentes pode relacionar-se:",
+    "opcoes": [
+      "A cada gameta conter um organismo pronto.",
+      "Às combinações de informação genética e outros processos, com efeitos também do ambiente.",
+      "A todo traço aprendido passar por alelo único."
+    ],
+    "correta": 1,
+    "explicacao": "Herança e desenvolvimento não se reduzem a copiar uma aparência ou hábito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          317,
+          318,
+          319,
+          320,
+          321,
+          322
+        ],
+        "paginasImpressas": "317–322",
+        "uso": "Leitura crítica da herança: não reduz todas as características a genes únicos ou exclui ambiente. Não utiliza afirmação universal de mendelismo do manual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.genetica_de_mendel.fatores_hereditarios",
+    "bncc": [
+      "EF09CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Em Aa × Aa sob o modelo indicado, a probabilidade de aa é:",
+    "opcoes": [
+      "25%.",
+      "100%.",
+      "0%."
+    ],
+    "correta": 0,
+    "explicacao": "No cruzamento Aa × Aa, cada genitor pode formar gametas A e a. Combinações equiprováveis no modelo: AA, Aa, aA e aa. Genótipos esperados 1:2:1; com dominância completa, fenótipos 3:1. São probabilidades em muitos eventos, não promessa de exatamente três descendentes de um tipo a cada quatro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NHGRI — Mendel, Johann (Gregor)",
+        "url": "https://www.genome.gov/genetics-glossary/Gregor-Johann-Mendel",
+        "consulta": "2026-10-30",
+        "uso": "Importância e limites da herança mendeliana; cruzamentos e sorteios autorais com hipóteses explícitas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.genetica_de_mendel.fatores_hereditarios",
+    "bncc": [
+      "EF09CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "No cruzamento Aa × aa, os genótipos esperados são:",
+    "opcoes": [
+      "50% Aa e 50% aa.",
+      "25% AA e 75% Aa.",
+      "100% AA."
+    ],
+    "correta": 0,
+    "explicacao": "O primeiro genitor forma A/a e o segundo apenas a; duas combinações equiprováveis.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "NHGRI — Mendel, Johann (Gregor)",
+        "url": "https://www.genome.gov/genetics-glossary/Gregor-Johann-Mendel",
+        "consulta": "2026-10-30",
+        "uso": "Importância e limites da herança mendeliana; cruzamentos e sorteios autorais com hipóteses explícitas."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.evolucao.lamarck",
+    "bncc": [
+      "EF09CI10"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Uma diferença central da seleção natural é enfatizar:",
+    "opcoes": [
+      "Esforço consciente que cria qualquer traço necessário.",
+      "Imutabilidade absoluta das populações.",
+      "Reprodução diferencial associada a variações herdáveis."
+    ],
+    "correta": 2,
+    "explicacao": "Um argumento de alongamento por esforço seguido de herança difere de outro em que variantes já presentes deixam descendentes em frequências diferentes. Esse contraste é recurso didático, não citação literal nem história completa das obras. Mudança muscular por exercício não comprova herança genética desse músculo aumentado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          167,
+          168,
+          169,
+          170
+        ],
+        "paginasImpressas": "167–170",
+        "uso": "Comparação de mecanismos históricos, corrigindo cronologias simplificadas e sem atribuir genética moderna a Darwin; tarefa com obras originais permanece aprofundamento a documentar."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.10",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.evolucao.lamarck",
+    "bncc": [
+      "EF09CI10"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Darwin já usava DNA na sua explicação original?",
+    "opcoes": [
+      "Sim, por testes laboratoriais de sequenciamento.",
+      "Sim, como modelo molecular moderno.",
+      "Não; a integração com genética ocorreu posteriormente."
+    ],
+    "correta": 2,
+    "explicacao": "A comparação precisa respeitar o conhecimento disponível no contexto histórico.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          167,
+          168,
+          169,
+          170
+        ],
+        "paginasImpressas": "167–170",
+        "uso": "Comparação de mecanismos históricos, corrigindo cronologias simplificadas e sem atribuir genética moderna a Darwin; tarefa com obras originais permanece aprofundamento a documentar."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.evolucao.selecao_natural",
+    "bncc": [
+      "EF09CI11"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "A seleção natural atua sobre:",
+    "opcoes": [
+      "Somente objetos sem herança.",
+      "Variações existentes, com efeitos no sucesso reprodutivo conforme contexto.",
+      "O desejo de todos mudarem do mesmo modo."
+    ],
+    "correta": 1,
+    "explicacao": "Em modelo de sementes claras/escuras sobre dois fundos, detectabilidade pode alterar sobrevivência simulada. Se características são herdáveis e sobreviventes contribuem à geração seguinte, frequências podem mudar. Retirar cartões uma vez não prova evolução real; o modelo precisa incluir reprodução e suas regras.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          169,
+          170
+        ],
+        "paginasImpressas": "169–170",
+        "uso": "Variação e seleção em gerações; não apresenta seleção como único processo evolutivo, teleologia ou escala de superioridade."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.11",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.evolucao.selecao_natural",
+    "bncc": [
+      "EF09CI11"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para representar evolução no modelo, é necessário considerar:",
+    "opcoes": [
+      "Só a retirada de um cartão sem outras regras.",
+      "Herança e gerações, além de sobrevivência/reprodução diferencial.",
+      "Mudança instantânea de todos os indivíduos por vontade."
+    ],
+    "correta": 1,
+    "explicacao": "Mudanças nas frequências populacionais precisam de transmissão entre gerações.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          169,
+          170
+        ],
+        "paginasImpressas": "169–170",
+        "uso": "Variação e seleção em gerações; não apresenta seleção como único processo evolutivo, teleologia ou escala de superioridade."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.biodiversidade.unidades_de_conservacao",
+    "bncc": [
+      "EF09CI12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um parque nacional integra qual grupo?",
+    "opcoes": [
+      "Proteção Integral.",
+      "Uso industrial irrestrito.",
+      "Categoria sem qualquer proteção."
+    ],
+    "correta": 0,
+    "explicacao": "Parque pode admitir visitação conforme regras, enquanto uma reserva extrativista articula proteção e modos de vida de populações tradicionais dentro de suas normas. Não se deve confundir conservação com permitir qualquer exploração ou proibir automaticamente toda presença humana. Quantidade de unidades varia e não é usada como número fixo nesta aula.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "ICMBio — Unidades de Conservação",
+        "url": "https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao",
+        "consulta": "2026-10-30",
+        "uso": "Grupos e categorias consultados; não utiliza quantidade atual como dado fixo nem afirma regras de unidade local sem plano de manejo."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.12",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.biodiversidade.unidades_de_conservacao",
+    "bncc": [
+      "EF09CI12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Para afirmar uso permitido em uma unidade específica, é preciso:",
+    "opcoes": [
+      "Consultar categoria e regras aplicáveis, incluindo plano de manejo quando pertinente.",
+      "Supor que todas têm regras idênticas.",
+      "Apenas olhar o nome reserva."
+    ],
+    "correta": 0,
+    "explicacao": "Objetivos gerais se articulam a instrumentos e condições locais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "ICMBio — Unidades de Conservação",
+        "url": "https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao",
+        "consulta": "2026-10-30",
+        "uso": "Grupos e categorias consultados; não utiliza quantidade atual como dado fixo nem afirma regras de unidade local sem plano de manejo."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.treino.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.sustentabilidade.problemas_ambientais_locais",
+    "bncc": [
+      "EF09CI13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Qual elemento torna um projeto avaliável?",
+    "opcoes": [
+      "Somente um cartaz bonito.",
+      "Promessa sem diagnóstico.",
+      "Indicador definido e registros comparáveis de execução."
+    ],
+    "correta": 2,
+    "explicacao": "Campanha para reduzir desperdício de papel pode acompanhar folhas efetivamente usadas antes/depois em períodos comparáveis. Não se pode converter número de folhas em árvores salvas sem método e limites. Coleta seletiva só funciona como proposta quando há destino confirmado e materiais aceitos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef09.vida_e_evolucao.prova.13",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF09",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef09.sustentabilidade.problemas_ambientais_locais",
+    "bncc": [
+      "EF09CI13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 2,
+    "pergunta": "Um caso bem-sucedido em outra cidade:",
+    "opcoes": [
+      "Dispensa verificar destino dos resíduos.",
+      "Garante resultado idêntico em qualquer escola.",
+      "Pode orientar escolhas, mas precisa de adaptação e avaliação local."
+    ],
+    "correta": 2,
+    "explicacao": "Contexto, recursos e participação condicionam resultados de uma intervenção.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          353
+        ],
+        "paginasImpressas": "351",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

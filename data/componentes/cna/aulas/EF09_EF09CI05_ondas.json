@@ -1,0 +1,94 @@
+{
+  "id": "cna.ef09.imagem_e_som.ondas",
+  "componente": "cna",
+  "nivel": "EF09",
+  "ordem": 5,
+  "unidade": "Matéria e Energia",
+  "titulo": "Do som e imagem ao sinal de comunicação",
+  "bncc": [
+    "EF09CI05"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe cadeias de captação, codificação, transmissão e recepção para áudio e imagem, comparando rádio analógico e chamada digital por fonte. Simule codificação de imagem em grade de 4×4 com valores combinados, transmita por cartões e reconstrua sem ver o original. Compare erros e resolução; não grave colegas nem compartilhe dados pessoais."
+    ],
+    "resumo": "Do som e imagem ao sinal de comunicação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Do som e imagem ao sinal de comunicação</h2><h3>Ideias para investigar</h3><p>Microfones transformam variações associadas ao som em sinais elétricos; sensores de câmera registram luz em sinais. Na transmissão digital, informações são codificadas em números/bits, transportadas por sinais e reconstruídas por receptores. Alto-falantes transformam sinais em vibrações; telas emitem luz. Ondas sonoras precisam de meio material; sinais eletromagnéticos podem se propagar no vácuo. A voz não viaja intacta pelo espaço entre telefones.</p><h3>Exemplo comentado</h3><p>Em uma chamada, microfone → codificação → transmissão por rede → decodificação → alto-falante é esquema possível, com etapas adicionais reais. Redes podem usar ondas de rádio e luz em fibras. Atraso, compressão e interferências ajudam a explicar limites sem dizer que todo sinal é perfeito.</p><h3>Observe, registre e explique</h3><p>Desenhe cadeias de captação, codificação, transmissão e recepção para áudio e imagem, comparando rádio analógico e chamada digital por fonte. Simule codificação de imagem em grade de 4×4 com valores combinados, transmita por cartões e reconstrua sem ver o original. Compare erros e resolução; não grave colegas nem compartilhe dados pessoais.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "ondas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um microfone participa de qual etapa?",
+      "alternativas": [
+        "Captação/conversão do som em sinal.",
+        "Criação direta de estrelas.",
+        "Eliminação de qualquer meio de transmissão."
+      ],
+      "correta": 0,
+      "explicacao": "Em uma chamada, microfone → codificação → transmissão por rede → decodificação → alto-falante é esquema possível, com etapas adicionais reais. Redes podem usar ondas de rádio e luz em fibras. Atraso, compressão e interferências ajudam a explicar limites sem dizer que todo sinal é perfeito.",
+      "bncc": [
+        "EF09CI05"
+      ]
+    },
+    {
+      "id": "ondas.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe cadeias de captação, codificação, transmissão e recepção para áudio e imagem, comparando rádio analógico e chamada digital por fonte. Simule codificação de imagem em grade de 4×4 com valores combinados, transmita por cartões e reconstrua sem ver o original. Compare erros e resolução; não grave colegas nem compartilhe dados pessoais.",
+      "gabarito": "Exigir cadeias com transformações nas duas extremidades, meio de transmissão e simulação com registro. Não confundir som no ar com onda eletromagnética ou código digital com objeto físico que dispensa suporte.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir cadeias com transformações nas duas extremidades, meio de transmissão e simulação com registro. Não confundir som no ar com onda eletromagnética ou código digital com objeto físico que dispensa suporte.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF09CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        353
+      ],
+      "paginasImpressas": "351",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NASA — Introduction to the Electromagnetic Spectrum",
+      "url": "https://science.nasa.gov/ems/01_intro/",
+      "consulta": "2026-10-30",
+      "uso": "Propagação, faixas e aplicações; exemplos autorais, com distinção de onda sonora e radiação eletromagnética."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Imagem, Som e Comunicação",
+    "titulo": "Ondas"
+  }
+}

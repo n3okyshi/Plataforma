@@ -1,0 +1,94 @@
+{
+  "id": "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade",
+  "componente": "cna",
+  "nivel": "EF08",
+  "ordem": 8,
+  "unidade": "Vida e Evolução",
+  "titulo": "Puberdade: sinais hormonais e diversidade dos corpos",
+  "bncc": [
+    "EF08CI08"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Produza esquema de regulação e relacione três mudanças da puberdade aos sinais hormonais em termos gerais. Analise um caso fictício de colegas com ritmos diferentes e escreva resposta respeitosa que separe explicação biológica de julgamento. Use perguntas anônimas mediadas; não solicite medidas, fotos, relatos íntimos ou diagnóstico de colegas."
+    ],
+    "resumo": "Puberdade: sinais hormonais e diversidade dos corpos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Puberdade: sinais hormonais e diversidade dos corpos</h2><h3>Ideias para investigar</h3><p>Puberdade envolve maturação corporal regulada por interações entre sistema nervoso e sistema endócrino. Sinais do hipotálamo e da hipófise participam da regulação das gônadas, que produzem hormônios sexuais. Crescimento, pelos, alterações da voz, mamas e início de ciclos menstruais podem ocorrer em ritmos diversos. Idade ou aparência isolada não define saúde, maturidade emocional, identidade ou valor de alguém.</p><h3>Exemplo comentado</h3><p>Um esquema hipotálamo → hipófise → gônadas simplifica a comunicação hormonal e suas retroações. Hormônios circulam e atuam em células com receptores; não são comandos conscientes nem exclusivos de um único grupo de pessoas. Mudanças corporais não autorizam constrangimento ou comparação pública.</p><h3>Observe, registre e explique</h3><p>Produza esquema de regulação e relacione três mudanças da puberdade aos sinais hormonais em termos gerais. Analise um caso fictício de colegas com ritmos diferentes e escreva resposta respeitosa que separe explicação biológica de julgamento. Use perguntas anônimas mediadas; não solicite medidas, fotos, relatos íntimos ou diagnóstico de colegas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "mudancas_na_puberdade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O sistema nervoso e os hormônios na puberdade:",
+      "alternativas": [
+        "Participam de regulação integrada.",
+        "Atuam sem qualquer relação.",
+        "Determinam o valor social de uma pessoa."
+      ],
+      "correta": 0,
+      "explicacao": "Um esquema hipotálamo → hipófise → gônadas simplifica a comunicação hormonal e suas retroações. Hormônios circulam e atuam em células com receptores; não são comandos conscientes nem exclusivos de um único grupo de pessoas. Mudanças corporais não autorizam constrangimento ou comparação pública.",
+      "bncc": [
+        "EF08CI08"
+      ]
+    },
+    {
+      "id": "mudancas_na_puberdade.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Produza esquema de regulação e relacione três mudanças da puberdade aos sinais hormonais em termos gerais. Analise um caso fictício de colegas com ritmos diferentes e escreva resposta respeitosa que separe explicação biológica de julgamento. Use perguntas anônimas mediadas; não solicite medidas, fotos, relatos íntimos ou diagnóstico de colegas.",
+      "gabarito": "Exigir integração nervoso/endócrino, três mudanças e reconhecimento da variação. Não atribuir tudo a um hormônio isolado nem declarar atraso clínico a partir do caso fictício.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir integração nervoso/endócrino, três mudanças e reconhecimento da variação. Não atribuir tudo a um hormônio isolado nem declarar atraso clínico a partir do caso fictício.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF08CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        351
+      ],
+      "paginasImpressas": "349",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "NICHD — Causes of puberty",
+      "url": "https://www.nichd.nih.gov/health/topics/puberty/conditioninfo/causes",
+      "consulta": "2026-10-30",
+      "uso": "Regulação hipotálamo/hipófise/gônadas; não transforma modelo em diagnóstico ou faixa etária universal."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Puberdade e Hormônios",
+    "titulo": "Mudanças na Puberdade"
+  }
+}

@@ -445,6 +445,185 @@ registrarCurriculo("Ciências Naturais", {
       }
     ]
   },
-  "EF08": {},
-  "EF09": {}
+  "EF08": {
+    "Matéria e Energia": [
+      {
+        "id": "cna.ef08.fontes_de_energia.renovaveis",
+        "titulo": "Fontes e formas de energia na comunidade",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.circuitos_eletricos.pilhas_e_baterias",
+        "titulo": "Circuitos: continuidade e caminhos da corrente",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica",
+        "titulo": "Equipamentos e transformações de energia",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.consumo_de_energia.potencia",
+        "titulo": "Potência, tempo e consumo em kWh",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.uso_consciente_de_energia.eficiencia_energetica",
+        "titulo": "Plano coletivo de uso responsável da energia",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.usinas_e_impactos.hidreletricas",
+        "titulo": "Usinas e caminhos da eletricidade",
+        "complementar": false
+      }
+    ],
+    "Vida e Evolução": [
+      {
+        "id": "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada",
+        "titulo": "Reprodução e diversidade: comparar estratégias",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade",
+        "titulo": "Puberdade: sinais hormonais e diversidade dos corpos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos",
+        "titulo": "Contracepção: mecanismos, eficácia e responsabilidade",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.dst_e_prevencao.o_que_sao_dst",
+        "titulo": "IST, HIV e prevenção sem estigma",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade",
+        "titulo": "Sexualidade: dimensões e respeito",
+        "complementar": false
+      }
+    ],
+    "Terra e Universo": [
+      {
+        "id": "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua",
+        "titulo": "Fases da Lua e eclipses: luz e posições",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao",
+        "titulo": "Estações: inclinação do eixo e translação",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.clima_e_tempo.clima_x_tempo",
+        "titulo": "Climas e circulação de ar e oceanos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.clima_e_tempo.previsao_do_tempo",
+        "titulo": "Previsão do tempo: variáveis e medições",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef08.mudancas_climaticas.aquecimento_global",
+        "titulo": "Mudanças climáticas: diagnóstico e ação",
+        "complementar": false
+      }
+    ]
+  },
+  "EF09": {
+    "Matéria e Energia": [
+      {
+        "id": "cna.ef09.estados_e_modelos.modelo_submicroscopico",
+        "titulo": "Estados físicos em modelos de partículas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos",
+        "titulo": "Massas em reações: conservação e proporção",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.estrutura_da_materia.atomos",
+        "titulo": "Átomos, moléculas e história dos modelos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.luz_e_cores.decomposicao_da_luz",
+        "titulo": "Cores da luz e cor dos objetos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.imagem_e_som.ondas",
+        "titulo": "Do som e imagem ao sinal de comunicação",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico",
+        "titulo": "Espectro eletromagnético e aplicações",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem",
+        "titulo": "Tecnologia na saúde: imagens e tratamentos",
+        "complementar": false
+      }
+    ],
+    "Vida e Evolução": [
+      {
+        "id": "cna.ef09.hereditariedade.gametas",
+        "titulo": "Gametas e transmissão hereditária",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.genetica_de_mendel.fatores_hereditarios",
+        "titulo": "Mendel: segregação e probabilidades",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.evolucao.lamarck",
+        "titulo": "Lamarck e Darwin: comparação histórica",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.evolucao.selecao_natural",
+        "titulo": "Seleção natural em populações variáveis",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.biodiversidade.unidades_de_conservacao",
+        "titulo": "Conservação: categorias, territórios e pessoas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.sustentabilidade.problemas_ambientais_locais",
+        "titulo": "Projeto ambiental com diagnóstico e avaliação",
+        "complementar": false
+      }
+    ],
+    "Terra e Universo": [
+      {
+        "id": "cna.ef09.sistema_solar.sol",
+        "titulo": "Sistema Solar em escalas do Universo",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.astronomia_e_cultura.leituras_do_ceu",
+        "titulo": "Céu, culturas e modos de orientar a vida",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida",
+        "titulo": "Vida humana fora da Terra: condições e escalas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas",
+        "titulo": "História do Sol e destinos estelares",
+        "complementar": false
+      }
+    ]
+  }
 });

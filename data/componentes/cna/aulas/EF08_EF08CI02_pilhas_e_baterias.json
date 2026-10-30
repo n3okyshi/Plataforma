@@ -1,0 +1,88 @@
+{
+  "id": "cna.ef08.circuitos_eletricos.pilhas_e_baterias",
+  "componente": "cna",
+  "nivel": "EF08",
+  "ordem": 2,
+  "unidade": "Matéria e Energia",
+  "titulo": "Circuitos: continuidade e caminhos da corrente",
+  "bncc": [
+    "EF08CI02"
+  ],
+  "duracaoMin": 90,
+  "dificuldade": 2,
+  "conteudo": {
+    "objetivos": [
+      "Com professor e suporte próprio, monte circuito de uma ou duas pilhas AA de 1,5 V e lâmpada compatível, fios isolados e interruptor. Desligue antes de alterar; não conecte polos diretamente, não use pilha danificada, bateria de lítio ou tomada. Registre previsão, desenho das conexões e resultado aberto/fechado; compare série/paralelo por segundo modelo seguro ou simulação identificada e explique o limite residencial."
+    ],
+    "resumo": "Circuitos: continuidade e caminhos da corrente",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Circuitos: continuidade e caminhos da corrente</h2><h3>Ideias para investigar</h3><p>Um circuito simples precisa de fonte adequada, condutores e dispositivo ligados em caminho fechado. Um interruptor abre ou fecha esse caminho. Em série há um caminho principal; em paralelo há ramos. Residências usam ramos em paralelo e proteções, mas a instalação tem tensão e riscos que não são reproduzidos por um modelo com pilhas.</p><h3>Exemplo comentado</h3><p>No circuito de pilha, lâmpada compatível e fios, uma interrupção impede corrente pelo caminho. Em dois ramos paralelos, abrir um ramo pode deixar o outro funcionando. Isso permite comparar independência de cargas sem conectar o modelo à rede residencial.</p><h3>Observe, registre e explique</h3><p>Com professor e suporte próprio, monte circuito de uma ou duas pilhas AA de 1,5 V e lâmpada compatível, fios isolados e interruptor. Desligue antes de alterar; não conecte polos diretamente, não use pilha danificada, bateria de lítio ou tomada. Registre previsão, desenho das conexões e resultado aberto/fechado; compare série/paralelo por segundo modelo seguro ou simulação identificada e explique o limite residencial.</p><svg viewBox=\"0 0 560 250\" role=\"img\" aria-label=\"Modelo autoral de circuito fechado: pilha, fios e lâmpada em um caminho contínuo. Esquema sem escala; usar apenas baixa tensão com professor.\"><path d=\"M80 120V45H430V100M430 150V205H80V140\" fill=\"none\" stroke=\"#17414b\" stroke-width=\"4\"/><path d=\"M55 120H105M65 140H95\" stroke=\"#17414b\" stroke-width=\"4\"/><circle cx=\"430\" cy=\"125\" r=\"25\" fill=\"#fff0ad\" stroke=\"#17414b\" stroke-width=\"3\"/><path d=\"m414 109 32 32m0-32-32 32\" stroke=\"#17414b\" stroke-width=\"2\"/><g fill=\"#111\" font-size=\"16\"><text x=\"12\" y=\"90\">Pilha</text><text x=\"465\" y=\"130\">Lâmpada</text><text x=\"180\" y=\"33\">Caminho fechado</text><text x=\"165\" y=\"235\">Modelo de baixa tensão</text></g></svg>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pilhas_e_baterias.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Abrir o único caminho de um circuito simples tende a:",
+      "alternativas": [
+        "Interromper a corrente nesse caminho.",
+        "Criar uma segunda pilha.",
+        "Aumentar sempre o brilho."
+      ],
+      "correta": 0,
+      "explicacao": "No circuito de pilha, lâmpada compatível e fios, uma interrupção impede corrente pelo caminho. Em dois ramos paralelos, abrir um ramo pode deixar o outro funcionando. Isso permite comparar independência de cargas sem conectar o modelo à rede residencial.",
+      "bncc": [
+        "EF08CI02"
+      ]
+    },
+    {
+      "id": "pilhas_e_baterias.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Com professor e suporte próprio, monte circuito de uma ou duas pilhas AA de 1,5 V e lâmpada compatível, fios isolados e interruptor. Desligue antes de alterar; não conecte polos diretamente, não use pilha danificada, bateria de lítio ou tomada. Registre previsão, desenho das conexões e resultado aberto/fechado; compare série/paralelo por segundo modelo seguro ou simulação identificada e explique o limite residencial.",
+      "gabarito": "Exigir construção efetiva ou registrar simulação como alternativa, esquema de caminho fechado e comparação com ramos residenciais. Não tratar desenho como execução nem manipular instalação elétrica. Professor interrompe qualquer aquecimento do suporte.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir construção efetiva ou registrar simulação como alternativa, esquema de caminho fechado e comparação com ramos residenciais. Não tratar desenho como execução nem manipular instalação elétrica. Professor interrompe qualquer aquecimento do suporte.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF08CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        351
+      ],
+      "paginasImpressas": "349",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes.",
+    "planejamentoTempo": "Sequência de vários encontros; 90 min de referência não inclui diários, investigação continuada ou projeto. Ajustar com docente."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Circuitos Elétricos",
+    "titulo": "Pilhas e Baterias"
+  }
+}
