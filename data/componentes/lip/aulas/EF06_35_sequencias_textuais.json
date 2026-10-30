@@ -1,0 +1,89 @@
+{
+  "id": "lip.ef06.leitura_e_generos.sequencias_textuais",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 35,
+  "unidade": "Leitura e Gêneros",
+  "titulo": "Prescrição, causa, descrição, exposição e ordenação",
+  "bncc": [
+    "EF67LP37"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare A–E: identifique a função de cada trecho e cite o recurso que produz o efeito. Reescreva D invertendo os eventos e explique a mudança. Produza um pequeno boletim que combine uma orientação, uma descrição e uma explicação causal coerente. Indique quais causas são dadas como ficção, sem inventar apuração."
+    ],
+    "resumo": "Prescrição, causa, descrição, exposição e ordenação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Prescrição, causa, descrição, exposição e ordenação</h2><p>Um gênero pode combinar sequências com funções diferentes. Prescrição orienta ações e pode usar imperativos; descrição caracteriza; exposição apresenta informações e explicações; ordenação de eventos organiza uma sequência temporal. Relações de causalidade associam razões e consequências, mas um conectivo não prova que a causa seja real. Analise o efeito no texto, em vez de classificar tudo por uma palavra isolada.</p><h3>Exemplo comentado</h3><p><strong>Conjunto autoral.</strong> A: “Registre o empréstimo e devolva o livro na data indicada.” orienta conduta. B: “A sala é clara, ampla e silenciosa.” caracteriza espaço. C: “O catálogo organiza informações de autoria e título; assim, permite localizar obras.” explica uma função. D: “Primeiro abrimos o catálogo; depois localizamos o livro.” ordena eventos. E: “A leitura foi transferida porque a sala estava em manutenção.” apresenta uma razão. Cada recurso guia uma compreensão diferente, mesmo quando todos aparecem no mesmo boletim.</p><h3>Produza e revise</h3><p>Compare A–E: identifique a função de cada trecho e cite o recurso que produz o efeito. Reescreva D invertendo os eventos e explique a mudança. Produza um pequeno boletim que combine uma orientação, uma descrição e uma explicação causal coerente. Indique quais causas são dadas como ficção, sem inventar apuração.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sequencias_textuais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual trecho organiza eventos no tempo?",
+      "alternativas": [
+        "A sala é ampla.",
+        "Primeiro abrimos o catálogo; depois localizamos o livro.",
+        "Devolva o livro amanhã.",
+        "A sala foi fechada porque estava em manutenção."
+      ],
+      "correta": 1,
+      "explicacao": "<strong>Conjunto autoral.</strong> A: “Registre o empréstimo e devolva o livro na data indicada.” orienta conduta. B: “A sala é clara, ampla e silenciosa.” caracteriza espaço. C: “O catálogo organiza informações de autoria e título; assim, permite localizar obras.” explica uma função. D: “Primeiro abrimos o catálogo; depois localizamos o livro.” ordena eventos. E: “A leitura foi transferida porque a sala estava em manutenção.” apresenta uma razão. Cada recurso guia uma compreensão diferente, mesmo quando todos aparecem no mesmo boletim.",
+      "bncc": [
+        "EF67LP37"
+      ]
+    },
+    {
+      "id": "sequencias_textuais.producao",
+      "tipo": "discursiva",
+      "enunciado": "Compare A–E: identifique a função de cada trecho e cite o recurso que produz o efeito. Reescreva D invertendo os eventos e explique a mudança. Produza um pequeno boletim que combine uma orientação, uma descrição e uma explicação causal coerente. Indique quais causas são dadas como ficção, sem inventar apuração.",
+      "gabarito": "A: prescrição, verbos de orientação; B: descrição, adjetivos; C: exposição, explicação da função; D: ordenação temporal, primeiro/depois; E: causalidade, porque e relação entre manutenção e mudança. Inverter D muda a sequência narrada e pode exigir reformulação para coerência. Conferir boletim real com as três funções e justificativas, não apenas rótulos.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "A: prescrição, verbos de orientação; B: descrição, adjetivos; C: exposição, explicação da função; D: ordenação temporal, primeiro/depois; E: causalidade, porque e relação entre manutenção e mudança. Inverter D muda a sequência narrada e pode exigir reformulação para coerência. Conferir boletim real com as três funções e justificativas, não apenas rótulos.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP37"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165
+      ],
+      "paginasImpressas": "163",
+      "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+    },
+    {
+      "documento": "Textos autorais da unidade Leitura e Gêneros",
+      "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

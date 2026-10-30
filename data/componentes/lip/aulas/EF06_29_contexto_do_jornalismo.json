@@ -1,0 +1,89 @@
+{
+  "id": "lip.ef06.leitura_e_generos.contexto_do_jornalismo",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 29,
+  "unidade": "Leitura e Gêneros",
+  "titulo": "Hiperlinks no texto noticioso",
+  "bncc": [
+    "EF67LP01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Acione os dois links e registre o texto-âncora, o destino e a informação acrescentada à notícia. Explique por que o registro do primeiro dia não basta para avaliar quatro semanas. Planeje no papel uma notícia com três links: indique seus destinos e justifique a ordem de leitura escolhida."
+    ],
+    "resumo": "Hiperlinks no texto noticioso",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Hiperlinks no texto noticioso</h2><p>Um hiperlink relaciona um trecho clicável, chamado texto-âncora, a um destino. Em notícias digitais, pode levar a um documento, contexto ou outra notícia. O leitor não precisa seguir uma ordem única, mas deve verificar o destino e voltar à notícia. Um link não prova sozinho a confiabilidade: também pode levar a publicidade ou a um documento que não sustenta a afirmação. Antes de abrir, observe a indicação de destino. Textos-âncora informativos ajudam mais que um genérico “clique aqui”.</p><h3>Exemplo comentado</h3><p><strong>Miniportal autoral fictício, para teste.</strong> Notícia: “A Escola Horizonte abriu uma hora extra de biblioteca. Veja o <a href=\"#leitura-registro\">registro de entrada</a> e o <a href=\"#leitura-contexto\">contexto da mudança</a>.” <h4 id=\"leitura-registro\">Registro de entrada — simulação</h4><p>No primeiro dia, 18 estudantes usaram a hora adicional. Não há dados de outros dias.</p><h4 id=\"leitura-contexto\">Contexto — simulação</h4><p>O horário adicional atende a um pedido do conselho de estudantes. Ainda será avaliado após quatro semanas.</p><p>Os dois links são internos e reais: levam a trechos desta aula. A rede pública também possui links para outros sites, que exigem verificar domínio e procedência. Aqui não há documento externo nem dado coletado de verdade.</p></p><h3>Produza e revise</h3><p>Acione os dois links e registre o texto-âncora, o destino e a informação acrescentada à notícia. Explique por que o registro do primeiro dia não basta para avaliar quatro semanas. Planeje no papel uma notícia com três links: indique seus destinos e justifique a ordem de leitura escolhida.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "contexto_do_jornalismo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual é a função do texto-âncora de um hiperlink?",
+      "alternativas": [
+        "Substituir toda verificação.",
+        "Indicar ao leitor o conteúdo ou destino associado ao trecho clicável.",
+        "Garantir que o destino é verdadeiro.",
+        "Impedir a navegação."
+      ],
+      "correta": 1,
+      "explicacao": "<strong>Miniportal autoral fictício, para teste.</strong> Notícia: “A Escola Horizonte abriu uma hora extra de biblioteca. Veja o <a href=\"#leitura-registro\">registro de entrada</a> e o <a href=\"#leitura-contexto\">contexto da mudança</a>.” <h4 id=\"leitura-registro\">Registro de entrada — simulação</h4><p>No primeiro dia, 18 estudantes usaram a hora adicional. Não há dados de outros dias.</p><h4 id=\"leitura-contexto\">Contexto — simulação</h4><p>O horário adicional atende a um pedido do conselho de estudantes. Ainda será avaliado após quatro semanas.</p><p>Os dois links são internos e reais: levam a trechos desta aula. A rede pública também possui links para outros sites, que exigem verificar domínio e procedência. Aqui não há documento externo nem dado coletado de verdade.</p>",
+      "bncc": [
+        "EF67LP01"
+      ]
+    },
+    {
+      "id": "contexto_do_jornalismo.producao",
+      "tipo": "discursiva",
+      "enunciado": "Acione os dois links e registre o texto-âncora, o destino e a informação acrescentada à notícia. Explique por que o registro do primeiro dia não basta para avaliar quatro semanas. Planeje no papel uma notícia com três links: indique seus destinos e justifique a ordem de leitura escolhida.",
+      "gabarito": "Os links levam ao registro e ao contexto desta aula. O primeiro informa 18 participantes no primeiro dia; o segundo, motivação e avaliação futura. Exigir navegação real e registro, além de plano hipertextual com três âncoras claras e destinos descritos. Não apresentar a simulação como fonte independente ou apuração real.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Os links levam ao registro e ao contexto desta aula. O primeiro informa 18 participantes no primeiro dia; o segundo, motivação e avaliação futura. Exigir navegação real e registro, além de plano hipertextual com três âncoras claras e destinos descritos. Não apresentar a simulação como fonte independente ou apuração real.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP01"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165
+      ],
+      "paginasImpressas": "163",
+      "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+    },
+    {
+      "documento": "Textos autorais da unidade Leitura e Gêneros",
+      "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

@@ -156,6 +156,43 @@ registrarCurriculo("Língua Portuguesa", {
         "titulo": "Palavras parecidas: escolha pelo contexto",
         "complementar": false
       }
+    ],
+    "Leitura e Gêneros": [
+      {
+        "id": "lip.ef06.leitura_e_generos.contexto_do_jornalismo",
+        "titulo": "Hiperlinks no texto noticioso",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.leitura_e_generos.o_espaco_do_leitor",
+        "titulo": "Participação ética no espaço do leitor",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.leitura_e_generos.comparar_veiculos",
+        "titulo": "Comparar informações e confiabilidade",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.leitura_e_generos.fato_e_opiniao",
+        "titulo": "Fato, afirmação verificável e opinião",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.leitura_e_generos.tese_e_argumentos",
+        "titulo": "Tese, razões e resposta argumentada",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.leitura_e_generos.noticia_fato_central",
+        "titulo": "Fato central, circunstâncias e decorrências",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.leitura_e_generos.sequencias_textuais",
+        "titulo": "Prescrição, causa, descrição, exposição e ordenação",
+        "complementar": false
+      }
     ]
   },
   "EF07": {},

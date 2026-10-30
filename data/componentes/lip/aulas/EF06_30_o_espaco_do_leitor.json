@@ -1,0 +1,89 @@
+{
+  "id": "lip.ef06.leitura_e_generos.o_espaco_do_leitor",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 30,
+  "unidade": "Leitura e Gêneros",
+  "titulo": "Participação ética no espaço do leitor",
+  "bncc": [
+    "EF67LP02"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise os comentários e a regra. Produza uma nota sobre um acontecimento escolar realmente verificado, indicando quando ocorreu e como foi conferido; se usar ficção, sinalize e mantenha-a apenas como ensaio. Prepare também um comentário respeitoso sobre a notícia da biblioteca. Com revisão docente, faça a nota real circular em mural ou espaço escolar autorizado e registre a devolutiva, sem dados pessoais desnecessários."
+    ],
+    "resumo": "Participação ética no espaço do leitor",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Participação ética no espaço do leitor</h2><p>Cartas, comentários e contribuições permitem que leitores participem do debate. Antes de escrever, identifique o texto ao qual responde, a finalidade da seção e suas regras. Discordar de uma ideia não autoriza atacar a pessoa. É preciso distinguir informação apurada, opinião e dúvida. Evite expor dados pessoais de colegas. Publicar exige um espaço de circulação definido e revisão; preparar um texto não equivale a publicá-lo.</p><h3>Exemplo comentado</h3><p><strong>Mural fictício da turma.</strong> Regra da seção: “Contribuições sobre o cotidiano escolar, até 80 palavras, sem nomes completos de estudantes; informar o texto respondido.” Notícia-base: “A biblioteca abriu por uma hora adicional.” Comentário A: “Quem discorda não entende nada.” Comentário B: “Apoio a mudança, mas proponho divulgar o horário nos dois turnos; minha turma ainda tinha dúvidas.” B apresenta posição e razão sem desqualificar pessoas. Isso não torna sua experiência prova sobre toda a escola.</p><h3>Produza e revise</h3><p>Analise os comentários e a regra. Produza uma nota sobre um acontecimento escolar realmente verificado, indicando quando ocorreu e como foi conferido; se usar ficção, sinalize e mantenha-a apenas como ensaio. Prepare também um comentário respeitoso sobre a notícia da biblioteca. Com revisão docente, faça a nota real circular em mural ou espaço escolar autorizado e registre a devolutiva, sem dados pessoais desnecessários.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "o_espaco_do_leitor.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual comentário participa eticamente do debate?",
+      "alternativas": [
+        "Todos que discordam são incapazes.",
+        "Apoio a ampliação e proponho divulgar o horário nos dois turnos.",
+        "Vou expor o endereço de quem discorda.",
+        "Não preciso ler a notícia para atacar o autor."
+      ],
+      "correta": 1,
+      "explicacao": "<strong>Mural fictício da turma.</strong> Regra da seção: “Contribuições sobre o cotidiano escolar, até 80 palavras, sem nomes completos de estudantes; informar o texto respondido.” Notícia-base: “A biblioteca abriu por uma hora adicional.” Comentário A: “Quem discorda não entende nada.” Comentário B: “Apoio a mudança, mas proponho divulgar o horário nos dois turnos; minha turma ainda tinha dúvidas.” B apresenta posição e razão sem desqualificar pessoas. Isso não torna sua experiência prova sobre toda a escola.",
+      "bncc": [
+        "EF67LP02"
+      ]
+    },
+    {
+      "id": "o_espaco_do_leitor.producao",
+      "tipo": "discursiva",
+      "enunciado": "Analise os comentários e a regra. Produza uma nota sobre um acontecimento escolar realmente verificado, indicando quando ocorreu e como foi conferido; se usar ficção, sinalize e mantenha-a apenas como ensaio. Prepare também um comentário respeitoso sobre a notícia da biblioteca. Com revisão docente, faça a nota real circular em mural ou espaço escolar autorizado e registre a devolutiva, sem dados pessoais desnecessários.",
+      "gabarito": "Exigir posição respeitosa e vínculo ao texto respondido. Na nota, verificar fontes, data, fato e revisão. A circulação real no espaço autorizado e seu registro são evidências necessárias para avaliar publicação; um rascunho ou ensaio fictício não encerra essa dimensão de EF67LP02. A plataforma não publica automaticamente a produção.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir posição respeitosa e vínculo ao texto respondido. Na nota, verificar fontes, data, fato e revisão. A circulação real no espaço autorizado e seu registro são evidências necessárias para avaliar publicação; um rascunho ou ensaio fictício não encerra essa dimensão de EF67LP02. A plataforma não publica automaticamente a produção.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP02"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165
+      ],
+      "paginasImpressas": "163",
+      "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+    },
+    {
+      "documento": "Textos autorais da unidade Leitura e Gêneros",
+      "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

@@ -1,14 +1,15 @@
 {
   "nivel": "EF06",
-  "estado": "piloto_cinco_unidades",
+  "estado": "piloto_seis_unidades",
   "escopo": [
     "Língua, Texto e Contexto",
     "Morfologia",
     "Classes Gramaticais",
     "Sintaxe da Oração",
-    "Ortografia e Pontuação"
+    "Ortografia e Pontuação",
+    "Leitura e Gêneros"
   ],
-  "limites": "Cinco unidades para testes. Restante do ano em planejamento; evidências não comprovam domínio.",
+  "limites": "Seis unidades para testes. Restante do ano em planejamento; evidências não comprovam domínio.",
   "habilidades": [
     {
       "codigo": "EF06LP01",
@@ -334,6 +335,118 @@
       ],
       "questoesProva": [
         "lip.ef06.ortografia_e_pontuacao.prova.02"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF67LP01",
+      "aulas": [
+        "lip.ef06.leitura_e_generos.contexto_do_jornalismo"
+      ],
+      "atividades": [
+        "lip.ef06.leitura_e_generos.contexto_do_jornalismo#contexto_do_jornalismo.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.leitura_e_generos.treino.01"
+      ],
+      "questoesProva": [
+        "lip.ef06.leitura_e_generos.prova.01"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF67LP02",
+      "aulas": [
+        "lip.ef06.leitura_e_generos.o_espaco_do_leitor"
+      ],
+      "atividades": [
+        "lip.ef06.leitura_e_generos.o_espaco_do_leitor#o_espaco_do_leitor.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.leitura_e_generos.treino.02"
+      ],
+      "questoesProva": [
+        "lip.ef06.leitura_e_generos.prova.02"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF67LP03",
+      "aulas": [
+        "lip.ef06.leitura_e_generos.comparar_veiculos"
+      ],
+      "atividades": [
+        "lip.ef06.leitura_e_generos.comparar_veiculos#comparar_veiculos.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.leitura_e_generos.treino.03"
+      ],
+      "questoesProva": [
+        "lip.ef06.leitura_e_generos.prova.03"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF67LP04",
+      "aulas": [
+        "lip.ef06.leitura_e_generos.fato_e_opiniao"
+      ],
+      "atividades": [
+        "lip.ef06.leitura_e_generos.fato_e_opiniao#fato_e_opiniao.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.leitura_e_generos.treino.04"
+      ],
+      "questoesProva": [
+        "lip.ef06.leitura_e_generos.prova.04"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF67LP05",
+      "aulas": [
+        "lip.ef06.leitura_e_generos.tese_e_argumentos"
+      ],
+      "atividades": [
+        "lip.ef06.leitura_e_generos.tese_e_argumentos#tese_e_argumentos.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.leitura_e_generos.treino.05"
+      ],
+      "questoesProva": [
+        "lip.ef06.leitura_e_generos.prova.05"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF67LP37",
+      "aulas": [
+        "lip.ef06.leitura_e_generos.sequencias_textuais"
+      ],
+      "atividades": [
+        "lip.ef06.leitura_e_generos.sequencias_textuais#sequencias_textuais.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.leitura_e_generos.treino.07"
+      ],
+      "questoesProva": [
+        "lip.ef06.leitura_e_generos.prova.07"
+      ],
+      "revisaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF69LP03",
+      "aulas": [
+        "lip.ef06.leitura_e_generos.noticia_fato_central"
+      ],
+      "atividades": [
+        "lip.ef06.leitura_e_generos.noticia_fato_central#noticia_fato_central.producao"
+      ],
+      "questoesTreino": [
+        "lip.ef06.leitura_e_generos.treino.06"
+      ],
+      "questoesProva": [
+        "lip.ef06.leitura_e_generos.prova.06"
       ],
       "revisaoDocente": "pendente"
     }

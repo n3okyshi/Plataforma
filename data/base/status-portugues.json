@@ -791,11 +791,11 @@
     },
     {
       "nivel": "EF06",
-      "aulasImplementadas": 28,
-      "atividades": 56,
-      "questoesTreino": 27,
-      "itensProva": 27,
-      "provas": 6,
+      "aulasImplementadas": 35,
+      "atividades": 70,
+      "questoesTreino": 34,
+      "itensProva": 34,
+      "provas": 7,
       "unidades": [
         {
           "titulo": "Língua, Texto e Contexto",
@@ -842,17 +842,9 @@
         {
           "titulo": "Leitura e Gêneros",
           "aulasPlanejadas": 7,
-          "aulasImplementadas": 0,
-          "aulasPendentes": [
-            "lip.ef06.leitura_e_generos.contexto_do_jornalismo",
-            "lip.ef06.leitura_e_generos.o_espaco_do_leitor",
-            "lip.ef06.leitura_e_generos.comparar_veiculos",
-            "lip.ef06.leitura_e_generos.fato_e_opiniao",
-            "lip.ef06.leitura_e_generos.tese_e_argumentos",
-            "lip.ef06.leitura_e_generos.noticia_fato_central",
-            "lip.ef06.leitura_e_generos.sequencias_textuais"
-          ],
-          "estado": "planejamento"
+          "aulasImplementadas": 7,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
         },
         {
           "titulo": "Mídia e Efeitos de Sentido",
@@ -1807,6 +1799,6 @@
     "Revisão visual e acessibilidade.",
     "Autenticação, Firebase e cache reais."
   ],
-  "proximaAutoria": "Leitura e Gêneros EF06",
+  "proximaAutoria": "Mídia e Efeitos de Sentido EF06",
   "limite": "Vínculos BNCC são evidências planejadas de recortes; não comprovam domínio nem cobertura integral."
 }

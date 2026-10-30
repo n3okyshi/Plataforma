@@ -1,0 +1,89 @@
+{
+  "id": "lip.ef06.leitura_e_generos.fato_e_opiniao",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 32,
+  "unidade": "Leitura e Gêneros",
+  "titulo": "Fato, afirmação verificável e opinião",
+  "bncc": [
+    "EF67LP04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Localize uma afirmação factual e uma opinião em partes diferentes do texto. Explique a relação entre elas e como verificar a afirmação. Acrescente uma avaliação pessoal com razão explícita, sem apresentá-la como dado coletado. Depois encontre em uma notícia selecionada com o professor uma fala opinativa citada e identifique quem a enunciou."
+    ],
+    "resumo": "Fato, afirmação verificável e opinião",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Fato, afirmação verificável e opinião</h2><p>Uma afirmação factual pode ser confrontada com registros e evidências, mas pode estar incorreta. Opinião expressa avaliação, preferência ou posição. Não confunda “é verificável” com “foi comprovado”. Um texto pode misturar relato de fatos e avaliações em trechos distantes; precisamos reler, relacionando a opinião ao fato a que se refere.</p><h3>Exemplo comentado</h3><p><strong>Texto autoral fictício.</strong> Trecho 1: “A escola abriu a biblioteca por mais uma hora.” Trecho 2: “O registro do primeiro dia anotou 18 participantes.” Trecho 3: “Para mim, esse foi o melhor projeto do ano.” Os dois primeiros apresentam afirmações factuais no universo da simulação; o terceiro avalia o projeto. Melhor não é uma medida definida nesse comentário. A opinião pode ser debatida com razões, sem se tornar um número de registro.</p><h3>Produza e revise</h3><p>Localize uma afirmação factual e uma opinião em partes diferentes do texto. Explique a relação entre elas e como verificar a afirmação. Acrescente uma avaliação pessoal com razão explícita, sem apresentá-la como dado coletado. Depois encontre em uma notícia selecionada com o professor uma fala opinativa citada e identifique quem a enunciou.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "fato_e_opiniao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual trecho exprime avaliação pessoal?",
+      "alternativas": [
+        "O registro anotou 18 participantes.",
+        "A biblioteca abriu às 14h.",
+        "Para mim, foi o melhor projeto do ano.",
+        "O evento ocorreu na terça-feira."
+      ],
+      "correta": 2,
+      "explicacao": "<strong>Texto autoral fictício.</strong> Trecho 1: “A escola abriu a biblioteca por mais uma hora.” Trecho 2: “O registro do primeiro dia anotou 18 participantes.” Trecho 3: “Para mim, esse foi o melhor projeto do ano.” Os dois primeiros apresentam afirmações factuais no universo da simulação; o terceiro avalia o projeto. Melhor não é uma medida definida nesse comentário. A opinião pode ser debatida com razões, sem se tornar um número de registro.",
+      "bncc": [
+        "EF67LP04"
+      ]
+    },
+    {
+      "id": "fato_e_opiniao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Localize uma afirmação factual e uma opinião em partes diferentes do texto. Explique a relação entre elas e como verificar a afirmação. Acrescente uma avaliação pessoal com razão explícita, sem apresentá-la como dado coletado. Depois encontre em uma notícia selecionada com o professor uma fala opinativa citada e identifique quem a enunciou.",
+      "gabarito": "Conferir a classificação contextual: abertura e número de participantes são verificáveis por horários e registros; melhor projeto é avaliação pessoal. A opinião deve ser atribuída à voz que a expressa, sem transferi-la automaticamente ao repórter. Na tarefa real, exigir referência ao trecho e à notícia.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Conferir a classificação contextual: abertura e número de participantes são verificáveis por horários e registros; melhor projeto é avaliação pessoal. A opinião deve ser atribuída à voz que a expressa, sem transferi-la automaticamente ao repórter. Na tarefa real, exigir referência ao trecho e à notícia.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP04"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165
+      ],
+      "paginasImpressas": "163",
+      "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+    },
+    {
+      "documento": "Textos autorais da unidade Leitura e Gêneros",
+      "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

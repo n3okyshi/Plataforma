@@ -1,0 +1,89 @@
+{
+  "id": "lip.ef06.leitura_e_generos.comparar_veiculos",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 31,
+  "unidade": "Leitura e Gêneros",
+  "titulo": "Comparar informações e confiabilidade",
+  "bncc": [
+    "EF67LP03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare A e B em uma tabela: fato, número, período, autoria, fonte e o que precisa ser verificado. Depois escolha com o professor dois relatos reais sobre o mesmo fato em veículos distintos. Registre título, data, endereço ou referência impressa e origem das informações. Identifique convergências, divergências e eventual dependência entre as fontes."
+    ],
+    "resumo": "Comparar informações e confiabilidade",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Comparar informações e confiabilidade</h2><p>Comparar fontes exige identificar o mesmo fato, datas, autoria, documentos e limites. Dois textos parecidos não são necessariamente duas confirmações: um pode apenas copiar o outro. Separe divergência factual de diferença de recorte. Ausência de informação não autoriza preencher lacunas por suposição. Uma simulação ensina procedimentos, mas não substitui a comparação de veículos reais na avaliação completa.</p><h3>Exemplo comentado</h3><p><strong>Dois boletins fictícios.</strong> A, assinado pela equipe escolar e datado de 21/10: “O novo horário começou em 20/10; o registro indica 18 estudantes no primeiro dia.” B, postagem sem assinatura nem data: “Biblioteca recebe 80 alunos todo dia no novo horário!” A informa origem e período; B não fornece evidência para seu número nem para a frequência diária. Isso justifica maior cautela com B, não a certeza automática de que todo texto assinado é verdadeiro.</p><h3>Produza e revise</h3><p>Compare A e B em uma tabela: fato, número, período, autoria, fonte e o que precisa ser verificado. Depois escolha com o professor dois relatos reais sobre o mesmo fato em veículos distintos. Registre título, data, endereço ou referência impressa e origem das informações. Identifique convergências, divergências e eventual dependência entre as fontes.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "comparar_veiculos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual dado de A limita a comparação com a postagem B?",
+      "alternativas": [
+        "A usa somente o primeiro dia; B afirma uma frequência diária.",
+        "Ambos comprovam 80 diariamente.",
+        "Uma assinatura dispensa evidências.",
+        "A postagem sem data é necessariamente mais atual."
+      ],
+      "correta": 0,
+      "explicacao": "<strong>Dois boletins fictícios.</strong> A, assinado pela equipe escolar e datado de 21/10: “O novo horário começou em 20/10; o registro indica 18 estudantes no primeiro dia.” B, postagem sem assinatura nem data: “Biblioteca recebe 80 alunos todo dia no novo horário!” A informa origem e período; B não fornece evidência para seu número nem para a frequência diária. Isso justifica maior cautela com B, não a certeza automática de que todo texto assinado é verdadeiro.",
+      "bncc": [
+        "EF67LP03"
+      ]
+    },
+    {
+      "id": "comparar_veiculos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Compare A e B em uma tabela: fato, número, período, autoria, fonte e o que precisa ser verificado. Depois escolha com o professor dois relatos reais sobre o mesmo fato em veículos distintos. Registre título, data, endereço ou referência impressa e origem das informações. Identifique convergências, divergências e eventual dependência entre as fontes.",
+      "gabarito": "A: 18 no primeiro dia, data e fonte declaradas; B: 80 todo dia sem fonte verificável no material. Não inventar um terceiro número. Na comparação real, exigir referências efetivas e explicar como avaliar a confiabilidade, inclusive quando os dois textos derivam da mesma fonte. A simulação não comprova sozinha execução dessa tarefa.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "A: 18 no primeiro dia, data e fonte declaradas; B: 80 todo dia sem fonte verificável no material. Não inventar um terceiro número. Na comparação real, exigir referências efetivas e explicar como avaliar a confiabilidade, inclusive quando os dois textos derivam da mesma fonte. A simulação não comprova sozinha execução dessa tarefa.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP03"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        165
+      ],
+      "paginasImpressas": "163",
+      "uso": "EF67LP01–EF67LP05 consultadas diretamente; EF69LP03 e EF67LP37 confrontadas com a transcrição em data/bncc/lip.json. Recortes não equivalem à habilidade completa."
+    },
+    {
+      "documento": "Textos autorais da unidade Leitura e Gêneros",
+      "uso": "Miniportal, boletins, carta e notícia são simulações fictícias incorporadas; não são fontes jornalísticas independentes. Tarefas de comparação/publicação real exigem registros de execução."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}
