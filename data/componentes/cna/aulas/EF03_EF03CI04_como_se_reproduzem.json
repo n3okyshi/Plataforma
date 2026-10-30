@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef03.vida_dos_animais.como_se_reproduzem",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 5,
+  "unidade": "Vida dos Animais",
+  "titulo": "Como os Animais se Reproduzem",
+  "bncc": [
+    "EF03CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare os três cartões quanto ao início do desenvolvimento e à forma do jovem. Escolha um animal do entorno e registre o que precisaria consultar para descrevê-lo.",
+      "Planeje perguntar a um adulto ou consultar fonte institucional sobre reprodução de um animal próximo. Registre resposta, origem e dúvida; se não houve consulta, marque pendente."
+    ],
+    "resumo": "Animais apresentam diferentes modos de reprodução e desenvolvimento.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.vida_dos_animais.o_que_os_animais_comem\">Modos de vida dos animais</button></p><h2>Como os Animais se Reproduzem</h2><h3>Para compreender</h3><p>Animais apresentam diferentes modos de reprodução e desenvolvimento. Galinhas botam ovos, dos quais podem nascer pintinhos quando há condições adequadas; gatos se desenvolvem no corpo materno e nascem filhotes. Muitas borboletas iniciam a vida como larvas que saem de ovos. Nem todo ovo origina um filhote e nem todo animal que vive na água bota ovos. Para conhecer o modo de vida de animais próximos, use observações possíveis e fontes identificadas, sem abrir ovos, tocar filhotes ou mexer em ninhos.</p><h3>Exemplo comentado</h3><p>Cartões autorais com fatos gerais: galinha — ovo/pintinho; gata — gestação/filhote; borboleta — ovo/lagarta. Esses cartões são uma síntese didática, não registro de criação feita pela turma.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Compare os três cartões quanto ao início do desenvolvimento e à forma do jovem. Escolha um animal do entorno e registre o que precisaria consultar para descrevê-lo.</p><h4>Proposta 2</h4><p>Planeje perguntar a um adulto ou consultar fonte institucional sobre reprodução de um animal próximo. Registre resposta, origem e dúvida; se não houve consulta, marque pendente.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos\" target=\"_blank\" rel=\"noopener noreferrer\">Instituto Butantan — Uma transformação que parece mágica: metamorfose</a></li><li><a href=\"https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA Fisheries — Fun Facts About Fascinating Fish</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "como_se_reproduzem.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual comparação está correta?",
+      "alternativas": [
+        "Pintinho pode sair do ovo; filhote de gato nasce após desenvolvimento no corpo materno.",
+        "Todo animal aquático nasce de ovo.",
+        "Todo ovo encontrado já tem filhote desenvolvido."
+      ],
+      "correta": 0,
+      "explicacao": "Modo de vida depende do animal e das condições, não só do ambiente.",
+      "bncc": [
+        "EF03CI04"
+      ]
+    },
+    {
+      "id": "como_se_reproduzem.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Compare os três cartões quanto ao início do desenvolvimento e à forma do jovem. Escolha um animal do entorno e registre o que precisaria consultar para descrevê-lo.",
+      "gabarito": "Distinguir exemplos e investigação local; não generalizar para todos os terrestres/aquáticos.",
+      "rubrica": [
+        "Distinguir exemplos e investigação local; não generalizar para todos os terrestres/aquáticos.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI04"
+      ]
+    },
+    {
+      "id": "como_se_reproduzem.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Planeje perguntar a um adulto ou consultar fonte institucional sobre reprodução de um animal próximo. Registre resposta, origem e dúvida; se não houve consulta, marque pendente.",
+      "gabarito": "Informação rastreável, sem inventar entrevista e sem intervenção em reprodução ou ninho.",
+      "rubrica": [
+        "Informação rastreável, sem inventar entrevista e sem intervenção em reprodução ou ninho.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+      "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+    },
+    {
+      "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+      "consulta": "2026-10-30",
+      "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.vida_dos_animais.o_que_os_animais_comem"
+  ],
+  "proximosPassos": [
+    "cna.ef03.vida_dos_animais.como_se_deslocam"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Vida dos Animais",
+    "bncc": [
+      "EF03CI04"
+    ],
+    "titulo": "Como os Animais se Reproduzem"
+  }
+}

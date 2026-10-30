@@ -647,6 +647,170 @@ registrarCurriculo("Ciências Naturais", {
         "titulo": "Luz e cor: extensão da investigação",
         "complementar": true
       }
+    ],
+    "Saúde Auditiva e Visual": [
+      {
+        "id": "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
+        "titulo": "Cuidar dos Ouvidos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
+        "titulo": "Luz e Visão",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+        "titulo": "Ambiente Escolar Saudável",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao",
+        "titulo": "Hábitos de Proteção",
+        "complementar": false
+      }
+    ],
+    "Vida dos Animais": [
+      {
+        "id": "cna.ef03.vida_dos_animais.como_se_reproduzem",
+        "titulo": "Como os Animais se Reproduzem",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.vida_dos_animais.como_se_deslocam",
+        "titulo": "Como os Animais se Deslocam",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.vida_dos_animais.animais_do_entorno",
+        "titulo": "Animais do Entorno",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.vida_dos_animais.habitats",
+        "titulo": "Habitats",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.vida_dos_animais.observar_animais",
+        "titulo": "Observar Animais",
+        "complementar": false
+      }
+    ],
+    "Crescimento dos Animais": [
+      {
+        "id": "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+        "titulo": "Filhotes e Adultos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.crescimento_dos_animais.metamorfose",
+        "titulo": "Metamorfose",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.crescimento_dos_animais.animais_terrestres",
+        "titulo": "Animais Terrestres",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+        "titulo": "Animais Aquáticos",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano",
+        "titulo": "O Ciclo de Vida Humano",
+        "complementar": false
+      }
+    ],
+    "Grupos de Animais": [
+      {
+        "id": "cna.ef03.grupos_de_animais.escamas_e_bico",
+        "titulo": "Escamas e Bico",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.grupos_de_animais.garras_e_patas",
+        "titulo": "Garras e Patas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+        "titulo": "Antenas e Invertebrados",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.grupos_de_animais.classificando_animais",
+        "titulo": "Classificando Animais",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.grupos_de_animais.chaves_de_identificacao",
+        "titulo": "Chaves de Identificação",
+        "complementar": false
+      }
+    ],
+    "A Terra em Representações": [
+      {
+        "id": "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+        "titulo": "Globos e Mapas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
+        "titulo": "Fotografias da Terra",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+        "titulo": "Água no Planeta",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.a_terra_em_representacoes.comparando_representacoes",
+        "titulo": "Comparando Representações",
+        "complementar": false
+      }
+    ],
+    "Observando o Céu": [
+      {
+        "id": "cna.ef03.observando_o_ceu.lua_e_estrelas",
+        "titulo": "Lua e Estrelas",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.observando_o_ceu.planetas_visiveis",
+        "titulo": "Planetas Visíveis",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.observando_o_ceu.registro_do_ceu",
+        "titulo": "Registro do Céu",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.observando_o_ceu.dia_e_noite",
+        "titulo": "Dia e Noite",
+        "complementar": false
+      }
+    ],
+    "Solo e Seus Usos": [
+      {
+        "id": "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
+        "titulo": "Cor, Textura e Cheiro",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.solo_e_seus_usos.permeabilidade",
+        "titulo": "Permeabilidade do Solo",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo",
+        "titulo": "Uso Consciente do Solo",
+        "complementar": false
+      }
     ]
   },
   "EF04": {

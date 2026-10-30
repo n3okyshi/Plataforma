@@ -1,0 +1,146 @@
+{
+  "id": "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 22,
+  "unidade": "A Terra em Representações",
+  "titulo": "Água no Planeta",
+  "bncc": [
+    "EF03CI07"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "No mapa incorporado, identifique regiões amplas de terra e oceano e explique o significado das cores pela legenda. Compare com a imagem.",
+      "Liste três formas de presença da água que o mapa global não mostra bem e explique um limite de escala."
+    ],
+    "resumo": "Grande parte da superfície terrestre é coberta por oceanos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.a_terra_em_representacoes.fotografias_da_terra\">Fotografias da Terra</button></p><h2>Água no Planeta</h2><h3>Para compreender</h3><p>Grande parte da superfície terrestre é coberta por oceanos. Também há água em rios, lagos, gelo, seres vivos e no ar. O oceano não é um anel separado: água e terras compõem a superfície do planeta aproximadamente esférico. No mapa, a cor azul é convenção para oceano; a escala não mostra todos os rios e lagos. O que parece terra firme pode conter água no solo e nos seres. Presença ou aparência de água não garante que seja adequada para beber.</p><h3>Exemplo comentado</h3><p>Compare o mapa e a imagem NASA: o mapa usa preenchimentos e a imagem registra aparência processada. Ambos ajudam a reconhecer terras e oceano, mas nenhum informa sozinho a potabilidade da água de um lugar.</p><figure><img src=\"assets/cna/EF03_terra_nasa.svg\" alt=\"Imagem NASA da Terra: disco curvo com África e áreas vizinhas, oceano e nuvens sobre fundo escuro; apenas uma face é visível.\" loading=\"lazy\" style=\"max-width:100%;height:auto\"><figcaption>Imagem disponibilizada pela NASA na página Earth Facts; representação fotográfica processada. Sem afirmar tomada única ou data da cena. Não é observação realizada pela turma.</figcaption></figure><figure><img src=\"assets/cna/EF03_mapa_terras.svg\" alt=\"Mapa-múndi em projeção plana equiretangular: terras emergidas em verde e oceano em azul; norte acima. Não mostra fronteiras ou tipos de solo; há distorções perto dos polos.\" loading=\"lazy\" style=\"max-width:100%;height:auto\"><figcaption>Mapa elaborado com dados Natural Earth 1:110 milhões, domínio público. Legenda: verde = terras emergidas; azul = oceano. Equador tracejado. Sem fronteiras; projeção distorce áreas e formas.</figcaption></figure><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>No mapa incorporado, identifique regiões amplas de terra e oceano e explique o significado das cores pela legenda. Compare com a imagem.</p><h4>Proposta 2</h4><p>Liste três formas de presença da água que o mapa global não mostra bem e explique um limite de escala.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://science.nasa.gov/earth/facts/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Earth Facts</a></li><li><a href=\"https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900\" target=\"_blank\" rel=\"noopener noreferrer\">NASA — Earth: imagem da página Earth Facts</a></li><li><a href=\"https://www.nasa.gov/nasa-brand-center/images-and-media/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA — Images and Media Usage Guidelines</a></li><li><a href=\"https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/\" target=\"_blank\" rel=\"noopener noreferrer\">Natural Earth — Land 1:110m</a></li><li><a href=\"https://www.naturalearthdata.com/about/terms-of-use/\" target=\"_blank\" rel=\"noopener noreferrer\">Natural Earth — Terms of Use</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "agua_no_planeta.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um rio pequeno não aparece no mapa global. Isso significa:",
+      "alternativas": [
+        "Que não existe água no local.",
+        "Que toda água só está no oceano.",
+        "Que a escala e a seleção de detalhes podem omiti-lo."
+      ],
+      "correta": 2,
+      "explicacao": "Representações selecionam informações conforme escala e objetivo.",
+      "bncc": [
+        "EF03CI07"
+      ]
+    },
+    {
+      "id": "agua_no_planeta.producao1",
+      "tipo": "discursiva",
+      "enunciado": "No mapa incorporado, identifique regiões amplas de terra e oceano e explique o significado das cores pela legenda. Compare com a imagem.",
+      "gabarito": "Reconhecer distribuição e convenções, sem chamar toda região verde de floresta ou exigir detalhe ausente.",
+      "rubrica": [
+        "Reconhecer distribuição e convenções, sem chamar toda região verde de floresta ou exigir detalhe ausente.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI07"
+      ]
+    },
+    {
+      "id": "agua_no_planeta.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Liste três formas de presença da água que o mapa global não mostra bem e explique um limite de escala.",
+      "gabarito": "Rios pequenos, água no solo, ar, organismos ou gelo conforme representação; não deduzir ausência do que não aparece.",
+      "rubrica": [
+        "Rios pequenos, água no solo, ar, organismos ou gelo conforme representação; não deduzir ausência do que não aparece.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI07"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Earth Facts",
+      "url": "https://science.nasa.gov/earth/facts/",
+      "consulta": "2026-10-30",
+      "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+    },
+    {
+      "documento": "NASA — Earth: imagem da página Earth Facts",
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+      "consulta": "2026-10-30",
+      "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+    },
+    {
+      "documento": "NASA — Images and Media Usage Guidelines",
+      "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "consulta": "2026-10-30",
+      "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+    },
+    {
+      "documento": "Natural Earth — Land 1:110m",
+      "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+      "consulta": "2026-10-30",
+      "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+    },
+    {
+      "documento": "Natural Earth — Terms of Use",
+      "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "consulta": "2026-10-30",
+      "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.a_terra_em_representacoes.fotografias_da_terra"
+  ],
+  "proximosPassos": [
+    "cna.ef03.a_terra_em_representacoes.comparando_representacoes"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "A Terra em Representações",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "titulo": "Água no Planeta"
+  }
+}

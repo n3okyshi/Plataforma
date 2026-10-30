@@ -1,1 +1,124 @@
-{"id":"cna.ef03.plano.crescimento_dos_animais.c2d0cf","componente":"cna","nivel":"EF03","titulo":"Crescimento dos Animais","estado":"planejado","complementar":false,"publicacao":{"permitida":false},"aulas":["cna.ef03.crescimento_dos_animais.filhotes_e_adultos","cna.ef03.crescimento_dos_animais.metamorfose","cna.ef03.crescimento_dos_animais.animais_terrestres","cna.ef03.crescimento_dos_animais.animais_aquaticos","cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano"],"bnccCandidata":["EF03CI05"],"camadas":{"teoria":{"estado":"planejado","aulas":["data/componentes/cna/rascunhos/aulas/EF03_filhotes_e_adultos_2eefbb2b.json","data/componentes/cna/rascunhos/aulas/EF03_metamorfose_c2231a3c.json","data/componentes/cna/rascunhos/aulas/EF03_animais_terrestres_e682f3f2.json","data/componentes/cna/rascunhos/aulas/EF03_animais_aquaticos_37a330ea.json","data/componentes/cna/rascunhos/aulas/EF03_ciclo_de_vida_humano_60b176d1.json"]},"atividades":{"estado":"planejado","criterio":"Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."},"questoes":{"estado":"planejado","itens":[]},"prova":{"estado":"planejado","questoes":[],"matriz":[{"bncc":"EF03CI05","evidencias":[]}]},"arena":{"estado":"planejado","selecao":{"componente":"cna","nivel":"EF03","unidade":"Crescimento dos Animais"},"itens":[]},"rastreabilidade":{"estado":"parcial","catalogo":"data/planejamento-basica/referencias-curriculares.json","revisaoPedagogica":"pendente"}},"conteudosExistentesPreservados":[],"observacao":"Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.","avaliacao":{"tipo":"objetiva_e_producoes_conforme_objetivos","registros":[],"devolutiva":"Docente com critérios a desenvolver; nenhuma observação realizada."},"pendencias":["Confrontar tópico e todas as dimensões do objetivo.","Escrever e revisar conteúdo, recursos e avaliações.","Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."]}
+{
+  "id": "cna.ef03.plano.crescimento_dos_animais.c2d0cf",
+  "componente": "cna",
+  "nivel": "EF03",
+  "titulo": "Crescimento dos Animais",
+  "estado": "planejado",
+  "complementar": false,
+  "publicacao": {
+    "permitida": false
+  },
+  "aulas": [
+    "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+    "cna.ef03.crescimento_dos_animais.metamorfose",
+    "cna.ef03.crescimento_dos_animais.animais_terrestres",
+    "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+    "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano"
+  ],
+  "bnccCandidata": [
+    "EF03CI05"
+  ],
+  "camadas": {
+    "teoria": {
+      "estado": "planejado",
+      "aulas": [
+        "data/componentes/cna/rascunhos/aulas/EF03_filhotes_e_adultos_2eefbb2b.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_metamorfose_c2231a3c.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_animais_terrestres_e682f3f2.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_animais_aquaticos_37a330ea.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_ciclo_de_vida_humano_60b176d1.json"
+      ]
+    },
+    "atividades": {
+      "estado": "planejado",
+      "criterio": "Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."
+    },
+    "questoes": {
+      "estado": "planejado",
+      "itens": []
+    },
+    "prova": {
+      "estado": "planejado",
+      "questoes": [],
+      "matriz": [
+        {
+          "bncc": "EF03CI05",
+          "evidencias": []
+        }
+      ]
+    },
+    "arena": {
+      "estado": "planejado",
+      "selecao": {
+        "componente": "cna",
+        "nivel": "EF03",
+        "unidade": "Crescimento dos Animais"
+      },
+      "itens": []
+    },
+    "rastreabilidade": {
+      "estado": "parcial",
+      "catalogo": "data/planejamento-basica/referencias-curriculares.json",
+      "revisaoPedagogica": "pendente"
+    }
+  },
+  "conteudosExistentesPreservados": [],
+  "observacao": "Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.",
+  "avaliacao": {
+    "tipo": "objetiva_e_producoes_conforme_objetivos",
+    "registros": [],
+    "devolutiva": "Docente com critérios a desenvolver; nenhuma observação realizada."
+  },
+  "pendencias": [
+    "Confrontar tópico e todas as dimensões do objetivo.",
+    "Escrever e revisar conteúdo, recursos e avaliações.",
+    "Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."
+  ],
+  "implementacao": {
+    "estado": "pronto_para_testes",
+    "aulas": [
+      "data/componentes/cna/aulas/EF03_EF03CI05_filhotes_e_adultos.json",
+      "data/componentes/cna/aulas/EF03_EF03CI05_metamorfose.json",
+      "data/componentes/cna/aulas/EF03_EF03CI05_animais_terrestres.json",
+      "data/componentes/cna/aulas/EF03_EF03CI05_animais_aquaticos.json",
+      "data/componentes/cna/aulas/EF03_EF03CI05_ciclo_de_vida_humano.json"
+    ],
+    "registro": "data/componentes/cna/lote_EF03_temas_restantes.json",
+    "limites": "Plano original preservado; aplicação/homologação pendentes.",
+    "camadas": {
+      "teoria": [
+        "data/componentes/cna/aulas/EF03_EF03CI05_filhotes_e_adultos.json",
+        "data/componentes/cna/aulas/EF03_EF03CI05_metamorfose.json",
+        "data/componentes/cna/aulas/EF03_EF03CI05_animais_terrestres.json",
+        "data/componentes/cna/aulas/EF03_EF03CI05_animais_aquaticos.json",
+        "data/componentes/cna/aulas/EF03_EF03CI05_ciclo_de_vida_humano.json"
+      ],
+      "atividades": [
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.aplicacao",
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao1",
+        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos#filhotes_e_adultos.producao2",
+        "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.aplicacao",
+        "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao1",
+        "cna.ef03.crescimento_dos_animais.metamorfose#metamorfose.producao2",
+        "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.aplicacao",
+        "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao1",
+        "cna.ef03.crescimento_dos_animais.animais_terrestres#animais_terrestres.producao2",
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.aplicacao",
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao1",
+        "cna.ef03.crescimento_dos_animais.animais_aquaticos#animais_aquaticos.producao2",
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.aplicacao",
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao1",
+        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano#ciclo_de_vida_humano.producao2"
+      ],
+      "questoes": "data/componentes/cna/questoes/EF03_crescimento_dos_animais.json",
+      "prova": "data/componentes/cna/provas/EF03_crescimento_dos_animais.json",
+      "arena": {
+        "arquivo": "arena/cna_arena.js",
+        "nivel": "EF03",
+        "unidade": "Crescimento dos Animais",
+        "componente": "cna"
+      },
+      "rastreabilidade": "data/componentes/cna/lote_EF03_temas_restantes.json"
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "cna.ef03.saude_auditiva_e_visual.prova",
+  "titulo": "Avaliação: Saúde Auditiva e Visual",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF03",
+  "unidade": "Saúde Auditiva e Visual",
+  "bncc": [
+    "EF03CI03"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens próprios de prova, com leitura mediada. Objetiva: acertos/4 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos.prova.1",
+    "cna.ef03.saude_auditiva_e_visual.luz_e_visao.prova.1",
+    "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel.prova.1",
+    "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef03.saude_auditiva_e_visual.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Saúde Auditiva e Visual",
+    "enunciado": "Numa sala fictícia, uma caixa de som fica alta durante toda a leitura e a tela reflete uma janela. Um aluno relata desconforto. Faça plano com duas mudanças do ambiente e uma forma acessível de receber a informação; explique o que depende de adulto/profissional e como acompanhar a melhoria sem testes corporais ou dados inventados.",
+    "gabarito": "Relacionar intensidade/duração e reflexo/acesso às mudanças, avisar responsável para sintomas, sem diagnóstico, colírio ou testes sensoriais; separar proposta, implementação e efeito observado.",
+    "rubrica": [
+      "Relacionar intensidade/duração e reflexo/acesso às mudanças, avisar responsável para sintomas, sem diagnóstico, colírio ou testes sensoriais; separar proposta, implementação e efeito observado.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF03CI03"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef03.saude_auditiva_e_visual.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Saúde Auditiva e Visual",
+        "enunciado": "Numa sala fictícia, uma caixa de som fica alta durante toda a leitura e a tela reflete uma janela. Um aluno relata desconforto. Faça plano com duas mudanças do ambiente e uma forma acessível de receber a informação; explique o que depende de adulto/profissional e como acompanhar a melhoria sem testes corporais ou dados inventados.",
+        "gabarito": "Relacionar intensidade/duração e reflexo/acesso às mudanças, avisar responsável para sintomas, sem diagnóstico, colírio ou testes sensoriais; separar proposta, implementação e efeito observado.",
+        "rubrica": [
+          "Relacionar intensidade/duração e reflexo/acesso às mudanças, avisar responsável para sintomas, sem diagnóstico, colírio ou testes sensoriais; separar proposta, implementação e efeito observado.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF03CI03"
+        ],
+        "aulasReferencia": [
+          "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
+          "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
+          "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
+          "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao1",
+      "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao2",
+      "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao1",
+      "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao2",
+      "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao1",
+      "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao2",
+      "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao1",
+      "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "WHO — Deafness and hearing loss: Ear care",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-ear-care",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre cuidado externo, não inserir objetos/fluidos, sons intensos e busca de avaliação. Não transpõe procedimentos, medicamentos ou diagnóstico para a aula."
+    },
+    {
+      "documento": "Ministério da Saúde — Doenças Oculares",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/d/doencas-oculares",
+      "consulta": "2026-10-30",
+      "uso": "Seção de prevenção e orientação de buscar profissional consultadas. Não transpõe indicação de colírio, duração de sono como regra infantil, exames ou julgamento sobre deficiência; atividades tratam de ambiente e acesso."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF03CI03",
+      "questoes": [
+        "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos.prova.1",
+        "cna.ef03.saude_auditiva_e_visual.luz_e_visao.prova.1",
+        "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel.prova.1",
+        "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.saude_auditiva_e_visual.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef03.saude_auditiva_e_visual.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao1",
+        "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos#cuidar_dos_ouvidos.producao2",
+        "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao1",
+        "cna.ef03.saude_auditiva_e_visual.luz_e_visao#luz_e_visao.producao2",
+        "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao1",
+        "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel#ambiente_escolar_saudavel.producao2",
+        "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao1",
+        "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao#habitos_de_protecao.producao2"
+      ]
+    }
+  ]
+}

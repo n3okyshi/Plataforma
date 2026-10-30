@@ -1,0 +1,132 @@
+{
+  "id": "cna.ef03.observando_o_ceu.dia_e_noite",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 27,
+  "unidade": "Observando o Céu",
+  "titulo": "Dia e Noite",
+  "bncc": [
+    "EF03CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Use o esquema incorporado e, se possível, esfera e lanterna fraca com adulto. Explique dia/noite numa marca, sem dirigir luz aos olhos.",
+      "Relacione o modelo a um plano de observação de dia e noite com Lua/estrelas, indicando o que ele explica e o que depende de registro real."
+    ],
+    "resumo": "Dia e noite se sucedem porque a Terra gira, e diferentes partes de sua superfície ficam voltadas para o Sol.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.observando_o_ceu.registro_do_ceu\">Registro do Céu</button></p><h2>Dia e Noite</h2><h3>Para compreender</h3><p>Dia e noite se sucedem porque a Terra gira, e diferentes partes de sua superfície ficam voltadas para o Sol. No modelo, uma luz representa o Sol e uma esfera representa a Terra; a parte iluminada tem dia e a parte oposta, noite. O Sol não é apagado ao anoitecer. No céu real, a Lua pode ser visível também de dia e outras estrelas ficam em geral mais fáceis de ver à noite. O modelo não explica sozinho a visibilidade de cada planeta em cada data. Não se olha para o Sol para testar a explicação.</p><h3>Exemplo comentado</h3><p>Uma marca numa esfera passa da região iluminada para a escura quando a esfera gira diante de luz fixa. O modelo usa distâncias e tamanhos sem escala e não é uma filmagem da Terra.</p><svg viewBox=\"0 0 600 280\" role=\"img\" aria-label=\"Modelo sem escala de dia e noite: luz à esquerda ilumina a metade esquerda de uma esfera. Metade direita está escura. Girar a esfera leva uma marca entre regiões iluminada e escura; o desenho não é fotografia.\"><circle cx=\"65\" cy=\"125\" r=\"37\" fill=\"#e8b83f\" stroke=\"#4d3b00\"/><g stroke=\"#a27700\" stroke-width=\"3\"><path d=\"M110 90h130m-130 35h130m-130 35h130\"/></g><circle cx=\"340\" cy=\"125\" r=\"87\" fill=\"#25374e\"/><path d=\"M340 38a87 87 0 0 0 0 174z\" fill=\"#a5d7ed\"/><g fill=\"#111\" font-size=\"18\"><text x=\"28\" y=\"195\">Luz / Sol</text><text x=\"272\" y=\"235\">Dia</text><text x=\"365\" y=\"235\">Noite</text><text x=\"245\" y=\"267\">Esfera / Terra · sem escala</text></g></svg><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Use o esquema incorporado e, se possível, esfera e lanterna fraca com adulto. Explique dia/noite numa marca, sem dirigir luz aos olhos.</p><h4>Proposta 2</h4><p>Relacione o modelo a um plano de observação de dia e noite com Lua/estrelas, indicando o que ele explica e o que depende de registro real.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://science.nasa.gov/earth/facts/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Earth Facts</a></li><li><a href=\"https://science.nasa.gov/moon/moon-phases/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Moon Phases: Daytime Moons</a></li><li><a href=\"https://science.nasa.gov/skywatching/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Skywatching</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "dia_e_noite.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No modelo de dia e noite, devemos:",
+      "alternativas": [
+        "Girar a esfera diante da luz para mudar a iluminação da marca.",
+        "Apagar o Sol a cada noite real.",
+        "Concluir que a Lua só existe no escuro."
+      ],
+      "correta": 0,
+      "explicacao": "Rotação muda a parte da Terra voltada para o Sol.",
+      "bncc": [
+        "EF03CI08"
+      ]
+    },
+    {
+      "id": "dia_e_noite.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Use o esquema incorporado e, se possível, esfera e lanterna fraca com adulto. Explique dia/noite numa marca, sem dirigir luz aos olhos.",
+      "gabarito": "Relacionar rotação e iluminação, reconhecer modelo sem escala; não afirmar uso do material se apenas analisou esquema.",
+      "rubrica": [
+        "Relacionar rotação e iluminação, reconhecer modelo sem escala; não afirmar uso do material se apenas analisou esquema.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI08"
+      ]
+    },
+    {
+      "id": "dia_e_noite.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Relacione o modelo a um plano de observação de dia e noite com Lua/estrelas, indicando o que ele explica e o que depende de registro real.",
+      "gabarito": "Explica iluminação da superfície; horário/visibilidade de astros requer observação e contexto.",
+      "rubrica": [
+        "Explica iluminação da superfície; horário/visibilidade de astros requer observação e contexto.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Earth Facts",
+      "url": "https://science.nasa.gov/earth/facts/",
+      "consulta": "2026-10-30",
+      "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+    },
+    {
+      "documento": "NASA Science — Moon Phases: Daytime Moons",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "consulta": "2026-10-30",
+      "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+    },
+    {
+      "documento": "NASA Science — Skywatching",
+      "url": "https://science.nasa.gov/skywatching/",
+      "consulta": "2026-10-30",
+      "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.observando_o_ceu.registro_do_ceu"
+  ],
+  "proximosPassos": [],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Observando o Céu",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "titulo": "Dia e Noite"
+  }
+}

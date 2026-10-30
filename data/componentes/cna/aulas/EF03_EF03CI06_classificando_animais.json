@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef03.grupos_de_animais.classificando_animais",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 18,
+  "unidade": "Grupos de Animais",
+  "titulo": "Classificando Animais",
+  "bncc": [
+    "EF03CI06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escolha dois critérios externos e organize os cartões em dois quadros. Justifique a entrada de cada animal e revise casos de sobreposição.",
+      "Compare seu agrupamento com o de outra pessoa ou com uma segunda regra que você proponha. Explique por que resultados diferentes podem ser coerentes."
+    ],
+    "resumo": "Classificar é organizar segundo critérios.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.grupos_de_animais.antenas_e_invertebrados\">Antenas e Invertebrados</button></p><h2>Classificando Animais</h2><h3>Para compreender</h3><p>Classificar é organizar segundo critérios. Pode-se reunir animais com penas, pelos, escamas, antenas ou certas quantidades de patas. O resultado depende do objetivo; grupos por cor não são necessariamente os mesmos de uma classificação científica. Use a mesma regra para todos e permita sobreposição quando houver mais de um critério. Não observado é diferente de ausente. Uma descrição pode sustentar um agrupamento, mas para identificar espécie são necessárias mais informações. Classificar não é colocar seres em ordem de valor.</p><h3>Exemplo comentado</h3><p>Com os cartões incorporados, galinha e gato se separam por penas/pelos; gato e formiga podem entrar num grupo de animais com patas, embora pertençam a grupos científicos diferentes.</p><table><caption>Cartões autorais de exemplares definidos; não substituem identificação em campo</caption><thead><tr><th scope=\"col\">Cartão</th><th scope=\"col\">Características externas</th><th scope=\"col\">Patas/membros</th><th scope=\"col\">Antenas</th></tr></thead><tbody><tr><td>Galinha</td><td>Penas; bico; escamas nas pernas</td><td>Duas pernas com pés e garras</td><td>Sem antenas</td></tr><tr><td>Gato</td><td>Pelos; garras</td><td>Quatro patas</td><td>Sem antenas</td></tr><tr><td>Formiga operária</td><td>Corpo com partes visíveis e revestimento externo</td><td>Seis pernas</td><td>Um par de antenas</td></tr><tr><td>Aranha</td><td>Corpo e pernas articuladas</td><td>Oito pernas</td><td>Sem antenas</td></tr><tr><td>Peixe de exemplo</td><td>Escamas; nadadeiras</td><td>Sem patas</td><td>Sem antenas</td></tr><tr><td>Tartaruga de exemplo</td><td>Casco; bico</td><td>Quatro membros</td><td>Sem antenas</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Escolha dois critérios externos e organize os cartões em dois quadros. Justifique a entrada de cada animal e revise casos de sobreposição.</p><h4>Proposta 2</h4><p>Compare seu agrupamento com o de outra pessoa ou com uma segunda regra que você proponha. Explique por que resultados diferentes podem ser coerentes.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos\" target=\"_blank\" rel=\"noopener noreferrer\">Instituto Butantan — Uma transformação que parece mágica: metamorfose</a></li><li><a href=\"https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA Fisheries — Fun Facts About Fascinating Fish</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "classificando_animais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Dois agrupamentos diferentes podem ser válidos quando:",
+      "alternativas": [
+        "Usam critérios explícitos e consistentes.",
+        "Mudam a regra para cada animal sem informar.",
+        "Ignoram características observadas."
+      ],
+      "correta": 0,
+      "explicacao": "A regra e o objetivo tornam o agrupamento avaliável.",
+      "bncc": [
+        "EF03CI06"
+      ]
+    },
+    {
+      "id": "classificando_animais.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Escolha dois critérios externos e organize os cartões em dois quadros. Justifique a entrada de cada animal e revise casos de sobreposição.",
+      "gabarito": "Critérios aplicados consistentemente, uso das características e reconhecimento de agrupamentos diferentes.",
+      "rubrica": [
+        "Critérios aplicados consistentemente, uso das características e reconhecimento de agrupamentos diferentes.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI06"
+      ]
+    },
+    {
+      "id": "classificando_animais.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare seu agrupamento com o de outra pessoa ou com uma segunda regra que você proponha. Explique por que resultados diferentes podem ser coerentes.",
+      "gabarito": "Critério explícito, evidência e limite; sem inventar opinião de colega.",
+      "rubrica": [
+        "Critério explícito, evidência e limite; sem inventar opinião de colega.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+      "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+    },
+    {
+      "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+      "consulta": "2026-10-30",
+      "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.grupos_de_animais.antenas_e_invertebrados"
+  ],
+  "proximosPassos": [
+    "cna.ef03.grupos_de_animais.chaves_de_identificacao"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Grupos de Animais",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "titulo": "Classificando Animais"
+  }
+}

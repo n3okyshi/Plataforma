@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef03.crescimento_dos_animais.metamorfose",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 11,
+  "unidade": "Crescimento dos Animais",
+  "titulo": "Metamorfose",
+  "bncc": [
+    "EF03CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Organize duas sequências, borboleta e gafanhoto, usando o quadro. Identifique duas mudanças e uma diferença entre os percursos.",
+      "Corrija a frase: a pupa é uma lagarta dormindo e todo animal vira borboleta."
+    ],
+    "resumo": "Metamorfose envolve mudanças marcantes da forma durante o desenvolvimento.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.crescimento_dos_animais.filhotes_e_adultos\">Filhotes e Adultos</button></p><h2>Metamorfose</h2><h3>Para compreender</h3><p>Metamorfose envolve mudanças marcantes da forma durante o desenvolvimento. Na borboleta, a sequência geral é ovo, larva chamada lagarta, pupa e adulto. Lagarta e borboleta são fases do mesmo tipo de animal, não espécies que se transformam umas nas outras. A pupa não é simplesmente um sono: há reorganização do corpo. Em insetos como gafanhotos, há ovo, ninfa e adulto, sem a etapa de pupa. Nem todo animal passa pelas mesmas fases. Não se capturam lagartas ou abrem pupas para estudar.</p><h3>Exemplo comentado</h3><p>No quadro incorporado, a borboleta tem fase de pupa; o gafanhoto não. Ambos mudam ao longo da vida. O esquema é autoral e sem duração fixa, pois o tempo varia.</p><table><caption>Sequências didáticas: exemplos gerais, sem escala de duração; não são dados de criação pela turma</caption><thead><tr><th scope=\"col\">Animal de exemplo</th><th scope=\"col\">Fases representadas</th><th scope=\"col\">Mudanças e meios</th></tr></thead><tbody><tr><td>Borboleta</td><td>Ovo → larva/lagarta → pupa → adulto</td><td>Forma, alimentação e deslocamento se modificam</td></tr><tr><td>Gafanhoto</td><td>Ovo → ninfa → adulto</td><td>Sem pupa; estruturas adultas se desenvolvem</td></tr><tr><td>Galinha</td><td>Embrião no ovo → pintinho → jovem → adulto</td><td>Crescimento, cobertura corporal e dependência</td></tr><tr><td>Peixe de ciclo representado</td><td>Ovo → larva → jovem → adulto</td><td>Desenvolvimento aquático; não representa todos os peixes</td></tr><tr><td>Golfinho</td><td>Gestação → filhote → jovem → adulto</td><td>Mamífero aquático; filhote mama</td></tr><tr><td>Sapo de ciclo representado</td><td>Ovo → girino → jovem → adulto</td><td>Fase aquática; mudanças de cauda, membros e meios usados</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Organize duas sequências, borboleta e gafanhoto, usando o quadro. Identifique duas mudanças e uma diferença entre os percursos.</p><h4>Proposta 2</h4><p>Corrija a frase: a pupa é uma lagarta dormindo e todo animal vira borboleta.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos\" target=\"_blank\" rel=\"noopener noreferrer\">Instituto Butantan — Uma transformação que parece mágica: metamorfose</a></li><li><a href=\"https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA Fisheries — Fun Facts About Fascinating Fish</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "metamorfose.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual etapa aparece na sequência da borboleta e não na do gafanhoto apresentada?",
+      "alternativas": [
+        "Pupa.",
+        "Ovo.",
+        "Adulto."
+      ],
+      "correta": 0,
+      "explicacao": "As duas sequências diferem no tipo de desenvolvimento.",
+      "bncc": [
+        "EF03CI05"
+      ]
+    },
+    {
+      "id": "metamorfose.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Organize duas sequências, borboleta e gafanhoto, usando o quadro. Identifique duas mudanças e uma diferença entre os percursos.",
+      "gabarito": "Borboleta ovo/larva/pupa/adulto; gafanhoto ovo/ninfa/adulto; não inserir pupa no segundo.",
+      "rubrica": [
+        "Borboleta ovo/larva/pupa/adulto; gafanhoto ovo/ninfa/adulto; não inserir pupa no segundo.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI05"
+      ]
+    },
+    {
+      "id": "metamorfose.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Corrija a frase: a pupa é uma lagarta dormindo e todo animal vira borboleta.",
+      "gabarito": "Reconhecer reorganização e diversidade de desenvolvimento, sem atribuir metamorfose igual a todos.",
+      "rubrica": [
+        "Reconhecer reorganização e diversidade de desenvolvimento, sem atribuir metamorfose igual a todos.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+      "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+    },
+    {
+      "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+      "consulta": "2026-10-30",
+      "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.crescimento_dos_animais.filhotes_e_adultos"
+  ],
+  "proximosPassos": [
+    "cna.ef03.crescimento_dos_animais.animais_terrestres"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Crescimento dos Animais",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "titulo": "Metamorfose"
+  }
+}

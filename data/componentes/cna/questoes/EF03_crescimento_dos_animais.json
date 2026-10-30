@@ -1,0 +1,472 @@
+[
+  {
+    "id": "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um pintinho e uma ave adulta podem diferir em:",
+    "opcoes": [
+      "Apenas no nome, sem mudanças corporais.",
+      "Só no tamanho, obrigatoriamente.",
+      "Tamanho e desenvolvimento da cobertura corporal."
+    ],
+    "correta": 2,
+    "explicacao": "Desenvolvimento envolve mudanças além do crescimento em altura ou massa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.filhotes_e_adultos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um gato é maior que outro. Isso prova que é mais velho?",
+    "opcoes": [
+      "Não; indivíduo, espécie/raça e outras condições influenciam.",
+      "Sim, mesmo se comparado a outra espécie.",
+      "Sim, tamanho sempre indica idade."
+    ],
+    "correta": 0,
+    "explicacao": "Idade não é determinada por tamanho isolado.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.metamorfose.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.metamorfose",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual etapa aparece na sequência da borboleta e não na do gafanhoto apresentada?",
+    "opcoes": [
+      "Ovo.",
+      "Adulto.",
+      "Pupa."
+    ],
+    "correta": 2,
+    "explicacao": "As duas sequências diferem no tipo de desenvolvimento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.metamorfose.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.metamorfose",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Lagarta e borboleta adulta da mesma espécie representam:",
+    "opcoes": [
+      "Uma mudança que ocorre com todo mamífero.",
+      "Duas espécies que se misturam.",
+      "Fases do desenvolvimento de um animal."
+    ],
+    "correta": 2,
+    "explicacao": "Metamorfose não é troca de espécie.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.animais_terrestres.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.animais_terrestres",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual sequência preserva a espécie?",
+    "opcoes": [
+      "Ovo de galinha, pintinho, galinha adulta.",
+      "Pintinho, lagarta, borboleta.",
+      "Gato, pintinho, galinha."
+    ],
+    "correta": 0,
+    "explicacao": "Fases de desenvolvimento não são lista de espécies por tamanho.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.animais_terrestres.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.animais_terrestres",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Duas espécies vivem em terra. Elas obrigatoriamente têm as mesmas fases?",
+    "opcoes": [
+      "Não; o modo de desenvolvimento pode variar.",
+      "Sim, sempre há pupa.",
+      "Sim, ambas precisam nascer do corpo materno."
+    ],
+    "correta": 0,
+    "explicacao": "O ambiente não impõe uma sequência universal.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.animais_aquaticos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Todo animal que vive na água é peixe e nasce de ovo?",
+    "opcoes": [
+      "Sim, essas duas regras são universais.",
+      "Não; golfinhos são mamíferos, por exemplo.",
+      "Sim, se nadar."
+    ],
+    "correta": 1,
+    "explicacao": "Meio de vida, classificação e reprodução não são equivalentes.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.animais_aquaticos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.animais_aquaticos",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Um girino no ciclo representado se desenvolve em:",
+    "opcoes": [
+      "Golfinho.",
+      "Sapo da mesma espécie de origem.",
+      "Peixe adulto."
+    ],
+    "correta": 1,
+    "explicacao": "A transformação preserva a espécie, apesar da mudança de forma.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Todas as pessoas desenvolvem habilidades no mesmo dia e ritmo?",
+    "opcoes": [
+      "Sim, e quem difere está em outra espécie.",
+      "Sim, idade permite prever toda capacidade.",
+      "Não; há variações e necessidades de apoio diferentes."
+    ],
+    "correta": 2,
+    "explicacao": "Desenvolvimento tem diversidade e não autoriza hierarquizar pessoas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Crescimento dos Animais",
+    "aulaId": "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma pessoa idosa usa tecnologia para se locomover. Isso significa:",
+    "opcoes": [
+      "Que não pode aprender.",
+      "Que voltou à infância.",
+      "Que utiliza apoio para participar, sem perder sua etapa ou dignidade."
+    ],
+    "correta": 2,
+    "explicacao": "Recursos e apoio não diminuem autonomia ou pertencimento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+        "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+        "consulta": "2026-10-30",
+        "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+      },
+      {
+        "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+        "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+        "consulta": "2026-10-30",
+        "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

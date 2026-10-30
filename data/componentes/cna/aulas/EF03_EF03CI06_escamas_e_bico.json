@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef03.grupos_de_animais.escamas_e_bico",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 15,
+  "unidade": "Grupos de Animais",
+  "titulo": "Escamas e Bico",
+  "bncc": [
+    "EF03CI06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Organize os cartões por presença de bico e depois por escamas; explique os resultados e uma sobreposição.",
+      "Explique por que não observar escama numa imagem distante não prova ausência."
+    ],
+    "resumo": "Características externas permitem comparar e organizar grupos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.grupos_de_animais.penas_e_pelos\">Comparar e agrupar animais</button></p><h2>Escamas e Bico</h2><h3>Para compreender</h3><p>Características externas permitem comparar e organizar grupos. Escamas aparecem em muitos peixes e répteis; aves também podem ter escamas nas pernas. Bico está presente nas aves, mas não é exclusividade delas, como mostram tartarugas. Ter uma característica comum não torna dois animais da mesma espécie ou do mesmo grupo científico. Defina um critério e registre presença, ausência ou não observado. Um desenho autoral pode destacar características, mas não substitui uma identificação detalhada em campo.</p><h3>Exemplo comentado</h3><p>Cartões desta aula: galinha — penas, bico e escamas nas pernas; peixe de exemplo — escamas e nadadeiras; tartaruga — casco e bico. O grupo com bico reúne galinha e tartaruga sob esse critério, sem dizer que tartaruga é ave.</p><table><caption>Cartões autorais de exemplares definidos; não substituem identificação em campo</caption><thead><tr><th scope=\"col\">Cartão</th><th scope=\"col\">Características externas</th><th scope=\"col\">Patas/membros</th><th scope=\"col\">Antenas</th></tr></thead><tbody><tr><td>Galinha</td><td>Penas; bico; escamas nas pernas</td><td>Duas pernas com pés e garras</td><td>Sem antenas</td></tr><tr><td>Gato</td><td>Pelos; garras</td><td>Quatro patas</td><td>Sem antenas</td></tr><tr><td>Formiga operária</td><td>Corpo com partes visíveis e revestimento externo</td><td>Seis pernas</td><td>Um par de antenas</td></tr><tr><td>Aranha</td><td>Corpo e pernas articuladas</td><td>Oito pernas</td><td>Sem antenas</td></tr><tr><td>Peixe de exemplo</td><td>Escamas; nadadeiras</td><td>Sem patas</td><td>Sem antenas</td></tr><tr><td>Tartaruga de exemplo</td><td>Casco; bico</td><td>Quatro membros</td><td>Sem antenas</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Organize os cartões por presença de bico e depois por escamas; explique os resultados e uma sobreposição.</p><h4>Proposta 2</h4><p>Explique por que não observar escama numa imagem distante não prova ausência.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos\" target=\"_blank\" rel=\"noopener noreferrer\">Instituto Butantan — Uma transformação que parece mágica: metamorfose</a></li><li><a href=\"https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA Fisheries — Fun Facts About Fascinating Fish</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "escamas_e_bico.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um grupo formado por presença de bico pode reunir os cartões de:",
+      "alternativas": [
+        "Somente todos os peixes.",
+        "Galinha e tartaruga, sem afirmar que são a mesma espécie.",
+        "Apenas animais com pelos."
+      ],
+      "correta": 1,
+      "explicacao": "Um critério externo pode reunir animais de grupos diferentes.",
+      "bncc": [
+        "EF03CI06"
+      ]
+    },
+    {
+      "id": "escamas_e_bico.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Organize os cartões por presença de bico e depois por escamas; explique os resultados e uma sobreposição.",
+      "gabarito": "Critério explícito e grupos coerentes; escamas/bico não definem sozinhos toda classificação.",
+      "rubrica": [
+        "Critério explícito e grupos coerentes; escamas/bico não definem sozinhos toda classificação.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI06"
+      ]
+    },
+    {
+      "id": "escamas_e_bico.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que não observar escama numa imagem distante não prova ausência.",
+      "gabarito": "Distinguir ausência e não observado, reconhecendo limite da representação.",
+      "rubrica": [
+        "Distinguir ausência e não observado, reconhecendo limite da representação.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+      "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+    },
+    {
+      "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+      "consulta": "2026-10-30",
+      "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.grupos_de_animais.penas_e_pelos"
+  ],
+  "proximosPassos": [
+    "cna.ef03.grupos_de_animais.garras_e_patas"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Grupos de Animais",
+    "bncc": [
+      "EF03CI06"
+    ],
+    "titulo": "Escamas e Bico"
+  }
+}

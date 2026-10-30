@@ -1042,11 +1042,23 @@
   ],
   "regra": "Consultar estado e conteúdo real antes de trabalhar; planos que referenciam aulas existentes não autorizam reescrevê-las automaticamente.",
   "continuidadeCiencias": {
-    "ultimoLote": "data/componentes/cna/lote_EF02_temas_restantes.json",
+    "ultimoLote": "data/componentes/cna/lote_EF03_temas_restantes.json",
     "EF01": "implementado_para_testes",
     "EF02": "implementado_para_testes",
-    "topicosSemAutoria": 293,
-    "proximo": "EF03: 30 tópicos restantes",
-    "limite": "Não repetir autoria existente sem lacuna comprovada; homologação pendente."
+    "EF03": "implementado_para_testes",
+    "topicosSemAutoria": 263,
+    "proximo": "EF04: 44 tópicos restantes",
+    "limite": "Não repetir autoria sem lacuna comprovada; homologação pendente."
+  },
+  "prioridadeAmpliada": {
+    "escopo": "Todos os componentes EF01–EF05, Ciências EF06–EF09 e demais componentes conforme matriz; Português por último.",
+    "ordem": [
+      "Ciências EF04–EF05",
+      "Demais componentes EF01–EF05 conforme matriz, exceto Português",
+      "Ciências EF06–EF09",
+      "Demais componentes e etapas aplicáveis da matriz",
+      "Língua Portuguesa por último"
+    ],
+    "limite": "Escopo ampliado não marca componentes como concluídos."
   }
 }

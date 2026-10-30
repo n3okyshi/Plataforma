@@ -45,8 +45,8 @@
     },
     {
       "nivel": "EF03",
-      "aulas": 20,
-      "atividades": 60,
+      "aulas": 50,
+      "atividades": 150,
       "habilidadesComRecortes": [
         "EF03CI01",
         "EF03CI02",
@@ -59,42 +59,12 @@
         "EF03CI09",
         "EF03CI10"
       ],
-      "questoesTreino": 30,
-      "itensProva": 30,
-      "provas": 6,
-      "topicosPlanejadosSemAutoria": [
-        "cna.ef03.saude_auditiva_e_visual.cuidar_dos_ouvidos",
-        "cna.ef03.saude_auditiva_e_visual.luz_e_visao",
-        "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
-        "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao",
-        "cna.ef03.vida_dos_animais.como_se_reproduzem",
-        "cna.ef03.vida_dos_animais.como_se_deslocam",
-        "cna.ef03.vida_dos_animais.animais_do_entorno",
-        "cna.ef03.vida_dos_animais.habitats",
-        "cna.ef03.vida_dos_animais.observar_animais",
-        "cna.ef03.crescimento_dos_animais.filhotes_e_adultos",
-        "cna.ef03.crescimento_dos_animais.metamorfose",
-        "cna.ef03.crescimento_dos_animais.animais_terrestres",
-        "cna.ef03.crescimento_dos_animais.animais_aquaticos",
-        "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano",
-        "cna.ef03.grupos_de_animais.escamas_e_bico",
-        "cna.ef03.grupos_de_animais.garras_e_patas",
-        "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
-        "cna.ef03.grupos_de_animais.classificando_animais",
-        "cna.ef03.grupos_de_animais.chaves_de_identificacao",
-        "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
-        "cna.ef03.a_terra_em_representacoes.fotografias_da_terra",
-        "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
-        "cna.ef03.a_terra_em_representacoes.comparando_representacoes",
-        "cna.ef03.observando_o_ceu.lua_e_estrelas",
-        "cna.ef03.observando_o_ceu.planetas_visiveis",
-        "cna.ef03.observando_o_ceu.registro_do_ceu",
-        "cna.ef03.observando_o_ceu.dia_e_noite",
-        "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
-        "cna.ef03.solo_e_seus_usos.permeabilidade",
-        "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
-      ],
-      "estado": "parcial"
+      "questoesTreino": 60,
+      "itensProva": 60,
+      "provas": 13,
+      "topicosPlanejadosSemAutoria": [],
+      "estado": "pronto_para_testes",
+      "limiteDoEstado": "50 tópicos implementados; observação, homologação independente, visual/acessibilidade e serviços reais pendentes."
     },
     {
       "nivel": "EF04",
@@ -530,14 +500,14 @@
     "Revisão visual e acessibilidade.",
     "Autenticação, Firebase e cache reais."
   ],
-  "limites": "EF01 e EF02 com autoria dos tópicos planejados para testes; sem homologação. EF03–EF09: 293 tópicos sem autoria. Acumulado: 203 aulas, 517 atividades, 222 itens por banco, 50 avaliações.",
-  "ultimoLote": "data/componentes/cna/lote_EF02_temas_restantes.json",
+  "limites": "EF01, EF02 e EF03 com autoria dos tópicos planejados para testes, sem homologação. EF04–EF09: 263 tópicos sem autoria. Acumulado: 233 aulas, 607 atividades, 252 itens por banco, 57 avaliações.",
+  "ultimoLote": "data/componentes/cna/lote_EF03_temas_restantes.json",
   "estruturaDosTopicosRestantes": {
     "estado": "planejado",
     "arquivosDeAulaCriados": 328,
     "indice": "data/planejamento-basica/ciencias-328.json",
-    "limite": "Índice histórico dos 328 arquivos estruturados: 35 EF02 agora têm canônico autorado; rascunhos originais arquivados e bloqueados. Demais 293 ainda sem autoria.",
-    "topicosComAutoriaPosterior": 35,
-    "topicosAindaSemAutoria": 293
+    "limite": "Índice histórico dos 328 rascunhos: 65 tópicos EF02/EF03 agora apontam para canônicos autorados; originais arquivados e bloqueados. 263 ainda sem autoria.",
+    "topicosComAutoriaPosterior": 65,
+    "topicosAindaSemAutoria": 263
   }
 }

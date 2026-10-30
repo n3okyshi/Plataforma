@@ -1,0 +1,126 @@
+{
+  "id": "cna.ef03.vida_dos_animais.prova",
+  "titulo": "Avaliação: Vida dos Animais",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF03",
+  "unidade": "Vida dos Animais",
+  "bncc": [
+    "EF03CI04"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef03.vida_dos_animais.como_se_reproduzem.prova.1",
+    "cna.ef03.vida_dos_animais.como_se_deslocam.prova.1",
+    "cna.ef03.vida_dos_animais.animais_do_entorno.prova.1",
+    "cna.ef03.vida_dos_animais.habitats.prova.1",
+    "cna.ef03.vida_dos_animais.observar_animais.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef03.vida_dos_animais.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Vida dos Animais",
+    "enunciado": "Prepare comparação de dois animais próximos quanto a alimentação, reprodução, deslocamento e abrigo/ambiente. Use registros autorizados e fontes identificadas; quando faltarem, deixe a lacuna e apresente separadamente exemplos gerais. Explique por que três avistamentos não provam três indivíduos e proponha observação adicional segura.",
+    "gabarito": "Características do modo de vida completas ou lacunas explícitas, origem das informações, evento/indivíduo distintos, relação com ambiente, sem captura/perseguição ou entrevista inventada.",
+    "rubrica": [
+      "Características do modo de vida completas ou lacunas explícitas, origem das informações, evento/indivíduo distintos, relação com ambiente, sem captura/perseguição ou entrevista inventada.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF03CI04"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef03.vida_dos_animais.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Vida dos Animais",
+        "enunciado": "Prepare comparação de dois animais próximos quanto a alimentação, reprodução, deslocamento e abrigo/ambiente. Use registros autorizados e fontes identificadas; quando faltarem, deixe a lacuna e apresente separadamente exemplos gerais. Explique por que três avistamentos não provam três indivíduos e proponha observação adicional segura.",
+        "gabarito": "Características do modo de vida completas ou lacunas explícitas, origem das informações, evento/indivíduo distintos, relação com ambiente, sem captura/perseguição ou entrevista inventada.",
+        "rubrica": [
+          "Características do modo de vida completas ou lacunas explícitas, origem das informações, evento/indivíduo distintos, relação com ambiente, sem captura/perseguição ou entrevista inventada.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF03CI04"
+        ],
+        "aulasReferencia": [
+          "cna.ef03.vida_dos_animais.como_se_reproduzem",
+          "cna.ef03.vida_dos_animais.como_se_deslocam",
+          "cna.ef03.vida_dos_animais.animais_do_entorno",
+          "cna.ef03.vida_dos_animais.habitats",
+          "cna.ef03.vida_dos_animais.observar_animais"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao1",
+      "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao2",
+      "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao1",
+      "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao2",
+      "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao1",
+      "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao2",
+      "cna.ef03.vida_dos_animais.habitats#habitats.producao1",
+      "cna.ef03.vida_dos_animais.habitats#habitats.producao2",
+      "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao1",
+      "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+      "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+    },
+    {
+      "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+      "consulta": "2026-10-30",
+      "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF03CI04",
+      "questoes": [
+        "cna.ef03.vida_dos_animais.como_se_reproduzem.prova.1",
+        "cna.ef03.vida_dos_animais.como_se_deslocam.prova.1",
+        "cna.ef03.vida_dos_animais.animais_do_entorno.prova.1",
+        "cna.ef03.vida_dos_animais.habitats.prova.1",
+        "cna.ef03.vida_dos_animais.observar_animais.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.vida_dos_animais.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef03.vida_dos_animais.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao1",
+        "cna.ef03.vida_dos_animais.como_se_reproduzem#como_se_reproduzem.producao2",
+        "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao1",
+        "cna.ef03.vida_dos_animais.como_se_deslocam#como_se_deslocam.producao2",
+        "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao1",
+        "cna.ef03.vida_dos_animais.animais_do_entorno#animais_do_entorno.producao2",
+        "cna.ef03.vida_dos_animais.habitats#habitats.producao1",
+        "cna.ef03.vida_dos_animais.habitats#habitats.producao2",
+        "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao1",
+        "cna.ef03.vida_dos_animais.observar_animais#observar_animais.producao2"
+      ]
+    }
+  ]
+}

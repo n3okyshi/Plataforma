@@ -1,0 +1,134 @@
+{
+  "id": "cna.ef03.observando_o_ceu.planetas_visiveis",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 25,
+  "unidade": "Observando o Céu",
+  "titulo": "Planetas Visíveis",
+  "bncc": [
+    "EF03CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Planeje ficha para identificar um planeta à noite com adulto e carta adequada: data, local geral, horário, referência do horizonte e condições.",
+      "Compare ponto a olho nu e imagem detalhada de sonda apenas pela descrição: explique por que não têm o mesmo detalhe e o que uma carta acrescenta."
+    ],
+    "resumo": "Mercúrio, Vênus, Marte, Júpiter e Saturno podem ser vistos sem telescópio em condições adequadas, mas não estão todos visíveis em qualquer horário ou data.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.observando_o_ceu.lua_e_estrelas\">Lua e Estrelas</button></p><h2>Planetas Visíveis</h2><h3>Para compreender</h3><p>Mercúrio, Vênus, Marte, Júpiter e Saturno podem ser vistos sem telescópio em condições adequadas, mas não estão todos visíveis em qualquer horário ou data. Planetas vistos assim parecem pontos luminosos, não discos com detalhes como nas imagens de sondas. Eles refletem luz do Sol. Brilho ou pouco cintilar, sozinhos, não garantem identificação. Um adulto pode conferir carta celeste e previsão local atual, mantendo distância angular segura do Sol. A aula não fornece uma efeméride da noite de hoje nem pede busca de Mercúrio/Vênus perto do Sol.</p><h3>Exemplo comentado</h3><p>Caso fictício: o adulto confronta um ponto observado após o anoitecer com um mapa celeste correspondente ao local/data/hora. Sem esse apoio, a ficha pode registrar ponto não identificado.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Planeje ficha para identificar um planeta à noite com adulto e carta adequada: data, local geral, horário, referência do horizonte e condições.</p><h4>Proposta 2</h4><p>Compare ponto a olho nu e imagem detalhada de sonda apenas pela descrição: explique por que não têm o mesmo detalhe e o que uma carta acrescenta.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://science.nasa.gov/earth/facts/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Earth Facts</a></li><li><a href=\"https://science.nasa.gov/moon/moon-phases/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Moon Phases: Daytime Moons</a></li><li><a href=\"https://science.nasa.gov/skywatching/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Skywatching</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "planetas_visiveis.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um ponto brilhante é prova suficiente de que vimos Vênus?",
+      "alternativas": [
+        "Sim, brilho identifica qualquer planeta.",
+        "Não; é preciso conferir posição e referências para local/data/hora.",
+        "Sim, se não aparecer em uma foto do livro."
+      ],
+      "correta": 1,
+      "explicacao": "A identificação exige contexto além do aspecto luminoso.",
+      "bncc": [
+        "EF03CI08"
+      ]
+    },
+    {
+      "id": "planetas_visiveis.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Planeje ficha para identificar um planeta à noite com adulto e carta adequada: data, local geral, horário, referência do horizonte e condições.",
+      "gabarito": "Consultar orientação correspondente e não inventar identificação, não procurar perto do Sol ou exigir instrumento.",
+      "rubrica": [
+        "Consultar orientação correspondente e não inventar identificação, não procurar perto do Sol ou exigir instrumento.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI08"
+      ]
+    },
+    {
+      "id": "planetas_visiveis.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare ponto a olho nu e imagem detalhada de sonda apenas pela descrição: explique por que não têm o mesmo detalhe e o que uma carta acrescenta.",
+      "gabarito": "Resolução e método diferentes; carta orienta identificação, brilho isolado não basta.",
+      "rubrica": [
+        "Resolução e método diferentes; carta orienta identificação, brilho isolado não basta.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Earth Facts",
+      "url": "https://science.nasa.gov/earth/facts/",
+      "consulta": "2026-10-30",
+      "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+    },
+    {
+      "documento": "NASA Science — Moon Phases: Daytime Moons",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "consulta": "2026-10-30",
+      "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+    },
+    {
+      "documento": "NASA Science — Skywatching",
+      "url": "https://science.nasa.gov/skywatching/",
+      "consulta": "2026-10-30",
+      "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.observando_o_ceu.lua_e_estrelas"
+  ],
+  "proximosPassos": [
+    "cna.ef03.observando_o_ceu.registro_do_ceu"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Observando o Céu",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "titulo": "Planetas Visíveis"
+  }
+}

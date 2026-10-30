@@ -1,1 +1,117 @@
-{"id":"cna.ef03.plano.observando_o_ceu.077e8a","componente":"cna","nivel":"EF03","titulo":"Observando o Céu","estado":"planejado","complementar":false,"publicacao":{"permitida":false},"aulas":["cna.ef03.observando_o_ceu.lua_e_estrelas","cna.ef03.observando_o_ceu.planetas_visiveis","cna.ef03.observando_o_ceu.registro_do_ceu","cna.ef03.observando_o_ceu.dia_e_noite"],"bnccCandidata":["EF03CI08"],"camadas":{"teoria":{"estado":"planejado","aulas":["data/componentes/cna/rascunhos/aulas/EF03_lua_e_estrelas_88ee6e87.json","data/componentes/cna/rascunhos/aulas/EF03_planetas_visiveis_3a3f98eb.json","data/componentes/cna/rascunhos/aulas/EF03_registro_do_ceu_857482c3.json","data/componentes/cna/rascunhos/aulas/EF03_dia_e_noite_21e45b18.json"]},"atividades":{"estado":"planejado","criterio":"Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."},"questoes":{"estado":"planejado","itens":[]},"prova":{"estado":"planejado","questoes":[],"matriz":[{"bncc":"EF03CI08","evidencias":[]}]},"arena":{"estado":"planejado","selecao":{"componente":"cna","nivel":"EF03","unidade":"Observando o Céu"},"itens":[]},"rastreabilidade":{"estado":"parcial","catalogo":"data/planejamento-basica/referencias-curriculares.json","revisaoPedagogica":"pendente"}},"conteudosExistentesPreservados":[],"observacao":"Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.","avaliacao":{"tipo":"objetiva_e_producoes_conforme_objetivos","registros":[],"devolutiva":"Docente com critérios a desenvolver; nenhuma observação realizada."},"pendencias":["Confrontar tópico e todas as dimensões do objetivo.","Escrever e revisar conteúdo, recursos e avaliações.","Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."]}
+{
+  "id": "cna.ef03.plano.observando_o_ceu.077e8a",
+  "componente": "cna",
+  "nivel": "EF03",
+  "titulo": "Observando o Céu",
+  "estado": "planejado",
+  "complementar": false,
+  "publicacao": {
+    "permitida": false
+  },
+  "aulas": [
+    "cna.ef03.observando_o_ceu.lua_e_estrelas",
+    "cna.ef03.observando_o_ceu.planetas_visiveis",
+    "cna.ef03.observando_o_ceu.registro_do_ceu",
+    "cna.ef03.observando_o_ceu.dia_e_noite"
+  ],
+  "bnccCandidata": [
+    "EF03CI08"
+  ],
+  "camadas": {
+    "teoria": {
+      "estado": "planejado",
+      "aulas": [
+        "data/componentes/cna/rascunhos/aulas/EF03_lua_e_estrelas_88ee6e87.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_planetas_visiveis_3a3f98eb.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_registro_do_ceu_857482c3.json",
+        "data/componentes/cna/rascunhos/aulas/EF03_dia_e_noite_21e45b18.json"
+      ]
+    },
+    "atividades": {
+      "estado": "planejado",
+      "criterio": "Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."
+    },
+    "questoes": {
+      "estado": "planejado",
+      "itens": []
+    },
+    "prova": {
+      "estado": "planejado",
+      "questoes": [],
+      "matriz": [
+        {
+          "bncc": "EF03CI08",
+          "evidencias": []
+        }
+      ]
+    },
+    "arena": {
+      "estado": "planejado",
+      "selecao": {
+        "componente": "cna",
+        "nivel": "EF03",
+        "unidade": "Observando o Céu"
+      },
+      "itens": []
+    },
+    "rastreabilidade": {
+      "estado": "parcial",
+      "catalogo": "data/planejamento-basica/referencias-curriculares.json",
+      "revisaoPedagogica": "pendente"
+    }
+  },
+  "conteudosExistentesPreservados": [],
+  "observacao": "Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.",
+  "avaliacao": {
+    "tipo": "objetiva_e_producoes_conforme_objetivos",
+    "registros": [],
+    "devolutiva": "Docente com critérios a desenvolver; nenhuma observação realizada."
+  },
+  "pendencias": [
+    "Confrontar tópico e todas as dimensões do objetivo.",
+    "Escrever e revisar conteúdo, recursos e avaliações.",
+    "Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."
+  ],
+  "implementacao": {
+    "estado": "pronto_para_testes",
+    "aulas": [
+      "data/componentes/cna/aulas/EF03_EF03CI08_lua_e_estrelas.json",
+      "data/componentes/cna/aulas/EF03_EF03CI08_planetas_visiveis.json",
+      "data/componentes/cna/aulas/EF03_EF03CI08_registro_do_ceu.json",
+      "data/componentes/cna/aulas/EF03_EF03CI08_dia_e_noite.json"
+    ],
+    "registro": "data/componentes/cna/lote_EF03_temas_restantes.json",
+    "limites": "Plano original preservado; aplicação/homologação pendentes.",
+    "camadas": {
+      "teoria": [
+        "data/componentes/cna/aulas/EF03_EF03CI08_lua_e_estrelas.json",
+        "data/componentes/cna/aulas/EF03_EF03CI08_planetas_visiveis.json",
+        "data/componentes/cna/aulas/EF03_EF03CI08_registro_do_ceu.json",
+        "data/componentes/cna/aulas/EF03_EF03CI08_dia_e_noite.json"
+      ],
+      "atividades": [
+        "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.aplicacao",
+        "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao1",
+        "cna.ef03.observando_o_ceu.lua_e_estrelas#lua_e_estrelas.producao2",
+        "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.aplicacao",
+        "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao1",
+        "cna.ef03.observando_o_ceu.planetas_visiveis#planetas_visiveis.producao2",
+        "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.aplicacao",
+        "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao1",
+        "cna.ef03.observando_o_ceu.registro_do_ceu#registro_do_ceu.producao2",
+        "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.aplicacao",
+        "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao1",
+        "cna.ef03.observando_o_ceu.dia_e_noite#dia_e_noite.producao2"
+      ],
+      "questoes": "data/componentes/cna/questoes/EF03_observando_o_ceu.json",
+      "prova": "data/componentes/cna/provas/EF03_observando_o_ceu.json",
+      "arena": {
+        "arquivo": "arena/cna_arena.js",
+        "nivel": "EF03",
+        "unidade": "Observando o Céu",
+        "componente": "cna"
+      },
+      "rastreabilidade": "data/componentes/cna/lote_EF03_temas_restantes.json"
+    }
+  }
+}

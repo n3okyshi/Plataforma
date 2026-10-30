@@ -1,0 +1,426 @@
+[
+  {
+    "id": "cna.ef03.observando_o_ceu.lua_e_estrelas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.lua_e_estrelas",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual afirmação é adequada?",
+    "opcoes": [
+      "Todas as estrelas desaparecem do espaço ao amanhecer.",
+      "A Lua pode aparecer de dia e de noite, conforme as condições e o período.",
+      "A Lua só existe à noite."
+    ],
+    "correta": 1,
+    "explicacao": "Visibilidade e existência não são a mesma coisa.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.lua_e_estrelas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.lua_e_estrelas",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não vimos a Lua em uma observação com nuvens. O relato deve:",
+    "opcoes": [
+      "Concluir que a Lua só aparece em noites sem nuvens.",
+      "Registrar condições e não observação, sem afirmar ausência definitiva.",
+      "Preencher como vista porque costuma aparecer."
+    ],
+    "correta": 1,
+    "explicacao": "Condições de observação integram a evidência.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.planetas_visiveis.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.planetas_visiveis",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Um ponto brilhante é prova suficiente de que vimos Vênus?",
+    "opcoes": [
+      "Sim, brilho identifica qualquer planeta.",
+      "Não; é preciso conferir posição e referências para local/data/hora.",
+      "Sim, se não aparecer em uma foto do livro."
+    ],
+    "correta": 1,
+    "explicacao": "A identificação exige contexto além do aspecto luminoso.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.planetas_visiveis.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.planetas_visiveis",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual anotação é honesta quando não foi possível conferir a identidade?",
+    "opcoes": [
+      "Todos os planetas observados sem registro.",
+      "Ponto luminoso não identificado; conferência pendente.",
+      "Júpiter confirmado só porque brilhou."
+    ],
+    "correta": 1,
+    "explicacao": "Incerteza explícita é melhor que identificação inventada.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.registro_do_ceu.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.registro_do_ceu",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual campo ajuda a interpretar não observação de estrelas?",
+    "opcoes": [
+      "Somente o tamanho do desenho, sem data e condições.",
+      "Condições de nuvens e iluminação do local.",
+      "Somente quantas estrelas o observador esperava ver."
+    ],
+    "correta": 1,
+    "explicacao": "Visibilidade depende de condições além de o astro estar no céu.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.registro_do_ceu.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.registro_do_ceu",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Duas fichas de Lua têm horários e datas diferentes. A conclusão deve:",
+    "opcoes": [
+      "Tratar como se fossem observações simultâneas.",
+      "Preservar essas referências ao comparar visibilidade.",
+      "Apagar horários para simplificar."
+    ],
+    "correta": 1,
+    "explicacao": "Referências de tempo dão sentido à comparação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.dia_e_noite.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.dia_e_noite",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "No modelo de dia e noite, devemos:",
+    "opcoes": [
+      "Concluir que a Lua só existe no escuro.",
+      "Girar a esfera diante da luz para mudar a iluminação da marca.",
+      "Apagar o Sol a cada noite real."
+    ],
+    "correta": 1,
+    "explicacao": "Rotação muda a parte da Terra voltada para o Sol.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef03.observando_o_ceu.dia_e_noite.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF03",
+    "unidade": "Observando o Céu",
+    "aulaId": "cna.ef03.observando_o_ceu.dia_e_noite",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "O modelo dia/noite permite afirmar quais planetas serão vistos hoje em sua cidade?",
+    "opcoes": [
+      "Sim, sem carta ou registro.",
+      "Não; essa identificação depende de local, data, hora e condições.",
+      "Sim, pois todos aparecem em toda noite."
+    ],
+    "correta": 1,
+    "explicacao": "O alcance do modelo é limitado e não substitui previsão local.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          339
+        ],
+        "paginasImpressas": "337",
+        "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+      },
+      {
+        "documento": "NASA Science — Earth Facts",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "consulta": "2026-10-30",
+        "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+      },
+      {
+        "documento": "NASA Science — Moon Phases: Daytime Moons",
+        "url": "https://science.nasa.gov/moon/moon-phases/",
+        "consulta": "2026-10-30",
+        "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+      },
+      {
+        "documento": "NASA Science — Skywatching",
+        "url": "https://science.nasa.gov/skywatching/",
+        "consulta": "2026-10-30",
+        "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

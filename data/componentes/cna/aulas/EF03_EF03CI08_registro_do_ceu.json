@@ -1,0 +1,134 @@
+{
+  "id": "cna.ef03.observando_o_ceu.registro_do_ceu",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 26,
+  "unidade": "Observando o Céu",
+  "titulo": "Registro do Céu",
+  "bncc": [
+    "EF03CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Interprete a tabela fictícia: identifique dois períodos possíveis de visibilidade lunar e uma limitação. Prepare depois ficha em branco para observações reais.",
+      "Compare dois registros reais se disponíveis e escreva conclusão limitada; se não houver, formule pergunta a investigar sem preencher resultados."
+    ],
+    "resumo": "Um diário do céu reúne observações comparáveis de dia e de noite.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.observando_o_ceu.planetas_visiveis\">Planetas Visíveis</button></p><h2>Registro do Céu</h2><h3>Para compreender</h3><p>Um diário do céu reúne observações comparáveis de dia e de noite. Use data, horário, local geral, referências fixas, condições de nuvens/luzes e corpos identificados com apoio. Registre não observado quando necessário, em vez de ausente para sempre. Uma tabela de datas diferentes ajuda a perceber que Lua e planetas não têm visibilidade fixa. Desenho, áudio e escrita são formas válidas. Não exponha endereço ou imagem de pessoas. Observação noturna depende de adulto e local seguro; se não for possível, permaneça como tarefa pendente.</p><h3>Exemplo comentado</h3><p>Tabela fictícia incorporada: numa data há Lua à tarde; em outra, Lua à noite; numa terceira, nuvens impediram identificações. Isso é exercício de interpretação, não dados de uma turma real.</p><table><caption>Exercício fictício de interpretação: não é observação da turma</caption><thead><tr><th scope=\"col\">Data fictícia</th><th scope=\"col\">Horário</th><th scope=\"col\">Condições</th><th scope=\"col\">Registro</th></tr></thead><tbody><tr><td>A</td><td>16 h</td><td>Céu pouco nublado</td><td>Lua identificada com adulto</td></tr><tr><td>B</td><td>20 h</td><td>Céu aberto</td><td>Lua e estrelas</td></tr><tr><td>C</td><td>19 h</td><td>Muito nublado</td><td>Corpos não identificados</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Interprete a tabela fictícia: identifique dois períodos possíveis de visibilidade lunar e uma limitação. Prepare depois ficha em branco para observações reais.</p><h4>Proposta 2</h4><p>Compare dois registros reais se disponíveis e escreva conclusão limitada; se não houver, formule pergunta a investigar sem preencher resultados.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://science.nasa.gov/earth/facts/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Earth Facts</a></li><li><a href=\"https://science.nasa.gov/moon/moon-phases/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Moon Phases: Daytime Moons</a></li><li><a href=\"https://science.nasa.gov/skywatching/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Skywatching</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "registro_do_ceu.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual campo ajuda a interpretar não observação de estrelas?",
+      "alternativas": [
+        "Somente quantas estrelas o observador esperava ver.",
+        "Somente o tamanho do desenho, sem data e condições.",
+        "Condições de nuvens e iluminação do local."
+      ],
+      "correta": 2,
+      "explicacao": "Visibilidade depende de condições além de o astro estar no céu.",
+      "bncc": [
+        "EF03CI08"
+      ]
+    },
+    {
+      "id": "registro_do_ceu.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Interprete a tabela fictícia: identifique dois períodos possíveis de visibilidade lunar e uma limitação. Prepare depois ficha em branco para observações reais.",
+      "gabarito": "Distinguir dados fictícios e ficha ainda sem execução; reconhecer céu/nuvens como condição.",
+      "rubrica": [
+        "Distinguir dados fictícios e ficha ainda sem execução; reconhecer céu/nuvens como condição.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI08"
+      ]
+    },
+    {
+      "id": "registro_do_ceu.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare dois registros reais se disponíveis e escreva conclusão limitada; se não houver, formule pergunta a investigar sem preencher resultados.",
+      "gabarito": "Datas/horários e evidência claros; não converter impossibilidade de observar em ausência do astro.",
+      "rubrica": [
+        "Datas/horários e evidência claros; não converter impossibilidade de observar em ausência do astro.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Earth Facts",
+      "url": "https://science.nasa.gov/earth/facts/",
+      "consulta": "2026-10-30",
+      "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+    },
+    {
+      "documento": "NASA Science — Moon Phases: Daytime Moons",
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "consulta": "2026-10-30",
+      "uso": "Seção textual sobre Lua visível de dia/noite e dependência de fase, época/local consultada. Não se usam horários aproximados como previsão local; vídeos e imagens dessa página não inspecionados."
+    },
+    {
+      "documento": "NASA Science — Skywatching",
+      "url": "https://science.nasa.gov/skywatching/",
+      "consulta": "2026-10-30",
+      "uso": "Seções sobre planetas/estrelas e orientação observacional consultadas. Cinco planetas citados são potencialmente visíveis sem telescópio, não necessariamente hoje ou ao mesmo tempo. Nenhuma efeméride local ou dado de observação real foi produzido."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.observando_o_ceu.planetas_visiveis"
+  ],
+  "proximosPassos": [
+    "cna.ef03.observando_o_ceu.dia_e_noite"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Observando o Céu",
+    "bncc": [
+      "EF03CI08"
+    ],
+    "titulo": "Registro do Céu"
+  }
+}

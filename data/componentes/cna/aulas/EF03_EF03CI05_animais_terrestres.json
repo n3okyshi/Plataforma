@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef03.crescimento_dos_animais.animais_terrestres",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 12,
+  "unidade": "Crescimento dos Animais",
+  "titulo": "Animais Terrestres",
+  "bncc": [
+    "EF03CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare o percurso da galinha e da borboleta. Descreva duas mudanças de cada e indique uma diferença no modo de desenvolvimento.",
+      "Explique por que viver em terra não significa nascer ou crescer da mesma maneira."
+    ],
+    "resumo": "Animais que vivem principalmente em terra podem ter desenvolvimentos diferentes.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.crescimento_dos_animais.metamorfose\">Metamorfose</button></p><h2>Animais Terrestres</h2><h3>Para compreender</h3><p>Animais que vivem principalmente em terra podem ter desenvolvimentos diferentes. Uma galinha passa de embrião no ovo a pintinho, jovem e adulto; uma borboleta passa por ovo, larva, pupa e adulto. O meio terrestre não determina uma sequência única. Durante a vida mudam estruturas, movimentos, alimentação e relações com o ambiente. Há espécies que usam mais de um meio em diferentes fases. Para descrever alterações, compare fases da mesma espécie, em vez de ordenar animais diferentes apenas pelo tamanho.</p><h3>Exemplo comentado</h3><p>Um pintinho pequeno não é uma fase anterior da borboleta grande. A linha de desenvolvimento precisa manter a identidade da espécie e explicar mudanças, não só listar seres do menor para o maior.</p><table><caption>Sequências didáticas: exemplos gerais, sem escala de duração; não são dados de criação pela turma</caption><thead><tr><th scope=\"col\">Animal de exemplo</th><th scope=\"col\">Fases representadas</th><th scope=\"col\">Mudanças e meios</th></tr></thead><tbody><tr><td>Borboleta</td><td>Ovo → larva/lagarta → pupa → adulto</td><td>Forma, alimentação e deslocamento se modificam</td></tr><tr><td>Gafanhoto</td><td>Ovo → ninfa → adulto</td><td>Sem pupa; estruturas adultas se desenvolvem</td></tr><tr><td>Galinha</td><td>Embrião no ovo → pintinho → jovem → adulto</td><td>Crescimento, cobertura corporal e dependência</td></tr><tr><td>Peixe de ciclo representado</td><td>Ovo → larva → jovem → adulto</td><td>Desenvolvimento aquático; não representa todos os peixes</td></tr><tr><td>Golfinho</td><td>Gestação → filhote → jovem → adulto</td><td>Mamífero aquático; filhote mama</td></tr><tr><td>Sapo de ciclo representado</td><td>Ovo → girino → jovem → adulto</td><td>Fase aquática; mudanças de cauda, membros e meios usados</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Compare o percurso da galinha e da borboleta. Descreva duas mudanças de cada e indique uma diferença no modo de desenvolvimento.</p><h4>Proposta 2</h4><p>Explique por que viver em terra não significa nascer ou crescer da mesma maneira.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos\" target=\"_blank\" rel=\"noopener noreferrer\">Instituto Butantan — Uma transformação que parece mágica: metamorfose</a></li><li><a href=\"https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish\" target=\"_blank\" rel=\"noopener noreferrer\">NOAA Fisheries — Fun Facts About Fascinating Fish</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "animais_terrestres.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual sequência preserva a espécie?",
+      "alternativas": [
+        "Pintinho, lagarta, borboleta.",
+        "Gato, pintinho, galinha.",
+        "Ovo de galinha, pintinho, galinha adulta."
+      ],
+      "correta": 2,
+      "explicacao": "Fases de desenvolvimento não são lista de espécies por tamanho.",
+      "bncc": [
+        "EF03CI05"
+      ]
+    },
+    {
+      "id": "animais_terrestres.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Compare o percurso da galinha e da borboleta. Descreva duas mudanças de cada e indique uma diferença no modo de desenvolvimento.",
+      "gabarito": "Manter cada sequência na espécie, relacionar cobertura/forma/movimento/alimentação e pupa somente na borboleta.",
+      "rubrica": [
+        "Manter cada sequência na espécie, relacionar cobertura/forma/movimento/alimentação e pupa somente na borboleta.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI05"
+      ]
+    },
+    {
+      "id": "animais_terrestres.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que viver em terra não significa nascer ou crescer da mesma maneira.",
+      "gabarito": "Usar contraste entre os dois exemplos e não reduzir mudança a tamanho.",
+      "rubrica": [
+        "Usar contraste entre os dois exemplos e não reduzir mudança a tamanho.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+      "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+    },
+    {
+      "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+      "consulta": "2026-10-30",
+      "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.crescimento_dos_animais.metamorfose"
+  ],
+  "proximosPassos": [
+    "cna.ef03.crescimento_dos_animais.animais_aquaticos"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Crescimento dos Animais",
+    "bncc": [
+      "EF03CI05"
+    ],
+    "titulo": "Animais Terrestres"
+  }
+}

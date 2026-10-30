@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef03.solo_e_seus_usos.permeabilidade",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 29,
+  "unidade": "Solo e Seus Usos",
+  "titulo": "Permeabilidade do Solo",
+  "bncc": [
+    "EF03CI09"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Interprete a tabela fictícia e indique diferença de volumes e duas condições que precisam ser controladas.",
+      "Planeje com adulto comparação de duas amostras do entorno autorizadas: pergunta, montagem, leitura e descarte. Se executar, registre dados sem substituir pelos fictícios."
+    ],
+    "resumo": "Permeabilidade se relaciona à passagem da água por espaços entre partículas e agregados do solo.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro\">Cor, Textura e Cheiro</button></p><h2>Permeabilidade do Solo</h2><h3>Para compreender</h3><p>Permeabilidade se relaciona à passagem da água por espaços entre partículas e agregados do solo. Tamanho de partículas, estrutura, compactação e umidade influenciam. Uma amostra com muita areia pode deixar água passar de modo diferente de outra, mas não há resultado universal determinado só pela cor. No ensaio de sala, compare a passagem em recipientes semelhantes, volumes e tempos combinados, com material selecionado e montagem pelo adulto. O líquido que sai não fica próprio para beber. Não despeje água em instalações elétricas ou deixe recipientes acumulando água.</p><h3>Exemplo comentado</h3><p>Dados fictícios: com 50 mL aplicados em cada montagem, após 2 minutos passaram 35 mL em A e 15 mL em B. A deixou passar mais naquele ensaio; falta conhecer umidade e compactação para explicar a causa.</p><table><caption>Dados fictícios: 50 mL aplicados em cada montagem; leitura após 2 minutos</caption><thead><tr><th scope=\"col\">Amostra</th><th scope=\"col\">Água recolhida (mL)</th></tr></thead><tbody><tr><td>A</td><td>35</td></tr><tr><td>B</td><td>15</td></tr></tbody></table><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Interprete a tabela fictícia e indique diferença de volumes e duas condições que precisam ser controladas.</p><h4>Proposta 2</h4><p>Planeje com adulto comparação de duas amostras do entorno autorizadas: pergunta, montagem, leitura e descarte. Se executar, registre dados sem substituir pelos fictícios.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Solos — Propriedades do Solo</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "permeabilidade.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "No exemplo, passaram 35 mL em A e 15 mL em B. A diferença foi:",
+      "alternativas": [
+        "20 mL.",
+        "50 mL.",
+        "2 mL."
+      ],
+      "correta": 0,
+      "explicacao": "A diferença compara volumes medidos no mesmo intervalo.",
+      "bncc": [
+        "EF03CI09"
+      ]
+    },
+    {
+      "id": "permeabilidade.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Interprete a tabela fictícia e indique diferença de volumes e duas condições que precisam ser controladas.",
+      "gabarito": "35−15=20 mL; mesmo recipiente/filtro, quantidade, água, tempo e registro de compactação/umidade.",
+      "rubrica": [
+        "35−15=20 mL; mesmo recipiente/filtro, quantidade, água, tempo e registro de compactação/umidade.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI09"
+      ]
+    },
+    {
+      "id": "permeabilidade.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Planeje com adulto comparação de duas amostras do entorno autorizadas: pergunta, montagem, leitura e descarte. Se executar, registre dados sem substituir pelos fictícios.",
+      "gabarito": "Método comparável, segurança, água não potável após ensaio, limites e execução efetiva separados.",
+      "rubrica": [
+        "Método comparável, segurança, água não potável após ensaio, limites e execução efetiva separados.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI09"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Embrapa Solos — Propriedades do Solo",
+      "url": "https://www.embrapa.br/en/web/solos/sibcs/propriedades-do-solo",
+      "consulta": "2026-10-30",
+      "uso": "Texto de cor, textura, estrutura, consistência e porosidade consultado. Não reproduz testes com ácido/peróxido, facas ou contato obrigatório; classificação granulométrica laboratorial não é atribuída a atividade escolar."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro"
+  ],
+  "proximosPassos": [
+    "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Solo e Seus Usos",
+    "bncc": [
+      "EF03CI09"
+    ],
+    "titulo": "Permeabilidade do Solo"
+  }
+}

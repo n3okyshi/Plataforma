@@ -1,0 +1,146 @@
+{
+  "id": "cna.ef03.a_terra_em_representacoes.globo_e_mapas",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 20,
+  "unidade": "A Terra em Representações",
+  "titulo": "Globos e Mapas",
+  "bncc": [
+    "EF03CI07"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare o mapa e a imagem incorporados. Se houver globo disponível com adulto, manipule-o e registre duas semelhanças e duas diferenças. Se não houver, marque a manipulação do globo pendente.",
+      "Explique para que usaria um globo e para que usaria um mapa e cite um limite de cada."
+    ],
+    "resumo": "A Terra tem forma aproximadamente esférica, com pequenas diferenças em relação a uma esfera perfeita.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> leitura mediada, descrição, áudio e registro ditado são formas de participar. O adulto organiza materiais e situações seguros; avalie compreensão e evidências, sem expor condições pessoais.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.a_terra_em_representacoes.forma_da_terra\">Terra: comparar representações</button></p><h2>Globos e Mapas</h2><h3>Para compreender</h3><p>A Terra tem forma aproximadamente esférica, com pequenas diferenças em relação a uma esfera perfeita. Um globo representa essa forma em tamanho reduzido; um mapa representa a superfície num plano. Passar a superfície curva para um plano produz distorções de formas, áreas ou distâncias. Cores e símbolos dependem de legenda. O mapa incorporado mostra terras emergidas e oceano, sem fronteiras ou tipos de solo; a imagem da Terra mostra uma face do planeta, não o mundo todo ao mesmo tempo. Nenhuma representação contém todos os detalhes.</p><h3>Exemplo comentado</h3><p>Um globo pode ser girado para examinar faces diferentes. No mapa plano vemos uma distribuição geral com distorções. Comparar tamanho de regiões só pelo desenho pode enganar, especialmente perto dos polos.</p><figure><img src=\"assets/cna/EF03_terra_nasa.svg\" alt=\"Imagem NASA da Terra: disco curvo com África e áreas vizinhas, oceano e nuvens sobre fundo escuro; apenas uma face é visível.\" loading=\"lazy\" style=\"max-width:100%;height:auto\"><figcaption>Imagem disponibilizada pela NASA na página Earth Facts; representação fotográfica processada. Sem afirmar tomada única ou data da cena. Não é observação realizada pela turma.</figcaption></figure><figure><img src=\"assets/cna/EF03_mapa_terras.svg\" alt=\"Mapa-múndi em projeção plana equiretangular: terras emergidas em verde e oceano em azul; norte acima. Não mostra fronteiras ou tipos de solo; há distorções perto dos polos.\" loading=\"lazy\" style=\"max-width:100%;height:auto\"><figcaption>Mapa elaborado com dados Natural Earth 1:110 milhões, domínio público. Legenda: verde = terras emergidas; azul = oceano. Equador tracejado. Sem fronteiras; projeção distorce áreas e formas.</figcaption></figure><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Compare o mapa e a imagem incorporados. Se houver globo disponível com adulto, manipule-o e registre duas semelhanças e duas diferenças. Se não houver, marque a manipulação do globo pendente.</p><h4>Proposta 2</h4><p>Explique para que usaria um globo e para que usaria um mapa e cite um limite de cada.</p><h3>Fontes</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://science.nasa.gov/earth/facts/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Earth Facts</a></li><li><a href=\"https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900\" target=\"_blank\" rel=\"noopener noreferrer\">NASA — Earth: imagem da página Earth Facts</a></li><li><a href=\"https://www.nasa.gov/nasa-brand-center/images-and-media/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA — Images and Media Usage Guidelines</a></li><li><a href=\"https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/\" target=\"_blank\" rel=\"noopener noreferrer\">Natural Earth — Land 1:110m</a></li><li><a href=\"https://www.naturalearthdata.com/about/terms-of-use/\" target=\"_blank\" rel=\"noopener noreferrer\">Natural Earth — Terms of Use</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "globo_e_mapas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um mapa plano da Terra:",
+      "alternativas": [
+        "Prova que o planeta é plano.",
+        "Representa superfície curva com distorções.",
+        "Mostra sempre detalhes de todo solo."
+      ],
+      "correta": 1,
+      "explicacao": "A forma do suporte não é a forma do planeta.",
+      "bncc": [
+        "EF03CI07"
+      ]
+    },
+    {
+      "id": "globo_e_mapas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Compare o mapa e a imagem incorporados. Se houver globo disponível com adulto, manipule-o e registre duas semelhanças e duas diferenças. Se não houver, marque a manipulação do globo pendente.",
+      "gabarito": "Forma, dimensão e extensão representada corretas; atividade sem globo não é relatada como manipulação realizada.",
+      "rubrica": [
+        "Forma, dimensão e extensão representada corretas; atividade sem globo não é relatada como manipulação realizada.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI07"
+      ]
+    },
+    {
+      "id": "globo_e_mapas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique para que usaria um globo e para que usaria um mapa e cite um limite de cada.",
+      "gabarito": "Globo para forma/posições gerais, mapa para leitura plana/tema; limites de escala, seleção e distorção.",
+      "rubrica": [
+        "Globo para forma/posições gerais, mapa para leitura plana/tema; limites de escala, seleção e distorção.",
+        "Atende: produção verificável e explicação coerente, distinguindo fonte, exemplo, hipótese, modelo, plano e observação.",
+        "Em desenvolvimento: evidência parcial a revisar após devolutiva. Retomar: falta produção ou relação exigida; indicar próximo passo específico."
+      ],
+      "bncc": [
+        "EF03CI07"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Earth Facts",
+      "url": "https://science.nasa.gov/earth/facts/",
+      "consulta": "2026-10-30",
+      "uso": "Texto de rotação, superfície e características do planeta consultado. Não se reproduzem generalizações imprecisas do texto sobre todo o manto ser fundido ou regra de ano bissexto a cada quatro anos sem exceção. Imagem Earth da página incorporada com crédito e descrição; vista localmente."
+    },
+    {
+      "documento": "NASA — Earth: imagem da página Earth Facts",
+      "url": "https://science.nasa.gov/wp-content/uploads/2023/05/earth-1-jpg.webp?w=900",
+      "consulta": "2026-10-30",
+      "uso": "Imagem baixada e inspecionada: Terra com África/áreas vizinhas, nuvens e oceano sobre fundo escuro. Disponibilização NASA; não se afirma tomada única, data da cena ou imagem coletada pela turma. Incorporada em SVG local, sem depender de carregamento externo."
+    },
+    {
+      "documento": "NASA — Images and Media Usage Guidelines",
+      "url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "consulta": "2026-10-30",
+      "uso": "Seção de uso educativo/informativo e atribuição consultada; recurso sem pessoas ou logotipo, sem implicar endosso. Não se aplica permissão genérica a fotos de terceiros."
+    },
+    {
+      "documento": "Natural Earth — Land 1:110m",
+      "url": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-land/",
+      "consulta": "2026-10-30",
+      "uso": "Página e arquivo GeoJSON do repositório oficial consultados; polígonos de terras e grandes ilhas transformados em SVG equiretangular. Sem fronteiras/nomes/solos. SHA256 do GeoJSON: 9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9. Generalização não substitui mapa detalhado."
+    },
+    {
+      "documento": "Natural Earth — Terms of Use",
+      "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "consulta": "2026-10-30",
+      "uso": "Licença de domínio público de dados vetoriais/raster consultada; crédito preservado, sem garantir precisão local."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.a_terra_em_representacoes.forma_da_terra"
+  ],
+  "proximosPassos": [
+    "cna.ef03.a_terra_em_representacoes.fotografias_da_terra"
+  ],
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Conteúdo autoral assistido com verificações locais; aplicação e homologação independentes pendentes."
+  },
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; não atribui revisão independente a docente.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "A Terra em Representações",
+    "bncc": [
+      "EF03CI07"
+    ],
+    "titulo": "Globos e Mapas"
+  }
+}

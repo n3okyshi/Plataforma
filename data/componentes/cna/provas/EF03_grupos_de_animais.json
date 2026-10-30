@@ -1,0 +1,126 @@
+{
+  "id": "cna.ef03.grupos_de_animais.prova",
+  "titulo": "Avaliação: Grupos de Animais",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF03",
+  "unidade": "Grupos de Animais",
+  "bncc": [
+    "EF03CI06"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens próprios de prova, com leitura mediada. Objetiva: acertos/5 × 10, sem certificar domínio integral. Realize também o desafio final e apresente evidências de processo para revisão docente separada; observações requerem datas e condições reais.",
+  "questoes": [
+    "cna.ef03.grupos_de_animais.escamas_e_bico.prova.1",
+    "cna.ef03.grupos_de_animais.garras_e_patas.prova.1",
+    "cna.ef03.grupos_de_animais.antenas_e_invertebrados.prova.1",
+    "cna.ef03.grupos_de_animais.classificando_animais.prova.1",
+    "cna.ef03.grupos_de_animais.chaves_de_identificacao.prova.1"
+  ],
+  "criterios": "Gabaritos e explicações ao final da prova; desafio final e processo com devolutiva por dimensão, sem nota automática. Oferecer recursos acessíveis e tempo para observações.",
+  "avaliacaoPratica": {
+    "id": "cna.ef03.grupos_de_animais.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Grupos de Animais",
+    "enunciado": "Use os cartões de galinha, gato, formiga e aranha para construir dois agrupamentos por características externas e uma chave que separe os quatro. Teste cada caminho. Depois avalie um cartão novo que informa apenas bico e escamas: explique por que a chave pode ser inconclusiva e por que isso não prova que seja ave ou peixe.",
+    "gabarito": "Critérios consistentes, penas/pelos/patas/antenas usados corretamente, caminhos testados e limites explícitos; bico/escamas compartilhados por outros animais, sem identificação forçada.",
+    "rubrica": [
+      "Critérios consistentes, penas/pelos/patas/antenas usados corretamente, caminhos testados e limites explícitos; bico/escamas compartilhados por outros animais, sem identificação forçada.",
+      "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+    ],
+    "bncc": [
+      "EF03CI06"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef03.grupos_de_animais.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Grupos de Animais",
+        "enunciado": "Use os cartões de galinha, gato, formiga e aranha para construir dois agrupamentos por características externas e uma chave que separe os quatro. Teste cada caminho. Depois avalie um cartão novo que informa apenas bico e escamas: explique por que a chave pode ser inconclusiva e por que isso não prova que seja ave ou peixe.",
+        "gabarito": "Critérios consistentes, penas/pelos/patas/antenas usados corretamente, caminhos testados e limites explícitos; bico/escamas compartilhados por outros animais, sem identificação forçada.",
+        "rubrica": [
+          "Critérios consistentes, penas/pelos/patas/antenas usados corretamente, caminhos testados e limites explícitos; bico/escamas compartilhados por outros animais, sem identificação forçada.",
+          "Devolutiva por dimensão: atende, em desenvolvimento ou retomar; citar evidência e próximo passo de revisão."
+        ],
+        "bncc": [
+          "EF03CI06"
+        ],
+        "aulasReferencia": [
+          "cna.ef03.grupos_de_animais.escamas_e_bico",
+          "cna.ef03.grupos_de_animais.garras_e_patas",
+          "cna.ef03.grupos_de_animais.antenas_e_invertebrados",
+          "cna.ef03.grupos_de_animais.classificando_animais",
+          "cna.ef03.grupos_de_animais.chaves_de_identificacao"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao1",
+      "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao2",
+      "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao1",
+      "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao2",
+      "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao1",
+      "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao2",
+      "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao1",
+      "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao2",
+      "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao1",
+      "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao2"
+    ],
+    "correcao": "Docente, separada da nota automática. Plano não comprova observação executada; registre dimensões e devolutiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Texto das dez habilidades do 3º ano consultado diretamente. Conferência assistida por dimensões; sem homologação independente."
+    },
+    {
+      "documento": "Instituto Butantan — Uma transformação que parece mágica: metamorfose",
+      "url": "https://butantan.gov.br/bubutantan/uma-transformacao-que-parece-magica-entenda-o-que-e-a-metamorfose-e-os-segredos-por-tras-do-ciclo-de-vida-de-alguns-insetos",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado: fases ovo/larva/pupa/adulto e contraste com ovo/ninfa/adulto. Não foram inspecionadas fotografias. A aula evita chamar pupa de simples sono ou afirmar reconstrução total de todos os tecidos; exemplos e cartões autorais, sem criação/captura."
+    },
+    {
+      "documento": "NOAA Fisheries — Fun Facts About Fascinating Fish",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-fascinating-fish",
+      "consulta": "2026-10-30",
+      "uso": "Trechos textuais de locomoção e diversidade consultados. Não adota afirmações problemáticas da página sobre animais pararem de evoluir, peixes inferiores/avançados, mastigação ou todas as espécies terem o mesmo desenvolvimento. Sem reprodução de fotos ou captura."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF03CI06",
+      "questoes": [
+        "cna.ef03.grupos_de_animais.escamas_e_bico.prova.1",
+        "cna.ef03.grupos_de_animais.garras_e_patas.prova.1",
+        "cna.ef03.grupos_de_animais.antenas_e_invertebrados.prova.1",
+        "cna.ef03.grupos_de_animais.classificando_animais.prova.1",
+        "cna.ef03.grupos_de_animais.chaves_de_identificacao.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.grupos_de_animais.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef03.grupos_de_animais.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao1",
+        "cna.ef03.grupos_de_animais.escamas_e_bico#escamas_e_bico.producao2",
+        "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao1",
+        "cna.ef03.grupos_de_animais.garras_e_patas#garras_e_patas.producao2",
+        "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao1",
+        "cna.ef03.grupos_de_animais.antenas_e_invertebrados#antenas_e_invertebrados.producao2",
+        "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao1",
+        "cna.ef03.grupos_de_animais.classificando_animais#classificando_animais.producao2",
+        "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao1",
+        "cna.ef03.grupos_de_animais.chaves_de_identificacao#chaves_de_identificacao.producao2"
+      ]
+    }
+  ]
+}
