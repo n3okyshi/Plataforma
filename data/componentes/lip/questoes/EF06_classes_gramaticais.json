@@ -1,0 +1,516 @@
+[
+  {
+    "id": "lip.ef06.classes_gramaticais.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Classes Gramaticais",
+    "aulaId": "lip.ef06.classes_gramaticais.substantivo",
+    "bncc": [
+      "EF06LP04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “As estudantes encontraram os livros”, quais palavras são substantivos?",
+    "opcoes": [
+      "As e os",
+      "Encontraram e as",
+      "Estudantes e livros",
+      "Os e encontraram"
+    ],
+    "correta": 2,
+    "explicacao": "Em “A estudante encontrou o livro”, estudante e livro nomeiam participantes da cena. Ao passar para “As estudantes encontraram os livros”, alteram-se número e concordância. O gênero de estudante pode ser indicado por a/o: a forma do substantivo não precisa mudar. Gênero gramatical não se confunde automaticamente com sexo ou identidade. Em “um livrinho querido”, o diminutivo pode expressar afeto; não informa obrigatoriamente tamanho. As formas de grau podem ser tratadas como derivação, por isso não vamos confundir esse processo com o plural.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.classes_gramaticais.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Classes Gramaticais",
+    "aulaId": "lip.ef06.classes_gramaticais.substantivo",
+    "bncc": [
+      "EF06LP04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual revisão ajusta corretamente o plural de “A menina abriu o caderno”?",
+    "opcoes": [
+      "As menina abriu os cadernos.",
+      "As meninas abriram os cadernos.",
+      "As meninas abriu o cadernos.",
+      "A meninas abriram os caderno."
+    ],
+    "correta": 1,
+    "explicacao": "Meninas e cadernos são plurais; artigos e verbo também precisam concordar.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.classes_gramaticais.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Classes Gramaticais",
+    "aulaId": "lip.ef06.classes_gramaticais.adjetivo",
+    "bncc": [
+      "EF06LP04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual forma concorda com “revistas”?",
+    "opcoes": [
+      "Novos",
+      "Nova",
+      "Novas",
+      "Novo"
+    ],
+    "correta": 2,
+    "explicacao": "Em “Os livros novos chegaram”, novos caracteriza livros e concorda no masculino plural. Em “As revistas novas chegaram”, novas concorda no feminino plural. Nem todo adjetivo varia em gênero: livro interessante e revista interessante usam a mesma forma; no plural, interessantes. Em “Esta sala é mais silenciosa que aquela”, o adjetivo participa de uma comparação explícita.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.classes_gramaticais.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Classes Gramaticais",
+    "aulaId": "lip.ef06.classes_gramaticais.adjetivo",
+    "bncc": [
+      "EF06LP04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “Uma sala acolhedora”, qual análise é adequada?",
+    "opcoes": [
+      "Acolhedora caracteriza sala e está no feminino singular.",
+      "Acolhedora nomeia obrigatoriamente uma pessoa.",
+      "Sala é um verbo.",
+      "Acolhedora deve sempre ficar no masculino."
+    ],
+    "correta": 0,
+    "explicacao": "O adjetivo atribui uma característica ao substantivo sala e concorda com ele.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.classes_gramaticais.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Classes Gramaticais",
+    "aulaId": "lip.ef06.classes_gramaticais.pronome",
+    "bncc": [
+      "EF06LP12"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual revisão deixa claro que Bia levou o livro em “Lia encontrou Bia. Ela levou o livro”?",
+    "opcoes": [
+      "Lia encontrou Bia. Alguém levou o livro.",
+      "Lia encontrou Bia. Bia levou o livro.",
+      "Lia encontrou Bia. Sua levou o livro.",
+      "Lia encontrou Bia. Elas levou o livro."
+    ],
+    "correta": 1,
+    "explicacao": "“Lia encontrou Bia. Ela levou o livro.” Sem contexto adicional, ela pode retomar Lia ou Bia. Se o sentido pretendido é que Bia levou o livro, “Lia encontrou Bia. Bia levou o livro” esclarece; depois podemos retomar Bia por ela quando não houver dúvida. Em “Lia guardou o caderno de Bia e seu livro”, seu também pode ser ambíguo. Repetir o nome pode ser uma boa revisão.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.classes_gramaticais.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Classes Gramaticais",
+    "aulaId": "lip.ef06.classes_gramaticais.pronome",
+    "bncc": [
+      "EF06LP12"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “Rui entregou o livro a Caio. Ele agradeceu”, qual revisão elimina a dúvida se foi Caio quem agradeceu?",
+    "opcoes": [
+      "Trocar ele por alguém.",
+      "Apagar o agradecimento.",
+      "Rui entregou o livro a Caio. Caio agradeceu.",
+      "Ele entregou seu livro a ele."
+    ],
+    "correta": 2,
+    "explicacao": "Repetir Caio explicita o referente. Evitar repetição não pode ser mais importante que preservar o sentido.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.classes_gramaticais.treino.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Classes Gramaticais",
+    "aulaId": "lip.ef06.classes_gramaticais.verbo_e_modos_verbais",
+    "bncc": [
+      "EF06LP04",
+      "EF06LP05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em um convite “Visite nossa exposição!”, o imperativo principalmente:",
+    "opcoes": [
+      "Comprova que a visita ocorreu.",
+      "Indica obrigatoriamente uma ameaça.",
+      "Convida o interlocutor a participar.",
+      "Expressa um plural de substantivo."
+    ],
+    "correta": 2,
+    "explicacao": "Em “A turma visita a biblioteca”, visita é presente do indicativo, terceira pessoa do singular; em “As turmas visitam”, visitam está no plural. “Talvez a turma visite a biblioteca” usa presente do subjuntivo para possibilidade. Num cartaz dirigido a você: “Visite a biblioteca” e “Não risque os livros” são imperativos afirmativo e negativo. Em um convite, visite busca adesão; numa regra de cuidado, não risque orienta uma conduta. “Ontem visitamos a biblioteca” situa uma ação passada, enquanto “Amanhã visitaremos” situa a visita no futuro.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.classes_gramaticais.prova.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Classes Gramaticais",
+    "aulaId": "lip.ef06.classes_gramaticais.verbo_e_modos_verbais",
+    "bncc": [
+      "EF06LP04",
+      "EF06LP05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conjunto traz declaração no indicativo, possibilidade no subjuntivo e orientação no imperativo negativo?",
+    "opcoes": [
+      "A turma lê; talvez a turma leia; não risque o livro.",
+      "Talvez a turma leia; a turma lê; lemos ontem.",
+      "Não risque; a turma lê; ontem lemos.",
+      "Livro novo; turma alegre; sala ampla."
+    ],
+    "correta": 0,
+    "explicacao": "Lê apresenta declaração; leia, após talvez, possibilidade; não risque dirige uma orientação negativa ao leitor.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          85,
+          86,
+          87,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          116,
+          117,
+          132,
+          133,
+          134,
+          135,
+          148,
+          149,
+          153,
+          154,
+          155,
+          157,
+          158,
+          159,
+          162,
+          163
+        ],
+        "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+        "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

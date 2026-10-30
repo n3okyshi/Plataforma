@@ -1,0 +1,185 @@
+{
+  "id": "lip.ef06.classes_gramaticais.prova",
+  "titulo": "Avaliação: Classes Gramaticais",
+  "componente": "lip",
+  "tema": "Língua Portuguesa",
+  "nivel": "EF06",
+  "unidade": "Classes Gramaticais",
+  "bncc": [
+    "EF06LP04",
+    "EF06LP05",
+    "EF06LP12"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens objetivos com correção ao final. Somente aulas curriculares; complementos não exigidos. Portfólio avaliado pelo docente, sem nota automática. A nota objetiva não comprova domínio.",
+  "questoes": [
+    "lip.ef06.classes_gramaticais.prova.01",
+    "lip.ef06.classes_gramaticais.prova.02",
+    "lip.ef06.classes_gramaticais.prova.04",
+    "lip.ef06.classes_gramaticais.prova.05"
+  ],
+  "criterios": "Nota objetiva: acertos divididos por 4, multiplicados por dez. Produções avaliadas separadamente por tarefa.",
+  "avaliacaoPratica": {
+    "id": "lip.ef06.classes_gramaticais.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Classes Gramaticais",
+    "enunciado": "Reúna as produções abaixo, explique suas escolhas e revise após a devolutiva. ",
+    "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+    "rubrica": [
+      "Atende: apresenta evidência e explica escolhas.",
+      "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+      "Retomar: precisa produzir ou corrigir a evidência."
+    ],
+    "bncc": [
+      "EF06LP04",
+      "EF06LP05",
+      "EF06LP12"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Substantivos em uso: função e flexões",
+        "enunciado": "Reescreva “A estudante encontrou o livro novo” para indicar mais de uma estudante e mais de um livro. Identifique os substantivos e explique todas as alterações necessárias. Depois crie um trecho em que livrinho expresse carinho e justifique pelo contexto.",
+        "gabarito": "As estudantes encontraram os livros novos. Estudante e livro são os substantivos; estudantes e livros marcam plural, com ajustes em artigos, verbo e adjetivo. O trecho com livrinho deve fornecer uma pista afetiva. Não exigir que o diminutivo indique só tamanho.",
+        "rubrica": [
+          "Relacionar as escolhas linguísticas à função que exercem no texto.",
+          "As estudantes encontraram os livros novos. Estudante e livro são os substantivos; estudantes e livros marcam plural, com ajustes em artigos, verbo e adjetivo. O trecho com livrinho deve fornecer uma pista afetiva. Não exigir que o diminutivo indique só tamanho.",
+          "Registrar a produção e as justificativas; revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF06LP04"
+        ],
+        "atividadeOrigem": "lip.ef06.classes_gramaticais.substantivo#substantivo.producao"
+      },
+      {
+        "titulo": "Adjetivos: caracterização e flexões",
+        "enunciado": "Descreva uma biblioteca em três frases, usando dois adjetivos que ajudem o leitor a imaginá-la. Reescreva uma frase trocando livro por revistas e ajuste a concordância. Faça uma comparação entre dois espaços e explique o efeito de um dos adjetivos escolhidos.",
+        "gabarito": "Resposta autoral. Exigir caracterização ligada a substantivos, concordância com revistas no feminino plural quando o adjetivo variar e comparação com referente explícito. Interessante passa a interessantes, sem trocar a forma de gênero. A justificativa deve relacionar a escolha à imagem do espaço.",
+        "rubrica": [
+          "Relacionar as escolhas linguísticas à função que exercem no texto.",
+          "Resposta autoral. Exigir caracterização ligada a substantivos, concordância com revistas no feminino plural quando o adjetivo variar e comparação com referente explícito. Interessante passa a interessantes, sem trocar a forma de gênero. A justificativa deve relacionar a escolha à imagem do espaço.",
+          "Registrar a produção e as justificativas; revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF06LP04"
+        ],
+        "atividadeOrigem": "lip.ef06.classes_gramaticais.adjetivo#adjetivo.producao"
+      },
+      {
+        "titulo": "Pronomes e clareza na retomada de referentes",
+        "enunciado": "Produza um relato de quatro a seis frases com duas personagens. Use nomes e pelo menos dois pronomes para retomá-las, sublinhando os pronomes e indicando seus referentes. Inclua uma frase de fala de uma personagem e deixe claro quem falou. Mostre a um colega, registre uma possível ambiguidade e revise.",
+        "gabarito": "Conferir texto real, alternância entre nomes e pronomes e identificação correta dos referentes. A fala deve ter locutor identificável, por exemplo “Lia disse: ...”. Avaliar apenas o recorte de coesão e clareza da voz; a habilidade EF06LP12 completa também exige outros recursos que serão trabalhados em Produção de Textos. Aceitar repetição intencional para evitar ambiguidade.",
+        "rubrica": [
+          "Relacionar as escolhas linguísticas à função que exercem no texto.",
+          "Conferir texto real, alternância entre nomes e pronomes e identificação correta dos referentes. A fala deve ter locutor identificável, por exemplo “Lia disse: ...”. Avaliar apenas o recorte de coesão e clareza da voz; a habilidade EF06LP12 completa também exige outros recursos que serão trabalhados em Produção de Textos. Aceitar repetição intencional para evitar ambiguidade.",
+          "Registrar a produção e as justificativas; revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF06LP12"
+        ],
+        "atividadeOrigem": "lip.ef06.classes_gramaticais.pronome#pronome.producao"
+      },
+      {
+        "titulo": "Verbos e efeitos dos modos verbais",
+        "enunciado": "Escreva um informe sobre uma visita já realizada, uma frase que apresente a possibilidade de nova visita e um convite ao leitor com imperativo afirmativo. Acrescente uma orientação com imperativo negativo. Identifique os verbos e explique seus efeitos conforme o gênero. Reescreva “A turma visita a biblioteca” com sujeito plural.",
+        "gabarito": "Exemplos: “Ontem a turma visitou...” (indicativo/passado), “Talvez a turma visite...” (subjuntivo/possibilidade), “Visite...” (convite), “Não risque...” (orientação negativa). No plural: “As turmas visitam a biblioteca”. Exigir análise das formas e da intenção, não apenas rótulos. Aceitar outras formas gramaticais coerentes.",
+        "rubrica": [
+          "Relacionar as escolhas linguísticas à função que exercem no texto.",
+          "Exemplos: “Ontem a turma visitou...” (indicativo/passado), “Talvez a turma visite...” (subjuntivo/possibilidade), “Visite...” (convite), “Não risque...” (orientação negativa). No plural: “As turmas visitam a biblioteca”. Exigir análise das formas e da intenção, não apenas rótulos. Aceitar outras formas gramaticais coerentes.",
+          "Registrar a produção e as justificativas; revisar após devolutiva."
+        ],
+        "bncc": [
+          "EF06LP04",
+          "EF06LP05"
+        ],
+        "atividadeOrigem": "lip.ef06.classes_gramaticais.verbo_e_modos_verbais#verbo_e_modos_verbais.producao"
+      }
+    ],
+    "correcao": "Docente com devolutiva individual; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        85,
+        86,
+        87,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        116,
+        117,
+        132,
+        133,
+        134,
+        135,
+        148,
+        149,
+        153,
+        154,
+        155,
+        157,
+        158,
+        159,
+        162,
+        163
+      ],
+      "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+      "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF06LP04",
+      "questoes": [
+        "lip.ef06.classes_gramaticais.prova.01",
+        "lip.ef06.classes_gramaticais.prova.02",
+        "lip.ef06.classes_gramaticais.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.classes_gramaticais.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.classes_gramaticais.substantivo#substantivo.producao",
+        "lip.ef06.classes_gramaticais.adjetivo#adjetivo.producao",
+        "lip.ef06.classes_gramaticais.verbo_e_modos_verbais#verbo_e_modos_verbais.producao"
+      ],
+      "limites": "Recorte de análise e uso contextualizado; homologação docente pendente."
+    },
+    {
+      "bncc": "EF06LP05",
+      "questoes": [
+        "lip.ef06.classes_gramaticais.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.classes_gramaticais.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.classes_gramaticais.verbo_e_modos_verbais#verbo_e_modos_verbais.producao"
+      ],
+      "limites": "Recorte de análise e uso contextualizado; homologação docente pendente."
+    },
+    {
+      "bncc": "EF06LP12",
+      "questoes": [
+        "lip.ef06.classes_gramaticais.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.classes_gramaticais.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.classes_gramaticais.pronome#pronome.producao"
+      ],
+      "limites": "EF06LP12: somente coesão com nomes/pronomes e clareza da voz; demais recursos serão trabalhados em Produção de Textos."
+    }
+  ],
+  "complementar": false
+}

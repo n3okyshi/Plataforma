@@ -67,3 +67,11 @@ Língua, Texto e Contexto: quatro aulas curriculares, um apoio complementar opci
 ## Ampliação de Português EF06: Morfologia
 
 Cinco aulas, dez atividades, cinco questões de treino e cinco itens próprios de prova, com portfólio. EF06LP03, EF67LP34 e EF67LP35 têm tarefas específicas; criação de palavras foi realocada para EF67LP35. Acumulado: dez aulas (uma complementar), vinte atividades e nove itens em cada banco, em duas unidades. Demais unidades continuam pendentes, assim como homologação docente, revisão visual/acessibilidade e Firebase/cache reais.
+
+## Português EF06: Classes Gramaticais
+
+Sete aulas adicionais e quatorze atividades. Núcleo curricular: substantivos, adjetivos, pronomes em coesão e verbos/modos; quatro questões de treino e quatro itens próprios de prova. Bloco opcional separado: artigos/numerais, advérbio/preposição/conjunção e interjeição, com três questões de treino, três itens próprios de prova e portfólio próprios. Recorte de EF06LP04, EF06LP05 e EF06LP12, sem afirmar conclusão integral dessas habilidades. Acumulado: dezessete aulas, trinta e quatro atividades, dezesseis questões de treino e dezesseis itens de prova em quatro avaliações (uma complementar). Homologação docente, uso real, visual/acessibilidade e Firebase/cache continuam pendentes.
+
+## Português EF06: Sintaxe da Oração
+
+Seis aulas e doze atividades adicionais; seis questões de treino e seis itens próprios de prova, com portfólio. O treino sorteia até cinco itens da unidade; a prova utiliza os seis itens previstos. Trabalha frases/orações/períodos, períodos simples/compostos, sintagmas, coordenação sem conectivo e concordância nominal/verbal. Inclui relato com rascunho, versão revisada e justificativas. Acumulado: vinte e três aulas, quarenta e seis atividades, vinte e duas questões de treino e vinte e dois itens de prova em cinco avaliações (uma complementar). Vínculos EF06LP06–EF06LP11 são recortes com evidências planejadas; revisão docente e uso real continuam pendentes.

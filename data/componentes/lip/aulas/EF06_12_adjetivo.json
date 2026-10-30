@@ -1,0 +1,113 @@
+{
+  "id": "lip.ef06.classes_gramaticais.adjetivo",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 12,
+  "unidade": "Classes Gramaticais",
+  "titulo": "Adjetivos: caracterização e flexões",
+  "bncc": [
+    "EF06LP04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Descreva uma biblioteca em três frases, usando dois adjetivos que ajudem o leitor a imaginá-la. Reescreva uma frase trocando livro por revistas e ajuste a concordância. Faça uma comparação entre dois espaços e explique o efeito de um dos adjetivos escolhidos."
+    ],
+    "resumo": "Adjetivos: caracterização e flexões",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Adjetivos: caracterização e flexões</h2><h3>Ideias e relações</h3><p>Adjetivos caracterizam substantivos, expressando propriedades, estados ou avaliações. Em biblioteca silenciosa, silenciosa caracteriza biblioteca. A escolha orienta a imagem construída pelo leitor: dizer que um lugar é acolhedor ou assustador produz efeitos diferentes. Não confunda a característica com o nome daquilo que se descreve. Algumas expressões têm valor adjetivo: material escolar e material de escola, embora a substituição nem sempre preserve todas as nuances.</p><h3>Exemplo comentado</h3><p>Em “Os livros novos chegaram”, novos caracteriza livros e concorda no masculino plural. Em “As revistas novas chegaram”, novas concorda no feminino plural. Nem todo adjetivo varia em gênero: livro interessante e revista interessante usam a mesma forma; no plural, interessantes. Em “Esta sala é mais silenciosa que aquela”, o adjetivo participa de uma comparação explícita.</p><h3>Produza e revise</h3><p>Descreva uma biblioteca em três frases, usando dois adjetivos que ajudem o leitor a imaginá-la. Reescreva uma frase trocando livro por revistas e ajuste a concordância. Faça uma comparação entre dois espaços e explique o efeito de um dos adjetivos escolhidos.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "adjetivo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual forma concorda com “revistas”?",
+      "alternativas": [
+        "Novos",
+        "Nova",
+        "Novas",
+        "Novo"
+      ],
+      "correta": 2,
+      "explicacao": "Em “Os livros novos chegaram”, novos caracteriza livros e concorda no masculino plural. Em “As revistas novas chegaram”, novas concorda no feminino plural. Nem todo adjetivo varia em gênero: livro interessante e revista interessante usam a mesma forma; no plural, interessantes. Em “Esta sala é mais silenciosa que aquela”, o adjetivo participa de uma comparação explícita.",
+      "bncc": [
+        "EF06LP04"
+      ]
+    },
+    {
+      "id": "adjetivo.producao",
+      "tipo": "discursiva",
+      "enunciado": "Descreva uma biblioteca em três frases, usando dois adjetivos que ajudem o leitor a imaginá-la. Reescreva uma frase trocando livro por revistas e ajuste a concordância. Faça uma comparação entre dois espaços e explique o efeito de um dos adjetivos escolhidos.",
+      "gabarito": "Resposta autoral. Exigir caracterização ligada a substantivos, concordância com revistas no feminino plural quando o adjetivo variar e comparação com referente explícito. Interessante passa a interessantes, sem trocar a forma de gênero. A justificativa deve relacionar a escolha à imagem do espaço.",
+      "rubrica": [
+        "Relacionar as escolhas linguísticas à função que exercem no texto.",
+        "Resposta autoral. Exigir caracterização ligada a substantivos, concordância com revistas no feminino plural quando o adjetivo variar e comparação com referente explícito. Interessante passa a interessantes, sem trocar a forma de gênero. A justificativa deve relacionar a escolha à imagem do espaço.",
+        "Registrar a produção e as justificativas; revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF06LP04"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        85,
+        86,
+        87,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        116,
+        117,
+        132,
+        133,
+        134,
+        135,
+        148,
+        149,
+        153,
+        154,
+        155,
+        157,
+        158,
+        159,
+        162,
+        163
+      ],
+      "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+      "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida de exemplos e vínculos. Homologação docente, aplicação, visual e acessibilidade pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

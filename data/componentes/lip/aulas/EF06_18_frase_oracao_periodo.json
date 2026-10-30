@@ -1,0 +1,101 @@
+{
+  "id": "lip.ef06.sintaxe_da_oracao.frase_oracao_periodo",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 18,
+  "unidade": "Sintaxe da Oração",
+  "titulo": "Frase, oração e período",
+  "bncc": [
+    "EF06LP08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise “A biblioteca abriu. Os alunos vão ler e a professora organizará os livros”. Separe os períodos, identifique os núcleos verbais e marque as orações. Compare com o aviso “Boa leitura!” e explique por que ele comunica algo mesmo sem verbo."
+    ],
+    "resumo": "Frase, oração e período",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Frase, oração e período</h2><p>Uma frase produz sentido em uma situação comunicativa e pode não ter verbo: “Silêncio!” funciona como aviso. Uma oração se organiza em torno de um núcleo verbal. Um período pode reunir uma ou mais orações. Na escrita, os limites costumam ser marcados por ponto final, de interrogação ou de exclamação, mas contar sinais sem analisar a construção não basta. Neste estudo trabalharemos exemplos de limites claros, relacionando o que o texto comunica à sua organização.</p><h3>Exemplo comentado</h3><p>No relato “A turma entrou na sala. Todos começaram a ler”, há dois períodos, cada um com uma oração: entrou e começaram a ler são os núcleos verbais. Começaram a ler é tratado aqui como locução verbal: as formas atuam juntas no mesmo processo. Em “A turma entrou e escolheu os livros”, o período reúne duas orações: entrou e escolheu. A segunda retoma o sujeito da primeira. Em “Boa leitura!”, o aviso pode ser uma frase sem oração.</p><h3>Produza e revise</h3><p>Analise “A biblioteca abriu. Os alunos vão ler e a professora organizará os livros”. Separe os períodos, identifique os núcleos verbais e marque as orações. Compare com o aviso “Boa leitura!” e explique por que ele comunica algo mesmo sem verbo.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "frase_oracao_periodo.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em “Os alunos estão lendo”, quantas orações há na análise proposta?",
+      "alternativas": [
+        "Uma, com a locução estão lendo.",
+        "Duas, pois há duas palavras verbais.",
+        "Nenhuma, porque há gerúndio.",
+        "Três, pois há sujeito plural."
+      ],
+      "correta": 0,
+      "explicacao": "No relato “A turma entrou na sala. Todos começaram a ler”, há dois períodos, cada um com uma oração: entrou e começaram a ler são os núcleos verbais. Começaram a ler é tratado aqui como locução verbal: as formas atuam juntas no mesmo processo. Em “A turma entrou e escolheu os livros”, o período reúne duas orações: entrou e escolheu. A segunda retoma o sujeito da primeira. Em “Boa leitura!”, o aviso pode ser uma frase sem oração.",
+      "bncc": [
+        "EF06LP08"
+      ]
+    },
+    {
+      "id": "frase_oracao_periodo.producao",
+      "tipo": "discursiva",
+      "enunciado": "Analise “A biblioteca abriu. Os alunos vão ler e a professora organizará os livros”. Separe os períodos, identifique os núcleos verbais e marque as orações. Compare com o aviso “Boa leitura!” e explique por que ele comunica algo mesmo sem verbo.",
+      "gabarito": "Dois períodos. O primeiro contém a oração com abriu; o segundo reúne as orações com vão ler (locução verbal) e organizará. O aviso é frase nominal adequada à situação. Não contar vão e ler como duas orações neste exemplo.",
+      "rubrica": [
+        "Identificar a organização sintática e explicar as relações solicitadas.",
+        "Dois períodos. O primeiro contém a oração com abriu; o segundo reúne as orações com vão ler (locução verbal) e organizará. O aviso é frase nominal adequada à situação. Não contar vão e ler como duas orações neste exemplo.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF06LP08"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        164,
+        165,
+        166,
+        167,
+        168,
+        180,
+        181,
+        182,
+        219,
+        220,
+        221,
+        224,
+        225
+      ],
+      "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+      "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

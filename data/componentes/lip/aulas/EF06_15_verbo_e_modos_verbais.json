@@ -1,0 +1,116 @@
+{
+  "id": "lip.ef06.classes_gramaticais.verbo_e_modos_verbais",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 15,
+  "unidade": "Classes Gramaticais",
+  "titulo": "Verbos e efeitos dos modos verbais",
+  "bncc": [
+    "EF06LP04",
+    "EF06LP05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escreva um informe sobre uma visita já realizada, uma frase que apresente a possibilidade de nova visita e um convite ao leitor com imperativo afirmativo. Acrescente uma orientação com imperativo negativo. Identifique os verbos e explique seus efeitos conforme o gênero. Reescreva “A turma visita a biblioteca” com sujeito plural."
+    ],
+    "resumo": "Verbos e efeitos dos modos verbais",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Verbos e efeitos dos modos verbais</h2><h3>Ideias e relações</h3><p>Verbos organizam o que se diz sobre ações, estados e fenômenos, situando acontecimentos e relações no tempo. Suas formas podem indicar pessoa, número, tempo e modo. Indicativo apresenta um conteúdo como declarado; isso não garante que ele seja verdadeiro. Subjuntivo pode construir hipótese, desejo ou possibilidade. Imperativo pode realizar pedido, orientação, conselho ou ordem: a intenção e o gênero ajudam a interpretar o efeito. Não reduza todo imperativo a uma ordem autoritária.</p><h3>Exemplo comentado</h3><p>Em “A turma visita a biblioteca”, visita é presente do indicativo, terceira pessoa do singular; em “As turmas visitam”, visitam está no plural. “Talvez a turma visite a biblioteca” usa presente do subjuntivo para possibilidade. Num cartaz dirigido a você: “Visite a biblioteca” e “Não risque os livros” são imperativos afirmativo e negativo. Em um convite, visite busca adesão; numa regra de cuidado, não risque orienta uma conduta. “Ontem visitamos a biblioteca” situa uma ação passada, enquanto “Amanhã visitaremos” situa a visita no futuro.</p><h3>Produza e revise</h3><p>Escreva um informe sobre uma visita já realizada, uma frase que apresente a possibilidade de nova visita e um convite ao leitor com imperativo afirmativo. Acrescente uma orientação com imperativo negativo. Identifique os verbos e explique seus efeitos conforme o gênero. Reescreva “A turma visita a biblioteca” com sujeito plural.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "verbo_e_modos_verbais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em um convite “Visite nossa exposição!”, o imperativo principalmente:",
+      "alternativas": [
+        "Comprova que a visita ocorreu.",
+        "Indica obrigatoriamente uma ameaça.",
+        "Convida o interlocutor a participar.",
+        "Expressa um plural de substantivo."
+      ],
+      "correta": 2,
+      "explicacao": "Em “A turma visita a biblioteca”, visita é presente do indicativo, terceira pessoa do singular; em “As turmas visitam”, visitam está no plural. “Talvez a turma visite a biblioteca” usa presente do subjuntivo para possibilidade. Num cartaz dirigido a você: “Visite a biblioteca” e “Não risque os livros” são imperativos afirmativo e negativo. Em um convite, visite busca adesão; numa regra de cuidado, não risque orienta uma conduta. “Ontem visitamos a biblioteca” situa uma ação passada, enquanto “Amanhã visitaremos” situa a visita no futuro.",
+      "bncc": [
+        "EF06LP04",
+        "EF06LP05"
+      ]
+    },
+    {
+      "id": "verbo_e_modos_verbais.producao",
+      "tipo": "discursiva",
+      "enunciado": "Escreva um informe sobre uma visita já realizada, uma frase que apresente a possibilidade de nova visita e um convite ao leitor com imperativo afirmativo. Acrescente uma orientação com imperativo negativo. Identifique os verbos e explique seus efeitos conforme o gênero. Reescreva “A turma visita a biblioteca” com sujeito plural.",
+      "gabarito": "Exemplos: “Ontem a turma visitou...” (indicativo/passado), “Talvez a turma visite...” (subjuntivo/possibilidade), “Visite...” (convite), “Não risque...” (orientação negativa). No plural: “As turmas visitam a biblioteca”. Exigir análise das formas e da intenção, não apenas rótulos. Aceitar outras formas gramaticais coerentes.",
+      "rubrica": [
+        "Relacionar as escolhas linguísticas à função que exercem no texto.",
+        "Exemplos: “Ontem a turma visitou...” (indicativo/passado), “Talvez a turma visite...” (subjuntivo/possibilidade), “Visite...” (convite), “Não risque...” (orientação negativa). No plural: “As turmas visitam a biblioteca”. Exigir análise das formas e da intenção, não apenas rótulos. Aceitar outras formas gramaticais coerentes.",
+        "Registrar a produção e as justificativas; revisar após devolutiva."
+      ],
+      "bncc": [
+        "EF06LP04",
+        "EF06LP05"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        85,
+        86,
+        87,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        116,
+        117,
+        132,
+        133,
+        134,
+        135,
+        148,
+        149,
+        153,
+        154,
+        155,
+        157,
+        158,
+        159,
+        162,
+        163
+      ],
+      "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+      "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida de exemplos e vínculos. Homologação docente, aplicação, visual e acessibilidade pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

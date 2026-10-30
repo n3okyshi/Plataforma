@@ -7493,7 +7493,7 @@
           "aulas": [
             {
               "id": "lip.ef06.classes_gramaticais.substantivo",
-              "titulo": "Substantivo: Classificação e Flexão",
+              "titulo": "Substantivos em uso: função e flexões",
               "bncc": [
                 "EF06LP04"
               ],
@@ -7508,15 +7508,49 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "88"
+                  "paginasPdf": [
+                    85,
+                    86,
+                    87,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    116,
+                    117,
+                    132,
+                    133,
+                    134,
+                    135,
+                    148,
+                    149,
+                    153,
+                    154,
+                    155,
+                    157,
+                    158,
+                    159,
+                    162,
+                    163
+                  ],
+                  "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+                  "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
                 }
               ],
               "legado": false,
-              "resumo": "Classificar substantivos e reconhecer suas flexões de gênero, número e grau."
+              "resumo": "Classificar substantivos e reconhecer suas flexões de gênero, número e grau.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "lip.ef06.classes_gramaticais.adjetivo",
-              "titulo": "Adjetivo: Classificação e Flexão",
+              "titulo": "Adjetivos: caracterização e flexões",
               "bncc": [
                 "EF06LP04"
               ],
@@ -7531,40 +7565,51 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "105"
-                }
-              ],
-              "legado": false,
-              "resumo": "Classificar adjetivos e flexioná-los em gênero, número e grau."
-            },
-            {
-              "id": "lip.ef06.classes_gramaticais.artigo_e_numeral",
-              "titulo": "Artigo e Numeral",
-              "bncc": [
-                "EF06LP04"
-              ],
-              "areas": [
-                "linguagens",
-                "lingua_portuguesa"
-              ],
-              "tags": [
-                "classes_gramaticais",
-                "morfologia"
-              ],
-              "fontes": [
+                  "paginasPdf": [
+                    85,
+                    86,
+                    87,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    116,
+                    117,
+                    132,
+                    133,
+                    134,
+                    135,
+                    148,
+                    149,
+                    153,
+                    154,
+                    155,
+                    157,
+                    158,
+                    159,
+                    162,
+                    163
+                  ],
+                  "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+                  "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+                },
                 {
-                  "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "101"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer artigos definidos e indefinidos e classificar numerais."
+              "resumo": "Classificar adjetivos e flexioná-los em gênero, número e grau.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "lip.ef06.classes_gramaticais.pronome",
-              "titulo": "Pronome: Tipos e Usos",
+              "titulo": "Pronomes e clareza na retomada de referentes",
               "bncc": [
-                "EF06LP04"
+                "EF06LP12"
               ],
               "areas": [
                 "linguagens",
@@ -7577,16 +7622,51 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "119"
+                  "paginasPdf": [
+                    85,
+                    86,
+                    87,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    116,
+                    117,
+                    132,
+                    133,
+                    134,
+                    135,
+                    148,
+                    149,
+                    153,
+                    154,
+                    155,
+                    157,
+                    158,
+                    159,
+                    162,
+                    163
+                  ],
+                  "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+                  "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
                 }
               ],
               "legado": false,
-              "resumo": "Classificar pronomes pessoais, possessivos, demonstrativos, relativos e indefinidos."
+              "resumo": "Classificar pronomes pessoais, possessivos, demonstrativos, relativos e indefinidos.",
+              "estado": "piloto",
+              "complementar": false
             },
             {
               "id": "lip.ef06.classes_gramaticais.verbo_e_modos_verbais",
-              "titulo": "Verbo e Modos Verbais",
+              "titulo": "Verbos e efeitos dos modos verbais",
               "bncc": [
+                "EF06LP04",
                 "EF06LP05"
               ],
               "areas": [
@@ -7600,18 +7680,58 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "135"
+                  "paginasPdf": [
+                    85,
+                    86,
+                    87,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    116,
+                    117,
+                    132,
+                    133,
+                    134,
+                    135,
+                    148,
+                    149,
+                    153,
+                    154,
+                    155,
+                    157,
+                    158,
+                    159,
+                    162,
+                    163
+                  ],
+                  "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+                  "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
                 }
               ],
               "legado": false,
-              "resumo": "Identificar os modos indicativo, subjuntivo e imperativo e seus efeitos de sentido."
-            },
+              "resumo": "Identificar os modos indicativo, subjuntivo e imperativo e seus efeitos de sentido.",
+              "estado": "piloto",
+              "complementar": false
+            }
+          ]
+        },
+        {
+          "id": "lip.ef06.classes_gramaticais_complementos",
+          "titulo": "Classes Gramaticais — complementos",
+          "_sub": "lingua_portuguesa",
+          "complementar": true,
+          "aulas": [
             {
-              "id": "lip.ef06.classes_gramaticais.adverbio_preposicao_conjuncao",
-              "titulo": "Advérbio, Preposição e Conjunção",
-              "bncc": [
-                "EF06LP04"
-              ],
+              "id": "lip.ef06.classes_gramaticais.artigo_e_numeral",
+              "titulo": "Artigos e numerais: apoio complementar",
+              "bncc": [],
               "areas": [
                 "linguagens",
                 "lingua_portuguesa"
@@ -7623,18 +7743,105 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "151"
+                  "paginasPdf": [
+                    85,
+                    86,
+                    87,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    116,
+                    117,
+                    132,
+                    133,
+                    134,
+                    135,
+                    148,
+                    149,
+                    153,
+                    154,
+                    155,
+                    157,
+                    158,
+                    159,
+                    162,
+                    163
+                  ],
+                  "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+                  "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer advérbios, preposições e conjunções e suas funções."
+              "resumo": "Reconhecer artigos definidos e indefinidos e classificar numerais.",
+              "estado": "piloto",
+              "complementar": true
+            },
+            {
+              "id": "lip.ef06.classes_gramaticais.adverbio_preposicao_conjuncao",
+              "titulo": "Advérbio, preposição e conjunção: apoio complementar",
+              "bncc": [],
+              "areas": [
+                "linguagens",
+                "lingua_portuguesa"
+              ],
+              "tags": [
+                "classes_gramaticais",
+                "morfologia"
+              ],
+              "fontes": [
+                {
+                  "documento": "MC_GRAM_LP_EF.pdf",
+                  "paginasPdf": [
+                    85,
+                    86,
+                    87,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    116,
+                    117,
+                    132,
+                    133,
+                    134,
+                    135,
+                    148,
+                    149,
+                    153,
+                    154,
+                    155,
+                    157,
+                    158,
+                    159,
+                    162,
+                    163
+                  ],
+                  "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+                  "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
+                }
+              ],
+              "legado": false,
+              "resumo": "Reconhecer advérbios, preposições e conjunções e suas funções.",
+              "estado": "piloto",
+              "complementar": true
             },
             {
               "id": "lip.ef06.classes_gramaticais.interjeicao",
-              "titulo": "Interjeição e Expressividade",
-              "bncc": [
-                "EF06LP05"
-              ],
+              "titulo": "Interjeição e expressividade: apoio complementar",
+              "bncc": [],
               "areas": [
                 "linguagens",
                 "lingua_portuguesa"
@@ -7646,11 +7853,45 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "165"
+                  "paginasPdf": [
+                    85,
+                    86,
+                    87,
+                    98,
+                    99,
+                    100,
+                    101,
+                    102,
+                    103,
+                    116,
+                    117,
+                    132,
+                    133,
+                    134,
+                    135,
+                    148,
+                    149,
+                    153,
+                    154,
+                    155,
+                    157,
+                    158,
+                    159,
+                    162,
+                    163
+                  ],
+                  "paginasImpressas": "88–90, 101–106, 119–120, 135–138, 151–152, 156–158, 160–162, 165–166",
+                  "uso": "Referência conceitual consultada; explicações, textos e itens autorais. Distinções sobre gênero gramatical, graus e modos contextualizadas sem transferir simplificações do manual."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Correspondência curricular com EF06LP04, EF06LP05 e recorte de EF06LP12, transcritas em data/bncc/lip.json; recorte não equivale à habilidade completa."
                 }
               ],
               "legado": false,
-              "resumo": "Identificar interjeições e locuções interjetivas e seus efeitos expressivos."
+              "resumo": "Identificar interjeições e locuções interjetivas e seus efeitos expressivos.",
+              "estado": "piloto",
+              "complementar": true
             }
           ]
         },
@@ -7661,7 +7902,7 @@
           "aulas": [
             {
               "id": "lip.ef06.sintaxe_da_oracao.frase_oracao_periodo",
-              "titulo": "Frase, Oração e Período",
+              "titulo": "Frase, oração e período",
               "bncc": [
                 "EF06LP08"
               ],
@@ -7676,17 +7917,39 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "167"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Distinguir frase, oração e período e reconhecer o núcleo verbal da oração."
+              "resumo": "Distinguir frase, oração e período e reconhecer o núcleo verbal da oração.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.sintaxe_da_oracao.periodo_simples_e_composto",
-              "titulo": "Período Simples e Composto",
+              "titulo": "Períodos simples e compostos",
               "bncc": [
-                "EF06LP09"
+                "EF06LP09",
+                "EF06LP08"
               ],
               "areas": [
                 "linguagens",
@@ -7699,15 +7962,36 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "183"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Classificar períodos em simples e compostos."
+              "resumo": "Classificar períodos em simples e compostos.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.sintaxe_da_oracao.sintagma_nominal_e_verbal",
-              "titulo": "Sintagmas Nominais e Verbais",
+              "titulo": "Sintagmas nominais e verbais",
               "bncc": [
                 "EF06LP10"
               ],
@@ -7722,15 +8006,36 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "169"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Identificar sintagmas nominais e verbais como constituintes da oração."
+              "resumo": "Identificar sintagmas nominais e verbais como constituintes da oração.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.sintaxe_da_oracao.oracoes_justapostas",
-              "titulo": "Orações Justapostas por Vírgula",
+              "titulo": "Orações coordenadas separadas por vírgula",
               "bncc": [
                 "EF06LP07"
               ],
@@ -7745,15 +8050,36 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "183"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Reconhecer orações coordenadas assindéticas separadas por vírgula."
+              "resumo": "Reconhecer orações coordenadas assindéticas separadas por vírgula.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.sintaxe_da_oracao.concordancia_nominal",
-              "titulo": "Concordância Nominal",
+              "titulo": "Concordância nominal na revisão",
               "bncc": [
                 "EF06LP06"
               ],
@@ -7768,16 +8094,38 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "227"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Aplicar as regras de concordância entre substantivos e seus determinantes."
+              "resumo": "Aplicar as regras de concordância entre substantivos e seus determinantes.",
+              "estado": "piloto"
             },
             {
               "id": "lip.ef06.sintaxe_da_oracao.concordancia_verbal",
-              "titulo": "Concordância Verbal",
+              "titulo": "Concordância verbal e produção revisada",
               "bncc": [
+                "EF06LP06",
                 "EF06LP11"
               ],
               "areas": [
@@ -7791,11 +8139,32 @@
               "fontes": [
                 {
                   "documento": "MC_GRAM_LP_EF.pdf",
-                  "pagina": "222"
+                  "paginasPdf": [
+                    164,
+                    165,
+                    166,
+                    167,
+                    168,
+                    180,
+                    181,
+                    182,
+                    219,
+                    220,
+                    221,
+                    224,
+                    225
+                  ],
+                  "paginasImpressas": "167–171, 183–185, 222–224, 227–228",
+                  "uso": "Referência conceitual consultada. Textos e itens autorais; contagem de orações distingue locuções verbais de verbos independentes."
+                },
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
                 }
               ],
               "legado": false,
-              "resumo": "Fazer o verbo concordar com o sujeito em número e pessoa."
+              "resumo": "Fazer o verbo concordar com o sujeito em número e pessoa.",
+              "estado": "piloto"
             }
           ]
         },
