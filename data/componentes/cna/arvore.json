@@ -360,7 +360,7 @@
           "aulas": [
             {
               "id": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
-              "titulo": "Objetos e Seus Materiais",
+              "titulo": "Objetos e materiais: o que é feito de quê?",
               "bncc": [
                 "EF01CI01"
               ],
@@ -373,16 +373,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "69-72"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+                  "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
                 }
               ],
               "legado": false,
-              "resumo": "Relacionar cada objeto a um ou mais materiais de que é feito."
+              "resumo": "Relacionar cada objeto a um ou mais materiais de que é feito.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
-              "titulo": "De Onde Vêm os Materiais",
+              "titulo": "De onde vêm os materiais?",
               "bncc": [
                 "EF01CI01"
               ],
@@ -396,16 +414,40 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "107-112"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+                  "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+                },
+                {
+                  "documento": "MMA — Política dos 5Rs",
+                  "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
                 }
               ],
               "legado": false,
-              "resumo": "Comparar materiais naturais e industrializados e discutir sua origem."
+              "resumo": "Comparar materiais naturais e industrializados e discutir sua origem.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
-              "titulo": "Propriedades que Podemos Observar",
+              "titulo": "Comparar sem quebrar: propriedades observáveis",
               "bncc": [
                 "EF01CI01"
               ],
@@ -419,16 +461,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "77-79"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+                  "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
                 }
               ],
               "legado": false,
-              "resumo": "Descrever cor, brilho, textura e dureza de materiais conhecidos."
+              "resumo": "Descrever cor, brilho, textura e dureza de materiais conhecidos.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
-              "titulo": "O Destino dos Materiais",
+              "titulo": "Depois do uso: separar e conferir o destino",
               "bncc": [
                 "EF01CI01"
               ],
@@ -442,16 +502,40 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "120-122"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+                  "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+                },
+                {
+                  "documento": "MMA — Política dos 5Rs",
+                  "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
                 }
               ],
               "legado": false,
-              "resumo": "Discutir o que acontece com os objetos depois que deixamos de usá-los."
+              "resumo": "Discutir o que acontece com os objetos depois que deixamos de usá-los.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais",
-              "titulo": "Uso Consciente dos Materiais",
+              "titulo": "Escolher, cuidar e usar por mais tempo",
               "bncc": [
                 "EF01CI01"
               ],
@@ -465,14 +549,39 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "107-112"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    335
+                  ],
+                  "paginasImpressas": "333",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+                  "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+                },
+                {
+                  "documento": "MMA — Política dos 5Rs",
+                  "url": "https://www.gov.br/mma/pt-br/assuntos/educacao-ambiental/glossario-ea/politica-dos-5rs-1/politica-dos-5rs/",
+                  "consulta": "2026-10-30",
+                  "uso": "Consulta sobre redução/reutilização/reciclagem e cadeia de separação/coleta/processamento. Destino local exige confirmação; sem equivalências ambientais inventadas."
                 }
               ],
               "legado": false,
-              "resumo": "Propor formas de usar e reutilizar materiais com menos desperdício."
+              "resumo": "Propor formas de usar e reutilizar materiais com menos desperdício.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef01.tempo_e_rotina",
@@ -1202,7 +1311,7 @@
           "aulas": [
             {
               "id": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
-              "titulo": "Metais, Madeira e Vidro",
+              "titulo": "Madeira, metais e vidro: comparar amostras",
               "bncc": [
                 "EF02CI01"
               ],
@@ -1215,16 +1324,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "69-72"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    337
+                  ],
+                  "paginasImpressas": "335",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+                  "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
                 }
               ],
               "legado": false,
-              "resumo": "Comparar objetos feitos de metal, madeira, vidro e plástico no dia a dia."
+              "resumo": "Comparar objetos feitos de metal, madeira, vidro e plástico no dia a dia.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef02.materiais_e_objetos.objetos_do_passado",
-              "titulo": "Objetos do Passado",
+              "titulo": "Objetos do passado: comparar com fontes",
               "bncc": [
                 "EF02CI01"
               ],
@@ -1238,16 +1365,46 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "69-72"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    337
+                  ],
+                  "paginasImpressas": "335",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+                  "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+                },
+                {
+                  "documento": "London Museum — Bottle, milk bottle, 82.272",
+                  "url": "https://www.londonmuseum.org.uk/collections/v/object-529268/bottle-milk-bottle/",
+                  "consulta": "2026-10-30",
+                  "uso": "Registro textual consultado: vidro, produção 1951–1982. Informações incorporadas em paráfrase; sem reprodução/inspeção da imagem ou generalização para famílias brasileiras."
+                },
+                {
+                  "documento": "Science Museum Group — Spoon, wooden bowl, metal stem, A626625",
+                  "url": "https://collection.sciencemuseumgroup.org.uk/objects/co155774/spoon-wooden-bowl-metal-stem",
+                  "consulta": "2026-10-30",
+                  "uso": "Registro textual consultado: Europa, 1601–1800, madeira e metal. Sem reprodução/inspeção da imagem; não usa o objeto co155778 cuja abertura retornou 429."
                 }
               ],
               "legado": false,
-              "resumo": "Comparar materiais usados hoje com os de objetos antigos e explicar mudanças."
+              "resumo": "Comparar materiais usados hoje com os de objetos antigos e explicar mudanças.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos",
-              "titulo": "Como Usamos os Objetos",
+              "titulo": "Função, partes e condições de uso",
               "bncc": [
                 "EF02CI01"
               ],
@@ -1261,16 +1418,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "77-79"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    337
+                  ],
+                  "paginasImpressas": "335",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+                  "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
                 }
               ],
               "legado": false,
-              "resumo": "Relacionar o uso dos objetos às propriedades dos materiais que os compõem."
+              "resumo": "Relacionar o uso dos objetos às propriedades dos materiais que os compõem.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado",
-              "titulo": "Escolher o Material Adequado",
+              "titulo": "Projetar, testar e revisar a escolha de material",
               "bncc": [
                 "EF02CI02"
               ],
@@ -1285,14 +1460,33 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "77-79"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    337
+                  ],
+                  "paginasImpressas": "335",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Properties of materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+                  "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
                 }
               ],
               "legado": false,
-              "resumo": "Propor materiais adequados para construir um objeto de uso cotidiano."
+              "resumo": "Propor materiais adequados para construir um objeto de uso cotidiano.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef02.prevencao_de_acidentes",
@@ -2334,7 +2528,7 @@
           "aulas": [
             {
               "id": "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
-              "titulo": "A Vibração dos Objetos",
+              "titulo": "Vibração: o objeto se move ao produzir som",
               "bncc": [
                 "EF03CI01"
               ],
@@ -2348,16 +2542,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "69-72"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    339
+                  ],
+                  "paginasImpressas": "337",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+                  "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+                  "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
                 }
               ],
               "legado": false,
-              "resumo": "Relacionar a produção de som à vibração de cordas, peles e superfícies."
+              "resumo": "Relacionar a produção de som à vibração de cordas, peles e superfícies.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef03.som_e_vibracao.altura_e_intensidade",
-              "titulo": "Altura e Intensidade do Som",
+              "titulo": "Agudo ou grave; forte ou fraco?",
               "bncc": [
                 "EF03CI01"
               ],
@@ -2371,16 +2583,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "292-294"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    339
+                  ],
+                  "paginasImpressas": "337",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+                  "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+                  "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
                 }
               ],
               "legado": false,
-              "resumo": "Diferenciar sons agudos e graves e sons fortes e fracos."
+              "resumo": "Diferenciar sons agudos e graves e sons fortes e fracos.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef03.som_e_vibracao.instrumentos_musicais",
-              "titulo": "Instrumentos Musicais",
+              "titulo": "Instrumentos: partes vibrantes e modos de tocar",
               "bncc": [
                 "EF03CI01"
               ],
@@ -2394,16 +2624,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "292-294"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    339
+                  ],
+                  "paginasImpressas": "337",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+                  "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+                  "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
                 }
               ],
               "legado": false,
-              "resumo": "Construir um instrumento simples e explicar como ele produz som."
+              "resumo": "Construir um instrumento simples e explicar como ele produz som.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef03.som_e_vibracao.som_se_propaga",
-              "titulo": "Como o Som se Propaga",
+              "titulo": "Como o som chega de um lugar a outro?",
               "bncc": [
                 "EF03CI01"
               ],
@@ -2417,16 +2665,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "292-294"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    339
+                  ],
+                  "paginasImpressas": "337",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+                  "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+                  "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
                 }
               ],
               "legado": false,
-              "resumo": "Investigar meios pelos quais o som se propaga e onde ele não passa."
+              "resumo": "Investigar meios pelos quais o som se propaga e onde ele não passa.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef03.som_e_vibracao.variaveis_do_som",
-              "titulo": "Variáveis que Influem no Som",
+              "titulo": "Investigar uma variável por vez",
               "bncc": [
                 "EF03CI01"
               ],
@@ -2440,14 +2706,33 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "292-294"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    339
+                  ],
+                  "paginasImpressas": "337",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+                  "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+                },
+                {
+                  "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+                  "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
                 }
               ],
               "legado": false,
-              "resumo": "Testar como comprimento, tensão e espessura alteram o som produzido."
+              "resumo": "Testar como comprimento, tensão e espessura alteram o som produzido.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef03.luz_e_materiais",
@@ -2455,7 +2740,7 @@
           "aulas": [
             {
               "id": "cna.ef03.luz_e_materiais.objetos_opacos",
-              "titulo": "Objetos Opacos",
+              "titulo": "Passagem da luz: opaco, translúcido e transparente",
               "bncc": [
                 "EF03CI02"
               ],
@@ -2469,16 +2754,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "77-79"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    339
+                  ],
+                  "paginasImpressas": "337",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+                },
+                {
+                  "documento": "American Physical Society — Bendy Light",
+                  "url": "https://www.aps.org/learning-resources/bendy-light",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
                 }
               ],
               "legado": false,
-              "resumo": "Identificar materiais que bloqueiam a luz e formam sombras."
+              "resumo": "Identificar materiais que bloqueiam a luz e formam sombras.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
-              "titulo": "Superfícies Polidas e Espelhos",
+              "titulo": "Reflexão: luz que muda de caminho",
               "bncc": [
                 "EF03CI02"
               ],
@@ -2492,16 +2795,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "77-79"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    339
+                  ],
+                  "paginasImpressas": "337",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+                },
+                {
+                  "documento": "American Physical Society — Bendy Light",
+                  "url": "https://www.aps.org/learning-resources/bendy-light",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
                 }
               ],
               "legado": false,
-              "resumo": "Observar a reflexão da luz em espelhos e superfícies polidas."
+              "resumo": "Observar a reflexão da luz em espelhos e superfícies polidas.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef03.luz_e_materiais.refracao_simples",
-              "titulo": "A Luz que Muda de Direção",
+              "titulo": "Água e lentes: mudanças no caminho da luz",
               "bncc": [
                 "EF03CI02"
               ],
@@ -2515,16 +2836,34 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "77-79"
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    339
+                  ],
+                  "paginasImpressas": "337",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
+                {
+                  "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+                },
+                {
+                  "documento": "American Physical Society — Bendy Light",
+                  "url": "https://www.aps.org/learning-resources/bendy-light",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
                 }
               ],
               "legado": false,
-              "resumo": "Observar objetos que parecem quebrados ao atravessar a água."
+              "resumo": "Observar objetos que parecem quebrados ao atravessar a água.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             },
             {
               "id": "cna.ef03.luz_e_materiais.sombras",
-              "titulo": "Sombras",
+              "titulo": "Sombras: fonte, obstáculo e anteparo",
               "bncc": [
                 "EF03CI02"
               ],
@@ -2538,37 +2877,33 @@
               ],
               "fontes": [
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "11-13"
-                }
-              ],
-              "legado": false,
-              "resumo": "Explicar a formação de sombras pela interposição de objetos opacos."
-            },
-            {
-              "id": "cna.ef03.luz_e_materiais.cores_e_luz",
-              "titulo": "Cores e Luz",
-              "bncc": [
-                "EF03CI02"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "materia_e_energia"
-              ],
-              "tags": [
-                "luz",
-                "cores"
-              ],
-              "fontes": [
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    339
+                  ],
+                  "paginasImpressas": "337",
+                  "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+                },
                 {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "77-79"
+                  "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+                },
+                {
+                  "documento": "American Physical Society — Bendy Light",
+                  "url": "https://www.aps.org/learning-resources/bendy-light",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
                 }
               ],
               "legado": false,
-              "resumo": "Investigar por que vemos cores diferentes ao iluminar objetos coloridos."
+              "resumo": "Explicar a formação de sombras pela interposição de objetos opacos.",
+              "estado": "pronto_para_testes",
+              "complementar": false
             }
-          ]
+          ],
+          "estado": "pronto_para_testes"
         },
         {
           "id": "cna.ef03.saude_auditiva_e_visual",
@@ -3512,6 +3847,55 @@
               ],
               "estado": "piloto",
               "complementar": false
+            }
+          ]
+        },
+        {
+          "id": "cna.ef03.luz_e_materiais_complementar",
+          "titulo": "Luz e Materiais — Complementar",
+          "estado": "pronto_para_testes",
+          "complementar": true,
+          "aulas": [
+            {
+              "id": "cna.ef03.luz_e_materiais.cores_e_luz",
+              "titulo": "Luz e cor: extensão da investigação",
+              "bncc": [
+                "EF03CI02"
+              ],
+              "areas": [
+                "ciencias_natureza",
+                "materia_e_energia"
+              ],
+              "tags": [
+                "luz",
+                "cores"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    339
+                  ],
+                  "paginasImpressas": "337",
+                  "uso": "Habilidades consultadas diretamente; extensão complementar sinalizada, não objetivo explicitamente exigido de cores."
+                },
+                {
+                  "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+                  "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+                  "consulta": "2026-10-30",
+                  "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+                },
+                {
+                  "documento": "American Physical Society — Bendy Light",
+                  "url": "https://www.aps.org/learning-resources/bendy-light",
+                  "consulta": "2026-10-30",
+                  "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+                }
+              ],
+              "legado": false,
+              "resumo": "Investigar por que vemos cores diferentes ao iluminar objetos coloridos.",
+              "estado": "pronto_para_testes",
+              "complementar": true
             }
           ]
         }

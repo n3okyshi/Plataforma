@@ -35,6 +35,33 @@ registrarCurriculo("Ciências Naturais", {
         "titulo": "Dia, noite e atividades dos seres vivos",
         "complementar": false
       }
+    ],
+    "Materiais do Cotidiano": [
+      {
+        "id": "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+        "titulo": "Objetos e materiais: o que é feito de quê?",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+        "titulo": "De onde vêm os materiais?",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+        "titulo": "Comparar sem quebrar: propriedades observáveis",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+        "titulo": "Depois do uso: separar e conferir o destino",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais",
+        "titulo": "Escolher, cuidar e usar por mais tempo",
+        "complementar": false
+      }
     ]
   },
   "EF02": {
@@ -81,6 +108,28 @@ registrarCurriculo("Ciências Naturais", {
       {
         "id": "cna.ef02.sol_e_superficies.aquecimento_da_agua",
         "titulo": "Sol, aquecimento e diferentes superfícies",
+        "complementar": false
+      }
+    ],
+    "Materiais e Objetos": [
+      {
+        "id": "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+        "titulo": "Madeira, metais e vidro: comparar amostras",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.materiais_e_objetos.objetos_do_passado",
+        "titulo": "Objetos do passado: comparar com fontes",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos",
+        "titulo": "Função, partes e condições de uso",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado",
+        "titulo": "Projetar, testar e revisar a escolha de material",
         "complementar": false
       }
     ]
@@ -140,6 +189,62 @@ registrarCurriculo("Ciências Naturais", {
         "id": "cna.ef03.solo_e_seus_usos.solo_e_agricultura",
         "titulo": "Usos do solo e importância para a vida",
         "complementar": false
+      }
+    ],
+    "Som e Vibração": [
+      {
+        "id": "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+        "titulo": "Vibração: o objeto se move ao produzir som",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.som_e_vibracao.altura_e_intensidade",
+        "titulo": "Agudo ou grave; forte ou fraco?",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.som_e_vibracao.instrumentos_musicais",
+        "titulo": "Instrumentos: partes vibrantes e modos de tocar",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.som_e_vibracao.som_se_propaga",
+        "titulo": "Como o som chega de um lugar a outro?",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.som_e_vibracao.variaveis_do_som",
+        "titulo": "Investigar uma variável por vez",
+        "complementar": false
+      }
+    ],
+    "Luz e Materiais": [
+      {
+        "id": "cna.ef03.luz_e_materiais.objetos_opacos",
+        "titulo": "Passagem da luz: opaco, translúcido e transparente",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+        "titulo": "Reflexão: luz que muda de caminho",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.luz_e_materiais.refracao_simples",
+        "titulo": "Água e lentes: mudanças no caminho da luz",
+        "complementar": false
+      },
+      {
+        "id": "cna.ef03.luz_e_materiais.sombras",
+        "titulo": "Sombras: fonte, obstáculo e anteparo",
+        "complementar": false
+      }
+    ],
+    "Luz e Materiais — Complementar": [
+      {
+        "id": "cna.ef03.luz_e_materiais.cores_e_luz",
+        "titulo": "Luz e cor: extensão da investigação",
+        "complementar": true
       }
     ]
   },

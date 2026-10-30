@@ -1,0 +1,133 @@
+{
+  "id": "cna.ef03.luz_e_materiais.cores_e_luz",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 19,
+  "unidade": "Luz e Materiais — Complementar",
+  "titulo": "Luz e cor: extensão da investigação",
+  "bncc": [
+    "EF03CI02"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Estender a investigação de passagem/reflexão",
+      "Reconhecer limite do recorte e da percepção"
+    ],
+    "resumo": "Luz e cor: extensão da investigação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Complementar · opcional:</strong> Complementar: exploração de aparência/cor além do núcleo explícito de EF03CI02; não usada como condição exclusiva de domínio da habilidade.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.luz_e_materiais.sombras\">Sombras: fonte, obstáculo e anteparo</button> </p><h2>Luz e cor: extensão da investigação</h2><h3>Para compreender</h3><p>Esta aula é complementar ao recorte de passagem/reflexão da luz de EF03CI02. Cores percebidas dependem da iluminação, do material e do observador. Um material colorido pode transmitir ou refletir algumas faixas mais que outras; uma imagem de tela não é igual a folha pintada. Nesta etapa, comparamos descrições e efeitos simples sem exigir teoria de espectro ou síntese RGB, aprofundadas em anos posteriores. Nenhuma atividade avalia uma criança pela sua percepção cromática.</p><h3>Exemplo comentado</h3><p>Uma lâmina plástica colorida translúcida colocada entre lanterna e papel claro pode modificar a aparência da região iluminada. Ela não fabrica luz própria. Já papel opaco colorido não deixa a luz passar do mesmo modo. Dependendo do material disponível, o efeito pode ser fraco; registramos a condição em vez de fingir uma cor obrigatória.</p><h3>Investigar e produzir</h3><h4>Passagem e aparência</h4><p>Com adulto, compare uma lâmina translúcida colorida e um cartão opaco colorido no caminho de lanterna comum para papel claro. Mantenha distâncias e registre passagem de luz e aparência por desenho, palavras ou descrição mediada. Não use laser nem olho como anteparo.</p><h4>O que a comparação não prova</h4><p>Explique por que esse teste não demonstra que toda combinação de tintas e luzes tem o mesmo resultado. Proponha uma pergunta para investigação futura e indique o que seria necessário observar.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Investigating shadows using transparent, translucent and opaque materials</a></li><li><a href=\"https://www.aps.org/learning-resources/bendy-light\" target=\"_blank\" rel=\"noopener noreferrer\">American Physical Society — Bendy Light</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "cores_e_luz.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma lâmina translúcida colorida na lanterna:",
+      "alternativas": [
+        "Pode alterar a aparência da luz transmitida sem ser fonte própria.",
+        "Cria luz sem receber energia.",
+        "É sempre igual a cartão opaco."
+      ],
+      "correta": 0,
+      "explicacao": "A amostra interage com a luz que recebe.",
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "cores_e_luz.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Duas pessoas descrevem cores de modo diferente. A atividade deve:",
+      "alternativas": [
+        "Reprovar quem usa outro nome.",
+        "Aceitar descrições acessíveis e avaliar comparação e evidências.",
+        "Exigir discriminação cromática perfeita."
+      ],
+      "correta": 1,
+      "explicacao": "O objetivo é investigar interação da luz, com participação acessível.",
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "cores_e_luz.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Passagem e aparência: Com adulto, compare uma lâmina translúcida colorida e um cartão opaco colorido no caminho de lanterna comum para papel claro. Mantenha distâncias e registre passagem de luz e aparência por desenho, palavras ou descrição mediada. Não use laser nem olho como anteparo.",
+      "gabarito": "Exigir comparar transmissão/opacidade e reconhecer limite de percepção. Não atribuir fabricação de luz à lâmina nem exigir nomear cores como único critério.",
+      "rubrica": [
+        "Exigir comparar transmissão/opacidade e reconhecer limite de percepção. Não atribuir fabricação de luz à lâmina nem exigir nomear cores como único critério.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "cores_e_luz.producao2",
+      "tipo": "discursiva",
+      "enunciado": "O que a comparação não prova: Explique por que esse teste não demonstra que toda combinação de tintas e luzes tem o mesmo resultado. Proponha uma pergunta para investigação futura e indique o que seria necessário observar.",
+      "gabarito": "Distinguir teste limitado com duas amostras e regras universais. Não exigir conhecimento futuro de RGB nem registrar pergunta como pesquisa já realizada.",
+      "rubrica": [
+        "Distinguir teste limitado com duas amostras e regras universais. Não exigir conhecimento futuro de RGB nem registrar pergunta como pesquisa já realizada.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; extensão complementar sinalizada, não objetivo explicitamente exigido de cores."
+    },
+    {
+      "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+    },
+    {
+      "documento": "American Physical Society — Bendy Light",
+      "url": "https://www.aps.org/learning-resources/bendy-light",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+    }
+  ],
+  "complementar": true,
+  "preRequisitos": [
+    "cna.ef03.luz_e_materiais.sombras"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Luz e Materiais",
+    "titulo": "Cores e Luz"
+  }
+}

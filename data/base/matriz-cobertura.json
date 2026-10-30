@@ -35402,8 +35402,8 @@
     {
       "componente": "cna",
       "nivel": "EF01",
-      "estado": "em_analise",
-      "observacao": "Planejamento recuperado; códigos presentes não comprovam alinhamento semântico.",
+      "estado": "parcial",
+      "observacao": "Consulta da BNCC e autoria por núcleos/unidades; evidências planejadas não equivalem a observação ou homologação.",
       "habilidades": [
         {
           "codigo": "EF01CI01",
@@ -35420,10 +35420,84 @@
             "cna.ef01.observar_e_registrar.comparar_e_descrever",
             "cna.ef01.cuidar_do_ambiente_proximo.lixo_na_escola"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais",
+            "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+            "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+            "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+            "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+            "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais"
+          ],
+          "aulasPiloto": [
+            "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais",
+            "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+            "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+            "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+            "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+            "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais",
+              "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais",
+              "cna.ef01.materiais_do_cotidiano.origem_dos_materiais",
+              "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+              "cna.ef01.materiais_do_cotidiano.descarte_de_materiais",
+              "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais"
+            ],
+            "atividades": [
+              "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais#o_que_sao_materiais.aplicacao",
+              "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais#o_que_sao_materiais.investigacao",
+              "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.aplicacao1",
+              "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.aplicacao2",
+              "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao1",
+              "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais#objetos_e_seus_materiais.producao2",
+              "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.aplicacao1",
+              "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.aplicacao2",
+              "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao1",
+              "cna.ef01.materiais_do_cotidiano.origem_dos_materiais#origem_dos_materiais.producao2",
+              "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.aplicacao1",
+              "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.aplicacao2",
+              "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao1",
+              "cna.ef01.materiais_do_cotidiano.propriedades_observaveis#propriedades_observaveis.producao2",
+              "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.aplicacao1",
+              "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.aplicacao2",
+              "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao1",
+              "cna.ef01.materiais_do_cotidiano.descarte_de_materiais#descarte_de_materiais.producao2",
+              "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.aplicacao1",
+              "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.aplicacao2",
+              "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao1",
+              "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais#uso_consciente_dos_materiais.producao2"
+            ],
+            "questoesTreino": [
+              "cna.ef01.materia_e_energia.treino.01",
+              "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.treino.1",
+              "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.treino.2",
+              "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.treino.1",
+              "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.treino.2",
+              "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.treino.1",
+              "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.treino.2",
+              "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.treino.1",
+              "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.treino.2",
+              "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.treino.1",
+              "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.treino.2"
+            ],
+            "questoesProva": [
+              "cna.ef01.materia_e_energia.prova.01",
+              "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.1",
+              "cna.ef01.materiais_do_cotidiano.objetos_e_seus_materiais.prova.2",
+              "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.1",
+              "cna.ef01.materiais_do_cotidiano.origem_dos_materiais.prova.2",
+              "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.1",
+              "cna.ef01.materiais_do_cotidiano.propriedades_observaveis.prova.2",
+              "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.1",
+              "cna.ef01.materiais_do_cotidiano.descarte_de_materiais.prova.2",
+              "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.1",
+              "cna.ef01.materiais_do_cotidiano.uso_consciente_dos_materiais.prova.2"
+            ]
+          }
         },
         {
           "codigo": "EF01CI05",
@@ -35436,10 +35510,29 @@
             "cna.ef01.tempo_e_rotina.ontem_hoje_e_amanha",
             "cna.ef01.tempo_e_rotina.instrumentos_para_medir_o_tempo"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef01.tempo_e_rotina.manha_tarde_e_noite"
+          ],
+          "aulasPiloto": [
+            "cna.ef01.tempo_e_rotina.manha_tarde_e_noite"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef01.tempo_e_rotina.manha_tarde_e_noite"
+            ],
+            "atividades": [
+              "cna.ef01.tempo_e_rotina.manha_tarde_e_noite#manha_tarde_e_noite.aplicacao",
+              "cna.ef01.tempo_e_rotina.manha_tarde_e_noite#manha_tarde_e_noite.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef01.terra_e_universo.treino.05"
+            ],
+            "questoesProva": [
+              "cna.ef01.terra_e_universo.prova.05"
+            ]
+          }
         },
         {
           "codigo": "EF01CI06",
@@ -35456,10 +35549,29 @@
             "cna.ef01.cuidar_do_ambiente_proximo.nosso_planeta_azul",
             "cna.ef01.saude_e_ambiente.habitos_saudaveis_no_planeta"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu"
+          ],
+          "aulasPiloto": [
+            "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu"
+            ],
+            "atividades": [
+              "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu#sol_e_lua_no_ceu.aplicacao",
+              "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu#sol_e_lua_no_ceu.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef01.terra_e_universo.treino.06"
+            ],
+            "questoesProva": [
+              "cna.ef01.terra_e_universo.prova.06"
+            ]
+          }
         },
         {
           "codigo": "EF01CI02",
@@ -35473,10 +35585,29 @@
             "cna.ef01.corpo_humano.corpo_em_movimento",
             "cna.ef01.observar_e_registrar.desenho_como_registro"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef01.corpo_humano.partes_do_corpo"
+          ],
+          "aulasPiloto": [
+            "cna.ef01.corpo_humano.partes_do_corpo"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef01.corpo_humano.partes_do_corpo"
+            ],
+            "atividades": [
+              "cna.ef01.corpo_humano.partes_do_corpo#partes_do_corpo.aplicacao",
+              "cna.ef01.corpo_humano.partes_do_corpo#partes_do_corpo.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef01.vida_e_evolucao.treino.02"
+            ],
+            "questoesProva": [
+              "cna.ef01.vida_e_evolucao.prova.02"
+            ]
+          }
         },
         {
           "codigo": "EF01CI03",
@@ -35494,10 +35625,29 @@
             "cna.ef01.saude_e_ambiente.som_e_barulho",
             "cna.ef01.saude_e_ambiente.luz_e_saude"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef01.higiene_e_saude.lavar_as_maos"
+          ],
+          "aulasPiloto": [
+            "cna.ef01.higiene_e_saude.lavar_as_maos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef01.higiene_e_saude.lavar_as_maos"
+            ],
+            "atividades": [
+              "cna.ef01.higiene_e_saude.lavar_as_maos#lavar_as_maos.aplicacao",
+              "cna.ef01.higiene_e_saude.lavar_as_maos#lavar_as_maos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef01.vida_e_evolucao.treino.03"
+            ],
+            "questoesProva": [
+              "cna.ef01.vida_e_evolucao.prova.03"
+            ]
+          }
         },
         {
           "codigo": "EF01CI04",
@@ -35509,10 +35659,29 @@
             "cna.ef01.diversidade_e_respeito.acolhimento_na_escola",
             "cna.ef01.diversidade_e_respeito.todos_os_corpos_importam"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas"
+          ],
+          "aulasPiloto": [
+            "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas"
+            ],
+            "atividades": [
+              "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas#caracteristicas_fisicas_dos_colegas.aplicacao",
+              "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas#caracteristicas_fisicas_dos_colegas.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef01.vida_e_evolucao.treino.04"
+            ],
+            "questoesProva": [
+              "cna.ef01.vida_e_evolucao.prova.04"
+            ]
+          }
         }
       ],
       "vinculosForaDaLista": []
@@ -35520,8 +35689,8 @@
     {
       "componente": "cna",
       "nivel": "EF02",
-      "estado": "em_analise",
-      "observacao": "Planejamento recuperado; códigos presentes não comprovam alinhamento semântico.",
+      "estado": "parcial",
+      "observacao": "Consulta da BNCC e autoria por núcleos/unidades; evidências planejadas não equivalem a observação ou homologação.",
       "habilidades": [
         {
           "codigo": "EF02CI01",
@@ -35532,10 +35701,62 @@
             "cna.ef02.materiais_e_objetos.objetos_do_passado",
             "cna.ef02.materiais_e_objetos.como_usamos_os_objetos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos",
+            "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+            "cna.ef02.materiais_e_objetos.objetos_do_passado",
+            "cna.ef02.materiais_e_objetos.como_usamos_os_objetos"
+          ],
+          "aulasPiloto": [
+            "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos",
+            "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+            "cna.ef02.materiais_e_objetos.objetos_do_passado",
+            "cna.ef02.materiais_e_objetos.como_usamos_os_objetos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos",
+              "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+              "cna.ef02.materiais_e_objetos.objetos_do_passado",
+              "cna.ef02.materiais_e_objetos.como_usamos_os_objetos"
+            ],
+            "atividades": [
+              "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos#de_que_sao_feitos_os_objetos.aplicacao",
+              "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos#de_que_sao_feitos_os_objetos.investigacao",
+              "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.aplicacao1",
+              "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.aplicacao2",
+              "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao1",
+              "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao2",
+              "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.aplicacao1",
+              "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.aplicacao2",
+              "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao1",
+              "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao2",
+              "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.aplicacao1",
+              "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.aplicacao2",
+              "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao1",
+              "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao2"
+            ],
+            "questoesTreino": [
+              "cna.ef02.materia_e_energia.treino.01",
+              "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.treino.1",
+              "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.treino.2",
+              "cna.ef02.materiais_e_objetos.objetos_do_passado.treino.1",
+              "cna.ef02.materiais_e_objetos.objetos_do_passado.treino.2",
+              "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.treino.1",
+              "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.treino.2"
+            ],
+            "questoesProva": [
+              "cna.ef02.materia_e_energia.prova.01",
+              "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.1",
+              "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.2",
+              "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.1",
+              "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.2",
+              "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.1",
+              "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.2"
+            ]
+          }
         },
         {
           "codigo": "EF02CI02",
@@ -35544,10 +35765,40 @@
             "cna.ef02.materiais_e_objetos.propriedades_dos_materiais",
             "cna.ef02.materiais_e_objetos.escolher_o_material_adequado"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef02.materiais_e_objetos.propriedades_dos_materiais",
+            "cna.ef02.materiais_e_objetos.escolher_o_material_adequado"
+          ],
+          "aulasPiloto": [
+            "cna.ef02.materiais_e_objetos.propriedades_dos_materiais",
+            "cna.ef02.materiais_e_objetos.escolher_o_material_adequado"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef02.materiais_e_objetos.propriedades_dos_materiais",
+              "cna.ef02.materiais_e_objetos.escolher_o_material_adequado"
+            ],
+            "atividades": [
+              "cna.ef02.materiais_e_objetos.propriedades_dos_materiais#propriedades_dos_materiais.aplicacao",
+              "cna.ef02.materiais_e_objetos.propriedades_dos_materiais#propriedades_dos_materiais.investigacao",
+              "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.aplicacao1",
+              "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.aplicacao2",
+              "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao1",
+              "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao2"
+            ],
+            "questoesTreino": [
+              "cna.ef02.materia_e_energia.treino.02",
+              "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.treino.1",
+              "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.treino.2"
+            ],
+            "questoesProva": [
+              "cna.ef02.materia_e_energia.prova.02",
+              "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.1",
+              "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.2"
+            ]
+          }
         },
         {
           "codigo": "EF02CI03",
@@ -35559,10 +35810,29 @@
             "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
             "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef02.prevencao_de_acidentes.objetos_cortantes"
+          ],
+          "aulasPiloto": [
+            "cna.ef02.prevencao_de_acidentes.objetos_cortantes"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef02.prevencao_de_acidentes.objetos_cortantes"
+            ],
+            "atividades": [
+              "cna.ef02.prevencao_de_acidentes.objetos_cortantes#objetos_cortantes.aplicacao",
+              "cna.ef02.prevencao_de_acidentes.objetos_cortantes#objetos_cortantes.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef02.materia_e_energia.treino.03"
+            ],
+            "questoesProva": [
+              "cna.ef02.materia_e_energia.prova.03"
+            ]
+          }
         },
         {
           "codigo": "EF02CI07",
@@ -35575,10 +35845,29 @@
             "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
             "cna.ef02.sol_no_ceu.observando_o_ceu"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef02.sol_no_ceu.posicao_do_sol"
+          ],
+          "aulasPiloto": [
+            "cna.ef02.sol_no_ceu.posicao_do_sol"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef02.sol_no_ceu.posicao_do_sol"
+            ],
+            "atividades": [
+              "cna.ef02.sol_no_ceu.posicao_do_sol#posicao_do_sol.aplicacao",
+              "cna.ef02.sol_no_ceu.posicao_do_sol#posicao_do_sol.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef02.terra_e_universo.treino.07"
+            ],
+            "questoesProva": [
+              "cna.ef02.terra_e_universo.prova.07"
+            ]
+          }
         },
         {
           "codigo": "EF02CI08",
@@ -35591,10 +35880,29 @@
             "cna.ef02.sol_e_superficies.reflexao_da_luz",
             "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef02.sol_e_superficies.aquecimento_da_agua"
+          ],
+          "aulasPiloto": [
+            "cna.ef02.sol_e_superficies.aquecimento_da_agua"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef02.sol_e_superficies.aquecimento_da_agua"
+            ],
+            "atividades": [
+              "cna.ef02.sol_e_superficies.aquecimento_da_agua#aquecimento_da_agua.aplicacao",
+              "cna.ef02.sol_e_superficies.aquecimento_da_agua#aquecimento_da_agua.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef02.terra_e_universo.treino.08"
+            ],
+            "questoesProva": [
+              "cna.ef02.terra_e_universo.prova.08"
+            ]
+          }
         },
         {
           "codigo": "EF02CI04",
@@ -35610,10 +35918,29 @@
             "cna.ef02.horta_e_observacao.diario_da_planta",
             "cna.ef02.horta_e_observacao.compartilhando_descobertas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano"
+          ],
+          "aulasPiloto": [
+            "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano"
+            ],
+            "atividades": [
+              "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano#plantas_do_cotidiano.aplicacao",
+              "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano#plantas_do_cotidiano.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef02.vida_e_evolucao.treino.04"
+            ],
+            "questoesProva": [
+              "cna.ef02.vida_e_evolucao.prova.04"
+            ]
+          }
         },
         {
           "codigo": "EF02CI05",
@@ -35627,10 +35954,29 @@
             "cna.ef02.horta_e_observacao.montando_uma_horta",
             "cna.ef02.horta_e_observacao.registrando_o_crescimento"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef02.agua_luz_e_vida.agua_para_as_plantas"
+          ],
+          "aulasPiloto": [
+            "cna.ef02.agua_luz_e_vida.agua_para_as_plantas"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef02.agua_luz_e_vida.agua_para_as_plantas"
+            ],
+            "atividades": [
+              "cna.ef02.agua_luz_e_vida.agua_para_as_plantas#agua_para_as_plantas.aplicacao",
+              "cna.ef02.agua_luz_e_vida.agua_para_as_plantas#agua_para_as_plantas.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef02.vida_e_evolucao.treino.05"
+            ],
+            "questoesProva": [
+              "cna.ef02.vida_e_evolucao.prova.05"
+            ]
+          }
         },
         {
           "codigo": "EF02CI06",
@@ -35645,10 +35991,29 @@
             "cna.ef02.partes_das_plantas.plantas_e_outros_seres",
             "cna.ef02.horta_e_observacao.colheita_e_cuidados"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef02.partes_das_plantas.raiz"
+          ],
+          "aulasPiloto": [
+            "cna.ef02.partes_das_plantas.raiz"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef02.partes_das_plantas.raiz"
+            ],
+            "atividades": [
+              "cna.ef02.partes_das_plantas.raiz#raiz.aplicacao",
+              "cna.ef02.partes_das_plantas.raiz#raiz.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef02.vida_e_evolucao.treino.06"
+            ],
+            "questoesProva": [
+              "cna.ef02.vida_e_evolucao.prova.06"
+            ]
+          }
         }
       ],
       "vinculosForaDaLista": []
@@ -35656,8 +36021,8 @@
     {
       "componente": "cna",
       "nivel": "EF03",
-      "estado": "em_analise",
-      "observacao": "Planejamento recuperado; códigos presentes não comprovam alinhamento semântico.",
+      "estado": "parcial",
+      "observacao": "Consulta da BNCC e autoria por núcleos/unidades; evidências planejadas não equivalem a observação ou homologação.",
       "habilidades": [
         {
           "codigo": "EF03CI01",
@@ -35670,10 +36035,84 @@
             "cna.ef03.som_e_vibracao.som_se_propaga",
             "cna.ef03.som_e_vibracao.variaveis_do_som"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef03.som_e_vibracao.produzindo_sons",
+            "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+            "cna.ef03.som_e_vibracao.altura_e_intensidade",
+            "cna.ef03.som_e_vibracao.instrumentos_musicais",
+            "cna.ef03.som_e_vibracao.som_se_propaga",
+            "cna.ef03.som_e_vibracao.variaveis_do_som"
+          ],
+          "aulasPiloto": [
+            "cna.ef03.som_e_vibracao.produzindo_sons",
+            "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+            "cna.ef03.som_e_vibracao.altura_e_intensidade",
+            "cna.ef03.som_e_vibracao.instrumentos_musicais",
+            "cna.ef03.som_e_vibracao.som_se_propaga",
+            "cna.ef03.som_e_vibracao.variaveis_do_som"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef03.som_e_vibracao.produzindo_sons",
+              "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+              "cna.ef03.som_e_vibracao.altura_e_intensidade",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais",
+              "cna.ef03.som_e_vibracao.som_se_propaga",
+              "cna.ef03.som_e_vibracao.variaveis_do_som"
+            ],
+            "atividades": [
+              "cna.ef03.som_e_vibracao.produzindo_sons#produzindo_sons.aplicacao",
+              "cna.ef03.som_e_vibracao.produzindo_sons#produzindo_sons.investigacao",
+              "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.aplicacao1",
+              "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.aplicacao2",
+              "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao1",
+              "cna.ef03.som_e_vibracao.vibracao_dos_objetos#vibracao_dos_objetos.producao2",
+              "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.aplicacao1",
+              "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.aplicacao2",
+              "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao1",
+              "cna.ef03.som_e_vibracao.altura_e_intensidade#altura_e_intensidade.producao2",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.aplicacao1",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.aplicacao2",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao1",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais#instrumentos_musicais.producao2",
+              "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.aplicacao1",
+              "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.aplicacao2",
+              "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao1",
+              "cna.ef03.som_e_vibracao.som_se_propaga#som_se_propaga.producao2",
+              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.aplicacao1",
+              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.aplicacao2",
+              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao1",
+              "cna.ef03.som_e_vibracao.variaveis_do_som#variaveis_do_som.producao2"
+            ],
+            "questoesTreino": [
+              "cna.ef03.materia_e_energia.treino.01",
+              "cna.ef03.som_e_vibracao.vibracao_dos_objetos.treino.1",
+              "cna.ef03.som_e_vibracao.vibracao_dos_objetos.treino.2",
+              "cna.ef03.som_e_vibracao.altura_e_intensidade.treino.1",
+              "cna.ef03.som_e_vibracao.altura_e_intensidade.treino.2",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais.treino.1",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais.treino.2",
+              "cna.ef03.som_e_vibracao.som_se_propaga.treino.1",
+              "cna.ef03.som_e_vibracao.som_se_propaga.treino.2",
+              "cna.ef03.som_e_vibracao.variaveis_do_som.treino.1",
+              "cna.ef03.som_e_vibracao.variaveis_do_som.treino.2"
+            ],
+            "questoesProva": [
+              "cna.ef03.materia_e_energia.prova.01",
+              "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.1",
+              "cna.ef03.som_e_vibracao.vibracao_dos_objetos.prova.2",
+              "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.1",
+              "cna.ef03.som_e_vibracao.altura_e_intensidade.prova.2",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.1",
+              "cna.ef03.som_e_vibracao.instrumentos_musicais.prova.2",
+              "cna.ef03.som_e_vibracao.som_se_propaga.prova.1",
+              "cna.ef03.som_e_vibracao.som_se_propaga.prova.2",
+              "cna.ef03.som_e_vibracao.variaveis_do_som.prova.1",
+              "cna.ef03.som_e_vibracao.variaveis_do_som.prova.2"
+            ]
+          }
         },
         {
           "codigo": "EF03CI02",
@@ -35686,10 +36125,73 @@
             "cna.ef03.luz_e_materiais.sombras",
             "cna.ef03.luz_e_materiais.cores_e_luz"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes",
+            "cna.ef03.luz_e_materiais.objetos_opacos",
+            "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+            "cna.ef03.luz_e_materiais.refracao_simples",
+            "cna.ef03.luz_e_materiais.sombras"
+          ],
+          "aulasPiloto": [
+            "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes",
+            "cna.ef03.luz_e_materiais.objetos_opacos",
+            "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+            "cna.ef03.luz_e_materiais.refracao_simples",
+            "cna.ef03.luz_e_materiais.sombras"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes",
+              "cna.ef03.luz_e_materiais.objetos_opacos",
+              "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos",
+              "cna.ef03.luz_e_materiais.refracao_simples",
+              "cna.ef03.luz_e_materiais.sombras"
+            ],
+            "atividades": [
+              "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes#luz_e_objetos_transparentes.aplicacao",
+              "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes#luz_e_objetos_transparentes.investigacao",
+              "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.aplicacao1",
+              "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.aplicacao2",
+              "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao1",
+              "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao2",
+              "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.aplicacao1",
+              "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.aplicacao2",
+              "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao1",
+              "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao2",
+              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.aplicacao1",
+              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.aplicacao2",
+              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao1",
+              "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao2",
+              "cna.ef03.luz_e_materiais.sombras#sombras.aplicacao1",
+              "cna.ef03.luz_e_materiais.sombras#sombras.aplicacao2",
+              "cna.ef03.luz_e_materiais.sombras#sombras.producao1",
+              "cna.ef03.luz_e_materiais.sombras#sombras.producao2"
+            ],
+            "questoesTreino": [
+              "cna.ef03.luz_e_materiais.objetos_opacos.treino.1",
+              "cna.ef03.luz_e_materiais.objetos_opacos.treino.2",
+              "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.treino.1",
+              "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.treino.2",
+              "cna.ef03.luz_e_materiais.refracao_simples.treino.1",
+              "cna.ef03.luz_e_materiais.refracao_simples.treino.2",
+              "cna.ef03.luz_e_materiais.sombras.treino.1",
+              "cna.ef03.luz_e_materiais.sombras.treino.2",
+              "cna.ef03.materia_e_energia.treino.02"
+            ],
+            "questoesProva": [
+              "cna.ef03.luz_e_materiais.objetos_opacos.prova.1",
+              "cna.ef03.luz_e_materiais.objetos_opacos.prova.2",
+              "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.1",
+              "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.2",
+              "cna.ef03.luz_e_materiais.refracao_simples.prova.1",
+              "cna.ef03.luz_e_materiais.refracao_simples.prova.2",
+              "cna.ef03.luz_e_materiais.sombras.prova.1",
+              "cna.ef03.luz_e_materiais.sombras.prova.2",
+              "cna.ef03.materia_e_energia.prova.02"
+            ]
+          }
         },
         {
           "codigo": "EF03CI03",
@@ -35701,10 +36203,29 @@
             "cna.ef03.saude_auditiva_e_visual.ambiente_escolar_saudavel",
             "cna.ef03.saude_auditiva_e_visual.habitos_de_protecao"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao"
+          ],
+          "aulasPiloto": [
+            "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao"
+            ],
+            "atividades": [
+              "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao#ruido_e_audicao.aplicacao",
+              "cna.ef03.saude_auditiva_e_visual.ruido_e_audicao#ruido_e_audicao.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef03.materia_e_energia.treino.03"
+            ],
+            "questoesProva": [
+              "cna.ef03.materia_e_energia.prova.03"
+            ]
+          }
         },
         {
           "codigo": "EF03CI07",
@@ -35716,10 +36237,29 @@
             "cna.ef03.a_terra_em_representacoes.agua_no_planeta",
             "cna.ef03.a_terra_em_representacoes.comparando_representacoes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef03.a_terra_em_representacoes.forma_da_terra"
+          ],
+          "aulasPiloto": [
+            "cna.ef03.a_terra_em_representacoes.forma_da_terra"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef03.a_terra_em_representacoes.forma_da_terra"
+            ],
+            "atividades": [
+              "cna.ef03.a_terra_em_representacoes.forma_da_terra#forma_da_terra.aplicacao",
+              "cna.ef03.a_terra_em_representacoes.forma_da_terra#forma_da_terra.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef03.terra_e_universo.treino.07"
+            ],
+            "questoesProva": [
+              "cna.ef03.terra_e_universo.prova.07"
+            ]
+          }
         },
         {
           "codigo": "EF03CI08",
@@ -35731,10 +36271,29 @@
             "cna.ef03.observando_o_ceu.registro_do_ceu",
             "cna.ef03.observando_o_ceu.dia_e_noite"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef03.observando_o_ceu.sol_de_dia"
+          ],
+          "aulasPiloto": [
+            "cna.ef03.observando_o_ceu.sol_de_dia"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef03.observando_o_ceu.sol_de_dia"
+            ],
+            "atividades": [
+              "cna.ef03.observando_o_ceu.sol_de_dia#sol_de_dia.aplicacao",
+              "cna.ef03.observando_o_ceu.sol_de_dia#sol_de_dia.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef03.terra_e_universo.treino.08"
+            ],
+            "questoesProva": [
+              "cna.ef03.terra_e_universo.prova.08"
+            ]
+          }
         },
         {
           "codigo": "EF03CI09",
@@ -35744,10 +36303,29 @@
             "cna.ef03.solo_e_seus_usos.cor_textura_e_cheiro",
             "cna.ef03.solo_e_seus_usos.permeabilidade"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef03.solo_e_seus_usos.amostras_de_solo"
+          ],
+          "aulasPiloto": [
+            "cna.ef03.solo_e_seus_usos.amostras_de_solo"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef03.solo_e_seus_usos.amostras_de_solo"
+            ],
+            "atividades": [
+              "cna.ef03.solo_e_seus_usos.amostras_de_solo#amostras_de_solo.aplicacao",
+              "cna.ef03.solo_e_seus_usos.amostras_de_solo#amostras_de_solo.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef03.terra_e_universo.treino.09"
+            ],
+            "questoesProva": [
+              "cna.ef03.terra_e_universo.prova.09"
+            ]
+          }
         },
         {
           "codigo": "EF03CI10",
@@ -35756,10 +36334,29 @@
             "cna.ef03.solo_e_seus_usos.solo_e_agricultura",
             "cna.ef03.solo_e_seus_usos.uso_consciente_do_solo"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef03.solo_e_seus_usos.solo_e_agricultura"
+          ],
+          "aulasPiloto": [
+            "cna.ef03.solo_e_seus_usos.solo_e_agricultura"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef03.solo_e_seus_usos.solo_e_agricultura"
+            ],
+            "atividades": [
+              "cna.ef03.solo_e_seus_usos.solo_e_agricultura#solo_e_agricultura.aplicacao",
+              "cna.ef03.solo_e_seus_usos.solo_e_agricultura#solo_e_agricultura.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef03.terra_e_universo.treino.10"
+            ],
+            "questoesProva": [
+              "cna.ef03.terra_e_universo.prova.10"
+            ]
+          }
         },
         {
           "codigo": "EF03CI04",
@@ -35772,10 +36369,29 @@
             "cna.ef03.vida_dos_animais.habitats",
             "cna.ef03.vida_dos_animais.observar_animais"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef03.vida_dos_animais.o_que_os_animais_comem"
+          ],
+          "aulasPiloto": [
+            "cna.ef03.vida_dos_animais.o_que_os_animais_comem"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef03.vida_dos_animais.o_que_os_animais_comem"
+            ],
+            "atividades": [
+              "cna.ef03.vida_dos_animais.o_que_os_animais_comem#o_que_os_animais_comem.aplicacao",
+              "cna.ef03.vida_dos_animais.o_que_os_animais_comem#o_que_os_animais_comem.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef03.vida_e_evolucao.treino.04"
+            ],
+            "questoesProva": [
+              "cna.ef03.vida_e_evolucao.prova.04"
+            ]
+          }
         },
         {
           "codigo": "EF03CI05",
@@ -35788,10 +36404,29 @@
             "cna.ef03.crescimento_dos_animais.animais_aquaticos",
             "cna.ef03.crescimento_dos_animais.ciclo_de_vida_humano"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta"
+          ],
+          "aulasPiloto": [
+            "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta"
+            ],
+            "atividades": [
+              "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta#do_nascimento_a_fase_adulta.aplicacao",
+              "cna.ef03.crescimento_dos_animais.do_nascimento_a_fase_adulta#do_nascimento_a_fase_adulta.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef03.vida_e_evolucao.treino.05"
+            ],
+            "questoesProva": [
+              "cna.ef03.vida_e_evolucao.prova.05"
+            ]
+          }
         },
         {
           "codigo": "EF03CI06",
@@ -35804,10 +36439,29 @@
             "cna.ef03.grupos_de_animais.classificando_animais",
             "cna.ef03.grupos_de_animais.chaves_de_identificacao"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef03.grupos_de_animais.penas_e_pelos"
+          ],
+          "aulasPiloto": [
+            "cna.ef03.grupos_de_animais.penas_e_pelos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef03.grupos_de_animais.penas_e_pelos"
+            ],
+            "atividades": [
+              "cna.ef03.grupos_de_animais.penas_e_pelos#penas_e_pelos.aplicacao",
+              "cna.ef03.grupos_de_animais.penas_e_pelos#penas_e_pelos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef03.vida_e_evolucao.treino.06"
+            ],
+            "questoesProva": [
+              "cna.ef03.vida_e_evolucao.prova.06"
+            ]
+          }
         }
       ],
       "vinculosForaDaLista": []
@@ -35815,8 +36469,8 @@
     {
       "componente": "cna",
       "nivel": "EF04",
-      "estado": "em_analise",
-      "observacao": "Planejamento recuperado; códigos presentes não comprovam alinhamento semântico.",
+      "estado": "parcial",
+      "observacao": "Consulta da BNCC e autoria por núcleos/unidades; evidências planejadas não equivalem a observação ou homologação.",
       "habilidades": [
         {
           "codigo": "EF04CI01",
@@ -35829,10 +36483,29 @@
             "cna.ef04.misturas_do_dia_a_dia.misturas_na_cozinha",
             "cna.ef04.misturas_do_dia_a_dia.separando_componentes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura"
+          ],
+          "aulasPiloto": [
+            "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura"
+            ],
+            "atividades": [
+              "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura#o_que_e_mistura.aplicacao",
+              "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura#o_que_e_mistura.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef04.materia_e_energia.treino.01"
+            ],
+            "questoesProva": [
+              "cna.ef04.materia_e_energia.prova.01"
+            ]
+          }
         },
         {
           "codigo": "EF04CI02",
@@ -35845,10 +36518,29 @@
             "cna.ef04.transformacoes_dos_materiais.tempo_e_transformacao",
             "cna.ef04.transformacoes_dos_materiais.comparando_condicoes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento"
+          ],
+          "aulasPiloto": [
+            "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento"
+            ],
+            "atividades": [
+              "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento#aquecimento_e_resfriamento.aplicacao",
+              "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento#aquecimento_e_resfriamento.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef04.materia_e_energia.treino.02"
+            ],
+            "questoesProva": [
+              "cna.ef04.materia_e_energia.prova.02"
+            ]
+          }
         },
         {
           "codigo": "EF04CI03",
@@ -35861,10 +36553,29 @@
             "cna.ef04.reversivel_ou_nao.transformacoes_irreversiveis",
             "cna.ef04.reversivel_ou_nao.evidencias_de_mudanca"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua"
+          ],
+          "aulasPiloto": [
+            "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua"
+            ],
+            "atividades": [
+              "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua#mudancas_de_estado_da_agua.aplicacao",
+              "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua#mudancas_de_estado_da_agua.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef04.materia_e_energia.treino.03"
+            ],
+            "questoesProva": [
+              "cna.ef04.materia_e_energia.prova.03"
+            ]
+          }
         },
         {
           "codigo": "EF04CI09",
@@ -35875,10 +36586,29 @@
             "cna.ef04.orientacao_pelo_sol.sombra_e_direcao",
             "cna.ef04.orientacao_pelo_sol.rosa_dos_ventos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef04.orientacao_pelo_sol.pontos_cardeais"
+          ],
+          "aulasPiloto": [
+            "cna.ef04.orientacao_pelo_sol.pontos_cardeais"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef04.orientacao_pelo_sol.pontos_cardeais"
+            ],
+            "atividades": [
+              "cna.ef04.orientacao_pelo_sol.pontos_cardeais#pontos_cardeais.aplicacao",
+              "cna.ef04.orientacao_pelo_sol.pontos_cardeais#pontos_cardeais.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef04.terra_e_universo.treino.09"
+            ],
+            "questoesProva": [
+              "cna.ef04.terra_e_universo.prova.09"
+            ]
+          }
         },
         {
           "codigo": "EF04CI10",
@@ -35887,10 +36617,29 @@
             "cna.ef04.orientacao_pelo_sol.bussola",
             "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef04.orientacao_pelo_sol.bussola"
+          ],
+          "aulasPiloto": [
+            "cna.ef04.orientacao_pelo_sol.bussola"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef04.orientacao_pelo_sol.bussola"
+            ],
+            "atividades": [
+              "cna.ef04.orientacao_pelo_sol.bussola#bussola.aplicacao",
+              "cna.ef04.orientacao_pelo_sol.bussola#bussola.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef04.terra_e_universo.treino.10"
+            ],
+            "questoesProva": [
+              "cna.ef04.terra_e_universo.prova.10"
+            ]
+          }
         },
         {
           "codigo": "EF04CI11",
@@ -35902,10 +36651,29 @@
             "cna.ef04.calendarios_e_ciclos.ciclos_naturais",
             "cna.ef04.calendarios_e_ciclos.tempo_e_cultura"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef04.calendarios_e_ciclos.fases_da_lua"
+          ],
+          "aulasPiloto": [
+            "cna.ef04.calendarios_e_ciclos.fases_da_lua"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef04.calendarios_e_ciclos.fases_da_lua"
+            ],
+            "atividades": [
+              "cna.ef04.calendarios_e_ciclos.fases_da_lua#fases_da_lua.aplicacao",
+              "cna.ef04.calendarios_e_ciclos.fases_da_lua#fases_da_lua.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef04.terra_e_universo.treino.11"
+            ],
+            "questoesProva": [
+              "cna.ef04.terra_e_universo.prova.11"
+            ]
+          }
         },
         {
           "codigo": "EF04CI04",
@@ -35919,10 +36687,29 @@
             "cna.ef04.cadeias_alimentares.teias_alimentares",
             "cna.ef04.cadeias_alimentares.equilibrio_da_cadeia"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef04.cadeias_alimentares.produtores"
+          ],
+          "aulasPiloto": [
+            "cna.ef04.cadeias_alimentares.produtores"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef04.cadeias_alimentares.produtores"
+            ],
+            "atividades": [
+              "cna.ef04.cadeias_alimentares.produtores#produtores.aplicacao",
+              "cna.ef04.cadeias_alimentares.produtores#produtores.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef04.vida_e_evolucao.treino.04"
+            ],
+            "questoesProva": [
+              "cna.ef04.vida_e_evolucao.prova.04"
+            ]
+          }
         },
         {
           "codigo": "EF04CI05",
@@ -35935,10 +36722,29 @@
             "cna.ef04.ciclo_da_materia_e_energia.comparando_ciclos",
             "cna.ef04.ciclo_da_materia_e_energia.materia_e_energia_no_ambiente"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos"
+          ],
+          "aulasPiloto": [
+            "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos"
+            ],
+            "atividades": [
+              "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos#componentes_vivos_e_nao_vivos.aplicacao",
+              "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos#componentes_vivos_e_nao_vivos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef04.vida_e_evolucao.treino.05"
+            ],
+            "questoesProva": [
+              "cna.ef04.vida_e_evolucao.prova.05"
+            ]
+          }
         },
         {
           "codigo": "EF04CI06",
@@ -35948,10 +36754,29 @@
             "cna.ef04.microrganismos.decomposicao",
             "cna.ef04.microrganismos.importancia_ambiental"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef04.microrganismos.fungos_e_bacterias"
+          ],
+          "aulasPiloto": [
+            "cna.ef04.microrganismos.fungos_e_bacterias"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef04.microrganismos.fungos_e_bacterias"
+            ],
+            "atividades": [
+              "cna.ef04.microrganismos.fungos_e_bacterias#fungos_e_bacterias.aplicacao",
+              "cna.ef04.microrganismos.fungos_e_bacterias#fungos_e_bacterias.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef04.vida_e_evolucao.treino.06"
+            ],
+            "questoesProva": [
+              "cna.ef04.vida_e_evolucao.prova.06"
+            ]
+          }
         },
         {
           "codigo": "EF04CI07",
@@ -35962,10 +36787,29 @@
             "cna.ef04.microrganismos.medicamentos_e_combustiveis",
             "cna.ef04.microrganismos.microrganismos_uteis"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef04.microrganismos.microrganismos_nos_alimentos"
+          ],
+          "aulasPiloto": [
+            "cna.ef04.microrganismos.microrganismos_nos_alimentos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef04.microrganismos.microrganismos_nos_alimentos"
+            ],
+            "atividades": [
+              "cna.ef04.microrganismos.microrganismos_nos_alimentos#microrganismos_nos_alimentos.aplicacao",
+              "cna.ef04.microrganismos.microrganismos_nos_alimentos#microrganismos_nos_alimentos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef04.vida_e_evolucao.treino.07"
+            ],
+            "questoesProva": [
+              "cna.ef04.vida_e_evolucao.prova.07"
+            ]
+          }
         },
         {
           "codigo": "EF04CI08",
@@ -35978,10 +36822,29 @@
             "cna.ef04.saude_e_microrganismos.vacinas_e_cuidados",
             "cna.ef04.saude_e_microrganismos.saude_na_comunidade"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios"
+          ],
+          "aulasPiloto": [
+            "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios"
+            ],
+            "atividades": [
+              "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios#virus_bacterias_protozoarios.aplicacao",
+              "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios#virus_bacterias_protozoarios.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef04.vida_e_evolucao.treino.08"
+            ],
+            "questoesProva": [
+              "cna.ef04.vida_e_evolucao.prova.08"
+            ]
+          }
         }
       ],
       "vinculosForaDaLista": []
@@ -35989,8 +36852,8 @@
     {
       "componente": "cna",
       "nivel": "EF05",
-      "estado": "em_analise",
-      "observacao": "Planejamento recuperado; códigos presentes não comprovam alinhamento semântico.",
+      "estado": "parcial",
+      "observacao": "Consulta da BNCC e autoria por núcleos/unidades; evidências planejadas não equivalem a observação ou homologação.",
       "habilidades": [
         {
           "codigo": "EF05CI01",
@@ -36003,10 +36866,29 @@
             "cna.ef05.propriedades_dos_materiais.solubilidade",
             "cna.ef05.propriedades_dos_materiais.dureza_e_elasticidade"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.propriedades_dos_materiais.densidade"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.propriedades_dos_materiais.densidade"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.propriedades_dos_materiais.densidade"
+            ],
+            "atividades": [
+              "cna.ef05.propriedades_dos_materiais.densidade#densidade.aplicacao",
+              "cna.ef05.propriedades_dos_materiais.densidade#densidade.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.materia_e_energia.treino.01"
+            ],
+            "questoesProva": [
+              "cna.ef05.materia_e_energia.prova.01"
+            ]
+          }
         },
         {
           "codigo": "EF05CI02",
@@ -36019,10 +36901,29 @@
             "cna.ef05.ciclo_da_agua.clima_e_ciclo",
             "cna.ef05.ciclo_da_agua.agua_potavel"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.ciclo_da_agua.mudancas_de_estado"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.ciclo_da_agua.mudancas_de_estado"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.ciclo_da_agua.mudancas_de_estado"
+            ],
+            "atividades": [
+              "cna.ef05.ciclo_da_agua.mudancas_de_estado#mudancas_de_estado.aplicacao",
+              "cna.ef05.ciclo_da_agua.mudancas_de_estado#mudancas_de_estado.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.materia_e_energia.treino.02"
+            ],
+            "questoesProva": [
+              "cna.ef05.materia_e_energia.prova.02"
+            ]
+          }
         },
         {
           "codigo": "EF05CI03",
@@ -36034,10 +36935,29 @@
             "cna.ef05.vegetacao_e_agua.cursos_dagua",
             "cna.ef05.vegetacao_e_agua.qualidade_do_ar"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.vegetacao_e_agua.cobertura_vegetal"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.vegetacao_e_agua.cobertura_vegetal"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.vegetacao_e_agua.cobertura_vegetal"
+            ],
+            "atividades": [
+              "cna.ef05.vegetacao_e_agua.cobertura_vegetal#cobertura_vegetal.aplicacao",
+              "cna.ef05.vegetacao_e_agua.cobertura_vegetal#cobertura_vegetal.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.materia_e_energia.treino.03"
+            ],
+            "questoesProva": [
+              "cna.ef05.materia_e_energia.prova.03"
+            ]
+          }
         },
         {
           "codigo": "EF05CI04",
@@ -36049,10 +36969,29 @@
             "cna.ef05.consumo_consciente.propostas_sustentaveis",
             "cna.ef05.consumo_consciente.consumo_na_escola"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.consumo_consciente.usos_da_agua"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.consumo_consciente.usos_da_agua"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.consumo_consciente.usos_da_agua"
+            ],
+            "atividades": [
+              "cna.ef05.consumo_consciente.usos_da_agua#usos_da_agua.aplicacao",
+              "cna.ef05.consumo_consciente.usos_da_agua#usos_da_agua.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.materia_e_energia.treino.04"
+            ],
+            "questoesProva": [
+              "cna.ef05.materia_e_energia.prova.04"
+            ]
+          }
         },
         {
           "codigo": "EF05CI05",
@@ -36064,10 +37003,29 @@
             "cna.ef05.reciclagem_e_descarte.reciclagem",
             "cna.ef05.reciclagem_e_descarte.compostagem"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.reciclagem_e_descarte.tipos_de_residuos"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.reciclagem_e_descarte.tipos_de_residuos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.reciclagem_e_descarte.tipos_de_residuos"
+            ],
+            "atividades": [
+              "cna.ef05.reciclagem_e_descarte.tipos_de_residuos#tipos_de_residuos.aplicacao",
+              "cna.ef05.reciclagem_e_descarte.tipos_de_residuos#tipos_de_residuos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.materia_e_energia.treino.05"
+            ],
+            "questoesProva": [
+              "cna.ef05.materia_e_energia.prova.05"
+            ]
+          }
         },
         {
           "codigo": "EF05CI10",
@@ -36077,10 +37035,29 @@
             "cna.ef05.observando_o_ceu.mapas_celestes",
             "cna.ef05.observando_o_ceu.periodos_do_ano_no_ceu"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.observando_o_ceu.constelacoes"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.observando_o_ceu.constelacoes"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.observando_o_ceu.constelacoes"
+            ],
+            "atividades": [
+              "cna.ef05.observando_o_ceu.constelacoes#constelacoes.aplicacao",
+              "cna.ef05.observando_o_ceu.constelacoes#constelacoes.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.terra_e_universo.treino.10"
+            ],
+            "questoesProva": [
+              "cna.ef05.terra_e_universo.prova.10"
+            ]
+          }
         },
         {
           "codigo": "EF05CI11",
@@ -36089,10 +37066,29 @@
             "cna.ef05.observando_o_ceu.movimento_diurno",
             "cna.ef05.observando_o_ceu.rotacao_da_terra"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.observando_o_ceu.movimento_diurno"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.observando_o_ceu.movimento_diurno"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.observando_o_ceu.movimento_diurno"
+            ],
+            "atividades": [
+              "cna.ef05.observando_o_ceu.movimento_diurno#movimento_diurno.aplicacao",
+              "cna.ef05.observando_o_ceu.movimento_diurno#movimento_diurno.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.terra_e_universo.treino.11"
+            ],
+            "questoesProva": [
+              "cna.ef05.terra_e_universo.prova.11"
+            ]
+          }
         },
         {
           "codigo": "EF05CI12",
@@ -36102,10 +37098,29 @@
             "cna.ef05.lua_e_instrumentos.registro_de_dois_meses",
             "cna.ef05.lua_e_instrumentos.calendario_lunar"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.lua_e_instrumentos.fases_da_lua"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.lua_e_instrumentos.fases_da_lua"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.lua_e_instrumentos.fases_da_lua"
+            ],
+            "atividades": [
+              "cna.ef05.lua_e_instrumentos.fases_da_lua#fases_da_lua.aplicacao",
+              "cna.ef05.lua_e_instrumentos.fases_da_lua#fases_da_lua.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.terra_e_universo.treino.12"
+            ],
+            "questoesProva": [
+              "cna.ef05.terra_e_universo.prova.12"
+            ]
+          }
         },
         {
           "codigo": "EF05CI13",
@@ -36114,10 +37129,29 @@
             "cna.ef05.lua_e_instrumentos.luneta_e_periscopio",
             "cna.ef05.lua_e_instrumentos.lupas_e_microscopios"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.lua_e_instrumentos.luneta_e_periscopio"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.lua_e_instrumentos.luneta_e_periscopio"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.lua_e_instrumentos.luneta_e_periscopio"
+            ],
+            "atividades": [
+              "cna.ef05.lua_e_instrumentos.luneta_e_periscopio#luneta_e_periscopio.aplicacao",
+              "cna.ef05.lua_e_instrumentos.luneta_e_periscopio#luneta_e_periscopio.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.terra_e_universo.treino.13"
+            ],
+            "questoesProva": [
+              "cna.ef05.terra_e_universo.prova.13"
+            ]
+          }
         },
         {
           "codigo": "EF05CI06",
@@ -36130,10 +37164,29 @@
             "cna.ef05.nutricao_do_corpo.corresponsabilidade_dos_sistemas",
             "cna.ef05.nutricao_do_corpo.nutrientes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.nutricao_do_corpo.sistema_digestorio"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.nutricao_do_corpo.sistema_digestorio"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.nutricao_do_corpo.sistema_digestorio"
+            ],
+            "atividades": [
+              "cna.ef05.nutricao_do_corpo.sistema_digestorio#sistema_digestorio.aplicacao",
+              "cna.ef05.nutricao_do_corpo.sistema_digestorio#sistema_digestorio.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.vida_e_evolucao.treino.06"
+            ],
+            "questoesProva": [
+              "cna.ef05.vida_e_evolucao.prova.06"
+            ]
+          }
         },
         {
           "codigo": "EF05CI07",
@@ -36145,10 +37198,29 @@
             "cna.ef05.circulacao_e_excrecao.sangue",
             "cna.ef05.circulacao_e_excrecao.integracao_dos_sistemas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.circulacao_e_excrecao.coracao_e_vasos"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.circulacao_e_excrecao.coracao_e_vasos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.circulacao_e_excrecao.coracao_e_vasos"
+            ],
+            "atividades": [
+              "cna.ef05.circulacao_e_excrecao.coracao_e_vasos#coracao_e_vasos.aplicacao",
+              "cna.ef05.circulacao_e_excrecao.coracao_e_vasos#coracao_e_vasos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.vida_e_evolucao.treino.07"
+            ],
+            "questoesProva": [
+              "cna.ef05.vida_e_evolucao.prova.07"
+            ]
+          }
         },
         {
           "codigo": "EF05CI08",
@@ -36160,10 +37232,29 @@
             "cna.ef05.alimentacao_saudavel.necessidades_individuais",
             "cna.ef05.alimentacao_saudavel.alimentacao_na_escola"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.alimentacao_saudavel.grupos_alimentares"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.alimentacao_saudavel.grupos_alimentares"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.alimentacao_saudavel.grupos_alimentares"
+            ],
+            "atividades": [
+              "cna.ef05.alimentacao_saudavel.grupos_alimentares#grupos_alimentares.aplicacao",
+              "cna.ef05.alimentacao_saudavel.grupos_alimentares#grupos_alimentares.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.vida_e_evolucao.treino.08"
+            ],
+            "questoesProva": [
+              "cna.ef05.vida_e_evolucao.prova.08"
+            ]
+          }
         },
         {
           "codigo": "EF05CI09",
@@ -36175,10 +37266,29 @@
             "cna.ef05.disturbios_nutricionais.atividade_fisica",
             "cna.ef05.disturbios_nutricionais.prevencao_e_acolhimento"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef05.disturbios_nutricionais.obesidade"
+          ],
+          "aulasPiloto": [
+            "cna.ef05.disturbios_nutricionais.obesidade"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef05.disturbios_nutricionais.obesidade"
+            ],
+            "atividades": [
+              "cna.ef05.disturbios_nutricionais.obesidade#obesidade.aplicacao",
+              "cna.ef05.disturbios_nutricionais.obesidade#obesidade.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef05.vida_e_evolucao.treino.09"
+            ],
+            "questoesProva": [
+              "cna.ef05.vida_e_evolucao.prova.09"
+            ]
+          }
         }
       ],
       "vinculosForaDaLista": []
@@ -36186,8 +37296,8 @@
     {
       "componente": "cna",
       "nivel": "EF06",
-      "estado": "em_analise",
-      "observacao": "Planejamento recuperado; códigos presentes não comprovam alinhamento semântico.",
+      "estado": "parcial",
+      "observacao": "Consulta da BNCC e autoria por núcleos/unidades; evidências planejadas não equivalem a observação ou homologação.",
       "habilidades": [
         {
           "codigo": "EF06CI01",
@@ -36196,10 +37306,29 @@
             "cna.ef06.misturas_e_separacao.sistemas_homogeneos",
             "cna.ef06.misturas_e_separacao.sistemas_heterogeneos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.misturas_e_separacao.sistemas_homogeneos"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.misturas_e_separacao.sistemas_homogeneos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.misturas_e_separacao.sistemas_homogeneos"
+            ],
+            "atividades": [
+              "cna.ef06.misturas_e_separacao.sistemas_homogeneos#sistemas_homogeneos.aplicacao",
+              "cna.ef06.misturas_e_separacao.sistemas_homogeneos#sistemas_homogeneos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.materia_e_energia.treino.01"
+            ],
+            "questoesProva": [
+              "cna.ef06.materia_e_energia.prova.01"
+            ]
+          }
         },
         {
           "codigo": "EF06CI02",
@@ -36212,10 +37341,29 @@
             "cna.ef06.transformacoes_quimicas.comparando_transformacoes",
             "cna.ef06.transformacoes_quimicas.registrando_experimentos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.transformacoes_quimicas.evidencias_de_reacao"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.transformacoes_quimicas.evidencias_de_reacao"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.transformacoes_quimicas.evidencias_de_reacao"
+            ],
+            "atividades": [
+              "cna.ef06.transformacoes_quimicas.evidencias_de_reacao#evidencias_de_reacao.aplicacao",
+              "cna.ef06.transformacoes_quimicas.evidencias_de_reacao#evidencias_de_reacao.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.materia_e_energia.treino.02"
+            ],
+            "questoesProva": [
+              "cna.ef06.materia_e_energia.prova.02"
+            ]
+          }
         },
         {
           "codigo": "EF06CI03",
@@ -36226,10 +37374,29 @@
             "cna.ef06.misturas_e_separacao.destilacao",
             "cna.ef06.misturas_e_separacao.escolhendo_metodos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.misturas_e_separacao.separacao_de_materiais"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.misturas_e_separacao.separacao_de_materiais"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.misturas_e_separacao.separacao_de_materiais"
+            ],
+            "atividades": [
+              "cna.ef06.misturas_e_separacao.separacao_de_materiais#separacao_de_materiais.aplicacao",
+              "cna.ef06.misturas_e_separacao.separacao_de_materiais#separacao_de_materiais.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.materia_e_energia.treino.03"
+            ],
+            "questoesProva": [
+              "cna.ef06.materia_e_energia.prova.03"
+            ]
+          }
         },
         {
           "codigo": "EF06CI04",
@@ -36241,10 +37408,29 @@
             "cna.ef06.materiais_sinteticos.beneficios_e_impactos",
             "cna.ef06.materiais_sinteticos.ciencia_tecnologia_e_sociedade"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos"
+            ],
+            "atividades": [
+              "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos#o_que_sao_sinteticos.aplicacao",
+              "cna.ef06.materiais_sinteticos.o_que_sao_sinteticos#o_que_sao_sinteticos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.materia_e_energia.treino.04"
+            ],
+            "questoesProva": [
+              "cna.ef06.materia_e_energia.prova.04"
+            ]
+          }
         },
         {
           "codigo": "EF06CI11",
@@ -36257,10 +37443,29 @@
             "cna.ef06.estrutura_da_terra.hidrosfera_e_biosfera",
             "cna.ef06.estrutura_da_terra.modelo_da_terra"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.estrutura_da_terra.camadas_internas"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.estrutura_da_terra.camadas_internas"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.estrutura_da_terra.camadas_internas"
+            ],
+            "atividades": [
+              "cna.ef06.estrutura_da_terra.camadas_internas#camadas_internas.aplicacao",
+              "cna.ef06.estrutura_da_terra.camadas_internas#camadas_internas.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.terra_e_universo.treino.11"
+            ],
+            "questoesProva": [
+              "cna.ef06.terra_e_universo.prova.11"
+            ]
+          }
         },
         {
           "codigo": "EF06CI12",
@@ -36273,10 +37478,29 @@
             "cna.ef06.rochas_e_fosseis.formacao_de_fosseis",
             "cna.ef06.rochas_e_fosseis.tempo_geologico"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.rochas_e_fosseis.tipos_de_rocha"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.rochas_e_fosseis.tipos_de_rocha"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.rochas_e_fosseis.tipos_de_rocha"
+            ],
+            "atividades": [
+              "cna.ef06.rochas_e_fosseis.tipos_de_rocha#tipos_de_rocha.aplicacao",
+              "cna.ef06.rochas_e_fosseis.tipos_de_rocha#tipos_de_rocha.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.terra_e_universo.treino.12"
+            ],
+            "questoesProva": [
+              "cna.ef06.terra_e_universo.prova.12"
+            ]
+          }
         },
         {
           "codigo": "EF06CI13",
@@ -36285,10 +37509,29 @@
             "cna.ef06.forma_e_movimentos_da_terra.esfericidade",
             "cna.ef06.forma_e_movimentos_da_terra.evidencias_da_esfericidade"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.forma_e_movimentos_da_terra.esfericidade"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.forma_e_movimentos_da_terra.esfericidade"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.forma_e_movimentos_da_terra.esfericidade"
+            ],
+            "atividades": [
+              "cna.ef06.forma_e_movimentos_da_terra.esfericidade#esfericidade.aplicacao",
+              "cna.ef06.forma_e_movimentos_da_terra.esfericidade#esfericidade.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.terra_e_universo.treino.13"
+            ],
+            "questoesProva": [
+              "cna.ef06.terra_e_universo.prova.13"
+            ]
+          }
         },
         {
           "codigo": "EF06CI14",
@@ -36299,10 +37542,29 @@
             "cna.ef06.forma_e_movimentos_da_terra.translacao",
             "cna.ef06.forma_e_movimentos_da_terra.inclinacao_do_eixo"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras"
+            ],
+            "atividades": [
+              "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras#gnomon_e_sombras.aplicacao",
+              "cna.ef06.forma_e_movimentos_da_terra.gnomon_e_sombras#gnomon_e_sombras.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.terra_e_universo.treino.14"
+            ],
+            "questoesProva": [
+              "cna.ef06.terra_e_universo.prova.14"
+            ]
+          }
         },
         {
           "codigo": "EF06CI05",
@@ -36313,10 +37575,29 @@
             "cna.ef06.celula.celula_animal",
             "cna.ef06.celula.celula_vegetal"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.celula.unidade_da_vida"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.celula.unidade_da_vida"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.celula.unidade_da_vida"
+            ],
+            "atividades": [
+              "cna.ef06.celula.unidade_da_vida#unidade_da_vida.aplicacao",
+              "cna.ef06.celula.unidade_da_vida#unidade_da_vida.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.vida_e_evolucao.treino.05"
+            ],
+            "questoesProva": [
+              "cna.ef06.vida_e_evolucao.prova.05"
+            ]
+          }
         },
         {
           "codigo": "EF06CI06",
@@ -36325,10 +37606,29 @@
             "cna.ef06.celula.niveis_de_organizacao",
             "cna.ef06.celula.tecidos_orgaos_e_sistemas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.celula.niveis_de_organizacao"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.celula.niveis_de_organizacao"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.celula.niveis_de_organizacao"
+            ],
+            "atividades": [
+              "cna.ef06.celula.niveis_de_organizacao#niveis_de_organizacao.aplicacao",
+              "cna.ef06.celula.niveis_de_organizacao#niveis_de_organizacao.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.vida_e_evolucao.treino.06"
+            ],
+            "questoesProva": [
+              "cna.ef06.vida_e_evolucao.prova.06"
+            ]
+          }
         },
         {
           "codigo": "EF06CI07",
@@ -36339,10 +37639,29 @@
             "cna.ef06.sistema_nervoso.nervos_e_estimulos",
             "cna.ef06.sistema_nervoso.coordenacao_motora"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.sistema_nervoso.neuronios"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.sistema_nervoso.neuronios"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.sistema_nervoso.neuronios"
+            ],
+            "atividades": [
+              "cna.ef06.sistema_nervoso.neuronios#neuronios.aplicacao",
+              "cna.ef06.sistema_nervoso.neuronios#neuronios.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.vida_e_evolucao.treino.07"
+            ],
+            "questoesProva": [
+              "cna.ef06.vida_e_evolucao.prova.07"
+            ]
+          }
         },
         {
           "codigo": "EF06CI08",
@@ -36354,10 +37673,29 @@
             "cna.ef06.visao.defeitos_da_visao",
             "cna.ef06.visao.lentes_corretivas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.visao.olho_humano"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.visao.olho_humano"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.visao.olho_humano"
+            ],
+            "atividades": [
+              "cna.ef06.visao.olho_humano#olho_humano.aplicacao",
+              "cna.ef06.visao.olho_humano#olho_humano.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.vida_e_evolucao.treino.08"
+            ],
+            "questoesProva": [
+              "cna.ef06.vida_e_evolucao.prova.08"
+            ]
+          }
         },
         {
           "codigo": "EF06CI09",
@@ -36369,10 +37707,29 @@
             "cna.ef06.locomocao.interacao_com_o_nervoso",
             "cna.ef06.locomocao.movimento_e_saude"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.locomocao.ossos"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.locomocao.ossos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.locomocao.ossos"
+            ],
+            "atividades": [
+              "cna.ef06.locomocao.ossos#ossos.aplicacao",
+              "cna.ef06.locomocao.ossos#ossos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.vida_e_evolucao.treino.09"
+            ],
+            "questoesProva": [
+              "cna.ef06.vida_e_evolucao.prova.09"
+            ]
+          }
         },
         {
           "codigo": "EF06CI10",
@@ -36381,10 +37738,29 @@
             "cna.ef06.sistema_nervoso.substancias_psicoativas",
             "cna.ef06.sistema_nervoso.prevencao_ao_uso_de_drogas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef06.sistema_nervoso.substancias_psicoativas"
+          ],
+          "aulasPiloto": [
+            "cna.ef06.sistema_nervoso.substancias_psicoativas"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef06.sistema_nervoso.substancias_psicoativas"
+            ],
+            "atividades": [
+              "cna.ef06.sistema_nervoso.substancias_psicoativas#substancias_psicoativas.aplicacao",
+              "cna.ef06.sistema_nervoso.substancias_psicoativas#substancias_psicoativas.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef06.vida_e_evolucao.treino.10"
+            ],
+            "questoesProva": [
+              "cna.ef06.vida_e_evolucao.prova.10"
+            ]
+          }
         }
       ],
       "vinculosForaDaLista": []
@@ -36392,8 +37768,8 @@
     {
       "componente": "cna",
       "nivel": "EF07",
-      "estado": "em_analise",
-      "observacao": "Planejamento recuperado; códigos presentes não comprovam alinhamento semântico.",
+      "estado": "parcial",
+      "observacao": "Consulta da BNCC e autoria por núcleos/unidades; evidências planejadas não equivalem a observação ou homologação.",
       "habilidades": [
         {
           "codigo": "EF07CI01",
@@ -36405,10 +37781,29 @@
             "cna.ef07.maquinas_simples.historia_das_maquinas",
             "cna.ef07.maquinas_simples.projetando_solucoes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.maquinas_simples.alavanca"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.maquinas_simples.alavanca"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.maquinas_simples.alavanca"
+            ],
+            "atividades": [
+              "cna.ef07.maquinas_simples.alavanca#alavanca.aplicacao",
+              "cna.ef07.maquinas_simples.alavanca#alavanca.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.materia_e_energia.treino.01"
+            ],
+            "questoesProva": [
+              "cna.ef07.materia_e_energia.prova.01"
+            ]
+          }
         },
         {
           "codigo": "EF07CI02",
@@ -36421,10 +37816,29 @@
             "cna.ef07.calor_e_temperatura.propagacao_do_calor",
             "cna.ef07.calor_e_temperatura.condutores_e_isolantes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.calor_e_temperatura.temperatura"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.calor_e_temperatura.temperatura"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.calor_e_temperatura.temperatura"
+            ],
+            "atividades": [
+              "cna.ef07.calor_e_temperatura.temperatura#temperatura.aplicacao",
+              "cna.ef07.calor_e_temperatura.temperatura#temperatura.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.materia_e_energia.treino.02"
+            ],
+            "questoesProva": [
+              "cna.ef07.materia_e_energia.prova.02"
+            ]
+          }
         },
         {
           "codigo": "EF07CI03",
@@ -36434,10 +37848,29 @@
             "cna.ef07.aplicacoes_do_calor.coletor_solar",
             "cna.ef07.aplicacoes_do_calor.aquecimento_residencial"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.aplicacoes_do_calor.garrafa_termica"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.aplicacoes_do_calor.garrafa_termica"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.aplicacoes_do_calor.garrafa_termica"
+            ],
+            "atividades": [
+              "cna.ef07.aplicacoes_do_calor.garrafa_termica#garrafa_termica.aplicacao",
+              "cna.ef07.aplicacoes_do_calor.garrafa_termica#garrafa_termica.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.materia_e_energia.treino.03"
+            ],
+            "questoesProva": [
+              "cna.ef07.materia_e_energia.prova.03"
+            ]
+          }
         },
         {
           "codigo": "EF07CI04",
@@ -36446,10 +37879,29 @@
             "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida",
             "cna.ef07.aplicacoes_do_calor.maquinas_termicas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida"
+            ],
+            "atividades": [
+              "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida#equilibrio_e_vida.aplicacao",
+              "cna.ef07.aplicacoes_do_calor.equilibrio_e_vida#equilibrio_e_vida.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.materia_e_energia.treino.04"
+            ],
+            "questoesProva": [
+              "cna.ef07.materia_e_energia.prova.04"
+            ]
+          }
         },
         {
           "codigo": "EF07CI05",
@@ -36461,10 +37913,29 @@
             "cna.ef07.combustiveis_e_tecnologia.impactos_socioambientais",
             "cna.ef07.combustiveis_e_tecnologia.transicao_energetica"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao"
+            ],
+            "atividades": [
+              "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao#lenha_e_carvao.aplicacao",
+              "cna.ef07.combustiveis_e_tecnologia.lenha_e_carvao#lenha_e_carvao.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.materia_e_energia.treino.05"
+            ],
+            "questoesProva": [
+              "cna.ef07.materia_e_energia.prova.05"
+            ]
+          }
         },
         {
           "codigo": "EF07CI06",
@@ -36475,10 +37946,29 @@
             "cna.ef07.tecnologia_e_sociedade.mundo_do_trabalho",
             "cna.ef07.tecnologia_e_sociedade.avaliando_impactos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.tecnologia_e_sociedade.novos_materiais"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.tecnologia_e_sociedade.novos_materiais"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.tecnologia_e_sociedade.novos_materiais"
+            ],
+            "atividades": [
+              "cna.ef07.tecnologia_e_sociedade.novos_materiais#novos_materiais.aplicacao",
+              "cna.ef07.tecnologia_e_sociedade.novos_materiais#novos_materiais.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.materia_e_energia.treino.06"
+            ],
+            "questoesProva": [
+              "cna.ef07.materia_e_energia.prova.06"
+            ]
+          }
         },
         {
           "codigo": "EF07CI12",
@@ -36487,10 +37977,29 @@
             "cna.ef07.ar_e_atmosfera.composicao_do_ar",
             "cna.ef07.ar_e_atmosfera.poluicao_do_ar"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.ar_e_atmosfera.composicao_do_ar"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.ar_e_atmosfera.composicao_do_ar"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.ar_e_atmosfera.composicao_do_ar"
+            ],
+            "atividades": [
+              "cna.ef07.ar_e_atmosfera.composicao_do_ar#composicao_do_ar.aplicacao",
+              "cna.ef07.ar_e_atmosfera.composicao_do_ar#composicao_do_ar.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.terra_e_universo.treino.12"
+            ],
+            "questoesProva": [
+              "cna.ef07.terra_e_universo.prova.12"
+            ]
+          }
         },
         {
           "codigo": "EF07CI13",
@@ -36499,10 +38008,29 @@
             "cna.ef07.ar_e_atmosfera.efeito_estufa_natural",
             "cna.ef07.ar_e_atmosfera.aquecimento_global"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.ar_e_atmosfera.efeito_estufa_natural"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.ar_e_atmosfera.efeito_estufa_natural"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.ar_e_atmosfera.efeito_estufa_natural"
+            ],
+            "atividades": [
+              "cna.ef07.ar_e_atmosfera.efeito_estufa_natural#efeito_estufa_natural.aplicacao",
+              "cna.ef07.ar_e_atmosfera.efeito_estufa_natural#efeito_estufa_natural.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.terra_e_universo.treino.13"
+            ],
+            "questoesProva": [
+              "cna.ef07.terra_e_universo.prova.13"
+            ]
+          }
         },
         {
           "codigo": "EF07CI14",
@@ -36511,10 +38039,29 @@
             "cna.ef07.ar_e_atmosfera.camada_de_ozonio",
             "cna.ef07.ar_e_atmosfera.preservacao_do_ozonio"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.ar_e_atmosfera.camada_de_ozonio"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.ar_e_atmosfera.camada_de_ozonio"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.ar_e_atmosfera.camada_de_ozonio"
+            ],
+            "atividades": [
+              "cna.ef07.ar_e_atmosfera.camada_de_ozonio#camada_de_ozonio.aplicacao",
+              "cna.ef07.ar_e_atmosfera.camada_de_ozonio#camada_de_ozonio.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.terra_e_universo.treino.14"
+            ],
+            "questoesProva": [
+              "cna.ef07.terra_e_universo.prova.14"
+            ]
+          }
         },
         {
           "codigo": "EF07CI15",
@@ -36524,10 +38071,29 @@
             "cna.ef07.terra_dinamica.vulcoes_e_terremotos",
             "cna.ef07.terra_dinamica.tsunamis_e_brasil"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.terra_dinamica.placas_tectonicas"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.terra_dinamica.placas_tectonicas"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.terra_dinamica.placas_tectonicas"
+            ],
+            "atividades": [
+              "cna.ef07.terra_dinamica.placas_tectonicas#placas_tectonicas.aplicacao",
+              "cna.ef07.terra_dinamica.placas_tectonicas#placas_tectonicas.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.terra_e_universo.treino.15"
+            ],
+            "questoesProva": [
+              "cna.ef07.terra_e_universo.prova.15"
+            ]
+          }
         },
         {
           "codigo": "EF07CI16",
@@ -36536,10 +38102,29 @@
             "cna.ef07.terra_dinamica.deriva_continental",
             "cna.ef07.terra_dinamica.costas_brasileira_e_africana"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.terra_dinamica.deriva_continental"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.terra_dinamica.deriva_continental"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.terra_dinamica.deriva_continental"
+            ],
+            "atividades": [
+              "cna.ef07.terra_dinamica.deriva_continental#deriva_continental.aplicacao",
+              "cna.ef07.terra_dinamica.deriva_continental#deriva_continental.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.terra_e_universo.treino.16"
+            ],
+            "questoesProva": [
+              "cna.ef07.terra_e_universo.prova.16"
+            ]
+          }
         },
         {
           "codigo": "EF07CI07",
@@ -36552,10 +38137,29 @@
             "cna.ef07.ecossistemas_brasileiros.pantanal_e_pampa",
             "cna.ef07.ecossistemas_brasileiros.adaptacoes_da_flora_e_fauna"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.ecossistemas_brasileiros.amazonia"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.ecossistemas_brasileiros.amazonia"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.ecossistemas_brasileiros.amazonia"
+            ],
+            "atividades": [
+              "cna.ef07.ecossistemas_brasileiros.amazonia#amazonia.aplicacao",
+              "cna.ef07.ecossistemas_brasileiros.amazonia#amazonia.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.vida_e_evolucao.treino.07"
+            ],
+            "questoesProva": [
+              "cna.ef07.vida_e_evolucao.prova.07"
+            ]
+          }
         },
         {
           "codigo": "EF07CI08",
@@ -36567,10 +38171,29 @@
             "cna.ef07.impactos_ambientais.recuperacao_ambiental",
             "cna.ef07.impactos_ambientais.estudo_de_caso"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.impactos_ambientais.catastrofes_naturais"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.impactos_ambientais.catastrofes_naturais"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.impactos_ambientais.catastrofes_naturais"
+            ],
+            "atividades": [
+              "cna.ef07.impactos_ambientais.catastrofes_naturais#catastrofes_naturais.aplicacao",
+              "cna.ef07.impactos_ambientais.catastrofes_naturais#catastrofes_naturais.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.vida_e_evolucao.treino.08"
+            ],
+            "questoesProva": [
+              "cna.ef07.vida_e_evolucao.prova.08"
+            ]
+          }
         },
         {
           "codigo": "EF07CI09",
@@ -36582,10 +38205,29 @@
             "cna.ef07.saude_publica.doencas_respiratorias",
             "cna.ef07.saude_publica.politicas_publicas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.saude_publica.indicadores_de_saude"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.saude_publica.indicadores_de_saude"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.saude_publica.indicadores_de_saude"
+            ],
+            "atividades": [
+              "cna.ef07.saude_publica.indicadores_de_saude#indicadores_de_saude.aplicacao",
+              "cna.ef07.saude_publica.indicadores_de_saude#indicadores_de_saude.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.vida_e_evolucao.treino.09"
+            ],
+            "questoesProva": [
+              "cna.ef07.vida_e_evolucao.prova.09"
+            ]
+          }
         },
         {
           "codigo": "EF07CI10",
@@ -36596,10 +38238,29 @@
             "cna.ef07.vacinacao.erradicacao_de_doencas",
             "cna.ef07.vacinacao.saude_coletiva"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.vacinacao.como_a_vacina_age"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.vacinacao.como_a_vacina_age"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.vacinacao.como_a_vacina_age"
+            ],
+            "atividades": [
+              "cna.ef07.vacinacao.como_a_vacina_age#como_a_vacina_age.aplicacao",
+              "cna.ef07.vacinacao.como_a_vacina_age#como_a_vacina_age.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.vida_e_evolucao.treino.10"
+            ],
+            "questoesProva": [
+              "cna.ef07.vida_e_evolucao.prova.10"
+            ]
+          }
         },
         {
           "codigo": "EF07CI11",
@@ -36610,10 +38271,29 @@
             "cna.ef07.tecnologia_e_qualidade_de_vida.indicadores_ambientais",
             "cna.ef07.tecnologia_e_qualidade_de_vida.qualidade_de_vida"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia"
+          ],
+          "aulasPiloto": [
+            "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia"
+            ],
+            "atividades": [
+              "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia#historia_da_tecnologia.aplicacao",
+              "cna.ef07.tecnologia_e_qualidade_de_vida.historia_da_tecnologia#historia_da_tecnologia.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef07.vida_e_evolucao.treino.11"
+            ],
+            "questoesProva": [
+              "cna.ef07.vida_e_evolucao.prova.11"
+            ]
+          }
         }
       ],
       "vinculosForaDaLista": []
@@ -36621,8 +38301,8 @@
     {
       "componente": "cna",
       "nivel": "EF08",
-      "estado": "em_analise",
-      "observacao": "Planejamento recuperado; códigos presentes não comprovam alinhamento semântico.",
+      "estado": "parcial",
+      "observacao": "Consulta da BNCC e autoria por núcleos/unidades; evidências planejadas não equivalem a observação ou homologação.",
       "habilidades": [
         {
           "codigo": "EF08CI01",
@@ -36634,10 +38314,29 @@
             "cna.ef08.fontes_de_energia.energia_no_cotidiano",
             "cna.ef08.fontes_de_energia.escolhas_energeticas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.fontes_de_energia.renovaveis"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.fontes_de_energia.renovaveis"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.fontes_de_energia.renovaveis"
+            ],
+            "atividades": [
+              "cna.ef08.fontes_de_energia.renovaveis#renovaveis.aplicacao",
+              "cna.ef08.fontes_de_energia.renovaveis#renovaveis.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.materia_e_energia.treino.01"
+            ],
+            "questoesProva": [
+              "cna.ef08.materia_e_energia.prova.01"
+            ]
+          }
         },
         {
           "codigo": "EF08CI02",
@@ -36649,10 +38348,29 @@
             "cna.ef08.circuitos_eletricos.circuitos_residenciais",
             "cna.ef08.circuitos_eletricos.seguranca_eletrica"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.circuitos_eletricos.pilhas_e_baterias"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.circuitos_eletricos.pilhas_e_baterias"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.circuitos_eletricos.pilhas_e_baterias"
+            ],
+            "atividades": [
+              "cna.ef08.circuitos_eletricos.pilhas_e_baterias#pilhas_e_baterias.aplicacao",
+              "cna.ef08.circuitos_eletricos.pilhas_e_baterias#pilhas_e_baterias.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.materia_e_energia.treino.02"
+            ],
+            "questoesProva": [
+              "cna.ef08.materia_e_energia.prova.02"
+            ]
+          }
         },
         {
           "codigo": "EF08CI03",
@@ -36663,10 +38381,29 @@
             "cna.ef08.transformacoes_de_energia.energia_eletrica_em_sonora_e_mecanica",
             "cna.ef08.transformacoes_de_energia.equipamentos_da_casa"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica"
+            ],
+            "atividades": [
+              "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica#energia_eletrica_em_termica.aplicacao",
+              "cna.ef08.transformacoes_de_energia.energia_eletrica_em_termica#energia_eletrica_em_termica.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.materia_e_energia.treino.03"
+            ],
+            "questoesProva": [
+              "cna.ef08.materia_e_energia.prova.03"
+            ]
+          }
         },
         {
           "codigo": "EF08CI04",
@@ -36678,10 +38415,29 @@
             "cna.ef08.consumo_de_energia.conta_de_luz",
             "cna.ef08.consumo_de_energia.impacto_dos_eletrodomesticos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.consumo_de_energia.potencia"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.consumo_de_energia.potencia"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.consumo_de_energia.potencia"
+            ],
+            "atividades": [
+              "cna.ef08.consumo_de_energia.potencia#potencia.aplicacao",
+              "cna.ef08.consumo_de_energia.potencia#potencia.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.materia_e_energia.treino.04"
+            ],
+            "questoesProva": [
+              "cna.ef08.materia_e_energia.prova.04"
+            ]
+          }
         },
         {
           "codigo": "EF08CI05",
@@ -36692,10 +38448,29 @@
             "cna.ef08.uso_consciente_de_energia.habitos_de_economia",
             "cna.ef08.uso_consciente_de_energia.projeto_na_escola"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.uso_consciente_de_energia.eficiencia_energetica"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.uso_consciente_de_energia.eficiencia_energetica"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.uso_consciente_de_energia.eficiencia_energetica"
+            ],
+            "atividades": [
+              "cna.ef08.uso_consciente_de_energia.eficiencia_energetica#eficiencia_energetica.aplicacao",
+              "cna.ef08.uso_consciente_de_energia.eficiencia_energetica#eficiencia_energetica.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.materia_e_energia.treino.05"
+            ],
+            "questoesProva": [
+              "cna.ef08.materia_e_energia.prova.05"
+            ]
+          }
         },
         {
           "codigo": "EF08CI06",
@@ -36707,10 +38482,29 @@
             "cna.ef08.usinas_e_impactos.impactos_socioambientais",
             "cna.ef08.usinas_e_impactos.caminho_da_energia"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.usinas_e_impactos.hidreletricas"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.usinas_e_impactos.hidreletricas"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.usinas_e_impactos.hidreletricas"
+            ],
+            "atividades": [
+              "cna.ef08.usinas_e_impactos.hidreletricas#hidreletricas.aplicacao",
+              "cna.ef08.usinas_e_impactos.hidreletricas#hidreletricas.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.materia_e_energia.treino.06"
+            ],
+            "questoesProva": [
+              "cna.ef08.materia_e_energia.prova.06"
+            ]
+          }
         },
         {
           "codigo": "EF08CI12",
@@ -36720,10 +38514,29 @@
             "cna.ef08.sistema_sol_terra_lua.fases_da_lua",
             "cna.ef08.sistema_sol_terra_lua.eclipses"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua"
+            ],
+            "atividades": [
+              "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua#movimentos_da_lua.aplicacao",
+              "cna.ef08.sistema_sol_terra_lua.movimentos_da_lua#movimentos_da_lua.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.terra_e_universo.treino.12"
+            ],
+            "questoesProva": [
+              "cna.ef08.terra_e_universo.prova.12"
+            ]
+          }
         },
         {
           "codigo": "EF08CI13",
@@ -36732,10 +38545,29 @@
             "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao",
             "cna.ef08.sistema_sol_terra_lua.estacoes_do_ano"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao"
+            ],
+            "atividades": [
+              "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao#rotacao_e_translacao.aplicacao",
+              "cna.ef08.sistema_sol_terra_lua.rotacao_e_translacao#rotacao_e_translacao.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.terra_e_universo.treino.13"
+            ],
+            "questoesProva": [
+              "cna.ef08.terra_e_universo.prova.13"
+            ]
+          }
         },
         {
           "codigo": "EF08CI14",
@@ -36745,10 +38577,29 @@
             "cna.ef08.clima_e_tempo.circulacao_atmosferica",
             "cna.ef08.clima_e_tempo.climas_regionais"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.clima_e_tempo.clima_x_tempo"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.clima_e_tempo.clima_x_tempo"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.clima_e_tempo.clima_x_tempo"
+            ],
+            "atividades": [
+              "cna.ef08.clima_e_tempo.clima_x_tempo#clima_x_tempo.aplicacao",
+              "cna.ef08.clima_e_tempo.clima_x_tempo#clima_x_tempo.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.terra_e_universo.treino.14"
+            ],
+            "questoesProva": [
+              "cna.ef08.terra_e_universo.prova.14"
+            ]
+          }
         },
         {
           "codigo": "EF08CI15",
@@ -36757,10 +38608,29 @@
             "cna.ef08.clima_e_tempo.previsao_do_tempo",
             "cna.ef08.clima_e_tempo.variaveis_meteorologicas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.clima_e_tempo.previsao_do_tempo"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.clima_e_tempo.previsao_do_tempo"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.clima_e_tempo.previsao_do_tempo"
+            ],
+            "atividades": [
+              "cna.ef08.clima_e_tempo.previsao_do_tempo#previsao_do_tempo.aplicacao",
+              "cna.ef08.clima_e_tempo.previsao_do_tempo#previsao_do_tempo.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.terra_e_universo.treino.15"
+            ],
+            "questoesProva": [
+              "cna.ef08.terra_e_universo.prova.15"
+            ]
+          }
         },
         {
           "codigo": "EF08CI16",
@@ -36771,10 +38641,29 @@
             "cna.ef08.mudancas_climaticas.acoes_humanas",
             "cna.ef08.mudancas_climaticas.equilibrio_ambiental"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.mudancas_climaticas.aquecimento_global"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.mudancas_climaticas.aquecimento_global"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.mudancas_climaticas.aquecimento_global"
+            ],
+            "atividades": [
+              "cna.ef08.mudancas_climaticas.aquecimento_global#aquecimento_global.aplicacao",
+              "cna.ef08.mudancas_climaticas.aquecimento_global#aquecimento_global.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.terra_e_universo.treino.16"
+            ],
+            "questoesProva": [
+              "cna.ef08.terra_e_universo.prova.16"
+            ]
+          }
         },
         {
           "codigo": "EF08CI07",
@@ -36786,10 +38675,29 @@
             "cna.ef08.reproducao_dos_seres_vivos.reproducao_em_animais",
             "cna.ef08.reproducao_dos_seres_vivos.adaptacoes_reprodutivas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada"
+            ],
+            "atividades": [
+              "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada#reproducao_sexuada.aplicacao",
+              "cna.ef08.reproducao_dos_seres_vivos.reproducao_sexuada#reproducao_sexuada.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.vida_e_evolucao.treino.07"
+            ],
+            "questoesProva": [
+              "cna.ef08.vida_e_evolucao.prova.07"
+            ]
+          }
         },
         {
           "codigo": "EF08CI08",
@@ -36801,10 +38709,29 @@
             "cna.ef08.puberdade_e_hormonios.saude_na_adolescencia",
             "cna.ef08.puberdade_e_hormonios.autocuidado"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade"
+            ],
+            "atividades": [
+              "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade#mudancas_na_puberdade.aplicacao",
+              "cna.ef08.puberdade_e_hormonios.mudancas_na_puberdade#mudancas_na_puberdade.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.vida_e_evolucao.treino.08"
+            ],
+            "questoesProva": [
+              "cna.ef08.vida_e_evolucao.prova.08"
+            ]
+          }
         },
         {
           "codigo": "EF08CI09",
@@ -36813,10 +38740,29 @@
             "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos",
             "cna.ef08.sexualidade_e_metodos.responsabilidade_compartilhada"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos"
+            ],
+            "atividades": [
+              "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos#metodos_contraceptivos.aplicacao",
+              "cna.ef08.sexualidade_e_metodos.metodos_contraceptivos#metodos_contraceptivos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.vida_e_evolucao.treino.09"
+            ],
+            "questoesProva": [
+              "cna.ef08.vida_e_evolucao.prova.09"
+            ]
+          }
         },
         {
           "codigo": "EF08CI10",
@@ -36827,10 +38773,29 @@
             "cna.ef08.dst_e_prevencao.prevencao_e_preservativo",
             "cna.ef08.dst_e_prevencao.testagem_e_acolhimento"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.dst_e_prevencao.o_que_sao_dst"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.dst_e_prevencao.o_que_sao_dst"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.dst_e_prevencao.o_que_sao_dst"
+            ],
+            "atividades": [
+              "cna.ef08.dst_e_prevencao.o_que_sao_dst#o_que_sao_dst.aplicacao",
+              "cna.ef08.dst_e_prevencao.o_que_sao_dst#o_que_sao_dst.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.vida_e_evolucao.treino.10"
+            ],
+            "questoesProva": [
+              "cna.ef08.vida_e_evolucao.prova.10"
+            ]
+          }
         },
         {
           "codigo": "EF08CI11",
@@ -36839,10 +38804,29 @@
             "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade",
             "cna.ef08.sexualidade_e_metodos.afetividade_e_etica"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade"
+          ],
+          "aulasPiloto": [
+            "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade"
+            ],
+            "atividades": [
+              "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade#dimensoes_da_sexualidade.aplicacao",
+              "cna.ef08.sexualidade_e_metodos.dimensoes_da_sexualidade#dimensoes_da_sexualidade.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef08.vida_e_evolucao.treino.11"
+            ],
+            "questoesProva": [
+              "cna.ef08.vida_e_evolucao.prova.11"
+            ]
+          }
         }
       ],
       "vinculosForaDaLista": []
@@ -36850,8 +38834,8 @@
     {
       "componente": "cna",
       "nivel": "EF09",
-      "estado": "em_analise",
-      "observacao": "Planejamento recuperado; códigos presentes não comprovam alinhamento semântico.",
+      "estado": "parcial",
+      "observacao": "Consulta da BNCC e autoria por núcleos/unidades; evidências planejadas não equivalem a observação ou homologação.",
       "habilidades": [
         {
           "codigo": "EF09CI01",
@@ -36862,10 +38846,29 @@
             "cna.ef09.estados_e_modelos.agitacao_das_particulas",
             "cna.ef09.estados_e_modelos.modelos_explicativos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.estados_e_modelos.modelo_submicroscopico"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.estados_e_modelos.modelo_submicroscopico"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.estados_e_modelos.modelo_submicroscopico"
+            ],
+            "atividades": [
+              "cna.ef09.estados_e_modelos.modelo_submicroscopico#modelo_submicroscopico.aplicacao",
+              "cna.ef09.estados_e_modelos.modelo_submicroscopico#modelo_submicroscopico.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.materia_e_energia.treino.01"
+            ],
+            "questoesProva": [
+              "cna.ef09.materia_e_energia.prova.01"
+            ]
+          }
         },
         {
           "codigo": "EF09CI02",
@@ -36876,10 +38879,29 @@
             "cna.ef09.transformacoes_quimicas_quantitativas.proporcao_entre_massas",
             "cna.ef09.transformacoes_quimicas_quantitativas.experimentos_quantitativos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos"
+            ],
+            "atividades": [
+              "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos#reagentes_e_produtos.aplicacao",
+              "cna.ef09.transformacoes_quimicas_quantitativas.reagentes_e_produtos#reagentes_e_produtos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.materia_e_energia.treino.02"
+            ],
+            "questoesProva": [
+              "cna.ef09.materia_e_energia.prova.02"
+            ]
+          }
         },
         {
           "codigo": "EF09CI03",
@@ -36890,10 +38912,29 @@
             "cna.ef09.estrutura_da_materia.protons_neutrons_e_eletrons",
             "cna.ef09.estrutura_da_materia.moleculas"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.estrutura_da_materia.atomos"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.estrutura_da_materia.atomos"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.estrutura_da_materia.atomos"
+            ],
+            "atividades": [
+              "cna.ef09.estrutura_da_materia.atomos#atomos.aplicacao",
+              "cna.ef09.estrutura_da_materia.atomos#atomos.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.materia_e_energia.treino.03"
+            ],
+            "questoesProva": [
+              "cna.ef09.materia_e_energia.prova.03"
+            ]
+          }
         },
         {
           "codigo": "EF09CI04",
@@ -36904,10 +38945,29 @@
             "cna.ef09.luz_e_cores.cor_dos_objetos",
             "cna.ef09.luz_e_cores.experimentos_com_luz"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.luz_e_cores.decomposicao_da_luz"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.luz_e_cores.decomposicao_da_luz"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.luz_e_cores.decomposicao_da_luz"
+            ],
+            "atividades": [
+              "cna.ef09.luz_e_cores.decomposicao_da_luz#decomposicao_da_luz.aplicacao",
+              "cna.ef09.luz_e_cores.decomposicao_da_luz#decomposicao_da_luz.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.materia_e_energia.treino.04"
+            ],
+            "questoesProva": [
+              "cna.ef09.materia_e_energia.prova.04"
+            ]
+          }
         },
         {
           "codigo": "EF09CI05",
@@ -36918,10 +38978,29 @@
             "cna.ef09.imagem_e_som.captacao_de_imagem",
             "cna.ef09.imagem_e_som.telecomunicacoes"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.imagem_e_som.ondas"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.imagem_e_som.ondas"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.imagem_e_som.ondas"
+            ],
+            "atividades": [
+              "cna.ef09.imagem_e_som.ondas#ondas.aplicacao",
+              "cna.ef09.imagem_e_som.ondas#ondas.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.materia_e_energia.treino.05"
+            ],
+            "questoesProva": [
+              "cna.ef09.materia_e_energia.prova.05"
+            ]
+          }
         },
         {
           "codigo": "EF09CI06",
@@ -36932,10 +39011,29 @@
             "cna.ef09.radiacoes_eletromagneticas.fontes_de_radiacao",
             "cna.ef09.radiacoes_eletromagneticas.aplicacoes_e_riscos"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico"
+            ],
+            "atividades": [
+              "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico#espectro_eletromagnetico.aplicacao",
+              "cna.ef09.radiacoes_eletromagneticas.espectro_eletromagnetico#espectro_eletromagnetico.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.materia_e_energia.treino.06"
+            ],
+            "questoesProva": [
+              "cna.ef09.materia_e_energia.prova.06"
+            ]
+          }
         },
         {
           "codigo": "EF09CI07",
@@ -36946,10 +39044,29 @@
             "cna.ef09.radiacoes_na_saude.ressonancia_magnetica",
             "cna.ef09.radiacoes_na_saude.radioterapia_e_laser"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem"
+            ],
+            "atividades": [
+              "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem#diagnostico_por_imagem.aplicacao",
+              "cna.ef09.radiacoes_na_saude.diagnostico_por_imagem#diagnostico_por_imagem.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.materia_e_energia.treino.07"
+            ],
+            "questoesProva": [
+              "cna.ef09.materia_e_energia.prova.07"
+            ]
+          }
         },
         {
           "codigo": "EF09CI14",
@@ -36960,10 +39077,29 @@
             "cna.ef09.sistema_solar.planetas_gigantes",
             "cna.ef09.sistema_solar.via_lactea"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.sistema_solar.sol"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.sistema_solar.sol"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.sistema_solar.sol"
+            ],
+            "atividades": [
+              "cna.ef09.sistema_solar.sol#sol.aplicacao",
+              "cna.ef09.sistema_solar.sol#sol.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.terra_e_universo.treino.14"
+            ],
+            "questoesProva": [
+              "cna.ef09.terra_e_universo.prova.14"
+            ]
+          }
         },
         {
           "codigo": "EF09CI15",
@@ -36974,10 +39110,29 @@
             "cna.ef09.astronomia_e_cultura.calendarios_agricolas",
             "cna.ef09.astronomia_e_cultura.ciencia_e_cultura"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.astronomia_e_cultura.leituras_do_ceu"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.astronomia_e_cultura.leituras_do_ceu"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.astronomia_e_cultura.leituras_do_ceu"
+            ],
+            "atividades": [
+              "cna.ef09.astronomia_e_cultura.leituras_do_ceu#leituras_do_ceu.aplicacao",
+              "cna.ef09.astronomia_e_cultura.leituras_do_ceu#leituras_do_ceu.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.terra_e_universo.treino.15"
+            ],
+            "questoesProva": [
+              "cna.ef09.terra_e_universo.prova.15"
+            ]
+          }
         },
         {
           "codigo": "EF09CI16",
@@ -36986,10 +39141,29 @@
             "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida",
             "cna.ef09.vida_fora_da_terra_e_estrelas.viagens_interplanetarias"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida"
+            ],
+            "atividades": [
+              "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida#condicoes_para_a_vida.aplicacao",
+              "cna.ef09.vida_fora_da_terra_e_estrelas.condicoes_para_a_vida#condicoes_para_a_vida.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.terra_e_universo.treino.16"
+            ],
+            "questoesProva": [
+              "cna.ef09.terra_e_universo.prova.16"
+            ]
+          }
         },
         {
           "codigo": "EF09CI17",
@@ -36998,10 +39172,29 @@
             "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas",
             "cna.ef09.vida_fora_da_terra_e_estrelas.futuro_do_sol"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas"
+            ],
+            "atividades": [
+              "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas#nascimento_e_morte_de_estrelas.aplicacao",
+              "cna.ef09.vida_fora_da_terra_e_estrelas.nascimento_e_morte_de_estrelas#nascimento_e_morte_de_estrelas.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.terra_e_universo.treino.17"
+            ],
+            "questoesProva": [
+              "cna.ef09.terra_e_universo.prova.17"
+            ]
+          }
         },
         {
           "codigo": "EF09CI08",
@@ -37012,10 +39205,29 @@
             "cna.ef09.hereditariedade.ancestrais_e_descendentes",
             "cna.ef09.hereditariedade.mendel"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.hereditariedade.gametas"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.hereditariedade.gametas"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.hereditariedade.gametas"
+            ],
+            "atividades": [
+              "cna.ef09.hereditariedade.gametas#gametas.aplicacao",
+              "cna.ef09.hereditariedade.gametas#gametas.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.vida_e_evolucao.treino.08"
+            ],
+            "questoesProva": [
+              "cna.ef09.vida_e_evolucao.prova.08"
+            ]
+          }
         },
         {
           "codigo": "EF09CI09",
@@ -37026,10 +39238,29 @@
             "cna.ef09.genetica_de_mendel.cruzamentos",
             "cna.ef09.genetica_de_mendel.problemas_de_hereditariedade"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.genetica_de_mendel.fatores_hereditarios"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.genetica_de_mendel.fatores_hereditarios"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.genetica_de_mendel.fatores_hereditarios"
+            ],
+            "atividades": [
+              "cna.ef09.genetica_de_mendel.fatores_hereditarios#fatores_hereditarios.aplicacao",
+              "cna.ef09.genetica_de_mendel.fatores_hereditarios#fatores_hereditarios.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.vida_e_evolucao.treino.09"
+            ],
+            "questoesProva": [
+              "cna.ef09.vida_e_evolucao.prova.09"
+            ]
+          }
         },
         {
           "codigo": "EF09CI10",
@@ -37038,10 +39269,29 @@
             "cna.ef09.evolucao.lamarck",
             "cna.ef09.evolucao.darwin"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.evolucao.lamarck"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.evolucao.lamarck"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.evolucao.lamarck"
+            ],
+            "atividades": [
+              "cna.ef09.evolucao.lamarck#lamarck.aplicacao",
+              "cna.ef09.evolucao.lamarck#lamarck.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.vida_e_evolucao.treino.10"
+            ],
+            "questoesProva": [
+              "cna.ef09.vida_e_evolucao.prova.10"
+            ]
+          }
         },
         {
           "codigo": "EF09CI11",
@@ -37052,10 +39302,29 @@
             "cna.ef09.biodiversidade.variabilidade",
             "cna.ef09.biodiversidade.adaptacao"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.evolucao.selecao_natural"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.evolucao.selecao_natural"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.evolucao.selecao_natural"
+            ],
+            "atividades": [
+              "cna.ef09.evolucao.selecao_natural#selecao_natural.aplicacao",
+              "cna.ef09.evolucao.selecao_natural#selecao_natural.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.vida_e_evolucao.treino.11"
+            ],
+            "questoesProva": [
+              "cna.ef09.vida_e_evolucao.prova.11"
+            ]
+          }
         },
         {
           "codigo": "EF09CI12",
@@ -37064,10 +39333,29 @@
             "cna.ef09.biodiversidade.unidades_de_conservacao",
             "cna.ef09.biodiversidade.patrimonio_nacional"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.biodiversidade.unidades_de_conservacao"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.biodiversidade.unidades_de_conservacao"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.biodiversidade.unidades_de_conservacao"
+            ],
+            "atividades": [
+              "cna.ef09.biodiversidade.unidades_de_conservacao#unidades_de_conservacao.aplicacao",
+              "cna.ef09.biodiversidade.unidades_de_conservacao#unidades_de_conservacao.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.vida_e_evolucao.treino.12"
+            ],
+            "questoesProva": [
+              "cna.ef09.vida_e_evolucao.prova.12"
+            ]
+          }
         },
         {
           "codigo": "EF09CI13",
@@ -37078,10 +39366,29 @@
             "cna.ef09.sustentabilidade.projetos_sustentaveis",
             "cna.ef09.sustentabilidade.acao_cidada"
           ],
-          "aulasComVinculo": [],
-          "aulasPiloto": [],
-          "cobertura": "planejada",
-          "revisaoSemantica": "pendente para a habilidade completa"
+          "aulasComVinculo": [
+            "cna.ef09.sustentabilidade.problemas_ambientais_locais"
+          ],
+          "aulasPiloto": [
+            "cna.ef09.sustentabilidade.problemas_ambientais_locais"
+          ],
+          "cobertura": "parcial_com_evidencias_planejadas",
+          "revisaoSemantica": "Conferência assistida do recorte; dimensões e limites por lote. Homologação independente e produção observada pendentes.",
+          "evidencias": {
+            "aulas": [
+              "cna.ef09.sustentabilidade.problemas_ambientais_locais"
+            ],
+            "atividades": [
+              "cna.ef09.sustentabilidade.problemas_ambientais_locais#problemas_ambientais_locais.aplicacao",
+              "cna.ef09.sustentabilidade.problemas_ambientais_locais#problemas_ambientais_locais.investigacao"
+            ],
+            "questoesTreino": [
+              "cna.ef09.vida_e_evolucao.treino.13"
+            ],
+            "questoesProva": [
+              "cna.ef09.vida_e_evolucao.prova.13"
+            ]
+          }
         }
       ],
       "vinculosForaDaLista": []

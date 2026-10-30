@@ -1,0 +1,134 @@
+{
+  "id": "cna.ef03.som_e_vibracao.variaveis_do_som",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 14,
+  "unidade": "Som e Vibração",
+  "titulo": "Investigar uma variável por vez",
+  "bncc": [
+    "EF03CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Identificar variáveis que influem na vibração",
+      "Planejar comparação controlada",
+      "Registrar, repetir e interpretar resultados"
+    ],
+    "resumo": "Investigar uma variável por vez",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.som_e_vibracao.som_se_propaga\">Como o som chega de um lugar a outro?</button> </p><h2>Investigar uma variável por vez</h2><h3>Para compreender</h3><p>Uma investigação começa com pergunta que pode ser confrontada com registro. Na régua, comprimento livre, material, espessura, forma de segurar e modo de deslocar podem influenciar vibração e som. Para investigar comprimento livre, mantenha a mesma régua, fixação e deslocamento inicial semelhante; mude apenas o comprimento previsto. Repetir ajuda a perceber variação. Resultado inesperado não deve ser apagado para coincidir com a previsão.</p><h3>Exemplo comentado</h3><p>Com a mesma régua e fixação, uma parte livre mais curta tende a vibrar mais rapidamente, produzindo som mais agudo, quando comparações são possíveis. Isso não prova que qualquer objeto curto sempre produz som agudo: material, espessura e tensão podem mudar o resultado. Um ensaio sem registro de condições não permite atribuir toda diferença ao comprimento.</p><h3>Investigar e produzir</h3><h4>Ensaio de comprimento</h4><p>O professor fixa uma régua plástica flexível e íntegra e compara comprimentos livres de 8, 12 e 16 cm, se forem adequados à régua disponível. Mantém leve deslocamento inicial semelhante e repete cada condição três vezes. Registre comprimento, movimento e descrição do resultado ou limite de percepção; não use força para obter volume.</p><h4>Conclusão com limite</h4><p>Escreva pergunta, o que foi mudado, o que foi mantido, resultado e uma dúvida. Um grupo trocou também a régua: explique por que isso dificulta concluir que só o comprimento causou a diferença.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato / New Zealand Ministry of Education — Exploring sound</a></li><li><a href=\"https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Loudness and pitch</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "variaveis_do_som.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para estudar o comprimento livre, devemos preferir:",
+      "alternativas": [
+        "Mesma régua e fixação, mudando o comprimento.",
+        "Mudar régua, material e força ao mesmo tempo.",
+        "Não registrar comprimentos."
+      ],
+      "correta": 0,
+      "explicacao": "Manter outras condições ajuda a interpretar o efeito da variável.",
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "variaveis_do_som.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Resultados diferentes da previsão devem:",
+      "alternativas": [
+        "Ser apagados.",
+        "Ser registrados e discutidos com as condições.",
+        "Ser substituídos por números inventados."
+      ],
+      "correta": 1,
+      "explicacao": "A evidência orienta a revisão da explicação.",
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "variaveis_do_som.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Ensaio de comprimento: O professor fixa uma régua plástica flexível e íntegra e compara comprimentos livres de 8, 12 e 16 cm, se forem adequados à régua disponível. Mantém leve deslocamento inicial semelhante e repete cada condição três vezes. Registre comprimento, movimento e descrição do resultado ou limite de percepção; não use força para obter volume.",
+      "gabarito": "Exigir nove registros ou justificar adaptação, condições comparáveis e dado real. Esperar discussão da tendência, sem impor resultado idêntico; não inferir frequência medida se não houve instrumento.",
+      "rubrica": [
+        "Exigir nove registros ou justificar adaptação, condições comparáveis e dado real. Esperar discussão da tendência, sem impor resultado idêntico; não inferir frequência medida se não houve instrumento.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "variaveis_do_som.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Conclusão com limite: Escreva pergunta, o que foi mudado, o que foi mantido, resultado e uma dúvida. Um grupo trocou também a régua: explique por que isso dificulta concluir que só o comprimento causou a diferença.",
+      "gabarito": "Identificar variável independente e interferências em linguagem acessível. Aceitar conclusão inconclusiva quando condições ou percepção não permitem discriminar; não inventar hertz.",
+      "rubrica": [
+        "Identificar variável independente e interferências em linguagem acessível. Aceitar conclusão inconclusiva quando condições ou percepção não permitem discriminar; não inventar hertz.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+      "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+      "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.som_e_vibracao.som_se_propaga"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Som e Vibração",
+    "titulo": "Variáveis que Influem no Som"
+  }
+}

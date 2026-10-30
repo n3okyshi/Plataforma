@@ -1,0 +1,135 @@
+{
+  "id": "cna.ef02.materiais_e_objetos.escolher_o_material_adequado",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 9,
+  "unidade": "Materiais e Objetos",
+  "titulo": "Projetar, testar e revisar a escolha de material",
+  "bncc": [
+    "EF02CI02"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Propor materiais com base em propriedades",
+      "Controlar condições de comparação",
+      "Construir, testar e revisar solução"
+    ],
+    "resumo": "Projetar, testar e revisar a escolha de material",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.materiais_e_objetos.como_usamos_os_objetos\">Função, partes e condições de uso</button> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.materiais_e_objetos.propriedades_dos_materiais\">Escolher materiais para uma função</button> </p><h2>Projetar, testar e revisar a escolha de material</h2><h3>Para compreender</h3><p>Projetar é escolher uma solução para uma necessidade, explicar a escolha e testá-la. Primeiro definimos critérios: um visor precisa permitir enxergar; uma pequena cobertura de modelo precisa resistir à água; um suporte precisa sustentar a carga combinada. Flexibilidade, dureza, transparência e absorção não são a mesma propriedade. Tamanho, espessura e forma também importam. Teste comparativo mantém condições semelhantes e admite resultado diferente da previsão.</p><h3>Exemplo comentado</h3><p>Para proteger um cartão de modelo contra poucas gotas, papel simples pode absorver água e filme plástico íntegro pode impedir a passagem no tempo do teste. Isso não prova que todo plástico serve para construir um telhado real. O modelo compara amostras pequenas sob condições registradas; as gotas, a área e o tempo precisam ser semelhantes.</p><h3>Investigar e produzir</h3><h4>Ensaio de cobertura</h4><p>Com adulto, compare duas amostras seguras, papel sem revestimento e filme plástico íntegro, sobre cartões separados em bandeja. Mantenha área, número de gotas e tempo semelhantes. Registre previsão e resultado; retire o material antes de qualquer risco de derramar perto de aparelho.</p><h4>Projeto com dois critérios</h4><p>Desenhe ou monte um porta-cartão com materiais limpos disponíveis. Defina dois critérios, como estabilidade e ver a identificação; selecione materiais, teste com cartão leve e explique uma revisão. Cortes/furos ficam com adulto.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li><li><a href=\"https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Chemical and physical properties</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "escolher_o_material_adequado.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para comparar absorção de duas amostras, é melhor:",
+      "alternativas": [
+        "Usar áreas e quantidades de água semelhantes.",
+        "Molhar apenas uma e concluir sobre ambas.",
+        "Trocar todas as condições."
+      ],
+      "correta": 0,
+      "explicacao": "Comparação controlada ajuda a relacionar resultado à amostra.",
+      "bncc": [
+        "EF02CI02"
+      ]
+    },
+    {
+      "id": "escolher_o_material_adequado.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um visor que precisa deixar ver o cartão pede considerar:",
+      "alternativas": [
+        "Somente cheiro.",
+        "Transparência e nitidez nas condições de uso.",
+        "Que todo material opaco permite ver através."
+      ],
+      "correta": 1,
+      "explicacao": "Propriedade deve atender ao critério definido.",
+      "bncc": [
+        "EF02CI02"
+      ]
+    },
+    {
+      "id": "escolher_o_material_adequado.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Ensaio de cobertura: Com adulto, compare duas amostras seguras, papel sem revestimento e filme plástico íntegro, sobre cartões separados em bandeja. Mantenha área, número de gotas e tempo semelhantes. Registre previsão e resultado; retire o material antes de qualquer risco de derramar perto de aparelho.",
+      "gabarito": "Relacionar escolha à resistência à passagem da água no modelo e registrar condições reais. Se houver rasgo, vazamento lateral ou diferença de tamanho, discutir interferência, sem apagar resultado inesperado.",
+      "rubrica": [
+        "Relacionar escolha à resistência à passagem da água no modelo e registrar condições reais. Se houver rasgo, vazamento lateral ou diferença de tamanho, discutir interferência, sem apagar resultado inesperado.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF02CI02"
+      ]
+    },
+    {
+      "id": "escolher_o_material_adequado.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Projeto com dois critérios: Desenhe ou monte um porta-cartão com materiais limpos disponíveis. Defina dois critérios, como estabilidade e ver a identificação; selecione materiais, teste com cartão leve e explique uma revisão. Cortes/furos ficam com adulto.",
+      "gabarito": "Exigir necessidade, dois critérios, propriedades, ensaio e revisão. A transparência pode ser dispensável se houver janela/etiqueta: aceitar solução alternativa justificada.",
+      "rubrica": [
+        "Exigir necessidade, dois critérios, propriedades, ensaio e revisão. A transparência pode ser dispensável se houver janela/etiqueta: aceitar solução alternativa justificada.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF02CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+      "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.materiais_e_objetos.como_usamos_os_objetos",
+    "cna.ef02.materiais_e_objetos.propriedades_dos_materiais"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Materiais e Objetos",
+    "titulo": "Escolher o Material Adequado"
+  }
+}

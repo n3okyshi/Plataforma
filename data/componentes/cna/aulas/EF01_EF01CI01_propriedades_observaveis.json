@@ -1,0 +1,135 @@
+{
+  "id": "cna.ef01.materiais_do_cotidiano.propriedades_observaveis",
+  "componente": "cna",
+  "nivel": "EF01",
+  "ordem": 3,
+  "unidade": "Materiais do Cotidiano",
+  "titulo": "Comparar sem quebrar: propriedades observáveis",
+  "bncc": [
+    "EF01CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Comparar características observáveis",
+      "Evitar generalizações pelo nome ou cor do material"
+    ],
+    "resumo": "Comparar sem quebrar: propriedades observáveis",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef01.materiais_do_cotidiano.origem_dos_materiais\">De onde vêm os materiais?</button> </p><h2>Comparar sem quebrar: propriedades observáveis</h2><h3>Para compreender</h3><p>Podemos descrever cor, textura, transparência e flexibilidade das amostras. Flexível é o que pode se curvar nas condições do teste; rígido resiste mais a essa mudança de forma. Transparente permite ver com nitidez através; opaco não permite essa visão. Uma característica não determina todas as outras: transparente pode ser rígido, e plástico pode ser rígido ou flexível. Formato e espessura do objeto também influenciam seu comportamento. Não teste dureza quebrando ou arranhando objetos.</p><h3>Exemplo comentado</h3><p>Uma tampa plástica rígida e um saquinho plástico flexível podem compartilhar o nome plástico e comportar-se de modos diferentes. Na comparação segura, descrevemos esta amostra e este teste, em vez de escrever que todo plástico dobra igual. Vidro é observado pelo adulto ou por descrição; não precisa ser apertado para verificar resistência.</p><h3>Investigar e produzir</h3><h4>Quadro de comparação</h4><p>Observe folha de papel, retalho e tampa plástica limpa. Registre para cada amostra cor, textura e comportamento ao tentar curvar suavemente, sem forçar. Compare duas características, com fala ou desenho.</p><h4>Mesma cor, material diferente</h4><p>Encontre dois objetos da mesma cor, mas feitos de materiais diferentes. Explique por que cor sozinha não basta para identificar material.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 335</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li><li><a href=\"https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Chemical and physical properties</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "propriedades_observaveis.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Dois objetos azuis precisam ser do mesmo material?",
+      "alternativas": [
+        "Sim, azul é um material.",
+        "Não; materiais diferentes podem ter a mesma cor.",
+        "Sim, se estiverem na mesma sala."
+      ],
+      "correta": 1,
+      "explicacao": "Cor é uma característica observada, não identidade obrigatória do material.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "propriedades_observaveis.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "A tampa não dobrou no teste leve. O registro mais cuidadoso é:",
+      "alternativas": [
+        "Esta tampa resistiu à curvatura no teste.",
+        "Todo plástico é impossível de dobrar.",
+        "A cor da tampa explica sozinha sua rigidez."
+      ],
+      "correta": 0,
+      "explicacao": "O resultado se refere à amostra e às condições observadas.",
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "propriedades_observaveis.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Quadro de comparação: Observe folha de papel, retalho e tampa plástica limpa. Registre para cada amostra cor, textura e comportamento ao tentar curvar suavemente, sem forçar. Compare duas características, com fala ou desenho.",
+      "gabarito": "Exigir registro das amostras realmente usadas, comparação explícita e interrupção se houver risco. Não antecipar como dado real que toda tampa é igual.",
+      "rubrica": [
+        "Exigir registro das amostras realmente usadas, comparação explícita e interrupção se houver risco. Não antecipar como dado real que toda tampa é igual.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    },
+    {
+      "id": "propriedades_observaveis.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Mesma cor, material diferente: Encontre dois objetos da mesma cor, mas feitos de materiais diferentes. Explique por que cor sozinha não basta para identificar material.",
+      "gabarito": "Nomear objetos, materiais confirmados e pelo menos outra característica. Não aceitar inferência de material baseada apenas na cor.",
+      "rubrica": [
+        "Nomear objetos, materiais confirmados e pelo menos outra característica. Não aceitar inferência de material baseada apenas na cor.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF01CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+      "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef01.materiais_do_cotidiano.origem_dos_materiais"
+  ],
+  "proximosPassos": [
+    "cna.ef01.materiais_do_cotidiano.descarte_de_materiais"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Materiais do Cotidiano",
+    "titulo": "Propriedades que Podemos Observar"
+  }
+}

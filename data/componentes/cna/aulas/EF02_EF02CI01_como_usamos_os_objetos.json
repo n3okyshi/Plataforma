@@ -1,0 +1,135 @@
+{
+  "id": "cna.ef02.materiais_e_objetos.como_usamos_os_objetos",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 8,
+  "unidade": "Materiais e Objetos",
+  "titulo": "Função, partes e condições de uso",
+  "bncc": [
+    "EF02CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Identificar como objetos são usados",
+      "Relacionar materiais e condições de uso"
+    ],
+    "resumo": "Função, partes e condições de uso",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.materiais_e_objetos.objetos_do_passado\">Objetos do passado: comparar com fontes</button> </p><h2>Função, partes e condições de uso</h2><h3>Para compreender</h3><p>Para que serve um objeto? A resposta se relaciona à forma, aos materiais e às condições. Um recipiente transporta ou guarda alguma coisa, mas nem todo recipiente serve para bebida quente, alimento ou produto de limpeza. Etiquetas e orientação adulta importam. Identificar material não autoriza todo uso. Um mesmo material pode formar objetos com funções diferentes, e a mesma função pode ser atendida por materiais diferentes.</p><h3>Exemplo comentado</h3><p>Uma garrafa de vidro de coleção é estudada como documento, não reutilizada para beber. Uma caixa de papelão limpa e seca pode organizar cartões; em local molhado, pode perder resistência. Não se guarda alimento em embalagem de produto químico, mesmo que pareça limpa. A escolha considera histórico e condições, não só formato.</p><h3>Investigar e produzir</h3><h4>Função e limite</h4><p>Escolha três objetos escolares seguros, identifique materiais e usos e descreva uma condição em que cada uso pode não funcionar. Use caixa seca/molhada como situação de análise sem molhar patrimônio.</p><h4>Uma função, duas opções</h4><p>Compare duas opções seguras para organizar cartões, como envelope de papel e caixa plástica já disponível. Diga o que cada uma atende, sua limitação e qual escolheria para um contexto definido.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Properties of materials</a></li><li><a href=\"https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Chemical and physical properties</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "como_usamos_os_objetos.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Saber que um recipiente é de plástico basta para usá-lo com qualquer alimento?",
+      "alternativas": [
+        "Sim, todos têm o mesmo uso.",
+        "Não; finalidade e condições precisam ser verificadas.",
+        "Sim, se for bonito."
+      ],
+      "correta": 1,
+      "explicacao": "Material não substitui indicação de uso e estado do objeto.",
+      "bncc": [
+        "EF02CI01"
+      ]
+    },
+    {
+      "id": "como_usamos_os_objetos.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Envelope e caixa podem:",
+      "alternativas": [
+        "Atender à organização de cartões com possibilidades e limites distintos.",
+        "Ser o mesmo material obrigatoriamente.",
+        "Ter exatamente a mesma resistência à água."
+      ],
+      "correta": 0,
+      "explicacao": "A função comum não elimina diferenças de material e projeto.",
+      "bncc": [
+        "EF02CI01"
+      ]
+    },
+    {
+      "id": "como_usamos_os_objetos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Função e limite: Escolha três objetos escolares seguros, identifique materiais e usos e descreva uma condição em que cada uso pode não funcionar. Use caixa seca/molhada como situação de análise sem molhar patrimônio.",
+      "gabarito": "Exigir três relações, como material e espessura influenciando resistência/uso, sem concluir que todo papelão tem resultado idêntico. Não realizar uso impróprio para testar.",
+      "rubrica": [
+        "Exigir três relações, como material e espessura influenciando resistência/uso, sem concluir que todo papelão tem resultado idêntico. Não realizar uso impróprio para testar.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF02CI01"
+      ]
+    },
+    {
+      "id": "como_usamos_os_objetos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Uma função, duas opções: Compare duas opções seguras para organizar cartões, como envelope de papel e caixa plástica já disponível. Diga o que cada uma atende, sua limitação e qual escolheria para um contexto definido.",
+      "gabarito": "Justificar por tamanho, proteção, acesso, disponibilidade e condição. Não tratar plástico como sempre melhor nem propor uso de embalagem contaminada.",
+      "rubrica": [
+        "Justificar por tamanho, proteção, acesso, disponibilidade e condição. Não tratar plástico como sempre melhor nem propor uso de embalagem contaminada.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF02CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Properties of materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2659-properties-of-materials-introduction",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada: distinção objeto/material, propriedades e seleção para usos. Propostas autorais; não reproduz testes com ácido, fogo ou eletricidade."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Chemical and physical properties",
+      "url": "https://primaryconnections.org.au/science-content/chemical-science-big-ideas/chemical-and-physical-properties",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre materiais, propriedades, origem e transformação/reciclagem; adaptações autorais não transpõem aceitação de coleta estrangeira."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.materiais_e_objetos.objetos_do_passado"
+  ],
+  "proximosPassos": [
+    "cna.ef02.materiais_e_objetos.escolher_o_material_adequado"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Materiais e Objetos",
+    "titulo": "Como Usamos os Objetos"
+  }
+}

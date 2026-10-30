@@ -1,37 +1,75 @@
 {
   "nivel": "EF02",
   "estado": "piloto_nucleo",
-  "limites": "Núcleo em sequências amplas; tópicos recuperados restantes e todas as dimensões das habilidades precisam de revisão pedagógica. Não é lote integral homologado.",
+  "limites": "Evidências planejadas acumuladas; há unidades específicas implementadas e tópicos ainda sem autoria. Código vinculado não comprova produção observada ou integralidade do ano.",
   "habilidades": [
     {
       "codigo": "EF02CI01",
       "aulas": [
-        "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos"
+        "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos"
       ],
       "atividades": [
-        "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos#de_que_sao_feitos_os_objetos.investigacao"
+        "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos#de_que_sao_feitos_os_objetos.aplicacao",
+        "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos#de_que_sao_feitos_os_objetos.investigacao",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.aplicacao1",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.aplicacao2",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao1",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao2",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.aplicacao1",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.aplicacao2",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao1",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao2",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.aplicacao1",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.aplicacao2",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao1",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos#como_usamos_os_objetos.producao2"
       ],
       "questoesTreino": [
-        "cna.ef02.materia_e_energia.treino.01"
+        "cna.ef02.materia_e_energia.treino.01",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.treino.1",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.treino.2",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado.treino.1",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado.treino.2",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.treino.1",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.treino.2"
       ],
       "questoesProva": [
-        "cna.ef02.materia_e_energia.prova.01"
+        "cna.ef02.materia_e_energia.prova.01",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.1",
+        "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro.prova.2",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.1",
+        "cna.ef02.materiais_e_objetos.objetos_do_passado.prova.2",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.1",
+        "cna.ef02.materiais_e_objetos.como_usamos_os_objetos.prova.2"
       ],
       "homologacaoDocente": "pendente"
     },
     {
       "codigo": "EF02CI02",
       "aulas": [
-        "cna.ef02.materiais_e_objetos.propriedades_dos_materiais"
+        "cna.ef02.materiais_e_objetos.propriedades_dos_materiais",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado"
       ],
       "atividades": [
-        "cna.ef02.materiais_e_objetos.propriedades_dos_materiais#propriedades_dos_materiais.investigacao"
+        "cna.ef02.materiais_e_objetos.propriedades_dos_materiais#propriedades_dos_materiais.aplicacao",
+        "cna.ef02.materiais_e_objetos.propriedades_dos_materiais#propriedades_dos_materiais.investigacao",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.aplicacao1",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.aplicacao2",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao1",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado#escolher_o_material_adequado.producao2"
       ],
       "questoesTreino": [
-        "cna.ef02.materia_e_energia.treino.02"
+        "cna.ef02.materia_e_energia.treino.02",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.treino.1",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.treino.2"
       ],
       "questoesProva": [
-        "cna.ef02.materia_e_energia.prova.02"
+        "cna.ef02.materia_e_energia.prova.02",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.1",
+        "cna.ef02.materiais_e_objetos.escolher_o_material_adequado.prova.2"
       ],
       "homologacaoDocente": "pendente"
     },
@@ -41,6 +79,7 @@
         "cna.ef02.prevencao_de_acidentes.objetos_cortantes"
       ],
       "atividades": [
+        "cna.ef02.prevencao_de_acidentes.objetos_cortantes#objetos_cortantes.aplicacao",
         "cna.ef02.prevencao_de_acidentes.objetos_cortantes#objetos_cortantes.investigacao"
       ],
       "questoesTreino": [
@@ -57,6 +96,7 @@
         "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano"
       ],
       "atividades": [
+        "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano#plantas_do_cotidiano.aplicacao",
         "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano#plantas_do_cotidiano.investigacao"
       ],
       "questoesTreino": [
@@ -73,6 +113,7 @@
         "cna.ef02.agua_luz_e_vida.agua_para_as_plantas"
       ],
       "atividades": [
+        "cna.ef02.agua_luz_e_vida.agua_para_as_plantas#agua_para_as_plantas.aplicacao",
         "cna.ef02.agua_luz_e_vida.agua_para_as_plantas#agua_para_as_plantas.investigacao"
       ],
       "questoesTreino": [
@@ -89,6 +130,7 @@
         "cna.ef02.partes_das_plantas.raiz"
       ],
       "atividades": [
+        "cna.ef02.partes_das_plantas.raiz#raiz.aplicacao",
         "cna.ef02.partes_das_plantas.raiz#raiz.investigacao"
       ],
       "questoesTreino": [
@@ -105,6 +147,7 @@
         "cna.ef02.sol_no_ceu.posicao_do_sol"
       ],
       "atividades": [
+        "cna.ef02.sol_no_ceu.posicao_do_sol#posicao_do_sol.aplicacao",
         "cna.ef02.sol_no_ceu.posicao_do_sol#posicao_do_sol.investigacao"
       ],
       "questoesTreino": [
@@ -121,6 +164,7 @@
         "cna.ef02.sol_e_superficies.aquecimento_da_agua"
       ],
       "atividades": [
+        "cna.ef02.sol_e_superficies.aquecimento_da_agua#aquecimento_da_agua.aplicacao",
         "cna.ef02.sol_e_superficies.aquecimento_da_agua#aquecimento_da_agua.investigacao"
       ],
       "questoesTreino": [

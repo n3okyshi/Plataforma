@@ -1,0 +1,136 @@
+{
+  "id": "cna.ef03.som_e_vibracao.som_se_propaga",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 13,
+  "unidade": "Som e Vibração",
+  "titulo": "Como o som chega de um lugar a outro?",
+  "bncc": [
+    "EF03CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Relacionar fonte e meio",
+      "Interpretar variável distância/obstáculos",
+      "Explicar limite de analogia de propagação"
+    ],
+    "resumo": "Como o som chega de um lugar a outro?",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.som_e_vibracao.instrumentos_musicais\">Instrumentos: partes vibrantes e modos de tocar</button> </p><h2>Como o som chega de um lugar a outro?</h2><h3>Para compreender</h3><p>O som se propaga como perturbação em um meio material, como ar, água ou sólidos. Não é necessário que um pedaço do objeto viaje da fonte até o ouvido. As partículas do meio participam de movimentos locais enquanto a perturbação se transmite. No vácuo, som não se propaga. Som e luz diferem: luz pode atravessar o vácuo. Distância, obstáculos e ambiente influenciam o que chega ao observador.</p><h3>Exemplo comentado</h3><p>Uma conversa comum pode chegar pelo ar. Um modelo com colegas movendo cartões em sequência pode representar transmissão sem que o primeiro cartão percorra a fila inteira. Ele não reproduz o movimento exato do ar nem prova propagação em todos os meios. Cobrir uma fonte pode mudar o som, mas não cria vácuo nem demonstra que todo som foi eliminado.</p><h3>Investigar e produzir</h3><h4>Modelo sem viajar pela fila</h4><p>Em mesa, alinhe cartões. Cada participante levanta e baixa apenas seu cartão ao ver o anterior; pode haver mediação adulta ou execução individual. Registre que o sinal se desloca, mas cada cartão fica no lugar. Relacione ao som e indique dois limites: cartões não são partículas reais e o gesto não reproduz compressões do ar.</p><h4>Fonte, meio, observador</h4><p>Produza mapa de uma fonte suave, meio e observador em duas posições seguras na sala. Compare resultados sem subir volume e registre obstáculos e distância; não use ouvido sobre mesa, recipiente fechado junto à cabeça ou mergulho.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato / New Zealand Ministry of Education — Exploring sound</a></li><li><a href=\"https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Loudness and pitch</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "som_se_propaga.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na conversa comum, o som pode chegar pelo:",
+      "alternativas": [
+        "Vácuo obrigatório.",
+        "Ar.",
+        "Transporte do próprio objeto sonoro até quem escuta."
+      ],
+      "correta": 1,
+      "explicacao": "O ar é um meio material para propagação sonora.",
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "som_se_propaga.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "No modelo de cartões, o sinal avança enquanto:",
+      "alternativas": [
+        "Cada cartão se move localmente.",
+        "O primeiro cartão precisa correr até o fim.",
+        "Todos os cartões precisam seguir juntos até o final."
+      ],
+      "correta": 0,
+      "explicacao": "A analogia distingue transmissão e transporte de um objeto de uma ponta à outra.",
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "som_se_propaga.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Modelo sem viajar pela fila: Em mesa, alinhe cartões. Cada participante levanta e baixa apenas seu cartão ao ver o anterior; pode haver mediação adulta ou execução individual. Registre que o sinal se desloca, mas cada cartão fica no lugar. Relacione ao som e indique dois limites: cartões não são partículas reais e o gesto não reproduz compressões do ar.",
+      "gabarito": "Exigir distinção transmissão/movimento local e dois limites. A analogia não é observação de moléculas nem prova de velocidade do som.",
+      "rubrica": [
+        "Exigir distinção transmissão/movimento local e dois limites. A analogia não é observação de moléculas nem prova de velocidade do som.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "som_se_propaga.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Fonte, meio, observador: Produza mapa de uma fonte suave, meio e observador em duas posições seguras na sala. Compare resultados sem subir volume e registre obstáculos e distância; não use ouvido sobre mesa, recipiente fechado junto à cabeça ou mergulho.",
+      "gabarito": "Exigir registro de condições e possibilidade de percepção variar. Não atribuir toda diferença só à distância sem considerar ambiente; não afirmar que barreira comum elimina som.",
+      "rubrica": [
+        "Exigir registro de condições e possibilidade de percepção variar. Não atribuir toda diferença só à distância sem considerar ambiente; não afirmar que barreira comum elimina som.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+      "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+      "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.som_e_vibracao.instrumentos_musicais"
+  ],
+  "proximosPassos": [
+    "cna.ef03.som_e_vibracao.variaveis_do_som"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Som e Vibração",
+    "titulo": "Como o Som se Propaga"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "cna.ef03.luz_e_materiais_complementar.prova",
+  "titulo": "Avaliação: Luz e Materiais — Complementar",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF03",
+  "unidade": "Luz e Materiais — Complementar",
+  "bncc": [
+    "EF03CI02"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": true,
+  "pontuacaoTotal": 10,
+  "instrucoes": "2 itens próprios de prova, com leitura mediada quando necessária. Nota objetiva = acertos/2 × 10. Produções, execução e argumentação são avaliadas separadamente no portfólio; a nota objetiva não certifica domínio.",
+  "questoes": [
+    "cna.ef03.luz_e_materiais.cores_e_luz.prova.1",
+    "cna.ef03.luz_e_materiais.cores_e_luz.prova.2"
+  ],
+  "criterios": "Devolutiva ao final da prova; critérios específicos por produção. O módulo complementar é opcional e tem avaliação separada.",
+  "avaliacaoPratica": {
+    "id": "cna.ef03.luz_e_materiais_complementar.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio da unidade · complementar opcional",
+    "enunciado": "Reúna registros e produções das tarefas. Um adulto pode registrar fala/desenho. Planejamento não comprova execução; marque o que falta, receba devolutiva e revise.",
+    "gabarito": "Revisão docente por tarefa: verificar evidências, explicações e limites; não atribuir nota automática ao portfólio.",
+    "rubrica": [
+      "Atende: registro verificável e relação coerente.",
+      "Em desenvolvimento: registro parcial e revisão orientada.",
+      "Retomar: ausência de produção ou explicação a reconstruir."
+    ],
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Luz e cor: extensão da investigação — producao1",
+        "enunciado": "Passagem e aparência: Com adulto, compare uma lâmina translúcida colorida e um cartão opaco colorido no caminho de lanterna comum para papel claro. Mantenha distâncias e registre passagem de luz e aparência por desenho, palavras ou descrição mediada. Não use laser nem olho como anteparo.",
+        "gabarito": "Exigir comparar transmissão/opacidade e reconhecer limite de percepção. Não atribuir fabricação de luz à lâmina nem exigir nomear cores como único critério.",
+        "rubrica": [
+          "Exigir comparar transmissão/opacidade e reconhecer limite de percepção. Não atribuir fabricação de luz à lâmina nem exigir nomear cores como único critério.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI02"
+        ],
+        "atividadeOrigem": "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.producao1"
+      },
+      {
+        "titulo": "Luz e cor: extensão da investigação — producao2",
+        "enunciado": "O que a comparação não prova: Explique por que esse teste não demonstra que toda combinação de tintas e luzes tem o mesmo resultado. Proponha uma pergunta para investigação futura e indique o que seria necessário observar.",
+        "gabarito": "Distinguir teste limitado com duas amostras e regras universais. Não exigir conhecimento futuro de RGB nem registrar pergunta como pesquisa já realizada.",
+        "rubrica": [
+          "Distinguir teste limitado com duas amostras e regras universais. Não exigir conhecimento futuro de RGB nem registrar pergunta como pesquisa já realizada.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI02"
+        ],
+        "atividadeOrigem": "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; extensão complementar sinalizada, não objetivo explicitamente exigido de cores."
+    },
+    {
+      "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+    },
+    {
+      "documento": "American Physical Society — Bendy Light",
+      "url": "https://www.aps.org/learning-resources/bendy-light",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF03CI02",
+      "questoes": [
+        "cna.ef03.luz_e_materiais.cores_e_luz.prova.1",
+        "cna.ef03.luz_e_materiais.cores_e_luz.prova.2"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.luz_e_materiais_complementar.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.producao1",
+        "cna.ef03.luz_e_materiais.cores_e_luz#cores_e_luz.producao2"
+      ]
+    }
+  ]
+}

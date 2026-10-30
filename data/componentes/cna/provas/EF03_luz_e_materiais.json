@@ -1,0 +1,207 @@
+{
+  "id": "cna.ef03.luz_e_materiais.prova",
+  "titulo": "Avaliação: Luz e Materiais",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF03",
+  "unidade": "Luz e Materiais",
+  "bncc": [
+    "EF03CI02"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "8 itens próprios de prova, com leitura mediada quando necessária. Nota objetiva = acertos/8 × 10. Produções, execução e argumentação são avaliadas separadamente no portfólio; a nota objetiva não certifica domínio.",
+  "questoes": [
+    "cna.ef03.luz_e_materiais.objetos_opacos.prova.1",
+    "cna.ef03.luz_e_materiais.objetos_opacos.prova.2",
+    "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.1",
+    "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.2",
+    "cna.ef03.luz_e_materiais.refracao_simples.prova.1",
+    "cna.ef03.luz_e_materiais.refracao_simples.prova.2",
+    "cna.ef03.luz_e_materiais.sombras.prova.1",
+    "cna.ef03.luz_e_materiais.sombras.prova.2"
+  ],
+  "criterios": "Devolutiva ao final da prova; critérios específicos por produção. O módulo complementar é opcional e tem avaliação separada.",
+  "avaliacaoPratica": {
+    "id": "cna.ef03.luz_e_materiais.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio da unidade",
+    "enunciado": "Reúna registros e produções das tarefas. Um adulto pode registrar fala/desenho. Planejamento não comprova execução; marque o que falta, receba devolutiva e revise.",
+    "gabarito": "Revisão docente por tarefa: verificar evidências, explicações e limites; não atribuir nota automática ao portfólio.",
+    "rubrica": [
+      "Atende: registro verificável e relação coerente.",
+      "Em desenvolvimento: registro parcial e revisão orientada.",
+      "Retomar: ausência de produção ou explicação a reconstruir."
+    ],
+    "bncc": [
+      "EF03CI02"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Passagem da luz: opaco, translúcido e transparente — producao1",
+        "enunciado": "Três amostras, mesmo teste: Com professor, posicione lanterna comum voltada à parede e, sem mirar olhos, interponha papelão, plástico transparente e material translúcido seguro, um por vez. Mantenha distâncias. Registre luz na parede e nitidez de letra vista através sem aproximar da fonte.",
+        "gabarito": "Exigir registro das amostras e critérios distintos de passagem/nitidez. Não usar vidro solto, laser ou ambiente com circulação no escuro. Não impor classificação pela aparência prevista.",
+        "rubrica": [
+          "Exigir registro das amostras e critérios distintos de passagem/nitidez. Não usar vidro solto, laser ou ambiente com circulação no escuro. Não impor classificação pela aparência prevista.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI02"
+        ],
+        "atividadeOrigem": "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao1"
+      },
+      {
+        "titulo": "Passagem da luz: opaco, translúcido e transparente — producao2",
+        "enunciado": "Mesmo nome, resultado diferente: Compare duas amostras plásticas com transparências diferentes. Explique por que o nome plástico não determina a mesma passagem de luz.",
+        "gabarito": "Relacionar composição/acabamento/espessura em termos simples e observação real; não afirmar que todo plástico é transparente ou que transparência elimina reflexão.",
+        "rubrica": [
+          "Relacionar composição/acabamento/espessura em termos simples e observação real; não afirmar que todo plástico é transparente ou que transparência elimina reflexão.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI02"
+        ],
+        "atividadeOrigem": "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao2"
+      },
+      {
+        "titulo": "Reflexão: luz que muda de caminho — producao1",
+        "enunciado": "Caminho com espelho: Com adulto, use lanterna comum, espelho acrílico inteiro e anteparo de papel. Localize ponto iluminado após reflexão e mude levemente a orientação do espelho. Desenhe fonte, espelho e anteparo com setas. Sem laser, luz solar ou vidro sem proteção.",
+        "gabarito": "Exigir execução ou fonte identificada, mudança do ponto e direção das setas. Não concluir que espelho cria luz ou que toda reflexão forma imagem projetada.",
+        "rubrica": [
+          "Exigir execução ou fonte identificada, mudança do ponto e direção das setas. Não concluir que espelho cria luz ou que toda reflexão forma imagem projetada.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI02"
+        ],
+        "atividadeOrigem": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao1"
+      },
+      {
+        "titulo": "Reflexão: luz que muda de caminho — producao2",
+        "enunciado": "Parede também participa: Compare parede clara e espelho usando iluminação ambiente e descrição do adulto. Explique por que vemos a parede mesmo que ela não forme imagem nítida como um espelho.",
+        "gabarito": "Relacionar luz recebida/refletida de modo espalhado na parede e mais organizado no espelho. Não dizer que apenas metal reflete ou que parede emite luz própria por estar iluminada.",
+        "rubrica": [
+          "Relacionar luz recebida/refletida de modo espalhado na parede e mais organizado no espelho. Não dizer que apenas metal reflete ou que parede emite luz própria por estar iluminada.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI02"
+        ],
+        "atividadeOrigem": "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao2"
+      },
+      {
+        "titulo": "Água e lentes: mudanças no caminho da luz — producao1",
+        "enunciado": "Antes e depois da água: Com adulto e recipiente transparente estável de plástico, observe haste sem ponta no recipiente vazio e depois com água. Mantenha posição e compare vista de lado e de cima. Desenhe aparência e indique que a haste real continua inteira. Sem consumo da água.",
+        "gabarito": "Exigir posições e registro real: aparência depende do ângulo. Não obrigar que toda vista mostre quebra nem afirmar que água deformou fisicamente a haste.",
+        "rubrica": [
+          "Exigir posições e registro real: aparência depende do ângulo. Não obrigar que toda vista mostre quebra nem afirmar que água deformou fisicamente a haste.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI02"
+        ],
+        "atividadeOrigem": "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao1"
+      },
+      {
+        "titulo": "Água e lentes: mudanças no caminho da luz — producao2",
+        "enunciado": "Lente em uso seguro: Observe uma letra com lupa didática segura em duas distâncias do papel, manipulada com adulto. Registre o que mudou na aparência e o que permaneceu no papel. Se não houver lupa, analise descrição identificada, marcando a ausência do teste.",
+        "gabarito": "Exigir distinguir ampliação aparente e tamanho real. Não prometer ampliação idêntica para todas as distâncias nem realizar teste com Sol/olhos ou vidro danificado.",
+        "rubrica": [
+          "Exigir distinguir ampliação aparente e tamanho real. Não prometer ampliação idêntica para todas as distâncias nem realizar teste com Sol/olhos ou vidro danificado.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI02"
+        ],
+        "atividadeOrigem": "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao2"
+      },
+      {
+        "titulo": "Sombras: fonte, obstáculo e anteparo — producao1",
+        "enunciado": "Três posições: Fixe lanterna comum e anteparo com professor. Mova cartão opaco seguro entre três posições marcadas, sem mudar sua orientação. Registre contorno aproximado da sombra e distâncias ou marcas, sem exigir centímetros se não medidos. Mantenha circulação iluminada.",
+        "gabarito": "Exigir posições, controle de fonte/anteparo e comparação de tamanho. Não apresentar regra sem condições nem dizer que sombra tem cor como tinta.",
+        "rubrica": [
+          "Exigir posições, controle de fonte/anteparo e comparação de tamanho. Não apresentar regra sem condições nem dizer que sombra tem cor como tinta.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI02"
+        ],
+        "atividadeOrigem": "cna.ef03.luz_e_materiais.sombras#sombras.producao1"
+      },
+      {
+        "titulo": "Sombras: fonte, obstáculo e anteparo — producao2",
+        "enunciado": "Prever e confrontar: Preveja o que ocorrerá ao aproximar o cartão da parede mantendo a fonte fixa. Compare com teste e explique resultado ou interferência. Depois incline o cartão e discuta por que a forma também importa.",
+        "gabarito": "Separar testes de distância e inclinação. Usar resultado real; não inventar contorno perfeito nem confundir tamanho da sombra com crescimento do cartão.",
+        "rubrica": [
+          "Separar testes de distância e inclinação. Usar resultado real; não inventar contorno perfeito nem confundir tamanho da sombra com crescimento do cartão.",
+          "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+          "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+        ],
+        "bncc": [
+          "EF03CI02"
+        ],
+        "atividadeOrigem": "cna.ef03.luz_e_materiais.sombras#sombras.producao2"
+      }
+    ],
+    "correcao": "Docente, separada da nota objetiva."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+    },
+    {
+      "documento": "American Physical Society — Bendy Light",
+      "url": "https://www.aps.org/learning-resources/bendy-light",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF03CI02",
+      "questoes": [
+        "cna.ef03.luz_e_materiais.objetos_opacos.prova.1",
+        "cna.ef03.luz_e_materiais.objetos_opacos.prova.2",
+        "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.1",
+        "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos.prova.2",
+        "cna.ef03.luz_e_materiais.refracao_simples.prova.1",
+        "cna.ef03.luz_e_materiais.refracao_simples.prova.2",
+        "cna.ef03.luz_e_materiais.sombras.prova.1",
+        "cna.ef03.luz_e_materiais.sombras.prova.2"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef03.luz_e_materiais.prova.portfolio"
+      ],
+      "atividadesPraticas": [
+        "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao1",
+        "cna.ef03.luz_e_materiais.objetos_opacos#objetos_opacos.producao2",
+        "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao1",
+        "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos#superficies_polidas_e_espelhos.producao2",
+        "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao1",
+        "cna.ef03.luz_e_materiais.refracao_simples#refracao_simples.producao2",
+        "cna.ef03.luz_e_materiais.sombras#sombras.producao1",
+        "cna.ef03.luz_e_materiais.sombras#sombras.producao2"
+      ]
+    }
+  ]
+}

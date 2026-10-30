@@ -1,0 +1,136 @@
+{
+  "id": "cna.ef03.luz_e_materiais.objetos_opacos",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 15,
+  "unidade": "Luz e Materiais",
+  "titulo": "Passagem da luz: opaco, translúcido e transparente",
+  "bncc": [
+    "EF03CI02"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Experimentar passagem da luz",
+      "Comparar opacos e transparentes",
+      "Registrar critérios e condições"
+    ],
+    "resumo": "Passagem da luz: opaco, translúcido e transparente",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.luz_e_materiais.luz_e_objetos_transparentes\">Luz: passagem, reflexão e sombra</button> </p><h2>Passagem da luz: opaco, translúcido e transparente</h2><h3>Para compreender</h3><p>Quando a luz encontra um material, parte pode atravessar, ser refletida ou absorvida. Para a luz visível e condições estudadas, transparente permite ver detalhes através, translúcido deixa luz passar com espalhamento e reduz nitidez, e opaco bloqueia a passagem. Classificação depende de amostra, espessura e faixa de luz: não basta dizer plástico. Objetos transparentes também podem produzir contornos, sombras fracas ou reflexos, por isso não afirmamos ausência de toda interação.</p><h3>Exemplo comentado</h3><p>Papelão grosso pode formar sombra marcada; plástico translúcido pode deixar uma região iluminada sem permitir ler nitidamente uma letra; lâmina plástica transparente pode permitir leitura. Compare com a mesma lanterna e distância. Se algo parece escuro, isso não prova sozinho que nada de luz passa em qualquer condição ou frequência.</p><h3>Investigar e produzir</h3><h4>Três amostras, mesmo teste</h4><p>Com professor, posicione lanterna comum voltada à parede e, sem mirar olhos, interponha papelão, plástico transparente e material translúcido seguro, um por vez. Mantenha distâncias. Registre luz na parede e nitidez de letra vista através sem aproximar da fonte.</p><h4>Mesmo nome, resultado diferente</h4><p>Compare duas amostras plásticas com transparências diferentes. Explique por que o nome plástico não determina a mesma passagem de luz.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato — Investigating shadows using transparent, translucent and opaque materials</a></li><li><a href=\"https://www.aps.org/learning-resources/bendy-light\" target=\"_blank\" rel=\"noopener noreferrer\">American Physical Society — Bendy Light</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "objetos_opacos.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma amostra deixa passar luz, mas não permite ver detalhes nítidos. Pode ser:",
+      "alternativas": [
+        "Translúcida.",
+        "Opaca obrigatoriamente.",
+        "Transparente com visão nítida garantida."
+      ],
+      "correta": 0,
+      "explicacao": "Transmissão com espalhamento pode reduzir nitidez.",
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "objetos_opacos.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na comparação das amostras, é melhor:",
+      "alternativas": [
+        "Mudar fonte e distância a cada vez sem registrar.",
+        "Manter fonte e distâncias semelhantes.",
+        "Olhar diretamente para a lanterna."
+      ],
+      "correta": 1,
+      "explicacao": "Condições comparáveis ajudam a interpretar o comportamento dos materiais.",
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "objetos_opacos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Três amostras, mesmo teste: Com professor, posicione lanterna comum voltada à parede e, sem mirar olhos, interponha papelão, plástico transparente e material translúcido seguro, um por vez. Mantenha distâncias. Registre luz na parede e nitidez de letra vista através sem aproximar da fonte.",
+      "gabarito": "Exigir registro das amostras e critérios distintos de passagem/nitidez. Não usar vidro solto, laser ou ambiente com circulação no escuro. Não impor classificação pela aparência prevista.",
+      "rubrica": [
+        "Exigir registro das amostras e critérios distintos de passagem/nitidez. Não usar vidro solto, laser ou ambiente com circulação no escuro. Não impor classificação pela aparência prevista.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI02"
+      ]
+    },
+    {
+      "id": "objetos_opacos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Mesmo nome, resultado diferente: Compare duas amostras plásticas com transparências diferentes. Explique por que o nome plástico não determina a mesma passagem de luz.",
+      "gabarito": "Relacionar composição/acabamento/espessura em termos simples e observação real; não afirmar que todo plástico é transparente ou que transparência elimina reflexão.",
+      "rubrica": [
+        "Relacionar composição/acabamento/espessura em termos simples e observação real; não afirmar que todo plástico é transparente ou que transparência elimina reflexão.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI02"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato — Investigating shadows using transparent, translucent and opaque materials",
+      "url": "https://www.sciencelearn.org.nz/resources/2792-investigating-shadows-using-transparent-translucent-and-opaque-materials",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada sobre transmissão e sombras; arquivo Word vinculado não consultado. Ensaios e desenhos autorais distinguem registro real e previsão."
+    },
+    {
+      "documento": "American Physical Society — Bendy Light",
+      "url": "https://www.aps.org/learning-resources/bendy-light",
+      "consulta": "2026-10-30",
+      "uso": "Texto consultado sobre reflexão/refração, lápis na água e transparência. Atividades autorais usam haste sem ponta, água e lanterna comum; não reproduzem laser ou gel. Desvio depende da geometria, não é obrigatório na incidência perpendicular."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.luz_e_materiais.luz_e_objetos_transparentes"
+  ],
+  "proximosPassos": [
+    "cna.ef03.luz_e_materiais.superficies_polidas_e_espelhos"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Luz e Materiais",
+    "titulo": "Objetos Opacos"
+  }
+}

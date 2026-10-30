@@ -1,0 +1,136 @@
+{
+  "id": "cna.ef03.som_e_vibracao.vibracao_dos_objetos",
+  "componente": "cna",
+  "nivel": "EF03",
+  "ordem": 10,
+  "unidade": "Som e Vibração",
+  "titulo": "Vibração: o objeto se move ao produzir som",
+  "bncc": [
+    "EF03CI01"
+  ],
+  "duracaoMin": 60,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Produzir som por vibração",
+      "Relacionar movimento e produção sonora",
+      "Distinguir observação e inferência"
+    ],
+    "resumo": "Vibração: o objeto se move ao produzir som",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Leitura e registro com apoio:</strong> o adulto pode ler, escrever sua fala ou ajudar no desenho. Investigações podem ocupar mais de um encontro; não é preciso realizar esforço sensorial ou motor desconfortável.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef03.som_e_vibracao.produzindo_sons\">Sons e vibrações: comparar uma variável</button> </p><h2>Vibração: o objeto se move ao produzir som</h2><h3>Para compreender</h3><p>Vibrar é mover-se repetidamente em torno de uma posição. Ao tocar de leve um objeto adequado, uma parte pode vibrar e colocar o meio próximo em movimento. Algumas vibrações são visíveis; outras são pequenas ou rápidas demais para perceber a olho nu. Não ver movimento não demonstra sua ausência. O som chega por perturbações no meio e sua percepção varia entre pessoas. Podemos investigar com visão, toque mediado e descrição sem exigir que todos ouçam da mesma forma.</p><h3>Exemplo comentado</h3><p>Uma régua plástica flexível, íntegra, com parte para fora da mesa, pode vibrar após leve deslocamento e soltura. O adulto segura a parte apoiada. Ao interromper cuidadosamente a vibração, o som associado tende a cessar. A régua não precisa bater na mesa nem ser lançada; observamos o movimento da ponta e não aproximamos do rosto.</p><h3>Investigar e produzir</h3><h4>Antes, durante e depois</h4><p>Com adulto segurando régua flexível apropriada, observe ponta em repouso, após leve deslocamento e após parar a vibração. Desenhe três momentos ou descreva o movimento. O adulto executa se necessário; não force até deformar nem deixe a régua escapar.</p><h4>Vibração pouco visível</h4><p>Compare a régua com pequeno instrumento ou fonte sonora segura apresentada pelo professor. Identifique a parte que pode vibrar e o que foi observado diretamente ou inferido. Não toque membranas delicadas nem use volumes altos.</p><h3>Fontes para consultar com um adulto</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 339</li><li><a href=\"https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound\" target=\"_blank\" rel=\"noopener noreferrer\">University of Waikato / New Zealand Ministry of Education — Exploring sound</a></li><li><a href=\"https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch\" target=\"_blank\" rel=\"noopener noreferrer\">Australian Academy of Science / Primary Connections — Loudness and pitch</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "vibracao_dos_objetos.aplicacao1",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na régua do exemplo, a ponta vibrando faz:",
+      "alternativas": [
+        "Movimento de ida e volta repetido.",
+        "Um único deslocamento, sem movimento de retorno.",
+        "Um movimento contínuo na mesma direção."
+      ],
+      "correta": 0,
+      "explicacao": "Vibração envolve repetição em torno de uma posição.",
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "vibracao_dos_objetos.aplicacao2",
+      "tipo": "multipla_escolha",
+      "enunciado": "Se não vemos a vibração de um objeto sonoro:",
+      "alternativas": [
+        "Provamos que ele não vibra.",
+        "Ela pode ser muito pequena ou rápida para observar diretamente.",
+        "O som não tem fonte."
+      ],
+      "correta": 1,
+      "explicacao": "Limite de observação não equivale a ausência do fenômeno.",
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "vibracao_dos_objetos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Antes, durante e depois: Com adulto segurando régua flexível apropriada, observe ponta em repouso, após leve deslocamento e após parar a vibração. Desenhe três momentos ou descreva o movimento. O adulto executa se necessário; não force até deformar nem deixe a régua escapar.",
+      "gabarito": "Exigir identificação do movimento repetido e relação temporal com som, quando percebido. Registrar observação/participação acessível; não avaliar capacidade auditiva.",
+      "rubrica": [
+        "Exigir identificação do movimento repetido e relação temporal com som, quando percebido. Registrar observação/participação acessível; não avaliar capacidade auditiva.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI01"
+      ]
+    },
+    {
+      "id": "vibracao_dos_objetos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Vibração pouco visível: Compare a régua com pequeno instrumento ou fonte sonora segura apresentada pelo professor. Identifique a parte que pode vibrar e o que foi observado diretamente ou inferido. Não toque membranas delicadas nem use volumes altos.",
+      "gabarito": "Distinguir evidência e hipótese: fonte pode vibrar sem movimento nítido. Não exigir som audível para todos ou chamar ausência de visão de prova de ausência de vibração.",
+      "rubrica": [
+        "Distinguir evidência e hipótese: fonte pode vibrar sem movimento nítido. Não exigir som audível para todos ou chamar ausência de visão de prova de ausência de vibração.",
+        "Apresentar produção ou registro verificável; separar previsão, observação, descrição de fonte e hipótese.",
+        "Explicar comparação/decisão e revisar após devolutiva, em fala, desenho ou suporte mediado."
+      ],
+      "bncc": [
+        "EF03CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "comparacao",
+    "investigacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        339
+      ],
+      "paginasImpressas": "337",
+      "uso": "Habilidades consultadas diretamente; delimitação de verbos, conceitos e contextos do lote."
+    },
+    {
+      "documento": "University of Waikato / New Zealand Ministry of Education — Exploring sound",
+      "url": "https://www.sciencelearn.org.nz/resources/building-science-concepts-exploring-sound",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado: vibração, frequência/altura e amplitude/intensidade, instrumentos e inclusão. Não declara consulta ao livro integral ou execução dos vídeos; não adota ruído como oposição cultural universal à música."
+    },
+    {
+      "documento": "Australian Academy of Science / Primary Connections — Loudness and pitch",
+      "url": "https://primaryconnections.org.au/teaching-sequences/year-2/sound-studio/lesson-4-loudness-and-pitch",
+      "consulta": "2026-10-30",
+      "uso": "Página consultada para investigação, distinção altura/intensidade e registro de previsão/observação. Atividades autorais sem balão ou peças soltas da proposta original; anexos não declarados lidos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef03.som_e_vibracao.produzindo_sons"
+  ],
+  "proximosPassos": [
+    "cna.ef03.som_e_vibracao.altura_e_intensidade"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e curricular assistida. Implementado para testes; aplicação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Som e Vibração",
+    "titulo": "A Vibração dos Objetos"
+  }
+}
