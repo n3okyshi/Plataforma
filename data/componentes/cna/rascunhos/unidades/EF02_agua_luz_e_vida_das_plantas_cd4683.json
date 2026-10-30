@@ -1,1 +1,117 @@
-{"id":"cna.ef02.plano.agua_luz_e_vida_das_plantas.cd4683","componente":"cna","nivel":"EF02","titulo":"Água, Luz e Vida das Plantas","estado":"planejado","complementar":false,"publicacao":{"permitida":false},"aulas":["cna.ef02.agua_luz_e_vida.luz_para_as_plantas","cna.ef02.agua_luz_e_vida.experiencias_com_plantas","cna.ef02.agua_luz_e_vida.plantas_sem_luz","cna.ef02.agua_luz_e_vida.importancia_da_agua"],"bnccCandidata":["EF02CI05"],"camadas":{"teoria":{"estado":"planejado","aulas":["data/componentes/cna/rascunhos/aulas/EF02_luz_para_as_plantas_e46177c7.json","data/componentes/cna/rascunhos/aulas/EF02_experiencias_com_plantas_ec98d5eb.json","data/componentes/cna/rascunhos/aulas/EF02_plantas_sem_luz_ab2c607a.json","data/componentes/cna/rascunhos/aulas/EF02_importancia_da_agua_d982c15b.json"]},"atividades":{"estado":"planejado","criterio":"Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."},"questoes":{"estado":"planejado","itens":[]},"prova":{"estado":"planejado","questoes":[],"matriz":[{"bncc":"EF02CI05","evidencias":[]}]},"arena":{"estado":"planejado","selecao":{"componente":"cna","nivel":"EF02","unidade":"Água, Luz e Vida das Plantas"},"itens":[]},"rastreabilidade":{"estado":"parcial","catalogo":"data/planejamento-basica/referencias-curriculares.json","revisaoPedagogica":"pendente"}},"conteudosExistentesPreservados":[],"observacao":"Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.","avaliacao":{"tipo":"objetiva_e_producoes_conforme_objetivos","registros":[],"devolutiva":"Docente com critérios a desenvolver; nenhuma observação realizada."},"pendencias":["Confrontar tópico e todas as dimensões do objetivo.","Escrever e revisar conteúdo, recursos e avaliações.","Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."]}
+{
+  "id": "cna.ef02.plano.agua_luz_e_vida_das_plantas.cd4683",
+  "componente": "cna",
+  "nivel": "EF02",
+  "titulo": "Água, Luz e Vida das Plantas",
+  "estado": "planejado",
+  "complementar": false,
+  "publicacao": {
+    "permitida": false
+  },
+  "aulas": [
+    "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
+    "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
+    "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
+    "cna.ef02.agua_luz_e_vida.importancia_da_agua"
+  ],
+  "bnccCandidata": [
+    "EF02CI05"
+  ],
+  "camadas": {
+    "teoria": {
+      "estado": "planejado",
+      "aulas": [
+        "data/componentes/cna/rascunhos/aulas/EF02_luz_para_as_plantas_e46177c7.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_experiencias_com_plantas_ec98d5eb.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_plantas_sem_luz_ab2c607a.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_importancia_da_agua_d982c15b.json"
+      ]
+    },
+    "atividades": {
+      "estado": "planejado",
+      "criterio": "Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."
+    },
+    "questoes": {
+      "estado": "planejado",
+      "itens": []
+    },
+    "prova": {
+      "estado": "planejado",
+      "questoes": [],
+      "matriz": [
+        {
+          "bncc": "EF02CI05",
+          "evidencias": []
+        }
+      ]
+    },
+    "arena": {
+      "estado": "planejado",
+      "selecao": {
+        "componente": "cna",
+        "nivel": "EF02",
+        "unidade": "Água, Luz e Vida das Plantas"
+      },
+      "itens": []
+    },
+    "rastreabilidade": {
+      "estado": "parcial",
+      "catalogo": "data/planejamento-basica/referencias-curriculares.json",
+      "revisaoPedagogica": "pendente"
+    }
+  },
+  "conteudosExistentesPreservados": [],
+  "observacao": "Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.",
+  "avaliacao": {
+    "tipo": "objetiva_e_producoes_conforme_objetivos",
+    "registros": [],
+    "devolutiva": "Docente com critérios a desenvolver; nenhuma observação realizada."
+  },
+  "pendencias": [
+    "Confrontar tópico e todas as dimensões do objetivo.",
+    "Escrever e revisar conteúdo, recursos e avaliações.",
+    "Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."
+  ],
+  "implementacao": {
+    "estado": "pronto_para_testes",
+    "aulas": [
+      "data/componentes/cna/aulas/EF02_EF02CI05_luz_para_as_plantas.json",
+      "data/componentes/cna/aulas/EF02_EF02CI05_experiencias_com_plantas.json",
+      "data/componentes/cna/aulas/EF02_EF02CI05_plantas_sem_luz.json",
+      "data/componentes/cna/aulas/EF02_EF02CI05_importancia_da_agua.json"
+    ],
+    "registro": "data/componentes/cna/lote_EF02_temas_restantes.json",
+    "limites": "Plano original preservado; autoria canônica indicada. Aplicação e homologação pendentes.",
+    "camadas": {
+      "teoria": [
+        "data/componentes/cna/aulas/EF02_EF02CI05_luz_para_as_plantas.json",
+        "data/componentes/cna/aulas/EF02_EF02CI05_experiencias_com_plantas.json",
+        "data/componentes/cna/aulas/EF02_EF02CI05_plantas_sem_luz.json",
+        "data/componentes/cna/aulas/EF02_EF02CI05_importancia_da_agua.json"
+      ],
+      "atividades": [
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.aplicacao",
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao1",
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao2",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.aplicacao",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao1",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao2",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.aplicacao",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao1",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao2",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.aplicacao",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao1",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao2"
+      ],
+      "questoes": "data/componentes/cna/questoes/EF02_agua_luz_e_vida.json",
+      "prova": "data/componentes/cna/provas/EF02_agua_luz_e_vida.json",
+      "arena": {
+        "arquivo": "arena/cna_arena.js",
+        "nivel": "EF02",
+        "unidade": "Água, Luz e Vida das Plantas",
+        "componente": "cna"
+      },
+      "rastreabilidade": "data/componentes/cna/lote_EF02_temas_restantes.json"
+    }
+  }
+}

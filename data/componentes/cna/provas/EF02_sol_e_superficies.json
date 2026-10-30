@@ -1,0 +1,120 @@
+{
+  "id": "cna.ef02.sol_e_superficies.prova",
+  "titulo": "Avaliação: Sol e Superfícies",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF02",
+  "unidade": "Sol e Superfícies",
+  "bncc": [
+    "EF02CI08"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens inéditos de prova, com leitura mediada. Objetiva: acertos/5 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+  "questoes": [
+    "cna.ef02.sol_e_superficies.areia_e_solo.prova.1",
+    "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.prova.1",
+    "cna.ef02.sol_e_superficies.superficies_metalicas.prova.1",
+    "cna.ef02.sol_e_superficies.reflexao_da_luz.prova.1",
+    "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.prova.1"
+  ],
+  "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+  "avaliacaoPratica": {
+    "id": "cna.ef02.sol_e_superficies.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Sol e Superfícies",
+    "enunciado": "Dados fictícios: água 23→26 °C; areia 24→32 °C; solo úmido 23→28 °C, mesma duração declarada. Calcule aumentos e indique maior. Explique por que não é lei universal e como comparar cor usando mesmo material. Acrescente método seguro para observar reflexão sem confundir brilho com temperatura.",
+    "gabarito": "Aumentos 3/8/5 °C; areia maior neste caso; controlar material/cor/umidade/quantidade/exposição e instrumento apropriado; reflexão e aquecimento distintos; sem toque ou reflexo solar nos olhos.",
+    "rubrica": [
+      "Aumentos 3/8/5 °C; areia maior neste caso; controlar material/cor/umidade/quantidade/exposição e instrumento apropriado; reflexão e aquecimento distintos; sem toque ou reflexo solar nos olhos.",
+      "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+    ],
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef02.sol_e_superficies.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Sol e Superfícies",
+        "enunciado": "Dados fictícios: água 23→26 °C; areia 24→32 °C; solo úmido 23→28 °C, mesma duração declarada. Calcule aumentos e indique maior. Explique por que não é lei universal e como comparar cor usando mesmo material. Acrescente método seguro para observar reflexão sem confundir brilho com temperatura.",
+        "gabarito": "Aumentos 3/8/5 °C; areia maior neste caso; controlar material/cor/umidade/quantidade/exposição e instrumento apropriado; reflexão e aquecimento distintos; sem toque ou reflexo solar nos olhos.",
+        "rubrica": [
+          "Aumentos 3/8/5 °C; areia maior neste caso; controlar material/cor/umidade/quantidade/exposição e instrumento apropriado; reflexão e aquecimento distintos; sem toque ou reflexo solar nos olhos.",
+          "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+        ],
+        "bncc": [
+          "EF02CI08"
+        ],
+        "aulasReferencia": [
+          "cna.ef02.sol_e_superficies.areia_e_solo",
+          "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+          "cna.ef02.sol_e_superficies.superficies_metalicas",
+          "cna.ef02.sol_e_superficies.reflexao_da_luz",
+          "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao1",
+      "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao2",
+      "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao1",
+      "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao2",
+      "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao1",
+      "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao2",
+      "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao1",
+      "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao2",
+      "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao1",
+      "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao2"
+    ],
+    "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Explore Albedo Activity",
+      "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF02CI08",
+      "questoes": [
+        "cna.ef02.sol_e_superficies.areia_e_solo.prova.1",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.prova.1",
+        "cna.ef02.sol_e_superficies.superficies_metalicas.prova.1",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz.prova.1",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.sol_e_superficies.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef02.sol_e_superficies.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao1",
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao2",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao1",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao2",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao1",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao2",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao1",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao2",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao1",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao2"
+      ]
+    }
+  ]
+}

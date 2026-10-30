@@ -1,0 +1,158 @@
+{
+  "id": "cna.ef02.horta_e_observacao.prova",
+  "titulo": "Avaliação: Horta e Observação",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF02",
+  "unidade": "Horta e Observação",
+  "bncc": [
+    "EF02CI04",
+    "EF02CI05",
+    "EF02CI06"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens inéditos de prova, com leitura mediada. Objetiva: acertos/5 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+  "questoes": [
+    "cna.ef02.horta_e_observacao.montando_uma_horta.prova.1",
+    "cna.ef02.horta_e_observacao.registrando_o_crescimento.prova.1",
+    "cna.ef02.horta_e_observacao.diario_da_planta.prova.1",
+    "cna.ef02.horta_e_observacao.colheita_e_cuidados.prova.1",
+    "cna.ef02.horta_e_observacao.compartilhando_descobertas.prova.1"
+  ],
+  "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+  "avaliacaoPratica": {
+    "id": "cna.ef02.horta_e_observacao.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Horta e Observação",
+    "enunciado": "Produza um plano de acompanhamento de horta que permita investigar uma pergunta sobre água ou luz. Preveja identificação, registros em três datas, comparação e responsáveis. Explique que partes de alface, cenoura e tomate são usadas como alimento. Depois apresente registros reais, se disponíveis, e uma conclusão com limite; sem aplicação, declare observação pendente.",
+    "gabarito": "Plano viável, controle de variáveis, dados com origem e método, folha/raiz/fruto e funções, colheita/preparo pelo adulto. Não atribuir execução ao planejamento.",
+    "rubrica": [
+      "Plano viável, controle de variáveis, dados com origem e método, folha/raiz/fruto e funções, colheita/preparo pelo adulto. Não atribuir execução ao planejamento.",
+      "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+    ],
+    "bncc": [
+      "EF02CI04",
+      "EF02CI05",
+      "EF02CI06"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef02.horta_e_observacao.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Horta e Observação",
+        "enunciado": "Produza um plano de acompanhamento de horta que permita investigar uma pergunta sobre água ou luz. Preveja identificação, registros em três datas, comparação e responsáveis. Explique que partes de alface, cenoura e tomate são usadas como alimento. Depois apresente registros reais, se disponíveis, e uma conclusão com limite; sem aplicação, declare observação pendente.",
+        "gabarito": "Plano viável, controle de variáveis, dados com origem e método, folha/raiz/fruto e funções, colheita/preparo pelo adulto. Não atribuir execução ao planejamento.",
+        "rubrica": [
+          "Plano viável, controle de variáveis, dados com origem e método, folha/raiz/fruto e funções, colheita/preparo pelo adulto. Não atribuir execução ao planejamento.",
+          "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+        ],
+        "bncc": [
+          "EF02CI04",
+          "EF02CI05",
+          "EF02CI06"
+        ],
+        "aulasReferencia": [
+          "cna.ef02.horta_e_observacao.montando_uma_horta",
+          "cna.ef02.horta_e_observacao.registrando_o_crescimento",
+          "cna.ef02.horta_e_observacao.diario_da_planta",
+          "cna.ef02.horta_e_observacao.colheita_e_cuidados",
+          "cna.ef02.horta_e_observacao.compartilhando_descobertas"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao1",
+      "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao2",
+      "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao1",
+      "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao2",
+      "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao1",
+      "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao2",
+      "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao1",
+      "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao2",
+      "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao1",
+      "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao2"
+    ],
+    "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF02CI04",
+      "questoes": [
+        "cna.ef02.horta_e_observacao.diario_da_planta.prova.1",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.horta_e_observacao.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef02.horta_e_observacao.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao1",
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao2",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao1",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao2"
+      ]
+    },
+    {
+      "bncc": "EF02CI05",
+      "questoes": [
+        "cna.ef02.horta_e_observacao.montando_uma_horta.prova.1",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.horta_e_observacao.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef02.horta_e_observacao.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao1",
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao2",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao1",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao2"
+      ]
+    },
+    {
+      "bncc": "EF02CI06",
+      "questoes": [
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.horta_e_observacao.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef02.horta_e_observacao.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao1",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao2"
+      ]
+    }
+  ]
+}

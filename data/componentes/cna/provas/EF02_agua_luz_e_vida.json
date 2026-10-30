@@ -1,0 +1,119 @@
+{
+  "id": "cna.ef02.agua_luz_e_vida.prova",
+  "titulo": "Avaliação: Água, Luz e Vida das Plantas",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF02",
+  "unidade": "Água, Luz e Vida das Plantas",
+  "bncc": [
+    "EF02CI05"
+  ],
+  "duracaoMin": 40,
+  "estado": "piloto",
+  "complementar": false,
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens inéditos de prova, com leitura mediada. Objetiva: acertos/4 × 10; não certifica domínio integral. Realize também o desafio final e apresente evidências de processo para avaliação docente, separada da nota objetiva.",
+  "questoes": [
+    "cna.ef02.agua_luz_e_vida.luz_para_as_plantas.prova.1",
+    "cna.ef02.agua_luz_e_vida.experiencias_com_plantas.prova.1",
+    "cna.ef02.agua_luz_e_vida.plantas_sem_luz.prova.1",
+    "cna.ef02.agua_luz_e_vida.importancia_da_agua.prova.1"
+  ],
+  "criterios": "Gabarito e devolutiva ao final da prova. Desafio final avaliado com critérios por dimensão; recursos acessíveis e tempo de observação próprios.",
+  "avaliacaoPratica": {
+    "id": "cna.ef02.agua_luz_e_vida.prova.portfolio",
+    "tipo": "discursiva",
+    "titulo": "Portfólio e desafio final: Água, Luz e Vida das Plantas",
+    "enunciado": "Duas mudas fictícias receberam cuidados diferentes: A ficou com pouca luz e muita água; B, com mais luz e rega orientada. A cresceu mais alta e pálida. Avalie por que altura não basta e por que não se pode apontar uma única causa. Redesenhe o estudo para investigar separadamente água e luz, com três tipos de registro e critério de interrupção.",
+    "gabarito": "Reconhecer múltiplas variáveis e palidez, comparar mesma espécie e condições, variar um fator por estudo, registrar datas/altura/cor/folhas e preservar cuidado; não inventar resultados.",
+    "rubrica": [
+      "Reconhecer múltiplas variáveis e palidez, comparar mesma espécie e condições, variar um fator por estudo, registrar datas/altura/cor/folhas e preservar cuidado; não inventar resultados.",
+      "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+    ],
+    "bncc": [
+      "EF02CI05"
+    ],
+    "tarefas": [
+      {
+        "id": "cna.ef02.agua_luz_e_vida.prova.transferencia",
+        "tipo": "transferencia",
+        "titulo": "Desafio final: Água, Luz e Vida das Plantas",
+        "enunciado": "Duas mudas fictícias receberam cuidados diferentes: A ficou com pouca luz e muita água; B, com mais luz e rega orientada. A cresceu mais alta e pálida. Avalie por que altura não basta e por que não se pode apontar uma única causa. Redesenhe o estudo para investigar separadamente água e luz, com três tipos de registro e critério de interrupção.",
+        "gabarito": "Reconhecer múltiplas variáveis e palidez, comparar mesma espécie e condições, variar um fator por estudo, registrar datas/altura/cor/folhas e preservar cuidado; não inventar resultados.",
+        "rubrica": [
+          "Reconhecer múltiplas variáveis e palidez, comparar mesma espécie e condições, variar um fator por estudo, registrar datas/altura/cor/folhas e preservar cuidado; não inventar resultados.",
+          "Fornecer devolutiva por dimensão: atende, em desenvolvimento ou retomar, citando a evidência e uma revisão necessária."
+        ],
+        "bncc": [
+          "EF02CI05"
+        ],
+        "aulasReferencia": [
+          "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
+          "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
+          "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
+          "cna.ef02.agua_luz_e_vida.importancia_da_agua"
+        ]
+      }
+    ],
+    "evidenciasDeProcesso": [
+      "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao1",
+      "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao2",
+      "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao1",
+      "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao2",
+      "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao1",
+      "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao2",
+      "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao1",
+      "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao2"
+    ],
+    "correcao": "Docente; separada da nota automática. Plano não comprova execução de observação ou investigação."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF02CI05",
+      "questoes": [
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas.prova.1",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas.prova.1",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz.prova.1",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua.prova.1"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.agua_luz_e_vida.prova.portfolio"
+      ],
+      "tarefasPraticas": [
+        "cna.ef02.agua_luz_e_vida.prova.transferencia"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao1",
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao2",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao1",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao2",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao1",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao2",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao1",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao2"
+      ]
+    }
+  ]
+}

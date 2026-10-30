@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.horta_e_observacao.colheita_e_cuidados",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 34,
+  "unidade": "Horta e Observação",
+  "titulo": "Colheita e Cuidados",
+  "bncc": [
+    "EF02CI06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça quadro com alface/folha, cenoura/raiz e tomate/fruto. Explique uma função de cada parte na planta.",
+      "Planeje uma apresentação sobre colheita orientada: quem identifica, quem usa ferramentas e quem cuida do preparo para consumo."
+    ],
+    "resumo": "As partes usadas como alimento variam: alface oferece folhas, cenoura é exemplo de raiz e tomate é fruto.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.horta_e_observacao.diario_da_planta\">Diário da Planta</button></p><h2>Colheita e Cuidados</h2><h3>Para compreender</h3><p>As partes usadas como alimento variam: alface oferece folhas, cenoura é exemplo de raiz e tomate é fruto. Nem toda parte de qualquer planta é comestível. O adulto identifica a espécie e a parte, define a colheita adequada e cuida do preparo higiênico; a atividade escolar não inclui degustação de planta desconhecida. Colher não é arrancar toda planta sem necessidade. Relacione o alimento à função da parte enquanto a planta estava crescendo e aos cuidados com água, luz e ambiente.</p><h3>Exemplo comentado</h3><p>Num desenho de cenoura com folhas, a região alaranjada é raiz, não fruto. No tomateiro do esquema, o tomate envolve sementes. A classificação da parte não autoriza comer qualquer exemplar.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça quadro com alface/folha, cenoura/raiz e tomate/fruto. Explique uma função de cada parte na planta.</p><h4>Proposta 2</h4><p>Planeje uma apresentação sobre colheita orientada: quem identifica, quem usa ferramentas e quem cuida do preparo para consumo.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "colheita_e_cuidados.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual associação está correta?",
+      "alternativas": [
+        "Tomate é raiz.",
+        "Alface consumida é sempre semente.",
+        "Cenoura é exemplo de raiz utilizada como alimento."
+      ],
+      "correta": 2,
+      "explicacao": "Identificar a parte ajuda a relacionar alimento e planta.",
+      "bncc": [
+        "EF02CI06"
+      ]
+    },
+    {
+      "id": "colheita_e_cuidados.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça quadro com alface/folha, cenoura/raiz e tomate/fruto. Explique uma função de cada parte na planta.",
+      "gabarito": "Partes corretas, produção de alimento nas folhas, absorção/fixação e proteção das sementes; sem consumo.",
+      "rubrica": [
+        "Partes corretas, produção de alimento nas folhas, absorção/fixação e proteção das sementes; sem consumo.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI06"
+      ]
+    },
+    {
+      "id": "colheita_e_cuidados.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Planeje uma apresentação sobre colheita orientada: quem identifica, quem usa ferramentas e quem cuida do preparo para consumo.",
+      "gabarito": "Atribuir decisões e ferramentas a adultos, explicitar identificação segura e preparo pela equipe responsável.",
+      "rubrica": [
+        "Atribuir decisões e ferramentas a adultos, explicitar identificação segura e preparo pela equipe responsável.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.horta_e_observacao.diario_da_planta"
+  ],
+  "proximosPassos": [
+    "cna.ef02.horta_e_observacao.compartilhando_descobertas"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Horta e Observação",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "titulo": "Colheita e Cuidados"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

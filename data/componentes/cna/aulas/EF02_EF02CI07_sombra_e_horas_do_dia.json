@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 24,
+  "unidade": "O Sol no Céu",
+  "titulo": "Sombra e Horas do Dia",
+  "bncc": [
+    "EF02CI07"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Organize uma série de três registros com horários e sombras do mesmo objeto, reais ou explicitamente fictícios. Indique maior e menor.",
+      "Explique por que uma sombra curta não informa uma hora exata válida para todos os lugares."
+    ],
+    "resumo": "O tamanho e a direção da sombra de um objeto fixo podem ajudar a acompanhar mudanças durante o dia.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor\">O Sol Como Fonte de Luz e Calor</button></p><h2>Sombra e Horas do Dia</h2><h3>Para compreender</h3><p>O tamanho e a direção da sombra de um objeto fixo podem ajudar a acompanhar mudanças durante o dia. Quando o Sol está mais alto no céu, a sombra tende a ser menor que quando está baixo. A menor sombra do dia não ocorre obrigatoriamente às 12 h do relógio e não desaparece em todos os lugares. Para usar sombra como referência de horário, é preciso marcar observações reais para aquele local e data. Um desenho de sombra sozinho não fornece uma hora universal.</p><h3>Exemplo comentado</h3><p>Caso fictício: a menor medida da série apareceu às 12 h 30. Isso não torna 12 h 30 uma regra para toda cidade ou estação. É uma informação daquela série e do método usado.</p><svg viewBox=\"0 0 600 240\" role=\"img\" aria-label=\"Dois modelos sem escala do mesmo objeto vertical: luz baixa à esquerda forma sombra comprida; luz mais alta à direita forma sombra curta. As linhas representam trajetos simplificados da luz; não indicam horários reais.\"><g stroke=\"#243b53\" stroke-width=\"3\" fill=\"none\"><path d=\"M15 200h270M315 200h270M105 200V120M415 200V120\"/><path d=\"M35 75 229.44 200M435 30 397.22 200\" stroke=\"#b26b00\"/><path d=\"M105 200h124.44M397.22 200h17.78\" stroke=\"#111\" stroke-width=\"8\"/></g><g fill=\"#f4c94d\" stroke=\"#6b5100\"><circle cx=\"35\" cy=\"75\" r=\"18\"/><circle cx=\"435\" cy=\"30\" r=\"18\"/></g><g fill=\"#111\" font-size=\"15\"><text x=\"15\" y=\"35\">Luz mais baixa</text><text x=\"320\" y=\"65\">Luz mais alta</text><text x=\"130\" y=\"228\">Sombra longa</text><text x=\"330\" y=\"228\">Sombra curta</text></g></svg><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Organize uma série de três registros com horários e sombras do mesmo objeto, reais ou explicitamente fictícios. Indique maior e menor.</p><h4>Proposta 2</h4><p>Explique por que uma sombra curta não informa uma hora exata válida para todos os lugares.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://scied.ucar.edu/activity/sunshine-shadows\" target=\"_blank\" rel=\"noopener noreferrer\">UCAR Center for Science Education — Sunshine and Shadows</a></li><li><a href=\"https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">NASA — Sun As A Star: Afterschool Learning Activities</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "sombra_e_horas_do_dia.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "A menor sombra do dia desaparece sempre exatamente às 12 h?",
+      "alternativas": [
+        "Não; local e data influenciam, e ela pode não desaparecer.",
+        "Sim, em qualquer lugar.",
+        "Sim, mesmo sem Sol visível."
+      ],
+      "correta": 0,
+      "explicacao": "Não há uma regra universal de desaparecimento às 12 h.",
+      "bncc": [
+        "EF02CI07"
+      ]
+    },
+    {
+      "id": "sombra_e_horas_do_dia.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Organize uma série de três registros com horários e sombras do mesmo objeto, reais ou explicitamente fictícios. Indique maior e menor.",
+      "gabarito": "Ordenar horários e medidas corretamente, mantendo origem e condições dos dados.",
+      "rubrica": [
+        "Ordenar horários e medidas corretamente, mantendo origem e condições dos dados.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI07"
+      ]
+    },
+    {
+      "id": "sombra_e_horas_do_dia.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que uma sombra curta não informa uma hora exata válida para todos os lugares.",
+      "gabarito": "Reconhecer dependência de local/data e posição do Sol; não exigir desaparecimento da sombra.",
+      "rubrica": [
+        "Reconhecer dependência de local/data e posição do Sol; não exigir desaparecimento da sombra.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI07"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UCAR Center for Science Education — Sunshine and Shadows",
+      "url": "https://scied.ucar.edu/activity/sunshine-shadows",
+      "consulta": "2026-10-30",
+      "uso": "Página textual consultada: formação de sombras, posição aparente e tamanho, condições de comparação. Sem importar regra de hemisfério/horário ou declarar leitura de mídias."
+    },
+    {
+      "documento": "NASA — Sun As A Star: Afterschool Learning Activities",
+      "url": "https://assets.science.nasa.gov/content/dam/science/psd/solar/2023/09/s/Sun_as_a_Star-_Afterschool_Learning_Activities.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seção 5 e trechos de 6 consultados em texto, páginas PDF 18–22: acompanhamento e modelo das sombras, segurança de não olhar o Sol. Sem reprodução de figuras ou construção com pontas e pinos."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor"
+  ],
+  "proximosPassos": [
+    "cna.ef02.sol_no_ceu.observando_o_ceu"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "O Sol no Céu",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "titulo": "Sombra e Horas do Dia"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

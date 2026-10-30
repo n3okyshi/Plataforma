@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 8,
+  "unidade": "Plantas no Ambiente",
+  "titulo": "Ambiente e Seres Vivos",
+  "bncc": [
+    "EF02CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Produza desenho de um ambiente autorizado ou fictício, com dois seres vivos e duas condições do lugar. Faça duas relações com legendas.",
+      "Escolha uma mudança possível no lugar e explique uma consequência como hipótese, indicando como acompanhar."
+    ],
+    "resumo": "O ambiente inclui seres vivos e condições como luz, água, ar e solo.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.plantas_no_ambiente.animais_do_entorno\">Animais do Entorno</button></p><h2>Ambiente e Seres Vivos</h2><h3>Para compreender</h3><p>O ambiente inclui seres vivos e condições como luz, água, ar e solo. Uma árvore pode oferecer sombra; suas flores e frutos podem se relacionar com animais. Plantas e animais também dependem de recursos do lugar. Alterar o ambiente pode modificar essas relações, mas os efeitos precisam ser acompanhados. Descrever ambiente não é somente listar seres: é explicar onde estão e como podem se relacionar. Evite chamar todo inseto de praga; a presença, sozinha, não demonstra dano.</p><h3>Exemplo comentado</h3><p>Caso fictício: uma área perdeu vegetação. A turma prevê menos sombra e menos locais de abrigo, mas precisa de registros antes e depois para afirmar quais mudanças aconteceram.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Produza desenho de um ambiente autorizado ou fictício, com dois seres vivos e duas condições do lugar. Faça duas relações com legendas.</p><h4>Proposta 2</h4><p>Escolha uma mudança possível no lugar e explique uma consequência como hipótese, indicando como acompanhar.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "ambiente_e_seres_vivos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual exemplo relaciona ser vivo e ambiente?",
+      "alternativas": [
+        "Uma ave usa ramos como apoio.",
+        "Uma árvore é melhor por ser alta.",
+        "Todo inseto causa dano."
+      ],
+      "correta": 0,
+      "explicacao": "A relação descreve um uso do ambiente, sem julgamento.",
+      "bncc": [
+        "EF02CI04"
+      ]
+    },
+    {
+      "id": "ambiente_e_seres_vivos.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Produza desenho de um ambiente autorizado ou fictício, com dois seres vivos e duas condições do lugar. Faça duas relações com legendas.",
+      "gabarito": "Relacionar seres e recursos; marcar claramente se desenho é observação ou modelo.",
+      "rubrica": [
+        "Relacionar seres e recursos; marcar claramente se desenho é observação ou modelo.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI04"
+      ]
+    },
+    {
+      "id": "ambiente_e_seres_vivos.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Escolha uma mudança possível no lugar e explique uma consequência como hipótese, indicando como acompanhar.",
+      "gabarito": "Separar previsão de resultado; propor registro comparável e cuidado com os seres.",
+      "rubrica": [
+        "Separar previsão de resultado; propor registro comparável e cuidado com os seres.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.plantas_no_ambiente.animais_do_entorno"
+  ],
+  "proximosPassos": [
+    "cna.ef02.plantas_no_ambiente.observar_uma_planta"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Plantas no Ambiente",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "titulo": "Ambiente e Seres Vivos"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

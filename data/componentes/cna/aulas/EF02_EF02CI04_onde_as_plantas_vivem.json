@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 6,
+  "unidade": "Plantas no Ambiente",
+  "titulo": "Onde as Plantas Vivem",
+  "bncc": [
+    "EF02CI04"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça mapa simples de dois locais autorizados com plantas. Registre luz aparente, umidade descrita pelo adulto e duas características das plantas.",
+      "Proponha uma pergunta que compare como uma mesma espécie se desenvolve em dois locais. Indique o que precisaria acompanhar."
+    ],
+    "resumo": "Plantas vivem em diferentes ambientes, como jardins, margens de lagoas e locais mais secos.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas\">Características das Plantas</button></p><h2>Onde as Plantas Vivem</h2><h3>Para compreender</h3><p>Plantas vivem em diferentes ambientes, como jardins, margens de lagoas e locais mais secos. Água disponível, luz, solo e espaço variam entre lugares. Espécies diferentes precisam de condições diferentes; não há um lugar ideal para todas. Relacionar planta e ambiente exige registrar características dos dois. Uma observação isolada pode mostrar associação, mas não prova a causa de cada característica. Para comparar, observe com adulto locais autorizados, sem entrar em água, terrenos ou áreas de risco.</p><h3>Exemplo comentado</h3><p>Dois vasos da mesma espécie estão em locais com iluminação diferente. Notar diferenças sugere uma pergunta; como também podem receber água diferente, ainda não é um teste apenas da luz.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Faça mapa simples de dois locais autorizados com plantas. Registre luz aparente, umidade descrita pelo adulto e duas características das plantas.</p><h4>Proposta 2</h4><p>Proponha uma pergunta que compare como uma mesma espécie se desenvolve em dois locais. Indique o que precisaria acompanhar.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "onde_as_plantas_vivem.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Todas as plantas precisam do mesmo local e da mesma quantidade de água?",
+      "alternativas": [
+        "Não; as necessidades variam.",
+        "Sim; qualquer local serve.",
+        "Sim; basta escolher a mais alta."
+      ],
+      "correta": 0,
+      "explicacao": "Há diversidade de necessidades entre espécies.",
+      "bncc": [
+        "EF02CI04"
+      ]
+    },
+    {
+      "id": "onde_as_plantas_vivem.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Faça mapa simples de dois locais autorizados com plantas. Registre luz aparente, umidade descrita pelo adulto e duas características das plantas.",
+      "gabarito": "Relacionar registros a cada local e distinguir observação de explicação ainda não testada.",
+      "rubrica": [
+        "Relacionar registros a cada local e distinguir observação de explicação ainda não testada.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI04"
+      ]
+    },
+    {
+      "id": "onde_as_plantas_vivem.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Proponha uma pergunta que compare como uma mesma espécie se desenvolve em dois locais. Indique o que precisaria acompanhar.",
+      "gabarito": "Pergunta verificável, datas e condições de luz/água; não transferir plantas sem orientação.",
+      "rubrica": [
+        "Pergunta verificável, datas e condições de luz/água; não transferir plantas sem orientação.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI04"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas"
+  ],
+  "proximosPassos": [
+    "cna.ef02.plantas_no_ambiente.animais_do_entorno"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Plantas no Ambiente",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "titulo": "Onde as Plantas Vivem"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

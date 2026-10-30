@@ -1,23 +1,23 @@
 {
   "nivel": "EF02",
-  "estado": "piloto_nucleo",
-  "limites": "Evidências planejadas acumuladas; há unidades específicas implementadas e tópicos ainda sem autoria. Código vinculado não comprova produção observada ou integralidade do ano.",
+  "estado": "pronto_para_testes",
+  "limites": "47 tópicos EF02 com autoria e sete avaliações específicas adicionais. Estado da implementação; não comprova produções observadas, homologação independente, revisão visual/acessibilidade ou serviços reais.",
   "habilidades": [
     {
       "codigo": "EF02CI01",
       "aulas": [
-        "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos",
         "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro",
+        "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos",
         "cna.ef02.materiais_e_objetos.objetos_do_passado",
         "cna.ef02.materiais_e_objetos.como_usamos_os_objetos"
       ],
       "atividades": [
-        "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos#de_que_sao_feitos_os_objetos.aplicacao",
-        "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos#de_que_sao_feitos_os_objetos.investigacao",
         "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.aplicacao1",
         "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.aplicacao2",
         "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao1",
         "cna.ef02.materiais_e_objetos.metais_madeira_e_vidro#metais_madeira_e_vidro.producao2",
+        "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos#de_que_sao_feitos_os_objetos.aplicacao",
+        "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos#de_que_sao_feitos_os_objetos.investigacao",
         "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.aplicacao1",
         "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.aplicacao2",
         "cna.ef02.materiais_e_objetos.objetos_do_passado#objetos_do_passado.producao1",
@@ -76,33 +76,105 @@
     {
       "codigo": "EF02CI03",
       "aulas": [
-        "cna.ef02.prevencao_de_acidentes.objetos_cortantes"
+        "cna.ef02.prevencao_de_acidentes.objetos_cortantes",
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados"
       ],
       "atividades": [
         "cna.ef02.prevencao_de_acidentes.objetos_cortantes#objetos_cortantes.aplicacao",
-        "cna.ef02.prevencao_de_acidentes.objetos_cortantes#objetos_cortantes.investigacao"
+        "cna.ef02.prevencao_de_acidentes.objetos_cortantes#objetos_cortantes.investigacao",
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao1",
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao2",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao1",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao2",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao1",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao2",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao1",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao2"
       ],
       "questoesTreino": [
-        "cna.ef02.materia_e_energia.treino.03"
+        "cna.ef02.materia_e_energia.treino.03",
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo.treino.1",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca.treino.1",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza.treino.1",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados.treino.1"
       ],
       "questoesProva": [
-        "cna.ef02.materia_e_energia.prova.03"
+        "cna.ef02.materia_e_energia.prova.03",
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo.prova.1",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca.prova.1",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza.prova.1",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados.prova.1"
       ],
       "homologacaoDocente": "pendente"
     },
     {
       "codigo": "EF02CI04",
       "aulas": [
-        "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano"
+        "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano",
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+        "cna.ef02.horta_e_observacao.diario_da_planta",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas"
       ],
       "atividades": [
         "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano#plantas_do_cotidiano.aplicacao",
-        "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano#plantas_do_cotidiano.investigacao"
+        "cna.ef02.plantas_no_ambiente.plantas_do_cotidiano#plantas_do_cotidiano.investigacao",
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.aplicacao",
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao1",
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas#caracteristicas_das_plantas.producao2",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.aplicacao",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao1",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem#onde_as_plantas_vivem.producao2",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.aplicacao",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao1",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno#animais_do_entorno.producao2",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.aplicacao",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao1",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos#ambiente_e_seres_vivos.producao2",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.aplicacao",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao1",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta#observar_uma_planta.producao2",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.aplicacao",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2",
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.aplicacao",
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao1",
+        "cna.ef02.horta_e_observacao.diario_da_planta#diario_da_planta.producao2",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.aplicacao",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao1",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas#compartilhando_descobertas.producao2"
       ],
       "questoesTreino": [
+        "cna.ef02.horta_e_observacao.diario_da_planta.treino.1",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas.treino.1",
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.treino.1",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.treino.1",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno.treino.1",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.treino.1",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta.treino.1",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.treino.1",
         "cna.ef02.vida_e_evolucao.treino.04"
       ],
       "questoesProva": [
+        "cna.ef02.horta_e_observacao.diario_da_planta.prova.1",
+        "cna.ef02.horta_e_observacao.compartilhando_descobertas.prova.1",
+        "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.prova.1",
+        "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.prova.1",
+        "cna.ef02.plantas_no_ambiente.animais_do_entorno.prova.1",
+        "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.prova.1",
+        "cna.ef02.plantas_no_ambiente.observar_uma_planta.prova.1",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1",
         "cna.ef02.vida_e_evolucao.prova.04"
       ],
       "homologacaoDocente": "pendente"
@@ -110,16 +182,58 @@
     {
       "codigo": "EF02CI05",
       "aulas": [
-        "cna.ef02.agua_luz_e_vida.agua_para_as_plantas"
+        "cna.ef02.agua_luz_e_vida.agua_para_as_plantas",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua",
+        "cna.ef02.horta_e_observacao.montando_uma_horta",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento"
       ],
       "atividades": [
         "cna.ef02.agua_luz_e_vida.agua_para_as_plantas#agua_para_as_plantas.aplicacao",
-        "cna.ef02.agua_luz_e_vida.agua_para_as_plantas#agua_para_as_plantas.investigacao"
+        "cna.ef02.agua_luz_e_vida.agua_para_as_plantas#agua_para_as_plantas.investigacao",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.aplicacao",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao1",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta#cuidar_de_uma_planta.producao2",
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.aplicacao",
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao1",
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas#luz_para_as_plantas.producao2",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.aplicacao",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao1",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas#experiencias_com_plantas.producao2",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.aplicacao",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao1",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz#plantas_sem_luz.producao2",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.aplicacao",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao1",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua#importancia_da_agua.producao2",
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.aplicacao",
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao1",
+        "cna.ef02.horta_e_observacao.montando_uma_horta#montando_uma_horta.producao2",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.aplicacao",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao1",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento#registrando_o_crescimento.producao2"
       ],
       "questoesTreino": [
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas.treino.1",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas.treino.1",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz.treino.1",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua.treino.1",
+        "cna.ef02.horta_e_observacao.montando_uma_horta.treino.1",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento.treino.1",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.treino.1",
         "cna.ef02.vida_e_evolucao.treino.05"
       ],
       "questoesProva": [
+        "cna.ef02.agua_luz_e_vida.luz_para_as_plantas.prova.1",
+        "cna.ef02.agua_luz_e_vida.experiencias_com_plantas.prova.1",
+        "cna.ef02.agua_luz_e_vida.plantas_sem_luz.prova.1",
+        "cna.ef02.agua_luz_e_vida.importancia_da_agua.prova.1",
+        "cna.ef02.horta_e_observacao.montando_uma_horta.prova.1",
+        "cna.ef02.horta_e_observacao.registrando_o_crescimento.prova.1",
+        "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1",
         "cna.ef02.vida_e_evolucao.prova.05"
       ],
       "homologacaoDocente": "pendente"
@@ -127,16 +241,58 @@
     {
       "codigo": "EF02CI06",
       "aulas": [
-        "cna.ef02.partes_das_plantas.raiz"
+        "cna.ef02.partes_das_plantas.raiz",
+        "cna.ef02.partes_das_plantas.caule",
+        "cna.ef02.partes_das_plantas.folhas",
+        "cna.ef02.partes_das_plantas.flores",
+        "cna.ef02.partes_das_plantas.frutos_e_sementes",
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte",
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados"
       ],
       "atividades": [
         "cna.ef02.partes_das_plantas.raiz#raiz.aplicacao",
-        "cna.ef02.partes_das_plantas.raiz#raiz.investigacao"
+        "cna.ef02.partes_das_plantas.raiz#raiz.investigacao",
+        "cna.ef02.partes_das_plantas.caule#caule.aplicacao",
+        "cna.ef02.partes_das_plantas.caule#caule.producao1",
+        "cna.ef02.partes_das_plantas.caule#caule.producao2",
+        "cna.ef02.partes_das_plantas.folhas#folhas.aplicacao",
+        "cna.ef02.partes_das_plantas.folhas#folhas.producao1",
+        "cna.ef02.partes_das_plantas.folhas#folhas.producao2",
+        "cna.ef02.partes_das_plantas.flores#flores.aplicacao",
+        "cna.ef02.partes_das_plantas.flores#flores.producao1",
+        "cna.ef02.partes_das_plantas.flores#flores.producao2",
+        "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.aplicacao",
+        "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.producao1",
+        "cna.ef02.partes_das_plantas.frutos_e_sementes#frutos_e_sementes.producao2",
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.aplicacao",
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.producao1",
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte#funcoes_de_cada_parte.producao2",
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.aplicacao",
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.producao1",
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres#plantas_e_outros_seres.producao2",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.aplicacao",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao1",
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados#colheita_e_cuidados.producao2"
       ],
       "questoesTreino": [
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados.treino.1",
+        "cna.ef02.partes_das_plantas.caule.treino.1",
+        "cna.ef02.partes_das_plantas.folhas.treino.1",
+        "cna.ef02.partes_das_plantas.flores.treino.1",
+        "cna.ef02.partes_das_plantas.frutos_e_sementes.treino.1",
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte.treino.1",
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres.treino.1",
         "cna.ef02.vida_e_evolucao.treino.06"
       ],
       "questoesProva": [
+        "cna.ef02.horta_e_observacao.colheita_e_cuidados.prova.1",
+        "cna.ef02.partes_das_plantas.caule.prova.1",
+        "cna.ef02.partes_das_plantas.folhas.prova.1",
+        "cna.ef02.partes_das_plantas.flores.prova.1",
+        "cna.ef02.partes_das_plantas.frutos_e_sementes.prova.1",
+        "cna.ef02.partes_das_plantas.funcoes_de_cada_parte.prova.1",
+        "cna.ef02.partes_das_plantas.plantas_e_outros_seres.prova.1",
         "cna.ef02.vida_e_evolucao.prova.06"
       ],
       "homologacaoDocente": "pendente"
@@ -144,16 +300,40 @@
     {
       "codigo": "EF02CI07",
       "aulas": [
-        "cna.ef02.sol_no_ceu.posicao_do_sol"
+        "cna.ef02.sol_no_ceu.posicao_do_sol",
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia",
+        "cna.ef02.sol_no_ceu.medindo_sombras",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia",
+        "cna.ef02.sol_no_ceu.observando_o_ceu"
       ],
       "atividades": [
         "cna.ef02.sol_no_ceu.posicao_do_sol#posicao_do_sol.aplicacao",
-        "cna.ef02.sol_no_ceu.posicao_do_sol#posicao_do_sol.investigacao"
+        "cna.ef02.sol_no_ceu.posicao_do_sol#posicao_do_sol.investigacao",
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.aplicacao",
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao1",
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia#sombras_ao_longo_do_dia.producao2",
+        "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.aplicacao",
+        "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao1",
+        "cna.ef02.sol_no_ceu.medindo_sombras#medindo_sombras.producao2",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.aplicacao",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao1",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia#sombra_e_horas_do_dia.producao2",
+        "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.aplicacao",
+        "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao1",
+        "cna.ef02.sol_no_ceu.observando_o_ceu#observando_o_ceu.producao2"
       ],
       "questoesTreino": [
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.treino.1",
+        "cna.ef02.sol_no_ceu.medindo_sombras.treino.1",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.treino.1",
+        "cna.ef02.sol_no_ceu.observando_o_ceu.treino.1",
         "cna.ef02.terra_e_universo.treino.07"
       ],
       "questoesProva": [
+        "cna.ef02.sol_no_ceu.sombras_ao_longo_do_dia.prova.1",
+        "cna.ef02.sol_no_ceu.medindo_sombras.prova.1",
+        "cna.ef02.sol_no_ceu.sombra_e_horas_do_dia.prova.1",
+        "cna.ef02.sol_no_ceu.observando_o_ceu.prova.1",
         "cna.ef02.terra_e_universo.prova.07"
       ],
       "homologacaoDocente": "pendente"
@@ -161,16 +341,52 @@
     {
       "codigo": "EF02CI08",
       "aulas": [
-        "cna.ef02.sol_e_superficies.aquecimento_da_agua"
+        "cna.ef02.sol_e_superficies.aquecimento_da_agua",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor",
+        "cna.ef02.sol_e_superficies.areia_e_solo",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras",
+        "cna.ef02.sol_e_superficies.superficies_metalicas",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol"
       ],
       "atividades": [
         "cna.ef02.sol_e_superficies.aquecimento_da_agua#aquecimento_da_agua.aplicacao",
-        "cna.ef02.sol_e_superficies.aquecimento_da_agua#aquecimento_da_agua.investigacao"
+        "cna.ef02.sol_e_superficies.aquecimento_da_agua#aquecimento_da_agua.investigacao",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.aplicacao",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao1",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor#sol_fonte_de_luz_e_calor.producao2",
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.aplicacao",
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao1",
+        "cna.ef02.sol_e_superficies.areia_e_solo#areia_e_solo.producao2",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.aplicacao",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao1",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras#superficies_claras_e_escuras.producao2",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.aplicacao",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao1",
+        "cna.ef02.sol_e_superficies.superficies_metalicas#superficies_metalicas.producao2",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.aplicacao",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao1",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz#reflexao_da_luz.producao2",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.aplicacao",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao1",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol#comparando_superficies_ao_sol.producao2"
       ],
       "questoesTreino": [
+        "cna.ef02.sol_e_superficies.areia_e_solo.treino.1",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.treino.1",
+        "cna.ef02.sol_e_superficies.superficies_metalicas.treino.1",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz.treino.1",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.treino.1",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.treino.1",
         "cna.ef02.terra_e_universo.treino.08"
       ],
       "questoesProva": [
+        "cna.ef02.sol_e_superficies.areia_e_solo.prova.1",
+        "cna.ef02.sol_e_superficies.superficies_claras_e_escuras.prova.1",
+        "cna.ef02.sol_e_superficies.superficies_metalicas.prova.1",
+        "cna.ef02.sol_e_superficies.reflexao_da_luz.prova.1",
+        "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol.prova.1",
+        "cna.ef02.sol_no_ceu.sol_fonte_de_luz_e_calor.prova.1",
         "cna.ef02.terra_e_universo.prova.08"
       ],
       "homologacaoDocente": "pendente"

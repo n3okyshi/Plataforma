@@ -1,0 +1,130 @@
+{
+  "id": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 10,
+  "unidade": "Plantas no Ambiente",
+  "titulo": "Cuidar de uma Planta",
+  "bncc": [
+    "EF02CI04",
+    "EF02CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Com adulto, planeje para uma planta identificada quem cuida, o que observar e quando registrar; não fixe rega igual para toda espécie.",
+      "Use duas observações para revisar o plano, ou registre que a revisão depende de nova visita. Explique a relação entre condição e cuidado."
+    ],
+    "resumo": "Cuidar de uma planta exige conhecer suas necessidades e acompanhar o ambiente.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.plantas_no_ambiente.observar_uma_planta\">Observar uma Planta de Perto</button></p><h2>Cuidar de uma Planta</h2><h3>Para compreender</h3><p>Cuidar de uma planta exige conhecer suas necessidades e acompanhar o ambiente. A quantidade de água e de luz varia conforme espécie, vaso, clima e fase de vida. Mais água não é sempre melhor: encharcamento também prejudica. O adulto identifica uma planta segura e orienta os cuidados. Crianças podem registrar condições e ajudar em tarefas leves autorizadas, sem adubo, agrotóxico ou ferramenta cortante. Planta murcha não tem causa única; é preciso investigar antes de mudar o cuidado.</p><h3>Exemplo comentado</h3><p>Um vaso permanece encharcado depois de regas frequentes. Não se conclui que precisa de ainda mais água. O adulto avalia drenagem e condições; a turma registra o que foi observado e a mudança orientada.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Com adulto, planeje para uma planta identificada quem cuida, o que observar e quando registrar; não fixe rega igual para toda espécie.</p><h4>Proposta 2</h4><p>Use duas observações para revisar o plano, ou registre que a revisão depende de nova visita. Explique a relação entre condição e cuidado.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "cuidar_de_uma_planta.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma planta está murcha. Isso prova falta de água?",
+      "alternativas": [
+        "Não; é necessário avaliar as condições.",
+        "Sim; deve receber o máximo de água.",
+        "Sim; todas precisam da mesma rega."
+      ],
+      "correta": 0,
+      "explicacao": "Sintomas visíveis podem ter diferentes causas.",
+      "bncc": [
+        "EF02CI04",
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "cuidar_de_uma_planta.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Com adulto, planeje para uma planta identificada quem cuida, o que observar e quando registrar; não fixe rega igual para toda espécie.",
+      "gabarito": "Plano considera luz, umidade, acesso e orientação, sem receita universal.",
+      "rubrica": [
+        "Plano considera luz, umidade, acesso e orientação, sem receita universal.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI04",
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "cuidar_de_uma_planta.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Use duas observações para revisar o plano, ou registre que a revisão depende de nova visita. Explique a relação entre condição e cuidado.",
+      "gabarito": "Evidência e limitação explícitas; nenhuma recuperação da planta é declarada sem observação.",
+      "rubrica": [
+        "Evidência e limitação explícitas; nenhuma recuperação da planta é declarada sem observação.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI04",
+        "EF02CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.plantas_no_ambiente.observar_uma_planta"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Plantas no Ambiente",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "titulo": "Cuidar de uma Planta"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

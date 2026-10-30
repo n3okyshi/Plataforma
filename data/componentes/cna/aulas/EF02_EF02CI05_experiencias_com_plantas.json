@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.agua_luz_e_vida.experiencias_com_plantas",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 12,
+  "unidade": "Água, Luz e Vida das Plantas",
+  "titulo": "Experiências com Plantas",
+  "bncc": [
+    "EF02CI05"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Desenhe um plano para investigar água ou luz. Indique pergunta, duas condições, o que manter semelhante, o que registrar e quando interromper.",
+      "Compare o plano com outro que muda água e luz juntas. Explique por que o segundo dificulta a conclusão."
+    ],
+    "resumo": "Uma investigação compara condições para responder a uma pergunta.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.agua_luz_e_vida.luz_para_as_plantas\">Luz para as Plantas</button></p><h2>Experiências com Plantas</h2><h3>Para compreender</h3><p>Uma investigação compara condições para responder a uma pergunta. Para investigar água, mantenha espécie, luz, recipiente e início tão parecidos quanto possível; mude apenas a condição de água combinada com o adulto. Para investigar luz, mantenha o cuidado de água comparável. Use mais de uma muda por condição quando possível e observe em várias datas. Não é necessário causar sofrimento ou deixar plantas morrerem: pare diante de sinais de prejuízo e retome cuidado adequado. Resultado não confirmado deve permanecer pergunta.</p><h3>Exemplo comentado</h3><p>Duas mudas de espécies diferentes, em vasos distintos, com regas e luz diferentes, não permitem concluir qual fator explica uma diferença. É melhor separar a pergunta da água da pergunta da luz.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Desenhe um plano para investigar água ou luz. Indique pergunta, duas condições, o que manter semelhante, o que registrar e quando interromper.</p><h4>Proposta 2</h4><p>Compare o plano com outro que muda água e luz juntas. Explique por que o segundo dificulta a conclusão.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "experiencias_com_plantas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Para investigar só a luz, qual fator deve permanecer comparável?",
+      "alternativas": [
+        "Apenas o nome do grupo.",
+        "Nenhum.",
+        "A condição de água das mudas."
+      ],
+      "correta": 2,
+      "explicacao": "Mudar vários fatores dificulta relacionar resultado e causa.",
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "experiencias_com_plantas.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Desenhe um plano para investigar água ou luz. Indique pergunta, duas condições, o que manter semelhante, o que registrar e quando interromper.",
+      "gabarito": "Uma mudança principal, repetição quando viável, datas, cuidado e registro de limites.",
+      "rubrica": [
+        "Uma mudança principal, repetição quando viável, datas, cuidado e registro de limites.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    },
+    {
+      "id": "experiencias_com_plantas.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Compare o plano com outro que muda água e luz juntas. Explique por que o segundo dificulta a conclusão.",
+      "gabarito": "Mostrar duas causas possíveis, sem inventar resultado do experimento.",
+      "rubrica": [
+        "Mostrar duas causas possíveis, sem inventar resultado do experimento.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI05"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.agua_luz_e_vida.luz_para_as_plantas"
+  ],
+  "proximosPassos": [
+    "cna.ef02.agua_luz_e_vida.plantas_sem_luz"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Água, Luz e Vida das Plantas",
+    "bncc": [
+      "EF02CI05"
+    ],
+    "titulo": "Experiências com Plantas"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

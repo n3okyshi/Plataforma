@@ -1,0 +1,568 @@
+[
+  {
+    "id": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual registro descreve uma característica observável?",
+    "opcoes": [
+      "Folha longa e estreita.",
+      "Planta melhor que todas.",
+      "Planta de sorte."
+    ],
+    "correta": 0,
+    "explicacao": "Forma e tamanho permitem comparação; julgamentos não substituem descrição.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.caracteristicas_das_plantas",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não havia flores visíveis em uma observação. O registro correto é:",
+    "opcoes": [
+      "Flores não observadas nesta visita.",
+      "Não é uma planta.",
+      "Nunca terá flores."
+    ],
+    "correta": 0,
+    "explicacao": "Um momento não mostra todas as fases da vida.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Todas as plantas precisam do mesmo local e da mesma quantidade de água?",
+    "opcoes": [
+      "Sim; basta escolher a mais alta.",
+      "Não; as necessidades variam.",
+      "Sim; qualquer local serve."
+    ],
+    "correta": 1,
+    "explicacao": "Há diversidade de necessidades entre espécies.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.onde_as_plantas_vivem",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Duas plantas diferentes vivem em ambientes distintos. Isso prova que só a luz explica suas formas?",
+    "opcoes": [
+      "Sim, sempre.",
+      "Não; espécie e outras condições também diferem.",
+      "Sim, sem nenhum registro."
+    ],
+    "correta": 1,
+    "explicacao": "Comparações têm limites quando várias condições mudam.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.animais_do_entorno.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.animais_do_entorno",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma observação respeitosa de um ninho deve:",
+    "opcoes": [
+      "Abrir para contar filhotes.",
+      "Acontecer de longe, com adulto, sem perturbar.",
+      "Incluir captura dos adultos."
+    ],
+    "correta": 1,
+    "explicacao": "O estudo preserva animais e não expõe crianças.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.animais_do_entorno.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.animais_do_entorno",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Não vimos formigas em uma visita. Podemos concluir:",
+    "opcoes": [
+      "Todas morreram.",
+      "Não foram observadas naquele período.",
+      "Nunca existem no local."
+    ],
+    "correta": 1,
+    "explicacao": "Um registro depende do local, horário e condições da visita.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual exemplo relaciona ser vivo e ambiente?",
+    "opcoes": [
+      "Uma árvore é melhor por ser alta.",
+      "Todo inseto causa dano.",
+      "Uma ave usa ramos como apoio."
+    ],
+    "correta": 2,
+    "explicacao": "A relação descreve um uso do ambiente, sem julgamento.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.ambiente_e_seres_vivos",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma turma previu que haveria menos sombra após retirar árvores. Para relatar que ocorreu, precisa:",
+    "opcoes": [
+      "Inventar uma medida.",
+      "Só repetir a previsão.",
+      "Consultar registros comparáveis da sombra."
+    ],
+    "correta": 2,
+    "explicacao": "Resultado exige evidência além da hipótese.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.observar_uma_planta.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.observar_uma_planta",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Para acompanhar uma planta ao longo do tempo, é importante:",
+    "opcoes": [
+      "Apagar o primeiro registro.",
+      "Trocar de planta sem avisar.",
+      "Identificar a mesma planta e as datas."
+    ],
+    "correta": 2,
+    "explicacao": "Identificação e datas sustentam comparação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.observar_uma_planta.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.observar_uma_planta",
+    "bncc": [
+      "EF02CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma folha não pôde ser contada por estar encoberta. O melhor é:",
+    "opcoes": [
+      "Inventar um número.",
+      "Arrancar folhas ao redor.",
+      "Registrar a limitação sem danificar a planta."
+    ],
+    "correta": 2,
+    "explicacao": "Limites de observação fazem parte da investigação.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.treino.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+    "bncc": [
+      "EF02CI04",
+      "EF02CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "pergunta": "Uma planta está murcha. Isso prova falta de água?",
+    "opcoes": [
+      "Não; é necessário avaliar as condições.",
+      "Sim; deve receber o máximo de água.",
+      "Sim; todas precisam da mesma rega."
+    ],
+    "correta": 0,
+    "explicacao": "Sintomas visíveis podem ter diferentes causas.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  },
+  {
+    "id": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta.prova.1",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Plantas no Ambiente",
+    "aulaId": "cna.ef02.plantas_no_ambiente.cuidar_de_uma_planta",
+    "bncc": [
+      "EF02CI04",
+      "EF02CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "pergunta": "Qual plano de cuidado é mais adequado?",
+    "opcoes": [
+      "Conhecer a espécie e acompanhar água e luz com adulto.",
+      "Testar produto de limpeza no vaso.",
+      "Regar toda planta com o mesmo volume."
+    ],
+    "correta": 0,
+    "explicacao": "Cuidado depende das necessidades e das condições.",
+    "dificuldade": 1,
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+      },
+      {
+        "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+        "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+        "consulta": "2026-10-30",
+        "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+      },
+      {
+        "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+        "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+        "consulta": "2026-10-30",
+        "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+      }
+    ],
+    "estado": "piloto",
+    "complementar": false,
+    "autoria": "produção autoral assistida"
+  }
+]

@@ -1,1 +1,117 @@
-{"id":"cna.ef02.plano.prevencao_de_acidentes.bfaaf7","componente":"cna","nivel":"EF02","titulo":"Prevenção de Acidentes","estado":"planejado","complementar":false,"publicacao":{"permitida":false},"aulas":["cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo","cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca","cna.ef02.prevencao_de_acidentes.produtos_de_limpeza","cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados"],"bnccCandidata":["EF02CI03"],"camadas":{"teoria":{"estado":"planejado","aulas":["data/componentes/cna/rascunhos/aulas/EF02_inflamaveis_e_fogo_350d87bb.json","data/componentes/cna/rascunhos/aulas/EF02_eletricidade_com_seguranca_0dac2f0c.json","data/componentes/cna/rascunhos/aulas/EF02_produtos_de_limpeza_4dfb79be.json","data/componentes/cna/rascunhos/aulas/EF02_medicamentos_e_cuidados_50de6b9a.json"]},"atividades":{"estado":"planejado","criterio":"Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."},"questoes":{"estado":"planejado","itens":[]},"prova":{"estado":"planejado","questoes":[],"matriz":[{"bncc":"EF02CI03","evidencias":[]}]},"arena":{"estado":"planejado","selecao":{"componente":"cna","nivel":"EF02","unidade":"Prevenção de Acidentes"},"itens":[]},"rastreabilidade":{"estado":"parcial","catalogo":"data/planejamento-basica/referencias-curriculares.json","revisaoPedagogica":"pendente"}},"conteudosExistentesPreservados":[],"observacao":"Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.","avaliacao":{"tipo":"objetiva_e_producoes_conforme_objetivos","registros":[],"devolutiva":"Docente com critérios a desenvolver; nenhuma observação realizada."},"pendencias":["Confrontar tópico e todas as dimensões do objetivo.","Escrever e revisar conteúdo, recursos e avaliações.","Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."]}
+{
+  "id": "cna.ef02.plano.prevencao_de_acidentes.bfaaf7",
+  "componente": "cna",
+  "nivel": "EF02",
+  "titulo": "Prevenção de Acidentes",
+  "estado": "planejado",
+  "complementar": false,
+  "publicacao": {
+    "permitida": false
+  },
+  "aulas": [
+    "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo",
+    "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca",
+    "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza",
+    "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados"
+  ],
+  "bnccCandidata": [
+    "EF02CI03"
+  ],
+  "camadas": {
+    "teoria": {
+      "estado": "planejado",
+      "aulas": [
+        "data/componentes/cna/rascunhos/aulas/EF02_inflamaveis_e_fogo_350d87bb.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_eletricidade_com_seguranca_0dac2f0c.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_produtos_de_limpeza_4dfb79be.json",
+        "data/componentes/cna/rascunhos/aulas/EF02_medicamentos_e_cuidados_50de6b9a.json"
+      ]
+    },
+    "atividades": {
+      "estado": "planejado",
+      "criterio": "Variar aplicação, investigação e produção, com critérios específicos e respostas conferidas."
+    },
+    "questoes": {
+      "estado": "planejado",
+      "itens": []
+    },
+    "prova": {
+      "estado": "planejado",
+      "questoes": [],
+      "matriz": [
+        {
+          "bncc": "EF02CI03",
+          "evidencias": []
+        }
+      ]
+    },
+    "arena": {
+      "estado": "planejado",
+      "selecao": {
+        "componente": "cna",
+        "nivel": "EF02",
+        "unidade": "Prevenção de Acidentes"
+      },
+      "itens": []
+    },
+    "rastreabilidade": {
+      "estado": "parcial",
+      "catalogo": "data/planejamento-basica/referencias-curriculares.json",
+      "revisaoPedagogica": "pendente"
+    }
+  },
+  "conteudosExistentesPreservados": [],
+  "observacao": "Plano estrutural; não rebaixa o estado nem reescreve conteúdo existente.",
+  "avaliacao": {
+    "tipo": "objetiva_e_producoes_conforme_objetivos",
+    "registros": [],
+    "devolutiva": "Docente com critérios a desenvolver; nenhuma observação realizada."
+  },
+  "pendencias": [
+    "Confrontar tópico e todas as dimensões do objetivo.",
+    "Escrever e revisar conteúdo, recursos e avaliações.",
+    "Conferir fontes, pré-requisitos, acessibilidade e seleção antes de publicar."
+  ],
+  "implementacao": {
+    "estado": "pronto_para_testes",
+    "aulas": [
+      "data/componentes/cna/aulas/EF02_EF02CI03_inflamaveis_e_fogo.json",
+      "data/componentes/cna/aulas/EF02_EF02CI03_eletricidade_com_seguranca.json",
+      "data/componentes/cna/aulas/EF02_EF02CI03_produtos_de_limpeza.json",
+      "data/componentes/cna/aulas/EF02_EF02CI03_medicamentos_e_cuidados.json"
+    ],
+    "registro": "data/componentes/cna/lote_EF02_temas_restantes.json",
+    "limites": "Plano original preservado; autoria canônica indicada. Aplicação e homologação pendentes.",
+    "camadas": {
+      "teoria": [
+        "data/componentes/cna/aulas/EF02_EF02CI03_inflamaveis_e_fogo.json",
+        "data/componentes/cna/aulas/EF02_EF02CI03_eletricidade_com_seguranca.json",
+        "data/componentes/cna/aulas/EF02_EF02CI03_produtos_de_limpeza.json",
+        "data/componentes/cna/aulas/EF02_EF02CI03_medicamentos_e_cuidados.json"
+      ],
+      "atividades": [
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao1",
+        "cna.ef02.prevencao_de_acidentes.inflamaveis_e_fogo#inflamaveis_e_fogo.producao2",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao1",
+        "cna.ef02.prevencao_de_acidentes.eletricidade_com_seguranca#eletricidade_com_seguranca.producao2",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao1",
+        "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza#produtos_de_limpeza.producao2",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.aplicacao",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao1",
+        "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados#medicamentos_e_cuidados.producao2"
+      ],
+      "questoes": "data/componentes/cna/questoes/EF02_prevencao_de_acidentes.json",
+      "prova": "data/componentes/cna/provas/EF02_prevencao_de_acidentes.json",
+      "arena": {
+        "arquivo": "arena/cna_arena.js",
+        "nivel": "EF02",
+        "unidade": "Prevenção de Acidentes",
+        "componente": "cna"
+      },
+      "rastreabilidade": "data/componentes/cna/lote_EF02_temas_restantes.json"
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id": "cna.ef02.prevencao_de_acidentes.medicamentos_e_cuidados",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 4,
+  "unidade": "Prevenção de Acidentes",
+  "titulo": "Medicamentos e Cuidados",
+  "bncc": [
+    "EF02CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escreva um diálogo para recusar medicamento oferecido por colega e pedir ajuda ao responsável.",
+      "Planeje com cartões como adultos podem guardar medicamentos sem confundi-los com alimentos."
+    ],
+    "resumo": "Medicamentos não são doces nem devem ser compartilhados.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.prevencao_de_acidentes.produtos_de_limpeza\">Produtos de Limpeza</button></p><h2>Medicamentos e Cuidados</h2><h3>Para compreender</h3><p>Medicamentos não são doces nem devem ser compartilhados. Um produto que ajuda uma pessoa pode fazer mal a outra ou na quantidade errada. Crianças não escolhem remédio, dose ou horário por conta própria. O responsável segue orientação de profissional de saúde e guarda produtos de modo seguro, fora do alcance infantil. Na aula não há ingestão ou identificação de comprimidos reais. Se um personagem encontra um medicamento, deve deixá-lo sem manuseio e chamar um adulto.</p><h3>Exemplo comentado</h3><p>Um colega fictício oferece um comprimido que ajudou seu familiar. Recusar é cuidado: sintomas parecidos não bastam para escolher tratamento. A tarefa é explicar a recusa, sem diagnosticar ninguém.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Escreva um diálogo para recusar medicamento oferecido por colega e pedir ajuda ao responsável.</p><h4>Proposta 2</h4><p>Planeje com cartões como adultos podem guardar medicamentos sem confundi-los com alimentos.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos\" target=\"_blank\" rel=\"noopener noreferrer\">Corpo de Bombeiros Militar do Paraná — Acidentes domésticos</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "medicamentos_e_cuidados.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Medicamento de um familiar pode ser tomado pela criança porque os sintomas parecem iguais?",
+      "alternativas": [
+        "Não; a escolha precisa de orientação apropriada.",
+        "Sim, se tiver a mesma cor de um doce.",
+        "Sim, se um colega recomendar."
+      ],
+      "correta": 0,
+      "explicacao": "Sintomas e aparência não definem indicação ou dose.",
+      "bncc": [
+        "EF02CI03"
+      ]
+    },
+    {
+      "id": "medicamentos_e_cuidados.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Escreva um diálogo para recusar medicamento oferecido por colega e pedir ajuda ao responsável.",
+      "gabarito": "Não aceitar nem recomendar dose; buscar adulto e orientação profissional.",
+      "rubrica": [
+        "Não aceitar nem recomendar dose; buscar adulto e orientação profissional.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI03"
+      ]
+    },
+    {
+      "id": "medicamentos_e_cuidados.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Planeje com cartões como adultos podem guardar medicamentos sem confundi-los com alimentos.",
+      "gabarito": "Manter identificação e armazenamento seguro, inacessível a crianças; não pedir inspeção de armário real.",
+      "rubrica": [
+        "Manter identificação e armazenamento seguro, inacessível a crianças; não pedir inspeção de armário real.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "Corpo de Bombeiros Militar do Paraná — Acidentes domésticos",
+      "url": "https://www.bombeiros.pr.gov.br/Pagina/Acidentes-domesticos",
+      "consulta": "2026-10-30",
+      "uso": "Seções cozinha, banheiro e lavanderia consultadas: armazenamento e prevenção. Sem reproduzir primeiros socorros ou propor exposição infantil a produtos/fogo."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.prevencao_de_acidentes.produtos_de_limpeza"
+  ],
+  "proximosPassos": [],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Prevenção de Acidentes",
+    "bncc": [
+      "EF02CI03"
+    ],
+    "titulo": "Medicamentos e Cuidados"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

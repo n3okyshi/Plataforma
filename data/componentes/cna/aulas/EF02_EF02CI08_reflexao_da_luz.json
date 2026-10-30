@@ -1,0 +1,122 @@
+{
+  "id": "cna.ef02.sol_e_superficies.reflexao_da_luz",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 29,
+  "unidade": "Sol e Superfícies",
+  "titulo": "Reflexão da Luz",
+  "bncc": [
+    "EF02CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Planeje comparação de reflexão entre papéis claros e escuros, com mesma luz e posições, sem olhar para reflexos fortes.",
+      "Explique por que observar reflexão e medir aquecimento respondem perguntas relacionadas, mas diferentes."
+    ],
+    "resumo": "Reflexão ocorre quando a luz que chega a uma superfície retorna ao ambiente.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.sol_e_superficies.superficies_metalicas\">Superfícies Metálicas</button></p><h2>Reflexão da Luz</h2><h3>Para compreender</h3><p>Reflexão ocorre quando a luz que chega a uma superfície retorna ao ambiente. Superfícies diferentes refletem quantidades e direções diferentes de luz. Uma parte da energia também pode ser absorvida e contribuir para aquecimento. Cor clara costuma estar ligada a maior reflexão da luz visível, mas brilho e textura importam. Para comparar, mantenha iluminação e posição semelhantes. Não se dirige espelho ou reflexo solar para os olhos de pessoas; pode-se usar luz fraca de lanterna manejada pelo adulto, sem laser.</p><h3>Exemplo comentado</h3><p>Um papel claro e outro escuro do mesmo tipo recebem a mesma lanterna fraca. O claro pode devolver mais luz percebida. Essa observação não substitui medir a temperatura se a pergunta for aquecimento.</p><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>Planeje comparação de reflexão entre papéis claros e escuros, com mesma luz e posições, sem olhar para reflexos fortes.</p><h4>Proposta 2</h4><p>Explique por que observar reflexão e medir aquecimento respondem perguntas relacionadas, mas diferentes.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/\" target=\"_blank\" rel=\"noopener noreferrer\">NASA Science — Explore Albedo Activity</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "reflexao_da_luz.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Refletir luz significa:",
+      "alternativas": [
+        "Deixar toda a luz atravessar a superfície.",
+        "Devolver parte da luz recebida ao ambiente.",
+        "Eliminar sempre todo aquecimento."
+      ],
+      "correta": 1,
+      "explicacao": "Parte da luz pode ser refletida e parte absorvida.",
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "reflexao_da_luz.producao1",
+      "tipo": "discursiva",
+      "enunciado": "Planeje comparação de reflexão entre papéis claros e escuros, com mesma luz e posições, sem olhar para reflexos fortes.",
+      "gabarito": "Comparar iluminação devolvida ao ambiente, sem laser ou reflexão solar para olhos.",
+      "rubrica": [
+        "Comparar iluminação devolvida ao ambiente, sem laser ou reflexão solar para olhos.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "reflexao_da_luz.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique por que observar reflexão e medir aquecimento respondem perguntas relacionadas, mas diferentes.",
+      "gabarito": "Luz devolvida não equivale a temperatura; distinguir observação visual e medida térmica.",
+      "rubrica": [
+        "Luz devolvida não equivale a temperatura; distinguir observação visual e medida térmica.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "NASA Science — Explore Albedo Activity",
+      "url": "https://science.nasa.gov/learn/heat/resource/explore-albedo-activity/",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página consultado sobre reflexão/absorção e aquecimento. PDF associado não consultado. Adaptação considera limites de material, umidade, acabamento e método; nenhum valor fictício é tratado como resultado real."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.sol_e_superficies.superficies_metalicas"
+  ],
+  "proximosPassos": [
+    "cna.ef02.sol_e_superficies.comparando_superficies_ao_sol"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Sol e Superfícies",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "titulo": "Reflexão da Luz"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}

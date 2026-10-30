@@ -1,0 +1,128 @@
+{
+  "id": "cna.ef02.partes_das_plantas.caule",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 15,
+  "unidade": "Partes das Plantas",
+  "titulo": "O Caule",
+  "bncc": [
+    "EF02CI06"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "No esquema incorporado, localize caule, raiz e folhas. Compare depois dois exemplos autorizados sem retirar partes.",
+      "Explique o que um apoio para uma planta de caule flexível pode ajudar a fazer e o que ele não substitui."
+    ],
+    "resumo": "O caule liga raízes, folhas e outras partes e participa da sustentação e do transporte de substâncias.",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Com apoio:</strong> um adulto pode ler, registrar fala, auxiliar medidas e oferecer descrição, áudio ou desenho. Avalie a explicação e o registro, sem exigir um único suporte.</p><p><strong>Retome antes:</strong> <button type=\"button\" data-action=\"open-lesson\" data-arg=\"cna.ef02.partes_das_plantas.raiz\">Partes das plantas e suas relações</button></p><h2>O Caule</h2><h3>Para compreender</h3><p>O caule liga raízes, folhas e outras partes e participa da sustentação e do transporte de substâncias. Troncos de árvores são caules, assim como muitos ramos; também existem caules macios e verdes. Nem todo caule fica acima do solo. Suas formas variam com a espécie e a fase da planta. Identificar exige observar relações entre partes, não só procurar uma peça marrom. Nesta etapa, use a planta inteira ou esquema, sem cortar para ver o interior.</p><h3>Exemplo comentado</h3><p>Um feijoeiro jovem tem caule verde e flexível; uma árvore pode ter tronco lenhoso. Ambos podem sustentar folhas. Flexível não significa que o primeiro não tenha caule.</p><svg viewBox=\"0 0 600 360\" role=\"img\" aria-label=\"Esquema autoral de tomateiro sem escala: raízes abaixo da linha do solo; caule liga folhas, flores e fruto vermelho com sementes indicadas em corte esquemático. Partes de fases distintas aparecem juntas para estudo; não é fotografia nem modelo de todas as plantas.\"><g stroke=\"#254b32\" stroke-width=\"4\" fill=\"none\"><path d=\"M80 260h440M270 260V75M270 170l-70-40M270 200l85-60M270 100l70-35M270 260l-40 70m40-70 35 65m-35-65v80\"/><path d=\"M200 130q-60-55-75-5 45 25 75 5M355 140q45-60 70-15-35 35-70 15\" fill=\"#68a86e\"/></g><circle cx=\"340\" cy=\"65\" r=\"19\" fill=\"#f4cc4b\" stroke=\"#4b3f1b\"/><circle cx=\"270\" cy=\"80\" r=\"28\" fill=\"#db6b58\" stroke=\"#492820\"/><g fill=\"#f4dea1\"><ellipse cx=\"260\" cy=\"80\" rx=\"3\" ry=\"6\"/><ellipse cx=\"279\" cy=\"88\" rx=\"3\" ry=\"6\"/></g><g font-size=\"17\" fill=\"#111\"><text x=\"85\" y=\"327\">Raiz</text><text x=\"290\" y=\"235\">Caule</text><text x=\"430\" y=\"135\">Folha</text><text x=\"370\" y=\"65\">Flor</text><text x=\"80\" y=\"65\">Fruto e sementes</text><text x=\"400\" y=\"285\">Solo</text></g><path d=\"M190 65h47M140 320h70M420 135h-12\" stroke=\"#111\"/></svg><h3>Investigar e produzir</h3><h4>Proposta 1</h4><p>No esquema incorporado, localize caule, raiz e folhas. Compare depois dois exemplos autorizados sem retirar partes.</p><h4>Proposta 2</h4><p>Explique o que um apoio para uma planta de caule flexível pode ajudar a fazer e o que ele não substitui.</p><h3>Fontes e limites de consulta</h3><ul><li>BNCC_EI_EF_110518_versaofinal_site.pdf — página PDF 337</li><li><a href=\"https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta\" target=\"_blank\" rel=\"noopener noreferrer\">UENF — Conhecendo Biologia Vegetal: partes da planta</a></li><li><a href=\"https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)</a></li></ul>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "caule.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Um caule verde e flexível pode:",
+      "alternativas": [
+        "Absorver água do solo no lugar das raízes.",
+        "Sustentar folhas e transportar substâncias.",
+        "Existir apenas em árvores."
+      ],
+      "correta": 1,
+      "explicacao": "Há diversidade de caules e funções integradas.",
+      "bncc": [
+        "EF02CI06"
+      ]
+    },
+    {
+      "id": "caule.producao1",
+      "tipo": "discursiva",
+      "enunciado": "No esquema incorporado, localize caule, raiz e folhas. Compare depois dois exemplos autorizados sem retirar partes.",
+      "gabarito": "Reconhecer ligação e sustentação/transporte, sem limitar caule a tronco marrom.",
+      "rubrica": [
+        "Reconhecer ligação e sustentação/transporte, sem limitar caule a tronco marrom.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI06"
+      ]
+    },
+    {
+      "id": "caule.producao2",
+      "tipo": "discursiva",
+      "enunciado": "Explique o que um apoio para uma planta de caule flexível pode ajudar a fazer e o que ele não substitui.",
+      "gabarito": "Apoio auxilia sustentação, mas não substitui caule e transporte; não montar estacas pontiagudas.",
+      "rubrica": [
+        "Apoio auxilia sustentação, mas não substitui caule e transporte; não montar estacas pontiagudas.",
+        "Atende: registro verificável, explicação coerente e distinção entre fonte, exemplo, hipótese, plano e observação.",
+        "Em desenvolvimento: há evidência parcial; receber devolutiva específica e revisar. Retomar: falta produção ou relação necessária."
+      ],
+      "bncc": [
+        "EF02CI06"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "observacao",
+    "comparacao",
+    "producao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Texto das oito habilidades do 2º ano consultado diretamente. Confronto assistido por dimensões no lote; sem homologação independente."
+    },
+    {
+      "documento": "UENF — Conhecendo Biologia Vegetal: partes da planta",
+      "url": "https://conhecendobiologiavegetal.uenf.br/ensino-fundamental/partes-da-planta",
+      "consulta": "2026-10-30",
+      "uso": "Texto da página sobre funções das partes consultado. Não foram vistos vídeos, cartilhas ou anexos. Explicações e exemplos autorais; sem afirmar que toda planta tem flores/frutos ou alimento pronto vindo do solo."
+    },
+    {
+      "documento": "Embrapa Hortaliças — Hortas pedagógicas: manual prático para instalação (2019)",
+      "url": "https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1120149/1/manual-pratico-instalacao.pdf",
+      "consulta": "2026-10-30",
+      "uso": "Seções de local, necessidades das espécies, irrigação, manejo e colheita consultadas em texto, páginas PDF 13–15, 60–61, 78 e 89–92 (índice do documento pode exibir deslocamento). Não houve leitura integral, inspeção das fotos ou execução de horta. Não se reproduzem receituários, ferramentas perigosas ou classificações botânicas imprecisas do manual; batata é caule modificado, não raiz."
+    }
+  ],
+  "complementar": false,
+  "preRequisitos": [
+    "cna.ef02.partes_das_plantas.raiz"
+  ],
+  "proximosPassos": [
+    "cna.ef02.partes_das_plantas.folhas"
+  ],
+  "metadados": {
+    "estado": "piloto",
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "versao": 1,
+    "revisao": "Conferência conceitual e pedagógica assistida; observação e homologação docente independente pendentes.",
+    "estadoDoEscopo": "pronto_para_testes"
+  },
+  "origemPlanejamento": {
+    "unidade": "Partes das Plantas",
+    "bncc": [
+      "EF02CI06"
+    ],
+    "titulo": "O Caule"
+  },
+  "publicacao": {
+    "permitida": true,
+    "escopo": "piloto_para_testes",
+    "motivo": "Implementação autoral assistida com validação técnica; aplicação e homologação independente pendentes."
+  }
+}
