@@ -1,0 +1,104 @@
+{
+  "id": "cna.ef02.terra_e_universo.prova",
+  "titulo": "Avaliação: Terra e Universo",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF02",
+  "unidade": "Terra e Universo",
+  "bncc": [
+    "EF02CI07",
+    "EF02CI08"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "2 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 2, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef02.terra_e_universo.prova.07",
+    "cna.ef02.terra_e_universo.prova.08"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef02.terra_e_universo.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Terra e Universo",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF02CI07",
+      "EF02CI08"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Posição aparente do Sol e sombras",
+        "enunciado": "Com o adulto, marque o contorno da sombra de um objeto fixo em três horários seguros, no mesmo lugar. Registre data, horário, direção aproximada e tamanho por comparação ou medida. Relacione mudanças ao percurso aparente do Sol sem olhar para ele. Se o tempo impedir, registre e repita em outra data.",
+        "gabarito": "Exigir três registros comparáveis e explicação de mudança. Não inventar observações de dia nublado nem impor 12h como mínimo universal. O modelo do percurso aparente não exige observação direta do Sol.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir três registros comparáveis e explicação de mudança. Não inventar observações de dia nublado nem impor 12h como mínimo universal. O modelo do percurso aparente não exige observação direta do Sol.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF02CI07"
+        ],
+        "atividadeOrigem": "cna.ef02.sol_no_ceu.posicao_do_sol#posicao_do_sol.investigacao"
+      },
+      {
+        "titulo": "Sol, aquecimento e diferentes superfícies",
+        "enunciado": "O adulto organiza duas comparações curtas com superfícies seguras de cores diferentes e materiais diferentes, mantendo tempo e exposição comparáveis. Registre temperatura com termômetro manejado pelo adulto, se disponível, ou use dados de uma medição escolar identificada. Compare aquecimento e reflexão sem tocar amostras nem olhar reflexos intensos.",
+        "gabarito": "Exigir condições registradas, resultados reais e distinção entre aquecimento e brilho. Se não houver medida, não inventar valores nem afirmar diferenças só pelo brilho. Evitar generalizações absolutas para todo material escuro ou metálico.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir condições registradas, resultados reais e distinção entre aquecimento e brilho. Se não houver medida, não inventar valores nem afirmar diferenças só pelo brilho. Evitar generalizações absolutas para todo material escuro ou metálico.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF02CI08"
+        ],
+        "atividadeOrigem": "cna.ef02.sol_e_superficies.aquecimento_da_agua#aquecimento_da_agua.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF02CI07",
+      "questoes": [
+        "cna.ef02.terra_e_universo.prova.07"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.sol_no_ceu.posicao_do_sol#posicao_do_sol.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF02CI08",
+      "questoes": [
+        "cna.ef02.terra_e_universo.prova.08"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef02.terra_e_universo.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef02.sol_e_superficies.aquecimento_da_agua#aquecimento_da_agua.investigacao"
+      ]
+    }
+  ]
+}

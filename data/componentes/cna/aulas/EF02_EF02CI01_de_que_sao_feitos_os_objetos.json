@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef02.materiais_e_objetos.de_que_sao_feitos_os_objetos",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 1,
+  "unidade": "Matéria e Energia",
+  "titulo": "Objetos, materiais e mudanças no tempo",
+  "bncc": [
+    "EF02CI01"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Observe quatro objetos seguros, nomeie seus materiais e usos. Com um adulto, consulte uma fotografia ou relato familiar de um objeto usado no passado; registre a origem da informação e compare com um atual. Não manipule vidro quebrado ou peças cortantes."
+    ],
+    "resumo": "Objetos, materiais e mudanças no tempo",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Objetos, materiais e mudanças no tempo</h2><h3>Ideias para investigar</h3><p>Objeto e material não são a mesma coisa. Copo é um objeto que pode ser feito de vidro, metal, plástico ou outros materiais. A escolha se relaciona ao uso e às técnicas disponíveis. Objetos de outras épocas podem combinar materiais diferentes dos atuais; essa comparação precisa de imagem, relato ou exemplar identificado, não de adivinhação.</p><h3>Exemplo comentado</h3><p>Uma colher de madeira e uma de metal têm função semelhante, mas propriedades diferentes. Isso não significa que uma sempre tenha substituído a outra: ambas podem continuar em uso. Fotografias antigas precisam de data ou contexto para sustentar comparações históricas.</p><h3>Observe, registre e explique</h3><p>Observe quatro objetos seguros, nomeie seus materiais e usos. Com um adulto, consulte uma fotografia ou relato familiar de um objeto usado no passado; registre a origem da informação e compare com um atual. Não manipule vidro quebrado ou peças cortantes.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "de_que_sao_feitos_os_objetos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual par distingue objeto e material?",
+      "alternativas": [
+        "Copo e vidro.",
+        "Madeira e metal, como se fossem objetos idênticos.",
+        "Papel e plástico como nomes de um único uso."
+      ],
+      "correta": 0,
+      "explicacao": "Uma colher de madeira e uma de metal têm função semelhante, mas propriedades diferentes. Isso não significa que uma sempre tenha substituído a outra: ambas podem continuar em uso. Fotografias antigas precisam de data ou contexto para sustentar comparações históricas.",
+      "bncc": [
+        "EF02CI01"
+      ]
+    },
+    {
+      "id": "de_que_sao_feitos_os_objetos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Observe quatro objetos seguros, nomeie seus materiais e usos. Com um adulto, consulte uma fotografia ou relato familiar de um objeto usado no passado; registre a origem da informação e compare com um atual. Não manipule vidro quebrado ou peças cortantes.",
+      "gabarito": "Conferir objeto/material/uso e fonte real da comparação temporal. Aceitar misturas de materiais. Não concluir substituição total quando a fonte mostra apenas coexistência ou um caso particular.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Conferir objeto/material/uso e fonte real da comparação temporal. Aceitar misturas de materiais. Não concluir substituição total quando a fonte mostra apenas coexistência ou um caso particular.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF02CI01"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Materiais e Objetos",
+    "titulo": "De Que São Feitos os Objetos"
+  }
+}

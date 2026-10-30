@@ -1,0 +1,103 @@
+{
+  "nivel": "EF01",
+  "estado": "piloto_nucleo",
+  "limites": "Núcleo em sequências amplas; tópicos recuperados restantes e todas as dimensões das habilidades precisam de revisão pedagógica. Não é lote integral homologado.",
+  "habilidades": [
+    {
+      "codigo": "EF01CI01",
+      "aulas": [
+        "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais"
+      ],
+      "atividades": [
+        "cna.ef01.materiais_do_cotidiano.o_que_sao_materiais#o_que_sao_materiais.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef01.materia_e_energia.treino.01"
+      ],
+      "questoesProva": [
+        "cna.ef01.materia_e_energia.prova.01"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF01CI02",
+      "aulas": [
+        "cna.ef01.corpo_humano.partes_do_corpo"
+      ],
+      "atividades": [
+        "cna.ef01.corpo_humano.partes_do_corpo#partes_do_corpo.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef01.vida_e_evolucao.treino.02"
+      ],
+      "questoesProva": [
+        "cna.ef01.vida_e_evolucao.prova.02"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF01CI03",
+      "aulas": [
+        "cna.ef01.higiene_e_saude.lavar_as_maos"
+      ],
+      "atividades": [
+        "cna.ef01.higiene_e_saude.lavar_as_maos#lavar_as_maos.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef01.vida_e_evolucao.treino.03"
+      ],
+      "questoesProva": [
+        "cna.ef01.vida_e_evolucao.prova.03"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF01CI04",
+      "aulas": [
+        "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas"
+      ],
+      "atividades": [
+        "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas#caracteristicas_fisicas_dos_colegas.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef01.vida_e_evolucao.treino.04"
+      ],
+      "questoesProva": [
+        "cna.ef01.vida_e_evolucao.prova.04"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF01CI05",
+      "aulas": [
+        "cna.ef01.tempo_e_rotina.manha_tarde_e_noite"
+      ],
+      "atividades": [
+        "cna.ef01.tempo_e_rotina.manha_tarde_e_noite#manha_tarde_e_noite.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef01.terra_e_universo.treino.05"
+      ],
+      "questoesProva": [
+        "cna.ef01.terra_e_universo.prova.05"
+      ],
+      "homologacaoDocente": "pendente"
+    },
+    {
+      "codigo": "EF01CI06",
+      "aulas": [
+        "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu"
+      ],
+      "atividades": [
+        "cna.ef01.dia_e_noite_na_vida.sol_e_lua_no_ceu#sol_e_lua_no_ceu.investigacao"
+      ],
+      "questoesTreino": [
+        "cna.ef01.terra_e_universo.treino.06"
+      ],
+      "questoesProva": [
+        "cna.ef01.terra_e_universo.prova.06"
+      ],
+      "homologacaoDocente": "pendente"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "cna.ef02.terra_e_universo.treino.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef02.sol_no_ceu.posicao_do_sol",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Como comparar sombras ao longo do dia?",
+    "opcoes": [
+      "Mudando objeto e lugar a cada observação sem registrar.",
+      "Usando o mesmo objeto fixo e anotando horários.",
+      "Olhando diretamente o Sol."
+    ],
+    "correta": 1,
+    "explicacao": "Uma haste fixa pode produzir sombra comprida em um horário e menor em outro. A menor sombra observada não precisa ocorrer exatamente às 12h do relógio. Em dia nublado, pode não haver sombra bem definida; registrar essa condição é parte da investigação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef02.terra_e_universo.prova.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef02.sol_no_ceu.posicao_do_sol",
+    "bncc": [
+      "EF02CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma sombra pouco definida em dia nublado deve ser:",
+    "opcoes": [
+      "Interpretada como ausência definitiva do Sol.",
+      "Registrada como condição que limita a observação.",
+      "Inventada no registro."
+    ],
+    "correta": 1,
+    "explicacao": "Condições do tempo podem impedir comparar uma sombra nítida naquele momento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef02.terra_e_universo.treino.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef02.sol_e_superficies.aquecimento_da_agua",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma superfície brilhante é necessariamente fria?",
+    "opcoes": [
+      "Não; refletir luz e estar aquecida podem ocorrer juntos.",
+      "Sim, brilho mede temperatura.",
+      "Sim, sempre."
+    ],
+    "correta": 0,
+    "explicacao": "Duas superfícies semelhantes, uma clara e outra escura, podem aquecer de modo diferente sob a mesma exposição. Um metal brilhante pode refletir luz e ainda estar quente. Se uma amostra está na sombra e outra ao Sol, não se pode atribuir toda diferença apenas à cor.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef02.terra_e_universo.prova.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF02",
+    "unidade": "Terra e Universo",
+    "aulaId": "cna.ef02.sol_e_superficies.aquecimento_da_agua",
+    "bncc": [
+      "EF02CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para comparar o aquecimento de duas cores, é importante:",
+    "opcoes": [
+      "Usar brilho como único termômetro.",
+      "Manter exposição e tempo semelhantes.",
+      "Deixar só uma no Sol sem registrar."
+    ],
+    "correta": 1,
+    "explicacao": "Controlar condições permite interpretar a diferença com menos fatores misturados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          337
+        ],
+        "paginasImpressas": "335",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

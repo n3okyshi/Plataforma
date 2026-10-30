@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef02.sol_e_superficies.aquecimento_da_agua",
+  "componente": "cna",
+  "nivel": "EF02",
+  "ordem": 8,
+  "unidade": "Terra e Universo",
+  "titulo": "Sol, aquecimento e diferentes superfícies",
+  "bncc": [
+    "EF02CI08"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "O adulto organiza duas comparações curtas com superfícies seguras de cores diferentes e materiais diferentes, mantendo tempo e exposição comparáveis. Registre temperatura com termômetro manejado pelo adulto, se disponível, ou use dados de uma medição escolar identificada. Compare aquecimento e reflexão sem tocar amostras nem olhar reflexos intensos."
+    ],
+    "resumo": "Sol, aquecimento e diferentes superfícies",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Sol, aquecimento e diferentes superfícies</h2><h3>Ideias para investigar</h3><p>A radiação solar pode aquecer materiais e ser refletida de modo diferente. Cor, material, tempo de exposição e outras condições influenciam o resultado. Comparar exige usar recipientes ou superfícies semelhantes e registrar o que mudou. Brilho refletido não é medida direta de temperatura. Não toque superfícies que possam estar quentes nem direcione reflexos aos olhos.</p><h3>Exemplo comentado</h3><p>Duas superfícies semelhantes, uma clara e outra escura, podem aquecer de modo diferente sob a mesma exposição. Um metal brilhante pode refletir luz e ainda estar quente. Se uma amostra está na sombra e outra ao Sol, não se pode atribuir toda diferença apenas à cor.</p><h3>Observe, registre e explique</h3><p>O adulto organiza duas comparações curtas com superfícies seguras de cores diferentes e materiais diferentes, mantendo tempo e exposição comparáveis. Registre temperatura com termômetro manejado pelo adulto, se disponível, ou use dados de uma medição escolar identificada. Compare aquecimento e reflexão sem tocar amostras nem olhar reflexos intensos.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "aquecimento_da_agua.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Uma superfície brilhante é necessariamente fria?",
+      "alternativas": [
+        "Sim, sempre.",
+        "Não; refletir luz e estar aquecida podem ocorrer juntos.",
+        "Sim, brilho mede temperatura."
+      ],
+      "correta": 1,
+      "explicacao": "Duas superfícies semelhantes, uma clara e outra escura, podem aquecer de modo diferente sob a mesma exposição. Um metal brilhante pode refletir luz e ainda estar quente. Se uma amostra está na sombra e outra ao Sol, não se pode atribuir toda diferença apenas à cor.",
+      "bncc": [
+        "EF02CI08"
+      ]
+    },
+    {
+      "id": "aquecimento_da_agua.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "O adulto organiza duas comparações curtas com superfícies seguras de cores diferentes e materiais diferentes, mantendo tempo e exposição comparáveis. Registre temperatura com termômetro manejado pelo adulto, se disponível, ou use dados de uma medição escolar identificada. Compare aquecimento e reflexão sem tocar amostras nem olhar reflexos intensos.",
+      "gabarito": "Exigir condições registradas, resultados reais e distinção entre aquecimento e brilho. Se não houver medida, não inventar valores nem afirmar diferenças só pelo brilho. Evitar generalizações absolutas para todo material escuro ou metálico.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir condições registradas, resultados reais e distinção entre aquecimento e brilho. Se não houver medida, não inventar valores nem afirmar diferenças só pelo brilho. Evitar generalizações absolutas para todo material escuro ou metálico.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF02CI08"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        337
+      ],
+      "paginasImpressas": "335",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Sol e Superfícies",
+    "titulo": "Aquecimento da Água"
+  }
+}

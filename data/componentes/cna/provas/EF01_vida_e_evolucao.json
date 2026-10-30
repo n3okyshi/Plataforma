@@ -1,0 +1,133 @@
+{
+  "id": "cna.ef01.vida_e_evolucao.prova",
+  "titulo": "Avaliação: Vida e Evolução",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF01",
+  "unidade": "Vida e Evolução",
+  "bncc": [
+    "EF01CI02",
+    "EF01CI03",
+    "EF01CI04"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "3 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 3, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef01.vida_e_evolucao.prova.02",
+    "cna.ef01.vida_e_evolucao.prova.03",
+    "cna.ef01.vida_e_evolucao.prova.04"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef01.vida_e_evolucao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Vida e Evolução",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF01CI02",
+      "EF01CI03",
+      "EF01CI04"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Partes do corpo e diferentes formas de agir",
+        "enunciado": "Desenhe uma pessoa ou um personagem, identificando cabeça, tronco, braços, mãos, pernas e pés conforme a representação escolhida. Explique três funções e mostre duas maneiras de realizar uma ação cotidiana. Não é necessário expor o próprio corpo nem imitar uma deficiência.",
+        "gabarito": "Conferir localização, nomeação e representação gráfica, com explicação de funções. Aceitar desenho mediado ou recurso tátil acessível com registro da adaptação. Valorizar diferentes estratégias sem exigir um corpo-padrão.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Conferir localização, nomeação e representação gráfica, com explicação de funções. Aceitar desenho mediado ou recurso tátil acessível com registro da adaptação. Valorizar diferentes estratégias sem exigir um corpo-padrão.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF01CI02"
+        ],
+        "atividadeOrigem": "cna.ef01.corpo_humano.partes_do_corpo#partes_do_corpo.investigacao"
+      },
+      {
+        "titulo": "Higiene: compreender o cuidado",
+        "enunciado": "Com um adulto, construa uma sequência ilustrada de três momentos de cuidado. Explique por que lavar as mãos, cuidar da boca e limpar delicadamente a parte externa do rosto/orelhas são importantes. Demonstre a organização dos materiais sem compartilhar objetos pessoais; não faça testes com olhos ou canais de ouvido.",
+        "gabarito": "Exigir explicação das razões e sequência de situações, não inspeção íntima do estudante. Observar organização e compreensão; não tratar dificuldade de acesso a materiais como falha moral nem prometer prevenção de todas as doenças.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir explicação das razões e sequência de situações, não inspeção íntima do estudante. Observar organização e compreensão; não tratar dificuldade de acesso a materiais como falha moral nem prometer prevenção de todas as doenças.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF01CI03"
+        ],
+        "atividadeOrigem": "cna.ef01.higiene_e_saude.lavar_as_maos#lavar_as_maos.investigacao"
+      },
+      {
+        "titulo": "Diversidade física e acolhimento",
+        "enunciado": "Observe retratos desenhados ou personagens, e converse com colegas que desejem participar, sem medir corpos nem classificar beleza. Registre duas semelhanças e duas diferenças e proponha duas ações de acolhimento para uma atividade coletiva. Justifique por que todos devem poder participar.",
+        "gabarito": "Conferir descrição respeitosa e ações concretas, sem rankings nem exposição forçada. Avaliar acolhimento observado e explicações; não exigir revelação de informação pessoal.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Conferir descrição respeitosa e ações concretas, sem rankings nem exposição forçada. Avaliar acolhimento observado e explicações; não exigir revelação de informação pessoal.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF01CI04"
+        ],
+        "atividadeOrigem": "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas#caracteristicas_fisicas_dos_colegas.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        335
+      ],
+      "paginasImpressas": "333",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF01CI02",
+      "questoes": [
+        "cna.ef01.vida_e_evolucao.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.corpo_humano.partes_do_corpo#partes_do_corpo.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01CI03",
+      "questoes": [
+        "cna.ef01.vida_e_evolucao.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.higiene_e_saude.lavar_as_maos#lavar_as_maos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF01CI04",
+      "questoes": [
+        "cna.ef01.vida_e_evolucao.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef01.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef01.diversidade_e_respeito.caracteristicas_fisicas_dos_colegas#caracteristicas_fisicas_dos_colegas.investigacao"
+      ]
+    }
+  ]
+}
