@@ -1,0 +1,177 @@
+{
+  "id": "lip.ef06.ortografia_e_pontuacao.prova",
+  "titulo": "Avaliação: Ortografia e Pontuação",
+  "componente": "lip",
+  "tema": "Língua Portuguesa",
+  "nivel": "EF06",
+  "unidade": "Ortografia e Pontuação",
+  "bncc": [
+    "EF67LP32",
+    "EF67LP33"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Cinco itens objetivos, dois pontos por item, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+  "questoes": [
+    "lip.ef06.ortografia_e_pontuacao.prova.01",
+    "lip.ef06.ortografia_e_pontuacao.prova.02",
+    "lip.ef06.ortografia_e_pontuacao.prova.03",
+    "lip.ef06.ortografia_e_pontuacao.prova.04",
+    "lip.ef06.ortografia_e_pontuacao.prova.05"
+  ],
+  "criterios": "Dois pontos por item objetivo; portfólio com devolutiva por tarefa.",
+  "avaliacaoPratica": {
+    "id": "lip.ef06.ortografia_e_pontuacao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de escrita e revisão",
+    "enunciado": "Reúna as cinco produções e revise após a devolutiva. Identifique as consultas e explique suas revisões.",
+    "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+    "rubrica": [
+      "Atende: apresenta evidência e explica escolhas.",
+      "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+      "Retomar: precisa produzir ou corrigir a evidência."
+    ],
+    "bncc": [
+      "EF67LP32",
+      "EF67LP33"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Ortografia e revisão orientada",
+        "enunciado": "Produza um bilhete de quatro frases sobre uma viagem fictícia, identificada como ficção. Empregue viagem e uma forma do verbo viajar. Sublinhe três palavras cuja grafia você conferiu no dicionário ou no material da aula. Entregue a primeira versão e a revisada, explicando as escolhas.",
+        "gabarito": "Exigir bilhete real e versões. Viagem deve nomear o deslocamento; viajar/viajaram/viajem devem funcionar como verbo no contexto. Registrar três conferências com a forma verificada e a fonte usada. Se a primeira versão já estiver correta, justificar a manutenção; não exigir erros inventados.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir bilhete real e versões. Viagem deve nomear o deslocamento; viajar/viajaram/viajem devem funcionar como verbo no contexto. Registrar três conferências com a forma verificada e a fonte usada. Se a primeira versão já estiver correta, justificar a manutenção; não exigir erros inventados.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP32"
+        ],
+        "atividadeOrigem": "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes#ortografia_e_convencoes.producao"
+      },
+      {
+        "titulo": "Pontuação e construção de sentidos",
+        "enunciado": "Pontue o trecho conforme esta intenção: Lia pergunta se os colegas trouxeram lápis, papel e régua; depois convida a turma a começar. Trecho: “Lia perguntou vocês trouxeram lápis papel e régua vamos começar turma”. Reescreva como pequeno diálogo com fala identificada. Explique três sinais e compare “Não, espere” com “Não espere”.",
+        "gabarito": "Possibilidade: Lia perguntou: “Vocês trouxeram lápis, papel e régua?” Depois, convidou: “Vamos começar, turma!” Aceitar travessões e outra organização que preserve pergunta, enumeração e convite. Explicar dois-pontos/aspas ou travessão, interrogação, vírgulas e vocativo. A comparação deve distinguir esperar de não esperar.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Possibilidade: Lia perguntou: “Vocês trouxeram lápis, papel e régua?” Depois, convidou: “Vamos começar, turma!” Aceitar travessões e outra organização que preserve pergunta, enumeração e convite. Explicar dois-pontos/aspas ou travessão, interrogação, vírgulas e vocativo. A comparação deve distinguir esperar de não esperar.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP33"
+        ],
+        "atividadeOrigem": "lip.ef06.ortografia_e_pontuacao.pontuar_textos#pontuar_textos.producao"
+      },
+      {
+        "titulo": "Acentuação: tonicidade e regras",
+        "enunciado": "Revise “No sabado, a turma ouviu musica e tomou cafe. Depois, usou um lapis para registrar uma ideia”. Marque a sílaba tônica de sábado, música, café, lápis e ideia; justifique os acentos presentes ou ausentes. Escreva duas novas frases empregando uma oxítona e uma proparoxítona acentuadas.",
+        "gabarito": "“No sábado, a turma ouviu música e tomou café. Depois, usou um lápis para registrar uma ideia.” SÁ-ba-do e MÚ-si-ca: proparoxítonas; ca-FÉ: oxítona terminada em e; LÁ-pis: paroxítona terminada em is; i-DEI-a: paroxítona com ditongo aberto ei sem acento. Exigir duas frases próprias com palavras corretamente empregadas.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "“No sábado, a turma ouviu música e tomou café. Depois, usou um lápis para registrar uma ideia.” SÁ-ba-do e MÚ-si-ca: proparoxítonas; ca-FÉ: oxítona terminada em e; LÁ-pis: paroxítona terminada em is; i-DEI-a: paroxítona com ditongo aberto ei sem acento. Exigir duas frases próprias com palavras corretamente empregadas.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP32"
+        ],
+        "atividadeOrigem": "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica#acentuacao_grafica.producao"
+      },
+      {
+        "titulo": "Hífen: padrões e consulta",
+        "enunciado": "Organize micro-ondas, autoescola, minissaia, anti-higiênico, ex-aluno e fim de semana em uma tabela: grafia, explicação e frase autoral. Compare micro-ondas com cooperar e explique por que uma regra parcial não elimina a necessidade de consulta. Revise a tabela após a devolutiva.",
+        "gabarito": "Micro-ondas: vogais iguais nessa formação; autoescola: vogais diferentes; minissaia: duplicação do s; anti-higiênico: h inicial; ex-aluno: prefixo ex-; fim de semana: locução sem hífen. Cooperar mostra limite da generalização. Conferir as seis frases pelo sentido, a grafia e o registro da revisão.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Micro-ondas: vogais iguais nessa formação; autoescola: vogais diferentes; minissaia: duplicação do s; anti-higiênico: h inicial; ex-aluno: prefixo ex-; fim de semana: locução sem hífen. Cooperar mostra limite da generalização. Conferir as seis frases pelo sentido, a grafia e o registro da revisão.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP32"
+        ],
+        "atividadeOrigem": "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen#emprego_do_hifen.producao"
+      },
+      {
+        "titulo": "Palavras parecidas: escolha pelo contexto",
+        "enunciado": "Escreva um pequeno relato com comprimento/cumprimento e acento/assento, usando cada palavra em sentido adequado. Depois revise “O assento da palavra está errado” e “Medi o cumprimento do corredor”, explicando por que um corretor automático poderia não detectar o problema.",
+        "gabarito": "Exigir quatro usos coerentes no relato. Revisões: “O acento da palavra está errado” e “Medi o comprimento do corredor”. As palavras originais existem, mas são inadequadas ao sentido pretendido; um corretor que verifique apenas a existência das formas pode não sinalizá-las.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir quatro usos coerentes no relato. Revisões: “O acento da palavra está errado” e “Medi o comprimento do corredor”. As palavras originais existem, mas são inadequadas ao sentido pretendido; um corretor que verifique apenas a existência das formas pode não sinalizá-las.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP32"
+        ],
+        "atividadeOrigem": "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas#paronimas_e_homonimas.producao"
+      }
+    ],
+    "correcao": "Docente com devolutiva individual; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        29,
+        30,
+        31,
+        32,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        233,
+        234,
+        235
+      ],
+      "paginasImpressas": "32–35, 47–58, 236–238",
+      "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF67LP32",
+      "questoes": [
+        "lip.ef06.ortografia_e_pontuacao.prova.01",
+        "lip.ef06.ortografia_e_pontuacao.prova.03",
+        "lip.ef06.ortografia_e_pontuacao.prova.04",
+        "lip.ef06.ortografia_e_pontuacao.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.ortografia_e_pontuacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes#ortografia_e_convencoes.producao",
+        "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica#acentuacao_grafica.producao",
+        "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen#emprego_do_hifen.producao",
+        "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas#paronimas_e_homonimas.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP33",
+      "questoes": [
+        "lip.ef06.ortografia_e_pontuacao.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.ortografia_e_pontuacao.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.ortografia_e_pontuacao.pontuar_textos#pontuar_textos.producao"
+      ]
+    }
+  ]
+}

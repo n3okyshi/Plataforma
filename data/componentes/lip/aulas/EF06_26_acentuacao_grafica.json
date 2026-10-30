@@ -1,0 +1,107 @@
+{
+  "id": "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 26,
+  "unidade": "Ortografia e Pontuação",
+  "titulo": "Acentuação: tonicidade e regras",
+  "bncc": [
+    "EF67LP32"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Revise “No sabado, a turma ouviu musica e tomou cafe. Depois, usou um lapis para registrar uma ideia”. Marque a sílaba tônica de sábado, música, café, lápis e ideia; justifique os acentos presentes ou ausentes. Escreva duas novas frases empregando uma oxítona e uma proparoxítona acentuadas."
+    ],
+    "resumo": "Acentuação: tonicidade e regras",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Acentuação: tonicidade e regras</h2><p>Sílaba tônica é a pronunciada com maior destaque. Toda palavra com mais de uma sílaba tem uma posição de tonicidade na pronúncia, mas nem toda palavra recebe acento gráfico. Oxítonas têm a última sílaba tônica; paroxítonas, a penúltima; proparoxítonas, a antepenúltima. Neste recorte: todas as proparoxítonas são acentuadas; acentuam-se oxítonas terminadas em a, e, o, com ou sem s, e em em/ens; entre as paroxítonas, estudaremos as terminadas em l, r, x, i/is e um/uns. Há outras regras, a consultar conforme a dúvida.</p><h3>Exemplo comentado</h3><p>Café é oxítona terminada em e; também, oxítona terminada em em; fácil, paroxítona terminada em l; lápis, paroxítona terminada em is; música, proparoxítona. Livro é paroxítona e não recebe acento gráfico por essa terminação. Ideia e heroico não têm acento nos ditongos abertos ei/oi de palavras paroxítonas; herói conserva o acento como oxítona com ditongo aberto. A tonicidade e a terminação precisam ser observadas juntas.</p><h3>Produza e revise</h3><p>Revise “No sabado, a turma ouviu musica e tomou cafe. Depois, usou um lapis para registrar uma ideia”. Marque a sílaba tônica de sábado, música, café, lápis e ideia; justifique os acentos presentes ou ausentes. Escreva duas novas frases empregando uma oxítona e uma proparoxítona acentuadas.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "acentuacao_grafica.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual conjunto está grafado corretamente?",
+      "alternativas": [
+        "Sabado, musica, café",
+        "Sábado, música, café",
+        "Sábado, música, cafe",
+        "Sabádo, música, café"
+      ],
+      "correta": 1,
+      "explicacao": "Café é oxítona terminada em e; também, oxítona terminada em em; fácil, paroxítona terminada em l; lápis, paroxítona terminada em is; música, proparoxítona. Livro é paroxítona e não recebe acento gráfico por essa terminação. Ideia e heroico não têm acento nos ditongos abertos ei/oi de palavras paroxítonas; herói conserva o acento como oxítona com ditongo aberto. A tonicidade e a terminação precisam ser observadas juntas.",
+      "bncc": [
+        "EF67LP32"
+      ]
+    },
+    {
+      "id": "acentuacao_grafica.producao",
+      "tipo": "discursiva",
+      "enunciado": "Revise “No sabado, a turma ouviu musica e tomou cafe. Depois, usou um lapis para registrar uma ideia”. Marque a sílaba tônica de sábado, música, café, lápis e ideia; justifique os acentos presentes ou ausentes. Escreva duas novas frases empregando uma oxítona e uma proparoxítona acentuadas.",
+      "gabarito": "“No sábado, a turma ouviu música e tomou café. Depois, usou um lápis para registrar uma ideia.” SÁ-ba-do e MÚ-si-ca: proparoxítonas; ca-FÉ: oxítona terminada em e; LÁ-pis: paroxítona terminada em is; i-DEI-a: paroxítona com ditongo aberto ei sem acento. Exigir duas frases próprias com palavras corretamente empregadas.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "“No sábado, a turma ouviu música e tomou café. Depois, usou um lápis para registrar uma ideia.” SÁ-ba-do e MÚ-si-ca: proparoxítonas; ca-FÉ: oxítona terminada em e; LÁ-pis: paroxítona terminada em is; i-DEI-a: paroxítona com ditongo aberto ei sem acento. Exigir duas frases próprias com palavras corretamente empregadas.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP32"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        29,
+        30,
+        31,
+        32,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        233,
+        234,
+        235
+      ],
+      "paginasImpressas": "32–35, 47–58, 236–238",
+      "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

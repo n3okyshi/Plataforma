@@ -14,6 +14,11 @@ registrarTeoria({
   "lip.ef06.sintaxe_da_oracao.oracoes_justapostas": "<h2>Orações coordenadas separadas por vírgula</h2><p>Um período pode reunir orações coordenadas sem conectivo explícito entre elas. Quando aparecem lado a lado, separadas por vírgula e sem conjunção, são coordenadas assindéticas. As orações se relacionam pelo sentido, mas uma não exerce função sintática dentro da outra nos exemplos estudados. Essa organização pode dar ritmo de sequência à narrativa. A presença de vírgula, sozinha, não prova que há várias orações: ela também pode separar itens de uma lista ou destacar uma expressão.</p><h3>Exemplo comentado</h3><p>Em “A turma entrou, os monitores distribuíram livros, todos leram”, os núcleos entrou, distribuíram e leram organizam três orações coordenadas assindéticas. Em “Na mesa havia livros, cadernos e lápis”, as vírgulas separam itens de uma enumeração: não criam novas orações. Já em “A turma entrou e todos leram”, existe conjunção ligando as orações, portanto essa ligação não é assindética.</p><h3>Produza e revise</h3><p>No trecho “O sinal tocou, a turma entrou, a professora começou a leitura”, marque os núcleos verbais e delimite as orações; nomeie a coordenação e explique a ausência de conectivos. Compare com “Trouxe livros, cadernos e lápis”. Produza uma sequência com três orações coordenadas assindéticas.</p>",
   "lip.ef06.sintaxe_da_oracao.concordancia_nominal": "<h2>Concordância nominal na revisão</h2><p>Na norma-padrão, determinantes e adjetivos concordam com o substantivo a que se referem em gênero e número, quando suas formas admitem essa variação. Não basta copiar a terminação da palavra mais próxima: é preciso reconhecer a relação. Em “as nossas duas revistas novas”, artigos, pronome, numeral e adjetivo se organizam em torno de revistas; duas e novas apresentam formas coerentes com o feminino plural. Há palavras que não variam em gênero, como interessante, mas recebem plural: interessantes.</p><h3>Exemplo comentado</h3><p>A revisão de “As revista novo chegaram” produz “As revistas novas chegaram”. O substantivo deve estar no plural para expressar a quantidade e novas concorda com revistas. Em “os livros interessantes”, interessante varia em número, não se torna interessantos. Revisar uma escrita para um contexto formal ensina convenções sem desqualificar a fala de quem escreveu.</p><h3>Produza e revise</h3><p>Revise para um mural escolar: “Os nossas duas revista novo chegaram. A primeira edição ilustrado está na biblioteca”. Explique as relações de concordância, mantendo a informação. Depois escreva um aviso com dois grupos nominais e peça a um colega que confira suas escolhas.</p>",
   "lip.ef06.sintaxe_da_oracao.concordancia_verbal": "<h2>Concordância verbal e produção revisada</h2><p>Na norma-padrão, o verbo concorda com o sujeito em pessoa e número. Primeiro identifique o núcleo do sujeito. Em “A turma de leitores chegou”, o núcleo turma está no singular; de leitores não obriga o verbo a ir ao plural. Em “Os leitores chegaram”, o núcleo leitores está no plural. Sujeito simples significa um núcleo, não necessariamente uma pessoa: os leitores é sujeito simples. Em “Lia e Rui chegaram”, há dois núcleos, constituindo sujeito composto anteposto, com verbo no plural.</p><h3>Exemplo comentado</h3><p>“Nós organizamos a exposição” usa primeira pessoa do plural. “Lia e Rui organizaram a exposição” usa terceira pessoa do plural. “Os livros da aluna chegaram” concorda com livros, não com aluna. Ao escrever um relato, precisamos revisar também a sequência temporal: “Ontem a turma visitou a biblioteca e escolheu livros” mantém as ações no passado. Não se trata só de completar verbos em frases isoladas, mas de escrever e revisar um texto com sentido.</p><h3>Produza e revise</h3><p>Produza um relato de cinco a sete frases sobre uma visita fictícia à biblioteca, identificando-a como ficção. Inclua um sujeito simples plural, um sujeito composto anteposto e uma frase com nós. Mantenha coerência temporal, revise concordância nominal/verbal, grafia e pontuação. Entregue rascunho e versão final com três mudanças explicadas. Na revisão, compare “A turma de leitores chegou” e “Os livros da aluna chegaram”.</p>",
+  "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes": "<h2>Ortografia e revisão orientada</h2><p>A ortografia reúne convenções para escrever palavras. A relação entre som e letra nem sempre é única: um som pode ter diferentes grafias e uma letra pode representar diferentes sons. Por isso, escrever apenas como se pronuncia não resolve todas as dúvidas. A variação de pronúncia não torna uma pessoa inferior; aprender a escrita convencional amplia as possibilidades de circulação dos textos. Podemos observar famílias de palavras e consultar dicionários, mas não devemos transformar uma regularidade parcial em regra sem exceções.</p><h3>Exemplo comentado</h3><p>Viagem é substantivo: “A viagem foi tranquila”. Viajem é uma forma do verbo viajar: “Espero que eles viajem amanhã”. O verbo mantém o j nessa forma. Em “A turma pesquisou a história do bairro”, pesquisou e história têm grafias convencionais que precisam ser conferidas quando houver dúvida. Um corretor automático pode sugerir uma palavra existente, mas inadequada ao sentido: a revisão deve ler a frase inteira.</p><h3>Produza e revise</h3><p>Produza um bilhete de quatro frases sobre uma viagem fictícia, identificada como ficção. Empregue viagem e uma forma do verbo viajar. Sublinhe três palavras cuja grafia você conferiu no dicionário ou no material da aula. Entregue a primeira versão e a revisada, explicando as escolhas.</p>",
+  "lip.ef06.ortografia_e_pontuacao.pontuar_textos": "<h2>Pontuação e construção de sentidos</h2><p>A pontuação organiza a escrita e ajuda o leitor a reconhecer relações, limites e vozes. Não é apenas uma transcrição das pausas da respiração. Ponto final pode encerrar uma declaração; interrogação marca pergunta direta; exclamação pode intensificar uma reação. Dois-pontos podem introduzir uma explicação, lista ou fala. Aspas podem delimitar uma fala citada; travessão também pode marcar diálogo. A vírgula separa itens de uma enumeração e isola o chamamento, chamado vocativo. Nos exemplos básicos, não separe sujeito e verbo por vírgula.</p><h3>Exemplo comentado</h3><p>“Vamos ler, turma!” chama a turma para a leitura. Em “A turma leu o conto”, turma é o sujeito, sem vírgula antes de leu. “Trouxe três materiais: papel, lápis e régua” apresenta uma enumeração. Compare “Não, espere” (negação seguida de pedido para esperar) e “Não espere” (pedido para não esperar): a vírgula muda a relação e o sentido.</p><h3>Produza e revise</h3><p>Pontue o trecho conforme esta intenção: Lia pergunta se os colegas trouxeram lápis, papel e régua; depois convida a turma a começar. Trecho: “Lia perguntou vocês trouxeram lápis papel e régua vamos começar turma”. Reescreva como pequeno diálogo com fala identificada. Explique três sinais e compare “Não, espere” com “Não espere”.</p>",
+  "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica": "<h2>Acentuação: tonicidade e regras</h2><p>Sílaba tônica é a pronunciada com maior destaque. Toda palavra com mais de uma sílaba tem uma posição de tonicidade na pronúncia, mas nem toda palavra recebe acento gráfico. Oxítonas têm a última sílaba tônica; paroxítonas, a penúltima; proparoxítonas, a antepenúltima. Neste recorte: todas as proparoxítonas são acentuadas; acentuam-se oxítonas terminadas em a, e, o, com ou sem s, e em em/ens; entre as paroxítonas, estudaremos as terminadas em l, r, x, i/is e um/uns. Há outras regras, a consultar conforme a dúvida.</p><h3>Exemplo comentado</h3><p>Café é oxítona terminada em e; também, oxítona terminada em em; fácil, paroxítona terminada em l; lápis, paroxítona terminada em is; música, proparoxítona. Livro é paroxítona e não recebe acento gráfico por essa terminação. Ideia e heroico não têm acento nos ditongos abertos ei/oi de palavras paroxítonas; herói conserva o acento como oxítona com ditongo aberto. A tonicidade e a terminação precisam ser observadas juntas.</p><h3>Produza e revise</h3><p>Revise “No sabado, a turma ouviu musica e tomou cafe. Depois, usou um lapis para registrar uma ideia”. Marque a sílaba tônica de sábado, música, café, lápis e ideia; justifique os acentos presentes ou ausentes. Escreva duas novas frases empregando uma oxítona e uma proparoxítona acentuadas.</p>",
+  "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen": "<h2>Hífen: padrões e consulta</h2><p>O hífen participa da grafia de algumas palavras e ligações. Não é o mesmo sinal que o travessão de diálogo. Nem toda palavra composta tem hífen: guarda-chuva tem, passatempo não. Para algumas formações com prefixos terminados em vogal, o encontro com a mesma vogal pede hífen, como micro-ondas. Com vogais diferentes, ocorre junção em autoescola. Antes de r ou s, esses prefixos podem exigir duplicação da consoante: antirracista e minissaia. Essas orientações não cobrem todos os prefixos; consulte a palavra quando houver dúvida.</p><h3>Exemplo comentado</h3><p>Anti-higiênico mantém hífen antes de h; micro-ondas separa vogais iguais; autoescola junta vogais diferentes. Minissaia duplica s. Ex-aluno tem hífen; fim de semana não. Não generalize a regra de vogais iguais para todos os casos: cooperar é escrito junto. Nesta aula, a avaliação se limita a exemplos e padrões explicitamente estudados.</p><h3>Produza e revise</h3><p>Organize micro-ondas, autoescola, minissaia, anti-higiênico, ex-aluno e fim de semana em uma tabela: grafia, explicação e frase autoral. Compare micro-ondas com cooperar e explique por que uma regra parcial não elimina a necessidade de consulta. Revise a tabela após a devolutiva.</p>",
+  "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas": "<h2>Palavras parecidas: escolha pelo contexto</h2><p>Parônimas são palavras parecidas na forma e na pronúncia, mas com sentidos diferentes, como comprimento (extensão) e cumprimento (saudação ou realização de algo). Homônimas têm coincidência de som e/ou escrita com sentidos diferentes: acento/assento soam da mesma maneira em muitas variedades do português, mas indicam coisas distintas. A classificação não substitui a leitura: as duas formas podem existir no dicionário e no corretor, mas só uma ser adequada à frase. Este recorte trabalha escrita contextualizada, não a habilidade de comparar séries de sinônimos.</p><h3>Exemplo comentado</h3><p>“Medi o comprimento da mesa” trata de extensão. “Enviei um cumprimento à colega” trata de saudação. “A palavra tem acento” refere-se a sinal gráfico; “O assento está livre” refere-se a lugar para sentar. Retificar é corrigir; ratificar é confirmar. Uma troca entre palavras existentes pode alterar o sentido sem produzir uma sequência de letras inexistente.</p><h3>Produza e revise</h3><p>Escreva um pequeno relato com comprimento/cumprimento e acento/assento, usando cada palavra em sentido adequado. Depois revise “O assento da palavra está errado” e “Medi o cumprimento do corredor”, explicando por que um corretor automático poderia não detectar o problema.</p>",
   "lip.ef06.lingua_texto_e_contexto.contexto_de_circulacao": "<h2>Um fato, diferentes gêneros</h2><p>A notícia apresenta um acontecimento relevante para um público e procura informar o que ocorreu, quem se envolveu, onde e quando, com fontes verificáveis. Uma reportagem pode partir desse fato e aprofundá-lo com contexto, entrevistas e dados. Um artigo de opinião defende uma posição por argumentos; um editorial expressa a posição editorial do veículo. Notícias também têm escolhas, mas não se confundem com textos que assumem como propósito principal defender uma tese.</p><h3>Dossiê fictício da biblioteca</h3><p><strong>Notícia:</strong> “Escola Horizonte amplia horário da biblioteca. No primeiro dia, 18 estudantes utilizaram a hora extra, segundo o registro de entrada.”</p><p><strong>Reportagem:</strong> “Quem consegue usar a biblioteca? A equipe ouviu estudantes dos dois turnos, comparou horários e consultou registros de quatro semanas para investigar barreiras de acesso.”</p><p><strong>Artigo de opinião:</strong> “Defendo ampliar também a divulgação: um novo horário só ajuda quando as turmas sabem que ele existe.”</p><p>A notícia é central nesse conjunto porque apresenta o acontecimento que dá origem ao aprofundamento e ao debate. A reportagem não é apenas uma notícia maior: sua investigação amplia o contexto. O artigo propõe uma posição sobre o fato.</p><h3>Suporte e recepção</h3><p>Os três podem circular em jornal impresso ou digital. O suporte não define sozinho o gênero. Ao receber uma captura de tela, procure autoria, data, veículo e publicação completa; cortes podem retirar contexto. Uma chamada de rede social não substitui a leitura da notícia.</p><h3>Exemplo comentado</h3><p>Para saber o que mudou na biblioteca, comece pela notícia; para investigar o acesso de diferentes grupos, procure a reportagem; para conhecer uma defesa de mudança, leia o artigo. Depois confronte as informações.</p>",
   "lip.ef06.lingua_texto_e_contexto.variedades_e_norma_padrao": "<h2>Uma língua, muitos usos</h2><p>O português varia entre regiões, gerações, grupos sociais e situações. “Mandioca”, “aipim” e “macaxeira” podem nomear o mesmo alimento em diferentes comunidades. A pronúncia também varia. Nenhum sotaque torna alguém mais inteligente ou mais digno de respeito.</p><p>A norma-padrão é um modelo de referência para certos usos formais; não é a reprodução exata da fala de todas as pessoas escolarizadas. As variedades efetivamente faladas possuem regularidades. Aprender convenções valorizadas socialmente amplia possibilidades de participação, sem exigir abandonar a identidade linguística.</p><h3>Uma situação para analisar</h3><p>Em um diálogo fictício, Lia diz: “Lá em casa chamamos de macaxeira”. Um colega responde: “Então sua família não sabe falar”. O problema não está na palavra de Lia: o colega desqualifica os falantes por sua variedade. Isso é preconceito linguístico.</p><p>Outra coisa é revisar um aviso que exige convenções formais, explicando a escolha sem humilhar ninguém. Adequação depende de interlocutores, finalidade e gênero; não basta classificar toda fala como informal e toda escrita como formal.</p><h3>Exemplo comentado</h3><p>Responder “Na minha região dizemos mandioca; macaxeira também é uma denominação usada em outras comunidades” reconhece a variação e não estabelece uma hierarquia de pessoas.</p>",
   "lip.ef06.lingua_texto_e_contexto.usar_a_norma_padrao": "<h2>Revisar com finalidade</h2><p>Para escrever um pedido à direção, precisamos tornar claros o destinatário, a solicitação e seus motivos. Quando o gênero e a situação pedem norma-padrão, podemos revisar concordância, pontuação e grafia, sem desqualificar quem produziu a primeira versão.</p><h3>Da conversa ao pedido</h3><p><strong>Mensagem fictícia entre colegas:</strong> “A gente quer mais livros. As turma vai mandar os pedido amanhã.”</p><p><strong>Versão para a direção:</strong> “À direção: solicitamos a ampliação do acervo da biblioteca. As turmas enviarão os pedidos amanhã. Agradecemos a atenção.”</p><p>“A gente quer” tem concordância compatível com a norma-padrão; sua troca por “solicitamos” foi uma escolha de registro, não uma correção obrigatória. Em “as turma vai”, a revisão formal estabelece “as turmas vão”; “os pedido” passa a “os pedidos”. A forma “enviarão” também explicita uma ação futura. Não altere a data, a solicitação ou o responsável ao revisar.</p><h3>Procedimento</h3><ol><li>Identifique destinatário e finalidade.</li><li>Confira se as informações estão completas.</li><li>Revise concordância, grafia e pontuação.</li><li>Explique duas escolhas e compare o sentido com o original.</li></ol><p>A fala também pode ser planejada e formal, como em uma apresentação ao conselho escolar. Uma mensagem escrita a um amigo pode admitir outro registro.</p>",
@@ -1593,6 +1598,541 @@ registrarAula({
       {
         "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
         "uso": "Habilidades EF06LP06–EF06LP11 transcritas em data/bncc/lip.json. Recortes com evidências planejadas; homologação docente pendente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes": {
+    "id": "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 24,
+    "unidade": "Ortografia e Pontuação",
+    "titulo": "Ortografia e revisão orientada",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Produza um bilhete de quatro frases sobre uma viagem fictícia, identificada como ficção. Empregue viagem e uma forma do verbo viajar. Sublinhe três palavras cuja grafia você conferiu no dicionário ou no material da aula. Entregue a primeira versão e a revisada, explicando as escolhas."
+      ],
+      "resumo": "Ortografia e revisão orientada",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Ortografia e revisão orientada</h2><p>A ortografia reúne convenções para escrever palavras. A relação entre som e letra nem sempre é única: um som pode ter diferentes grafias e uma letra pode representar diferentes sons. Por isso, escrever apenas como se pronuncia não resolve todas as dúvidas. A variação de pronúncia não torna uma pessoa inferior; aprender a escrita convencional amplia as possibilidades de circulação dos textos. Podemos observar famílias de palavras e consultar dicionários, mas não devemos transformar uma regularidade parcial em regra sem exceções.</p><h3>Exemplo comentado</h3><p>Viagem é substantivo: “A viagem foi tranquila”. Viajem é uma forma do verbo viajar: “Espero que eles viajem amanhã”. O verbo mantém o j nessa forma. Em “A turma pesquisou a história do bairro”, pesquisou e história têm grafias convencionais que precisam ser conferidas quando houver dúvida. Um corretor automático pode sugerir uma palavra existente, mas inadequada ao sentido: a revisão deve ler a frase inteira.</p><h3>Produza e revise</h3><p>Produza um bilhete de quatro frases sobre uma viagem fictícia, identificada como ficção. Empregue viagem e uma forma do verbo viajar. Sublinhe três palavras cuja grafia você conferiu no dicionário ou no material da aula. Entregue a primeira versão e a revisada, explicando as escolhas.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "ortografia_e_convencoes.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual frase emprega adequadamente viagem e viajem?",
+        "alternativas": [
+          "Espero que eles viagem amanhã.",
+          "A viajem foi tranquila.",
+          "Espero que eles viajem amanhã.",
+          "Nossa viajem terminou."
+        ],
+        "correta": 2,
+        "explicacao": "Viagem é substantivo: “A viagem foi tranquila”. Viajem é uma forma do verbo viajar: “Espero que eles viajem amanhã”. O verbo mantém o j nessa forma. Em “A turma pesquisou a história do bairro”, pesquisou e história têm grafias convencionais que precisam ser conferidas quando houver dúvida. Um corretor automático pode sugerir uma palavra existente, mas inadequada ao sentido: a revisão deve ler a frase inteira.",
+        "bncc": [
+          "EF67LP32"
+        ]
+      },
+      {
+        "id": "ortografia_e_convencoes.producao",
+        "tipo": "discursiva",
+        "enunciado": "Produza um bilhete de quatro frases sobre uma viagem fictícia, identificada como ficção. Empregue viagem e uma forma do verbo viajar. Sublinhe três palavras cuja grafia você conferiu no dicionário ou no material da aula. Entregue a primeira versão e a revisada, explicando as escolhas.",
+        "gabarito": "Exigir bilhete real e versões. Viagem deve nomear o deslocamento; viajar/viajaram/viajem devem funcionar como verbo no contexto. Registrar três conferências com a forma verificada e a fonte usada. Se a primeira versão já estiver correta, justificar a manutenção; não exigir erros inventados.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir bilhete real e versões. Viagem deve nomear o deslocamento; viajar/viajaram/viajem devem funcionar como verbo no contexto. Registrar três conferências com a forma verificada e a fonte usada. Se a primeira versão já estiver correta, justificar a manutenção; não exigir erros inventados.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP32"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.ortografia_e_pontuacao.pontuar_textos": {
+    "id": "lip.ef06.ortografia_e_pontuacao.pontuar_textos",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 25,
+    "unidade": "Ortografia e Pontuação",
+    "titulo": "Pontuação e construção de sentidos",
+    "bncc": [
+      "EF67LP33"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Pontue o trecho conforme esta intenção: Lia pergunta se os colegas trouxeram lápis, papel e régua; depois convida a turma a começar. Trecho: “Lia perguntou vocês trouxeram lápis papel e régua vamos começar turma”. Reescreva como pequeno diálogo com fala identificada. Explique três sinais e compare “Não, espere” com “Não espere”."
+      ],
+      "resumo": "Pontuação e construção de sentidos",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Pontuação e construção de sentidos</h2><p>A pontuação organiza a escrita e ajuda o leitor a reconhecer relações, limites e vozes. Não é apenas uma transcrição das pausas da respiração. Ponto final pode encerrar uma declaração; interrogação marca pergunta direta; exclamação pode intensificar uma reação. Dois-pontos podem introduzir uma explicação, lista ou fala. Aspas podem delimitar uma fala citada; travessão também pode marcar diálogo. A vírgula separa itens de uma enumeração e isola o chamamento, chamado vocativo. Nos exemplos básicos, não separe sujeito e verbo por vírgula.</p><h3>Exemplo comentado</h3><p>“Vamos ler, turma!” chama a turma para a leitura. Em “A turma leu o conto”, turma é o sujeito, sem vírgula antes de leu. “Trouxe três materiais: papel, lápis e régua” apresenta uma enumeração. Compare “Não, espere” (negação seguida de pedido para esperar) e “Não espere” (pedido para não esperar): a vírgula muda a relação e o sentido.</p><h3>Produza e revise</h3><p>Pontue o trecho conforme esta intenção: Lia pergunta se os colegas trouxeram lápis, papel e régua; depois convida a turma a começar. Trecho: “Lia perguntou vocês trouxeram lápis papel e régua vamos começar turma”. Reescreva como pequeno diálogo com fala identificada. Explique três sinais e compare “Não, espere” com “Não espere”.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "pontuar_textos.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual frase isola corretamente o vocativo?",
+        "alternativas": [
+          "A turma, começou a leitura.",
+          "Vamos começar, turma!",
+          "Os alunos, trouxeram livros.",
+          "A professora, leu."
+        ],
+        "correta": 1,
+        "explicacao": "“Vamos ler, turma!” chama a turma para a leitura. Em “A turma leu o conto”, turma é o sujeito, sem vírgula antes de leu. “Trouxe três materiais: papel, lápis e régua” apresenta uma enumeração. Compare “Não, espere” (negação seguida de pedido para esperar) e “Não espere” (pedido para não esperar): a vírgula muda a relação e o sentido.",
+        "bncc": [
+          "EF67LP33"
+        ]
+      },
+      {
+        "id": "pontuar_textos.producao",
+        "tipo": "discursiva",
+        "enunciado": "Pontue o trecho conforme esta intenção: Lia pergunta se os colegas trouxeram lápis, papel e régua; depois convida a turma a começar. Trecho: “Lia perguntou vocês trouxeram lápis papel e régua vamos começar turma”. Reescreva como pequeno diálogo com fala identificada. Explique três sinais e compare “Não, espere” com “Não espere”.",
+        "gabarito": "Possibilidade: Lia perguntou: “Vocês trouxeram lápis, papel e régua?” Depois, convidou: “Vamos começar, turma!” Aceitar travessões e outra organização que preserve pergunta, enumeração e convite. Explicar dois-pontos/aspas ou travessão, interrogação, vírgulas e vocativo. A comparação deve distinguir esperar de não esperar.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Possibilidade: Lia perguntou: “Vocês trouxeram lápis, papel e régua?” Depois, convidou: “Vamos começar, turma!” Aceitar travessões e outra organização que preserve pergunta, enumeração e convite. Explicar dois-pontos/aspas ou travessão, interrogação, vírgulas e vocativo. A comparação deve distinguir esperar de não esperar.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP33"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica": {
+    "id": "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 26,
+    "unidade": "Ortografia e Pontuação",
+    "titulo": "Acentuação: tonicidade e regras",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Revise “No sabado, a turma ouviu musica e tomou cafe. Depois, usou um lapis para registrar uma ideia”. Marque a sílaba tônica de sábado, música, café, lápis e ideia; justifique os acentos presentes ou ausentes. Escreva duas novas frases empregando uma oxítona e uma proparoxítona acentuadas."
+      ],
+      "resumo": "Acentuação: tonicidade e regras",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Acentuação: tonicidade e regras</h2><p>Sílaba tônica é a pronunciada com maior destaque. Toda palavra com mais de uma sílaba tem uma posição de tonicidade na pronúncia, mas nem toda palavra recebe acento gráfico. Oxítonas têm a última sílaba tônica; paroxítonas, a penúltima; proparoxítonas, a antepenúltima. Neste recorte: todas as proparoxítonas são acentuadas; acentuam-se oxítonas terminadas em a, e, o, com ou sem s, e em em/ens; entre as paroxítonas, estudaremos as terminadas em l, r, x, i/is e um/uns. Há outras regras, a consultar conforme a dúvida.</p><h3>Exemplo comentado</h3><p>Café é oxítona terminada em e; também, oxítona terminada em em; fácil, paroxítona terminada em l; lápis, paroxítona terminada em is; música, proparoxítona. Livro é paroxítona e não recebe acento gráfico por essa terminação. Ideia e heroico não têm acento nos ditongos abertos ei/oi de palavras paroxítonas; herói conserva o acento como oxítona com ditongo aberto. A tonicidade e a terminação precisam ser observadas juntas.</p><h3>Produza e revise</h3><p>Revise “No sabado, a turma ouviu musica e tomou cafe. Depois, usou um lapis para registrar uma ideia”. Marque a sílaba tônica de sábado, música, café, lápis e ideia; justifique os acentos presentes ou ausentes. Escreva duas novas frases empregando uma oxítona e uma proparoxítona acentuadas.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "acentuacao_grafica.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual conjunto está grafado corretamente?",
+        "alternativas": [
+          "Sabado, musica, café",
+          "Sábado, música, café",
+          "Sábado, música, cafe",
+          "Sabádo, música, café"
+        ],
+        "correta": 1,
+        "explicacao": "Café é oxítona terminada em e; também, oxítona terminada em em; fácil, paroxítona terminada em l; lápis, paroxítona terminada em is; música, proparoxítona. Livro é paroxítona e não recebe acento gráfico por essa terminação. Ideia e heroico não têm acento nos ditongos abertos ei/oi de palavras paroxítonas; herói conserva o acento como oxítona com ditongo aberto. A tonicidade e a terminação precisam ser observadas juntas.",
+        "bncc": [
+          "EF67LP32"
+        ]
+      },
+      {
+        "id": "acentuacao_grafica.producao",
+        "tipo": "discursiva",
+        "enunciado": "Revise “No sabado, a turma ouviu musica e tomou cafe. Depois, usou um lapis para registrar uma ideia”. Marque a sílaba tônica de sábado, música, café, lápis e ideia; justifique os acentos presentes ou ausentes. Escreva duas novas frases empregando uma oxítona e uma proparoxítona acentuadas.",
+        "gabarito": "“No sábado, a turma ouviu música e tomou café. Depois, usou um lápis para registrar uma ideia.” SÁ-ba-do e MÚ-si-ca: proparoxítonas; ca-FÉ: oxítona terminada em e; LÁ-pis: paroxítona terminada em is; i-DEI-a: paroxítona com ditongo aberto ei sem acento. Exigir duas frases próprias com palavras corretamente empregadas.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "“No sábado, a turma ouviu música e tomou café. Depois, usou um lápis para registrar uma ideia.” SÁ-ba-do e MÚ-si-ca: proparoxítonas; ca-FÉ: oxítona terminada em e; LÁ-pis: paroxítona terminada em is; i-DEI-a: paroxítona com ditongo aberto ei sem acento. Exigir duas frases próprias com palavras corretamente empregadas.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP32"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen": {
+    "id": "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 27,
+    "unidade": "Ortografia e Pontuação",
+    "titulo": "Hífen: padrões e consulta",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Organize micro-ondas, autoescola, minissaia, anti-higiênico, ex-aluno e fim de semana em uma tabela: grafia, explicação e frase autoral. Compare micro-ondas com cooperar e explique por que uma regra parcial não elimina a necessidade de consulta. Revise a tabela após a devolutiva."
+      ],
+      "resumo": "Hífen: padrões e consulta",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Hífen: padrões e consulta</h2><p>O hífen participa da grafia de algumas palavras e ligações. Não é o mesmo sinal que o travessão de diálogo. Nem toda palavra composta tem hífen: guarda-chuva tem, passatempo não. Para algumas formações com prefixos terminados em vogal, o encontro com a mesma vogal pede hífen, como micro-ondas. Com vogais diferentes, ocorre junção em autoescola. Antes de r ou s, esses prefixos podem exigir duplicação da consoante: antirracista e minissaia. Essas orientações não cobrem todos os prefixos; consulte a palavra quando houver dúvida.</p><h3>Exemplo comentado</h3><p>Anti-higiênico mantém hífen antes de h; micro-ondas separa vogais iguais; autoescola junta vogais diferentes. Minissaia duplica s. Ex-aluno tem hífen; fim de semana não. Não generalize a regra de vogais iguais para todos os casos: cooperar é escrito junto. Nesta aula, a avaliação se limita a exemplos e padrões explicitamente estudados.</p><h3>Produza e revise</h3><p>Organize micro-ondas, autoescola, minissaia, anti-higiênico, ex-aluno e fim de semana em uma tabela: grafia, explicação e frase autoral. Compare micro-ondas com cooperar e explique por que uma regra parcial não elimina a necessidade de consulta. Revise a tabela após a devolutiva.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "emprego_do_hifen.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual grafia corresponde ao padrão estudado de vogais iguais?",
+        "alternativas": [
+          "Microondas",
+          "Micro-ondas",
+          "Micro ondas",
+          "Micrôondas"
+        ],
+        "correta": 1,
+        "explicacao": "Anti-higiênico mantém hífen antes de h; micro-ondas separa vogais iguais; autoescola junta vogais diferentes. Minissaia duplica s. Ex-aluno tem hífen; fim de semana não. Não generalize a regra de vogais iguais para todos os casos: cooperar é escrito junto. Nesta aula, a avaliação se limita a exemplos e padrões explicitamente estudados.",
+        "bncc": [
+          "EF67LP32"
+        ]
+      },
+      {
+        "id": "emprego_do_hifen.producao",
+        "tipo": "discursiva",
+        "enunciado": "Organize micro-ondas, autoescola, minissaia, anti-higiênico, ex-aluno e fim de semana em uma tabela: grafia, explicação e frase autoral. Compare micro-ondas com cooperar e explique por que uma regra parcial não elimina a necessidade de consulta. Revise a tabela após a devolutiva.",
+        "gabarito": "Micro-ondas: vogais iguais nessa formação; autoescola: vogais diferentes; minissaia: duplicação do s; anti-higiênico: h inicial; ex-aluno: prefixo ex-; fim de semana: locução sem hífen. Cooperar mostra limite da generalização. Conferir as seis frases pelo sentido, a grafia e o registro da revisão.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Micro-ondas: vogais iguais nessa formação; autoescola: vogais diferentes; minissaia: duplicação do s; anti-higiênico: h inicial; ex-aluno: prefixo ex-; fim de semana: locução sem hífen. Cooperar mostra limite da generalização. Conferir as seis frases pelo sentido, a grafia e o registro da revisão.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP32"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "metadados": {
+      "versao": 1,
+      "revisado": false,
+      "autor": "produção autoral assistida",
+      "estado": "piloto",
+      "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+    },
+    "complementar": false,
+    "preRequisitos": [],
+    "proximosPassos": []
+  },
+  "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas": {
+    "id": "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas",
+    "componente": "lip",
+    "nivel": "EF06",
+    "ordem": 28,
+    "unidade": "Ortografia e Pontuação",
+    "titulo": "Palavras parecidas: escolha pelo contexto",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "duracaoMin": 50,
+    "dificuldade": 1,
+    "conteudo": {
+      "objetivos": [
+        "Escreva um pequeno relato com comprimento/cumprimento e acento/assento, usando cada palavra em sentido adequado. Depois revise “O assento da palavra está errado” e “Medi o cumprimento do corredor”, explicando por que um corretor automático poderia não detectar o problema."
+      ],
+      "resumo": "Palavras parecidas: escolha pelo contexto",
+      "blocos": [
+        {
+          "tipo": "html",
+          "html": "<h2>Palavras parecidas: escolha pelo contexto</h2><p>Parônimas são palavras parecidas na forma e na pronúncia, mas com sentidos diferentes, como comprimento (extensão) e cumprimento (saudação ou realização de algo). Homônimas têm coincidência de som e/ou escrita com sentidos diferentes: acento/assento soam da mesma maneira em muitas variedades do português, mas indicam coisas distintas. A classificação não substitui a leitura: as duas formas podem existir no dicionário e no corretor, mas só uma ser adequada à frase. Este recorte trabalha escrita contextualizada, não a habilidade de comparar séries de sinônimos.</p><h3>Exemplo comentado</h3><p>“Medi o comprimento da mesa” trata de extensão. “Enviei um cumprimento à colega” trata de saudação. “A palavra tem acento” refere-se a sinal gráfico; “O assento está livre” refere-se a lugar para sentar. Retificar é corrigir; ratificar é confirmar. Uma troca entre palavras existentes pode alterar o sentido sem produzir uma sequência de letras inexistente.</p><h3>Produza e revise</h3><p>Escreva um pequeno relato com comprimento/cumprimento e acento/assento, usando cada palavra em sentido adequado. Depois revise “O assento da palavra está errado” e “Medi o cumprimento do corredor”, explicando por que um corretor automático poderia não detectar o problema.</p>"
+        }
+      ]
+    },
+    "atividades": [
+      {
+        "id": "paronimas_e_homonimas.aplicacao",
+        "tipo": "multipla_escolha",
+        "enunciado": "Qual frase usa assento adequadamente?",
+        "alternativas": [
+          "A palavra café tem assento.",
+          "O assento do ônibus está livre.",
+          "Coloque assento agudo na vogal.",
+          "O assento indica a sílaba tônica por um sinal gráfico."
+        ],
+        "correta": 1,
+        "explicacao": "“Medi o comprimento da mesa” trata de extensão. “Enviei um cumprimento à colega” trata de saudação. “A palavra tem acento” refere-se a sinal gráfico; “O assento está livre” refere-se a lugar para sentar. Retificar é corrigir; ratificar é confirmar. Uma troca entre palavras existentes pode alterar o sentido sem produzir uma sequência de letras inexistente.",
+        "bncc": [
+          "EF67LP32"
+        ]
+      },
+      {
+        "id": "paronimas_e_homonimas.producao",
+        "tipo": "discursiva",
+        "enunciado": "Escreva um pequeno relato com comprimento/cumprimento e acento/assento, usando cada palavra em sentido adequado. Depois revise “O assento da palavra está errado” e “Medi o cumprimento do corredor”, explicando por que um corretor automático poderia não detectar o problema.",
+        "gabarito": "Exigir quatro usos coerentes no relato. Revisões: “O acento da palavra está errado” e “Medi o comprimento do corredor”. As palavras originais existem, mas são inadequadas ao sentido pretendido; um corretor que verifique apenas a existência das formas pode não sinalizá-las.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir quatro usos coerentes no relato. Revisões: “O acento da palavra está errado” e “Medi o comprimento do corredor”. As palavras originais existem, mas são inadequadas ao sentido pretendido; um corretor que verifique apenas a existência das formas pode não sinalizá-las.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP32"
+        ]
+      }
+    ],
+    "areas": [
+      "linguagens",
+      "lingua_portuguesa"
+    ],
+    "tags": [
+      "leitura",
+      "contexto"
+    ],
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
       }
     ],
     "metadados": {

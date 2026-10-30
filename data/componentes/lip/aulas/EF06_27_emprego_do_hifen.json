@@ -1,0 +1,107 @@
+{
+  "id": "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 27,
+  "unidade": "Ortografia e Pontuação",
+  "titulo": "Hífen: padrões e consulta",
+  "bncc": [
+    "EF67LP32"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Organize micro-ondas, autoescola, minissaia, anti-higiênico, ex-aluno e fim de semana em uma tabela: grafia, explicação e frase autoral. Compare micro-ondas com cooperar e explique por que uma regra parcial não elimina a necessidade de consulta. Revise a tabela após a devolutiva."
+    ],
+    "resumo": "Hífen: padrões e consulta",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Hífen: padrões e consulta</h2><p>O hífen participa da grafia de algumas palavras e ligações. Não é o mesmo sinal que o travessão de diálogo. Nem toda palavra composta tem hífen: guarda-chuva tem, passatempo não. Para algumas formações com prefixos terminados em vogal, o encontro com a mesma vogal pede hífen, como micro-ondas. Com vogais diferentes, ocorre junção em autoescola. Antes de r ou s, esses prefixos podem exigir duplicação da consoante: antirracista e minissaia. Essas orientações não cobrem todos os prefixos; consulte a palavra quando houver dúvida.</p><h3>Exemplo comentado</h3><p>Anti-higiênico mantém hífen antes de h; micro-ondas separa vogais iguais; autoescola junta vogais diferentes. Minissaia duplica s. Ex-aluno tem hífen; fim de semana não. Não generalize a regra de vogais iguais para todos os casos: cooperar é escrito junto. Nesta aula, a avaliação se limita a exemplos e padrões explicitamente estudados.</p><h3>Produza e revise</h3><p>Organize micro-ondas, autoescola, minissaia, anti-higiênico, ex-aluno e fim de semana em uma tabela: grafia, explicação e frase autoral. Compare micro-ondas com cooperar e explique por que uma regra parcial não elimina a necessidade de consulta. Revise a tabela após a devolutiva.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "emprego_do_hifen.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual grafia corresponde ao padrão estudado de vogais iguais?",
+      "alternativas": [
+        "Microondas",
+        "Micro-ondas",
+        "Micro ondas",
+        "Micrôondas"
+      ],
+      "correta": 1,
+      "explicacao": "Anti-higiênico mantém hífen antes de h; micro-ondas separa vogais iguais; autoescola junta vogais diferentes. Minissaia duplica s. Ex-aluno tem hífen; fim de semana não. Não generalize a regra de vogais iguais para todos os casos: cooperar é escrito junto. Nesta aula, a avaliação se limita a exemplos e padrões explicitamente estudados.",
+      "bncc": [
+        "EF67LP32"
+      ]
+    },
+    {
+      "id": "emprego_do_hifen.producao",
+      "tipo": "discursiva",
+      "enunciado": "Organize micro-ondas, autoescola, minissaia, anti-higiênico, ex-aluno e fim de semana em uma tabela: grafia, explicação e frase autoral. Compare micro-ondas com cooperar e explique por que uma regra parcial não elimina a necessidade de consulta. Revise a tabela após a devolutiva.",
+      "gabarito": "Micro-ondas: vogais iguais nessa formação; autoescola: vogais diferentes; minissaia: duplicação do s; anti-higiênico: h inicial; ex-aluno: prefixo ex-; fim de semana: locução sem hífen. Cooperar mostra limite da generalização. Conferir as seis frases pelo sentido, a grafia e o registro da revisão.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Micro-ondas: vogais iguais nessa formação; autoescola: vogais diferentes; minissaia: duplicação do s; anti-higiênico: h inicial; ex-aluno: prefixo ex-; fim de semana: locução sem hífen. Cooperar mostra limite da generalização. Conferir as seis frases pelo sentido, a grafia e o registro da revisão.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP32"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "MC_GRAM_LP_EF.pdf",
+      "paginasPdf": [
+        29,
+        30,
+        31,
+        32,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        233,
+        234,
+        235
+      ],
+      "paginasImpressas": "32–35, 47–58, 236–238",
+      "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+    },
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

@@ -791,11 +791,11 @@
     },
     {
       "nivel": "EF06",
-      "aulasImplementadas": 23,
-      "atividades": 46,
-      "questoesTreino": 22,
-      "itensProva": 22,
-      "provas": 5,
+      "aulasImplementadas": 28,
+      "atividades": 56,
+      "questoesTreino": 27,
+      "itensProva": 27,
+      "provas": 6,
       "unidades": [
         {
           "titulo": "Língua, Texto e Contexto",
@@ -835,15 +835,9 @@
         {
           "titulo": "Ortografia e Pontuação",
           "aulasPlanejadas": 5,
-          "aulasImplementadas": 0,
-          "aulasPendentes": [
-            "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes",
-            "lip.ef06.ortografia_e_pontuacao.pontuar_textos",
-            "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica",
-            "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen",
-            "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas"
-          ],
-          "estado": "planejamento"
+          "aulasImplementadas": 5,
+          "aulasPendentes": [],
+          "estado": "piloto_para_testes"
         },
         {
           "titulo": "Leitura e Gêneros",
@@ -1813,6 +1807,6 @@
     "Revisão visual e acessibilidade.",
     "Autenticação, Firebase e cache reais."
   ],
-  "proximaAutoria": "Ortografia e Pontuação EF06",
+  "proximaAutoria": "Leitura e Gêneros EF06",
   "limite": "Vínculos BNCC são evidências planejadas de recortes; não comprovam domínio nem cobertura integral."
 }

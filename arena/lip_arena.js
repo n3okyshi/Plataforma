@@ -1748,6 +1748,586 @@ registrarQuestoes([
     "complementar": false
   },
   {
+    "id": "lip.ef06.ortografia_e_pontuacao.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Ortografia e Pontuação",
+    "aulaId": "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual frase emprega adequadamente viagem e viajem?",
+    "opcoes": [
+      "Espero que eles viagem amanhã.",
+      "A viajem foi tranquila.",
+      "Espero que eles viajem amanhã.",
+      "Nossa viajem terminou."
+    ],
+    "correta": 2,
+    "explicacao": "Viagem é substantivo: “A viagem foi tranquila”. Viajem é uma forma do verbo viajar: “Espero que eles viajem amanhã”. O verbo mantém o j nessa forma. Em “A turma pesquisou a história do bairro”, pesquisou e história têm grafias convencionais que precisam ser conferidas quando houver dúvida. Um corretor automático pode sugerir uma palavra existente, mas inadequada ao sentido: a revisão deve ler a frase inteira.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.ortografia_e_pontuacao.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Ortografia e Pontuação",
+    "aulaId": "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual revisão preserva o sentido de “A viajem da turma foi tranquila”?",
+    "opcoes": [
+      "A viagem da turma foi tranquila.",
+      "A viajem da turma foram tranquila.",
+      "A viagem da turma viajem tranquila.",
+      "A viajar da turma foi tranquila."
+    ],
+    "correta": 0,
+    "explicacao": "A palavra nomeia o deslocamento e é substantivo: viagem. Viajem é forma verbal.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.ortografia_e_pontuacao.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Ortografia e Pontuação",
+    "aulaId": "lip.ef06.ortografia_e_pontuacao.pontuar_textos",
+    "bncc": [
+      "EF67LP33"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual frase isola corretamente o vocativo?",
+    "opcoes": [
+      "A turma, começou a leitura.",
+      "Vamos começar, turma!",
+      "Os alunos, trouxeram livros.",
+      "A professora, leu."
+    ],
+    "correta": 1,
+    "explicacao": "“Vamos ler, turma!” chama a turma para a leitura. Em “A turma leu o conto”, turma é o sujeito, sem vírgula antes de leu. “Trouxe três materiais: papel, lápis e régua” apresenta uma enumeração. Compare “Não, espere” (negação seguida de pedido para esperar) e “Não espere” (pedido para não esperar): a vírgula muda a relação e o sentido.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.ortografia_e_pontuacao.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Ortografia e Pontuação",
+    "aulaId": "lip.ef06.ortografia_e_pontuacao.pontuar_textos",
+    "bncc": [
+      "EF67LP33"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual pontuação expressa pergunta direta com enumeração?",
+    "opcoes": [
+      "Vocês trouxeram papel lápis e régua.",
+      "Vocês, trouxeram papel lápis e régua!",
+      "Vocês trouxeram papel, lápis e régua?",
+      "Vocês trouxeram, papel lápis, e régua."
+    ],
+    "correta": 2,
+    "explicacao": "A interrogação marca a pergunta direta; a vírgula separa os primeiros itens, sem separar verbo e complemento.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.ortografia_e_pontuacao.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Ortografia e Pontuação",
+    "aulaId": "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conjunto está grafado corretamente?",
+    "opcoes": [
+      "Sabado, musica, café",
+      "Sábado, música, café",
+      "Sábado, música, cafe",
+      "Sabádo, música, café"
+    ],
+    "correta": 1,
+    "explicacao": "Café é oxítona terminada em e; também, oxítona terminada em em; fácil, paroxítona terminada em l; lápis, paroxítona terminada em is; música, proparoxítona. Livro é paroxítona e não recebe acento gráfico por essa terminação. Ideia e heroico não têm acento nos ditongos abertos ei/oi de palavras paroxítonas; herói conserva o acento como oxítona com ditongo aberto. A tonicidade e a terminação precisam ser observadas juntas.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.ortografia_e_pontuacao.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Ortografia e Pontuação",
+    "aulaId": "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual justificativa é correta?",
+    "opcoes": [
+      "Toda paroxítona recebe acento gráfico.",
+      "Ideia deve ser escrita idéia.",
+      "Livro é acentuada por terminar em o.",
+      "Música é acentuada por ser proparoxítona."
+    ],
+    "correta": 3,
+    "explicacao": "Todas as proparoxítonas recebem acento; ser paroxítona não basta, por si só, para exigir acentuação.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.ortografia_e_pontuacao.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Ortografia e Pontuação",
+    "aulaId": "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual grafia corresponde ao padrão estudado de vogais iguais?",
+    "opcoes": [
+      "Microondas",
+      "Micro-ondas",
+      "Micro ondas",
+      "Micrôondas"
+    ],
+    "correta": 1,
+    "explicacao": "Anti-higiênico mantém hífen antes de h; micro-ondas separa vogais iguais; autoescola junta vogais diferentes. Minissaia duplica s. Ex-aluno tem hífen; fim de semana não. Não generalize a regra de vogais iguais para todos os casos: cooperar é escrito junto. Nesta aula, a avaliação se limita a exemplos e padrões explicitamente estudados.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.ortografia_e_pontuacao.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Ortografia e Pontuação",
+    "aulaId": "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual par está corretamente grafado?",
+    "opcoes": [
+      "Auto-escola e mini-saia",
+      "Auto escola e minisaia",
+      "Autoescola e minissaia",
+      "Auto-escola e mini saia"
+    ],
+    "correta": 2,
+    "explicacao": "Autoescola reúne vogais diferentes; minissaia duplica s após o prefixo terminado em vogal.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.ortografia_e_pontuacao.treino.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Ortografia e Pontuação",
+    "aulaId": "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual frase usa assento adequadamente?",
+    "opcoes": [
+      "A palavra café tem assento.",
+      "O assento do ônibus está livre.",
+      "Coloque assento agudo na vogal.",
+      "O assento indica a sílaba tônica por um sinal gráfico."
+    ],
+    "correta": 1,
+    "explicacao": "“Medi o comprimento da mesa” trata de extensão. “Enviei um cumprimento à colega” trata de saudação. “A palavra tem acento” refere-se a sinal gráfico; “O assento está livre” refere-se a lugar para sentar. Retificar é corrigir; ratificar é confirmar. Uma troca entre palavras existentes pode alterar o sentido sem produzir uma sequência de letras inexistente.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.ortografia_e_pontuacao.prova.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Ortografia e Pontuação",
+    "aulaId": "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas",
+    "bncc": [
+      "EF67LP32"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual frase preserva o sentido de medir uma extensão?",
+    "opcoes": [
+      "Medi o cumprimento da sala.",
+      "Medi o comprimento da sala.",
+      "Enviei um comprimento aos colegas.",
+      "O comprimento foi uma saudação."
+    ],
+    "correta": 1,
+    "explicacao": "Comprimento indica extensão; cumprimento pode indicar saudação ou realização de algo.",
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
     "id": "lip.ef06.sintaxe_da_oracao.treino.01",
     "componente": "lip",
     "tema": "Língua Portuguesa",
@@ -3022,6 +3602,183 @@ registrarProvas({
           "lip.ef06.morfologia.estrutura_das_palavras#estrutura_das_palavras.producao",
           "lip.ef06.morfologia.derivacao_e_composicao#derivacao_e_composicao.producao",
           "lip.ef06.morfologia.formacao_de_palavras_novas#formacao_de_palavras_novas.producao"
+        ]
+      }
+    ]
+  },
+  "lip.ef06.ortografia_e_pontuacao.prova": {
+    "id": "lip.ef06.ortografia_e_pontuacao.prova",
+    "titulo": "Avaliação: Ortografia e Pontuação",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Ortografia e Pontuação",
+    "bncc": [
+      "EF67LP32",
+      "EF67LP33"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Cinco itens objetivos, dois pontos por item, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+    "questoes": [
+      "lip.ef06.ortografia_e_pontuacao.prova.01",
+      "lip.ef06.ortografia_e_pontuacao.prova.02",
+      "lip.ef06.ortografia_e_pontuacao.prova.03",
+      "lip.ef06.ortografia_e_pontuacao.prova.04",
+      "lip.ef06.ortografia_e_pontuacao.prova.05"
+    ],
+    "criterios": "Dois pontos por item objetivo; portfólio com devolutiva por tarefa.",
+    "avaliacaoPratica": {
+      "id": "lip.ef06.ortografia_e_pontuacao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio de escrita e revisão",
+      "enunciado": "Reúna as cinco produções e revise após a devolutiva. Identifique as consultas e explique suas revisões.",
+      "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+      "rubrica": [
+        "Atende: apresenta evidência e explica escolhas.",
+        "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+        "Retomar: precisa produzir ou corrigir a evidência."
+      ],
+      "bncc": [
+        "EF67LP32",
+        "EF67LP33"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Ortografia e revisão orientada",
+          "enunciado": "Produza um bilhete de quatro frases sobre uma viagem fictícia, identificada como ficção. Empregue viagem e uma forma do verbo viajar. Sublinhe três palavras cuja grafia você conferiu no dicionário ou no material da aula. Entregue a primeira versão e a revisada, explicando as escolhas.",
+          "gabarito": "Exigir bilhete real e versões. Viagem deve nomear o deslocamento; viajar/viajaram/viajem devem funcionar como verbo no contexto. Registrar três conferências com a forma verificada e a fonte usada. Se a primeira versão já estiver correta, justificar a manutenção; não exigir erros inventados.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir bilhete real e versões. Viagem deve nomear o deslocamento; viajar/viajaram/viajem devem funcionar como verbo no contexto. Registrar três conferências com a forma verificada e a fonte usada. Se a primeira versão já estiver correta, justificar a manutenção; não exigir erros inventados.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP32"
+          ],
+          "atividadeOrigem": "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes#ortografia_e_convencoes.producao"
+        },
+        {
+          "titulo": "Pontuação e construção de sentidos",
+          "enunciado": "Pontue o trecho conforme esta intenção: Lia pergunta se os colegas trouxeram lápis, papel e régua; depois convida a turma a começar. Trecho: “Lia perguntou vocês trouxeram lápis papel e régua vamos começar turma”. Reescreva como pequeno diálogo com fala identificada. Explique três sinais e compare “Não, espere” com “Não espere”.",
+          "gabarito": "Possibilidade: Lia perguntou: “Vocês trouxeram lápis, papel e régua?” Depois, convidou: “Vamos começar, turma!” Aceitar travessões e outra organização que preserve pergunta, enumeração e convite. Explicar dois-pontos/aspas ou travessão, interrogação, vírgulas e vocativo. A comparação deve distinguir esperar de não esperar.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Possibilidade: Lia perguntou: “Vocês trouxeram lápis, papel e régua?” Depois, convidou: “Vamos começar, turma!” Aceitar travessões e outra organização que preserve pergunta, enumeração e convite. Explicar dois-pontos/aspas ou travessão, interrogação, vírgulas e vocativo. A comparação deve distinguir esperar de não esperar.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP33"
+          ],
+          "atividadeOrigem": "lip.ef06.ortografia_e_pontuacao.pontuar_textos#pontuar_textos.producao"
+        },
+        {
+          "titulo": "Acentuação: tonicidade e regras",
+          "enunciado": "Revise “No sabado, a turma ouviu musica e tomou cafe. Depois, usou um lapis para registrar uma ideia”. Marque a sílaba tônica de sábado, música, café, lápis e ideia; justifique os acentos presentes ou ausentes. Escreva duas novas frases empregando uma oxítona e uma proparoxítona acentuadas.",
+          "gabarito": "“No sábado, a turma ouviu música e tomou café. Depois, usou um lápis para registrar uma ideia.” SÁ-ba-do e MÚ-si-ca: proparoxítonas; ca-FÉ: oxítona terminada em e; LÁ-pis: paroxítona terminada em is; i-DEI-a: paroxítona com ditongo aberto ei sem acento. Exigir duas frases próprias com palavras corretamente empregadas.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "“No sábado, a turma ouviu música e tomou café. Depois, usou um lápis para registrar uma ideia.” SÁ-ba-do e MÚ-si-ca: proparoxítonas; ca-FÉ: oxítona terminada em e; LÁ-pis: paroxítona terminada em is; i-DEI-a: paroxítona com ditongo aberto ei sem acento. Exigir duas frases próprias com palavras corretamente empregadas.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP32"
+          ],
+          "atividadeOrigem": "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica#acentuacao_grafica.producao"
+        },
+        {
+          "titulo": "Hífen: padrões e consulta",
+          "enunciado": "Organize micro-ondas, autoescola, minissaia, anti-higiênico, ex-aluno e fim de semana em uma tabela: grafia, explicação e frase autoral. Compare micro-ondas com cooperar e explique por que uma regra parcial não elimina a necessidade de consulta. Revise a tabela após a devolutiva.",
+          "gabarito": "Micro-ondas: vogais iguais nessa formação; autoescola: vogais diferentes; minissaia: duplicação do s; anti-higiênico: h inicial; ex-aluno: prefixo ex-; fim de semana: locução sem hífen. Cooperar mostra limite da generalização. Conferir as seis frases pelo sentido, a grafia e o registro da revisão.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Micro-ondas: vogais iguais nessa formação; autoescola: vogais diferentes; minissaia: duplicação do s; anti-higiênico: h inicial; ex-aluno: prefixo ex-; fim de semana: locução sem hífen. Cooperar mostra limite da generalização. Conferir as seis frases pelo sentido, a grafia e o registro da revisão.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP32"
+          ],
+          "atividadeOrigem": "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen#emprego_do_hifen.producao"
+        },
+        {
+          "titulo": "Palavras parecidas: escolha pelo contexto",
+          "enunciado": "Escreva um pequeno relato com comprimento/cumprimento e acento/assento, usando cada palavra em sentido adequado. Depois revise “O assento da palavra está errado” e “Medi o cumprimento do corredor”, explicando por que um corretor automático poderia não detectar o problema.",
+          "gabarito": "Exigir quatro usos coerentes no relato. Revisões: “O acento da palavra está errado” e “Medi o comprimento do corredor”. As palavras originais existem, mas são inadequadas ao sentido pretendido; um corretor que verifique apenas a existência das formas pode não sinalizá-las.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir quatro usos coerentes no relato. Revisões: “O acento da palavra está errado” e “Medi o comprimento do corredor”. As palavras originais existem, mas são inadequadas ao sentido pretendido; um corretor que verifique apenas a existência das formas pode não sinalizá-las.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP32"
+          ],
+          "atividadeOrigem": "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas#paronimas_e_homonimas.producao"
+        }
+      ],
+      "correcao": "Docente com devolutiva individual; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "MC_GRAM_LP_EF.pdf",
+        "paginasPdf": [
+          29,
+          30,
+          31,
+          32,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          233,
+          234,
+          235
+        ],
+        "paginasImpressas": "32–35, 47–58, 236–238",
+        "uso": "Referência consultada. Exemplos e questões autorais; regras apresentadas como recorte, sem reproduzir generalizações incorretas do manual."
+      },
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "uso": "EF67LP32 e EF67LP33 transcritas em data/bncc/lip.json; produções e revisão são evidências planejadas, sem homologação docente."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF67LP32",
+        "questoes": [
+          "lip.ef06.ortografia_e_pontuacao.prova.01",
+          "lip.ef06.ortografia_e_pontuacao.prova.03",
+          "lip.ef06.ortografia_e_pontuacao.prova.04",
+          "lip.ef06.ortografia_e_pontuacao.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.ortografia_e_pontuacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes#ortografia_e_convencoes.producao",
+          "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica#acentuacao_grafica.producao",
+          "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen#emprego_do_hifen.producao",
+          "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas#paronimas_e_homonimas.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP33",
+        "questoes": [
+          "lip.ef06.ortografia_e_pontuacao.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.ortografia_e_pontuacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.ortografia_e_pontuacao.pontuar_textos#pontuar_textos.producao"
         ]
       }
     ]

@@ -129,6 +129,33 @@ registrarCurriculo("Língua Portuguesa", {
         "titulo": "Concordância verbal e produção revisada",
         "complementar": false
       }
+    ],
+    "Ortografia e Pontuação": [
+      {
+        "id": "lip.ef06.ortografia_e_pontuacao.ortografia_e_convencoes",
+        "titulo": "Ortografia e revisão orientada",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.ortografia_e_pontuacao.pontuar_textos",
+        "titulo": "Pontuação e construção de sentidos",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.ortografia_e_pontuacao.acentuacao_grafica",
+        "titulo": "Acentuação: tonicidade e regras",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.ortografia_e_pontuacao.emprego_do_hifen",
+        "titulo": "Hífen: padrões e consulta",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.ortografia_e_pontuacao.paronimas_e_homonimas",
+        "titulo": "Palavras parecidas: escolha pelo contexto",
+        "complementar": false
+      }
     ]
   },
   "EF07": {},
