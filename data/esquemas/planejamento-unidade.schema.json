@@ -1,0 +1,114 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Planejamento de unidade (não é prova publicável)",
+  "type": "object",
+  "required": [
+    "id",
+    "componente",
+    "nivel",
+    "estado",
+    "publicacao",
+    "aulas",
+    "camadas",
+    "avaliacao"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "componente": {
+      "type": "string",
+      "minLength": 1
+    },
+    "nivel": {
+      "type": "string",
+      "pattern": "^(EI0[1-3]|EF0[1-9]|EM0[1-3])$"
+    },
+    "estado": {
+      "enum": [
+        "planejado",
+        "parcial",
+        "bloqueado"
+      ]
+    },
+    "publicacao": {
+      "type": "object",
+      "required": [
+        "permitida"
+      ],
+      "properties": {
+        "permitida": {
+          "const": false
+        }
+      }
+    },
+    "aulas": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "camadas": {
+      "type": "object",
+      "required": [
+        "teoria",
+        "atividades",
+        "questoes",
+        "prova",
+        "arena",
+        "rastreabilidade"
+      ]
+    },
+    "avaliacao": {
+      "type": "object",
+      "required": [
+        "tipo",
+        "registros",
+        "devolutiva"
+      ]
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "nivel": {
+            "pattern": "^EI"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "camadas": {
+            "properties": {
+              "prova": {
+                "properties": {
+                  "estado": {
+                    "const": "nao_aplicavel"
+                  }
+                }
+              },
+              "arena": {
+                "properties": {
+                  "estado": {
+                    "const": "nao_aplicavel"
+                  }
+                }
+              }
+            }
+          },
+          "avaliacao": {
+            "properties": {
+              "tipo": {
+                "const": "observacao_e_documentacao"
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

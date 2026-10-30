@@ -15,6 +15,16 @@
   // continua sendo só o HTML pré-renderizado para o renderer da lição.
   window.PLATAFORMA_AULAS = window.PLATAFORMA_AULAS || {};
   window.PLATAFORMA_PROVAS = window.PLATAFORMA_PROVAS || {};
+  // Planejamento explícito nunca se torna aula/arena por um import acidental.
+  const aulasBloqueadas = new Set();
+  const publicacaoBloqueada = item => item?.publicacao?.permitida === false;
+  function curriculoPermitido(curriculo) {
+    return Object.fromEntries(Object.entries(curriculo).map(([nivel, unidades]) => [nivel,
+      Object.fromEntries(Object.entries(unidades).map(([unidade, aulas]) => [unidade,
+        Array.isArray(aulas) ? aulas.filter(a => !aulasBloqueadas.has(a.id) && !publicacaoBloqueada(a)) : aulas
+      ]).filter(([, aulas]) => !Array.isArray(aulas) || aulas.length))
+    ]));
+  }
   window.registrarProvas = (provas) => {
     if (provas && typeof provas === 'object' && !Array.isArray(provas)) Object.assign(window.PLATAFORMA_PROVAS, provas);
   };
@@ -27,7 +37,7 @@
     // Cenário 1: Chegaram dados reais
     if (dados) {
         if (typeof dados === 'object') {
-            window.PLATAFORMA_CURRICULO[disciplina] = dados;
+            window.PLATAFORMA_CURRICULO[disciplina] = curriculoPermitido(dados);
             // [MELHORIA] Log mais informativo contando unidades
             const qtdUnidades = Object.keys(dados).length;
             console.log(`📚 [Registry] Currículo carregado: ${disciplina} (${qtdUnidades} níveis)`);
@@ -45,7 +55,9 @@
 
   window.registrarTeoria = (novosConteudos) => {
     if (novosConteudos && typeof novosConteudos === 'object') {
-        Object.assign(window.PLATAFORMA_TEORIA, novosConteudos);
+        Object.entries(novosConteudos).forEach(([id, conteudo]) => {
+            if (!aulasBloqueadas.has(id)) window.PLATAFORMA_TEORIA[id] = conteudo;
+        });
         // [MELHORIA] Feedback de quantidade
         console.log(`📝 [Registry] +${Object.keys(novosConteudos).length} Lições teóricas registradas.`);
     } else {
@@ -78,10 +90,25 @@
     Object.keys(novasAulas).forEach((id) => {
         const aula = novasAulas[id];
         if (!aula || typeof aula !== 'object') return;
+        if (publicacaoBloqueada(aula)) {
+            aulasBloqueadas.add(id);
+            delete window.PLATAFORMA_AULAS[id];
+            delete window.PLATAFORMA_TEORIA[id];
+            return;
+        }
+        if (aulasBloqueadas.has(id)) {
+            if (aula.publicacao?.permitida !== true) return;
+            aulasBloqueadas.delete(id);
+        }
         // O id do mapa é a chave canônica; o campo interno serve de conferência.
         window.PLATAFORMA_AULAS[id] = aula;
         total += 1;
     });
+    if (aulasBloqueadas.size) {
+        Object.keys(window.PLATAFORMA_CURRICULO).forEach(disciplina => {
+            window.PLATAFORMA_CURRICULO[disciplina] = curriculoPermitido(window.PLATAFORMA_CURRICULO[disciplina]);
+        });
+    }
     console.log(`🎓 [Registry] +${total} aula(s) canônica(s) registrada(s).`);
   };
 
@@ -93,11 +120,14 @@
   window.Registry = {
       // Retorna o currículo de uma matéria ou um objeto vazio (evita crash)
       getCurriculo: function(disciplina) {
-          return window.PLATAFORMA_CURRICULO[disciplina] || {};
+          const curriculo = window.PLATAFORMA_CURRICULO[disciplina] || {};
+          if (!aulasBloqueadas.size) return curriculo;
+          return curriculoPermitido(curriculo);
       },
 
       // Busca o HTML de uma aula específica
       getTeoria: function(topicoId) {
+          if (aulasBloqueadas.has(topicoId)) return null;
           return window.PLATAFORMA_TEORIA[topicoId] || null;
       },
 
@@ -105,6 +135,7 @@
       // Retorna null quando o chunk não foi carregado (legado seguro).
       getAula: function(aulaId) {
           if (typeof aulaId !== 'string' || !aulaId) return null;
+          if (aulasBloqueadas.has(aulaId)) return null;
           return window.PLATAFORMA_AULAS[aulaId] || null;
       },
 
@@ -112,6 +143,7 @@
       getProva: function(nivel, tema, unidade) {
           return Object.values(window.PLATAFORMA_PROVAS).find(p =>
               p.nivel === nivel && p.tema === tema && p.unidade === unidade
+              && !publicacaoBloqueada(p)
               && ['piloto', 'publicado'].includes(p.estado)) || null;
       },
       getQuestoes: function(nivel, tema, unidade, tipo = 'treino') {
@@ -119,6 +151,7 @@
               if (!q || !Array.isArray(q.opcoes) || q.opcoes.length < 2
                   || !Number.isInteger(q.correta) || q.correta < 0 || q.correta >= q.opcoes.length) return false;
               return q.nivel === nivel && q.tema === tema && q.tipo === tipo
+                  && !publicacaoBloqueada(q) && !aulasBloqueadas.has(q.aulaId)
                   && ['piloto', 'publicado'].includes(q.estado)
                   && (!unidade || q.unidade === unidade)
                   && typeof q.explicacao === 'string' && q.explicacao.trim().length > 0;
