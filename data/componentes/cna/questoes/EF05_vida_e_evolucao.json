@@ -1,0 +1,358 @@
+[
+  {
+    "id": "cna.ef05.vida_e_evolucao.treino.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef05.nutricao_do_corpo.sistema_digestorio",
+    "bncc": [
+      "EF05CI06"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual sistema participa da absorção de nutrientes dos alimentos?",
+    "opcoes": [
+      "Somente o respiratório.",
+      "Apenas o sistema de locomoção.",
+      "Digestório."
+    ],
+    "correta": 2,
+    "explicacao": "Nutrientes absorvidos no intestino podem seguir pelo sangue. O oxigênio passa dos pulmões para o sangue nas trocas gasosas. Não é correto dizer que o alimento passa pelo pulmão ou que respirar substitui a alimentação. O modelo simplifica órgãos e processos que serão aprofundados depois.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          255,
+          256,
+          257,
+          258,
+          259,
+          307,
+          308
+        ],
+        "paginasImpressas": "255–259,307–308",
+        "uso": "Referência conceitual sobre obtenção, absorção e transporte; exemplos e esquemas de produção autoral."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.vida_e_evolucao.prova.06",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef05.nutricao_do_corpo.sistema_digestorio",
+    "bncc": [
+      "EF05CI06"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Por que digestório e respiratório participam da nutrição?",
+    "opcoes": [
+      "Porque respirar elimina a necessidade de alimento.",
+      "Porque alimento e ar percorrem exatamente o mesmo caminho inteiro.",
+      "Porque fornecem contribuições diferentes que se integram às necessidades das células."
+    ],
+    "correta": 2,
+    "explicacao": "A integração envolve nutrientes, trocas gasosas e transporte, sem confundir os percursos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          255,
+          256,
+          257,
+          258,
+          259,
+          307,
+          308
+        ],
+        "paginasImpressas": "255–259,307–308",
+        "uso": "Referência conceitual sobre obtenção, absorção e transporte; exemplos e esquemas de produção autoral."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.vida_e_evolucao.treino.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef05.circulacao_e_excrecao.coracao_e_vasos",
+    "bncc": [
+      "EF05CI07"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual papel da circulação foi estudado?",
+    "opcoes": [
+      "Substituir todas as funções dos órgãos.",
+      "Transportar substâncias entre órgãos e células.",
+      "Transformar todo sangue em urina."
+    ],
+    "correta": 1,
+    "explicacao": "Modelo de percurso: intestino → sangue → células para nutrientes; células → sangue → rins para parte dos resíduos; células → sangue → pulmões para gás carbônico. As setas representam transportes simplificados e não tubos únicos. O sangue não é todo convertido em urina.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          255,
+          256,
+          257,
+          258,
+          259,
+          307,
+          308
+        ],
+        "paginasImpressas": "255–259,307–308",
+        "uso": "Referência conceitual sobre obtenção, absorção e transporte; exemplos e esquemas de produção autoral."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.vida_e_evolucao.prova.07",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef05.circulacao_e_excrecao.coracao_e_vasos",
+    "bncc": [
+      "EF05CI07"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O gás carbônico produzido pelas células pode:",
+    "opcoes": [
+      "Ser eliminado apenas nas fezes.",
+      "Seguir pelo sangue até os pulmões para eliminação.",
+      "Substituir todos os nutrientes."
+    ],
+    "correta": 1,
+    "explicacao": "A circulação conecta tecidos e pulmões; diferentes resíduos têm percursos de eliminação diferentes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          255,
+          256,
+          257,
+          258,
+          259,
+          307,
+          308
+        ],
+        "paginasImpressas": "255–259,307–308",
+        "uso": "Referência conceitual sobre obtenção, absorção e transporte; exemplos e esquemas de produção autoral."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.vida_e_evolucao.treino.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef05.alimentacao_saudavel.grupos_alimentares",
+    "bncc": [
+      "EF05CI08"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um cardápio educativo deve considerar:",
+    "opcoes": [
+      "Somente a aparência corporal.",
+      "Variedade, contexto e necessidades, sem virar prescrição individual.",
+      "Um alimento único para todos."
+    ],
+    "correta": 1,
+    "explicacao": "Uma refeição com arroz, feijão, legumes e outras opções culturais pode reunir diferentes nutrientes. Variar não exige um alimento específico caro. O Guia Alimentar considera preparações e alimentos in natura/minimamente processados e discute acesso e contexto. A necessidade individual não pode ser definida somente pela aparência ou pelo sexo de uma pessoa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "Ministério da Saúde — Guias Alimentares",
+        "url": "https://www.gov.br/saude/pt-br/composicao/saps/promocao-da-saude/guias-alimentares/guias-alimentares",
+        "uso": "Fonte oficial consultada para diversidade, cultura, acesso e múltiplos determinantes da alimentação; atividade educativa, sem dieta ou diagnóstico individual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.vida_e_evolucao.prova.08",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef05.alimentacao_saudavel.grupos_alimentares",
+    "bncc": [
+      "EF05CI08"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um alimento fornece necessariamente só um nutriente?",
+    "opcoes": [
+      "Sim, cada alimento tem função exclusiva.",
+      "Sim, toda preparação fornece apenas açúcar.",
+      "Não; alimentos podem reunir diferentes nutrientes."
+    ],
+    "correta": 2,
+    "explicacao": "A classificação ajuda a estudar, mas não reduz alimentos a um único componente ou papel.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "Ministério da Saúde — Guias Alimentares",
+        "url": "https://www.gov.br/saude/pt-br/composicao/saps/promocao-da-saude/guias-alimentares/guias-alimentares",
+        "uso": "Fonte oficial consultada para diversidade, cultura, acesso e múltiplos determinantes da alimentação; atividade educativa, sem dieta ou diagnóstico individual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.vida_e_evolucao.treino.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef05.disturbios_nutricionais.obesidade",
+    "bncc": [
+      "EF05CI09"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Pode-se diagnosticar um distúrbio nutricional só pela aparência?",
+    "opcoes": [
+      "Não; é necessária avaliação apropriada e contexto.",
+      "Sim, pela roupa usada.",
+      "Sim, com uma fotografia."
+    ],
+    "correta": 0,
+    "explicacao": "Casos fictícios: A tem pouca disponibilidade de alimentos variados; B convive com ofertas repetidas de produtos muito energéticos e poucas oportunidades acessíveis de movimento. Não é possível diagnosticar os personagens a partir dessas poucas informações. É possível discutir barreiras, cuidados coletivos e quais dados faltam, sem receitas de emagrecimento.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "Ministério da Saúde — Guias Alimentares",
+        "url": "https://www.gov.br/saude/pt-br/composicao/saps/promocao-da-saude/guias-alimentares/guias-alimentares",
+        "uso": "Fonte oficial consultada para diversidade, cultura, acesso e múltiplos determinantes da alimentação; atividade educativa, sem dieta ou diagnóstico individual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.vida_e_evolucao.prova.09",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Vida e Evolução",
+    "aulaId": "cna.ef05.disturbios_nutricionais.obesidade",
+    "bncc": [
+      "EF05CI09"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma discussão escolar adequada deve:",
+    "opcoes": [
+      "Analisar hábitos e condições de acesso sem expor ou diagnosticar colegas.",
+      "Culpar e ridicularizar pessoas.",
+      "Prescrever dieta igual para todos."
+    ],
+    "correta": 0,
+    "explicacao": "O estudo curricular pode discutir fatores e necessidades sem transformar estudantes em casos clínicos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "Ministério da Saúde — Guias Alimentares",
+        "url": "https://www.gov.br/saude/pt-br/composicao/saps/promocao-da-saude/guias-alimentares/guias-alimentares",
+        "uso": "Fonte oficial consultada para diversidade, cultura, acesso e múltiplos determinantes da alimentação; atividade educativa, sem dieta ou diagnóstico individual."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

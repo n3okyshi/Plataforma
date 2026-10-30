@@ -3524,29 +3524,6 @@
           "titulo": "Misturas do Dia a Dia",
           "aulas": [
             {
-              "id": "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura",
-              "titulo": "O Que É Mistura",
-              "bncc": [
-                "EF04CI01"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "materia_e_energia"
-              ],
-              "tags": [
-                "misturas",
-                "materiais"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "69-72"
-                }
-              ],
-              "legado": false,
-              "resumo": "Reconhecer misturas presentes em alimentos, bebidas e produtos de limpeza."
-            },
-            {
               "id": "cna.ef04.misturas_do_dia_a_dia.misturas_homogeneas",
               "titulo": "Misturas Homogêneas",
               "bncc": [
@@ -3666,29 +3643,6 @@
           "id": "cna.ef04.transformacoes_dos_materiais",
           "titulo": "Transformações dos Materiais",
           "aulas": [
-            {
-              "id": "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento",
-              "titulo": "Aquecimento e Resfriamento",
-              "bncc": [
-                "EF04CI02"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "materia_e_energia"
-              ],
-              "tags": [
-                "transformacoes",
-                "calor"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "76-79"
-                }
-              ],
-              "legado": false,
-              "resumo": "Observar o que muda nos materiais ao serem aquecidos ou resfriados."
-            },
             {
               "id": "cna.ef04.transformacoes_dos_materiais.luz_e_umidade",
               "titulo": "Luz e Umidade",
@@ -3811,29 +3765,6 @@
           "titulo": "Transformações Reversíveis e Não Reversíveis",
           "aulas": [
             {
-              "id": "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua",
-              "titulo": "Mudanças de Estado da Água",
-              "bncc": [
-                "EF04CI03"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "materia_e_energia"
-              ],
-              "tags": [
-                "agua",
-                "transformacoes"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "73-76"
-                }
-              ],
-              "legado": false,
-              "resumo": "Observar fusão e solidificação da água e reconhecer que são reversíveis."
-            },
-            {
               "id": "cna.ef04.reversivel_ou_nao.cozimento_de_alimentos",
               "titulo": "Cozimento de Alimentos",
               "bncc": [
@@ -3952,29 +3883,6 @@
           "id": "cna.ef04.cadeias_alimentares",
           "titulo": "Cadeias Alimentares",
           "aulas": [
-            {
-              "id": "cna.ef04.cadeias_alimentares.produtores",
-              "titulo": "Produtores",
-              "bncc": [
-                "EF04CI04"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "cadeia_alimentar",
-                "plantas"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "133-137"
-                }
-              ],
-              "legado": false,
-              "resumo": "Reconhecer plantas e algas como produtores de alimento nos ecossistemas."
-            },
             {
               "id": "cna.ef04.cadeias_alimentares.consumidores",
               "titulo": "Consumidores",
@@ -4120,28 +4028,6 @@
           "titulo": "Ciclo da Matéria e Fluxo de Energia",
           "aulas": [
             {
-              "id": "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos",
-              "titulo": "Componentes Vivos e Não Vivos",
-              "bncc": [
-                "EF04CI05"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "ecossistemas"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "133-137"
-                }
-              ],
-              "legado": false,
-              "resumo": "Distinguir componentes vivos e não vivos de um ecossistema."
-            },
-            {
               "id": "cna.ef04.ciclo_da_materia_e_energia.ciclo_da_materia",
               "titulo": "Ciclo da Matéria",
               "bncc": [
@@ -4262,29 +4148,6 @@
           "titulo": "Microrganismos",
           "aulas": [
             {
-              "id": "cna.ef04.microrganismos.fungos_e_bacterias",
-              "titulo": "Fungos e Bactérias",
-              "bncc": [
-                "EF04CI06"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "microrganismos",
-                "fungos"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "199-203"
-                }
-              ],
-              "legado": false,
-              "resumo": "Reconhecer fungos e bactérias como seres vivos microscópicos diversos."
-            },
-            {
               "id": "cna.ef04.microrganismos.decomposicao",
               "titulo": "Decomposição",
               "bncc": [
@@ -4329,29 +4192,6 @@
               ],
               "legado": false,
               "resumo": "Justificar por que a decomposição é essencial para os ecossistemas."
-            },
-            {
-              "id": "cna.ef04.microrganismos.microrganismos_nos_alimentos",
-              "titulo": "Microrganismos nos Alimentos",
-              "bncc": [
-                "EF04CI07"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "microrganismos",
-                "alimentacao"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "200-203"
-                }
-              ],
-              "legado": false,
-              "resumo": "Verificar a participação de microrganismos na produção de pães, queijos e iogurtes."
             },
             {
               "id": "cna.ef04.microrganismos.fermentacao",
@@ -4428,29 +4268,6 @@
           "id": "cna.ef04.saude_e_microrganismos",
           "titulo": "Saúde e Microrganismos",
           "aulas": [
-            {
-              "id": "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios",
-              "titulo": "Vírus, Bactérias e Protozoários",
-              "bncc": [
-                "EF04CI08"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "microrganismos",
-                "saude"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "283-286"
-                }
-              ],
-              "legado": false,
-              "resumo": "Diferenciar os principais agentes causadores de doenças infecciosas."
-            },
             {
               "id": "cna.ef04.saude_e_microrganismos.formas_de_transmissao",
               "titulo": "Formas de Transmissão",
@@ -4573,29 +4390,6 @@
           "titulo": "Orientação pelo Sol",
           "aulas": [
             {
-              "id": "cna.ef04.orientacao_pelo_sol.pontos_cardeais",
-              "titulo": "Pontos Cardeais",
-              "bncc": [
-                "EF04CI09"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "terra_e_universo"
-              ],
-              "tags": [
-                "pontos_cardeais",
-                "orientacao"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "11-13"
-                }
-              ],
-              "legado": false,
-              "resumo": "Nomear norte, sul, leste e oeste e localizá-los no espaço escolar."
-            },
-            {
               "id": "cna.ef04.orientacao_pelo_sol.gnomon",
               "titulo": "O Gnômon",
               "bncc": [
@@ -4665,29 +4459,6 @@
               "resumo": "Usar a rosa dos ventos para indicar direções em mapas simples."
             },
             {
-              "id": "cna.ef04.orientacao_pelo_sol.bussola",
-              "titulo": "A Bússola",
-              "bncc": [
-                "EF04CI10"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "terra_e_universo"
-              ],
-              "tags": [
-                "orientacao",
-                "instrumentos"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "11-13"
-                }
-              ],
-              "legado": false,
-              "resumo": "Explicar como a bússola indica o norte e compará-la ao gnômon."
-            },
-            {
               "id": "cna.ef04.orientacao_pelo_sol.comparando_gnomon_e_bussola",
               "titulo": "Gnômon e Bússola",
               "bncc": [
@@ -4716,29 +4487,6 @@
           "id": "cna.ef04.calendarios_e_ciclos",
           "titulo": "Calendários e Ciclos",
           "aulas": [
-            {
-              "id": "cna.ef04.calendarios_e_ciclos.fases_da_lua",
-              "titulo": "Fases da Lua",
-              "bncc": [
-                "EF04CI11"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "terra_e_universo"
-              ],
-              "tags": [
-                "lua",
-                "ciclos"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "11-22"
-                }
-              ],
-              "legado": false,
-              "resumo": "Observar e registrar as fases da Lua ao longo de um mês."
-            },
             {
               "id": "cna.ef04.calendarios_e_ciclos.movimento_da_terra",
               "titulo": "Movimentos da Terra",
@@ -4832,6 +4580,300 @@
               "resumo": "Discutir como diferentes povos usam o céu para organizar o tempo."
             }
           ]
+        },
+        {
+          "id": "cna.ef04.materia_e_energia",
+          "titulo": "Matéria e Energia",
+          "estado": "piloto_nucleo",
+          "aulas": [
+            {
+              "id": "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura",
+              "titulo": "Misturas no cotidiano e sua composição",
+              "bncc": [
+                "EF04CI01"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    341
+                  ],
+                  "paginasImpressas": "339",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                },
+                {
+                  "documento": "MC_CIENCIAS.pdf",
+                  "paginasPdf": [
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78
+                  ],
+                  "paginasImpressas": "73–78",
+                  "uso": "Referência consultada sobre estados, transformações e propriedades. Não se generaliza irreversibilidade como definição universal de transformação química."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento",
+              "titulo": "Investigar transformações em condições diferentes",
+              "bncc": [
+                "EF04CI02"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    341
+                  ],
+                  "paginasImpressas": "339",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                },
+                {
+                  "documento": "MC_CIENCIAS.pdf",
+                  "paginasPdf": [
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78
+                  ],
+                  "paginasImpressas": "73–78",
+                  "uso": "Referência consultada sobre estados, transformações e propriedades. Não se generaliza irreversibilidade como definição universal de transformação química."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua",
+              "titulo": "Mudanças reversíveis e não reversíveis",
+              "bncc": [
+                "EF04CI03"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    341
+                  ],
+                  "paginasImpressas": "339",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                },
+                {
+                  "documento": "MC_CIENCIAS.pdf",
+                  "paginasPdf": [
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78
+                  ],
+                  "paginasImpressas": "73–78",
+                  "uso": "Referência consultada sobre estados, transformações e propriedades. Não se generaliza irreversibilidade como definição universal de transformação química."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            }
+          ]
+        },
+        {
+          "id": "cna.ef04.vida_e_evolucao",
+          "titulo": "Vida e Evolução",
+          "estado": "piloto_nucleo",
+          "aulas": [
+            {
+              "id": "cna.ef04.cadeias_alimentares.produtores",
+              "titulo": "Cadeias alimentares e energia do Sol",
+              "bncc": [
+                "EF04CI04"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    341
+                  ],
+                  "paginasImpressas": "339",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef04.ciclo_da_materia_e_energia.componentes_vivos_e_nao_vivos",
+              "titulo": "Matéria em ciclo e energia em fluxo",
+              "bncc": [
+                "EF04CI05"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    341
+                  ],
+                  "paginasImpressas": "339",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef04.microrganismos.fungos_e_bacterias",
+              "titulo": "Fungos, bactérias e decomposição",
+              "bncc": [
+                "EF04CI06"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    341
+                  ],
+                  "paginasImpressas": "339",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                },
+                {
+                  "documento": "MC_CIENCIAS.pdf",
+                  "paginasPdf": [
+                    199,
+                    200,
+                    201
+                  ],
+                  "paginasImpressas": "199–201",
+                  "uso": "Fungos, decomposição e usos produtivos. Não reproduz a formulação inadequada de que medicamento seria simplesmente fungo em sua composição."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef04.microrganismos.microrganismos_nos_alimentos",
+              "titulo": "Microrganismos em processos produtivos",
+              "bncc": [
+                "EF04CI07"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    341
+                  ],
+                  "paginasImpressas": "339",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                },
+                {
+                  "documento": "MC_CIENCIAS.pdf",
+                  "paginasPdf": [
+                    199,
+                    200,
+                    201
+                  ],
+                  "paginasImpressas": "199–201",
+                  "uso": "Fungos, decomposição e usos produtivos. Não reproduz a formulação inadequada de que medicamento seria simplesmente fungo em sua composição."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef04.saude_e_microrganismos.virus_bacterias_protozoarios",
+              "titulo": "Transmissão e prevenção: relacionar medidas",
+              "bncc": [
+                "EF04CI08"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    341
+                  ],
+                  "paginasImpressas": "339",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                },
+                {
+                  "documento": "WHO — Diarrhoeal disease",
+                  "url": "https://www.who.int/news-room/fact-sheets/detail/Diarrhoeal-disease",
+                  "uso": "Fonte oficial consultada sobre vias por água/alimentos e prevenção por água segura, saneamento e higiene; não é orientação de tratamento."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            }
+          ]
+        },
+        {
+          "id": "cna.ef04.terra_e_universo",
+          "titulo": "Terra e Universo",
+          "estado": "piloto_nucleo",
+          "aulas": [
+            {
+              "id": "cna.ef04.orientacao_pelo_sol.pontos_cardeais",
+              "titulo": "Pontos cardeais pelo registro de sombras",
+              "bncc": [
+                "EF04CI09"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    341
+                  ],
+                  "paginasImpressas": "339",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef04.orientacao_pelo_sol.bussola",
+              "titulo": "Comparar gnômon e bússola",
+              "bncc": [
+                "EF04CI10"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    341
+                  ],
+                  "paginasImpressas": "339",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef04.calendarios_e_ciclos.fases_da_lua",
+              "titulo": "Ciclos e calendários em diferentes culturas",
+              "bncc": [
+                "EF04CI11"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    341
+                  ],
+                  "paginasImpressas": "339",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            }
+          ]
         }
       ]
     },
@@ -4841,29 +4883,6 @@
           "id": "cna.ef05.propriedades_dos_materiais",
           "titulo": "Propriedades dos Materiais",
           "aulas": [
-            {
-              "id": "cna.ef05.propriedades_dos_materiais.densidade",
-              "titulo": "Densidade",
-              "bncc": [
-                "EF05CI01"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "materia_e_energia"
-              ],
-              "tags": [
-                "materiais",
-                "densidade"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "77-79"
-                }
-              ],
-              "legado": false,
-              "resumo": "Comparar materiais que flutuam ou afundam e explicar pela densidade."
-            },
             {
               "id": "cna.ef05.propriedades_dos_materiais.condutibilidade_termica",
               "titulo": "Condutibilidade Térmica",
@@ -4986,29 +5005,6 @@
           "titulo": "Ciclo da Água",
           "aulas": [
             {
-              "id": "cna.ef05.ciclo_da_agua.mudancas_de_estado",
-              "titulo": "Mudanças de Estado",
-              "bncc": [
-                "EF05CI02"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "materia_e_energia"
-              ],
-              "tags": [
-                "agua",
-                "transformacoes"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "73-76"
-                }
-              ],
-              "legado": false,
-              "resumo": "Revisar fusão, solidificação, vaporização e condensação da água."
-            },
-            {
               "id": "cna.ef05.ciclo_da_agua.evaporacao_e_condensacao",
               "titulo": "Evaporação e Condensação",
               "bncc": [
@@ -5130,29 +5126,6 @@
           "titulo": "Vegetação e Água",
           "aulas": [
             {
-              "id": "cna.ef05.vegetacao_e_agua.cobertura_vegetal",
-              "titulo": "Cobertura Vegetal",
-              "bncc": [
-                "EF05CI03"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "vegetacao",
-                "ambiente"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "107-112"
-                }
-              ],
-              "legado": false,
-              "resumo": "Argumentar sobre o papel da cobertura vegetal na manutenção do ciclo da água."
-            },
-            {
               "id": "cna.ef05.vegetacao_e_agua.florestas_e_ciclo_da_agua",
               "titulo": "Florestas e Ciclo da Água",
               "bncc": [
@@ -5251,29 +5224,6 @@
           "titulo": "Consumo Consciente",
           "aulas": [
             {
-              "id": "cna.ef05.consumo_consciente.usos_da_agua",
-              "titulo": "Usos da Água",
-              "bncc": [
-                "EF05CI04"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "terra_e_universo"
-              ],
-              "tags": [
-                "agua",
-                "consumo_consciente"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "119-121"
-                }
-              ],
-              "legado": false,
-              "resumo": "Identificar os principais usos da água em casa, na escola e na cidade."
-            },
-            {
               "id": "cna.ef05.consumo_consciente.usos_de_materiais",
               "titulo": "Usos de Materiais",
               "bncc": [
@@ -5370,29 +5320,6 @@
           "id": "cna.ef05.reciclagem_e_descarte",
           "titulo": "Reciclagem e Descarte",
           "aulas": [
-            {
-              "id": "cna.ef05.reciclagem_e_descarte.tipos_de_residuos",
-              "titulo": "Tipos de Resíduos",
-              "bncc": [
-                "EF05CI05"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "materia_e_energia"
-              ],
-              "tags": [
-                "reciclagem",
-                "residuos"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "120-122"
-                }
-              ],
-              "legado": false,
-              "resumo": "Classificar resíduos em orgânicos, recicláveis e rejeitos."
-            },
             {
               "id": "cna.ef05.reciclagem_e_descarte.coleta_seletiva",
               "titulo": "Coleta Seletiva",
@@ -5491,29 +5418,6 @@
           "id": "cna.ef05.nutricao_do_corpo",
           "titulo": "Nutrição do Corpo",
           "aulas": [
-            {
-              "id": "cna.ef05.nutricao_do_corpo.sistema_digestorio",
-              "titulo": "Sistema Digestório",
-              "bncc": [
-                "EF05CI06"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "corpo_humano",
-                "digestao"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "258-263"
-                }
-              ],
-              "legado": false,
-              "resumo": "Identificar os órgãos do sistema digestório e suas funções."
-            },
             {
               "id": "cna.ef05.nutricao_do_corpo.sistema_respiratorio",
               "titulo": "Sistema Respiratório",
@@ -5636,29 +5540,6 @@
           "titulo": "Circulação e Excreção",
           "aulas": [
             {
-              "id": "cna.ef05.circulacao_e_excrecao.coracao_e_vasos",
-              "titulo": "Coração e Vasos",
-              "bncc": [
-                "EF05CI07"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "corpo_humano",
-                "circulacao"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "310-312"
-                }
-              ],
-              "legado": false,
-              "resumo": "Descrever a estrutura do coração e o percurso do sangue pelo corpo."
-            },
-            {
               "id": "cna.ef05.circulacao_e_excrecao.distribuicao_de_nutrientes",
               "titulo": "Distribuição de Nutrientes",
               "bncc": [
@@ -5756,29 +5637,6 @@
           "id": "cna.ef05.alimentacao_saudavel",
           "titulo": "Alimentação Saudável",
           "aulas": [
-            {
-              "id": "cna.ef05.alimentacao_saudavel.grupos_alimentares",
-              "titulo": "Grupos Alimentares",
-              "bncc": [
-                "EF05CI08"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "alimentacao",
-                "nutricao"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "255-258"
-                }
-              ],
-              "legado": false,
-              "resumo": "Reconhecer os grupos alimentares e os nutrientes que cada um fornece."
-            },
             {
               "id": "cna.ef05.alimentacao_saudavel.cardapio_equilibrado",
               "titulo": "Cardápio Equilibrado",
@@ -5878,29 +5736,6 @@
           "titulo": "Distúrbios Nutricionais",
           "aulas": [
             {
-              "id": "cna.ef05.disturbios_nutricionais.obesidade",
-              "titulo": "Obesidade",
-              "bncc": [
-                "EF05CI09"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "seres_vivos"
-              ],
-              "tags": [
-                "saude",
-                "nutricao"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "255-258"
-                }
-              ],
-              "legado": false,
-              "resumo": "Discutir fatores associados à obesidade em crianças e jovens."
-            },
-            {
               "id": "cna.ef05.disturbios_nutricionais.subnutricao",
               "titulo": "Subnutrição",
               "bncc": [
@@ -5999,29 +5834,6 @@
           "titulo": "Observando o Céu",
           "aulas": [
             {
-              "id": "cna.ef05.observando_o_ceu.constelacoes",
-              "titulo": "Constelações",
-              "bncc": [
-                "EF05CI10"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "terra_e_universo"
-              ],
-              "tags": [
-                "astronomia",
-                "constelacoes"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "11-22"
-                }
-              ],
-              "legado": false,
-              "resumo": "Identificar constelações visíveis no céu com apoio de mapas celestes."
-            },
-            {
               "id": "cna.ef05.observando_o_ceu.mapas_celestes",
               "titulo": "Mapas Celestes",
               "bncc": [
@@ -6068,29 +5880,6 @@
               "resumo": "Relacionar constelações visíveis ao início da noite e à época do ano."
             },
             {
-              "id": "cna.ef05.observando_o_ceu.movimento_diurno",
-              "titulo": "Movimento Diurno do Céu",
-              "bncc": [
-                "EF05CI11"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "terra_e_universo"
-              ],
-              "tags": [
-                "astronomia",
-                "rotacao"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "11-22"
-                }
-              ],
-              "legado": false,
-              "resumo": "Descrever o deslocamento aparente do Sol e das estrelas ao longo do dia."
-            },
-            {
               "id": "cna.ef05.observando_o_ceu.rotacao_da_terra",
               "titulo": "Rotação da Terra",
               "bncc": [
@@ -6119,29 +5908,6 @@
           "id": "cna.ef05.lua_e_instrumentos",
           "titulo": "Lua e Instrumentos de Observação",
           "aulas": [
-            {
-              "id": "cna.ef05.lua_e_instrumentos.fases_da_lua",
-              "titulo": "Fases da Lua",
-              "bncc": [
-                "EF05CI12"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "terra_e_universo"
-              ],
-              "tags": [
-                "lua",
-                "fases_da_lua"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "11-22"
-                }
-              ],
-              "legado": false,
-              "resumo": "Descrever a sequência das fases da Lua e sua periodicidade."
-            },
             {
               "id": "cna.ef05.lua_e_instrumentos.registro_de_dois_meses",
               "titulo": "Dois Meses de Registro",
@@ -6189,29 +5955,6 @@
               "resumo": "Relacionar as fases da Lua à contagem do tempo em calendários lunares."
             },
             {
-              "id": "cna.ef05.lua_e_instrumentos.luneta_e_periscopio",
-              "titulo": "Luneta e Periscópio",
-              "bncc": [
-                "EF05CI13"
-              ],
-              "areas": [
-                "ciencias_natureza",
-                "terra_e_universo"
-              ],
-              "tags": [
-                "instrumentos",
-                "astronomia"
-              ],
-              "fontes": [
-                {
-                  "documento": "MC_CIENCIAS.pdf",
-                  "pagina": "180-182"
-                }
-              ],
-              "legado": false,
-              "resumo": "Construir um dispositivo de observação à distância e discutir seu uso social."
-            },
-            {
               "id": "cna.ef05.lua_e_instrumentos.lupas_e_microscopios",
               "titulo": "Lupas e Microscópios",
               "bncc": [
@@ -6233,6 +5976,325 @@
               ],
               "legado": false,
               "resumo": "Comparar ampliações obtidas com lupa e microscópio e seus usos."
+            }
+          ]
+        },
+        {
+          "id": "cna.ef05.materia_e_energia",
+          "titulo": "Matéria e Energia",
+          "estado": "piloto_nucleo",
+          "aulas": [
+            {
+              "id": "cna.ef05.propriedades_dos_materiais.densidade",
+              "titulo": "Propriedades físicas: investigar com critérios",
+              "bncc": [
+                "EF05CI01"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                },
+                {
+                  "documento": "MC_CIENCIAS.pdf",
+                  "paginasPdf": [
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78
+                  ],
+                  "paginasImpressas": "73–78",
+                  "uso": "Referência consultada sobre estados, transformações e propriedades. Não se generaliza irreversibilidade como definição universal de transformação química."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef05.ciclo_da_agua.mudancas_de_estado",
+              "titulo": "Ciclo da água e usos na sociedade",
+              "bncc": [
+                "EF05CI02"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef05.vegetacao_e_agua.cobertura_vegetal",
+              "titulo": "Cobertura vegetal, solo, água e ar",
+              "bncc": [
+                "EF05CI03"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef05.consumo_consciente.usos_da_agua",
+              "titulo": "Usos de água e materiais: propor redução",
+              "bncc": [
+                "EF05CI04"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef05.reciclagem_e_descarte.tipos_de_residuos",
+              "titulo": "Projeto coletivo de reutilização e descarte",
+              "bncc": [
+                "EF05CI05"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            }
+          ]
+        },
+        {
+          "id": "cna.ef05.vida_e_evolucao",
+          "titulo": "Vida e Evolução",
+          "estado": "piloto_nucleo",
+          "aulas": [
+            {
+              "id": "cna.ef05.nutricao_do_corpo.sistema_digestorio",
+              "titulo": "Digestão e respiração na nutrição",
+              "bncc": [
+                "EF05CI06"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                },
+                {
+                  "documento": "MC_CIENCIAS.pdf",
+                  "paginasPdf": [
+                    255,
+                    256,
+                    257,
+                    258,
+                    259,
+                    307,
+                    308
+                  ],
+                  "paginasImpressas": "255–259,307–308",
+                  "uso": "Referência conceitual sobre obtenção, absorção e transporte; exemplos e esquemas de produção autoral."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef05.circulacao_e_excrecao.coracao_e_vasos",
+              "titulo": "Circulação, distribuição e resíduos",
+              "bncc": [
+                "EF05CI07"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                },
+                {
+                  "documento": "MC_CIENCIAS.pdf",
+                  "paginasPdf": [
+                    255,
+                    256,
+                    257,
+                    258,
+                    259,
+                    307,
+                    308
+                  ],
+                  "paginasImpressas": "255–259,307–308",
+                  "uso": "Referência conceitual sobre obtenção, absorção e transporte; exemplos e esquemas de produção autoral."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef05.alimentacao_saudavel.grupos_alimentares",
+              "titulo": "Cardápio como estudo de variedade e necessidades",
+              "bncc": [
+                "EF05CI08"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Guias Alimentares",
+                  "url": "https://www.gov.br/saude/pt-br/composicao/saps/promocao-da-saude/guias-alimentares/guias-alimentares",
+                  "uso": "Fonte oficial consultada para diversidade, cultura, acesso e múltiplos determinantes da alimentação; atividade educativa, sem dieta ou diagnóstico individual."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef05.disturbios_nutricionais.obesidade",
+              "titulo": "Nutrição: analisar contextos sem estigma",
+              "bncc": [
+                "EF05CI09"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                },
+                {
+                  "documento": "Ministério da Saúde — Guias Alimentares",
+                  "url": "https://www.gov.br/saude/pt-br/composicao/saps/promocao-da-saude/guias-alimentares/guias-alimentares",
+                  "uso": "Fonte oficial consultada para diversidade, cultura, acesso e múltiplos determinantes da alimentação; atividade educativa, sem dieta ou diagnóstico individual."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            }
+          ]
+        },
+        {
+          "id": "cna.ef05.terra_e_universo",
+          "titulo": "Terra e Universo",
+          "estado": "piloto_nucleo",
+          "aulas": [
+            {
+              "id": "cna.ef05.observando_o_ceu.constelacoes",
+              "titulo": "Constelações e mapas do céu",
+              "bncc": [
+                "EF05CI10"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef05.observando_o_ceu.movimento_diurno",
+              "titulo": "Rotação e movimento aparente diário",
+              "bncc": [
+                "EF05CI11"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef05.lua_e_instrumentos.fases_da_lua",
+              "titulo": "Lua: registros por pelo menos dois meses",
+              "bncc": [
+                "EF05CI12"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
+            },
+            {
+              "id": "cna.ef05.lua_e_instrumentos.luneta_e_periscopio",
+              "titulo": "Projetar um instrumento de observação",
+              "bncc": [
+                "EF05CI13"
+              ],
+              "fontes": [
+                {
+                  "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+                  "paginasPdf": [
+                    343
+                  ],
+                  "paginasImpressas": "341",
+                  "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+                }
+              ],
+              "estado": "piloto",
+              "complementar": false
             }
           ]
         }

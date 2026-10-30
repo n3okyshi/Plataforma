@@ -1,0 +1,101 @@
+{
+  "id": "cna.ef05.circulacao_e_excrecao.coracao_e_vasos",
+  "componente": "cna",
+  "nivel": "EF05",
+  "ordem": 7,
+  "unidade": "Vida e Evolução",
+  "titulo": "Circulação, distribuição e resíduos",
+  "bncc": [
+    "EF05CI07"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Construa diagrama com intestino, pulmões, coração/vasos, células e rins. Identifique dois percursos de distribuição e dois de resíduos. Explique por que circulação se relaciona tanto à nutrição quanto à eliminação, e diferencie urina de restos não digeridos sem atividades com fluidos corporais."
+    ],
+    "resumo": "Circulação, distribuição e resíduos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Circulação, distribuição e resíduos</h2><h3>Ideias para investigar</h3><p>O sistema circulatório transporta substâncias entre diferentes partes do organismo. Nutrientes e oxigênio chegam às células, e resíduos do metabolismo seguem para órgãos que participam de sua eliminação. Rins filtram o sangue e participam da formação da urina; pulmões eliminam gás carbônico. Excreção não é sinônimo de retirar restos não digeridos pelas fezes.</p><h3>Exemplo comentado</h3><p>Modelo de percurso: intestino → sangue → células para nutrientes; células → sangue → rins para parte dos resíduos; células → sangue → pulmões para gás carbônico. As setas representam transportes simplificados e não tubos únicos. O sangue não é todo convertido em urina.</p><h3>Observe, registre e explique</h3><p>Construa diagrama com intestino, pulmões, coração/vasos, células e rins. Identifique dois percursos de distribuição e dois de resíduos. Explique por que circulação se relaciona tanto à nutrição quanto à eliminação, e diferencie urina de restos não digeridos sem atividades com fluidos corporais.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "coracao_e_vasos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual papel da circulação foi estudado?",
+      "alternativas": [
+        "Transportar substâncias entre órgãos e células.",
+        "Transformar todo sangue em urina.",
+        "Substituir todas as funções dos órgãos."
+      ],
+      "correta": 0,
+      "explicacao": "Modelo de percurso: intestino → sangue → células para nutrientes; células → sangue → rins para parte dos resíduos; células → sangue → pulmões para gás carbônico. As setas representam transportes simplificados e não tubos únicos. O sangue não é todo convertido em urina.",
+      "bncc": [
+        "EF05CI07"
+      ]
+    },
+    {
+      "id": "coracao_e_vasos.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Construa diagrama com intestino, pulmões, coração/vasos, células e rins. Identifique dois percursos de distribuição e dois de resíduos. Explique por que circulação se relaciona tanto à nutrição quanto à eliminação, e diferencie urina de restos não digeridos sem atividades com fluidos corporais.",
+      "gabarito": "Exigir conexões coerentes e justificativa de transporte, sem afirmar que sangue sai integralmente como urina. Distinguir eliminação de resíduos metabólicos e egestão de material não digerido. Não coletar amostras corporais.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir conexões coerentes e justificativa de transporte, sem afirmar que sangue sai integralmente como urina. Distinguir eliminação de resíduos metabólicos e egestão de material não digerido. Não coletar amostras corporais.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF05CI07"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        343
+      ],
+      "paginasImpressas": "341",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        255,
+        256,
+        257,
+        258,
+        259,
+        307,
+        308
+      ],
+      "paginasImpressas": "255–259,307–308",
+      "uso": "Referência conceitual sobre obtenção, absorção e transporte; exemplos e esquemas de produção autoral."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Circulação e Excreção",
+    "titulo": "Coração e Vasos"
+  }
+}

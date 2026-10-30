@@ -1,0 +1,378 @@
+[
+  {
+    "id": "cna.ef05.materia_e_energia.treino.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef05.propriedades_dos_materiais.densidade",
+    "bncc": [
+      "EF05CI01"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Todo metal é atraído igualmente por um ímã?",
+    "opcoes": [
+      "Todo plástico é mais magnético.",
+      "Sim, sempre.",
+      "Não; a resposta depende do material."
+    ],
+    "correta": 2,
+    "explicacao": "Um clipe de aço pode responder a um ímã, enquanto uma peça de plástico não; nem todo metal responde da mesma maneira. Sal pode dissolver em água e areia permanecer visível. Madeira e metal em condições semelhantes podem trocar calor de modo diferente, mas sensação ao toque não é medida completa de temperatura.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          73,
+          74,
+          75,
+          76,
+          77,
+          78
+        ],
+        "paginasImpressas": "73–78",
+        "uso": "Referência consultada sobre estados, transformações e propriedades. Não se generaliza irreversibilidade como definição universal de transformação química."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.materia_e_energia.prova.01",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef05.propriedades_dos_materiais.densidade",
+    "bncc": [
+      "EF05CI01"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual registro permite comparar propriedades com rigor?",
+    "opcoes": [
+      "Somente gostei ou não gostei.",
+      "Nome da propriedade, condições, resultado e limites.",
+      "Uma conclusão para todos os materiais a partir de um objeto."
+    ],
+    "correta": 1,
+    "explicacao": "A propriedade precisa ser relacionada às condições e ao material efetivamente investigado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      },
+      {
+        "documento": "MC_CIENCIAS.pdf",
+        "paginasPdf": [
+          73,
+          74,
+          75,
+          76,
+          77,
+          78
+        ],
+        "paginasImpressas": "73–78",
+        "uso": "Referência consultada sobre estados, transformações e propriedades. Não se generaliza irreversibilidade como definição universal de transformação química."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.materia_e_energia.treino.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef05.ciclo_da_agua.mudancas_de_estado",
+    "bncc": [
+      "EF05CI02"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A formação de gotículas a partir do vapor é:",
+    "opcoes": [
+      "Condensação.",
+      "Combustão.",
+      "Derretimento obrigatório."
+    ],
+    "correta": 0,
+    "explicacao": "Água pode evaporar de um reservatório e participar de nuvens após condensação. Nuvens não são feitas apenas de vapor invisível, mas de gotículas e/ou cristais. Chuvas podem abastecer solo e rios, com efeitos na agricultura, ecossistemas e geração hidrelétrica; tratamento e distribuição são necessários para abastecimento seguro.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.materia_e_energia.prova.02",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef05.ciclo_da_agua.mudancas_de_estado",
+    "bncc": [
+      "EF05CI02"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O ciclo da água garante água potável ilimitada em qualquer lugar?",
+    "opcoes": [
+      "Não; disponibilidade, qualidade e acesso dependem de condições e ações.",
+      "Sim, basta observar nuvens.",
+      "Sim, dispensa tratamento e planejamento."
+    ],
+    "correta": 0,
+    "explicacao": "O ciclo físico não resolve sozinho qualidade, distribuição e acesso à água.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.materia_e_energia.treino.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef05.vegetacao_e_agua.cobertura_vegetal",
+    "bncc": [
+      "EF05CI03"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na comparação de solo coberto e exposto, é importante:",
+    "opcoes": [
+      "Mudar tudo sem registrar.",
+      "Afirmar que o modelo representa toda a região exatamente.",
+      "Usar água e condições comparáveis."
+    ],
+    "correta": 2,
+    "explicacao": "Duas bandejas de solo semelhantes, uma coberta e outra exposta, podem apresentar diferenças no arraste de partículas quando recebem a mesma quantidade de água. É um modelo, não a reprodução de uma bacia inteira. Em paisagens, retirar cobertura pode alterar escoamento e transporte de sedimentos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.materia_e_energia.prova.03",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef05.vegetacao_e_agua.cobertura_vegetal",
+    "bncc": [
+      "EF05CI03"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual argumento é mais cuidadoso?",
+    "opcoes": [
+      "Retirar toda cobertura nunca afeta o ambiente.",
+      "Vegetação resolve todo problema de água imediatamente.",
+      "Cobertura pode proteger o solo e influenciar o escoamento, dependendo das condições."
+    ],
+    "correta": 2,
+    "explicacao": "A relação deve ser explicada com condições e evidências, sem promessa universal.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.materia_e_energia.treino.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef05.consumo_consciente.usos_da_agua",
+    "bncc": [
+      "EF05CI04"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual ação enfrenta um vazamento observado?",
+    "opcoes": [
+      "Provar a água para avaliar.",
+      "Ignorá-lo porque cartaz basta.",
+      "Avisar a equipe responsável e acompanhar o encaminhamento."
+    ],
+    "correta": 2,
+    "explicacao": "Um vazamento pede comunicar a equipe responsável; deixá-lo correr não é resolvido apenas por um cartaz. Usar o verso de papel limpo pode reduzir consumo, conforme a atividade. Economizar água não significa reutilizar água desconhecida para beber ou deixar de lavar as mãos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.materia_e_energia.prova.04",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef05.consumo_consciente.usos_da_agua",
+    "bncc": [
+      "EF05CI04"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma proposta sustentável deve:",
+    "opcoes": [
+      "Eliminar cuidados essenciais de higiene.",
+      "Usar qualquer água para consumo.",
+      "Relacionar uso, desperdício, ação possível e acompanhamento."
+    ],
+    "correta": 2,
+    "explicacao": "A análise considera necessidades e formas verificáveis de reduzir desperdício.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.materia_e_energia.treino.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef05.reciclagem_e_descarte.tipos_de_residuos",
+    "bncc": [
+      "EF05CI05"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Usar novamente uma caixa para guardar objetos é:",
+    "opcoes": [
+      "Reutilização.",
+      "Prova automática de reciclagem industrial.",
+      "Descarte obrigatório no rio."
+    ],
+    "correta": 0,
+    "explicacao": "Uma caixa identificada para papéis limpos de um lado pode facilitar reutilização. Se ela mistura papel com restos de comida, deixa de cumprir a proposta. Um coletor bonito sem destino definido não comprova reciclagem efetiva.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "cna.ef05.materia_e_energia.prova.05",
+    "componente": "cna",
+    "tema": "Ciências Naturais",
+    "nivel": "EF05",
+    "unidade": "Matéria e Energia",
+    "aulaId": "cna.ef05.reciclagem_e_descarte.tipos_de_residuos",
+    "bncc": [
+      "EF05CI05"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um coletor escolar comprova reciclagem quando apenas é instalado?",
+    "opcoes": [
+      "Não; é preciso verificar fluxo, materiais e destino efetivo.",
+      "Sim, qualquer mistura de resíduos serve.",
+      "Sim, a aparência basta."
+    ],
+    "correta": 0,
+    "explicacao": "Separar e armazenar são etapas; o destino e o processamento precisam ser conhecidos para afirmar reciclagem.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          343
+        ],
+        "paginasImpressas": "341",
+        "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

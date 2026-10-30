@@ -1,0 +1,87 @@
+{
+  "id": "cna.ef05.vegetacao_e_agua.cobertura_vegetal",
+  "componente": "cna",
+  "nivel": "EF05",
+  "ordem": 3,
+  "unidade": "Matéria e Energia",
+  "titulo": "Cobertura vegetal, solo, água e ar",
+  "bncc": [
+    "EF05CI03"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare imagens com fonte ou montagem do professor de solo coberto/exposto, mantendo condições registradas. Elabore três argumentos: conservação do solo/cursos de água, participação no ciclo da água e qualidade do ar. Separe o que foi observado do que vem da fonte e proponha cuidado contextualizado com vegetação local."
+    ],
+    "resumo": "Cobertura vegetal, solo, água e ar",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<p><strong>Para aprender juntos:</strong> um adulto pode ler os textos e registrar suas respostas. Use fala, desenho, apontamento ou outro suporte acessível. Investigações podem ocupar vários encontros.</p><h2>Cobertura vegetal, solo, água e ar</h2><h3>Ideias para investigar</h3><p>Vegetação participa do ciclo da água pela transpiração e pode favorecer proteção do solo contra impacto direto da chuva. Raízes e cobertura podem influenciar infiltração e erosão. Plantas também realizam trocas gasosas. Os efeitos dependem de solo, relevo, espécie e manejo; não basta dizer que qualquer árvore resolve toda alteração ambiental.</p><h3>Exemplo comentado</h3><p>Duas bandejas de solo semelhantes, uma coberta e outra exposta, podem apresentar diferenças no arraste de partículas quando recebem a mesma quantidade de água. É um modelo, não a reprodução de uma bacia inteira. Em paisagens, retirar cobertura pode alterar escoamento e transporte de sedimentos.</p><h3>Observe, registre e explique</h3><p>Compare imagens com fonte ou montagem do professor de solo coberto/exposto, mantendo condições registradas. Elabore três argumentos: conservação do solo/cursos de água, participação no ciclo da água e qualidade do ar. Separe o que foi observado do que vem da fonte e proponha cuidado contextualizado com vegetação local.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "cobertura_vegetal.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Na comparação de solo coberto e exposto, é importante:",
+      "alternativas": [
+        "Usar água e condições comparáveis.",
+        "Mudar tudo sem registrar.",
+        "Afirmar que o modelo representa toda a região exatamente."
+      ],
+      "correta": 0,
+      "explicacao": "Duas bandejas de solo semelhantes, uma coberta e outra exposta, podem apresentar diferenças no arraste de partículas quando recebem a mesma quantidade de água. É um modelo, não a reprodução de uma bacia inteira. Em paisagens, retirar cobertura pode alterar escoamento e transporte de sedimentos.",
+      "bncc": [
+        "EF05CI03"
+      ]
+    },
+    {
+      "id": "cobertura_vegetal.investigacao",
+      "tipo": "discursiva",
+      "enunciado": "Compare imagens com fonte ou montagem do professor de solo coberto/exposto, mantendo condições registradas. Elabore três argumentos: conservação do solo/cursos de água, participação no ciclo da água e qualidade do ar. Separe o que foi observado do que vem da fonte e proponha cuidado contextualizado com vegetação local.",
+      "gabarito": "Exigir argumentos sustentados e limites do modelo, incluindo água, solo e ar. Não atribuir números de infiltração ou remoção de poluentes sem medida/fonte. Não coletar plantas ou entrar em área de risco para realizar a tarefa.",
+      "rubrica": [
+        "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+        "Exigir argumentos sustentados e limites do modelo, incluindo água, solo e ar. Não atribuir números de infiltração ou remoção de poluentes sem medida/fonte. Não coletar plantas ou entrar em área de risco para realizar a tarefa.",
+        "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+      ],
+      "bncc": [
+        "EF05CI03"
+      ]
+    }
+  ],
+  "areas": [
+    "ciencias_natureza"
+  ],
+  "tags": [
+    "investigacao",
+    "observacao"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        343
+      ],
+      "paginasImpressas": "341",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação, homologação docente, visual/acessibilidade e ambiente real pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": [],
+  "origemPlanejamento": {
+    "unidade": "Vegetação e Água",
+    "titulo": "Cobertura Vegetal"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "cna.ef04.materia_e_energia.prova",
+  "titulo": "Avaliação: Matéria e Energia",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF04",
+  "unidade": "Matéria e Energia",
+  "bncc": [
+    "EF04CI01",
+    "EF04CI02",
+    "EF04CI03"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "3 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 3, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef04.materia_e_energia.prova.01",
+    "cna.ef04.materia_e_energia.prova.02",
+    "cna.ef04.materia_e_energia.prova.03"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef04.materia_e_energia.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Matéria e Energia",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF04CI01",
+      "EF04CI02",
+      "EF04CI03"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Misturas no cotidiano e sua composição",
+        "enunciado": "Com adulto, prepare pequenas porções de água com areia limpa e água com sal, sem consumo. Registre componentes, aparência antes/depois e se as partes são distinguíveis. Compare com uma mistura cotidiana observada em imagem ou embalagem identificada. Explique por que aparência uniforme não prova uma substância única.",
+        "gabarito": "Exigir três exemplos com composição conhecida e descrição, distinguindo aparência de composição. Não classificar água desconhecida como pura apenas por transparência; não exigir técnicas de separação ainda não realizadas.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir três exemplos com composição conhecida e descrição, distinguindo aparência de composição. Não classificar água desconhecida como pura apenas por transparência; não exigir técnicas de separação ainda não realizadas.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF04CI01"
+        ],
+        "atividadeOrigem": "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura#o_que_e_mistura.investigacao"
+      },
+      {
+        "titulo": "Investigar transformações em condições diferentes",
+        "enunciado": "Planeje com o adulto quatro observações seguras: gelo em condições diferentes, água colocada no congelador pelo adulto, papel seco/molhado e papel exposto/protegido da luz por alguns dias. Registre antes/depois e duração. Sem fogão, chama ou líquido quente; materiais não serão consumidos. Explique o que os resultados permitem ou não concluir.",
+        "gabarito": "Exigir registros reais para aquecimento passivo, resfriamento, umidade e luz, com condições identificadas. Não inventar desbotamento rápido; quando não houver mudança, registrar o limite do intervalo. O planejamento sozinho não comprova execução.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir registros reais para aquecimento passivo, resfriamento, umidade e luz, com condições identificadas. Não inventar desbotamento rápido; quando não houver mudança, registrar o limite do intervalo. O planejamento sozinho não comprova execução.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF04CI02"
+        ],
+        "atividadeOrigem": "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento#aquecimento_e_resfriamento.investigacao"
+      },
+      {
+        "titulo": "Mudanças reversíveis e não reversíveis",
+        "enunciado": "Execute com adulto o ciclo gelo/água/gelo e registre os momentos. Compare com sequência identificada de um alimento antes/depois do cozimento, fornecida pelo professor. Explique qual mudança foi revertida e por que simplesmente resfriar não desfaz o cozimento. Indique as condições que você realmente observou.",
+        "gabarito": "Exigir ciclo registrado e comparação fundamentada, sem afirmar que toda mudança é reversível ou que resfriamento desfaz qualquer transformação. Se o ciclo não for concluído, registrar pendência; imagens de modelo não equivalem à execução.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir ciclo registrado e comparação fundamentada, sem afirmar que toda mudança é reversível ou que resfriamento desfaz qualquer transformação. Se o ciclo não for concluído, registrar pendência; imagens de modelo não equivalem à execução.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF04CI03"
+        ],
+        "atividadeOrigem": "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua#mudancas_de_estado_da_agua.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        341
+      ],
+      "paginasImpressas": "339",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "paginasImpressas": "73–78",
+      "uso": "Referência consultada sobre estados, transformações e propriedades. Não se generaliza irreversibilidade como definição universal de transformação química."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF04CI01",
+      "questoes": [
+        "cna.ef04.materia_e_energia.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.misturas_do_dia_a_dia.o_que_e_mistura#o_que_e_mistura.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF04CI02",
+      "questoes": [
+        "cna.ef04.materia_e_energia.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.transformacoes_dos_materiais.aquecimento_e_resfriamento#aquecimento_e_resfriamento.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF04CI03",
+      "questoes": [
+        "cna.ef04.materia_e_energia.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef04.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef04.reversivel_ou_nao.mudancas_de_estado_da_agua#mudancas_de_estado_da_agua.investigacao"
+      ]
+    }
+  ]
+}

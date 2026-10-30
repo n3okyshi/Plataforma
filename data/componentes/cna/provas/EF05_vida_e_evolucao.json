@@ -1,0 +1,181 @@
+{
+  "id": "cna.ef05.vida_e_evolucao.prova",
+  "titulo": "Avaliação: Vida e Evolução",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF05",
+  "unidade": "Vida e Evolução",
+  "bncc": [
+    "EF05CI06",
+    "EF05CI07",
+    "EF05CI08",
+    "EF05CI09"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "4 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 4, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef05.vida_e_evolucao.prova.06",
+    "cna.ef05.vida_e_evolucao.prova.07",
+    "cna.ef05.vida_e_evolucao.prova.08",
+    "cna.ef05.vida_e_evolucao.prova.09"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef05.vida_e_evolucao.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Vida e Evolução",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF05CI06",
+      "EF05CI07",
+      "EF05CI08",
+      "EF05CI09"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Digestão e respiração na nutrição",
+        "enunciado": "Produza esquema com dois percursos: alimento até absorção de nutrientes e ar até trocas gasosas. Ligue ambos ao transporte sanguíneo e às células. Escreva dois argumentos que justifiquem a corresponsabilidade dos sistemas na nutrição e critique as frases alimento vai ao pulmão e respirar substitui comer.",
+        "gabarito": "Exigir distinção entre percurso digestório e respiratório, com integração pelo transporte. Não exigir detalhes de enzimas fora do recorte. Argumentos devem explicar funções complementares, sem usar diagnóstico ou teste de capacidade corporal dos colegas.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir distinção entre percurso digestório e respiratório, com integração pelo transporte. Não exigir detalhes de enzimas fora do recorte. Argumentos devem explicar funções complementares, sem usar diagnóstico ou teste de capacidade corporal dos colegas.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI06"
+        ],
+        "atividadeOrigem": "cna.ef05.nutricao_do_corpo.sistema_digestorio#sistema_digestorio.investigacao"
+      },
+      {
+        "titulo": "Circulação, distribuição e resíduos",
+        "enunciado": "Construa diagrama com intestino, pulmões, coração/vasos, células e rins. Identifique dois percursos de distribuição e dois de resíduos. Explique por que circulação se relaciona tanto à nutrição quanto à eliminação, e diferencie urina de restos não digeridos sem atividades com fluidos corporais.",
+        "gabarito": "Exigir conexões coerentes e justificativa de transporte, sem afirmar que sangue sai integralmente como urina. Distinguir eliminação de resíduos metabólicos e egestão de material não digerido. Não coletar amostras corporais.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir conexões coerentes e justificativa de transporte, sem afirmar que sangue sai integralmente como urina. Distinguir eliminação de resíduos metabólicos e egestão de material não digerido. Não coletar amostras corporais.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI07"
+        ],
+        "atividadeOrigem": "cna.ef05.circulacao_e_excrecao.coracao_e_vasos#coracao_e_vasos.investigacao"
+      },
+      {
+        "titulo": "Cardápio como estudo de variedade e necessidades",
+        "enunciado": "Com o professor, monte cardápio-modelo de um dia para personagem fictícia, indicando refeições, variedade de grupos/fontes de nutrientes e atividades. Compare duas opções viáveis em culturas/orçamentos diferentes. Explique a função de energia e nutrientes sem fixar metas calóricas individuais; registre que alergias e necessidades específicas exigem orientação apropriada.",
+        "gabarito": "Exigir justificativas de variedade, acesso e necessidades do modelo, sem classificar corpos ou impor restrição alimentar. Não exigir contagem de calorias pessoais, peso ou relato privado de alimentação. Avaliar o argumento, não a possibilidade de comprar determinados produtos.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir justificativas de variedade, acesso e necessidades do modelo, sem classificar corpos ou impor restrição alimentar. Não exigir contagem de calorias pessoais, peso ou relato privado de alimentação. Avaliar o argumento, não a possibilidade de comprar determinados produtos.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI08"
+        ],
+        "atividadeOrigem": "cna.ef05.alimentacao_saudavel.grupos_alimentares#grupos_alimentares.investigacao"
+      },
+      {
+        "titulo": "Nutrição: analisar contextos sem estigma",
+        "enunciado": "Analise os dois casos, distinguindo fatores individuais e coletivos. Relacione hábitos e condições às necessidades de energia/nutrientes e apresente uma proposta escolar de acesso e acolhimento. Explique por que aparência e relato isolado não bastam para diagnóstico. Não medir peso, classificar colegas ou relatar dietas pessoais.",
+        "gabarito": "Exigir discussão multifatorial e proposta não estigmatizante; reconhecer que excesso energético e insuficiência de nutrientes não são a mesma coisa e podem ter relações complexas. Não pedir diagnóstico, restrição, metas de peso ou condutas de tratamento.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir discussão multifatorial e proposta não estigmatizante; reconhecer que excesso energético e insuficiência de nutrientes não são a mesma coisa e podem ter relações complexas. Não pedir diagnóstico, restrição, metas de peso ou condutas de tratamento.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI09"
+        ],
+        "atividadeOrigem": "cna.ef05.disturbios_nutricionais.obesidade#obesidade.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        343
+      ],
+      "paginasImpressas": "341",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        255,
+        256,
+        257,
+        258,
+        259,
+        307,
+        308
+      ],
+      "paginasImpressas": "255–259,307–308",
+      "uso": "Referência conceitual sobre obtenção, absorção e transporte; exemplos e esquemas de produção autoral."
+    },
+    {
+      "documento": "Ministério da Saúde — Guias Alimentares",
+      "url": "https://www.gov.br/saude/pt-br/composicao/saps/promocao-da-saude/guias-alimentares/guias-alimentares",
+      "uso": "Fonte oficial consultada para diversidade, cultura, acesso e múltiplos determinantes da alimentação; atividade educativa, sem dieta ou diagnóstico individual."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF05CI06",
+      "questoes": [
+        "cna.ef05.vida_e_evolucao.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.nutricao_do_corpo.sistema_digestorio#sistema_digestorio.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF05CI07",
+      "questoes": [
+        "cna.ef05.vida_e_evolucao.prova.07"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.circulacao_e_excrecao.coracao_e_vasos#coracao_e_vasos.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF05CI08",
+      "questoes": [
+        "cna.ef05.vida_e_evolucao.prova.08"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.alimentacao_saudavel.grupos_alimentares#grupos_alimentares.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF05CI09",
+      "questoes": [
+        "cna.ef05.vida_e_evolucao.prova.09"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.vida_e_evolucao.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.disturbios_nutricionais.obesidade#obesidade.investigacao"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "id": "cna.ef05.materia_e_energia.prova",
+  "titulo": "Avaliação: Matéria e Energia",
+  "componente": "cna",
+  "tema": "Ciências Naturais",
+  "nivel": "EF05",
+  "unidade": "Matéria e Energia",
+  "bncc": [
+    "EF05CI01",
+    "EF05CI02",
+    "EF05CI03",
+    "EF05CI04",
+    "EF05CI05"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "5 itens objetivos com leitura mediada quando necessária e correção ao final. A nota é acertos divididos por 5, vezes dez, e não certifica domínio. O portfólio exige observação docente das produções, separadamente.",
+  "questoes": [
+    "cna.ef05.materia_e_energia.prova.01",
+    "cna.ef05.materia_e_energia.prova.02",
+    "cna.ef05.materia_e_energia.prova.03",
+    "cna.ef05.materia_e_energia.prova.04",
+    "cna.ef05.materia_e_energia.prova.05"
+  ],
+  "criterios": "Nota da parte objetiva proporcional ao total efetivo. Produções com rubricas específicas e devolutiva docente.",
+  "avaliacaoPratica": {
+    "id": "cna.ef05.materia_e_energia.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio de investigação: Matéria e Energia",
+    "enunciado": "Reúna as produções e registros reais abaixo. Fala, desenhos e comunicação alternativa podem ser registrados com adulto. Não invente observações ou medidas; planejamento não comprova execução.",
+    "gabarito": "Conferir cada tarefa com seus critérios específicos e registrar devolutiva, adaptações e pendências.",
+    "bncc": [
+      "EF05CI01",
+      "EF05CI02",
+      "EF05CI03",
+      "EF05CI04",
+      "EF05CI05"
+    ],
+    "rubrica": [
+      "Atende: apresenta registro verificável e explicação coerente.",
+      "Em desenvolvimento: registro parcial com revisão orientada.",
+      "Retomar: produção ainda não executada ou relação precisa de nova mediação."
+    ],
+    "tarefas": [
+      {
+        "titulo": "Propriedades físicas: investigar com critérios",
+        "enunciado": "Faça estações mediadas: resposta a ímã, solubilidade e flexibilidade com objetos seguros. Para densidade/flutuação, compare exemplos e registre forma e material. Analise condução térmica/elétrica por demonstração do adulto ou dados identificados; se usar circuito, somente pilha de baixa tensão e montagem conferida, sem aquecimento. Produza quadro propriedade/condição/evidência/limite.",
+        "gabarito": "Exigir registros por propriedade e distinção entre observação direta e dados fornecidos. Não generalizar todo metal como magnético, nem peso como único fator de flutuação. Estação não executada permanece pendente; não usar teste perigoso para completar o quadro.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir registros por propriedade e distinção entre observação direta e dados fornecidos. Não generalizar todo metal como magnético, nem peso como único fator de flutuação. Estação não executada permanece pendente; não usar teste perigoso para completar o quadro.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI01"
+        ],
+        "atividadeOrigem": "cna.ef05.propriedades_dos_materiais.densidade#densidade.investigacao"
+      },
+      {
+        "titulo": "Ciclo da água e usos na sociedade",
+        "enunciado": "Construa esquema do ciclo com mudanças de estado e percursos da água. Relacione-o a cinco situações: cultivo, condições climáticas, hidrelétrica, abastecimento e ecossistema local. Use uma fonte local identificada para uma dessas relações e indique uma limitação. Não apresente água de uma montagem como potável.",
+        "gabarito": "Exigir processos corretos e relações explicadas, sem imaginar que toda chuva chega ao mesmo reservatório ou que o ciclo elimina contaminação. A fonte local não pode ser inventada. Diferenciar modelo geral de dado do município.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir processos corretos e relações explicadas, sem imaginar que toda chuva chega ao mesmo reservatório ou que o ciclo elimina contaminação. A fonte local não pode ser inventada. Diferenciar modelo geral de dado do município.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI02"
+        ],
+        "atividadeOrigem": "cna.ef05.ciclo_da_agua.mudancas_de_estado#mudancas_de_estado.investigacao"
+      },
+      {
+        "titulo": "Cobertura vegetal, solo, água e ar",
+        "enunciado": "Compare imagens com fonte ou montagem do professor de solo coberto/exposto, mantendo condições registradas. Elabore três argumentos: conservação do solo/cursos de água, participação no ciclo da água e qualidade do ar. Separe o que foi observado do que vem da fonte e proponha cuidado contextualizado com vegetação local.",
+        "gabarito": "Exigir argumentos sustentados e limites do modelo, incluindo água, solo e ar. Não atribuir números de infiltração ou remoção de poluentes sem medida/fonte. Não coletar plantas ou entrar em área de risco para realizar a tarefa.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir argumentos sustentados e limites do modelo, incluindo água, solo e ar. Não atribuir números de infiltração ou remoção de poluentes sem medida/fonte. Não coletar plantas ou entrar em área de risco para realizar a tarefa.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI03"
+        ],
+        "atividadeOrigem": "cna.ef05.vegetacao_e_agua.cobertura_vegetal#cobertura_vegetal.investigacao"
+      },
+      {
+        "titulo": "Usos de água e materiais: propor redução",
+        "enunciado": "Faça levantamento escolar autorizado de três usos da água e três materiais, sem expor dados privados. Distinga necessidade e possível desperdício. Proponha duas ações com responsável, condição e indicador de acompanhamento; execute uma ação segura e registre resultado real ou o motivo da pendência.",
+        "gabarito": "Exigir usos identificados e ações viáveis com indicador, sem números inventados. Evitar culpabilizar famílias ou comprometer higiene. A execução deve ser registrada separadamente da proposta.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir usos identificados e ações viáveis com indicador, sem números inventados. Evitar culpabilizar famílias ou comprometer higiene. A execução deve ser registrada separadamente da proposta.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI04"
+        ],
+        "atividadeOrigem": "cna.ef05.consumo_consciente.usos_da_agua#usos_da_agua.investigacao"
+      },
+      {
+        "titulo": "Projeto coletivo de reutilização e descarte",
+        "enunciado": "Em grupo, escolha um material limpo gerado na escola. Levante quantidade por contagem segura ou registro da equipe, verifique destinos e crie protótipo de solução de reutilização/organização sem ferramentas perigosas. Teste por alguns dias, registre o que funcionou e revise a proposta coletiva com responsabilidades e limites.",
+        "gabarito": "Exigir diagnóstico, decisão coletiva, protótipo e teste real, com destino confirmado ou explicitamente pendente. Não chamar separação de reciclagem concluída. Não exigir manipulação de lixo misturado nem compra de material novo para cumprir o projeto.",
+        "rubrica": [
+          "Registrar a execução e distinguir o observado do pesquisado ou modelado.",
+          "Exigir diagnóstico, decisão coletiva, protótipo e teste real, com destino confirmado ou explicitamente pendente. Não chamar separação de reciclagem concluída. Não exigir manipulação de lixo misturado nem compra de material novo para cumprir o projeto.",
+          "Explicar escolhas e limites; revisar com devolutiva em suporte acessível."
+        ],
+        "bncc": [
+          "EF05CI05"
+        ],
+        "atividadeOrigem": "cna.ef05.reciclagem_e_descarte.tipos_de_residuos#tipos_de_residuos.investigacao"
+      }
+    ],
+    "correcao": "Docente por tarefa; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        343
+      ],
+      "paginasImpressas": "341",
+      "uso": "Delimitação curricular diretamente consultada. Explicações, questões e propostas autorais adequadas à etapa; revisão docente pendente."
+    },
+    {
+      "documento": "MC_CIENCIAS.pdf",
+      "paginasPdf": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "paginasImpressas": "73–78",
+      "uso": "Referência consultada sobre estados, transformações e propriedades. Não se generaliza irreversibilidade como definição universal de transformação química."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF05CI01",
+      "questoes": [
+        "cna.ef05.materia_e_energia.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.propriedades_dos_materiais.densidade#densidade.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF05CI02",
+      "questoes": [
+        "cna.ef05.materia_e_energia.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.ciclo_da_agua.mudancas_de_estado#mudancas_de_estado.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF05CI03",
+      "questoes": [
+        "cna.ef05.materia_e_energia.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.vegetacao_e_agua.cobertura_vegetal#cobertura_vegetal.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF05CI04",
+      "questoes": [
+        "cna.ef05.materia_e_energia.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.consumo_consciente.usos_da_agua#usos_da_agua.investigacao"
+      ]
+    },
+    {
+      "bncc": "EF05CI05",
+      "questoes": [
+        "cna.ef05.materia_e_energia.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "cna.ef05.materia_e_energia.pratica"
+      ],
+      "atividadesPraticas": [
+        "cna.ef05.reciclagem_e_descarte.tipos_de_residuos#tipos_de_residuos.investigacao"
+      ]
+    }
+  ]
+}
