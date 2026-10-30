@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 62,
+  "unidade": "Estudo, pesquisa e participação",
+  "titulo": "Cartas estrutura",
+  "bncc": [
+    "EF67LP17"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Marque as partes da carta-modelo e relacione duas marcas linguísticas à finalidade. Reorganize uma cópia em que pedido e motivo foram trocados de lugar; compare os efeitos. Produza rascunho para uma situação escolar, distinguindo relato, justificativa e solicitação. Não envie sem autorização."
+    ],
+    "resumo": "Cartas estrutura",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Cartas estrutura</h2><p>Cartas de solicitação e reclamação são organizadas por uma situação: alguém se dirige a um responsável para pedir providência ou relatar problema. Data, destinatário, contexto, justificativa, pedido e encerramento ajudam a orientar a leitura. Uma forma cortês não elimina a possibilidade de reivindicar com firmeza. O registro deve ser adequado ao destinatário e evitar acusações sem evidências.</p><h3>Exemplo comentado</h3><p>Carta autoral simulada: “Escola-modelo, 5 de maio. À equipe da biblioteca: solicitamos avaliar a instalação de uma caixa de devolução. O atendimento coincide com parte das aulas, dificultando a entrega de livros. Sugerimos consultar as turmas sobre locais possíveis. Agradecemos a análise. Representantes da turma-modelo”. O pedido é avaliar uma solução, não afirmar que ela já foi aprovada.</p><h3>Produza e revise</h3><p>Marque as partes da carta-modelo e relacione duas marcas linguísticas à finalidade. Reorganize uma cópia em que pedido e motivo foram trocados de lugar; compare os efeitos. Produza rascunho para uma situação escolar, distinguindo relato, justificativa e solicitação. Não envie sem autorização.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "cartas_estrutura.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual trecho formula o pedido?",
+      "alternativas": [
+        "Solicitamos avaliar a instalação de uma caixa.",
+        "O atendimento coincide com aulas.",
+        "5 de maio.",
+        "Representantes da turma-modelo."
+      ],
+      "correta": 0,
+      "explicacao": "Carta autoral simulada: “Escola-modelo, 5 de maio. À equipe da biblioteca: solicitamos avaliar a instalação de uma caixa de devolução. O atendimento coincide com parte das aulas, dificultando a entrega de livros. Sugerimos consultar as turmas sobre locais possíveis. Agradecemos a análise. Representantes da turma-modelo”. O pedido é avaliar uma solução, não afirmar que ela já foi aprovada.",
+      "bncc": [
+        "EF67LP17"
+      ]
+    },
+    {
+      "id": "cartas_estrutura.producao",
+      "tipo": "discursiva",
+      "enunciado": "Marque as partes da carta-modelo e relacione duas marcas linguísticas à finalidade. Reorganize uma cópia em que pedido e motivo foram trocados de lugar; compare os efeitos. Produza rascunho para uma situação escolar, distinguindo relato, justificativa e solicitação. Não envie sem autorização.",
+      "gabarito": "Exigir análise de organização e contexto, com solicitamos como formulação de pedido e dificultando como justificativa. O rascunho precisa indicar destinatário e demanda; alteração de ordem pode destacar o problema antes da solução. Não confundir cortesia com ausência de reivindicação.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir análise de organização e contexto, com solicitamos como formulação de pedido e dificultando como justificativa. O rascunho precisa indicar destinatário e demanda; alteração de ordem pode destacar o problema antes da solução. Não confundir cortesia com ausência de reivindicação.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP17"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        171
+      ],
+      "paginasImpressas": "167,169",
+      "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+    },
+    {
+      "documento": "Modelos didáticos autorais incorporados",
+      "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

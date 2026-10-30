@@ -1,0 +1,243 @@
+{
+  "id": "lip.ef06.literatura.prova",
+  "titulo": "Avaliação: Literatura",
+  "componente": "lip",
+  "tema": "Língua Portuguesa",
+  "nivel": "EF06",
+  "unidade": "Literatura",
+  "bncc": [
+    "EF67LP27",
+    "EF67LP28",
+    "EF67LP30",
+    "EF67LP31",
+    "EF69LP49",
+    "EF69LP54",
+    "EF67LP38"
+  ],
+  "duracaoMin": 30,
+  "estado": "piloto",
+  "pontuacaoTotal": 10,
+  "instrucoes": "Sete itens objetivos; nota proporcional aos acertos divididos por sete, vezes dez. Correção ao final. Portfólio docente separado; nota não comprova domínio.",
+  "questoes": [
+    "lip.ef06.literatura.prova.01",
+    "lip.ef06.literatura.prova.02",
+    "lip.ef06.literatura.prova.03",
+    "lip.ef06.literatura.prova.04",
+    "lip.ef06.literatura.prova.05",
+    "lip.ef06.literatura.prova.06",
+    "lip.ef06.literatura.prova.07"
+  ],
+  "criterios": "Nota objetiva proporcional aos sete itens; produções avaliadas por tarefa.",
+  "avaliacaoPratica": {
+    "id": "lip.ef06.literatura.pratica",
+    "tipo": "discursiva",
+    "titulo": "Portfólio: Literatura",
+    "enunciado": "Reúna as produções e registros de execução. Roteiro, intenção e resposta objetiva não comprovam conversa, entrevista, leitura ou apresentação realizadas. Registre revisões e limitações de suporte.",
+    "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+    "rubrica": [
+      "Atende: apresenta evidência e explica escolhas.",
+      "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+      "Retomar: precisa produzir ou corrigir a evidência."
+    ],
+    "bncc": [
+      "EF67LP27",
+      "EF67LP28",
+      "EF67LP30",
+      "EF67LP31",
+      "EF69LP49",
+      "EF69LP54",
+      "EF67LP38"
+    ],
+    "tarefas": [
+      {
+        "titulo": "Literatura e Outras Artes",
+        "enunciado": "Compare conto e cena: identifique duas retomadas explícitas, uma mudança e seu efeito. Produza nova adaptação de um trecho em cena ou ilustração com legenda, explicando o que manteve e alterou. Nomeie o texto de origem e o recurso da nova linguagem.",
+        "gabarito": "Conferir Iara/Joel/mapa como retomadas e a fala/luz como transformações. Exigir produção efetiva e explicação de efeito. Não tratar semelhança genérica de tema como prova automática de referência; distinguir adaptação criada de trecho original.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir Iara/Joel/mapa como retomadas e a fala/luz como transformações. Exigir produção efetiva e explicação de efeito. Não tratar semelhança genérica de tema como prova automática de referência; distinguir adaptação criada de trecho original.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP27"
+        ],
+        "atividadeOrigem": "lip.ef06.literatura.literatura_e_outras_artes#literatura_e_outras_artes.producao"
+      },
+      {
+        "titulo": "Ler e Compreender Literatura",
+        "enunciado": "Leia o conto, registre uma hipótese antes de reler e revise-a com duas pistas citadas. Reconstrua a ordem dos acontecimentos e explique o final aberto. Leia também o poema da aula de criação ou outra obra acessível, compare as estratégias usadas e indique uma preferência justificada. Ampliação para outros gêneros e obras permanece parte do percurso leitor.",
+        "gabarito": "Exigir hipótese e revisão com duas pistas, sequência coerente e interpretação que reconheça a falta de identificação final. Avaliar apreciação justificada e comparação de procedimentos. Um conto e um poema não comprovam leitura de todos os gêneros de EF67LP28.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir hipótese e revisão com duas pistas, sequência coerente e interpretação que reconheça a falta de identificação final. Avaliar apreciação justificada e comparação de procedimentos. Um conto e um poema não comprovam leitura de todos os gêneros de EF67LP28.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP28"
+        ],
+        "atividadeOrigem": "lip.ef06.literatura.ler_literatura#ler_literatura.producao"
+      },
+      {
+        "titulo": "Criar Narrativas Ficcionais",
+        "enunciado": "Crie um conto de 250 a 400 palavras de mistério, aventura ou humor, com cenário, personagens, narrador e conflito. Inclua duas pistas e falas em discurso direto e indireto. Faça plano, rascunho e revisão com um colega; explique uma mudança de tempo verbal e outra na organização do enredo.",
+        "gabarito": "Conferir produção autoral efetiva, relação entre pistas/conflito/desfecho, voz narrativa e duas formas de representar fala. Avaliar versões e justificativas, aceitando desfecho aberto coerente. Não impor um único gênero nem exigir violência para criar suspense.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir produção autoral efetiva, relação entre pistas/conflito/desfecho, voz narrativa e duas formas de representar fala. Avaliar versões e justificativas, aceitando desfecho aberto coerente. Não impor um único gênero nem exigir violência para criar suspense.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP30"
+        ],
+        "atividadeOrigem": "lip.ef06.literatura.criar_narrativas#criar_narrativas.producao"
+      },
+      {
+        "titulo": "Criar Poemas de Forma Fixa e Versos Livres",
+        "enunciado": "Crie uma quadra com esquema sonoro explicado, um poema em versos livres e uma versão visual de um deles. Apresente a disposição real no papel ou tela; explique duas escolhas de som ou imagem. Leia em voz alta, registre a reação de um colega e revise sem obrigar todas as produções a rimar.",
+        "gabarito": "Exigir três produtos ou versões efetivas, quadra de quatro versos, justificativa sonora e disposição visual com função. Não exigir métrica rígida que não foi ensinada. A leitura e a revisão devem ser registradas; soneto e vídeo-poema continuam como ampliações a programar.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir três produtos ou versões efetivas, quadra de quatro versos, justificativa sonora e disposição visual com função. Não exigir métrica rígida que não foi ensinada. A leitura e a revisão devem ser registradas; soneto e vídeo-poema continuam como ampliações a programar.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF67LP31"
+        ],
+        "atividadeOrigem": "lip.ef06.literatura.criar_poemas#criar_poemas.producao"
+      },
+      {
+        "titulo": "Práticas de Leitura Literária",
+        "enunciado": "Planeje duas semanas de leitura com ao menos duas obras ou produções literárias acessíveis, incluindo uma que desafie sua preferência habitual. Registre três encontros de leitura e uma conversa com colega ou professor, citando pistas e mudanças de interpretação. Solicite mediação quando necessário e apresente uma recomendação fundamentada.",
+        "gabarito": "Exigir diário com datas efetivas e registros contextualizados; leitura futura permanece pendente. Observar participação e abertura a novos textos, sem inferir motivação íntima a partir de uma nota. Aceitar áudio, braile, leitura mediada e outros suportes, registrando as condições.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Exigir diário com datas efetivas e registros contextualizados; leitura futura permanece pendente. Observar participação e abertura a novos textos, sem inferir motivação íntima a partir de uma nota. Aceitar áudio, braile, leitura mediada e outros suportes, registrando as condições.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP49"
+        ],
+        "atividadeOrigem": "lip.ef06.literatura.praticas_de_leitura_literaria#praticas_de_leitura_literaria.producao"
+      },
+      {
+        "titulo": "Recursos dos Gêneros Literários",
+        "enunciado": "Analise duas imagens poéticas do conjunto e uma repetição sonora. Faça duas leituras reais de quatro versos, mudando pausa, ritmo ou gesto. Compare os efeitos e registre qual interpretação quis destacar. Explique também como um adjetivo na descrição de um lugar pode orientar a atmosfera narrativa. Analise os cinco exemplos de figuras apresentados na seção final: indique a relação construída e um efeito de sentido em cada caso. Reescreva dois em linguagem mais literal e compare o que se perde ou se altera.",
+        "gabarito": "Conferir análise contextual, como ponte associada à escuta e mapa que escuta como personificação. Exigir duas realizações observadas/gravadas e justificativas, sem avaliar sotaque. Na descrição, aceitar adjetivos com efeitos distintos se relacionados ao contexto. Outras figuras e gêneros da habilidade permanecem ampliações. Conferir comparação, metáfora, metonímia, personificação e hipérbole nos contextos dados. A paráfrase literal pode reduzir imagem ou intensidade; exigir explicação, não só rótulos.",
+        "rubrica": [
+          "Identificar as relações de forma e sentido solicitadas.",
+          "Conferir análise contextual, como ponte associada à escuta e mapa que escuta como personificação. Exigir duas realizações observadas/gravadas e justificativas, sem avaliar sotaque. Na descrição, aceitar adjetivos com efeitos distintos se relacionados ao contexto. Outras figuras e gêneros da habilidade permanecem ampliações.",
+          "Explicar escolhas e registrar revisão quando solicitada."
+        ],
+        "bncc": [
+          "EF69LP54",
+          "EF67LP38"
+        ],
+        "atividadeOrigem": "lip.ef06.literatura.recursos_dos_generos_literarios#recursos_dos_generos_literarios.producao"
+      }
+    ],
+    "correcao": "Docente com devolutiva individual; sem nota automática."
+  },
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "matriz": [
+    {
+      "bncc": "EF67LP27",
+      "questoes": [
+        "lip.ef06.literatura.prova.01"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.literatura.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.literatura.literatura_e_outras_artes#literatura_e_outras_artes.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP28",
+      "questoes": [
+        "lip.ef06.literatura.prova.02"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.literatura.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.literatura.ler_literatura#ler_literatura.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP30",
+      "questoes": [
+        "lip.ef06.literatura.prova.03"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.literatura.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.literatura.criar_narrativas#criar_narrativas.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP31",
+      "questoes": [
+        "lip.ef06.literatura.prova.04"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.literatura.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.literatura.criar_poemas#criar_poemas.producao"
+      ]
+    },
+    {
+      "bncc": "EF69LP49",
+      "questoes": [
+        "lip.ef06.literatura.prova.05"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.literatura.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.literatura.praticas_de_leitura_literaria#praticas_de_leitura_literaria.producao"
+      ]
+    },
+    {
+      "bncc": "EF69LP54",
+      "questoes": [
+        "lip.ef06.literatura.prova.06"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.literatura.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.literatura.recursos_dos_generos_literarios#recursos_dos_generos_literarios.producao"
+      ]
+    },
+    {
+      "bncc": "EF67LP38",
+      "questoes": [
+        "lip.ef06.literatura.prova.07"
+      ],
+      "avaliacoesPraticas": [
+        "lip.ef06.literatura.pratica"
+      ],
+      "atividadesPraticas": [
+        "lip.ef06.literatura.recursos_dos_generos_literarios#recursos_dos_generos_literarios.producao"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 59,
+  "unidade": "Cidadania e Textos Normativos",
+  "titulo": "Ler Textos Legais e Normativos",
+  "bncc": [
+    "EF67LP15"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Faça um quadro com direito, proibição e condições dos três artigos. Analise: consultar fora do atendimento; comer no pátio; renovar livro reservado. Diga o que o modelo permite concluir e o que não regula. Depois compare um trecho de regimento escolar efetivamente disponibilizado, registrando título, origem e condição de aplicação, sem copiar dados pessoais."
+    ],
+    "resumo": "Ler Textos Legais e Normativos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Ler Textos Legais e Normativos</h2><p>Textos normativos estabelecem direitos, proibições, deveres e condições de aplicação. Leia quem é destinatário, onde e quando a regra se aplica e quais exceções estão expressas. Não invente sanção ou exceção não escrita. Esta aula usa um regulamento fictício para análise linguística: ele não é lei nem orientação jurídica. Para discutir normas reais, consulte com o professor o documento escolar vigente e sua origem.</p><h3>Exemplo comentado</h3><p><strong>Regulamento didático fictício de biblioteca.</strong> Art. 1º: Todos os estudantes podem consultar o acervo durante o atendimento. Art. 2º: É proibido consumir alimentos junto às estantes. Art. 3º: O empréstimo pode ser feito com registro, por sete dias, com renovação se não houver reserva. O primeiro artigo garante acesso em uma condição temporal; o segundo proíbe uma conduta em um lugar; o terceiro condiciona empréstimo e renovação. Nenhum artigo menciona multa.</p><h3>Produza e revise</h3><p>Faça um quadro com direito, proibição e condições dos três artigos. Analise: consultar fora do atendimento; comer no pátio; renovar livro reservado. Diga o que o modelo permite concluir e o que não regula. Depois compare um trecho de regimento escolar efetivamente disponibilizado, registrando título, origem e condição de aplicação, sem copiar dados pessoais.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "ler_textos_legais.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "O modelo autoriza renovação em qual condição?",
+      "alternativas": [
+        "Mesmo havendo reserva, sempre.",
+        "Sem registro algum.",
+        "Se não houver reserva, conforme o artigo.",
+        "Somente após multa inventada."
+      ],
+      "correta": 2,
+      "explicacao": "<strong>Regulamento didático fictício de biblioteca.</strong> Art. 1º: Todos os estudantes podem consultar o acervo durante o atendimento. Art. 2º: É proibido consumir alimentos junto às estantes. Art. 3º: O empréstimo pode ser feito com registro, por sete dias, com renovação se não houver reserva. O primeiro artigo garante acesso em uma condição temporal; o segundo proíbe uma conduta em um lugar; o terceiro condiciona empréstimo e renovação. Nenhum artigo menciona multa.",
+      "bncc": [
+        "EF67LP15"
+      ]
+    },
+    {
+      "id": "ler_textos_legais.producao",
+      "tipo": "discursiva",
+      "enunciado": "Faça um quadro com direito, proibição e condições dos três artigos. Analise: consultar fora do atendimento; comer no pátio; renovar livro reservado. Diga o que o modelo permite concluir e o que não regula. Depois compare um trecho de regimento escolar efetivamente disponibilizado, registrando título, origem e condição de aplicação, sem copiar dados pessoais.",
+      "gabarito": "O acesso é durante atendimento; o modelo não garante consulta fora dele. Comer no pátio não é regulado pelo art. 2º, limitado às estantes; não concluir autorização geral. Reserva impede a renovação descrita. Não inventar multa. Na comparação real, exigir documento identificado e leitura contextualizada.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "O acesso é durante atendimento; o modelo não garante consulta fora dele. Comer no pátio não é regulado pelo art. 2º, limitado às estantes; não concluir autorização geral. Reserva impede a renovação descrita. Não inventar multa. Na comparação real, exigir documento identificado e leitura contextualizada.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP15"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

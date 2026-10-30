@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 61,
+  "unidade": "Cidadania e Textos Normativos",
+  "titulo": "Curadoria de Informação",
+  "bncc": [
+    "EF67LP20"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Escolha uma pergunta delimitada sobre leitura, biblioteca ou um tema curricular. Faça plano com período e três subperguntas. Use uma fonte indicada e uma fonte aberta, registrando referências reais, trechos relevantes e o que cada uma permite afirmar. Organize síntese com duas conclusões sustentadas, uma limitação e uma questão ainda aberta."
+    ],
+    "resumo": "Curadoria de Informação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Curadoria de Informação</h2><p>Pesquisa começa com uma questão e um recorte, não com a coleta de qualquer texto sobre um tema amplo. Diferencie fontes indicadas, escolhidas com o professor, e fontes abertas encontradas na busca. Registre autoria, data, título, origem e pertinência. Uma fonte pode ser confiável para um dado e inadequada para outro; um anúncio de evento não prova seu resultado. Duas cópias do mesmo comunicado não são confirmação independente.</p><h3>Exemplo comentado</h3><p>Questão-modelo: “Quais condições permitem renovar livros na biblioteca escolar neste período?” Fonte indicada: regulamento vigente disponibilizado pela escola. Fonte aberta: página institucional que descreve o serviço, com data a conferir. Uma opinião em rede social pode revelar experiência, mas não substitui o regulamento para afirmar a regra. Divergências devem ser registradas e verificadas.</p><h3>Produza e revise</h3><p>Escolha uma pergunta delimitada sobre leitura, biblioteca ou um tema curricular. Faça plano com período e três subperguntas. Use uma fonte indicada e uma fonte aberta, registrando referências reais, trechos relevantes e o que cada uma permite afirmar. Organize síntese com duas conclusões sustentadas, uma limitação e uma questão ainda aberta.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "curadoria_de_informacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual questão apresenta um recorte mais definido?",
+      "alternativas": [
+        "Tudo sobre livros no mundo.",
+        "Biblioteca.",
+        "Quais condições de renovação constam do regulamento escolar atual?",
+        "Qualquer assunto encontrado primeiro."
+      ],
+      "correta": 2,
+      "explicacao": "Questão-modelo: “Quais condições permitem renovar livros na biblioteca escolar neste período?” Fonte indicada: regulamento vigente disponibilizado pela escola. Fonte aberta: página institucional que descreve o serviço, com data a conferir. Uma opinião em rede social pode revelar experiência, mas não substitui o regulamento para afirmar a regra. Divergências devem ser registradas e verificadas.",
+      "bncc": [
+        "EF67LP20"
+      ]
+    },
+    {
+      "id": "curadoria_de_informacao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Escolha uma pergunta delimitada sobre leitura, biblioteca ou um tema curricular. Faça plano com período e três subperguntas. Use uma fonte indicada e uma fonte aberta, registrando referências reais, trechos relevantes e o que cada uma permite afirmar. Organize síntese com duas conclusões sustentadas, uma limitação e uma questão ainda aberta.",
+      "gabarito": "Exigir pesquisa executada com referências localizáveis, recorte coerente e distinção das fontes. Verificar correspondência entre conclusões e evidências; não aceitar links inventados, cópias como independência ou dados futuros como coletados. Se a fonte aberta não for acessível, registrar a pendência e a mediação adotada.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir pesquisa executada com referências localizáveis, recorte coerente e distinção das fontes. Verificar correspondência entre conclusões e evidências; não aceitar links inventados, cópias como independência ou dados futuros como coletados. Se a fonte aberta não for acessível, registrar a pendência e a mediação adotada.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP20"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

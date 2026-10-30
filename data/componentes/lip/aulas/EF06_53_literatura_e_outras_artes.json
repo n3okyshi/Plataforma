@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.literatura.literatura_e_outras_artes",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 53,
+  "unidade": "Literatura",
+  "titulo": "Literatura e Outras Artes",
+  "bncc": [
+    "EF67LP27"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare conto e cena: identifique duas retomadas explícitas, uma mudança e seu efeito. Produza nova adaptação de um trecho em cena ou ilustração com legenda, explicando o que manteve e alterou. Nomeie o texto de origem e o recurso da nova linguagem."
+    ],
+    "resumo": "Literatura e Outras Artes",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Literatura e Outras Artes</h2><p>Intertextualidade envolve relações entre obras, por referência explícita ou retomada de temas, personagens e formas. Duas obras com uma ponte não são necessariamente referência direta uma à outra; é preciso analisar pistas. Uma adaptação teatral pode transformar narração em fala, gesto, luz e cenário, preservando ou alterando sentidos. Compare os recursos, não apenas o assunto.</p><h3>Exemplo comentado</h3><p>O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>Adaptação cênica autoral de um trecho: Iara e Joel diante da mesa. IARA (vira a folha): “O quarto corredor sumiu”. JOEL (aponta o verso): “Talvez ainda não tenha sido contado”. Uma luz ilumina a parte em branco. A adaptação retoma mapa e personagens do conto, mas cria fala e recurso de luz que não são cópias literais da narração.</p></p><h3>Produza e revise</h3><p>Compare conto e cena: identifique duas retomadas explícitas, uma mudança e seu efeito. Produza nova adaptação de um trecho em cena ou ilustração com legenda, explicando o que manteve e alterou. Nomeie o texto de origem e o recurso da nova linguagem.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "literatura_e_outras_artes.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual pista sustenta a relação explícita entre conto e cena?",
+      "alternativas": [
+        "Apenas ambos serem curtos.",
+        "Retomada das personagens e do mapa, com indicação do texto de origem.",
+        "Qualquer palavra repetida por acaso.",
+        "Toda cena adapta qualquer conto."
+      ],
+      "correta": 1,
+      "explicacao": "O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>Adaptação cênica autoral de um trecho: Iara e Joel diante da mesa. IARA (vira a folha): “O quarto corredor sumiu”. JOEL (aponta o verso): “Talvez ainda não tenha sido contado”. Uma luz ilumina a parte em branco. A adaptação retoma mapa e personagens do conto, mas cria fala e recurso de luz que não são cópias literais da narração.</p>",
+      "bncc": [
+        "EF67LP27"
+      ]
+    },
+    {
+      "id": "literatura_e_outras_artes.producao",
+      "tipo": "discursiva",
+      "enunciado": "Compare conto e cena: identifique duas retomadas explícitas, uma mudança e seu efeito. Produza nova adaptação de um trecho em cena ou ilustração com legenda, explicando o que manteve e alterou. Nomeie o texto de origem e o recurso da nova linguagem.",
+      "gabarito": "Conferir Iara/Joel/mapa como retomadas e a fala/luz como transformações. Exigir produção efetiva e explicação de efeito. Não tratar semelhança genérica de tema como prova automática de referência; distinguir adaptação criada de trecho original.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Conferir Iara/Joel/mapa como retomadas e a fala/luz como transformações. Exigir produção efetiva e explicação de efeito. Não tratar semelhança genérica de tema como prova automática de referência; distinguir adaptação criada de trecho original.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP27"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "literatura"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

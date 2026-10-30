@@ -1,0 +1,94 @@
+{
+  "id": "lip.ef06.literatura.recursos_dos_generos_literarios",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 58,
+  "unidade": "Literatura",
+  "titulo": "Recursos dos Gêneros Literários",
+  "bncc": [
+    "EF69LP54",
+    "EF67LP38"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise duas imagens poéticas do conjunto e uma repetição sonora. Faça duas leituras reais de quatro versos, mudando pausa, ritmo ou gesto. Compare os efeitos e registre qual interpretação quis destacar. Explique também como um adjetivo na descrição de um lugar pode orientar a atmosfera narrativa."
+    ],
+    "resumo": "Recursos dos Gêneros Literários",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Recursos dos Gêneros Literários</h2><p>Recursos de linguagem e de apresentação produzem sentidos em conjunto. Metáfora aproxima campos sem uma comparação explícita; personificação atribui ação ou traço humano a algo; repetição sonora pode marcar ritmo. Pausas, entonação, gesto e postura modificam a realização oral. Uma figura precisa ser interpretada no contexto; nomear seu tipo não explica sozinho seu efeito.</p><h3>Exemplo comentado</h3><p>Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Verso adicional autoral: “O mapa escutou nossas vozes”. O mapa recebe ação humana, criando personificação. Ler “quando escuto outra versão” com pausa em outra pode destacar contraste; leitura acelerada e leitura pausada constroem ritmos distintos. Não há uma única entonação obrigatória, mas escolhas precisam ser justificadas.</p></p><h3>Produza e revise</h3><p>Analise duas imagens poéticas do conjunto e uma repetição sonora. Faça duas leituras reais de quatro versos, mudando pausa, ritmo ou gesto. Compare os efeitos e registre qual interpretação quis destacar. Explique também como um adjetivo na descrição de um lugar pode orientar a atmosfera narrativa.</p><h3>Comparar figuras e seus efeitos</h3><p>Exemplos autorais: “A voz era como uma ponte” faz comparação explícita; “A voz era uma ponte” constrói metáfora. “A escola aplaudiu” pode usar escola para representar as pessoas da instituição, uma metonímia. “O mapa escutou” personifica o objeto; “Esperei mil anos” pode exagerar a espera, produzindo hipérbole. Em contexto literal, mil anos poderia indicar duração, por isso a classificação exige leitura da situação. Nomear a figura não basta: explique o efeito sobre a imagem, a ênfase ou a avaliação.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "recursos_dos_generos_literarios.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Em “O mapa escutou nossas vozes”, há principalmente:",
+      "alternativas": [
+        "Número exato de participantes.",
+        "Personificação do mapa.",
+        "Uma instrução legal.",
+        "Uma rima obrigatória."
+      ],
+      "correta": 1,
+      "explicacao": "Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Verso adicional autoral: “O mapa escutou nossas vozes”. O mapa recebe ação humana, criando personificação. Ler “quando escuto outra versão” com pausa em outra pode destacar contraste; leitura acelerada e leitura pausada constroem ritmos distintos. Não há uma única entonação obrigatória, mas escolhas precisam ser justificadas.</p>",
+      "bncc": [
+        "EF69LP54"
+      ]
+    },
+    {
+      "id": "recursos_dos_generos_literarios.producao",
+      "tipo": "discursiva",
+      "enunciado": "Analise duas imagens poéticas do conjunto e uma repetição sonora. Faça duas leituras reais de quatro versos, mudando pausa, ritmo ou gesto. Compare os efeitos e registre qual interpretação quis destacar. Explique também como um adjetivo na descrição de um lugar pode orientar a atmosfera narrativa. Analise os cinco exemplos de figuras apresentados na seção final: indique a relação construída e um efeito de sentido em cada caso. Reescreva dois em linguagem mais literal e compare o que se perde ou se altera.",
+      "gabarito": "Conferir análise contextual, como ponte associada à escuta e mapa que escuta como personificação. Exigir duas realizações observadas/gravadas e justificativas, sem avaliar sotaque. Na descrição, aceitar adjetivos com efeitos distintos se relacionados ao contexto. Outras figuras e gêneros da habilidade permanecem ampliações. Conferir comparação, metáfora, metonímia, personificação e hipérbole nos contextos dados. A paráfrase literal pode reduzir imagem ou intensidade; exigir explicação, não só rótulos.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Conferir análise contextual, como ponte associada à escuta e mapa que escuta como personificação. Exigir duas realizações observadas/gravadas e justificativas, sem avaliar sotaque. Na descrição, aceitar adjetivos com efeitos distintos se relacionados ao contexto. Outras figuras e gêneros da habilidade permanecem ampliações.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF69LP54",
+        "EF67LP38"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "literatura"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

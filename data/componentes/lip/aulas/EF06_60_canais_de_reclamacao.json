@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 60,
+  "unidade": "Cidadania e Textos Normativos",
+  "titulo": "Canais de Reclamação e Solicitação",
+  "bncc": [
+    "EF67LP16"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Analise a finalidade e os campos do canal simulado. Com mediação docente, localize no documento ou portal oficial da escola um canal real e registre sua origem e instruções, sem inserir dados nem enviar mensagem. Compare os dois. Redija rascunho de solicitação fundamentada com assunto, contexto, pedido e encerramento; envio depende de autorização específica."
+    ],
+    "resumo": "Canais de Reclamação e Solicitação",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Canais de Reclamação e Solicitação</h2><p>Canais de solicitação e reclamação têm finalidades, destinatários e procedimentos próprios. Um pedido apresenta o que se deseja e por quê; uma reclamação relata um problema e o encaminhamento solicitado. Identifique a instituição responsável e os dados realmente necessários. Não confie em um formulário apenas por parecer oficial. Este exercício não envia mensagens nem fornece endereços de atendimento não verificados.</p><h3>Exemplo comentado</h3><p><strong>Canal escolar simulado.</strong> Campo 1: assunto; campo 2: relato com data/local; campo 3: providência pedida; campo 4: contato por meio escolar. Mensagem-modelo: “Solicito avaliar um horário adicional de consulta. Minha turma sai antes do atendimento atual. Proponho consultar os dois turnos”. O pedido tem motivo e encaminhamento, sem atacar pessoas ou exigir informação privada de estudantes.</p><h3>Produza e revise</h3><p>Analise a finalidade e os campos do canal simulado. Com mediação docente, localize no documento ou portal oficial da escola um canal real e registre sua origem e instruções, sem inserir dados nem enviar mensagem. Compare os dois. Redija rascunho de solicitação fundamentada com assunto, contexto, pedido e encerramento; envio depende de autorização específica.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "canais_de_reclamacao.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual elemento torna um pedido mais compreensível?",
+      "alternativas": [
+        "Ataque pessoal sem contexto.",
+        "Relato do problema e providência solicitada com justificativa.",
+        "Exposição de dados de colegas.",
+        "Destinatário inventado."
+      ],
+      "correta": 1,
+      "explicacao": "<strong>Canal escolar simulado.</strong> Campo 1: assunto; campo 2: relato com data/local; campo 3: providência pedida; campo 4: contato por meio escolar. Mensagem-modelo: “Solicito avaliar um horário adicional de consulta. Minha turma sai antes do atendimento atual. Proponho consultar os dois turnos”. O pedido tem motivo e encaminhamento, sem atacar pessoas ou exigir informação privada de estudantes.",
+      "bncc": [
+        "EF67LP16"
+      ]
+    },
+    {
+      "id": "canais_de_reclamacao.producao",
+      "tipo": "discursiva",
+      "enunciado": "Analise a finalidade e os campos do canal simulado. Com mediação docente, localize no documento ou portal oficial da escola um canal real e registre sua origem e instruções, sem inserir dados nem enviar mensagem. Compare os dois. Redija rascunho de solicitação fundamentada com assunto, contexto, pedido e encerramento; envio depende de autorização específica.",
+      "gabarito": "Conferir destinatário/finalidade, origem do canal real e procedimento observado, sem confundir aparência com autenticidade. O rascunho deve ter pedido e razões, sem dados pessoais desnecessários. Não exigir envio como condição desta tarefa; a atividade é análise e preparação, não atendimento real.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Conferir destinatário/finalidade, origem do canal real e procedimento observado, sem confundir aparência com autenticidade. O rascunho deve ter pedido e razões, sem dados pessoais desnecessários. Não exigir envio como condição desta tarefa; a atividade é análise e preparação, não atendimento real.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP16"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

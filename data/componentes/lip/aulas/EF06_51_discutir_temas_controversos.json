@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.oralidade.discutir_temas_controversos",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 51,
+  "unidade": "Oralidade",
+  "titulo": "Discutir Temas Controversos",
+  "bncc": [
+    "EF69LP13"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Realizem discussão de dez minutos sobre uma questão escolar delimitada, como horários de leitura. Apresentem ao menos duas propostas, critérios e dúvidas. Produzam ata curta com acordo, divergências e próxima ação, indicando responsáveis somente com consentimento. Cada participante explica que contribuição alheia considerou."
+    ],
+    "resumo": "Discutir Temas Controversos",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Discutir Temas Controversos</h2><p>Uma discussão pode buscar uma decisão comum sem exigir unanimidade. Defina o problema e os critérios de comparação; ouça razões e separe fatos, hipóteses e preferências. Uma conclusão pode registrar um acordo parcial, uma experiência temporária ou a necessidade de mais dados. Contribuir não significa impor a própria solução nem aceitar ataques pessoais.</p><h3>Exemplo comentado</h3><p>Problema fictício: a biblioteca tem espaço limitado para atividades silenciosas e rodas de leitura. Proposta A: reservar horários diferentes; proposta B: criar zonas no mesmo horário. A escolha exige saber tamanho do espaço, ruído e demanda. Um acordo possível é testar horários por uma semana e depois avaliar; não declarar sucesso antes do teste.</p><h3>Produza e revise</h3><p>Realizem discussão de dez minutos sobre uma questão escolar delimitada, como horários de leitura. Apresentem ao menos duas propostas, critérios e dúvidas. Produzam ata curta com acordo, divergências e próxima ação, indicando responsáveis somente com consentimento. Cada participante explica que contribuição alheia considerou.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "discutir_temas_controversos.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual conclusão respeita a necessidade de mais dados?",
+      "alternativas": [
+        "Minha ideia venceu porque falei alto.",
+        "Podemos testar horários e registrar resultados antes de decidir.",
+        "Quem discorda está proibido de participar.",
+        "O teste futuro já provou sucesso."
+      ],
+      "correta": 1,
+      "explicacao": "Problema fictício: a biblioteca tem espaço limitado para atividades silenciosas e rodas de leitura. Proposta A: reservar horários diferentes; proposta B: criar zonas no mesmo horário. A escolha exige saber tamanho do espaço, ruído e demanda. Um acordo possível é testar horários por uma semana e depois avaliar; não declarar sucesso antes do teste.",
+      "bncc": [
+        "EF69LP13"
+      ]
+    },
+    {
+      "id": "discutir_temas_controversos.producao",
+      "tipo": "discursiva",
+      "enunciado": "Realizem discussão de dez minutos sobre uma questão escolar delimitada, como horários de leitura. Apresentem ao menos duas propostas, critérios e dúvidas. Produzam ata curta com acordo, divergências e próxima ação, indicando responsáveis somente com consentimento. Cada participante explica que contribuição alheia considerou.",
+      "gabarito": "Conferir interação real, comparação de propostas e registro de convergências/divergências. Não exigir consenso artificial. A ata não deve transformar hipótese em dado; a justificativa individual mostra escuta e participação na conclusão coletiva.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Conferir interação real, comparação de propostas e registro de convergências/divergências. Não exigir consenso artificial. A ata não deve transformar hipótese em dado; a justificativa individual mostra escuta e participação na conclusão coletiva.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF69LP13"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

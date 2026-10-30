@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 63,
+  "unidade": "Estudo, pesquisa e participação",
+  "titulo": "Pedido e justificativa",
+  "bncc": [
+    "EF67LP18"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Compare A e B separando objeto, justificativa e evidência faltante. Avalie a pertinência sem atacar autores. Reescreva B como pedido proporcional e verificável ou acrescente uma pergunta que permita avaliar a necessidade. Analise também um pedido escolar disponibilizado pelo professor, com dados pessoais retirados."
+    ],
+    "resumo": "Pedido e justificativa",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Pedido e justificativa</h2><p>Identificar um pedido não basta para julgar sua pertinência. Localize o objeto, a razão apresentada e o vínculo entre problema e providência. Uma justificativa pode ser relevante, insuficiente ou contraditória. Uma proposta com bons motivos ainda pode exigir verificar viabilidade. Não invente informações para torná-la mais convincente.</p><h3>Exemplo comentado</h3><p>Solicitação fictícia A: “Pedimos mais uma cadeira porque um dos assentos está quebrado”. B: “Pedimos cem cadeiras porque a cor atual não combina com a parede”. A relaciona uma necessidade funcional à quantidade pedida; B não oferece, por si só, justificativa para cem unidades. Pode haver outras razões, mas elas não aparecem no texto.</p><h3>Produza e revise</h3><p>Compare A e B separando objeto, justificativa e evidência faltante. Avalie a pertinência sem atacar autores. Reescreva B como pedido proporcional e verificável ou acrescente uma pergunta que permita avaliar a necessidade. Analise também um pedido escolar disponibilizado pelo professor, com dados pessoais retirados.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "pedido_e_justificativa.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual pergunta ajuda a avaliar a pertinência de cem cadeiras?",
+      "alternativas": [
+        "Qual é a quantidade de assentos necessários e em que estado estão?",
+        "Quem grita mais alto?",
+        "Por que não aceitar qualquer número?",
+        "Como esconder a justificativa?"
+      ],
+      "correta": 0,
+      "explicacao": "Solicitação fictícia A: “Pedimos mais uma cadeira porque um dos assentos está quebrado”. B: “Pedimos cem cadeiras porque a cor atual não combina com a parede”. A relaciona uma necessidade funcional à quantidade pedida; B não oferece, por si só, justificativa para cem unidades. Pode haver outras razões, mas elas não aparecem no texto.",
+      "bncc": [
+        "EF67LP18"
+      ]
+    },
+    {
+      "id": "pedido_e_justificativa.producao",
+      "tipo": "discursiva",
+      "enunciado": "Compare A e B separando objeto, justificativa e evidência faltante. Avalie a pertinência sem atacar autores. Reescreva B como pedido proporcional e verificável ou acrescente uma pergunta que permita avaliar a necessidade. Analise também um pedido escolar disponibilizado pelo professor, com dados pessoais retirados.",
+      "gabarito": "Exigir distinção entre uma/cem cadeiras e razões oferecidas. A é mais diretamente relacionada ao problema descrito; B precisa de critérios e informações adicionais. A avaliação deve reconhecer limites e não inventar quantidades reais.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir distinção entre uma/cem cadeiras e razões oferecidas. A é mais diretamente relacionada ao problema descrito; B precisa de critérios e informações adicionais. A avaliação deve reconhecer limites e não inventar quantidades reais.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP18"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        171
+      ],
+      "paginasImpressas": "167,169",
+      "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+    },
+    {
+      "documento": "Modelos didáticos autorais incorporados",
+      "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

@@ -1,5 +1,263 @@
 registrarQuestoes([
   {
+    "id": "lip.ef06.cidadania_e_textos_normativos.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Cidadania e Textos Normativos",
+    "aulaId": "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais",
+    "bncc": [
+      "EF67LP15"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O modelo autoriza renovação em qual condição?",
+    "opcoes": [
+      "Mesmo havendo reserva, sempre.",
+      "Sem registro algum.",
+      "Se não houver reserva, conforme o artigo.",
+      "Somente após multa inventada."
+    ],
+    "correta": 2,
+    "explicacao": "<strong>Regulamento didático fictício de biblioteca.</strong> Art. 1º: Todos os estudantes podem consultar o acervo durante o atendimento. Art. 2º: É proibido consumir alimentos junto às estantes. Art. 3º: O empréstimo pode ser feito com registro, por sete dias, com renovação se não houver reserva. O primeiro artigo garante acesso em uma condição temporal; o segundo proíbe uma conduta em um lugar; o terceiro condiciona empréstimo e renovação. Nenhum artigo menciona multa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.cidadania_e_textos_normativos.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Cidadania e Textos Normativos",
+    "aulaId": "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais",
+    "bncc": [
+      "EF67LP15"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "O que se pode concluir sobre multa no regulamento fictício?",
+    "opcoes": [
+      "A multa é de valor fixo.",
+      "O modelo não informa multa; não se deve inventar uma.",
+      "Todos devem pagar multa.",
+      "Toda proibição elimina qualquer direito."
+    ],
+    "correta": 1,
+    "explicacao": "A análise precisa respeitar o que está escrito e seus limites, sem preencher o silêncio normativo com sanções inventadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.cidadania_e_textos_normativos.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Cidadania e Textos Normativos",
+    "aulaId": "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao",
+    "bncc": [
+      "EF67LP16"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual elemento torna um pedido mais compreensível?",
+    "opcoes": [
+      "Ataque pessoal sem contexto.",
+      "Relato do problema e providência solicitada com justificativa.",
+      "Exposição de dados de colegas.",
+      "Destinatário inventado."
+    ],
+    "correta": 1,
+    "explicacao": "<strong>Canal escolar simulado.</strong> Campo 1: assunto; campo 2: relato com data/local; campo 3: providência pedida; campo 4: contato por meio escolar. Mensagem-modelo: “Solicito avaliar um horário adicional de consulta. Minha turma sai antes do atendimento atual. Proponho consultar os dois turnos”. O pedido tem motivo e encaminhamento, sem atacar pessoas ou exigir informação privada de estudantes.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.cidadania_e_textos_normativos.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Cidadania e Textos Normativos",
+    "aulaId": "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao",
+    "bncc": [
+      "EF67LP16"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Antes de preencher um canal encontrado, convém:",
+    "opcoes": [
+      "Confiar apenas nas cores da página.",
+      "Enviar dados de todos os colegas.",
+      "Verificar origem institucional, finalidade e informações necessárias.",
+      "Assumir que todo formulário é oficial."
+    ],
+    "correta": 2,
+    "explicacao": "A autenticidade e o procedimento precisam ser conferidos; o exercício não autoriza envio de mensagens ou dados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.cidadania_e_textos_normativos.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Cidadania e Textos Normativos",
+    "aulaId": "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao",
+    "bncc": [
+      "EF67LP20"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual questão apresenta um recorte mais definido?",
+    "opcoes": [
+      "Tudo sobre livros no mundo.",
+      "Biblioteca.",
+      "Quais condições de renovação constam do regulamento escolar atual?",
+      "Qualquer assunto encontrado primeiro."
+    ],
+    "correta": 2,
+    "explicacao": "Questão-modelo: “Quais condições permitem renovar livros na biblioteca escolar neste período?” Fonte indicada: regulamento vigente disponibilizado pela escola. Fonte aberta: página institucional que descreve o serviço, com data a conferir. Uma opinião em rede social pode revelar experiência, mas não substitui o regulamento para afirmar a regra. Divergências devem ser registradas e verificadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.cidadania_e_textos_normativos.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Cidadania e Textos Normativos",
+    "aulaId": "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao",
+    "bncc": [
+      "EF67LP20"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma síntese de pesquisa adequada deve:",
+    "opcoes": [
+      "Indicar fontes e limites, sustentando conclusões em evidências.",
+      "Inventar referência para completar a lista.",
+      "Copiar trechos sem atribuição.",
+      "Tratar qualquer anúncio como prova de resultado."
+    ],
+    "correta": 0,
+    "explicacao": "A curadoria exige pertinência, rastreabilidade e limites das informações utilizadas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
     "id": "lip.ef06.classes_gramaticais.treino.01",
     "componente": "lip",
     "tema": "Língua Portuguesa",
@@ -884,6 +1142,662 @@ registrarQuestoes([
     "autoria": "produção autoral assistida",
     "estado": "piloto",
     "complementar": true
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura",
+    "bncc": [
+      "EF67LP17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual trecho formula o pedido?",
+    "opcoes": [
+      "Solicitamos avaliar a instalação de uma caixa.",
+      "O atendimento coincide com aulas.",
+      "5 de maio.",
+      "Representantes da turma-modelo."
+    ],
+    "correta": 0,
+    "explicacao": "Carta autoral simulada: “Escola-modelo, 5 de maio. À equipe da biblioteca: solicitamos avaliar a instalação de uma caixa de devolução. O atendimento coincide com parte das aulas, dificultando a entrega de livros. Sugerimos consultar as turmas sobre locais possíveis. Agradecemos a análise. Representantes da turma-modelo”. O pedido é avaliar uma solução, não afirmar que ela já foi aprovada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura",
+    "bncc": [
+      "EF67LP17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A organização de uma carta deve ser analisada:",
+    "opcoes": [
+      "Sem considerar quem escreve ou recebe.",
+      "Em relação ao destinatário, problema e finalidade.",
+      "Somente pelo tamanho da fonte.",
+      "Como fórmula única que proíbe qualquer variação."
+    ],
+    "correta": 1,
+    "explicacao": "A estrutura e as marcas linguísticas atendem ao contexto de produção e à ação pretendida.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa",
+    "bncc": [
+      "EF67LP18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual pergunta ajuda a avaliar a pertinência de cem cadeiras?",
+    "opcoes": [
+      "Qual é a quantidade de assentos necessários e em que estado estão?",
+      "Quem grita mais alto?",
+      "Por que não aceitar qualquer número?",
+      "Como esconder a justificativa?"
+    ],
+    "correta": 0,
+    "explicacao": "Solicitação fictícia A: “Pedimos mais uma cadeira porque um dos assentos está quebrado”. B: “Pedimos cem cadeiras porque a cor atual não combina com a parede”. A relaciona uma necessidade funcional à quantidade pedida; B não oferece, por si só, justificativa para cem unidades. Pode haver outras razões, mas elas não aparecem no texto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa",
+    "bncc": [
+      "EF67LP18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma justificativa pertinente:",
+    "opcoes": [
+      "Transforma toda proposta em decisão obrigatória.",
+      "Precisa relacionar a providência ao problema e às evidências.",
+      "Pode dispensar qualquer objeto de pedido.",
+      "É apenas uma frase de elogio ao autor."
+    ],
+    "correta": 1,
+    "explicacao": "Pertinência envolve relação entre pedido, razões e informações disponíveis; não garante aprovação automática.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas",
+    "bncc": [
+      "EF67LP19"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual prática melhora um levantamento de problemas?",
+    "opcoes": [
+      "Publicar acusações antes de verificar.",
+      "Registrar observações e examinar a norma pertinente.",
+      "Inventar relatos de colegas.",
+      "Omitir os limites dos dados."
+    ],
+    "correta": 1,
+    "explicacao": "Exemplo simulado: estudantes relatam dificuldade de devolver livros por coincidência de horários. Levantamento possível: registrar horários oficiais e ouvir turmas sem nomes; consultar o regulamento de empréstimo; identificar o responsável pelo atendimento. O passo seguinte é discutir alternativas, não divulgar acusações pessoais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas",
+    "bncc": [
+      "EF67LP19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Antes de concluir que uma regra foi descumprida, é necessário:",
+    "opcoes": [
+      "Apenas gostar ou não da regra.",
+      "Contar curtidas.",
+      "Conferir a norma, suas condições e os fatos observados com mediação adequada.",
+      "Presumir que toda dificuldade é uma infração."
+    ],
+    "correta": 2,
+    "explicacao": "A análise exige documento e contexto; o modelo não substitui avaliação institucional de situações reais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa",
+    "bncc": [
+      "EF67LP21"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual título preserva o alcance dos dados fictícios?",
+    "opcoes": [
+      "Todos na escola preferem contos.",
+      "Preferências neste grupo simulado de dez participantes.",
+      "A população inteira foi consultada.",
+      "Pesquisa real de todas as famílias."
+    ],
+    "correta": 1,
+    "explicacao": "Painel-modelo fictício: pergunta, preferência de leitura; grupo, dez participantes simulados; resultado, seis escolheram conto e quatro poema; limite, não representa a escola. O título adequado é “Preferências neste grupo simulado”, não “Todos preferem contos”. Esses números servem para estudar comunicação, não como pesquisa realizada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa",
+    "bncc": [
+      "EF67LP21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um produto de divulgação deve permitir ao público:",
+    "opcoes": [
+      "Confundir modelo com coleta real.",
+      "Ignorar como os dados foram obtidos.",
+      "Reconhecer pergunta, procedimento, resultados e limites.",
+      "Presumir unanimidade."
+    ],
+    "correta": 2,
+    "explicacao": "O contexto de produção da pesquisa permite interpretar corretamente os resultados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica",
+    "bncc": [
+      "EF67LP25"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “Por exemplo, reúne título e autoria”, o marcador introduz:",
+    "opcoes": [
+      "Uma ilustração da ideia anterior.",
+      "Uma conclusão obrigatória sobre toda pesquisa.",
+      "Uma data de publicação.",
+      "Uma fala direta."
+    ],
+    "correta": 0,
+    "explicacao": "Texto autoral: “O catálogo organiza informações dos livros. Por exemplo, reúne título e autoria. Primeiro, consulte o título; depois, confira a localização. Em outras palavras, o catálogo orienta a busca”. O início define a função, o exemplo especifica, os marcadores ordenam ações e a última frase reformula uma ideia central.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica",
+    "bncc": [
+      "EF67LP25"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Usar “primeiro” e “depois” adequadamente requer:",
+    "opcoes": [
+      "Inseri-los aleatoriamente.",
+      "Relacioná-los à ordem dos eventos ou etapas expostos.",
+      "Eliminar as ações mencionadas.",
+      "Trocar qualquer exemplo por data."
+    ],
+    "correta": 1,
+    "explicacao": "Os marcadores devem sinalizar uma organização existente e ajudar o leitor a segui-la.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico",
+    "bncc": [
+      "EF67LP26"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual é a função do segundo box?",
+    "opcoes": [
+      "Garantir reciclagem de tudo.",
+      "Limitar a ideia de que separar basta para garantir o destino.",
+      "Apresentar lei municipal verificada.",
+      "Substituir toda consulta."
+    ],
+    "correta": 1,
+    "explicacao": "<strong>Microtexto explicativo autoral.</strong> “Na coleta seletiva, os materiais são separados para facilitar diferentes destinos. Conheça a <a href=\"#ef67-definicao\">definição usada aqui</a> e veja a <a href=\"#ef67-relacao\">relação entre separação e destino</a>.” <aside id=\"ef67-definicao\"><strong>Box conceitual:</strong> coleta seletiva é o recolhimento de resíduos previamente separados segundo sua composição.</aside><aside id=\"ef67-relacao\"><strong>Box de relação:</strong> separar não garante que todo material seja reciclado; condições locais e o tipo de material também importam.</aside><p>Os links são internos. O exemplo não informa o serviço efetivamente disponível em um município; isso requer fonte local.</p>",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico",
+    "bncc": [
+      "EF67LP26"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma remissão adequada a um box deve:",
+    "opcoes": [
+      "Ter destino identificável e função relacionada ao texto principal.",
+      "Levar a lugar inexistente.",
+      "Servir apenas de decoração.",
+      "Ocultar a origem do conceito."
+    ],
+    "correta": 0,
+    "explicacao": "A estrutura hipertextual precisa oferecer um percurso significativo e verificável.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.07",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico",
+    "bncc": [
+      "EF67LP29"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual trecho é uma indicação cênica?",
+    "opcoes": [
+      "Precisamos terminar o desenho.",
+      "Então deixemos uma margem.",
+      "Iara afasta o lápis e deixa a folha no centro.",
+      "Se terminarmos tudo, onde entra a história de outra pessoa?"
+    ],
+    "correta": 2,
+    "explicacao": "<strong>A mesa — cena autoral.</strong> Ato único, cena 1. Personagens: Iara e Joel. (Uma mesa com um mapa; ambos observam o espaço em branco.) IARA: Precisamos terminar o desenho. JOEL: Se terminarmos tudo, onde entra a história de outra pessoa? (Iara afasta o lápis e deixa a folha no centro.) IARA: Então deixemos uma margem. O conflito envolve fechar a criação ou permitir colaboração. O gesto final ajuda a construir uma solução sem narração explicativa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.07",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico",
+    "bncc": [
+      "EF67LP29"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No texto dramático, o conflito pode ser reconhecido:",
+    "opcoes": [
+      "Somente se um narrador o declarar.",
+      "Pela oposição entre falas, ações e pontos de vista.",
+      "Apenas contando personagens.",
+      "Sem ler nenhuma fala."
+    ],
+    "correta": 1,
+    "explicacao": "A organização dramática apresenta conflito e perspectiva por ação, diálogo e recursos cênicos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.08",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia",
+    "bncc": [
+      "EF67LP36"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conector explicita consequência em “O mapa estava incompleto; ... desenharam juntos”?",
+    "opcoes": [
+      "Por isso",
+      "Apesar de que sempre",
+      "Antes que ontem",
+      "Ou talvez sem relação"
+    ],
+    "correta": 0,
+    "explicacao": "Versão inicial autoral: “Iara encontrou Joel. Ela mostrou o mapa. O papel estava incompleto. Porém, desenharam juntos”. Ela pode ser Iara, mas convém conferir o contexto. O papel retoma o mapa por outro nome; porém só é adequado se houver contraste pretendido. Para indicar consequência da incompletude, podemos escrever “Por isso, os dois desenharam juntos”.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.08",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia",
+    "bncc": [
+      "EF67LP36"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para avaliar a coesão de um texto, é necessário:",
+    "opcoes": [
+      "Apenas contar pronomes.",
+      "Eliminar todo nome repetido.",
+      "Conferir referentes e relações de sentido estabelecidas entre partes.",
+      "Inserir conectores ao acaso."
+    ],
+    "correta": 2,
+    "explicacao": "A coesão funciona quando retomadas e articulações são interpretáveis no contexto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
   },
   {
     "id": "lip.ef06.leitura_e_generos.treino.01",
@@ -1838,6 +2752,608 @@ registrarQuestoes([
     "complementar": false
   },
   {
+    "id": "lip.ef06.literatura.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.literatura_e_outras_artes",
+    "bncc": [
+      "EF67LP27"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual pista sustenta a relação explícita entre conto e cena?",
+    "opcoes": [
+      "Apenas ambos serem curtos.",
+      "Retomada das personagens e do mapa, com indicação do texto de origem.",
+      "Qualquer palavra repetida por acaso.",
+      "Toda cena adapta qualquer conto."
+    ],
+    "correta": 1,
+    "explicacao": "O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>Adaptação cênica autoral de um trecho: Iara e Joel diante da mesa. IARA (vira a folha): “O quarto corredor sumiu”. JOEL (aponta o verso): “Talvez ainda não tenha sido contado”. Uma luz ilumina a parte em branco. A adaptação retoma mapa e personagens do conto, mas cria fala e recurso de luz que não são cópias literais da narração.</p>",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.literatura_e_outras_artes",
+    "bncc": [
+      "EF67LP27"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na adaptação, a luz sobre o espaço em branco:",
+    "opcoes": [
+      "É necessariamente uma frase copiada.",
+      "Elimina toda interpretação.",
+      "Usa recurso cênico para destacar um elemento da narrativa.",
+      "Prova que a cena é documento real."
+    ],
+    "correta": 2,
+    "explicacao": "A nova linguagem pode produzir destaque visual em vez de repetir apenas o narrador.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.ler_literatura",
+    "bncc": [
+      "EF67LP28"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Que informação o conto não determina?",
+    "opcoes": [
+      "Iara encontrou uma folha.",
+      "Joel participou da criação.",
+      "Quem acrescentou a ponte no dia seguinte.",
+      "O mapa continha um espaço em branco."
+    ],
+    "correta": 2,
+    "explicacao": "O mapa incompleto — conto autoral. Quando a biblioteca fechou, Iara encontrou uma folha sem título entre dois livros. Três corredores estavam desenhados, mas o quarto terminava em branco. “É um mapa?”, perguntou a Joel. Ele apontou uma frase no verso: O caminho aparece quando alguém conta uma história. Iara contou como aprendera a andar de bicicleta. Joel acrescentou a história de um cachorro perdido. Desenharam uma rua no espaço vazio e deixaram o mapa na mesa. Na manhã seguinte, havia ali uma ponte que nenhum dos dois fizera.<p>O narrador apresenta ações de Iara e Joel, sem esclarecer quem desenhou a ponte. A frase no verso permite uma leitura fantástica ou uma brincadeira coletiva. A ponte acrescentada no dia seguinte sustenta o enigma, mas o texto não identifica uma pessoa específica como autora.</p>",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.ler_literatura",
+    "bncc": [
+      "EF67LP28"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual interpretação é mais bem sustentada?",
+    "opcoes": [
+      "O texto identifica com certeza o diretor como autor da ponte.",
+      "O final deixa a autoria da ponte aberta, apoiando leituras justificadas.",
+      "Não há nenhum enigma no texto.",
+      "Qualquer resposta dispensa pistas."
+    ],
+    "correta": 1,
+    "explicacao": "A narrativa não nomeia o autor final; a leitura precisa respeitar esse limite e apoiar-se em pistas.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.criar_narrativas",
+    "bncc": [
+      "EF67LP30"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual recurso pode construir suspense?",
+    "opcoes": [
+      "Resolver tudo antes de apresentar qualquer questão.",
+      "Adiar uma informação oferecendo pistas relevantes.",
+      "Eliminar todos os personagens.",
+      "Copiar integralmente outro conto."
+    ],
+    "correta": 1,
+    "explicacao": "No conto O mapa incompleto, o espaço em branco e a frase no verso criam expectativa; a ponte final retoma o motivo do caminho. Um início alternativo poderia começar pela ponte pronta e depois retornar à descoberta do mapa. A mudança reorganiza a curiosidade, sem exigir copiar as mesmas personagens.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.criar_narrativas",
+    "bncc": [
+      "EF67LP30"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na revisão de um conto, qual análise é pertinente?",
+    "opcoes": [
+      "Só contar palavras e ignorar sentido.",
+      "Exigir o mesmo desfecho para todos.",
+      "Verificar se pistas e desfecho se relacionam e os tempos são coerentes.",
+      "Tratar rascunho como gravação."
+    ],
+    "correta": 2,
+    "explicacao": "A coerência narrativa liga construção de expectativa, acontecimentos e escolhas verbais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.criar_poemas",
+    "bncc": [
+      "EF67LP31"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma quadra é definida inicialmente por:",
+    "opcoes": [
+      "Quatro versos.",
+      "Quatorze versos obrigatórios.",
+      "Ausência de qualquer ritmo.",
+      "Uma única palavra."
+    ],
+    "correta": 0,
+    "explicacao": "Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Chão/versão aproximam finais sonoros; rio/vazio também podem ser lidos como rima. A ponte relaciona escuta e passagem. Versão livre autoral: “Deixo / no branco do mapa / um lugar / para tua voz”. A quebra pode destacar espera e abertura. O sentido depende da composição, não só de rimar palavras.</p>",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.criar_poemas",
+    "bncc": [
+      "EF67LP31"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em um poema visual, a distribuição gráfica:",
+    "opcoes": [
+      "É sempre indiferente.",
+      "Pode participar do sentido e precisa ser analisada junto às palavras.",
+      "Substitui qualquer necessidade de palavras em todos os poemas.",
+      "Prova que não há linguagem."
+    ],
+    "correta": 1,
+    "explicacao": "A organização espacial pode reforçar imagens, relações e percursos de leitura.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.treino.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.praticas_de_leitura_literaria",
+    "bncc": [
+      "EF69LP49"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual registro mostra reflexão sobre a leitura?",
+    "opcoes": [
+      "Li rápido, então entendi tudo.",
+      "Todos devem gostar do mesmo livro.",
+      "Revi minha hipótese após reler o final e conversar sobre duas pistas.",
+      "Não preciso indicar qual obra li."
+    ],
+    "correta": 2,
+    "explicacao": "Uma ficha de percurso pode registrar: obra e autoria; expectativa; trecho que exigiu releitura; estratégia usada; apreciação após a conversa. No conto do mapa, a dificuldade pode ser aceitar que o final não explica tudo. Num poema, a pausa e a imagem podem pedir outro ritmo. São experiências distintas, não etapas de uma corrida.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.prova.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.praticas_de_leitura_literaria",
+    "bncc": [
+      "EF69LP49"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Avaliar um percurso leitor exige:",
+    "opcoes": [
+      "Observar experiências e registros ao longo do tempo, com mediação adequada.",
+      "Usar só velocidade de leitura.",
+      "Exigir elogio de toda obra.",
+      "Converter uma promessa de leitura em execução."
+    ],
+    "correta": 0,
+    "explicacao": "O envolvimento e a ampliação de repertório precisam de acompanhamento, não de certificação por resposta objetiva isolada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.treino.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.recursos_dos_generos_literarios",
+    "bncc": [
+      "EF69LP54"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “O mapa escutou nossas vozes”, há principalmente:",
+    "opcoes": [
+      "Número exato de participantes.",
+      "Personificação do mapa.",
+      "Uma instrução legal.",
+      "Uma rima obrigatória."
+    ],
+    "correta": 1,
+    "explicacao": "Ponte — poema autoral em quadra: No papel desenho o chão / e uma margem para o rio; / quando escuto outra versão, / já não passo tão vazio.<p>Verso adicional autoral: “O mapa escutou nossas vozes”. O mapa recebe ação humana, criando personificação. Ler “quando escuto outra versão” com pausa em outra pode destacar contraste; leitura acelerada e leitura pausada constroem ritmos distintos. Não há uma única entonação obrigatória, mas escolhas precisam ser justificadas.</p>",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.prova.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.recursos_dos_generos_literarios",
+    "bncc": [
+      "EF69LP54"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Comparar duas declamações exige:",
+    "opcoes": [
+      "Somente verificar se o leitor decorou.",
+      "Impor a mesma voz a todos.",
+      "Relacionar pausas, ritmo ou gestos ao efeito pretendido.",
+      "Ignorar o texto verbal."
+    ],
+    "correta": 2,
+    "explicacao": "Os recursos da realização oral precisam ser relacionados às imagens e aos sentidos do texto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.treino.07",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.recursos_dos_generos_literarios",
+    "bncc": [
+      "EF67LP38"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em uma reclamação cotidiana, “Esperei mil anos!” pode sugerir qual efeito?",
+    "opcoes": [
+      "Exagero expressivo da duração.",
+      "Data exata comprovada.",
+      "Uma medida literal obrigatória.",
+      "Ausência de qualquer avaliação."
+    ],
+    "correta": 0,
+    "explicacao": "A hipérbole intensifica a avaliação da espera, sem apresentar necessariamente duração literal.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.literatura.prova.07",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "aulaId": "lip.ef06.literatura.recursos_dos_generos_literarios",
+    "bncc": [
+      "EF67LP38"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No contexto em que estudantes aplaudem, “A escola aplaudiu” pode usar escola para representar:",
+    "opcoes": [
+      "Somente as paredes do prédio.",
+      "As pessoas ligadas à instituição.",
+      "Uma medida de tempo.",
+      "Um tipo de rima."
+    ],
+    "correta": 1,
+    "explicacao": "A metonímia pode nomear a instituição pelas pessoas que a integram; o contexto sustenta a relação.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
     "id": "lip.ef06.midia_e_efeitos_de_sentido.treino.01",
     "componente": "lip",
     "tema": "Língua Portuguesa",
@@ -2711,6 +4227,436 @@ registrarQuestoes([
         ],
         "paginasImpressas": "69–70, 72–73",
         "uso": "Referência conceitual conferida no lote original; textos e itens autorais."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.turnos_de_fala",
+    "bncc": [
+      "EF67LP23"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual pergunta retoma a proposta de organizar livros por tema?",
+    "opcoes": [
+      "Por que você sempre erra?",
+      "Como tratar um livro com mais de um tema?",
+      "Posso mudar para um assunto sem relação?",
+      "Quem fala mais alto vence?"
+    ],
+    "correta": 1,
+    "explicacao": "Discussão-modelo: “Como organizar a troca de livros?” Lia: “Sugiro separar por tema”. Rui pede a palavra: “Como identificar livros que cabem em mais de um tema?” A pergunta retoma a proposta e revela um problema. “Você nunca sabe nada” atacaria a pessoa, sem analisar a ideia. Uma síntese útil registra a proposta e a dúvida, em vez de apenas nomes de quem falou.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.turnos_de_fala",
+    "bncc": [
+      "EF67LP23"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual evidência permite observar respeito aos turnos?",
+    "opcoes": [
+      "Somente a nota objetiva.",
+      "A quantidade de palavras decoradas.",
+      "Registro de uma discussão real com exemplos de escuta e retomada.",
+      "Uma promessa de conversar depois."
+    ],
+    "correta": 2,
+    "explicacao": "O desempenho conversacional exige observação da interação, com exemplos contextualizados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.tomar_nota",
+    "bncc": [
+      "EF67LP24"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual nota preserva o limite da fala-modelo?",
+    "opcoes": [
+      "Data ainda a combinar.",
+      "Terça-feira confirmada.",
+      "Livros sem limite.",
+      "Tema já decidido por votação."
+    ],
+    "correta": 0,
+    "explicacao": "Fala autoral para leitura pelo professor: “Na troca de livros, cada pessoa poderá trazer até dois exemplares. A equipe verificará o estado de conservação. A organização proposta é por tema, mas essa classificação ainda será discutida. O encontro-modelo ocorrerá no pátio, numa data a combinar”. Notas possíveis: até dois; conferir estado; tema em debate; pátio; data indefinida. Escrever terça-feira inventaria um dado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.tomar_nota",
+    "bncc": [
+      "EF67LP24"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual prática melhora a tomada de notas?",
+    "opcoes": [
+      "Copiar tudo sem considerar finalidade.",
+      "Separar informações centrais, dúvidas e inferências próprias.",
+      "Trocar incertezas por datas inventadas.",
+      "Eliminar a indicação da fonte."
+    ],
+    "correta": 1,
+    "explicacao": "A seleção orientada pelo objetivo e a distinção de incertezas preservam o sentido da fala.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.entrevista_oral",
+    "bncc": [
+      "EF67LP14"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual pergunta aprofunda a resposta sobre sugestões das turmas?",
+    "opcoes": [
+      "Como uma turma envia sua sugestão?",
+      "Por que vocês nunca ouvem ninguém?",
+      "Qualquer assunto sem relação serve?",
+      "Posso inventar sua resposta?"
+    ],
+    "correta": 0,
+    "explicacao": "Objetivo: conhecer a organização da biblioteca. Pergunta: “Como são escolhidos os livros novos?” Resposta-modelo: “Recebemos sugestões das turmas e verificamos o acervo”. Pergunta de aprofundamento: “Como uma turma envia sua sugestão?” Ela nasce da resposta. “Então vocês nunca escutam ninguém?” seria uma acusação não sustentada por essa fala.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.entrevista_oral",
+    "bncc": [
+      "EF67LP14"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Na edição de uma entrevista, é adequado:",
+    "opcoes": [
+      "Alterar a posição do entrevistado sem avisar.",
+      "Inventar a pergunta que ele não respondeu.",
+      "Retirar repetições preservando sentido e contexto.",
+      "Tratar roteiro como entrevista realizada."
+    ],
+    "correta": 2,
+    "explicacao": "A edição busca clareza, mantendo a responsabilidade da voz e o conteúdo efetivamente registrado.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.discutir_temas_controversos",
+    "bncc": [
+      "EF69LP13"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conclusão respeita a necessidade de mais dados?",
+    "opcoes": [
+      "Minha ideia venceu porque falei alto.",
+      "Podemos testar horários e registrar resultados antes de decidir.",
+      "Quem discorda está proibido de participar.",
+      "O teste futuro já provou sucesso."
+    ],
+    "correta": 1,
+    "explicacao": "Problema fictício: a biblioteca tem espaço limitado para atividades silenciosas e rodas de leitura. Proposta A: reservar horários diferentes; proposta B: criar zonas no mesmo horário. A escolha exige saber tamanho do espaço, ruído e demanda. Um acordo possível é testar horários por uma semana e depois avaliar; não declarar sucesso antes do teste.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.discutir_temas_controversos",
+    "bncc": [
+      "EF69LP13"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Buscar uma conclusão comum significa:",
+    "opcoes": [
+      "Apagar toda discordância.",
+      "Aceitar a posição de quem interrompe.",
+      "Construir encaminhamento fundamentado e registrar limites e divergências.",
+      "Garantir unanimidade em qualquer tema."
+    ],
+    "correta": 2,
+    "explicacao": "Uma decisão coletiva pode ser parcial e provisória, desde que razões, dúvidas e encaminhamentos estejam claros.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.treino.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.apresentacao_oral",
+    "bncc": [
+      "EF69LP38"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual painel evita uma generalização indevida?",
+    "opcoes": [
+      "Toda a escola pensa assim, sem pesquisa.",
+      "Resultado de uma turma consultada, com data e limites.",
+      "Número inventado para preencher o espaço.",
+      "Imagem sem relação com o tema."
+    ],
+    "correta": 1,
+    "explicacao": "Plano de três minutos sobre a pesquisa de leitura: painel 1, pergunta e grupo consultado; painel 2, resultados realmente coletados e representação; painel 3, interpretação e limites. Se apenas uma turma foi ouvida, não concluir que a escola inteira pensa igual. O apresentador pode consultar cartões; decorar tudo não é requisito.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.oralidade.prova.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "aulaId": "lip.ef06.oralidade.apresentacao_oral",
+    "bncc": [
+      "EF69LP38"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conjunto comprova o processo de apresentação?",
+    "opcoes": [
+      "Slides sem fala e sem ensaio.",
+      "Promessa de apresentar futuramente.",
+      "Painéis, registro de ensaio e exposição realmente realizada.",
+      "Somente a nota do treino."
+    ],
+    "correta": 2,
+    "explicacao": "A habilidade envolve organizar, ensaiar e expor; o material visual sozinho não evidencia todas essas ações.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
       }
     ],
     "autoria": "produção autoral assistida",
@@ -4501,6 +6447,146 @@ registrarQuestoes([
   }
 ]);
 registrarProvas({
+  "lip.ef06.cidadania_e_textos_normativos.prova": {
+    "id": "lip.ef06.cidadania_e_textos_normativos.prova",
+    "titulo": "Avaliação: Cidadania e Textos Normativos",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Cidadania e Textos Normativos",
+    "bncc": [
+      "EF67LP15",
+      "EF67LP16",
+      "EF67LP20"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "3 itens objetivos; nota proporcional aos acertos, divididos por 3, vezes dez, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+    "questoes": [
+      "lip.ef06.cidadania_e_textos_normativos.prova.01",
+      "lip.ef06.cidadania_e_textos_normativos.prova.02",
+      "lip.ef06.cidadania_e_textos_normativos.prova.03"
+    ],
+    "criterios": "Nota objetiva proporcional aos itens respondidos; portfólio com devolutiva por tarefa.",
+    "avaliacaoPratica": {
+      "id": "lip.ef06.cidadania_e_textos_normativos.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Cidadania e Textos Normativos",
+      "enunciado": "Reúna as produções e registros de execução. Roteiro, intenção e resposta objetiva não comprovam conversa, entrevista, leitura ou apresentação realizadas. Registre revisões e limitações de suporte.",
+      "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+      "rubrica": [
+        "Atende: apresenta evidência e explica escolhas.",
+        "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+        "Retomar: precisa produzir ou corrigir a evidência."
+      ],
+      "bncc": [
+        "EF67LP15",
+        "EF67LP16",
+        "EF67LP20"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Ler Textos Legais e Normativos",
+          "enunciado": "Faça um quadro com direito, proibição e condições dos três artigos. Analise: consultar fora do atendimento; comer no pátio; renovar livro reservado. Diga o que o modelo permite concluir e o que não regula. Depois compare um trecho de regimento escolar efetivamente disponibilizado, registrando título, origem e condição de aplicação, sem copiar dados pessoais.",
+          "gabarito": "O acesso é durante atendimento; o modelo não garante consulta fora dele. Comer no pátio não é regulado pelo art. 2º, limitado às estantes; não concluir autorização geral. Reserva impede a renovação descrita. Não inventar multa. Na comparação real, exigir documento identificado e leitura contextualizada.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "O acesso é durante atendimento; o modelo não garante consulta fora dele. Comer no pátio não é regulado pelo art. 2º, limitado às estantes; não concluir autorização geral. Reserva impede a renovação descrita. Não inventar multa. Na comparação real, exigir documento identificado e leitura contextualizada.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP15"
+          ],
+          "atividadeOrigem": "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais#ler_textos_legais.producao"
+        },
+        {
+          "titulo": "Canais de Reclamação e Solicitação",
+          "enunciado": "Analise a finalidade e os campos do canal simulado. Com mediação docente, localize no documento ou portal oficial da escola um canal real e registre sua origem e instruções, sem inserir dados nem enviar mensagem. Compare os dois. Redija rascunho de solicitação fundamentada com assunto, contexto, pedido e encerramento; envio depende de autorização específica.",
+          "gabarito": "Conferir destinatário/finalidade, origem do canal real e procedimento observado, sem confundir aparência com autenticidade. O rascunho deve ter pedido e razões, sem dados pessoais desnecessários. Não exigir envio como condição desta tarefa; a atividade é análise e preparação, não atendimento real.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Conferir destinatário/finalidade, origem do canal real e procedimento observado, sem confundir aparência com autenticidade. O rascunho deve ter pedido e razões, sem dados pessoais desnecessários. Não exigir envio como condição desta tarefa; a atividade é análise e preparação, não atendimento real.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP16"
+          ],
+          "atividadeOrigem": "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao#canais_de_reclamacao.producao"
+        },
+        {
+          "titulo": "Curadoria de Informação",
+          "enunciado": "Escolha uma pergunta delimitada sobre leitura, biblioteca ou um tema curricular. Faça plano com período e três subperguntas. Use uma fonte indicada e uma fonte aberta, registrando referências reais, trechos relevantes e o que cada uma permite afirmar. Organize síntese com duas conclusões sustentadas, uma limitação e uma questão ainda aberta.",
+          "gabarito": "Exigir pesquisa executada com referências localizáveis, recorte coerente e distinção das fontes. Verificar correspondência entre conclusões e evidências; não aceitar links inventados, cópias como independência ou dados futuros como coletados. Se a fonte aberta não for acessível, registrar a pendência e a mediação adotada.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir pesquisa executada com referências localizáveis, recorte coerente e distinção das fontes. Verificar correspondência entre conclusões e evidências; não aceitar links inventados, cópias como independência ou dados futuros como coletados. Se a fonte aberta não for acessível, registrar a pendência e a mediação adotada.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP20"
+          ],
+          "atividadeOrigem": "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao#curadoria_de_informacao.producao"
+        }
+      ],
+      "correcao": "Docente com devolutiva individual; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF67LP15",
+        "questoes": [
+          "lip.ef06.cidadania_e_textos_normativos.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.cidadania_e_textos_normativos.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais#ler_textos_legais.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP16",
+        "questoes": [
+          "lip.ef06.cidadania_e_textos_normativos.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.cidadania_e_textos_normativos.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao#canais_de_reclamacao.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP20",
+        "questoes": [
+          "lip.ef06.cidadania_e_textos_normativos.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.cidadania_e_textos_normativos.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao#curadoria_de_informacao.producao"
+        ]
+      }
+    ]
+  },
   "lip.ef06.classes_gramaticais.prova": {
     "id": "lip.ef06.classes_gramaticais.prova",
     "titulo": "Avaliação: Classes Gramaticais",
@@ -4796,6 +6882,289 @@ registrarProvas({
     ],
     "matriz": [],
     "complementar": true
+  },
+  "lip.ef06.estudo_pesquisa_e_participacao.prova": {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova",
+    "titulo": "Avaliação: Estudo, pesquisa e participação",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "bncc": [
+      "EF67LP17",
+      "EF67LP18",
+      "EF67LP19",
+      "EF67LP21",
+      "EF67LP25",
+      "EF67LP26",
+      "EF67LP29",
+      "EF67LP36"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Oito itens objetivos; nota proporcional aos acertos, divididos por oito, vezes dez, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+    "questoes": [
+      "lip.ef06.estudo_pesquisa_e_participacao.prova.01",
+      "lip.ef06.estudo_pesquisa_e_participacao.prova.02",
+      "lip.ef06.estudo_pesquisa_e_participacao.prova.03",
+      "lip.ef06.estudo_pesquisa_e_participacao.prova.04",
+      "lip.ef06.estudo_pesquisa_e_participacao.prova.05",
+      "lip.ef06.estudo_pesquisa_e_participacao.prova.06",
+      "lip.ef06.estudo_pesquisa_e_participacao.prova.07",
+      "lip.ef06.estudo_pesquisa_e_participacao.prova.08"
+    ],
+    "criterios": "Nota objetiva proporcional aos itens respondidos; portfólio com devolutiva por tarefa.",
+    "avaliacaoPratica": {
+      "id": "lip.ef06.estudo_pesquisa_e_participacao.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Estudo, pesquisa e participação",
+      "enunciado": "Reúna as oito produções, fontes e versões revisadas. Observações, pesquisas e divulgação exigem registros de execução; modelos não comprovam realização.",
+      "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+      "rubrica": [
+        "Atende: apresenta evidência e explica escolhas.",
+        "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+        "Retomar: precisa produzir ou corrigir a evidência."
+      ],
+      "bncc": [
+        "EF67LP17",
+        "EF67LP18",
+        "EF67LP19",
+        "EF67LP21",
+        "EF67LP25",
+        "EF67LP26",
+        "EF67LP29",
+        "EF67LP36"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Cartas estrutura",
+          "enunciado": "Marque as partes da carta-modelo e relacione duas marcas linguísticas à finalidade. Reorganize uma cópia em que pedido e motivo foram trocados de lugar; compare os efeitos. Produza rascunho para uma situação escolar, distinguindo relato, justificativa e solicitação. Não envie sem autorização.",
+          "gabarito": "Exigir análise de organização e contexto, com solicitamos como formulação de pedido e dificultando como justificativa. O rascunho precisa indicar destinatário e demanda; alteração de ordem pode destacar o problema antes da solução. Não confundir cortesia com ausência de reivindicação.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir análise de organização e contexto, com solicitamos como formulação de pedido e dificultando como justificativa. O rascunho precisa indicar destinatário e demanda; alteração de ordem pode destacar o problema antes da solução. Não confundir cortesia com ausência de reivindicação.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP17"
+          ],
+          "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura#cartas_estrutura.producao"
+        },
+        {
+          "titulo": "Pedido e justificativa",
+          "enunciado": "Compare A e B separando objeto, justificativa e evidência faltante. Avalie a pertinência sem atacar autores. Reescreva B como pedido proporcional e verificável ou acrescente uma pergunta que permita avaliar a necessidade. Analise também um pedido escolar disponibilizado pelo professor, com dados pessoais retirados.",
+          "gabarito": "Exigir distinção entre uma/cem cadeiras e razões oferecidas. A é mais diretamente relacionada ao problema descrito; B precisa de critérios e informações adicionais. A avaliação deve reconhecer limites e não inventar quantidades reais.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir distinção entre uma/cem cadeiras e razões oferecidas. A é mais diretamente relacionada ao problema descrito; B precisa de critérios e informações adicionais. A avaliação deve reconhecer limites e não inventar quantidades reais.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP18"
+          ],
+          "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa#pedido_e_justificativa.producao"
+        },
+        {
+          "titulo": "Levantamento de problemas",
+          "enunciado": "Em grupo, levantem uma dificuldade coletiva da escola sem dados identificáveis. Definam pergunta, forma de observar, quem precisa ser ouvido e um documento escolar a consultar. Realizem a observação autorizada e examinem o trecho pertinente da norma vigente. Produzam diagnóstico com evidências, limites e proposta de encaminhamento, sem envio automático.",
+          "gabarito": "Exigir registros reais e referência ao documento, distinguindo previsão de execução. Não transformar suspeita em acusação nem atribuir ilegalidade por conta própria. A proposta deve se relacionar aos dados e à condição normativa observada; questões sensíveis devem ter mediação escolar.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir registros reais e referência ao documento, distinguindo previsão de execução. Não transformar suspeita em acusação nem atribuir ilegalidade por conta própria. A proposta deve se relacionar aos dados e à condição normativa observada; questões sensíveis devem ter mediação escolar.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP19"
+          ],
+          "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas#levantamento_de_problemas.producao"
+        },
+        {
+          "titulo": "Divulgar pesquisa",
+          "enunciado": "Use uma pesquisa realmente executada, sua ou mediada pelo professor. Produza painel ou apresentação com pergunta, participantes ou fontes, procedimento, dois resultados e limite. Faça circular na turma e recolha uma pergunta do público. Registre a apresentação e revise uma explicação; não use os números simulados como coleta real.",
+          "gabarito": "Exigir pesquisa rastreável e divulgação real no suporte escolhido, com registro da pergunta recebida. Conferir correspondência dos resultados com os registros originais. Se não houver pesquisa concluída, essa etapa permanece pendente; um modelo pronto não comprova divulgação de resultado próprio.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir pesquisa rastreável e divulgação real no suporte escolhido, com registro da pergunta recebida. Conferir correspondência dos resultados com os registros originais. Se não houver pesquisa concluída, essa etapa permanece pendente; um modelo pronto não comprova divulgação de resultado próprio.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP21"
+          ],
+          "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa#divulgar_pesquisa.producao"
+        },
+        {
+          "titulo": "Organizacao topica",
+          "enunciado": "Faça um esquema do texto, indicando definição, exemplo, sequência e paráfrase. Produza dois parágrafos sobre um procedimento de pesquisa: um do geral para o específico e outro iniciando por um exemplo. Use marcadores com função justificada e compare a clareza das duas ordens após uma leitura por colega.",
+          "gabarito": "Exigir esquema e duas versões efetivas, com funções reconhecíveis dos marcadores. A paráfrase deve preservar a ideia sem copiar a frase inteira. Avaliar progressão e relação entre partes, não apenas presença de palavras como primeiro.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir esquema e duas versões efetivas, com funções reconhecíveis dos marcadores. A paráfrase deve preservar a ideia sem copiar a frase inteira. Avaliar progressão e relação entre partes, não apenas presença de palavras como primeiro.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP25"
+          ],
+          "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica#organizacao_topica.producao"
+        },
+        {
+          "titulo": "Hipertexto cientifico",
+          "enunciado": "Explore os dois links, registre a função de cada box e explique como o segundo limita uma generalização. Produza um parágrafo de divulgação sobre um conceito estudado, com fonte indicada pelo professor, um box de definição e uma nota de relação. Desenhe as remissões ou implemente links reais se houver suporte; teste o percurso de leitura.",
+          "gabarito": "Exigir identificação dos destinos e das funções, parágrafo com fonte real e remissões verificáveis. Separação não garante todo destino. Não inventar política local. Em suporte de papel, aceitar remissão por número e box efetivo, com registro do teste.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir identificação dos destinos e das funções, parágrafo com fonte real e remissões verificáveis. Separação não garante todo destino. Não inventar política local. Em suporte de papel, aceitar remissão por número e box efetivo, com registro do teste.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP26"
+          ],
+          "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico#hipertexto_cientifico.producao"
+        },
+        {
+          "titulo": "Texto dramatico",
+          "enunciado": "Identifique personagens, ato, cena, falas e duas indicações cênicas. Explique o conflito e os pontos de vista citando trechos. Proponha outra ação final e discuta como ela mudaria o sentido. Faça leitura em duplas, registrando a escolha de entonação de cada personagem.",
+          "gabarito": "Exigir identificação textual, análise de finalizar/abrir espaço para outros e relação do gesto com a solução. A ação alternativa deve ser efetivamente descrita. Registrar leitura real sem impor uma única representação nem confundir indicação cênica com fala pronunciada.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir identificação textual, análise de finalizar/abrir espaço para outros e relação do gesto com a solução. A ação alternativa deve ser efetivamente descrita. Registrar leitura real sem impor uma única representação nem confundir indicação cênica com fala pronunciada.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP29"
+          ],
+          "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico#texto_dramatico.producao"
+        },
+        {
+          "titulo": "Coesao e sequencia",
+          "enunciado": "Produza um relato curto com duas personagens, duas retomadas nominais/pronominais e três relações sequenciais diferentes. Marque os referentes e os sentidos dos conectores. Troque um conector e explique como a relação muda. Revise com um colega para eliminar ambiguidade sem apagar repetições úteis.",
+          "gabarito": "Exigir relato e marcações contextualizadas, três relações efetivas e comparação de mudança. Um conector rotulado como causal precisa de causa coerente. Avaliar a revisão e a clareza dos referentes; não impor substituição de toda repetição.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir relato e marcações contextualizadas, três relações efetivas e comparação de mudança. Um conector rotulado como causal precisa de causa coerente. Avaliar a revisão e a clareza dos referentes; não impor substituição de toda repetição.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP36"
+          ],
+          "atividadeOrigem": "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia#coesao_e_sequencia.producao"
+        }
+      ],
+      "correcao": "Docente com devolutiva individual; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF67LP17",
+        "questoes": [
+          "lip.ef06.estudo_pesquisa_e_participacao.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura#cartas_estrutura.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP18",
+        "questoes": [
+          "lip.ef06.estudo_pesquisa_e_participacao.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa#pedido_e_justificativa.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP19",
+        "questoes": [
+          "lip.ef06.estudo_pesquisa_e_participacao.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas#levantamento_de_problemas.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP21",
+        "questoes": [
+          "lip.ef06.estudo_pesquisa_e_participacao.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa#divulgar_pesquisa.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP25",
+        "questoes": [
+          "lip.ef06.estudo_pesquisa_e_participacao.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica#organizacao_topica.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP26",
+        "questoes": [
+          "lip.ef06.estudo_pesquisa_e_participacao.prova.06"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico#hipertexto_cientifico.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP29",
+        "questoes": [
+          "lip.ef06.estudo_pesquisa_e_participacao.prova.07"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico#texto_dramatico.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP36",
+        "questoes": [
+          "lip.ef06.estudo_pesquisa_e_participacao.prova.08"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia#coesao_e_sequencia.producao"
+        ]
+      }
+    ]
   },
   "lip.ef06.leitura_e_generos.prova": {
     "id": "lip.ef06.leitura_e_generos.prova",
@@ -5225,6 +7594,249 @@ registrarProvas({
       }
     ]
   },
+  "lip.ef06.literatura.prova": {
+    "id": "lip.ef06.literatura.prova",
+    "titulo": "Avaliação: Literatura",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Literatura",
+    "bncc": [
+      "EF67LP27",
+      "EF67LP28",
+      "EF67LP30",
+      "EF67LP31",
+      "EF69LP49",
+      "EF69LP54",
+      "EF67LP38"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "Sete itens objetivos; nota proporcional aos acertos divididos por sete, vezes dez. Correção ao final. Portfólio docente separado; nota não comprova domínio.",
+    "questoes": [
+      "lip.ef06.literatura.prova.01",
+      "lip.ef06.literatura.prova.02",
+      "lip.ef06.literatura.prova.03",
+      "lip.ef06.literatura.prova.04",
+      "lip.ef06.literatura.prova.05",
+      "lip.ef06.literatura.prova.06",
+      "lip.ef06.literatura.prova.07"
+    ],
+    "criterios": "Nota objetiva proporcional aos sete itens; produções avaliadas por tarefa.",
+    "avaliacaoPratica": {
+      "id": "lip.ef06.literatura.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Literatura",
+      "enunciado": "Reúna as produções e registros de execução. Roteiro, intenção e resposta objetiva não comprovam conversa, entrevista, leitura ou apresentação realizadas. Registre revisões e limitações de suporte.",
+      "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+      "rubrica": [
+        "Atende: apresenta evidência e explica escolhas.",
+        "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+        "Retomar: precisa produzir ou corrigir a evidência."
+      ],
+      "bncc": [
+        "EF67LP27",
+        "EF67LP28",
+        "EF67LP30",
+        "EF67LP31",
+        "EF69LP49",
+        "EF69LP54",
+        "EF67LP38"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Literatura e Outras Artes",
+          "enunciado": "Compare conto e cena: identifique duas retomadas explícitas, uma mudança e seu efeito. Produza nova adaptação de um trecho em cena ou ilustração com legenda, explicando o que manteve e alterou. Nomeie o texto de origem e o recurso da nova linguagem.",
+          "gabarito": "Conferir Iara/Joel/mapa como retomadas e a fala/luz como transformações. Exigir produção efetiva e explicação de efeito. Não tratar semelhança genérica de tema como prova automática de referência; distinguir adaptação criada de trecho original.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Conferir Iara/Joel/mapa como retomadas e a fala/luz como transformações. Exigir produção efetiva e explicação de efeito. Não tratar semelhança genérica de tema como prova automática de referência; distinguir adaptação criada de trecho original.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP27"
+          ],
+          "atividadeOrigem": "lip.ef06.literatura.literatura_e_outras_artes#literatura_e_outras_artes.producao"
+        },
+        {
+          "titulo": "Ler e Compreender Literatura",
+          "enunciado": "Leia o conto, registre uma hipótese antes de reler e revise-a com duas pistas citadas. Reconstrua a ordem dos acontecimentos e explique o final aberto. Leia também o poema da aula de criação ou outra obra acessível, compare as estratégias usadas e indique uma preferência justificada. Ampliação para outros gêneros e obras permanece parte do percurso leitor.",
+          "gabarito": "Exigir hipótese e revisão com duas pistas, sequência coerente e interpretação que reconheça a falta de identificação final. Avaliar apreciação justificada e comparação de procedimentos. Um conto e um poema não comprovam leitura de todos os gêneros de EF67LP28.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir hipótese e revisão com duas pistas, sequência coerente e interpretação que reconheça a falta de identificação final. Avaliar apreciação justificada e comparação de procedimentos. Um conto e um poema não comprovam leitura de todos os gêneros de EF67LP28.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP28"
+          ],
+          "atividadeOrigem": "lip.ef06.literatura.ler_literatura#ler_literatura.producao"
+        },
+        {
+          "titulo": "Criar Narrativas Ficcionais",
+          "enunciado": "Crie um conto de 250 a 400 palavras de mistério, aventura ou humor, com cenário, personagens, narrador e conflito. Inclua duas pistas e falas em discurso direto e indireto. Faça plano, rascunho e revisão com um colega; explique uma mudança de tempo verbal e outra na organização do enredo.",
+          "gabarito": "Conferir produção autoral efetiva, relação entre pistas/conflito/desfecho, voz narrativa e duas formas de representar fala. Avaliar versões e justificativas, aceitando desfecho aberto coerente. Não impor um único gênero nem exigir violência para criar suspense.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Conferir produção autoral efetiva, relação entre pistas/conflito/desfecho, voz narrativa e duas formas de representar fala. Avaliar versões e justificativas, aceitando desfecho aberto coerente. Não impor um único gênero nem exigir violência para criar suspense.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP30"
+          ],
+          "atividadeOrigem": "lip.ef06.literatura.criar_narrativas#criar_narrativas.producao"
+        },
+        {
+          "titulo": "Criar Poemas de Forma Fixa e Versos Livres",
+          "enunciado": "Crie uma quadra com esquema sonoro explicado, um poema em versos livres e uma versão visual de um deles. Apresente a disposição real no papel ou tela; explique duas escolhas de som ou imagem. Leia em voz alta, registre a reação de um colega e revise sem obrigar todas as produções a rimar.",
+          "gabarito": "Exigir três produtos ou versões efetivas, quadra de quatro versos, justificativa sonora e disposição visual com função. Não exigir métrica rígida que não foi ensinada. A leitura e a revisão devem ser registradas; soneto e vídeo-poema continuam como ampliações a programar.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir três produtos ou versões efetivas, quadra de quatro versos, justificativa sonora e disposição visual com função. Não exigir métrica rígida que não foi ensinada. A leitura e a revisão devem ser registradas; soneto e vídeo-poema continuam como ampliações a programar.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP31"
+          ],
+          "atividadeOrigem": "lip.ef06.literatura.criar_poemas#criar_poemas.producao"
+        },
+        {
+          "titulo": "Práticas de Leitura Literária",
+          "enunciado": "Planeje duas semanas de leitura com ao menos duas obras ou produções literárias acessíveis, incluindo uma que desafie sua preferência habitual. Registre três encontros de leitura e uma conversa com colega ou professor, citando pistas e mudanças de interpretação. Solicite mediação quando necessário e apresente uma recomendação fundamentada.",
+          "gabarito": "Exigir diário com datas efetivas e registros contextualizados; leitura futura permanece pendente. Observar participação e abertura a novos textos, sem inferir motivação íntima a partir de uma nota. Aceitar áudio, braile, leitura mediada e outros suportes, registrando as condições.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir diário com datas efetivas e registros contextualizados; leitura futura permanece pendente. Observar participação e abertura a novos textos, sem inferir motivação íntima a partir de uma nota. Aceitar áudio, braile, leitura mediada e outros suportes, registrando as condições.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF69LP49"
+          ],
+          "atividadeOrigem": "lip.ef06.literatura.praticas_de_leitura_literaria#praticas_de_leitura_literaria.producao"
+        },
+        {
+          "titulo": "Recursos dos Gêneros Literários",
+          "enunciado": "Analise duas imagens poéticas do conjunto e uma repetição sonora. Faça duas leituras reais de quatro versos, mudando pausa, ritmo ou gesto. Compare os efeitos e registre qual interpretação quis destacar. Explique também como um adjetivo na descrição de um lugar pode orientar a atmosfera narrativa. Analise os cinco exemplos de figuras apresentados na seção final: indique a relação construída e um efeito de sentido em cada caso. Reescreva dois em linguagem mais literal e compare o que se perde ou se altera.",
+          "gabarito": "Conferir análise contextual, como ponte associada à escuta e mapa que escuta como personificação. Exigir duas realizações observadas/gravadas e justificativas, sem avaliar sotaque. Na descrição, aceitar adjetivos com efeitos distintos se relacionados ao contexto. Outras figuras e gêneros da habilidade permanecem ampliações. Conferir comparação, metáfora, metonímia, personificação e hipérbole nos contextos dados. A paráfrase literal pode reduzir imagem ou intensidade; exigir explicação, não só rótulos.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Conferir análise contextual, como ponte associada à escuta e mapa que escuta como personificação. Exigir duas realizações observadas/gravadas e justificativas, sem avaliar sotaque. Na descrição, aceitar adjetivos com efeitos distintos se relacionados ao contexto. Outras figuras e gêneros da habilidade permanecem ampliações.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF69LP54",
+            "EF67LP38"
+          ],
+          "atividadeOrigem": "lip.ef06.literatura.recursos_dos_generos_literarios#recursos_dos_generos_literarios.producao"
+        }
+      ],
+      "correcao": "Docente com devolutiva individual; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF67LP27",
+        "questoes": [
+          "lip.ef06.literatura.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.literatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.literatura.literatura_e_outras_artes#literatura_e_outras_artes.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP28",
+        "questoes": [
+          "lip.ef06.literatura.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.literatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.literatura.ler_literatura#ler_literatura.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP30",
+        "questoes": [
+          "lip.ef06.literatura.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.literatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.literatura.criar_narrativas#criar_narrativas.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP31",
+        "questoes": [
+          "lip.ef06.literatura.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.literatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.literatura.criar_poemas#criar_poemas.producao"
+        ]
+      },
+      {
+        "bncc": "EF69LP49",
+        "questoes": [
+          "lip.ef06.literatura.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.literatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.literatura.praticas_de_leitura_literaria#praticas_de_leitura_literaria.producao"
+        ]
+      },
+      {
+        "bncc": "EF69LP54",
+        "questoes": [
+          "lip.ef06.literatura.prova.06"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.literatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.literatura.recursos_dos_generos_literarios#recursos_dos_generos_literarios.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP38",
+        "questoes": [
+          "lip.ef06.literatura.prova.07"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.literatura.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.literatura.recursos_dos_generos_literarios#recursos_dos_generos_literarios.producao"
+        ]
+      }
+    ]
+  },
   "lip.ef06.midia_e_efeitos_de_sentido.prova": {
     "id": "lip.ef06.midia_e_efeitos_de_sentido.prova",
     "titulo": "Avaliação: Mídia e Efeitos de Sentido",
@@ -5595,6 +8207,204 @@ registrarProvas({
           "lip.ef06.morfologia.estrutura_das_palavras#estrutura_das_palavras.producao",
           "lip.ef06.morfologia.derivacao_e_composicao#derivacao_e_composicao.producao",
           "lip.ef06.morfologia.formacao_de_palavras_novas#formacao_de_palavras_novas.producao"
+        ]
+      }
+    ]
+  },
+  "lip.ef06.oralidade.prova": {
+    "id": "lip.ef06.oralidade.prova",
+    "titulo": "Avaliação: Oralidade",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Oralidade",
+    "bncc": [
+      "EF67LP14",
+      "EF67LP23",
+      "EF67LP24",
+      "EF69LP13",
+      "EF69LP38"
+    ],
+    "duracaoMin": 30,
+    "estado": "piloto",
+    "pontuacaoTotal": 10,
+    "instrucoes": "5 itens objetivos; nota proporcional aos acertos, divididos por 5, vezes dez, com correção ao final. Portfólio avaliado separadamente pelo docente; a nota objetiva não comprova domínio.",
+    "questoes": [
+      "lip.ef06.oralidade.prova.01",
+      "lip.ef06.oralidade.prova.02",
+      "lip.ef06.oralidade.prova.03",
+      "lip.ef06.oralidade.prova.04",
+      "lip.ef06.oralidade.prova.05"
+    ],
+    "criterios": "Nota objetiva proporcional aos itens respondidos; portfólio com devolutiva por tarefa.",
+    "avaliacaoPratica": {
+      "id": "lip.ef06.oralidade.pratica",
+      "tipo": "discursiva",
+      "titulo": "Portfólio: Oralidade",
+      "enunciado": "Reúna as produções e registros de execução. Roteiro, intenção e resposta objetiva não comprovam conversa, entrevista, leitura ou apresentação realizadas. Registre revisões e limitações de suporte.",
+      "gabarito": "Conferir cada tarefa pelos critérios específicos; não substituir a produção pela nota objetiva.",
+      "rubrica": [
+        "Atende: apresenta evidência e explica escolhas.",
+        "Em desenvolvimento: apresenta evidência parcial e revisa com apoio.",
+        "Retomar: precisa produzir ou corrigir a evidência."
+      ],
+      "bncc": [
+        "EF67LP14",
+        "EF67LP23",
+        "EF67LP24",
+        "EF69LP13",
+        "EF69LP38"
+      ],
+      "tarefas": [
+        {
+          "titulo": "Turnos de Fala em Discussões",
+          "enunciado": "Em grupo, discutam por oito minutos a organização de uma troca de livros. Definam moderador e observador. Cada participante apresenta uma contribuição e formula ou responde a uma pergunta pertinente, pelo suporte acessível disponível. O observador registra exemplos de escuta, interrupções e retomadas; revisem o combinado ao final.",
+          "gabarito": "Exigir discussão real ou interação mediada acessível e registro de exemplos, não apenas preenchimento de uma lista. Observar respeito aos turnos e pertinência das perguntas. Não confundir volume de voz, timidez ou sotaque com qualidade do argumento.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir discussão real ou interação mediada acessível e registro de exemplos, não apenas preenchimento de uma lista. Observar respeito aos turnos e pertinência das perguntas. Não confundir volume de voz, timidez ou sotaque com qualidade do argumento.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP23"
+          ],
+          "atividadeOrigem": "lip.ef06.oralidade.turnos_de_fala#turnos_de_fala.producao"
+        },
+        {
+          "titulo": "Tomar Nota de Aulas e Entrevistas",
+          "enunciado": "Um colega ou professor lê a fala duas vezes, sem você consultar o texto durante a primeira escuta. Tome notas para orientar um participante. Compare-as com o original após a segunda leitura e produza uma síntese com regra, local e pendências. Marque o que você corrigiu e o que permaneceu dúvida.",
+          "gabarito": "Exigir notas da escuta, síntese e comparação. Deve preservar limite de dois, conservação, organização ainda discutida, pátio e data indefinida. Se houver necessidade de suporte escrito acessível, registrar a adaptação sem fingir escuta sem apoio.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir notas da escuta, síntese e comparação. Deve preservar limite de dois, conservação, organização ainda discutida, pátio e data indefinida. Se houver necessidade de suporte escrito acessível, registrar a adaptação sem fingir escuta sem apoio.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP24"
+          ],
+          "atividadeOrigem": "lip.ef06.oralidade.tomar_nota#tomar_nota.producao"
+        },
+        {
+          "titulo": "Planejar e Fazer Entrevista",
+          "enunciado": "Escolha com o professor uma pessoa relacionada a um tema escolar, prepare objetivo, justificativa e cinco perguntas. Faça entrevista oral consentida, acrescente uma pergunta de aprofundamento e registre respostas por áudio autorizado ou notas. Transcreva um trecho e apresente versão editada com duas mudanças explicadas, preservando o sentido.",
+          "gabarito": "Exigir entrevista realizada e registro, pergunta de aprofundamento ligada à resposta e confronto entre trecho original e edição. Não inventar entrevistado, fala ou consentimento; se não realizada, a execução permanece pendente e o roteiro vale apenas como planejamento.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir entrevista realizada e registro, pergunta de aprofundamento ligada à resposta e confronto entre trecho original e edição. Não inventar entrevistado, fala ou consentimento; se não realizada, a execução permanece pendente e o roteiro vale apenas como planejamento.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF67LP14"
+          ],
+          "atividadeOrigem": "lip.ef06.oralidade.entrevista_oral#entrevista_oral.producao"
+        },
+        {
+          "titulo": "Discutir Temas Controversos",
+          "enunciado": "Realizem discussão de dez minutos sobre uma questão escolar delimitada, como horários de leitura. Apresentem ao menos duas propostas, critérios e dúvidas. Produzam ata curta com acordo, divergências e próxima ação, indicando responsáveis somente com consentimento. Cada participante explica que contribuição alheia considerou.",
+          "gabarito": "Conferir interação real, comparação de propostas e registro de convergências/divergências. Não exigir consenso artificial. A ata não deve transformar hipótese em dado; a justificativa individual mostra escuta e participação na conclusão coletiva.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Conferir interação real, comparação de propostas e registro de convergências/divergências. Não exigir consenso artificial. A ata não deve transformar hipótese em dado; a justificativa individual mostra escuta e participação na conclusão coletiva.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF69LP13"
+          ],
+          "atividadeOrigem": "lip.ef06.oralidade.discutir_temas_controversos#discutir_temas_controversos.producao"
+        },
+        {
+          "titulo": "Planejar uma Apresentação Oral",
+          "enunciado": "Use uma pesquisa realizada e monte três painéis ou slides, com fontes e limites. Ensaie, registre o tempo e uma mudança. Apresente por três minutos em suporte acessível e responda a uma pergunta do público. Entregue painéis, registro do ensaio e devolutiva; somente o arquivo de slides não comprova apresentação.",
+          "gabarito": "Exigir dados reais rastreáveis, organização, ensaio e exposição observada ou registrada. Avaliar adequação ao público/tempo, explicação dos dados e resposta pertinente. Não penalizar sotaque ou uso de apoio; se a pesquisa não foi realizada, registrar essa pendência.",
+          "rubrica": [
+            "Identificar as relações de forma e sentido solicitadas.",
+            "Exigir dados reais rastreáveis, organização, ensaio e exposição observada ou registrada. Avaliar adequação ao público/tempo, explicação dos dados e resposta pertinente. Não penalizar sotaque ou uso de apoio; se a pesquisa não foi realizada, registrar essa pendência.",
+            "Explicar escolhas e registrar revisão quando solicitada."
+          ],
+          "bncc": [
+            "EF69LP38"
+          ],
+          "atividadeOrigem": "lip.ef06.oralidade.apresentacao_oral#apresentacao_oral.producao"
+        }
+      ],
+      "correcao": "Docente com devolutiva individual; sem nota automática."
+    },
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          170,
+          171,
+          173
+        ],
+        "paginasImpressas": "167–169,171",
+        "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+      },
+      {
+        "documento": "Textos autorais incorporados à unidade",
+        "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+      }
+    ],
+    "matriz": [
+      {
+        "bncc": "EF67LP14",
+        "questoes": [
+          "lip.ef06.oralidade.prova.03"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.oralidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.oralidade.entrevista_oral#entrevista_oral.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP23",
+        "questoes": [
+          "lip.ef06.oralidade.prova.01"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.oralidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.oralidade.turnos_de_fala#turnos_de_fala.producao"
+        ]
+      },
+      {
+        "bncc": "EF67LP24",
+        "questoes": [
+          "lip.ef06.oralidade.prova.02"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.oralidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.oralidade.tomar_nota#tomar_nota.producao"
+        ]
+      },
+      {
+        "bncc": "EF69LP13",
+        "questoes": [
+          "lip.ef06.oralidade.prova.04"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.oralidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.oralidade.discutir_temas_controversos#discutir_temas_controversos.producao"
+        ]
+      },
+      {
+        "bncc": "EF69LP38",
+        "questoes": [
+          "lip.ef06.oralidade.prova.05"
+        ],
+        "avaliacoesPraticas": [
+          "lip.ef06.oralidade.pratica"
+        ],
+        "atividadesPraticas": [
+          "lip.ef06.oralidade.apresentacao_oral#apresentacao_oral.producao"
         ]
       }
     ]

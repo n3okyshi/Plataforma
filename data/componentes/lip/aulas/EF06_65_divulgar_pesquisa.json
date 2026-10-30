@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 65,
+  "unidade": "Estudo, pesquisa e participação",
+  "titulo": "Divulgar pesquisa",
+  "bncc": [
+    "EF67LP21"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Use uma pesquisa realmente executada, sua ou mediada pelo professor. Produza painel ou apresentação com pergunta, participantes ou fontes, procedimento, dois resultados e limite. Faça circular na turma e recolha uma pergunta do público. Registre a apresentação e revise uma explicação; não use os números simulados como coleta real."
+    ],
+    "resumo": "Divulgar pesquisa",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Divulgar pesquisa</h2><p>Divulgar pesquisa é apresentar questão, procedimento, resultados e limites a um público. O formato pode ser painel, apresentação, texto ou áudio, mas deve permitir localizar as fontes. Um resultado de uma turma não descreve automaticamente toda a escola. Separar dado de interpretação e indicar como foi obtido protege o sentido da pesquisa.</p><h3>Exemplo comentado</h3><p>Painel-modelo fictício: pergunta, preferência de leitura; grupo, dez participantes simulados; resultado, seis escolheram conto e quatro poema; limite, não representa a escola. O título adequado é “Preferências neste grupo simulado”, não “Todos preferem contos”. Esses números servem para estudar comunicação, não como pesquisa realizada.</p><h3>Produza e revise</h3><p>Use uma pesquisa realmente executada, sua ou mediada pelo professor. Produza painel ou apresentação com pergunta, participantes ou fontes, procedimento, dois resultados e limite. Faça circular na turma e recolha uma pergunta do público. Registre a apresentação e revise uma explicação; não use os números simulados como coleta real.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "divulgar_pesquisa.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual título preserva o alcance dos dados fictícios?",
+      "alternativas": [
+        "Todos na escola preferem contos.",
+        "Preferências neste grupo simulado de dez participantes.",
+        "A população inteira foi consultada.",
+        "Pesquisa real de todas as famílias."
+      ],
+      "correta": 1,
+      "explicacao": "Painel-modelo fictício: pergunta, preferência de leitura; grupo, dez participantes simulados; resultado, seis escolheram conto e quatro poema; limite, não representa a escola. O título adequado é “Preferências neste grupo simulado”, não “Todos preferem contos”. Esses números servem para estudar comunicação, não como pesquisa realizada.",
+      "bncc": [
+        "EF67LP21"
+      ]
+    },
+    {
+      "id": "divulgar_pesquisa.producao",
+      "tipo": "discursiva",
+      "enunciado": "Use uma pesquisa realmente executada, sua ou mediada pelo professor. Produza painel ou apresentação com pergunta, participantes ou fontes, procedimento, dois resultados e limite. Faça circular na turma e recolha uma pergunta do público. Registre a apresentação e revise uma explicação; não use os números simulados como coleta real.",
+      "gabarito": "Exigir pesquisa rastreável e divulgação real no suporte escolhido, com registro da pergunta recebida. Conferir correspondência dos resultados com os registros originais. Se não houver pesquisa concluída, essa etapa permanece pendente; um modelo pronto não comprova divulgação de resultado próprio.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir pesquisa rastreável e divulgação real no suporte escolhido, com registro da pergunta recebida. Conferir correspondência dos resultados com os registros originais. Se não houver pesquisa concluída, essa etapa permanece pendente; um modelo pronto não comprova divulgação de resultado próprio.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP21"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        171
+      ],
+      "paginasImpressas": "167,169",
+      "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+    },
+    {
+      "documento": "Modelos didáticos autorais incorporados",
+      "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

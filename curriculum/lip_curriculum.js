@@ -257,6 +257,124 @@ registrarCurriculo("Língua Portuguesa", {
         "titulo": "Resumo, Paráfrase e Citação",
         "complementar": false
       }
+    ],
+    "Oralidade": [
+      {
+        "id": "lip.ef06.oralidade.turnos_de_fala",
+        "titulo": "Turnos de Fala em Discussões",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.oralidade.tomar_nota",
+        "titulo": "Tomar Nota de Aulas e Entrevistas",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.oralidade.entrevista_oral",
+        "titulo": "Planejar e Fazer Entrevista",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.oralidade.discutir_temas_controversos",
+        "titulo": "Discutir Temas Controversos",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.oralidade.apresentacao_oral",
+        "titulo": "Planejar uma Apresentação Oral",
+        "complementar": false
+      }
+    ],
+    "Literatura": [
+      {
+        "id": "lip.ef06.literatura.literatura_e_outras_artes",
+        "titulo": "Literatura e Outras Artes",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.literatura.ler_literatura",
+        "titulo": "Ler e Compreender Literatura",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.literatura.criar_narrativas",
+        "titulo": "Criar Narrativas Ficcionais",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.literatura.criar_poemas",
+        "titulo": "Criar Poemas de Forma Fixa e Versos Livres",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.literatura.praticas_de_leitura_literaria",
+        "titulo": "Práticas de Leitura Literária",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.literatura.recursos_dos_generos_literarios",
+        "titulo": "Recursos dos Gêneros Literários",
+        "complementar": false
+      }
+    ],
+    "Cidadania e Textos Normativos": [
+      {
+        "id": "lip.ef06.cidadania_e_textos_normativos.ler_textos_legais",
+        "titulo": "Ler Textos Legais e Normativos",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.cidadania_e_textos_normativos.canais_de_reclamacao",
+        "titulo": "Canais de Reclamação e Solicitação",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.cidadania_e_textos_normativos.curadoria_de_informacao",
+        "titulo": "Curadoria de Informação",
+        "complementar": false
+      }
+    ],
+    "Estudo, pesquisa e participação": [
+      {
+        "id": "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura",
+        "titulo": "Cartas estrutura",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa",
+        "titulo": "Pedido e justificativa",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas",
+        "titulo": "Levantamento de problemas",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa",
+        "titulo": "Divulgar pesquisa",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica",
+        "titulo": "Organizacao topica",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico",
+        "titulo": "Hipertexto cientifico",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico",
+        "titulo": "Texto dramatico",
+        "complementar": false
+      },
+      {
+        "id": "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia",
+        "titulo": "Coesao e sequencia",
+        "complementar": false
+      }
     ]
   },
   "EF07": {},

@@ -1,0 +1,658 @@
+[
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura",
+    "bncc": [
+      "EF67LP17"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual trecho formula o pedido?",
+    "opcoes": [
+      "Solicitamos avaliar a instalação de uma caixa.",
+      "O atendimento coincide com aulas.",
+      "5 de maio.",
+      "Representantes da turma-modelo."
+    ],
+    "correta": 0,
+    "explicacao": "Carta autoral simulada: “Escola-modelo, 5 de maio. À equipe da biblioteca: solicitamos avaliar a instalação de uma caixa de devolução. O atendimento coincide com parte das aulas, dificultando a entrega de livros. Sugerimos consultar as turmas sobre locais possíveis. Agradecemos a análise. Representantes da turma-modelo”. O pedido é avaliar uma solução, não afirmar que ela já foi aprovada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.01",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.cartas_estrutura",
+    "bncc": [
+      "EF67LP17"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "A organização de uma carta deve ser analisada:",
+    "opcoes": [
+      "Sem considerar quem escreve ou recebe.",
+      "Em relação ao destinatário, problema e finalidade.",
+      "Somente pelo tamanho da fonte.",
+      "Como fórmula única que proíbe qualquer variação."
+    ],
+    "correta": 1,
+    "explicacao": "A estrutura e as marcas linguísticas atendem ao contexto de produção e à ação pretendida.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa",
+    "bncc": [
+      "EF67LP18"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual pergunta ajuda a avaliar a pertinência de cem cadeiras?",
+    "opcoes": [
+      "Qual é a quantidade de assentos necessários e em que estado estão?",
+      "Quem grita mais alto?",
+      "Por que não aceitar qualquer número?",
+      "Como esconder a justificativa?"
+    ],
+    "correta": 0,
+    "explicacao": "Solicitação fictícia A: “Pedimos mais uma cadeira porque um dos assentos está quebrado”. B: “Pedimos cem cadeiras porque a cor atual não combina com a parede”. A relaciona uma necessidade funcional à quantidade pedida; B não oferece, por si só, justificativa para cem unidades. Pode haver outras razões, mas elas não aparecem no texto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.02",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.pedido_e_justificativa",
+    "bncc": [
+      "EF67LP18"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma justificativa pertinente:",
+    "opcoes": [
+      "Transforma toda proposta em decisão obrigatória.",
+      "Precisa relacionar a providência ao problema e às evidências.",
+      "Pode dispensar qualquer objeto de pedido.",
+      "É apenas uma frase de elogio ao autor."
+    ],
+    "correta": 1,
+    "explicacao": "Pertinência envolve relação entre pedido, razões e informações disponíveis; não garante aprovação automática.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas",
+    "bncc": [
+      "EF67LP19"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual prática melhora um levantamento de problemas?",
+    "opcoes": [
+      "Publicar acusações antes de verificar.",
+      "Registrar observações e examinar a norma pertinente.",
+      "Inventar relatos de colegas.",
+      "Omitir os limites dos dados."
+    ],
+    "correta": 1,
+    "explicacao": "Exemplo simulado: estudantes relatam dificuldade de devolver livros por coincidência de horários. Levantamento possível: registrar horários oficiais e ouvir turmas sem nomes; consultar o regulamento de empréstimo; identificar o responsável pelo atendimento. O passo seguinte é discutir alternativas, não divulgar acusações pessoais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.03",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas",
+    "bncc": [
+      "EF67LP19"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Antes de concluir que uma regra foi descumprida, é necessário:",
+    "opcoes": [
+      "Apenas gostar ou não da regra.",
+      "Contar curtidas.",
+      "Conferir a norma, suas condições e os fatos observados com mediação adequada.",
+      "Presumir que toda dificuldade é uma infração."
+    ],
+    "correta": 2,
+    "explicacao": "A análise exige documento e contexto; o modelo não substitui avaliação institucional de situações reais.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa",
+    "bncc": [
+      "EF67LP21"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual título preserva o alcance dos dados fictícios?",
+    "opcoes": [
+      "Todos na escola preferem contos.",
+      "Preferências neste grupo simulado de dez participantes.",
+      "A população inteira foi consultada.",
+      "Pesquisa real de todas as famílias."
+    ],
+    "correta": 1,
+    "explicacao": "Painel-modelo fictício: pergunta, preferência de leitura; grupo, dez participantes simulados; resultado, seis escolheram conto e quatro poema; limite, não representa a escola. O título adequado é “Preferências neste grupo simulado”, não “Todos preferem contos”. Esses números servem para estudar comunicação, não como pesquisa realizada.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.04",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.divulgar_pesquisa",
+    "bncc": [
+      "EF67LP21"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Um produto de divulgação deve permitir ao público:",
+    "opcoes": [
+      "Confundir modelo com coleta real.",
+      "Ignorar como os dados foram obtidos.",
+      "Reconhecer pergunta, procedimento, resultados e limites.",
+      "Presumir unanimidade."
+    ],
+    "correta": 2,
+    "explicacao": "O contexto de produção da pesquisa permite interpretar corretamente os resultados.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica",
+    "bncc": [
+      "EF67LP25"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Em “Por exemplo, reúne título e autoria”, o marcador introduz:",
+    "opcoes": [
+      "Uma ilustração da ideia anterior.",
+      "Uma conclusão obrigatória sobre toda pesquisa.",
+      "Uma data de publicação.",
+      "Uma fala direta."
+    ],
+    "correta": 0,
+    "explicacao": "Texto autoral: “O catálogo organiza informações dos livros. Por exemplo, reúne título e autoria. Primeiro, consulte o título; depois, confira a localização. Em outras palavras, o catálogo orienta a busca”. O início define a função, o exemplo especifica, os marcadores ordenam ações e a última frase reformula uma ideia central.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.05",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.organizacao_topica",
+    "bncc": [
+      "EF67LP25"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Usar “primeiro” e “depois” adequadamente requer:",
+    "opcoes": [
+      "Inseri-los aleatoriamente.",
+      "Relacioná-los à ordem dos eventos ou etapas expostos.",
+      "Eliminar as ações mencionadas.",
+      "Trocar qualquer exemplo por data."
+    ],
+    "correta": 1,
+    "explicacao": "Os marcadores devem sinalizar uma organização existente e ajudar o leitor a segui-la.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico",
+    "bncc": [
+      "EF67LP26"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual é a função do segundo box?",
+    "opcoes": [
+      "Garantir reciclagem de tudo.",
+      "Limitar a ideia de que separar basta para garantir o destino.",
+      "Apresentar lei municipal verificada.",
+      "Substituir toda consulta."
+    ],
+    "correta": 1,
+    "explicacao": "<strong>Microtexto explicativo autoral.</strong> “Na coleta seletiva, os materiais são separados para facilitar diferentes destinos. Conheça a <a href=\"#ef67-definicao\">definição usada aqui</a> e veja a <a href=\"#ef67-relacao\">relação entre separação e destino</a>.” <aside id=\"ef67-definicao\"><strong>Box conceitual:</strong> coleta seletiva é o recolhimento de resíduos previamente separados segundo sua composição.</aside><aside id=\"ef67-relacao\"><strong>Box de relação:</strong> separar não garante que todo material seja reciclado; condições locais e o tipo de material também importam.</aside><p>Os links são internos. O exemplo não informa o serviço efetivamente disponível em um município; isso requer fonte local.</p>",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.06",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.hipertexto_cientifico",
+    "bncc": [
+      "EF67LP26"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Uma remissão adequada a um box deve:",
+    "opcoes": [
+      "Ter destino identificável e função relacionada ao texto principal.",
+      "Levar a lugar inexistente.",
+      "Servir apenas de decoração.",
+      "Ocultar a origem do conceito."
+    ],
+    "correta": 0,
+    "explicacao": "A estrutura hipertextual precisa oferecer um percurso significativo e verificável.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.07",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico",
+    "bncc": [
+      "EF67LP29"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual trecho é uma indicação cênica?",
+    "opcoes": [
+      "Precisamos terminar o desenho.",
+      "Então deixemos uma margem.",
+      "Iara afasta o lápis e deixa a folha no centro.",
+      "Se terminarmos tudo, onde entra a história de outra pessoa?"
+    ],
+    "correta": 2,
+    "explicacao": "<strong>A mesa — cena autoral.</strong> Ato único, cena 1. Personagens: Iara e Joel. (Uma mesa com um mapa; ambos observam o espaço em branco.) IARA: Precisamos terminar o desenho. JOEL: Se terminarmos tudo, onde entra a história de outra pessoa? (Iara afasta o lápis e deixa a folha no centro.) IARA: Então deixemos uma margem. O conflito envolve fechar a criação ou permitir colaboração. O gesto final ajuda a construir uma solução sem narração explicativa.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.07",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.texto_dramatico",
+    "bncc": [
+      "EF67LP29"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "No texto dramático, o conflito pode ser reconhecido:",
+    "opcoes": [
+      "Somente se um narrador o declarar.",
+      "Pela oposição entre falas, ações e pontos de vista.",
+      "Apenas contando personagens.",
+      "Sem ler nenhuma fala."
+    ],
+    "correta": 1,
+    "explicacao": "A organização dramática apresenta conflito e perspectiva por ação, diálogo e recursos cênicos.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.treino.08",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia",
+    "bncc": [
+      "EF67LP36"
+    ],
+    "tipo": "treino",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Qual conector explicita consequência em “O mapa estava incompleto; ... desenharam juntos”?",
+    "opcoes": [
+      "Por isso",
+      "Apesar de que sempre",
+      "Antes que ontem",
+      "Ou talvez sem relação"
+    ],
+    "correta": 0,
+    "explicacao": "Versão inicial autoral: “Iara encontrou Joel. Ela mostrou o mapa. O papel estava incompleto. Porém, desenharam juntos”. Ela pode ser Iara, mas convém conferir o contexto. O papel retoma o mapa por outro nome; porém só é adequado se houver contraste pretendido. Para indicar consequência da incompletude, podemos escrever “Por isso, os dois desenharam juntos”.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  },
+  {
+    "id": "lip.ef06.estudo_pesquisa_e_participacao.prova.08",
+    "componente": "lip",
+    "tema": "Língua Portuguesa",
+    "nivel": "EF06",
+    "unidade": "Estudo, pesquisa e participação",
+    "aulaId": "lip.ef06.estudo_pesquisa_e_participacao.coesao_e_sequencia",
+    "bncc": [
+      "EF67LP36"
+    ],
+    "tipo": "prova",
+    "formato": "multipla_escolha",
+    "dificuldade": 1,
+    "pergunta": "Para avaliar a coesão de um texto, é necessário:",
+    "opcoes": [
+      "Apenas contar pronomes.",
+      "Eliminar todo nome repetido.",
+      "Conferir referentes e relações de sentido estabelecidas entre partes.",
+      "Inserir conectores ao acaso."
+    ],
+    "correta": 2,
+    "explicacao": "A coesão funciona quando retomadas e articulações são interpretáveis no contexto.",
+    "fontes": [
+      {
+        "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+        "paginasPdf": [
+          169,
+          171
+        ],
+        "paginasImpressas": "167,169",
+        "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+      },
+      {
+        "documento": "Modelos didáticos autorais incorporados",
+        "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+      }
+    ],
+    "autoria": "produção autoral assistida",
+    "estado": "piloto",
+    "complementar": false
+  }
+]

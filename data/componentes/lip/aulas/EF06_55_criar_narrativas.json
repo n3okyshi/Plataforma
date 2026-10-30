@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.literatura.criar_narrativas",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 55,
+  "unidade": "Literatura",
+  "titulo": "Criar Narrativas Ficcionais",
+  "bncc": [
+    "EF67LP30"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Crie um conto de 250 a 400 palavras de mistério, aventura ou humor, com cenário, personagens, narrador e conflito. Inclua duas pistas e falas em discurso direto e indireto. Faça plano, rascunho e revisão com um colega; explique uma mudança de tempo verbal e outra na organização do enredo."
+    ],
+    "resumo": "Criar Narrativas Ficcionais",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Criar Narrativas Ficcionais</h2><p>Uma narrativa ficcional organiza personagens, espaço, tempo, conflito e desdobramentos por uma voz narradora. Suspense pode surgir do adiamento de uma informação e de pistas. O desfecho pode resolver ou manter parte do mistério, mas precisa dialogar com a construção anterior. Discurso direto apresenta uma fala; indireto a relata. Ao narrar no passado, revise a articulação dos tempos.</p><h3>Exemplo comentado</h3><p>No conto O mapa incompleto, o espaço em branco e a frase no verso criam expectativa; a ponte final retoma o motivo do caminho. Um início alternativo poderia começar pela ponte pronta e depois retornar à descoberta do mapa. A mudança reorganiza a curiosidade, sem exigir copiar as mesmas personagens.</p><h3>Produza e revise</h3><p>Crie um conto de 250 a 400 palavras de mistério, aventura ou humor, com cenário, personagens, narrador e conflito. Inclua duas pistas e falas em discurso direto e indireto. Faça plano, rascunho e revisão com um colega; explique uma mudança de tempo verbal e outra na organização do enredo.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "criar_narrativas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual recurso pode construir suspense?",
+      "alternativas": [
+        "Resolver tudo antes de apresentar qualquer questão.",
+        "Adiar uma informação oferecendo pistas relevantes.",
+        "Eliminar todos os personagens.",
+        "Copiar integralmente outro conto."
+      ],
+      "correta": 1,
+      "explicacao": "No conto O mapa incompleto, o espaço em branco e a frase no verso criam expectativa; a ponte final retoma o motivo do caminho. Um início alternativo poderia começar pela ponte pronta e depois retornar à descoberta do mapa. A mudança reorganiza a curiosidade, sem exigir copiar as mesmas personagens.",
+      "bncc": [
+        "EF67LP30"
+      ]
+    },
+    {
+      "id": "criar_narrativas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Crie um conto de 250 a 400 palavras de mistério, aventura ou humor, com cenário, personagens, narrador e conflito. Inclua duas pistas e falas em discurso direto e indireto. Faça plano, rascunho e revisão com um colega; explique uma mudança de tempo verbal e outra na organização do enredo.",
+      "gabarito": "Conferir produção autoral efetiva, relação entre pistas/conflito/desfecho, voz narrativa e duas formas de representar fala. Avaliar versões e justificativas, aceitando desfecho aberto coerente. Não impor um único gênero nem exigir violência para criar suspense.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Conferir produção autoral efetiva, relação entre pistas/conflito/desfecho, voz narrativa e duas formas de representar fala. Avaliar versões e justificativas, aceitando desfecho aberto coerente. Não impor um único gênero nem exigir violência para criar suspense.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP30"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "literatura"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

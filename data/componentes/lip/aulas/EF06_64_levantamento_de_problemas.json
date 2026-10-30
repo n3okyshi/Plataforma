@@ -1,0 +1,90 @@
+{
+  "id": "lip.ef06.estudo_pesquisa_e_participacao.levantamento_de_problemas",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 64,
+  "unidade": "Estudo, pesquisa e participação",
+  "titulo": "Levantamento de problemas",
+  "bncc": [
+    "EF67LP19"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Em grupo, levantem uma dificuldade coletiva da escola sem dados identificáveis. Definam pergunta, forma de observar, quem precisa ser ouvido e um documento escolar a consultar. Realizem a observação autorizada e examinem o trecho pertinente da norma vigente. Produzam diagnóstico com evidências, limites e proposta de encaminhamento, sem envio automático."
+    ],
+    "resumo": "Levantamento de problemas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Levantamento de problemas</h2><p>Antes de reivindicar uma solução, delimite o problema, ouça envolvidos e examine a norma aplicável. Relate observações sem expor pessoas e diferencie fato registrado, opinião e suspeita. Um problema pode requerer solicitação, conversa ou avaliação institucional; não rotule automaticamente toda dificuldade como infração. A aula não oferece conclusão jurídica sobre casos reais.</p><h3>Exemplo comentado</h3><p>Exemplo simulado: estudantes relatam dificuldade de devolver livros por coincidência de horários. Levantamento possível: registrar horários oficiais e ouvir turmas sem nomes; consultar o regulamento de empréstimo; identificar o responsável pelo atendimento. O passo seguinte é discutir alternativas, não divulgar acusações pessoais.</p><h3>Produza e revise</h3><p>Em grupo, levantem uma dificuldade coletiva da escola sem dados identificáveis. Definam pergunta, forma de observar, quem precisa ser ouvido e um documento escolar a consultar. Realizem a observação autorizada e examinem o trecho pertinente da norma vigente. Produzam diagnóstico com evidências, limites e proposta de encaminhamento, sem envio automático.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "levantamento_de_problemas.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual prática melhora um levantamento de problemas?",
+      "alternativas": [
+        "Publicar acusações antes de verificar.",
+        "Registrar observações e examinar a norma pertinente.",
+        "Inventar relatos de colegas.",
+        "Omitir os limites dos dados."
+      ],
+      "correta": 1,
+      "explicacao": "Exemplo simulado: estudantes relatam dificuldade de devolver livros por coincidência de horários. Levantamento possível: registrar horários oficiais e ouvir turmas sem nomes; consultar o regulamento de empréstimo; identificar o responsável pelo atendimento. O passo seguinte é discutir alternativas, não divulgar acusações pessoais.",
+      "bncc": [
+        "EF67LP19"
+      ]
+    },
+    {
+      "id": "levantamento_de_problemas.producao",
+      "tipo": "discursiva",
+      "enunciado": "Em grupo, levantem uma dificuldade coletiva da escola sem dados identificáveis. Definam pergunta, forma de observar, quem precisa ser ouvido e um documento escolar a consultar. Realizem a observação autorizada e examinem o trecho pertinente da norma vigente. Produzam diagnóstico com evidências, limites e proposta de encaminhamento, sem envio automático.",
+      "gabarito": "Exigir registros reais e referência ao documento, distinguindo previsão de execução. Não transformar suspeita em acusação nem atribuir ilegalidade por conta própria. A proposta deve se relacionar aos dados e à condição normativa observada; questões sensíveis devem ter mediação escolar.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir registros reais e referência ao documento, distinguindo previsão de execução. Não transformar suspeita em acusação nem atribuir ilegalidade por conta própria. A proposta deve se relacionar aos dados e à condição normativa observada; questões sensíveis devem ter mediação escolar.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP19"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        171
+      ],
+      "paginasImpressas": "167,169",
+      "uso": "EF67LP17–19,21,25,26,29 consultadas no PDF; EF67LP36 confrontada com data/bncc/lip.json."
+    },
+    {
+      "documento": "Modelos didáticos autorais incorporados",
+      "uso": "Cartas, cena e exemplos são modelos/simulações, não comunicações enviadas, dados coletados ou legislação vigente."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}

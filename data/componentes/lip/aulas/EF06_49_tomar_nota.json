@@ -1,0 +1,92 @@
+{
+  "id": "lip.ef06.oralidade.tomar_nota",
+  "componente": "lip",
+  "nivel": "EF06",
+  "ordem": 49,
+  "unidade": "Oralidade",
+  "titulo": "Tomar Nota de Aulas e Entrevistas",
+  "bncc": [
+    "EF67LP24"
+  ],
+  "duracaoMin": 50,
+  "dificuldade": 1,
+  "conteudo": {
+    "objetivos": [
+      "Um colega ou professor lê a fala duas vezes, sem você consultar o texto durante a primeira escuta. Tome notas para orientar um participante. Compare-as com o original após a segunda leitura e produza uma síntese com regra, local e pendências. Marque o que você corrigiu e o que permaneceu dúvida."
+    ],
+    "resumo": "Tomar Nota de Aulas e Entrevistas",
+    "blocos": [
+      {
+        "tipo": "html",
+        "html": "<h2>Tomar Nota de Aulas e Entrevistas</h2><p>Tomar nota é selecionar e organizar informações durante a escuta, considerando um objetivo. Não é copiar cada palavra nem registrar apenas a impressão pessoal. Título, data, fonte, tópicos e marcação de dúvidas ajudam a recuperar o conteúdo. Distinga informação dita, inferência sua e pergunta ainda aberta. Depois da escuta, reorganize as notas antes de produzir uma síntese.</p><h3>Exemplo comentado</h3><p>Fala autoral para leitura pelo professor: “Na troca de livros, cada pessoa poderá trazer até dois exemplares. A equipe verificará o estado de conservação. A organização proposta é por tema, mas essa classificação ainda será discutida. O encontro-modelo ocorrerá no pátio, numa data a combinar”. Notas possíveis: até dois; conferir estado; tema em debate; pátio; data indefinida. Escrever terça-feira inventaria um dado.</p><h3>Produza e revise</h3><p>Um colega ou professor lê a fala duas vezes, sem você consultar o texto durante a primeira escuta. Tome notas para orientar um participante. Compare-as com o original após a segunda leitura e produza uma síntese com regra, local e pendências. Marque o que você corrigiu e o que permaneceu dúvida.</p>"
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "tomar_nota.aplicacao",
+      "tipo": "multipla_escolha",
+      "enunciado": "Qual nota preserva o limite da fala-modelo?",
+      "alternativas": [
+        "Data ainda a combinar.",
+        "Terça-feira confirmada.",
+        "Livros sem limite.",
+        "Tema já decidido por votação."
+      ],
+      "correta": 0,
+      "explicacao": "Fala autoral para leitura pelo professor: “Na troca de livros, cada pessoa poderá trazer até dois exemplares. A equipe verificará o estado de conservação. A organização proposta é por tema, mas essa classificação ainda será discutida. O encontro-modelo ocorrerá no pátio, numa data a combinar”. Notas possíveis: até dois; conferir estado; tema em debate; pátio; data indefinida. Escrever terça-feira inventaria um dado.",
+      "bncc": [
+        "EF67LP24"
+      ]
+    },
+    {
+      "id": "tomar_nota.producao",
+      "tipo": "discursiva",
+      "enunciado": "Um colega ou professor lê a fala duas vezes, sem você consultar o texto durante a primeira escuta. Tome notas para orientar um participante. Compare-as com o original após a segunda leitura e produza uma síntese com regra, local e pendências. Marque o que você corrigiu e o que permaneceu dúvida.",
+      "gabarito": "Exigir notas da escuta, síntese e comparação. Deve preservar limite de dois, conservação, organização ainda discutida, pátio e data indefinida. Se houver necessidade de suporte escrito acessível, registrar a adaptação sem fingir escuta sem apoio.",
+      "rubrica": [
+        "Identificar as relações de forma e sentido solicitadas.",
+        "Exigir notas da escuta, síntese e comparação. Deve preservar limite de dois, conservação, organização ainda discutida, pátio e data indefinida. Se houver necessidade de suporte escrito acessível, registrar a adaptação sem fingir escuta sem apoio.",
+        "Explicar escolhas e registrar revisão quando solicitada."
+      ],
+      "bncc": [
+        "EF67LP24"
+      ]
+    }
+  ],
+  "areas": [
+    "linguagens",
+    "lingua_portuguesa"
+  ],
+  "tags": [
+    "leitura",
+    "contexto"
+  ],
+  "fontes": [
+    {
+      "documento": "BNCC_EI_EF_110518_versaofinal_site.pdf",
+      "paginasPdf": [
+        169,
+        170,
+        171,
+        173
+      ],
+      "paginasImpressas": "167–169,171",
+      "uso": "Referência curricular diretamente consultada para habilidades EF67. Habilidades EF69 confrontadas com data/bncc/lip.json; recortes com homologação docente pendente."
+    },
+    {
+      "documento": "Textos autorais incorporados à unidade",
+      "uso": "Conto, poema, cena, falas-modelo e regulamento são criações didáticas identificadas; o regulamento não é lei. Produções e interações exigem execução real."
+    }
+  ],
+  "metadados": {
+    "versao": 1,
+    "revisado": false,
+    "autor": "produção autoral assistida",
+    "estado": "piloto",
+    "revisao": "Conferência conceitual assistida; aplicação e homologação docente pendentes."
+  },
+  "complementar": false,
+  "preRequisitos": [],
+  "proximosPassos": []
+}
